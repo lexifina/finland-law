@@ -1,0 +1,2 @@
+Laki laivanisännistöyhtiön ja laivanisännän verottamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
