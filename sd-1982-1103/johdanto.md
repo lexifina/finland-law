@@ -1,0 +1,2 @@
+Maatalouden investointivarauslaki
+Eduskunnan päätöksen mukaisesti säädetään:

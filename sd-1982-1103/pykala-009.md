@@ -1,0 +1,3 @@
+# 9 §
+
+Jos verovelvollinen ei ole käyttänyt investointivarausta tai sitä ei ole luettu verovelvollisen veronalaiseksi tuloksi 6 §:ssä säädetyn määräajan kuluessa, luetaan käyttämättä tai tuloksi lukematta jätetty investointivarauksen määrä verovelvollisen maatalouden veronalaiseksi tuloksi siltä verovuodelta, jonka kuluessa investointivaraus viimeistään olisi pitänyt käyttää. Maatalouden harjoittamisen lopettaneen verovelvollisen käyttämättömät investointivaraukset luetaan sen verovuoden veronalaiseksi tuloksi, jona hänen todetaan lopettaneen maatalouden harjoittamisen. Varausta ei kuitenkaan lueta tuloksi verovelvollisen kuoleman johdosta, jos hänen jakamaton kuolinpesänsä jatkaa maatalouden harjoittamista.
