@@ -1,0 +1,2 @@
+Laki Hallinnon kehittämiskeskuksen muuttamisesta osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
