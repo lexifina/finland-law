@@ -1,0 +1,2 @@
+Laki valtioneuvoston oikeudesta luovuttaa Valtion tietokonekeskuksen hallinnassa oleva omaisuus perustettavalle valtionyhtiölle
+Eduskunnan päätöksen mukaisesti säädetään:
