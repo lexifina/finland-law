@@ -1,0 +1,2 @@
+Vuoden 2005 varallisuusveroasteikkolaki
+Eduskunnan päätöksen mukaisesti säädetään:
