@@ -1,7 +1,7 @@
 # 3 § Työsopimus
 Luku: 1 luku Yleiset säännökset
 
-Alle 15-vuotiaan puolesta työsopimuksen voi tehdä huoltaja tai huoltajan antamalla luvalla nuori henkilö itse.
+Viisitoista vuotta täyttänyt saa työntekijänä itse tehdä sekä irtisanoa ja purkaa työsopimuksensa. Alle 15-vuotiaan puolesta työsopimuksen voi tehdä huoltaja tai huoltajan antamalla luvalla nuori henkilö itse.
 
 Huoltajalla on oikeus purkaa nuoren työntekijän työsopimus, jos purkaminen on tarpeellista tämän kasvatuksen, kehityksen tai terveyden takia.
 
