@@ -1,0 +1,7 @@
+# 2 §
+
+Tämä laki tulee voimaan asetuksella säädettävänä ajankohtana.
+
+Niin kauan kuin kansainvälisen korvausrahaston perustamisesta tehty vuoden 1971 kansainvälinen yleissopimus (SopS 80/80) on Suomen osalta voimassa, öljyvahingosta johtuvaan vastuuseen sovelletaan kuitenkin öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamista koskevan vuoden 1971 kansainvälisen yleissopimuksen muuttamisesta tehdyn vuoden 1992 pöytäkirjan eräiden määräysten hyväksymisestä ja soveltamisesta annetun lain (424/96), jäljempänä uusi rahastolaki, säännösten lisäksi tai niiden asemasta edelleen vanhaa rahastolakia 3 momentissa tarkoitetuissa tapauksissa ja siinä säädetyin edellytyksin.
+
+Edellä 2 momentissa tarkoitetun siirtymäkauden aikana uudessa rahastolaissa tarkoitettu kansainvälinen korvausrahasto on velvollinen maksamaan korvausta öljyvahingosta ainoastaan, jos siitä ei ole suoritettu täyttä korvausta aluksista aiheutuvista öljyvahingoista johtuvasta vastuusta annetun lain (401/80), jäljempänä öljyvahinkovastuulaki, mukaan tai vanhan rahastolain taikka merilain 10 luvun (421/96) säännösten mukaan. Öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamista koskevan vuoden 1971 kansainvälisen yleissopimuksen muuttamisesta tehdyn vuoden 1992 pöytäkirjan 4 artiklan mukaisen korvauksen suuruuden määräämisessä on tällöin otettava huomioon ne korvausmäärät, jotka on suoritettu öljyvahinkovastuulain mukaan ja jotka on suoritettu tai olisi voitu suorittaa vanhan rahastolain mukaan.
