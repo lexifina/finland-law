@@ -1,0 +1,2 @@
+Laki taisteluvälineiden siviilihenkilöille aiheuttamien tapaturmien korvaamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
