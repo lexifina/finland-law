@@ -1,0 +1,2 @@
+Laki eräiden entisen Jugoslavian kansalaisten tekemien turvapaikkahakemusten poikkeuskäsittelystä
+Eduskunnan päätöksen mukaisesti säädetään:
