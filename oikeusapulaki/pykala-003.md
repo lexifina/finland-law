@@ -1,0 +1,8 @@
+# 3 § Oikeusavun taloudelliset edellytykset
+Luku: 1 luku Oikeusavun sisältö
+
+Oikeusapua annetaan hakemuksesta korvauksetta tai omavastuuosuutta vastaan hakijan taloudellisen aseman perusteella. Hakijan taloudellinen asema arvioidaan tekemällä laskelma hänen kuukausittain käytettävissään olevista varoista (käyttövara). Laskelma laaditaan hakijan ja hänen aviopuolisonsa tai hänen kanssaan avioliitonomaisissa olosuhteissa elävän kuukausittaisten tulojen, välttämättömien menojen, varallisuuden ja elatusvelvollisuuden perusteella.
+
+Oikeusapua annetaan henkilölle, jonka käyttövara ei ylitä valtioneuvoston asetuksella tarkemmin vahvistettavaa määrää. Valtioneuvoston asetuksella säädetään tarkemmin huomioon otettavista tuloista ja menoista sekä varallisuuden ja elatusvelvollisuuden vaikutuksesta käyttövaraa laskettaessa sekä niistä perusteista, joita noudatetaan määrättäessä oikeusapua saaneen omavastuuosuus. Vähäisestä oikeudellisesta neuvosta ei peritä omavastuuosuutta.
+
+Oikeusapua ei anneta, jos hakijalla on kysymyksessä olevan asian kattava oikeusturvavakuutus. Tuomioistuimessa käsiteltävänä olevassa asiassa oikeusapua voidaan kuitenkin myöntää siltä osin kuin kustannukset ylittävät vakuutusyhtiön korvausvelvollisuuden ylärajaksi vakuutussopimuksessa määritellyn enimmäiskorvausmäärän, jos siihen on erityisiä syitä ottaen huomioon oikeusavun saajan oikeusturvan tarve ja asian laatu ja laajuus. Oikeusapupäätöksessä on asetettava enimmäistuntimäärä avustajalle korvattaville toimenpiteille. Jos hakija on taloudellisen asemansa perusteella oikeutettu oikeusapuun korvauksetta, oikeusapu voidaan kuitenkin myöntää myös vakuutuksen omavastuuosuuden kattamiseen.
