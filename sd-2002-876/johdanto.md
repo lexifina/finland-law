@@ -1,0 +1,2 @@
+Laki Pohjoismaiden välillä tehdyn eräiden kansalaisuutta koskevien määräysten voimaansaattamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
