@@ -1,0 +1,2 @@
+Merensuojelulaki
+Eduskunnan päätöksen mukaisesti säädetään:
