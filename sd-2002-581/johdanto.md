@@ -1,0 +1,2 @@
+Laki toisessa Euroopan unionin jäsenvaltiossa alkaneen maksukyvyttömyysmenettelyn kuuluttamisesta ja rekisteriin merkitsemisestä
+Eduskunnan päätöksen mukaisesti säädetään:
