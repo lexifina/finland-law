@@ -1,0 +1,2 @@
+Laki lahjontaa koskevan Euroopan neuvoston siviilioikeudellisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
