@@ -1,0 +1,2 @@
+Laki yksityisen työnantajan kansaneläkemaksun poikkeuksellisesta alentamisesta vuonna 1991
+Eduskunnan päätöksen mukaisesti säädetään:
