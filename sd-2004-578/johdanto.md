@@ -1,0 +1,2 @@
+Laki biologista monimuotoisuutta koskevaan yleissopimukseen liittyvän Cartagenan bioturvallisuuspöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
