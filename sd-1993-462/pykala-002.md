@@ -1,0 +1,3 @@
+# 2 §
+
+Poiketen siitä, mitä elinkeinotulon verottamisesta annetun lain 34 §:n 2 momentin 1 kohdassa säädetään, verovelvollisen tehtaana tai työpajana käyttämästä rakennuksesta verovuosina 1993 ja 1994 tehtävien poistojen suuruus saa olla enintään 14 prosenttia rakennuksen poistamatta olevasta hankintamenosta. Edellytyksenä korotetun poiston tekemiselle on, että rakennuksen rakentaminen on aloitettu 1 päivänä tammikuuta 1993 tai sen jälkeen. Jos käyttöomaisuuteen kuuluvaa rakennusta käytetään vain osittain tuotannollisessa toiminnassa, poiston saa tehdä tuotannollista käyttöä vastaavasta osasta rakennuksen hankintamenoa.
