@@ -1,0 +1,8 @@
+# 4 § Työntekijän henkilötietojen keräämisen yleiset edellytykset ja työnantajan tiedonantovelvollisuus
+Luku: 2 luku Henkilötietojen käsittelyn yleiset edellytykset
+
+Työnantajan on kerättävä työntekijää koskevat henkilötiedot ensi sijassa työntekijältä itseltään. Jos työnantaja kerää henkilötietoja muualta kuin työntekijältä itseltään, työntekijältä on hankittava suostumus tietojen keräämiseen. Suostumus ei kuitenkaan ole tarpeen silloin, kun viranomainen luovuttaa tietoja työnantajalle tämän laissa säädetyn tehtävän suorittamiseksi tai kun työnantaja hankkii henkilöluottotietoja tai rikosrekisteritietoja työntekijän luotettavuuden selvittämiseksi.
+
+Työnantajan on ilmoitettava työntekijälle etukäteen tätä koskevien tietojen hankkimisesta luotettavuuden selvittämistä varten. Jos työntekijää koskevia tietoja on kerätty muualta kuin työntekijältä itseltään, työnantajan on ilmoitettava työntekijälle saamistaan tiedoista ennen kuin niitä käytetään työntekijää koskevassa päätöksenteossa. Työnantajan tiedonantovelvollisuudesta ja työntekijän oikeudesta tarkastaa itseään koskevia henkilötietoja on lisäksi voimassa, mitä siitä muualla laissa säädetään.
+
+Henkilötietojen kerääminen työhön otettaessa ja työsuhteen aikana kuuluu yhteistoiminnasta yrityksissä annetussa laissa (725/1978) sekä yhteistoiminnasta valtion virastoissa ja laitoksissa annetussa laissa (651/1988) tarkoitetun yhteistoimintamenettelyn piiriin.
