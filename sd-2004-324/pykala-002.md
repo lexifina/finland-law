@@ -1,0 +1,3 @@
+# 2 §
+
+Määrän, jonka lisärahasto on maksanut korvauksena vuoden 2003 rahastopöytäkirjan 4 artiklan 1 kohdan nojalla, saa lisärahasto vaatia takaisin merilain (674/1994) 10 luvun 4 §:ssä tarkoitetuilta henkilöiltä vain siinä säädettyjen edellytysten täyttyessä ja öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamisesta vuonna 1992 tehdyssä kansainvälisessä yleissopimuksessa (SopS 42/1996) tarkoitetulta rahastolta yleissopimuksessa määrättyjen edellytysten täyttyessä. Muutoin lisärahasto saa vaatia takaisin maksetun korvauksen muulta kuin aluksen omistajalta tai tämän takaajalta taikka vuoden 1992 yleissopimuksessa tarkoitetulta rahastolta vain vakuutussopimuslain (543/1994) 75 §:n 1 momentissa tarkoitetuissa tapauksissa.

@@ -1,0 +1,2 @@
+Laki öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamisesta vuonna 1992 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 2003 pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
