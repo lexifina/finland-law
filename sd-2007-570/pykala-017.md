@@ -1,7 +1,7 @@
-# 17 § Alle 16-vuotiaan vammaistuen hakeminen ja ilmoitusvelvollisuus
+# 17 § Lapsen vammaistuen hakeminen ja ilmoitusvelvollisuus
 Luku: 3 luku Toimeenpano
 
-Alle 16-vuotiaan vammaistukihakemuksessa on ilmoitettava:
+Lapsen vammaistuen hakemuksessa on ilmoitettava:
 1) hakijan ja lapsen henkilöllisyystiedot;
 2) lapsen Suomessa ja ulkomailla asumat ajat;
 3) tiedot lapsen terveydentilasta ja kuntoutustoimenpiteistä ja sidonnaisuudesta;
@@ -9,7 +9,7 @@ Alle 16-vuotiaan vammaistukihakemuksessa on ilmoitettava:
 5) tiedot lasta hoitaneista lääkäreistä ja laitoksista; sekä
 6) tiedot 12 §:ssä mainituista etuuksista ja korvauksista, joita lapsi saa tai hakee.
 
-Alle 16-vuotiaan vammaistukea saavan lapsen edunvalvojan, huoltajan tai muun alle 16-vuotiaan vammaistukea 15 §:n 2 momentin mukaan hakemaan oikeutetun henkilön on ilmoitettava:
+Lapsen vammaistukea saavan lapsen edunvalvojan, huoltajan tai muun lapsen vammaistukea 15 §:n 2 momentin mukaan hakemaan oikeutetun henkilön on ilmoitettava:
 1) lapsen tai hänen huoltajansa osoitteen muutoksesta, ulkomaille muutosta ja Suomeen paluusta;
 2) lapsen terveydentilan olennaisesta muuttumisesta sekä hoidosta, huolenpidosta tai kuntoutuksesta aiheutuvan rasituksen ja sidonnaisuuden määrän merkittävästä vähentymisestä;
 4) lapsen huoltajan vaihtumisesta; sekä

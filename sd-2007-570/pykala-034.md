@@ -9,4 +9,4 @@ Takaisin perittävä määrä voidaan kuitata Kansaneläkelaitoksen myöhemmin m
 
 Takaisinperintää koskeva lainvoimainen päätös saadaan panna täytäntöön kuten lainvoimainen tuomio.
 
-Liikaa maksettu alle 16-vuotiaan vammaistuki peritään takaisin lapsen edunvalvojalta tai siltä, jolle se on maksettu.
+Liikaa maksettu lapsen vammaistuki peritään takaisin lapsen edunvalvojalta tai siltä, jolle se on maksettu.

@@ -1,7 +1,7 @@
-# 8 § 16 vuotta täyttäneen vammaistuki
+# 8 § Aikuisen vammaistuki
 Luku: 2 luku Vammaisetuudet
 
-Oikeus vammaistukeen on 16 vuotta täyttäneellä henkilöllä, jonka toimintakyvyn arvioidaan olevan sairauden, vian tai vamman vuoksi yhtäjaksoisesti heikentynyt vähintään vuoden ajan. Lisäksi edellytetään, että henkilön sairaudesta, viasta tai vammasta aiheutuu haittaa, avuntarvetta tai ohjauksen ja valvonnan tarvetta. Henkilön sairaudesta, viasta tai vammasta aiheutuvat erityiskustannukset vaikuttavat tuen myöntämiseen siten kuin 10 §:ssä säädetään.
+Oikeus vammaistukeen on 18 vuotta täyttäneellä henkilöllä, jonka toimintakyvyn arvioidaan olevan sairauden, vian tai vamman vuoksi yhtäjaksoisesti heikentynyt vähintään vuoden ajan. Lisäksi edellytetään, että henkilön sairaudesta, viasta tai vammasta aiheutuu haittaa, avuntarvetta tai ohjauksen ja valvonnan tarvetta. Henkilön sairaudesta, viasta tai vammasta aiheutuvien erityiskustannusten vaikutuksesta tuen myöntämiseen säädetään 10 §:ssä.
 
 Vammaistukena myönnetään:
 1) perusvammaistukea 74,19 euroa kuukaudessa, jos henkilön sairaudesta, viasta tai vammasta aiheutuu olennaista haittaa;

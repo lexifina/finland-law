@@ -1,7 +1,7 @@
 # 9 § Eläkettä saavan hoitotuki
 Luku: 2 luku Vammaisetuudet
 
-Oikeus hoitotukeen on 16 vuotta täyttäneellä henkilöllä, joka saa:
+Oikeus hoitotukeen on 18 vuotta täyttäneellä henkilöllä, joka saa:
 1) kansaneläkelain (568/2007) perusteella työkyvyttömyyseläkettä, vanhuuseläkettä tai vanhuuseläkettä varhennettuna;
 2) työntekijän eläkelain (395/2006) 3 §:ssä mainittujen lakien, kansanedustajan eläkkeestä ja sopeutumisrahasta annetun lain (329/1967) tai valtioneuvoston jäsenen oikeudesta eläkkeeseen ja hänen jälkeensä suoritettavasta perhe-eläkkeestä annetun lain (870/1977) mukaista täyttä työkyvyttömyyseläkettä, työuraeläkettä, vanhuuseläkettä tai varhennettua vanhuuseläkettä;
 3) takuueläkkeestä annetun lain (703/2010) mukaista takuueläkettä;

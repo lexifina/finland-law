@@ -5,9 +5,9 @@ Vammaisetuus lakkaa sitä seuraavan kuukauden alusta, jona:
 1) etuudensaajan terveydentilassa, hoidon, huolenpidon tai kuntoutuksen tarpeessa, toimintakyvyssä, erityiskustannuksissa tai muissa olosuhteissa on tapahtunut sellainen muutos, jonka vuoksi oikeutta etuuteen ei enää ole; tai
 2) etuudensaajaa ei enää pidetä Suomessa asuvana.
 
-Alle 16-vuotiaan vammaistuki lakkaa viimeistään sitä seuraavan kuukauden alusta, kun lapsi täyttää 16 vuotta.
+Lapsen vammaistuki lakkaa viimeistään sitä seuraavan kuukauden alusta, kun lapsi täyttää 18 vuotta.
 
-Vammaistuki, joka on myönnetty 16 vuotta täyttäneelle, lakkaa sen kuukauden alusta, jona sen saajalle myönnetään 9 §:n 1 momentissa tarkoitettu eläke tai etuus tai lakkaa sen kuukauden lopusta, jona 9 §:n 1 momentin 4 b kohdassa tarkoitettua leskeneläkettä saava täyttää kansaneläkelain 10 §:n mukaisen vanhuuseläkeiän.
+Aikuisen vammaistuki lakkaa sen kuukauden alusta, jona sen saajalle myönnetään 9 §:n 1 momentissa tarkoitettu eläke tai etuus tai lakkaa sen kuukauden lopusta, jona 9 §:n 1 momentin 4 b kohdassa tarkoitettua leskeneläkettä saava täyttää kansaneläkelain 10 §:n mukaisen vanhuuseläkeiän.
 
 Veteraanilisä lakkaa sen kuukauden alusta, jona sen saajalle ei enää makseta korotettua tai ylintä hoitotukea taikka ylimääräistä rintamalisää.
 
