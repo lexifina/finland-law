@@ -1,0 +1,9 @@
+# 1 §
+
+Sen estämättä, mitä opetus- ja kulttuuritoimen rahoituksesta annetussa laissa (705/92) sekä valtionosuutta saavista liikunnan koulutuskeskuksista annetussa laissa (801/92) säädetään valtionosuuden laskennallisen perusteen määräytymisestä, vuoden 1994 yksikköhintojen keskimääräiset markkamäärät ja yksikköhinnat vahvistetaan, ammatillisia oppilaitoksia lukuun ottamatta, keskimäärin 8,5 prosenttia alemmiksi kuin vuodelle 1993 vahvistetut markkamäärät vuoden 1994 arvioituun kustannustasoon muutettuina.
+
+Ammatillisten oppilaitosten osalta 1 momentissa säädettyä valtionosuuden laskennallisen perusteen alentamista suuruudeltaan vastaava alennus tehdään opetus- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta annetun lain (718/93) mukaan lasketuista ja vuoden 1994 arvioituun kustannustasoon muutetuista yksikköhintojen keskimääräisistä markkamääristä, yksikköhinnoista ja mainitun lain voimaantulosäännöksen 2 ja 3 momentin mukaisista yksikköhinnan sijasta sovellettavista markkamääristä. Ammatillisten erikoisoppilaitosten yksikköhinta vahvistetaan vuoden 1994 arvioituun kustannustasoon muutettuna 8,5 prosenttia alemmaksi kuin mitä opetus- ja kulttuuritoimen rahoituksesta annetun lain muuttamisesta annetussa laissa (1454/93) säädetään.
+
+Mitä 1 ja 2 momentissa säädetään, ei koske kuitenkaan ammatillisia erityisoppilaitoksia eikä sitä osaa yksikköhinnasta, joka perustuu opetus- ja kulttuuritoimen rahoituksesta annetun lain 14 §:n 2 momenttiin ja 16 §:n 2 momenttiin sekä 2 momentissa mainitun lain voimaantulosäännöksen 6 momenttiin.
+
+Kansanopistoissa järjestettävän koulutuksen yksikköhinta vahvistetaan vuoden 1994 arvioituun kustannustasoon muutettuna 10,5 prosenttia alemmaksi kuin mitä valtionosuutta saavista kansanopistoista annetussa laissa (1218/93) säädetään ja opintokeskuksissa järjestettävän koulutuksen yksikköhinta vastaavasti 8,5 prosenttia alemmaksi kuin mitä opintokeskuslaissa (1215/93) säädetään.
