@@ -1,0 +1,2 @@
+Laki vapaaehtoisista huutokaupoista annetun asetuksen ja lähempiä määräyksiähuutokaupantoimittajan-ammatin harjoittamisesta kaupungissa sisältävän julistuksenkumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
