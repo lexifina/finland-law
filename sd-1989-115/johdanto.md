@@ -1,0 +1,2 @@
+Laki Oulangan kansallispuiston laajentamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
