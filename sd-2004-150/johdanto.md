@@ -1,0 +1,2 @@
+Laki vapautensa menettäneen henkilön väliaikaisesta siirtämisestä todistelutarkoituksessa rikosasioissa
+Eduskunnan päätöksen mukaisesti säädetään:
