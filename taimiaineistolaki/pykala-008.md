@@ -5,4 +5,4 @@ Valvontaviranomaisilla ja valtuutetuilla tarkastajilla on oikeus valvontaa varte
 
 Valvontaviranomaisilla ja valtuutetuilla tarkastajilla on oikeus saada tässä laissa tarkoitettua tarkastusta ja valvontaa varten tarpeelliset tiedot ja asiakirjat taimiaineiston toimittajalta.
 
-Poliisi-, tulli- ja paloviranomaiset ovat velvollisia tämän lain mukaisten valvontaviranomaisten pyynnöstä antamaan valvontaviranomaisille virka-apua tämän lain ja sen nojalla annettujen säännösten ja määräysten mukaisten tehtävien suorittamisessa.
+Poliisi-, tulli- ja pelastusviranomaiset ovat velvollisia tämän lain mukaisten valvontaviranomaisten pyynnöstä antamaan valvontaviranomaisille virka-apua tämän lain ja sen nojalla annettujen säännösten ja määräysten mukaisten tehtävien suorittamisessa.
