@@ -8,4 +8,4 @@ Oikeusavun hakija ohjataan toisen oikeusaputoimiston tai yksityisen avustajan pu
 4) siinä oikeusaputoimistossa, jonka puoleen hakija on kääntynyt, ei kyetä tarjoamaan palveluja hakijan omalla kielellä suomeksi tai ruotsiksi;
 5) siihen on muu kuin 1–4 kohdassa tarkoitettu perusteltu syy.
 
-Muussa kuin tuomioistuimessa käsiteltävässä asiassa hakija ohjataan 1 momentin mukaisissa tilanteissa toiseen oikeusaputoimistoon, jos lähin oikeusaputoimisto on kohtuullisen asiointimatkan päässä. Muussa tapauksessa hakija ohjataan yksityisen avustajan puoleen.
+Muussa kuin tuomioistuimessa käsiteltävässä asiassa hakija ohjataan 1 momentissa tarkoitetuissa tilanteissa toiseen oikeusaputoimistoon, jos oikeusaputoimisto on kohtuullisen asiointimatkan päässä tai asiakkaalla on mahdollisuus asioida etäyhteyksien avulla. Muussa tapauksessa hakija ohjataan kirjallisesti yksityisen avustajan puoleen.
