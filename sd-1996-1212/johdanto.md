@@ -1,0 +1,2 @@
+Laki työntekijäin työeläkemaksun ja työttömyysvakuutusmaksun huomioon ottamisesta eräissäpäivärahoissa
+Eduskunnan päätöksen mukaisesti säädetään:
