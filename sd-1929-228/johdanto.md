@@ -1,0 +1,2 @@
+Laki varallisuusoikeudellisista oikeustoimista
+Eduskunnan päätöksen mukaisesti säädetään täten varallisuusoikeudellisten sopimusten tekemisestä, valtuutuksesta varallisuusoikeudellisiin oikeustoimiin ja sellaisten oikeustointen pätemättömyydestä seuraavaa:
