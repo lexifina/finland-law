@@ -1,0 +1,2 @@
+Laki valtakunnanoikeudesta ja ministerivastuuasioiden käsittelystä
+Eduskunnan päätöksen mukaisesti säädetään:
