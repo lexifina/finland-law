@@ -1,0 +1,2 @@
+Laki teollisuusammateissa olevain työntekijäin suojelemisesta annetun asetuksen kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
