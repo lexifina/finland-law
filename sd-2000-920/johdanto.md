@@ -1,0 +1,2 @@
+Laki ulkomaalaisten osallistumista julkiseen elämään paikallistasolla koskevan Euroopan neuvoston yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
