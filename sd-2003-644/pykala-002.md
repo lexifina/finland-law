@@ -1,0 +1,3 @@
+# 2 §
+
+Oikeus etuuteen on vanhemmalla, joka alle kolmivuotiaan lapsensa hoitamisen vuoksi on estynyt tekemästä ansiotyötä ja saa lasten kotihoidon ja yksityisen hoidon tuesta annetun lain (797/1992) mukaista tukea. Etuuden perusteena on 500 euroa kuukautta kohden, ei kuitenkaan ajalta, jolta vanhemmalla on oikeus työntekijäin eläkelain 6 a §:n 3 momentin tai sitä vastaavan muun 1 §:ssä säädetyn lain tai eläkesäännön mukaiseen jatkokarttumaan. Etuuteen on oikeus sillä vanhemmalla, joka on saanut vanhempainrahaa pitemmän ajan, jos vanhemmat eivät muuta ilmoita. Tarkemmat säännökset etuuden saamisesta annetaan valtioneuvoston asetuksella.

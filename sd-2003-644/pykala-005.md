@@ -1,0 +1,3 @@
+# 5 §
+
+Etuutta karttuu 1/8 prosenttia kalenterikuukautta kohden 2 ja 3 §:ssä mainitusta perusteesta. Etuuden laskee ja suorittaa 1 momentissa tarkoitetun lain mukaista eläketurvaa hoitava työntekijäin eläkelain 10 d §:n mukainen eläkelaitos myöntämänsä etuuden alkamishetkestä lukien, ei kuitenkaan aikaisemmasta ajankohdasta kuin siitä, jolloin eläkkeen hakija on suorittanut loppututkinnon tai valmistunut ammattiin tai 2 §:ssä tarkoitettu lapsi on täyttänyt kolme vuotta. Jos 1 momentissa tarkoitetun lain mukaista eläketurvaa hoitavia eläkelaitoksia on samanaikaisesti kaksi tai useampia, tämän lain mukaisen etuuden suorittaa se eläkelaitos, jossa eläketurva on järjestetty pääasiallisen ansiotyön perusteella.
