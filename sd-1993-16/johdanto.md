@@ -1,0 +1,2 @@
+Laki työsuojeluhallinnosta
+Eduskunnan päätöksen mukaisesti säädetään:
