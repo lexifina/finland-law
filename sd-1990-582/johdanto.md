@@ -1,0 +1,2 @@
+Laki Euroopan vapaakauppaliiton perustamista koskevan konvention muuttamisesta tehdyn päätöksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
