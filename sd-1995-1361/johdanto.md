@@ -1,0 +1,2 @@
+Laki vuodelta 1996 suoritettavasta sairausvakuutusmaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
