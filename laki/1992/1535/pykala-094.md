@@ -1,0 +1,9 @@
+# 94 § Moottorisaha- ja metsurivähennys
+Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
+
+Verovelvollisen, joka on käyttänyt moottorisahaa tai raivaussahaa puun kaadossa, puutavaran valmistamisessa, metsänraivaustyössä tai muussa metsänraivaustyöhön verrattavassa työssä, tällaisesta työstä saaman palkkatulon hankkimisesta tai säilyttämisestä johtuneeksi menoksi katsotaan sahan käytöstä aiheutuneina kustannuksina 30 prosenttia tai verovelvollisen vaatimuksesta 40 prosenttia edellä tarkoitetun palkkatulon määrästä. Kahden henkilön työryhmän käyttäessä samaa sahaa mainittuina kustannuksina pidetään 20 prosenttia kummankin kyseisestä työstä saaman palkkatulon määrästä ja, jos työryhmään on kuulunut kolme henkilöä, 15 prosenttia kunkin kyseessä olevasta palkkatulosta. Verovelvollisen esittämän selvityksen perusteella palkkatulon hankkimisesta tai säilyttämisestä johtuneiksi menoiksi katsotaan edellä mainittuja suuremmat sahan käytöstä aiheutuneet todelliset menot.
+
+Verovelvollisen, joka on metsä- tai muussa ajossa käyttänyt hevosta ja ajovälineitä tai traktoria, palkkatulon hankkimisesta tai säilyttämisestä johtuneeksi menoksi katsotaan hevosen ja ajovälineiden tai traktorin käytöstä aiheutuneina kustannuksina 60 prosenttia metsäajosta ja 50 prosenttia muusta ajosta saadusta palkkatulosta. Verovelvollisen esittämän selvityksen perusteella palkkatulon hankkimisesta tai säilyttämisestä johtuneiksi menoiksi katsotaan edellä mainittuja suuremmat hevosen ja ajovälineiden tai traktorin käytöstä aiheutuneet todelliset menot.
+
+Verovelvollisen, jonka 1 momentissa tarkoitettu palkkatulo on vähintään yksi kolmasosa hänen tuloistaan, tämän palkkatulon hankkimisesta tai säilyttämisestä aiheutuneiksi menoiksi katsotaan lisäksi 5 prosenttia kyseisen palkkatulon määrästä, kuitenkin enintään 1 400 markkaa (metsurivähennys).

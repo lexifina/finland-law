@@ -1,0 +1,8 @@
+# 38 § Jaettavan yritystulon pääomatulo-osuus
+Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
+Luku: 2 luku Pääomatulon veronalaisuus
+Väliotsikko: Yritystulon pääomatulo-osuus
+
+Edellä 30 §:ssä tarkoitettu jaettava yritystulo katsotaan pääomatuloksi siihen määrään saakka, joka vastaa elinkeinotoimintaan tai maatalouteen verovuotta edeltäneen verovuoden päättyessä kuuluneelle nettovarallisuudelle laskettua 15 prosentin vuotuista tuottoa. Jos verovelvollinen on verovuonna aloittanut elinkeinotoiminnan tai maatalouden harjoittamisen, pääomatulo-osuus lasketaan elinkeinotoimintaan tai maatalouteen verovuoden päättyessä kuuluvan nettovarallisuuden perusteella.
+
+Jaettava yritystulo katsotaan nettovarallisuudesta riippumatta pääomatuloksi siihen määrään saakka, joka vastaa verovelvollisen omistamien maatalouden varoihin kuuluvien arvopapereiden sekä elinkeinotoiminnan käyttöomaisuuteen kuuluvien kiinteistöjen ja arvopapereiden luovutusvoittoja. Käyttöomaisuuteen kuuluvien kiinteistöjen ja arvopapereiden luovutusvoitolla tarkoitetaan luovutushinnan ja hankintamenon poistamattoman osan erotusta siltä osin kuin siitä ei ole muodostettu elinkeinotulon verottamisesta annetun lain 43 §:ssä tarkoitettua jälleenhankintavarausta.
