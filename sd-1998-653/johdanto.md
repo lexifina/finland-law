@@ -1,0 +1,2 @@
+Laki Euroopan sosiaalisen peruskirjan järjestökanteluja koskevan lisäpöytäkirjan eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
