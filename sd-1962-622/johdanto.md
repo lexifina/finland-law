@@ -1,0 +1,2 @@
+Laki luottoehdoista osamaksukaupassa
+Eduskunnan päätöksen mukaisesti säädetään:
