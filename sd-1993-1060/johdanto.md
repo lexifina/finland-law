@@ -1,0 +1,2 @@
+Laki oikeusturvavakuutuksen sopimusehdoista
+Eduskunnan päätöksen mukaisesti säädetään:
