@@ -1,0 +1,5 @@
+# 4 §
+
+Varhaiseläkkeen saamisen edellytyksenä on, että rintamaveteraani on varhaiseläkkeen alkamisajankohtaa välittömästi edeltäneiden viidentoista vuoden aikana vähintään kymmenenä kalenterivuotena ansainnut työntekijäin eläkelain (395/61) 8 §:n 4 momentissa mainittujen lakien, säännösten tai määräysten taikka merimieseläkelain (72/56) mukaista eläkettä ja että hänellä, jos hän olisi tullut työkyvyttömäksi mainittuna ajankohtana, olisi ollut oikeus saada työkyvyttömyyseläkettä, jonka määrää laskettaessa otettaisiin huomioon työntekijäin eläkelain 6 §:n 3 momentissa tai edellä mainituissa laeissa, säännöksissä tai määräyksissä tarkoitettu eläkeiän saavuttamiseen jäljellä oleva aika tai sitä vastaava ansio.
+
+Varhaiseläkkeen saamisen edellytyksenä on myös, että rintamaveteraani on luopunut 1 momentissa mainituissa laeissa, säännöksissä tai määräyksissä taikka kansanedustajain eläkelaissa (329/67) tarkoitetusta ansiotyöstä siinä määrin, että hänen jäljellä oleva työansionsa kuukaudessa voidaan arvioida keskimäärin enintään työntekijäin eläkelain 1 §:n 1 momentin 2 kohdassa tarkoitetuksi markkamääräksi.

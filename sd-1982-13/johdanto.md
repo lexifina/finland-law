@@ -1,0 +1,2 @@
+Laki rintamaveteraanien varhaiseläkkeestä
+Eduskunnan päätöksen mukaisesti säädetään:
