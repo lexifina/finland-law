@@ -1,0 +1,5 @@
+# 5§
+
+Vaatimus korvauksen saamisesta 1 §:n nojalla voidaan esittää siinä rikosasiassa, jonka vuoksi vahingon kärsinyt on ollut pidätettynä tai vangittuna.
+
+Jos syytettä ei ole nostettu tai korvausvaatimusta esitetty niin kuin 1 momentissa on sanottu taikka, kun vaatimus perustuu 3 §:ään, on kanne korvauksen saamisesta pantava vireille valtiota vastaan riita-asioista säädetyssä järjestyksessä siinä tuomioistuimessa, jossa syyte korvausvaatimuksen tekijää vastaan olisi ollut käsiteltävä tai joka sitä käsitteli ensimmäisenä oikeusasteena, taikka siinä sotaoikeudessa, jonka tuomiopiirissä arestirangaistus määrättiin, tai jos korvaus vaaditaan sakon muuntorangaistuksen määräämisessä tapahtuneen virheen johdosta, siinä alioikeudessa, jossa muuntorangaistus määrättiin. Haastehakemus on toimitettava tuomioistuimeen tai sen kansliaan kuuden kuukauden kuluessa siitä päivästä, jona hakija sai tietää, ettei syytettä nosteta, tai jona syyte jätettiin sillensä tai asian uudessa käsittelyssä annettu tuomio sai lainvoiman.

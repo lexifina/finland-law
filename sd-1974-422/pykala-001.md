@@ -1,0 +1,3 @@
+# 1§
+
+Jos joku on vangittu rikoksesta epäiltynä ja esitutkinta lopetetaan nostamatta syytettä, syyte jätetään sikseen tai hylätään taikka jos joku on vangittu rikoksesta, vaikka laillisia vangitsemisen edellytyksiä ei ole ollut, hänellä on oikeus saada valtiolta korvaus siitä vapauden menetyksestä, joka hänelle on aiheutunut vangitsemisesta ja, mikäli hän vangittaessa oli pidätettynä, myös pidättämisestä. Mitä tässä on sanottu vangitun oikeudesta korvaukseen, sovelletaan myös siihen, joka rikoksesta epäiltynä on ollut pidätettynä yhtä vuorokautta kauemmin, vaikka pidättämisen edellytyksiä ei ole ollut. Jos pidättäminen on kestänyt yli säädetyn ajan, on pidätetyllä oikeus saada korvaus laillisen pidätysajan yli menevältä ajalta.

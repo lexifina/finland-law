@@ -1,0 +1,3 @@
+# 2§
+
+Milloin epäilty on yrittänyt paeta, muuten karttaa esitutkintaa tai oikeudenkäyntiä, hävittää todisteita taikka muulla tavoin vaikeuttaa asian selvittämistä, ei 1 §:ssä tarkoitettua korvausta makseta, ellei hänen käyttäytymistään mielenjärkytyksen, erehdyksen tai muun sellaisen syyn vuoksi voida katsoa anteeksiannettavaksi. Korvausta ei myöskään makseta, jos epäilty on valheellisella tunnustuksella tai muuten tahallisesti antanut aihetta siihen, että häntä on pidetty vangittuna tai pidätettynä, eikä muussakaan tapauksessa, milloin asianhaarat ovat sellaiset, että korvauksen maksamista ei olisi pidettävä kohtuullisena.
