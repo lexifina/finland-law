@@ -1,0 +1,2 @@
+Laki kansainvälistä tavaran kauppaa koskevista sopimuksista tehdyn yleissopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
