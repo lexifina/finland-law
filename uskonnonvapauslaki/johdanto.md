@@ -1,0 +1,2 @@
+Uskonnonvapauslaki
+Eduskunnan päätöksen mukaisesti säädetään:
