@@ -1,0 +1,2 @@
+Palkkaturvalaki
+Eduskunnan päätöksen mukaisesti säädetään:
