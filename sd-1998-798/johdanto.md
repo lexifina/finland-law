@@ -1,0 +1,2 @@
+Laki työntekijäin eläkemaksun ja palkansaajan työttömyysvakuutusmaksun huomioon ottamisesta eräissä päivärahoissa
+Eduskunnan päätöksen mukaisesti säädetään:
