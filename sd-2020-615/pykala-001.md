@@ -2,7 +2,7 @@
 
 Tätä lakia sovelletaan, jollei muualla laissa toisin säädetä, henkilötietojen kokonaan tai osittain automatisoituun käsittelyyn sekä muuhun henkilötietojen käsittelyyn, kun henkilötiedot muodostavat tai niiden on tarkoitus muodostaa henkilörekisteri tai sen osa ja henkilötietoja käsitellään seuraavissa tarkoituksissa:
 1) ulkomaalaisen maahantuloa ja maastalähtöä sekä oleskelua koskevien asioiden käsittely sekä niitä koskeva päätöksenteko ja valvonta;
-2) Suomen kansalaisuuden saamista, säilyttämistä, menettämistä ja kansalaisuudesta vapautumista sekä kansalaisuusaseman määrittämistä koskevien asioiden käsittely ja päätöksenteko;
+2) Suomen kansalaisuuden saamista, säilyttämistä, menettämistä ja kansalaisuudesta vapautumista sekä kansalaisuusaseman määrittämistä koskevien asioiden käsittely ja päätöksenteko sekä kansalaisuuskokeen yleinen hallinto ja valvonta;
 3) kansainvälistä suojelua hakevan ja tilapäistä suojelua saavan vastaanotto, ihmiskaupan uhrien auttaminen, seulottavan henkilön majoituksen ja alustavan terveystarkastuksen järjestäminen sekä ilman huoltajaa olevan lapsen edustajatoiminta osana vastaanottotoimintaa sekä näiden ohjaus, suunnittelu ja valvonta;
 4) ulkomaalaisen sijoittaminen säilöönottoyksikköön, ulkomaalaisen kohtelu säilöönottoyksikössä sekä säilöönottoyksikön järjestyksen ja turvallisuuden ylläpitäminen;
 5) kuntapaikalle ohjaaminen sekä ilman huoltajaa olevan oleskeluluvan saaneen lapsen edustajatoiminta sekä näiden ohjaus, suunnittelu ja valvonta.
