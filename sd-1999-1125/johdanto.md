@@ -1,0 +1,2 @@
+Laki Kasvinjalostuslaitoksen muuttamisesta osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
