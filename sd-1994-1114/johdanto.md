@@ -1,0 +1,2 @@
+Laki ennakkoperinnän korotuksesta verotulojen tilityksissä
+Eduskunnan päätöksen mukaisesti säädetään:
