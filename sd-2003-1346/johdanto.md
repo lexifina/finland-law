@@ -1,0 +1,2 @@
+Laki elintarvikkeiden ja maatalouden kasvigeenivaroja koskevan kansainvälisen sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
