@@ -1,9 +1,11 @@
 # 3 §
 
-Kiinteistötoimitusmaksun määräämisen perusteina otetaan huomioon:
-1) toimituksen suorittamiseen osallistuneiden eri henkilökuntaryhmien keskimääräisestä palkkauksesta aiheutuneet kustannukset toimituksen suorittamiseen käytetyn työajan mukaan laskettuna (työaikakorvaus); ja
-2) maanmittaustoimistolle tai kunnalle ai-heutuneista muista kustannuksista asetuksessa tai 4 §:ssä tarkoitetussa kiinteistötoimitusmaksutaksassa määrättävä osuus (yleiskustannuskorvaus).
+Kiinteistötoimitusmaksun suuruuden tulee vastata kiinteistötoimituksesta valtiolle tai kunnalle aiheutuvien kokonaiskustannusten määrää (omakustannusarvo). Samanlaatuisista toimituksista voidaan määrätä samansuuruinen maksu silloinkin, kun yksittäisten toimitusten suorittamisesta aiheutuvat kokonaiskustannukset poikkeavat toisistaan.
 
-Kiinteistötoimituksesta perittävä kiinteistötoimitusmaksu voidaan toimituslajeittain kokonaan tai osaksi määrätä toimituksista aiheutuvien keskimääräisten työaika- ja yleiskustannuskorvauksen perusteella (toimituskorvaus).
+Kiinteistötoimitusmaksu määrätään työkorvauksena tai toimituskorvauksena. Toimituksesta perittävä kiinteistötoimitusmaksu voidaan määrätä osaksi työkorvauksena ja osaksi toimituskorvauksena.
 
-Erityisestä syystä kiinteistötoimitusmaksu saadaan määrätä 1 momentissa säädettyjä maksuja alemmaksi.
+Työkorvaus määrätään toimituksen suorittamiseen käytetyn työajan, keskimääräisten palkkauskustannusten sekä, sen mukaan kuin valtioneuvoston asetuksella tarkemmin säädetään, toimituksen suorittamisesta maanmittauslaitokselle tai kunnalle aiheutuneiden muiden kustannusten perusteella.
+
+Toimituskorvaus määrätään toimituslajeittain samansuuruisena toimituksista aiheutuvien keskimääräisten kokonaiskustannusten perusteella.
+
+Erityisestä syystä kiinteistötoimitusmaksu saadaan jättää määräämättä tai määrätä edellä tässä pykälässä säädettyjä maksuja alemmaksi sen mukaan kuin valtioneuvoston asetuksella säädetään.

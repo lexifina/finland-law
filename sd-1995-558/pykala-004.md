@@ -1,3 +1,3 @@
 # 4 §
 
-Kunnan kiinteistörekisterin pitäjän määräämästä kiinteistötoimituksesta perittävä maksu tai sen laskentaperusteet samoin kuin kiinteistönmuodostamislain 18 luvussa tarkoitetuista toimenpiteistä perittävä maksu tai sen laskentaperusteet määrätään kiinteistötoimitusmaksutaksassa, josta päättää kunnanvaltuusto. Muusta toimituksesta tai toimenpiteestä perittävän maksun tai sen laskentaperusteet määrää maa- ja metsätalousministeriö.
+Maa- ja metsätalousministeriön asetuksella annetaan tarkempia säännöksiä 3 §:n perusteella määräytyvistä maksuista. Kiinteistötoimitusten, joihin toimitusmääräyksen antaa kunnan kiinteistörekisterin pitäjä, maksuista määrätään kuitenkin samoin perustein kiinteistötoimitusmaksutaksassa, josta päättää kunnanvaltuusto.

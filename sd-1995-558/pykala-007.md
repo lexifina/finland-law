@@ -4,7 +4,7 @@ Kiinteistönmuodostamislain 271 ja 272 §:ssä tarkoitetuista asiavirheen ja kir
 
 Kiinteistötoimitusmaksua ei myöskään määrätä:
 1) valtion tarvetta varten suoritetusta kiinteistötoimituksesta asetuksella säädettävissä tapauksissa, kun toimituksen on suorittanut valtion maanmittauslaitoksen palveluksessa oleva virkamies;
-2) uusjaosta siltä osin kuin siinä on tutkittu ja ratkaistu toimituksen edellytykset ja laajuus;
+2) uusjaosta siltä osin kuin siinä on tutkittu ja ratkaistu toimituksen edellytykset ja laajuus, eikä kysymyksessä ole kiinteistönmuodostamislain 68 §:n 2 momentissa tarkoitettu hankkeen toteuttajan hakemuksesta vireille tullut uusjako;
 3) toimituksista ja tehtävistä, joista aiheutuvien kustannusten suorittamisesta valtion tai kunnan varoilla on erikseen säädetty; eikä
 4) toimituksessa tai kiinteistörekisteriin merkitsemisessä sattuneen virheen selvittelyä tai korjaamista tarkoittavasta toimituksesta.
 
