@@ -5,6 +5,6 @@ Viisitoista vuotta täyttäneelle henkilölle on annettava vähintään 12 tunti
 
 Alle 15-vuotiaalle on annettava vähintään 14 tuntia kestävä keskeytymätön lepoaika vuorokaudessa.
 
-Kun alle 15-vuotiaan työaika vuorokaudessa on pidempi kuin neljä tuntia 30 minuuttia, hänelle on annettava työn aikana ainakin yksi vähintään 30 minuutin lepoaika, jonka aikana hän saa poistua työpaikalta. Jos työpaikalla noudatettavalla työ- tai virkaehtosopimuksen määräyksellä on sovittu päivittäisestä lepoajasta työaikalaista (604/46) poikkeavasti, saadaan tällaista lepoaikaa koskevaa sopimusmääräystä soveltaa myös nuoreen työntekijään.
+Kun nuoren työntekijän työaika vuorokaudessa on pidempi kuin neljä tuntia 30 minuuttia, hänelle on annettava työn aikana ainakin yksi vähintään 30 minuutin lepoaika, jonka aikana hän saa poistua työpaikalta. Jos työpaikalla noudatettavalla työ- tai virkaehtosopimuksen määräyksellä on sovittu päivittäisestä lepoajasta työaikalaista poikkeavasti, saadaan tällaista lepoaikaa koskevaa sopimusmääräystä soveltaa myös nuoreen työntekijään.
 
 Nuorelle työntekijälle on annettava vähintään 38 tuntia kestävä viikoittainen vapaa-aika keskeytymättömänä.
