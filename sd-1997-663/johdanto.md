@@ -1,0 +1,2 @@
+Laki Yliopistollisen Eurooppa-instituutin perustamisesta tehdyn yleissopimukseneräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
