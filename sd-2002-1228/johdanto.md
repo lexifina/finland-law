@@ -1,0 +1,2 @@
+Laki eräiden kansainvälistä ilmakuljetusta koskevien sääntöjen yhtenäistämisestä tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
