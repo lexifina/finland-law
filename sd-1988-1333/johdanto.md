@@ -1,0 +1,2 @@
+Laki otsonikerrosta heikentäviä aineita koskevan Montrealin pöytäkirjan eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
