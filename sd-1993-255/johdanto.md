@@ -1,0 +1,2 @@
+Laki eräiden valtion ammatillisten oppilaitosten luovuttamisesta Keski-Pohjanmaan ammatillisen koulutuksen kuntayhtymälle
+Eduskunnan päätöksen mukaisesti säädetään:
