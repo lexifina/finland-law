@@ -1,7 +1,5 @@
 # 9 § Salassapito sekä laiminlyönti- ja rangaistusseuraamukset
 
-Tämän lain mukaan käsiteltäviin asioihin ja asiakirjoihin liittyvästä salassapitovelvollisuudesta on voimassa, mitä ennakkoperintälain 61 §:ssä säädetään.
-
 Palkkatulon lähdeveron perimis- ja tilitysvelvollisuuden laiminlyömisestä johtuvista seuraamuksista sekä rangaistusseuraamuksista on voimassa, mitä ennakkoperintälain 22―28 §:ssä ja 61―63 §:ssä säädetään.
 
 Perimättä jätetty palkkatulon lähdevero voidaan maksuunpanna verovelvolliselle. Tällöin noudatetaan soveltuvin osin, mitä verotuksen oikaisusta ja muutoksenhausta on säädetty.
