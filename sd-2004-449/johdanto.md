@@ -1,0 +1,2 @@
+Laki kansainvälisen kaupan kohteina olevia tiettyjä vaarallisia kemikaaleja ja torjunta-aineita koskevan ilmoitetun ennakkosuostumuksen menettelystä tehdyn Rotterdamin yleissopimuk-sen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
