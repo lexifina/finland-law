@@ -1,0 +1,2 @@
+Laki Punkaharjun luonnonsuojelualueesta
+Eduskunnan päätöksen mukaisesti säädetään:
