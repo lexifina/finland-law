@@ -1,0 +1,2 @@
+Laki asevelvollisen kuoltua suoritettavasta taloudellisesta tuesta
+Eduskunnan päätöksen mukaisesti säädetään:
