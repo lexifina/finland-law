@@ -1,0 +1,2 @@
+Laki oikeudesta luovuttaa valtion kiinteistövarallisuutta
+Eduskunnan päätöksen mukaisesti säädetään:
