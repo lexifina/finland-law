@@ -1,0 +1,2 @@
+Laki tuotannollisten investointien väliaikaisesti korotetuista poistoista
+Eduskunnan päätöksen mukaisesti säädetään:
