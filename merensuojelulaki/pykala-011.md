@@ -6,4 +6,4 @@ Edellä 1 momentissa tarkoitettu Suomen ympäristökeskuksen lupa annetaan mää
 
 Lupaa koskevia tarkempia yleisiä määräyksiä annetaan valtioneuvoston päätöksellä. Ympäristöministeriön päätöksellä voidaan antaa tarkempia yleisiä määräyksiä kemikaaleista, joita käytetään merenpohjan tutkimisessa ja hyväksikäytössä.
 
-Jos 1 momentissa tarkoitettu, Suomen aluevesirajan ulkopuolella tapahtuva toiminta ulottuu myös Suomen aluevesille, lupaviranomaisena on koko hankkeen osalta vesioikeus. Lupamenettelystä ja muutoksenhausta on soveltuvin osin voimassa, mitä niistä vesilaissa säädetään.
+Jos 1 momentissa tarkoitettu, Suomen aluevesirajan ulkopuolella tapahtuva toiminta ulottuu myös Suomen aluevesille, lupaviranomaisena on koko hankkeen osalta ympäristölupavirasto. Lupamenettelystä ja muutoksenhausta on soveltuvin osin voimassa, mitä niistä vesilaissa säädetään.

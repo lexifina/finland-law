@@ -8,4 +8,4 @@ Valtioneuvoston päätöksellä annetaan tarkempia yleisiä määräyksiä täss
 
 Jos suomalainen alus on saanut toisen valtion viranomaiselta asianmukaisen luvan ruoppausmassan sijoittamiseen alueelle, jolla kyseinen valtio kansainvälisen oikeuden perusteella käyttää lainkäyttövaltaa, ei suomalaisen viranomaisen lupaa vaadita. Tällainen toimi ei kuitenkaan saa olla Suomea velvoittavan kansainvälisen sopimuksen vastainen.
 
-Jos 1 momentissa tarkoitettu, Suomen aluevesien ulkopuolella tapahtuva ruoppausmassan sijoittaminen tai sen vaikutukset ulottuvat myös Suomen aluevesille, lupaviranomaisena on koko hankkeen osalta vesioikeus. Lupamenettelystä ja muutoksenhausta on soveltuvin osin voimassa, mitä niistä vesilaissa säädetään.
+Jos 1 momentissa tarkoitettu, Suomen aluevesien ulkopuolella tapahtuva ruoppausmassan sijoittaminen tai sen vaikutukset ulottuvat myös Suomen aluevesille, lupaviranomaisena on koko hankkeen osalta ympäristölupavirasto. Lupamenettelystä ja muutoksenhausta on soveltuvin osin voimassa, mitä niistä vesilaissa säädetään.
