@@ -1,0 +1,8 @@
+# 47 § Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan henkilöstöä koskevat erityiset säännökset
+Luku: 3 luku Rahapelien toimeenpano
+
+Yksinoikeustoimiluvanhaltijalla ja rahapelitoimiluvanhaltijalla on oltava säännöt siitä, ketkä työntekijät eivät saa osallistua toimiluvanhaltijan toimeenpanemiin rahapeleihin. Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan on varmistettava, etteivät työntekijät osallistu kyseisiin rahapeleihin. Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan on pyydettäessä esitettävä säännöt valvontaviranomaiselle.
+
+Pelikasinon palveluksessa oleva ei saa osallistua pelikasinossa toimeenpantaviin rahapeleihin.
+
+Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan on huolehdittava siitä, että sen henkilökunta tuntee tässä laissa säädetyt velvoitteensa. Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan on pidettävä kirjaa toimipaikassa työskentelevien henkilöiden koulutuksesta ja osaamisesta ja pyydettäessä esitettävä tiedot valvontaviranomaiselle.

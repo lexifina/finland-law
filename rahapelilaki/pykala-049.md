@@ -1,0 +1,6 @@
+# 49 § Pelaajan yhteydenottojen käsittely
+Luku: 3 luku Rahapelien toimeenpano
+
+Yksinoikeustoimiluvanhaltijalla ja rahapelitoimiluvanhaltijalla on oltava menettelytavat ja tarvittava määrä koulutettua henkilökuntaa toimeenpanemiaan rahapelejä koskevien erimielisyyksien, valitusten ja muiden kysymysten käsittelyä varten. Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan on pyydettäessä esitettävä menettelytavat valvontaviranomaiselle.
+
+Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan on vastattava pelaajan yhteydenottoon kohtuullisessa ajassa ja annettava pelaajan pyynnöstä kirjallinen vastaus. Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan on käsiteltävä ja annettava näkemyksensä pelaajan yhteydenoton sisältävästä voitonmaksuvaatimuksesta. Näkemyksen tulee sisältää perusteet voitonmaksulle tai vaihtoehtoisesti perusteet voitonmaksusta kieltäytymiselle.

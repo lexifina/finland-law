@@ -1,0 +1,10 @@
+# 45 § Pelitapahtumien ja pelitilitapahtumien tekninen valvonta
+Luku: 3 luku Rahapelien toimeenpano
+
+Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan on säilytettävä tiedot toimeenpanemiensa pelien pelitapahtumista ja pelaajien pelitilitapahtumista vähintään viisi vuotta. Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan on varmistettava pelitapahtumatietojen ja pelitilitapahtumatietojen muuttumattomuus ja käytettävä viranomaisen määrittämää varmennetta.
+
+Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan on toimitettava sen toimeenpanemien pelien pelitapahtumat ja pelaajien pelitilitapahtumat valvontaviranomaiselle valvontaviranomaisen määräämässä muodossa. Tiedot tulee toimittaa kohtuullisen ajan kuluessa rahapelin päättymisestä.
+
+Yksinoikeustoimiluvanhaltijan ja rahapelitoimiluvanhaltijan tulee varmistaa, että se voi saattaa 1 momentissa tarkoitetut tiedot valvontaviranomaisen käyttöön hyödyntäen valvontaviranomaisen valvontajärjestelmän rajapintaa.
+
+Valvontaviranomainen voi antaa tarkempia määräyksiä pelitapahtumien ja pelitilitapahtumien muuttumattomuuden varmistamiseksi käytettävästä varmenteesta, pelitapahtumien ja pelitilitapahtumien teknisestä toimittamismuodosta ja valvontaviranomaisen valvontajärjestelmän rajapintaan liittymisen teknisistä edellytyksistä.

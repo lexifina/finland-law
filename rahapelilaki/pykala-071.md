@@ -1,0 +1,14 @@
+# 71 § Valvontamaksun määrääminen
+Luku: 6 luku Valvontamaksu
+
+Valvontamaksun määrää ja panee maksuun valvontaviranomainen. Valvontamaksu suoritetaan valvontaviranomaiselle. Valvontamaksu erääntyy maksettavaksi valvontaviranomaisen määräämänä ajankohtana, kuitenkin aikaisintaan kesäkuun viimeisenä päivänä. Valvontaviranomaisen on lähetettävä maksupäätös maksuvelvolliselle viimeistään 30 päivää ennen ensimmäistä eräpäivää.
+
+Jos maksuvelvollisuus alkaa kesken kalenterivuoden, valvontamaksu määrätään kertomalla koko kalenterivuoden maksun kahdestoistaosa niiden kalenterikuukausien lukumäärällä, jotka kokonaan tai osittain sisältyvät maksuvelvollisuuden alkamisen ja kalenterivuoden päättymisen väliseen aikaan.
+
+Jos yksinoikeustoimiluvanhaltijan tai rahapelitoimiluvanhaltijan maksuvelvollisuus päättyy kesken kalenterivuoden, yksinoikeustoimiluvanhaltijalle ja rahapelitoimiluvanhaltijalle palautetaan hakemuksesta niin monta kahdestoistaosaa valvontamaksusta kuin maksuvelvollisuuden päättymisen ja kalenterivuoden päättymisen väliseen aikaan sisältyy täysiä kalenterikuukausia.
+
+Rahapelitoimiluvanhaltijan on valvontamaksun määräämistä varten toimitettava valvontaviranomaiselle edellisen kalenterivuoden pelikatetiedot rahapelitoimiluvan voimassaolon ajalta. Pelikatetiedot on toimitettava valvontaviranomaiselle viimeistään helmikuun viimeisenä päivänä.
+
+Valvontaviranomainen voi asettaa 4 momentissa tarkoitettujen tietojen toimittamisvelvollisuuden tehosteeksi uhkasakon. Uhkasakon määräämisestä ja tuomitsemisesta säädetään uhkasakkolaissa.
+
+Valvontaviranomainen voi antaa tarkempia määräyksiä maksumenettelystä, valvontamaksun suorittamisesta useammassa kuin yhdessä erässä sekä valvontamaksun määräämiseksi tarvittavien tietojen toimittamistavasta.
