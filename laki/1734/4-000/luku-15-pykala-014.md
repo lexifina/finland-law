@@ -1,0 +1,4 @@
+# 14 §
+Luku: 15 LUKU
+
+[Jos valtuusmiehen havaitaan yllyttäneen tahi vietelleen jonkun perättömään oikeudenkäyntiin taikka vastoin parempaa tietoansa ajaneen väärää asiaa taikka käyttäneen ilmeistä kavaluutta, niin sakotettakoon häntä kymmenen tahi kaksikymmentä talaria tahi enemmän, sataan asti, taikka rangaistakoon vankeudella, älköönkä hänen enää sallittako ajaa toisten asioita Oikeudessa, aina sen mukaan kuin tuomari tutkii hänen rikoksensa olevan. Jos sellainen valtuusmies, välttääksensä rangaistusta, vetäytyy pois asiasta, ennenkuin se päättyy, rangaistakoon kuitenkin niinkuin on sanottu. Jos jonkun näytetään salaa kirjoittaneen asiassa päämiehensä vastapuolenkin puolesta taikka perusteilla ja neuvoilla auttaneen häntä, sakotettakoon sata talaria tahi rangaistakoon vesi- ja leipävankeudella ja menettäköön kunniansa.]
