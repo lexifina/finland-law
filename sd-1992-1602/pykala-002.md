@@ -1,0 +1,3 @@
+# 2 § Hintojen poikkeaminen tavoitehinnoista
+
+Poiketen siitä, mitä maataloustulolain 6 §:ssä säädetään, sovelletaan vuoden 1993 aikana tapahtuneisiin tavoitehintamuutoksiin tämän pykälän säännöksiä. Milloin tavoitehintatuotteiden keskimääräiset hinnat ovat vuonna 1993 poikenneet vahvistetuista tavoitehinnoista yhteensä enemmän kuin kolme prosenttia, tämä otetaan huomioon siten, että maataloustulolain nojalla muutoin määrättäviä tavoitehintoja muutetaan seuraavan hinnoitteluvuoden ajaksi sillä prosenttimäärällä, jolla toteutuneet hinnat ovat keskimäärin poikenneet tavoitehinnoista enemmällä kuin kolmella prosentilla.
