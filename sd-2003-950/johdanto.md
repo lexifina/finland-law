@@ -1,0 +1,2 @@
+Laki Kansainvälisen työjärjestön työturvallisuutta ja työterveyttä koskevaan yleissopimukseen liittyvän pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
