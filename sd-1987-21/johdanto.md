@@ -1,0 +1,2 @@
+Laki kansainvälisestä yhteistoiminnasta vapausrangaistusten täytäntöönpanossa
+Eduskunnan päätöksen mukaisesti säädetään:
