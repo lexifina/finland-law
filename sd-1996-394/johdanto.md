@@ -1,0 +1,2 @@
+Laki kiinteistön luovuttamisesta perustettavalle kiinteistöyhtiölle Vaasassa
+Eduskunnan päätöksen mukaisesti säädetään:
