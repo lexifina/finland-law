@@ -1,0 +1,2 @@
+Laki rintamaveteraanien hammashuollon järjestämisestä ja korvaamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
