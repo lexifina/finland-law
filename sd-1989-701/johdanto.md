@@ -1,0 +1,2 @@
+Laki Perushyödykkeiden yhteisrahaston perustamista koskevan sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
