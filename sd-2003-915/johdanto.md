@@ -1,0 +1,2 @@
+Laki Kansaneläkelaitoksen rahoituksen väliaikaisesta muuttamisesta vuonna 2004
+Eduskunnan päätöksen mukaisesti säädetään:
