@@ -1,0 +1,8 @@
+# 39 § Alueen liittäminen yhteismetsään
+Luku: 7 luku Kiinteistötoimitusta koskevat erityis- säännökset
+
+Määräala, jonka osakaskunta on saanut omistukseensa, muodostetaan kiinteistöksi lohkomalla taikka osakaskunnan pyynnöstä liitetään yhteismetsään noudattaen, mitä kiinteistönmuodostamislain 13 luvussa säädetään alueen liittämisestä yhteiseen alueeseen. Liitettävällä määräalalla ei saa olla osuutta yhteiseen alueeseen tai erityiseen etuuteen lukuun ottamatta yhteismetsän osakaskiinteistölle kuuluvaa yhteismetsäosuutta.
+
+Kiinteistö, johon osakaskunnalla on lainhuuto, voidaan hakemuksesta yhdistää yhteismetsään, jos kiinteistöön ei kohdistu kiinnityksiä eikä sillä ole oikeutta erityiseen etuuteen tai osuutta muuhun yhteiseen alueeseen kuin siihen yhteismetsään, johon se yhdistetään. Muutoin yhdistämisestä on soveltuvin osin voimassa, mitä kiinteistönmuodostamislain 17 luvussa säädetään kiinteistöjen yhdistämisestä. Yhteismetsän ja siihen liitettävän määräalan tai siihen yhdistettävän kiinteistön ei kuitenkaan tarvitse sijaita samassa kunnassa.
+
+Jos yhteismetsä muodostuu eri kuntiin kuuluvista rekisteriyksiköistä, 1 momentissa tarkoitettu alue liitetään siihen rekisteriyksikköön, joka sijaitsee samassa kunnassa kuin liitettävä alue, ja 2 momentissa tarkoitettu kiinteistö yhdistetään siihen rekisteriyksikköön, joka sijaitsee samassa kunnassa kuin yhdistettävä kiinteistö. Jollei yhteismetsä sijaitse miltään osin samassa kunnassa kuin liitettävä alue tai yhdistettävä kiinteistö, alueesta tai kiinteistöstä muodostetaan liittämisessä tai yhdistämisessä erillinen rekisteriyksikkö, joka kuuluu osana yhteismetsään.
