@@ -1,0 +1,2 @@
+Laki tuomittujen siirtämisestä tehdyn yleissopimuksen lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
