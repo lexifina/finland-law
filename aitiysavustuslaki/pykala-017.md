@@ -1,5 +1,3 @@
 # 17 § Salassapitovelvollisuuden rikkominen
 
-Joka rikkoo 16 §:ssä säädetyn salassapitovelvollisuuden, on tuomittava äitiysavustusta koskevan salassapitovelvollisuuden rikkomisesta sakkoon, jollei teosta ole muualla laissa säädetty ankarampaa rangaistusta.
-
-Virallinen syyttäjä ei saa nostaa syytettä 1 momentissa tarkoitetusta teosta, ellei asianomistaja ole ilmoittanut tekoa syytteeseen pantavaksi.
+Rangaistus 16 §:ssä säädetyn salassapitovelvollisuuden rikkomisesta tuomitaan rikoslain 38 luvun 2 §:n 2 momentin mukaan, jollei teko ole rangaistava rikoslain 40 luvun 5 §:n mukaan tai siitä muualla kuin rikoslain 38 luvun 1 §:ssä säädetä ankarampaa rangaistusta.
