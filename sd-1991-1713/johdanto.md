@@ -1,0 +1,2 @@
+Laki ulkomaanliikenteen lastialusten kilpailuedellytysten edistämisestä annetun lain kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
