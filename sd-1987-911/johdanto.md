@@ -1,0 +1,2 @@
+Laki tavarakaupan muodollisuuksien yksinkertaistamista koskevan yleissopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
