@@ -1,0 +1,2 @@
+Laki valtioneuvoston oikeuskanslerista
+Eduskunnan päätöksen mukaisesti säädetään:

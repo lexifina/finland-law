@@ -1,0 +1,5 @@
+# 12 § Oikeuskanslerinvirasto
+
+Oikeuskanslerin ratkaistaviksi kuuluvien asioiden valmistelua ja muiden oikeuskanslerin toimialaan kuuluvien tehtävien suorittamista varten valtioneuvostossa on oikeuskanslerin johtama oikeuskanslerinvirasto.
+
+Valtioneuvoston asetuksella säädetään oikeuskanslerinviraston organisaatiosta ja virkamiehistä sekä asioiden ratkaisemisesta oikeuskanslerinvirastossa. Yksityiskohtaisempia määräyksiä näistä voidaan antaa oikeuskanslerin vahvistamassa työjärjestyksessä.
