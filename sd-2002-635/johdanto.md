@@ -1,0 +1,2 @@
+Laki eräiden työeläkkeiden tarkistamisesta työeläkkeen ja kansaneläkkeen yhteensovittamisen johdosta
+Eduskunnan päätöksen mukaisesti säädetään:
