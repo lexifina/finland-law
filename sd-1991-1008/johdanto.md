@@ -1,0 +1,2 @@
+Laki kansalaisoikeuksia ja poliittisia oikeuksia koskevaan kansainväliseen yleissopimukseen liittyvän kuolemanrangaistuksen poistamisesta tehdyn toisen valinnaisen pöytäkirjan eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
