@@ -1,0 +1,2 @@
+Laki Euroopan unionin tulevaisuutta käsittelevän valmistelukunnan rahoittamista ja sen varainhoitoa koskevia säännöksiä koskevan Euroopan unionin jäsenvaltioiden hallitusten edustajien päätöksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
