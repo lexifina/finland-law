@@ -1,0 +1,2 @@
+Laki vuodelta 1989 toimitettavan verotuksen viivästymisestä johtuvista poikkeusjärjestelyistä
+Eduskunnan päätöksen mukaisesti säädetään:
