@@ -5,4 +5,4 @@ Rikosseuraamuslaitosta johtaa pääjohtaja.
 
 Rikosseuraamuslaitoksen vastuualuetta johtaa vastuualueen johtaja. Vastuualueen yksikköä johtaa yksikönpäällikkö.
 
-Rikosseuraamuskeskusta johtaa rikosseuraamuskeskuksen johtaja. Yhdyskuntaseuraamustoimistoa, vankilaa ja rikosseuraamuskeskuksen muuta yksikköä johtaa yksikönpäällikkö.
+Rikosseuraamuskeskusta johtaa rikosseuraamuskeskuksen johtaja. Yhdyskuntaseuraamustoimistoa johtaa yhdyskuntaseuraamustoimiston johtaja. Vankilaa johtaa vankilan johtaja. Rikosseuraamuskeskuksen muuta yksikköä johtaa yksikönpäällikkö.

@@ -7,7 +7,7 @@ Rikosseuraamuslaitos muodostuu kehittämisestä ja ohjauksesta, asiakasprosessei
 
 Rangaistusten täytäntöönpanemiseksi ja tutkintavankeuden toimeenpanemiseksi Rikosseuraamuslaitoksen operatiivisesta toiminnasta vastaavaan vastuualueeseen kuuluu rikosseuraamuskeskuksia. Rikosseuraamuskeskuksessa on yhdyskuntaseuraamustoimistoja, vankiloita ja muita yksiköitä. Rikosseuraamuskeskuksista ja niiden toimialueista annetaan tarkemmat säännökset valtioneuvoston asetuksella. Rikosseuraamuskeskuksen yksiköistä annetaan säännökset oikeusministeriön asetuksella.
 
-Rikosseuraamuslaitoksen kehittämisestä ja ohjauksesta vastaavaan vastuualueeseen kuuluu Rikosseuraamusalan koulutuskeskuksesta annetussa laissa (1316/2006) tarkoitettu Rikosseuraamusalan koulutuskeskus.
+Rikosseuraamuslaitoksen kehittämisestä ja ohjauksesta vastaavaan vastuualueeseen kuuluu rikosseuraamusalan tutkintoon johtavaa koulutusta ja täydennyskoulutusta antava Rikosseuraamusalan koulutuskeskus -niminen yksikkö.
 
 Vankien terveydenhuollon järjestämisestä vastaa Vankiterveydenhuollon yksiköstä annetussa laissa (1635/2015) tarkoitettu Vankiterveydenhuollon yksikkö.
 
