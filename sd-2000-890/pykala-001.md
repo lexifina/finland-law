@@ -8,4 +8,4 @@ Suomessa suoritettava euromääräinen maksu pyöristetään seuraavasti:
 
 Yhden ja kahden sentin suuruista maksua ei pyöristetä.
 
-Maksu voidaan pyöristää 1 momentissa säädetyllä tavalla myös velottaessa sitä kirjallisesti tai kirjattaessa se maksamisen sijasta velaksi.
+Maksu voidaan pyöristää 1 momentissa säädetyllä tavalla myös velottaessa sitä kirjallisesti tai kirjattaessa se maksamisen sijasta velaksi taikka maksettaessa se pankki- tai muulla maksukortilla.
