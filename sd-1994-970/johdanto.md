@@ -1,0 +1,2 @@
+Laki Valtion viljavaraston liiketoiminnoista muodostettavasta osakeyhtiöstä
+Eduskunnan päätöksen mukaisesti säädetään:
