@@ -1,3 +1,3 @@
 # 10 § Työjärjestys
 
-Rahaston työjärjestyksen vahvistaa johtokunta.
+Rahastossa noudatettavasta asioiden käsittelystä, päätöksenteosta, nimen kirjoittamisesta, johtokunnan sihteerien ja rahaston henkilöstön tehtävistä sekä muusta sisäisestä hallinnosta annetaan tarkempia määräyksiä rahaston työjärjestyksessä.

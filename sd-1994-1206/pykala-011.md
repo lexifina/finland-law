@@ -1,3 +1,3 @@
 # 11 § Tarkemmat säännökset
 
-Tarkemmat säännökset tämän lain täytäntöönpanosta annetaan asetuksella.
+Valtioneuvoston asetuksella voidaan säätää rahaston taloussäännön ja rahastosta maksettavien palkkioiden vahvistamisesta.

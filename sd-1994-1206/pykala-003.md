@@ -1,5 +1,7 @@
 # 3 § Rahaston lainanotto
 
-Rahasto voi valtioneuvoston luvalla ja sen hyväksymillä ehdoilla ottaa 1 §:ssä tarkoitettujen toimintojen väliaikaista rahoittamista varten lainoja, joiden kokonaismäärä ei saa samanaikaisesti ylittää 1 500 miljoonaa markkaa. Lainat otetaan rahaston nimissä ja niiden korot ja takaisinmaksu suoritetaan rahaston varoista.
+Rahasto voi valtioneuvoston luvalla ja sen hyväksymillä ehdoilla ottaa 1 §:ssä tarkoitettujen toimintojen väliaikaista rahoittamista varten lainoja, joiden kokonaismäärä ei saa samanaikaisesti ylittää 250 miljoonaa euroa. Lainat otetaan rahaston nimissä ja niiden korot ja takaisinmaksu suoritetaan rahaston varoista.
 
-Valtio vastaa rahaston 1 momentissa tarkoitetuista lainoista.
+Valtio vastaa 1 momentissa tarkoitetuista lainoista.
+
+Valtiokonttorin tehtävänä on rahaston johtokunnan toimeksiannosta ottaa 1 momentissa tarkoitetut lainat ja päättää niiden tarkemmista ehdoista sekä huolehtia rahaston lainanottoon liittyvistä muista tehtävistä.
