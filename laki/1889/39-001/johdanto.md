@@ -1,0 +1,2 @@
+Rikoslaki
+Me Aleksander Kolmas, Jumalan Armosta, koko Venäjänmaan Keisari ja Itsevaltias, Puolanmaan Tsaari, Suomen Suuriruhtinas, y. m., y. m., y. m. Teemme tiettäväksi: Suomenmaan Valtiosäätyjen alamaisesta esityksestä tahdomme Me täten armosta vahvistaa seuraavan rikoslain Suomen Suuriruhtinaanmaalle, jonka voimaanpanemisesta, niinkuin myöskin rangaistusten täytäntöönpanosta erityinen asetus annetaan:

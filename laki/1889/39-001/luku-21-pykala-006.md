@@ -1,0 +1,4 @@
+# 6 §
+Luku: 21 LUKU
+
+Jos joku, pahoin pitelemättä ja ilman surmaamisen aikomusta, tekemällä sellaisen tahallisen rikoksen, joka on ilmeiseksi vaaraksi toisen hengelle tahi terveydelle, niinkuin jos ajaa naisen tahtomatta ulos hänen sikiönsä, asettaa toisen avuttomaan tilaan, aikaan saattaa vedentulvan tahi haaksirikon, murhapolton tai muun senkaltaisen pahanteon, on saattanut toiselle kuoleman tahi vaikean ruumiinvamman; taikka jos kapinassa, metelissä, väkisinmakaamisessa, ryöstämisessä tahi muussa sellaisessa, pahoinpitelyä sisältävässä, tahallisessa rikoksenteossa pahoinpitelystä on tullut kuolema tahi vaikea ruumiinvamma; rangaistakoon syyllinen kaikesta kerrassaan, jos siitä kuolema tuli, kuritushuoneella vähintään kuudeksi ja enintään kahdeksitoista vuodeksi tahi elinkaudeksi, ja, jos vaikea ruumiinvamma syntyi, kuritushuoneella vähintään neljäksi ja enintään kahdeksitoista vuodeksi.

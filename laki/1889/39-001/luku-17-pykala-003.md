@@ -1,0 +1,4 @@
+# 3 §
+Luku: 17 LUKU Väärästä valasta
+
+Jos se, jota todistajana tahi asianymmärtävänä on valansa nojassa kuulustettu, salaa jotakin, jonka ilmaiseminen voi rikoksesta syytteenalaiseksi saattaa sen, jonka kanssa hän on suoraan ylenevässä tahi alenevassa sukulaisuudessa tahi lankoudessa, taikka hänen puolisonsa, kasvatusvanhempansa, kasvattinsa, veljensä tahi sisarensa tahi jommankumman puoliso, taikka hänen kihlattunsa; rangaistakoon enintään kahdensadan markan sakolla, taikka pääsköön, jos asianhaarat ovat erittäin lieventävät, rangaistuksesta. Jos sellainen salaaminen osaltansa on vaikuttanut sen, että syytön on tuomittu kuritushuoneesen tahi kuolemanrangaistukseen; olkoon rangaistus vankeutta enintään kaksi vuotta taikka sakkoa. Jos sen seikan ilmaiseminen, jonka todistaja tahi asianymmärtävä on salannut, voi saattaa hänet itse syytteenalaiseksi; älköön hänelle siitä salaamisesta rangaistusta tuomittako.
