@@ -1,0 +1,2 @@
+Laki Turun Asennuspajan osakeyhtiöksi muuttamisesta aiheutuvista toimenpiteistä
+Eduskunnan päätöksen mukaisesti säädetään:
