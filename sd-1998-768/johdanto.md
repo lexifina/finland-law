@@ -1,0 +1,2 @@
+Laki ihmisoikeuksien ja perusvapauksien suojaamista koskevan yleissopimuksen yhdennentoista pöytäkirjan eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
