@@ -1,0 +1,2 @@
+Laki eräiden valtion oppilaitoskiinteistöjen luovuttamisesta yksityisille ammatillisen koulutuksen järjestäjille
+Eduskunnan päätöksen mukaisesti säädetään:
