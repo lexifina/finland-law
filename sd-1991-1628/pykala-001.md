@@ -1,0 +1,3 @@
+# 1 §
+
+Opetusministeriö oikeutetaan määräämillään ehdoilla luovuttamaan Helsingin kaupungille kaupungin 33. kaupunginosan korttelissa n:o 33270 tontin n:o 2 ja korttelissa n:o 33276 tontin n:o 2, Etelä-Kaarelan kylän tilasta Malmgård RN:o 4:13 yhteensä noin 38 765 m 2 :n suuruiset määräalat, Tapanilan kylän tiloista Valtion rautateiden hiekanotto RN:o 3:305, Å 66 RN:o 5:33 ja Å 73 RN:o 5:74sekä Puistoja tiealue RN:o 31 yhteensä noin 87 311 m 2 :n suuruiset määräalat ja Tapanilan kylän tilan Å 72 RN:o 5:36, jotka alueet sijaitsevat Helsingin kaupungissa, edellyttäen, että Helsingin kaupunki puolestaan luovuttaa valtiolle Helsingin kaupungin 30. kaupunginosan korttelissa n:o 30 114 tontin n:o 4 rakennuksineen.
