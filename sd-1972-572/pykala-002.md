@@ -1,0 +1,3 @@
+# 2 §
+
+Mikäli kuntien yhdistämisestä on niiden kuntamuodosta johtuen seurauksena, että laajennettu kunta ei saa joihinkin menoihin valtionavustuksia, jotka siihen yhdistetylle kunnalle olisi ollut suoritettava, tai saa ne pienempinä taikka että laajennettu kunta joutuu suorittamaan menoja, joita siihen yhdistetyn kunnan ei olisi ollut maksettava, laajennetulle kunnalle suoritetaan siltä vuodelta, jona jaotuksen muutos tulee voimaan, ja kahdelta seuraavalta vuodelta tai, jos laajennettu kunta on ennen vuotta 1959 perustettu kaupunki, neljältä seuraavalta vuodelta yhdistymiskorvausta valtion varoista.
