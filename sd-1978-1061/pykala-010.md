@@ -1,9 +1,5 @@
 # 10 §.
 
-Joka tahallaan rikkoo 4 §:n säännöstä, on tuomittava liikesalaisuuden väärinkäyttämisestä sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi, jollei teosta ole muualla säädetty ankarampaa rangaistusta.
+Joka tahallaan 4§:n vastaisesti käyttää teknistä esikuvaa tai teknistä ohjetta taikka ilmaisee sen, on tuomittava, jollei teosta ole muualla säädetty ankarampaa rangaistusta, teknisen esikuvan tai ohjeen väärinkäytöstä sakkoon.
 
-Joka tahallaan rikkoo 5 §:n 1 momentin säännöstä, on tuomittava lahjomisesta elinkeinotoiminnassa sakkoon tai vankeuteen enintään yhdeksi vuodeksi, jollei teosta ole muualla säädetty ankarampaa rangaistusta.
-
-Joka tahallaan rikkoo 5 §:n 2 momentin säännöstä, on tuomittava lahjoman vastaanottamisesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi, jollei teosta ole muualla säädetty ankarampaa rangaistusta.
-
-Lahjoma tai siihen verrattava etu tai niiden arvo on tuomittava menetetyksi.
+Joka muuten menettelemällä tahallaan 4§:n vastaisesti tekee rikoslain 30 luvun 4-6§:ssä tarkoitetun rikoksen, tuomitaan yritysvakoilusta, yrityssalaisuuden rikkomisesta tai yrityssalaisuuden väärinkäytöstä rikoslain mukaan.
