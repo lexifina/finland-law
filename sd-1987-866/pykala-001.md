@@ -1,0 +1,3 @@
+# 1 §
+
+Suomen ja Ruotsin välillä 19 päivänä kesäkuuta 1986 tehdyssä suvereniteettisaaria koskevassa sopimuksessa tarkoitettuihin Ruotsissa sijaitseviin suomalaisten suvereniteettisaariin kuuluvat alueet ja niihin Suomessa sijaitseviin ruotsalaisten suvereniteettisaariin kuuluvat alueet, joilta suvereniteettisaaren erityisasema on poistettu, sekä Suomen ja Ruotsin välisen valtakunnanrajan rajalinjan muutoksista tehtyjen sopimusten perusteella Ruotsin valtakunnasta Suomen valtakuntaan siirtyneet alueet liitetään Suomen kiinteistöjärjestelmään muodostamalla ne tiloiksi tai yhteisiksi alueiksi taikka liittämällä ne ennestään oleviin tiloihin tai yhteisiin alueisiin sen mukaan kuin tässä laissa säädetään.

@@ -1,0 +1,2 @@
+Laki suvereniteettisaariin ja valtakunnanrajan tarkistamiseen liittyvistä kiinteistöjaotuksellisista toimenpiteistä
+Eduskunnan päätöksen mukaisesti säädetään:
