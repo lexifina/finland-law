@@ -1,0 +1,2 @@
+Laki vapaaehtoisten lisäeläkejärjestelyjen tasa-arvoistamisesta
+Eduskunnan päätöksen mukaisesti säädetään:

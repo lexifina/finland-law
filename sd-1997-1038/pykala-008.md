@@ -1,0 +1,5 @@
+# 8 §
+
+Eläkejärjestelyn hoitajan tulee viipymättä lain voimaantulon jälkeen tiedottaa eläkejärjestelyn piiriin kuuluville työntekijöille 3 §:n tai 5 §:n 2 momentin mukaisen valintaoikeuden sisällöstä ja antaa selvitykset muista valintaan vaikuttavista seikoista. Lisäksi eläkejärjestelyn hoitajan on annettava työntekijälle hänen pyynnöstään henkilökohtainen laskelma hänen eläkkeensä määristä eri vaihtoehdoissa.
+
+Työntekijän on kirjallisesti viimeistään yhdeksän kuukauden kuluttua lain voimaantulosta ilmoitettava eläkejärjestelyn hoitajalle valinnastaan. Jollei ilmoitusta ole sanotussa ajassa tehty eläkejärjestelyn hoitajalle , työntekijän katsotaan valinneen ennen lainmuutosta olleen eläkejärjestelyn mukaisen eläkeikänsä. Jos kuitenkin työntekijä, jolla on lain voimaan tullessa eläkejärjestelyn sääntöjen tai määräysten mukaan alempi eläkeikä ja jolla on 5 §:n 2 momentin mukainen valintaoikeus, ei ole sanotussa ajassa ilmoittanut valinnastaan, hänen katsotaan valinneen 5 §:n 2 momentissa tarkoitetun alemman eläkeiän.

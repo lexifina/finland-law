@@ -1,0 +1,5 @@
+# 5 §
+
+Jollei muuta sovita, työntekijöiden, jotka eivät täytä edellä 3 §:ssä tarkoitettuja valintaoikeuden saamisen edellytyksiä, eläketurvan tasa-arvoistaminen toteutetaan niin, että järjestelystä tämän ryhmän osalta aiheutuvat kokonaiskustannukset eivät muutu.
+
+Tasa-arvoistaminen voidaan toteuttaa siten, että työntekijällä on oikeus valita eläkejärjestelyn korkeampi eläkeikä tai sellainen alempi eläkeikä, joka on määrätty edellä 1 momentissa säädetyllä tavalla. Jos työntekijä, jolla on eläkejärjestelyn korkeampi eläkeikä, valitsee edellisessä virkkeessä tarkoitetun alemman eläkeiän, hänen työsuhteeseensa liittyvää palvelusaikaa ennen 1 päivää tammikuuta 1994 voidaan jättää ottamatta huomioon hänen lisäeläkettään tai muuta etuuttaan laskettaessa. Mitä edellä tässä pykälässä säädetään, koskee myös tällaisen työntekijän jälkeen myönnettävää perhe-eläkettä. Työntekijään, jonka palvelusaikaa ennen 1 päivää tammikuuta 1994 jätetään ottamatta huomioon, sovelletaan lisäksi, mitä 4 §:n 2 momentissa säädetään.
