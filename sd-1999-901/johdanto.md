@@ -1,0 +1,2 @@
+Laki Pohjoismaiden ympäristörahoitusyhtiötä koskevan sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
