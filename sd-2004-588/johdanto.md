@@ -1,0 +1,2 @@
+Laki kansainvälisistä tietoturvallisuusvelvoitteista
+Eduskunnan päätöksen mukaisesti säädetään:

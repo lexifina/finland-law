@@ -1,0 +1,4 @@
+# 19 § Rikkomusten selvittäminen ja niistä ilmoittaminen
+Luku: 4 luku Erinäiset säännökset
+
+Kansallisen turvallisuusviranomaisen on ilmoitettava kansainvälisessä tietoturvallisuusvelvoitteessa tarkoitetuissa tapauksissa toiselle sopimuspuolelle tietoonsa tulleesta turvallisuusluokiteltujen tietojen suojan vaarantumisesta ja tietoturvallisuutta koskevan määräyksen loukkaamisesta sekä ryhdyttävä toimenpiteisiin asian selvittämiseksi samoin kuin rangaistavaan tekoon syyllistyneen syytteeseen saattamiseksi.
