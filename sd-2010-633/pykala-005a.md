@@ -1,0 +1,3 @@
+# 5 a § Seuraamusselvityksen sisältö
+
+Rikosseuraamuslaitos laatii tekemänsä arvioinnin perusteella kirjallisen seuraamusselvityksen, joka sisältää myös nuoren rikoksesta epäillyn sosiaalista tilannetta koskevat olennaiset tiedot, mahdolliset tiedot nuoren rikoksesta epäillyn osallistumisesta toimintaan, joka parantaa edellytyksiä rikoksettomaan elämään, ja tarvittaessa yhdyskuntaseuraamusten täytäntöönpanosta annetun lain 11 §:ssä tarkoitetun rangaistusajan suunnitelman. Seuraamusselvitykseen sisällytetään myös muu sellainen rikoksen vuoksi tehtävä selvitys tai lausunto, jonka syyttäjä on pyytänyt yhdyskuntaseuraamuksen tuomitsemista varten.
