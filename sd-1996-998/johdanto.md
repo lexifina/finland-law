@@ -1,0 +1,2 @@
+Laki vuodelta 1997 suoritettavista sairausvakuutusmaksuista, työnantajan kansaneläkemaksusta ja työnantajan lapsilisämaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
