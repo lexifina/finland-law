@@ -1,5 +1,5 @@
 # 7 §.
 
-Kiellon, jota 6 §:ssä tarkoitetaan, määrää markkinatuomioistuin. Markkinatuomioistuin voi myös antaa kiellon väliaikaisena, jolloin kielto on voimassa, kunnes asia on lopullisesti ratkaistu.
+Kiellon, jota 6 §:ssä tarkoitetaan, määrää markkinaoikeus. Markkinaoikeus voi määrätä kiellon myös väliaikaisena, jolloin kielto on voimassa, kunnes asia on lopullisesti ratkaistu.
 
-Markkinatuomioistuimesta ja asian käsittelystä siinä on sen lisäksi mitä edellä on sanottu, säädetty laissa markkinatuomioistuimesta (41/78).
+Markkinaoikeudesta ja asian käsittelystä siinä säädetään lisäksi markkinaoikeuslaissa (1527/2001) ja eräiden markkinaoikeudellisten asioiden käsittelystä annetussa laissa (1528/2001).
