@@ -1,0 +1,2 @@
+Laki asunto-osakeyhtiötalolainojen korkotuesta
+Eduskunnan päätöksen mukaisesti säädetään:
