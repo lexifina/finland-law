@@ -1,0 +1,2 @@
+Laki eräistä järjestelyistä Sulkavan invalidien ammattioppilaitoksen siirtyessä vankeinhoitolaitoksen käyttöön
+Eduskunnan päätöksen mukaisesti säädetään:
