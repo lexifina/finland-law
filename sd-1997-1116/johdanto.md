@@ -1,0 +1,2 @@
+Laki eräiden valtion oppilaitoskiinteistöjen luovuttamisesta eräille kuntayhtymille
+Eduskunnan päätöksen mukaisesti säädetään:
