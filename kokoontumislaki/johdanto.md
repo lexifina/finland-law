@@ -1,0 +1,2 @@
+Kokoontumislaki
+Eduskunnan päätöksen mukaisesti säädetään:
