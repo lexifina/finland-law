@@ -1,0 +1,2 @@
+Laki vuodelta 1998 suoritettavista sairausvakuutusmaksuista, työnantajan kansaneläkemaksusta ja työnantajan lapsilisämaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
