@@ -1,0 +1,2 @@
+Laki valtion vakauttamistakauksista
+Eduskunnan päätöksen mukaisesti säädetään:
