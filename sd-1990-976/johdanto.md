@@ -1,0 +1,2 @@
+Laki viljan vientikustannusmaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
