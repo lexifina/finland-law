@@ -1,7 +1,7 @@
 # 11§
 
-Tämän lain nojalla annettuun päätökseen saadaan hakea muutosta muutoksenhausta hallintoasioissa säädetyssä järjestyksessä. Valitusaika poliisipiirin päällikön päätöksestä on neljätoista päivää siitä päivästä, jona valittaja sai tiedon päätöksestä, sitä päivää lukuun ottamatta.
+Tämän lain nojalla annettuun päätökseen saa hakea muutosta muutoksenhausta hallintoasioissa annetussa laissa (154/50) säädetyssä järjestyksessä. Poliisipiirin päällikön päätöksestä valitus tehdään kuitenkin lääninoikeudelle ja valitusaika on tällöin 14 päivää päätöksen tiedoksisaannista.
 
 Säilössä oleva saa antaa valituskirjansa sille säilön sijaitsemispaikkakunnalla virantoimituksessa olevalle virkamiehelle, jonka välittömässä valvonnassa säilö on. Mainitun virkamiehen on toimitettava valituskirja edelleen valitusviranomaiselle. Valitus katsotaan tehdyksi silloin, kun valituskirja on annettu puheena olevalle virkamiehelle.
 
-Valitettaessa lääninhallituksen päätöksestä korkeimpaan hallinto-oikeuteen valituskirja voidaan toimittaa myös lääninhallitukseen. Lääninhallituksen on tällöin viivytyksettä toimitettava asiakirjat omine lausuntoineen korkeimpaan hallinto-oikeuteen.
+Valitettaessa lääninoikeuden päätöksestä korkeimpaan hallinto-oikeuteen valituskirjelmä voidaan toimittaa myös lääninoikeuteen. Lääninoikeuden on tällöin viivytyksettä toimitettava asiakirjat korkeimpaan hallinto-oikeuteen.
