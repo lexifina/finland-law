@@ -1,0 +1,3 @@
+# 1 §
+
+Vakuutuslaitosten, joilla on oikeus myöntää Suomessa tapaturmavakuutuslaissa (608/1948) tai liikennevakuutuslaissa (279/1959) tarkoitettuja pakollisia vakuutuksia, sekä maatalousyrittäjien tapaturmavakuutuslain (1026/1981) 2 §:ssä tarkoitetun maatalousyrittäjien tapaturmavakuutuslaitoksen on suoritettava kansaneläkelaitokselle, siten kuin jäljempänä säädetään, kansaneläkelain 59 §:n 2 momentissa säädetyn valtion osuuden pienentämiseksi vuonna 1998 maksu, joka on yhteensä 307 miljoonaa markkaa. Tästä maksusta tapaturmavakuutuksia myöntävien vakuutuslaitosten osuus on 151 miljoonaa markkaa ja liikennevakuutuksia myöntävien vakuutuslaitosten osuus 129 miljoonaa markkaa. Maatalousyrittäjien tapaturmavakuutuslaitoksen osuus on 27 miljoonaa markkaa.
