@@ -1,0 +1,2 @@
+Laki Ukrainan kanssa kansainvälisestä maantieliikenteestä tehdyn sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
