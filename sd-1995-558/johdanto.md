@@ -1,0 +1,2 @@
+Laki kiinteistötoimitusmaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
