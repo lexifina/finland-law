@@ -1,0 +1,2 @@
+Laki kiinteistötietojärjestelmästä ja siitä tuotettavasta tietopalvelusta
+Eduskunnan päätöksen mukaisesti säädetään:
