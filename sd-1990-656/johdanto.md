@@ -1,0 +1,2 @@
+Laki neuvoa-antavissa kunnallisissa kansanäänestyksissä noudatettavasta menettelystä
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,3 @@
+# 4 §
+
+Kunnallislain 102 b§:ssä tarkoitetussa kansanäänestyksen toimittamista tarkoittavassa kunnan jäsenten aloitteessa on yksilöitävä asia, josta kansanäänestys halutaan toimitettavaksi. Aloitteen tekijöiden on aloitteessa vakuutettava, että he ovat sen vuoden alussa olleet 18 vuotta täyttäneitä, että heillä on kotipaikka kunnassa ja että he ovat Suomen kansalaisia tai sellaisia muun pohjoismaan kansalaisia, joilla sen vuoden alussa on ollut vähintään kaksi vuotta kotipaikka Suomessa. Aloitteentekijöiden omakätisten allekirjoitusten alle on selvästi merkittävä heidän nimensä, ammattinsa tai toimensa ja osoitteensa.
