@@ -1,0 +1,2 @@
+Laki vakuutusoikeuden laamannien nimittämisestä virkoja ensimmäistä kertaa täytettäessä
+Eduskunnan päätöksen mukaisesti säädetään:
