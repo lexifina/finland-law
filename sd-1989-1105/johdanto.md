@@ -1,0 +1,2 @@
+Laki Pohjoismaiden välillä yhteispohjoismaisten laitosten ja niiden henkilökunnan oikeudellisesta asemasta tehdyn sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
