@@ -1,0 +1,2 @@
+Laki eräiden Ahvenanmaalla hoidettavien kuljetusten erillisestä rahoittamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
