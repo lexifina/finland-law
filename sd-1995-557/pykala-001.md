@@ -1,6 +1,6 @@
 # 1 §
 
-Kunnassa, jonka alueeseen kuuluu asemakaava-aluetta, tulee olla kiinteistöinsinööri. Kiinteistöinsinööri voi olla myös muussa kunnassa.
+Kunnassa, joka huolehtii kiinteistörekisterin pitämisestä, tulee olla kiinteistöinsinööri. Myös muussa kunnassa voi olla kiinteistöinsinööri.
 
 Kiinteistöinsinööri voi olla sivutoiminen. Kahdella tai useammalla kunnalla voi olla yhteinen kiinteistöinsinööri.
 
