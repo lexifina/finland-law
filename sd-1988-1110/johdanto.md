@@ -1,0 +1,2 @@
+Laki vuodelta 1989 toimitettavassa valtionverotuksessa sovellettavista veroasteikoista ja veroprosenteista
+Eduskunnan päätöksen mukaisesti säädetään:
