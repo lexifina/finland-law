@@ -1,0 +1,9 @@
+# 9 § Irtolastialuksen ja terminaalin väliset menettelyt
+
+Kiinteää irtolastia kuljettavien irtolastialusten lastaamiseen ja lastin purkamiseen sovelletaan seuraavia menettelyjä:
+1) ennen kiinteän irtolastin lastaamista tai purkamista aluksen päällikkö sopii terminaalin edustajan kanssa lastaus- tai lastinpurkusuunnitelmasta BLU-säännöstön mukaisesti siten kuin liikenne- ja viestintäministeriön asetuksella tarkemmin säädetään; lastaus- tai lastinpurkusuunnitelman laatimisesta, valmistelusta ja hyväksymismenettelystä, suunnitelman säilyttämisen perusteista sekä säilyttämisajasta aluksessa ja terminaalissa voidaan tarkemmin säätää liikenne- ja viestintäministeriön asetuksella;
+2) ennen lastaamisen tai lastin purkamisen aloittamista aluksen päällikkö ja terminaalin edustaja täyttävät ja allekirjoittavat aluksen ja sataman välisen tarkistuslistan BLU-säännöstön mukaisesti siten kuin liikenne- ja viestintäministeriön asetuksella tarkemmin säädetään;
+3) aluksen ja terminaalin välille luodaan jatkuvasti ylläpidettävä viestintäyhteys;
+4) aluksen päällikkö ja terminaalin edustaja johtavat lastaamista tai lastin purkamista sovitun lastaus- tai lastinpurkusuunnitelman mukaisesti; terminaalin edustaja on vastuussa kiinteän irtolastin lastaamisesta tai purkamisesta suunnitelmassa ilmoitetun lastausjärjestyksen, lastimäärän ja lastaus- tai purkamisnopeuden osalta; terminaalin edustaja ei saa poiketa sovitusta lastaus- tai lastinpurkusuunnitelmasta, ellei ole ennakolta kuullut aluksen päällikköä ja saanut tältä kirjallista hyväksyntää poikkeamiselle.
+
+Lastaamisen tai lastin purkamisen päätyttyä sovellettavista aluksen päällikön ja terminaalin edustajan välisistä menettelytavoista sekä lastin purkamisen osalta tehtyyn kirjalliseen sopimukseen sisällytettävistä asioista, kuten aluksen mahdollisesti kärsimistä vahingoista, säädetään liikenne- ja viestintäministeriön asetuksella.
