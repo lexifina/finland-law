@@ -1,0 +1,2 @@
+Laki oikeusapuhakemusten toimittamista koskevan eurooppalaisen sopimuksen lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
