@@ -1,0 +1,4 @@
+# 4 §.
+Luku: 22 luku. Erityisjälkisäädöksen ja tarkoitemääräyksen täytäntöönpanosta.
+
+Kun erityisjälkisäädös tarkoittaa tiettyä omaisuutta, on jälkisäädöksen saajaila, jollei testamentista muuta johdu, oikeus saada sen tuotto, mutta hänen on, ennen kuin omaisuus hänelle annetaan, suoritettava siitä olleet tarpeelliset kustannukset, mikäli ne eivät ole aiheutuneet pesän selvityksestä.
