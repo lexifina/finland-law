@@ -1,0 +1,2 @@
+Laki eurooppalaisesta taloudellisesta etuyhtymästä
+Eduskunnan päätöksen mukaisesti säädetään:
