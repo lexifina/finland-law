@@ -1,7 +1,7 @@
 # 8 §
 
-Kansanäänestystä varten laaditaan äänestysoikeutetuista henkilöistä äänestysluettelot. Niistä on soveltuvin osin voimassa, mitä vaaliluetteloista on säädetty kunnallisvaalilain 7-9§:ssä. Hakemistokortteja ja ilmoituskortteja ei kuitenkaan laadita.
+Kansanäänestystä varten kunnan keskusvaalilautakunta perustaa äänestysoikeutetuista henkilöistä äänestysoikeusrekisterin, josta on soveltuvin osin voimassa, mitä äänioikeusrekisteristä säädetään kunnallisvaalilain 7 §:ssä.
 
-Kunnanhallituksen on viivytyksettä ilmoitettava kansanäänestyksen toimittamisesta väestörekisterikeskukselle, joka valmistaa äänestysluetteloiden pohjaluettelot. Pohjaluettelot laaditaan oikeusministeriön vaaleja varten vahvistaman kaavan mukaisille lomakkeille.
+Kunnanhallituksen on viimeistään 55. päivänä ennen äänestyspäivää ilmoitettava väestörekisterikeskukselle kansanäänestyksen toimittamisesta ja siitä, haluaako se äänestysoikeusrekisteriin otettavat tiedot käyttöönsä konekielisessä muodossa vai paperitulosteina. Paperitulosteista on soveltuvin osin voimassa, mitä kunnallisvaalilain 17 §:ssä säädetään vaaliluetteloista.
 
-Väestörekisterikeskuksen on toimitettava pohjaluettelot asianomaiselle rekisteritoimistolle, jonka on tehtävä niihin tarpeelliset äänestysoikeuteen vaikuttavat muutokset ja toimitettava ne edelleen kunnan keskusvaalilautakunnalle viimeistään 30. päivänä ennen äänestyspäivää.
+Väestörekisterikeskuksen on viimeistään 30. päivänä ennen äänestyspäivää toimitettava kunnan keskusvaalilautakunnalle äänestysoikeusrekisteriin otettavat tiedot.
