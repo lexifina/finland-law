@@ -1,0 +1,2 @@
+Laki yhtiöveron hyvityksen käsittelystä veronsaajille verovuodelta 1992 tehtävissä tilityksissä
+Eduskunnan päätöksen mukaisesti säädetään:
