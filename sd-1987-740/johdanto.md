@@ -1,0 +1,2 @@
+Laki Länsipohjolan pohjoismaisen kehittämisrahaston perustamista koskevan sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
