@@ -1,3 +1,3 @@
 # 3§
 
-Valtion mielisairaaloilla on lääkintöhallituksen asettama yhteinen johtokunta, jonka kokoonpanosta ja tehtävistä säädetään asetuksella.
+Valtion mielisairaaloilla on sosiaali- ja terveysministeriön asettama yhteinen johtokunta, jonka kokoonpanosta ja tehtävistä säädetään asetuksella.
