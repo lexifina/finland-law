@@ -1,0 +1,2 @@
+Sairausvakuutuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
