@@ -1,0 +1,2 @@
+Laki Kansainvälistä tietoliikennetekokuujärjestöä (INTELSAT) koskevan sopimuksen ja siihen liittyvän toimintasopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
