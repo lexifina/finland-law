@@ -1,0 +1,2 @@
+Laki Pohjoismaiden välillä tehdyn yhteistyösopimuksen muuttamista koskevan sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
