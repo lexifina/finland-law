@@ -1,0 +1,9 @@
+# 23 § Siirtymäsäännökset
+
+Se, joka tämän lain voimaan tullessa harjoittaa tämän lain mukaan rekisteröintiä edellyttävää toimintaa, saa jatkaa toimintaansa, kunnes päätös rekisteriin merkitsemisestä on tehty, jos 7 §:n 2 momentissa tarkoitettu rekisteri-ilmoitus tehdään kuuden kuukauden kuluessa lain voimaantulosta.
+
+Lääninhallitus voi pyynnöstä rekisteröidä vuokrahuoneiston välitysliikkeen, vaikka vastaavaksi hoitajaksi ilmoitetulla henkilöllä ei ole 5 §:n 3 momentissa säädettyä ammattipätevyyttä, jos välitysliike on tehnyt lääninhallitukselle kumotun asunnonvälittäjäasetuksen 3 §:ssä tarkoitetun ilmoituksen ja se harjoittaa tämän lain voimaan tullessa rekisteröintiä edellyttävää toimintaa. Tässä momentissa tarkoitettu vastaava hoitaja saa käyttää nimikettä asunnonvälittäjä kahden vuoden ajan lain voimaantulosta sen estämättä, mitä 16 §:n 1 momentissa säädetään. Välitysliikkeen on rekisteristä poistamisen uhalla ilmoitettava lääninhallitukselle ammattipätevyysvaatimuksen täyttävä vastaava hoitaja kahden vuoden kuluessa lain voimaantulosta.
+
+Tämän lain 5 §:n 3 momentissa säädettyä ammattipätevyyttä ei vaadita henkilöltä, joka ennen lain voimaantuloa on hyväksytty kumotun kiinteistönvälittäjäasetuksen 4 §:ssä tarkoitetussa kiinteistönvälittäjäkokeessa, eikä henkilöltä, joka ennen kumotun kiinteistönvälittäjäasetuksen voimaantuloa on koulutuksensa perusteella hyväksytty kiinteistönvälitysliikkeen vastaavaksi hoitajaksi. Tässä momentissa tarkoitettu henkilö saa myös sen estämättä, mitä 16 §:n 1 momentissa säädetään, käyttää nimikettä kiinteistönvälittäjä tai lyhennystä LKV.
+
+Kumotun kiinteistönvälittäjäasetuksen 10 §:ssä tarkoitetun kiinteistönvälittäjälauta-kunnan toimikausi jatkuu tämän lain voimaantultuakin, kunnes lain 12 §:ssä tarkoitettu Keskuskauppakamarin välittäjälautakunta on asetettu.

@@ -1,0 +1,2 @@
+Laki kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä
+Eduskunnan päätöksen mukaisesti säädetään:
