@@ -1,3 +1,3 @@
 # 7 § Ilmoittamisvelvollisuus
 
-Verovelvollisen tulee veroilmoituksessaan ilmoittaa ja siihen liittää ulkomaista väliyhteisöä koskevat tiedot ja selvitykset siten kuin verotusasetuksessa (530/59) säädetään.
+Verovelvollisen tulee veroilmoituksessaan ilmoittaa ja siihen liittää ulkomaista väliyh- teisöä koskevat tiedot ja selvitykset sen mukaan kuin valtiovarainministeriö määrää.
