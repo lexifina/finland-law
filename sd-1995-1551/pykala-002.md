@@ -2,7 +2,7 @@
 
 Ulkomailta tulevana palkansaajana pidetään tätä lakia sovellettaessa luonnollista henkilöä, jos
 1) hän tulee tuloverolain mukaan Suomessa yleisesti verovelvolliseksi tässä laissa tarkoitetun työskentelyn alkaessa;
-2) hänelle tästä työstä maksettava rahapalkka on vähintään 35 000 markkaa kuukaudessa koko tässä laissa tarkoitetun työskentelyn ajan;
+2) hänelle tästä työstä maksettava rahapalkka on vähintään 5 800 euroa kuukaudessa koko tässä laissa tarkoitetun työskentelyn ajan;
 3) hän työskentelee erityisasiantuntemusta edellyttävissä tehtävissä ja
 4) hän ei ole Suomen kansalainen eikä hän ole ollut Suomessa yleisesti verovelvollinen tässä laissa tarkoitetun työskentelyn alkamisvuotta edeltäneiden viiden kalenterivuoden aikana.
 
