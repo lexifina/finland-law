@@ -1,0 +1,2 @@
+Laki eräille omaisuudenhoitoyhtiöille myönnettävistä veronhuojennuksista
+Eduskunnan päätöksen mukaisesti säädetään:
