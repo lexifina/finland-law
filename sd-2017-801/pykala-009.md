@@ -7,4 +7,4 @@ Valvonta-ajan täytäntöönpanoa varten Rikosseuraamuslaitoksella on oikeus tar
 
 Yhdistelmärangaistukseen kuuluvan valvonta-ajan tukitoimenpiteitä yhteen sovitettaessa hyvinvointialue vastaa hyvinvointialueelle kuuluvien peruspalveluiden kustannuksista. Mitä edellä säädetään hyvinvointialueista, sovelletaan Ahvenanmaan maakunnassa Ahvenanmaan maakunnan kuntiin. Rikosseuraamuslaitos vastaa yhdistelmärangaistuksen täytäntöönpanoon liittyvien toimintojen kustannuksista.
 
-Rikosseuraamuslaitoksen asiakasarvioinnin yksikön on ennen rangaistusajan suunnitelman määräysten vahvistamista pyydettävä Vankiterveydenhuollon yksiköltä arvio valvontaan sijoitettavan vangin riskistä syyllistyä väkivaltarikokseen.
+Rikosseuraamuslaitoksen asiakasarviointiyksikön on ennen rangaistusajan suunnitelman määräysten vahvistamista pyydettävä Vankiterveydenhuollon yksiköltä arvio valvontaan sijoitettavan vangin riskistä syyllistyä väkivaltarikokseen.

@@ -11,4 +11,4 @@ Valvottava saa vaatia oikaisua ja valittaa Rikosseuraamuslaitoksen päätöksest
 
 Kehittämisen ja ohjauksen vastuualueen johtaja ratkaisee 1 momentissa tarkoitetun oikaisuvaatimuksen.
 
-Oikaisuvaatimus on tehtävä kirjallisesti seitsemän päivän kuluessa päätöksen tiedoksisaannista. Oikaisuvaatimus toimitetaan kehittämisen ja ohjauksen vastuualueen johtajalle, yhdyskuntaseuraamustoimiston yksikönpäällikölle tai vankilan yksikönpäällikölle. Oikaisuvaatimus on käsiteltävä kiireellisenä. Muutoin oikaisuvaatimuksen käsittelyyn sovelletaan, mitä yhdyskuntaseuraamusten täytäntöönpanosta annetun lain 91 ja 92 §:ssä säädetään.
+Oikaisuvaatimus on tehtävä kirjallisesti seitsemän päivän kuluessa päätöksen tiedoksisaannista. Oikaisuvaatimus toimitetaan kehittämisen ja ohjauksen vastuualueen johtajalle, yhdyskuntaseuraamustoimiston johtajalle tai vankilan johtajalle. Oikaisuvaatimus on käsiteltävä kiireellisenä. Muutoin oikaisuvaatimuksen käsittelyyn sovelletaan, mitä yhdyskuntaseuraamusten täytäntöönpanosta annetun lain 91 ja 92 §:ssä säädetään.
