@@ -1,0 +1,2 @@
+Laki kulttuuriomaisuuden suojelemista aseellisen selkkauksen sattuessa koskevaan Haagin vuoden 1954 yleissopimukseen tehdyn toisen pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
