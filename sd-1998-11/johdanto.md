@@ -1,0 +1,2 @@
+Laki kansallisten vähemmistöjen suojelua koskevan puiteyleissopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
