@@ -4,4 +4,4 @@ Kiinteistönkaupoista pidetään kauppahintarekisteriä ja julkaistaan siihen pe
 
 Kauppahintarekisterin ja kauppahintatilaston tarkoituksena on palvella kiinteistön arvon määrittämistä lunastustoimituksissa, maankäytön suunnittelussa, verotuksessa, luotonannossa sekä muissa arviointi- ja tutkimustehtävissä.
 
-Kauppahintarekisterin pitäminen ja kauppahintatilaston julkaiseminen on maanmittaushallinnon asia.
+Kauppahintarekisterin pitäminen ja kauppahintatilaston julkaiseminen on maanmittauslaitoksen asia.
