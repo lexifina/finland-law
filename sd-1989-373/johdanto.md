@@ -1,0 +1,2 @@
+Laki Neuvostoliiton kanssa alusten takavarikoinnin välttämisestä tehdyn sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
