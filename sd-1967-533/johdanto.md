@@ -1,0 +1,2 @@
+Laki eräiden tapaturmakorvausten suorittamisesta kertakaikkisena korvauksena
+Eduskunnan päätöksen mukaisesti säädetään:
