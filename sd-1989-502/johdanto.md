@@ -1,0 +1,2 @@
+Laki taloudellista toimintaa harjoittavan yhdistyksen muuttamisesta osuuskunnaksi
+Eduskunnan päätöksen mukaisesti säädetään:
