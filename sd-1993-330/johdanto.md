@@ -1,0 +1,2 @@
+Laki Euroopan talousyhteisön kanssa kirjeenvaihtona tiettyjen maatalouden järjestelyjen väliaikaisesta soveltamisesta tehdyn sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
