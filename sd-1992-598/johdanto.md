@@ -1,0 +1,2 @@
+Laki Martinselkosen luonnonsuojelualueesta
+Eduskunnan päätöksen mukaisesti säädetään:
