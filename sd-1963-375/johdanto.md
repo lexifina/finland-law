@@ -1,0 +1,2 @@
+Laki eräiden elinkeinoalojen valtiontakauksista
+Eduskunnan päätöksen mukaisesti säädetään:
