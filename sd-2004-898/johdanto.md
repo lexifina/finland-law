@@ -1,0 +1,2 @@
+Laki Eläkevakuutusosakeyhtiö Kansan vakuutuskantaa vastaanottaneiden eläkelaitosten saamisten kuolettamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
