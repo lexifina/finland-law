@@ -1,0 +1,3 @@
+# 2 §
+
+Sitä, joka Suomen viranomaisen kutsusta saapuu toisesta valtiosta Suomeen vastaamaan tuomioistuimessa rikosasiassa tai rikoksesta epäiltynä kuultavaksi esitutkinnassa, ei saa sinä aikana, jonka hän kutsun johdosta on Suomessa, asettaa syytteeseen, vangita tai rangaista eikä hänen vapauttaan muulla tavalla rajoittaa sellaisen rikoksen tai muun hänen käyttäytymisensä vuoksi, joka on tapahtunut ennen hänen lähtöään siitä valtiosta, josta hänet on kutsuttu, ja jota ei ole kutsussa mainittu. Tällaisen rikoksen tai muun käyttäytymisen johdosta häntä ei myöskään saa luovuttaa kolmannelle valtiolle.
