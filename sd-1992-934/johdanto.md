@@ -1,0 +1,2 @@
+Laki tuotevastuuseen sovellettavaa lakia koskevan yleissopimuksen eräiden määräysten hyväksymisestä ja yleissopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
