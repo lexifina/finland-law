@@ -6,4 +6,4 @@ Jos lausuntoasiassa on annettu tuomioistuimen ratkaisu, ei lautakunta ratkaistui
 
 Lautakunta voi kutsua asianosaisen kuultavaksi lautakunnan kokoukseen, jos se on asian ratkaisemiseksi tarpeen. Toiselle asianosaiselle on varattava tällöin tilaisuus olla läsnä. Asianosaiset vastaavat saapumisesta heille aiheutuvista kustannuksista. Lautakunnalla on myös oikeus kuulla asiantuntijoita, hankkia lausuntoja ja selvityksiä sekä järjestää katselmuksia.
 
-Asioita lautakunnassa käsiteltäessä noudatetaan mitä hallintomenettelylaissa (598/ 1982), viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999), kielilaissa (148/1922) ja saamen kielen käyttämisestä viranomaisissa annetussa laissa (516/1991) säädetään.
+Asioita lautakunnassa käsiteltäessä noudatetaan mitä hallintolaissa (434/2003), viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999), kielilaissa (423/2003) ja saamen kielilaissa (1086/2003) säädetään.
