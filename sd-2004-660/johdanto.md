@@ -1,0 +1,2 @@
+Laki pakolaisten oikeusasemaa koskevasta yleissopimuksesta ja pakolaisten oikeusasemaa koskevasta pöytäkirjasta
+Eduskunnan päätöksen mukaisesti säädetään:
