@@ -1,0 +1,2 @@
+Laki ulkomaisten väliyhteisöjen osakkaiden verotuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
