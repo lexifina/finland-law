@@ -1,0 +1,2 @@
+Laki Levanevan luonnonsuojelualueesta
+Eduskunnan päätöksen mukaisesti säädetään:
