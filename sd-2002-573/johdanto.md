@@ -1,0 +1,2 @@
+Laki Siemenperunakeskuksen muuttamisesta osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
