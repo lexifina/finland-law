@@ -1,0 +1,2 @@
+Laki Pohjoismaiden välillä valtioiden eläkejärjestelmien mukaisen eläkeoikeuden sopeuttamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
