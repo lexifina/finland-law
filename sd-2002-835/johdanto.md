@@ -1,0 +1,2 @@
+Laki Euroopan yhteisöjen taloudellisten etujen suojaamista koskevaan yleissopimukseen liittyvän pöytäkirjan eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
