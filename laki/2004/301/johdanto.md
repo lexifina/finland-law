@@ -1,0 +1,2 @@
+Ulkomaalaislaki
+Eduskunnan päätöksen mukaisesti säädetään:
