@@ -1,0 +1,2 @@
+Laki Lauhanvuoren kansallispuiston laajentamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
