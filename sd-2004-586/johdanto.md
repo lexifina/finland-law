@@ -1,0 +1,2 @@
+Laki Euroopan Avaruusjärjestöä koskevan yleissopimuksen sopimuspuolten ja Euroopan Avaruusjärjestön välillä turvallisuusluokiteltujen tietojen suojaamisesta ja vaihdosta tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
