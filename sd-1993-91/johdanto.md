@@ -1,0 +1,2 @@
+Laki eräisiin kansainvälisluonteisiin vakuutussopimuksiin sovellettavasta laista
+Eduskunnan päätöksen mukaisesti säädetään:
