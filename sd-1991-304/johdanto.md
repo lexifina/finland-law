@@ -1,0 +1,2 @@
+Laki Kouvolan kasarmialueen myymisestä Kouvolan kaupungille ja varuskuntasairaalan myymisestä Kouvolan-Valkealan kansanterveystyön kuntainliitolle
+Eduskunnan päätöksen mukaisesti säädetään:
