@@ -1,0 +1,2 @@
+Laki Euroopan yhteisöjen taloudellisten etujen suojaamista koskevan yleissopimuksen tulkintaa Euroopan yhteisöjen tuomioistuimen antamilla ennakkoratkaisuilla koskevan pöytäkirjan eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
