@@ -1,0 +1,2 @@
+Laki Valtionrautateiden muuttamisesta osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
