@@ -1,0 +1,2 @@
+Laki työttömyysturvaetuuksien poikkeuksellisesta tarkistamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
