@@ -1,0 +1,2 @@
+Laki kansaneläkelaitoksen rahoituksen väliaikaisesta muuttamisesta vuonna 1997
+Eduskunnan päätöksen mukaisesti säädetään:
