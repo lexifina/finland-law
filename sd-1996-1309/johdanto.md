@@ -1,0 +1,2 @@
+Laki Kanadan kanssa sosiaaliturvasopimuksen muuttamisesta tehdyn pöytäkirjan ja Quebecin kanssa tehdyn sosiaaliturvasopimusjärjestelyn muutoksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
