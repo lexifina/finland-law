@@ -1,0 +1,2 @@
+Laki Kazakstanin kanssa kansainvälisestä maantieliikenteestä tehdyn sopimuksen ja siihen liittyvän lisäpöytäkirjan eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
