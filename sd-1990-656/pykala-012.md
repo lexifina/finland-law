@@ -2,7 +2,7 @@
 
 Äänestyslippu on mitätön:
 1) jos vaalikuoressa on useampia tai muutakin kuin yksi äänestyslippu;
-2) jos vaalikuoressa on sellainen puutteellisuus tai merkintä, että äänestys olisi kunnallisvaalilain 74§:n 2 momentin mukaan ollut jätettävä huomioon ottamatta;
+2) jos vaalikuoressa on sellainen puutteellisuus tai merkintä, että äänestys olisi vaalilain 63 §:n 2 momentin 1―3 kohdan mukaan ollut jätettävä huomioon ottamatta;
 3) jos äänestyslippuna on käytetty muuta kuin kunnan painattamaa äänestyslippua;
 4) jos äänestyslippu on leimaamaton;
 5) jos äänestyslippuun on kirjoitettu äänestäjän nimi tai erityinen tuntomerkki taikka siihen on tehty muunlainen asiaton merkintä;
