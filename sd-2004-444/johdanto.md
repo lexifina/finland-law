@@ -1,0 +1,2 @@
+Laki Suomen ja Euroopan eteläisen observatorion (ESO) välillä helmikuun 9 päivänä 2004 Garchingissa tehdyn Suomen liittymistä eteläisen pallonpuoliskon tähtitieteellistä tutkimusta harjoittavan eurooppalaisen järjestön perustamista koskevaan yleissopimukseen koskevan sopimuksen ja yleissopimuksen sekä siihen liittyvien pöytäkirjojen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
