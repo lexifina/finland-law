@@ -1,0 +1,2 @@
+Laki sosiaalialan osaamiskeskustoiminnasta
+Eduskunnan päätöksen mukaisesti säädetään:
