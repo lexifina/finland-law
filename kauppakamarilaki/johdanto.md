@@ -1,0 +1,2 @@
+Kauppakamarilaki
+Eduskunnan päätöksen mukaisesti säädetään:
