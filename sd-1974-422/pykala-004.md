@@ -1,6 +1,6 @@
 # 4§
 
-Edellä 1 ja 3 §:ssä tarkoitettuna korvauksena voidaan maksaa hyvitys kuluista, tulojen tai elatuksen vähentymisestä ja, jos siihen on erityistä syytä, myös kärsimyksestä.
+Tässä laissa tarkoitettuna korvauksena maksetaan hyvitys kuluista, tulojen tai elatuksen vähentymisestä ja kärsimyksestä.
 
 Milloin vahingon kärsinyt on kuollut, ei kuolinpesän osakkailla ole oikeutta panna vireille kannetta, jolla vaaditaan korvausta kärsimyksestä.
 
