@@ -1,0 +1,5 @@
+# 1 §
+
+Sen estämättä, mitä opetus- ja kulttuuritoimen rahoituksesta annetussa laissa (705/92), valtionosuutta saavista kansanopistoista annetussa laissa (1218/93), opintokeskuslaissa (1215/93) ja valtionosuutta saavista liikunnan koulutuskeskuksista annetussa laissa (801/92) säädetään, peruskoulun, lukion, ammatillisten oppilaitosten, ammatillisten erityisoppilaitosten, ammatillisten erikoisoppilaitosten, kansalaisopistojen, musiikkioppilaitosten ja kirjastojen vuoden 1995 yksikköhintojen keskimääräiset markkamäärät vahvistetaan sekä kansanopistojen, opintokeskusten, liikunnan koulutuskeskusten, museoiden, teattereiden ja orkestereiden vuoden 1995 yksikköhinnat määrätään kolme prosenttia alemmiksi kuin vuonna 1994.
+
+Lukion, ammatillisten oppilaitosten, ammatillisten erityisoppilaitosten ja musiikkioppilaitoksissa järjestettävän ammatillisen koulutuksen osalta 1 momentissa tarkoitettuja keskimääräisiä markkamääriä laskettaessa otetaan huomioon yksikköhintojen korotuksen perusteena käytettävien vuokrien ja vuokra-arvon pääomakorvausten kokonaismäärissä vuoden 1994 keskimääräisten markkamäärien vahvistamisen jälkeen tapahtuneet muutokset.
