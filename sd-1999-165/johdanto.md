@@ -1,0 +1,2 @@
+Laki eläkeoikeuden siirtämisestä Suomen työeläkejärjestelmän ja Euroopan yhteisöjen eläkejärjestelmän välillä
+Eduskunnan päätöksen mukaisesti säädetään:
