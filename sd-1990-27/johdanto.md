@@ -1,0 +1,2 @@
+Laki Valtion taloudellisesta tutkimuskeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
