@@ -1,0 +1,3 @@
+# 5 § Edellytysten puuttuminen tai lakkaaminen
+
+Jos palkkatulon lähdeveroa on peritty, vaikka sen edellytykset eivät ole toteutuneet, verotus toimitetaan koko työskentelyn ajalta tuloverotusta koskevien yleisten säännösten mukaan. Peritty lähdevero luetaan tällöin verovelvollisen hyväksi joko ennakkoperintälain mukaisena pidätettynä ennakkona tai rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain (627/78) mukaisena lähdeverona. Tämän pykälän säännöksiä sovelletaan myös siinä tapauksessa, että verovelvollisen palkka tässä laissa tarkoitetun työskentelyn kestäessä alenee alle 2 §:n 1 momentin 2 kohdassa mainitun määrän.
