@@ -1,0 +1,2 @@
+Laki tuomioistuimen toimivaltaa sekä tuomioiden täytäntöönpanoa yksityisoikeuden alalla koskevan yleissopimuksen ja siihen liittyvien pöytäkirjojen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
