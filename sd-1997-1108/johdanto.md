@@ -1,0 +1,2 @@
+Laki Teknillisen tarkastuskeskuksen muuttamisesta osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
