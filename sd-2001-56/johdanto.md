@@ -1,0 +1,2 @@
+Laki työehtosopimuksen yleissitovuuden vahvistamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
