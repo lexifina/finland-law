@@ -1,11 +1,8 @@
-# 7 § Tietovarannon ylläpitoon ja kehittämiseen liittyvät vastuut
+# 7 § Tietovarannon rekisterinpitäjät
 Luku: 2 luku Tietovarannon rakenne ja ylläpito
 
-Oikeusrekisterikeskus toimii tietovarannon rekisterinpitäjänä.
+Oikeusrekisterikeskus, Tuomioistuinvirasto, tuomioistuimet, Syyttäjälaitos ja Oikeuspalveluvirasto ovat valtakunnallisen tietovarannon yhteisrekisterinpitäjiä.
 
-Oikeusministeriö huolehtii tietovarannon kehittämisestä ja käyttöpalvelujen järjestämisestä.
+Edellä 1 momentissa mainitut viranomaiset vastaavat rekisterinpitäjän velvollisuuksista siltä osin kuin on kyse henkilötietojen käsittelystä, jonka tarkoitusten ja keinojen määrittämiseen ne osallistuvat omien lakisääteisten tehtäviensä hoitamiseksi.
 
-Tietovarantoon tietoja tallentanut viranomainen on velvollinen huolehtimaan siitä, että:
-1) sen tallentamat tiedot vastaavat viranomaisen ratkaisuja ja sen omiin rekistereihin tekemiä merkintöjä;
-2) tietovarantoon on tehty tarpeelliset merkinnät tietojen oikeaksi välittämiseksi; ja
-3) merkinnät on tehty rekisterinpitäjän asettamien teknisten vaatimusten mukaisesti.
+Sen lisäksi, mitä 2 momentissa säädetään, tuomioistuimet, Syyttäjälaitos ja Oikeuspalveluvirasto vastaavat rekisterinpitäjinä siitä, että niiden valtakunnalliseen tietovarantoon tallentamat tiedot ovat täsmällisiä ja tarvittaessa päivitettyjä, sekä havaitsemiensa virheiden oikaisusta viipymättä. Oikeusrekisterikeskus vastaa näiden tietojen edelleen välittämisestä tietovarannosta muihin tietojärjestelmiin tiedot luovuttaneen viranomaisen tekemien merkintöjen mukaisesti sekä muista tietovarantoon liittyvistä rekisterinpitäjän velvollisuuksista, joita ei ole jaettu rekisterinpitäjien kesken.
