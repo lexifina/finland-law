@@ -10,4 +10,6 @@ Valtion varoista suoritetaan oikeusapua saaneen asianosaisen nimeämälle todist
 
 Jos muu oikeusapua saanut asiaan osallinen kuin rikosasian vastaaja on määrätty asian selvittämisen vuoksi saapumaan henkilökohtaisesti tuomioistuimeen, korvataan hänen tuomioistuimeen saapumisestaan aiheutuneet kustannukset valtion varoista.
 
-Lisäksi oikeusavun myöntäminen vapauttaa edun saajan velvollisuudesta suorittaa tuomion tai päätöksen täytäntöönpanosta valtiolle suoritettavia ulosottomaksuja ja etukäteen perittäviä kuluja. Kaikki välttämättömät täytäntöönpanokulut suoritetaan valtion varoista, jos niitä ei voida saada vastapuolelta perityiksi. Tässä momentissa säädetty ei kuitenkaan koske uudistettua ulosottomenettelyä siltä osin kuin aikaisempi ulosottoyritys on rauennut velallisen varattomuuden vuoksi.
+Lisäksi oikeusavun myöntäminen vapauttaa edun saajan velvollisuudesta suorittaa tuomion tai päätöksen täytäntöönpanosta valtiolle suoritettavia ulosottomaksuja ja etukäteen perittäviä kuluja. Kaikki välttämättömät täytäntöönpanokulut suoritetaan valtion varoista, jos niitä ei voida saada vastapuolelta perityiksi.
+
+Oikeusavun myöntäminen toisessa Euroopan unionin jäsenvaltiossa tai Euroopan talousalueeseen kuuluvassa valtiossa vapauttaa 4 momentissa tarkoitetulla tavalla ulosottomaksuista ja kuluista, jos tuomio pannaan täytäntöön Suomessa.
