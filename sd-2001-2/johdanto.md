@@ -1,0 +1,2 @@
+Laki Länsi-Euroopan puolustusmateriaaliryhmän kanssa tehdyn eurooppalaista tutkimus- ja teknologiayhteistyöjärjestelmää koskevan puitesopimuksen sekä siihen liittyvän liitekirjeen nojalla sovellettavan Länsi-Euroopan unionin sekä sen kansallisten edustajien ja kansainvälisen henkilöstön asemasta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
