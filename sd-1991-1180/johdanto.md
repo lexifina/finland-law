@@ -1,0 +1,2 @@
+Laki Euroopan paikallisen itsehallinnon peruskirjan eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
