@@ -1,0 +1,2 @@
+Laki työnantajan lapsilisämaksun ja vakuutetun kansaneläkevakuutusmaksun perimättä jättämisestä vuodelta 1996
+Eduskunnan päätöksen mukaisesti säädetään:
