@@ -1,0 +1,2 @@
+Laki vuokra-asuntojen korkotukilainalla rahoitetuista osaomistusasunnoista
+Eduskunnan päätöksen mukaisesti säädetään:
