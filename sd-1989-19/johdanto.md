@@ -1,0 +1,2 @@
+Laki Kansainvälisen investointitakauslaitoksen perustamista koskevan yleissopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
