@@ -1,0 +1,2 @@
+Laki Seitsemisen kansallispuiston laajentamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
