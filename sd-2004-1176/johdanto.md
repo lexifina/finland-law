@@ -1,0 +1,2 @@
+Laki kaksinkertaisen verotuksen poistamisesta etuyhteydessä keskenään olevien yritysten tulonoikaisun yhteydessä tehdyn yleissopimuksen muuttamista koskevan pöytäkirjan eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
