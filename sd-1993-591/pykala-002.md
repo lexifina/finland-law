@@ -1,0 +1,5 @@
+# 2 §
+
+Riita-asia, jossa haastehakemus on toimitettu tuomioistuimeen ennen 1 päivää lokakuuta 1993, käsitellään alioikeudessa noudattaen tämän lain voimaan tullessa voimassa olleita menettelysäännöksiä. Tällainen asia käsitellään kuitenkin 1 päivästä joulukuuta 1993 oikeudenkäymiskaaren 2 luvun 1, 2 tai 3 §:ssä tarkoitetussa kokoonpanossa. Jos asianosaiset suostuvat tai jos asia on sillä tavoin selvä kuin oikeudenkäymiskaaren 6 luvun 15 §:n 1 momentissa säädetään, käräjäoikeus on päätösvaltainen, kun siinä on yksin puheenjohtaja.
+
+Jos 1 momentissa tarkoitettu asia on lykätty odottamaan jonkin toisen asian ratkaisemista tai se on alioikeusuudistukseen liittyvien lakien voimaanpanosta annetun lain voimaan tultua palautettu muutoksenhakutuomioistuimesta alioikeuteen, asia käsitellään kuitenkin noudattaen 1 päivänä joulukuuta 1993 voimaan tulleita säännöksiä. Asia, jossa takaisinsaantihakemus on toimitettu tuomioistuimeen 1 päivänä lokakuuta 1993 tai sen jälkeen, käsitellään noudattaen 1 §:ssä tarkoitettuja säännöksiä.

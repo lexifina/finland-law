@@ -1,0 +1,2 @@
+Laki alioikeusuudistuksen siirtymäsäännöksistä
+Eduskunnan päätöksen mukaisesti säädetään:
