@@ -1,5 +1,5 @@
 # 8 §
 
-Välimiehenä saa olla jokainen, joka hallitsee itseään ja omaisuuttaan, jolleivät asianosaiset ole toisin määränneet.
+Jos asianosaiset eivät ole määränneet toisin, välimiehenä saa olla jokainen täysi-ikäinen henkilö, joka ei ole konkurssissa ja jonka toimintakelpoisuutta ei ole rajoitettu.
 
 Välimiehenä saa Suomessa toimia myös muu kuin Suomen kansalainen.
