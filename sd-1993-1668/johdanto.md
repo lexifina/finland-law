@@ -1,0 +1,2 @@
+Laki eläketuloa saavan henkilön korotetusta sosiaaliturvamaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
