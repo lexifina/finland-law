@@ -1,0 +1,2 @@
+Laki aikuisten järjestelmällisen hammashuollon toimeenpanon siirtämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
