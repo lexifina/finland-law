@@ -1,0 +1,2 @@
+Laki Kurjenrahkan kansallispuistosta
+Eduskunnan päätöksen mukaisesti säädetään:
