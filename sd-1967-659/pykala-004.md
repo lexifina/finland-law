@@ -1,3 +1,3 @@
 # 4§
 
-Tämän lain nojalla annettujen tai siihen perustuvien määräysten rikkomisesta tuomitaan rangaistus ja muut seuraamukset eräitä valtuuslakeja vastaan tehtyjen rikosten rankaisemisesta 28 päivänä kesäkuuta 1958 annetun lain (305/58) mukaan. Muutoinkin on mainitun lain säännöksiä sovellettava tämän lain alaan kuuluvissa asioissa.
+Rangaistus viranomaisen tämän lain nojalla antaman säännöstelymääräyksen rikkomisesta ja sen yrittämisestä on säädetty rikoslain 46 luvun 1-3§:ssä. Menettämisseuraamuksista on säädetty saman luvun 8-13§:ssä.
