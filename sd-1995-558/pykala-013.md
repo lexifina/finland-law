@@ -1,3 +1,5 @@
 # 13 §
 
-Kiinteistötoimitusmaksusta on voimassa, mitä verojen ja maksujen perimisestä ulosottotoimin annetussa laissa (367/61) säädetään julkisista maksuista. Laissa tarkoitettu perustevalitus tehdään maanmittauslaitoksen keskushallinnolle, jos maksun saajana on valtio, ja lääninoikeudelle, jos maksun saajana on kunta.
+Kiinteistötoimitusmaksun määräämistä koskevaan päätökseen ei saa hakea valittamalla muutosta.
+
+Kiinteistötoimitusmaksusta on voimassa, mitä verojen ja maksujen perimisestä ulosot-totoimin annetussa laissa (367/61) säädetään. Laissa tarkoitettu perustevalitus tehdään asianomaiselle lääninoikeudelle.
