@@ -1,0 +1,2 @@
+Laki terrorististen pommi-iskujen torjumisesta tehdyn kansainvälisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
