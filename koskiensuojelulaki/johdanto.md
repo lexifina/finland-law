@@ -1,0 +1,2 @@
+Koskiensuojelulaki
+Eduskunnan päätöksen mukaisesti säädetään:
