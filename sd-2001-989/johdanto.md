@@ -1,0 +1,2 @@
+Laki muovailtavien räjähteiden merkitsemisestä tunnistamista varten tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
