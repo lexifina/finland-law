@@ -1,0 +1,2 @@
+Laki Venäjän kanssa maantien rakentamisesta maantieliikenteen turvaamiseksi Nuijamaan kansainvälisen maantieliikenteen rajanylityspaikan (Suomen tasavalta) ja Brusnitshnojen kansainvälisen maantieliikenteen rajanylityspaikan (Venäjän federaatio) välillä liittyen Nuijamaan rajanylityspaikan siirtämiseen tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
