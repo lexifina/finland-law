@@ -1,0 +1,3 @@
+# 3 § Perustajan pääkonttorin sijainti
+
+Eurooppayhtiön perustamiseen voi osallistua myös sellainen suomalainen osakeyhtiö tai siihen rinnastettava ulkomainen yhtiö, jonka pääkonttori ei ole Euroopan talousalueella, jos yhtiö täyttää eurooppayhtiöasetuksen 2 artiklan 5 kohdan mukaiset vaatimukset yhtiön perustamisesta, sääntömääräisestä kotipaikasta ja yhteydestä jonkin Euroopan talousalueeseen kuuluvan valtion talouteen. Sama koskee myös muuta Euroopan yhteisön perustamissopimuksen 48 artiklassa tarkoitettua yhtiötä, jos eurooppayhtiö perustetaan eurooppayhtiöasetuksen 2 artiklan 3 kohdassa tarkoitetulla tavalla.
