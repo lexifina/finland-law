@@ -1,0 +1,2 @@
+Laki merioikeudellisia vaateita koskevan vastuun rajoittamisesta tehdyn vuoden 1976 yleissopimuksen muuttamisesta tehdyn vuoden 1996 pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
