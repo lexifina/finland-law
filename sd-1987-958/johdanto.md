@@ -1,0 +1,2 @@
+Laki vuoden 1988 poikkeussäännöksistä verolakeihin
+Eduskunnan päätöksen mukaisesti säädetään
