@@ -1,0 +1,2 @@
+Laki uskontokuntien jäsenrekistereistä
+Eduskunnan päätöksen mukaisesti säädetään:
