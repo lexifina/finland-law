@@ -1,0 +1,2 @@
+Laki tapaturmaviraston eräiden tehtävien siirtämisestä valtiokonttorille
+Eduskunnan päätöksen mukaisesti säädetään:
