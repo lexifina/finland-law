@@ -1,0 +1,2 @@
+Laki ulkomaalaisvirastosta
+Eduskunnan päätöksen mukaisesti säädetään:
