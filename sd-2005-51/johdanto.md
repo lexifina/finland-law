@@ -1,0 +1,2 @@
+Laki Liesjärven kansallispuiston laajentamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
