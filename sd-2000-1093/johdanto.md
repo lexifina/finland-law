@@ -1,0 +1,2 @@
+Laki kaikkinaisen naisten syrjinnän poistamista koskevan yleissopimuksen valinnaisen pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
