@@ -1,0 +1,2 @@
+Laki julkisyhteisöjen henkilöstöltä vaadittavasta kielitaidosta
+Eduskunnan päätöksen mukaisesti säädetään:
