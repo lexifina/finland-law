@@ -3,7 +3,7 @@ Luku: 4 luku Eläimet
 
 Yleisen järjestyksen ja turvallisuuden säilymiseksi koiran omistajan tai haltijan on:
 1) pidettävä koira taajamassa kytkettynä;
-2) pidettävä huolta, ettei koira pääse yleiselle uimarannalle, lasten leikkipaikaksi varatulle alueelle, toriaikana torille, kuntopolulle tai muulle sen kaltaiselle juoksuradalle kytkemättömänä, yleiseen käyttöön kunnostetulle ladulle tai urheilukentälle, jollei se ole erikseen sallittua;
+2) pidettävä huolta siitä, ettei koira pääse kytkemättömänä kuntopolulle tai muulle sen kaltaiselle juoksuradalle eikä lainkaan yleiselle uimarannalle, lasten leikkipaikaksi varatulle alueelle, toriaikana torille taikka yleiseen käyttöön kunnostetulle ladulle tai urheilukentälle, jollei se ole erikseen sallittua;
 3) pidettävä huolta siitä, että koiran uloste ei jää ympäristöön hoidetulla alueella taajamassa.
 
 Mitä 1 momentin 1 ja 2 kohdassa säädetään, ei koske virantoimituksessa käytettävää valtion omistamaa koiraa, vartiointitehtävässä olevaa vartijan koiraa, palvelutehtävässä olevaa koulutettua pelastuskoiraa, liikuntavammaisen avustajakoiraa eikä näkövammaisen opaskoiraa.
