@@ -1,0 +1,2 @@
+Laki Itävallan, Suomen ja Ruotsin liittymisestä tuomioistuimen toimivaltaa sekä tuomioiden täytäntöönpanoa yksityisoikeuden alalla koskevaan yleissopimukseen sekä yleissopimuksen tulkintaa Euroopan yhteisöjen tuomioistuimessa koskevaan pöytäkirjaan tehdyn yleissopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti, joka on tehty valtiopäiväjärjestyksen 69 §:n 1 momentissa määrätyllä tavalla, säädetään:
