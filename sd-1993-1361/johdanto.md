@@ -1,0 +1,2 @@
+Laki tallettajien saamisten turvaamisesta säästökassatoimintaa harjoittavassa osuuskunnassa
+Eduskunnan päätöksen mukaisesti säädetään:
