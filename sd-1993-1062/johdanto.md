@@ -1,0 +1,2 @@
+Laki elinkeinonharjoittajien välisten sopimusehtojen sääntelystä
+Eduskunnan päätöksen mukaisesti säädetään:
