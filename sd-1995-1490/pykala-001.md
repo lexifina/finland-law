@@ -1,0 +1,3 @@
+# 1 §
+
+Jos eläkkeitä koskevassa lainsäädännössä sekä eläkettä ja muuta etuutta koskevissa järjestelyissä säädetään lailla, asetuksella tai määrätään valtioneuvoston tai ministeriön päätöksellä siitä, että etuuksien määrää, niiden perusteena olevaa tuloa tai muuta markkamäärää tarkistetaan kalenterivuosittain maan yleisessä palkkatasossa tapahtuneiden muutosten johdosta sen palkkaindeksiluvun mukaan, joka vuosittain vahvistetaan työntekijäin eläkelain 9 §:n soveltamista varten, käytetään etuutta tarkistettaessa työntekijäin eläkelain 9 §:n 2 momentin ensimmäisessä virkkeessä tarkoitettua indeksilukua sen kalenterivuoden loppuun, jona etuudensaaja täyttää 65 vuotta ja muutoin 9 §:n 2 momentin toisessa virkkeessä tarkoitettua indeksilukua.
