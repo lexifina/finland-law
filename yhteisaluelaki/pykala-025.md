@@ -1,3 +1,3 @@
 # 25 §
 
-Asioissa, joissa osakaskunta on asianosaisena tuomioistuimessa tai muussa viranomaisessa, on myös osakkaalla oikeus käyttää puhevaltaa omasta osuudestaan.
+Asiassa, jossa osakaskunta on asianosaisena tuomioistuimessa tai muussa viranomaisessa, myös osakkaalla on oikeus käyttää puhevaltaa omalla kustannuksellaan omasta osuudestaan sen estämättä, mitä 24 §:ssä säädetään.

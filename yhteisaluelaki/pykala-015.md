@@ -6,5 +6,9 @@ Osakaskunnan päätöksen tekemiseen vaaditaan, että päätöstä kannattaa vä
 1) yhteisen alueen tai yhteisen erityisen etuuden taikka sen osan myymistä tai vuokraamista viittä vuotta pitemmäksi ajaksi;
 2) yhteisen alueen käyttötarkoituksen pysyvää muuttamista;
 3) osakaskunnan sääntöjen muuttamista;
-4) velan ottamista; tai
-5) osakkaiden suoritettavaksi tarkoitetun maksun määräämistä.
+4) velan ottamista;
+5) osakkaiden suoritettavaksi tarkoitetun maksun määräämistä;
+6) yhteisten alueiden yhdistämistä tai kiinteistöön kuuluvan alueen liittämistä yhteiseen alueeseen osakkuutta vastaan koskevan sopimuksen hyväksymistä;
+7) osakkaiden pyydysyksikköjen jakamista vesialueosuuksista poikkeavalla tavalla;
+8) kalastuskunnan tehtävien siirtämistä kalastusalueen suoritettavaksi; taikka
+9) yhteisen vesialueen käyttämistä kalastukseen muulla tavoin kuin siten, että kukin osakas tai se, joka laillisesti käyttää hänen kalastusoikeuttaan, kalastaa vesistössä.

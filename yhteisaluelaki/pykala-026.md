@@ -1,7 +1,9 @@
 # 26 §
 
-Jos osakaskunta on järjestäytynyt, haaste ja muu ilmoitus katsotaan osakaskunnalle toimitetuksi, kun se on annettu tiedoksi jollekin hoitokunnan jäsenelle tai toimitsijalle.
+Jos osakaskunta on järjestäytynyt, haaste tai muu ilmoitus katsotaan osakaskunnalle toimitetuksi, kun se on annettu tiedoksi jollekulle hoitokunnan jäsenelle tai toimitsijalle.
 
-Järjestäytymättömän osakaskunnan osakkaat voidaan haastaa vastaajiksi osakaskuntaa koskevassa asiassa oikeudenkäymiskaaren 11 luvun 14§:n 1 momentin mukaisesti. Tämän estämättä oikeus voi asiaa käsitellessään määrätä kantajan haastamaan kuultavaksi sellaisen osakkaan, jolle ei ole erikseen annettu tietoa haasteesta.
+Järjestäytymätön osakaskunta voidaan haastaa vastaajaksi oikeudenkäymiskaaren 11 luvun 14 §:n 1 momentin mukaisesti.
 
-Jollei muualla ole toisin säädetty, voidaan ilmoitus antaa järjestäytymättömälle osakaskunnalle tiedoksi noudattaen haasteen tiedoksiantomenettelyä tai antamalla ilmoitus tiedoksi jollekin osakkaalle ja tiedottamalla ilmoituksesta vähintään yhdessä paikkakunnalla leviävässä sanomalehdessä.
+Jollei muualla säädetä toisin, ilmoitus voidaan antaa järjestäytymättömälle osakaskunnalle tiedoksi noudattaen haasteen tiedoksiantomenettelyä.
+
+Järjestäytymättömän osakaskunnan kokous tai kaikki osakkaat yksimielisesti voivat päätöksellään valtuuttaa yhden tai useamman osakkaan tai muun henkilön osakaskunnan edustajana vastaanottamaan ja saattamaan osakaskunnan käsiteltäviksi 2 ja 3 momentissa tarkoitettuja tiedoksiantoja.
