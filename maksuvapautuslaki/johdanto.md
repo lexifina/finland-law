@@ -1,0 +1,2 @@
+Maksuvapautuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
