@@ -1,0 +1,2 @@
+Laki yhtiöjärjestykseen perustuvasta kunnan lunastusoikeudesta ja osakkeiden enimmäishinnoista
+Eduskunnan päätöksen mukaisesti säädetään:
