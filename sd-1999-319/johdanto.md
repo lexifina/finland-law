@@ -1,0 +1,2 @@
+Laki televiestinnän voimavarojen antamista suuronnettomuuksien lievittämiseen ja pelastustoimiin koskevan yleissopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
