@@ -1,0 +1,2 @@
+Laki Eurooppa-koulujen perussäännöstä tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
