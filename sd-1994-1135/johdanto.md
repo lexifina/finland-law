@@ -1,0 +1,2 @@
+Laki kulttuuriomaisuuden suojelemista aseellisen selkkauksen sattuessa koskevan pöytäkirjan eräiden määräysten hyväksymisestä ja pöytäkirjan soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
