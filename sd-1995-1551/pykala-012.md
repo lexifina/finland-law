@@ -2,4 +2,4 @@
 
 Tämä laki tulee voimaan 1 päivänä tammikuuta 1996.
 
-Lakia sovelletaan palkkaan, joka saadaan lain voimaantulopäivänä tai sen jälkeen sellaisen työskentelyn perusteella, joka alkaa lain voimaantulopäivän ja joulukuun 31 päi- vän 1997 välisenä aikana, mainitut päivät mukaan lukien. Muulta osalta lakia sovelletaan ensimmäisen kerran vuodelta 1996 toimitettavassa verotuksessa.
+Lakia sovelletaan palkkaan, joka saadaan tai on saatu 1 päivänä tammikuuta 1996 tai sen jälkeen, jos palkka perustuu työskentelyyn, joka alkaa tai on alkanut 1 päivän tammikuuta 1996 ja 31 päivän joulukuuta 1999 välisenä aikana, mainitut päivät mukaan luettuina. Muulta osalta lakia sovelletaan ensimmäisen kerran vuodelta 1996 toimitettavassa verotuksessa.
