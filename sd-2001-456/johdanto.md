@@ -1,0 +1,2 @@
+Laki kansaneläkeindeksistä
+Eduskunnan päätöksen mukaisesti säädetään:
