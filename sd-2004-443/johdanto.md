@@ -1,0 +1,2 @@
+Laki Pohjoismaiden ympäristörahoitusyhtiön kanssa Itämeren alueen koealuerahastosta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
