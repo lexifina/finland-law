@@ -1,0 +1,2 @@
+Laki öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamista koskevan vuoden 1971 kansainvälisen yleissopimuksen muuttamisesta tehdyn vuoden 1992 pöytäkirjan vastuurajojen muutoksen voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
