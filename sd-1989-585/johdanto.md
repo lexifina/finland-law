@@ -1,0 +1,2 @@
+Laki Amerikan yhdysvaltojen kanssa keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen eräiden määräysten hvyäksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
