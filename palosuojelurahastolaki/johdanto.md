@@ -1,0 +1,2 @@
+Palosuojelurahastolaki
+Eduskunnan päätöksen mukaisesti säädetään:
