@@ -1,8 +1,15 @@
-# 3 § Taimiaineiston toimittajan valtuuttaminen
+# 3 § Taimiaineiston toimittajan hyväksyminen ja rekisteröinti
 Luku: 2 luku Taimiaineiston tuotanto ja markkinointi
 
-Taimiaineistoa saa markkinoida ja markkinointia varten tuottaa, varastoida ja maahantuoda vain kasvintarkastusviranomaisen valtuuttama ja rekisteröimä taimiaineiston toimittaja.
+Taimiaineistoa saa markkinoida, markkinointia varten tuottaa, varastoida ja maahantuoda vain sellainen taimiaineiston toimittaja, joka on hyväksytty ja merkitty kasvintuotannon tarkastuskeskuksen valvontaa varten pitämään rekisteriin. Maa- ja metsätalousministeriön asetuksella säädetään tarkemmin, sen mukaan kuin taimiaineiston tuottamista ja markkinointia koskevat Euroopan yhteisön säännökset edellyttävät, mitä taimiaineistoa hyväksymis- ja rekisteröintivaatimus koskee.
 
-Taimiaineiston toimittaja voidaan valtuuttaa ja rekisteröidä ainoastaan, jos tämä on järjestänyt toimintansa laadunvarmistuksen ja jos kasvintarkastusviranomainen voi valvoa tämän toimintaa.
+Hyväksymisen ja rekisteröinnin edellytyksenä on, että:
+1) toimittaja on järjestänyt toimintansa laadunvarmistuksen;
+2) toimittajalla on toiminnan asianmukaiseen harjoittamiseen tarvittavat tuotanto- tai toimitilat; sekä
+3) rekisteriin merkittävässä toimintayksikössä on tämän lain säännösten noudattamisesta vastaava henkilö.
 
-Maa- ja metsätalousministeriö voi antaa tarkempia määräyksiä taimiaineiston toimittajan valtuuttamisesta ja rekisteröinnistä.
+Maa- ja metsätalousministeriön asetuksella annetaan tarkemmat säännökset taimiaineiston toimittajan hyväksymisen ja rekisteröinnin perusteista sen mukaan kuin taimiaineiston tuottamista ja markkinointia koskevat Euroopan yhteisön säännökset edellyttävät.
+
+Hyväksymistä ja rekisteröintiä haetaan kasvintuotannon tarkastuskeskukselle osoitetulla hakemuksella, joka toimitetaan työvoima- ja elinkeinokeskukselle. Päätöksen hyväksymisestä ja rekisteröinnistä tekee työvoima- ja elinkeinokeskus. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä hyväksymistä ja rekisteröintiä koskevasta hakemusmenettelystä.
+
+Taimiaineiston toimittajan on ilmoitettava kirjallisesti kasvintuotannon tarkastuskeskukselle toimintansa aloittamisesta, lopettamisesta ja toiminnassa tapahtuvista muutoksista.

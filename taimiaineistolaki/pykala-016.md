@@ -1,6 +1,8 @@
 # 16 § Muutoksenhaku
 Luku: 5 luku Erinäiset säännökset
 
-Tämän lain nojalla annettuun kasvintuotannon tarkastuskeskuksen tai valtuutetun tarkastajan päätökseen saa hakea muutosta valittamalla korkeimpaan hallinto-oikeuteen noudattaen, mitä muutoksenhausta hallintoasioissa annetussa laissa (154/50) säädetään.
+Tämän lain nojalla annettuun valvontaviranomaisen päätökseen saa hakea muutosta valittamalla maaseutuelinkeinojen valituslautakuntaan noudattaen, mitä muutoksenhausta hallintolainkäyttölaissa (586/1996) säädetään. Valituskirjelmä voidaan toimittaa myös päätöksen tehneelle viranomaiselle, jonka on viipymättä lähetettävä valituskirjelmä sekä asiassa kertyneet asiakirjat ja lausuntonsa valituksesta valituslautakunnalle.
 
-Edellä 10 §:n 1 momentin nojalla annettua päätöstä on muutoksenhausta huolimatta noudatettava, jollei korkein hallinto-oikeus muutoksenhakua käsitellessään kiellä täytäntöönpanoa tai määrää sitä keskeytettäväksi.
+Edellä 10 §:n 1 ja 2 momentissa tarkoitettua päätöstä on noudatettava jo ennen kuin se on saanut lainvoiman, jollei valitusviranomainen toisin päätä.
+
+Tämä laki tulee voimaan 1 päivänä marraskuuta 2000.

@@ -1,8 +1,8 @@
-# 8 § Tarkastusoikeus
+# 8 § Tarkastus- ja tiedonsaantioikeus
 Luku: 3 luku Valvonta
 
-Kasvintuotannon tarkastuskeskuksen valtuuttamalla tarkastajalla on oikeus tarkastaa taimiaineistoa, viljelmiä, viljelypaikkoja, tuotanto- ja pakkaustiloja, kuljetusvälineitä, varastointi- ja myyntipaikkoja sekä ottaa maksutta tarpeellisia näytteitä.
+Valvontaviranomaisilla ja valtuutetuilla tarkastajilla on oikeus valvontaa varten tarkastaa taimiaineistoa, viljelmiä, viljelypaikkoja, taimiaineiston tuotanto- ja pakkaustiloja, varastointi- ja myyntipaikkoja sekä kuljetusvälineitä ja taimiaineiston toimittajan kirjanpitoa sekä ottaa maksutta tarpeellisia näytteitä taimiaineistosta. Kotirauhan piirissä tarkastus tai näytteenotto saadaan toimittaa vain, jos on perusteltua syytä epäillä jonkun syyllistyneen tässä laissa rangaistavaksi säädettyyn menettelyyn.
 
-Taimiaineiston toimittajan on vaadittaessa annettava tarkastuskeskukselle ja valtuutetulle tarkastajalle kaikki valvontaa ja tarkastuksen suorittamista varten tarvittavat tiedot.
+Valvontaviranomaisilla ja valtuutetuilla tarkastajilla on oikeus saada tässä laissa tarkoitettua tarkastusta ja valvontaa varten tarpeelliset tiedot ja asiakirjat taimiaineiston toimittajalta.
 
-Poliisi-, tulli- ja paloviranomaisten tulee kasvintuotannon tarkastuskeskuksen tai valtuutetun tarkastajan pyynnöstä antaa virka-apua tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamisen valvonnassa.
+Poliisi-, tulli- ja paloviranomaiset ovat velvollisia tämän lain mukaisten valvontaviranomaisten pyynnöstä antamaan valvontaviranomaisille virka-apua tämän lain ja sen nojalla annettujen säännösten ja määräysten mukaisten tehtävien suorittamisessa.
