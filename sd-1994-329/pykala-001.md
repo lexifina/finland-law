@@ -1,0 +1,16 @@
+# 1 §
+
+Opetusministeriö oikeutetaan luovuttamaan määräämillään ehdoilla kunnalle tai kuntayhtymälle korvauksetta 1-13 kohdassa yksilöidyt valtion ammatillisten oppilaitosten kiinteistöt rakennuksineen ja irtaimistoineen:
+1) Kiteen kaupungin Niinikummun kylässä sijaitsevat Kiteen koulutila -niminen kiinteistö RN:O 23, Kannokko-niminen kiinteistö RN:O 4:15 ja Joenpolvi-niminen kiinteistö RN:O 25:4, Puhoksen kylässä sijaitseva Yhteislaidun-niminen kiinteistö RN:O 19:2, Kunonniemen kylässä sijaitsevat Latiskamäki-niminen kiinteistö RN:O 1:11, Pekkala-niminen kiinteistö RN:O 41:1, Marjamaa-niminen kiinteistö RN:O 6:9 ja Pyörnilä I -nimisestä kiinteistöstä RN:O 6:11 valtiolle 21 päivänä syyskuuta 1992 tehdyllä kauppakirjalla ostettu noin 40 hehtaarin suuruinen määräala;
+2) Parikkalan kunnan Mäntylahden kylässä sijaitsevat Parikkalan koulutila -niminen kiinteistö RN:O 29:1, Peltola-niminen kiinteistö RN:O 17:11, Peltola II -niminen kiinteistö RN:O 12:25 ja Koulutie-niminen kiinteistö RN:O 12:15;
+3) Lieksan kaupungin Lieksan kylässä sijaitseva Märäjälahti-niminen kiinteistö RN:O 182;
+4) Joensuun kaupungin Penttilän kaupunginosan korttelissa 1603 sijaitseva tontti n:o 1, korttelissa 1604 sijaitseva tontti n:o 5, korttelissa 1612 sijaitseva tontti n:o 1 ja korttelissa 1642 sijaitseva tontti n:o 1, Niinivaaran kaupunginosan korttelissa 584 sijaitseva tontti n:o 3 ja Pielisensuun kylässä sijaitseva Paikoitusalue-niminen kiinteistö RN:O 121;
+5) Loimaan kunnan Hattulan kylässä sijaitsevat Tuomola-niminen kiinteistö RN:O 2, Toukolinna-niminen kiinteistö RN:O 8, Toukolinna I -niminen kiinteistö RN:O 1:18, Toukolinna III -niminen kiinteistö RN:O 1:50, Harteila-niminen kiinteistö RN:O 9:1 ja Palolaidun-niminen kiinteistö RN:O 4:25 ja Kauhanojan kylässä sijaitseva Korpi-Jaakola-niminen kiinteistö RN:O 1:31;
+6) Pieksämäen kaupungin Nikkarilan kylässä sijaitsevasta Ukonkangas-nimisestä kiinteistöstä RN:O 2:14 tontiksi erotettava noin 11 hehtaarin suuruinen määräala ja Pieksämäen maalaiskunnan Nikkarilan kylässä sijaitsevasta Nikkarila-nimisestä kiinteistöstä RN:O 1:17 tontiksi erotettava noin 21,8 hehtaarin suuruinen määräala;
+7) Porin kaupungin Tiilimäen kaupunginosan korttelissa 15 sijaitseva tontti n:o 7;
+8) Pudasjärven kunnan Pudasjärven kylässä sijaitsevat Törrön koulutila -niminen kiinteistö RN:O 9:27 ja Törrön saari -niminen kiinteistö RN:O 53:5;
+9) Rauman kaupungin 4. kaupunginosan korttelissa 415 sijaitseva tontti n:o 7;
+10) Ruukin kunnan Revonlahden kylässä sijaitsevat Keränen-niminen kiinteistö RN:O 1:100, Kinnunen-niminen kiinteistö RN:O 1:99, Pikkusuo-niminen kiinteistö RN:O 41:6, Aurala-nimisestä kiinteistöstä RN:O 1:102 erotettava noin 1,5 hehtaarin suuruinen määräala ja Revonsuo-nimisestä kiinteistöstä RN:O 1:113 erotettava noin 57 hehtaarin suuruinen määräala;
+11) Sodankylän kunnan Kirkonkylän kylässä sijaitsevat Näkkälä-niminen kiinteistö RN:O 13:29 ja valtiolle 20 päivänä heinäkuuta 1981 tehdyllä lahjakirjalla luovutettu noin 5 hehtaarin suuruinen määräala Hietala-nimisestä kiinteistöstä RN:O 20:28;
+12) Turun kaupungin III kaupunginosan korttelissa 12 sijaitseva tontti n:o 4 ja korttelissa 19 sijaitseva tontti n:o 8; sekä
+13) Turun kaupungin Peltolan kaupunginosan korttelissa 4 sijaitseva tontti n:o 14.
