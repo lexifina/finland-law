@@ -1,0 +1,2 @@
+Talletusten ja obligaatioiden veronhuojennuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
