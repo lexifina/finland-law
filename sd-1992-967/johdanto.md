@@ -1,0 +1,2 @@
+Laki välimiesmenettelystä
+Eduskunnan päätöksen mukaisesti säädetään:
