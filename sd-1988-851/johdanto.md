@@ -1,0 +1,2 @@
+Laki eräiden valtion omistamien alueiden muodostamisesta soidensuojelualueiksi
+Eduskunnan päätöksen mukaisesti säädetään:
