@@ -9,4 +9,4 @@ Seuraamus, jonka vieraan valtion tuomioistuin on määrännyt, saadaan panna tä
 
 Vapaudenmenetystä tarkoittava seuraamus voidaan 1 momentin mukaisesti panna täytäntöön Suomessa, jos tuomittu on Suomen kansalainen tai hänellä on kotipaikkansa täällä ja tuomittu on suostunut siihen.
 
-Vieraassa valtiossa määrättyä seuraamusta ei saa panna Suomessa täytäntöön, jos syyte siitä rikoksesta, josta seuraamus on määrätty, tai menettämisseuraamuksen osalta erikseen ajettu kanne on täällä vireillä tai asia on lainvoimaisella tuomiolla ratkaistu taikka jos oikeuskansleri on määrännyt syytteen nostettavaksi tuosta rikoksesta.
+Vieraassa valtiossa määrättyä seuraamusta ei saa panna Suomessa täytäntöön, jos syyte siitä rikoksesta, josta seuraamus on määrätty, tai menettämisseuraamuksen osalta erikseen ajettu kanne on täällä vireillä tai asia on lainvoimaisella tuomiolla ratkaistu taikka jos valtakunnansyyttäjä on määrännyt syytteen nostettavaksi tuosta rikoksesta.
