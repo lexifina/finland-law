@@ -1,0 +1,2 @@
+Laki ihmisoikeuksien ja perusvapauksien suojaamista koskevan yleissopimuksen yhdeksännen lisäpöytäkirjan eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
