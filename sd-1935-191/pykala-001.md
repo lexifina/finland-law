@@ -1,0 +1,3 @@
+# 1 §
+
+Sellainen osakeyhtiö ja osuuskunta sekä avoin yhtiö, kommandiittiyhtiö, laivanisännistöyhtiö tai muu yhtymä tahi yhteisetuus, jonka osakkeista tai osuuksista enemmän kuin puolet kuuluu verovuoden alussa mainitun yhteisön, yhtymän tai yhteisetuuden osake-, jäsen- tai muun sitä vastaavan luettelon mukaan Suomen ortodoksisen kirkkokunnan jäsenille, on verovelvollinen tämän kirkkokunnan seurakunnalle, niin kuin siitä erikseen säädetään. Sama koskee erillisenä verovelvollisena verotettavaa kotimaista kuolinpesää sekä yhdistystä, jonka jäsenistä verovuoden alussa jäsenluettelon mukaan enemmistö on sanotun kirkkokunnan jäseniä.
