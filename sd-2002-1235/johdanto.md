@@ -1,0 +1,2 @@
+Laki eurooppalaista yleissopimusta rajat ylittävistä televisiolähetyksistä muuttavan pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
