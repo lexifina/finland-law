@@ -1,0 +1,2 @@
+Laki Helvetinjärven kansallispuiston laajentamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
