@@ -1,6 +1,7 @@
 # 3§
 
-Tämän lain säännösten estämättä saa
-1) valtio, maakunta ja Ahvenanmaan kunta hankkia tai hallita Ahvenanmaan maakunnassa olevaa kiinteätä omaisuutta;
-2) pankki siitä erikseen säädetyllä tavalla väliaikaisesti hankkia kiinteätä omaisuutta, joka on maksamattoman velan panttina tai vakuutena; sekä
-3) jokainen omistaa ja haluta omaisuutta, minkä hän ennen tämän lain voimantuloa on laillisesti saanut omistukseensa tai hallintaansa, mikäli 18 §:ssä ei muuta johdu, tahi sen jälkeen perintönä tai pakkolunastuksen johdosta saanut.
+Rintaperillinen ja puoliso saavat tämän lain säännösten estämättä periä 2 §:ssä tarkoitettua omaisuutta sekä hankkia osuuksia kuolinpesästä, joka omistaa tai hallitsee kiinteää omaisuutta, jos he ovat kuolinpesän osakkaita. Puolison kuoleman jälkeen toimitettavassa osituksessa saa eloonjäänyt puoliso tämän lain estämättä hankkia omaisuutta avio-oikeuden nojalla. Maakuntalailla säädetään, millä edellytyksillä rintaperillinen ja puoliso saavat tämän lain estämättä testamentin nojalla hankkia 2 §:ssä tarkoitettua omaisuutta. Samoin maakuntalailla säädetään, millä edellytyksillä puoliso yhdessä toisen puolison kanssa, jolla on kotiseutuoikeus, sekä puoliso puolisoiden yhteiselämän päättyessä tai avioeron jälkeen voi omistaa tai hallita sanotunlaista omaisuutta.
+
+Jos muu kuin rintaperillinen tai eloonjäänyt puoliso on osakkaana kuolinpesässä, jolla on omistuksessaan tai hallinnassaan kiinteää omaisuutta, eikä tällaisella osakkaalla ole kotiseutuoikeutta, maakuntahallitus voi, jollei perinnönjakoa ole toimitettu kahden vuoden kuluessa perittävän kuolemasta eikä kuolinpesän osakkaalle ole myönnetty 2 §:n 1 momentissa tarkoitettua lupaa, vaatia jaon toimittamista kuten pesän osakas. Sanotun kuolinpesän osakkaan oikeuteen hallita hänen osalleen jaossa tullutta kiinteää omaisuutta sovelletaan muutoin, mitä tässä laissa säädetään kiinteän omaisuuden hankkimisesta.
+
+Pankki voi ilman lupaa enintään viiden vuoden ajaksi hankkia omistusoikeuden 2 §:ssä tarkoitettuun omaisuuteen, joka on maksamattoman velan panttina tai vakuutena. Sanotun ajan kuluttua umpeen omaisuuden saantoon on sovellettava, mitä muutoin tässä laissa säädetään.
