@@ -1,0 +1,2 @@
+Laki Pohjoismaiden kehitysrahaston perustamista koskevan sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
