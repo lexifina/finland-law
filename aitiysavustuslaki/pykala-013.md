@@ -1,5 +1,5 @@
-# 13 § Oikaisu ja päätöksen poistaminen
+# 13 § Päätöksen poistaminen
 
-Jos kansaneläkelaitoksen tämän lain nojalla antama lainvoimainen päätös perustuu väärään tai puutteelliseen selvitykseen tai on ilmeisesti lainvastainen, kansaneläkelaitoksen tulee, varattuaan hakijalle tilaisuuden tulla kuulluksi, oikaista päätös.
+Jos tässä laissa tarkoitettua etuutta koskeva lainvoimainen päätös perustuu väärään tai puutteelliseen selvitykseen taikka on ilmeisesti lain vastainen, tarkastuslautakunta voi kansaneläkelaitoksen esityksestä tai asianosaisen hakemuksesta, varattuaan muille asianosaisille tilaisuuden tulla kuulluiksi, poistaa päätöksen ja määrätä asian uudelleen käsiteltäväksi. Tehtyään edellä sanotun esityksen kansaneläkelaitos voi, kunnes asia on uudelleen ratkaistu, väliaikaisesti keskeyttää etuuden maksamisen tai maksaa sen esityksensä mukaisena.
 
-Jos sosiaalivakuutuslautakunnan tai tarkastuslautakunnan tämän lain nojalla antama lainvoimainen päätös on 1 momentissa tarkoitetulla tavalla virheellinen, sosiaalivakuutuslautakunnan tai tarkastuslautakunnan tulee, varattuaan hakijalle tilaisuuden tulla kuulluksi, vastaavasti poistaa lainvoimainen päätöksensä ja ottaa tai määrätä asia uudelleen käsiteltäväksi.
+Jos asiassa, jossa on kysymys evätyn edun myöntämisestä tai myönnetyn edun lisäämisestä, ilmenee uutta selvitystä, kansaneläkelaitoksen on tutkittava asia uudelleen. Kansaneläkelaitos voi aikaisemman lainvoimaisen päätöksen estämättä myöntää evätyn edun tai myöntää edun aikaisempaa suurempana. Myös sosiaalivakuutuslautakunta ja tarkastuslautakunta voivat menetellä vastaavasti muutoksenhakuasiaa käsitellessään. Päätökseen saa hakea muutosta siten kuin 11 §:ssä säädetään.
