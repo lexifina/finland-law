@@ -1,0 +1,3 @@
+# 1 §
+
+Milloin kaivostoiminnan kehittäminen sitä vaatii tai on muuta erityistä syytä, valtioneuvosto voi määräämillään ehdoilla korvausta tai muuta hyvitystä vastaan luovuttaa hyväksikäyttöä varten valtion omistamia kivennäislöydöksiä sekä, jos löydös on sellaisella valtionmaalla, jota ei hallita vakaalla asukasoikeudella eikä ole määrätty virkataloksi, löydöksen hyväksikäyttöä varten tarpeelliset maa-alueet. Mikäli esiintymästä saatava kertakorvaus on enintään kaksi miljoonaa markkaa tai esiintymästä sen tuotannon alettua vuosittain maksettavat korvaukset ovat kymmenen ensimmäisen vuoden aikana yhteensä enintään viisi miljoonaa markkaa, voi esiintymän vastaavasti luovuttaa määräämillään ehdoilla kauppa- ja teollisuusministeriö.
