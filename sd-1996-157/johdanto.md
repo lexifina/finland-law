@@ -1,0 +1,2 @@
+Laki nimittämisestä kihlakunnanvirastojen ja kihlakuntien erillisten virastojen eräisiin virkoihin
+Eduskunnan päätöksen mukaisesti säädetään:
