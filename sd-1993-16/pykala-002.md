@@ -10,6 +10,4 @@ Työsuojeluhallinnon tulee työsuojelun edistämiseksi:
 7) harjoittaa kiinteää yhteistoimintaa työnantajien ja työntekijöiden järjestöjen kanssa työsuojelun alalla; sekä
 8) suorittaa lisäksi ne muut tehtävät, jotka sen hoidettavaksi erikseen säädetään.
 
-Työministeriön tehtävänä työsuojeluviranomaisena on sen lisäksi, mitä tässä laissa säädetään ja sille muualla laissa tai asetuksessa taikka päätöksissä olevien säännösten ja määräysten mukaan kuuluu, käsitellä ne työympäristöä, työsuojelua, työsuhdetta ja työterveyshuollon järjestämisvelvollisuutta koskevat asiat, jotka ennen 1 päivää maaliskuuta 1993 ovat kuuluneet työsuojeluhallitukselle tai jotka myöhemmin lailla tai asetuksella säädetään työministeriön tehtäväksi työsuojeluviranomaisena.
-
 Työsuojeluhallinto on riippumaton valvontatehtävää suorittaessaan.
