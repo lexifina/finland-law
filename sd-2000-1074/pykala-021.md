@@ -1,0 +1,5 @@
+# 21 § Välitysliikkeen oikeus palkkioon toimeksi- antosopimuksen voimassaoloajan jälkeen
+
+Välitysliikkeellä on oikeus saada toimeksiantajalta palkkio toimeksiantosopimuksen voimassaoloajan jälkeen syntyneestä välityskohdetta koskevasta sopimuksesta vain, jos tästä on toimeksiantajan kanssa sovittu ja jos voidaan olettaa, että sopimuksen syntymiseen ovat olennaisesti vaikuttaneet välitysliikkeen toimenpiteet toimeksiantosopimuksen voimassaoloaikana. Välitysliikkeellä ei kuitenkaan ole oikeutta välityspalkkioon sopimuksesta, joka on syntynyt kuuden kuukauden kuluttua toimeksiantosopimuksen voimassaoloajan päättymisestä.
+
+Jos toimeksiantaja on 1 momentissa tarkoitetussa tapauksessa tehnyt toimeksiantosopimuksen voimassaoloajan päättymisen jälkeen toimeksiantosopimuksen toisen välitysliikkeen kanssa, hän on kuitenkin velvollinen maksamaan välityspalkkion vain sille välitysliikkeelle, jonka kanssa tehty toimeksiantosopimus oli voimassa, kun toimeksiantaja hyväksyi välityskohteesta tehdyn tarjouksen. Välitysliikkeiden on tällöin jaettava välityspalkkio keskenään suoritustensa mukaisessa suhteessa.

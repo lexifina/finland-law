@@ -1,0 +1,3 @@
+# 6 § Toimeksiantajan oikeus irtisanoa toimeksi- antosopimus sen voimassaoloaikana
+
+Jos toimeksiannon mukaisen välitystehtävän toteuttaminen on tullut toimeksiantajan sairauden tai toimeksiantajan lähiomaisen tai tähän verrattavan läheisen henkilön sairauden tai kuoleman taikka lain tai viranomaisen toimenpiteen vuoksi tai muusta pääasiassa toimeksiantajasta riippumattomasta syystä toimeksiantajalle suhteettoman epäedulliseksi tai epätarkoituksenmukaiseksi, on toimeksiantajalla, ennen kuin hän on hyväksynyt välityskohdetta koskevan tarjouksen, oikeus irtisanoa sopimus heti päättyväksi. Toimeksiantajan on tällöin korvattava välitysliikkeelle kohtuulliset kustannukset, jotka tälle ovat aiheutuneet välitystehtävän suorittamiseen kuuluvista toimenpiteistä.
