@@ -1,0 +1,2 @@
+Laki kehitysmaihin myönnettävistä korkotukiluotoista
+Eduskunnan päätöksen mukaisesti säädetään:
