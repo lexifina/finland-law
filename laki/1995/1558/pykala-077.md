@@ -1,0 +1,14 @@
+# 77 § Korkojen laskeminen muutostilanteessa
+Luku: 6 luku Muutoksiin liittyvät erinäiset säännökset
+
+Verovuoden jäännösveron korko lasketaan verotuksen muutoksesta johtuvalle verolle verovuotta seuraavan vuoden huhtikuun 1 päivästä verolle määrättävään eräpäivään. Palautuskorko lasketaan verotuksen muutoksen johdosta palautettavalle verolle ja veronkorotukselle mainitusta päivästä tai, jos vero on suoritettu myöhemmin, maksupäivästä palautuspäivään. Jälkiverotuksen yhteydessä jäännösveron korko lasketaan mainitusta päivästä verovelvollisen verotuksen päättymistä seuraavan toisen kuukauden loppuun.
+
+Verovuodelta maksettava yhteisökorko lasketaan verotuksen muutoksesta johtuvalle verolle verovuoden veroilmoituksen viimeistä antopäivää tai täydennysmaksun maksupäivää seuraavasta päivästä verolle määrättävään eräpäivään. Palautettava yhteisökorko lasketaan verotuksen muutoksen johdosta palautettavalle verolle ja veronkorotukselle mainituista päivistä tai, jos vero on suoritettu myöhemmin, maksupäivästä palautuspäivään. Jälkiverotuksen yhteydessä maksettava yhteisökorko lasketaan verovuoden veroilmoituksen viimeistä antopäivää seuraavasta päivästä verovelvollisen verotuksen päättymistä seuraavan toisen kuukauden loppuun.
+
+Uudelleen toimitettavan verotuksen yhteydessä jäännösveron korko lasketaan uudelleen toimitettavassa verotuksessa määrättävän veron ja kumotun verotuksen perusteella kertyneen veron maksettavalle erotukselle verovuotta seuraavan vuoden huhtikuun 1 päivästä uudelleen toimitettavan verotuksen yhteydessä määrättävään eräpäivään. Palautuskorko lasketaan uudelleen toimitettavassa verotuksessa määrättävän veron ja kumotun verotuksen perusteella kertyneen veron palautettavalle erotukselle mainitusta päivästä tai, jos maksu on tapahtunut myöhemmin, maksupäivästä palautuspäivään.
+
+Uudelleen toimitettavan verotuksen yhteydessä maksettava yhteisökorko lasketaan uudelleen toimitettavassa verotuksessa määrättävän veron ja kumotun verotuksen perusteella kertyneen veron maksettavalle erotukselle verovuoden veroilmoituksen viimeistä antopäivää seuraavasta päivästä tai täydennysmaksun maksupäivästä uudelleen toimitettavan verotuksen yhteydessä määrättävään eräpäivään. Palautettava yhteisökorko lasketaan uudelleen toimitettavassa verotuksessa määrättävän veron ja kumotun verotuksen perusteella kertyneen veron palautettavalle erotukselle mainituista päivistä tai, jos maksu on tapahtunut myöhemmin, maksupäivästä palautuspäivään.
+
+Jos edellä tässä pykälässä tarkoitettua palautettavaa veroa on kertynyt jäännösverona, palautetaan myös jäännösverolle kertynyt jäännösveron korko sekä maksettava yhteisökorko. Jos perittävää veroa on palautettu verovelvolliselle ennakonpalautuksena, jäännösveron korko tai maksettava yhteisökorko peritään tältä osin ennakonpalautuksen palautuspäivästä määrättävään eräpäivään.
+
+Verohallitus voi antaa tarkempia määräyksiä tässä pykälässä tarkoitettujen korkojen laskemisesta.

@@ -1,0 +1,6 @@
+# 28 § Veron kiertäminen
+Luku: 4 luku Verotuksen toimittaminen
+
+Jos jollekin olosuhteelle tai toimenpiteelle on annettu sellainen oikeudellinen muoto, joka ei vastaa asian varsinaista luonnetta tai tarkoitusta, on verotusta toimitettaessa meneteltävä niin kuin asiassa olisi käytetty oikeaa muotoa. Jos kauppahinta, muu vastike tai suoritusaika on kauppa- tai muussa sopimuksessa määrätty taikka muuhun toimenpiteeseen on ryhdytty ilmeisesti siinä tarkoituksessa, että suoritettavasta verosta vapauduttaisiin, voidaan verotettava tulo ja omaisuus arvioida.
+
+Jos on ilmeistä, että verotusta toimitettaessa olisi meneteltävä 1 momentissa tarkoitetulla tavalla, on verotusta toimitettaessa huolellisesti tutkittava kaikki ne seikat, jotka voivat vaikuttaa asian arvostelemiseen, sekä annettava verovelvolliselle tilaisuus esittää selvitys havaituista seikoista. Mikäli verovelvollinen ei tällöin esitä selvitystä siitä, että olosuhteelle tai toimenpiteelle annettu oikeudellinen muoto vastaa asian varsinaista luonnetta tai tarkoitusta taikka ettei toimenpiteeseen ole ryhdytty ilmeisesti siinä tarkoituksessa, että suoritettavasta verosta vapauduttaisiin, verotusta toimitettaessa on meneteltävä 1 momentissa tarkoitetulla tavalla.

@@ -1,0 +1,6 @@
+# 25 § Tietojen maksullisuus
+Luku: 3 luku Sivullisen tiedonantovelvollisuus
+
+Verohallinnolla on oikeus saada maksutta tässä luvussa tarkoitetut verotusta varten tarvittavat tiedot.
+
+Jos valtion tai kunnan viranomainen luovuttaa laajoja ja massaluonteisia tietoja verohallinnolle, verohallinto maksaa asianomaiselle viranomaiselle tietojen luovuttamisesta mainitulle viranomaiselle keskimäärin aiheutuvat kustannukset lukuun ottamatta yleishallinto- ja pääomakustannuksia sekä koneiden ja laitteiden vuokraus- ja toimitilakustannuksia.
