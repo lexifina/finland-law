@@ -1,0 +1,2 @@
+Laki merenkulun veronhuojennuksista
+Eduskunnan päätöksen mukaisesti säädetään:
