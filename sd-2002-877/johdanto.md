@@ -1,0 +1,2 @@
+Laki korkea-asteen koulutusta koskevien tutkintojen tunnustamista Euroopan alueella koskevan yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
