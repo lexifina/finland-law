@@ -1,5 +1,5 @@
 # 4 §
 
-Vaalien yhteydessä toimitettavassa kansanäänestyksessä käytetään vaaleja varten laadittavia vaaliluetteloita.
+Vaalien yhteydessä toimitettavassa kansanäänestyksessä käytetään vaaleja varten perustettavaa äänioikeusrekisteriä.
 
-Vaaleista erillisenä toimitettavaa kansanäänestystä varten laaditaan äänestysoikeutetuista henkilöistä äänestysalueiden äänestysluettelot ja vaalipiirien äänestysluettelot. Niistä on voimassa, mitä äänestysalueiden vaaliluetteloista ja vaalipiirien vaaliluetteloista on säädetty kansanedustajain vaaleista annetussa laissa.
+Vaaleista erillisenä toimitettavaa kansanäänestystä varten perustetaan äänestysoikeutetuista henkilöistä äänestysoikeusrekisteri, josta on voimassa, mitä äänioikeusrekisteristä säädetään kansanedustajain vaaleista annetussa laissa (391/69).
