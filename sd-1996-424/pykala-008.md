@@ -1,0 +1,5 @@
+# 8 §
+
+Tämä laki tulee voimaan asetuksella säädettävänä ajankohtana.
+
+Niin kauan kuin kansainvälisen korvausrahaston perustamisesta tehty vuoden 1971 kansainvälinen yleissopimus (SopS 80/80) on Suomen osalta voimassa, öljyvahingosta johtuvaan vastuuseen sovelletaan tämän lain säännösten lisäksi tai niiden asemasta öljyn aiheuttamasta pilaantumisvahingosta johtuvasta siviilioikeudellisesta vastuusta ja öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamisesta tehtyjen kansainvälisten yleissopimusten eräiden määräysten hyväksymisestä sekä viimeksi mainitun yleissopimuksen soveltamisesta annettua lakia (1097/80), jollei öljyn aiheuttamasta pilaantumisvahingosta johtuvasta siviilioikeudellisesta vastuusta ja öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamisesta tehtyjen kansainvälisten yleissopimusten eräiden määräysten hyväksymisestä sekä viimeksi mainitun yleissopimuksen soveltamisesta annetun lain kumoamisesta annetussa laissa (427/96) toisin säädetä.

@@ -1,0 +1,2 @@
+Laki öljyn aiheuttamien pilaantumisvahinkojen kansainvälisen korvausrahaston perustamista koskevan vuoden 1971 kansainvälisen yleissopimuksen muuttamisesta tehdyn vuoden 1992 pöytäkirjan eräiden määräysten hyväksymisestä ja soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
