@@ -1,2 +1,2 @@
-Laki kansainvälisestä yhteistoiminnasta vapausrangaistusten täytäntöönpanossa
+Lakikansainvälisestä yhteistoiminnasta eräiden rikosoikeudellisten seuraamusten täytäntöönpanossa
 Eduskunnan päätöksen mukaisesti säädetään:
