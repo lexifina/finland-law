@@ -1,0 +1,2 @@
+Laki konkurssisäännön väliaikaisesta muuttamisesta annetun lain voimassaoloajasta
+Eduskunnan päätöksen mukaisesti säädetään:
