@@ -1,0 +1,2 @@
+Laki työntekijäin työeläkemaksun huomioon ottamisesta päivärahoissa
+Eduskunnan päätöksen mukaisesti säädetään:
