@@ -1,0 +1,2 @@
+Laki Slovakian kanssa yhteistyöstä ja keskinäisestä avunannosta tulliasioissa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
