@@ -1,4 +1,4 @@
-# 16 § Valtiosihteerin ja alivaltiosihteerin velvollisuus siirtyä toiseen virkaan
+# 16 § Valtiosihteerin kansliapäällikkönä ja alivaltiosihteerin velvollisuus siirtyä toiseen virkaan
 Luku: 3 luku Ulkoasiainhallinnon virkamiehet
 
-Ulkoasiainministeriön valtiosihteeri ja alivaltiosihteeri ovat velvollisia siirtymään ulkoasiainneuvoksen virkaan.
+Ulkoasiainministeriön valtiosihteeri kansliapäällikkönä ja alivaltiosihteeri ovat velvolliset siirtymään ulkoasiainneuvoksen virkaan.
