@@ -1,0 +1,2 @@
+Laki Tshekkoslovakian Sosialistisen Tasavallan kanssa kaupan esteiden vastavuoroisesta poistamisesta tehdyn sopimuksen muuttamista koskevan Tshekin ja Slovakian liittotasavallan kanssa tehdyn sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
