@@ -1,0 +1,2 @@
+Laki eräiden luovutusvoittojen verotuksen väliaikaisesta huojentamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
