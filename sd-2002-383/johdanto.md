@@ -1,0 +1,2 @@
+Laki ilmastonmuutosta koskevan Yhdistyneiden Kansakuntien puitesopimuksen Kioton pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
