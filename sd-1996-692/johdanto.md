@@ -1,0 +1,2 @@
+Laki pohjoismaisen sosiaalipalvelusopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
