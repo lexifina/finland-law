@@ -1,8 +1,8 @@
-# 26 § Teknologian kehittämiskeskuksen palvelus- suhteessa olevat henkilöt edustustossa
+# 26 § Eräisiin viranomaisiin palvelussuhteessa olevat henkilöt edustustossa
 Luku: 4 luku Erityiset säännökset
 
-Edustuston henkilökunnan jäsenenä voi ulkoasiainministeriön suostumuksella toimia teknologian kehittämiskeskuksen palvelussuhteessa olevia virkamiehiä ja muita henkilöitä tehtävissä, jotka liittyvät ulkomaanedustuksen toimintaan, siten kuin siitä säädetään teknologian kehittämiskeskuksesta annetussa laissa (429/1993) tai sen nojalla annetulla asetuksella.
+Edustuston henkilökunnan jäsenenä voi ulkoasiainministeriön suostumuksella toimia eri hallinnonalojen viranomaisiin palvelussuhteessa olevia virkamiehiä ja muita henkilöitä asianomaisen viranomaisen tehtävissä, jotka liittyvät ulkomaanedustuksen toimintaan. Valtioneuvoston asetuksella säädetään tarkemmin edellä tarkoitetusta henkilöstöstä ja tehtävistä. Edustuston henkilökunnan jäsenenä voi samoin edellytyksin toimia myös eduskunnan kanslian henkilöstöä.
 
-Edellä 1 momentissa tarkoitetut henkilöt toimivat yhteistyössä edustuston kanssa ja ovat edustuston päällikön alaisia edustuston sisäistä hallintoa ja järjestystä koskevissa asioissa.
+Edellä 1 momentissa tarkoitetut henkilöt ovat edustuston päällikön alaisia Suomen ja vieraan valtion tai kansainvälisen järjestön välisiä yleisiä suhteita koskevissa asioissa sekä edustuston sisäistä hallintoa ja järjestystä koskevissa asioissa. Ulkoasiainministeriö voi poistaa tässä tarkoitetun henkilön edustuston henkilökunnan jäsenyydestä, jos siihen on painavia syitä.
 
-Ulkoasiainministeriö voi poistaa 1 momentissa tarkoitetun henkilön edustuston henkilökunnan jäsenyydestä, jos siihen on painavia syitä.
+Muilta osin tässä pykälässä tarkoitettujen henkilöiden toiminnassa sovelletaan asianomaista viranomaista koskevia säännöksiä.
