@@ -1,0 +1,2 @@
+Laki Maailman kauppajärjestön perustamissopimuksen ja sen liitesopimusten eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
