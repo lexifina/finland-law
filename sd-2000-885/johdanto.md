@@ -1,0 +1,2 @@
+Laki lennonvarmistusalan yhteistyöstä tehdyn kansainvälisen yleissopimuksen (EURO-CONTROL), navigaatiomaksuja koskevan monenvälisen sopimuksen ja mainitun kansainvälisen yleissopimuksen yhteen kokoavan pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
