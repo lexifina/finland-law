@@ -1,0 +1,2 @@
+Laki hajallaan olevien kalakantojen ja laajasti vaeltavien kalakantojen säilyttämistä ja hoitoa koskevien 10 päivänä joulukuuta 1982 tehdyn Yhdistyneiden Kansakuntien merioikeusyleissopimuksen määräysten täytäntöönpanosta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
