@@ -1,0 +1,2 @@
+Laki Talaskankaan luonnonsuojelualueesta
+Eduskunnan päätöksen mukaisesti säädetään:
