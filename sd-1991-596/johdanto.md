@@ -1,0 +1,2 @@
+Laki työsopimuksen irtisanomismenettelystä annetun lain kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
