@@ -1,0 +1,2 @@
+Laki pohjoismaisen työttömyysturvasopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
