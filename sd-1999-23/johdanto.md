@@ -1,0 +1,2 @@
+Laki Euroopan ihmisoikeustuomioistuimen käsittelyyn osallistuvia henkilöitä koskevan eurooppalaisen sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
