@@ -1,0 +1,2 @@
+Laki lakkautettujen seurakuntien keskusarkistosta valtion palvelukseen siirtyvän henkilökunnan aseman järjestämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
