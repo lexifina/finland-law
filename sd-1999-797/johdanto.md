@@ -1,0 +1,2 @@
+Laki Pohjoismaiden investointipankkia koskevan sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
