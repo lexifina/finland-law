@@ -1,0 +1,12 @@
+# 19 § Työnantajalle kuuluvien sähköisten viestien esille hakeminen
+Luku: 6 luku Työnantajalle kuuluvien sähköpostiviestien hakeminen ja avaaminen
+
+Työnantajalla on oikeus tietojärjestelmän pääkäyttäjän valtuuksia käyttävän henkilön avulla ottaa viestin lähettäjää, vastaanottajaa tai viestin otsikkoa koskevien tietojen perusteella selville, onko työntekijälle lähetetty tämän poissa ollessa tai onko työntekijä välittömästi ennen poissaoloaan lähettänyt tai vastaanottanut työnantajalle kuuluvia viestejä, joista työnantajan on toimintaansa liittyvien neuvottelujen loppuun saattamiseksi, asiakkaiden palvelemiseksi tai toimintojensa turvaamiseksi muutoin välttämätöntä saada tieto, jos:
+1) työntekijä hoitaa tehtäviä itsenäisesti työnantajan lukuun eikä työnantajan käytössä ole järjestelmää, jonka avulla työntekijän hoitamat asiat ja niiden käsittelyvaiheet kirjataan tai saadaan muutoin selville;
+2) työntekijän tehtävien ja vireillä olevien asioiden vuoksi on ilmeistä, että työnantajalle kuuluvia viestejä on lähetetty tai vastaanotettu;
+3) työntekijä on estynyt tilapäisesti suorittamasta työtehtäviään eikä työnantajalle kuuluvia viestejä siitä huolimatta, että työnantaja on huolehtinut 18 §:ssä tarkoitetuista velvollisuuksistaan, voida saada työnantajan käyttöön; ja
+4) työntekijän suostumusta ei voida saada kohtuullisessa ajassa ja asian selvittäminen ei kestä viivytystä.
+
+Jos työntekijä on kuollut taikka jos hän on pysyväisluonteisesti estynyt suorittamasta työtehtäviään eikä hänen suostumustaan voida saada, työnantajalla on 1 momentin 1 ja 2 kohdassa säädetyin edellytyksin oikeus ottaa viestin lähettäjää tai vastaanottajaa taikka viestin otsikkoa koskevien tietojen perusteella selville työnantajalle kuuluvat viestit, jollei työntekijän hoitamien asioiden selville saaminen ja työnantajan toiminnan turvaaminen ole muilla keinoilla mahdollista.
+
+Jollei viestin esille hakeminen johda viestin avaamiseen, siitä on laadittava siihen osallistuneiden henkilöiden allekirjoittama selvitys, josta ilmenee, miksi viestiä on haettu, hakemisen ajankohta ja sen suorittajat. Selvitys on ilman aiheetonta viivytystä toimitettava työntekijälle, jollei 2 momentista muuta johdu. Viestin lähettäjä- tai vastaanottajatietoja taikka otsikkotietoja ei saa käsitellä laajemmin kuin on välttämätöntä viestin esille hakemisen tarkoituksen vuoksi, eivätkä tietoja käsittelevät henkilöt saa ilmaista näitä tietoja sivulliselle työsuhteen aikana eikä sen päättymisen jälkeen.
