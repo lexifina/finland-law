@@ -1,0 +1,2 @@
+Laki sananvapauden käyttämisestä joukkoviestinnässä
+Eduskunnan päätöksen mukaisesti säädetään:
