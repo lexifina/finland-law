@@ -1,0 +1,10 @@
+# 17 § Verkkoviestin tunnistamistietojen luovutta- minen
+Luku: 5 luku Pakkokeinot
+
+Tuomioistuin voi pakkokeinolain (450/1987) 1 luvun 6 §:n 1 kohdassa tarkoitetun pidättämiseen oikeutetun virkamiehen, virallisen syyttäjän tai asianomistajan vaatimuksesta määrätä lähettimen, palvelimen tai muun sellaisen laitteen ylläpitäjän luovuttamaan verkkoviestin lähettäjän selvittämisessä tarpeelliset tunnistamistiedot vaatimuksen esittäjälle, jos on todennäköisiä syitä epäillä viestin olevan sisällöltään sellainen, että sen toimittaminen yleisön saataville on säädetty rangaistavaksi. Asianomistajalle tunnistamistiedot saa kuitenkin määrätä luovutettaviksi vasta, kun hän saa itse nostaa syytteen rikoksesta. Vaatimus on esitettävä laitteen ylläpitäjän kotipaikan tai Helsingin käräjäoikeudelle kolmen kuukauden kuluessa vaatimuksen perusteena olevan viestin julkaisemisesta. Tuomioistuin voi asettaa luovuttamisvelvoitteen tehosteeksi uhkasakon.
+
+Tunnistamistietojen luovuttamista koskevaan päätökseen saa hakea erikseen muutosta valittamalla. Päätöstä, jolla luovuttamisvelvollisuus on määrätty, ei saa panna täytäntöön ennen kuin se on saanut lainvoiman, ellei valitusta käsittelevä tuomioistuin toisin määrää.
+
+Tunnistamistiedot saa vieraan valtion viranomaisen pyynnöstä määrätä luovutettaviksi, jos pyynnön perusteena olevan viestin toimittamista yleisön saataville olisi Suomessa vastaavissa olosuhteissa pidettävä rikoksena tai jos luovuttaminen perustuu Suomea sitovaan valtiosopimukseen tai muuhun kansainväliseen velvoitteeseen.
+
+Edellä 1 momentissa tarkoitetun laitteen ylläpitäjällä on oikeus saada valtion varoista korvaus tässä pykälässä tarkoitettujen tunnistamistietojen luovuttamisesta aiheutuneista kohtuullisista välittömistä kustannuksista. Korvauksen maksamisesta päättää tutkinnan suorittaneen kihlakunnan poliisilaitoksen päällikkö tai poliisin valtakunnallisen yksikön päällikkö. Päätökseen haetaan valittamalla muutosta hallinto-oikeudelta noudattaen, mitä hallintolainkäyttölaissa (586/1996) säädetään. Asianomistaja vastaa kuitenkin kustannuksista silloin, kun tiedot tuomioistuimen määräyksen mukaisesti luovutetaan hänelle.
