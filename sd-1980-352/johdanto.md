@@ -1,0 +1,2 @@
+Laki pohjoismaisten isyysratkaisujen tunnustamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
