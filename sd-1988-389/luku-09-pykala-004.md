@@ -1,4 +1,4 @@
-# 4 § Tilinpäätöstietojen julkistaminen
+# 4 § Tilinpäätöksen julkistaminen
 Luku: 9 luku Tilinpäätös
 
-Tämän lain 10 luvun 1§:n 1 momentissa tarkoitetun yhtiön, joka on kirjanpitolain mukaan velvollinen julkistamaan tilinpäätöksensä, on toimitettava rekisteriviranomaiselle tuloslaskelman ja taseen ohessa myös jäljennös 3§:ssä tarkoitetuista liitteistä sekä tilintarkastuskertomuksesta.
+Tilinpäätöksen rekisteröimisestä, julkistamisesta ja jäljennösten antamisvelvollisuudesta säädetään kirjanpitolaissa.
