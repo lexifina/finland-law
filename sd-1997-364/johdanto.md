@@ -1,0 +1,2 @@
+Laki Imatran Voima -konsernille kantaverkko-omaisuuden myynnistä myönnettävistäveronhuojennuksista
+Eduskunnan päätöksen mukaisesti säädetään:
