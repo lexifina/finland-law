@@ -1,0 +1,3 @@
+# 8 §
+
+Jos korkotukilainan saaja on käyttänyt lainavaroja muuhun tarkoitukseen kuin mihin ne on myönnetty tai lainaa hakiessaan antanut olennaisessa kohdassa erheellisen tiedon tahi salannut lainan myöntämiseen olennaisesti vaikuttavia seikkoja, ei tällaisen lainan osalta sen jälkeen kun lainansaajan sanotunlainen menettely on todettu, suoriteta 6 §:ssä tarkoitettua korkohyvitystä. Lainansaajan on tällöin suoritettava valtiolle se korkohyvitys, jonka valtio on lainasta maksanut sen nostamispäivästä lukien, sekä lisäksi kaksi prosenttia vuotuista sakkokorkoa lainan määrälle sen nostamispäivästä alkaen.

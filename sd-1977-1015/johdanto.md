@@ -1,0 +1,2 @@
+Laki luottolaitosten varoista myönnettävistä eräistä korkotukilainoista
+Eduskunnan päätöksen mukaisesti säädetään:
