@@ -1,0 +1,2 @@
+Laki vuodelta 1990 suoritettavasta sairausvakuutusmaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
