@@ -1,0 +1,2 @@
+Laki avunantoa ydinonnettomuuden tai säteilyhätätilan yhteydessä koskevan yleissopimuksen eräiden määräysten hyväksymisestä sekä yleissopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
