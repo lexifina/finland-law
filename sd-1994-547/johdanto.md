@@ -1,0 +1,2 @@
+Laki Ahvenanmaan hallintotuomioistuimesta
+Eduskunnan päätöksen mukaisesti säädetään:
