@@ -1,0 +1,2 @@
+Laki kansainvälisen terrorismin rahoituksen torjumisesta tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
