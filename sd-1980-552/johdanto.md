@@ -1,2 +1,2 @@
-Laki kiinteistöjen kauppahintarekisteristä ja kauppahintatilastosta.
+Lakikiinteistöjen kauppahintarekisteristä
 Eduskunnan päätöksen mukaisesti säädetään:
