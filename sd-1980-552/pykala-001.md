@@ -1,7 +1,7 @@
 # 1§
 
-Kiinteistönkaupoista pidetään kauppahintarekisteriä ja julkaistaan siihen perustuvaa kauppahintatilastoa siten kuin tässä laissa säädetään.
+Kiinteistökaupoista pidetään kauppahintarekisteriä, ja rekisteristä annetaan siihen perustuvaa tietopalvelua.
 
-Kauppahintarekisterin ja kauppahintatilaston tarkoituksena on palvella kiinteistön arvon määrittämistä lunastustoimituksissa, maankäytön suunnittelussa, verotuksessa, luotonannossa sekä muissa arviointi- ja tutkimustehtävissä.
+Kauppahintarekisterin ja siitä annettavan tietopalvelun tarkoituksena on palvella kiinteistön arvon määrittämistä lunastustoimituksissa, maankäytön suunnittelussa, verotuk-sessa, luotonannossa sekä muissa arvioint- ja tutkimustehtävissä.
 
-Kauppahintarekisterin pitäminen ja kauppahintatilaston julkaiseminen on maanmittauslaitoksen asia.
+Kauppahintarekisteriä pitää ja tietopalvelua antaa maanmittauslaitos.
