@@ -1,0 +1,2 @@
+Laki valtionavustuksesta elinkeinojen edistämiseen kunnissa annetun lain kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
