@@ -1,0 +1,2 @@
+Laki kidutuksen ja epäinhimillisen tai halventavan kohtelun tai rangaistuksen estämiseksi tehdyn eurooppalaisen yleissopimuksen eräiden määräysten hyväksymisestä sekä yleissopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
