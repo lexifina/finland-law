@@ -1,0 +1,2 @@
+Laki lahjontaa koskevan Euroopan neuvoston rikosoikeudellisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
