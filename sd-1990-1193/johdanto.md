@@ -1,0 +1,2 @@
+Laki työntekijäin eläkelain soveltamisesta Suomen Pankin setelipainon henkilökunnan työsuhteisiin
+Eduskunnan päätöksen mukaisesti säädetään:
