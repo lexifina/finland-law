@@ -1,9 +1,4 @@
-# 9 § Salassapitovelvollisuus
+# 9 § Salassa pidettävien tietojen luovuttaminen
 Luku: 3 luku Valvonta
 
-Henkilö, joka on tässä laissa säädettyä tehtävää suorittaessaan saanut tietoja taimiaineiston toimittajan liike- tai ammattisalaisuudesta tai taloudellisesta asemasta, ei saa niitä paljastaa, ellei se, jonka hyväksi vaitiolovelvollisuus on säädetty, tähän suostu.
-
-Mitä 1 momentissa säädetään, ei estä tietojen antamista:
-1) syyttäjä- ja poliisiviranomaiselle rikoksen selvittämistä varten;
-2) 7 §:ssä tarkoitetuille viranomaisille tämän lain mukaisten tehtävien suorittamista varten; tai
-3) muutoksenhakua tutkivalle viranomaiselle tämän lain mukaisessa asiassa.
+Viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetyn salassapitovelvollisuuden estämättä saa tässä laissa säädettyä tehtävää suoritettaessa saatuja tietoja yksityisen tai yhteisön liike- tai ammattisalaisuudesta tai taloudellisesta asemasta luovuttaa syyttäjä- ja poliisiviranomaiselle rikoksen selvittämiseksi sekä 7 §:ssä tarkoitetuille viranomaisille tämän lain mukaisten tehtävien suorittamista varten.
