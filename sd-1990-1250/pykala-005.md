@@ -1,0 +1,5 @@
+# 5 §
+
+Palkasta ja eläkkeestä toimitettavassa ennakonpidätyksessä sovellettavat henkilökohtaiset pidätysprosentit vahvistetaan 1 päivästä heinäkuuta 1991 lähtien sellaisiksi, että ne sovellettuina koko vuoden johtaisivat ennakkoperintälain 11§:ssä tarkoitettuun pidätysmäärään.
+
+Ennakkoperintälain 12§ 1 momentista poiketen ennakkoperintälain 4, 5 ja 6§:n mukaisista suorituksista, jotka maksetaan tammikuun 1 päivän ja kesäkuun 30 päivän välisenä aikana, ennakonpidätys toimitetaan vuonna 1990 voimassa olleiden henkilökohtaisten pidätysprosenttien tai muiden ennakonpidätyksen toimittamista koskevien määräysten mukaan. Verohallituksen on vahvistettava tammikuun 1 päivän ja kesäkuun 30 päivän 1991 välisenä aikana ennakonpidätyksessä sovellettavien ennakkoperintälain 4§:ssä tarkoitettujen luontoisetujen raha-arvot samansuuruisiksi kuin ne ovat olleet vuonna 1990. Ennakkoperintälain 37§ 1 momentista poiketen muille kuin yhteisöille vuoden 1991 ennakonkannossa maksuunpantavaa määrää on korotettava 3 prosentilla siltä osin kuin se ylittää 8 000 markkaa. Verohallitus antaa tarkemmat määräykset tämän momentin soveltamisesta.
