@@ -1,0 +1,2 @@
+Investointivarauslaki
+Eduskunnan päätöksen mukaisesti säädetään:

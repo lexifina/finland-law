@@ -1,0 +1,6 @@
+# 18 §
+Väliotsikko: Erinäiset säännökset
+
+Jos verovelvollinen ei ole käyttänyt investointivarausta tai sitä ei ole luettu verovelvollisen veronalaiseksi tuloksi viimeistään verovuonna 1997, luetaan käyttämättä tai tuloksi lukematta jätetty osa investointivarausta verovelvollisen verovuoden 1997 veronalaiseksi tuloksi. Käyttämätön tai tuloksi lukematta jätetty investointivaraus tai sen osa luetaan sen tulolähteen tuloksi, jonka tulosta se on vähennetty. Jos tätä tulolähdettä ei asianomaisena verovuonna enää ole, luetaan käyttämätön tai tuloksi lukematta jätetty investointivaraus tai sen osa verovelvollisen lakannutta tulolähdettä lähinnä vastaavan tulolähteen tuloksi. Verovelvollisella on oikeus nostaa investointitalletuksesta se osa, joka vastaa tuloksi luettua investointivarauksen osaa.
+
+Jos osakeyhtiö tai osuuskunta, jonka osakas tai jäsen on suorittanut sen osake- tai osuuspääomaa investointivaraustaan käyttäen, ei ole käyttänyt suoritettua määrää tässä laissa säädetyllä tavalla, luetaan käyttämättä jätetty määrä korotettuna 30 prosentilla osakeyhtiön tai osuuskunnan maksamisvuotta seuraavan verovuoden veronalaiseksi tuloksi tai jos verohallitus 13 §:n 3 momentin nojalla on pidentänyt 13 §:n 2 momentissa tarkoitettua määräaikaa, sen verovuoden veronalaiseksi tuloksi, jona määrä viimeistään olisi pitänyt käyttää.
