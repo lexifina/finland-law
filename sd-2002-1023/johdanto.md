@@ -1,0 +1,2 @@
+Laki aravalainojen lainaehtojen määräaikaisesta muuttamisesta eräissä tapauksissa
+Eduskunnan päätöksen mukaisesti säädetään:
