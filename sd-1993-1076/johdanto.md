@@ -1,0 +1,2 @@
+Laki kansaneläkelaissa säädettyjen eläkkeiden ja avustusten sitomisesta elinkustannuksiin annetun lain poikkeuksellisesta soveltamisesta vuonna 1994
+Eduskunnan päätöksen mukaisesti säädetään:
