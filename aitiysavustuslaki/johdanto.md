@@ -1,0 +1,2 @@
+Äitiysavustuslaki
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,5 @@
+# 1 § Lain tarkoitus ja soveltamisala
+
+Äidin ja lapsen terveyden ja hyvinvoinnin edistämiseksi Suomessa asuvalle naiselle suoritetaan tämän lain mukaisesti valtion varoista äitiysavustus. Lakia ei kuitenkaan sovelleta vieraan valtion lähetystöön, kauppaedustustoon tai konsulinvirastoon kuuluviin henkilöihin palvelusväkineen, jos he ovat ulkomaan kansalaisia.
+
+Suomessa asuvaksi katsotaan myös Suomen diplomaattisen, lähetetyn konsuli- tai kaupallisen edustajan virastossa taikka Yhdistyneissä Kansakunnissa, sen yhteydessä toimivassa erityisjärjestössä tai tähän verrattavassa muussa kansainvälisessä järjestössä tai tällaisissa tehtävissä toimivan henkilön henkilökohtaisessa palveluksessa taikka suomalaisella aluksella palveleva sekä korkeakoulussa tai muussa oppilaitoksessa opiskeleva nainen ja hänen alaikäinen lapsensa, jos he ovat Suomen kansalaisia. Oikeus avustukseen on myös, jos ulkomailla oleskelun syynä on päätoimen luonteinen vakinainen palvelus sellaisessa suomalaisessa yhdyskunnassa tai muussa yhteisössä, säätiössä tai laitoksessa, jolla on kotipaikka Suomessa.
