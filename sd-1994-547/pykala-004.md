@@ -1,5 +1,5 @@
 # 4 § Hallintotuomari
 
-Ahvenanmaan hallintotuomioistuimessa on hallintotuomarin virka. Hallintotuomari hoitaa lääninoikeuslain 8 §:n 2 momentissa säädetyt tehtävät.
+Ahvenanmaan hallintotuomioistuimessa on hallintotuomarin virka. Hallintotuomari val-voo oikeusperiaatteiden soveltamisen ja laintulkinnan yhdenmukaisuutta hallintotuomioistuimen ratkaisuissa.
 
-Hallintotuomariin sovelletaan, mitä lääninoikeudentuomarista säädetään.
+Hallintotuomariin sovelletaan, mitä hallinto-oikeustuomarista säädetään.

@@ -2,4 +2,4 @@
 
 Ahvenanmaan käräjäoikeuden laamanni on hallintotuomioistuimen hallinnollinen päällikkö.
 
-Laamanni hoitaa ne hallinnolliset tehtävät, jotka lääninoikeuslain ja lääninoikeusasetuksen (522/89) mukaan kuuluvat lääninoikeuden ylituomarille.
+Laamanni hoitaa ne hallinnolliset tehtävät, jotka hallinto-oikeuslain ja sen nojalla annetun asetuksen (438/1999) mukaan kuuluvat hallinto-oikeuden ylituomarille.
