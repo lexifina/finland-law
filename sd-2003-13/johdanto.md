@@ -1,0 +1,2 @@
+Laki sähköisestä asioinnista viranomaistoiminnassa
+Eduskunnan päätöksen mukaisesti säädetään:
