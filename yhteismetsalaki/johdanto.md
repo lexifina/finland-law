@@ -1,0 +1,2 @@
+Yhteismetsälaki
+Eduskunnan päätöksen mukaisesti säädetään:
