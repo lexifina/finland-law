@@ -1,0 +1,2 @@
+Laki oikeudenkäyntiin ja esitutkintaan osallistuvien henkilöiden koskemattomuudesta eräissä tapauksissa
+Eduskunnan päätöksen mukaisesti säädetään:
