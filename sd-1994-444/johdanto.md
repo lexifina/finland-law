@@ -1,0 +1,2 @@
+Laki teollisten investointien väliaikaisesta investointituesta
+Eduskunnan päätöksen mukaisesti säädetään:
