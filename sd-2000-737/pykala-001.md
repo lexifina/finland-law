@@ -1,0 +1,3 @@
+# 1 §
+
+Wienissä 22 päivänä syyskuuta 1998 allekirjoitetun Itävallan tasavallan, Belgian kuningaskunnan, Tanskan kuningaskunnan, Suomen tasavallan, Saksan liittotasavallan, Helleenien tasavallan, Irlannin, Italian tasavallan, Luxemburgin suurherttuakunnan, Alankomaiden kuningaskunnan, Portugalin tasavallan, Espanjan kuningaskunnan, Ruotsin kuningaskunnan, Euroopan atomienergiayhteisön ja IAEA:n välisen ydinaseiden leviämisen estämistä koskevan sopimuksen III artiklan 1 ja 4 kohdan täytäntöönpanosta tehtyyn sopimukseen liittyvän lisäpöytäkirjan lainsäädännön alaan kuuluvat määräykset ovat lakina voimassa sellaisina kuin Suomi on niihin sitoutunut.
