@@ -1,0 +1,2 @@
+Laki vuodelta 1988 suoritettavasta sairausvakuutusmaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
