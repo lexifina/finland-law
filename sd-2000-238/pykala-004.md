@@ -1,0 +1,3 @@
+# 4 § Yhdistyslain säännösten soveltaminen
+
+Järjestön ja sen paikallisten tai alueellisten toimintayksiköiden kelpoisuudesta saada nimiinsä oikeuksia ja tehdä sitoumuksia sekä kantaa ja vastata on järjestön säännöt huomioon ottaen voimassa, mitä yhdistyslain (503/1989) 6 §:n 1 momentissa säädetään rekisteröidystä yhdistyksestä. Järjestön jäsenten henkilökohtaisesta vastuusta järjestön sekä sen paikallisten tai alueellisten toimintayksiköiden velvoitteista on vastaavasti voimassa, mitä yhdistyslain 6 §:n 2 momentissa säädetään rekisteröidyn yhdistyksen jäsenten vastuusta. Järjestöstä ja sen jäsenistä on lisäksi soveltuvin osin voimassa, mitä säädetään yhdistyslain 8 ja 9 §:ssä, 3 luvussa, 26 §:n 2 momentissa, 27―29 §:ssä, 35 §:n 1 ja 2 momentissa sekä 36―39 §:ssä.

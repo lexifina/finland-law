@@ -1,0 +1,5 @@
+# 1 § Nimi ja asema
+
+Suomen Punainen Risti ― Finlands Röda Kors, jäljempänä järjestö, on Suomen valtion tunnustama julkisoikeudellinen yhdistys, jonka toiminta perustuu maasotavoimiin kuuluvien haavoittuneiden ja sairaiden aseman parantamisesta, merisotavoimiin kuuluvien haavoittuneiden, sairaiden ja haaksirikkoutuneiden aseman parantamisesta, sotavankien kohtelusta sekä siviilihenkilöiden suojelemisesta sodan aikana Genevessä 12 päivänä elokuuta 1949 tehtyyn neljään Geneven yleissopimukseen (SopS 8/1955) sekä näiden yleissopimusten Genevessä 8 päivänä kesäkuuta 1977 tehtyyn kahteen lisäpöytäkirjaan, joista ensimmäinen koskee kansainvälisten aseellisten selkkausten uhrien suojelemista ja toinen kansainvälistä luonnetta vailla olevien aseellisten selkkausten uhrien suojelemista (SopS 82/1980).
+
+Järjestö kuuluu ainoana kansallisena yhdistyksenä Suomessa kansainväliseen Punaisen Ristin ja Punaisen Puolikuun liikkeeseen. Järjestö noudattaa toiminnassaan Punaisen Ristin kansainvälisissä konferensseissa hyväksyttyjä perusperiaatteita.
