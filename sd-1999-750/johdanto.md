@@ -1,0 +1,2 @@
+Laki yksinkertaistetusta menettelystä Euroopan unionin jäsenvaltioiden välillä rikoksen johdosta tapahtuvassa luovuttamisessa tehdyn yleissopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
