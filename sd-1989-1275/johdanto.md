@@ -1,0 +1,2 @@
+Laki poikkeusmenettelystä palo- ja pelastustoimen käyttökustannusten valtionosuuksia myönnettäessä
+Eduskunnan päätöksen mukaisesti säädetään:
