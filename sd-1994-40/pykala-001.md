@@ -1,6 +1,6 @@
 # 1 §
 
-Tasavallan presidentti, joka eroaa oltuaan toimessaan kuusi vuotta tai kauemmin, saa vuotuista eläkettä 334 800 markkaa. Jos hän erotessaan ei ole toiminut presidenttinä kuutta vuotta, vähennetään tästä eläkemäärästä kuudennes kutakin puuttuvaa täyttä vuotta kohti. Vähin eläke on kuitenkin puolet täydestä eläkkeestä.
+Tasavallan presidentti, joka eroaa oltuaan toimessaan kuusi vuotta tai kauemmin, saa vuotuista eläkettä 60 prosenttia palkkion määrästä. Jos hän erotessaan ei ole toiminut presidenttinä kuutta vuotta, vähennetään tästä eläkemäärästä kuudennes kutakin puuttuvaa täyttä vuotta kohti. Vähin eläke on kuitenkin puolet täydestä eläkkeestä.
 
 Valtion talousarvion rajoissa voidaan tasavallan presidentille hänen eläkkeelle siirtymisestään lähtien tarjota sopiva asunto kohtuullista vuokraa vastaan sekä tarpeen mukaan erilliset kirjoitus- ja arkistotyöhön soveltuvat työtilat sekä antaa turvallisuus-, toimisto- ja muita vastaavia palveluja.
 
