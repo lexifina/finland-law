@@ -1,0 +1,2 @@
+Laki vuodelta 1992 toimitettavassa valtionverotuksessa sovellettavista veroasteikoista ja veroprosenteista
+Eduskunnan päätöksen mukaisesti säädetään:
