@@ -1,0 +1,2 @@
+Laki yksilöiden suojelua henkilötietojen automaattisessa tietojenkäsittelyssä koskevan yleissopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
