@@ -1,0 +1,2 @@
+Laki kehitysalueiden veronhuojennuksista
+Eduskunnan päätöksen mukaisesti säädetään:
