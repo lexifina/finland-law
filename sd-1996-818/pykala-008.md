@@ -1,0 +1,3 @@
+# 8 § Osamaksukaupasta annetussa laissa tarkoitettu asia
+
+Osamaksukaupasta annetussa laissa (91/66) tarkoitettuun ulosottomiehen toimeen tai päätökseen, joka on tehty ennen tämän lain voimaantuloa, haetaan muutosta ja toimi tai päätös pannaan täytäntöön noudattaen osamaksukaupasta annettua lakia sellaisena kuin se on tämän lain voimaan tullessa. Ennen tämän lain voimaantuloa tehtyä lainvoimaista toimitusta ja muuta tointa voidaan oikaista osamaksukaupasta annetun lain 13 §:n mukaisesti. Muutoin on soveltuvin osin voimassa, mitä tämän lain 2 §:n 2 momentin 1 ja 2 kohdassa sekä 3 momentissa, 3 ja 4 §:ssä, 5 §:n 1 momentissa ja 6 §:ssä säädetään.

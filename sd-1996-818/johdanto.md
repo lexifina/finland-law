@@ -1,0 +1,2 @@
+Laki ulosoton viranomaisia ja muutoksenhakua sekä ulosotonhaltijan lakkauttamista koskevan uudistuksen siirtymäsäännöksistä
+Eduskunnan päätöksen mukaisesti säädetään:
