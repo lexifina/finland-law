@@ -1,0 +1,2 @@
+Laki rikosseuraamusalan tutkinnosta
+Eduskunnan päätöksen mukaisesti säädetään:
