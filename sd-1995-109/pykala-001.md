@@ -12,4 +12,4 @@ Konkurssiasiamiehen tehtävänä on:
 
 Konkurssiasiamiehen tulee vastaavasti tarpeellisessa laajuudessa seurata myös yrityksen saneerausmenettelyjen toimeenpanoa sekä valvoa, että selvittäjät asianmukaisesti hoitavat tehtävänsä.
 
-Konkurssiasiamies voi erityisestä syystä päättää, että valtio ottaa vastatakseen osakeyhtiön selvitysmenettelyn kustannuksista. Konkurssiasiamies voi tällöin määrätä, että selvitysmies laatii yhtiön toiminnasta konkurssiasiamiehen tarkemmin määräämällä tavalla konkurssisäännön (31/1868) 50 b §:n 1 momentissa tarkoitettua selvitystä vastaavan selvityksen.
+Konkurssiasiamies voi erityisestä syystä päättää, että valtio ottaa vastatakseen osakeyhtiön ja osuuskunnan selvitysmenettelyn kustannuksista. Konkurssiasiamies voi tällöin määrätä, että selvitysmies laatii yhtiön tai osuuskunnan toiminnasta konkurssiasiamiehen tarkemmin määräämällä tavalla konkurssisäännön (31/1868) 50 b §:n 1 momentissa tarkoitettua selvitystä vastaavan selvityksen.
