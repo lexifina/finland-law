@@ -1,0 +1,2 @@
+Laki metsänviljelyaineiston kaupasta
+Eduskunnan päätöksen mukaisesti säädetään:
