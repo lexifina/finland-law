@@ -1,0 +1,2 @@
+Laki eräistä henkilöstön asemaa koskevista järjestelyistä opintotukiasioiden siirryttyä kansaneläkelaitoksen hoidettaviksi
+Eduskunnan päätöksen mukaisesti säädetään:
