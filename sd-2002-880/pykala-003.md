@@ -1,0 +1,5 @@
+# 3 §
+
+Sen estämättä, mitä tapaturmavakuutuslain 35 §:n 2 momentissa ja maatalousyrittäjien tapaturmavakuutuslain 13 §:ssä säädetään, tästä laista vakuutuslaitoksille aiheutuva menojen lisäys voidaan vuonna 2003 ja sen jälkeen sisällyttää pakollisen tapaturmavakuutuksen vakuutusmaksujen perusteisiin ja lukea maatalousyrittäjien tapaturmavakuutuksen kokonaiskustannuksiin.
+
+Tästä laista johtuvasta maksutulon lisäyksestä ei kuitenkaan peritä eräistä vakuutusmaksuista suoritettavasta verosta annetussa laissa (664/1966) tarkoitettua vakuutusmaksuveroa, liikennevakuutuslain mukaista liikenneturvallisuusmaksua, tapaturmavakuutuslain 35 §:n 4 momentin mukaista työturvallisuusmaksua eikä 58 §:n ja 60 §:n 6 momentin mukaisia maksuja eikä eräiden tapaturmakorvausten sitomisesta palkkatasoon annetun lain (957/1971) 2 §:n eikä tapaturmavakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain (625/1991) 12 §:n mukaisia maksuja. Tämän lain mukaista maksua ei oteta myöskään huomioon maatalousyrittäjien tapaturmavakuutuslain 14 §:n mukaisia työturvallisuuskuluja määrättäessä.
