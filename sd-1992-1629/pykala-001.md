@@ -1,0 +1,3 @@
+# 1 §
+
+Tällä lailla kumotaan ulkomaalaisen oikeudesta omistaa suomalaisen luottolaitoksen osakkeita ja harjoittaa pankkitoimintaa Suomessa 31 päivänä elokuuta 1978 annetun lain (684/78) 1, 3, 3 a, 3 b, 4, 5, 6 ja 6 a §, sellaisina kuin ne ovat, 1 § muutettuna 28 päivänä joulukuuta 1990 ja 20 päivänä joulukuuta 1991 annetuilla laeilla (1282/90 ja 1546/91), 3, 4, 5 ja 6 § mainitussa 20 päivänä joulukuuta 1991 annetussa laissa, 3 a § muutettuna 29 päivänä maaliskuuta 1985 ja 17 päivänä toukokuuta 1991 annetuilla laeilla (288/85 ja 836/91), 3 b § mainitussa 29 päivänä maaliskuuta 1985 annetussa laissa ja 6 a § muutettuna mainituilla 29 päivänä maaliskuuta 1985 ja 20 päivänä joulukuuta 1991 annetuilla laeilla.
