@@ -1,0 +1,2 @@
+Laki eläinlääkintävahinkojen arviolautakunnasta
+Eduskunnan päätöksen mukaisesti säädetään:
