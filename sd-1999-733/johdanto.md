@@ -1,0 +1,2 @@
+Laki kansainvälisessä maantieliikenteessä toimivien ajoneuvojen miehistöjen työstä tehdyn eurooppalaisen sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
