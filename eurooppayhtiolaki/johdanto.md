@@ -1,0 +1,2 @@
+Eurooppayhtiölaki
+Eduskunnan päätöksen mukaisesti säädetään:
