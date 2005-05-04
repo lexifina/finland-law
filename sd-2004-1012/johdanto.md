@@ -1,0 +1,2 @@
+Laki Kansainvälisen rikostuomioistuimen erioikeuksista ja vapauksista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
