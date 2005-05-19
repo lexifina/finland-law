@@ -1,0 +1,2 @@
+Laki alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvään vuoden 1978 pöytäkirjaan vuonna 1997 tehdyn muutospöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
