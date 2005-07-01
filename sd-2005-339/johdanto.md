@@ -1,0 +1,2 @@
+Laki Mansaaren kanssa säästötulojen verottamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
