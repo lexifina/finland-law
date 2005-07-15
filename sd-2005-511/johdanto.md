@@ -1,0 +1,2 @@
+Laki eräiden vuokratalolainojen lainaehtojen ilmoitusperusteisesta muuttamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
