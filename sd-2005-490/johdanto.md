@@ -1,0 +1,2 @@
+Laki Pohjois-Atlantin sopimuksen sopimusvaltioiden ja muiden rauhankumppanuuteen osallistuvien valtioiden välillä niiden joukkojen asemasta tehdyn sopimuksen toisen lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
