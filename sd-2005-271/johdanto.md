@@ -1,0 +1,2 @@
+Laki Ranskan kanssa turvallisuusluokitellun tiedon vaihtamisesta ja vastavuoroisesta suojaamisesta tehdyn yleisen turvallisuussopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
