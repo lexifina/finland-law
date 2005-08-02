@@ -1,0 +1,2 @@
+Laki omaisuuden tai todistusaineiston jäädyttämistä koskevien päätösten täytäntöönpanosta Euroopan unionissa
+Eduskunnan päätöksen mukaisesti säädetään:
