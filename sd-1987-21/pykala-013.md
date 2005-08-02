@@ -5,4 +5,4 @@ Jos tuomittu on ennen vapaudenmenetystä tarkoittavan seuraamuksen muuntamista s
 
 Säilössä pitämisestä on soveltuvilta kohdin voimassa, mitä tutkintavankeudesta on säädetty.
 
-Tässä laissa tarkoitetun menettämisseuraamuksen täytäntöönpanon turvaamisessa noudatetaan, mitä pakkokeinolaissa (450/87) ja kansainvälisestä oikeusavusta rikosasioissa annetussa laissa (4/94) säädetään.
+Tässä laissa tarkoitetun menettämisseuraamuksen täytäntöönpanon turvaamisessa noudatetaan, mitä pakkokeinolaissa (450/1987), kansainvälisestä oikeusavusta rikosasioissa annetussa laissa (4/1994) ja omaisuuden tai todistusaineiston jäädyttämistä koskevien päätösten täytäntöönpanosta Euroopan unionissa annetussa laissa (540/2005) säädetään.
