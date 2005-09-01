@@ -1,0 +1,2 @@
+Laki lapsiasiavaltuutetusta
+Eduskunnan päätöksen mukaisesti säädetään:
