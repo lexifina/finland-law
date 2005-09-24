@@ -1,0 +1,2 @@
+Laki Mosambikin kanssa sijoitusten edistämisestä ja vastavuoroisesta suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
