@@ -1,0 +1,2 @@
+Laki keskinäisestä oikeusavusta rikosasioissa Euroopan unionin jäsenvaltioiden välillä tehtyyn yleissopimukseen liitettävän pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
