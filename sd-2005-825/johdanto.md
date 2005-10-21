@@ -1,0 +1,2 @@
+Laki riitauttamattomia vaatimuksia koskevasta eurooppalaisesta täytäntöönpanoperusteesta
+Eduskunnan päätöksen mukaisesti säädetään:
