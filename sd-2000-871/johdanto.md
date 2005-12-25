@@ -1,0 +1,2 @@
+Laki tietotekniikan käytöstä tullialalla tehdyn yleissopimuksen ja siihen liittyvän Euroopan yhteisöjen tuomioistuimen toimivaltaa koskevan pöytäkirjan sekä mainitun yleissopimuksen väliaikaisesta soveltamisesta eräiden Euroopan unionin jäsenvaltioiden kesken tehdyn sopimuksen eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
