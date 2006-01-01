@@ -1,0 +1,5 @@
+# 6 § Henkilöllisyyden selvittäminen ja oikeus kiinniottamiseen
+
+Erätarkastajalla on erävalvontaan kuuluvassa yksittäisessä tehtävässä oikeus pysäyttää henkilö ja kulkuneuvo sekä saada tieto henkilön ja kulkuneuvossa olevien henkilöiden nimestä, henkilötunnuksesta tai, jos henkilötunnusta ei ole, syntymäajasta ja kansalaisuudesta sekä paikasta, josta nämä ovat tavoitettavissa. Erätarkastajalla on oikeus ottaa kiinni henkilö, joka kieltäytyy antamasta henkilöllisyyden selvittämiseksi tarpeellisia tietoja tai antaa todennäköisesti virheellisen tiedon. Oikeus kiinniottamiseen on myös silloin, kun kiinniottaminen on välttämätöntä erävalvontaa koskevien säännösten vakavan rikkomisen jatkamisen estämiseksi ja kiinniottaminen on tekoon nähden oikeasuhteinen pakkokeino.
+
+Kiinni otettu on päästettävä vapaaksi heti, kun tarvittavat tiedot on saatu tai kun vaaraa säännösten rikkomisesta ei enää ole. Hänet on kuitenkin päästettävä vapaaksi viimeistään kuuden tunnin kuluttua kiinniottamisesta tai luovutettava ilman aiheetonta viivytystä poliisille.
