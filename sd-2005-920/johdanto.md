@@ -1,0 +1,2 @@
+Laki vaatimustenmukaisuuden arviointipalvelujen pätevyyden toteamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
