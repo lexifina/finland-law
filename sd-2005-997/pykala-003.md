@@ -1,0 +1,7 @@
+# 3 §
+
+Työnantajan maksuluokka määräytyy kalenterivuotta toiseksi edeltävältä verovuodelta toimitettua verotusta varten annetussa veroilmoituksessa ilmoitettujen kuluvan käyttö-omaisuuden hankintamenosta tehtyjen säännönmukaisten poistojen ja samana verovuonna kansaneläkemaksun perusteena olleiden palkkojen perusteella. Maksuluokka määräytyy edellä mainittujen palkkojen ja poistojen määrien perusteella myös silloin, kun työnantaja on verovuonna ollut vapautettu suorittamasta työnantajan kansaneläkemaksua. Jos sanotulta verovuodelta ei ole toimitettu verotusta, käytetään sitä edeltävältä verovuodelta toimitetun verotuksen tietoja.
+
+Työnantajan kansaneläkemaksun II maksuluokkaan kuuluu liiketoimintaa harjoittava yksityinen työnantaja, joka on velvollinen suorittamaan valtiolle tuloveroa, sekä tuloverolain (1535/1992) 4 §:n 1 momentin 1 kohdassa tarkoitettu liiketoimintaa harjoittava elinkeinoyhtymä, jos poistojen määrä on yli 50 500 euroa ja samalla vähintään 10 ja enintään 30 prosenttia maksetuista palkoista. Liiketoimintaa harjoittava yksityinen työnantaja ja liiketoimintaa harjoittava elinkeinoyhtymä kuuluvat III maksuluokkaan, jos poistojen määrä on yli 50 500 euroa ja samalla yli 30 prosenttia maksetuista palkoista. Muut yksityiset työnantajat kuuluvat I maksuluokkaan.
+
+Mitä 1 ja 2 momentissa säädetään yksityisestä työnantajasta, koskee vastaavasti sellaista valtion liikelaitosta, johon sovelletaan valtion liikelaitoksista annettua lakia.
