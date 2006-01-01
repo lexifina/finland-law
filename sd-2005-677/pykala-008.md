@@ -1,0 +1,13 @@
+# 8 § Muutoksenhakulautakunnan ratkaisukokoonpanot
+Luku: 2 luku Asioiden käsittely muutoksenhakulautakunnassa
+
+Muutoksenhakulautakunta ratkaisee muutoksenhakuasiat vähintään nelijäsenisessä ja enintään kuusijäsenisessä jaostossa, jonka puheenjohtajana toimii muutoksenhakulautakunnan puheenjohtaja tai varapuheenjohtaja. Jaostojen kokoonpanossa noudatetaan jäsenten kesken vuorojärjestystä siten kuin muutoksenhakulautakunnan hallintojaosto päättää.
+
+Muutoksenhakuasioita käsittelevä jaosto on päätösvaltainen, kun puheenjohtajan tai varapuheenjohtajan sekä työeläkeasioihin perehtyneen ja tuomarin virkaan oikeuttavan tutkinnon suorittaneen tai muun työeläkevakuutukseen erityisesti perehtyneen jäsenen lisäksi läsnä on kaksi työelämän ja työmarkkinoiden olosuhteita tuntevaa jäsentä. Jaosto on myös päätösvaltainen, kun puheenjohtajan tai varapuheenjohtajan, työeläkeasioihin perehtyneen ja tuomarin virkaan oikeuttavan tutkinnon suorittaneen tai muun työeläkevakuutukseen erityisesti perehtyneen jäsenen sekä yhden työelämän ja työmarkkinoiden olosuhteita tuntevan jäsenen lisäksi jaoston kokouksessa ovat läsnä jäsenet seuraavasti:
+1) käsiteltäessä asiaa, jonka ratkaiseminen olennaisesti riippuu maatalousyrittäjien eläkelain, maatalousyrittäjien sukupolvenvaihdoseläkkeestä annetun lain (1317/1990), luopumiseläkelain (16/1974), maatalousyrittäjien luopumiskorvauksesta annetun lain (1330/1992), maatalousyrittäjien luopumistuesta annetun lain (1293/1994), kasvihuonetuotannon ja omenanviljelyn lopettamistuesta annetun lain (1297/1994) taikka niiden nojalla annettujen säännösten tai määräysten soveltamisesta, tulee maatalousyrittäjätoimintaan perehtyneen jäsenen olla läsnä;
+2) käsiteltäessä asiaa, jonka ratkaiseminen olennaisesti riippuu yrittäjien eläkelain (468/1969) taikka sen nojalla annettujen säännösten tai määräysten soveltamisesta, tulee yrittäjätoimintaan perehtyneen jäsenen olla läsnä;
+3) käsiteltäessä asiaa, jonka ratkaiseminen olennaisesti riippuu lääketieteellisestä kysymyksestä, tulee myös lääkärijäsenen olla läsnä.
+
+Jaosto on päätösvaltainen myös silloin, kun jaoston kokouksessa ovat läsnä puheenjohtaja ja vähintään kaksi muuta jäsentä, jos asian käsittelyyn 2 momentin mukaan vaadittavat jäsenet ovat kirjallisesti ennen kokousta yhtyneet esittelijän esitykseen ja tällä kannalla ovat myös läsnä olevat jäsenet.
+
+Jaosto on kuitenkin päätösvaltainen vain, jos yhteensä enintään puolet läsnä olevista jäsenistä ovat työelämän ja työmarkkinoiden olosuhteita tuntevia jäseniä, maatalousyrittäjätoimintaan perehtyneitä jäseniä ja yrittäjätoimintaan perehtyneitä jäseniä.
