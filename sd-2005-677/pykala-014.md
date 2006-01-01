@@ -1,0 +1,4 @@
+# 14 § Hallintoasiat
+Luku: 2 luku Asioiden käsittely muutoksenhakulautakunnassa
+
+Muutoksenhakulautakunnan hallintoasiat käsitellään hallintojaostossa. Hallintojaoston koollekutsujana ja puheenjohtajana toimii muutoksenhakulautakunnan puheenjohtaja tai hänen estyneenä ollessa varapuheenjohtaja ja muina jäseninä muutoksenhakulautakunnan varapuheenjohtajat sekä kolme jäsentä, joista yhden ovat nimenneet muutoksenhakulautakunnan työnantajajärjestöjen ehdotuksen perusteella nimitetyt jäsenet, yhden työntekijä- ja toimihenkilöjärjestöjen ehdotuksen perusteella nimitetyt jäsenet sekä yhden maatalousyrittäjien järjestöjen ehdotuksen perusteella nimitetyt jäsenet keskuudestaan. Hallintojaosto on päätösvaltainen, kun puheenjohtaja ja vähintään puolet muista jäsenistä ovat kokouksessa läsnä. Hallintojaoston jäsenillä puheenjohtajaa ja varapuheenjohtajia lukuun ottamatta on henkilökohtaiset varajäsenet.

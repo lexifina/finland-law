@@ -1,0 +1,2 @@
+Laki työeläkeasioiden muutoksenhakulautakunnasta
+Eduskunnan päätöksen mukaisesti säädetään:
