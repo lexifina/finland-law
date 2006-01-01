@@ -1,0 +1,2 @@
+Laki henkilövahinkoasiain neuvottelukunnasta
+Eduskunnan päätöksen mukaisesti säädetään:
