@@ -1,0 +1,2 @@
+Laki tullimenettelyjen yksinkertaistamisesta ja yhdenmukaistamisesta tehdyn kansainvälisen yleissopimuksen muuttamisesta tehdyn pöytäkirjan sekä sen I ja II liitteiden lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
