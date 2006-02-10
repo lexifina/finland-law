@@ -1,0 +1,2 @@
+Laki Kansainvälisen rikostuomioistuimen ja Suomen välillä Kansainvälisen rikostuomioistuimen oikeudenkäynneissä kuultavina olleiden tai kuultavaksi tulevien todistajien ja heidän läheistensä sijoittamisesta Suomen alueelle kirjeenvaihdolla tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
