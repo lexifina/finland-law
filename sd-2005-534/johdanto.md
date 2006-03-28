@@ -1,0 +1,2 @@
+Laki tieliikennettä koskevan yleissopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
