@@ -1,0 +1,2 @@
+Laki eräiden Euroopan yhteisön jäsenvaltioista olevien liikenteenharjoittajien kiellosta harjoittaa Suomen sisäistä liikennettä
+Eduskunnan päätöksen mukaisesti säädetään:
