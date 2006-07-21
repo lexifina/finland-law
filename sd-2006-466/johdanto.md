@@ -1,0 +1,2 @@
+Laki korruption vastaisen Yhdistyneiden Kansakuntien yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
