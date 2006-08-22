@@ -1,0 +1,2 @@
+Laki Suomen ja Sierra Leonen erityistuomioistuimen välillä Sierra Leonen erityistuomioistuimen oikeudenkäynneissä kuultavina olleiden tai kuultaviksi tulevien todistajien ja heidän läheistensä sijoittamisesta Suomen alueelle kirjeenvaihdolla tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
