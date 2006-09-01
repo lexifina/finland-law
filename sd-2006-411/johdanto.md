@@ -1,0 +1,2 @@
+Laki Tšekin tasavallan, Viron tasavallan, Kyproksen tasavallan, Latvian tasavallan, Liettuan tasavallan, Unkarin tasavallan, Maltan tasavallan, Puolan tasavallan, Slovenian tasavallan ja Slovakian tasavallan liittymisestä yleissopimukseen kaksinkertaisen verotuksen poistamisesta etuyhteydessä keskenään olevien yritysten tulonoikaisun yhteydessä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
