@@ -1,0 +1,2 @@
+Laki maantieliikenteen liikenneyrittäjäkoulutuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
