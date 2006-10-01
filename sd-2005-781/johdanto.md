@@ -1,0 +1,2 @@
+Laki pitkäaikaisvankien vapauttamismenettelystä
+Eduskunnan päätöksen mukaisesti säädetään:
