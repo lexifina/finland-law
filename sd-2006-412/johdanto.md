@@ -1,0 +1,2 @@
+Laki Viron kanssa tehdyn sosiaaliturvasopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
