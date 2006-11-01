@@ -1,0 +1,3 @@
+# 3 § Perustajan pääkonttorin sijainti
+
+Eurooppaosuuskunnan perustamiseen voi osallistua myös sellainen oikeushenkilö, jonka pääkonttori ei ole Euroopan talousalueella, jos kyseinen oikeushenkilö täyttää eurooppaosuuskunta-asetuksen 2 artiklan 2 kohdan mukaiset vaatimukset oikeushenkilön perustamisesta, sääntömääräisestä kotipaikasta ja yhteydestä jonkin Euroopan talousalueeseen kuuluvan valtion talouteen. Sama koskee myös muuta Euroopan yhteisön perustamissopimuksen 48 artiklassa tarkoitettua yhtiötä, jos eurooppaosuuskunta perustetaan eurooppaosuuskunta-asetuksen 2 artiklan 1 kohdan toisessa tai kolmannessa luetelmakohdassa tarkoitetulla tavalla.

@@ -1,0 +1,13 @@
+# 9 § Kotipaikan siirtäminen Suomesta
+
+Eurooppaosuuskunnan on ilmoitettava eurooppaosuuskunta-asetuksen 7 artiklan 2 kohdassa tarkoitettu siirtosuunnitelma rekisteröitäväksi kuukauden kuluessa suunnitelman allekirjoittamisesta. Kotipaikan siirtäminen raukeaa, jos ilmoitusta ei tehdä määräajassa tai rekisteröiminen evätään.
+
+Osuuskunnan kaikilla velkojilla on oikeus vastustaa kotipaikan siirtämistä. Osuuskunnan on haettava rekisteriviranomaiselta kuulutusta edellä tarkoitetuille velkojille neljän kuukauden kuluessa siirtosuunnitelman rekisteröimisestä, tai kotipaikan siirto raukeaa. Hakemukseen on liitettävä eurooppaosuuskunta-asetuksen 7 artiklan 3 kohdassa tarkoitettu selonteko. Velkojien suojaan sovelletaan muuten, mitä osakeyhtiölain 16 luvun 6 ja 7 §:ssä säädetään sulautuvan yhtiön velkojien suojasta.
+
+Eurooppaosuuskunta-asetuksen 7 artiklassa tarkoitetun kotipaikan siirron täytäntöönpanoon tarvitaan rekisteriviranomaisen lupa. Lupaa on haettava kuukauden kuluessa kotipaikan siirtämistä koskevasta päätöksestä. Hakemukseen on liitettävä siirtopäätös sekä hallituksen jäsenen tai toimitusjohtajan todistus osakeyhtiölain 16 luvun 7 §:ssä tarkoitettujen ilmoitusten lähettämisestä. Jos hakemusta ei tehdä määräajassa tai lupaa ei myönnetä, päätös kotipaikan siirtämisestä raukeaa. Jos siirtosuunnitelmaa on muutettu osuuskunnan kokouksen päätöksellä, muutettu suunnitelma on ilmoitettava rekisteröitäväksi viimeistään hakemuksen yhteydessä.
+
+Rekisteriviranomaisen luvan antamisen edellytyksiin sovelletaan eurooppaosuuskunta-asetuksen 7 artiklan 8 kohdan säännöksiä sekä osakeyhtiölain 16 luvun 15 §:n 1 ja 2 momentin säännöksiä sulautumisen rekisteröinnin edellytyksistä. Jos yhtiön omaisuuteen on voimassa yrityskiinnityslaissa tarkoitettu yrityskiinnitys, luvan antamisen edellytyksenä on, että samalla on vireillä rekisteröimiskelpoinen hakemus kiinnitysten siirtämisestä Suomeen perustettavan sivuliikkeen vastattavaksi tai että kiinnitykset on kuoletettu. Rekisteriviranomaisen lupaa koskeva päätös on viran puolesta rekisteröitävä.
+
+Rekisteriviranomainen antaa 3 momentissa tarkoitetun luvan myöntämisestä eurooppaosuuskunta-asetuksen 7 artiklan 8 kohdassa tarkoitetun todistuksen. Todistus on toimitettava osuuskunnan uuden kotipaikan valtion toimivaltaiselle viranomaiselle kuuden kuukauden kuluessa sen antamisesta, tai todistus raukeaa.
+
+Siirtopäätöstä koskevaan moitekanteeseen sovelletaan, mitä osuuskuntalain 16 luvun 18 §:ssä säädetään sulautumispäätöstä koskevasta moitekanteesta. Tuomioistuimen on viipymättä ilmoitettava kanteen vireilletulosta ja asiassa annetusta lainvoimaisesta tuomiosta rekisteriviranomaiselle.

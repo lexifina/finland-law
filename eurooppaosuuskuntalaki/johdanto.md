@@ -1,0 +1,2 @@
+Eurooppaosuuskuntalaki
+Eduskunnan päätöksen mukaisesti säädetään:
