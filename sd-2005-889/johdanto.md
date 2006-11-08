@@ -1,0 +1,2 @@
+Laki Pohjoismaiden ministerineuvoston sihteeristön ja Pohjoismaiden neuvoston puheenjohtajiston sihteeristön oikeudellista asemaa koskevan sopimuksen muuttamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
