@@ -1,4 +1,8 @@
-# 11 § Muutoksenhaku
+# 11 § Muutoksenhaku ja päätöksen poistaminen
 Luku: 2 luku Eläkeoikeuden siirto Euroopan yhteisöihin
 
 Asianosainen, joka ei tyydy eläkelaitoksen päätökseen tai eläketurvakeskuksen siirrettävää eläkeoikeutta ja rahoitusosuuksia koskevaan päätökseen, saa hakea siihen muutosta siten kuin 1 §:n 2 momentissa mainituissa laeissa, eläkeohjesäännössä tai eläkesäännöissä säädetään. Valituskirjelmä on toimitettava valitusajassa eläketurvakeskukselle. Jos valituksen kohteena on eläkelaitoksen päätös, valitusaika lasketaan siitä päivästä, jona asianosainen on saanut tiedon 7 §:ssä tarkoitetusta yhteenvedosta. Eläketurvakeskuksen on tällöin toimitettava valitus päätöksen antaneen eläkelaitoksen käsiteltäväksi.
+
+Jos tässä laissa tarkoitettu eläkelaitoksen eläkeoikeuden määrää tai Eläketurvakeskuksen siirrettävää eläkeoikeutta ja rahoitusosuuksia koskeva päätös perustuu väärään tai puutteelliseen selvitykseen taikka on ilmeisesti lain vastainen, vakuutusoikeus voi Eläketurvakeskuksen tai asianomaisen eläkelaitoksen taikka siirtoa hakeneen hakemuksesta varattuaan muille asianosaisille tilaisuuden tulla kuulluiksi poistaa päätöksen ja määrätä asian uudelleen käsiteltäväksi.
+
+Jos asiassa, jossa on kysymys evätyn edun myöntämisestä tai myönnetyn edun lisäämisestä, ilmenee uutta selvitystä, Eläketurvakeskuksen tai asianomaisen eläkelaitoksen on tutkittava asia uudelleen. Eläkelaitos voi aikaisemman lainvoimaisen päätöksen estämättä myöntää evätyn edun taikka myöntää edun aikaisempaa suurempana. Myös asianomainen muutoksenhakulautakunta ja vakuutusoikeus voivat menetellä vastaavasti muutoksenhakuasiaa käsitellessään. Tässä momentissa tarkoitettuun päätökseen saa hakea muutosta siten kuin 1 momentissa säädetään.
