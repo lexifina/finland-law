@@ -1,0 +1,3 @@
+# 1 §
+
+Jos laissa tai asetuksessa säädetään, että päivärahan tai sitä vastaavan etuuden määrässä on otettava huomioon henkilön työ- tai virkasuhteessa saadut työtulot taikka työntekijän eläkelain (395/2006) 72 §:ssä tarkoitettu vakuutuspalkka, näistä työtuloista, vakuutuspalkasta tai maksettavasta etuudesta on vuonna 2007 vähennettävä kyseiselle vuodelle vahvistetun työntekijän eläkelain 153 §:n 1 momentin ensimmäisessä virkkeessä tarkoitetun työntekijäin työeläkevakuutusmaksun ja työttömyysetuuksien rahoituksesta annetun lain (555/1998) 18 §:n 1 momentissa tarkoitetun palkansaajan työttömyysvakuutusmaksun yhteismäärä, ei kuitenkaan enempää kuin 4,98 prosenttia.
