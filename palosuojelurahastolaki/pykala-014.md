@@ -3,7 +3,7 @@ Luku: 3 luku Avustukset ja muu julkinen tuki
 
 Palosuojelurahastosta voidaan myöntää lain tarkoituksen toteuttamiseksi rahaston varojen ja vuosittaisen käyttösuunnitelman puitteissa yleis- tai erityisavustuksia. Palosuojelurahastosta myönnettäviin avustuksiin sovelletaan, mitä valtionavustuslaissa (688/2001) säädetään ja rahasto toimii näissä avustuksissa valtionavustuslaissa tarkoitettuna valtionapuviranomaisena.
 
-Palosuojelurahastosta voidaan myöntää yleisavustusta ja erityisavustuksia kunnille ja pelastustoimen alueille, sopimuspalokunnille sekä pelastusalan järjestöille ja muille vastaaville yhteisöille.
+Palosuojelurahastosta voidaan myöntää yleisavustusta ja erityisavustuksia pelastusalan järjestöille ja muille vastaaville yhteisöille sekä erityisavustuksia kunnille, pelastustoimen alueille ja sopimuspalokunnille.
 
 Palosuojelurahastosta voidaan myöntää myös muille erityisavustuksia:
 1) oppimateriaalin tuotantoon ja hankintaan;
