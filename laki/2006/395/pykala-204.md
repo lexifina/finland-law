@@ -1,0 +1,10 @@
+# 204 § Tietojen antaminen vapaaehtoista ryhmälisäeläketurvaa varten
+Osa: IV OSA ERINÄISET SÄÄNNÖKSET
+Luku: 14 luku Tietojen antaminen, saaminen ja salassapito
+
+Eläkelaitoksella ja Eläketurvakeskuksella on oikeus sen lisäksi, mitä julkisuuslaissa säädetään, salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä antaa henkivakuutusyhtiölle, eläkekassalle tai eläkesäätiölle työntekijöiden nimet ja osoitteet, henkilötunnukset, tiedot eläkkeiden määristä ja eläkkeen määrään vaikuttavista tekijöistä sekä muut alla mainittua tarkoitusta varten välttämättömät tiedot:
+1) tämän lain mukaiseen eläketurvaan liittyvän rekisteröimättömän vapaaehtoisen ryhmälisäeläketurvan jatkuvaa hoitamista varten;
+2) uuden ryhmälisäeläketurvan ehtojen sopimista varten, jos aikaisempi lisäeläketurva työnantajan aloitteesta lopetetaan ja korvataan vastaavanlaisella uudella lisäeläketurvalla; uuden lisäeläketurvavakuutuksen antajan on tällöin esitettävä Eläketurvakeskukselle selvitys siitä, että uusi lisäeläketurva merkitsee aikaisemman lisäeläketurvan korvaamista uudella;
+3) uuden järjestettävän lisäeläketurvan lopullisen sisällön määrittelemistä varten; edellytyksenä on kuitenkin, että henkivakuutusyhtiö, eläkekassa tai eläkesäätiö on huolehtinut siitä, että lisäeläkejärjestelyn piiriin kuuluville työntekijöille on vakuutussopimuksen tai eläkejärjestelyn tultua hyväksytyksi asianmukaisesti selvitetty henkivakuutusyhtiön, eläkekassan tai eläkesäätiön mahdollisuus saada tarvittavat tiedot ja ettei työntekijä nimenomaisesti ole kieltäytynyt lisäeläkejärjestelystä tai kieltänyt antamasta tietojaan.
+
+Uuden lisäeläketurvan järjestäjää haettaessa eläkelaitoksella ja Eläketurvakeskuksella on oikeus sen lisäksi, mitä julkisuuslaissa säädetään, salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä antaa henkivakuutusyhtiölle, eläkekassalle tai eläkesäätiölle lisäeläketurvan ja sen kustannusten määrittelemistä varten tiedot työntekijöiden työsuhteista, eläkeoikeuksista, ikä- ja sukupuolijakaumasta ja eläkkeen määrään vaikuttavista tekijöistä.
