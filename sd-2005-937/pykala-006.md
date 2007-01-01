@@ -1,3 +1,3 @@
 # 6 § Hoitopalkkion määrän tarkistaminen
 
-Hoitopalkkioiden määriä tarkistetaan kalenterivuosittain kertoimella, joka vuosittain vahvistetaan työntekijäin eläkelain (395/ 1961) 7 b §:n soveltamista varten.
+Hoitopalkkion määrä tarkistetaan kalenterivuosittain työntekijän eläkelain (395/2006) 96 §:ssä tarkoitetulla palkkakertoimella.
