@@ -1,0 +1,2 @@
+Laki Eläketurvakeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
