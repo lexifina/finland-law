@@ -1,0 +1,3 @@
+# 8 §
+
+Jos yrittäjä on yrittäjän eläkelain 116 §:n perusteella maksanut lisätyöeläkevakuutusmaksua tai pienennettyä työeläkevakuutusmaksua, hänen 1 päivän tammikuuta 2005 jälkeiseen aikaan kohdistuvat työtulonsa otetaan huomioon yrittäjän maksamien vakuutusmaksujen mukaisina siten kuin mainitun lain 67 §:ssä säädetään, vaikka yrittäjän eläke tulisi YEL-lain muuttamisesta annetun lain (638/2003) voimaantulosäännöksen 2 momentin tai työntekijäin eläkelain muuttamisesta annetun lain (634/2003) voimaantulosäännöksen 8 tai 9 momentin perusteella muutoin määrättäväksi mainittujen lakien voimaan tullessa voimassa olleiden säännösten perusteella.
