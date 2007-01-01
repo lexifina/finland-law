@@ -1,0 +1,2 @@
+Laki lapsipornografian levittämisen estotoimista
+Eduskunnan päätöksen mukaisesti säädetään:
