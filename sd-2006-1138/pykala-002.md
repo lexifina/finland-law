@@ -1,0 +1,3 @@
+# 2 §
+
+Tavaraan, joka on asetettu johonkin passitusmenettelyyn ennen tämän lain voimaantuloa, sovelletaan tavaraa menettelyyn asetettaessa voimassa olleita säännöksiä sinä aikana, jona tavara on edellä mainittujen säännösten perusteella passitusmenettelyssä. Kun menettely päättyy, sovelletaan arvonlisäverolain säännöksiä tavaran maahantuonnista. Edellytyksenä on, että tavara on ennen passitusmenettelyä ollut vapaassa liikkeessä Bulgarian tasavallassa tai Romaniassa ja että tavara on asetettu menettelyyn ennen tämän lain voimaantuloa asettamisvaltiossa elinkeinonharjoittajan toimesta tapahtuneen myynnin johdosta.

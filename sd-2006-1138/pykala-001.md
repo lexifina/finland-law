@@ -1,0 +1,3 @@
+# 1 §
+
+Tavaraan, joka on tuotu Yhteisöön arvonlisäverolaissa (1501/1993) tarkoitetulla tavalla ja asetettu arvonlisäverolain 86 a §:n 3 momentissa tarkoitettuun menettelyyn ennen tämän lain voimaantuloa, sovelletaan tavaraa menettelyyn asetettaessa voimassa olleita säännöksiä sinä aikana, jona tavara edellä mainittujen säännösten perusteella on menettelyssä. Kun tavara otetaan edellä mainitusta menettelystä, sovelletaan, mitä arvonlisäverolaissa säädetään tavaran maahantuonnista. Edellytyksenä on, että tavara on ennen edellä mainittuun menettelyyn asettamista ollut vapaassa liikkeessä Bulgarian tasavallassa tai Romaniassa.
