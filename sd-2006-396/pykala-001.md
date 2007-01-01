@@ -1,0 +1,5 @@
+# 1 §
+
+Työntekijän eläkelaki (395/2006) tulee voimaan 1 päivänä tammikuuta 2007. Sitä sovelletaan lain soveltamisalaan kuuluvassa työsuhteessa tehtyyn työhön lain voimaantulosta lukien.
+
+Työntekijän eläkelakia sovelletaan myös ennen 1 päivää tammikuuta 2007 myönnettyyn työntekijäin eläkelain (395/1961), lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain (134/1962) ja taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain (662/1985) mukaiseen eläkkeeseen. Jos ennen 1 päivää tammikuuta 2007 myönnettyä eläkettä määrättäessä kuitenkin on noudatettu ennen 1 päivää tammikuuta 2005 voimassa olleita säännöksiä, noudatetaan, mitä 1 päivänä tammikuuta 2005 voimaan tulleen työntekijäin eläkelain, lyhytaikaisissa työsuhteissa olevien työntekijäin eläkelain ja taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelain muuttamisesta annettujen lakien (634―636/2003, 885/ 2004, 887/2004 ja 889/2004) voimaantulosäännöksissä ja näiden lakien voimaantulosäännösten muuttamisesta annetuissa laeissa (886/2004, 888/2004 ja 890/2004) säädetään.

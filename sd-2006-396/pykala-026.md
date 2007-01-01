@@ -1,0 +1,7 @@
+# 26 §
+
+Eläke, jonka eläketapahtuma on ennen vuotta 2005, määräytyy ennen vuotta 2005 voimassa olleiden työsuhde-eläkelakien mukaisesti, jollei mainittujen lakien muuttamisesta annettujen lakien (885/2004, 887/2004 ja 889/2004) voimaantulosäännöksistä ja näiden lakien voimaantulosäännösten muuttamisesta annetuista laeista (886/2004, 888/2004 ja 890/2004) muuta johdu.
+
+Sellaiseen työkyvyttömyys-, työttömyys- ja perhe-eläkkeeseen, jonka eläketapahtuma on vuonna 2005, sovelletaan 31 päivään joulukuuta 2004 voimassa olleiden työsuhde-eläkelakien säännöksiä. Jos kuitenkin työntekijä on täyttänyt 63 vuotta ennen työkyvyttömyyden alkamista, hänelle myönnetään työkyvyttömyyseläkkeen sijaan vanhuuseläke ansaitun suuruisena. Jos työntekijä täyttää 63 vuotta ennen sairausvakuutuslain (1224/2004) 12 luvun 3 §:ssä säädetyn ensisijaisuusajan täyttymistä, työkyvyttömyyseläkkeen sijaan eläke lasketaan ja myönnetään vanhuuseläkkeenä 63 vuoden iän täyttämistä seuraavan kuukauden alusta.
+
+Jos perhe-eläkkeen eläketapahtuma on vuoden 2005 jälkeen, mutta perhe-eläke määräytyy sellaisen edunjättäjän saaman eläkkeen perusteella, joka on yhteensovitettu ennen 1 päivää tammikuuta 2005 voimassa olleiden työsuhde-eläkelakien mukaisesti, myös perhe-eläke yhteensovitetaan edellä mainittujen lakien mukaisesti. Tällöin yhteensovitusrajaa laskettaessa ei kuitenkaan vähennetä perhe-eläkelain (38/1969) mukaan suoritettavaa lapsen eläkkeen perusmäärää tai leskeneläkkeen perusmäärää.

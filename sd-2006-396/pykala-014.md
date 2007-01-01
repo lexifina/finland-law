@@ -1,0 +1,3 @@
+# 14 §
+
+Ennen vuotta 2005 päättyneen tai TEL-lain muuttamisesta annetun lain (634/2003) voimaantulosäännöksen 4 momentin mukaisesti päätetyn työsuhteen eläkepalkka voidaan harkinnanvaraisesti tarkistaa työntekijän hakemuksesta ennen 1 päivää tammikuuta 2005 voimassa olleen TEL-lain 7 d §:n mukaan ja ennen vuotta 1996 päättyneen työsuhteen eläkepalkka TEL-lain muuttamisesta annetun lain (1482/1995) voimaantulosäännöksen 8 momentin mukaan. Edellytyksenä tarkistamiselle on, että eläkepalkan harkinnanvaraista tarkistamista koskeva työntekijän hakemus tulee eläkelaitokseen viimeistään 31 päivänä joulukuuta 2011.

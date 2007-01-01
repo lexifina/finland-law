@@ -1,0 +1,2 @@
+Työntekijän eläkelain voimaanpanolaki
+Eduskunnan päätöksen mukaisesti säädetään:

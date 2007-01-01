@@ -1,0 +1,3 @@
+# 6 §
+
+Työsuhde-eläkelakien mukaisen työeläkevakuutuksen korjauksista aiheutuvia maksuja voidaan periä tai laskea vain, kun työsuhde-eläkelakien mukaisia eläkkeeseen oikeuttavia ansioita muutetaan saadun selvityksen perusteella lopullisen vakuutusmaksun määräämisen jälkeen. Perittävä tai laskettava maksu voidaan käyttää kokonaisuudessaan työntekijän eläkelain 179 §:n mukaisiin yhteisesti kustannettavien etuuksien kustannuksiin. Vakuutusmaksuja korjataan vain siltä ajalta, jolta eläkelaitoksella on vielä oikeus periä vakuutusmaksu työnantajalta. Korjauksessa käytettävistä maksukertoimista, maksun korkoutuksesta ja muista vastaavista seikoista määrätään sosiaali- ja terveysministeriön vahvistamissa tai asetuksella antamissa laskuperusteissa.
