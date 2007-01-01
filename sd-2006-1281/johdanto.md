@@ -1,0 +1,2 @@
+Laki maatalousyrittäjän eläkelain voimaanpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
