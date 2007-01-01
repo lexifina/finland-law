@@ -1,0 +1,2 @@
+Laki Rikosseuraamusalan koulutuskeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
