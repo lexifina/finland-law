@@ -1,0 +1,3 @@
+# 3 § Hallituksen jäsenten kelpoisuusvaatimukset
+
+Valtioneuvoston kanslian ehdotuksesta valittavalla hallituksen jäsenellä tulee olla Euroopan unionin asioiden hyvä tuntemus ja käytännön kokemusta niiden hoitamisesta. Ulkoasiainministeriön ehdotuksesta valittavalla jäsenellä tulee olla perehtyneisyys ulkopolitiikkaan sekä käytännön kokemusta sen hoitamisesta. Suomen Akatemian, Suomen yliopistojen rehtorien ja Ulkopolitiikan tutkimuksen säätiön ehdotuksista valittavilla jäsenillä tulee olla hyvä perehtyneisyys tutkimuslaitoksen toimialan tutkimukseen. Muiden hallituksen jäsenten tulee olla perehtyneitä tutkimuslaitoksen toimialaan.
