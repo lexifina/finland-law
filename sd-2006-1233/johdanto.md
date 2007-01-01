@@ -1,0 +1,2 @@
+Laki tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä
+Eduskunnan päätöksen mukaisesti säädetään:
