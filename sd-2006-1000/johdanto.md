@@ -1,0 +1,2 @@
+Laki eläkkeensaajien asumistuessa hyväksyttävien asumiskustannusten enimmäismääristä vuonna 2007
+Eduskunnan päätöksen mukaisesti säädetään:
