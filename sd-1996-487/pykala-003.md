@@ -1,3 +1,3 @@
 # 3 § Valvonta
 
-Tämän lain ja sen nojalla annettujen määräysten noudattamista valvoo takauskeskustarkastaja. Asianomainen ministeriö määrää kalenterivuodeksi kerrallaan takauskeskustarkastajan takauskeskuksen hallituksen esityksestä.
+Tämän lain ja sen nojalla annettujen määräysten noudattamista valvoo takauskeskustarkastaja. Sisäasiainministeriö määrää takauskeskustarkastajan takauskeskuksen hallituksen esityksestä enintään neljäksi kalenterivuodeksi kerrallaan.

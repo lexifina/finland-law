@@ -1,3 +1,3 @@
-# 7 § Ohjesääntö
+# 7 § Johtosääntö
 
-Takauskeskuksen toimielinten kokoonpanosta ja toimikaudesta, tehtävistä ja muusta toiminnasta annetaan tarvittavat määräykset ohjesäännössä, jonka valtuuskunta hyväksyy ja asianomainen ministeriö vahvistaa.
+Takauskeskuksen toimielimistä, niiden kokoonpanosta, tehtävistä ja toimikaudesta sekä muusta takauskeskuksen toiminnasta annetaan tarkemmat määräykset johtosäännössä, jonka valtuuskunta hyväksyy.
