@@ -1,0 +1,2 @@
+Laki Kiinan kanssa kansainvälisen ilmakuljetusliiketoiminnan vastavuoroisesta vapauttamisesta eräistä veroista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
