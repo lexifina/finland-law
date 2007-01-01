@@ -1,6 +1,6 @@
 # 11 § Muutoksenhaku
 
-Kansaneläkelaitoksen päätökseen tyytymätön saa hakea siihen muutosta sosiaalivakuutuslautakunnalta ja sosiaalivakuutuslautakunnan päätökseen tyytymätön tarkastuslautakunnalta. Tarkastuslautakunnan päätökseen ei saa hakea muutosta valittamalla. Sosiaalivakuutuslautakunnasta ja tarkastuslautakunnasta säädetään sairausvakuutuslaissa.
+Kansaneläkelaitoksen päätökseen tyytymätön saa hakea siihen muutosta sosiaaliturvan muutoksenhakulautakunnalta ja sosiaaliturvan muutoksenhakulautakunnan päätökseen tyytymätön vakuutusoikeudelta. Vakuutusoikeuden päätökseen ei saa hakea muutosta valittamalla. Sosiaaliturvan muutoksenhakulautakunnasta säädetään sosiaaliturvan muutoksenhakulautakunnasta annetussa laissa (1299/2006).
 
 Valituskirjelmä on toimitettava kansaneläkelaitokselle 30 päivän kuluessa siitä, kun valittaja on saanut päätöksestä tiedon.
 
