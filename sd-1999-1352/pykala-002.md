@@ -1,5 +1,5 @@
 # 2 §
 
-Yhtiön toiminnan tulee olla liiketaloudellisesti kannattavaa.
+Yhtiön toiminnan tulee olla liiketaloudellisesti kannattavaa pitkällä aikavälillä.
 
-Yksittäisissä sijoituspäätöksissä voidaan poikkeuksellisesti hyväksyä tavanomaista alhaisempi tuotto-odotus ja suurempi riski.
+Yhtiön elinkeinopoliittisen tehtävän täyttämiseksi voidaan yksittäisissä sijoituspäätöksissä hyväksyä tavanomaista suurempi riski.
