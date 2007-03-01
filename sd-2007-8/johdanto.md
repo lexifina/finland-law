@@ -1,0 +1,2 @@
+Laki kuluttajariitalautakunnasta
+Eduskunnan päätöksen mukaisesti säädetään:
