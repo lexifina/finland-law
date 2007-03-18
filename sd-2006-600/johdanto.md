@@ -1,0 +1,2 @@
+Laki kulttuuri-ilmaisujen moninaisuuden suojelemista ja edistämistä koskevan yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
