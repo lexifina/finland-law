@@ -1,0 +1,6 @@
+# 2 § Soveltamisala
+Luku: 1 luku Yleiset säännökset
+
+Tätä lakia sovelletaan valtion viranomaisille, kunnallisille viranomaisille ja Kansaneläkelaitokselle kuuluvien avustavien asiakaspalvelutehtävien järjestämiseen ja hoitamiseen viranomaisten yhteistyönä.
+
+Viranomainen ei 1 momentissa tarkoitetussa toiminnassa voi hoitaa tehtäviä, joihin sisältyy päätöksentekovallan käyttöä tai jotka lain mukaan edellyttävät palvelun käyttäjän henkilökohtaista käyntiä toimivaltaisessa viranomaisessa.
