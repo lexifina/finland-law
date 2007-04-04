@@ -1,0 +1,2 @@
+Laki Euroopan ydinfysiikan tutkimusjärjestön erioikeuksista ja -vapauksista tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
