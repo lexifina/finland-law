@@ -1,0 +1,2 @@
+Laki polttoturpeen turvavarastoista
+Eduskunnan päätöksen mukaisesti säädetään:
