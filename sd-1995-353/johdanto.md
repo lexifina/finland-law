@@ -1,2 +1,2 @@
-Laki valtiontilintarkastajien ja valtiontalouden tarkastusviraston oikeudesta tarkastaa eräitä Suomen ja Euroopan yhteisöjen välisiä varainsiirtoja
+Lakivaltiontalouden tarkastusviraston oikeudesta tarkastaa eräitä Suomen ja Euroopan yhteisöjen välisiä varainsiirtoja
 Eduskunnan päätöksen mukaisesti säädetään:
