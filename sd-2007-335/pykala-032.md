@@ -1,0 +1,4 @@
+# 32 § Oikeus saada tietoja ja tulla kuulluksi
+Luku: 3 luku Yhteistoiminta yhteisönlaajuisessa yritysryhmässä ja yrityksessä
+
+Eurooppalaisella yritysneuvostolla ja sen työvaliokunnalla on oikeus saada tietoja ja tulla kuulluiksi sellaisista asioista, jotka koskevat koko yhteisönlaajuista yritysryhmää tai yritystä taikka vähintään kahta yritysryhmän yritystä tai yhteisönlaajuisen yrityksen toimintayksikköä, jotka sijaitsevat Euroopan talousalueen eri jäsenvaltioissa. Vastaavasti 17 §:n 2 ja 3 momentissa tarkoitetuissa yhteisönlaajuisissa yritysryhmissä ja yrityksissä käsitellään vain asioita, jotka koskevat joko kaikkia Euroopan talousalueella sijaitsevia yrityksiä tai toimintayksiköitä tai vähintään kahta yritystä tai toimintayksikköä, jotka sijaitsevat Euroopan talousalueen eri jäsenvaltioissa.
