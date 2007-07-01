@@ -1,0 +1,4 @@
+# 45 § Määräysvaltaa käyttävän yrityksen tiedottamisvelvollisuus
+Luku: 4 luku Erinäiset säännökset
+
+Yritysryhmässä määräysvaltaa käyttävän yrityksen taikka 7 §:n 3 momentissa tai 13 §:n 2 kohdassa tarkoitetun yhteisönlaajuisen yrityksen valmistellessa taloudellisia tai tuotannollisia päätöksiä, joiden johdosta sen määräysvallassa olevassa yrityksessä tai toimintayksikössä olisi todennäköisesti harkittava työvoiman käytön vähentämistä työntekijöiden joukkovähentämistä koskevan jäsenvaltioiden lainsäädännön lähentämisestä annetussa neuvoston direktiivissä tarkoitetulla tavalla, tulee sen antaa määräysvallassaan olevalle yritykselle tai toimintayksikölle riittävät tiedot valmisteilla olevista ratkaisuista ja niiden vaihtoehdoista siten, että viimeksi mainittu yritys tai toimintayksikkö voi täyttää yhteistoimintavelvoitteensa asianmukaisesti.

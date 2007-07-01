@@ -1,0 +1,2 @@
+Laki yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä
+Eduskunnan päätöksen mukaisesti säädetään:
