@@ -1,0 +1,2 @@
+Merimiespalvelulaki
+Eduskunnan päätöksen mukaisesti säädetään:
