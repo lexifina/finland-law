@@ -1,0 +1,2 @@
+Laki Euroopan neuvoston tietoverkkorikollisuutta koskevan yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
