@@ -1,0 +1,2 @@
+Laki Geologian tutkimuskeskuksen kemian analyysipalvelujen yhtiöittämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
