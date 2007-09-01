@@ -1,0 +1,2 @@
+Laki kunnan viranhaltijain neuvotteluoikeudesta
+Eduskunnan päätöksen mukaisesti säädetään:
