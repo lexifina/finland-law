@@ -1,0 +1,2 @@
+Laki hedelmöityshoidoista
+Eduskunnan päätöksen mukaisesti säädetään:
