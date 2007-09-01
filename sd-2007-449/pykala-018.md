@@ -1,0 +1,3 @@
+# 18 § Yhteistoimintaneuvottelujen suhde työ- ja virkaehtosopimusten neuvottelumääräyksiin
+
+Jos tässä laissa tarkoitetuissa yhteistoimintaneuvotteluissa käsiteltävä asia tulisi käsitellä myös työnantajaa työehtosopimuslain (436/1946) nojalla sitovan työehtosopimuksen tai kunnallisen virkaehtosopimuslain (669/1970) nojalla sitovan virkaehtosopimuksen mukaisesti, yhteistoimintaneuvotteluja ei aloiteta tai ne on keskeytettävä, jos työnantaja tai sopimukseen sidottuja työntekijöitä tai viranhaltijoita edustava luottamusmies vaatii asian käsittelyä työ- tai virkaehtosopimuksen mukaisessa neuvottelujärjestyksessä.

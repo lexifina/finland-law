@@ -1,0 +1,7 @@
+# 6 § Tietojen antaminen
+
+Ennen yhteistoimintamenettelyn aloittamista työnantajan tulee antaa asianomaisille työntekijöille sekä heidän edustajilleen yhteistoimintamenettelyssä käsiteltävän asian käsittelyn kannalta tarpeelliset tiedot siten, että he voivat riittävästi perehtyä ja valmistautua käsiteltävään asiaan. Salassa pidettäviä tietoja saa kuitenkin antaa vain siinä laajuudessa kuin se on välttämätöntä yhteistoimintamenettelyssä lain mukaan käsiteltäväksi säädetyn asian käsittelyn kannalta. Tietoja henkilön terveydentilasta, henkilökohtaisista oloista tai muista salassa pidettävistä yksityiselämän suojan piiriin kuuluvista tiedoista ei saa kuitenkaan antaa ilman sen henkilön suostumusta, jota tiedot koskevat.
+
+Kunnan tulee kerran vuodessa antaa henkilöstölle tiedot kunnan työllisyystilanteesta, toiminnan ja talouden tilasta sekä niiden todennäköisestä kehityksestä. Kunnan on annettava neljännesvuosittain henkilöstön edustajille heidän pyynnöstään kunnan työvoimatilannetta kuvaava selvitys kunnan määräaikaisissa ja osa-aikaisissa työsuhteissa olevien työntekijöiden määrästä.
+
+Kunnan on vuosittain esitettävä henkilöstöryhmien edustajille heidän pyynnöstään selvitys kunnassa sovellettavista periaatteista tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetun lain (1233/2006) 2 §:n 1 momentin 2 kohdassa tarkoitettuun alihankintasopimukseen perustuvan työvoiman käyttämisestä. Selvityksestä tulee käydä ilmi työkohteet, työtehtävät sekä ajanjaksot, joina mainittua työvoimaa käytetään.
