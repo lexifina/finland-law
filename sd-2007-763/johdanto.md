@@ -1,0 +1,2 @@
+Laki Amerikan yhdysvaltain kanssa elatusvelvollisuuden täytäntöönpanosta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
