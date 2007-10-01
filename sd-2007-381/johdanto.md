@@ -1,0 +1,2 @@
+Laki oikeudenkäynnin julkisuudesta hallintotuomioistuimissa
+Eduskunnan päätöksen mukaisesti säädetään:
