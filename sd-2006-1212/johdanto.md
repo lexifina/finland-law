@@ -1,0 +1,2 @@
+Laki tietotekniikan käytöstä tullialalla tehdyn yleissopimuksen muuttamisesta tullitutkintatietokannan perustamisen osalta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
