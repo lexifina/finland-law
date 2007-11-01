@@ -1,0 +1,2 @@
+Luottotietolaki
+Eduskunnan päätöksen mukaisesti säädetään:
