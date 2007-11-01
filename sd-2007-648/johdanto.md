@@ -1,0 +1,2 @@
+Laki edunvalvontavaltuutuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
