@@ -1,0 +1,2 @@
+Laki Suomen ja Tanskan välillä raakaöljyn ja öljytuotteiden vastavuoroisesta varmuusvarastoinnista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
