@@ -1,0 +1,2 @@
+Laki Eurooppapatenttien myöntämisestä tehdyn yleissopimuksen uudistamiskirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
