@@ -1,0 +1,7 @@
+# 1 §
+
+Työministeriössä sisäasiainministeriöön tämän lain voimaan tullessa siirtyviä tehtäviä hoitavat virkamiehet ja työsopimussuhteinen henkilöstö siirtyvät tämän lain voimaan tullessa sisäasiainministeriöön. Työministeriössä määräaikaisia tehtäviä hoitava henkilöstö siirtyy sisäasiainministeriöön palvelussuhteensa ajaksi. Vähemmistövaltuutettu, vähemmistövaltuutetun toimiston virkamiehet ja työsopimussuhteinen henkilöstö ja vastaavat virat siirtyvät sisäasiainministeriön yhteydessä olevaan vähemmistövaltuutetun toimistoon ja syrjintälautakunnan päätoiminen henkilöstö sekä vastaavat virat siirtyvät sisäasiainministeriön yhteydessä olevaan syrjintälautakuntaan. Viran siirtymiseen ei tarvita virkamiehen suostumusta.
+
+Siirtyvä henkilöstö säilyttää siirtymähetkellä palvelussuhteensa ehtoihin liittyvät oikeutensa ja velvollisuutensa. Sisäasiainministeriön palkkausjärjestelmän mukaista kuukausipalkkaa korkeampi palkkaus turvataan edellyttäen, että henkilön tehtävät sisäasiainministeriössä vastaavat vaativuudeltaan vähintään hänen tehtäviään työministeriössä. Henkilöllä on tällöin oikeus työministeriössä maksetun ja sisäasiainministeriössä maksettavan kuukausipalkan erotuksen määräiseen palkanlisään.
+
+Jos viran tehtävät muuttuvat olennaisesti ja sen tilalle perustetaan uusi virka, voidaan uusi virka täyttää haettavaksi julistamatta. Valtion virkamieslain (750/1994) 4 §:n 2 momentissa tarkoitettu uusi virka on kuitenkin julistettava haettavaksi.
