@@ -1,0 +1,12 @@
+# 33 § Vammaisetuuden lakkaaminen
+Luku: 3 luku Toimeenpano
+
+Vammaisetuus lakkaa sitä seuraavan kuukauden alusta, jona:
+1) etuudensaajan terveydentilassa, hoidon, huolenpidon tai kuntoutuksen tarpeessa, toimintakyvyssä, erityiskustannuksissa tai muissa olosuhteissa on tapahtunut sellainen muutos, jonka vuoksi oikeutta etuuteen ei enää ole; tai
+2) etuudensaaja muuttaa asumaan ulkomaille.
+
+Alle 16-vuotiaan vammaistuki lakkaa viimeistään sitä seuraavan kuukauden alusta, kun lapsi täyttää 16 vuotta.
+
+Vammaistuki, joka on myönnetty 16 vuotta täyttäneelle, lakkaa sen kuukauden alusta, kun sen saajalle myönnetään 9 §:n 1 momentissa tarkoitettu eläke tai etuus.
+
+Vammaisetuutta maksetaan sen kuukauden loppuun, jonka aikana etuudensaaja on kuollut.
