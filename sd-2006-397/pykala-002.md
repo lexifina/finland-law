@@ -1,7 +1,7 @@
 # 2 § Eläketurvakeskuksen tehtävät
 
-Eläketurvakeskuksen tulee:
-1) edistää yksityisten alojen työeläketurvan toimeenpanoa ja kehittämistä tekemällä esityksiä ja selvityksiä sekä antamalla viranomaisille lausuntoja yksityisten alojen työntekijöiden ja yrittäjien eläketurvaa tai sen kehittämistä koskevissa asioissa;
+Eläketurvakeskuksen tehtävänä on:
+1) edistää ja yhteensovittaa työeläketurvan toimeenpanoa ja kehittämistä;
 2) harjoittaa toimialaansa kuuluvaa tilasto- ja tutkimustoimintaa;
 3) edistää eläkelaitosten keskinäistä yhteistyötä eläkelaitosten yhteistoimintaa edellyttävissä tehtävissä ja hoitaa eläkelaitosten yhteistoimintaan liittyviä tehtäviä;
 4) edistää työeläkelaitosten yhteistyötä muiden laitosten ja viranomaisten välillä;
@@ -9,7 +9,7 @@ Eläketurvakeskuksen tulee:
 6) antaa eläkelaitoksille suosituksia yhdenmukaisen soveltamiskäytännön varmistamiseksi yksityisten alojen työeläkelakien, niiden nojalla annettujen asetusten ja muiden määräysten soveltamisesta; sekä
 7) tiedottaa ja antaa neuvontaa työeläkkeistä ottaen kuitenkin huomioon, mitä työntekijän eläkelain 211 §:ssä säädetään.
 
-Eläketurvakeskuksen tehtävänä on:
+Eläketurvakeskuksen tehtävänä on lisäksi:
 1) valvoa työeläkelakien mukaisen vakuuttamisvelvollisuuden noudattamista ja ottaa tarvittaessa työnantajan kustannuksella eläkevakuutus siten kuin työntekijän eläkelain 186 ja 187 §:ssä sekä yrittäjien eläkelain 12 §:ssä säädetään;
 2) ratkaista, sovelletaanko työhön työntekijän eläkelakia, yrittäjien eläkelakia tai maatalousyrittäjien eläkelakia ja antaa ratkaisusta asianosaisen pyynnöstä valituskelpoinen päätös siten kuin työntekijän eläkelain 10 §:ssä, yrittäjien eläkelain 1 §:ssä ja maatalousyrittäjien eläkelain 1 §:ssä säädetään;
 3) ratkaista työnantajan, työntekijän, virkamiehen tai yrittäjän hakemuksesta, onko sosiaaliturvajärjestelmien soveltamisesta yhteisön alueella liikkuviin palkattuihin työntekijöihin, itsenäisiin ammatinharjoittajiin ja heidän perheenjäseniinsä annetun neuvoston asetuksen (ETY) N:o 1408/71 (EY:n sosiaaliturva-asetus) tai Suomen tekemien sosiaaliturvasopimusten sovellettavaa lainsäädäntöä koskevien säännösten mukaan ulkomailla työskentelevään henkilöön sovellettava Suomen sosiaaliturvalainsäädäntöä, ja antaa ratkaisusta asianosaisen pyynnöstä valituskelpoinen päätös;
