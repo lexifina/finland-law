@@ -4,6 +4,6 @@ Oikeus etuuteen on enintään viideltä vuodelta opintojen perusteella henkilöl
 
 Ylemmän korkeakoulututkinnon perusteella oikeus etuuteen on viideltä vuodelta, ammattikorkeakoulututkinnon perusteella neljältä vuodelta sekä alemman korkeakoulututkinnon ja ammatillisen perustutkinnon perusteella kolmelta vuodelta. Jos henkilö on suorittanut useampia tutkintoja, oikeus etuuteen on kuitenkin yhteensä enintään viideltä vuodelta.
 
-Ulkomailla suoritettu tutkinto oikeuttaa vastaavasti etuuteen edellyttäen, että henkilö on saanut opintotukilain (65/1994) mukaista opintotukea.
+Ulkomailla suoritettu tutkinto oikeuttaa vastaavasti etuuteen edellyttäen, että henkilö on saanut opintotukilain (65/1994) mukaista opintotukea tai vastaavaa Ahvenanmaan maakuntalainsäädännön mukaista opintotukea.
 
 Tarkemmat säännökset etuuden saamisesta annetaan valtioneuvoston asetuksella.
