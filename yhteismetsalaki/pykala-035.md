@@ -1,4 +1,4 @@
-# 35 § Kiinteistön liittäminen yhteismetsään yhteismetsäosuutta vastaan
+# 35 § Kiinteistön alueen liittäminen yhteismetsään yhteismetsäosuutta vastaan
 Luku: 6 luku Yhteismetsän alue
 
-Kiinteistön tai kiinteistöön kuuluvan alueen liittämisestä yhteismetsään kiinteistölle annettavaa yhteismetsäosuutta vastaan säädetään tarkemmin kiinteistönmuodostamislain 10 luvussa.
+Kiinteistön alueen tai sen osan liittämisestä yhteismetsään kiinteistölle annettavaa yhteismetsäosuutta vastaan säädetään tarkemmin kiinteistönmuodostamislain 10 luvussa.
