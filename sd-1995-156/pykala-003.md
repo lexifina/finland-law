@@ -1,3 +1,3 @@
 # 3 § Muutoksenhaku
 
-Muutoksenhausta ulkomaalaisviraston päätökseen säädetään ulkomaalaislaissa (378/91).
+Muutoksenhausta Maahanmuuttoviraston päätökseen säädetään ulkomaalaislaissa (301/2004) ja kansalaisuuslaissa (359/2003).

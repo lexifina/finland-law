@@ -1,3 +1,3 @@
 # 1 § Asema
 
-Sisäasiainministeriön alaisena on ulkomaalaisvirasto.
+Sisäasiainministeriön alaisena on Maahanmuuttovirasto.

@@ -1,2 +1,2 @@
-Laki ulkomaalaisvirastosta
+LakiMaahanmuuttovirastosta
 Eduskunnan päätöksen mukaisesti säädetään:
