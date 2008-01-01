@@ -1,0 +1,2 @@
+Laki yksityisestä huvialuksesta suoritettavasta polttoainemaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
