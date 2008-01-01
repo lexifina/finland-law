@@ -1,0 +1,2 @@
+Laki eräiden henkilöiden ja virkojen siirtämisestä valtiovarainministeriöön
+Eduskunnan päätöksen mukaisesti säädetään:
