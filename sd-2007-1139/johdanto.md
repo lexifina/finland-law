@@ -1,0 +1,2 @@
+Laki Oikeuspoliittisesta tutkimuslaitoksesta
+Eduskunnan päätöksen mukaan säädetään:
