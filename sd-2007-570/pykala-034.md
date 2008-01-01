@@ -8,3 +8,5 @@ Takaisinperinnästä voidaan luopua joko kokonaan tai osittain, jos se katsotaan
 Takaisin perittävä määrä voidaan kuitata Kansaneläkelaitoksen myöhemmin maksamasta etuudesta. Ilman etuudensaajan suostumusta kuittaaminen voidaan kuitenkin kohdistaa vain tämän lain mukaiseen tai siihen rinnastettavaan muuhun etuuteen.
 
 Takaisinperintää koskeva lainvoimainen päätös saadaan panna täytäntöön kuten lainvoimainen tuomio.
+
+Liikaa maksettu alle 16-vuotiaan vammaistuki peritään takaisin lapsen edunvalvojalta tai siltä, jolle se on maksettu.
