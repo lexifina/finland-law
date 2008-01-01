@@ -11,9 +11,8 @@ Valtioneuvostossa on seuraavat ministeriöt:
 7) opetusministeriö;
 8) maa- ja metsätalousministeriö;
 9) liikenne- ja viestintäministeriö;
-10) kauppa- ja teollisuusministeriö;
+10) työ- ja elinkeinoministeriö;
 11) sosiaali- ja terveysministeriö;
-12) työministeriö;
-13) ympäristöministeriö.
+12) ympäristöministeriö.
 
 Valtioneuvoston yhteydessä on oikeuskanslerinvirasto, josta säädetään erikseen.
