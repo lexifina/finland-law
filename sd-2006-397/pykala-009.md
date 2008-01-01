@@ -1,7 +1,9 @@
-# 9 § Hallitus
+# 9 § Hallituksen nimeäminen ja kokoonpano
 
-Eläketurvakeskuksen hallitukseen kuuluvat sosiaali- ja terveysministeriön määräämät puheenjohtaja ja varapuheenjohtaja. Hallitukseen kuuluu myös 11 edustajiston valitsemaa muuta jäsentä, joille kullekin on nimitettävä henkilökohtainen varajäsen. Edustajiston työnantajajärjestöjä edustavat jäsenet valitsevat kolme, työntekijäjärjestöjä edustavat jäsenet samoin kolme ja yrittäjäjärjestöjä edustavat jäsenet kaksi hallituksen jäsenistä. Edustajiston kaikki jäsenet yhdessä valitsevat muut kolme hallituksen jäsentä.
+Eläketurvakeskuksen hallitus nimetään enintään kolmeksi kalenterivuodeksi kerrallaan. Hallituksessa on viisitoista jäsentä, joista sosiaali- ja terveysministeriö määrää puheenjohtajan ja varapuheenjohtajan. Hallituksen muut kolmetoista jäsentä valitsee Eläketurvakeskuksen edustajisto. Näistä jäsenistä edustajiston yksityisten alojen työnantajia edustavat jäsenet valitsevat kolme ja julkisten alojen työnantajia edustavat jäsenet yhden sekä yksityisten ja julkisten alojen työntekijöitä edustavat jäsenet yhteensä neljä, maatalousyrittäjiä edustavat jäsenet yhden ja muita yrittäjiä edustavat jäsenet yhden. Edustajiston kaikki jäsenet yhdessä valitsevat kolme muuta hallituksen jäsentä, joista yhden tulee edustaa julkisten alojen eläkelaitoksia. Hallituksen puheenjohtajaa ja varapuheenjohtajaa lukuun ottamatta hallituksen kullekin jäsenelle on nimettävä henkilökohtainen varajäsen.
 
-Hallituksen jäsenistä yhden on oltava vakuutuslakimies, yhden vakuutuslääkäri ja yhden vakuutusmatemaatikko. Hallituksen jäsenen on oltava hyvämaineinen.
+Hallituksen jäsenellä tulee olla riittävä työeläkealan tuntemus ja hänen on oltava hyvämaineinen. Jäsenenä ei voi olla vajaavaltainen eikä konkurssissa oleva eikä myöskään henkilö, joka on määrätty liiketoimintakieltoon.
 
-Hallituksen jäsenet on nimitettävä tehtäväänsä enintään kolmeksi kalenterivuodeksi kerrallaan. Tarkemmat säännökset hallituksen valinnasta annetaan valtioneuvoston asetuksella.
+Jos hallituksen jäsen eroaa tehtävästään kesken toimikauden, hänen tilalleen on nimettävä hallituksen jäljellä olevaksi toimikaudeksi uusi jäsen edellä säädetyn mukaisesti.
+
+Mitä tässä laissa säädetään hallituksen jäsenestä, sovelletaan vastaavasti varajäseneen.

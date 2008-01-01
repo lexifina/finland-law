@@ -1,5 +1,13 @@
-# 5 § Eläketurvakeskuksen kustannukset
+# 5 § Vastuu Eläketurvakeskuksen kustannuksista
 
-Eläketurvakeskuksen kustannuksista vastaavat työntekijän eläkelain 3 §:n 1 momentissa tarkoitettua yksityisten alojen työeläkelakien mukaista eläketurvaa hoitavat eläkelaitokset siten kuin työntekijän eläkelain 180 §:ssä säädetään.
+Eläketurvakeskuksella on oikeus periä tuottamistaan palveluista toimintokohtaisia palvelumaksuja. Työntekijän eläkelain 3 §:n 1 momentissa ja 2 momentin 1―6 kohdassa mainittujen työeläkelakien mukaista eläketurvaa hoitavat eläkelaitokset vastaavat Eläketurvakeskuksen tämän lain mukaisten tehtävien hoitamisesta aiheutuvista kustannuksista siltä osin kuin Eläketurvakeskuksen saamat toimintokohtaiset palvelumaksut ja muut tuotot eivät riitä niitä kattamaan.
 
-Eläketurvakeskuksella on oikeus periä maksu antamistaan palveluista.
+Eläkelaitosten katettava osuus Eläketurvakeskuksen kustannuksista jaetaan eläkelaitosten kesken kussakin eläkelaitoksessa vakuutettujen työansioiden mukaisessa suhteessa. Eläkelaitoksen kustannusosuutta laskettaessa huomioon otettava vakuutettujen työansioiden osuus määrätään kuitenkin erikseen julkisten alojen eläkelaitoksille, Merimieseläkekassalle ja Maatalousyrittäjien eläkelaitokselle sen mukaan, kuinka suuri osuus Eläketurvakeskuksen tuottamista palveluista arvioidaan kohdistuvan näille eläkelaitoksille. Tällöin lasketaan ensin julkisten alojen eläkelaitosten, Merimieseläkekassan ja Maatalousyrittäjien eläkelaitoksen kustannusosuudet. Sen jälkeen kattamatta jäävä osuus Eläketurvakeskuksen kustannuksista jaetaan muiden yksityisten alojen eläkelaitosten kesken kussakin eläkelaitoksessa vakuutettujen työansioiden mukaisessa suhteessa. Julkisten alojen eläkelaitosten, Merimieseläkekassan ja Maatalousyrittäjien eläkelaitoksen kustannusosuudessa huomioon otettavasta vakuutettujen työansioiden osuudesta ja tämän osuuden tarkistamisesta säädetään tarkemmin valtioneuvoston asetuksella.
+
+Eläkelaitosten kustannusosuuksien laskemisesta ja täytäntöönpanosta annetaan tarkemmat määräykset sosiaali- ja terveysministeriön työntekijän eläkelain 183 §:n 2 momentin nojalla Eläketurvakeskuksen esityksestä vahvistamissa vastuunjakoperusteissa. Eläkelaitosten kustannusosuuksia vahvistettaessa on huolehdittava siitä, että Eläketurvakeskuksen varat riittävät kattamaan Eläketurvakeskuksen tehtävistä ja toiminnasta aiheutuvat menot ja ylläpitämään riittävän maksuvalmiuden.
+
+Eläketurvakeskus määrää maksettavaksi eläkelaitosten kustannusosuudet. Eläketurvakeskuksella on oikeus periä eläkelaitosten kustannusosuuksista ennakkoa siten kuin 3 momentissa tarkoitetuissa vastuunjakoperusteissa määrätään.
+
+Eläkelaitos voi hakea muutosta Eläketurvakeskuksen tämän lain nojalla määräämästä kustannusosuuden maksuunpanosta siten kuin työntekijän eläkelain 131 §:ssä säädetään.
+
+Kustannusosuus saadaan periä ilman tuomiota ja päätöstä siinä järjestyksessä kuin verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007) säädetään. Jollei maksua suoriteta viimeistään eräpäivänä, maksamattomalle pääomalle peritään vuotuista viivästyskorkoa korkolain (633/1982) 4 §:ssä tarkoitetun korkokannan mukaan. Viivästyskoron sijasta Eläketurvakeskus voi periä viiden euron suuruisen viivästysmaksun, jos viivästyskoron määrä jää tätä pienemmäksi.

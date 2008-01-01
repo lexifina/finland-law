@@ -1,3 +1,3 @@
-# 6 § Päätösvallan käyttäminen
+# 6 § Eläketurvakeskuksen hallintoelimet ja päätösvalta
 
-Eläketurvakeskuksen päätösvaltaa käyttävät edustajisto ja hallitus.
+Eläketurvakeskuksessa on edustajisto ja hallitus, jotka käyttävät Eläketurvakeskuksen päätösvaltaa. Henkilö ei voi olla samanaikaisesti edustajiston ja hallituksen jäsenenä.
