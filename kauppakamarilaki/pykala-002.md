@@ -1,8 +1,9 @@
 # 2 § Kauppakamarin ja Keskuskauppakamarin julkiset tehtävät
 
 Kauppakamarin tehtävänä on:
-1) hoitaa sille tilintarkastuslaissa (459/2007) säädetyt tehtävät; sekä
-2) vahvistaa ulkomaankaupan asiakirjoja sen mukaan kuin sille muussa laissa tai sen nojalla on annettu tällainen tehtävä.
+1) hoitaa sille tilintarkastuslaissa (459/ 2007) säädetyt tehtävät;
+2) antaa todistuksia ammattipätevyyden tunnustamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2005/36/EY mukaista ammattikokemuksen tunnustamista koskevasta toiminnan harjoittamisesta siten kuin ammattipätevyyden tunnustamisesta annetussa laissa (1093/2007) säädetään; sekä
+3) vahvistaa ulkomaankaupan asiakirjoja sen mukaan kuin sille muussa laissa tai sen nojalla on annettu tällainen tehtävä.
 
 Kauppakamarilla on tilintarkastuslain 43 §:ssä tarkoitettu tilintarkastusvaliokunta. Keskuskauppakamari voi kyseisiä kauppakamareja kuultuaan päättää, että kahdella tai useammalla kauppakamarilla on yhteinen tilintarkastusvaliokunta.
 
