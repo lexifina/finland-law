@@ -1,0 +1,13 @@
+# 77 § Muutoksenhakuoikeus
+Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
+Luku: 12 luku Muutoksenhaku
+
+Muutoksenhakua varten on sosiaaliturvan muutoksenhakulautakunta ja vakuutusoikeus. Sosiaaliturvan muutoksenhakulautakunnasta säädetään sosiaaliturvan muutoksenhakulautakunnasta annetussa laissa (1299/2006) ja vakuutusoikeudesta vakuutusoikeuslaissa (132/2003).
+
+Kansaneläkelaitoksen tämän lain nojalla antamaan päätökseen tyytymätön saa hakea siihen muutosta sosiaaliturvan muutoksenhakulautakunnalta kirjallisella valituksella. Sosiaaliturvan muutoksenhakulautakunnan päätökseen saa hakea muutosta valittamalla vakuutusoikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Vakuutusoikeuden päätökseen ei saa hakea muutosta valittamalla.
+
+Asianosainen, johon sovelletaan sosiaaliturva-asetusta ja joka ei tyydy Kansaneläkelaitoksen tämän lain nojalla antamaan päätökseen, voi hakea siihen muutosta saatuaan sosiaaliturva-asetuksen täytäntöönpanosta annetun asetuksen (ETY) N:o 574/72 48 artiklassa tarkoitetun päätösten yhteenvedon, johon on liitetty kaikkien EU-maiden eläkepäätökset. Työkyvyttömyyseläkkeen saamisen edellytyksiä koskevaan Kansaneläkelaitoksen päätökseen haetaan kuitenkin muutosta siten kuin tässä laissa säädetään.
+
+Kansaneläkelaitoksen päätöstä on muutoksenhausta huolimatta noudatettava, kunnes asia on lainvoimaisella päätöksellä ratkaistu.
+
+Kansaneläkelaitoksen antamaan väliaikaiseen päätökseen ei saa hakea muutosta.
