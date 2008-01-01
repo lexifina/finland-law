@@ -1,0 +1,4 @@
+# 91 § Tietojen antaminen hakijalle
+Luku: 3 luku Yleiset menettelysäännökset
+
+Ulosottomiehen tulee viipymättä ilmoittaa hakijalle, jonka saatavan suuruus huomioon ottaen sillä ilmeisesti on merkitystä, havaitsemistaan seikoista, jotka saattavat antaa aiheen takaisinsaantikanteen nostamiseen, hakemukseen konkurssiin asettamiseksi tai muuhun niitä vastaavaan erityiseen toimeen hänen saatavansa perimiseksi. Hakijalle tulee antaa myös mahdollinen ulosottoselvityspöytäkirja ja muut tarpeelliset asiakirjat. Ulosottomies saa antaa hakijalle myös 73 §:n 1 momentin 1 ja 2 kohdassa tarkoitettuja tietoja. Hakija ei saa käyttää näitä tietoja oikeudenkäymiskaaren todistamista koskevien rajoitusten kiertämiseksi eikä velallisen syytteeseen saattamiseksi. Ulosottomiehen tulee muistuttaa hakijaa mainituista rajoituksista.
