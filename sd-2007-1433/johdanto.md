@@ -1,0 +1,2 @@
+Laki kulttuuriaineistojen tallettamisesta ja säilyttämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
