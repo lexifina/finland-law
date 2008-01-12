@@ -1,0 +1,2 @@
+Laki vuoden 1989 kansainvälisen meripelastusyleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
