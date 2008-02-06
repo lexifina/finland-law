@@ -1,0 +1,2 @@
+Laki Suomen hallituksen ja Euroopan kemikaaliviraston välisen toimipaikkasopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
