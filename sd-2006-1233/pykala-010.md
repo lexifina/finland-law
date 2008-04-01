@@ -4,4 +4,4 @@ Työsuojelupiirin työsuojelutoimisto määrää päätöksellään tilaajan mak
 
 Tilaaja saa hakea työsuojelupiirin työsuojelutoimiston antamaan päätökseen muutosta valittamalla hallinto-oikeuteen, siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
 
-Laiminlyöntimaksu määrätään maksettavaksi valtiolle, ja sen perimiseen sovelletaan verojen ja maksujen perimisestä ulosottotoimin annettua lakia (367/1961). Laiminlyöntimaksuun sovelletaan veronlisäyksestä ja viivekorosta annettua lakia (1556/1995).
+Laiminlyöntimaksu määrätään maksettavaksi valtiolle. Maksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002). Maksettavaksi erääntyneelle laiminlyöntimaksulle, jota ei ole suoritettu viimeistään eräpäivänä, peritään viivästyskorkoa korkolain (633/1982) 4 §:n 1 momentissa tarkoitetun korkokannan mukaan.
