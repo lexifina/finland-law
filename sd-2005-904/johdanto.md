@@ -1,0 +1,2 @@
+Laki tuottoon liittyvän rahanpesun soveltamisalasta tietotekniikan käytöstä tullialalla tehdyssä yleissopimuksessa ja kuljetusvälineen rekisterinumeron sisällyttämisestä yleissopimuksessa lueteltuihin tietoihin tehdyn pöytäkirjan ja sen suomenkielisen oikaisupöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
