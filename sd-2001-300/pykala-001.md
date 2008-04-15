@@ -1,3 +1,7 @@
-# 1 § Tuen takaisinperintää koskeva säännös
+# 1 § Tuen maksamisen keskeyttäminen ja takaisinperintä
 
-Euroopan yhteisön perustamissopimuksen 87 artiklassa tai yhteisön säännöistä valtion tuesta terästeollisuudelle annetussa komission päätöksessä N:o 2496/96/EHTY tarkoitettu valtion tuki voidaan komission päätöksen mukaisesti periä kokonaan tai osittain takaisin tuen saajalta.
+Euroopan yhteisöjen komission tekemä päätös Euroopan yhteisön perustamissopimuksen 87 artiklan 1 kohdassa tarkoitetun tuen maksamisen keskeyttämisestä tai takaisinperimisestä on pantava Suomessa viipymättä täytäntöön. Täytäntöönpanon on velvollinen suorittamaan se viranomainen, joka on myöntänyt kyseisen tuen. Jos tuen on myöntänyt muu kuin viranomainen, täytäntöönpanoon on velvollinen ryhtymään se viranomainen, joka yksin tai yhdessä muiden viranomaisten kanssa käyttää määräysvaltaa tuen myöntäneessä yhteisössä. Jos komission päätöksen ja tämän momentin perusteella ei ole mahdollista yksilöidä toimivaltaista viranomaista, takaisinperinnän täytäntöönpanosta vastaa työ- ja elinkeinoministeriö, jäljempänä ministeriö.
+
+Komission takaisinperintäpäätös pannaan täytäntöön takaisinperinnästä vastuussa olevan viranomaisen päätöksellä. Päätöksessä on yksilöitävä tuen takaisinmaksuun velvolliset yritykset, takaisinperittävä määrä ja sille maksettava korko sekä muut tarpeelliset seikat siten kuin komission päätöksessä määrätään.
+
+Takaisinperinnän täytäntöönpanoa koskeva kansallisen viranomaisen päätös voidaan panna täytäntöön verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007) säädetyssä järjestyksessä ja siihen haetaan muutosta siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Päätöstä on noudatettava heti mahdollisesta muutoksenhausta huolimatta.
