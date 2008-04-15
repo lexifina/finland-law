@@ -5,5 +5,3 @@ Komissiolla on oikeus tehdä yhteisön perustamissopimuksen 93 artiklan soveltam
 Ministeriö ottaa vastaan komission ilmoituksen paikalla tehtävästä tarkastuskäynnistä, toimittaa tarvittaessa sitä koskevat huomautukset komissiolle ja ilmoittaa tarkastuskäynnistä yritykselle.
 
 Ministeriön virkamiehet sekä asianomaisesta tuesta vastaavat virkamiehet voivat olla läsnä tarkastuskäynnin aikana.
-
-Tässä laissa ministeriöllä tarkoitetaan kauppa- ja teollisuusministeriötä, ellei valtioneuvoston asetuksella toisin säädetä.
