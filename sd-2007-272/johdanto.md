@@ -1,0 +1,2 @@
+Laki Afrikan, Karibian ja Tyynenmeren valtioiden ryhmän jäsenten sekä Euroopan yhteisön ja sen jäsenvaltioiden välisen kumppanuussopimuksen täytäntöönpanemiseksi toteutettavista toimenpiteistä ja noudatettavista menettelyistä tehdyn sisäisen sopimuksen muuttamisesta tehdyn sisäisen sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
