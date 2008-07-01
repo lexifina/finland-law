@@ -1,5 +1,5 @@
 # 10 § Valtionapuviranomainen
 
-Valtion asuntorahasto toimii valtionapuviranomaisena avustusmenettelyssä.
+Asumisen rahoitus- ja kehittämiskeskus toimii valtionapuviranomaisena avustusmenettelyssä.
 
-Valtion asuntorahasto antaa tarkemmat määräykset ja ohjeet haku- ja maksatusmenettelystä sekä hakemuksiin liitettävistä selvityksistä.
+Asumisen rahoitus- ja kehittämiskeskus antaa tarkemmat määräykset ja ohjeet haku- ja maksatusmenettelystä sekä hakemuksiin liitettävistä selvityksistä.
