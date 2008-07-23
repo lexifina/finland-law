@@ -1,0 +1,2 @@
+Laki Suomen osallistumisesta eurooppalaisen puolustusmateriaaliyhteistyöjärjestön (OCCAR) hallinnoimaan Euroopan Puolustusviraston ohjelmistoradioprojektiin (ESSOR) tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
