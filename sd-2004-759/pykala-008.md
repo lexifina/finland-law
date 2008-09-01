@@ -8,7 +8,7 @@ Työnantaja voi velvoittaa työntekijän esittämään työsuhteen aikana huumau
 4) voi lisätä huomattavasti merkittävien ympäristövahinkojen riskiä;
 5) vakavasti vaarantaa työtehtävissä saatujen tietojen suojaa, käytettävyyttä, eheyttä ja laatua ja voi siten aiheuttaa haittaa tai vahinkoa salassapitosäännösten suojaamille yleisille eduille tai vaarantaa rekisteröityjen yksityisyyden suojaa tai oikeuksia;
 6) vaarantaa taloudellisesti merkittävää liike- ja ammattisalaisuutta tai voi aiheuttaa työnantajalle tai tämän asiakkaalle merkittävää taloudellista vahinkoa, jos liike- ja ammattisalaisuuden vaarantamista tai taloudellisen riskin syntymistä ei voida muiden keinojen avulla estää; tai
-7) voi merkittävästi lisätä työnantajan hallussa olevien huumausainelain 2 §:ssä tarkoitettujen aineiden laittoman kaupan ja leviämisen riskiä.
+7) voi merkittävästi lisätä työnantajan hallussa olevien huumausainelain 3 §:n 1 momentin 5 kohdassa tarkoitettujen aineiden laittoman kaupan ja leviämisen riskiä.
 
 Työnantaja voi asettaa työntekijälle kohtuullisen määräajan, jonka kuluessa todistus on esitettävä. Päihdeohjelmasta säädetään työterveyshuoltolain 11 §:ssä.
 
