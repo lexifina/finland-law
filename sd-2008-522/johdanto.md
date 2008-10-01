@@ -1,0 +1,2 @@
+Laki vakuutusyhtiölain voimaanpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
