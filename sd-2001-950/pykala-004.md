@@ -1,7 +1,7 @@
 # 4 §
 Luku: 1 luku Parisuhteen rekisteröinti
 
-Parisuhteen rekisteröi siviilivihkimisen toimittamiseen oikeutettu viranomainen.
+Parisuhteen rekisteröi siviilivihkimisen toimittamiseen oikeutettu viranomainen. Parisuhteen rekisteröimisen voi toimittaa myös se, jolle maistraatti on avioliittolain 17 a §:n 2 momentin nojalla myöntänyt vihkimisoikeuden.
 
 Parisuhdetta ei saa rekisteröidä, jos 1 momentissa tarkoitettu viranomainen tietää seikan, joka estää rekisteröinnin, tai jos hän toteaa, ettei osapuoli häiriintyneen mielentilansa vuoksi ilmeisesti kykene ymmärtämään asian merkitystä.
 
