@@ -1,0 +1,2 @@
+Laki työeläkevakuutusyhtiön toimilupamaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
