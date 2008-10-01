@@ -1,0 +1,7 @@
+# 10 § Hallituksen päätöksenteko valtuutuksen nojalla
+
+Jos hallitus tekee yhtiökokouksen antaman valtuutuksen nojalla päätöksen ennen uuden lain voimaantuloa, päätettyyn asiaan ja siihen liittyviin rekisteröinteihin sekä muihin menettelyihin sovelletaan vanhaa lakia ja sen nojalla sovellettavaa vanhaa osakeyhtiölakia, jollei tästä laista johdu muuta.
+
+Jos yhtiökokous on ennen uuden lain voimaantuloa päättänyt vanhan lain mukaisesta uusmerkintää, optio-oikeuksien antamista tai vaihtovelkakirjalainan ottamista, omien osakkeiden hankkimista tai lunastamista taikka omien osakkeiden luovuttamista koskevasta valtuutuksesta hallitukselle, valtuutus oikeuttaa hallituksen uuden lain voimaantulon jälkeen päättämään vastaavista toimenpiteistä uuden lain ja sen nojalla sovellettavien osakeyhtiölain säännösten mukaisesti.
+
+Yhtiökokous voi uuden lain vahvistamisen jälkeen uuden lain ja sen nojalla sovellettavien osakeyhtiölain säännösten mukaisesti valtuuttaa hallituksen päättämään osake- tai takuuosuusannista, optio- ja muiden erityisten oikeuksien antamisesta, osake- tai takuupääoman korottamisesta, osingon ja vapaan oman pääoman rahaston jakamisesta sekä omien osakkeiden hankkimisesta ja lunastamisesta uuden lain voimaantulon jälkeen. Menettelyyn yhtiökokouksessa sovelletaan tällöin uutta lakia ja sen nojalla sovellettavia osakeyhtiölain säännöksiä jo ennen uuden lain voimaantuloa lukuun ottamatta kokouskutsun toimittamistapaa ja -aikaa sekä asiakirjojen nähtävillä pitämisen tapaa koskevia säännöksiä.

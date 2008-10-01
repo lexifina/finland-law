@@ -1,0 +1,3 @@
+# 20 § Pääomalaina
+
+Jos sopimus vanhan lain mukaisesta pääomalainasta on tehty ennen uuden lain voimaantuloa, laina katsotaan pääomalainaksi myös uutta lakia sovellettaessa. Jollei toisin sovita, tällaiseen lainaan sovelletaan uuden lain 15 luvun 2 §:n 1 momentin mukaisten maksuehtojen sijasta edelleen vanhan lain 1 luvun 4 §:n 2 momentin ja sen nojalla sovellettavien vanhan osakeyhtiölain säännösten mukaisia maksuehtoja konsernitaseeseen perustuvia maksurajoituksia lukuun ottamatta. Lainaan sovelletaan kuitenkin uuden lain 15 luvun 2 §:n 2 momentin 3 kohdan mukaista vakuuden antamista koskevaa kieltoa.
