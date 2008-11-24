@@ -1,0 +1,2 @@
+Laki vastavuoroisen tunnustamisen periaatteen soveltamisesta menetetyksi tuomitsemista koskeviin päätöksiin tehdyn puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
