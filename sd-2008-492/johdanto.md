@@ -1,0 +1,2 @@
+Laki kansalaisuudesta tehdyn eurooppalaisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
