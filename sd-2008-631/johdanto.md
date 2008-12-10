@@ -1,0 +1,2 @@
+Laki Suomen ja puolustusmateriaalialan yhteistyöorganisaation (OCCAR) välillä OCCARin ESSOR-ohjelmaan liittyvän turvallisuusluokitellun tiedon suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
