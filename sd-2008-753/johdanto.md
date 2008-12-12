@@ -1,0 +1,2 @@
+Laki eurooppalaisesta vähäisiin vaatimuksiin sovellettavasta menettelystä
+Eduskunnan päätöksen mukaisesti säädetään:
