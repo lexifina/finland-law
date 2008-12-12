@@ -1,0 +1,2 @@
+Laki eurooppalaisesta maksamismääräysmenettelystä
+Eduskunnan päätöksen mukaisesti säädetään:
