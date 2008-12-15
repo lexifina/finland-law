@@ -1,0 +1,2 @@
+Laki eräistä henkilöstön asemaa koskevista eläkejärjestelyistä valtion ammatillisten erityisoppilaitosten ylläpidon siirtyessä yksityiselle yhteisölle ja säätiöille
+Eduskunnan päätöksen mukaisesti säädetään:
