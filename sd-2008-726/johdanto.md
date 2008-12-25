@@ -1,0 +1,2 @@
+Laki Kansainvälisen kauppatiedon ja -yhteistyön järjestön perustamisesta hallitustenväliseksi järjestöksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta annetun lain kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
