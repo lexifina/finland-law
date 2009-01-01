@@ -1,6 +1,6 @@
-# 2 § Valtion eläkerahaston ohjaus ja valvonta
+# 2 § Toiminnan yleinen ohjaus ja valvonta
 
-Valtion eläkerahasto on valtiovarainministeriön valvonnassa. Ministeriöllä on oikeus antaa rahaston hallinnon järjestämistä, rahaston talouden hoitoa ja rahaston varojen sijoittamista koskevia yleisiä määräyksiä. Ministeriöllä on oikeus saada rahastolta tarvitsemansa tiedot ja selvitykset.
+Valtion eläkerahaston toiminnan yleinen ohjaus ja valvonta kuuluu valtiovarainministeriölle. Ministeriöllä on oikeus antaa rahaston hallinnon järjestämistä, rahaston talouden hoitoa ja rahaston varojen sijoittamista koskevia yleisiä määräyksiä. Ministeriöllä on oikeus saada rahastolta tarvitsemansa tiedot ja selvitykset.
 
 Valtiovarainministeriö hyväksyy rahaston vuotuisen talousarvion.
 
