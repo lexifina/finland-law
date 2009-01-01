@@ -1,3 +1,3 @@
 # 8 § Korkotukilainan hyväksyvä viranomainen
 
-Valtion asuntorahasto päättää lainan hyväksymisestä korkotukilainaksi.
+Asumisen rahoitus- ja kehittämiskeskus päättää lainan hyväksymisestä korkotukilainaksi.
