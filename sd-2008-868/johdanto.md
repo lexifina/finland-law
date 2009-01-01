@@ -1,0 +1,2 @@
+Laki valtiontakauksesta aravalainojen takaisinmaksamiseksi
+Eduskunnan päätöksen mukaisesti säädetään:
