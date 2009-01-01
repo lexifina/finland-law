@@ -4,4 +4,4 @@ Eläketurvakeskuksen tulee varmistaa tehtäviensä mahdollisimman häiriötön h
 
 Jos 1 momentista aiheutuvat tehtävät edellyttävät sellaisia toimenpiteitä, jotka selvästi poikkeavat tavanomaisena pidettävästä Eläketurvakeskuksen toiminnasta ja joista aiheutuu olennaisia lisäkustannuksia, tällaiset kustannukset voidaan korvata huoltovarmuuden turvaamisesta annetussa laissa (1390/1992) tarkoitetusta huoltovarmuusrahastosta.
 
-Vakuutusvalvontavirasto voi antaa tarkempia määräyksiä 1 momentissa tarkoitetuista toimenpiteistä.
+Finanssivalvonta voi antaa tarkempia määräyksiä 1 momentissa tarkoitetuista toimenpiteistä.
