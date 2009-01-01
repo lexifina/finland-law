@@ -1,0 +1,2 @@
+Laki vuokra- ja asumisoikeustaloyhteisöjen talouden tervehdyttämisavustuksista
+Eduskunnan päätöksen mukaisesti säädetään:
