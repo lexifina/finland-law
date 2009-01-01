@@ -1,7 +1,7 @@
 # 6 § Ulkomaisen veron hyvittäminen
 
-Tämän lain nojalla verotettavasta tulosta maksettavasta verosta vähennetään ulkomaisen väliyhteisön samasta tulosta maksamien valtiollisten tuloverojen määrä.
+Tämän lain nojalla verotettavasta tulosta maksettavasta verosta vähennetään se vieraalle valtiolle suoritettujen tuloverojen määrä, jonka ulkomainen väliyhteisö on maksanut samasta tulosta. Jos ulkomaisen väliyhteisön suorittamien verojen määrää ei kokonaan voida hyvittää, hyvittämättä jäänyt määrä vähennetään verovelvollisen vaatimuksesta tämän lain nojalla seuraavalta verovuodelta verotettavasta tulosta maksettavasta verosta. Käyttämättömään hyvitykseen sovelletaan kansainvälisen kaksinkertaisen verotuksen poistamisesta annetun lain (1552/1995) 5 §:n säännöksiä.
 
 Jos ulkomainen yhteisö asuu valtiossa, jonka kanssa Suomella on voimassa kaksinkertaisen verotuksen välttämistä koskeva sopimus, hyvitetään 1 momentin mukaisesti ne verot, jotka sopimuksen mukaan hyvitettäisiin verovelvolliselle, jos tämä olisi ne maksanut. Tämän momentin nojalla ei hyvitetä sopimuksen mukaan hyvitettävää veroa siltä osin kuin se ylittää väliyhteisön tosiasiassa maksaman veron määrän.
 
-Edellä 1 ja 2 momentissa tarkoitettu hyvitys ei voi ylittää Suomessa samasta tulosta suoritettavien verojen määrää.
+Edellä 1 ja 2 momentissa tarkoitettu hyvitys ei voi ylittää Suomessa samasta tulosta suoritettavien verojen määrää. Hyvityksen määrään sovelletaan soveltuvilta osin kansainvälisen kaksinkertaisen verotuksen poistamisesta annettua lakia.
