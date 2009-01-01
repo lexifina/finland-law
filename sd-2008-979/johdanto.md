@@ -1,0 +1,2 @@
+Laki lääkkeiden velvoitevarastoinnista
+Eduskunnan päätöksen mukaisesti säädetään:
