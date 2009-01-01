@@ -1,0 +1,2 @@
+Laki Bulgarian kanssa turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta ja vaihtamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
