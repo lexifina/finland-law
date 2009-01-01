@@ -1,0 +1,2 @@
+Laki Maanpuolustuskorkeakoulusta
+Eduskunnan päätöksen mukaisesti säädetään:
