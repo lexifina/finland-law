@@ -1,0 +1,2 @@
+Laki lapseen kohdistuneen seksuaalirikoksen selvittämisen järjestämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
