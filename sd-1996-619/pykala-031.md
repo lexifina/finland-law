@@ -5,4 +5,6 @@ Tuomioistuimen määräyksestä kuulluille todistajille ja asiantuntijoille suor
 
 Asianosaiselle maksetaan ennakolta valtion varoista myös 12 §:n 3 momentissa tarkoitettuun lääkärin tai muun asiantuntijan tutkimukseen tehtävää matkaa varten välttämättömät matka- ja toimeentulokustannukset noudattaen soveltuvin osin tuossa lainkohdassa mainitun lain säännöksiä.
 
+Sovittelijalla on oikeus saada valtion varoista tehtävän vaativuuteen ja laajuuteen perustuva kohtuullinen palkkio ja korvaus tarpeellisista kuluistaan. Oikeusministeriön asetuksella säädetään tarkemmin toimenpiteistä, joista palkkiota maksetaan, palkkion suuruudesta, korvattavista kuluista sekä niistä asia- ja sovittelijakohtaisista syistä, joiden perusteella palkkiota voidaan korottaa tai alentaa.
+
 Tässä pykälässä tarkoitetut korvaukset ja kustannukset jäävät valtion vahingoksi.
