@@ -1,0 +1,2 @@
+Laki aluksen polttoaineen aiheuttamasta pilaantumisvahingosta johtuvasta siviilioikeudellisesta vastuusta tehdyn kansainvälisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
