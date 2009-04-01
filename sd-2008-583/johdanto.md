@@ -1,0 +1,2 @@
+Laki eräiden elatusapujen sitomisesta elinkustannuksiin
+Eduskunnan päätöksen mukaisesti säädetään:
