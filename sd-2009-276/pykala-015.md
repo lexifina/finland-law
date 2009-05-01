@@ -1,0 +1,5 @@
+# 15 § Vapaaehtoinen vakuuttaminen
+
+Jos urheilija, jolla ei ole 1 §:ssä tarkoitettua sopimusta, saa pääasiallisesti Suomessa harjoittamastaan urheilemisesta vuodessa veronalaista tuloa vähintään 9 600 euroa, hänellä on oikeus saada itselleen tässä laissa tarkoitettu turva tapaturman ja vanhuuden varalta. Tällaisesta vakuutuksesta maksettavan tapaturmaeläkkeen perusteena käytetään vakuutuksenottajan ja vakuutusyhtiön välillä sovittavaa vuosityöansiota, jonka tulee vastata urheilijan urheilemisesta jatkuvasti saamaa veronalaista tuloa. Huomioon otettava vuosityöansio voi olla enintään 11 §:n 1 momentissa säädetyn suuruinen. Pysyvän työkyvyttömyyden perusteella maksettavan tapaturmaeläkkeen perusteena käytetään kuitenkin 11 §:n 2 momentissa säädettyä vuosityöansiota.
+
+Jos sellaista urheilemista varten, jota jo koskee tämän lain mukainen vakuutus, otetaan uusi tämän lain mukainen vakuutus, aikaisemman vakuutuksen voimassaolo päättyy uuden vakuutuksen voimaan tullessa.
