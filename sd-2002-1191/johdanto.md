@@ -1,0 +1,2 @@
+Laki Euroopan yhteisöjen taloudellisten etujen suojaamista koskevaan yleissopimukseen liittyvän toisen pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
