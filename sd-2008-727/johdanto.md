@@ -1,0 +1,2 @@
+Laki Slovenian kanssa turvallisuusluokitellun tiedon vaihtamisesta ja vastavuoroisesta suojaamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
