@@ -1,0 +1,2 @@
+Laki ympäristöterveydenhuollon yhteistoiminta-alueesta
+Eduskunnan päätöksen mukaisesti säädetään:
