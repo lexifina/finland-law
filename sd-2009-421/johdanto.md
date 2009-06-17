@@ -1,0 +1,2 @@
+Laki paikkatietoinfrastruktuurista
+Eduskunnan päätöksen mukaisesti säädetään:
