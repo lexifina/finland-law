@@ -1,0 +1,3 @@
+# 16 § Viittaukset yliopistolakiin
+
+Muun lainsäädännön viittaukset vanhaan yliopistolakiin tai sen tarkoittamiin yliopistoihin katsotaan viittauksiksi uuteen yliopistolakiin ja siinä tarkoitettuihin yliopistoihin. Mitä muussa laissa tai asetuksessa säädetään Kuopion tai Joensuun yliopistoista, tarkoittaa 1 päivästä tammikuuta 2010 alkaen Itä-Suomen yliopistoa. Mitä muussa laissa tai asetuksessa säädetään Turun yliopistosta tai Turun kauppakorkeakoulusta, tarkoittaa 1 päivästä tammikuuta 2010 alkaen Turun yliopistoa. Mitä muussa laissa tai asetuksessa säädetään Helsingin kauppakorkeakoulusta, Taideteollisesta korkeakoulusta tai Teknillisestä korkeakoulusta, tarkoittaa 1 päivästä tammikuuta 2010 alkaen Aalto-yliopistoa.
