@@ -1,0 +1,2 @@
+Laki taidenäyttelyiden valtiontakuusta
+Eduskunnan päätöksen mukaisesti säädetään:
