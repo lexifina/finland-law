@@ -1,0 +1,3 @@
+# 7 §
+
+Oikeus voi vahvistaa uskotun miehen noudatettavaksi sellaisia ohjeita, jotka olosuhteiden mukaan kussakin tapauksessa katsotaan tarpeellisiksi. Jos yhteisomistajat ovat asiasta yksimielisiä, on tuomarilla sama valta hänen antaessaan 6 §:n 2 momentissa tarkoitetun määräyksen. Jollei ohjeissa muuta ole määrätty, saa uskottu mies tehdä sopimuksen yhteisen esineen nautintaoikeuden luovuttamisesta. Älköön hän kuitenkaan ilman erikseen annettua lupaa tehkö tällaista sopimusta pitemmäksi kuin oman toimikautensa ajaksi taikka, milloin hänet on määrätty tehtäväänsä toistaiseksi, enintään viideksi vuodeksi kerrallaan.

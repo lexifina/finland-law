@@ -1,0 +1,2 @@
+Laki eräistä yhteisomistussuhteista
+Eduskunnan päätöksen mukaisesti säädetään:
