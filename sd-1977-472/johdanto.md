@@ -1,0 +1,2 @@
+Laki järjestyksen pitämisestä joukkoliikenteessä
+Eduskunnan päätöksen mukaisesti säädetään:
