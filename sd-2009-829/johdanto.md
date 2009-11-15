@@ -1,0 +1,2 @@
+Laki pääkaupunkiseudun kuntien jätehuoltoa ja joukkoliikennettä koskevasta yhteistoiminnasta
+Eduskunnan päätöksen mukaisesti säädetään:
