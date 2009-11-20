@@ -1,0 +1,2 @@
+Laki Valko-Venäjän kanssa kansainvälisestä maantieliikenteestä tehdyn sopimuksen ja sen lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
