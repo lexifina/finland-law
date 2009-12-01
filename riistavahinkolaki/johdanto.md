@@ -1,0 +1,2 @@
+Riistavahinkolaki
+Eduskunnan päätöksen mukaisesti säädetään:
