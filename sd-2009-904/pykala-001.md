@@ -1,0 +1,3 @@
+# 1 §
+
+Ohjelmistoradioteknologiaa koskevasta COALWNW-ohjelmasta Helsingissä 29 päivänä kesäkuuta 2009 Suomen hallituksen puolesta toimivan Suomen puolustusministeriön, Amerikan yhdysvaltojen puolustusministeriön, Australian puolustusministeriön, Espanjan kuningaskunnan puolustusministeriön, Ison-Britannian ja Pohjois-Irlannin yhdistyneen kuningaskunnan puolustusministerin, Italian tasavallan puolustusministeriön, Ranskan tasavallan puolustusministerin, Ruotsin puolustusvoimien ja Saksan liittotasavallan puolustusministeriön välillä tehdyn pöytäkirjan lainsäädännön alaan kuuluvat määräykset ovat lakina voimassa sellaisina kuin Suomi on niihin sitoutunut.
