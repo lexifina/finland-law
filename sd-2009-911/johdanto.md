@@ -1,0 +1,2 @@
+Laki erityistuomioistuimen tuomioiden täytäntöönpanosta Sierra Leonen erityistuomioistuimen kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
