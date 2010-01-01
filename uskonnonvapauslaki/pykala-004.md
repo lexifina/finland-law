@@ -11,4 +11,4 @@ Maistraatin, jonka toimialueella henkilöllä on kotikunta tai väestökirjanpit
 
 Jos eroamisilmoitus on jätetty muulle kuin 4 momentissa tarkoitetulle maistraatille, on ilmoituksen vastaanottaneen maistraatin viipymättä toimitettava ilmoitus 4 momentissa tarkoitetulle maistraatille.
 
-Tässä pykälässä maistraatille säädetyt tehtävät hoitaa Ahvenanmaan maakunnassa lääninhallitus.
+Tässä pykälässä maistraatille säädetyt tehtävät hoitaa Ahvenanmaan maakunnassa Ahvenanmaan valtionvirasto.
