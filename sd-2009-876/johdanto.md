@@ -1,0 +1,2 @@
+Laki Varustamoliikelaitoksen muuttamisesta osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
