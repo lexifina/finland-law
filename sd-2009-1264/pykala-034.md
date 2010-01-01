@@ -1,0 +1,4 @@
+# 34 § Toimeksiantosopimuksesta johtuvien erimielisyyksien ratkaiseminen
+Luku: 6 luku Muutoksenhaku
+
+Erimielisyydet, jotka koskevat toimeksiantosopimusta tai kustannusten korvaamista toimeksiantosopimuksen tehneelle kunnalle ja joita ei voida sopia Melan ja toimeksiantosopimuksen tehneen kunnan välillä, ratkaistaan hallintoriitana Vaasan hallinto-oikeudessa. Paikallishallintokustannusten korvaamista koskeva hallintoriita on pantava vireille kuuden kuukauden kuluessa siitä, kun paikallisyksikkö on saanut Melalta tiedon korvauksen suuruudesta. Lomituspalvelujen järjestämisestä aiheutuneiden kustannusten korvaamista koskeva hallintoriita on pantava vireille kuuden kuukauden kuluessa siitä, kun paikallisyksikkö on saanut Melalta tilityksen tarkistamiseen perustuvan tiedon valtion korvaukseen oikeuttavien lomituskustannusten suuruudesta.
