@@ -1,7 +1,7 @@
 # 33 § Tietojärjestelmät
 Luku: 7 luku Erinäisiä säännöksiä
 
-Ympäristöhallinto ylläpitää tietojärjestelmää tämän lain mukaista patojen valvontaa varten.
+Suomen ympäristökeskus ylläpitää tietojärjestelmää tämän lain mukaista patojen valvontaa varten.
 
 Padon omistajan tulee toimittaa tietojärjestelmään merkitsemistä varten patoturvallisuusviranomaiselle omat yhteystietonsa ja padon käyttöhenkilöstön yhteystiedot sekä patoa koskevat valtioneuvoston asetuksella säädettävät tekniset tiedot.
 
