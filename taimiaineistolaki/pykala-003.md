@@ -10,6 +10,6 @@ Hyväksymisen ja rekisteröinnin edellytyksenä on, että:
 
 Maa- ja metsätalousministeriön asetuksella annetaan tarkemmat säännökset taimiaineiston toimittajan hyväksymisen ja rekisteröinnin perusteista sen mukaan kuin taimiaineiston tuottamista ja markkinointia koskevat Euroopan yhteisön säännökset edellyttävät.
 
-Hyväksymistä ja rekisteröintiä haetaan kasvintuotannon tarkastuskeskukselle osoitetulla hakemuksella, joka toimitetaan työvoima- ja elinkeinokeskukselle. Päätöksen hyväksymisestä ja rekisteröinnistä tekee työvoima- ja elinkeinokeskus. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä hyväksymistä ja rekisteröintiä koskevasta hakemusmenettelystä.
+Hyväksymistä ja rekisteröintiä haetaan Elintarviketurvallisuusvirastolle osoitetulla hakemuksella, joka toimitetaan elinkeino-, liikenne- ja ympäristökeskukselle. Päätöksen hyväksymisestä ja rekisteröinnistä tekee elinkeino-, liikenne- ja ympäristökeskus. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä hyväksymistä ja rekisteröintiä koskevasta hakemusmenettelystä.
 
 Taimiaineiston toimittajan on ilmoitettava kirjallisesti kasvintuotannon tarkastuskeskukselle toimintansa aloittamisesta, lopettamisesta ja toiminnassa tapahtuvista muutoksista.
