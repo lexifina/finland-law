@@ -1,5 +1,5 @@
 # 4§
 
-Julkisen kaupanvahvistajan velvollisuudesta ilmoittaa vahvistamastaan kiinteistönkaupasta ja maaseutuelinkeinopiirin velvollisuudesta ilmoittaa maaseutuelinkeinolain (1295/90) nojalla tehdyistä kiinteän omaisuuden kaupoista asianomaiselle kauppahintarekisterin pitäjälle säädetään asetuksella.
+Julkisen kaupanvahvistajan on ilmoitettava vahvistamansa kiinteistönkauppa samoin kuin elinkeino-, liikenne- ja ympäristökeskuksen on ilmoitettava maatilatalouden kehittämisrahastosta annetun lain (657/1966) nojalla tehty kiinteän omaisuuden kauppa asianomaiselle kauppahintarekisterin pitäjälle. Tarkempia säännöksiä ilmoittamisesta annetaan valtioneuvoston asetuksella.
 
 Valtion viranomaisten ja kuntien on lisäksi pyydettäessä annettava 3 §:ssä tarkoitettuja tietoja kauppahintarekisterin pitäjälle.
