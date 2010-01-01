@@ -1,6 +1,6 @@
 # 7 §
 
-Kiinteistönmuodostamislain 271 ja 272 §:ssä tarkoitetuista asiavirheen ja kirjoitusvirheen korjaamisesta johtuvista toimenpiteistä ei määrätä kiinteistötoimitusmaksua.
+Kiinteistönmuodostamislain 271 ja 272 §:ssä tarkoitetuista asiavirheen, menettelyvirheen ja kirjoitusvirheen korjaamisesta johtuvista toimenpiteistä ei määrätä kiinteistötoimitusmaksua.
 
 Kiinteistötoimitusmaksua ei myöskään määrätä:
 1) valtion tarvetta varten suoritetusta kiinteistötoimituksesta asetuksella säädettävissä tapauksissa, kun toimituksen on suorittanut valtion maanmittauslaitoksen palveluksessa oleva virkamies;
