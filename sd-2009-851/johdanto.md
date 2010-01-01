@@ -1,0 +1,2 @@
+Laki Kansaneläkelaitoksen oikeudesta saada vammaisten henkilöiden tulkkipalveluja koskevia asiakastietoja
+Eduskunnan päätöksen mukaisesti säädetään:
