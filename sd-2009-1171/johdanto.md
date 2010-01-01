@@ -1,0 +1,2 @@
+Laki valtion pääomasijoituksista talletuspankkeihin
+Eduskunnan päätöksen mukaisesti säädetään:
