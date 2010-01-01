@@ -1,6 +1,6 @@
 # 5 § Sopimus palvelujen tuottamisesta
 
-Lääninhallitus ja 2 §:ssä tarkoitetun sairaanhoitopiirin kuntayhtymä tekevät sopimuksen tässä laissa tarkoitettujen tutkimusten suorittamisesta. Sopimuksessa sovitaan:
+Aluehallintovirasto ja 2 §:ssä tarkoitetun sairaanhoitopiirin kuntayhtymä tekevät sopimuksen tässä laissa tarkoitettujen tutkimusten suorittamisesta. Sopimuksessa sovitaan:
 1) palvelun järjestämistavasta;
 2) tutkimusten tekoon osallistuvan ja tutkimuksissa avustavan henkilöstön määrästä ja kelpoisuudesta sekä käytettävissä olevista tiloista ja laitteista;
 3) tutkimusten tavoiteaikataulusta mukaan lukien tutkimukseen pääsyyn ja lausunnon valmistumiseen kuluva aika;
