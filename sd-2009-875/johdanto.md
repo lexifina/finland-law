@@ -1,0 +1,2 @@
+Laki Merenkulkulaitoksen tuotantotoiminnan muuttamisesta osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
