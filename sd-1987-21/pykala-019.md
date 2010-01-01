@@ -1,5 +1,5 @@
 # 19 §
-Luku: 3 luku Suomessa tuomitun vankeusrangaistuksen täytäntöönpano vieraassa valtiossa
+Luku: 3 luku Suomessa määrätyn seuraamuksen täytäntöönpano vieraassa valtiossa
 
 Suomessa tuomittu seuraamus saadaan jättää täytäntöönpantavaksi vieraassa valtiossa, jos tuomio on saanut lainvoiman ja vieras valtio on täytäntöönpanoa pyytänyt tai siihen suostunut.
 
@@ -8,3 +8,5 @@ Suomessa tuomittu vankeusrangaistus voidaan 1 momentin mukaisesti jättää täy
 2) tuomittu edellä tarkoitetun vankeusrangaistuksen tai siihen johtaneen rikoksen johdosta lainvoimaisella päätöksellä on määrätty käännytettäväksi tai karkotettavaksi Suomesta.
 
 Suomessa tuomittu menettämisseuraamus voidaan 1 momentin mukaisesti jättää täytäntöönpantavaksi vieraassa valtiossa, jos menetettäväksi tuomittu esine tai omaisuus on tuossa vieraassa valtiossa tai tuomitulla on tuossa vieraassa valtiossa omaisuutta, johon Suomessa tuomittu menettämisseuraamus voidaan kohdistaa.
+
+Suomessa määrätty hoitoseuraamus voidaan 1 ja 2 momentissa säädetyin edellytyksin jättää pantavaksi täytäntöön siinä valtiossa, jonka kansalainen hoitoseuraamukseen määrätty on tai jossa hänellä on kotipaikka.
