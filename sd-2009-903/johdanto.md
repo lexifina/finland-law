@@ -1,0 +1,2 @@
+Laki valtion aluehallinnon uudistamista koskevan lainsäädännön voimaanpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
