@@ -1,0 +1,5 @@
+# 5 § Aluehallintovirastojen toimipaikat siirtymäkaudella
+
+Jos lääninhallituksella, alueellisella ympäristökeskuksella, ympäristölupavirastolla tai työsuojelupiirin työsuojelutoimistolla on tämän lain voimaan tullessa toimipaikka sellaisella paikkakunnalla, jonne ei perusteta aluehallintoviraston toimipaikkaa, voidaan toimipaikka säilyttää aluehallintoviraston toimipaikkana enintään kolmen vuoden ajan tämän lain voimaantulosta ja hoitaa toimipaikassa niitä tehtäviä, joita siellä hoidettiin tämän lain voimaan tullessa. Näistä toimipaikoista säädetään valtioneuvoston asetuksella.
+
+Jos lääninhallituksen, alueellisen ympäristökeskuksen, ympäristölupaviraston tai työsuojelupiirin työsuojelutoimiston tehtävä siirretään tämän lain täytäntöönpanon yhteydessä hoidettavaksi aluehallintovirastossa toiseen toimipaikkaan kuin missä se hoidettiin tämän lain voimaan tullessa, voidaan tehtävä hoitaa aikaisemmassa toimipaikassa enintään kolmen vuoden ajan tämän lain voimaantulosta. Tehtävän hoitamisesta aikaisemmassa toimipaikassa päättää aluehallintovirasto.
