@@ -1,5 +1,5 @@
-# 21 § Muutoksenhaku lääninhallituksen päätökseen
+# 21 § Muutoksenhaku aluehallintoviraston päätökseen
 
-Muutoksenhausta lääninhallituksen tekemään päätökseen on voimassa, mitä hallintolainkäyttölaissa säädetään.
+Muutoksenhausta aluehallintoviraston tekemään päätökseen on voimassa, mitä hallintolainkäyttölaissa säädetään.
 
 Tässä laissa tarkoitettua päätöstä rekisteristä poistamisesta ja määräaikaisesta toimintakiellosta on muutoksenhausta huolimatta noudatettava, jollei valitusviranomainen toisin määrää.
