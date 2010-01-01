@@ -1,0 +1,3 @@
+# 2 §
+
+Milloin Suomen aluemerellä rauhanomaisessa kauttakulussa olevassa ulkomaisessa kauppa-aluksessa tehdään kauttakulun aikana rikos, voi Suomen viranomainen, jollei alus poikkea tai ole poikennut Suomen sisäisille vesille, toimittaa aluksessa tutkinnan ja siinä käyttää rikoksen selvittämiseen tarvittavia pakkokeinoja vain, jos rikoksen seuraus on ulottunut Suomeen tahi jos rikos on ollut omiaan häiritsemään rauhaa maassa tai yleistä järjestystä aluemerellä taikka jos aluksen päällikkö tai sen kotivaltion virallinen edustaja on pyytänyt Suomen viranomaisen apua tahi jos toimenpiteet ovat tarpeen huumausaineitten luvattoman kaupan ehkäisemiseksi.
