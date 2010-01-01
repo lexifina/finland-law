@@ -1,0 +1,5 @@
+# 9 § Henkilöstön siirtyminen
+
+Käräjäoikeuksissa kiinteistöjen kirjaamistehtäviä päätoimisesti hoitavat kansliahenkilökuntaan kuuluvat henkilöt siirtyvät 1 §:ssä mainittujen lakien voimaan tullessa virkaa haettavaksi julistamatta maanmittauslaitoksen alaisiin asianomaisiin maanmittaustoimistoihin. Käräjäoikeuksissa määräaikaisia tehtäviä hoitava henkilöstö siirtyy maanmittaustoimistoihin palvelussuhteensa ajaksi. Viran siirtäminen virkamiehen työttömyysturvalain (1290/2002) 1 luvun 9 §:ssä tarkoitetulla työssäkäyntialueella ei edellytä virkamiehen suostumusta. Siirtojen toteuttamisesta päättää maanmittauslaitoksen keskushallinto oikeusministeriön vahvistaman suunnitelman mukaisesti.
+
+Siirtyvä henkilöstö säilyttää siirtymähetkellä nykyisen palvelussuhteen ehtoihin liittyvät oikeudet ja velvollisuudet. Maanmittauslaitoksen palkkausjärjestelmän mukaista kuukausipalkkaa korkeampi palkkaus turvataan, jos henkilön tehtävät maanmittauslaitoksessa vastaavat vaativuudeltaan vähintään hänen tehtäviään käräjäoikeudessa. Henkilöllä on tällöin oikeus käräjäoikeudessa maksetun ja maanmittaustoimistossa maksettavan kuukausipalkan erotuksen määräiseen palkanlisään.
