@@ -8,4 +8,4 @@ Ruoppausmassan sijoittamisesta ja sijoittamisen edellytyksistä annetaan tarkemp
 
 Jos suomalainen alus on saanut toisen valtion viranomaiselta asianmukaisen luvan ruoppausmassan sijoittamiseen alueelle, jolla kyseinen valtio kansainvälisen oikeuden perusteella käyttää lainkäyttövaltaa, ei suomalaisen viranomaisen lupaa vaadita. Tällainen toimi ei kuitenkaan saa olla Suomea velvoittavan kansainvälisen sopimuksen vastainen.
 
-Jos 1 momentissa tarkoitettu ruoppausmassan sijoittaminen Suomen talousvyöhykkeen ulkopuolelle tai sen vaikutukset ulottuvat myös Suomen talousvyöhykkeelle tai aluevesille, lupaviranomaisena on koko hankkeen osalta Länsi-Suomen ympäristölupavirasto. Lupamenettelystä ja muutoksenhausta on soveltuvin osin voimassa, mitä niistä säädetään vesilaissa (264/1961).
+Jos 1 momentissa tarkoitettu ruoppausmassan sijoittaminen Suomen talousvyöhykkeen ulkopuolelle tai sen vaikutukset ulottuvat myös Suomen talousvyöhykkeelle tai aluevesille, lupaviranomaisena on koko hankkeen osalta Etelä-Suomen aluehallintovirasto. Lupamenettelystä ja muutoksenhausta on soveltuvin osin voimassa, mitä niistä säädetään vesilaissa (264/1961).

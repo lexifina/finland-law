@@ -6,4 +6,4 @@ Edellä 1 momentissa tarkoitettu Suomen ympäristökeskuksen lupa annetaan mää
 
 Valtioneuvoston asetuksella annetaan tarkempia säännöksiä niistä tiedoista, joita lupahakemuksessa on esitettävä. Ympäristöministeriön asetuksella voidaan antaa tarkempia säännöksiä kemikaaleista, joita käytetään merenpohjan tutkimuksessa ja hyväksikäytössä.
 
-Jos 1 momentissa tarkoitettu toiminta Suomen talousvyöhykkeen ulkopuolella ulottuu myös Suomen talousvyöhykkeelle tai aluevesille, lupaviranomaisena on koko hankkeen osalta Länsi-Suomen ympäristölupavirasto. Lupamenettelystä ja muutoksenhausta on soveltuvin osin voimassa, mitä niistä säädetään ympäristönsuojelulaissa.
+Jos 1 momentissa tarkoitettu toiminta Suomen talousvyöhykkeen ulkopuolella ulottuu myös Suomen talousvyöhykkeelle tai aluevesille, lupaviranomaisena on koko hankkeen osalta Etelä-Suomen aluehallintovirasto. Lupamenettelystä ja muutoksenhausta on soveltuvin osin voimassa, mitä niistä säädetään ympäristönsuojelulaissa.
