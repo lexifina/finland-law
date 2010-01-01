@@ -1,0 +1,2 @@
+Laki Valtion teknillisen tutkimuskeskuksen asiantuntijapalvelujen yhtiöittämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
