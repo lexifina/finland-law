@@ -1,0 +1,2 @@
+Laki kasvinjalostajanoikeudesta
+Eduskunnan päätöksen mukaisesti säädetään:
