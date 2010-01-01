@@ -1,0 +1,2 @@
+Laki kirjaamisasioiden siirtämistä koskevan lainsäädännön voimaanpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
