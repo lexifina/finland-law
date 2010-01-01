@@ -4,4 +4,4 @@ Jos joku on kokonaan tai osaksi suorittanut hänelle tuomitun vapausrangaistukse
 
 Korvausta ei makseta, jos tuomittu valheellisella tunnustuksella tai muuten tahallisesti on osaltaan aiheuttanut rangaistuksen tuomitsemisen taikka jos korvauksen maksamista muut asianhaarat huomioon ottaen ei olisi pidettävä kohtuullisena.
 
-Mitä 1 ja 2 momentissa on sanottu, on vastaavasti sovellettava sakon muuntorangaistusta tai arestirangaistusta suorittaneeseen sekä siihen, joka vaarallisena rikoksenuusijana on eristetty pakkolaitokseen.
+Mitä 1 ja 2 momentissa säädetään, sovelletaan vastaavasti sakon muuntorangaistusta tai arestirangaistusta suorittaneeseen.

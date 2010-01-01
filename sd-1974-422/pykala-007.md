@@ -1,5 +1,7 @@
 # 7§
 
-Milloin valtiolta tämän lain nojalla korvausta saanut olisi voinut hakea saman korvauksen muun lain nojalla kolmannelta henkilöltä, on valtiolla oikeus vaatia maksamansa määrä tältä takaisin. Valtion takautumisoikeudesta on noudatettavana, mitä siitä on muualla säädetty.
+Valtiokonttorin päätökseen ei saa hakea muutosta valittamalla.
 
-Takautumisoikeuden käyttämisestä päättää valtiokonttori asianomaista ministeriötä kuultuaan.
+Valtiokonttorin päätökseen tyytymätön voi nostaa kanteen valtiota vastaan käräjäoikeudessa riita-asioista säädetyssä järjestyksessä. Kanne on nostettava kolmen kuukauden kuluessa siitä, kun hakija sai tiedon Valtiokonttorin päätöksestä.
+
+Valtion etua ja oikeutta korvausasiassa valvoo Valtiokonttori, jonka pyynnöstä aluehallintoviraston on määrättävä asiamies käyttämään valtion puhevaltaa.

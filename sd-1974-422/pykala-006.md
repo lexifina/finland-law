@@ -1,7 +1,5 @@
 # 6§
 
-Jollei korvausasiaa ole ratkaistu tuomioistuimessa tai se ole 5 §py:n mukaisesti siellä vireillä, vahingon kärsinyt voi 5 §:n 3 momentissa säädettynä aikana hakea korvausta suoraan valtiokonttorilta. Valtiokonttori myöntää hakemuksesta korvauksen siltä osin kuin se pitää hakijan oikeutta korvaukseen selvänä.
+Korvaushakemukseen on liitettävä jäljennös rikosasiassa annetusta tuomiosta tai, jos syytettä ei ole nostettu, jäljennös syyttämättäjättämispäätöksestä tai esitutkinnan lopettamista koskevasta päätöksestä sekä jäljennös esitutkintapöytäkirjasta tarpeellisilta osiltaan. Hakijan on lisäksi annettava Valtiokonttorille sellaiset muut asiakirjat ja tiedot, jotka ovat tarpeen korvausasian selvittämiseksi.
 
-Hakemukseen on liitettävä asian tuomioistuinkäsittelyssä syntyneet pöytäkirjat tai, jos syytettä ei ole nostettu, esitutkintapöytäkirjat, sekä muu tarpeellinen selvitys. Hakemuksessa on ilmoitettava, onko korvausasia tai onko se ollut tuomioistuimen käsiteltävänä.
-
-Valtiokonttorin on, milloin se katsoo aiheelliseksi, kuultava hakemuksesta virallista syyttäjää tai vangitsemisesta tai pidättämisestä päättänyttä virkamiestä taikka tämän esimiestä.
+Valtiokonttorin on tarvittaessa kuultava hakemuksesta virallista syyttäjää, vangitsemisesta tai pidättämisestä päättänyttä virkamiestä taikka tämän esimiestä.
