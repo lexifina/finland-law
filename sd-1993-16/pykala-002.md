@@ -9,5 +9,3 @@ Työsuojeluhallinnon tulee työsuojelun edistämiseksi:
 6) antaa ohjeita, neuvoja ja koulutusta työsuojelukysymyksissä omaa työtään tekeville sekä suunnitella ja kehittää heille tarpeellista työsuojelua;
 7) harjoittaa kiinteää yhteistoimintaa työnantajien ja työntekijöiden järjestöjen kanssa työsuojelun alalla; sekä
 8) suorittaa lisäksi ne muut tehtävät, jotka sen hoidettavaksi erikseen säädetään.
-
-Työsuojeluhallinto on riippumaton valvontatehtävää suorittaessaan.
