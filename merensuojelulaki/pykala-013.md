@@ -4,6 +4,6 @@ Ympäristöministeriön tai sen määräämän viranomaisen on annettava tämän
 
 Ympäristöministeriön tai sen määräämän viranomaisen on pidettävä kirjaa luvan nojalla mereen Suomen talousvyöhykkeen ulkopuolelle sijoitettujen ruoppausmassojen sekä 7 §:n 3 momentissa tarkoitettujen mereen laskettujen jätteiden ja muiden aineiden laadusta ja määrästä, sijoittamis- ja laskemispaikasta sekä sijoittamisajankohdasta ja -tavasta.
 
-Edellä 7 §:n 3 momentissa tarkoitetussa tilanteessa tapahtuneesta mereen laskemisesta tulee ilmoittaa välittömästi asianomaiselle kansainväliselle järjestölle sekä muutoin menetellä, kuten aluksista aiheutuvan vesien pilaantumisen ehkäisemisestä annetussa laissa säädetään pilaantumistapahtumasta tehtävästä ilmoituksesta.
+Edellä 7 §:n 3 momentissa tarkoitetussa tilanteessa tapahtuneesta mereen laskemisesta tulee ilmoittaa välittömästi asianomaiselle kansainväliselle järjestölle sekä muutoin menetellä, kuten merenkulun ympäristönsuojelulaissa tai öljyvahinkojen torjuntalaissa säädetään pilaantumistapahtumasta tehtävästä ilmoituksesta.
 
 Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä tässä pykälässä tarkoitetuista menettelyistä.
