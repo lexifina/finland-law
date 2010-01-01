@@ -1,0 +1,2 @@
+Laki Valtion teknillisen tutkimuskeskuksen osakkuusyritysten kehittämiseen ja hallinnointiin liittyvien toimintojen yhtiöittämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
