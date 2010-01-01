@@ -11,4 +11,6 @@ Vammaistuki, joka on myönnetty 16 vuotta täyttäneelle, lakkaa sen kuukauden a
 
 Veteraanilisä lakkaa sen kuukauden alusta, jona sen saajalle ei enää makseta korotettua tai ylintä hoitotukea taikka ylimääräistä rintamalisää.
 
+Vammaisetuus lakkaa ilman eri päätöstä, jos 31 §:n 3 momentin perusteella keskeytettyä etuutta ei ole kahden vuoden kuluessa keskeyttämisestä lukien vaadittu maksettavaksi.
+
 Vammaisetuutta maksetaan sen kuukauden loppuun, jonka aikana etuudensaaja on kuollut.
