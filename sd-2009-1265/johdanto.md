@@ -1,0 +1,2 @@
+Laki poronhoitajien sijaisapukokeilusta
+Eduskunnan päätöksen mukaisesti säädetään:
