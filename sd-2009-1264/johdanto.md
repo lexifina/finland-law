@@ -1,0 +1,2 @@
+Laki turkistuottajien lomituspalveluista
+Eduskunnan päätöksen mukaisesti säädetään:
