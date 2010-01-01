@@ -4,7 +4,8 @@ Luku: 2 luku Palkkaturvan saamisen edellytykset
 Palkkaturvaviranomaisella on perustellusta syystä oikeus evätä palkkaturva tai harkita maksettavan palkkaturvan määrä seuraavissa tilanteissa:
 1) työntekijän saatava perustuu sopimukseen tai järjestelyyn, joka on ilmeisesti tehty palkkaturvan saamiseksi;
 2) palkkaturvana haettu saatava on ilmeisessä epäsuhteessa siihen, mitä tehtyyn työhön ja muihin olosuhteisiin nähden voidaan pitää kohtuullisena;
-3) työntekijä hakee toistuvasti palkkaturvana samaan työnantajaan kohdistuvia saatavia.
+3) työntekijä hakee toistuvasti palkkaturvana samaan työnantajaan kohdistuvia saatavia;
+4) työntekijä on jatkanut työsuhteessa vielä senkin jälkeen, kun hänen on täytynyt tietää, ettei työnantaja kykene suoriutumaan palkanmaksustaan.
 
 Maksettava palkkaturva voidaan perustellusta syystä myös rajoittaa määrään, jonka työnantaja on maksanut työntekijälle vuoden kuluessa ennen palkkaturvahakemuksen jättämistä työsuhteesta johtuvina saatavina.
 
