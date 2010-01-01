@@ -1,0 +1,3 @@
+# 18 § Takaisinsaanti konkurssipesään
+
+Jos säästäjä asetetaan konkurssiin ja hänen havaitaan myöhemmin kuin kolme vuotta ennen takaisinsaannista konkurssipesään annetun lain (758/1991) 2 §:ssä tarkoitettua määräpäivää tehneen säästämistilille suorituksia, jotka silloin kuin ne suoritettiin eivät olleet kohtuullisessa suhteessa hänen oloihinsa ja varoihinsa, konkurssipesällä on oikeus vaatia palveluntarjoajalta takaisin, mitä siten on liikaa suoritettu, jos säästövarojen arvo siihen riittää. Jollei säästäjä ole antanut tähän suostumustaan, konkurssipesä on velvollinen puhevallan menettämisen uhalla nostamaan kanteen säästäjää vastaan. Kanteeseen sovelletaan, mitä takaisinsaannista konkurssipesään annetun lain 23―25 §:ssä säädetään.

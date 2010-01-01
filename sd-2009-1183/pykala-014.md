@@ -1,0 +1,7 @@
+# 14 § Säästäjän oikeus irtisanoa säästämissopimus
+
+Säästäjällä on oikeus irtisanoa säästämissopimus, jos hän on tehnyt toisen säästämissopimuksen tai tarkoitukseltaan vastaavan vakuutussopimuksen ja kertyneet säästövarat siirretään suoraan mainitun sopimuksen osapuolena olevalle palveluntarjoajalle tai vakuutuksenantajalle.
+
+Säästämissopimus on irtisanottava kirjallisesti. Irtisanomisilmoituksessa on mainittava, mille palveluntarjoajalle tai vakuutuksenantajalle varat siirretään. Varat on siirrettävä 30 päivän kuluessa ilmoituksen vastaanottamisesta. Varat vastaanottaneen palveluntarjoajan tai vakuutuksenantajan on ilmoitettava säästäjälle ja muulle mahdolliselle säästövaroihin oikeutetulle viivytyksettä varojen vastaanottamisesta. Irtisanottu säästämissopimus lakkaa, kun varat on siirretty irtisanomisilmoituksessa mainitulle palveluntarjoajalle tai vakuutuksenantajalle. Jos saapumispäivästä ei voida esittää muuta selvitystä, postitse lähetetyn ilmoituksen katsotaan saapuneen palveluntarjoajalle seitsemäntenä päivänä sen lähettämisestä ja sähköisesti lähetetyn päivänä, jona se on lähetetty.
+
+Jos palveluntarjoaja on velvollinen toimittamaan ennakonpidätyksen tämän pykälän nojalla siirrettävistä varoista, palveluntarjoajalla on oikeus ennen varojen siirrolle 2 momentissa säädetyn määräajan päättymistä myydä säästövarojen sijoittamiseksi hankittuja sijoituskohteita ennakonpidätyksen toimittamiseksi tarvittava määrä.
