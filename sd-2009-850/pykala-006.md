@@ -1,0 +1,3 @@
+# 6 § Päätöksenteko Valtion teknillisen tutkimuskeskuksen teollisoikeuksien ja toimintamenomäärärahan sijoittamisesta osakeyhtiöön
+
+Valtion teknillisen tutkimuskeskuksen hallitus päättää tutkimuskeskuksen omistamien teollisoikeuksien ja toimintamenomäärärahan sijoittamisesta osakeyhtiöön eduskunnan valtion talousarviossa vuosittain antaman toimivaltuuden puitteissa. Valtion teknillisen tutkimuskeskuksen hallitus päättää myös osakeyhtiön noudattamasta sijoituspolitiikasta.
