@@ -1,0 +1,2 @@
+Laki Opetusalan koulutuskeskuksen muuttamisesta osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
