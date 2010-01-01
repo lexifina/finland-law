@@ -9,4 +9,6 @@ Alle 16-vuotiaan vammaistuki lakkaa viimeistään sitä seuraavan kuukauden alus
 
 Vammaistuki, joka on myönnetty 16 vuotta täyttäneelle, lakkaa sen kuukauden alusta, kun sen saajalle myönnetään 9 §:n 1 momentissa tarkoitettu eläke tai etuus.
 
+Veteraanilisä lakkaa sen kuukauden alusta, jona sen saajalle ei enää makseta korotettua tai ylintä hoitotukea taikka ylimääräistä rintamalisää.
+
 Vammaisetuutta maksetaan sen kuukauden loppuun, jonka aikana etuudensaaja on kuollut.

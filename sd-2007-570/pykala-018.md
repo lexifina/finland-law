@@ -6,7 +6,7 @@ Hoitotukihakemuksessa ja 16 vuotta täyttäneen vammaistukihakemuksessa on ilmoi
 2) sairaudesta, viasta tai vammasta aiheutuvista erityiskustannuksista; sekä
 3) saamastaan tai hakemastaan 9 §:n 1 momentissa tarkoitetusta etuudesta tai korvauksesta.
 
-Hoitotuensaajan ja 16 vuotta täyttäneen vammaistuensaajan on ilmoitettava 17 §:n 2 momentin 1, 3 ja 5 kohdissa mainitut tuensaajaa koskevat tiedot. Lisäksi on ilmoitettava tiedot:
+Hoitotuensaajan ja 16 vuotta täyttäneen vammaistuensaajan on ilmoitettava 17 §:n 2 momentin 1 ja 5 kohdassa mainitut tuensaajaa koskevat tiedot. Lisäksi on ilmoitettava tiedot:
 1) terveydentilan ja toimintakyvyn olennaisesta parantumisesta; sekä
 2) avuntarpeen ja erityiskustannusten merkittävästä vähentymisestä.
 
