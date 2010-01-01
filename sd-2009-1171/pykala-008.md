@@ -1,0 +1,7 @@
+# 8 § Voitonjaon rajoittaminen
+
+Liikkeeseenlaskijan on pääomalainan ehdoissa sitouduttava siihen, että siihen asti, kun se on lunastanut pääomalainan pääoman kokonaan takaisin, liikkeeseenlaskija jakaa varojaan osakkeenomistajille tai jäsenilleen tai näiden oikeudenomistajille taikka voitto-osuutena sijoitusosuuden tai kantarahasto-osuuden omistajille taikka säästöpankkilain (1502/2001) 41 §:n 2 momentissa säädettyyn tarkoitukseen taikka, jollei ennen 20 päivää helmikuuta 2009 liikkeeseen lasketun muun kuin tässä laissa tarkoitetun pääomalainan ehdoista muuta johdu, tällaisten pääomalainojen haltijoille korkona tai muuna tuottona enintään määrän, joka vastaa liikkeeseenlaskijan asianomaisen tilikauden vahvistetun tilinpäätöksen ja konsernitilinpäätöksen tilikauden voittoa tai ylijäämää vähennettynä valtion merkitsemälle pääomalainalle 7 §:n 1 momentin perusteella maksettavan koron määrällä.
+
+Jos liikkeeseenlaskija ei jakokelpoisten varojen riittämättömyyden takia voi maksaa valtiolle pääomalainan korkojakson mukaista korkoa kokonaisuudessaan, liikkeeseenlaskija ei saa kyseistä korkojaksoa koskevan vahvistetun tilinpäätöksen eikä konsernitilinpäätöksen perusteella jakaa varojaan osakkeenomistajille tai jäsenille ja näiden oikeudenomistajille taikka voitto-osuutta sijoitusosuuden tai kantarahasto-osuuden omistajille taikka säästöpankkilain 41 §:n 2 momentissa säädettyyn tarkoitukseen.
+
+Mitä 1 ja 2 momentissa säädetään, ei koske osuus- ja lisäosuusmaksun palautusta osuuskunnan jäsenyyden päättymisen takia.

@@ -1,0 +1,7 @@
+# 2 § Valtion pääomasijoitus
+
+Valtio voi tehdä tässä laissa tarkoitetun pääomasijoituksen talletuspankkiin, jolle on myönnetty toimilupa Suomessa, merkitsemällä pankin liikkeeseen laskeman luottolaitostoiminnasta annetun lain 45 §:n 1 momentin 4 kohdassa tarkoitetun pääomalainan. Valtio voi tehdä tässä laissa tarkoitetun pääomasijoituksen myös talletuspankin omistusyhteisöön, jonka kotipaikka on Suomessa, tai osuuspankkien yhteenliittymän keskusyhteisöön, merkitsemällä omistusyhteisön tai keskusyhteisön liikkeeseen laskeman edellä tarkoitetun pääomalainan. Pääomalainalla tarkoitetaan jäljempänä tässä laissa valtion tämän lain mukaisesti antamaa pääomalainaa.
+
+Valtio voi merkitä pääomalainan vain, jos lainan liikkeeseenlaskijan omat varat pääomalainan merkitsemisajankohtaa edeltävän viimeisen tiedossa olevan vuosineljänneksen lopussa ovat olleet vähintään luottolaitostoiminnasta annetun lain 55 §:n 1 momentin mukaisesti laskettujen riskien kattamiseksi vaadittavien omien varojen vähimmäismäärän suuruiset, sekä, jos liikkeeseenlaskijaan sovelletaan mainitun lain 76 §:ssä tarkoitettua konsolidoitua vakavaraisuusvaatimusta, sen konsolidoidut omat varat ovat vähintään mainitun lain 76 §:ssä säädetyn konsolidoitujen omien varojen vähimmäismäärän suuruiset.
+
+Pääomalainaa ei kuitenkaan saa merkitä, jos liikkeeseenlaskijan omien varojen tai konsolidoitujen omien varojen määrä on 2 momentissa tarkoitetun vuosineljänneksen jälkeen Finanssivalvonnan arvion mukaan vähentynyt alle laissa säädetyn vähimmäismäärän.
