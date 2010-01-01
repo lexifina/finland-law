@@ -1,7 +1,7 @@
 # 11 § Valtuutetut tarkastajat
 Luku: 3 luku Viranomaiset
 
-Sen lisäksi, mitä 10 §:ssä säädetään, tarkastuskeskus voi käyttää apunaan tehtävään kirjallisesti valtuuttamiaan tarkastajia, jotka toimivat tarkastuskeskuksen valvonnassa ja yhteistyössä niin TE-keskuksen kuin maaseutuelinkeinoviranomaisen kanssa. Valtuutettuun tarkastajaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tämän lain mukaisia tehtäviä.
+Sen lisäksi, mitä 10 §:ssä säädetään, Elintarviketurvallisuusvirasto voi käyttää apunaan tehtävään kirjallisesti valtuuttamiaan tarkastajia, jotka toimivat Elintarviketurvallisuusviraston valvonnassa ja yhteistyössä niin elinkeino-, liikenne- ja ympäristökeskuksen kuin maaseutuelinkeinoviranomaisen kanssa. Valtuutettuun tarkastajaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tämän lain mukaisia tehtäviä.
 
 Jos valtuutettu tarkastaja on hallintolain (434/2003) mukaan esteellinen suorittamaan tehtäväänsä, tarkastuskeskus voi määrätä jonkun muun tilapäisesti suorittamaan hänen tehtäviään. Tilapäisesti määrättyyn henkilöön sovelletaan, mitä valtuutetusta tarkastajasta säädetään.
 
