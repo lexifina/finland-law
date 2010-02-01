@@ -1,0 +1,2 @@
+Laki Suomen ja Amerikan yhdysvaltojen välillä tietyistä keskinäiseen oikeusapuun rikosasioissa liittyvistä näkökohdista tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
