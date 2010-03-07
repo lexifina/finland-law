@@ -1,0 +1,2 @@
+Laki kansainvälisen COSPAS-SARSAT-ohjelman käyttäjävaltion liittymisilmoituksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
