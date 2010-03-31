@@ -1,0 +1,3 @@
+# 1 §
+
+Tukholmassa 1 päivänä huhtikuuta 2009 Suomen tasavallan ja Caymansaarten välillä veroasioita koskevista tiedoista tehdyn sopimuksen ja Pariisissa 17 päivänä kesäkuuta 2009 Suomen tasavallan ja Caymansaarten välillä luonnollisten henkilöiden kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen, laivoja tai ilma-aluksia kansainvälisessä liikenteessä käyttävien yritysten kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen ja keskinäisestä sopimusmenettelystä etuyhteydessä keskenään olevien yritysten tulon oikaisemisen yhteydessä tehdyn sopimuksen lainsäädännön alaan kuuluvat määräykset ovat lakina voimassa sellaisina kuin Suomi on niihin sitoutunut.

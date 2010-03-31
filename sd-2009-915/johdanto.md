@@ -1,0 +1,2 @@
+Laki eräiden Caymansaarten kanssa tuloverotuksesta tehtyjen sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
