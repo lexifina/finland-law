@@ -1,0 +1,2 @@
+Laki maaseutuhallinnon järjestämisestä kunnissa
+Eduskunnan päätöksen mukaisesti säädetään:
