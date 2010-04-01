@@ -3,8 +3,8 @@ Luku: 6 luku Luottotietorekisteriin talletettavat yritysluottotiedot ja henkilö
 
 Yrityksen maksuhäiriötietoina saa luottotietorekisteriin tallettaa:
 1) konkurssi- ja yrityssaneerausrekisteristä annetussa laissa tarkoitettuun konkurssi- ja yrityssaneerausrekisteriin rekisteröidystä ja asian käsittelystä talletetut tiedot;
-2) tiedot maksun laiminlyönnistä, joka on todettu tuomioistuimen lainvoimaisella tuomiolla tai yksipuolisella tuomiolla, tuomioistuimen vahvistamalla sovinnolla taikka rekisteröidyn hyväksymän vekselin protestilla;
-3) tiedot sellaisesta maksuvelvoitteen täytäntöönpanoa koskevasta ulosottoasiasta, jossa on annettu estetodistus;
+2) tiedot maksun laiminlyönnistä, joka on todettu tuomioistuimen lainvoimaisella tuomiolla tai yksipuolisella tuomiolla taikka rekisteröidyn hyväksymän vekselin protestilla;
+3) tiedot asiakohtaisesti eriteltyinä sellaisesta ulosottoasiasta, jossa on annettu estetodistus tai tieto pitkäkestoisesta ulosotosta;
 4) julkisesta haasteesta annetun lain 10 §:ssä tarkoitettuun kuulutusrekisteriin rekisteröidystä talletetut tiedot;
 5) veroviranomaisen julkistama tieto sellaisesta verosaatavasta tai vakuutuslaitoksen ilmoittama tieto sellaisen lakisääteiseen vakuutukseen perustuvan saatavan laiminlyönnistä, joka voidaan ulosmitata ilman tuomiota tai päätöstä verojen ja maksujen perimisestä ulosottotoimin annetun lain (367/1961) mukaan;
 6) tiedon rekisteröidyn velkojalle antamasta kirjallisesta ilmoituksesta, jolla hän tunnustaa lyöneensä maksun laimin;
