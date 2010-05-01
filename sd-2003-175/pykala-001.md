@@ -8,7 +8,7 @@ Valtioneuvostossa on seuraavat ministeriöt:
 4) sisäasiainministeriö;
 5) puolustusministeriö;
 6) valtiovarainministeriö;
-7) opetusministeriö;
+7) opetus- ja kulttuuriministeriö;
 8) maa- ja metsätalousministeriö;
 9) liikenne- ja viestintäministeriö;
 10) työ- ja elinkeinoministeriö;
