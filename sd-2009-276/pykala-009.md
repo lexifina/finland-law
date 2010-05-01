@@ -1,6 +1,6 @@
 # 9 § Haittaraha, haitta- ja vaatelisä, kodinhoitokustannusten korvaus ja korvaus opaskoiran ylläpidosta
 
-Haittarahaa maksetaan tapaturmavakuutuslain 16 §:n 2 momentin, 18 a §:n ja 18 b §:n 1 ja 3―5 momentin mukaisesti urheilijalle, jolle aiheutuu tapaturmasta johtuvasta vammasta tai sairaudesta pysyvää yleistä haittaa.
+Haittarahaa maksetaan tapaturmavakuutuslain 16 §:n 2 momentin, 18 a―18 d §:n ja 18 e §:n 1 ja 3―5 momentin mukaisesti urheilijalle, jolle aiheutuu tapaturmasta johtuvasta vammasta tai sairaudesta pysyvää yleistä haittaa.
 
 Haittalisää maksetaan urheilijalle, joka on tapaturman aiheuttaman vamman tai sairauden johdosta joutunut niin avuttomaan tilaan, ettei hän voi tulla toimeen ilman toisen henkilön apua, tai jolle vamman tai sairauden hoito aiheuttaa muutoin poikkeuksellista haittaa. Haittalisään sovelletaan, mitä tapaturmavakuutuslain 20 §:ssä säädetään.
 
