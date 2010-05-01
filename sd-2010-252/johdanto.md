@@ -1,0 +1,2 @@
+Laki Saamelaisalueen koulutuskeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
