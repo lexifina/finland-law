@@ -1,0 +1,2 @@
+Laki Yliopistojen palvelukeskuksen muuttamisesta osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
