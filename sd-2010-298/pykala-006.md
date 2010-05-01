@@ -1,0 +1,4 @@
+# 6 § Sivuliikkeen toiminnan ja rajat ylittävän maksupalvelun tarjoamisen rajoittaminen ja kieltäminen
+Luku: 2 luku Sijoittautumisoikeus Euroopan talousalueeseen kuuluvasta valtiosta
+
+Jos ulkomainen maksulaitos jatkaa yrityksen kotivaltion Finanssivalvontaa vastaavan toimivaltaisen viranomaisen toimenpiteistä huolimatta säännösten tai määräysten vastaista toimintaa Suomessa, Finanssivalvonnan on ryhdyttävä tarpeellisiin toimenpiteisiin sellaisen toiminnan estämiseksi, joka vaarantaa maksupalvelun käyttäjien aseman tai maksujärjestelmien luotettavan toiminnan taikka josta aiheutuu rahanpesun tai terrorismin rahoittamisen uhka. Tarvittaessa Finanssivalvonta voi estää uusien liiketoimien aloittamisen. Sivuliikkeen toiminnan ja maksupalvelun tarjoamisen kieltämiseen sovelletaan lisäksi, mitä Finanssivalvonnasta annetun lain 61 §:ssä säädetään.
