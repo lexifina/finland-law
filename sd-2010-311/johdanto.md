@@ -1,0 +1,2 @@
+Laki pintataistelualusten alumiinirakennesuunnittelusta Suomen, Saksan liittotasavallan ja Amerikan yhdysvaltojen välillä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
