@@ -1,0 +1,2 @@
+Laki kansainvälisessä maantieliikenteessä toimivien miehistöjen tekemästä työstä tehdyn eurooppalaisen sopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
