@@ -1,0 +1,5 @@
+# 10 § Tulvariskien hallintasuunnitelma
+
+Vesistöalueelle, jolle on nimetty yksi tai useampi merkittävä tulvariskialue, sekä merenrannikon merkittävälle tulvariskialueelle laaditaan tulvariskien hallintasuunnitelma. Jos vesistön tulvimisesta ja merenpinnan noususta aiheutuva tulvariski kohdistuu samalle alueelle, vesistöaluetta ja merenrannikkoa koskevat tulvariskien hallintasuunnitelmat voidaan yhdistää. Hulevesitulvien hallintasuunnitelma laaditaan 19 §:n 2 momentissa tarkoitetulle alueelle.
+
+Tulvariskien hallintasuunnitelmassa esitetään tulvariskien hallinnan tavoitteet kullekin merkittävälle tulvariskialueelle sekä toimenpiteet, joilla tavoitteet pyritään saavuttamaan. Toimenpiteitä valittaessa on pyrittävä vähentämään tulvien todennäköisyyttä sekä käyttämään muita kuin tulvasuojelurakenteisiin perustuvia tulvariskien hallinnan keinoja, jos se olosuhteet kokonaisuutena huomioon ottaen katsotaan tarkoituksenmukaiseksi. Suunnitelmassa tarkastellaan toimenpiteiden kustannuksia ja hyötyjä sekä esitetään toimenpiteiden etusijajärjestys.

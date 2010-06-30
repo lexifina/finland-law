@@ -1,0 +1,5 @@
+# 17 § Osallistuminen ja tiedottaminen
+
+Elinkeino-, liikenne- ja ympäristökeskuksen on varattava kaikille mahdollisuus tutustua 4 §:n 1 momentissa tarkoitettuun ehdotukseen merkittävien tulvariskialueiden nimeämiseksi ja ehdotukseen tulvariskien hallintasuunnitelmaksi sekä niiden tausta-asiakirjoihin ja varattava tilaisuus esittää mielipiteensä ehdotuksista kirjallisesti tai sähköisesti. Elinkeino-, liikenne- ja ympäristökeskus pyytää lisäksi tarvittavat lausunnot.
+
+Elinkeino-, liikenne- ja ympäristökeskus julkaisee kuulutuksen 1 momentissa tarkoitettujen ehdotusten nähtävillä pitämisestä alueen kuntien ilmoitustauluilla. Ehdotukset ja niiden tausta-asiakirjat pidetään tarpeellisilta osin nähtävillä alueen kunnissa ja julkaistaan sähköisesti. Elinkeino-, liikenne- ja ympäristökeskus ilmoittaa lisäksi ehdotuksesta tulvariskien hallintasuunnitelmaksi alueella yleisesti ilmestyvissä sanomalehdissä taikka muulla sopivaksi katsomallaan tavalla sekä järjestää tarpeen mukaan tiedotustilaisuuksia, joissa varataan tilaisuus mielipiteiden esittämiseen.

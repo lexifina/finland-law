@@ -1,0 +1,5 @@
+# 28 § Tulvariskien hallintayksikkö
+
+Vesienhoitoalue muodostaa tulvariskien hallintayksikön ja kansainvälinen vesienhoitoalue kansainvälisen tulvariskien hallintayksikön.
+
+Valtioneuvoston asetuksella säädetään kansainvälisen tulvariskien hallintayksikön yhteistyöviranomaisesta.
