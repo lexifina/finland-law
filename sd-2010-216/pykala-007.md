@@ -1,0 +1,5 @@
+# 7 § Asian saattaminen tuomioistuimen käsiteltäväksi
+
+Jos on todennäköisiä perusteita epäillä, että on tehty yhteistoiminnasta yrityksissä annetun lain 67 §:ssä, yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä annetun lain 46 §:ssä, henkilöstöedustuksesta eurooppayhtiössä (SE) ja eurooppaosuuskunnassa (SCE) annetun lain 39 §:ssä taikka rikoslain (39/1889) 47 luvun 4 §:ssä rangaistavaksi säädetty teko, yhteistoiminta-asiamiehen on tehtävä siitä ilmoitus poliisille esitutkintaa varten. Ilmoitus voidaan jättää tekemättä, jos tekoa on pidettävä olosuhteet huomioon ottaen vähäisenä eikä yleinen etu vaadi ilmoituksen tekemistä.
+
+Edellä 1 momentissa tarkoitettua tekoa koskevassa esitutkinnassa on yhteistoiminta-asiamiehelle varattava tilaisuus tulla kuulluksi. Virallisen syyttäjän on varattava yhteistoiminta-asiamiehelle tilaisuus lausunnon antamiseen ennen syyteharkinnan päättämistä. Asiaa tuomioistuimessa suullisesti käsiteltäessä yhteistoiminta-asiamiehellä on läsnäolo- ja puheoikeus.
