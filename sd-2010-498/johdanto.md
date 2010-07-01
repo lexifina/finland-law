@@ -1,0 +1,2 @@
+Laki rakennusperinnön suojelemisesta
+Eduskunnan päätöksen mukaisesti säädetään:
