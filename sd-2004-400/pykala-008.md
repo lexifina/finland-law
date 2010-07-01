@@ -9,4 +9,4 @@ Työneuvoston lausuntoa voi pyytää:
 5) kirkon sopimusvaltuuskunta;
 6) kunnallinen työmarkkinalaitos;
 7) Ahvenanmaan maakunnan hallitus tai Ahvenanmaan maakunnan kunnallinen sopimusvaltuuskunta; taikka
-8) työ- ja elinkeinoministeriö siitä, sovelletaanko yhteistoiminnasta yrityksissä annettua lakia tai yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä annettua lakia yritykseen tai yritysryhmään.
+8) yhteistoiminta-asiamies siitä, sovelletaanko yhteistoiminnasta yrityksissä annettua lakia tai yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä annettua lakia yritykseen tai yritysryhmään.
