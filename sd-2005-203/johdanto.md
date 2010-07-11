@@ -1,0 +1,2 @@
+Laki strategisesta ympäristöarvioinnista tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
