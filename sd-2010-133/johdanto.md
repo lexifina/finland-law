@@ -1,0 +1,2 @@
+Laki vammaisten henkilöiden tulkkauspalvelusta
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,4 @@
+# 21 § Lainvoimaisen päätöksen oikaisu
+Luku: 4 luku Muutoksenhaku
+
+Jos uutta selvitystä ilmenee asiassa, jossa on kysymys evätyn tulkkauspalvelun tai 8 §:ssä tarkoitetun välineen ja laitteen järjestämisestä tai kustannusten korvaamisesta taikka myönnetyn tulkkauspalvelun määrän lisäämisestä, Kansaneläkelaitoksen on tutkittava asia uudelleen. Kansaneläkelaitos voi aikaisemman lainvoimaisen päätöksen estämättä myöntää evätyn tulkkauspalvelun tai välineen ja laitteen taikka korvata etäyhteyden käytöstä aiheutuneet välttämättömät kustannukset tai myöntää tulkkauspalvelun määrältään aikaisempaa suurempana. Myös sosiaaliturvan muutoksenhakulautakunta ja vakuutusoikeus voivat menetellä vastaavasti muutoksenhakuasiaa käsitellessään. Päätökseen saa hakea muutosta siten kuin 17 ja 18 §:ssä säädetään.
