@@ -1,0 +1,3 @@
+# 1 §
+
+Tutkimus- ja kehitystiedon vaihdosta Suomen puolustusministeriön ja Amerikan yhdysvaltojen puolustusministeriön välillä Washington DC:ssä 11 päivänä syyskuuta 1995 ja Helsingissä 5 päivänä lokakuuta 1995 tehdyn sopimuksen, sellaisena kun se on muutettuna Suomen tasavallan hallituksen puolesta toimivan Suomen puolustusministeriön ja Amerikan yhdysvaltojen puolustusministeriön välillä Helsingissä 25 päivänä toukokuuta 2010 ja Arlingtonissa 7 päivänä toukokuuta 2010 tehdyllä muutoksella 1, lainsäädännön alaan kuuluvat määräykset ovat lakina voimassa sellaisina kuin Suomi on niihin sitoutunut.
