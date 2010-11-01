@@ -1,7 +1,7 @@
 # 6 § Salassapitovelvollisuus ja tietojen käyttö
 Luku: 3 luku Tietoturvallisuustoimenpiteet
 
-Erityissuojattava tietoaineisto on pidettävä salassa.
+Erityissuojattava tietoaineisto on pidettävä salassa, jollei kansainvälisestä tietoturvallisuusvelvoitteesta muuta johdu.
 
 Erityissuojattavaa tietoaineistoa saa käyttää ja luovuttaa vain siihen tarkoitukseen, jota varten se on annettu, jollei se, joka on määritellyt aineiston turvallisuusluokan, ole antanut muuhun suostumustaan.
 
