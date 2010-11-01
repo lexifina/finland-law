@@ -1,6 +1,8 @@
-# 4 § Kansallinen turvallisuusviranomainen ja määrätyt turvallisuusviranomaiset
+# 4 § Turvallisuusviranomaiset ja niiden tehtävät
 Luku: 2 luku Turvallisuusviranomaiset ja niiden välinen yhteistyö
 
-Ulkoasiainministeriö toimii kansainvälisten tietoturvallisuusvelvoitteiden toteuttamisessa Suomen kansallisena turvallisuusviranomaisena. Puolustusministeriö, pääesikunta ja suojelupoliisi voivat toimia kansainvälisissä tietoturvallisuusvelvoitteissa tarkoitettuina määrättyinä turvallisuusviranomaisina. Suojelupoliisi ja pääesikunta huolehtivat turvallisuusselvitysten laadinnasta siten kuin 11 ja 12 §:ssä säädetään.
+Ulkoasiainministeriö toimii kansainvälisten tietoturvallisuusvelvoitteiden toteuttamisessa Suomen kansallisena turvallisuusviranomaisena. Puolustusministeriö, pääesikunta, suojelupoliisi ja Viestintävirasto toimivat kansainvälisissä tietoturvallisuusvelvoitteissa tarkoitettuina määrättyinä turvallisuusviranomaisina.
 
-Tehtävänjaosta turvallisuusviranomaisten välillä voidaan säätää valtioneuvoston asetuksella.
+Kansallisen turvallisuusviranomaisen tehtävänä on erityisesti ohjata ja valvoa, että tässä laissa tarkoitetut erityissuojattavat tietoaineistot suojataan ja niitä käsitellään asianmukaisesti.
+
+Määrätyt turvallisuusviranomaiset huolehtivat niille tässä laissa säädetyistä ja muista niille kansainvälisistä tietoturvallisuusvelvoitteista johtuvista tehtävistä. Puolustusministeriö, pääesikunta ja suojelupoliisi toimivat kansallisen turvallisuusviranomaisen asiantuntijoina henkilöstö-, yhteisö- ja toimitilaturvallisuutta koskevissa asioissa sekä Viestintävirasto tietojärjestelmien ja tietoliikenteen tietoturvallisuutta koskevissa asioissa.
