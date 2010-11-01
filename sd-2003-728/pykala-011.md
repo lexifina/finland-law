@@ -1,7 +1,7 @@
 # 11 § Oikeudelliset katkaisutoimet
 
 Velan vanhentuminen katkeaa niin kuin 2 momentissa säädetään, jos:
-1) velkoja panee vireille saatavaa koskevan kanteen velallista vastaan tai esittää saatavaa koskevan vaatimuksen tuomioistuimessa, kuluttajavalituslautakunnassa tai laissa säädetyssä muussa toimielimessä tai menettelyssä, jossa voidaan antaa ratkaisu tai ratkaisusuositus;
+1) velkoja panee vireille saatavaa koskevan kanteen velallista vastaan tai esittää saatavaa koskevan vaatimuksen tuomioistuimessa, kuluttajariitalautakunnassa tai laissa säädetyssä muussa toimielimessä tai menettelyssä, jossa voidaan antaa ratkaisu tai ratkaisusuositus, taikka toimielimessä, joka on merkitty Euroopan komission pitämään tietokantaan kuluttajariitoja ratkaisevista elimistä;
 2) velkoja ilmoittaa saatavan velallista koskevan julkisen haasteen johdosta taikka velallisen konkurssissa tai muussa maksukyvyttömyysmenettelyssä tai kun velka muutoin otetaan huomioon menettelyn yhteydessä; tai
 3) velkoja panee vireille ulosottoasian tai jos velka muutoin otetaan huomioon ulosottomenettelyssä.
 
