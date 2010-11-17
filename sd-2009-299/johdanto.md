@@ -1,0 +1,2 @@
+Laki eräiden asuntojen vuokraustoimintaa harjoittavien osakeyhtiöiden veronhuojennuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
