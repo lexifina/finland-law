@@ -1,8 +1,8 @@
 # 18 § Todisteellinen sähköinen tiedoksianto
 Luku: 4 luku Päätösasiakirjan sähköinen allekirjoittami- nen ja sähköinen tiedoksianto
 
-Päätös, jonka tiedoksiannosta alkaa kulua muutoksenhakuaika tai joka tullakseen voimaan on annettava asianosaiselle tiedoksi, voidaan asianosaisen suostumuksella antaa tiedoksi myös sähköisenä viestinä, ei kuitenkaan telekopiona tai vastaavalla tavalla. Sama koskee muuta päätöstä tai asiakirjaa, jonka todisteellisesta tiedoksiannosta säädetään erikseen. Viranomaisen on tällöin ilmoitettava, että päätös on asianosaisen tai tämän edustajan noudettavissa viranomaisen osoittamalta palvelimelta, tietokannasta tai muusta tiedostosta.
+Asiakirja, joka lain mukaan toimitetaan postitse saantitodistusta vastaan tai muuten todisteellisesti, voidaan asianosaisen suostumuksella antaa tiedoksi myös sähköisenä viestinä, ei kuitenkaan telekopiona tai vastaavalla tavalla. Viranomaisen on tällöin ilmoitettava, että asiakirja on asianosaisen tai tämän edustajan noudettavissa viranomaisen osoittamalta palvelimelta, tietokannasta tai muusta tiedostosta.
 
-Asianosaisen tai tämän edustajan on tunnistauduttava päätöstä noutaessaan. Tunnistautumisessa voidaan käyttää vahvasta sähköisestä tunnistamisesta ja sähköisistä allekirjoituksista annetussa laissa tarkoitettua tunnistusvälinettä tai laatuvarmennetta tai muuta tunnistautumistekniikkaa, joka on tietoturvallinen ja todisteellinen.
+Asianosaisen tai tämän edustajan on tunnistauduttava asiakirjaa noutaessaan. Tunnistautumisessa käytetään vahvasta sähköisestä tunnistamisesta ja sähköisistä allekirjoituksista annetussa laissa tarkoitettua tunnistusvälinettä tai laatuvarmennetta taikka muuta tunnistautumistekniikkaa, joka on tietoturvallinen ja todisteellinen.
 
-Päätös katsotaan annetuksi tiedoksi, kun asiakirja on noudettu viranomaisen 1 momentin mukaisesti osoittamalta yhteydeltä. Jos päätöstä ei ole noudettu seitsemän päivän kuluessa viranomaisen ilmoituksesta, tiedoksiannossa noudatetaan, mitä siitä muualla laissa säädetään.
+Asiakirja katsotaan annetuksi tiedoksi, kun asiakirja on noudettu viranomaisen 1 momentin mukaisesti osoittamalta yhteydeltä. Jos asiakirjaa ei ole noudettu seitsemän päivän kuluessa viranomaisen ilmoituksesta, tiedoksiannossa noudatetaan, mitä siitä muualla laissa säädetään.
