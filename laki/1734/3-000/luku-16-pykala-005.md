@@ -1,0 +1,4 @@
+# 5 §
+Luku: 16 luku Miten velallisen tulee kerrassaan luovuttaa tavaransa velkojilleen; niin myös velan tähden karanneista
+
+Jos velallinen karkaa velan tähden, niin on häntä heti kuulutuksella kutsuttava. Jos hän pääsee tästä valtakunnasta pois ja tahtoo hakea turvaa kuninkaalta, tehköön sen kuukauden kuluessa siitä, kuin ulkomaalle tuli. Jos hän saapi turvakirjan ja tahtoo sitä hyväksensä käyttää, niin ilmoittautukoon kahdeksan päivän kuluessa siitä, kuin kotiin tuli, kuninkaan käskynhaltijalle, taikka lähimmän kaupungin pormestarille ja raadille, ellei kuninkaan käskynhaltijaa siinä paikkakunnassa ole. Jos hän ei hae turvaa taikka vuoden kuluessa ilmoita laillista estettä, niin älköön hänellä ikänänsä olko rauhaa valtakunnan piirissä, ja tuomittakoon hänet poissa ollessaansa petturina, ja hänen nimensä pantakoon paaluun, joka petturien varalta on jokaiseen kaupunkiin pystytetty.

@@ -1,0 +1,4 @@
+# 3 §
+Luku: 12 luku Talletetusta sekä toisen huostaan uskotusta tavarasta
+
+Jos joku antaa toiselle talteen sinetillä tahi muutoin suljetuita arkkuja, kaappeja tahi tukkuja, ja talteenottaja ei tiedä, mitä niissä on, taikka jos tavara ei ole hänelle kappaleittain, punniten, mitaten tahi lukien talteen annettu, ja jos talteenpanija sitten sanoo panneensa enemmän kuin takaisin sai, niin olkoon ottaja vastuusta vapaa, jos hän antaa takaisin kaikki rikkomatonna ja vioittamatonna niinkuin ottikin. Jos se havaitaan rikotuksi ja omistaja kaipaa jotakin, näyttäköön todistajilla tahi vannokoon, kuinka paljon talteen pani. Jos hän sen tekee, niin vastatkoon talteenottaja kaiken vahingon, taikka näyttäköön pätevillä perusteilla tahi vannokoon, ettei se ole hänen huolimattomuudestansa ja syystänsä tapahtunut taikka ettei hänellä ole siitä tietoa eikä hyötyä ollut. Jos hänen näytetään tahallansa sen tavaran kavaltaneen, rangaistakoon niinkuin varkaudesta.
