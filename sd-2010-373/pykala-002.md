@@ -1,0 +1,5 @@
+# 2 § Velvollisuus ilmoittaa virkamiestä ja viranhaltijaa koskevasta rikosasiasta
+
+Tuomioistuimen, joka on tuominnut valtion virkamiehen tai kunnallisen viranhaltijan rikoksesta, on ilmoitettava ratkaisustaan lähettämällä siitä jäljennös sille viranomaiselle, jonka alainen virkamies tai viranhaltija on. Tuomioistuimen on lähetettävä jäljennös myös oikeuskanslerille ja eduskunnan oikeusasiamiehelle edellä tarkoitetusta ratkaisusta samoin kuin ratkaisusta, jolla virkamiestä tai viranhaltijaa koskeva syyte on hylätty.
+
+Ilmoituksen tekemisestä merkitsemällä ratkaisusta tiedot oikeushallinnon valtakunnallisen tietojärjestelmän ratkaisu- ja päätösilmoitusjärjestelmään tai toimittamalla tiedot Oikeusrekisterikeskukselle niiden välittämiseksi 1 momentissa tarkoitetuille viranomaisille säädetään tarvittaessa oikeusministeriön asetuksella. Merkinnän tekemiseen ja tietojen toimittamiseen sovelletaan, mitä oikeushallinnon valtakunnallisesta tietojärjestelmästä annetussa laissa ja sen nojalla säädetään.

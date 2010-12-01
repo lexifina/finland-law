@@ -1,0 +1,2 @@
+Laki tuomioistuimen velvollisuudesta ilmoittaa eräistä ratkaisuistaan
+Eduskunnan päätöksen mukaisesti säädetään:
