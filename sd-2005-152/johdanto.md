@@ -1,0 +1,2 @@
+Laki Euroopan radioviestintätoimiston (ERO) perustamista koskevan yleissopimuksen muuttamista koskevan asiakirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
