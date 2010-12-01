@@ -1,0 +1,3 @@
+# 16 §
+
+Ulosottomiehen tekemään tilitykseen perustuvan saatavan saa ulosottaa, jollei tilitykseen ole haettu muutosta, tilityksestä laaditun pöytäkirjan nojalla lainvoimaisen tuomion täytäntöönpanosta säädetyssä järjestyksessä korkolain (633/1982) mukaisine viivästyskorkoineen tilityspäivästä lukien, jos pöytäkirjassa on määrätty maksettavaksi korkoa saatavalle asianosaisen tilityshakemuksessa esittämän vaatimuksen nojalla. Ostajan saatava suoritetaan tällöin kuitenkin ensisijaisesti 4 §:n 1 momentin mukaisesta talletuksesta. Jollei tilitys ole lainvoimainen, tilitykseen perustuvan saatavan ulosmittaamisesta on voimassa, mitä ulosottolain 2 luvun 5 §:ssä säädetään.

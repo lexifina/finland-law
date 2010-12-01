@@ -1,0 +1,3 @@
+# 11 §
+
+Jos havaitaan, kun virka-apua on pyydetty maksun viivästymisen johdosta, maksuvelvollisuuden laiminlyönnin ilmeisesti johtuneen siitä, että ostaja sairauden, työttömyyden tai muun erityisen syyn vuoksi pääasiallisesti omatta syyttään on joutunut maksuvaikeuksiin, joiden voidaan olettaa olevan tilapäistä laatua, ulosottomies voi, mikäli myyjän oikeutta esineeseen ei vaaranneta tai muutoin kohtuuttomasti loukata hänen oikeuttaan, lykätä virka-avun antamisen enintään neljä kuukautta siitä päivästä lukien, jolloin virka-apua on pyydetty. Ulosottomies voi asettaa ehtoja lykkäykselle ja aiheen ilmaantuessa määrätä sen peruutuvaksi.

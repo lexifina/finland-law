@@ -1,0 +1,5 @@
+# 2 §
+
+Milloin ostaja on laiminlyönyt maksuvelvollisuutensa, älköön myyjällä sen johdosta olko oikeutta ottaa esinettä takaisin tai vaatia maksuerää, joka muuten ei ole erääntynyt, taikka saattaa voimaan muuta sopimuksessa määrättyä erityistä seuraamusta, ellei maksamatta jätetty määrä ole ollut suorittamatta vähintään neljätoista päivää erääntymispäivästä lukien ja edelleen ole maksamatta sekä tämä määrä ole vähintään kymmenesosa tai, jos siihen sisältyy kaksi tai useampia maksueriä, vähintään kahdeskymmenesosa osamaksuhinnasta tahi käsitä myyjän koko jäännössaatavaa.
+
+Myyjällä ei ole 1 momentissa mainitun määräajan päättymisestä huolimatta oikeutta siinä tarkoitetun seuraamuksen voimaan saattamiseen, mikäli sitä olisi pidettävä kohtuuttomana sen vuoksi, että suorituksen viivästyminen on johtunut maksuvaikeuksista, joihin ostaja sairauden, työttömyyden tai muun erityisen seikan vuoksi pääasiallisesti omatta syytään on joutunut ja ostaja, ennen kuin esine otetaan takaisin, suorittaa maksamatta jätetyn määrän korkoineen ja korvaa viivästyksestä aiheutuneet kulut.
