@@ -1,0 +1,2 @@
+Laki Euroopan unionin sotilaallisen kriisinhallintaoperaation EUNAVFOR Atalantan yhteydessä merirosvoudesta tai aseellisesta ryöstöstä epäiltyä koskevan rikosasian käsittelystä
+Eduskunnan päätöksen mukaisesti säädetään:
