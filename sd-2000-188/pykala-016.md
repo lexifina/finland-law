@@ -1,8 +1,6 @@
-# 16 § Säädöskokoelman ja sopimussarjan vihkoon tehtävät merkinnät
+# 16 § Säädöskokoelmaan ja sopimussarjaan tehtävät merkinnät
 Luku: 4 luku Säädöskokoelman ja sopimussarjan julkaiseminen
 
-Säädöskokoelman kunkin vihkon alussa on otsikko "Suomen säädöskokoelma" sekä sisällysluettelo, jossa mainitaan säädöksen tai tiedonannon juokseva numero ja nimike. Vihkon alkuun merkitään myös vihkon julkaisemispäivä.
+Kunkin säädöskokoelmassa tai sopimussarjassa julkaistavan asiakirjan edellä on otsikko "Suomen säädöskokoelma" tai "Suomen säädöskokoelman sopimussarja" sekä asiakirjan juokseva numero ja julkaisupäivä.
 
-Sopimussarjan kunkin vihkon alussa on otsikko "Suomen säädöskokoelman sopimussarja". Muuten vihkoon merkitään 1 momentissa tarkoitettuja tietoja vastaavat tiedot.
-
-Säädöskokoelman ja sopimussarjan vihkoon voidaan merkitä muitakin vihkon ja siinä julkaistavien säädösten, sopimusten ja tiedonantojen yksilöimiseksi tarpeellisia sekä valtiopäiväasiakirjoihin ja säädöksiin ja määräyksiin viittaavia tietoja sen mukaan kuin valtioneuvoston asetuksella säädetään. Oikeusministeriön asetuksella voidaan lisäksi antaa tarkempia säännöksiä merkintätavoista.
+Asiakirjan yhteyteen voidaan liittää muitakin sen yksilöimiseksi tarpeellisia tietoja sekä valtiopäiväasiakirjoihin, säädöksiin ja määräyksiin viittaavia tietoja. Säännökset liitettävistä tiedoista ja niiden merkitsemistavasta annetaan oikeusministeriön asetuksella.

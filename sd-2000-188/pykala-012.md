@@ -1,8 +1,6 @@
 # 12 § Julkaisemistapa
 Luku: 4 luku Säädöskokoelman ja sopimussarjan julkaiseminen
 
-Säädöskokoelmaa ja sopimussarjaa julkaistaan painettuina vihkoina.
+Säädöskokoelma ja sopimussarja julkaistaan yleisessä tietoverkossa ja pidetään siellä maksutta yleisön saatavilla.
 
-Lisäksi säädöskokoelmaa ja sopimussarjaa pidetään tietoverkossa maksutta yleisön saatavilla, ja niitä voidaan julkaista muinakin kuin 1 momentissa tarkoitettuina tallenteina.
-
-Säädöskokoelman ja sopimussarjan hakemistojen julkaisemisesta säädetään valtioneuvoston asetuksella.
+Säädöskokoelmaa ja sopimussarjaa voidaan lisäksi julkaista painettuna ja muulla tavalla tallennettuna.
