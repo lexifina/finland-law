@@ -1,0 +1,2 @@
+Vahingonkorvauslaki
+Eduskunnan päätöksen mukaisesti säädetään:
