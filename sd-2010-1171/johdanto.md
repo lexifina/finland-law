@@ -1,0 +1,2 @@
+Laki laivaväen lääkärintarkastuksista
+Eduskunnan päätöksen mukaisesti säädetään:
