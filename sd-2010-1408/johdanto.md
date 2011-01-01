@@ -1,0 +1,2 @@
+Laki selvitysmenettelystä yhteistyön edistämiseksi eräillä kaupunkiseuduilla
+Eduskunnan päätöksen mukaisesti säädetään:
