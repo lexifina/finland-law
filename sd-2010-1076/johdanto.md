@@ -1,0 +1,2 @@
+Laki Suomen keskusviranomaisesta eräissä elatusapua koskevissa kansainvälisissä asioissa
+Eduskunnan päätöksen mukaisesti säädetään:
