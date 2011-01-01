@@ -1,0 +1,3 @@
+# 7 § Kuuleminen
+
+Nuoren rikoksesta epäillyn tilanteen selvittämisen yhteydessä Rikosseuraamuslaitoksen on varattava epäillylle mahdollisuus tulla kuulluksi. Seuraamusselvitys voidaan kuitenkin laatia nuorta kuulematta, jos kuuleminen on ilmeisen tarpeetonta tai jos nuori on kieltäytynyt kuulemisesta taikka häntä ei ole tavoitettu. Alle 18-vuotiaan epäillyn huoltajalle, edunvalvojalle tai muulle lailliselle edustajalle taikka muulle henkilölle, joka vastaa epäillyn hoidosta ja kasvatuksesta, on myös varattava tilaisuus tulla kuulluksi asiassa. Selvittämisen yhteydessä on lisäksi kuultava tarvittavia viranomaisia ja asiantuntijoita.
