@@ -1,4 +1,4 @@
 # 4 § Lomituspalvelujen määrä
 Luku: 1 luku Yleiset säännökset
 
-Sosiaali- ja terveysministeriö vahvistaa kalenterivuoden aikana järjestettävien vuosilomapäivien ja lisävapaatuntien turkistuottajakohtaisen enimmäismäärän Melan esityksestä edellisen kalenterivuoden loppuun mennessä.
+Kalenterivuoden aikana järjestettävien vuosilomapäivien ja lisävapaatuntien turkistuottajakohtainen enimmäismäärä vahvistetaan sosiaali- ja terveysministeriön asetuksella edellisen kalenterivuoden loppuun mennessä. Enimmäismäärät vahvistetaan huomioiden kunakin vuonna käytettävissä oleva määräraha.
