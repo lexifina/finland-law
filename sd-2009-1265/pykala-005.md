@@ -1,6 +1,6 @@
 # 5 § Korvauksen määrä
 
-Sosiaali- ja terveysministeriö vahvistaa kalenterivuoden aikana korvattavien sijaisaputuntien enimmäismäärän poronhoitajaa kohden edellisen kalenterivuoden loppuun mennessä.
+Kalenterivuoden aikana korvattavien sijaisaputuntien enimmäismäärä poronhoitajaa kohden vahvistetaan sosiaali- ja terveysministeriön asetuksella edellisen kalenterivuoden loppuun mennessä. Enimmäismäärä vahvistetaan huomioiden kunakin vuonna käytettävissä oleva määräraha.
 
 Korvaus on samansuuruinen kuin poronhoitajalle sijaisavun järjestämisestä aiheutuneet kustannukset, kuitenkin enintään 17 euroa tunnilta.
 
