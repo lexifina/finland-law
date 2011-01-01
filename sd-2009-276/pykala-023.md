@@ -1,3 +1,3 @@
 # 23 § Muutoksenhaku
 
-Tämän lain mukaista tapaturmaturvaa ja sen järjestämistä koskevasta muutoksenhausta, päätöksen poistamisesta ja ylimääräisestä muutoksenhausta on voimassa, mitä tapaturmavakuutuslain 53, 53 a ―53 d, 53 f, 53 h ja 54 §:ssä säädetään.
+Tämän lain mukaista tapaturmaturvaa ja sen järjestämistä koskevaan muutoksenhakuun ja lainvoimaisen päätöksen poistamiseen sovelletaan, mitä tapaturmavakuutuslain 53, 53 a―53 f, 54 a ja 54 c §:ssä sekä tapaturma-asioiden muutoksenhakulautakunnasta annetussa laissa (1316/2010) säädetään.
