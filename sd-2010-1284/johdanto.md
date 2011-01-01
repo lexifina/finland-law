@@ -1,0 +1,2 @@
+Laki valtionavusta Urho Kekkosen kuntoinstituuttisäätiölle
+Eduskunnan päätöksen mukaisesti säädetään:
