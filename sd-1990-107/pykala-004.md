@@ -1,3 +1,3 @@
 # 4 §
 
-Perhe-eläketurvasta huolehtii valtiokonttori.
+Perhe-eläketurvasta huolehtii kunnallinen eläkelaitos.
