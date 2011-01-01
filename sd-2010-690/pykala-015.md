@@ -1,0 +1,8 @@
+# 15 § Rekisteröinnin edellytysten noudattamisen valvonta
+Luku: 2 luku Rekisteröintimenettely
+
+Kalastusaluksen omistaja ja haltija ovat velvollisia toimittamaan toimivaltaiselle rekisterinpitäjälle kaiken tämän pyytämän selvityksen 9―11 §:ssä säädettyjen rekisteröimisedellytysten toteutumisen selvittämiseksi ja noudattamisen valvomiseksi.
+
+Avomerialuksen haltija osoittaa tulevansa täyttämään rekisteröimistä seuraavien 12 kuukauden aikana 10 §:ssä säädetyt kalastusmatkoja koskevat edellytykset toimittamalla rekisterinpitäjälle rekisteröitävän kalastusaluksen kalastustoimintaa koskevan kirjallisen toimintasuunnitelman, josta ilmenee, että rekisteröimistä seuraavan 12 kuukauden aikana aluksen haltijana oleva tai aluksen haltijaan 10 §:n 1 momentin 1―3 kohdissa edellytetyn tavoin sidoksissa oleva luonnollinen henkilö on rekisteröitävän aluksen päällikkönä tai miehistön jäsenenä siten, että säädetyt kalastusmatkoja tai merellä olopäiviä koskevat edellytykset täyttyvät.
+
+Toimivaltainen rekisterinpitäjä tarkastaa aina avomerialuksen haltijan vaihtuessa ja muutoin vähintään kerran kalenterivuodessa, että kaikki rekisteröidyt kiintiöityjä kalalajeja kalastavat avomerialukset täyttävät rekisteröinnin edellytykset. Jos 10 §:ssä säädetyt edellytykset eivät ole täyttyneet tarkastusajankohtaa edeltävän vuoden aikana, rekisterinpitäjä keskeyttää kalastusaluksen kalastuslisenssin voimassaolon toistaiseksi 29 §:n 2 momentin mukaisesti. Jos 10 §:ssä tarkoitettujen kalastusmatkoja koskevien edellytysten täyttymättä jääminen on johtunut pitkäaikaisesta sairaudesta tai muusta siihen verrattavasta syystä, toimivaltainen rekisterinpitäjä voi pidentää vuoden tarkastelujaksoa kohtuulliseksi harkitsemallaan ajalla.
