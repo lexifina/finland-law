@@ -1,0 +1,5 @@
+# 3 § Selvitysmenettelyn käynnistäminen
+
+Valtiovarainministeriö voi käynnistää selvitysmenettelyn asettamalla yhden tai useamman kaupunkiseutuselvittäjän yhdessä seudun kuntien kanssa selvittämään, miten kuntien yhteistyönä voidaan sovittaa yhteen kaupunkiseudun maankäyttöä, asumista ja liikennettä sekä miten palveluiden käyttöä kuntarajoista riippumatta tulisi edistää. Valtiovarainministeriö voi käynnistää menettelyn, jos se on tarpeen ja sillä arvioidaan 2 momentissa tarkoitetun kuulemismenettelyn perusteella saavutettavan tuloksia seudun yhdyskuntarakenteen ja palveluiden tasapainoisen kehityksen vaatiman yhteistyön edistämiseksi. Selvitysmenettely voidaan käynnistää yhden tai useamman seudun kunnan esityksestä. Valtiovarainministeriö voi myös omasta aloitteestaan käynnistää selvitysmenettelyn.
+
+Ennen selvitysmenettelyn käynnistämistä valtiovarainministeriön tulee kuulla kaupunkiseudun kuntia, asianomaista maakunnan liittoa, ympäristöministeriötä, liikenne- ja viestintäministeriötä, työ- ja elinkeinoministeriötä, opetus- ja kulttuuriministeriötä sekä sosiaali- ja terveysministeriötä.
