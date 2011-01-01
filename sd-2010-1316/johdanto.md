@@ -1,0 +1,2 @@
+Laki tapaturma-asioiden muutoksenhakulautakunnasta
+Eduskunnan päätöksen mukaisesti säädetään:
