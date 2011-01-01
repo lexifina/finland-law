@@ -1,0 +1,2 @@
+Laki Luotsausliikelaitoksen muuttamisesta osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
