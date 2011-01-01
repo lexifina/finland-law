@@ -3,4 +3,4 @@ Luku: 3 luku Sopimussarjassa julkaistavat valtiosopimukset, säädökset ja ilmo
 
 Sopimussarjassa julkaistaan 8 ja 9 §:ssä tarkoitettujen valtiosopimusten, päätösten ja ilmoitusten lisäksi sopimussarjassa julkaistaviksi erikseen säädetyt Suomen kansainvälisiä suhteita koskevat ilmoitukset.
 
-Valtioneuvosto tai asianomainen ministeriö voi myös erikseen päättää Suomen kansainvälisiä suhteita koskevan merkitykseltään yleisen ilmoituksen julkaisemisesta sopimussarjassa.
+Valtioneuvosto tai ministeriö voi myös erikseen päättää Suomen kansainvälisiä suhteita koskevan merkitykseltään yleisen ilmoituksen tai yleisön kannalta merkittävän viranomaisten välisen kansainvälisen sopimuksen julkaisemisesta sopimussarjassa.

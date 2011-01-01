@@ -5,4 +5,4 @@ Valtioneuvosto tai asianomainen ministeriö voi erityisestä syystä päättää
 1) sopimuksen määräykset ovat yleiseltä merkitykseltään vähäisiä; tai
 2) sopimusmääräysten voimaan saattamiseksi Suomessa ei ole tarpeen antaa erillistä säädöstä.
 
-Asianomaisen ministeriön on 1 momentissa tarkoitetuissa tapauksissa pidettävä valtiosopimus tietoverkossa tai muulla tavoin yleisön saatavilla. Sopimussarjassa julkaistaan tällöin valtioneuvoston tai ministeriön ilmoitus viranomaisesta, jolta on saatavissa jäljennös valtiosopimuksesta ja joka antaa sopimuksesta tietoja suomeksi ja ruotsiksi.
+Ministeriön on 1 momentissa tarkoitetuissa tapauksissa pidettävä valtiosopimus yleisessä tietoverkossa yleisön saatavilla. Sopimussarjassa julkaistaan tällöin valtioneuvoston tai ministeriön ilmoitus valtiosopimuksen julkaisemisesta yleisessä tietoverkossa ja viranomaisesta, jolta on saatavissa jäljennös valtiosopimuksesta ja joka antaa sopimuksesta tietoja suomeksi ja ruotsiksi.
