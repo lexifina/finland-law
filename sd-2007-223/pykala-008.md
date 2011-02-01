@@ -14,3 +14,5 @@ Sopimuksessa on sovittava seuraavista seikoista:
 8) henkilöstön koulutuksesta ja tehtävien vaatimasta tiedollisesta ja teknisestä tuesta;
 9) sopimuksen voimassaolosta ja irtisanomisesta; sekä
 10) muista mahdollisista yhteispalvelun järjestämiseen liittyvistä käytännön seikoista.
+
+Yhteispalvelusopimuksista on pidettävä rekisteriä, johon talletetaan tiedot sopimuksen osapuolista, yhteispalvelupisteen sijaintipaikasta, sen palveluvalikoimasta ja sopimuksen voimassaoloajasta sekä muut vastaavat sopimusten seurannan edellyttämät tiedot. Rekisterinpitäjänä toimivasta aluehallintovirastosta säädetään valtioneuvoston asetuksella. Yhteispalvelun toimeksisaajan on ilmoitettava aluehallintovirastolle tiedot yhteispalvelusopimuksen tekemisestä, muuttamisesta ja päättymisestä kuukauden kuluessa edellä mainitusta tapahtumasta.
