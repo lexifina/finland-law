@@ -1,0 +1,2 @@
+Laki lasten oikeuksien käyttöä koskevan eurooppalaisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
