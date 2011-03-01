@@ -1,0 +1,2 @@
+Riistahallintolaki
+Eduskunnan päätöksen mukaisesti säädetään:
