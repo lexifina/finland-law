@@ -1,5 +1,9 @@
 # 4 §
 
-Hirvieläimen metsästykseen tarvittavasta metsästyslain 10 §:ssä tarkoitetusta pyyntiluvasta on luvan saajan suoritettava kultakin kaadetulta hirvieläimeltä valtiolle maksu (pyyntilupamaksu). Maksu on suoritettava viimeistään seitsemän päivän kuluttua hirvieläimen metsästyskauden päättymisestä sen mukaan kuin asetuksella säädetään.
+Metsästyslain 26 §:ssä tarkoitetusta hirvieläimen pyyntiluvasta on suoritettava maksu (pyyntilupamaksu) valtiolle. Pyyntilupamaksu suoritetaan kultakin kaadetulta hirvieläimeltä. Luvan saajan on suoritettava pyyntilupamaksu viimeistään seitsemän päivän kuluttua hirvieläimen metsästyskauden päättymisestä sen mukaan kuin valtioneuvoston asetuksella säädetään.
 
-Pyyntilupamaksun suuruus on enintään 135 euroa, ja maksun vahvistaa valtioneuvosto.
+Pyyntilupamaksun suuruus on:
+1) aikuisesta hirvestä 120 euroa;
+2) hirvenvasasta 50 euroa;
+3) aikuisesta kuusipeurasta, saksanhirvestä, japaninpeurasta, valkohäntäpeurasta ja metsäpeurasta 17 euroa;
+4) kuusipeuran, saksanhirven, japaninpeuran, valkohäntäpeuran ja metsäpeuran vasasta 8 euroa.
