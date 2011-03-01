@@ -1,0 +1,2 @@
+Laki toimivallasta, sovellettavasta laista, toimenpiteiden tunnustamisesta ja täytäntöönpanosta sekä yhteistyöstä vanhempainvastuuseen ja lasten suojeluun liittyvissä asioissa tehdyn yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
