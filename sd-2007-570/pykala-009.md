@@ -3,7 +3,7 @@ Luku: 2 luku Vammaisetuudet
 
 Oikeus hoitotukeen on 16 vuotta täyttäneellä henkilöllä, joka saa:
 1) kansaneläkelain (568/2007) perusteella työkyvyttömyyseläkettä, vanhuuseläkettä tai vanhuuseläkettä varhennettuna;
-2) työntekijän eläkelain (395/2006) 3 §:ssä tarkoitettujen lakien, kansanedustajain eläkelain (329/1967), valtioneuvoston jäsenen oikeudesta eläkkeeseen ja hänen jälkeensä suoritettavasta perhe-eläkkeestä annetun lain (870/1977) mukaista täyttä työkyvyttömyyseläkettä, vanhuuseläkettä tai varhennettua vanhuuseläkettä;
+2) työntekijän eläkelain (395/2006) 3 §:ssä tarkoitettujen lakien, kansanedustajan eläkkeestä ja sopeutumisrahasta annetun lain (329/1967) tai valtioneuvoston jäsenen oikeudesta eläkkeeseen ja hänen jälkeensä suoritettavasta perhe-eläkkeestä annetun lain (870/1977) mukaista täyttä työkyvyttömyyseläkettä, vanhuuseläkettä tai varhennettua vanhuuseläkettä;
 3) takuueläkkeestä annetun lain (703/2010) mukaista takuueläkettä;
 4) täyden työkyvyttömyyden perusteella maksettavaa lakisääteisen tapaturmavakuutuksen, sotilastapaturmalain (1211/1990), sotilasvammalain (404/1948) taikka liikennevakuutusta koskevan lainsäädännön mukaista jatkuvaa tapaturmaeläkettä, elinkorkoa, työkyvyttömyyseläkettä tai sellaista ansionmenetyksen korvausta, jota maksetaan, kun liikennevahingon sattumisesta on kulunut vuosi;
 4 a) tapaturmavakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain (625/1991) mukaista jatkuvaa tapaturmaeläkettä tai elinkorkoa taikka liikennevakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain (626/1991) mukaista jatkuvaa työkyvyttömyyseläkettä tai ansiomenetyskorvausta, viimeksi mainittua kuitenkin vasta vuoden kuluttua vahingon sattumisesta; tai
