@@ -1,0 +1,2 @@
+Laki avopuolisoiden yhteistalouden purkamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
