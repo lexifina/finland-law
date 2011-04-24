@@ -1,0 +1,2 @@
+Laki Kansainvälisen rikostuomioistuimen tuomioiden täytäntöönpanosta Kansainvälisen rikostuomioistuimen kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
