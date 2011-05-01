@@ -1,0 +1,4 @@
+# 45 § Erikoissairaanhoidon keskittäminen
+Luku: 5 luku Erityisvastuualue
+
+Osa erityistason sairaanhoitoon kuuluvista toimenpiteistä ja hoidosta voidaan keskittää valtakunnallisesti joillekin erityisvastuualueille. Valtioneuvoston asetuksella säädetään siitä, mitkä tutkimukset, toimenpiteet ja hoidot kuuluvat erityistason sairaanhoitoon. Valtioneuvoston asetuksella säädetään lisäksi valtakunnallisesta ja alueellisesta erityistason sairaanhoidon keskittämisestä ja niistä kunnallisen terveydenhuollon toimintayksiköistä, joiden on vastattava keskitettävästä erityistason sairaanhoidosta. Jos valtakunnallisesti keskitettävät erityistason sairaanhoidon palvelut on tarkoituksenmukaisinta hankkia yksityiseltä palvelujen tuottajalta tai ulkomailta, voidaan valtioneuvoston asetuksella määritellä palvelujen tuottajan toiminnalle asetettavat laatuvaatimukset ja muut hoidon asianmukaisuuden varmistamiseksi asetettavat vaatimukset.

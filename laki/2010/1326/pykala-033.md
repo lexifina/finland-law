@@ -1,0 +1,8 @@
+# 33 § Perusterveydenhuollon ja erikoissairaanhoidon yhteistyö
+Luku: 4 luku Terveydenhuollon yhteistyö ja alueelliset palvelut
+
+Sairaanhoitopiirin kuntayhtymä vastaa alueellaan erikoissairaanhoidon palvelujen yhteensovittamisesta väestön ja perusterveydenhuollon tarpeiden mukaisesti. Sairaanhoitopiirin kuntayhtymä on velvollinen yhteistyössä perusterveydenhuollosta vastaavan kunnan kanssa suunnittelemaan ja kehittämään erikoissairaanhoitoa siten, että perusterveydenhuolto ja erikoissairaanhoito muodostavat toiminnallisen kokonaisuuden. Kokonaisuudessa on huomioitava erikoissairaanhoidon palvelujen tarjoaminen tarkoituksenmukaisesti perusterveydenhuollon yhteydessä sekä erikoissairaanhoidon yksiköissä.
+
+Sairaanhoitopiirin kuntayhtymän on annettava alueensa terveyskeskuksille niiden tarvitsemia sellaisia erikoissairaanhoidon palveluja, joita perusterveydenhuollon ei ole tarkoituksenmukaista tuottaa sekä vastattava kunnallisen terveydenhuollon tuottamien laboratorio- ja kuvantamispalvelujen, lääkinnällisen kuntoutuksen sekä muiden vastaavien erityispalvelujen kehittämisen ohjauksesta ja laadun valvonnasta.
+
+Lisäksi sairaanhoitopiirin kuntayhtymä vastaa alueellaan tehtäväalansa tutkimus-, kehittämis- ja koulutustoiminnasta sekä kunnallisen terveydenhuollon tietojärjestelmien yhteensovittamisesta. Sairaanhoitopiirin kuntayhtymä vastaa alueellaan erikoissairaanhoidon järjestämisestä yhtenäisin lääketieteellisin ja hammaslääketieteellisin perustein.

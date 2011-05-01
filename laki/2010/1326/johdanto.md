@@ -1,0 +1,2 @@
+Terveydenhuoltolaki
+Eduskunnan päätöksen mukaisesti säädetään:
