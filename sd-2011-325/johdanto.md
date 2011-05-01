@@ -1,0 +1,2 @@
+Laki Sipoonkorven kansallispuistosta
+Eduskunnan päätöksen mukaisesti säädetään:
