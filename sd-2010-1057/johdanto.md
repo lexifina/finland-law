@@ -1,0 +1,2 @@
+Laki teollismallien kansainvälistä rekisteröintiä koskevaan Haagin sopimuksen Geneven asiakirjan ja sen täytäntöönpanomääräysten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
