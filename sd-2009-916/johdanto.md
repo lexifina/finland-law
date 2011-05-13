@@ -1,0 +1,2 @@
+Laki eräiden Brittiläisten Neitsytsaarien kanssa tuloverotuksesta tehtyjen sopimusten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
