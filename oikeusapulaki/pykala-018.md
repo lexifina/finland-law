@@ -9,6 +9,6 @@ Jos oikeusapua on haettu ennen asian ratkaisemista tuomioistuimessa, mutta oikeu
 
 Todistajalle ja oikeusapua saaneelle tulevien korvausten määräämisestä sekä niiden ja muiden todistelukustannusten suorittamisesta ja muutoksenhakemisesta korvauksen määrää koskevaan ratkaisuun on voimassa, mitä tuomioistuimessa kuullulle todistajalle valtion varoista maksettavista korvauksista säädetään.
 
-Virallinen syyttäjä voi niissä asioissa, joissa hän on toiminut syyttäjänä, hakea muutosta avustajan palkkion ja korvauksen määrää koskeviin ratkaisuihin.
+Syyttäjä voi niissä asioissa, joissa hän on toiminut syyttäjänä, hakea muutosta avustajan palkkion ja korvauksen määrää koskeviin ratkaisuihin.
 
 Oikeusaputoimisto määrää avustajalle ja tulkille maksettavan palkkion ja korvauksen asioissa, joita ei käsitellä tuomioistuimessa.
