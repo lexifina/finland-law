@@ -1,5 +1,3 @@
-# 5 § Asian selvittäminen
+# 5 § Valvottavan kuuleminen
 
-Kantelun johdosta tai muutoin oikeuskanslerin käsiteltäväksi tulleessa asiassa hankitaan oikeuskanslerin tarpeelliseksi katsoma selvitys.
-
-Jos on syytä olettaa, että asia saattaa antaa aihetta oikeuskanslerin toimenpiteeseen, asianomaiselle valvontavaltaan kuuluvalle henkilölle, viranomaiselle tai muulle yhteisölle on varattava tilaisuus tulla kuulluksi.
+Jos on syytä olettaa, että asia saattaa antaa aihetta arvostella valvottavan menettelyä, oikeuskanslerin on ennen asian ratkaisemista varattava valvottavalle tilaisuus tulla asian johdosta kuulluksi.

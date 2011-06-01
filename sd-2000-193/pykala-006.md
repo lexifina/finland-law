@@ -1,4 +1,4 @@
-# 6 § Toimenpiteet
+# 6 § Seuraamukset
 
 Jos virkamies, julkisyhteisön työntekijä tai muu henkilö julkista tehtävää hoitaessaan on menetellyt lainvastaisesti tai jättänyt velvollisuutensa täyttämättä, oikeuskansleri voi antaa asianomaiselle huomautuksen vastaisen varalle, mikäli hän ei harkitse olevan aihetta syytteen nostamiseen. Huomautus voidaan antaa myös viranomaiselle tai muulle yhteisölle.
 
