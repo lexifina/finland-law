@@ -1,0 +1,2 @@
+Laki veroasioissa annettavaa keskinäistä virka-apua koskevan yleissopimuksen muuttamisesta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
