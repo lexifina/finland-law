@@ -1,0 +1,2 @@
+Laki sotilasilmailuonnettomuuksien tutkinnasta
+Eduskunnan päätöksen mukaisesti säädetään:
