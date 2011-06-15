@@ -5,17 +5,10 @@ Eurooppalaisella yritysneuvostolla on oikeus kokoontua vähintään kerran vuode
 
 Keskushallinnon on tiedotettava kokouksesta yhteisönlaajuisen yritysryhmän tai yrityksen muiden yritysten tai toimintayksiköiden johdolle.
 
-Säännöllisissä kokouksissa on käsiteltävä erityisesti seuraavat asiat:
-1) yritysryhmän tai yrityksen rakenne;
-2) yritysryhmän tai yrityksen talous- ja rahoitustilanne;
-3) yritysryhmän tai yrityksen toiminnan, tuotannon ja myynnin kehitysnäkymät;
-4) työllistämistilanne ja sen kehitysnäkymät;
-5) investointiohjelma tai -ohjelmat;
-6) merkittävät organisaatiomuutokset;
-7) uusien työ- ja tuotantomenetelmien käyttöönotto;
-8) tuotannon siirrot;
-9) sulautumiset;
-10) yritysten tai toimintayksiköiden taikka niiden merkittävien osien tuotannon supistaminen tai lakkauttaminen; ja
-11) työntekijöiden joukkovähentämistä koskevan jäsenvaltioiden lainsäädännön lähentämisestä annetussa neuvoston direktiivissä 98/59/EY tarkoitetut työntekijöiden vähentämiset sen mukaisesti kuin yhteisönlaajuiseen yritysryhmään kuuluvan kunkin yrityksen tai yrityksen kunkin toimintayksikön sijaintivaltion kansallisessa laissa säädetään.
+Eurooppalaiselle yritysneuvostolle on tiedotettava erityisesti yhteisönlaajuisen yrityksen tai yritysryhmän rakenteesta, talous- ja rahoitustilanteesta sekä toiminnan, tuotannon ja myynnin kehitysnäkymistä.
+
+Eurooppalaiselle yritysneuvostolle tiedottaminen ja sen kuuleminen koskevat erityisesti työvoimatilannetta ja sen kehitysnäkymiä, investointeja, merkittäviä organisaatiomuutoksia, uusien työ- ja tuotantomenetelmien käyttöönottoa, tuotannon siirtoja, sulautumisia, yritysten, toimintayksiköiden tai niiden merkittävien osien tuotannon supistamista tai lakkauttamista sekä, sen mukaisesti kuin kunkin yhteisönlaajuiseen yritysryhmään kuuluvan yrityksen tai kunkin yrityksen toimintayksikön sijaintivaltion kansallisessa laissa säädetään, työntekijöiden joukkovähentämistä koskevan jäsenvaltioiden lainsäädännön lähentämisestä annetussa neuvoston direktiivissä 98/59/EY tarkoitettuja työntekijöiden vähentämisiä.
+
+Kuuleminen on toteutettava siten, että työntekijöiden edustajat voivat kokoontua keskushallinnon kanssa ja saada perustellun vastauksen kaikkiin esittämiinsä lausuntoihin.
 
 Ennen säännöllistä kokousta eurooppalaisen yritysneuvoston jäsenillä on oikeus kokoontua keskenään.
