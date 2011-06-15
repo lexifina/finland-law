@@ -3,4 +3,4 @@ Luku: 3 luku Yhteistoiminta yhteisönlaajuisessa yritysryhmässä ja yrityksess�
 
 Yritysneuvosto vahvistaa itselleen työjärjestyksen.
 
-Yritysneuvosto voi valita keskuudestaan enintään kolmijäsenisen työvaliokunnan, jos yritysneuvoston jäsenmäärä tätä edellyttää.
+Yritysneuvosto valitsee keskuudestaan enintään viisijäsenisen työvaliokunnan, joka vahvistaa työjärjestyksensä ja jolla on oltava mahdollisuudet toimia säännöllisesti.
