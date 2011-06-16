@@ -1,0 +1,2 @@
+Laki kansainvälisen järjestäytyneen rikollisuuden vastaisen Yhdistyneiden Kansakuntien yleissopimuksen ampuma-aseiden, niiden osien ja komponenttien sekä ampumatarvikkeiden laittoman valmistuksen ja kaupan torjumista koskevan lisäpöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
