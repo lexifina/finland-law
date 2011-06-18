@@ -1,0 +1,2 @@
+Laki elatusvelvoitteita koskevan neuvoston asetuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
