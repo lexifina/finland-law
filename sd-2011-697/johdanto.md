@@ -1,0 +1,2 @@
+Laki eräiden Suomeen tuotavien näyttelyesineiden takavarikoinnin kieltämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
