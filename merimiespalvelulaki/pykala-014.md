@@ -1,7 +1,7 @@
 # 14 § Edustajiston puheenjohtaja ja edustajiston täydentäminen
 Luku: 3 luku Merimiespalvelutoimiston hallinto
 
-Työministeriö määrää edustajiston puheenjohtajan ja varapuheenjohtajan ministeriöitä edustavista jäsenistä.
+Työ- ja elinkeinoministeriö määrää edustajiston puheenjohtajan ja varapuheenjohtajan ministeriöitä edustavista jäsenistä.
 
 Edustajiston jäsen ja varajäsen voidaan erityisestä syystä vapauttaa tehtävästään kesken toimikauden.
 
