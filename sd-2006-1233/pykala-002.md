@@ -8,4 +8,4 @@ Rakentamisessa ja rakentamiseen liittyvässä korjaus-, hoito- ja kunnossapitoto
 1) rakennuttajina toimiviin tilaajiin;
 2) sopimusketjussa kaikkiin työturvallisuuslain (738/2002) 49 §:ssä tarkoitetulla yhteisellä työpaikalla työsuorituksen sisältämän kokonaisuuden tilaajina toimiviin.
 
-Tätä lakia ei sovelleta, kun kauppamerenkulkua harjoittavan yrityksen alus on Suomen rajojen ulkopuolella. Suomalaisessa aluksessa tulee kuitenkin soveltaa tätä lakia merimieslain (423/1978) soveltamisalan piirissä oleviin töihin myös Suomen rajojen ulkopuolella.
+Tätä lakia ei sovelleta, kun kauppamerenkulkua harjoittavan yrityksen alus on Suomen rajojen ulkopuolella. Suomalaisessa aluksessa tulee kuitenkin soveltaa tätä lakia merityösopimuslain (756/2011) soveltamisalan piirissä oleviin töihin myös Suomen rajojen ulkopuolella.
