@@ -2,7 +2,7 @@
 Luku: 4 luku Opiskelijan oikeudet ja velvollisuudet
 
 Koulutuskeskuksen johtaja voi, jollei suullista huomautusta katsota riittäväksi seuraamukseksi, antaa tutkintoon johtavassa koulutuksessa opiskelevalle kirjallisen varoituksen, jos tämä:
-1) on käyttäytynyt koulutuksen aikana Vankeinhoitolaitoksen virkamiehelle sopimattomalla tavalla;
+1) on käyttäytynyt koulutuksen aikana Rikosseuraamuslaitoksen virkamiehelle sopimattomalla tavalla,
 2) on laiminlyönyt opetukseen osallistumisen; tai
 3) on rikkonut koulutuskeskuksen järjestyssääntöä.
 
