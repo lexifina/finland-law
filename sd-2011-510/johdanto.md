@@ -1,0 +1,2 @@
+Laki Euroopan neuvoston tietoverkkorikollisuutta koskevan yleissopimuksen lisäpöytäkirjan, joka koskee tietojärjestelmien välityksellä tehtyjen luonteeltaan rasististen ja muukalaisvihamielisten tekojen kriminalisointia, lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
