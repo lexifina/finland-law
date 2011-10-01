@@ -1,0 +1,2 @@
+Laki lasten suojelemisesta seksuaalista riistoa ja seksuaalista hyväksikäyttöä vastaan tehdyn Euroopan neuvoston yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
