@@ -1,6 +1,6 @@
 # 8 §
 
-Osakaskunnan kokouksessa kullakin osakkaalla on osuuttaan vastaava äänioikeus. Kokouksen puheenjohtajaa valittaessa on kuitenkin jokaisella osakkaalla yksi ääni ja, jos osakaskunnan kokouksessa osanottajat yksimielisesti siitä sopivat, voidaan asianomaisessa kokouksessa muutkin päätökset tehdä siten.
+Osakaskunnan kokouksessa kullakin osakkaalla on osuuttaan vastaava äänioikeus. Kokouksen puheenjohtajaa valittaessa ja äänestysluetteloa hyväksyttäessä on kuitenkin jokaisella kokoukseen osaa ottavalla yksi ääni. Myös muut päätökset kokouksessa voidaan tehdä näin, jos kokouksen osanottajat siitä yksimielisesti sopivat.
 
 Yhteisomistuksessa olevan kiinteistön osalta äänioikeutta käyttävät saapuvilla olevat yhteisomistajat yhteisesti. Jolleivät saapuvilla olevat yhteisomistajat ole käsiteltävästä asiasta yksimielisiä, kullakin yhteisomistajalla on vain omistamaansa osuutta vastaava äänioikeus.
 
