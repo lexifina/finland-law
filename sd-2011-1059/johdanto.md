@@ -1,0 +1,2 @@
+Laki Belgian kuningaskunnan, Saksan liittotasavallan, Viron tasavallan, Irlannin, Helleenien tasavallan, Espanjan kuningaskunnan, Ranskan tasavallan, Italian tasavallan, Kyproksen tasavallan, Luxemburgin suurherttuakunnan, Maltan tasavallan, Alankomaiden kuningaskunnan, Itävallan tasavallan, Portugalin tasavallan, Slovenian tasavallan, Slovakian tasavallan, Suomen tasavallan ja Euroopan rahoitusvakausvälineen välisen ERVV-puitesopimuksen muuttamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
