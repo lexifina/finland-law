@@ -8,4 +8,4 @@ Jollei tässä laissa toisin säädetä, luovuttamisesta ja säilöön ottamisen
 3) Pirkanmaan käräjäoikeus, jos luovutettavaksi pyydetty on otettu kiinni tai muuten tavoitettu Turun tai Vaasan hovioikeuden tuomiopiirin alueella;
 4) Pohjois-Savon käräjäoikeus, jos luovutettavaksi pyydetty on otettu kiinni tai muuten tavoitettu Itä-Suomen hovioikeuden tuomiopiirin alueella.
 
-Erityisestä syystä 1 momentissa mainittu käräjäoikeus voi päättää luovuttamisesta ja säilöön ottamisen voimassa pitämisestä siitä riippumatta, minkä hovioikeuden tuomiopiirin alueella luovutettavaksi pyydetty on otettu kiinni tai muuten tavoitettu.
+Riippumatta siitä, minkä hovioikeuden tuomiopiirin alueella luovutettavaksi pyydetty on otettu kiinni tai muuten tavoitettu, luovuttamisesta ja säilöön ottamisen pitämisestä voimassa voi päättää se 1 momentissa mainittu käräjäoikeus, jossa luovuttamisasian käsittelyä luovutettavaksi pyydetyn kuljettamiseen, hänen säilössä pitämiseensä tai muihin olosuhteisiin nähden on pidettävä tarkoituksenmukaisena.
