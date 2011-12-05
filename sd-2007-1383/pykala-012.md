@@ -5,4 +5,4 @@ Pyyntö on tehtävä suomen, ruotsin tai englannin kielellä taikka siihen on li
 
 Suomen toimivaltainen viranomainen voi täyttää pyynnön, vaikka pyyntö on tehty jollakin muulla kuin suomen, ruotsin tai englannin kielellä, jollei pyynnön täyttämiselle muutoin ole estettä.
 
-Jos pyyntö on tehty muulla kuin suomen tai ruotsin kielellä, keskusrikospoliisin tulee huolehtia pyynnön kääntämisestä suomen tai ruotsin kielelle.
+Jos pyyntö on tehty muulla kuin suomen tai ruotsin kielellä, keskusrikospoliisin tulee huolehtia pyynnön kääntämisestä luovuttamisasian käsittelyssä käytettävälle suomen tai ruotsin kielelle.
