@@ -1,0 +1,2 @@
+Laki Euroopan unionista tehtyyn sopimukseen, Euroopan unionin toiminnasta tehtyyn sopimukseen ja Euroopan atomienergiayhteisön perustamissopimukseen liitetyn siirtymämääräyksistä tehdyn pöytäkirjan muuttamisesta tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
