@@ -1,3 +1,3 @@
 # 7 § Liikenneyrittäjäkoulutuksen valvonta
 
-Liikenteen turvallisuusvirasto valvoo liikenneyrittäjäkoulutuksen järjestämistä. Virastolla on oikeus tehdä tarkastuksia paikoissa, joissa toimiluvan haltijat antavat tämän lain mukaista liikenneyrittäjäkoulutusta. Tarkastusta ei kuitenkaan saa suorittaa kotirauhan piiriin kuuluvassa paikassa.
+Liikenteen turvallisuusviraston tulee säännöllisesti valvoa liikenneyrittäjäkoulutuksen järjestämistä maantieliikenteen harjoittajan ammatin harjoittamisen edellytyksiä koskevista yhteisistä säännöistä ja neuvoston direktiivin 96/26/EY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1071/2009 edellyttämällä tavalla. Virastolla on oikeus tehdä tarkastuksia paikoissa, joissa toimiluvan haltijat antavat tämän lain mukaista liikenneyrittäjäkoulutusta. Tarkastuksia ei kuitenkaan saa suorittaa pysyväisluonteiseen asumiseen käytettävissä tiloissa.
