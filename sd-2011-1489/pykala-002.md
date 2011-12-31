@@ -1,0 +1,3 @@
+# 2 § Rangaistussäännös
+
+Joka 1 §:ssä tarkoitetussa toiminnassa tahallaan laiminlyö noudattaa, mitä euron väärentämisen torjunnan edellyttämistä toimenpiteistä annetun neuvoston asetuksen (EY) N:o 1338/2001 6 artiklan 1 kohdassa, sellaisena kuin se on neuvoston asetuksessa (EY) N:o 44/2009, säädetään velvollisuudesta varmistaa eurosetelien ja -metallirahojen aitous ja huolehtia väärennösten havaitsemisesta sekä velvollisuudesta poistaa liikkeestä väärät eurosetelit ja -metallirahat ja toimittaa ne viranomaisille, on tuomittava väärän rahan tunnistamisvelvollisuuden rikkomisesta sakkoon, jollei teko ole vähäinen tai siitä muualla laissa säädetä ankarampaa rangaistusta.

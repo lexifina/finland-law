@@ -1,0 +1,2 @@
+Laki euron väärentämisen torjunnan edellyttämistä toimenpiteistä annetussa neuvoston asetuksessa säädetyn velvollisuuden laiminlyönnin rangaistavuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
