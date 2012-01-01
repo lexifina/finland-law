@@ -1,0 +1,2 @@
+Laki valtion osuudesta terveydenhuollon valtakunnallisten tietojärjestelmäpalvelujen kustannuksista
+Eduskunnan päätöksen mukaisesti säädetään:
