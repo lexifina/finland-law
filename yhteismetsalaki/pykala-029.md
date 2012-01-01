@@ -6,3 +6,5 @@ Kultakin tilikaudelta on laadittava tilinpäätös, joka käsittää tuloslaskel
 Edellä 1 momentissa mainitut asiakirjat on annettava tilintarkastajille vähintään kuukautta ennen sitä varsinaista osakaskunnan kokousta, jossa tilinpäätös on vahvistettava.
 
 Tilinpäätös voidaan vahvistaa ja vastuuvapaus myöntää sen jälkeen, kun tilintarkastajien kirjallinen lausunto on esitetty osakaskunnan kokoukselle.
+
+Osakaskunnan kokouksen käsittelemä tilinpäätös ja mahdollinen tilintarkastuskertomus on lähetettävä viipymättä tiedoksi 47 §:ssä tarkoitetulle Suomen metsäkeskuksen alueyksikölle.
