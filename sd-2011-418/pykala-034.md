@@ -1,0 +1,6 @@
+# 34 § Varoja, velkoja, sopimuksia, velvoitteita ja sitoumuksia koskeva siirtymäsäännös
+Luku: 9 luku Voimaantulo
+
+Tämän lain tullessa voimaan kumottavassa laissa tarkoitetut metsäkeskukset yhdistyvät metsäkeskukseksi. Metsäkeskukselle siirtyvät kaikki kumottavan lain mukaisten metsäkeskusten varat ja velat sekä sopimukset ja muut sitoumukset samoin kuin niistä johtuvat tai muut oikeudet ja velvoitteet. Metsäkeskukselle siirtyy se osa kehittämiskeskuksen varoista, veloista, sopimuksista, velvoitteista ja oikeuksista, joka liittyy Suomen metsäkeskuksen metsätietojärjestelmästä annetussa laissa tarkoitettujen tehtävien hoitamiseen sekä metsäkeskuksen tietohallinnon ja tietojärjestelmien kehittämiseen ja ylläpitoon. Omaisuuden siirtymisestä säädetään tarvittaessa tarkemmin valtioneuvoston asetuksella. Metsäkeskukselle siirtyvät myös sellaiset kehittämiskeskuksen tekemät sopimukset ja muut sitoumukset samoin kuin niistä johtuvat oikeudet ja velvollisuudet, jotka sopimuksen, toimeksiannon tai muun vastaavan syyn perusteella liittyvät kumottavan lain mukaisten metsäkeskusten toimintaan tai jotka kehittämiskeskus on tehnyt näiden puolesta.
+
+Jos syntyy erimielisyyttä varojen, velkojen, sopimusten, velvoitteiden ja oikeuksien siirtymisestä, maa- ja metsätalousministeriö ratkaisee asian.
