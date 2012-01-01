@@ -1,7 +1,7 @@
 # 3 § Suhde muuhun lainsäädäntöön
 Luku: 1 luku Yleiset säännökset
 
-Vesistöpatoihin sovelletaan tämän lain lisäksi, mitä vesilaissa (264/1961) ja sen nojalla säädetään vesistöön rakentamisesta.
+Vesistöpatoihin sovelletaan tämän lain lisäksi, mitä vesilaissa (587/2011) ja sen nojalla säädetään vesistöön rakentamisesta.
 
 Jätepatoihin sovelletaan tämän lain lisäksi, mitä ympäristönsuojelulaissa (86/2000) ja sen nojalla säädetään ympäristön pilaantumisen ehkäisemisestä sekä jätelaissa (1072/1993) ja sen nojalla säädetään jätteistä terveydelle ja ympäristölle aiheutuvan vaaran ehkäisemisestä ja torjumisesta.
 
