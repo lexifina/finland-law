@@ -1,3 +1,5 @@
-# 1 § Euroopan yhteisöjen ratkaisujen täytäntöönpano
+# 1 § Euroopan unionin toimielinten ja elinten ratkaisujen täytäntöönpano
 
-Sellainen tuomio ja päätös, joka on Euroopan yhteisön perustamissopimuksen 108 a artiklan 2 kohdan 3 ja 4 alakohdan, 187 tai 192 artiklan, Euroopan hiili- ja teräsyhteisön perustamissopimuksen 44 tai 92 artiklan taikka Euroopan atomienergiayhteisön perustamissopimuksen 18 artiklan kolmannen kohdan, 159 tai 164 artiklan nojalla täytäntöönpanokelpoinen, pannaan Suomessa täytäntöön siten kuin Suomen tuomioistuimen riita-asiassa antama tuomio, joka on saanut lainvoiman.
+Tuomio ja päätös, joka on Euroopan unionin toiminnasta tehdyn sopimuksen 280 artiklan tai 299 artiklan taikka Euroopan atomienergiayhteisön perustamissopimuksen 18 artiklan kolmannen kohdan nojalla täytäntöönpanokelpoinen, pannaan Suomessa täytäntöön siten kuin Suomen tuomioistuimen riita-asiassa antama tuomio, joka on saanut lainvoiman.
+
+Päätös, joka on yhteisön tavaramerkistä annetun neuvoston asetuksen (EY) N:o 207/2009 86 artiklan 1 kohdan tai yhteisömallista annetun neuvoston asetuksen (EY) N:o 6/2002 71 artiklan 1 kohdan taikka yhteisön kasvinjalostajanoikeuksista annetun neuvoston asetuksen (EY) N:o 2100/94 86 artiklan 1 kohdan nojalla täytäntöönpanokelpoinen, pannaan Suomessa täytäntöön siten kuin 1 momentissa säädetään.
