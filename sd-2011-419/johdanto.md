@@ -1,0 +1,2 @@
+Laki Suomen metsäkeskuksen metsätietojärjestelmästä
+Eduskunnan päätöksen mukaisesti säädetään:
