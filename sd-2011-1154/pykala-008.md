@@ -1,0 +1,6 @@
+# 8 § Valmistajan velvollisuus ryhtyä toimenpiteisiin, antaa tietoja lain noudattamisen valvonnasta vastaavalle viranomaiselle sekä tehdä yhteistyötä tämän viranomaisen kanssa
+Luku: 2 luku Elinkeinonharjoittajien velvollisuudet
+
+Valmistajan, jonka on syytä uskoa, että lelu, jonka hän on saattanut markkinoille, ei ole tämän lain tai leluun sovellettavan muun lainsäädännön vaatimusten mukainen, on viipymättä saatettava lelu vaatimusten mukaiseksi, poistettava se markkinoilta tai saatava loppukäyttäjä palauttamaan lelu. Jos lelu saattaa aiheuttaa vaaran, valmistajan on viipymättä tiedotettava asiasta tämän lain noudattamisen valvonnasta vastaavalle viranomaiselle ja ilmoitettava yksityiskohtaiset tiedot erityisesti vaatimustenvastaisuudesta ja kaikista valmistajan toteuttamista toimenpiteistä.
+
+Valmistajan on tämän lain noudattamisen valvonnasta vastaavan viranomaisen perustellusta pyynnöstä annettava tälle kaikki tiedot ja asiakirjat, jotka ovat tarpeen lelun vaatimustenmukaisuuden osoittamiseksi. Tiedot on annettava suomeksi tai ruotsiksi taikka muulla kielellä, jonka valvontaviranomainen hyväksyy. Valmistajan on tehtävä pyynnöstä yhteistyötä tämän lain noudattamisen valvonnasta vastaavan viranomaisen kanssa markkinoille saattamansa lelun aiheuttamien riskien poistamiseksi.

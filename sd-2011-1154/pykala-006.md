@@ -1,0 +1,4 @@
+# 6 § Valmistajan velvollisuus varmistaa sarjatuotannon jatkuva vaatimustenmukaisuus
+Luku: 2 luku Elinkeinonharjoittajien velvollisuudet
+
+Valmistajan on huolehdittava siitä, että sarjatuotannossa valmistettu lelu on vaatimusten mukainen. Muutokset lelun suunnittelussa tai ominaisuuksissa ja muutokset yhdenmukaistetuissa standardeissa, joiden mukaisia lelun vakuutetaan olevan, on otettava asianmukaisesti huomioon. Valmistajan on, silloin kun hän katsoo tämän aiheelliseksi lelun aiheuttamien riskien vuoksi, testattava kuluttajien terveyden ja turvallisuuden suojelemiseksi näyte kaupan pidetystä lelusta. Valmistajan on tutkittava ja pidettävä kirjaa valituksista, leluista, jotka eivät täytä vaatimuksia, ja lelujen palautusmenettelyistä sekä tiedotettava jakelijoille kaikista tuloksista, joita näiden toimenpiteiden avulla on saatu.
