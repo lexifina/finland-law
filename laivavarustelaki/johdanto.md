@@ -1,0 +1,2 @@
+Laivavarustelaki
+Eduskunnan päätöksen mukaisesti säädetään:
