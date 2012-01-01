@@ -1,14 +1,17 @@
 # 2 § Muutoksenhakulautakunnan puheenjohtajat ja jäsenet
 Luku: 1 luku Työeläkeasioiden muutoksenhakulautakunnan tehtävä ja jäsenet
 
-Muutoksenhakulautakunnassa on päätoiminen puheenjohtaja ja kuusi sivutoimista varapuheenjohtajaa. Päätoiminen puheenjohtaja johtaa muutoksenhakulautakuntaa ja vastaa sen toiminnasta, valvoo laintulkinnan yhdenmukaisuutta lautakunnan ratkaisuissa sekä vastaa muutoksenhakulautakunnan hallinnollisista asioista työjärjestyksessä tarkemmin määrätyllä tavalla. Puheenjohtajalla ja varapuheenjohtajilla tulee olla tuomarin viran hoitamiseen oikeuttava tutkinto ja heidän tulee olla perehtyneitä muutoksenhakulautakunnassa käsiteltäviin etuusjärjestelmiin.
+Muutoksenhakulautakunnassa on päätoiminen puheenjohtaja ja vähintään neljä sivutoimista varapuheenjohtajaa. Päätoiminen puheenjohtaja johtaa muutoksenhakulautakuntaa ja vastaa sen toiminnasta, valvoo laintulkinnan yhdenmukaisuutta lautakunnan ratkaisuissa sekä vastaa muutoksenhakulautakunnan hallinnollisista asioista työjärjestyksessä tarkemmin määrätyllä tavalla. Puheenjohtajalla ja varapuheenjohtajilla tulee olla muu oikeustieteen ylempi korkeakoulututkinto kuin kansainvälisen ja vertailevan oikeustieteen maisterin tutkinto ja heidän tulee olla perehtyneitä muutoksenhakulautakunnassa käsiteltäviin etuusjärjestelmiin.
 
-Muutoksenhakulautakunnan muut 32 jäsentä ovat sivutoimisia. Heistä seitsemän jäsenen tulee olla vakuutuslääketieteeseen perehtyneitä laillistettuja lääkäreitä ja seitsemän työeläkeasioihin perehtyneitä sekä tuomarin virkaan oikeuttavan tutkinnon suorittaneita tai muita työeläkevakuutukseen erityisesti perehtyneitä henkilöitä.
+Muutoksenhakulautakunnassa on puheenjohtajan ja varapuheenjohtajien lisäksi vähintään 22 muuta sivutoimista jäsentä. Sivutoimisina jäseninä on oltava vähintään:
+1) viisi lääkärijäsentä;
+2) viisi jäsentä, jotka ovat työeläkeasioihin perehtyneitä ja joilla on muu oikeustieteen ylempi korkeakoulututkinto kuin kansainvälisen ja vertailevan oikeustieteen maisterin tutkinto, tai jotka ovat muuten työeläkevakuutukseen erityisesti perehtyneitä;
+3) kymmenen työelämän ja työmarkkinoiden olosuhteita tuntevaa jäsentä;
+4) yksi yrittäjätoimintaan perehtynyt jäsen;
+5) yksi maatalousyrittäjätoimintaan perehtynyt jäsen.
 
-Jäseninä on lisäksi työelämän ja työmarkkinoiden olosuhteita tuntevia jäseniä, jotka ovat perehtyneet yksityisten alojen, kuntien tai valtion työeläkeasioihin. Näistä seitsemän on määrättävä työnantajayhdistysten edustavimpien keskusjärjestöjen ehdotuksesta siten, että neljä on perehtynyt yksityisten alojen eläkejärjestelmään, kaksi kuntien eläkejärjestelmään ja yksi valtion eläkejärjestelmään. Lisäksi seitsemän jäsentä on määrättävä työntekijäin ja toimihenkilöiden ammattiyhdistysten edustavimpien keskusjärjestöjen ehdotuksesta siten, että neljä on perehtynyt yksityisten alojen eläkejärjestelmään, kaksi kuntien eläkejärjestelmään ja yksi valtion eläkejärjestelmään.
+Lääkärijäsenen tulee olla vakuutuslääketieteeseen perehtynyt laillistettu lääkäri. Työelämän ja työmarkkinoiden olosuhteita tuntevien jäsenten tulee olla perehtyneitä yksityisten alojen, kuntien tai valtion työeläkeasioihin.
 
-Lisäksi jäseninä on neljä työelämän olosuhteita tuntevaa jäsentä, joista kaksi on perehtynyt yrittäjätoimintaan ja jotka määrätään edustavimpien yrittäjäjärjestöjen ehdotuksesta, sekä kaksi, jotka ovat perehtyneet maatalousyrittäjätoimintaan ja jotka määrätään maatalousyrittäjän eläkelain (1280/2006) soveltamisalaan kuuluvien henkilöiden taloudellisia etuja valvovien edustavimpien järjestöjen ehdotuksesta.
+Sivutoimisilla jäsenillä on kullakin henkilökohtainen varajäsen. Mitä tässä laissa säädetään muutoksenhakulautakunnan jäsenestä, sovelletaan myös varajäseneen.
 
-Sivutoimisilla jäsenillä on kullakin henkilökohtainen varajäsen, jota koskee, mitä laissa säädetään muutoksenhakulautakunnan jäsenestä.
-
-Puheenjohtaja, varapuheenjohtaja ja muut jäsenet sekä henkilökohtaiset varajäsenet toimivat tuomarin vastuulla.
+Puheenjohtaja, varapuheenjohtaja ja muut jäsenet toimivat tuomarin vastuulla.
