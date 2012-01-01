@@ -1,0 +1,2 @@
+Laki puolustusvoimien ravitsemispalvelujen yhtiöittämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
