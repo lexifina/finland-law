@@ -1,3 +1,3 @@
-# 12 § Neuvottelukunta
+# 12 § Yhteistyöryhmä
 
-Kiinteistötietojärjestelmän toteuttamista, ylläpitoa ja tietopalvelua ohjaa neuvottelukunta, jonka tehtävistä ja kokoonpanosta säädetään tarkemmin valtioneuvoston asetuksella.
+Kiinteistötietojärjestelmän kehittämistä ja ylläpitoa varten Maanmittauslaitos asettaa kolmeksi vuodeksi kerrallaan yhteistyöryhmän, johon kutsutaan järjestelmän ylläpitäjien ja käyttäjien edustajia.
