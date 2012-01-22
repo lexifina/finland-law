@@ -1,0 +1,2 @@
+Laki Suomen ja Kiinan kansantasavallan Hongkongin erityishallintoalueen välillä keskinäisestä oikeusavusta rikosasioissa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
