@@ -1,0 +1,2 @@
+Laki Macaon kanssa veroasioita koskevasta tiedonvaihdosta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
