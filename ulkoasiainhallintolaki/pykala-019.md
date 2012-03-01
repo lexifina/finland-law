@@ -1,7 +1,7 @@
 # 19 § Tehtävään määräävä viranomainen
 Luku: 3 luku Ulkoasiainhallinnon virkamiehet
 
-Tasavallan presidentti määrää ulkoasiainhallinnon tarkastajan, edustuston päällikön ja kiertävän suurlähettilään tehtävään.
+Tasavallan presidentti määrää edustuston päällikön ja kiertävän suurlähettilään tehtävään.
 
 Muihin ulkoasiainhallinnon tehtäviin määrää valtioneuvosto tai ulkoasiainministeriö sen mukaan kuin valtioneuvoston asetuksella säädetään.
 
