@@ -1,4 +1,4 @@
-# 24 § Ulko- ja turvallisuuspolitiikkaa käsittelevän ministerivaliokunnan ja tasavallan presidentin yhteinen kokous
+# 24 § Ulko- ja turvallisuuspolitiikkaa käsittelevä ministerivaliokunnan ja tasavallan presidentin yhteinen kokous
 Luku: 3 luku Päätöksentekojärjestys
 
-Ulko- ja turvallisuuspolitiikkaa käsittelevä ministerivaliokunta voi kokoontua yhdessä tasavallan presidentin kanssa.
+Ulko- ja turvallisuuspolitiikkaa käsittelevä ministerivaliokunta voi kokoontua yhdessä tasavallan presidentin kanssa. Tasavallan presidentti tai pääministeri voi tehdä aloitteen yhteisen kokouksen koolle kutsumiseksi.
