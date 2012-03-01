@@ -1,7 +1,7 @@
 # 39 § Asian vireilletulo eduskunnassa
 Luku: 4 luku Eduskunnan toiminta
 
-Asia tulee eduskunnassa vireille hallituksen esityksellä tai kansanedustajan aloitteella taikka muulla tässä perustuslaissa tai eduskunnan työjärjestyksessä säädetyllä tavalla.
+Asia tulee eduskunnassa vireille valtioneuvoston antamalla hallituksen esityksellä tai kansanedustajan aloitteella taikka muulla tässä perustuslaissa tai eduskunnan työjärjestyksessä säädetyllä tavalla.
 
 Kansanedustajalla on oikeus tehdä:
 1) lakialoite, joka sisältää ehdotuksen lain säätämisestä;
