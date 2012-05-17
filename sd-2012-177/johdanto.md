@@ -1,0 +1,2 @@
+Laki yhteistyöstä onnettomuuksien ehkäisemisen, niihin varautumisen ja pelastustoiminnan alalla Barentsin euroarktisen alueen hallitusten välillä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
