@@ -1,0 +1,2 @@
+Laki meriliikennetietojen keräämisestä ja meriliikenteen tilastojen laatimisesta annetun lain kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
