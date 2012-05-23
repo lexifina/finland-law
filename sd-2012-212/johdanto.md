@@ -1,0 +1,2 @@
+Laki yhteisestä hankintamenettelystä huutokauppatarkkailijan nimeämiseksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
