@@ -1,0 +1,2 @@
+Laki tietoturvallisuuden arviointilaitoksista
+Eduskunnan päätöksen mukaisesti säädetään:
