@@ -1,0 +1,2 @@
+Laki viranomaisten tietojärjestelmien ja tietoliikennejärjestelyjen tietoturvallisuuden arvioinnista
+Eduskunnan päätöksen mukaisesti säädetään:
