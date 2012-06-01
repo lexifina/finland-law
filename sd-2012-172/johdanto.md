@@ -1,0 +1,2 @@
+Laki ulkomaalaisten yritysostojen seurannasta
+Eduskunnan päätöksen mukaisesti säädetään:
