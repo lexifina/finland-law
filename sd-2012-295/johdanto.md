@@ -1,0 +1,2 @@
+Laki rikosoikeudellisia menettelyjä koskevien toimivaltaristiriitojen ehkäisemisestä ja ratkaisemisesta sekä esitutkinnan ja syytetoimien siirtämisestä Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä
+Eduskunnan päätöksen mukaisesti säädetään:
