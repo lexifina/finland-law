@@ -1,0 +1,2 @@
+Laki puolustustarvikkeiden viennistä
+Eduskunnan päätöksen mukaisesti säädetään:
