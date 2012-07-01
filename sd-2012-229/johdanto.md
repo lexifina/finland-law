@@ -1,0 +1,2 @@
+Laki lasten myynnistä, lapsiprostituutiosta ja lapsipornografiasta tehdyn lapsen oikeuksia koskevan yleissopimuksen valinnaisen pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
