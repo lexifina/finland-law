@@ -8,13 +8,13 @@ Varastointivelvoite koskee seuraaviin lääkeryhmiin kuuluvia lääkeaineita ja 
 4) aineenvaihdunta- ja umpierityssairauksien lääkkeistä diabeteslääkkeet ja kilpirauhasen toimintahäiriöiden lääkkeet sekä kortikosteroidit;
 5) kipu-, reuma- ja kuumelääkkeistä morfiinijohdannaiset ja antipyreettiset analgeetit;
 6) paikallispuudutuksessa ja yleisanestesiassa käytettävät lääkkeet;
-7) myrkytyslääkkeistä ja rokotteista lääkehiili ja immunoglobuliinit;
+7) myrkytyslääkkeistä, rokotteista, immunoseerumeista ja immunoglobuliineista keskeiset myrkytysten hoidossa käytettävät lääkkeet, A- ja B-hepatiitin, vesikauhun ja jäykkäkouristuksen hoitoon ja ehkäisyyn käytettävät immunoseerumit ja rokotteet sekä ihmisen normaali immunoglobuliini;
 8) hengityselinten sairauksien lääkkeistä astmalääkkeet;
-9) ruoansulatussairauksien lääkkeistä antasidit, antikolinergit sekä spasmolyytit;
+9) ruoansulatussairauksien lääkkeistä maha- ja pohjukaissuolihaavan hoidossa käytettävät lääkkeet;
 10) psyykenlääkkeistä psykoosi-, neuroosi- ja depressiolääkkeet;
 11) neurologisista lääkkeistä epilepsialääkkeet ja parkinsonismilääkkeet;
-12) silmätautilääkkeistä glaukoomalääkkeet;
-13) veritautilääkkeistä tromboosilääkkeet, syöpälääkkeet ja hemostaasilääkkeet; sekä
+12) silmätautilääkkeistä glaukoomalääkkeet ja silmään annosteltavat mikrobilääkkeet;
+13) syöpälääkkeet ja niiden haittavaikutusten hoitoon tarkoitetut lääkkeet, immunostimulantit, immunosuppressantit sekä antitromboottiset lääkeaineet ja hemostaatit;
 14) eläinlääkkeistä raivotautirokotteet sekä elintarviketuotantoeläinten käsittelyyn ja sairauksien hoitoon tai ennaltaehkäisyyn tarvittavat lääkkeet.
 
 Jos varastointivelvollinen varastoi lääkevalmisteen sijasta lääkeainetta, tämän on samalla varastoitava kyseisen velvoitteen edellyttämä määrä kaikkia vastaavan valmisteen valmistuksessa tarvittavia apu- ja lisäaineita sekä pakkausmateriaaleja.
