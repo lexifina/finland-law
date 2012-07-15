@@ -1,6 +1,6 @@
 # 7 § Mereen laskemista koskeva kielto
 
-Suomalaisesta aluksesta, avomeriyksiköstä tai ilma-aluksesta taikka Suomessa jätteellä lastatusta aluksesta tai ilma-aluksesta ei Suomen talousvyöhykkeen ulkopuolella saa laskea mereen jätettä tai muuta ainetta. Suomesta peräisin olevan jätteen mereen laskeminen on muutoinkin kielletty. Nämä kiellot eivät kuitenkaan koske 9 §:ssä tarkoitettua ruoppausmassan mereen sijoittamista.
+Suomalaisesta aluksesta, avomeriyksiköstä tai ilma-aluksesta taikka Suomessa jätteellä lastatusta aluksesta tai ilma-aluksesta ei Suomen talousvyöhykkeen ulkopuolella saa laskea mereen jätettä tai muuta ainetta. Suomesta peräisin olevan jätteen mereen laskeminen on muutoinkin kielletty. Nämä kiellot eivät kuitenkaan koske 9 §:ssä tarkoitettua ruoppausmassan mereen sijoittamista eivätkä hiilidioksidin talteenottamisesta ja varastoinnista annetun lain (416/2012) 4 §:ssä tarkoitettua hiilidioksidin geologista varastointia.
 
 Tahallinen suomalaisen aluksen, avomeriyksikön tai ilma-aluksen mereen upottaminen tai merelle hylkääminen Suomen talousvyöhykkeen ulkopuolella on kielletty. Suomalaisen avomeriyksikön upottaminen tai hylkääminen paikalleen toisen valtion aluevesillä tai talousvyöhykkeellä on kuitenkin sallittu, jos se asianomaisen valtion lainsäädännön mukaan on sallittu. Tällainen toimi ei kuitenkaan saa olla Suomea velvoittavan kansainvälisen sopimuksen vastainen.
 
