@@ -1,0 +1,2 @@
+Laki hiilidioksidin talteenottamisesta ja varastoinnista
+Eduskunnan päätöksen mukaisesti säädetään:
