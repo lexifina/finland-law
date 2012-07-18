@@ -1,3 +1,3 @@
 # 3 §
 
-Tämän lain voimaantulosta säädetään tasavallan presidentin asetuksella.
+Sopimuksen ja pöytäkirjan muiden määräysten voimaansaattamisesta ja tämän lain voimaantulosta säädetään valtioneuvoston asetuksella.
