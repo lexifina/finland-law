@@ -1,0 +1,2 @@
+Laki yhteistyön tehostamisesta rikollisuuden estämiseksi ja torjumiseksi Amerikan yhdysvaltojen kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
