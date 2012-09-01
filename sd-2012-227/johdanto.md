@@ -1,0 +1,2 @@
+Laki ihmiskaupan vastaisesta toiminnasta tehdyn Euroopan neuvoston yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
