@@ -1,8 +1,8 @@
 # 5 § Tilaajan selvitysvelvollisuus
 
 Ennen kuin tilaaja tekee sopimuksen vuokratun työntekijän käytöstä tai alihankintasopimukseen perustuvasta työstä, tilaajan on pyydettävä sopimuspuolelta ja tämän on annettava tilaajalle:
-1) selvitys siitä, onko yritys merkitty ennakkoperintälain (1118/1996) mukaiseen ennakkoperintärekisteriin ja työnantajarekisteriin sekä arvonlisäverolain (1501/1993) mukaiseen arvonlisävelvollisten rekisteriin;
-2) kaupparekisteriote;
+1) selvitys siitä, onko yritys merkitty ennakkoperintälain (1118/1996) mukaiseen ennakkoperintärekisteriin ja työnantajarekisteriin sekä arvonlisäverolain (1501/1993) mukaiseen arvonlisäverovelvollisten rekisteriin;
+2) kaupparekisteriote tai kaupparekisteristä muutoin saadut kaupparekisteriotetta vastaavat tiedot;
 3) todistus verojen maksamisesta tai verovelkatodistus taikka selvitys siitä, että verovelkaa koskeva maksusuunnitelma on tehty;
 4) todistukset eläkevakuutusten ottamisesta ja eläkevakuutusmaksujen suorittamisesta tai selvitys siitä, että erääntyneitä eläkevakuutusmaksuja koskeva maksusopimus on tehty; sekä
 5) selvitys työhön sovellettavasta työehtosopimuksesta tai keskeisistä työehdoista.
@@ -20,3 +20,5 @@ Tilaajan ei tarvitse pyytää 1, 2 ja 5 momentissa tarkoitettuja selvityksiä ja
 Jos tässä laissa tarkoitettu sopimus on voimassa yli 12 kuukautta, tilaajan sopimuspuolen on toimitettava tilaajalle sopimussuhteen aikana 12 kuukauden välein 1 momentin 3 ja 4 kohdassa tarkoitetut todistukset tai 2 momentissa tarkoitetut vastaavat tiedot.
 
 Edellä 1 ja 2 momentissa tarkoitetut selvitykset ja todistukset on säilytettävä vähintään kaksi vuotta siitä, kun sopimusta koskeva työ on päättynyt.
+
+Rakentamistoimintaan liittyvästä tilaajan selvitysvelvollisuudesta säädetään 5 a §:ssä.
