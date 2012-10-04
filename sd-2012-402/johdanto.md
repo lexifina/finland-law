@@ -1,0 +1,2 @@
+Laki Euroopan vakausmekanismin perustamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
