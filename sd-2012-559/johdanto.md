@@ -1,0 +1,2 @@
+Laki kansainvälistä taksiliikennettä tiellä koskevan Ruotsin kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
