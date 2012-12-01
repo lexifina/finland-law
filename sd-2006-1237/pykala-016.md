@@ -13,3 +13,5 @@ Palvelujen antajan on pidettävä rekisteriä toiselle palvelujen antajalle siir
 1) sen luovuttajan tunnus, jonka sukusoluja on siirretty;
 2) siirron ajankohta; ja
 3) palvelujen antaja, jolle sukusolut on siirretty.
+
+Sukusolujen tai alkioiden siirron vastaanottaneen palvelujen antajan on viipymättä ilmoitettava ne siirtäneelle palvelujen antajalle, kun luovutetut sukusolut tai alkiot on käytetty tai hävitetty taikka luovutettu 7 §:ssä mainittuun tarkoitukseen.
