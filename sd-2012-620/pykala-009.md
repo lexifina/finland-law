@@ -1,0 +1,6 @@
+# 9 § Päätöksen tekeminen ja lähettäminen toiseen jäsenvaltioon
+Luku: 3 luku Valvontatoimia koskevan päätöksen tekeminen ja lähettäminen Suomesta toiseen jäsenvaltioon
+
+Valvontatoimia koskeva päätös voidaan tehdä ja lähettää toiseen jäsenvaltioon, jos pakkokeinolain mukaiset matkustuskieltoa koskevat edellytykset täyttyvät ja epäillyllä on pysyvä asuinpaikka toisessa jäsenvaltiossa tai kyse on puitepäätöksen 9 artiklan 2 kohdassa tarkoitetusta jäsenvaltiosta. Edellytyksenä on lisäksi, että valvonnan järjestämistä toisessa jäsenvaltiossa voidaan valvontaan määrätyn henkilökohtaisten olosuhteiden tai muun erityisen syyn vuoksi pitää perusteltuna ja hän on suostunut siihen, että valvonta järjestetään kyseisessä jäsenvaltiossa. Valvontatoimia koskevan päätöksen sisällöstä on soveltuvin osin voimassa, mitä matkustuskiellosta säädetään.
+
+Valvontaan määrätty määrätään matkustuskieltoon siihen asti, kunnes toisessa jäsenvaltiossa tehty tunnustamista koskeva päätös tai tieto siitä on saatu ja annettu valvontaan määrätylle tiedoksi. Tiedoksiantoon sovelletaan haasteen tiedoksiannosta rikosasioissa annettuja säännöksiä. Jos matkustuskieltoa ei voida pitää riittävänä valvontatoimia koskevan päätöksen täytäntöönpanon turvaamiseksi, voidaan valvontaan määrätty tuoksi ajaksi vangita, jos pakkokeinolain mukaiset vangitsemisen edellytykset täyttyvät.
