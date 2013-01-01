@@ -9,4 +9,4 @@ Valitusluvan myöntämisen perusteet ovat:
 
 Valituslupa voidaan myöntää myös siten, että se koskee vain osaa muutoksenhaun kohteena olevasta hallinto-oikeuden päätöksestä.
 
-Valitus on tehtävä 60 päivän kuluessa hallinto-oikeuden päätöksen tiedoksisaannista. Valituskirjelmä on toimitettava valitusajassa korkeimmalle hallinto-oikeudelle tai päätöksen tehneelle hallinto-oikeudelle. Valtion puolesta valitusoikeus on Tullihallituksessa olevalla tulliasiamiehellä.
+Valitus on tehtävä 60 päivän kuluessa hallinto-oikeuden päätöksen tiedoksisaannista. Valituskirjelmä on toimitettava valitusajassa korkeimmalle hallinto-oikeudelle tai päätöksen tehneelle hallinto-oikeudelle. Valtion puolesta valitusoikeus on Tullin tulliasiamiehellä.
