@@ -11,4 +11,4 @@ Keskuskauppakamarin tehtävänä on:
 1) hoitaa sille tilintarkastuslaissa säädetyt tehtävät;
 2) määrätä välimiehet ja hakea välimiesmenettelyä varten uskotun miehen määräämisiä osakeyhtiölaissa (624/2006) erikseen säädetyissä lunastustilanteissa;
 3) hoitaa sille kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetussa laissa (1075/2000) säädetyt tehtävät; sekä
-4) hoitaa sille tässä laissa, arvopaperimarkkinalaissa (495/1989) ja kiinteistörahastolaissa (1173/1997) säädetyt tehtävät.
+4) hoitaa sille tässä laissa ja kiinteistörahastolaissa (1173/1997) säädetyt tehtävät.
