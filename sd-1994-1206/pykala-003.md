@@ -1,6 +1,6 @@
 # 3 § Rahaston lainanotto
 
-Rahasto voi valtioneuvoston luvalla ja sen hyväksymillä ehdoilla ottaa 1 §:ssä tarkoitettujen toimintojen väliaikaista rahoittamista varten lainoja, joiden kokonaismäärä ei saa samanaikaisesti ylittää 200 miljoonaa euroa.
+Rahasto voi valtioneuvoston luvalla ja sen hyväksymillä ehdoilla ottaa 1 §:ssä tarkoitettujen toimintojen väliaikaista rahoittamista varten lainoja, joiden kokonaismäärä ei saa samanaikaisesti ylittää 100 miljoonaa euroa.
 
 Valtio vastaa 1 momentissa tarkoitetuista lainoista.
 
