@@ -6,4 +6,4 @@ Säästämistilille ei saa vastaanottaa muita kuin säästämissopimukseen perus
 1) tiliä saadaan käyttää ainoastaan säästövarojen vastaanottamiseen säästäjältä, säästövarojen sijoittamisesta johtuvien maksujen suorittamiseen ja vastaanottamiseen ja, jollei 11―14, 17 tai 18 §:stä muuta johdu, niiden takaisin maksamiseen säästövaroihin oikeutetulle 1 §:ssä tarkoitetun nostoperusteen täytyttyä; palveluntarjoaja saa lisäksi veloittaa tililtä säästämissopimuksen mukaiset kulut ja palkkiot;
 2) omistusoikeus tilillä oleviin varoihin kuuluu säästövaroihin oikeutetulle, mutta käyttöoikeus tilillä oleviin varoihin on yksinomaan palveluntarjoajalla.
 
-Säästämissopimuksen nojalla vastaanotettuihin varoihin ei sovelleta, mitä arvopaperimarkkinalain (495/1989) 4 luvun 14 §:n 3 momentissa ja sijoituspalveluyrityksistä annetun lain 38 §:ssä säädetään asiakkaan rahavarojen säilyttämisestä.
+Säästämissopimuksen nojalla vastaanotettuihin varoihin ei sovelleta, mitä sijoituspalvelulain 9 luvun 3 §:n 1 momentissa säädetään asiakkaan rahavarojen säilyttämisestä.
