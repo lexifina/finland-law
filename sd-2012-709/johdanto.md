@@ -1,0 +1,2 @@
+Laki eräiden kansaneläkeindeksiin sidottujen etuuksien osittain aikaistetusta indeksikorotuksesta vuonna 2013
+Eduskunnan päätöksen mukaisesti säädetään:
