@@ -1,0 +1,2 @@
+Laki evankelis-luterilaisten seurakuntien jäsenten velvollisuudesta suorittaa veroa seurakunnalle
+Eduskunnan päätöksen mukaisesti säädetään:
