@@ -9,8 +9,8 @@ Koulutuskeskuksen johtaja voi erottaa opiskelijan tutkintoon johtavasta koulutuk
 5) laiminlyö toistuvasti tai olennaisella tavalla opetukseen osallistumisen; taikka
 6) on toistuvasti tai olennaisella tavalla rikkonut koulutuskeskuksen järjestyssääntöä.
 
-Edellä 1 momentin 2 kohdassa tarkoitettuna rikoksena tai sopimattomana käytöksenä on pidettävä erityisesti tekoa tai käytöstä, joka on omiaan vaarantamaan luottamusta vankeinhoitotyössä toimivalle virkamiehelle kuuluvien tehtävien rehelliseen, luotettavaan ja oikeudenmukaiseen hoitoon.
+Edellä 1 momentin 2 kohdassa tarkoitettuna rikoksena tai sopimattomana käytöksenä on pidettävä erityisesti tekoa tai käytöstä, joka on omiaan vaarantamaan luottamusta rikosseuraamusalalla toimivalle virkamiehelle kuuluvien tehtävien rehelliseen, luotettavaan ja oikeudenmukaiseen hoitoon.
 
 Erottamista koskeva päätös voidaan panna heti täytäntöön, jollei koulutuskeskus tai hallinto-oikeus toisin määrää. Jos koulutuksesta erottamista koskeva päätös kumotaan, koulutuskeskus päättää opiskelijan siihen mennessä suorittamien opintojen hyväksi luettavuudesta myöhempien vastaavien opintojen yhteydessä.
 
-Tutkintoon johtavasta koulutuksesta erotetun opiskelijan määräaikainen virkasuhde, johon hänet on nimitetty työharjoittelun suorittamiseksi, päättyy ilman eri päätöstä siitä ajankohdasta, josta hänet on erotettu koulutuksesta.
+Tutkintoon johtavasta koulutuksesta erotetun opiskelijan määräaikainen virkasuhde, johon hänet on nimitetty työssäoppimisen suorittamiseksi, päättyy ilman eri päätöstä siitä ajankohdasta, josta hänet on erotettu koulutuksesta.
