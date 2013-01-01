@@ -1,5 +1,5 @@
-# 24 § Valtion puhevallan käyttäminen
+# 24 § Valtion edun valvonta
 
-Valtion puolesta puhevaltaa muutoksenhakua ja oikaisua koskevissa asioissa käyttää tullipiirissä oleva tulliasiamies tai, jos asia koskee Tullihallituksen päätöstä taikka valittamista korkeimpaan hallinto-oikeuteen, Tullihallituksessa oleva tulliasiamies.
+Valtion edunvalvojasta muutoksenhakua ja oikaisua koskevissa asioissa säädetään Tullin hallinnosta annetussa laissa (960/2012).
 
-Tulliasiamiestä kuullaan ja päätös annetaan hänelle tiedoksi siten, että tulliasiamiehelle varataan tilaisuus tutustua päätökseen ja sen perusteena oleviin asiakirjoihin.
+Valtion edunvalvojaa kuullaan ja päätös annetaan tiedoksi siten, että edunvalvojalle varataan tilaisuus tutustua päätökseen ja sen perusteena oleviin asiakirjoihin.
