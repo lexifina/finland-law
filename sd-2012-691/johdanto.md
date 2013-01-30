@@ -1,0 +1,2 @@
+Laki talvimerenkulun palvelujen yhteisestä järjestämisestä ja yhteistyöstä talvimerenkulun palvelujen alalla Ruotsin kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
