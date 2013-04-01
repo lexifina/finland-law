@@ -1,0 +1,2 @@
+Laki Oikeusrekisterikeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
