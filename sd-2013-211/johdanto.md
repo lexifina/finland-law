@@ -1,0 +1,2 @@
+Laki vuoden 2009 lääkevahinkokorvausten osittaisesta rahoittamisesta valtion varoista
+Eduskunnan päätöksen mukaisesti säädetään:
