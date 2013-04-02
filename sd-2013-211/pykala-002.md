@@ -1,0 +1,5 @@
+# 2 § Vakuutusmäärän jakautuminen Pandemrix-rokotteen aiheuttamien ja muihin lääkevahinkojen korvauksiin
+
+Pandemrix-rokotteen seurauksena vahinkoa kärsineille ja muille vakuutuskaudelle 2009 kohdistuvissa lääkevahingoissa vahinkoa kärsineille maksettavat korvaukset rahoitetaan lääkevahinkovakuutuksesta kunnes maksettujen korvausten nimellinen yhteismäärä saavuttaa 20 miljoonaa euroa. Tämän jälkeen lääkevahinkovakuutuksesta rahoitettavat korvaukset jakautuvat siten, että nimellisarvoltaan yhteensä 30 miljoonan euron vuoden 2009 vakuutusmäärästä vielä käyttämättä olevasta osasta rahoitetaan Pandemrix-rokotteesta aiheutuvia korvauksia määrä, joka saadaan vähentämällä vakuutusmäärästä:
+1) vakuutuskaudelle 2009 kohdistuvissa lääkevahingoissa vahinkoa kärsineille jakohetkeen mennessä maksettujen korvausten nimellisarvojen yhteismäärä; ja
+2) arvio muiden kuin Pandemrix-rokotteen aiheuttamissa vakuutuskaudelle 2009 kohdistuvissa lääkevahingoissa vahinkoa kärsineille jakohetken jälkeen maksettavien korvausten nimellisarvosta.
