@@ -1,0 +1,2 @@
+Laki tuloveroja koskevan kaksinkertaisen verotuksen välttämiseksi Kyproksen kanssa tehdyn sopimuksen ja pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
