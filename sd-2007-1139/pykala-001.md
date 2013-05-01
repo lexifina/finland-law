@@ -5,6 +5,7 @@ Oikeuspoliittisen tutkimuksen harjoittamista varten oikeusministeriön hallinnon
 Tutkimuslaitoksen tehtävänä on:
 1) harjoittaa riippumatonta oikeuspoliittista tutkimusta ottaen huomioon oikeusministeriön ja yhteiskunnan tietotarpeet;
 2) seurata oikeusoloja ja rikollisuutta sekä analysoida niitä ja raportoida niiden kehityspiirteistä;
+2 a) ylläpitää sille laissa säädettyjen tehtävien hoitamiseksi tarvittavia tutkimusrekistereitä;
 3) ylläpitää ja edistää kansallista ja kansainvälistä yhteistyötä oikeuspoliittisessa tutkimuksessa;
 4) julkaista ja välittää oikeuspoliittista tutkimustietoa;
 5) osallistua oikeuspoliittiseen tutkijakoulutukseen yhteistyössä yliopistojen kanssa.
