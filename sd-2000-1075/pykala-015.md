@@ -1,5 +1,5 @@
-# 15 § Oikaisun ja muutoksen hakeminen Keskuskauppakamarin välittäjälautakunnan päätökseen
+# 15 § Oikaisun ja muutoksen hakeminen välittäjäkoelautakunnan päätökseen
 
-Välittäjäkoetta koskevaan päätökseen saa vaatia oikaisua Keskuskauppakamarin välittäjälautakunnalta. Oikaisuvaatimus on tehtävä 30 päivän kuluessa päätöksen tiedoksisaannista. Päätökseen on liitettävä oikaisuvaatimusosoitus.
+Välittäjäkoetta koskevaan päätökseen saa vaatia oikaisua välittäjäkoelautakunnalta siten kuin hallintolaissa (434/2003) säädetään.
 
-Välittäjälautakunnan oikaisuvaatimusasiassa tekemään päätökseen saa hakea muutosta hallinto-oikeudelta siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
+Välittäjäkoelautakunnan oikaisuvaatimusasiassa tekemään päätökseen saa hakea muutosta hallinto-oikeudelta siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
