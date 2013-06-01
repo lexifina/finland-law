@@ -1,0 +1,2 @@
+Laki turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta Ison-Britannian ja Pohjois-Irlannin yhdistyneen kuningaskunnan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
