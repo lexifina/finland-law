@@ -1,0 +1,2 @@
+Laki rakennuksen energiatodistuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
