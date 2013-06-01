@@ -1,0 +1,6 @@
+# 24 § Käskyt ja kiellot
+Luku: 7 luku Käskyt, kiellot ja seuraamukset
+
+Jos rakennuksen omistaja tai muu tämän lain mukaisesta velvollisuudesta vastuussa oleva ei täytä säädettyjä velvollisuuksia tai toimii muutoin tämän lain tai sen nojalla annettujen säännösten vastaisesti, Asumisen rahoitus- ja kehittämiskeskuksen on kehotettava korjaamaan asiantila ja asetettava määräaika asiantilan korjaamiselle. Jos asiaa ei korjata määräajassa, keskuksen on annettava asianomaiselle taholle varoitus ja uusi määräaika. Jos asiantilaa ei määräajassa korjata, keskuksen tulee antaa tilanteen mukainen käsky- tai kieltopäätös. Keskus voi tehostaa käskyä tai kieltoa vakavissa tai olennaisissa rikkomuksissa uhkasakolla tai teettämis- tai keskeyttämisuhalla, joista säädetään uhkasakkolaissa (1113/1990).
+
+Jos Asumisen rahoitus- ja kehittämiskeskus toteaa rakennuksen energiatodistuksen olennaisesti virheelliseksi, todistuksen käyttö tulee kieltää ja tiedot poistaa voimassa olevien todistusten tiedoista. Tällöin Asumisen rahoitus- ja kehittämiskeskus voi velvoittaa energiatodistuksen laatijan korvaamaan virheellisen todistuksen uudella energiatodistuksella taikka toissijaisesti teettää energiatodistuksen toisella energiatodistuksen laatijalla. Uuden todistuksen kustannuksista vastaa virheellisen todistuksen laatinut energiatodistuksen laatija.
