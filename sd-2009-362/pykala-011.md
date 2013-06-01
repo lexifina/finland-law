@@ -2,4 +2,4 @@
 
 Tuomioistuimen hyvitysvaatimuksesta antamaan ratkaisuun haetaan muutosta kuten pääasiassa.
 
-Oikeusministeriö voi hakea muutosta käräjäoikeuden ratkaisuun tyytymättömyyttä ilmoittamatta.
+Valitusoikeus on hyvitystä vaatineella asianosaisella. Lisäksi valitusoikeus on 12 §:n 2 momentissa tarkoitetulla yhteisöllä, laitoksella ja lautakunnalla, jossa tuomioistuin on todennut asian käsittelyn viivästyneen.
