@@ -1,0 +1,19 @@
+# 3 § Määritelmät
+Luku: 1 luku Yleiset säännökset
+
+Tässä laissa tarkoitetaan:
+1) sähkö- ja elektroniikkalaitteella laitetta, joka tarvitsee sähkövirtaa tai sähkömagneettisia kenttiä voidakseen toimia vähintään yhdessä käyttötarkoituksessaan sekä laitetta, jota käytetään kyseisten virtojen ja kenttien tuottamiseen, siirtämiseen ja mittaamiseen ja joka on suunniteltu käytettäväksi enintään 1 000 voltin vaihtojännitteellä tai enintään 1 500 voltin tasajännitteellä;
+2) liitäntäjohdolla johtoa, jonka nimellisjännite on alle 250 volttia ja joka liittää sähkö- ja elektroniikkalaitteen pistorasiaan tai kaksi tai useampia sähkö- ja elektroniikkalaitteita toisiinsa;
+3) varaosalla sähkö- ja elektroniikkalaitteen tarkoituksenmukaisen toiminnan kannalta tarpeellista erillistä osaa, jolla voidaan korvata sähkö- ja elektroniikkalaitteen osa ja joka palauttaa laitteen toimivuuden tai parantaa sitä;
+4) valmistajalla luonnollista henkilöä tai oikeushenkilöä, joka valmistaa, valmistuttaa tai antaa suunniteltavaksi sähkö- ja elektroniikkalaitteen ja markkinoi sitä omalla nimellään tai tavaramerkillään;
+5) valtuutetulla edustajalla Euroopan talousalueelle sijoittautunutta luonnollista henkilöä tai oikeushenkilöä, jolla on valmistajan antama kirjallinen valtuutus hoitaa valmistajan puolesta tietyt tehtävät;
+6) jakelijalla sellaista muuta toimitusketjuun kuuluvaa luonnollista henkilöä tai oikeushenkilöä kuin valmistajaa tai maahantuojaa, joka asettaa sähkö- ja elektroniikkalaitteen saataville markkinoilla;
+7) maahantuojalla Euroopan talousalueelle sijoittautunutta luonnollista henkilöä tai oikeushenkilöä, joka saattaa kolmannesta maasta tuotavan sähkö- ja elektroniikkalaitteen Euroopan talousalueen markkinoille;
+8) elinkeinonharjoittajalla valmistajaa, valtuutettua edustajaa, maahantuojaa ja jakelijaa;
+9) asettamisella saataville markkinoilla sähkö- ja elektroniikkalaitteen toimittamista Euroopan talousalueen markkinoille liiketoiminnan yhteydessä jakelua, kulutusta tai käyttöä varten joko maksua vastaan tai veloituksetta;
+10) markkinoille saattamisella sähkö- ja elektroniikkalaitteen asettamista ensimmäistä kertaa saataville Euroopan talousalueen markkinoilla;
+11) CE-merkinnällä tuotteiden kaupan pitämiseen liittyvää akkreditointia ja markkinavalvontaa koskevista vaatimuksista ja neuvoston asetuksen (ETY) N:o 339/93 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 765/2008 30 artiklassa tarkoitettua merkintää, jolla valmistaja osoittaa, että tuote on merkinnän kiinnittämistä koskevassa Euroopan unionin yhdenmukaistamislainsäädännössä asetettujen sovellettavien vaatimusten mukainen;
+12) homogeenisella materiaalilla kauttaaltaan tasakoosteista materiaalia tai materiaalien yhdistelmästä koostuvaa materiaalia, jota ei voida jakaa tai erottaa eri materiaaleiksi mekaanisin toimin, kuten kiertämällä, leikkaamalla, murskaamalla, jauhamalla tai hankaamalla;
+13) yhdenmukaistetulla standardilla eurooppalaisesta standardisoinnista, neuvoston direktiivien 89/686/ETY ja 93/15/ETY sekä Euroopan parlamentin ja neuvoston direktiivien 94/9/EY, 94/25/EY, 95/16/EY, 97/23/EY, 98/34/EY, 2004/22/EY, 2007/23/EY, 2009/23/EY ja 2009/105/EY muuttamisesta ja neuvoston päätöksen 87/95/ETY ja Euroopan parlamentin ja neuvoston päätöksen N:o 1673/2006/EY kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) N:o 1025/2012 tarkoitettua eurooppalaista standardia, joka on vahvistettu Euroopan komission esittämän pyynnön perusteella unionin yhdenmukaistamislainsäädännön soveltamiseksi;
+14) teknisellä asiakirjalla valmistajan laatimaa asiakirjaa, jonka perusteella arvioidaan, onko sähkö- ja elektroniikkalaite sovellettavien vaatimusten mukainen sisältäen asianmukaisen analyysin ja arvioinnin riskeistä;
+15) teknisellä eritelmällä asiakirjaa, jossa määrätään tekniset vaatimukset, jotka sähkö- ja elektroniikkalaitteen on täytettävä.
