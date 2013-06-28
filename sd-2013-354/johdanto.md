@@ -1,0 +1,2 @@
+Laki laittomasti maassa oleskelevien henkilöiden takaisinottamisesta Kosovon kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
