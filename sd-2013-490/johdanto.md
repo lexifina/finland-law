@@ -1,0 +1,2 @@
+Laki tuulivoiman kompensaatioalueista
+Eduskunnan päätöksen mukaisesti säädetään:
