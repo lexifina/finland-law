@@ -1,0 +1,2 @@
+Laki eräiden rakennustuotteiden tuotehyväksynnästä
+Eduskunnan päätöksen mukaisesti säädetään:
