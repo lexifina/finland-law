@@ -1,0 +1,2 @@
+Laki maanpuolustukselle merkityksellisistä keksinnöistä
+Eduskunnan päätöksen mukaisesti säädetään:
