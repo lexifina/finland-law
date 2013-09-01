@@ -6,5 +6,3 @@ Tuomioistuimen on julistettava kasvinjalostajanoikeus mitättömäksi, jos oikeu
 2) lajikkeen yhtenäisyyttä tai pysyvyyttä koskevia edellytyksiä ei ole ollut olemassa ja päätös kasvinjalostajanoikeuden hyväksymisestä on oleellisilta osin perustunut hakijan toimittamiin tietoihin.
 
 Tuomioistuimen on julistettava kasvinjalostajanoikeus mitättömäksi, jos oikeus on myönnetty hakijalle, joka ei ole oikeutettu siihen, ellei Evira siirrä kasvinjalostajanoikeutta sille, joka on siihen oikeutettu.
-
-Asioissa, jotka koskevat kasvinjalostajanoikeuden mitättömäksi julistamista, tuomioistuimen on pyydettävä Eviran lausunto.

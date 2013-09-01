@@ -1,4 +1,6 @@
-# 46 § Oikeuspaikka
+# 46 § Oikeuspaikka riita-asioissa
 Luku: 10 luku Erinäiset säännökset
 
-Laillinen tuomioistuin tämän lain nojalla käsiteltävissä asioissa on Helsingin käräjäoikeus.
+Tähän lakiin perustuvat riita- ja hakemusasiat käsitellään markkinaoikeudessa.
+
+Riita- ja hakemusasioiden käsittelystä markkinaoikeudessa säädetään oikeudenkäynnistä markkinaoikeudessa annetussa laissa.
