@@ -7,6 +7,6 @@ Kunnat ja kuntayhtymät ovat velvollisia antamaan salassapitosäännösten estä
 
 Elinkeinonharjoittajat, kuntien ja valtion liikelaitokset sekä voittoa tavoittelemattomat yhteisöt ja säätiöt ovat velvollisia antamaan salassapitosäännösten estämättä tilastokeskukselle tilastojen laatimisen kannalta välttämättömät tiedot harjoittamansa toiminnan lajista, sijainnista, omistamisesta ja taloudesta, hyödykkeistään, henkilöstöstään ja muista toiminnan edellyttämistä voimavaroista.
 
-Eläketurvakeskus, Kansaneläkelaitos ja lakisääteistä sosiaalivakuutusta harjoittavat vakuutuslaitokset ovat salassapitosäännösten estämättä lisäksi velvollisia antamaan hallussaan olevat tiedot vakuutusvelvollisten maksamista sosiaalivakuutusmaksuista.
+Eläketurvakeskus, Kansaneläkelaitos, Työttömyysvakuutusrahasto, Tapaturmavakuutuslaitosten Liitto — Olycksfallsförsäkringsanstalternas Förbund r.y. ja lakisääteistä sosiaalivakuutusta harjoittavat vakuutuslaitokset ovat salassapitosäännösten estämättä lisäksi velvollisia antamaan hallussaan olevat tiedot vakuutusvelvollisten maksamista sosiaalivakuutusmaksuista.
 
 Edellä mainittuihin ryhmiin kuulumattomat, lailla tai lain nojalla annettuja julkisia hallintotehtäviä hoitavat ovat velvollisia antamaan salassapitosäännösten estämättä tilastokeskukselle tilastojen laatimisen kannalta välttämättömät tiedot taloudestaan, hyödykkeistään, henkilöstöstään ja muista toiminnan edellyttämistä voimavaroista.
