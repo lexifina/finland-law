@@ -1,7 +1,7 @@
 # 3 § Määritelmät
 
 Tässä laissa tarkoitetaan:
-1) korkeakouluilla yliopistolain (645/1997) 1 §:ssä mainittuja yliopistoja, puolustusvoimista annetun lain (402/1974) 4 §:ssä mainittua Maanpuolustuskorkeakoulua, ammattikorkeakoululaissa (351/2003) tarkoitettuja ammattikorkeakouluja sekä korkeakoulujen alaisia tai yhteisiä erillislaitoksia;
+1) korkeakouluilla yliopistolaissa (558/2009) tarkoitettuja yliopistoja, Maanpuolustuskorkeakoulusta annetussa laissa (1121/2008) tarkoitettua Maanpuolustuskorkeakoulua ja ammattikorkeakoululaissa (351/2003) tarkoitettuja ammattikorkeakouluja sekä niiden alaisia tai yhteisiä erillislaitoksia;
 2) avoimella tutkimuksella tutkimusta, joka
 a) tehdään palvelussuhteessa korkeakoulujen tutkimustehtävien täyttämiseksi ilman korkeakoulujen ulkopuolista rahoitusta ja ilman, että tutkimukseen osallistuu korkeakoulujen ulkopuolisia sopimuskumppaneita;
 b) toteutetaan ulkopuolisen tahon rahoittamana, mutta johon ei sisälly muita kuin tulosten julkaisemista koskevia määräyksiä; tai
