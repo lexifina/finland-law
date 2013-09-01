@@ -1,2 +1,2 @@
-Laki aravalainojen lainaehtojen määräaikaisesta muuttamisesta eräissä tapauksissa
+Laki aravalainojen lainaehtojen muuttamisesta eräissä tapauksissa
 Eduskunnan päätöksen mukaisesti säädetään:
