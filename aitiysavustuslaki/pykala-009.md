@@ -1,6 +1,6 @@
 # 9 § Suoritustapa. Äitiysavustuksen tai tuen menettäminen
 
-Rahana äitiysavustus ja tuki maksetaan siihen oikeutetun henkilön ilmoittamalle tilille Suomessa sijaitsevaan rahalaitokseen. Avustukseen tai tukeen oikeutetun pyynnöstä se voidaan kuitenkin maksaa muullakin tavalla.
+Rahana äitiysavustus ja tuki maksetaan siihen oikeutetun ilmoittamalle Euroopan unionissa sijaitsevalle tilille. Avustukseen tai tukeen oikeutetun pyynnöstä se voidaan kuitenkin maksaa muullakin tavalla.
 
 Äitiyspakkaus toimitetaan avustukseen oikeutetun henkilön ilmoittamalla kotimaisella osoitteella postin välityksellä tai muulla kansaneläkelaitoksen määräämällä tavalla.
 
