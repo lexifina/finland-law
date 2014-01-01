@@ -7,5 +7,3 @@ Työnantajan ja henkilöstön välisessä yhteistoiminnassa käsitellään ainak
 4) taloudellisista tai tuotannollisista syistä toimeenpantavaa osa-aikaistamista, lomauttamista tai irtisanomista.
 
 Jos kunnan talousarvioehdotuksessa edellytetään sellaisia toimenpiteitä, joiden toteuttaminen todennäköisesti aiheuttaisi useita irtisanomisia, osa-aikaistamisia, lomautuksia taikka merkittäviä heikennyksiä palvelussuhteiden ehdoissa, toimenpiteitä on käsiteltävä yhteistoimintamenettelyssä ennen kuin kunnanhallitus tekee valtuustolle lopullisen talousarvioehdotuksen.
-
-Kunnassa on laadittava yhteistoimintamenettelyssä vuosittain sellainen henkilöstö- tai muu suunnitelma, josta käyvät ilmi erilaisten työsuhdemuotojen käytön periaatteet.
