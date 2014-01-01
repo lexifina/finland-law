@@ -5,4 +5,4 @@ Rikosasiassa käytetään kaksikielisessä tuomioistuimessa asian käsittelykiel
 
 Yksikielisessä tuomioistuimessa käytetään asian käsittelykielenä tuomioistuimen virka-alueen kieltä, jollei tuomioistuin asianosaisten oikeutta ja etua silmällä pitäen päätä toisen kielen käyttämisestä.
 
-Mitä 1 ja 2 momentissa säädetään tuomioistuimesta, koskee soveltuvin osin myös syyttäjäviranomaisia. Esitutkinnassa käytettävästä kielestä säädetään tarkemmin esitutkintalaissa (449/1987).
+Mitä 1 ja 2 momentissa säädetään, koskee soveltuvin osin myös syyttäjäviranomaisia. Esitutkinnassa käytettävästä kielestä säädetään esitutkintalaissa (805/2011).
