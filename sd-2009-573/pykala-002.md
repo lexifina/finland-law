@@ -1,4 +1,4 @@
-# 2 § Maanmittaustoimiston määräämä kaupanvahvistaja
+# 2 § Maanmittauslaitoksen määräämä kaupanvahvistaja
 
 Jos kaupanvahvistajan palveluiden saatavuus sitä edellyttää, muu kuin 1 §:ssä tarkoitettu henkilö voidaan hakemuksesta määrätä toimimaan kaupanvahvistajana. Kaupanvahvistajaksi määrättävällä tulee olla riittävä perehtyneisyys ja muut edellytykset tehtävän hoitamiseen.
 
@@ -7,4 +7,4 @@ Oikeus toimia 1 momentissa tarkoitettuna kaupanvahvistajana päättyy, kun kaupa
 2) kaupanvahvistaja muuten osoittautuu tehtävään sopimattomaksi; tai
 3) olosuhteet muuten muuttuvat niin, että määräystä kaupanvahvistajaksi ei voitaisi antaa.
 
-Kaupanvahvistajan määräämistä ja määräyksen peruuttamista koskevassa asiassa toimivaltainen maanmittaustoimisto on se, jonka toimialueella hakijan tai kaupanvahvistajan asuinpaikka tai toimipaikka sijaitsee. Asian ratkaisee maanmittausjohtaja. Kaupanvahvistajan määräämistä ja määräyksen peruuttamista koskevaan päätökseen haetaan muutosta valittamalla siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
+Kaupanvahvistajan määrää ja määräyksen peruuttaa Maanmittauslaitos. Asian ratkaisee Maanmittauslaitoksen palveluksessa oleva erikseen määrätty kirjaamislakimies tai muu virkamies. Muutoksenhausta viranomaisen tekemään päätökseen säädetään hallintolainkäyttölaissa (586/1996).
