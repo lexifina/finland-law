@@ -5,7 +5,7 @@ Valtioneuvostossa on seuraavat ministeriöt:
 1) valtioneuvoston kanslia;
 2) ulkoasiainministeriö;
 3) oikeusministeriö;
-4) sisäasiainministeriö;
+4) sisäministeriö;
 5) puolustusministeriö;
 6) valtiovarainministeriö;
 7) opetus- ja kulttuuriministeriö;
