@@ -1,0 +1,2 @@
+Laki kuitintarjoamisvelvollisuudesta käteiskaupassa
+Eduskunnan päätöksen mukaisesti säädetään:
