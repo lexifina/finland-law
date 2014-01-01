@@ -1,6 +1,6 @@
 # 6 § Luovutuksen vahvistamisesta ilmoittaminen
 
-Kaupanvahvistajan on ilmoitettava viipymättä luovutuksen vahvistamisesta sille maanmittaustoimistolle ja kunnalle, jonka alueella luovutuksen kohde sijaitsee. Jos luovutuksen kohteet sijaitsevat eri maanmittaustoimistojen tai kuntien alueilla, ilmoitus on toimitettava kullekin maanmittaustoimistolle ja kunnalle.
+Kaupanvahvistajan on ilmoitettava viipymättä luovutuksen vahvistamisesta Maanmittauslaitokselle ja kunnalle, jonka alueella luovutuksen kohde sijaitsee. Ilmoitukseen tulee liittää jäljennös tai muu tallenne luovutuskirjasta.
 
 Kaupanvahvistajan ilmoitukseen on merkittävä seuraavat tiedot:
 1) luovutuksen osapuolet ja heidän yhteystietonsa;
