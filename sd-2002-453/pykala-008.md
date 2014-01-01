@@ -11,4 +11,4 @@ Tiedon luovuttajan on kuultava asianomaista tiedon tuottajaa ennen 2 momentissa 
 
 Jos kiinteistötietojärjestelmästä luovutetussa tiedossa oleva virhe tai puute on aiheutunut kiinteistötietojärjestelmään siirretyssä tiedossa olevasta virheestä tai puutteesta tai edellä 4 §:ssä tarkoitetun velvollisuuden laiminlyömisestä, asianomainen julkisyhteisö on velvollinen korvaamaan tiedon luovuttajalle tämän suorittaman vahingonkorvauksen.
 
-Jos kiinteistötietojärjestelmään sisältyvän tiedon virheellisyys aiheutuu kiinteistötietojärjestelmän hallinnosta huolehtivan maanmittauslaitoksen 5 §:n 1 momentissa tarkoitetusta toiminnasta, vastaa maanmittauslaitos tiedon luovuttajalle virheestä aiheutuneesta vahingosta sen mukaan kuin edellä 2 momentissa säädetään.
+Jos kiinteistötietojärjestelmään sisältyvän tiedon virheellisyys aiheutuu kiinteistötietojärjestelmän hallinnosta huolehtivan Maanmittauslaitoksen 5 §:n 1 momentissa tarkoitetusta toiminnasta, Maanmittauslaitos vastaa tiedon luovuttajalle virheestä aiheutuneesta vahingosta sen mukaan kuin tämän pykälän 2 momentissa säädetään.
