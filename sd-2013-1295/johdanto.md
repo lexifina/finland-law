@@ -1,0 +1,2 @@
+Laki Kansallisesta koulutuksen arviointikeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
