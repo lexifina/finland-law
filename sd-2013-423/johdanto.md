@@ -1,0 +1,2 @@
+Laki osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista
+Eduskunnan päätöksen mukaisesti säädetään:

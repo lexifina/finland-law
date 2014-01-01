@@ -1,0 +1,4 @@
+# 10 §
+Luku: 3 luku Sulautuminen
+
+Jos luottolaitoksen kotipaikka siirretään toiseen valtioon tai sulautumisessa vastaanottava luottolaitos rekisteröidään toiseen valtioon ja toimenpiteen jälkeen talletus jää kokonaan tai osittain talletussuojan ulkopuolelle, tallettajalla on oikeus irtisanoa talletus myös siten, että luottolaitoksen on viipymättä maksettava irtisanottu talletus tai annettava sen maksamisesta turvaava vakuus. Irtisanominen on tehtävä kirjallisesti ja viimeistään luottolaitoksen velkojille annettavassa osuuskuntalain 20 luvun 6 §:ssä tarkoitetussa kuulutuksessa mainittuna määräpäivänä. Edellä 9 §:ssä tarkoitetussa ilmoituksessa on mainittava tallettajan oikeudesta irtisanoa talletuksensa tämän pykälän mukaisesti. Luottolaitoksen on ilmoitettava irtisanomisesta Finanssivalvonnalle viipymättä tässä pykälässä tarkoitetulle irtisanomiselle varatun ajan päätyttyä.
