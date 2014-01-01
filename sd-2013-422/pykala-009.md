@@ -1,0 +1,7 @@
+# 9 § Hallituksen päätöksenteko valtuutuksen nojalla
+
+Jos hallitus tekee osuuskunnan kokouksen antaman valtuutuksen nojalla päätöksen ennen uuden lain voimaantuloa, päätettyyn asiaan ja siihen liittyviin rekisteröinteihin sekä muihin menettelyihin sovelletaan vanhaa lakia, jollei tästä laista johdu muuta.
+
+Jos osuuskunnan kokous on ennen uuden lain voimaantuloa päättänyt vanhan lain mukaisesta uusien osuuksien, lisäosuuksien tai sijoitusosuuksien tai optio-oikeuksien antamista tai vaihtovelkakirjalainan ottamista, omien osuuksien, lisäosuuksien tai sijoitusosuuksien hankkimista tai lunastamista taikka omien sijoitusosuuksien luovuttamista koskevasta valtuutuksesta hallitukselle, valtuutus oikeuttaa hallituksen lain voimaantulon jälkeen päättämään vastaavista toimenpiteistä uuden lain mukaisesti. Tällainen valtuutus päättyy kuitenkin viimeistään kolmen vuoden kuluttua uuden lain voimaantulosta.
+
+Osuuskunnan kokous voi uuden lain vahvistamisen ja julkaisemisen jälkeen uuden lain mukaisesti valtuuttaa hallituksen päättämään osuus- ja osakeannista, optio- ja muiden erityisten oikeuksien antamisesta, osuus- ja osakepääoman korottamisesta, ylijäämän tai vapaan oman pääoman rahaston jakamisesta taikka omien osuuksien tai osakkeiden hankkimisesta tai lunastamisesta lain voimaantulon jälkeen. Menettelyyn osuuskunnan kokouksessa sovelletaan tällöin uutta lakia jo ennen sen voimaantuloa lukuun ottamatta kokouskutsun toimittamistapaa ja aikaa sekä asiakirjojen nähtävillä pitämisen tapaa koskevia säännöksiä.
