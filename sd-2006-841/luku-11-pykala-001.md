@@ -5,4 +5,4 @@ Turvaamistoimenpiteitä ovat yhteydenpidon rajoittaminen, sitominen, tarkkailu j
 
 Turvaamistoimenpiteiden sijasta on pyrittävä käyttämään ensisijaisesti muita kuin vapautta rajoittavia keinoja vapautensa menettäneen rauhoittamiseksi taikka rikoksen tai vaaraa aiheuttavan tapahtuman estämiseksi.
 
-Vapautensa menettäneen yhteydenpidon rajoittamisesta säädetään pakkokeinolaissa.
+Vapautensa menettäneen yhteydenpidon rajoittamisesta säädetään pakkokeinolain 4 luvussa.
