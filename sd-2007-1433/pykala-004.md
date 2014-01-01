@@ -10,7 +10,7 @@ Suomessa valmistetuista painotuotteista ja tallenteista on luovutettava kappalee
 
 Jos 1 momentissa tarkoitettuja painotuotteita ja tallenteita julkaistaan yhtenä kokonaisuutena sen vuoksi, että ne on tarkoitettu käytettäviksi yhdessä, luovutetaan tällaisesta kokonaisuudesta lisäksi yksi kappale.
 
-Edellä 1 ja 2 momentissa tarkoitetut painotuotteet ja tallenteet luovutetaan Kansalliskirjastoon lukuun ottamatta elokuvan sisältäviä tallenteita, jotka luovutetaan Kansalliseen audiovisuaaliseen arkistoon.
+Edellä 1 ja 2 momentissa tarkoitetut painotuotteet ja tallenteet luovutetaan Kansalliskirjastoon lukuun ottamatta elokuvan sisältäviä tallenteita, jotka luovutetaan Kansalliseen audiovisuaaliseen instituuttiin.
 
 Luovutusvelvollisuus ei koske:
 1) pienpainatteita ja tallenteita, joiden tiedollinen, kuvallinen tai äänellinen sisältö on erityisen vähäinen;
@@ -21,6 +21,6 @@ Luovutusvelvollisuus ei koske:
 
 Mitä 4 momentissa säädetään, koskee vastaavasti ulkomailla valmistettua painotuotetta ja tallennetta.
 
-Mitä 1―3 momentissa säädetään, koskee myös ulkomailla valmistettua painotuotetta ja tallennetta, jos sitä on tuotu maahan vähintään 50 kappaletta.
+Mitä 1—3 momentissa säädetään, koskee myös ulkomailla valmistettua painotuotetta ja tallennetta, jos sitä on tuotu maahan vähintään 50 kappaletta.
 
 Kunkin vuosineljänneksen aikana valmistetut painotuotteet ja tallenteet on luovutettava 30 päivän kuluessa tämän ajanjakson päättymisestä. Ulkomailla valmistetut painotuotteet ja tallenteet on luovutettava 30 päivän kuluessa siitä, kun ne on tuotu maahan.
