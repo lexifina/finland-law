@@ -1,0 +1,2 @@
+Laki poikkeuksellisten tulvien aiheuttamien vahinkojen korvaamisen hallinnoinnista
+Eduskunnan päätöksen mukaisesti säädetään:
