@@ -1,7 +1,7 @@
 # 3 § Takavarikointikiellon sisältö
 
 Takavarikointikiellon johdosta:
-1) näyttelyesinettä ei saa ottaa haltuun eikä takavarikoida oikeudenkäymiskaaren 7 luvun tai pakkokeinolain (450/1987) nojalla;
+1) näyttelyesinettä ei saa ottaa haltuun eikä takavarikoida oikeudenkäymiskaaren 7 luvun tai pakkokeinolain (806/2011) 7 luvun nojalla;
 2) näyttelyesineeseen ei saa kohdistaa muuta turvaamistointa tai pakkokeinoa, joka estäisi esineen palauttamisen;
 3) näyttelyesinettä ei saa ulosmitata saatavasta;
 4) näyttelyesineeseen ei saa kohdistaa luovutusvelvoitteen täytäntöönpanoa;
