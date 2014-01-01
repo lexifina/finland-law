@@ -1,0 +1,2 @@
+Laki valtion varoista korvattavista merimiesten matkakustannuksista
+Eduskunnan päätöksen mukaisesti säädetään:
