@@ -1,6 +1,6 @@
-# 2 § Säilytystilaan ottamisesta ilmoittaminen
+# 2 § Vapaudenmenetyksestä ilmoittaminen
 Luku: 2 luku Säilytystilaan ottaminen
 
-Tutkintavangille ja kiinni otetulle on varattava tilaisuus ilmoittaa lähiomaiselleen tai muulle läheiselleen ottamisesta säilytystilaan. Kiinni otetulle ei kuitenkaan tarvitse varata tilaisuutta ilmoittamiseen, jos hänet vapautetaan 12 tunnin kuluessa kiinni ottamisesta ja tilaisuuden varaamiseen ei ole erityisiä syitä.
+Tutkintavangille on varattava tilaisuus ilmoittaa läheiselleen tai muulle henkilölle vapaudenmenetyksestään.
 
-Pidätetyn ottamisesta säilytystilaan on ilmoitettava pidätetyn osoituksen mukaan hänen lähiomaiselleen tai muulle läheiselleen. Jos ilmoittamisesta on erityistä haittaa rikoksen selvittämiselle, ilmoittamista voidaan lykätä enintään siihen saakka, kun tuomioistuin ottaa pidätettyä koskevan vangitsemisvaatimuksen käsiteltäväksi. Ilmoitusta ei saa ilman erityistä syytä tehdä vastoin pidätetyn tahtoa.
+Pidätetyn ja kiinni otetun vapaudenmenetyksestä on ilmoitettava pidätetyn ja kiinni otetun osoituksen mukaan hänen läheiselleen tai muulle henkilölle. Jos ilmoittamisesta on erityistä haittaa rikoksen selvittämiselle, ilmoittamista pidättämisestä voidaan päällystöön kuuluvan poliisimiehen päätöksellä lykätä enintään kaksi vuorokautta kiinniottamisesta ja ilmoittamista kiinniottamisesta voidaan lykätä tai se voidaan jättää tekemättä. Ilmoitusta ei saa ilman erityistä syytä tehdä vastoin pidätetyn tai kiinni otetun tahtoa.

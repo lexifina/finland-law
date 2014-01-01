@@ -1,7 +1,7 @@
 # 3 § Oikaisuvaatimuksesta päättäminen
 Luku: 17 luku Muutoksenhaku
 
-Oikaisuvaatimuksen ratkaisee kihlakunnan poliisilaitoksen poliisipäällikkö.
+Oikaisuvaatimuksen ratkaisee poliisilaitoksen poliisipäällikkö.
 
 Oikaisuvaatimus on käsiteltävä kiireellisenä.
 
