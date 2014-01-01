@@ -1,0 +1,4 @@
+# 49 § Viraston yhteistoimintavelvoitteen rikkominen
+Luku: 7 luku Erinäiset säännökset
+
+Virastoa työnantajana edustava virkamies, joka tahallaan tai huolimattomuudesta jättää noudattamatta tai rikkoo, mitä 11 §:ssä säädetään asian käsittelystä yhteistoiminnassa, 12 §:ssä viraston sisäisestä toiminnasta, 17 §:ssä liikkeen luovutuksesta, 18 §:ssä ulkopuolisen työvoiman käytöstä, 19 §:ssä henkilöstön edustajille annettavista tiedoista, 31 §:ssä yhteistoiminnassa käsiteltävistä asioista, 32 §:ssä yhteistoimintamenettelystä, 37 §:ssä tiedottamisvelvollisuudesta, 38 §:ssä oikeudesta käyttää asiantuntijoita, 39 §:ssä vapautuksesta virka- ja työtehtävistä tai 48 §:ssä nähtävänäpidosta, on tuomittava viraston yhteistoimintavelvoitteen rikkomisesta sakkoon. Vastuu työnantajaa edustavien henkilöiden kesken määräytyy rikoslain (39/1889) 47 luvun 7 §:ssä säädettyjen perusteiden mukaan.
