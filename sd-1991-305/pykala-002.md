@@ -8,5 +8,3 @@ Valtiokonttorin tehtävänä on, jollei toimivallasta muualla toisin säädetä:
 Valtiokonttori voi tuottaa valtionhallinnolle yhteisiä tukipalveluja. Valtioneuvoston asetuksella säädetään, mitä nämä palvelut ovat. Lisäksi Valtiokonttori suorittaa ne muut tehtävät, jotka säädetään tai määrätään sen hoidettavaksi.
 
 Valtiokonttori voi tuottaa 1 momentin 1 kohdassa tarkoitettuja palveluja sekä niiden hoidossa tarvittavia tukipalveluja myös valtionhallinnon ulkopuolisille asiakasryhmille siltä osin kuin palveluissa ei ole kysymys julkisen vallan käytöstä.
-
-Valtiokonttori voi lisäksi tuottaa julkiselle hallinnolle yhteisiä sähköisiä asioinnin ja hallinnon tukipalveluja. Valtioneuvoston asetuksella säädetään, mitkä ovat julkiselle hallinnolle tarkoitettuja yhteisiä sähköisiä asioinnin ja hallinnon tukipalveluita.
