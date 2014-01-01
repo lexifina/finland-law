@@ -1,9 +1,9 @@
 # 16 § Valittaminen jäädyttämispäätöksen täytäntöönpanosta
 Luku: 3 luku Muutoksenhaku
 
-Se, jota jäädyttämispäätös koskee, voi saattaa syyttäjän 9 §:n 1 momentissa ja 12 §:n 1 momentissa tarkoitetun päätöksen käräjäoikeuden käsiteltäväksi. Käräjäoikeuden on viivytyksettä otettava asia käsiteltäväksi. Asian käsittelyssä noudatetaan muuten soveltuvin osin, mitä pakkokeinolain 1 luvun 9 §:n 2 momentissa ja 4 luvun 13 §:ssä säädetään.
+Se, jota jäädyttämispäätös koskee, voi saattaa syyttäjän 9 §:n 1 momentissa ja 12 §:n 1 momentissa tarkoitetun päätöksen käräjäoikeuden käsiteltäväksi. Käräjäoikeuden on viivytyksettä otettava asia käsiteltäväksi. Asian käsittelyssä noudatetaan muuten soveltuvin osin, mitä pakkokeinolain 3 luvun 1 §:n 2 momentissa ja 7 luvun 15 §:ssä säädetään.
 
-Kun jäädyttämispäätös pannaan täytäntöön hukkaamiskiellosta ja vakuustakavarikosta säädetyssä järjestyksessä, ulosottomiehen täytäntöönpanotoimista saa valittaa siinä järjestyksessä kuin ulosottolaissa säädetään.
+Kun jäädyttämispäätös pannaan täytäntöön vakuustakavarikosta säädetyssä järjestyksessä, ulosottomiehen täytäntöönpanotoimista saa valittaa siinä järjestyksessä kuin ulosottokaaressa säädetään.
 
 Toimivaltainen käräjäoikeus 1 ja 2 momentissa tarkoitetussa tapauksessa on:
 1) Helsingin käräjäoikeus, jos jäädyttämispäätöksessä tarkoitettu omaisuus tai todiste sijaitsee Helsingin tai Kouvolan hovioikeuden tuomiopiirin alueella;
