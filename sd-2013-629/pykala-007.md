@@ -1,7 +1,7 @@
 # 7 § Valvonta
 Luku: 1 luku Yleiset säännökset
 
-Koevapauteen sijoitettua ja toimeenpanosuunnitelman noudattamista valvotaan 2 §:ssä tarkoitettuun asuntoon asennettavilla, koevapauteen sijoitetun haltuun annettavilla taikka hänen ylleen ranteeseen, nilkkaan tai vyötärölle kiinnitettävillä teknisillä välineillä taikka tällaisten välineiden yhdistelmällä. Tässä tarkoitettu tekninen väline ei saa mahdollistaa kotirauhan piiriin ulottuvaa, pakkokeinolain (450/1987) 5 a luvun 1 §:ssä tarkoitettua teknistä kuuntelua eikä teknistä katselua.
+Koevapauteen sijoitettua ja toimeenpanosuunnitelman noudattamista valvotaan tämän lain 2 §:ssä tarkoitettuun asuntoon asennettavilla, koevapauteen sijoitetun haltuun annettavilla taikka hänen ylleen ranteeseen, nilkkaan tai vyötärölle kiinnitettävillä teknisillä välineillä taikka tällaisten välineiden yhdistelmällä. Tässä tarkoitettu tekninen väline ei saa mahdollistaa kotirauhan piiriin ulottuvaa pakkokeinolain (806/2011) 10 luvun 16 §:n 1 momentissa tarkoitettua teknistä kuuntelua eikä 10 luvun 19 §:n 1 momentissa tarkoitettua teknistä katselua.
 
 Valvonnan tekninen toteutustapa ja valvonnan sisältö määritellään yksilöllisesti koevapauteen sijoitettavan vangin arvioidun valvonnan tarpeen perusteella. Valvonta- ja yhteydenpitomääräykset on mitoitettava riittäviksi ehtojen noudattamisen valvomiseksi.
 
