@@ -1,0 +1,9 @@
+# 5 § Tarkastukset
+
+Maaseutuvirastolla on oikeus tehdä tarkastuksia 1 §:ssä tarkoitettujen Euroopan unionin säädösten noudattamisen valvonnan edellyttämässä laajuudessa niissä kulkuneuvoissa sekä liike-, varasto- tai muissa vastaavissa ammatin tai elinkeinon harjoittamiseen käytettävissä tiloissa ja muilla alueilla, joissa on asianmukaisen huolellisuuden järjestelmää tai jäljitettävyyttä koskevia asiakirjoja taikka puutavaroita tai puutuotteita. Tarkastuksessa on noudatettava, mitä hallintolain (434/2003) 39 §:ssä säädetään. Tarkastusta ei saa tehdä pysyväisluonteiseen asumiseen käytettävässä tilassa.
+
+Ulkopuolinen asiantuntija voi Maaseutuviraston pyynnöstä avustaa tarkastuksessa. Ulkopuoliseen asiantuntijaan sovelletaan hallintolakia, kielilakia (423/2003), saamen kielilakia (1086/2003), viranomaisten toiminnan julkisuudesta annettua lakia (621/1999) sekä valtion virkamieslain (750/1994) 14 ja 15 §:ää. Asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen toimiessaan tämän lain mukaisissa tehtävissä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).
+
+Toimijan, kauppaa käyvän ja muun tarkastuksen kohteena olevan on avustettava Maaseutuvirastoa tarkastuksen tekemisessä. Maaseutuvirastolla on tarkastusta suorittaessaan oikeus ottaa asianmukaisen huolellisuuden järjestelmää sekä puutavaran ja puutuotteiden jäljitettävyyttä koskevat asiakirjat tai niistä laadittu jäljennös sekä muuta tarkastettavaa aineistoa haltuunsa, jos se on tarkastuksen kohteena olevien seikkojen selvittämisen kannalta välttämätöntä. Lisäksi Maaseutuvirastolla on oikeus tarkastuksen yhteydessä tehdä puutavaraan tai puutuotteeseen liittyviä tutkimuksia ja ottaa korvauksetta valvontaa varten tarpeellinen määrä näytteitä.
+
+Suomen metsäkeskuksella ja Elintarviketurvallisuusvirastolla on oikeus tehdä tässä pykälässä tarkoitettu tarkastus Maaseutuviraston antaman valtuutuksen perusteella.
