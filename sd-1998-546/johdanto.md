@@ -1,0 +1,2 @@
+Laki liikennevalvontaa vaikeuttavien laitteiden kieltämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
