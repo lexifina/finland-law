@@ -1,0 +1,2 @@
+Laki Kansallisgalleriasta
+Eduskunnan päätöksen mukaisesti säädetään:
