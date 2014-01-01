@@ -4,7 +4,7 @@ Kiinteistötoimitusmaksun suuruuden tulee vastata kiinteistötoimituksesta valti
 
 Kiinteistötoimitusmaksu määrätään työkorvauksena tai toimituskorvauksena. Toimituksesta perittävä kiinteistötoimitusmaksu voidaan määrätä osaksi työkorvauksena ja osaksi toimituskorvauksena.
 
-Työkorvaus määrätään toimituksen suorittamiseen käytetyn työajan, keskimääräisten palkkauskustannusten sekä, sen mukaan kuin valtioneuvoston asetuksella tarkemmin säädetään, toimituksen suorittamisesta maanmittauslaitokselle tai kunnalle aiheutuneiden muiden kustannusten perusteella.
+Työkorvaus määrätään toimituksen suorittamiseen käytetyn työajan, keskimääräisten palkkauskustannusten sekä toimituksen suorittamisesta Maanmittauslaitokselle tai kunnalle aiheutuneiden muiden kustannusten perusteella. Valtioneuvoston asetuksella säädetään tarkemmin työkorvausta määrättäessä huomioon otettavista muista kustannuksista.
 
 Toimituskorvaus määrätään toimituslajeittain samansuuruisena toimituksista aiheutuvien keskimääräisten kokonaiskustannusten perusteella.
 
