@@ -1,0 +1,2 @@
+Laki sijoitusten edistämisestä ja suojaamisesta Hongkongin kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
