@@ -1,0 +1,2 @@
+Laki lentoliikenteestä Yhdistyneiden arabiemiirikuntien kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
