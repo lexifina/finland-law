@@ -1,0 +1,2 @@
+Laki taloudellisia, sosiaalisia ja sivistyksellisiä oikeuksia koskevan kansainvälisen yleissopimuksen valinnaisen pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
