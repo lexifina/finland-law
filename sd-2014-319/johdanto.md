@@ -1,0 +1,2 @@
+Laki eläinjalostustoiminnasta
+Eduskunnan päätöksen mukaisesti säädetään:
