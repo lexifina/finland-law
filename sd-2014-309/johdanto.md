@@ -1,0 +1,2 @@
+Laki Pohjoismaiden ympäristörahoitusyhtiön kanssa tehdyn isäntämaasopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
