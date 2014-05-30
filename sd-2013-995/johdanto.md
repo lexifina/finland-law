@@ -1,0 +1,2 @@
+Laki tieteellis-teknisestä yhteistyöstä Amerikan yhdysvaltain kanssa tehdyn sopimuksen muuttamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
