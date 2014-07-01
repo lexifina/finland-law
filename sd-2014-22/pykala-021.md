@@ -1,0 +1,3 @@
+# 21 § Tarkemmat määräykset
+
+Tarkempia määräyksiä työskentelyn järjestämisestä teollisoikeusasiamieslautakunnassa voidaan antaa teollisoikeusasiamieslautakunnan puheenjohtajan vahvistamassa työjärjestyksessä.

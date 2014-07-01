@@ -1,0 +1,2 @@
+Laki auktorisoiduista teollisoikeusasiamiehistä
+Eduskunnan päätöksen mukaisesti säädetään:
