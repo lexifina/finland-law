@@ -1,3 +1,7 @@
 # 3 § Hallitus
 
-Akatemian toimintaa ohjaa ja valvoo hallitus. Hallitukseen kuuluvat pääjohtaja ja tieteellisten toimikuntien puheenjohtajat sekä kolme valtioneuvoston kolmeksi vuodeksi kerrallaan määräämää jäsentä, joilla tulee olla kokemusta tutkimustyöstä ja riittävä tiedepoliittinen asiantuntemus. Viimemainittujen keskuudesta valtioneuvosto määrää hallituksen puheenjohtajan ja varapuheenjohtajan. Sama henkilö voidaan nimittää hallituksen jäseneksi enintään kahdeksi toimikaudeksi peräkkäin.
+Akatemian toimintaa ohjaa ja valvoo hallitus. Hallituksella on puheenjohtaja sekä vähintään viisi ja enintään seitsemän muuta jäsentä. Valtioneuvosto nimittää opetus- ja kulttuuriministeriön esittelystä puheenjohtajan ja hallituksen jäsenet kolmeksi vuodeksi kerrallaan. Jäsenillä tulee olla kokemusta tutkimustyöstä ja riittävä tiedepolitiikan asiantuntemus. Valtioneuvosto määrää hallituksen puheenjohtajan ja varapuheenjohtajan. Sama henkilö voidaan nimittää enintään kahdeksi toimikaudeksi peräkkäin.
+
+Hallituksessa on läsnäolo- ja puheoikeus tieteellisten toimikuntien, strategisen tutkimuksen neuvoston ja tutkimusinfrastruktuurikomitean puheenjohtajilla.
+
+Akatemian pääjohtaja vastaa hallituksessa käsiteltävien asioiden valmistelusta, esittelystä ja toimeenpanosta.
