@@ -1,0 +1,7 @@
+# 13 § Valvontatehtävät
+
+Teollisoikeusasiamieslautakunta valvoo, että auktorisoiduille asiamiehille tässä laissa säädettyjä velvollisuuksia noudatetaan.
+
+Auktorisoidun asiamiehen on salassapitovelvollisuuden estämättä pyynnöstä annettava teollisoikeusasiamieslautakunnalle valvontaa varten tarvittavat asiakirjat ja tiedot.
+
+Auktorisoidun asiamiehen on viipymättä ilmoitettava teollisoikeuslautakunnalle auktorisoituna asiamiehenä toimimisensa edellytyksissä tai muissa toimimiseen vaikuttavissa olosuhteissaan tapahtuneista olennaisista muutoksista.
