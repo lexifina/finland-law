@@ -1,5 +1,5 @@
 # 3 § Viranomaiset
 
-Yritysostojen seurantaa ja vahvistamista koskevat asiat käsittelee työ- ja elinkeinoministeriö. Jos yritysosto voi aiheuttaa erittäin tärkeän kansallisen edun vaarantumisen, vahvistamista koskevan asian käsittelee valtioneuvoston yleisistunto.
+Työ- ja elinkeinoministeriö käsittelee yritysostojen seurantaa ja vahvistamista koskevat asiat. Työ- ja elinkeinoministeriö voi siirtää vahvistamista tai vahvistamatta jättämistä koskevan asian valtioneuvoston yleisistunnon käsiteltäväksi, jos 4 §:n nojalla toimitetun hakemuksen tai 5 §:n nojalla toimitetun ilmoituksen perusteella voidaan arvioida yritysoston mahdollisesti vaarantavan erittäin tärkeän kansallisen edun.
 
 Valmistellessaan yritysoston vahvistamista koskevaa asiaa työ- ja elinkeinoministeriön on hankittava tarpeellisessa laajuudessa lausuntoja muilta viranomaisilta.
