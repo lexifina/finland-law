@@ -5,4 +5,4 @@ Akatemian tehtävänä on:
 2) kehittää kansainvälistä tieteellistä yhteistyötä;
 3) toimia asiantuntijaelimenä tiedepolitiikkaa koskevissa kysymyksissä;
 4) myöntää rahoitusta tieteelliseen tutkimukseen, tutkijankoulutukseen ja tutkimusedellytysten kehittämiseen; sekä
-5) suorittaa muut tiedepoliittiset asiantuntijatehtävät, joista valtioneuvoston asetuksella säädetään tai jotka opetusministeriö sille antaa.
+5) suorittaa muut tiedepoliittiset asiantuntijatehtävät, joista valtioneuvoston asetuksella säädetään tai jotka opetus- ja kulttuuriministeriö sille antaa.
