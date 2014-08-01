@@ -1,2 +1,2 @@
-Laki elatusvelvoitteita koskevan neuvoston asetuksen soveltamisesta
+Laki elatusvelvoitteita koskevan neuvoston asetuksen ja elatusavun kansainvälisestä perinnästä tehdyn yleissopimuksen soveltamisesta
 Eduskunnan päätöksen mukaisesti säädetään:
