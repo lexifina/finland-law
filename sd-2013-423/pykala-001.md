@@ -7,4 +7,4 @@ Tätä lakia sovelletaan seuraaviin luottolaitoksiin :
 
 Tätä lakia sovelletaan lisäksi osuuspankkiosakeyhtiöihin niin kuin 5 luvussa säädetään.
 
-Luottolaitokseen sovelletaan osuuskuntalakia (421/2013), jollei jäljempänä tässä laissa tai luottolaitostoiminnasta annetussa laissa (121/2007) toisin säädetä.
+Luottolaitokseen sovelletaan osuuskuntalakia (421/2013), jollei jäljempänä tässä laissa tai luottolaitostoiminnasta annetussa laissa (610/2014) toisin säädetä.
