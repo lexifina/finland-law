@@ -15,4 +15,4 @@ Palveluntarjoajan on huolehdittava siitä, että säästövarojen sijoittamisest
 
 Palveluntarjoajan on järjestettävä hallussaan olevien säästövarojen säilytys, käsittely ja selvitys luotettavalla tavalla siten, ettei ole vaaraa niiden sekoittumisesta palveluntarjoajan omiin tai palveluntarjoajan toisen asiakkaan varoihin. Palveluntarjoaja ei saa kuitata säästövaroja säästövaroihin oikeutetulta olevia velkoja vastaan.
 
-Palveluntarjoajan tilintarkastajan on vähintään kerran vuodessa annettava Finanssivalvonnalle lausunto siitä, vastaavatko palveluntarjoajan säästövarojen säilytystä koskevat järjestelyt 5 momentissa säädettyjä vaatimuksia.
+Palveluntarjoajan tulee toimittaa Finanssivalvonnalle kultakin kalenterivuodelta tilintarkastajan antama lausunto siitä, vastaavatko palveluntarjoajan säästövarojen säilytystä koskevat järjestelyt 5 momentissa säädettyjä vaatimuksia.
