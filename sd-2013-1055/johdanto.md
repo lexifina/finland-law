@@ -1,0 +1,2 @@
+Laki kansainvälisen korruptionvastaisen akatemian perustamisesta kansainväliseksi järjestöksi tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
