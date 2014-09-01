@@ -1,0 +1,2 @@
+Laki Eurooppalaisen luonnontieteiden tutkimusinfrastruktuurin biologiselle tiedolle (ELIXIR) perustavan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
