@@ -1,3 +1,3 @@
 # 8 § Henkilöstö
 
-Eläinlääkintävahinkojen arviolautakunnalla on sivutoimisia esittelijöitä, jotka ottaa lautakunnan puheenjohtaja. Esittelijöinä voidaan käyttää myös maaseutuelinkeinojen valituslautakunnan esittelijöitä ja päätoimista sihteeriä.
+Lautakunnalla on tarpeellinen määrä esittelijöitä, jotka ottaa palvelukseen Elintarviketurvallisuusvirasto. Esittelijän kelpoisuusvaatimuksena on soveltuva ylempi korkeakoulututkinto.
