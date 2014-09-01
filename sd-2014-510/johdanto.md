@@ -1,0 +1,2 @@
+Laki valtion korvauksesta eräille internoiduille siviilihenkilöille
+Eduskunnan päätöksen mukaisesti säädetään:
