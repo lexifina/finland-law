@@ -14,4 +14,4 @@ Järjestäytyneen osakaskunnan säännöissä on mainittava:
 
 Jos osakaskunnan sääntöjen mukaan päätösvaltaa käyttää osakaskunnan kokouksen sijasta edustajisto, on säännöissä lisäksi mainittava edustajien ja heidän varamiestensä lukumäärä ja toimiaika sekä miten heidät valitaan.
 
-Osakaskunnan säännöt ja sääntöjen muutos on alistettava aluehallintoviraston vahvistettaviksi, ja ne tulevat voimaan, kun vahvistamispäätös on saanut lainvoiman. Aluehallintoviraston on vahvistettava säännöt, jos ne ovat lain mukaiset eikä niistä aiheudu vahinkoa osakkaalle. Aluehallintoviraston päätökseen haetaan muutosta valittamalla maaseutuelinkeinojen valituslautakuntaan noudattaen, mitä hallintolainkäyttölaissa (586/1996) säädetään.
+Osakaskunnan säännöt ja sääntöjen muutos on alistettava aluehallintoviraston vahvistettaviksi, ja ne tulevat voimaan, kun vahvistamispäätös on saanut lainvoiman. Aluehallintoviraston on vahvistettava säännöt, jos ne ovat lain mukaiset eikä niistä aiheudu vahinkoa osakkaalle.
