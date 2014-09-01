@@ -1,3 +1,3 @@
-# 6 § Palkkiot
+# 6 § Palkkiot ja kustannusten korvaukset
 
-Eläinlääkintävahinkojen arviolautakunnan jäsenet, esittelijät ja lautakunnan kuulemat asiantuntijat saavat suorittamistaan tehtävistä palkkiota ja matkakustannusten korvausta maa- ja metsätalousministeriön vahvistamien perusteiden mukaisesti.
+Lautakunnan jäsenet ja lautakunnan kuulemat asiantuntijat saavat suorittamistaan tehtävistä palkkiota ja matkakustannusten korvausta Elintarviketurvallisuusviraston vahvistamien perusteiden mukaisesti.

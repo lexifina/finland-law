@@ -7,4 +7,4 @@ Lautakunnan puheenjohtaja ja asiantuntijajäsen voivat kuitenkin yhdessä ratkai
 2) kysymys on asiasta, jossa lautakunnan käytäntö on vakiintunut; tai
 3) on ilmeistä, ettei lausuntoa voida antaa.
 
-Lautakunnan puheenjohtaja ratkaisee lautakuntaa koskevat henkilöstö-, talous- ja muut sisäiseen hallintoon liittyvät asiat. Lautakunnan työjärjestyksessä voidaan näiden asioiden ratkaisuvaltaa siirtää myös lautakunnan varapuheenjohtajalle ja esittelijälle.
+Lautakunnan puheenjohtaja ratkaisee lautakuntaa koskevat talous- ja muut sisäiseen hallintoon liittyvät asiat. Lautakunnan työjärjestyksessä voidaan näiden asioiden ratkaisuvaltaa siirtää myös lautakunnan varapuheenjohtajalle ja esittelijälle.
