@@ -1,0 +1,2 @@
+Laki Helsingissä toimivan Palestiinan edustuston asemasta Palestiinan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
