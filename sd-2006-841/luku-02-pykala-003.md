@@ -6,3 +6,5 @@ Vapautensa menettäneelle on viipymättä hänen saavuttuaan säilytystilaan tie
 Ulkomaiselle vapautensa menettäneelle on tiedotettava 7 luvun 6 §:n mukaisesta mahdollisuudesta olla yhteydessä kotimaansa edustustoon. Ulkomaiselle vapautensa menettäneelle on mahdollisuuksien mukaan annettava tulkitsemisapua. Viittomakieltä käyttävälle tai vammaisuuden vuoksi tulkitsemisapua tarvitsevalle vapautensa menettäneelle on annettava tarpeellista tulkitsemis- ja käännösapua.
 
 Vapautensa menettäneiden saatavilla on oltava kokoelma vapautensa menettäneitä koskevista säännöksistä.
+
+Vapautensa menettäneellä on oikeus pitää koko vapaudenmenetyksen ajan hallussaan hänelle esitutkintalain 4 luvun 17 §:n nojalla annettu kirjallinen ilmoitus hänen oikeuksistaan.
