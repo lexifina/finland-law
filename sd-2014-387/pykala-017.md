@@ -1,0 +1,6 @@
+# 17 § Muu lääkkeiden luovutus
+Luku: 4 luku Lääkkeiden hankkiminen ja luovutus
+
+Edellä 15 ja 16 §:ssä säädetystä poiketen eläinten pitopaikan eläinlääkintähuollosta pääasiallisesti vastaava eläinlääkäri saa luovuttaa turkiseläinten, kalojen ja siipikarjan omistajalle tai haltijalle näille eläimille annettavaksi immunologisia eläinlääkevalmisteita sairauden ennaltaehkäisemistä varten. Lisäksi eläinlääkäri saa luovuttaa lääkkeitä turkiseläinten omistajalle tai haltijalle näiden eläinten sairauksien tai niiden oireiden hoidon varalle. Edellytyksenä luovutukselle on, että eläinlääkäri käy tarkastamassa eläinten terveydentilan säännöllisesti, laatii terveydenhuoltosuunnitelman ja suunnitelman immunologisten ja muiden eläinlääkevalmisteiden käytöstä eläinten pitopaikassa sekä varmistuu siitä, että eläimen omistajalla tai haltijalla on riittävät taidot ja kyvyt tunnistaa lääkitystarpeet, käsitellä lääkkeitä ja antaa lääkkeet eläimelle.
+
+Maa- ja metsätalousministeriön asetuksella annetaan tarkemmat säännökset 1 momentissa tarkoitetun lääkkeiden luovutuksen ja luovutettujen lääkkeiden käytön ehdoista ja rajoituksista, eläinlääkärin käynneistä eläinten pitopaikassa sekä luovutettavien lääkkeiden valikoimasta ja määrästä.

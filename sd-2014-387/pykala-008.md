@@ -1,0 +1,8 @@
+# 8 § Lääkkeiden käytön kieltäminen
+Luku: 2 luku Lääkkeiden käyttö eläimille ja käytön rajoittaminen
+
+Valtioneuvoston asetuksella voidaan kieltää lääkeaineen tai muun eläinten käsittelyssä käytettävän aineen taikka eläinlääkinnässä käytettävän laitteen tai tarvikkeen käyttö määrätylle eläinlajille tai eläinryhmälle, jos sen käyttö voi vaarantaa eläimistä saatavien elintarvikkeiden turvallisuuden tai laadun tai jos sen käyttö voi aiheuttaa muuta merkittävää haittaa eläimille, ihmisille tai ympäristölle taikka jos sitä käytetään eläinten kasvun tai tuotannon edistämiseen.
+
+Valtioneuvoston asetuksella voidaan lisäksi kieltää lääkelain tai ihmisille ja eläimille tarkoitettuja lääkkeitä koskevista yhteisön lupa- ja valvontamenettelyistä ja Euroopan lääkeviraston perustamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 726/2004, jäljempänä myyntilupa-asetus, nojalla hyväksytyn eläinlääkevalmisteen käyttö muuhun kuin myyntiluvassa hyväksyttyyn käyttötarkoitukseen ja ihmiselle tarkoitetun lääkevalmisteen käyttö eläimelle, jos valmisteen käytöstä voi aiheutua haittaa eläimelle, ihmiselle tai ympäristölle.
+
+Sellaisia tuotantoeläimiä, joille on annettu beeta-agonisteja, estrogeeneja, androgeeneja tai gestageeneja tai niistä saatavaa elintarvikkeena tai rehuna käytettäväksi tarkoitettua tuotetta, ei saa viedä toiseen Euroopan unionin jäsenvaltioon eikä tuoda maahan. Kielto ei kuitenkaan koske eläviä eläimiä, joille on annettu edellä mainittuja aineita hoitotarkoituksessa tai lisääntymisen säätelyyn. Valtioneuvoston asetuksella säädetään tarkemmin tilanteista, joita kielto ei koske.
