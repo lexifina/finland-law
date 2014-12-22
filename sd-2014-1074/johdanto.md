@@ -1,0 +1,2 @@
+Laki turvallisista konteista vuonna 1972 tehdyn kansainvälisen yleissopimuksen liitteiden muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
