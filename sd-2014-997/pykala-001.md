@@ -1,0 +1,3 @@
+# 1 §
+
+Alusten aiheuttaman meren pilaantumisen ehkäisemisestä vuonna 1973 tehtyyn kansainväliseen yleissopimukseen liittyvän vuoden 1978 pöytäkirjan (SopS 51/1983) Lontoossa 10 päivänä lokakuuta 2008 Kansainvälisen merenkulkujärjestön merellisen ympäristön suojelukomitean päätöksellä MEPC.176(58) hyväksytyn uudistetun VI liitteen ja siihen Lontoossa 26 päivänä maaliskuuta 2010 mainitun komitean päätöksellä MEPC.190(60) hyväksyttyjen muutosten sekä Lontoossa 15 päivänä heinäkuuta 2011 mainitun komitean päätöksillä MEPC.202(62) ja MEPC.203(62) hyväksyttyjen muutosten lainsäädännön alaan kuuluvat määräykset ovat lakina voimassa sellaisina kuin Suomi on niihin sitoutunut.
