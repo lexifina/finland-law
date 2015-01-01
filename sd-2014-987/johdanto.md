@@ -1,0 +1,2 @@
+Laki turvatoimista valtioneuvostossa
+Eduskunnan päätöksen mukaisesti säädetään:
