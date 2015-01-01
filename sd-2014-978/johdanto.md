@@ -1,0 +1,2 @@
+Laki valtion vahingonkorvaustoiminnasta
+Eduskunnan päätöksen mukaisesti säädetään:
