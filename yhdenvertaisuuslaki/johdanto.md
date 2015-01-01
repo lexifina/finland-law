@@ -1,0 +1,2 @@
+Yhdenvertaisuuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
