@@ -1,0 +1,2 @@
+Laki Rahoitusvakausviraston hallintomaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
