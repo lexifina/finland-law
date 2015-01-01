@@ -5,4 +5,4 @@ Mittauspöytäkirja annetaan tiedoksi mittausosapuolille hallintolain 59 §:n mu
 
 Virallisen mittaajan on lähetettävä mittauspöytäkirjan kopio virallisesta mittauksesta myös mittauslautakunnan puheenjohtajalle sekä maa- ja metsätalousministeriöön.
 
-Alkuperäinen mittauspöytäkirja arkistoidaan Metsäntutkimuslaitoksessa.
+Alkuperäinen mittauspöytäkirja arkistoidaan Luonnonvarakeskuksessa.
