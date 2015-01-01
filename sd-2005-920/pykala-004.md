@@ -11,4 +11,4 @@ Tässä laissa tarkoittaa:
 8) kalibrointi toimenpiteitä, joiden avulla yksilöidyissä olosuhteissa saadaan mittauslaitteen, mittausjärjestelmän näyttämien, kiintomitan tai vertailuaineen edustamien suureen arvojen ja vastaavien mittanormaaleilla toteutettujen arvojen välinen yhteys;
 9) sertifiointi riippumattoman osapuolen vahvistusta tuotteen, prosessin, järjestelmän tai henkilön vaatimustenmukaisuudesta;
 10) tarkastus tuotteen, laitteen tai laitteiston taikka niiden suunnittelun, asennuksen taikka tuotteen valmistusprosessin tutkimista ammatillisen harkinnan ja yleisten vaatimusten perusteella vaatimustenmukaisuuden osoittamiseksi;
-11) akkreditointiyksikkö mittatekniikan keskuksen akkreditointiyksikköä.
+11) akkreditointiyksikkö Turvallisuus- ja kemikaaliviraston akkreditointiyksikköä.
