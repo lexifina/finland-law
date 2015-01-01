@@ -1,0 +1,2 @@
+Laki valtion varoista maksettavasta korvauksesta turvakotipalvelun tuottajalle
+Eduskunnan päätöksen mukaisesti säädetään:
