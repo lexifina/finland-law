@@ -1,0 +1,2 @@
+Laki kuluttajatutkimuskeskuksen toiminnan siirtämisestä Helsingin yliopistolle ja kuluttajatutkimuskeskuksen lakkauttamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
