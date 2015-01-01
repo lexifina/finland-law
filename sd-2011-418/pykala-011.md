@@ -1,8 +1,6 @@
 # 11 § Metsäkeskuksen henkilöstö
 Luku: 4 luku Henkilöstö, henkilöstön kelpoisuusvaatimukset ja toimien täyttäminen
 
-Julkisen palvelun yksikköön kuuluvan henkilön palvelussuhde on työsuhde.
+Metsäkeskuksen julkisen palvelun yksikössä on johtajan, metsäjohtajan ja rahoitus- ja tarkastuspäälliköiden lisäksi tarpeellinen määrä muuta henkilöstöä.
 
-Keskusyksikössä on johtajan lisäksi tarpeellinen määrä muuta henkilöstöä.
-
-Alueyksikössä on aluejohtajan lisäksi tarpeellinen määrä muuta henkilöstöä.
+Metsäkeskuksen julkisen palvelun yksikön toimihenkilön palvelussuhde on työsuhde.
