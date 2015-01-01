@@ -5,4 +5,4 @@ Jakautuvan luottolaitoksen jakautumissuunnitelmaan, jakautumisen täytäntöönp
 
 Jakautumisessa perustettavaan luottolaitokseen sovelletaan 11 §:ää.
 
-Mitä osuuskuntalain 21 luvun 17 §:n 6 momentissa säädetään jakautuvan osuuskunnan velasta, ei sovelleta velkaan tai velan osaan, joka voidaan korvata luottolaitostoiminnasta annetun lain 14 luvussa tarkoitetusta talletussuojarahastosta taikka sijoituspalvelulain (747/2012) 11 luvussa tarkoitetusta korvausrahastosta.
+Mitä osuuskuntalain 21 luvun 17 §:n 6 momentissa säädetään jakautuvan osuuskunnan velasta, ei sovelleta velkaan tai velan osaan, joka voidaan korvata rahoitusvakausviranomaisesta annetun lain 5 luvussa tarkoitetusta talletussuojarahastosta taikka sijoituspalvelulain (747/2012) 11 luvussa tarkoitetusta korvausrahastosta.
