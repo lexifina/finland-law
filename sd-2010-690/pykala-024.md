@@ -11,7 +11,7 @@ Sen estämättä, mitä viranomaisten toiminnan julkisuudesta annetun lain 16 §
 7) Ahvenanmaan maakunnan hallitukselle yhteisen kalastuspolitiikan noudattamisen valvontaan ja niiden suomalaisten alusten rekisteröintiä varten, joiden kotipaikka on Ahvenanmaan maakunnassa;
 8) Euroopan unionin jäsenvaltion tai Euroopan talousalueesta tehtyyn sopimukseen liittyneen valtion viranomaisille, Euroopan komissiolle, yhteisön kalastuksenvalvontavirastolle ja kansainvälisissä sopimuksissa tarkoitetuille viranomaisille unionin lainsäädännöstä tai Suomea sitovista kansainvälisistä sopimuksista johtuvien velvoitteiden hoitamista varten;
 9) Onnettomuustutkintakeskukselle pelastus- ja onnettomuustutkintaa varten;
-10) Tilastokeskukselle ja Riista- ja kalatalouden tutkimuslaitokselle tilastojen laatimista ja tutkimusta varten;
+10) Tilastokeskukselle ja Luonnonvarakeskukselle tilastojen laatimista ja tutkimusta varten;
 11) yliopistoille ja korkeakouluille tilastojen laatimista ja tutkimusta varten;
 12) kalatalousalan neuvonta- ja edunvalvontajärjestöille kalataloutta koskevaa tiedottamista ja neuvontaa varten;
 13) rekisterinpitäjän hyväksymille tahoille ympäristövaikutusten arviointimenettelyyn liittyviä tai kalataloutta koskevia selvitys-, tutkimus- ja suunnittelutarkoituksia varten.
