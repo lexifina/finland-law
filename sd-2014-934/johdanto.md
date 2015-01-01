@@ -1,0 +1,2 @@
+Laki yhteistyöstä ydinenergian rauhanomaisessa käytössä Korean tasavallan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
