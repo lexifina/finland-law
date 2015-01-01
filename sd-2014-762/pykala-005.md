@@ -1,0 +1,3 @@
+# 5 § Henkilöstön palvelussuhteen muuttuminen
+
+Henkilöstön aseman järjestämisestä säädetään työsopimuslain (55/2001) ja valtion virkamieslain (750/1994) liikkeen luovuttamista koskevissa säännöksissä. Teknologian tutkimuskeskus VTT:n ja Mittatekniikan keskuksen virat lakkaavat ja niihin perustuvat virkasuhteet sekä määräaikaiset virkasuhteet päättyvät ilman irtisanomista 31 päivänä joulukuuta 2014. Henkilöstö siirtyy työsuhteeseen yhtiöön 1 päivästä tammikuuta 2015. Teknologian tutkimuskeskus VTT:n ja Mittatekniikan keskuksen työsopimussuhteinen henkilöstö siirtyy työsuhteeseen yhtiöön 1 päivästä tammikuuta 2015.
