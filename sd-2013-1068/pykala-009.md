@@ -1,6 +1,6 @@
 # 9 § Muutoksenhaku
 
-Kaakkois-Suomen elinkeino-, liikenne- ja ympäristökeskuksen päätökseen saa vaatia oikaisua päätöksen tehneeltä viranomaiselta siten kuin hallintolain 7 a luvussa säädetään.
+Kehittämis- ja hallintokeskuksen päätökseen saa vaatia oikaisua päätöksen tehneeltä viranomaiselta siten kuin hallintolain 7 a luvussa säädetään.
 
 Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
 
