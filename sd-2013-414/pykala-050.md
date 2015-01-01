@@ -7,4 +7,4 @@ Mittauslautakunta voi ratkaista asian myös muutoksenhakijan vahingoksi.
 
 Pöytäkirja annetaan viipymättä tiedoksi asianosaisille hallintolain 59 §:n mukaisesti.
 
-Alkuperäinen pöytäkirja arkistoidaan Metsäntutkimuslaitoksessa.
+Alkuperäinen pöytäkirja arkistoidaan Luonnonvarakeskuksessa.

@@ -8,4 +8,4 @@ Puutavaran mittauksessa käytettävien mittausmenetelmien ja -laitteiden on peru
 
 Edellä 1 momentissa tarkoitetuista mittausmenetelmäryhmistä ja niihin sisältyvistä mittauksista ja laskentamenetelmistä annetaan tarkempia säännöksiä maa- ja metsätalousministeriön asetuksella.
 
-Metsäntutkimuslaitos antaa määräykset yleisistä muuntoluvuista. Ennen määräyksen antamista siitä on pyydettävä lausunto puutavaranmittauksen neuvottelukunnalta.
+Luonnonvarakeskus antaa määräykset yleisistä muuntoluvuista. Ennen määräyksen antamista siitä on pyydettävä lausunto puutavaranmittauksen neuvottelukunnalta.

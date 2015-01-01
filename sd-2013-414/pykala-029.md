@@ -1,7 +1,7 @@
 # 29 § Virallisen mittauksen vireillepano
 Luku: 5 luku Virallinen mittaus
 
-Mittausosapuolen on toimitettava virallista mittausta koskeva hakemus Metsäntutkimuslaitoksen kirjaamoon kirjeitse tai sähköisesti.
+Mittausosapuolen on toimitettava virallista mittausta koskeva hakemus Luonnonvarakeskuksen kirjaamoon kirjeitse tai sähköisesti.
 
 Hakemuksen tulee sisältää seuraavat tiedot tai kopiot alkuperäisistä asiakirjoista:
 1) mittausosapuolten nimet ja yhteystiedot;

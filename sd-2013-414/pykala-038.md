@@ -5,4 +5,4 @@ Virallisen mittaajan on lähetettävä kopio valvontamittauksen pöytäkirjasta 
 
 Pöytäkirja annetaan tiedoksi tehdasmittaajalle hallintolain 59 §:n mukaisesti.
 
-Alkuperäinen pöytäkirja arkistoidaan Metsäntutkimuslaitoksessa.
+Alkuperäinen pöytäkirja arkistoidaan Luonnonvarakeskuksessa.
