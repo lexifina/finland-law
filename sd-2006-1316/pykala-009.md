@@ -10,4 +10,4 @@ Opiskelijaksi ammatilliseen tutkintoon johtavaan koulutukseen voidaan ottaa henk
 
 Koulutuskeskuksen johtaja voi myöntää poikkeuksen 1 momentin 2 kohdan mukaisista edellytyksistä, jos hakijalla voidaan muuten katsoa olevan riittävät tiedot ja taidot asianomaisia opintoja varten.
 
-Opiskelijaksi pyrkivän tulee antaa koulutuskeskukselle opiskelijaksi ottamisen arvioinnissa tarvittavat terveydentilaansa koskevat tiedot. Koulutuskeskus voi pyytää koulutukseen hakijoista turvallisuusselvityksistä annetun lain (177/2002) mukaisen turvallisuusselvityksen.
+Opiskelijaksi pyrkivän tulee antaa koulutuskeskukselle opiskelijaksi ottamisen arvioinnissa tarvittavat terveydentilaansa koskevat tiedot. Turvallisuusselvityksen hakemisesta säädetään turvallisuusselvityslaissa (726/2014).
