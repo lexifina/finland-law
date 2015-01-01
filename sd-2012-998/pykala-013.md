@@ -5,4 +5,4 @@ Kalastusvakuutuslaitoksen on kirjallisesti haettava valtiolta korvausta tässä 
 
 Hakemus osoitetaan elinkeino-, liikenne- ja ympäristökeskukselle. Hakemukseen on liitettävä selvitys tuen saajista, tukeen oikeuttavien vahinkojen perusteella maksetuista korvauksista ja niihin sisältyvän tuen osuudesta tai tarvittavan ennakon määrästä sekä kuvaus vahinkotapahtumista.
 
-Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä korvauksen hakemisessa ja maksamisessa noudatettavasta menettelystä.
+Valtioneuvoston asetuksella voidaan säätää määräaika korvauksen hakemiselle sekä antaa tarkempia säännöksiä korvauksen hakemisessa ja maksamisessa noudatettavasta menettelystä.
