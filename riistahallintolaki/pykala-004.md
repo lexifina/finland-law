@@ -8,7 +8,7 @@ Valtakunnallisen riistaneuvoston jäsenet nimittää maa- ja metsätalousministe
 2) ympäristöministeriö;
 3) Metsähallitus;
 4) valtakunnallinen metsätaloutta edistävä julkinen taho;
-5) Riista- ja kalatalouden tutkimuslaitos;
+5) Luonnonvarakeskus;
 6) maa- ja metsätalouden kannalta valtakunnallisesti merkittävä järjestö;
 7) metsästyksen ja riistanhoidon kannalta valtakunnallisesti merkittävä järjestö;
 8) luonnonsuojelun kannalta valtakunnallisesti merkittävä järjestö.
