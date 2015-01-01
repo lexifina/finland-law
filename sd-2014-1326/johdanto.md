@@ -1,0 +1,2 @@
+Laki yhdenvertaisuusvaltuutetusta
+Eduskunnan päätöksen mukaisesti säädetään:

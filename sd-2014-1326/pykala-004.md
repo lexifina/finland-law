@@ -1,0 +1,5 @@
+# 4 § Tiedonsaantioikeus
+
+Yhdenvertaisuusvaltuutetulla on oikeus salassapitosäännösten estämättä saada viranomaiselta ja muulta julkista hallintotehtävää hoitavalta, koulutuksen järjestäjältä ja oppilaitokselta sekä tavaroiden tai palvelujen tarjoajalta maksutta yhdenvertaisuuslaissa säädettyjen valvontatehtäviensä hoitamiseksi välttämättömät tiedot sekä viranomaiselta ja muulta julkista hallintotehtävää hoitavalta ulkomaalaislaissa (301/2004) säädettyjen tehtäviensä hoitamiseksi välttämättömät tiedot.
+
+Yhdenvertaisuusvaltuutetulla on lisäksi oikeus salassapitosäännösten estämättä saada kansallisena ihmiskaupparaportoijana toimimista varten tarvittavat tiedot viranomaiselta ja muulta julkista hallintotehtävää hoitavalta sekä sellaiselta palvelujen tuottajalta, joka osallistuu kansainvälistä suojelua hakevan vastaanotosta annetun lain (746/2011) 33 §:ssä tarkoitettujen palvelujen ja tukitoimien antamiseen tai saa ihmiskaupan vastaiseen toimintaan tarkoitettua valtionapua. Valtuutetulla on kuitenkin oikeus saada henkilötietoja vain, jos tiedonsaanti on välttämätöntä ihmiskaupparaportoijalle säädettyjen tehtävien hoitamiseksi.
