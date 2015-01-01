@@ -1,0 +1,3 @@
+# 3 § Taloudelliset toimintaperiaatteet
+
+Yhtiön tarkoituksena ei ole voiton tuottaminen. Ministeriö asettaa yhtiön liiketaloudellisilla perusteilla tapahtuvalle tutkimukselle tuottotavoitteen. Yhtiön voitto käytetään kokonaisuudessaan yhtiön omaan tutkimustoimintaan, osaamisen kehittämiseen ja tutkimustulosten levittämiseen. Strateginen ja liiketaloudellisilla perusteilla tapahtuva tutkimus eriytetään kirjanpidossa, ja niistä laaditaan erilliset tuloslaskelmat tilikausikohtaisesti. Valtioneuvoston asetuksella voidaan säätää liiketaloudellisilla perusteilla tapahtuvaa tutkimusta koskevan tuloslaskelman tarkemmasta sisällöstä.
