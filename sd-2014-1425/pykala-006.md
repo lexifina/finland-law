@@ -1,0 +1,3 @@
+# 6 § Varastointi- ja hävittämiskustannukset
+
+Jos FLEGT-lupa-asetuksen 2 artiklan 9 kohdassa tarkoitettu puutuote määrätään ennen sen vapaaseen liikkeeseen luovuttamista pakkokeinolain (806/2011) mukaisesti takavarikkoon, tavaranhaltijan on suoritettava valtiolle tuotteen varastoinnista takavarikoinnin aikana aiheutuvat kustannukset. Tavaranhaltijan on suoritettava valtiolle myös valtiolle menetetyksi tuomitun puutuotteen mahdollisesta hävittämisestä aiheutuvat kustannukset. Varastointi- ja hävittämiskustannukset saadaan vähentää julkisella huutokaupalla myytyjen puutuotteiden hinnasta. Jos kustannuksia ei saada näin kokonaan suoritettua, vajaus peritään tavaranhaltijalta.
