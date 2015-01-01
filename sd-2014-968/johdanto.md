@@ -1,0 +1,2 @@
+Laki menettelyistä muodostettaessa Metsätalouden kehittämiskeskus Tapio osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
