@@ -1,0 +1,2 @@
+Laki Luonnonvarakeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
