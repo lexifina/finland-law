@@ -1,0 +1,2 @@
+Laki mittayksiköistä ja mittanormaalijärjestelmästä
+Eduskunnan päätöksen mukaisesti säädetään:
