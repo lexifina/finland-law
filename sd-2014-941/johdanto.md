@@ -1,0 +1,2 @@
+Laki asunto-osakeyhtiöiden perusparannuslainojen valtiontakauksesta
+Eduskunnan päätöksen mukaisesti säädetään:
