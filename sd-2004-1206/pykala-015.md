@@ -4,4 +4,4 @@ Tämän lain ja sen nojalla annettujen säännösten noudattamista valvoo Liiken
 
 Liikenteen turvallisuusvirasto suorittaa terminaaleissa ja irtolastialuksissa tarkastuksia tarpeellisin väliajoin varmistaakseen sen, että terminaalinhoitajat noudattavat 4 §:n 1 momentin mukaisia velvoitteitaan.
 
-Liikenteen turvallisuusvirasto toimittaa Euroopan yhteisöjen komissiolle selvityksen tämän lain säännösten mukaisesti suorittamastaan valvonnasta. Tarkemmat säännökset selvityksestä ja sen toimittamisesta annetaan liikenne- ja viestintäministeriön asetuksella.
+Liikenteen turvallisuusvirasto toimittaa Euroopan komissiolle selvityksen tämän lain säännösten mukaisesti suorittamastaan valvonnasta. Tarkemmat säännökset selvityksestä ja sen toimittamisesta annetaan liikenne- ja viestintäministeriön asetuksella.
