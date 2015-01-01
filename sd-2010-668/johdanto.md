@@ -1,0 +1,2 @@
+Laki Euroopan rahoitusvakausvälineelle annettavista valtiontakauksista
+Eduskunnan päätöksen mukaisesti säädetään:
