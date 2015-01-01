@@ -1,0 +1,2 @@
+Laki yhdenvertaisuutta koskevan lainsäädännön voimaanpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
