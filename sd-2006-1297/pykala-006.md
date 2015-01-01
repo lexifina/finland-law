@@ -5,3 +5,5 @@ Valtion eläkerahastosta siirretään vuosittain valtion talousarvioon määrä,
 Valtion eläkerahasto on karttunut täyteen määräänsä sen varainhoitovuoden lopussa, jonka aikana rahastoidut varat ovat saavuttaneet määrän, joka on 25 prosenttia valtion eläkelain piiriin kuuluvaan palvelukseen perustuvista eläkkeistä aiheutuvasta eläkevastuusta. Rahaston varojen käytöstä, sen jälkeen kun rahastointitavoite on saavutettu, säädetään erikseen.
 
 Rahaston toiminnasta aiheutuvat menot suoritetaan rahaston varoista.
+
+Edellä 1 momentista poiketen vuonna 2015 rahastosta siirretään valtion talousarvioon 1 momentin mukaan laskettava määrä lisättynä enintään 500 miljoonalla eurolla.
