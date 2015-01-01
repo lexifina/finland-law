@@ -1,6 +1,6 @@
-# 4 a § Tutkimuslaitoksen tiedonsaantioikeus
+# 4 a § Instituutin tiedonsaantioikeus
 
-Tutkimuslaitoksella on salassapitosäännösten ja tuomioistuinten antamien salassapitomääräysten sekä muiden tiedon saantia koskevien rajoitusten estämättä oikeus pyynnöstä saada maksutta laitoksen tutkimus- ja seurantatehtävien toteuttamiseksi tarpeellisia tietoja seuraavasti:
+Instituutilla on salassapitosäännösten ja tuomioistuinten antamien salassapitomääräysten sekä muiden tiedon saantia koskevien rajoitusten estämättä oikeus pyynnöstä saada maksutta instituutin tutkimus- ja seurantatehtävien toteuttamiseksi tarpeellisia tietoja seuraavasti:
 1) syyttäjäviranomaisilta tiedot asioiden käsittelystä syyttäjälaitoksessa ja syyttäjien ratkaisuista;
 2) oikeusapuviranomaisilta tiedot oikeusavusta;
 3) sovittelutoimistoilta tiedot rikos- ja riita-asioiden sovittelussa laadituista asiakirjoista;

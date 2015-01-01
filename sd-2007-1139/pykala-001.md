@@ -1,11 +1,8 @@
 # 1 § Hallinnollinen asema ja tehtävät
 
-Oikeuspoliittisen tutkimuksen harjoittamista varten oikeusministeriön hallinnonalalla toimii Oikeuspoliittinen tutkimuslaitos.
+Helsingin yliopiston yhteydessä toimii Kriminologian ja oikeuspolitiikan instituutti.
 
-Tutkimuslaitoksen tehtävänä on:
-1) harjoittaa riippumatonta oikeuspoliittista tutkimusta ottaen huomioon oikeusministeriön ja yhteiskunnan tietotarpeet;
-2) seurata oikeusoloja ja rikollisuutta sekä analysoida niitä ja raportoida niiden kehityspiirteistä;
-2 a) ylläpitää sille laissa säädettyjen tehtävien hoitamiseksi tarvittavia tutkimusrekistereitä;
-3) ylläpitää ja edistää kansallista ja kansainvälistä yhteistyötä oikeuspoliittisessa tutkimuksessa;
-4) julkaista ja välittää oikeuspoliittista tutkimustietoa;
-5) osallistua oikeuspoliittiseen tutkijakoulutukseen yhteistyössä yliopistojen kanssa.
+Instituutin tehtävänä on:
+1) harjoittaa riippumatonta kriminologista ja muuta oikeuspoliittista tutkimusta ottaen huomioon oikeusministeriön ja yhteiskunnan tietotarpeet;
+2) seurata ja analysoida rikollisuutta, rikollisuuden kontrollin ja seuraamusjärjestelmän toimintaa, oikeusoloja ja lainsäädännön vaikutuksia sekä raportoida niiden kehityspiirteistä; ja
+3) ylläpitää sille laissa säädettyjen tehtävien hoitamiseksi tarvittavia tutkimusrekistereitä.

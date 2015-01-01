@@ -1,5 +1,7 @@
-# 2 § Johtaminen
+# 2 § Johtaminen ja ohjaus
 
-Tutkimuslaitosta johtaa ylijohtaja.
+Instituutilla on johtokunta, joka ohjaa ja valvoo sen toimintaa. Johtokuntaan kuuluu yhdeksän jäsentä, ja sen asettaa Helsingin yliopiston rehtori. Oikeusministeriö nimeää jäsenistä neljä ja opetus- ja kulttuuriministeriö yhden. Lisäksi instituutin henkilökunta valitsee keskuudestaan yhden jäsenen. Johtokunnan toimikausi on neljä vuotta.
 
-Ylijohtajan nimittää valtioneuvosto.
+Instituutilla on johtaja, joka johtaa ja kehittää instituutin toimintaa sekä vastaa toiminnan tuloksellisuudesta ja tavoitteiden saavuttamisesta.
+
+Johtokunnan ja johtajan tehtävistä määrätään instituutin johtosäännöllä.

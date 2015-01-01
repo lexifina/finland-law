@@ -1,5 +1,3 @@
-# 5 § Tarkemmat säännökset ja määräykset
+# 5 § Johtosääntö
 
-Tutkimuslaitoksen tehtävistä, organisaatiosta, asioiden ratkaisemisesta ja henkilöstöä koskevista asioista säädetään tarkemmin valtioneuvoston asetuksella.
-
-Tutkimuslaitoksen työjärjestyksessä määrätään tarkemmin tutkimustoiminnan ja laitoksen sisäisen hallinnon järjestämisestä.
+Instituutin hallinnosta, taloudesta ja mahdollisista muista tehtävistä määrätään johtosäännössä, jonka Helsingin yliopisto antaa. Johtosääntöä annettaessa on otettava huomioon instituutin lakisääteiset tutkimus-, seuranta- ja rekisterinpitotehtävät.
