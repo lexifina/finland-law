@@ -1,0 +1,3 @@
+# 21 § Oikeus tietojen saamiseen
+
+Paliskunta, poroisäntä, poroisännän sijainen sekä veroviranomainen, Väestörekisterikeskus, Maaseutuvirasto, maistraatti, Eläketurvakeskus, eläkesäätiö ja muu eläkelaitos ovat velvollisia antamaan Melalle sen pyynnöstä maksutta ja salassapitosäännösten estämättä hallussaan olevat tiedot, jotka koskevat poronhoitajan tai palvelujen tuottajan yritystoimintaa taikka poronhoitajalle myönnettyjä eläkkeitä, sekä muut tiedot, jotka ovat välttämättömiä käsiteltävänä olevan asian ratkaisemiseksi tai siihen liittyvien toimenpiteiden toteuttamiseksi taikka Melalle tämän lain toimeenpanoa varten annettujen tietojen tarkistamiseksi.
