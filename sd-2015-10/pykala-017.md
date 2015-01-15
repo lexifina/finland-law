@@ -1,0 +1,4 @@
+# 17 § Turvallisuusverkkotoiminnan neuvottelukunta
+Luku: 3 luku Ohjaus ja valvonta
+
+Valtiovarainministeriön tukena 14 §:ssä tarkoitetussa ohjauksessa ja valvonnassa toimii turvallisuusverkkotoiminnan neuvottelukunta, jonka valtioneuvosto asettaa määräajaksi. Neuvottelukuntaa johtaa valtiovarainministeriö ja sen lisäksi siinä ovat edustettuina ainakin valtioneuvoston kanslia, ulkoasiainministeriö, sisäministeriö, puolustusministeriö, liikenne- ja viestintäministeriö, sosiaali- ja terveysministeriö, puolustusvoimat, Huoltovarmuuskeskus sekä Suomen Kuntaliitto ry. Neuvottelukunnan tehtävänä on osallistua tämän lain säännösten perusteella annettavien asetusten, määräysten ja tehtävien päätösten sekä muiden turvallisuusverkkotoiminnan 14 §:ssä tarkoitettua ohjausta ja valvontaa koskevien asioiden valmisteluun. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä neuvottelukunnan kokoonpanosta ja toimikaudesta sekä tehtävistä.

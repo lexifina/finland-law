@@ -1,0 +1,2 @@
+Laki julkisen hallinnon turvallisuusverkkotoiminnasta
+Eduskunnan päätöksen mukaisesti säädetään:
