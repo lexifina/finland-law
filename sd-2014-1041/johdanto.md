@@ -1,0 +1,2 @@
+Laki kansainvälisestä maantieliikenteestä Valko-Venäjän kanssa tehdyn sopimuksen muuttamisesta tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
