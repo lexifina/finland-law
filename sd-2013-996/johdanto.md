@@ -1,0 +1,2 @@
+Laki työturvallisuutta kemikaaleja käytettäessä koskevan yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
