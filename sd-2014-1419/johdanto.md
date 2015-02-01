@@ -1,0 +1,2 @@
+Laki ylimääräisistä urheilijaeläkkeistä
+Eduskunnan päätöksen mukaisesti säädetään:
