@@ -1,0 +1,6 @@
+# 14 §
+Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+
+Tiedoksianto muulle kuin 13 §:ssä tarkoitetulle yhdyskunnalle taikka yhtiölle, osuuskunnalle, yhdistykselle tai muulle yhteisölle tai yhtymälle taikka laitokselle tai säätiölle on, sikäli kuin jonkin tapauksen varalta ei toisin säädetä, toimitettava jollekin niistä, joilla on oikeus edustaa tiedoksiannon vastaanottajaa. Jollei edustajaa ole, tiedoksianto toimitetaan 10 §:ssä säädetyllä tavalla. Milloin tiedoksiannon vastaanottaja harjoittaa liikettä eikä sen edustajaa tavata, on tiedoksiannosta soveltuvin osin voimassa, mitä 7 §:ssä säädetään tiedoksiannon toimittamisesta sellaiselle henkilölle, joka harjoittaa liikettä.
+
+Tiedoksianto kuolinpesälle toimitetaan kuolinpesän osakkaille. Jos pesänselvittäjä on määrätty pitämään huolta pesän hallinnosta, tiedoksianto toimitetaan hänelle. Tiedoksianto voidaan toimittaa myös sille, joka hoitaa pesän omaisuutta, vaikka kuolinpesä ei olisikaan pesän osakkaiden hallinnossa, tai sille, jolla muutoin on oikeus edustaa kuolinpesää ja käyttää puhevaltaa kuolinpesän puolesta. Tiedoksiannon vastaanottajan on viipymättä toimitettava kullekin osakkaalle ja, jos tiedoksiannon vas taanottaja on pesän osakas, sille, jonka hallinnossa pesä on, jäljennös saamistaan asiakirjoista.

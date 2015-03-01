@@ -1,4 +1,5 @@
 # 20 §
-Luku: 10 LUKU
+Luku: 10 luku Oikeuspaikasta riita-asioissa
+Väliotsikko: Toimivallan säilyminen
 
-Jos siitä riidellään, miten kaupungissa on rakentaminen, käyköön sen niin kuin erikseen on säädetty. Haitasta ja rasitteesta, jota naapurin naapuriltansa on tahi ei ole kärsittävä, tuomitkoon raastuvanoikeus.
+Tuomioistuin, jossa asia on pantu vireille, pysyy toimivaltaisena, vaikka toimivallan perustaneissa olosuhteissa tapahtuu muutoksia vireillepanon jälkeen.

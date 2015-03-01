@@ -1,0 +1,6 @@
+# 9 b §
+Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+
+Lainvoiman saanut tuomio rikosasiassa voidaan purkaa myös, jos henkilöä on pyydetty luovutettavaksi Suomeen suorittamaan rikoslain 7 luvun nojalla tuomittua yhteistä vankeusrangaistusta, eikä luovuttaminen ole mahdollista kaikista yhteiseen vankeusrangaistukseen johtaneista rikoksista, tai luovuttamiseen ei jonkin rikoksen osalta suostuta. Tällöin korkeimman oikeuden on määrättävä rangaistus erikseen niistä rikoksista, joiden osalta luovuttaminen on mahdollista tai luovuttamiseen suostutaan, sekä muista rikoksista. Näin määrättävät rangaistukset eivät yhteensä saa olla ankarammat kuin alkuperäinen yhteinen vankeusrangaistus.
+
+Lisäksi lainvoimainen tuomio rikosasiassa voidaan purkaa, jos Suomessa määrätyn yhteisen vankeusrangaistuksen täytäntöönpanoa koskeva pyyntö on lähetetty toiseen Euroopan unionin jäsenvaltioon, eikä täytäntöönpanon siirto ole mahdollista kaikista yhteiseen vankeusrangaistukseen johtaneista rikoksista tai täytäntöönpanopyyntöön ei jonkin rikoksen osalta suostuta. Tällöin korkeimman oikeuden on määrättävä rangaistus erikseen niistä rikoksista, joiden osalta täytäntöönpanon siirtäminen on mahdollista tai pyyntöön suostutaan, sekä muista rikoksista. Näin määrättävät rangaistukset eivät yhteensä saa olla ankarammat kuin alkuperäinen yhteinen vankeusrangaistus.

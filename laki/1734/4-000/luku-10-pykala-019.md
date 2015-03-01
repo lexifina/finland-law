@@ -1,4 +1,9 @@
 # 19 §
-Luku: 10 LUKU
+Luku: 10 luku Oikeuspaikasta riita-asioissa
+Väliotsikko: Oikeuspaikkasopimus
 
-Kaupungissa olevasta huoneesta, talonasemasta ja talosta tuomitkoon sen kaupungin Oikeus, jossa ne ovat. Jos kaupungilla on maata ja tiluksia ympärillä, jotka ovat siihen yhdistetyt eivätkä kaupungista erillään, ja jos niistä syntyy riita kaupungin asukasten kesken, taikka jos rikos siellä tehdään, tuomitkoon kaupunginoikeus senkin. Jos rajoista syntyy riita porvarien ja kaupunginmaahan sattuvan emäkylän välillä, tuomitkoon siitä kihlakunnanoikeus.
+Osapuolilla on oikeus sopia, että 1–10 §:ssä tarkoitettu riita-asia voidaan tutkia tai on tutkittava muussa kuin laissa säädetyssä käräjäoikeudessa tai että asiaa ei saada tutkia jossain käräjäoikeudessa (oikeuspaikkasopimus). Oikeuspaikkasopimus on tehtävä kirjallisesti ja se voi koskea tiettyä riitakysymystä tai tietystä oikeussuhteesta vastaisuudessa syntyviä riitoja.
+
+Kuluttajan, työntekijän taikka elatusapua vaativan tai saavan oikeutta saattaa asia tämän luvun osoittaman tuomioistuimen tutkittavaksi ei voida rajoittaa oikeuspaikkasopimuksin, paitsi jos sopimus on tehty riidan syntymisen jälkeen.
+
+Oikeuspaikkasopimusta ei saa tehdä 11–17 §:ssä tarkoitetussa asiassa.

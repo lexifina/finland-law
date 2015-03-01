@@ -1,4 +1,6 @@
 # 2 §
-Luku: 13 LUKU Tuomarin jäävistä
+Luku: 13 LUKU Tuomarin esteellisyydestä
 
-(27.4.1868) Joka sopimattomalla tavalla jäävää Tuomarin, sakoitettakoon Alioikeudessa [kaksikymmentä talaria]. Hovioikeudessa [viisikymmentä talaria].
+Tämän luvun tuomaria koskevia säännöksiä sovelletaan myös tuomioistuimen muuhun jäseneen, esittelijään, pöytäkirjanpitäjään ja siihen, joka tuomioistuimessa ratkaisee asian tai voi olla läsnä asiaa ratkaistaessa.
+
+Mitä tässä luvussa säädetään asianosaisesta, koskee myös asianomistajaa, väliintulijaa ja asianosaiseen rinnastettavaa kuultavaa. Todistajalla tarkoitetaan myös muuta todistelutarkoituksessa kuultavaa henkilöä.

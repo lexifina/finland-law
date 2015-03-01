@@ -1,4 +1,6 @@
 # 3 §
-Luku: 20 LUKU Sovinnoista
+Luku: 20 LUKU Sovinnosta
 
-[Kuninkaan asiamiehellä] ei ole valtaa sovinnon kautta vähentää kruunun oikeutta, ei kahdella riitapuolella kolmannen tahi jonkun muun oikeutta, [eikä talonpojalla veronalaista maata, olkoonpa siitä riita kylän naapurusten taikka eri emäkyläin välillä.]
+Sovinto vahvistetaan asianosaisten pyynnöstä. Sovintoa ei saa vahvistaa, jos se on lain vastainen tai selvästi kohtuuton taikka jos se loukkaa sivullisen oikeutta.
+
+Tuomioistuin vahvistaa sovinnon kirjallisesti. Ratkaisusta on käytävä ilmi sovinnon kohteena oleva asia ja sovinnon sisältö.

@@ -1,0 +1,6 @@
+# 12 §
+Luku: 7 LUKU Turvaamistoimista
+
+Kanne 10 §:ssä tarkoitettujen kulujen korvaamisesta silloin, kun pääasiaa ei ole saatettu 6 §:n 1 momentissa tarkoitetulla tavalla vireille, sekä 11 §:ssä tarkoitettujen vahingon ja kulujen korvaamisesta on pantava vireille siinä käräjäoikeudessa, jolla on toimivalta tutkia 6 §:ssä tarkoitettu kanne, taikka, jos kanne ei ole käräjäoikeudessa käsiteltävä, käräjäoikeudessa sillä paikkakunnalla, missä vastapuolen on vastattava sellaisessa riita-asiassa tai missä turvaamistoimi on täytäntöönpantu. Edellä 4 §:n 3 ja 4 momentissa tarkoitetuissa asioissa kanne 10 §:ssä tarkoitettujen kulujen korvaamisesta silloin, kun pääasiaa ei ole saatettu 6 §:n 1 momentissa tarkoitetulla tavalla vireille, sekä 11 §:ssä tarkoitettujen vahingon ja kulujen korvaamisesta on kuitenkin pantava vireille markkinaoikeudessa.
+
+Kanne vahingon ja kulujen korvaamisesta on puhevallan menettämisen uhalla nostettava vuoden kuluessa päivästä, jona turvaamistoimi peruutettiin, taikka jos toimenpidettä koskevasta päätöksestä tehty valitus on silloin vielä ratkaisematta, siitä lukien, kun asia on lopullisesti ratkaistu. Kanteen vireillepanosta on kantajan viipymättä annettava ulosottomiehelle todisteellinen tieto.

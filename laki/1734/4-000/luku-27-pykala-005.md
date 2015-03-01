@@ -1,4 +1,4 @@
 # 5 §
-Luku: 27 LUKU Miten oikeudenkäyntiasioita on hovioikeudessa ajettava
+Luku: 27 luku Menettelystä hovioikeuden ensimmäisenä oikeusasteena käsittelemissä riita- ja rikosasioissa
 
-Jos se, joka on haastattanut, ei tule määrättynä päivänä riitakirjoinensa Oikeuteen, pankoon hovioikeus hänelle toisen määräajan, vaikkei katsoisikaan hänen esiintuomaansa estettä lailliseksi; kuitenkin vetäköön hän poissaolostansa sakkoa [kymmenen talaria] ja korvatkoon kulut vastaajalle, joka läsnä oli. Jos kantaja ei tule toisella kerralla eikä näytä laillista estettä, niin tuomittakoon vastaaja vapaaksi hänen kanteestansa.
+Kutsuttaessa asianosaiset pääkäsittelyyn ja pääkäsittelyä toimitettaessa noudatetaan soveltuvin osin, mitä riita- ja rikosasioiden käsittelystä käräjäoikeudessa säädetään.

@@ -1,4 +1,6 @@
 # 12 §
-Luku: 10 LUKU
+Luku: 10 luku Oikeuspaikasta riita-asioissa
 
-Mitä jostakin pääasiasta seuraa, niinkuin vahingonkorvaus ja oikeudenkäyntikulut ynnä muuta, josta joku on varannut itselleen oikeuden erittäin kantaa, tuomittakoon siinä Oikeudessa, joka on pääasian tuominnut.
+Isyyden vahvistamista koskeva asia tutkitaan käräjäoikeudessa, jonka tuomiopiirissä äidillä tai lapsella on kotipaikka tai vakituinen asuinpaikka.
+
+Isyyden kumoamista koskeva asia tutkitaan käräjäoikeudessa, jonka tuomiopiirissä lapsella on kotipaikka tai vakituinen asuinpaikka.

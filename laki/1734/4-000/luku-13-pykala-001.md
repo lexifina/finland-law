@@ -1,4 +1,6 @@
 # 1 §
-Luku: 13 LUKU Tuomarin jäävistä
+Luku: 13 LUKU Tuomarin esteellisyydestä
 
-Jos kantaja tahi vastaaja tahtoo jäävätä tuomarin, tehköön sen siivosti, ja tuomari itse tuomitkoon siitä jäävistä. Nämä ovat lailliset jäävit: kun tuomari on jommankumman kanssa sellaisessa sukulaisuudessa tahi lankoudessa, jossa avioliitto Naimiskaaren 2 Luvun mukaan ei ole luvallinen, siihen lukien myös hänen serkkunsa sukulaisuuden, vaan ei lankouden kannalta; taikka kun tuomari on hänen vastapuolensa tahi julkinen vihamiehensä; taikka kun tuomarilla tahi hänen nyt mainituilla sukulaisillansa on siinä asiassa osa, tahi kun heillä on siitä erinomaista hyötyä tahi vahinkoa odotettavana; taikka kun hän toisessa Oikeudessa on ollut samassa asiassa tuomarina, tahi on siinä ennen ollut asianajajana tai todistajana, tahi kun hän ennen, jonkin Oikeuden tahi [kuninkaan käskynhaltijan] käskyläisenä, on päättänyt jotakin siihen asiaan kuuluvaa; taikka kun hänellä itsellänsä on samanainen asia toisessa Oikeudessa. Jos tuomari tietää sellaisen jäävin itseänsä vastaan olevan, vaikka ei riitapuolella ole siitä tietoa, niin astukoon itsestänsä pois Oikeudesta.
+Tuomari ei saa käsitellä asiaa, jos hän on tässä luvussa tarkoitetuin tavoin esteellinen.
+
+Tuomari saa kuitenkin 1 momentin estämättä ratkaista kiireellisen kysymyksen, joka ei vaikuta pääasiassa tehtävään ratkaisuun, jollei esteetöntä tuomaria ole viivytyksettä saatavissa.

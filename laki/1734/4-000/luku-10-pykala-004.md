@@ -1,4 +1,4 @@
 # 4 §
-Luku: 10 LUKU
+Luku: 10 luku Oikeuspaikasta riita-asioissa
 
-Jos joku aikoo tehdä kanteen entistä holhoojaansa vastaan perintönsä tilistä, tehköön sen joko siellä, missä peritty asui ja holhooja holhutoimeen rupesi, taikka missä holhooja asuu. Jos jollekulle on uskottu jotakin hoidettavaksi, vastatkoon hän taikka hänen kuoltuaan hänen perillisensä siellä, missä omaisuus oli hoidettavana ja hallittavana.
+Valtiota vastaan esitetty vaatimus voidaan tutkia myös käräjäoikeudessa, jonka tuomiopiirissä kantajalla on kotipaikka tai vakituinen asuinpaikka.
