@@ -1,24 +1,19 @@
-# 79 § Rajoittamaton työnteko muun oleskeluluvan kuin työntekijän oleskeluluvan nojalla
+# 79 § Työnteko-oikeus ilman oleskelulupaa
 Luku: 5 luku Työnteko
-Väliotsikko: Työnteko ilman työntekijän oleskelulupaa
 
-Oikeus tehdä ansiotyötä on ulkomaalaisella, jolle on myönnetty pysyvä oleskelulupa tai jatkuva oleskelulupa muulla kuin työnteon tai ammatinharjoittamisen perusteella.
+Oikeus tehdä ansiotyötä ilman oleskelulupaa on ulkomaalaisella, joka:
+1) tulee kutsun tai sopimuksen nojalla tulkiksi, opettajaksi, asiantuntijaksi tai urheilutuomariksi enintään kolmeksi kuukaudeksi;
+2) tulee kutsun tai sopimuksen nojalla ammattitaiteilijaksi tai urheilijaksi, mukaan lukien avustava, huoltava ja valmentava henkilökunta, enintään kolmeksi kuukaudeksi;
+3) työskentelee merimiehenä joko kauppa-alusluetteloon merkityllä aluksella tai, tultuaan palvelukseen muualla kuin Suomessa, aluksella, joka pääasiassa liikennöi ulkomaisten satamien välillä;
+4) tulee marjojen, hedelmien, erikoiskasvien, juuresten tai vihannesten poimintaan tai korjuuseen taikka turkistarhatyöhön enintään kolmeksi kuukaudeksi;
+5) tulee suorittamaan toisessa Euroopan unionin tai Euroopan talousalueen valtiossa toimivan yrityksen vakituisena työntekijänä palvelujen tarjoamisvapauden piiriin kuuluvaa tilapäistä hankinta- tai alihankintatyötä, jos hänellä on mainitussa valtiossa oleskeluun ja työntekoon oikeuttavat luvat, jotka ovat voimassa työn päätyttyä Suomessa;
+6) tulee Suomeen tutkijaksi toisessa Euroopan unionin jäsenvaltiossa solmitun tutkijadirektiivin mukaisen vastaanottosopimuksen perusteella tutkijadirektiivissä tarkoitetun tieteellisen tutkimushankkeen suorittamista varten enintään kolmeksi kuukaudeksi.
 
-Oikeus tehdä ansiotyötä on ulkomaalaisella, jolle on myönnetty perhesiteen perusteella tilapäinen oleskelulupa tilapäisen työntekijän oleskeluluvan tai tilapäisen elinkeinonharjoittajan oleskeluluvan saaneen ulkomaalaisen perheenjäsenenä.
+Ulkomaalaisella on kansainvälistä suojelua haettuaan oikeus tehdä ansiotyötä ilman oleskelulupaa:
+1) kun hänellä on 11 §:n 1 momentin 1 kohdassa tarkoitettu asiakirja ja hän on oleskellut maassa kolme kuukautta;
+2) kun hän on oleskellut maassa kuusi kuukautta.
 
-Oikeus tehdä ansiotyötä on ulkomaalaisella, jolle on myönnetty tilapäinen oleskelulupa tilapäisen suojelun tai muun humanitaarisen maahanmuuton perusteella.
-
-Oikeus tehdä ansiotyötä on ulkomaalaisella, jolle on myönnetty määräaikainen oleskelulupa ja joka toimii:
-1) yrityksen yli- tai keskijohdon taikka erityisosaamista vaativissa asiantuntijatehtävissä;
-2) urheilijana, valmentajana tai urheilutuomarina, kun toiminta on ammattimaista;
-3) uskonnollisen tai aatteellisen yhteisön palveluksessa;
-4) ammattimaisesti tieteen, kulttuurin tai taiteen alalla ravintolamuusikoita lukuun ottamatta; tai
-5) kansainvälisessä järjestössä tai valtioiden väliseen viralliseen yhteistyöhön liittyvissä tehtävissä.
-
-Oikeus tehdä ansiotyötä on ulkomaalaisella, jollei hänen työn- eikä toimeksiantajallaan ole toimipaikkaa Suomessa, kun hän:
-1) toimii ammattimaisesti joukkoviestinnän alalla; tai
-2) tutkii markkinoita, valmistelee yrityksen sijoittautumista Suomeen, neuvottelee tilauksista, hankkii tilauksia tai valvoo tehtyjen tilausten toimeenpanoa tai toimii muissa vastaavissa tehtävissä.
-
-Oikeus tehdä ansiotyötä on ulkomaalaisella, jolle ulkoasiainministeriö on myöntänyt oleskeluluvan edustuston rakennus-, korjaus- ja huoltotyön tekemistä varten.
-
-Tähän pykälään perustuvasta työnteko-oikeudesta on 6 momentissa mainittua oleskelulupaa lukuun ottamatta tehtävä merkintä ulkomaalaisen oleskelulupaan.
+Kun työnantajalla tai toimeksiantajalla ei ole toimipaikkaa Suomessa, ulkomaalaisella on oikeus tehdä ansiotyötä ilman oleskelulupaa:
+1) tuote-esittelijänä tai elokuvatyöntekijänä enintään kolme kuukautta;
+2) ulkomaisessa omistuksessa tai hallinnassa olevan moottoriajoneuvon henkilökuntaan kuuluvana, kun ulkomaalainen kuljettaa ajoneuvoa, jonka rajan ylittävä kuljetus viedään määräpaikkaan tai haetaan lähtöpisteestä, taikka kun liikennöinti Suomessa liittyy säännölliseen reittiliikenteeseen paikkakuntien välillä, joista ainakin yksi sijaitsee ulkomailla, eikä ulkomaalaisella ole asuinpaikkaa Suomessa;
+3) ulkomailta Suomeen suuntautuvan seuramatkan matkanjohtajana.

@@ -1,4 +1,4 @@
-# 166 § Oleskeluoikeuden rekisteröinnin ja oleskelulupakortin raukeaminen
+# 166 § Oleskeluoikeuden rekisteröinnin ja oleskelukortin raukeaminen
 Luku: 10 luku Euroopan unionin kansalaisen ja häneen rinnastettavan oleskelu
 
-Oleskeluoikeuden rekisteröinti tai oleskelulupakortti raukeaa, jos se, jonka oleskeluoikeus on rekisteröity tai jolle on myönnetty määräaikainen oleskelulupakortti, karkotetaan maasta tai hän saa Suomen kansalaisuuden.
+Oleskeluoikeuden rekisteröinti tai oleskelukortti raukeaa, jos se, jonka oleskeluoikeus on rekisteröity tai jolle on myönnetty oleskelukortti, karkotetaan maasta tai hän saa Suomen kansalaisuuden.

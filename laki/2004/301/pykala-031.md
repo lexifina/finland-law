@@ -1,8 +1,8 @@
-# 31 § Toimivalta viisumin peruuttamisessa, viisumin voimassaoloajan lyhentämisessä, oleskelupäivien vähentämisessä ja viisumin mitätöimisessä
+# 31 § Toimivalta mitätöidä ja kumota viisumi
 Luku: 3 luku Viisumit
 
-Suomen diplomaatti- tai konsuliedustusto (jäljempänä Suomen edustusto) tekee myöntämänsä viisumin peruuttamista tai voimassaoloajan lyhentämistä taikka oleskelupäivien vähentämistä koskevan päätöksen ja mitätöi viisumin, jos ulkomaalainen oleskelee Schengen-alueen ulkopuolella.
+Viisumin mitätöi tai kumoaa viisumisäännöstön 34 artiklan mukaisesti Suomen edustusto, jos ulkomaalainen oleskelee ulkomailla.
 
-Rajatarkastusviranomainen tekee 1 momentissa mainitun päätöksen ja mitätöi viisumin rajatarkastuksen yhteydessä.
+Rajatarkastuksen yhteydessä viisumin mitätöi tai kumoaa rajatarkastusviranomainen.
 
-Ulkomaalaisvirasto, poliisi tai rajatarkastusviranomainen tekee 1 momentissa mainitun päätöksen ja mitätöi viisumin, jos ulkomaalainen oleskelee Suomen alueella.
+Maahanmuuttovirasto, poliisilaitos tai rajatarkastusviranomainen mitätöi tai kumoaa viisumin, jos ulkomaalainen oleskelee Suomen alueella.

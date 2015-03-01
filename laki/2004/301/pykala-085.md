@@ -1,8 +1,4 @@
-# 85 § Työvoimatoimiston muu toimivalta
+# 85 § Toimivaltainen työ- ja elinkeinotoimisto
 Luku: 5 luku Työnteko
 
-Työvoimatoimisto päättää työntekijän oleskelulupien myöntämisestä pidättäytymisestä 187 §:ssä säädetyin perustein.
-
-Työvoimatoimisto antaa 78 §:ssä tarkoitetun ennakkotiedon työntekijän oleskeluluvan myöntämisen työmarkkinaedellytyksistä.
-
-Tämän lain nojalla säädettyihin tehtäviin on toimivaltainen työvoimatoimisto, jonka alueella työnteko tapahtuu. Jos työtä tehdään useamman työvoimatoimiston alueelle, päätösvaltainen on työvoimatoimisto, jonka alueella työnteko pääasiassa tapahtuu. Jos työnteko ei ole minkään työvoimatoimiston alueella sidottua, päätösvaltainen on työvoimatoimisto, jonka alueella on työnantajan toimipaikka.
+Tässä laissa säädettyihin tehtäviin ovat toimivaltaisia ulkomaisen työvoiman liikkuvuuden kannalta merkittävimmissä kunnissa sijaitsevat työ- ja elinkeinotoimistot siten kuin työ- ja elinkeinoministeriön asetuksella tarkemmin säädetään.

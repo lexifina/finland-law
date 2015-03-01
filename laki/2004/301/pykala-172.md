@@ -1,4 +1,4 @@
-# 172 § Unionin kansalaisen ja hänen perheenjäsenensä sekä muun omaisensa maasta poistamisen täytäntöönpano
+# 172 § Unionin kansalaisen ja hänen perheenjäsenensä maasta poistamisen täytäntöönpano
 Luku: 10 luku Euroopan unionin kansalaisen ja häneen rinnastettavan oleskelu
 
 Käännyttämistä koskeva päätös voidaan panna heti täytäntöön muutoksenhausta huolimatta, jollei hallinto-oikeus toisin määrää, jos joku käännytetään 167 §:n 1 kohdan tai 169 §:n 1 momentin perusteella ja jos asia on perustellusti kiireellinen.
@@ -9,4 +9,6 @@ Jos joku karkotetaan maasta 168 §:n tai 169 §:n 2 momentin perusteella, karkot
 
 Käännyttämistä tai maasta karkottamista koskevan päätöksen täytäntöönpanoon käännytetyn tai maasta karkotetun suostumuksella ennen kuin päätös on saanut lainvoiman, sovelletaan 202 §:ää.
 
-Käännyttämistä tai maasta karkottamista koskevan päätöksen tiedoksiannossa on ilmoitettava aika, jonka kuluessa käännytetyn tai maasta karkotetun on poistuttava maasta. Tänä aikana päätöstä ei voida panna täytäntöön viranomaistoimin.
+Käännyttämistä tai maasta karkottamista koskevan päätöksen tiedoksiannossa on ilmoitettava aika, jonka kuluessa käännytetyn tai maasta karkotetun on poistuttava maasta. Tämän ajan on oltava vähintään yksi kuukausi päätöksen tiedoksi antamisesta, jollei maasta poistumiselle ole perusteltua kiireellistä syytä. Tänä aikana päätöstä ei voida panna täytäntöön viranomaistoimin.
+
+Jos käännyttämistä tai maasta karkottamista koskeva päätös pannaan täytäntöön yli kahden vuoden kuluttua sen tekemisestä, päätöksen täytäntöön panevan viranomaisen on varmistettava päätöksen tehneeltä viranomaiselta, että maasta poistettavan yleiselle järjestykselle tai yleiselle turvallisuudelle aiheuttama uhka on edelleen todellinen, ja arvioitava, ovatko olosuhteet karkottamispäätöksen tekemisen jälkeen muuttuneet.

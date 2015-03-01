@@ -1,8 +1,6 @@
-# 30 § Toimivalta viisumin myöntämisessä ja oleskelupäivien lisäyksessä
+# 30 § Toimivalta käsitellä viisumihakemus ja tehdä sitä koskeva päätös sekä jatkaa viisumia
 Luku: 3 luku Viisumit
 
-Schengen-valtion diplomaatti- tai konsuliedustusto taikka tarvittaessa Schengenin yleissopimuksen 17 artiklan mukaisesti nimetty sopimuspuolen toimielin myöntää ulkomailla Schengen-viisumin.
+Viisumisäännöstön 4 artiklan 1–4 kohdassa säädetään niistä Schengen-valtioiden viranomaisista, jotka käsittelevät viisumihakemukset ja tekevät niistä päätökset.
 
-Maahantulopaikan rajatarkastusviranomainen myöntää viisumin ilman viisumia maahan saapuvalle ulkomaalaiselle sekä alueellisesti rajoitetun ryhmäviisumin merimiehille.
-
-Kihlakunnan poliisilaitos myöntää paluuviisumin ja Schengen-viisumiin merkittyjen oleskelupäivien lisäyksen.
+Viisumin jatkamisesta viisumisäännöstön 33 artiklan mukaisesti päättää poliisilaitos.

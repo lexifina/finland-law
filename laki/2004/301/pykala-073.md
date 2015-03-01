@@ -1,13 +1,12 @@
-# 73 § Työnantajan velvollisuudet
+# 73 § Työ- ja elinkeinotoimiston osapäätös työntekijän oleskelulupahakemukseen
 Luku: 5 luku Työnteko
 
-Työnantajan on liitettävä työntekijän oleskelulupahakemukseen:
-1) työsopimuslain (55/2001) 2 luvun 4 §:ssä tarkoitettu selvitys työnteon keskeisistä ehdoista;
-2) vakuutus siitä, että ehdot ovat voimassa olevien säännösten ja asianomaisen työehtosopimuksen mukaiset tai, jos työehtosopimusta ei ole sovellettava, että ne vastaavat työmarkkinoilla vastaavissa tehtävissä toimiviin työntekijöihin noudatettavaa käytäntöä; sekä
-3) työvoimatoimiston vaatiessa selvitys siitä, että työnantaja on huolehtinut ja vastaisuudessa kykenee huolehtimaan velvoitteistaan työnantajana.
+Työntekijän oleskeluluvan myöntäminen perustuu harkintaan, jossa tulee:
+1) selvittää tarkoitettuun työhön sopivan, työmarkkinoilla käytettävissä olevan työvoiman saatavuus kohtuullisessa ajassa;
+2) huolehtia siitä, että työntekijän oleskeluluvan myöntäminen ei estä 1 kohdassa tarkoitetun henkilön työllistymistä;
+3) varmistaa se, että työntekijän oleskelulupa myönnetään vain edellytykset täyttävälle henkilölle, jos työssä vaaditaan erityistä pätevyyttä tai hyväksyttyä terveydentilaa;
+4) varmistaa, että työnantajan hakemukseen liittämät selvitykset ja vakuutus ovat 72 §:ssä säädetyn mukaiset.
 
-Työnantajan on varmistauduttava siitä, että palvelukseen tulevalla ja palveluksessa olevalla ulkomaalaisella on vaadittava työntekijän oleskelulupa tai että hän ei tarvitse oleskelulupaa.
+Harkittaessa työntekijän oleskeluluvan myöntämistä tulee ottaa huomioon 71 §:ssä tarkoitetut linjaukset.
 
-Työnantaja, joka ottaa palvelukseensa muun kuin unionin kansalaisen, tähän rinnastettavan tai tämän perheenjäsenen taikka pysyvällä oleskeluluvalla oleskelevan ulkomaalaisen, tulee viivytyksettä toimittaa työvoimatoimistolle 1 momentissa tarkoitettu selvitys sekä ilmoittaa työpaikan luottamusmiehelle, luottamusvaltuutetulle ja työsuojeluvaltuutetulle ulkomaalaisen nimi sekä sovellettava työehtosopimus.
-
-Työnantajan tulee säilyttää työpaikalla tiedot palveluksessaan olevista ulkomaalaisista ja heidän työnteko-oikeutensa perusteista siten, että ne ovat tarvittaessa vaivattomasti työsuojeluviranomaisen tarkastettavissa. Työnantajan on säilytettävä tiedot ulkomaalaisen palvelussuhteen päättymisestä neljä vuotta.
+Ulkomaalaisen toimeentulon on oltava turvattu ansiotyöstä saatavalla tulolla oleskeluluvan voimassaolon ajan.

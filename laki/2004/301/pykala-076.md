@@ -1,6 +1,6 @@
-# 76 § Elinkeinonharjoittajan oleskeluluvan myöntäminen ulkomailla olevalle henkilölle
+# 76 § Elinkeino-, liikenne- ja ympäristökeskuksen osapäätös elinkeinonharjoittajan oleskelulupahakemukseen
 Luku: 5 luku Työnteko
 
-Elinkeinonharjoittajan oleskeluluvan myöntäminen edellyttää, että:
-1) edellä 72 §:ssä säädetty harkinta on suoritettu ja pykälässä mainitut edellytykset täyttyvät; ja
-2) edellä 36 §:ssä säädetyt yleiset edellytykset oleskeluluvan myöntämiselle täyttyvät, eikä ulkomaalaista ole määrätty maahantulokieltoon.
+Elinkeinonharjoittajan oleskeluluvan myöntäminen perustuu harkintaan, jossa tulee varmistaa, että elinkeinotoiminnalla on kannattavan toiminnan edellytykset.
+
+Ulkomaalaisen toimeentulon on oltava turvattu ansiotyöllä, elinkeinotoiminnalla tai muulla tavalla oleskeluluvan voimassaolon ajan.

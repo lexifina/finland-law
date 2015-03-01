@@ -1,0 +1,10 @@
+# 56 a § Pitkään oleskelleen kolmannen maan kansalaisen EU-oleskeluluvan myöntäminen
+Luku: 4 luku Oleskelu
+
+Pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa myönnetään kolmannen maan kansalaiselle, joka on jatkuvan oleskeluluvan saatuaan välittömästi ennen oleskelulupahakemuksen jättämistä luvallisesti oleskellut maassa yhtäjaksoisesti viiden vuoden ajan, jos edellytykset jatkuvan oleskeluluvan myöntämiselle ovat olemassa ja pitkään oleskelleen kolmannen maan kansalaisen EU-oleskeluluvan myöntämiselle ei ole tässä laissa mainittuja esteitä.
+
+Alle kuuden kuukauden yhtäjaksoinen oleskelu Suomen ulkopuolella ei keskeytä yhtäjaksoista oleskelua, jos poissaolojaksot ovat yhteensä enintään kymmenen kuukautta. Oleskelua voidaan erityisistä syistä pitää yhtäjaksoisena edellä mainittuja ajanjaksoja pidemmistä poissaolojaksoista huolimatta, joita ei kuitenkaan oteta huomioon oleskeluaikaa laskettaessa. Jos pitkään oleskelleen kolmannen maan kansalaisen EU-oleskeluluvan hakija on Euroopan unionin sinisen kortin haltija, alle kahdentoista kuukauden yhtäjaksoinen oleskelu Euroopan unionin ulkopuolella ei keskeytä yhtäjaksoista oleskelua, jos poissaolojaksot ovat yhteensä enintään kahdeksantoista kuukautta.
+
+Viiden vuoden määräaika lasketaan ensimmäisen jatkuvaa maassa oleskelua varten myönnetyn määräaikaisen oleskeluluvan alkamispäivästä tai maahantulopäivästä, jos kolmannen maan kansalaisella on ollut jatkuva oleskelulupa maahan tullessaan. Pakolaisen ja toissijaista suojelua saavan osalta määräaika lasketaan kansainvälistä suojelua koskevan hakemuksen jättöpäivästä. Viiden vuoden yhtäjaksoista oleskelua laskettaessa otetaan huomioon myös laillinen oleskelu toisessa Euroopan unionin jäsenvaltiossa, jos kolmannen maan kansalainen on Euroopan unionin sinisen kortin haltija, joka välittömästi ennen oleskelulupahakemuksen jättämistä on oleskellut luvallisesti maassa yhtäjaksoisesti kaksi vuotta.
+
+Pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupaa ei myönnetä humanitaarista suojelua saavalle.

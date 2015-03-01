@@ -1,8 +1,6 @@
-# 28 § Viisumin peruuttaminen, voimassaoloajan lyhentäminen ja oleskelupäivien vähentäminen
+# 28 § Ulkoinen palveluntarjoaja
 Luku: 3 luku Viisumit
 
-Schengen-viisumi voidaan peruuttaa, jos viisumin myöntämisen jälkeen havaitaan, ettei 23―25 §:ssä mainittuja myöntämisen edellytyksiä ollut tai jos olosuhteet ovat viisumin myöntämisen jälkeen muuttuneet siten, että edellytykset eivät enää täyty.
+Ulkoasiainministeriö voi päättää viisumisäännöstön 40 artiklan 3 kohdassa säädetyissä tilanteissa yhden tai useamman viisumisäännöstön 43 artiklan 6 kohdassa luetellun viisumiasioihin liittyvän tehtävän antamisesta ulkoisen palveluntarjoajan suoritettavaksi. Ulkoasiainministeriön päätös voi koskea yhtä tai useampaa edustustoa.
 
-Viisumi voidaan peruuttaa myös, kun ulkomaalainen käännytetään 148 §:ssä mainitulla perusteella.
-
-Kokonaisharkinnan perusteella peruuttamisen sijasta Schengen-viisumin voimassaoloaikaa voidaan lyhentää ja oleskelupäiviä vähentää.
+Ulkoisen palveluntarjoajan kanssa tehtävään sopimukseen otetaan viisumisäännöstön 43 artiklan mukaiset ehdot sekä määräykset sopimuksen voimassaolosta ja purkamisesta.

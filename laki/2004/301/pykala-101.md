@@ -8,4 +8,4 @@ a) antamalla hakemuksen ratkaisemisen kannalta keskeisistä seikoista tahallaan 
 b) esittämällä väärennettyjä asiakirjoja ilman hyväksyttävää syytä;
 c) vaikeuttamalla muulla vilpillisellä tavalla hakemuksensa perusteiden selvittämistä; tai
 d) tekemällä hakemuksen maasta poistamismenettelyn käynnistyttyä pitkittääkseen perusteetta maassa oleskeluaan; taikka
-3) hakija on saapunut turvallisesta turvapaikka- tai alkuperämaasta, jonne hänet voidaan palauttaa, ja Ulkomaalaisvirasto ei painavasta syystä ole voinut ratkaista hakemusta 104 §:ssä säädetyn ajan kuluessa.
+3) hakija on saapunut turvallisesta turvapaikka- tai alkuperämaasta, jonne hänet voidaan palauttaa, ja Maahanmuuttovirasto ei painavasta syystä ole voinut ratkaista hakemusta 104 §:ssä säädetyn ajan kuluessa.

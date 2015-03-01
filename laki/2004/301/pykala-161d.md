@@ -1,0 +1,8 @@
+# 161 d § Perheenjäsenen oleskeluoikeuden säilyminen unionin kansalaisen kuoltua tai poistuttua Suomesta
+Luku: 10 luku Euroopan unionin kansalaisen ja häneen rinnastettavan oleskelu
+
+Unionin kansalaisen kuolema tai poistuminen maasta ei vaikuta hänen sellaisen perheenjäsenensä oleskeluoikeuteen, joka on unionin kansalainen. Perheenjäsenen on kuitenkin ennen pysyvän oleskeluoikeuden saamista täytettävä 158 a §:n 1 momentissa säädetyt edellytykset.
+
+Unionin kansalaisen perheenjäsen, joka itse ei ole unionin kansalainen ja joka on oleskellut Suomessa perheenjäsenenä vähintään yhden vuoden ajan ennen unionin kansalaisen kuolemaa, ei menetä oleskeluoikeuttaan tämän kuollessa. Ennen kuin perheenjäsen saa oikeuden pysyvään oleskeluun, hänen oleskeluoikeuteensa sovelletaan vaatimusta, jonka mukaan hänen on voitava todistaa olevansa työntekijä tai itsenäinen ammatinharjoittaja taikka että hänellä on itseään ja perheenjäseniään varten riittävät varat niin, että hän ja hänen perheenjäsenensä eivät oleskelunsa aikana muodostu rasitteeksi Suomen sosiaalihuoltojärjestelmälle, ja kattava sairausvakuutusturva Suomessa taikka että hän on nämä edellytykset täyttävän unionin kansalaisen Suomeen jo muodostuneen perheen jäsen. Tällainen perheenjäsen säilyttää oleskeluoikeutensa yksinomaan henkilökohtaisten perusteiden nojalla.
+
+Unionin kansalaisen kuollessa tai poistuessa maasta hänen lapsensa tai lasten tosiasiallisena huoltajana toimiva vanhempi ei, kansalaisuudestaan riippumatta, menetä oleskeluoikeuttaan ennen lasten opintojen päättymistä, jos lapset oleskelevat Suomessa ja ovat kirjoilla oppilaitoksessa opiskellakseen siellä.

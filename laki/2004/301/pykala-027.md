@@ -1,4 +1,6 @@
-# 27 § Oleskelupäivien lisääminen Schengen-viisumiin
+# 27 § Kunniakonsulin käyttö
 Luku: 3 luku Viisumit
 
-Schengen-viisumiin voidaan erityisestä syystä lisätä oleskelupäiviä, jos viisumin myöntämisen edellytykset edelleen täyttyvät eivätkä viisumiin lisätyt oleskelupäivät ylitä viisumin voimassaoloaikaa. Oleskelun yhteenlaskettu kesto ei saa ylittää kolmea kuukautta puolen vuoden aikana ensimmäisestä Schengen-alueelle saapumisesta lukien.
+Viisumisäännöstön 42 artiklassa tarkoitetun kunniakonsulin valtuutuksen suorittaa yksi tai useampi viisumisäännöstön 43 artiklan 6 kohdassa tarkoitettu tehtävä antaa ulkoasiainministeriö, jos se on tarpeellista palvelujen saatavuuden, toiminnan tehokkuuden tai muun vastaavan erityisen syyn vuoksi.
+
+Viisumisäännöstön 42 artiklassa säädetään kunniakonsulille asetetuista vaatimuksista tämän hoitaessa 1 momentissa tarkoitettuja tehtäviä.

@@ -1,8 +1,8 @@
-# 84 § Toimivalta elinkeinonharjoittajan oleskeluluvan myöntämiselle
+# 84 § Toimivalta myöntää elinkeinonharjoittajan oleskelulupa
 Luku: 5 luku Työnteko
 
-Työvoima- ja elinkeinokeskuksista annetussa laissa (23/1997) tarkoitettu työvoima- ja elinkeinokeskus ratkaisee elinkeinonharjoittajan oleskeluluvan myöntämiselle 76 §:n 1 kohdassa säädettyjen edellytysten täyttymisen. Työvoima- ja elinkeinokeskus ratkaisee, onko elinkeinonharjoittaminen tilapäistä vai jatkuvaa.
+Elinkeino-, liikenne- ja ympäristökeskus ratkaisee elinkeinonharjoittajan oleskeluluvan myöntämiselle 76 §:ssä säädettyjen edellytysten täyttymisen. Elinkeino-, liikenne- ja ympäristökeskus ratkaisee, onko elinkeinonharjoittaminen tilapäistä vai jatkuvaa.
 
-Ulkomaalaisvirasto myöntää työvoima- ja elinkeinokeskuksen 1 momentin mukaan tekemän myönteisen ratkaisun jälkeen ulkomaalaiselle ensimmäisen elinkeinonharjoittajan oleskeluluvan, jollei 76 §:n 2 kohdasta muuta johdu. Ulkomaalaisvirasto päättää, onko kyse 49 §:n 1 momentin 3 kohdassa tarkoitetusta perusteettomuudesta.
+Maahanmuuttovirasto myöntää elinkeino-, liikenne- ja ympäristökeskuksen 1 momentin mukaan tekemän myönteisen osapäätöksen jälkeen ulkomaalaiselle elinkeinonharjoittajan oleskeluluvan, jollei 36 §:stä muuta johdu ja jollei ulkomaalaisella hakemusta jätettäessä ole voimassa olevaa muuta oleskelulupaa. Maahanmuuttovirasto päättää, onko kyse 49 §:n 1 momentin 3 kohdassa tarkoitetusta perusteettomuudesta.
 
-Kun ulkomaalainen hakee jatkolupaa samalla perusteella kuin aikaisempi lupa on myönnetty, kihlakunnan poliisilaitos myöntää työvoima- ja elinkeinokeskuksen 1 momentin mukaan tekemän myönteisen ratkaisun jälkeen uuden elinkeinonharjoittajan oleskeluluvan, jollei 76 §:n 2 kohdasta muuta johdu.
+Jos ulkomaalaisella on hakemusta jätettäessä voimassa oleva oleskelulupa eikä 36 §:stä muuta johdu, poliisilaitos myöntää elinkeino-, liikenne- ja ympäristökeskuksen 1 momentin mukaan tekemän myönteisen osapäätöksen jälkeen elinkeinonharjoittajan oleskeluluvan.

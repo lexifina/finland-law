@@ -1,4 +1,4 @@
-# 164 § Työnteko
+# 164 § Työnteko ja elinkeinon harjoittaminen
 Luku: 10 luku Euroopan unionin kansalaisen ja häneen rinnastettavan oleskelu
 
-Sillä, jolla on tämän luvun mukainen oleskeluoikeus, on rajoittamaton oikeus tehdä ansiotyötä ilman työntekijän oleskelulupaa.
+Sillä, jolla on tämän luvun mukainen oleskeluoikeus, on rajoittamaton oikeus tehdä ansiotyötä ilman työntekijän oleskelulupaa ja harjoittaa elinkeinoa ilman elinkeinonharjoittajan oleskelulupaa.

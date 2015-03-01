@@ -1,4 +1,6 @@
-# 74 § Toimeksiantajan velvollisuudet
+# 74 § Työntekijän oleskeluluvan ammattiala- ja työnantajakohtaisuus
 Luku: 5 luku Työnteko
 
-Ulkomaisen työnantajan palveluksessa olevien työntekijöiden työskennellessä urakointi- tai aliurakointityössä tai vuokratyövoimana työnantajan 73 §:n 1―3 momentissa tarkoitettuja velvollisuuksia sovelletaan Suomessa toimivaan pääurakoitsijaan tai pääteettäjään. Lähetetyistä työntekijöistä annetussa laissa (1146/1999) tarkoitettujen työntekijöiden työsuhteen ehtojen osalta sovelletaan kuitenkin, mitä kyseisessä laissa säädetään.
+Työntekijän oleskelulupa oikeuttaa työskentelemään yhdellä tai useammalla ammattialalla.
+
+Erityisestä syystä työntekijän oleskelulupa voidaan rajata koskemaan työtä yhdellä tai useammalla ammattialalla tietyn työnantajan palveluksessa.

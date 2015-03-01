@@ -1,6 +1,6 @@
-# 210 § Ulkomaalaisviraston oikeus ratkaista kihlakunnan poliisilaitoksen toimivaltaan kuuluva asia
+# 210 § Maahanmuuttoviraston oikeus ratkaista poliisilaitoksen toimivaltaan kuuluva asia
 Luku: 14 luku Erinäiset säännökset
 
-Ulkomaalaisvirasto voi ottaa ratkaistavakseen asian, joka tässä laissa säädetään kuuluvaksi kihlakunnan poliisilaitoksen ratkaistavaksi.
+Maahanmuuttovirasto voi ottaa ratkaistavakseen asian, joka tässä laissa säädetään kuuluvaksi poliisilaitoksen ratkaistavaksi.
 
-Kihlakunnan poliisilaitos voi saattaa toimivaltaansa kuuluvan asian Ulkomaalaisviraston ratkaistavaksi, jos asia on laadultaan sellainen, että sen selvittäminen ja ratkaiseminen edellyttää Ulkomaalaisviraston asiantuntemusta, taikka jos asialla on merkitystä lain soveltamisen kannalta muissa samankaltaisissa tapauksissa.
+Poliisilaitos voi saattaa toimivaltaansa kuuluvan asian Maahanmuuttoviraston ratkaistavaksi, jos asia on laadultaan sellainen, että sen selvittäminen ja ratkaiseminen edellyttää Maahanmuuttoviraston asiantuntemusta taikka jos asialla on merkitystä lain soveltamisen kannalta muissa samankaltaisissa tapauksissa.

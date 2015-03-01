@@ -6,4 +6,4 @@ Oleskelulupa on joko määräaikainen tai pysyvä.
 
 Määräaikainen oleskelulupa myönnetään tilapäisluonteista (tilapäinen oleskelulupa) tai jatkuvaluonteista (jatkuva oleskelulupa) maassa oleskelua varten. Lupaviranomainen ratkaisee maassa oleskelun tarkoituksen ottaen huomioon ulkomaalaisen antamat tiedot maahantulonsa tarkoituksesta.
 
-Pysyvä oleskelulupa on voimassa toistaiseksi.
+Pysyvä oleskelulupa on voimassa toistaiseksi. Pysyvään oleskelulupaan rinnastetaan voimassaoloajaltaan myös pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa.

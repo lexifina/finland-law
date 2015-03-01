@@ -1,13 +1,7 @@
-# 72 § Työntekijän ja elinkeinonharjoittajan oleskeluluvan harkinnan sisältö
+# 72 § Työntekijän oleskelulupahakemus ja sen liitteet
 Luku: 5 luku Työnteko
 
-Työntekijän oleskeluluvan myöntäminen perustuu harkintaan, jossa tulee:
-1) selvittää tarkoitettuun työhön sopivan, työmarkkinoilla käytettävissä olevan työvoiman saatavuus kohtuullisessa ajassa;
-2) huolehtia siitä, että työntekijän oleskeluluvan myöntäminen ei estä 1 kohdassa tarkoitetun henkilön työllistymistä; ja
-3) varmistaa se, että työntekijän oleskelulupa myönnetään vain edellytykset täyttävälle henkilölle, jos työssä vaaditaan erityistä pätevyyttä tai hyväksyttyä terveydentilaa.
-
-Harkittaessa työntekijän oleskeluluvan myöntämistä tulee ottaa huomioon 71 §:ssä tarkoitetut linjaukset.
-
-Elinkeinonharjoittajan oleskeluluvan myöntäminen perustuu harkintaan, jossa tulee varmistaa, että elinkeinotoiminnalla on kannattavan toiminnan edellytykset.
-
-Harkittaessa työntekijän ja elinkeinonharjoittajan oleskeluluvan myöntämistä on varmistuttava, että ulkomaalaisen toimeentulo on turvattu ansiotyöllä, elinkeinotoiminnalla tai muulla tavalla.
+Oleskeluluvan hakemisesta säädetään 60 §:ssä. Työnantajan on liitettävä työntekijän oleskelulupahakemukseen:
+1) työsopimuslain (55/2001) 2 luvun 4 §:ssä tarkoitettu selvitys työnteon keskeisistä ehdoista;
+2) vakuutus siitä, että ehdot ovat voimassa olevien säännösten ja asianomaisen työehtosopimuksen mukaiset tai, jos työehtosopimusta ei ole sovellettava, että ne vastaavat työmarkkinoilla vastaavissa tehtävissä toimiviin työntekijöihin noudatettavaa käytäntöä;
+3) työ- ja elinkeinotoimiston vaatiessa selvitys siitä, että työnantaja on huolehtinut ja vastaisuudessa kykenee huolehtimaan velvoitteistaan työnantajana.

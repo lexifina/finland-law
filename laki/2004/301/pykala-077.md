@@ -1,4 +1,20 @@
-# 77 § Työntekijän oleskeluluvan ammattialakohtaisuus
+# 77 § Muu oleskelulupa ansiotyötä varten
 Luku: 5 luku Työnteko
 
-Työntekijän oleskelulupa oikeuttaa työskentelemään yhdellä tai useammalla ammattialalla. Erityisestä syystä työntekijän oleskelulupa voidaan rajata koskemaan työtä tietyn työnantajan palveluksessa.
+Muu oleskelulupa ansiotyötä varten myönnetään ulkomaalaiselle, joka:
+1) toimii yrityksen yli- tai keskijohdon taikka erityisosaamista vaativissa asiantuntijatehtävissä;
+2) toimii urheilijana, valmentajana tai urheilutuomarina, kun toiminta on ammattimaista;
+3) toimii uskonnollisen tai aatteellisen yhteisön palveluksessa;
+4) toimii ammattimaisesti tieteen, kulttuurin tai taiteen alalla ravintolamuusikoita lukuun ottamatta;
+5) toimii kansainvälisessä järjestössä tai valtioiden väliseen viralliseen yhteistyöhön liittyvissä tehtävissä;
+6) toimii ammattimaisesti joukkoviestinnän alalla, jollei hänen työn- eikä toimeksiantajallaan ole toimipaikkaa Suomessa;
+7) tutkii markkinoita, valmistelee yrityksen sijoittautumista Suomeen, neuvottelee tilauksista, hankkii tilauksia tai valvoo tehtyjen tilausten toimeenpanoa tai toimii muissa vastaavissa tehtävissä, jollei hänen työn- eikä toimeksiantajallaan ole toimipaikkaa Suomessa;
+8) on suorittanut Suomessa tutkinnon ja maassa oleskelun pääasiallinen tarkoitus on työnteko;
+9) toimii kutsun tai sopimuksen nojalla vierailevana opettajana, luennoitsijana, kouluttajana, konsulttina tai tutkijana, jos työ kestää enintään yhden vuoden;
+10) tekee yksittäisen ulkomailta maahan tuodun tai maasta ulkomaille vietävän koneen, laitteen, tuotantolinjan tai asiantuntijajärjestelmän toimitussopimukseen sisältyvän työn, jos työ kestää enintään kuusi kuukautta;
+11) suorittaa työn tai työharjoittelun, joka sisältyy valtioiden väliseen sopimukseen tai kansalaisjärjestöjen vaihto-ohjelmaan, jos työ tai harjoittelu kestää enintään 18 kuukautta, tai joka tapahtuu korkeakoulututkinnon suorittaneen ulkomaalaisen enintään vuoden kestävänä siirtona yrityksen sisällä; tai
+12) on 18–30-vuotias ja suorittaa työharjoittelun, kun hän opiskelee ulkomaisessa korkeakoulussa suomen tai ruotsin kieltä tai kun harjoittelun ala vastaa ulkomaalaisen opintoja tai tutkintoa, jos työharjoittelu kestää enintään 18 kuukautta.
+
+Jos työnteko ylittää 1 momentin 9–12 kohdassa säädetyt aikarajat, ulkomaalaisen on haettava työntekijän oleskelulupaa.
+
+Ulkomaalaisen toimeentulon on oltava turvattu ansiotyöstä saatavalla tulolla oleskeluluvan voimassaolon ajan.

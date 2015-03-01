@@ -1,7 +1,7 @@
 # 133 § Maahantulijoiden rekisteröinti laajamittaisessa maahantulossa
 Luku: 7 luku Turvaamistoimet
 
-Jos maahantulijoiden määrä on poikkeuksellisesti niin suuri, ettei maahantulon edellytysten selvittäminen ja maahantulijoiden rekisteröinti tavallisessa menettelyssä ole mahdollista, valtioneuvosto voi yleisistunnossa päättää, että maahantulijat, joiden maahantulon edellytykset ovat epäselvät tai joiden henkilöllisyys on epäselvä, voidaan rekisteröintiä varten toimittaa maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain (493/1999) 6 a §:ssä tarkoitettuun järjestelykeskukseen.
+Jos maahantulijoiden määrä on poikkeuksellisesti niin suuri, ettei maahantulon edellytysten selvittäminen ja maahantulijoiden rekisteröinti tavallisessa menettelyssä ole mahdollista, valtioneuvosto voi yleisistunnossa päättää, että maahantulijat, joiden maahantulon edellytykset ovat epäselvät tai joiden henkilöllisyys on epäselvä, voidaan rekisteröintiä varten toimittaa kansainvälistä suojelua hakevan vastaanotosta annetun lain 3 §:ssä tarkoitettuun järjestelykeskukseen.
 
 Valtioneuvoston päätös tehdään määräajaksi, enintään kuitenkin kolmeksi kuukaudeksi.
 

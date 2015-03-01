@@ -1,4 +1,4 @@
-# 195 § Ulkomaalaisviraston valitusoikeus
+# 195 § Maahanmuuttoviraston valitusoikeus
 Luku: 13 luku Oikeusturva
 
-Ulkomaalaisvirastolla on oikeus valittaa hallinto-oikeuden päätöksestä, jolla Ulkomaalaisviraston päätös on kumottu tai sitä on muutettu.
+Maahanmuuttovirastolla on oikeus valittaa hallinto-oikeuden päätöksestä, jolla Maahanmuuttoviraston päätös on kumottu tai sitä on muutettu.

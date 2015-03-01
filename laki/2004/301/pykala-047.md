@@ -3,12 +3,13 @@ Luku: 4 luku Oleskelu
 
 Jatkuva oleskelulupa myönnetään ulkomailla olevalle henkilölle:
 1) jos ulkomaalainen on ollut Suomen kansalainen tai ainakin toinen hänen vanhemmistaan tai yksi hänen isovanhemmistaan on tai on ollut syntyperäinen Suomen kansalainen;
-2) jatkuvaluonteista työntekoa varten; taikka
-3) jatkuvaluonteista elinkeinonharjoittamista varten.
+2) jatkuvaluonteista työntekoa varten;
+3) jatkuvaluonteista elinkeinonharjoittamista varten; taikka
+4) kolmansien maiden kansalaisten erityisestä maahanpääsymenettelystä tieteellistä tutkimusta varten annetussa neuvoston direktiivissä 2005/71/EY (tutkijadirektiivi) tarkoitetun tieteellisen tutkimushankkeen suorittamista varten.
 
 Jatkuvaluonteista työntekoa varten myönnetään työntekijän oleskelulupa tai muu oleskelulupa. Jatkuvaluonteista elinkeinonharjoittamista varten myönnetään elinkeinonharjoittajan oleskelulupa. Työntekijän ja elinkeinonharjoittajan oleskeluluvan myöntämisestä säädetään tarkemmin 5 luvussa.
 
-Kun ulkomaalaiselle on myönnetty jatkuva tai pysyvä oleskelulupa, hänen perheenjäsenelleen myönnetään jatkuva oleskelulupa.
+Kun ulkomaalaiselle on myönnetty jatkuva tai pysyvä oleskelulupa, hänen perheenjäsenelleen myönnetään jatkuva oleskelulupa. Kun ulkomaalaiselle on myönnetty 10 luvun mukainen oleskelukortti unionin kansalaisen perheenjäsenenä ja hän on säilyttänyt 161 d tai 161 e §:n perusteella oleskeluoikeutensa henkilökohtaisten perusteidensa nojalla, hänen perheenjäsenelleen myönnetään jatkuva oleskelulupa.
 
 Jatkuvan oleskeluluvan myöntäminen 1 momentin 1 kohdan nojalla ei edellytä, että ulkomaalaisen tai hänen perheenjäsenensä toimeentulo on turvattu.
 

@@ -1,6 +1,6 @@
-# 12 § Rajanylityspaikat
+# 12 § Rajan ylittämistä koskevat säännökset
 Luku: 2 luku Maahantulo
 
-Ulkomaalaisen maahantulo ja maastalähtö on sallittu vain rajanylityspaikkojen kautta, jollei Euroopan yhteisön lainsäädännöstä tai Suomea sitovasta kansainvälisestä sopimuksesta muuta johdu.
+Rajan ylittämisestä Euroopan unionin ulkorajoilla säädetään Schengenin rajasäännöstössä.
 
-Rajatarkastusviranomainen voi antaa luvan maahantuloon ja maastalähtöön muualtakin kuin rajanylityspaikan kautta (rajanylityslupa).
+Rajavartiolaissa ja sen nojalla annetuissa säännöksissä säädetään muutoin valtakunnan rajan ylittämisestä ja sen valvonnasta, rajanylityspaikoista ja niiden aukioloajoista, rajatarkastustehtävien jakamisesta rajavartiolaitoksen, poliisin ja tullin kesken eri rajanylityspaikoilla sekä Schengenin rajasäännöstön edellyttämistä kansallisista tehtävistä ja toimivaltuuksista.

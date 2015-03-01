@@ -10,3 +10,5 @@ Turvapaikka jätetään antamatta ulkomaalaiselle, joka on tehnyt tai jonka on p
 3) Yhdistyneiden kansakuntien tarkoitusperien ja periaatteiden vastaisen teon.
 
 Turvapaikka jätetään antamatta henkilölle, joka voi saada suojelua tai apua muilta Yhdistyneiden kansakuntien elimiltä tai toimistoilta kuin Yhdistyneiden kansakuntien pakolaisasiain päävaltuutetulta (UNHCR). Kun sellainen suojelu tai apu on lakannut ilman, että sellaisen henkilön asemaa on lopullisesti säännelty Yhdistyneiden kansakuntien yleiskokouksen hyväksymien voimassa olevien päätöslauselmien mukaisesti, sellainen henkilö on oikeutettu pakolaisasemaan. Jos henkilö on vapaaehtoisesti luopunut edellä mainitusta suojelusta poistumalla suoja-alueelta muista kuin suojelun tarpeeseen liittyvistä syistä, hänen oleskeluoikeutensa tutkitaan tämän lain mukaan.
+
+Turvapaikka jätetään antamatta ulkomaalaiselle, jolla on sen valtion, johon hän on asettunut asumaan, toimivaltaisten viranomaisten tunnustamat tämän valtion kansalaisuuteen liittyvät oikeudet ja velvollisuudet.

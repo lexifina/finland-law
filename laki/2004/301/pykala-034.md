@@ -1,6 +1,6 @@
-# 34 § Oleskelulupamerkintä
+# 34 § Oleskelulupakorttiin tehtävät merkinnät
 Luku: 4 luku Oleskelu
 
-Määräaikaisen oleskelun luonne osoitetaan oleskelulupaan merkittävällä kirjaintunnuksella. Jatkuvaan oleskelulupaan merkitään kirjaintunnus A ja tilapäiseen oleskelulupaan kirjaintunnus B.
+Oleskelun luonteen osoitukseksi oleskelulupakorttiin merkitään kirjaintunnus. Jatkuvan oleskeluluvan kirjaintunnus on A, tilapäisen oleskeluluvan B, pysyvän oleskeluluvan P ja pitkään oleskelleen kolmannen maan kansalaisen EU-oleskeluluvan P-EU.
 
-Pysyvään oleskelulupaan merkitään kirjaintunnus P.
+Oleskelulupakorttiin tehdään lisäksi merkintä direktiivistä, jonka perusteella oleskelulupa on myönnetty.

@@ -2,10 +2,12 @@
 Luku: 4 luku Oleskelu
 Väliotsikko: Lupamenettely ja toimivaltaiset viranomaiset
 
-Ensimmäistä oleskelulupaa on haettava ulkomailla ennen Suomeen saapumista siinä maassa, jossa hakija laillisesti oleskelee. Hakemus jätetään Suomen edustustolle.
+Ensimmäistä oleskelulupaa on haettava ulkomailla ennen Suomeen saapumista siinä maassa, jossa hakija laillisesti oleskelee. Ensimmäistä oleskelulupaa voidaan kuitenkin 49, 49 a, 50, 50 a, 51, 52, 52 a ja 52 d §:n perusteella hakea Suomessa.
 
-Oleskelulupaa voidaan 49―52, 54 ja 56 §:n perusteella hakea Suomessa. Hakemus jätetään kihlakunnan poliisilaitokselle.
+Jatkolupaa, pysyvää oleskelulupaa ja pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupaa haetaan Suomessa.
 
-Ulkoasiainministeriön ollessa luvan myöntävä viranomainen lupahakemus voidaan jättää ulkoasiainministeriölle henkilön jo saavuttua maahan.
+Hakemus jätetään Suomessa paikallispoliisille ja ensimmäistä oleskelulupaa koskeva hakemus ulkomailla Suomen edustustolle.
+
+Jos ulkoasiainministeriö on luvan myöntävä viranomainen, lupahakemus voidaan jättää ulkoasiainministeriölle hakijan jo saavuttua maahan.
 
 Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä oleskeluluvan hakemiseen liittyvästä menettelystä.

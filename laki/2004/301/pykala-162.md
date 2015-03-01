@@ -1,6 +1,8 @@
-# 162 § Pysyvä oleskelulupakortti
+# 162 § Pysyvä oleskelukortti
 Luku: 10 luku Euroopan unionin kansalaisen ja häneen rinnastettavan oleskelu
 
-Unionin kansalaiselle taikka hänen perheenjäsenelleen tai muulle omaiselleen myönnetään hakemuksesta pysyvä oleskelulupakortti, kun hän on asunut Suomessa yhtäjaksoisesti neljän vuoden ajan. Asumista pidetään yhtäjaksoisena, jos hakija on oleskellut Suomessa vähintään puolet neljän vuoden ajasta.
+Unionin kansalaisen perheenjäsenelle, joka ei ole unionin kansalainen ja jolla on oikeus pysyvään oleskeluun, myönnetään hakemuksesta pysyvä oleskelukortti kuuden kuukauden kuluessa hakemuksen tekemisestä.
 
-Opiskelutarkoituksessa Suomessa oleskelevalle ei myönnetä pysyvää oleskelulupakorttia.
+Pysyvää oleskelukorttia koskeva hakemus on tehtävä ennen oleskelukortin voimassaoloajan päättymistä.
+
+Oleskelun keskeytymiset, jotka ovat yhtäjaksoisesti korkeintaan kahden vuoden pituisia, eivät vaikuta pysyvän oleskelukortin voimassaoloon.

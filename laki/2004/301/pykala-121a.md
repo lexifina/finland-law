@@ -1,0 +1,4 @@
+# 121 a § Pakenemisen vaara
+Luku: 7 luku Turvaamistoimet
+
+Pakenemisen vaara voi olla kyseessä, jos 118–120 §:ssä tarkoitettua turvaamistoimea on käytetty, mutta se on osoittautunut riittämättömäksi, tai jos ulkomaalainen on vaihtanut asuinpaikkaansa ilmoittamatta yhteystietojaan viranomaiselle. Arvioitaessa pakenemisen vaaraa otetaan huomioon henkilön tilanne kokonaisuudessaan.

@@ -1,4 +1,4 @@
 # 189 § Laittoman maahantulon järjestäminen
 Luku: 12 luku Rangaistussäännökset
 
-Rangaistus laittoman maahantulon järjestämisestä säädetään rikoslain 17 luvun 8 §:ssä.
+Rangaistus laittoman maahantulon järjestämisestä ja törkeästä laittoman maahantulon järjestämisestä säädetään rikoslain 17 luvun 8 § :ssä ja 8 a §:ssä.

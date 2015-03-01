@@ -1,10 +1,10 @@
-# 152 § Ulkomaalaisvirasto
+# 152 § Maahanmuuttovirasto
 Luku: 9 luku Maasta poistaminen
 
-Ulkomaalaisvirasto päättää käännyttämisestä kihlakunnan poliisilaitoksen tai rajatarkastusviranomaisen esityksestä taikka omasta aloitteestaan.
+Maahanmuuttovirasto esittää 149 b §:ssä tarkoitetun vaatimuksen kolmannen maan kansalaiselle siirtyä toiseen Euroopan unionin jäsenvaltioon omasta aloitteestaan sekä päättää käännyttämisestä ja pääsyn epäämisestä poliisilaitoksen tai rajatarkastusviranomaisen esityksestä taikka käännyttämisestä omasta aloitteestaan.
 
-Ulkomaalaisvirasto päättää aina käännyttämisestä, jos ulkomaalaisen maahantulosta on kulunut yli kolme kuukautta taikka jos ulkomaalainen on hakenut oleskelulupaa kansainvälisen suojelun tai tilapäisen suojelun perusteella.
+Maahanmuuttovirasto päättää 151 §:n 1 momentissa tarkoitettua tilannetta lukuun ottamatta käännyttämisestä, jos ulkomaalaisen maahantulosta on kulunut yli kolme kuukautta taikka jos ulkomaalainen on hakenut oleskelulupaa kansainvälisen suojelun tai tilapäisen suojelun perusteella.
 
-Ulkomaalaisvirasto päättää maasta karkottamisesta kihlakunnan poliisilaitoksen tai rajatarkastusviranomaisen esityksestä taikka omasta aloitteestaan.
+Maahanmuuttovirasto päättää maasta karkottamisesta poliisilaitoksen tai rajatarkastusviranomaisen esityksestä taikka omasta aloitteestaan.
 
-Ulkomaalaisvirasto voi määrätä ulkomaalaiselle maahantulokiellon määräajaksi tai toistaiseksi. Ulkomaalaisvirasto päättää maahantulokiellon peruuttamisesta.
+Maahanmuuttovirasto päättää maahantulokiellon määräämisestä määräajaksi tai toistaiseksi sekä päättää maahantulokiellon peruuttamisesta.

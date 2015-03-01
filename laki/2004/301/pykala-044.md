@@ -7,4 +7,4 @@ Ilma-aluksen henkilökuntaan kuuluvalla on säännönmukaiseen tehtäväänsä k
 
 Rautateiden työntekijä, joka hoitaa junakuljetuksiin liittyviä tehtäviä, voi matkustaa junan mukana rajaluovutusasemalle ja oleskella rajaluovutusasemalla esittämällä valokuvalla varustetun henkilökortin siten kuin siitä on Suomen ja Venäjän välisestä rautatieyhdysliikenteestä tehdyn sopimuksen (SopS 48/1997) mukaan erikseen sovittu.
 
-Edellä 1―3 momentissa mainittua oikeutta maahantuloon ja maassa oleskeluun ei ole merimiehellä eikä ilma-aluksen taikka junahenkilökuntaan kuuluvalla, jos hänet on määrätty maahantulokieltoon tai jos hänen katsotaan vaarantavan yleistä järjestystä ja turvallisuutta tai kansanterveyttä.
+Edellä 1–3 momentissa mainittua oikeutta maahantuloon ja maassa oleskeluun ei ole merimiehellä eikä ilma-aluksen taikka junahenkilökuntaan kuuluvalla, jos hänet on määrätty maahantulokieltoon tai jos hänen katsotaan vaarantavan yleistä järjestystä ja turvallisuutta tai kansanterveyttä.

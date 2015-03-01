@@ -4,17 +4,22 @@ Luku: 1 luku Yleiset säännökset
 Tässä laissa tarkoitetaan:
 1) ulkomaalaisella henkilöä, joka ei ole Suomen kansalainen;
 2) unionin kansalaisella ja häneen rinnastettavalla Euroopan unionin (EU) jäsenvaltion sekä Islannin, Liechtensteinin, Norjan ja Sveitsin kansalaista;
+2 a) kolmannen maan kansalaisella muun maan kansalaista kuin unionin kansalaista ja häneen rinnastettavaa;
 3) liikenteenharjoittajalla luonnollista henkilöä tai oikeushenkilöä, joka harjoittaa ammattimaisesti henkilöiden kuljetusta ilma-, maa-, rauta- tai vesiteitse;
 4) viisumilla lupaa, jonka perusteella ulkomaalaisen maahantulo ja lyhytaikainen oleskelu sallitaan muiden maahantulon edellytysten täyttyessä;
 5) oleskeluluvalla ulkomaalaiselle muuta kuin matkailua tai siihen verrattavaa lyhytaikaista oleskelua varten myönnettävää lupaa toistuvasti saapua maahan ja oleskella maassa;
-6) työntekijän oleskeluluvalla ulkomaalaiselta vaadittavaa lupaa oleskella Suomessa tai suomalaisessa aluksessa, kun hänen tarkoituksenaan on sellaisen ansiotyön tekeminen, johon hänellä ei ole oikeutta muun oleskeluluvan nojalla tai ilman oleskelulupaa;
-7) elinkeinonharjoittajan oleskeluluvalla ulkomaalaiselta vaadittavaa lupaa oleskella Suomessa, kun hänen tarkoituksenaan on elinkeinon harjoittaminen;
+5 a) pitkään oleskelleen kolmannen maan kansalaisen EU-oleskeluluvalla Euroopan unionin jäsenvaltion kolmannen maan kansalaiselle myöntämää pitkään oleskelleiden kolmansien maiden kansalaisten asemasta annetussa neuvoston direktiivissä 2003/109/EY, siten kuin se on muutettuna direktiivillä 2011/51/EU, määriteltyä asemaa ja oleskelulupaa;
+6) työntekijän oleskeluluvalla ulkomaalaiselle ansiotyötä varten myönnettävää oleskelulupaa, joka myönnetään kaksivaiheisessa menettelyssä siten, että työ- ja elinkeinotoimisto tekee asiassa osapäätöksen ennen Maahanmuuttoviraston tai poliisilaitoksen päätöstä;
+6 a) muulla oleskeluluvalla ansiotyötä varten ulkomaalaiselle ansiotyötä varten myönnettävää oleskelulupaa, joka myönnetään ilman edeltävää työ- ja elinkeinotoimiston osapäätöstä;
+6 b) työnteko-oikeudella ulkomaalaisen tämän lain mukaista oikeutta tehdä Suomessa tai suomalaisessa aluksessa ansiotyötä oleskeluluvan, 10 luvun mukaisen oleskeluoikeuden, viisumin tai viisumivapauden nojalla taikka muulla tässä laissa säädetyllä perusteella;
+7) elinkeinonharjoittajan oleskeluluvalla ulkomaalaiselle, jonka tarkoituksena on elinkeinon harjoittaminen, myönnettävää oleskelulupaa, joka myönnetään kaksivaiheisessa menettelyssä siten, että elinkeino-, liikenne- ja ympäristökeskus tekee asiassa osapäätöksen ennen Maahanmuuttoviraston tai poliisilaitoksen päätöstä;
 8) ansiotyöllä työskentelyä työ-, virka- tai muussa palvelussuhteessa, jossa työtä tehdään vastikkeellisesti;
 9) elinkeinonharjoittajalla henkilöä, joka harjoittaa elinkeinoa tai ammattia omissa nimissään (ammatinharjoittaja) tai on yritysvastuun kannalta tällaiseen henkilöön rinnastettava;
 10) pakolaissopimuksella pakolaisten oikeusasemaa koskevaa yleissopimusta (SopS 77/1968);
 11) pakolaisella ulkomaalaista, joka täyttää pakolaissopimuksen 1 artiklan vaatimukset;
 12) pakolaisasemalla asemaa, joka myönnetään pakolaiseksi tunnustetulle ulkomaalaiselle;
-13) kansainvälisellä suojelulla pakolaisasemaa tai suojelun tarpeen perusteella myönnettävää oleskelulupaa;
+12 a) toissijaisella suojeluasemalla asemaa, joka myönnetään ulkomaalaiselle, joka voi saada toissijaista suojelua;
+13) kansainvälisellä suojelulla pakolaisasemaa, toissijaista suojeluasemaa tai humanitaarisen suojelun perusteella myönnettävää oleskelulupaa;
 14) turvapaikalla pakolaiselle turvapaikkamenettelyssä myönnettävää oleskelulupaa;
 15) perheenkokoajalla Suomessa oleskelevaa henkilöä, jonka Suomessa oleskelun perusteella ulkomailla olevalle perheenjäsenelle haetaan oleskelulupaa perhesiteen perusteella;
 16) vastuuvaltion määrittämisestä annetulla neuvoston asetuksella neuvoston asetusta (EY) N:o 343/2003, annettu 18 päivänä helmikuuta 2003, niiden perusteiden ja menettelyjen vahvistamisesta, joiden mukaisesti määritetään kolmannen maan kansalaisen johonkin jäsenvaltioon jättämän turvapaikkahakemuksen käsittelystä vastuussa oleva valtio;
@@ -22,4 +27,10 @@ Tässä laissa tarkoitetaan:
 18) Schengenin säännöstöllä Amsterdamin sopimuksella 1 päivänä toukokuuta 1999 osaksi Euroopan unionin säännöstöä otettua kokonaisuutta, joka koostuu vuoden 1985 Schengenin sopimuksesta, vuoden 1990 Schengenin yleissopimuksesta, jäsenvaltioiden liittymissopimuksista sekä Schengenin toimeenpanevan komitean päätöksistä ja julistuksista, sekä tähän säännöstöön perustuvia myöhemmin annettuja säädöksiä;
 19) Schengen-valtiolla Schengenin säännöstöä soveltavaa valtiota;
 20) Schengen-alueella Schengen-valtioiden aluetta;
-21) rajatarkastusviranomaisella rajavartiolaitosta ja muuta viranomaista, jolla on oikeus rajavartiolaitoksesta annetussa laissa (320/1999) tarkoitetun rajatarkastuksen tekemiseen.
+21) rajatarkastusviranomaisella rajavartiolaitosta ja muuta viranomaista, jolla on oikeus henkilöiden liikkumista rajojen yli koskevasta yhteisön säännöstöstä (Schengenin rajasäännöstö) annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 562/2006, jäljempänä Schengenin rajasäännöstö, tarkoitetun rajatarkastuksen tekemiseen;
+22) ihmiskaupalla rikoslain (39/1889) 25 luvun 3 ja 3 a §:ssä tarkoitettua ihmiskauppaa ja törkeää ihmiskauppaa;
+23) ihmiskaupan uhrilla ulkomaalaista, jonka voidaan perustellusti epäillä joutuneen ihmiskaupan uhriksi;
+24) biometrisellä tunnisteella henkilön sähköistä tunnistetta, joka on kasvokuva tai sormenjälkikuva;
+25) teknisellä osalla oleskeluluvan osoitukseksi annettavan oleskelulupakortin tai unionin kansalaisen perheenjäsenen oleskelukortin sirua, johon tallennetaan biometriset tunnisteet ja muut henkilötiedot;
+26) Euroopan unionin sinisellä kortilla Euroopan unionin jäsenvaltion kolmannen maan kansalaiselle myöntämää kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä korkeaa pätevyyttä vaativaa työtä varten annetussa neuvoston direktiivissä 2009/50/EY (erityisosaajadirektiivi) tarkoitettua oleskelulupaa, joka oikeuttaa oleskeluun ja työntekoon jäsenvaltion alueella;
+27) korkeaa pätevyyttä vaativalla työllä erityisosaajadirektiivissä tarkoitettua työtä, joka edellyttää erityistä ammattipätevyyttä, joka osoitetaan korkea-asteen tutkinnolla.

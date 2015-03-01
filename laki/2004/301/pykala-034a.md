@@ -1,0 +1,8 @@
+# 34 a § Pakolaiselle tai toissijaista suojelua saavalle myönnettyyn pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupaan tehtävät merkinnät
+Luku: 4 luku Oleskelu
+
+Pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupaan, joka myönnetään pakolaiselle tai toissijaista suojelua saavalle, merkitään kansainvälistä suojelua myöntäneen Euroopan unionin jäsenvaltion nimi ja päivämäärä, jona kansainvälistä suojelua on myönnetty. Jos pakolaisaseman tai toissijaisen suojeluaseman on myöntänyt muu Euroopan unionin jäsenvaltio kuin Suomi, sitä on ennen merkinnän tekemistä pyydettävä vahvistamaan, että pakolaisasema tai toissijainen suojeluasema on edelleen voimassa.
+
+Edellä 1 momentissa tarkoitettu merkintä tehdään toisen Euroopan unionin jäsenvaltion pyynnöstä, jos se myöntää kolmannen maan kansalaiselle pakolaisaseman tai toissijaisen suojeluaseman sen jälkeen, kun Suomi on myöntänyt hänelle pitkään oleskelleen kolmannen maan kansalaisen EU-oleskeluluvan. Merkintää muutetaan oma-aloitteisesti tai toisen Euroopan unionin jäsenvaltion pyynnöstä, jos vastuu pakolaisaseman myöntämisestä siirretään jäsenvaltiolta toiselle pakolaisia koskevan vastuun siirtämisestä tehdyn eurooppalaisen sopimuksen (SopS 46/1990) perusteella sen jälkeen, kun Suomi on myöntänyt pitkään oleskelleen kolmannen maan kansalaisen EU-oleskeluluvan.
+
+Kun pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupaa on sen myöntämisen jälkeen muutettu 2 momentissa tarkoitetulla tavalla, lupa on annettava viimeistään kolmen kuukauden kuluttua siitä, kun vastuu pakolaisaseman myöntämisestä on siirtynyt Suomelle tai merkintää koskeva, toisen Euroopan unionin jäsenvaltion pyyntö on otettu vastaan.

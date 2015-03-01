@@ -1,12 +1,18 @@
-# 80 § Rajoitettu työnteko muun oleskeluluvan kuin työntekijän oleskeluluvan nojalla
+# 80 § Työnteko-oikeuden kesto
 Luku: 5 luku Työnteko
 
-Oikeus tehdä ansiotyötä on ulkomaalaisella, jonka oleskelulupa on myönnetty:
-1) opiskelua varten, jos työ on tutkintoon sisältyvää työharjoittelua tai jos osa-aikaisen työn määrä ei ylitä 20 tuntia viikossa taikka jos kokoaikainen työ sijoittuu aikaan, jolloin oppilaitoksessa ei järjestetä varsinaista opetusta;
-2) kutsun tai sopimuksen nojalla vierailevana opettajana, luennoitsijana, kouluttajana, konsulttina tai tutkijana työskentelyä varten, jos työ kestää enintään yhden vuoden;
-3) yksittäisen ulkomailta maahan tuodun tai maasta ulkomaille vietävän koneen, laitteen, tuotantolinjan tai asiantuntijajärjestelmän toimitussopimukseen sisältyvän työn suorittamista varten, jos työ kestää enintään kuusi kuukautta;
-4) työtä tai työharjoittelua varten, joka sisältyy valtioiden väliseen sopimukseen tai kansalaisjärjestöjen vaihto-ohjelmaan, jos työ tai harjoittelu kestää enintään 18 kuukautta, tai joka tapahtuu korkeakoulututkinnon suorittaneen ulkomaalaisen enintään vuoden kestävänä siirtona yrityksen sisällä;
-5) 18―30-vuotiaan ulkomaalaisen työharjoittelua varten, kun ulkomaalainen opiskelee ulkomaisessa korkeakoulussa suomen tai ruotsin kieltä tai kun harjoittelun ala vastaa ulkomaalaisen opintoja tai tutkintoa, jos työharjoittelu kestää enintään 18 kuukautta; tai
-6) maasta poistamisen estymisen vuoksi 51 §:n perusteella, kun ensimmäisen oleskeluluvan myöntämisestä on kulunut yksi vuosi.
+Jos samaa työnantajaa tai ammattialaa koskeva työntekijän jatko-oleskelulupahakemus on tehty aikaisemman oleskeluluvan voimassa ollessa, ulkomaalainen saa jatkaa aiemman luvan mukaista työntekoa, kunnes uuden hakemuksen johdosta on myönnetty oleskelulupa tai kielteinen päätös on tullut lainvoimaiseksi. Muussa tapauksessa aikaisemman luvan mukainen työnteko-oikeus päättyy luvan voimassaolon päättyessä. Uuden oleskeluluvan mukainen työnteko-oikeus alkaa, kun lupa on myönnetty.
 
-Tähän pykälään perustuvasta työnteko-oikeudesta on tehtävä merkintä ulkomaalaisen oleskeluluvan yhteyteen. Jos työnteko ylittää 1 momentin 1―5 kohdassa tarkoitetut aikarajat tai jos 6 kohdassa säädetty aika ei ole täyttynyt, ulkomaalaiselta edellytetään työntekijän oleskelulupa.
+Jos ulkomaalaisen työnteko-oikeus perustuu muuhun oleskelulupaan kuin työntekijän oleskelulupaan ja jatko-oleskelulupahakemus on tehty aikaisemman oleskeluluvan voimassa ollessa, työnteko-oikeus jatkuu aikaisemman luvan mukaisena, kunnes uuden hakemuksen johdosta on myönnetty oleskelulupa tai kielteinen päätös on tullut lainvoimaiseksi.
+
+Jos ulkomaalaisen oleskelulupa on myönnetty 77 §:n 1 momentin 9–12 kohdan nojalla, työnteko-oikeus päättyy luvan voimassaoloajan päättyessä.
+
+Jos 54 §:n 4 momentissa tai 77 §:n 1 momentin 8 kohdassa tarkoitetussa tilanteessa jatko-oleskelulupahakemus työntekoa tai työnhakua varten on tehty aikaisemman opiskelua varten 45 §:n 1 momentin 3 kohdan nojalla myönnetyn oleskeluluvan voimassa ollessa, ulkomaalainen saa jatkaa aiemman luvan nojalla tekemäänsä työtä tai aloittaa uuden työnteon.
+
+Jos jatko-oleskelulupahakemus työntekoa varten on tehty aikaisemman 54 §:n 4 momentin perusteella myönnetyn oleskeluluvan voimassa ollessa, ulkomaalainen saa työpaikan löydettyään aloittaa työnteon.
+
+Jos 4 tai 5 momentissa tarkoitettuun jatko-oleskelulupahakemukseen annetaan kielteinen päätös, työntekoa ei saa jatkaa, vaikka päätökseen haetaan muutosta valittamalla.
+
+Jos ulkomaalaisen työnteko-oikeus perustuu viisumiin tai viisumivapauteen, oikeus kestää enintään 79 §:ssä säädetyn ajan. Oleskeluluvan hakeminen viisumin tai viisumivapauden voimassa ollessa ei pidennä työnteko-oikeuden kestoa. Työnteko-oikeus päättyy sen estämättä, mitä 79 §:ssä säädetään, kun henkilön käännyttämistä koskeva päätös on täytäntöönpanokelpoinen.
+
+Jos työnteko-oikeus perustuu oleskelulupaan ja henkilö karkotetaan, työnteko-oikeus päättyy, kun karkottamista koskeva päätös on täytäntöönpanokelpoinen.

@@ -1,6 +1,4 @@
-# 75 § Työntekijän oleskeluluvan myöntäminen ulkomailla olevalle henkilölle
+# 75 § Ennakkotieto työntekijän oleskeluluvan myöntämisen edellytyksistä
 Luku: 5 luku Työnteko
 
-Työntekijän oleskeluluvan myöntäminen edellyttää, että:
-1) edellä 72 §:ssä säädetty harkinta on suoritettu ja pykälässä mainitut edellytykset täyttyvät sekä 73 §:n 1 momentissa säädetyt edellytykset työnantajan selvityksistä ja vakuutuksen antamisesta täyttyvät; ja
-2) edellä 36 §:ssä säädetyt yleiset edellytykset oleskeluluvan myöntämiselle täyttyvät, eikä ulkomaalaista ole määrätty maahantulokieltoon.
+Työ- ja elinkeinotoimisto antaa työnantajan tai toimeksiantajan kirjallisesta hakemuksesta kirjallisen ennakkotiedon työntekijän oleskeluluvan myöntämisen edellytyksistä hakemuksessa tarkoitetussa asiassa. Työ- ja elinkeinotoimiston on annettava ennakkotieto viipymättä. Työnantajan vaatimuksesta työ- ja elinkeinotoimiston on työntekijän oleskelulupaa haettaessa noudatettava ennakkotietoa ajan, joka on mainittu ennakkotiedossa.
