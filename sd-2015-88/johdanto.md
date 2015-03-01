@@ -1,0 +1,2 @@
+Laki todistajansuojeluohjelmasta
+Eduskunnan päätöksen mukaisesti säädetään:
