@@ -1,0 +1,2 @@
+Laki verosäännösten kansainvälisen noudattamisen parantamiseksi ja FATCA:n toteuttamiseksi Amerikan yhdysvaltojen kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
