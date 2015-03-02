@@ -1,7 +1,7 @@
-# 51 § Verolippu ja verotustodistus
-Luku: 4 luku Verotuksen toimittaminen
+# 51 § Verotuspäätös ja verotustodistus
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
-Kun lääninverovirasto on toimittanut verotuksen, verovelvolliselle lähetetään verolippu ja selvitys verotuksen perusteista sekä ohjeet, miten verotukseen voidaan hakea muutosta.
+Verovelvolliselle lähetetään verotuksesta verotuspäätös selvityksineen verotuksen perusteista ja ohjeet siitä, miten verotukseen voidaan hakea muutosta. Selvitykseen merkitään tiedot verovelvollisen tuloista ja varoista, veroista ja maksuista, veronpalautuksesta ja jäännösverosta sekä verovelvollisen yksilöintitiedot ja verotuksen toimittanut viranomainen yhteystietoineen.
 
 Lisäksi verovelvolliselle lähetetään verotustodistus, jota voidaan käyttää viranomaisissa ja muutoinkin todistuksena toimitetusta verotuksesta.
 

@@ -1,4 +1,4 @@
 # 48 § Tarkemmat määräykset
-Luku: 4 luku Verotuksen toimittaminen
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
-Verohallitus voi antaa tarkempia määräyksiä yhteisökoron, jäännösveron koron ja palautuskoron laskemisesta.
+Verohallinto voi antaa tarkempia määräyksiä yhteisökoron, jäännösveron koron ja palautuskoron laskemisesta.

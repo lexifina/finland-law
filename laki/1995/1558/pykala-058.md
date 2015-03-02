@@ -1,4 +1,4 @@
-# 58 § Jälkiverotuksen ja veronoikaisun jättäminen toimittamatta
-Luku: 4 luku Verotuksen toimittaminen
+# 58 § Verotuksen oikaisun jättäminen toimittamatta
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
-Jälkiverotus ja veronoikaisu verovelvollisen vahingoksi voidaan jättää toimittamatta, jos verottamatta jäänyt tulo tai varallisuus on vähäinen eikä verotuksen tasapuolisuus tai muu syy edellytä jälkiverotuksen tai veronoikaisun toimittamista.
+Verotuksen oikaisu verovelvollisen vahingoksi voidaan jättää toimittamatta, jos verottamatta jäänyt tulo on vähäinen eikä verotuksen tasapuolisuus tai muu syy edellytä verotuksen oikaisun toimittamista.

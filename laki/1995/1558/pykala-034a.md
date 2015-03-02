@@ -1,0 +1,4 @@
+# 34 a § Maksamatta jätetyn ennakonpidätyksen jättäminen käyttämättä
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
+
+Maksamatta jätetty ennakonpidätys voidaan jättää käyttämättä verovelvollisen verojen suoritukseksi, vaikka se on ilmoitettu suorituksen maksajan vuosi-ilmoituksella, jos on ilmeistä, että suorituksen saaja ja ennakonpidätysvelvollinen ovat yhdessä toimineet siten, että maksamatta jätetyltä verolta vältyttäisiin. Suorituksen saajan verotusta voidaan tällöin oikaista 56 §:ssä tarkoitetulla tavalla verovelvollisen vahingoksi kahden vuoden kuluessa sen vuoden lopusta lukien, jonka aikana pidätyksen maksamatta jättäminen on todettu. Suorituksen saajan suoritettavaksi on tällöin määrättävä myös veronlisäyksestä ja viivekorosta annetun lain mukainen veronlisäys ja veronkorotus.

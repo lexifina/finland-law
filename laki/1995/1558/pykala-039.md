@@ -1,4 +1,4 @@
 # 39 § Tarkemmat määräykset
-Luku: 4 luku Verotuksen toimittaminen
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
-Verohallitus voi antaa tarkempia määräyksiä ennakon käyttämisestä veron suoritukseksi.
+Verohallinto voi antaa tarkempia määräyksiä ennakon käyttämisestä veron suoritukseksi.

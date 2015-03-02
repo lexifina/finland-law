@@ -1,8 +1,10 @@
-# 85 § Keskusverolautakunnan kokoonpano
-Luku: 8 luku Ennakkotieto
+# 85 § Ennakkoratkaisun hakeminen Verohallinnolta
+Luku: 8 luku Ennakkoratkaisu
 
-Keskusverolautakunnassa on puheenjohtaja ja kahdeksan muuta jäsentä, jotka varamiehineen valtioneuvosto määrää viisivuotiskausittain. Jäsenistä on yksi määrättävä valtiovarainministeriön virkamiehistä ja yksi verohallituksen virkamiehistä sekä kaksi kuntien keskusjärjestöjen ehdottamista henkilöistä.
+Verohallinto voi verovelvollisen tai yhtymän kirjallisesta hakemuksesta antaa ennakkoratkaisun tuloverotuksesta.
 
-Keskusverolautakunnan puheenjohtajalta vaaditaan tuomarinviran hoitamiseen oikeuttava tutkinto sekä perehtyneisyyttä tuomarintehtäviin. Vähintään puolet keskusverolautakunnan muista jäsenistä tulee olla tuomarinviran hoitamiseen oikeuttavan tutkinnon suorittaneita. Sen ohessa keskusverolautakunnan kaikkien jäsenten tulee olla veroasioihin perehtyneitä, ja heillä tulee, mikäli mahdollista, olla tuntemusta talouselämän eri aloista.
+Ennakkoratkaisu annetaan määräajaksi. Se annetaan kuitenkin enintään verovuodelle, joka päättyy viimeistään ennakkoratkaisun antamista seuraavan kalenterivuoden aikana. Ennakkoratkaisua ei anneta, jos asiaa koskeva hakemus on vireillä keskusverolautakunnassa tai keskusverolautakunta on ratkaissut asian.
 
-Keskusverolautakunnassa tulee, mikäli mahdollista, eri veronmaksajaryhmien olla edustettuina.
+Hakemuksessa on ilmoitettava yksilöitynä kysymys, josta ennakkoratkaisua haetaan, ja esitettävä asian ratkaisemiseksi tarvittava selvitys. Hakemus on tehtävä ennen sen ajan päättymistä, jonka kuluessa veroilmoitus on määrätty annettavaksi.
+
+Verohallinnon on verovelvollisen tai yhtymän vaatimuksesta noudatettava lainvoiman saanutta ennakkoratkaisua verotusta toimitettaessa.

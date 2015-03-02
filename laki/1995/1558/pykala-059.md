@@ -1,4 +1,4 @@
-# 59 § Jälkiverotuksen ja veronoikaisun kohdistaminen kuolinpesään
-Luku: 4 luku Verotuksen toimittaminen
+# 59 § Verotuksen oikaisun kohdistaminen kuolinpesään
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
-Verovelvollisen kuoltua toimitettava jälkiverotus ja veronoikaisu kohdistetaan kuolinpesään. Jälkiverotus on tällöin toimitettava kahden vuoden kuluessa sen kalenteri-vuoden päättymisestä, jona perukirja on annettu lääninverovirastolle.
+Verovelvollisen kuoltua toimitettava verotuksen oikaisu kohdistetaan kuolinpesään. Tämän lain 56 §:n 4 momentin nojalla toimitettava verotuksen oikaisu on tällöin toimitettava kahden vuoden kuluessa sen kalenterivuoden päättymisestä, jona perukirja on annettu Verohallinnolle.

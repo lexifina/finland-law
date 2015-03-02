@@ -1,5 +1,5 @@
 # 50 § Ennakonpalautus ja jäännösvero
-Luku: 4 luku Verotuksen toimittaminen
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
 Verotuksessa hyväksi luettavat määrät, joita ei tarvita verovelvollisen verojen suoritukseksi verovuonna, palautetaan ennakonpalautuksena edellä säädettyine korkoineen. Toiselle valtiolle siirrettävää ennakonpalautusta ei kuitenkaan palauteta.
 

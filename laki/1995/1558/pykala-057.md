@@ -1,6 +1,6 @@
-# 57 § Jälkiverotus
-Luku: 4 luku Verotuksen toimittaminen
+# 57 § Verotuksen oikaisua koskevia erityisiä säännöksiä
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
-Jos verovelvollinen sen johdosta, että hän on jättänyt antamatta veroilmoituksen taikka antanut puutteellisen, erehdyttävän tai väärän veroilmoituksen taikka muun tiedon tai asiakirjan, on jäänyt kokonaan tai osaksi verottamatta, on hänen suoritettavakseen määrättävä se vero, joka mainitusta syystä on jäänyt hänelle panematta, sekä säädetty veronlisäys ja veronkorotus (jälkiverotus).
+Jos verovelvollinen ei ole antanut veroilmoitusta tai hän on antanut puutteellisen, erehdyttävän tai väärän veroilmoituksen tai muuten laiminlyönyt ilmoittamisvelvollisuutensa, verotusta oikaistaessa verovelvollisen suoritettavaksi on määrättävä myös veronlisäyksestä ja viivekorosta annetun lain mukainen veronlisäys ja veronkorotus.
 
-Jälkiverotus voidaan toimittaa viiden vuoden kuluessa verovelvollisen verotuksen päättymistä seuraavan vuoden alusta lukien.
+Verotuksen oikaisun katsotaan tapahtuneen määräajassa, jos Verohallinnon päätös oikaisusta on tehty ennen määräajan päättymistä.

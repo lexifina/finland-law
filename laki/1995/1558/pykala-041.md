@@ -1,5 +1,5 @@
 # 41 § Yhteisökoron laskeminen
-Luku: 4 luku Verotuksen toimittaminen
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
 Yhteisökorko lasketaan veroilmoituksen viimeistä antopäivää seuraavasta päivästä jäännösveron ensimmäiseen eräpäivään tai ennakonpalautuksen palautuskuukautta edeltävän kuukauden loppuun.
 
@@ -7,4 +7,4 @@ Jos verovelvollinen suorittaa ennakkoa tai ennakon täydennysmaksua veroilmoituk
 
 Jos samana kalenterivuonna päättyy useita tilikausia, yhteisökorko lasketaan kultakin tilikaudelta erikseen niin kuin jokaiselle tilikaudelle olisi määrätty vero.
 
-Lääninveroviraston veroilmoituksen antamiselle myöntämää pidennystä ei oteta huomioon yhteisökorkoa laskettaessa. Yhteisökorko määrätään täysin markoin siten, että ylimenevä osa jätetään lukuun ottamatta.
+Verohallinnon veroilmoituksen antamiselle myöntämää pidennystä ei oteta huomioon yhteisökorkoa laskettaessa.

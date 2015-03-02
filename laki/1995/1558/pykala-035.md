@@ -1,5 +1,5 @@
 # 35 § Yhteisöä ja yhteisetuutta koskevat poikkeukset
-Luku: 4 luku Verotuksen toimittaminen
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
 Yhteisöltä tai yhteisetuudelta kannettu ennakko, ennakonpidätys ja ennakon täydennysmaksu luetaan hyväksi tilikausittain.
 

@@ -1,6 +1,8 @@
-# 55 § Veronoikaisu verovelvollisen hyväksi
-Luku: 4 luku Verotuksen toimittaminen
+# 55 § Verotuksen oikaisu verovelvollisen hyväksi
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
-Jos verovelvolliselle on virheen johdosta pantu liikaa veroa, verotus on oikaistava (veronoikaisu verovelvollisen hyväksi), jollei asiaa ole valitukseen annetulla päätöksellä ratkaistu.
+Jos verotuksessa on virhe, jonka johdosta verovelvolliselle on pantu liikaa veroa, Verohallinto oikaisee verotusta verovelvollisen hyväksi.
 
-Veronoikaisu verovelvollisen hyväksi voidaan tehdä viiden vuoden kuluessa verovelvollisen verotuksen päättymistä seuraavan vuoden alusta lukien.
+Verotuksen oikaisu verovelvollisen hyväksi voidaan tehdä viiden vuoden kuluessa verovelvollisen verotuksen päättymistä seuraavan vuoden alusta.
+
+Verotusta ei voida oikaista, jos asia on valitukseen annetulla päätöksellä ratkaistu.

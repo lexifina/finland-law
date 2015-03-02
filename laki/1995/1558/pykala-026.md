@@ -1,11 +1,15 @@
-# 26 § Yleiset periaatteet
-Luku: 4 luku Verotuksen toimittaminen
-Väliotsikko: Verotuksen toimittamisen yleiset säännökset
+# 26 § Verotuksessa noudatettavat yleiset periaatteet
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
+Väliotsikko: Verotuksessa noudatettavat yleiset säännökset
 
-Verotusta toimittaessaan lääninverovirasto laskee ja maksuunpanee tässä laissa tarkoitetut verot ja maksut sekä tarvittaessa muuttaa verotusta.
+Verotusmenettelyssä ja muissa verotukseen liittyvissä toimissa veronsaajien ja verovelvollisen edut tulee ottaa huomioon tasapuolisesti.
 
-Verotusta toimitettaessa on tunnollisesti sekä veronsaajien että verovelvollisen etua silmällä pitäen harkittava, mitä verovelvollisen tulosta ja varallisuudesta sekä muista asiaan kuuluvista seikoista on veroilmoituksesta tai muutoin käynyt selville taikka muulla perusteella on katsottava oikeaksi.
+Jos asia on tulkinnanvarainen tai epäselvä ja jos verovelvollinen on toiminut vilpittömässä mielessä viranomaisen noudattaman käytännön tai ohjeiden mukaisesti, on asia ratkaistava tältä osin verovelvollisen eduksi, jos ei erityisistä syistä muuta johdu. Jos vero kuitenkin maksuunpannaan, voidaan veroon liittyvä veronlisäys, viivästyskorko, viivästyskorkoa vastaava korko, jäämämaksu, viivekorko, yhteisökorko ja jäännösveron korko jättää perimättä kokonaan tai osittain, jos niiden perintä olisi asian tulkinnanvaraisuuden tai epäselvyyden vuoksi kohtuutonta.
 
-Jos verotusta toimitettaessa poiketaan olennaisesti verovelvollisen antamasta veroilmoituksesta, verovelvolliselle on, jos mahdollista, varattava tilaisuus tulla asiassa kuulluksi. Jos viranomainen muuttaa verotusta veronoikaisuin tai jälkiverotuksin verovelvollisen vahingoksi, verovelvolliselle on, jos mahdollista, varattava tilaisuus tulla asiassa kuulluksi.
+Jos verotusta toimitettaessa poiketaan olennaisesti verovelvollisen antamasta veroilmoituksesta tai jos viranomainen oikaisee verotusta verovelvollisen vahingoksi, verovelvolliselle on varattava tilaisuus tulla asiassa kuulluksi. Verovelvolliselle on tarvittaessa asetettava kohtuullinen määräaika vastineen tai muun selvityksen antamiseen. Pyydettäessä verovelvolliselta vastinetta tai muuta selvitystä mahdollisuuksien mukaan on mainittava, mistä seikoista selvitystä erityisesti tulisi esittää.
 
-Verotusta toimitettaessa otetaan tulon ja varallisuuden sekä niistä tehtävien vähennysten raha-arvo huomioon täysin markoin siten, että markkojen yli menevät pennit jätetään ottamatta lukuun. Täysin markoin huomioon otettavaa määrää laskettaessa otetaan käytettävä peruste tai yksikköarvo kuitenkin lukuun pennin tarkkuudella.
+Verovelvollisen täytettyä ilmoittamisvelvollisuutensa tulee veroviranomaisen ja verovelvollisen osallistua mahdollisuuksiensa mukaan asian selvittämiseen. Pääasiallisesti sen osapuolen, jolla on siihen paremmat edellytykset, on esitettävä asiasta selvitystä. Jos verovelvollisen suorittaman oikeustoimen toinen osapuoli ei asu Suomessa tai tällä ei ole kotipaikkaa täällä, eikä veroviranomainen voi saada oikeustoimesta tai sen toisesta osapuolesta riittävää tietoa kansainvälisen sopimuksen nojalla, tässä momentissa tarkoitetun selvityksen esittäminen on ensisijaisesti verovelvollisen asiana.
+
+Verotus toimitetaan verovelvollisen ilmoituksen, sivulliselta tiedonantovelvolliselta 3 luvun säännösten nojalla saatujen tietojen ja asiassa saadun muun selvityksen perusteella.
+
+Verotusta toimittaessaan veroviranomaisen on tutkittava saamansa tiedot ja selvitykset tavalla, joka asian laatu, laajuus, verovelvollisten yhdenmukainen kohtelu ja verovalvonnan tarpeet huomioon ottaen on perusteltua.

@@ -1,7 +1,14 @@
-# 29 § Peitelty osingonjako
-Luku: 4 luku Verotuksen toimittaminen
+# 29 § Peitelty osinko
+Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
-Jos on ilmeistä, että osakeyhtiö tai muu yhteisö on suorittanut osakkaansa taikka tämän puolison, lapsen, vanhemman tai muun omaisen hyväksi palkan, lahjapalkkion, osapalkan, asuntoedun, edustus- tai matkakustannuksen, vakuutusmaksun taikka muun sellaisen hyvityksen nimellä enemmän kuin on pidettävä kohtuullisena taikka että yhteisö on hintana, vuokrana, korkona, provisiona tai muuna kustannuksena edellä mainituille henkilöille maksanut olennaisesti enemmän tai heiltä kantanut vähemmän kuin mikä on tavallista, otetaan se verotuksessa huomioon kohtuullisen määräisenä.
+Peitellyllä osingolla tarkoitetaan rahanarvoista etuutta, jonka osakeyhtiö antaa osakkaansa tai tämän omaisen hyväksi osakkuusaseman perusteella tavallisesta olennaisesti poikkeavan hinnoittelun johdosta tai vastikkeetta.
 
-Jos osakeyhtiö lunastamalla omia osakkeitaan tai alentamalla osakepääomaansa onjakanut varoja osakkailleen ja jos on ilmeis-
-tä, että varojen jakaminen on tapahtunut osingosta menevän veron välttämiseksi, on jaetut varat tältä osin katsottava osakkaan veronalaiseksi tuloksi.
+Peitellyllä osingolla tarkoitetaan myös omia osakkeita hankkimalla tai lunastamalla taikka osakepääomaa, vararahastoa tai ylikurssirahastoa alentamalla osingosta menevän veron välttämiseksi jaettuja varoja.
+
+Jos on ilmeistä, että yhtiö on jakanut 1 momentissa tarkoitettua peiteltyä osinkoa, on yhtiön verotuksessa meneteltävä niin kuin olisi käytetty käypää hintaa ja osakkaan veronalaiseksi tuloksi katsottava käyvän hinnan ja käytetyn hinnan erotus.
+
+Jos varojen jakaminen 2 momentissa tarkoitetussa muodossa on ilmeisesti tapahtunut osingosta menevän veron välttämiseksi, on jaetut varat tältä osin katsottava osakkaan veronalaiseksi tuloksi.
+
+Mitä 1 momentissa säädetään osakeyhtiöstä ja sen osakkaasta, sovelletaan vastaavasti muuhun yhteisöön sekä sen osakkaaseen tai jäseneen.
+
+Peitellyn osingon tulolajista säädetään tuloverolaissa.

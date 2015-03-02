@@ -1,10 +1,6 @@
-# 13 § Tarkemmat ilmoittamisvelvollisuuteen liittyvät säännökset ja määräykset
+# 13 § Tarkemmat ilmoittamisvelvollisuuteen liittyvät määräykset
 Luku: 2 luku Verovelvollisen ilmoittamisvelvollisuus
 
-Asetuksella voidaan säätää, minkälaisia tositteita kirjanpito- tai muistiinpanovelvollisen on verotusta varten käytettävä ja minkä sisältöisiä tositteita hänen on saamistaan suorituksista annettava toisille verovelvollisille.
+Verohallinto voi antaa muistiinpanovelvollisia, muistiinpanoja ja muistiinpanokirjaa koskevia tarkempia määräyksiä.
 
-Valtiovarainministeriö voi määrätä, miten verovelvollisen on säilytettävä verotusta varten tarpeellisia tietoja ja tositteita.
-
-Verohallitus voi antaa muistiinpanovelvollisia, muistiinpanoja ja muistiinpanokirjaa koskevia tarkempia määräyksiä.
-
-Verohallitus voi antaa ilmoittamisvelvollisuutta rajoittavia määräyksiä, ellei 10 §:n 1 momentin nojalla ole toisin määrätty.
+Verohallinto voi antaa ilmoittamisvelvollisuutta rajoittavia määräyksiä silloin, kun ilmoittamisvelvollisuus on ilmeisen tarpeetonta.

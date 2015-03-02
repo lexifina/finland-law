@@ -1,4 +1,4 @@
-# 92 § Oikeudenkäyntikulujen korvaus
+# 92 § Oikeudenkäyntikulut
 Luku: 11 luku Erinäiset säännökset
 
-Verotusta koskevasta valituksesta päättäessään voivat lääninoikeus ja korkein hallinto-oikeus määrätä valtion, kunnan, seurakunnan tai kansaneläkelaitoksen taikka verovelvollisen suorittamaan oikeudenkäyntikulujen korvausta noudattaen soveltuvin osin oikeudenkäymiskaaren 21 luvussa säädettyjä perusteita.
+Oikeudenkäyntikulujen korvaukseen sovelletaan hallintolainkäyttölain (586/1996) 13 luvun säännöksiä.
