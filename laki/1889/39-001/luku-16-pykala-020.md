@@ -1,6 +1,12 @@
-# 20 §
-Luku: 16 LUKU Rikoksista julkista viranomaista ja yleistä järjestystä vastaan
+# 20 § Soveltamisalasäännökset
+Luku: 16 luku Rikoksista viranomaisia vastaan
 
-Jos joku, saatuansa tietää rikoksen tapahtuneeksi, on kätkenyt rikoksentekijän tahi ollut hänen kätkemistään auttamassa, taikka edistänyt rikoksentekijän pakoa taikka ollut hänelle apuna rikoksen salaamisessa tahi sitä koskevain todisteiden hävittämisessä; rangaistakoon enintään viidensadan markan sakolla tahi vankeudella korkeintaan yhdeksi vuodeksi. Jos hän sen teki oman voiton pyynnöstä; olkoon rangaistus vankeutta enintään kaksi vuotta tahi sakkoa. Älköön kuitenkaan rangaistusta määrättäkö korkeampaa, kuin mikä syylliselle olisi voitu tuomita avunannosta siihen rikokseen.
+Sovellettaessa tämän luvun 1–3 §:ää rikollisen teon kohteena olevaan virkamieheen rinnastetaan 40 luvun 11 §:ssä tarkoitettu julkista luottamustehtävää hoitava henkilö, sellainen ulkomainen virkamies, joka toimii Kansainvälisen rikostuomioistuimen palveluksessa taikka Suomen alueella kansainvälisen sopimuksen tai muun kansainvälisen velvoitteen nojalla tarkastus-, tarkkailu-, takaa-ajo-, yleisen järjestyksen ja turvallisuuden ylläpitämis- tai rikosten ennalta estämis- tai esitutkintatehtävissä taikka joka toimii Suomen alueella kansainvälisestä oikeusavusta rikosasioissa annetun lain (4/1994) nojalla Suomen viranomaisen esittämän tai hyväksymän oikeusapupyynnön perusteella esitutkinta- tai muissa virkatehtävissä, ja julkista valtaa käyttävä henkilö sekä palvelusta toimittava sotilas.
 
-Tässä §:ssä säädettyä rangaistusta älköön kuitenkaan tuomittako kenellekään 10 §:n 2 momentissa mainituista henkilöistä, älköönkä myöskään milloin rikos on 41, 42, 43 ja 44 luvussa nimitetty tahi niihin verrattava.
+Sovellettaessa tämän luvun 9 §:ää virkamieheen rinnastetaan 40 luvun 11 §:ssä tarkoitettu julkista luottamustehtävää hoitava henkilö, sellainen ulkomainen virkamies, joka toimii Kansainvälisen rikostuomioistuimen palveluksessa taikka Suomen alueella kansainvälisen sopimuksen tai muun kansainvälisen velvoitteen nojalla tarkastus-, tarkkailu-, takaa-ajo-, yleisen järjestyksen ja turvallisuuden ylläpitämis- tai rikosten ennalta estämis- tai esitutkintatehtävissä taikka joka toimii Suomen alueella kansainvälisestä oikeusavusta rikosasioissa annetun lain nojalla Suomen viranomaisen esittämän tai hyväksymän oikeusapupyynnön perusteella esitutkinta- tai muissa virkatehtävissä, ja julkista valtaa käyttävä henkilö.
+
+Sovellettaessa tämän luvun 13 ja 14 §:ää rikollisen teon kohteena olevaan virkamieheen rinnastetaan 40 luvun 11 §:ssä tarkoitettu julkista luottamustehtävää hoitava henkilö, julkisyhteisön työntekijä, ulkomainen virkamies, julkista valtaa käyttävä henkilö ja sotilas.
+
+Sovellettaessa tämän luvun 14 a ja 14 b §:ää rikollisen teon kohteena olevaan kansanedustajaan rinnastetaan 40 luvun 11 §:ssä tarkoitettu ulkomaisen parlamentin jäsen.
+
+Jos muualla kuin tässä laissa säädetään rikosoikeudellista virkavastuuta koskevien säännösten soveltamisesta muuhun kuin 1–4 momentissa tarkoitettuun henkilöön, hänet rinnastetaan rikollisen teon kohteena olevaan virkamieheen sovellettaessa tämän luvun 1–3, 9, 13 ja 14 §:ää.

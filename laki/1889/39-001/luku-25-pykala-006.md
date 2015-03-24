@@ -1,4 +1,6 @@
-# 6 §
-Luku: 25 LUKU Rikoksista toisen vapautta vastaan
+# 6 § Tuottamuksellinen vapaudenriisto
+Luku: 25 luku Vapauteen kohdistuvista rikoksista
 
-Jos joku väkivallalla, tahi uhkauksella, jossa pakottava vaara on tarjona, saattaa naisen kärsimään muun haureellisen teon, joka ei ole luvatonta sekaannusta, taikka jos hän toimittaa sellaisen teon naisen kanssa, jonka hän sitä varten on saattanut tunnottomaan tilaan, tahi kykenemättömäksi itseään puolustamaan; rangaistakoon vankeudella taikka sakolla.
+Joka huolimattomuudesta aiheuttaa toiselle vapaudenmenetyksen, on tuomittava, jollei teko huomioon ottaen sen aiheuttama haitta tai vahinko ole vähäinen, tuottamuksellisesta vapaudenriistosta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
+
+Tuottamuksellisesta vapaudenriistosta tuomitaan myös se, joka oikeudettomasti, pitäen sitä oikeutenaan, riistää toiselta vapauden, jollei teko huomioon ottaen sen aiheuttama haitta tai vahinko ole vähäinen.

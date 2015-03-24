@@ -1,6 +1,4 @@
-# 4 §
-Luku: 13 LUKU Majesteetinrikoksesta, sekä väkivallasta ja kunnianloukkauksesta Keisarillisen perhekunnan jäseniä vastaan
+# 4 § Laiton sotilaallinen toiminta
+Luku: 13 luku Valtiopetosrikoksista
 
-Joka julkeaa loukata Keisarinnan, Perintöruhtinaan, Leskikeisarinnan tahi muun Keisarillisen perhekunnan jäsenen kunniaa, rangaistakoon kuritushuoneella tahi vankeudella enintään kolmeksi vuodeksi.
-
-Sama olkoon laki, jos kahdenkymmenen vuoden kuluessa Keisarin, Keisarinnan tahi Perintöruhtinaan kuoltua heitä vastaan tehdään kunnianloukkaus.
+Joka laittomasti perustaa, organisoi tai varustaa sotilaallisesti järjestäytyneen yhteenliittymän, jonka tarkoituksena on vaikuttaa valtiollisiin asioihin, toimii sellaisessa yhteenliittymässä johtavassa asemassa, taloudellisesti tai muutoin merkittävällä tavalla tukee sitä tai siinä toimeenpanee tai antaa sotilaallista koulutusta, on tuomittava laittomasta sotilaallisesta toiminnasta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

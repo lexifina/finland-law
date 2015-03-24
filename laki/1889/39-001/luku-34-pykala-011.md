@@ -1,6 +1,12 @@
-# 11 §
-Luku: 34 LUKU Yleistä vaaraa tuottavista rikoksista
+# 11 § Kaappaus
+Luku: 34 luku Yleisvaarallisista rikoksista
 
-Joka tahallansa rautatielle tahi sen kuljetusneuvoille tai tarpeistolle, taikka kanava- tahi sulkulaitokselle taikka niiden tarpeistolle, tekee sellaisen teon, joka matkaan saattaa ainoastaan haittaa tahi viivytystä laitoksen käyttämisessä, rangaistakoon vankeudella korkeintaan kahdeksi vuodeksi.
+Joka väkivaltaa käyttäen tai sillä uhaten taikka muuten oikeudettomasti
+1) puuttuu lennolla olevan ilma-aluksen, kauppamerenkulussa olevan aluksen, raideliikenteessä olevan raideliikennekulkuneuvon tai joukkoliikenteessä olevan moottorikulkuneuvon ohjaukseen,
+2) ottaa lento-, meri- tai raideliikenneturvallisuutta vaarantavalla tavalla ilma-aluksen, kauppamerenkulussa olevan aluksen, raideliikenteessä olevan raideliikennekulkuneuvon tai liikenneturvallisuutta vakavasti vaarantavalla tavalla joukkoliikenteessä olevan moottorikulkuneuvon määräysvaltaansa tai
+3) ottaa kiinteän lautan määräysvaltaansa,
+on tuomittava kaappauksesta vankeuteen vähintään kahdeksi ja enintään kymmeneksi vuodeksi.
 
-Sellaisen haitan tahi viivytyksen tuottamuksesta tuomittakoon sakkoa enintään viisisataa markkaa taikka vankeutta korkeintaan kolme kuukautta.
+Yritys on rangaistava.
+
+Jos 1 momentin 1 tai 2 kohdassa tarkoitettu kaappaus on aiheuttanut vain vähäistä vaaraa lento-, meri- tai raideliikenneturvallisuudelle taikka vakavaa vähäisempää vaaraa muulle liikenneturvallisuudelle ja rikos, huomioon ottaen väkivallan tai uhkauksen taikka muun teossa käytetyn oikeudettoman keinon laatu tai muut tekoon liittyvät seikat, on myös kokonaisuutena arvostellen vähäinen, rikoksentekijää ei tuomita kaappauksesta, vaan niistä muista rikoksista, jotka teko käsittää.

@@ -1,6 +1,10 @@
-# 2 §
-Luku: 3 LUKU Perusteista, jotka poistavat rangaistavaisuuden tahi sitä vähentävät
+# 2 § Ajallinen soveltuvuus
+Luku: 3 luku Rikosoikeudellisen vastuun yleisistä edellytyksistä
 
-Jos viisitoista, vaan ei kahdeksaatoista vuotta täyttänyt tekee rikoksen; tuomittakoon, milloin rikoksesta olisi saattanut tulla kuolemanrangaistus taikka kuritushuonetta elinkaudeksi, kuritushuonetta vähintään kaksi ja enintään kaksitoista vuotta. Muissa tapauksissa olkoon yleistä lajia oleva rangaistus enintään kolme neljännestä kovimmasta rangaistuksesta, mikä kutakin rangaistuslajia rikoksesta on säädetty, ja vähintään pienin määrä, minkä kutakin näistä rangaistuslajeista 2 luvun mukaan saa tuomita. Ellei rikoksesta säädetä muuta yleistä lajia olevaa rangaistusta, kuin kuritushuonetta määräajaksi; saattaa myöskin tuomita vankeutta enintään kolme neljännestä saman kuritushuone-rangaistuksen pisimmästä ajasta, ei kuitenkaan enempää kuin neljä vuotta, ja vähintään lyhyimmän ajan, joksi vankeutta sanotun luvun mukaan saa tuomita.
+Rikokseen sovelletaan sitä lakia, joka oli voimassa, kun rikos tehtiin.
 
-Kansalaisluottamuksen menettämisen sijasta tuomitaan kahdeksaatoista vuotta nuorempi olemaan määräaika, korkeintaan kolme vuotta, todistajaksi kelpaamattomana.
+Jos tuomittaessa on voimassa toinen laki kuin rikosta tehtäessä, sovelletaan kuitenkin uutta lakia, jos sen soveltaminen johtaa lievempään lopputulokseen.
+
+Jos laki on tarkoitettu olemaan voimassa vain määrättynä aikana, sovelletaan sinä aikana tehtyyn tekoon tekohetkellä voimassa ollutta lakia, jollei toisin ole säädetty.
+
+Jos lakiin sisältyvä rikossäännös saa täsmällisen sisältönsä muualta laista tai sen nojalla annetuista säännöksistä tai määräyksistä, teon rangaistavuus arvioidaan tekohetkellä voimassa olleiden säännösten tai määräysten perusteella, jollei laissa ole toisin säädetty tai jollei uusi sääntely osoita suhtautumisen teon rangaistavuuteen muuttuneen.

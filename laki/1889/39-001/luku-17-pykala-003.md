@@ -1,4 +1,4 @@
-# 3 §
-Luku: 17 LUKU Väärästä valasta
+# 3 § Väkivaltainen mellakka
+Luku: 17 luku Rikoksista yleistä järjestystä vastaan
 
-Jos se, jota todistajana tahi asianymmärtävänä on valansa nojassa kuulustettu, salaa jotakin, jonka ilmaiseminen voi rikoksesta syytteenalaiseksi saattaa sen, jonka kanssa hän on suoraan ylenevässä tahi alenevassa sukulaisuudessa tahi lankoudessa, taikka hänen puolisonsa, kasvatusvanhempansa, kasvattinsa, veljensä tahi sisarensa tahi jommankumman puoliso, taikka hänen kihlattunsa; rangaistakoon enintään kahdensadan markan sakolla, taikka pääsköön, jos asianhaarat ovat erittäin lieventävät, rangaistuksesta. Jos sellainen salaaminen osaltansa on vaikuttanut sen, että syytön on tuomittu kuritushuoneesen tahi kuolemanrangaistukseen; olkoon rangaistus vankeutta enintään kaksi vuotta taikka sakkoa. Jos sen seikan ilmaiseminen, jonka todistaja tahi asianymmärtävä on salannut, voi saattaa hänet itse syytteenalaiseksi; älköön hänelle siitä salaamisesta rangaistusta tuomittako.
+Joka väkijoukon tehdessä 16 luvun 1 §:ssä mainitun rikoksen, käyttäessä henkilöön kohdistuvaa väkivaltaa tai aiheuttaessa huomattavaa vahinkoa omaisuudelle osallistuu teoillaan väkijoukon toimintaan, on tuomittava väkivaltaisesta mellakasta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

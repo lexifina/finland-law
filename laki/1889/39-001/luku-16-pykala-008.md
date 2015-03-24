@@ -1,6 +1,6 @@
-# 8 §
-Luku: 16 LUKU Rikoksista julkista viranomaista ja yleistä järjestystä vastaan
+# 8 § Väärän todistuksen antaminen viranomaiselle
+Luku: 16 luku Rikoksista viranomaisia vastaan
 
-Joka julkisesti väkijoukossa taikka kirjoituksella tahi muulla esittelyllä, minkä hän on levittänyt, taikka julki pannut, tahi näkyville asettanut, on koettanut vietellä rikoksen tekemiseen, tuomittakoon, jos sen johdosta rikos tahi rangaistava yritys tehtiin, yllyttäjänä. Jos kehotuksesta ei sellaista seurannut; rangaistakoon syyllinen, jos hän koetti vietellä valtiopetokseen tahi maanpetokseen, kuritushuoneella vähintään yhdeksi ja enintään viideksi vuodeksi taikka vankeudella vähintään yhdeksi vuodeksi, mutta, jos hän kehotti muuhun rikokseen, vankeudella korkeintaan kahdeksi vuodeksi tahi sakolla. Älköön hänelle kuitenkaan tuomittako kovempaa rangaistusta, kuin mitä yllytyksestä rikokseen olisi saattanut tulla.
+Joka antaa viranomaiselle oikeudellisesti merkityksellisen totuudenvastaisen kirjallisen todistuksen tai siihen rinnastettavan teknisen tallenteen taikka laadittuaan sellaisen todistuksen tai tallenteen antaa sen toiselle sanottuun tarkoitukseen käytettäväksi, on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta, väärän todistuksen antamisesta viranomaiselle sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
 
-Jos joku sanotulla tavalla kehottaa tottelemattomuuteen lakia tahi laillisia sääntöjä vastaan; rangaistakoon vankeudella korkeintaan yhdeksi vuodeksi taikka enintään viidensadan markan sakolla.
+Väärän todistuksen antamisesta viranomaiselle tuomitaan myös viranomaisen erityisen valvonnan alaisen toiminnan harjoittaja taikka tämän edustaja tai palveluksessa oleva henkilö tai valvottavan yhteisön tilintarkastaja, joka lakiin perustuvan tarkastuksen yhteydessä tai lakiin perustuvaa ilmoitusvelvollisuutta muuten täyttäessään antaa valvovalle viranomaiselle oikeudellisesti merkityksellisen totuudenvastaisen suullisen tiedon.

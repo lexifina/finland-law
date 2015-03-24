@@ -1,4 +1,4 @@
-# 9 §
-Luku: 8 LUKU Ajasta, jonka kuluessa rikokset ovat pantavat syytteesen ja rangaistukset täytäntöön
+# 9 § Menettämisseuraamuksen tuomitsemisen estävä vanhentuminen
+Luku: 8 luku Vanhentumisesta
 
-Jos rikoksentekijä kuolee; rauetkoon oikeus panna rikos syytteesen ja rangaistus täytäntöön.
+Menettämisseuraamusta ei saa tuomita, mikäli teosta ei vanhentumisen vuoksi saa tuomita rangaistusta. Menettämisvaatimuksen lyhin vanhentumisaika on kuitenkin viisi vuotta. Jos menettämisvaatimus koskee 10 luvun 4 §:ssä tarkoitettua rikoksentekovälinettä tai 5 §:ssä tarkoitettua muuta omaisuutta, menettämisvaatimus ei kuitenkaan vanhennu.

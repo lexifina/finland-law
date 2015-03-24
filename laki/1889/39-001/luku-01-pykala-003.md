@@ -1,4 +1,9 @@
-# 3 §
-Luku: 1 LUKU Suomen rikoslain alaisista
+# 3 § Suomeen kohdistunut rikos
+Luku: 1 luku Suomen rikosoikeuden soveltamisalasta
 
-Jos maan palveluksessa oleva tekee virkarikoksen; tuomittakoon, joko rikos on tapahtunut maassa tahi maan ulkopuolella, Suomen lain mukaan ja Suomen oikeudessa.
+Suomen ulkopuolella tehtyyn rikokseen, joka on kohdistunut Suomeen, sovelletaan Suomen lakia.
+
+Rikoksen katsotaan kohdistuneen Suomeen,
+1) jos se on maan- tai valtiopetosrikos,
+2) jos teolla muutoin on vakavasti loukattu tai vaarannettu Suomen valtiollisia, sotilaallisia tai taloudellisia oikeuksia tai etuuksia taikka
+3) jos se on kohdistunut Suomen viranomaiseen.

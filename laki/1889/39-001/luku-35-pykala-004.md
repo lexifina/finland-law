@@ -1,4 +1,4 @@
-# 4 §
-Luku: 35 LUKU Omaisuuden vahingoittamisesta.
+# 4 § Yhteinen omaisuus
+Luku: 35 LUKU Vahingonteosta
 
-Jos vahingonteolla ainoastaan yksityisen oikeutta on loukattu; älköön virallinen syyttäjä tehkö rikoksesta syytettä, ellei asianomistaja ole ilmoittanut sitä syytteesen pantavaksi.
+Tämän luvun säännöksiä sovelletaan myös, kun teko kohdistuu yhteiseen omaisuuteen, johon tekijällä on osuus.

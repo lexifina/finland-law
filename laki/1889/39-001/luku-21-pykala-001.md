@@ -1,6 +1,6 @@
-# 1 §
-Luku: 21 LUKU
+# 1 § Tappo
+Luku: 21 luku Henkeen ja terveyteen kohdistuvista rikoksista
 
-Joka, surmaamisen aikomuksessa, vakain tuumin toiselta ottaa hengen, tuomittakoon murhasta kuolemanrangaistukseen taikka kuritushuoneesen elinkaudeksi ja kansalaisluottamuksensa menettäneeksi.
+Joka tappaa toisen, on tuomittava taposta vankeuteen määräajaksi, vähintään kahdeksaksi vuodeksi.
 
 Yritys on rangaistava.

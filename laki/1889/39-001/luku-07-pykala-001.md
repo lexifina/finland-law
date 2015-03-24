@@ -1,4 +1,8 @@
-# 1 §
-Luku: 7 LUKU Rikoksien yhtymisestä
+# 1 § Yhteisen vankeusrangaistuksen määrääminen
+Luku: 7 LUKU Yhteisestä rangaistuksesta
 
-Jos useampia rikoksia on tehty yhdellä teolla; on ainoastaan yksi yleistä lajia oleva rangaistus tuomittava, mutta se seikka, että rikoksia on useampia, pidettävä raskauttavana. Jos rikoksista säädetään eri rangaistukset; käytettäköön sitä lainpaikkaa, joka ankarin on. Jos ankarimmassa lainpaikassa on määrättynä vankeutta, yksinään taikka sakon ohessa, ja toisessa lainpaikassa kuritushuonetta; on vankeusrangaistus, neljännes siitä pois luettuna, muunnettava kuritushuoneeksi, paitse jos viimemainitussa lainpaikassa myöskin on lievempi rangaistuslaji säädettynä, ja tuomari harkitsee tätä lajia tuomittavaksi.
+Jos joku on tuomittava samalla kertaa kahdesta tai useammasta rikoksesta vankeusrangaistukseen, hänet tuomitaan rikoksista yhteiseen vankeusrangaistukseen, jollei muualla laissa toisin säädetä.
+
+Jos jostakin rikoksesta olisi tuomittava vankeutta ja yhdestä tai useammasta muusta rikoksesta sakkoa tai rikesakko, tuomioistuin saa tuomita kaikista rikoksista yhteisen vankeusrangaistuksen. Tuomioistuin saa myös tuomita joistakin rikoksista yhteisen vankeusrangaistuksen ja sen ohella muista rikoksista sakkoa tai rikesakon, mutta ei molempia.
+
+Jos jostakin rikoksesta olisi tuomittava elinkautinen vankeusrangaistus, tuomitaan elinkautinen vankeusrangaistus yhteiseksi rangaistukseksi kaikista rikoksista.

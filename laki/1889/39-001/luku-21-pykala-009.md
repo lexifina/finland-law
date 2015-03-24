@@ -1,4 +1,4 @@
-# 9 §
-Luku: 21 LUKU
+# 9 § Törkeä kuolemantuottamus
+Luku: 21 luku Henkeen ja terveyteen kohdistuvista rikoksista
 
-Jos hyökkäyksessä tahi tappelussa, johon kaksi tahi useammat ovat ottaneet osaa, joku on saanut kuoleman tahi vaikean ruumiinvamman, ja jos ei voida selville saada, kuka heistä on kuoleman tahi ruumiinvamman matkaan saattanut; tuomittakoon jokainen, joka pahoin pideltyyn on käynyt käsin, törkeästä tappelusta, jos kuolema oli seurauksena, kuritushuoneesen korkeintaan neljäksi vuodeksi taikka vankeuteen vähintään kolmeksi kuukaudeksi, ja, jos vaikea ruumiinvamma syntyi, kuritushuoneesen korkeintaan kolmeksi vuodeksi taikka vankeuteen vähintään yhdeksi kuukaudeksi ja enintään kolmeksi vuodeksi, ja muut, jotka tappeluun ottivat osaa, niin kuin 8 §:n viimeisessä momentissa säädetään.
+Jos kuolemantuottamuksessa kuolema aiheutetaan törkeällä huolimattomuudella ja rikos on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä kuolemantuottamuksesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kuudeksi vuodeksi.

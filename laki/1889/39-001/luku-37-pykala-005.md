@@ -1,8 +1,6 @@
-# 5 §
-Luku: 37 LUKU Raharikoksista
+# 5 § Väärän rahan käyttö
+Luku: 37 LUKU Maksuvälinerikoksista
 
-Joka leikkaa, viilaa tai muulla tavoin tahallansa vajentaa täällä tahi ulkomaalla käypää metallirahaa taikka, aikoen antaa sen täysiarvoisesta liikkeesen, rangaistakoon kuritushuoneella korkeintaan kolmeksi vuodeksi, taikka, jos asianhaarat ovat erittäin lieventävät, vankeudella enintään yhdeksi vuodeksi. Jos hän sen rahan kaupittelee; tuomittakoon kuritushuoneesen korkeintaan neljäksi vuodeksi, taikka, jos asianhaarat ovat erittäin lieventävät, vankeuteen enintään kahdeksi vuodeksi.
+Joka, vastaanotettuaan väärää tai väärennettyä rahaa käypänä, luovuttaa sen toiselle saattaakseen sen uudelleen sellaisena liikkeeseen, vaikka hän tietää rahan vääräksi tai väärennetyksi, on tuomittava väärän rahan käytöstä sakkoon tai vankeuteen enintään yhdeksi vuodeksi.
 
-Jos toinen, kuin se, joka rahaa vajensi tahi oli siinä osallisena, on antanut liikkeesen rahan täysiarvoisesta, vaikka hän tiesi sen vajennetuksi; rangaistakoon kuritushuoneella korkeintaan kolmeksi vuodeksi, taikka, jos asianhaarat ovat erittäin lieventävät, vankeudella enintään yhdeksi vuodeksi. Jos hän itse otti vastaan rahan täysiarvoisesta ja antoi sen samanlaisesta liikkeesen, vaikka oli havainnut sen vajennetuksi; tuomittakoon vankeuteen korkeintaan kuudeksi kuukaudeksi taikka enintään viiden sadan markan sakkoon.
-
-Tässä §:ssä mainitun kaupittelun yritys on rangaistava.
+Yritys on rangaistava.

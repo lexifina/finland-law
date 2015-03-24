@@ -1,6 +1,10 @@
-# 4 §
-Luku: 28 LUKU Varkaudesta ja näpistämisestä
+# 4 § Kavallus
+Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
-Jos se, joka on näpistämisestä rangaistu, uudestaan joutuu siihen syypääksi; on hän pidettävä ja rangaistava ensi kerran varastaneena.
+Joka anastaa hallussaan olevia varoja tai muuta irtainta omaisuutta, on tuomittava kavalluksesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi kuudeksi kuukaudeksi.
 
-Jos joku, joka ennen on kärsinyt rangaistuksen varkaudesta, murrosta, ryöstöstä taikka kiristämisestä, joutuu näpistämiseen syypääksi; pidettäköön ja rangaistakoon uuden varkauden tehneenä.
+Kavalluksesta tuomitaan myös se, joka anastaa löytämiään tai erehdyksen kautta haltuunsa saamiaan varoja tai muuta irtainta omaisuutta.
+
+Kavalluksesta tuomitaan niin ikään se, joka saatuaan toimeksiannon perusteella tai muulla sellaisella tavalla haltuunsa varoja, joiden arvo hänen on tilitettävä toiselle, oikeudettomasti käyttämällä sanottuja tai niiden tilalle tulleita varoja taikka muulla sellaisella tavalla aiheuttaa tilitysvelvollisuuden täyttämättä jäämisen joko sovittuna tai muuten edellytettynä aikana.
+
+Edellä 1 momentissa tarkoitetun anastamisen yritys on rangaistava.

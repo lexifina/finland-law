@@ -1,6 +1,4 @@
-# 8 §
-Luku: 12 LUKU Maanpetoksesta ja muista rikoksista Suomen tahi Venäjän turvallisuutta vastaan
+# 8 § Tuottamuksellinen turvallisuussalaisuuden paljastaminen
+Luku: 12 luku Maanpetosrikoksista
 
-Jos joku tahallansa väärentää, hävittää, turmelee, kätkee tahi salaa asiakirjan, joka sisältää todistuksia Suomen tahi Venäjän oikeudesta tahi turvallisuudesta, ja jos hän tietää asiakirjan tärkeyden; rangaistakoon kuritushuoneella vähintään kahdeksi ja enintään kymmeneksi vuodeksi.
-
-Yritys on rangaistava.
+Joka törkeästä huolimattomuudesta oikeudettomasti julkistaa taikka toiselle välittää, luovuttaa tai ilmaisee tiedon seikasta, joka Suomen ulkoisen turvallisuuden vuoksi on säädetty tai määrätty salassa pidettäväksi, on tuomittava tuottamuksellisesta turvallisuussalaisuuden paljastamisesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

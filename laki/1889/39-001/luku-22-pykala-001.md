@@ -1,8 +1,8 @@
-# 1 §
-Luku: 22 LUKU Lapsenmurhasta
+# 1 § Laiton raskauden keskeyttäminen
+Luku: 22 luku Sikiön, alkion ja perimän loukkaamisesta
 
-Jos nainen, joka luvattomasta sekaannuksesta on tullut raskaaksi, synnyttäessään taikka kohta sen jälkeen on tahallansa surmannut sikiönsä käymällä siihen käsin, panemalla sen heitteille, tahi laiminlyömällä mitä sen elossa pitämiseksi olisi ollut tarpeen; rangaistakoon lapsenmurhasta kuritushuoneella vähintään kahdeksi ja enintään kymmeneksi vuodeksi.
+Joka ilman raskauden keskeyttämisestä annetussa laissa (239/1970) edellytettyä lupaa tai muuten oikeudettomasti keskeyttää toisen raskauden, on tuomittava laittomasta raskauden keskeyttämisestä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
 Yritys on rangaistava.
 
-Tässä rikoksessa osallinen rangaistaan niin kuin murhassa tahi tahallisessa tapossa osallinen.
+Naista, jonka raskauden keskeyttämisestä 1 tai 2 momentissa tarkoitetussa teossa on kyse, ei rangaista tekijänä eikä osallisena laittomaan raskauden keskeyttämiseen tai sen yritykseen. Nainen voidaan kuitenkin tuomita rangaistukseen raskauden keskeyttämisestä annetun lain 13 §:ssä tarkoitetusta rikoksesta.

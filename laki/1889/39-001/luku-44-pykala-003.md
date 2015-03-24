@@ -1,6 +1,6 @@
-# 3 §
-Luku: 44 LUKU Hengen, terveyden tahi omaisuuden suojelemiseksi annettujen määräysten rikkomisesta
+# 3 § Luvaton terveydenhuollon ammattitoimen harjoittaminen
+Luku: 44 luku Terveyttä ja turvallisuutta vaarantavista rikoksista
 
-Joka hautaa jonkun ennen kuin varmaan tietää hänet kuolleeksi, rangaistakoon enintään kolmensadan markan sakolla taikka vankeudella korkeintaan kolmeksi kuukaudeksi.
+Joka ilman laillista oikeutta toimii terveydenhuollon ammattihenkilöistä annetussa laissa (559/1994) tarkoitettuna ammattihenkilönä, on tuomittava luvattomasta terveydenhuollon ammattitoimen harjoittamisesta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
 
-Sama olkoon laki, jos ruumis haudataan ennen kuin asianmukainen ilmoitus kuolemasta on tehty.
+Luvattomasta terveydenhuollon ammattitoimen harjoittamisesta tuomitaan myös se, joka ilman lääkelain (395/1987) mukaista lupaa harjoittaa lääketukkukauppaa tai apteekkiliikettä taikka ilman yksityisestä terveydenhuollosta annetussa laissa (152/1990) vaadittua lupaa ylläpitää terveydenhuollon palveluja tuottavaa yksikköä.

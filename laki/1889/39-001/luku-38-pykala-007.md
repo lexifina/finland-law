@@ -1,4 +1,6 @@
-# 7 §
-Luku: 38 LUKU Epärehellisyydestä ja rangaistavasta voitonpyynnöstä
+# 7 § Lievä tietoliikenteen häirintä
+Luku: 38 luku Tieto- ja viestintärikoksista
 
-Jos joku, vastoin parempaa tietoansa, kieltää allekirjoituksensa tai sitoumuskirjansa taikka vaatii maksettua velkaa tai pantiksi pantua tahi vuokralle tai lainaksi annettua tahi talteen uskottua tavaraa, jonka hän jo on takaisin saanut; rangaistakoon sakolla taikka vankeudella korkeintaan kuudeksi kuukaudeksi.
+Jos tietoliikenteen häirintä, huomioon ottaen aiheutetun häiriön laatu tai määrä taikka muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen vähäinen, rikoksentekijä on tuomittava lievästä tietoliikenteen häirinnästä sakkoon.
+
+Yritys on rangaistava.

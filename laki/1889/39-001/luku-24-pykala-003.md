@@ -1,6 +1,9 @@
-# 3 §
-Luku: 24 LUKU Rauhan rikkomisesta
+# 3 § Julkisrauhan rikkominen
+Luku: 24 luku Yksityisyyden, rauhan ja kunnian loukkaamisesta
 
-Joka tahallansa lyö sisään toisen akkunan, taikka hänen huoneeseensa, taloonsa, kartanoonsa tahi alukseensa heittää kiven tai muuta, taikka ampuu sinne aseella; rangaistakoon enintään viidensadan markan sakolla taikka vankeudella korkeintaan kuudeksi kuukaudeksi.
+Joka oikeudettomasti
+1) tunkeutuu taikka menee salaa tai toista harhauttaen virastoon, liikehuoneistoon, toimistoon, tuotantolaitokseen, kokoustilaan taikka muuhun vastaavaan huoneistoon tai rakennukseen tai sellaisen rakennuksen aidatulle piha-alueelle taikka kasarmialueelle tai muulle puolustusvoimien tai rajavartiolaitoksen käytössä olevalle alueelle, jolla liikkuminen on asianomaisen viranomaisen päätöksellä kielletty, taikka
+2) kätkeytyy tai jää 1 kohdassa tarkoitettuun paikkaan,
+on tuomittava julkisrauhan rikkomisesta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
 
-Joka vastasanotulla tavalla rikkoo rauhan siinä talossa, kartanossa tahi aluksessa, jossa Keisari ja Suuriruhtinas oleskelee, taikka siinä talossa, jossa maan Valtiosäädyt tahi joku sääty tai valiokunta valtiopäivillä pitävät kokousta, taikka virkahuoneessa, taikka siinä huoneessa, jossa virkatoimitusta pidetään, rangaistakoon sakolla taikka vankeudella korkeintaan yhdeksi vuodeksi.
+Julkisrauhan rikkomisena ei kuitenkaan pidetä tekoa, josta on aiheutunut ainoastaan vähäinen haitta.

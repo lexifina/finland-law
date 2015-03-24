@@ -1,6 +1,4 @@
-# 9 §
-Luku: 36 Petoksesta ja väärennyksestä
+# 9 § Oikeushenkilön rangaistusvastuu
+Luku: 36 LUKU Petoksesta ja muusta epärehellisyydestä
 
-Joka, hankkiaksensa itselleen tahi toiselle hyötyä taikka toista vahingoittaakseen, tahallansa ottaa pois, hävittää, liikuttaa, muuttaa taikka väärin panee rajan tahi pyykin, taikka vedenkorko-merkin tahi muun samanlaatuisen merkin, tuomittakoon kuritushuoneesen korkeintaan neljäksi vuodeksi ja kansalaisluottamuksensa menettäneeksi, taikka, jos asianhaarat ovat erittäin lieventävät, vankeuteen korkeintaan kahdeksi vuodeksi.
-
-Jos teko tapahtui ilman tässä mainittua aikomusta; olkoon rangaistus vankeutta korkeintaan kuusi kuukautta taikka sakkoa enintään viisisataa markkaa.
+Tämän luvun 1 §:n 2 momentissa tarkoitettuun petokseen sekä törkeään petokseen silloin, kun se on tehty 1 §:n 2 momentissa säädetyllä tavalla, sovelletaan, mitä oikeushenkilön rangaistusvastuusta säädetään.

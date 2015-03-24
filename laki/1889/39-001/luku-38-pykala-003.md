@@ -1,4 +1,9 @@
-# 3 §
-Luku: 38 LUKU Epärehellisyydestä ja rangaistavasta voitonpyynnöstä
+# 3 § Viestintäsalaisuuden loukkaus
+Luku: 38 luku Tieto- ja viestintärikoksista
 
-Jos asianajaja tahi muu asiamies, lääkäri, haavuri, kätilöin tahi apteekkari, taikka sellaisen henkilön ammatti-apulainen luvattomasti ilmaisee yksityisen tahi perheen salaisuuden, josta hän ammattitoimessaan on saanut tiedon; rangaistakoon sakolla taikka vankeudella korkeintaan kuudeksi kuukaudeksi.
+Joka oikeudettomasti
+1) avaa toiselle osoitetun kirjeen tai muun suljetun viestin taikka suojauksen murtaen hankkii tiedon sähköisesti tai muulla vastaavalla teknisellä keinolla tallennetusta, ulkopuoliselta suojatusta viestistä taikka
+2) hankkii tiedon televerkossa välitettävänä olevan puhelun, sähkeen, tekstin-, kuvan- tai datasiirron taikka muun vastaavan televiestin sisällöstä taikka tällaisen viestin lähettämisestä tai vastaanottamisesta,
+on tuomittava viestintäsalaisuuden loukkauksesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.
+
+Yritys on rangaistava.

@@ -1,4 +1,4 @@
-# 3 §
-Luku: 41 LUKU Kirkollista järjestystä koskevain määräysten rikkomisesta
+# 3 § Lievä ampuma-aserikos
+Luku: 41 luku Aserikoksista
 
-Jos evankelis-lutherilaisen seurakunnan jäsen, joka suosii harhaoppia, koettaa siihen vietellä toista, ja siten saattaa häiriötä ja pahennusta seurakuntaan; vetäköön sakkoa enintään viisisataa markkaa.
+Jos ampuma-aserikos, huomioon ottaen rikoksen kohteena olleiden esineiden laatu tai määrä taikka muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen vähäinen, rikoksentekijä on tuomittava lievästä ampuma-aserikoksesta sakkoon.

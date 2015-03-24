@@ -1,8 +1,11 @@
-# 1 §
-Luku: 23 LUKU Kaksintaistelusta.
+# 1 § Liikenneturvallisuuden vaarantaminen
+Luku: 23 luku Liikennerikoksista
 
-Jos kaksi, sopimuksesta, ovat käyneet kaksintaisteluun; rangaistakoon se, joka siinä on vastustajaansa vahingoittanut niin, että tämä siitä kuoli, vankeudella vähintään kahdeksi ja enintään kahdeksaksi vuodeksi, taikka, jos oli sovittu, ettei kaksintaistelusta herjetä ennen kuin jompikumpi on henkensä heittänyt, vankeudella vähintään kuudeksi ja enintään kahdeksitoista vuodeksi.
+Joka tienkäyttäjänä tahallaan tai huolimattomuudesta rikkoo tieliikennelakia tai ajoneuvolakia taikka niiden nojalla annettuja säännöksiä tai määräyksiä tavalla, joka on omiaan aiheuttamaan vaaraa toisen turvallisuudelle, on tuomittava liikenneturvallisuuden vaarantamisesta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
 
-Jos kaksintaistelussa jompikumpi sai vaikean ruumiinvamman; rangaistakoon vammantekijä vankeudella vähintään kuudeksi kuukaudeksi. Jos vamma tuli vähempi; olkoon hänen rangaistuksensa vankeutta korkeintaan kaksi vuotta. Se, joka ei saattanut vastustajallensa mitään ruumiinvammaa, rangaistakoon vankeudella enintään yhdeksi vuodeksi.
+Liikenneturvallisuuden vaarantamisesta tuomitaan myös se, joka 1 momentissa tarkoitetulla tavalla
+1) ollessaan vastuussa aluksen ohjailusta tai aluksen kulun turvallisuuteen olennaisesti vaikuttavassa tehtävässä rikkoo vesiliikennelakia (463/1996) tai sen nojalla annettuja taikka alusten yhteentörmäämisen ehkäisemisestä merellä, sisäisillä kulkuvesillä tai kanavassa annettuja säännöksiä tai määräyksiä,
+2) ohjatessaan ilma-alusta tai toimiessaan sen miehistön jäsenenä tai muussa lentoturvallisuustehtävässä tai muulla tavoin rikkoo ilmailulakia (281/1995) tai sen nojalla annettuja säännöksiä tai määräyksiä, tai
+3) kuljettaessaan junaa tai toimiessaan muussa junaturvallisuuteen olennaisesti vaikuttavassa tehtävässä rikkoo junaturvallisuutta koskevia määräyksiä.
 
-Jos jompikumpi on kaksintaistelussa tahallansa poikennut sovituista tahi tavanmukaisista säännöistä, ja jos toinen sen kautta sai surman tahi vamman, taikka jos kaksintaistelu tapahtuu ilman sekundantteja; rangaistakoon se, joka vastustajansa surmasi tahi häntä vahingoitti, niin kuin murhasta, taposta taikka pahoinpitelystä on säädetty.
+Tätä pykälää ei sovelleta, jos 1 momentissa tai 2 momentin 1 tai 3 kohdassa tarkoitettu menettely on omiaan aiheuttamaan ainoastaan vähäisen vaaran.

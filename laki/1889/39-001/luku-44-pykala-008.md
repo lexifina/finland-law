@@ -1,6 +1,4 @@
-# 8 §
-Luku: 44 LUKU Hengen, terveyden tahi omaisuuden suojelemiseksi annettujen määräysten rikkomisesta
+# 8 § Lievä dopingrikos
+Luku: 44 luku Terveyttä ja turvallisuutta vaarantavista rikoksista
 
-Joka, ilman pakkoa, usuttaa koiraa ihmisten, taikka juhdan tahi muun kotoeläimen päälle, vetäköön sakkoa enintään sata markkaa.
-
-Sama olkoon laki, jos koiran omistaja tahi hoitaja ei pidätä tahi koeta pidättää koiraa ihmisiä tahi kotoeläimiä hätyyttämästä.
+Jos dopingrikos, huomioon ottaen dopingaineen määrä tai muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen vähäinen, rikoksentekijä on tuomittava lievästä dopingrikoksesta sakkoon.

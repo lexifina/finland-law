@@ -1,4 +1,4 @@
-# 5 §
-Luku: 41 LUKU Kirkollista järjestystä koskevain määräysten rikkomisesta
+# 5 § Vaarallisen esineen hallussapito
+Luku: 41 luku Aserikoksista
 
-Edellä tässä luvussa mainituista rikoksista älköön virallinen syyttäjä tehkö syytettä, ellei asiata ole annettu oikeuden haltuun siinä järjestyksessä kuin kirkkolaki määrää.
+Joka järjestyslain 9 §:n vastaisesti pitää yleisellä paikalla tai yleisellä paikalla olevassa kulkuneuvossa hallussaan vaarallista esinettä, on tuomittava vaarallisen esineen hallussapidosta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.

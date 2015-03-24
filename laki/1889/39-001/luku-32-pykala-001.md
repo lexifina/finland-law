@@ -1,4 +1,4 @@
-# 1 §
-Luku: 32 LUKU Varastetun tavaran kätkemisestä sekä muusta luvattomasta ryhtymisestä rikoksen kautta saatuun tavaraan
+# 1 § Kätkemisrikos
+Luku: 32 LUKU Kätkemis- ja rahanpesurikoksista
 
-Joka kätkee, ostaa, itsellensä vaihtaa, lahjaksi tahi pantiksi ottaa, luovuttaa, muuntaa taikka muuksi valmistaa tavaraa, jonka hän tietää näpistämisen, varkauden, ryöstön tahi kiristämisen kautta saaduksi, itse olematta rikoksessa osallisena, rangaistakoon varastetun tavaran kätkemisestä sakolla taikka vankeudella enintään kahdeksi vuodeksi, taikka, jos asianhaarat ovat erittäin raskauttavat, kuritushuoneella korkeintaan kolmeksi vuodeksi. Rangaistusta älköön kuitenkaan määrättäkö korkeampaa, kuin avunannosta siihen rikokseen, jonka kautta tavara on saatu.
+Joka kätkee, hankkii, ottaa huostaansa tai välittää toiselta varkaus-, kavallus-, ryöstö-, kiristys-, petos-, kiskonta- tai maksuvälinepetosrikoksella saatua omaisuutta taikka muulla tavoin ryhtyy sellaiseen omaisuuteen, on tuomittava, jollei teko ole rangaistava rahanpesuna, kätkemisrikoksesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi kuudeksi kuukaudeksi.

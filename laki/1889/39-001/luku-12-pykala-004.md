@@ -1,4 +1,9 @@
-# 4 §
-Luku: 12 LUKU Maanpetoksesta ja muista rikoksista Suomen tahi Venäjän turvallisuutta vastaan
+# 4 § Törkeä maanpetos
+Luku: 12 luku Maanpetosrikoksista
 
-Jos se, joka ei ole Suomen kansalainen, mutta Suomessa oleskelee tahi on Suomen palveluksessa, tekee sellaisen rikoksen, kuin 1, 2 tahi 3 §:ssä mainitaan; rangaistakoon siitä samalla tavalla kuin Suomen mies.
+Jos maanpetoksessa
+1) aiheutetaan vaara valtakunnan tai sen osan joutumisesta vieraan vallan alaiseksi tai
+2) muuten aiheutetaan Suomelle erityisen suurta vahinkoa
+ja maanpetos on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä maanpetoksesta vankeuteen vähintään neljäksi vuodeksi tai elinkaudeksi.
+
+Yritys on rangaistava.

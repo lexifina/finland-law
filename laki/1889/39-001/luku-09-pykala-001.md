@@ -1,6 +1,6 @@
-# 1 §
-Luku: 9 LUKU Vahingonkorvauksesta
+# 1 § Soveltamisala
+Luku: 9 luku Oikeushenkilön rangaistusvastuusta
 
-Rikoksen kautta toiselle saatettu vahinko on syyllisen korvattava, olkoonpa rikos tahallinen taikka tuottamuksesta tapahtunut.
+Yhteisö, säätiö tai muu oikeushenkilö, jonka toiminnassa on tehty rikos, on syyttäjän vaatimuksesta tuomittava rikoksen johdosta yhteisösakkoon, jos se on tässä laissa säädetty rikoksen seuraamukseksi.
 
-Jos vahingon kärsinyt itsekin osaltaan on ollut vahinkoon syypää; taikka jos joku muu rikokseen kuulumaton seikka on ollut vahinkoa aikaan saattamassa; on vahingonkorvaus sen mukaan soviteltava.
+Tämän luvun säännöksiä ei sovelleta julkisen vallan käytössä tehtyyn rikokseen.

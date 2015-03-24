@@ -1,4 +1,7 @@
-# 4 §
-Luku: 24 LUKU Rauhan rikkomisesta
+# 4 § Törkeä julkisrauhan rikkominen
+Luku: 24 luku Yksityisyyden, rauhan ja kunnian loukkaamisesta
 
-Joka luvattomasti haudasta ottaa ruumiin tahi osan siitä, taikka luvatta hävittää, kätkee tahi silpoo hautaamattoman ruumiin, taikka pitelee ruumista ilkivaltaisesti, taikka laittomasti turmelee tai vahingoittaa hautaa, taikka haudalla harjoittaa ilkivaltaa, rangaistakoon vankeudella korkeintaan yhdeksi vuodeksi taikka sakolla.
+Jos julkisrauhan rikkomisessa
+1) rikoksentekijä tai osallinen varustautuu teon toteuttamista varten aseella tai muulla henkilöön kohdistuvaan väkivaltaan soveltuvalla välineellä taikka tekijän tai osallisen ilmeisenä tarkoituksena on käyttää henkilöön kohdistuvaa väkivaltaa tai vahingoittaa omaisuutta taikka
+2) rikoksen kohteena on eduskunnan, tasavallan presidentin tai valtioneuvoston taikka vieraan valtion tai hallitusten välisen järjestön valtuuskunnan tai edustuston käytössä oleva rakennus tai huoneisto
+ja julkisrauhan rikkominen on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä julkisrauhan rikkomisesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

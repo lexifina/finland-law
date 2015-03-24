@@ -1,6 +1,4 @@
-# 17 §
-Luku: 16 LUKU Rikoksista julkista viranomaista ja yleistä järjestystä vastaan
+# 17 § Vangin varustautuminen aseella
+Luku: 16 luku Rikoksista viranomaisia vastaan
 
-Joka, ilman lupaa, tahallansa murtaa viraston tahi virkamiehen sinetin, jolla esine tahi kirjoitus on suljettu, rangaistakoon sakolla tahi vankeudella korkeintaan kuudeksi kuukaudeksi.
-
-Jos joku tahallansa liikuttaa takavarikkoon otettua, ulosoton-alaista tahi kiinnipantua tavaraa; olkoon sama laki.
+Vanki, pidätetty tai viranomaisen huostassa oleva kiinniotettu taikka sotilaskurinpitolaissa tarkoitettuun arestiin määrätty henkilö, joka vastoin hänen tietoonsa saatettua kieltoa valmistaa, hankkii tai pitää hallussaan ampuma- tai teräaseen tai niihin rinnastettavan hengenvaarallisen välineen, on tuomittava vangin varustautumisesta aseella sakkoon tai vankeuteen enintään yhdeksi vuodeksi.

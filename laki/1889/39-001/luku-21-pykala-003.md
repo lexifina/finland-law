@@ -1,4 +1,6 @@
-# 3 §
-Luku: 21 LUKU
+# 3 § Surma
+Luku: 21 luku Henkeen ja terveyteen kohdistuvista rikoksista
 
-Joka toisen surmaa tämän omasta vakaasta pyynnöstä, rangaistakoon vankeudella vähintään kuudeksi kuukaudeksi taikka kuritushuoneella enintään neljäksi vuodeksi.
+Jos tappo, huomioon ottaen rikoksen poikkeukselliset olosuhteet, rikoksentekijän vaikuttimet tai muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen lieventävien asianhaarojen vallitessa tehty, rikoksentekijä on tuomittava surmasta vankeuteen vähintään neljäksi ja enintään kymmeneksi vuodeksi.
+
+Yritys on rangaistava.

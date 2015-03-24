@@ -1,0 +1,10 @@
+# 10 § Ehdonalainen vapauttaminen elinkautisesta vankeudesta
+Luku: 2 c luku Vankeudesta
+
+Elinkautiseen vankeuteen tuomittu voidaan päästää ehdonalaiseen vapauteen aikaisintaan, kun vankilassaoloaikaa on kertynyt kaksitoista vuotta. Kahtakymmentäyhtä vuotta nuorempana tehdystä rikoksesta elinkautiseen vankeuteen tuomittu vanki voidaan päästää ehdonalaiseen vapauteen aikaisintaan, kun vankilassaoloaikaa on kertynyt kymmenen vuotta.
+
+Harkittaessa kysymystä ehdonalaisesta vapauttamisesta kiinnitetään huomiota elinkautiseen vankeusrangaistukseen johtaneen rikoksen tai rikosten laatuun, muihin rangaistuksiin, jotka elinkautinen vankeusrangaistus käsittää tai jotka on suoritettu 10 a §:ssä tarkoitettuna vankilassaoloaikana, tuomitun muuhun mahdolliseen myöhempään rikollisuuteen sekä 9 §:n 2 momentissa tarkoitettuihin seikkoihin. Vapauttamisharkinnassa tulee ottaa huomioon vankeuslain 4 luvun 6 §:ssä tarkoitetun rangaistusajan suunnitelman toteutuminen ja vankila-aikainen käyttäytyminen muutenkin. Harkinnassa voidaan myös ottaa huomioon vangin sitoutuminen noudattamaan valvotusta koevapaudesta annetun lain (629/2013) 4 §:ssä tarkoitettua lääkehoitoa ja siihen mahdollisesti liitettyä muuta hoitoa ja tukea koskevia ehtoja.
+
+Ennen kuin elinkautiseen vankeuteen tuomittu päästetään ehdonalaiseen vapauteen, hänet voidaan sijoittaa valvottuun koevapauteen. Jos Rikosseuraamuslaitoksen keskushallintoyksikkö katsoo, että ennen ehdonalaista vapauttamista ilmitulleen rikoksen tai valvotusta koevapaudesta annetun lain 23 §:n 1 momentissa tarkoitetun suostumuksen peruuttamisen tai mainitun lain 26 §:n 1 momentissa tarkoitetun koevapauden peruuttamisen vuoksi ehdonalaista vapauttamista on harkittava uudelleen, sen on saatettava asia Helsingin hovioikeuden uudelleen käsiteltäväksi. Samoin on meneteltävä valvotusta koevapaudesta annetun lain 28 §:ssä ja vankeuslain 3 luvun 7 §:ssä tarkoitetuissa rangaistusajaksi lukemista koskevissa asioissa.
+
+Asian käsittelystä Helsingin hovioikeudessa säädetään pitkäaikaisvankien vapauttamismenettelystä annetussa laissa (781/2005).

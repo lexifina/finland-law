@@ -1,4 +1,8 @@
-# 6 §
-Luku: 34 LUKU Yleistä vaaraa tuottavista rikoksista
+# 6 § Ydinräjähderikos
+Luku: 34 luku Yleisvaarallisista rikoksista
 
-Joka, aikoen tehdä murhapolton tahi 5 §:ssä mainitun räjähdyksen, kokoaa sytytys- tahi räjähdysaineita, tuomittakoon sellaisesta valmistelusta kuritushuoneesen korkeintaan neljäksi vuodeksi ja kansalaisluottamuksensa menettäneeksi taikka vankeuteen.
+Joka tuo Suomeen taikka valmistaa tai räjäyttää ydinräjähteen tai pitää sellaista hallussaan, on tuomittava ydinräjähderikoksesta vankeuteen vähintään kahdeksi ja enintään kymmeneksi vuodeksi.
+
+Ydinräjähderikoksesta tuomitaan myös se, joka räjäyttää ydinräjähteen Etelämanneralueella.
+
+Yritys on rangaistava.

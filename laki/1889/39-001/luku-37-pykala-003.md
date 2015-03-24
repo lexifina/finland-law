@@ -1,6 +1,6 @@
-# 3 §
-Luku: 37 LUKU Raharikoksista
+# 3 § Lievä rahanväärennys
+Luku: 37 LUKU Maksuvälinerikoksista
 
-Joka on ottanut vastaan mukaamalla tehdyn tahi väärennetyn metalli- tahi setelirahan oikeasta tahi käyvästä ja jälleen antaa sen sellaisesta liikkeesen, vaikka hän on sen vääräksi huomannut, rangaistakoon vankeudella enintään yhdeksi vuodeksi taikka sakolla. Jos asianhaarat ovat erittäin raskauttavat; olkoon rangaistus vankeutta taikka kuritushuonetta korkeintaan kaksi vuotta.
+Jos rahanväärennys, huomioon ottaen väärän tai väärennetyn rahan määrä ja arvomäärä, tavoitellun hyödyn tai aiheutetun vahingon määrä taikka muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen vähäinen, rikoksentekijä on tuomittava lievästä rahanväärennyksestä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
 Yritys on rangaistava.

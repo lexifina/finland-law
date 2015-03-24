@@ -1,6 +1,9 @@
-# 2 §
-Luku: 37 LUKU Raharikoksista
+# 2 § Törkeä rahanväärennys
+Luku: 37 LUKU Maksuvälinerikoksista
 
-Jos toinen, kuin se, joka on mukaamalla tehnyt tahi väärentänyt metalli- tahi setelirahan, taikka hankkinut tai maahan tuonut väärän rahan, taikka ollut sellaisessa rikoksessa osallisena, on sen rahan kaupitellut, vaikka tiesi sen vääräksi; rangaistakoon kuritushuoneella vähintään kahdeksi ja enintään kuudeksi vuodeksi, taikka, jos asianhaarat ovat erittäin lieventävät, kuritushuoneella korkeintaan kahdeksi vuodeksi, ja julistettakoon kummassakin tapauksessa kansalaisluottamuksensa menettäneeksi.
+Jos rahanväärennyksessä
+1) väärän tai väärennetyn rahan määrä tai arvomäärä on huomattava tai
+2) rikos tehdään erityisen suunnitelmallisesti
+ja rahanväärennys on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä rahanväärennyksestä vankeuteen vähintään kahdeksi ja enintään kymmeneksi vuodeksi.
 
 Yritys on rangaistava.

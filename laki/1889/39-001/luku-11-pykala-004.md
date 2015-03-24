@@ -1,4 +1,10 @@
-# 4 §
-Luku: 11 LUKU Valtiopetoksesta
+# 4 § Törkeä rikos ihmisyyttä vastaan
+Luku: 11 luku Sotarikoksista ja rikoksista ihmisyyttä vastaan
 
-Joka, valtiopetoksen aikomuksessa, rupeaa yhteyteen vieraan hallituksen kanssa, taikka väärin käyttää hänelle uskottua virkavaltaa, taikka hankkii väkeä tahi aseita, taikka tekee muun sellaisen valmistelun, rangaistakoon kuritushuoneella vähintään yhdeksi ja enintään kahdeksaksi vuodeksi. Jos joku senkaltaisessa aikomuksessa liittäytyy sellaiseen väkeen; tuomittakoon kuritushuoneesen korkeintaan kahdeksi vuodeksi.
+Jos rikoksessa ihmisyyttä vastaan
+1) rikos kohdistuu suureen joukkoon ihmisiä,
+2) rikos tehdään erityisen raa’alla, julmalla tai nöyryyttävällä tavalla taikka
+3) rikos tehdään erityisen suunnitelmallisesti tai järjestelmällisesti
+ja rikos on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä rikoksesta ihmisyyttä vastaan vankeuteen vähintään kahdeksaksi vuodeksi tai elinkaudeksi.
+
+Yritys on rangaistava.

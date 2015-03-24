@@ -1,6 +1,10 @@
-# 14 §
-Luku: 44 LUKU Hengen, terveyden tahi omaisuuden suojelemiseksi annettujen määräysten rikkomisesta
+# 14 § Vaaranmerkintärikkomus
+Luku: 44 luku Terveyttä ja turvallisuutta vaarantavista rikoksista
 
-Jos joku luvattomasti panee yleiselle tielle, kadulle tai torille jotakin, joka liikettä haittaa, taikka jos se, jonka pitäisi haitta poistaa, jättää sen tekemättä; vetäköön sakkoa enintään sata markkaa.
+Joka
+1) suorittaessaan rakennustyötä, maansiirtotyötä tai vesirakentamista,
+2) rakentaessaan tie-, raide- tai vesiliikenneväylää taikka vastatessaan kadun tai muun liikenneväylän kunnosta taikka
+3) ollessaan vastuussa yleisesti liikkumiseen käytetyssä paikassa olevasta kaivosta, kuopasta tai avannosta
+tahallaan tai törkeästä huolimattomuudesta jättää asianmukaisesti merkitsemättä hengen tai terveyden vaaran tai muuten varoittamatta siitä, on tuomittava vaaranmerkintärikkomuksesta sakkoon tai vankeuteen enintään kolmeksi kuukaudeksi.
 
-Sama olkoon laki, jos joku ilkeydestä tahi vallattomuudesta estää toisen kulkua yleisellä tiellä, kadulla tahi torilla.
+Vaaranmerkintärikkomuksesta tuomitaan myös se, joka oikeudettomasti tahallaan tai törkeästä huolimattomuudesta poistaa 1 momentissa tarkoitetun, hengen tai terveyden vaarasta ilmoittavan merkin.

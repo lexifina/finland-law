@@ -1,4 +1,4 @@
-# 4 §
-Luku: 39 LUKU Konkurssirikoksista
+# 4 § Velallisen vilpillisyys
+Luku: 39 LUKU Velallisen rikoksista
 
-Jos velallinen velan tähden karkaa, eikä palaa neljän kuukauden kuluessa siitä, jolloin karkasi; rangaistakoon, jos hänet tavataan ja hän ei näytä täysin tyydyttäneensä velkojiansa, vankeudella korkeintaan kahdeksi vuodeksi.
+Jos velallinen tekee 2 §:ssä tarkoitetun teon ilman hyötymistarkoitusta joko tahallaan tai törkeästä huolimattomuudesta, hänet on tuomittava velallisen vilpillisyydestä sakkoon tai vankeuteen enintään yhdeksi vuodeksi.

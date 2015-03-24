@@ -1,4 +1,9 @@
-# 2 §
-Luku: 22 LUKU Lapsenmurhasta
+# 2 § Törkeä laiton raskauden keskeyttäminen
+Luku: 22 luku Sikiön, alkion ja perimän loukkaamisesta
 
-Jos sellainen nainen huolimattomuudellaan taikka saattamalla itsensä avuttomaan tilaan siten, että synnyttämisen ajaksi on etsinyt yksinäisyyttä, taikka muulla varomattomuudellaan on tuottanut sikiöllensä kuoleman; rangaistakoon niin kuin 21 luvussa kuoleman tuottamisesta toiselle on säädetty.
+Jos laittomassa raskauden keskeyttämisessä
+1) aiheutetaan vakava vaara naisen hengelle tai terveydelle taikka
+2) rikos tehdään vastoin naisen tahtoa
+ja rikos on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä laittomasta raskauden keskeyttämisestä vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.
+
+Yritys on rangaistava.

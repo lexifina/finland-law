@@ -1,4 +1,9 @@
-# 8 §
-Luku: 28 LUKU Varkaudesta ja näpistämisestä
+# 8 § Törkeä luvaton käyttö
+Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
-Joka on joutunut vikapääksi rangaistukseen varkaudesta tahi murrosta, tuomittakoon myöskin kansalaisluottamuksensa menettäneeksi.
+Jos luvattomassa käytössä
+1) tavoitellaan huomattavaa taloudellista hyötyä tai
+2) aiheutetaan rikoksen uhrille tämän olot huomioon ottaen erityisen tuntuvaa vahinkoa tai haittaa
+ja luvaton käyttö on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä luvattomasta käytöstä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+
+Yritys on rangaistava.

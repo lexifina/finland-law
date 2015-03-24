@@ -1,4 +1,7 @@
-# 4 §
-Luku: 15 LUKU Rikoksista maan Valtiosäätyjä vastaan ja toisen vaalioikeuden tahi äänivallan häiritsemisestä
+# 4 § Tuottamuksellinen perätön lausuma
+Luku: 15 luku Rikoksista oikeudenkäyttöä vastaan
 
-Jos joku sanoo itsensä toiseksi ja tämän nimessä ottaa osaa sellaiseen yleiseen asiaan, kuin 3 §:ssä sanotaan; taikka jos joku vilpillisesti tahi muulla tavalla tahallansa saa aikaan sen, ettei äänestyksen tahi vaalin päätös tule oikea, taikka ettei sitä saada selville; rangaistakoon vankeudella korkeintaan kahdeksi vuodeksi.
+Joka
+1) todistajana tai asiantuntijana tuomioistuimessa tai
+2) totuusvakuutuksen, valan tai vakuutuksen nojalla tuomioistuimessa tai oikeudenkäyntiin rinnastettavassa viranomaismenettelyssä
+huolimattomuudesta antaa väärän tiedon asiassa tai salaa siihen kuuluvan seikan, on tuomittava tuottamuksellisesta perättömästä lausumasta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.

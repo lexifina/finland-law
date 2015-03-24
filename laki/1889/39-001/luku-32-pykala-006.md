@@ -1,4 +1,9 @@
-# 6 §
-Luku: 32 LUKU Varastetun tavaran kätkemisestä sekä muusta luvattomasta ryhtymisestä rikoksen kautta saatuun tavaraan
+# 6 § Rahanpesu
+Luku: 32 LUKU Kätkemis- ja rahanpesurikoksista
 
-Jos joku, joka vilpittömässä mielessä on haltuunsa saanut toisen tavaraa, on sen salannut, tultuansa tietämään, että se on rikoksen kautta saatua; vetäköön sakkoa enintään sata markkaa.
+Joka
+1) ottaa vastaan, käyttää, muuntaa, luovuttaa, siirtää, välittää tai pitää hallussaan rikoksella hankittua omaisuutta, rikoksen tuottamaa hyötyä tai näiden tilalle tullutta omaisuutta hankkiakseen itselleen tai toiselle hyötyä tai peittääkseen tai häivyttääkseen hyödyn tai omaisuuden laittoman alkuperän tai avustaakseen rikoksentekijää välttämään rikoksen oikeudelliset seuraamukset taikka
+2) peittää tai häivyttää rikoksella hankitun omaisuuden, rikoksen tuottaman hyödyn taikka näiden tilalle tulleen omaisuuden todellisen luonteen, alkuperän, sijainnin tai siihen kohdistuvat määräämistoimet tai oikeudet taikka avustaa toista tällaisessa peittämisessä tai häivyttämisessä,
+on tuomittava rahanpesusta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+
+Yritys on rangaistava.

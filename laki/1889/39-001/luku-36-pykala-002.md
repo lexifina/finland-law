@@ -1,6 +1,11 @@
-# 2 §
-Luku: 36 Petoksesta ja väärennyksestä
+# 2 § Törkeä petos
+Luku: 36 LUKU Petoksesta ja muusta epärehellisyydestä
 
-Jos joku hankkiaksensa itselleen tahi toiselle laitonta aineellista etua, on sytyttänyt tuleen palovakuutettua omaisuutta, taikka saattanut merivahinkoon laivan, joka itse taikka jonka lasti tahi rahti on vakuutettu; rangaistakoon kuritushuoneella korkeintaan kuudeksi vuodeksi ja menettäköön kansalaisluottamuksensa, taikka, jos asianhaarat ovat erittäin lieventävät, vankeudella vähintään kahdeksi kuukaudeksi.
+Jos petoksessa
+1) tavoitellaan huomattavaa hyötyä,
+2) aiheutetaan huomattavaa tai erityisen tuntuvaa vahinkoa,
+3) rikos tehdään käyttämällä hyväksi vastuulliseen asemaan perustuvaa erityistä luottamusta tai
+4) rikos tehdään käyttämällä hyväksi toisen erityistä heikkoutta tai muuta turvatonta tilaa
+ja petos on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä petoksesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.
 
 Yritys on rangaistava.

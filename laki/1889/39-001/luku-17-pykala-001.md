@@ -1,10 +1,9 @@
-# 1 §
-Luku: 17 LUKU Väärästä valasta
+# 1 § Julkinen kehottaminen rikokseen
+Luku: 17 luku Rikoksista yleistä järjestystä vastaan
 
-Jos joku tahallansa, vastoin parempaa tietoansa, oikeuden tahi muun viranomaisen edessä on valansa nojassa antanut tahi valallaan vahvistanut perättömän lausuman, taikka jos se, jota valallisesti on kuulustettu todistajana tahi asianymmärtävänä, tahallansa on asiassa salannut jotakin, joka hänen tietensä olisi sitä valaissut; rangaistakoon väärästä valasta kuritushuoneella korkeintaan kuudeksi vuodeksi taikka, jos asianhaarat ovat erittäin lieventävät, vankeudella vähintään kolmeksi kuukaudeksi.
+Joka joukkotiedotusvälinettä käyttäen tai julkisesti väkijoukossa taikka yleisesti tietoon saatetussa kirjoituksessa tai muussa esityksessä kehottaa tai houkuttelee rikoksen tekemiseen siten, että kehotus tai houkuttelu
+1) aiheuttaa vaaran, että sellainen rikos tai sen rangaistava yritys tehdään, tai
+2) muuten selvästi vaarantaa yleistä järjestystä tai turvallisuutta,
+on tuomittava julkisesta kehottamisesta rikokseen sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
-Jos lausuma tahi salaaminen osaltansa on vaikuttanut sen, että syytön on tuomittu kuritushuoneesen tahi kuolemanrangaistukseen; rangaistakoon valapatto kuritushuoneella vähintään kahdeksi ja enintään kahdeksitoista vuodeksi taikka elinkaudeksi.
-
-Kaikissa näissä tapauksissa on valapatto myöskin julistettava kansalaisluottamuksensa menettäneeksi.
-
-Jos valapatto itsestään peruuttaa perättömän lausumansa taikka ilmaisee, mitä on salannut, ennen kuin tuomio on asiassa annettu tahi toinen on siitä joutunut vahinkoon; rangaistakoon sakolla.
+Jos kehottaminen tai houkutteleminen aiheuttaa sen, että rikos tai sen rangaistava yritys tehdään, sovelletaan mitä 5 luvussa säädetään osallisuudesta rikokseen.

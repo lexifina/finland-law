@@ -1,6 +1,10 @@
-# 4 §
-Luku: 38 LUKU Epärehellisyydestä ja rangaistavasta voitonpyynnöstä
+# 4 § Törkeä viestintäsalaisuuden loukkaus
+Luku: 38 luku Tieto- ja viestintärikoksista
 
-Joka, toista vahingoittaakseen, hävittää, turmelee, kätkee tahi salaa asiakirjan, joka saattaa olla jonkin oikeuden, oikeussuhteen tahi sitoumuksesta vapautumisen todisteena ja joka ei ole rikoksentekijän yksin-oma, rangaistakoon vankeudella korkeintaan kahdeksi vuodeksi taikka sakolla.
+Jos viestintäsalaisuuden loukkauksessa
+1) rikoksentekijä käyttää rikoksen tekemisessä hyväksi asemaansa sähköisen viestinnän tietosuojalaissa (516/2004) tarkoitetun teleyrityksen palveluksessa tai muuta erityistä luottamusasemaansa,
+2) rikoksentekijä käyttää rikoksen tekemistä varten suunniteltua tai muunnettua tietojenkäsittelyohjelmaa tai teknistä erikoislaitetta tai rikos muuten tehdään erityisen suunnitelmallisesti taikka
+3) rikoksen kohteena oleva viesti on sisällöltään erityisen luottamuksellinen taikka teko huomattavasti loukkaa yksityisyyden suojaa
+ja viestintäsalaisuuden loukkaus on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä viestintäsalaisuuden loukkauksesta vankeuteen enintään kolmeksi vuodeksi.
 
-Julkisessa säilyssä olevan asiakirjan hävittämisestä, turmelemisesta tahi kätkemisestä säädetään rangaistus 16 luvussa.
+Yritys on rangaistava.

@@ -1,6 +1,0 @@
-# 10 §
-Luku: 7 LUKU Rikoksien yhtymisestä
-
-Jos joku, yhdestä tahi useammasta rikoksesta rangaistukseen tuomittuna on, ennenkuin rangaistus on pantu täytäntöön, taikka ennenkuin hän sen on täydelleen kärsinyt, uudestaan tehnyt rikoksen; on uuden rikoksen rangaistus, 3, 4, 5 ja 6 §:n määräyksiä noudattamalla, yhdistettävä edelliseen rangaistukseen taikka, jos osa siitä oli täytäntöön pantu, kun uusi rikos tehtiin, siihen, mitä edellisestä rangaistuksesta silloin oli jälellä. Näissä tapauksissa voidaan 5 §:ssä määrättyyn pisimpään kuritushuone-rangaistuksen aikaan lisätä, joka kerta kun uusi syyte tehdään, korkeintaan viisi vuotta, joten tämä aika, kun lukuun otetaan mitä syyllinen edellisestä rangaistuksestaan oli kärsinyt, voi nousta ensimmäiseltä uudelta syytteeltä korkeintaan kahdeksikymmeneksi vuodeksi, toiselta korkeintaan viideksikolmatta vuodeksi, ja niin edespäin. Yhtäläisissä tapauksissa ja samalla tavalla saattaa 5 §:ssä määrättyyn pisimpään vankeusrangaistus-aikaan, joka kerta kun uusi syyte tehdään, lisätä korkeintaan kaksi vuotta. Tuomiossa määrättäköön myöskin, että yhdistetystä rangaistuksesta on luettava pois mitä edellisestä rangaistuksesta ehkä on pantu täytäntöön sen jälkeen kuin uusi rikos tehtiin.
-
-Kuinka elinkaudeksi kuritushuoneesen tuomittu on rangaistava, jos hän tekee uuden rikoksen, siitä on 2 luvussa säädetty.

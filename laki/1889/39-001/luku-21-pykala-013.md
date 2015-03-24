@@ -1,6 +1,4 @@
-# 13 §
-Luku: 21 LUKU
+# 13 § Vaaran aiheuttaminen
+Luku: 21 luku Henkeen ja terveyteen kohdistuvista rikoksista
 
-Jos joku, aikoen toista pahoin pidellä, häntä vastaan on paljastanut veitsen tahi miekan, virittänyt pyssyn, taikka nostanut muun aseen tahi hengenvaarallisen lyömäkalun; pidettäköön se, jos vamma syntyy, raskauttavana asianhaarana, ja saattaa sellaisesta vähäisestä vammasta, josta 12§:ssä mainitaan, tuomita vankeutta korkeintaan kuusi kuukautta.
-
-Jos vamma siitä ei synny, taikka jos joku muuten vihapäissään toista vastaan nostaa aseen tahi hengenvaarallisen astalon; tuomittakoon sakkoa enintään kaksisataa markkaa.
+Joka tahallaan tai törkeällä huolimattomuudella aiheuttaa toiselle vakavan hengen tai terveyden vaaran, on tuomittava, jollei teosta muualla laissa säädetä yhtä ankaraa tai ankarampaa rangaistusta, vaaran aiheuttamisesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

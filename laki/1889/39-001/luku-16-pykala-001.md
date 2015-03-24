@@ -1,6 +1,10 @@
-# 1 §
-Luku: 16 LUKU Rikoksista julkista viranomaista ja yleistä järjestystä vastaan
+# 1 § Virkamiehen väkivaltainen vastustaminen
+Luku: 16 luku Rikoksista viranomaisia vastaan
 
-Joka väkivallalla tahi väkivaltaa uhaten pakottaa tahi koettaa pakottaa virkamiestä tekemään tahi tekemättä jättämään virkatoimen, taikka sanotulla tavalla tekee hänelle vastarintaa virka-asioissa, taikka muuten harjottaa väkivaltaa virkamiestä vastaan viran toimituksessa tahi kostaaksensa hänelle virkatoimesta, rangaistakoon kuritushuoneella enintään neljäksi vuodeksi tahi vankeudella vähintään kolmeksi kuukaudeksi, taikka, jos asianhaarat ovat erittäin lieventävät, vankeudella korkeintaan kolmeksi kuukaudeksi tahi vähintään viidenkymmenen ja enintään viidensadan markan sakolla.
+Joka
+1) käyttää tai uhkaa käyttää väkivaltaa pakottaakseen virkamiehen tekemään tai jättämään tekemättä julkisen vallan käyttöä sisältävän virkatoimen,
+2) muuten käyttää tai uhkaa käyttää väkivaltaa sellaisen virkatoimen johdosta sitä suorittavaa virkamiestä vastaan tai
+3) käyttää väkivaltaa virkamiestä tai häneen 15 luvun 10 §:n 2 momentissa tarkoitetussa suhteessa olevaa henkilöä vastaan kostaakseen sellaisen virkatoimen,
+on tuomittava virkamiehen väkivaltaisesta vastustamisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.
 
-Jos vastamainittu teko tehdään sille, joka on määrätty tahi valittu olemaan julkisessa toimituksessa apuna, taikka vartijalle tahi vahtimiehelle tahi muulle palvelusta toimittavalle sotilaalle; olkoon sama laki.
+Virkamiehen väkivaltaisesta vastustamisesta tuomitaan myös se, joka menettelee 1 momentissa mainitulla tavalla sitä kohtaan, joka virkamiehen pyynnöstä tai suostumuksella avustaa virkamiestä julkisen vallan käyttöä sisältävässä virkatoimessa.

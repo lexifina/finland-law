@@ -1,6 +1,4 @@
-# 7 §
-Luku: 37 LUKU Raharikoksista
+# 7 § Rahajäljitelmän levitys
+Luku: 37 LUKU Maksuvälinerikoksista
 
-Mukaamalla tehdyt tahi väärennetyt metalli- tai setelirahat tahi arvopaperit olkoot menetetyt.
-
-Samaten olkoon menetetty leimasin, merkkirauta, kaava ja muu työase, jota on käytetty tahi aiottu käyttää rahan tai arvopaperin mukaamiseen tahi väärentämiseen.
+Joka yleisölle levittämistä varten valmistaa tai hankkii taikka yleisölle levittää käypää rahaa erehdyttävästi muistuttavan lomakkeen, merkin, kuvan tai muun esineen, on tuomittava rahajäljitelmän levityksestä sakkoon tai vankeuteen enintään yhdeksi vuodeksi.

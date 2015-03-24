@@ -1,6 +1,8 @@
-# 8 §
-Luku: 40 LUKU Virkamiesten virkarikoksista.
+# 8 § Törkeä virka-aseman väärinkäyttäminen
+Luku: 40 LUKU Virkarikoksista
 
-Virkamies, joka tahallansa jollekulle panee tahi joltakulta ottaa muuta tahi suurempaa veroa, tullia tai muuta yleistä ulostekoa, kuin minkä tämä laillisesti on velvollinen maksamaan, taikka minkä hän tietää siitä jo maksetuksi, pantakoon viralta taikka erotettakoon viran toimittamisesta.
-
-Jos hän sen teki oman voiton pyynnöstä; pantakoon viralta ja julistettakoon maan palvelukseen kelvottomaksi sekä rangaistakoon sitä paitse vankeudella vähintään kuudeksi kuukaudeksi taikka kuritushuoneella enintään neljäksi vuodeksi.
+Jos virka-aseman väärinkäyttämisessä
+1) tavoitellaan huomattavan suurta hyötyä tai
+2) pyritään aiheuttamaan erityisen tuntuvaa haittaa tai vahinkoa tai
+3) rikos tehdään erityisen suunnitelmallisesti tai häikäilemättömästi
+ja virka-aseman väärinkäyttäminen on myös kokonaisuutena arvostellen törkeä, virkamies on tuomittava törkeästä virka-aseman väärinkäyttämisestä vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi sekä viralta pantavaksi.

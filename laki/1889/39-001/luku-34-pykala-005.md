@@ -1,4 +1,6 @@
-# 5 §
-Luku: 34 LUKU Yleistä vaaraa tuottavista rikoksista
+# 5 § Törkeä terveyden vaarantaminen
+Luku: 34 luku Yleisvaarallisista rikoksista
 
-Joka tahallansa ruudilla tahi muulla räjähdysaineella vahingoittaa tahi yrittää vahingoittaa sellaista omaisuutta, kuin 1, 2 tahi 4 §:ssä mainitaan, rangaistakoon niin kuin hän olisi sen omaisuuden tuleen sytyttänyt tahi sitä yrittänyt.
+Jos terveyden vaarantaminen tehdään aiheuttaen suurelle ihmismäärälle vakavaa hengen tai terveyden vaaraa ja rikos on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä terveyden vaarantamisesta vankeuteen vähintään kahdeksi ja enintään kymmeneksi vuodeksi.
+
+Yritys on rangaistava.

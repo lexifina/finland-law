@@ -1,8 +1,13 @@
-# 3 §
-Luku: 25 LUKU Rikoksista toisen vapautta vastaan
+# 3 § Ihmiskauppa
+Luku: 25 luku Vapauteen kohdistuvista rikoksista
 
-Joka tahallansa panee heitteille avuttoman lapsen, taikka muun avuttoman ihmisen, taikka muuten saattaa jonkun avuttomaan tilaan, taikka heittää ja jättää sellaiseen tilaan sen, jota hän on velvollinen tahi sitoutunut kuljettamaan, saattamaan tahi hoitamaan, rangaistakoon kuritushuoneella enintään neljäksi vuodeksi tahi vankeudella vähintään kuudeksi kuukaudeksi.
+Joka
+1) käyttämällä hyväksi toisen riippuvaista asemaa tai turvatonta tilaa taikka toista painostamalla,
+2) erehdyttämällä toista tai tämän erehdystä hyväksi käyttämällä,
+3) maksamalla korvauksen toista määräysvallassaan pitävälle henkilölle tai
+4) ottamalla vastaan sellaisen korvauksen ottaa toisen määräysvaltaansa, värvää toisen taikka luovuttaa, kuljettaa, vastaanottaa tai majoittaa toisen hänen saattamisekseen 20 luvun 9 §:n 1 momentin 1 kohdassa tarkoitetun tai siihen rinnastettavan seksuaalisen hyväksikäytön kohteeksi, pakkotyöhön tai muihin ihmisarvoa loukkaaviin olosuhteisiin taikka elimien tai kudoksien poistamiseksi,
+on tuomittava ihmiskaupasta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kuudeksi vuodeksi.
 
-Jos rikos tehtiin sellaisessa paikassa tahi sellaisten asianhaarain ollessa, että ainoastaan vähäinen vaara avuttomaan tilaan saatetun tahi jätetyn hengelle tai terveydelle oli tarjona; olkoon rangaistus vankeutta taikka sakkoa vähintään viisikymmentä markkaa.
+Ihmiskaupasta tuomitaan myös se, joka ottaa määräysvaltaansa kahdeksaatoista vuotta nuoremman henkilön taikka värvää, luovuttaa, kuljettaa, vastaanottaa tai majoittaa tämän 1 momentissa mainitussa tarkoituksessa, vaikka mitään 1 momentin 1–4 kohdassa tarkoitettua keinoa ei olisi käytetty.
 
-Naiselle, joka on pannut heitteille luvattomasta sekaannuksesta syntyneen sikiönsä, säädetään rangaistus 22 luvun 8 §:ssä.
+Yritys on rangaistava.

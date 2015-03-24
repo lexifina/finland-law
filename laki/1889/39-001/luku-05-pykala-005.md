@@ -1,4 +1,4 @@
-# 5 §
-Luku: 5 LUKU Osallisuudesta
+# 5 § Yllytys
+Luku: 5 luku Yrityksestä ja osallisuudesta
 
-Mitä tässä edellä on sanottu rikoksessa osallisen rankaisemisesta, älköön käytettäkö niissä tapauksissa, joista tässä laissa on toisin säädetty.
+Joka tahallaan taivuttaa toisen tahalliseen rikokseen tai sen rangaistavaan yritykseen, tuomitaan yllytyksestä rikokseen kuten tekijä.

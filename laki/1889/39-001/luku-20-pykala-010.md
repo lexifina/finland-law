@@ -1,8 +1,6 @@
-# 10 §
-Luku: 20 LUKU Luvattomasta sekaannuksesta ja muusta haureudesta
+# 10 § Määritelmät
+Luku: 20 luku Seksuaalirikoksista
 
-Joka pitää huonetta haureuden harjottamista varten, taikka viettelee naisen haureellisuuteen, rangaistakoon parituksesta kuritushuoneella korkeintaan kolmeksi vuodeksi ja menettäköön kansalaisluottamuksensa.
+Sukupuoliyhteydellä tarkoitetaan tässä laissa sukupuolielimellä tehtävää taikka sukupuolielimeen tai peräaukkoon kohdistuvaa seksuaalista tunkeutumista toisen kehoon taikka toisen sukupuolielimen ottamista omaan kehoon.
 
-Sellaisen viettelemisen yritys on rangaistava.
-
-Nainen, joka sellaisessa huoneessa, taikka muuten yleisesti, antautuu haureuden välikappaleeksi, rangaistakoon vankeudella korkeintaan kahdeksi vuodeksi.
+Seksuaalisella teolla tarkoitetaan tässä laissa sellaista tekoa, joka tekijä ja kohteena oleva henkilö sekä teko-olosuhteet huomioon ottaen on seksuaalisesti olennainen.

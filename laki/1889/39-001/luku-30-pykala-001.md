@@ -1,4 +1,4 @@
-# 1 §
-Luku: 30 LUKU Pesänkavaltamisesta
+# 1 § Markkinointirikos
+Luku: 30 LUKU Elinkeinorikoksista
 
-Jos aviopuolisot kavaltavat jotakin toisiltansa, taikka lapset vanhemmiltansa, taikka kasvatit kasvatusvanhemmiltansa, taikka kuolinpesän osakkaat tahi muut yhteisen pesän tai yhtiön osamiehet pesästä tai yhtiöstä; rangaistakoon syyllinen pesänkavaltamisesta sakolla. Jos asianhaarat ovat erittäin raskauttavat; olkoon rangaistus vankeutta korkeintaan yksi vuosi.
+Joka tavaroiden, palveluksien, kiinteistöjen, yksityisen osakeyhtiön arvopapereiden tai muiden hyödykkeiden ammattimaisessa markkinoinnissa antaa markkinoinnin kohderyhmän kannalta merkityksellisiä totuudenvastaisia tai harhaanjohtavia tietoja, on tuomittava markkinointirikoksesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.

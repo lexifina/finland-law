@@ -1,8 +1,4 @@
-# 13 §
-Luku: 34 LUKU Yleistä vaaraa tuottavista rikoksista
+# 13 § Oikeushenkilön rangaistusvastuu
+Luku: 34 luku Yleisvaarallisista rikoksista
 
-Joka, aikoen matkaan saattaa vaaran toisen hengelle tahi terveydelle, tahallansa on saattanut laivan uppoamaan taikka karille tahi rantaan ajautumaan, rangaistakoon kuritushuoneella vähintään kahdeksi ja enintään kahdeksaksi vuodeksi, ja julistettakoon kansalaisluottamuksensa menettäneeksi. Ellei hän aikonut sellaista vaaraa matkaan saattaa, tuomittakoon kuritushuoneesen korkeintaan neljäksi vuodeksi sekä kansalaisluottamuksensa menettäneeksi.
-
-Yritys on rangaistava.
-
-Joka tuottamuksensa kautta on syypää laivan uppoamiseen taikka karille tahi rantaan ajautumiseen, rangaistakoon vähintään viidenkymmenen markan sakolla taikka vankeudella korkeintaan yhdeksi vuodeksi.
+Ydinräjähderikokseen, 9 §:n 2 momentissa tarkoitettuun yleisvaarallisen rikoksen valmisteluun ja vaaran aiheuttamiseen tietojenkäsittelylle sovelletaan, mitä oikeushenkilön rangaistusvastuusta säädetään.

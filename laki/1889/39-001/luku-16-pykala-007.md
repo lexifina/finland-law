@@ -1,4 +1,9 @@
-# 7 §
-Luku: 16 LUKU Rikoksista julkista viranomaista ja yleistä järjestystä vastaan
+# 7 § Rekisterimerkintärikos
+Luku: 16 luku Rikoksista viranomaisia vastaan
 
-Jos joku kokoo aseellista väkeä, taikka pitää kotiluvan saanutta sotaväkeä koossa, tehdäkseen sillä rikoksen yleistä turvallisuutta tahi järjestystä vastaan; rangaistakoon, ellei rikos ole 11 luvun alainen, kuritushuoneella korkeintaan neljäksi vuodeksi taikka vankeudella.
+Joka
+1) aiheuttaakseen oikeudellisesti merkityksellisen virheen viranomaisen pitämään yleiseen rekisteriin antaa rekisteriä pitävälle viranomaiselle väärän tiedon tai
+2) hankkiakseen itselleen tai toiselle hyötyä taikka toista vahingoittaakseen käyttää hyväkseen 1 kohdassa tarkoitetulla tavalla aiheutettua virhettä,
+on tuomittava rekisterimerkintärikoksesta sakkoon tai vankeuteen enintään kolmeksi vuodeksi.
+
+Yritys on rangaistava.

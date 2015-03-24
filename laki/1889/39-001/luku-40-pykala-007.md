@@ -1,8 +1,9 @@
-# 7 §
-Luku: 40 LUKU Virkamiesten virkarikoksista.
+# 7 § Virka-aseman väärinkäyttäminen
+Luku: 40 LUKU Virkarikoksista
 
-Jos virkamies kavaltaa rahaa tahi muuta, mitä hän virkansa puolesta on vastaan ottanut tahi hallussaan pitää; rangaistakoon vankeudella korkeintaan kahdeksi vuodeksi ja pantakoon samalla viralta taikka erotettakoon viran toimittamisesta. Jos kavalletun arvo on tuhatta markkaa suurempi, taikka jos asianhaarat muuten ovat erittäin raskauttavat; tuomittakoon syyllinen viralta pantavaksi ja maan palvelukseen kelvottomaksi sekä kuritushuoneesen korkeintaan neljäksi vuodeksi.
+Jos virkamies hankkiakseen itselleen tai toiselle hyötyä taikka aiheuttaakseen toiselle haittaa tai vahinkoa
+1) rikkoo virkatoiminnassa noudatettaviin säännöksiin tai määräyksiin perustuvan virkavelvollisuutensa osallistuessaan päätöksentekoon tai sen valmisteluun tai käyttäessään julkista valtaa muissa virkatehtävissään taikka
+2) käyttää väärin asemaansa käskyvallassaan tai välittömässä valvonnassaan olevaan henkilöön nähden,
+hänet on tuomittava virka-aseman väärinkäyttämisestä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
-Jos hän kykenee heti korvaamaan mitä on kavaltanut tahi antamaan siitä vakuuden; pantakoon viralta taikka erotettakoon viran toimittamisesta.
-
-Jos hän, salatakseen kavaltamisen, on kirjoittanut väärän tahi väärentänyt tililaskun tahi kirjan, taikka kätkenyt tahi salannut tililaskun, kirjan tahi muun sellaisen asiakirjan, taikka tuonut esiin tietensä väärän otteen tililaskusta tahi kirjasta taikka tietensä väärän, niihin kuuluvan todisteen; tuomittakoon, vaikka korvaakin kavaltamansa tahi antaa siitä vakuuden, viralta pantavaksi ja kuritushuoneesen vähintään kahdeksi ja enintään kymmeneksi vuodeksi; julistettakoon myöskin maan palvelukseen kelvottomaksi, taikka, jos rikos on sen arvoinen, kansalaisluottamuksensa menettäneeksi.
+Virkamies voidaan tuomita myös viralta pantavaksi, jos rikos osoittaa hänet ilmeisen sopimattomaksi tehtäväänsä.

@@ -1,4 +1,4 @@
-# 8 §
-Luku: 41 LUKU Kirkollista järjestystä koskevain määräysten rikkomisesta
+# 8 § Rikesakko
+Luku: 41 luku Aserikoksista
 
-Jos joku sapattina tekee rikoksen; on se seikka, että rikos sellaisena aikana tehdään, katsottava raskauttavaksi, ellei rikos ole sitä laatua, että sen voi ainoastaan sapattina tehdä.
+Rikesakosta ainoana rangaistuksena vähäisestä 6 §:ssä tarkoitetusta toisen vahingoittamiseen soveltuvan esineen tai aineen hallussapidosta ja vähäisestä 7 §:ssä tarkoitetusta toisen vahingoittamiseen soveltuvan esineen luovuttamisesta alaikäiselle säädetään rikesakkorikkomuksista annetussa laissa (756/2010).

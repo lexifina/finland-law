@@ -1,6 +1,8 @@
-# 6 §
-Luku: 33 LUKU Luvattomasta viljelyksestä, metsästyksestä ja kalastuksesta
+# 6 § Määritelmät
+Luku: 33 LUKU Väärennysrikoksista
 
-Jos se, joka viljelee tahi hallitsee toisen maata, luvattomasti on siitä myynyt tahi muulla tavalla luovuttanut jotakin sellaista, kuin 1 §:ssä sanotaan, taikka siinä §:ssä mainitulla toimella muuten nauttinut maata oikeutensa yli; rangaistakoon niin kuin samassa §:ssä säädetään.
+Todistuskappaleena pidetään tässä laissa asiakirjaa ja sen näköisjäljennöstä, merkkiä, leimaa, rekisterikilpeä, ääni- ja kuvatallennetta, piirturin, laskimen tai muun vastaavan teknisen laitteen tuottamaa tallennetta sekä automaattiseen tietojenkäsittelyyn soveltuvaa tallennetta, jos sitä käytetään tai voidaan käyttää oikeudellisesti merkityksellisenä todisteena oikeuksista, velvoitteista tai tosiasioista.
 
-Jos hän sellaisella maalla luvattomasti on kaskennut tahi kydettänyt; tuomittakoon 4 §:n mukaan.
+Todistuskappale on väärä, jos se todisteena käytettäessä on omiaan antamaan erehdyttävän kuvan alkuperästään tai antajansa henkilöllisyydestä.
+
+Todistuskappale on väärennetty, jos sen sisältöä on oikeudettomasti muutettu jonkin todistelun kannalta merkityksellisen tiedon osalta.

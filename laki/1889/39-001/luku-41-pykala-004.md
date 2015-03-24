@@ -1,4 +1,6 @@
-# 4 §
-Luku: 41 LUKU Kirkollista järjestystä koskevain määräysten rikkomisesta
+# 4 § Vaarallisia esineitä koskevien säännösten rikkominen
+Luku: 41 luku Aserikoksista
 
-Jos evankelis-lutherilaisen seurakunnan jäsen jää pois lukukinkeriltä, jossa hän on velvollinen olemaan saapuvilla, taikka jos hän on estänyt lapsensa tahi muun käskynsä alaisen lukukinkerillä tahi rippikoulussa käymästä; rangaistakoon, ellei hän kirkkolaissa säädetystä varotuksesta ole ottanut ojentuakseen, enintään viidenkymmenen markan sakolla.
+Joka järjestyslain 9 §:n vastaisesti tuo maahan tai valmistaa vaarallisen esineen tai pitää sellaista kaupan, on tuomittava vaarallisia esineitä koskevien säännösten rikkomisesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+
+Yritys on rangaistava.

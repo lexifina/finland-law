@@ -1,4 +1,6 @@
-# 3 §
-Luku: 31 LUKU Ryöstöstä ja kiristämisestä
+# 3 § Kiristys
+Luku: 31 LUKU Ryöstöstä ja kiristyksestä
 
-Jos se, joka verekseltä tavataan näpistämästä, varastamasta tahi murtautumasta, taikka sellaista yrittämästä, on, saadaksensa pitää tavaran tahi täyttää rikoksensa, toiselle tehnyt väkivaltaa taikka käyttänyt uhkausta, jossa pakottava hengen tahi terveyden vaara on tarjona; pidettäköön, asian laadun mukaan, ryöstön tahi ryöstön yrityksen tehneenä, ja rangaistakoon 1 tahi 2 §:n mukaan.
+Joka muulla kuin 1 §:ssä tarkoitetulla uhkauksella pakottaa toisen luopumaan taloudellisesta edusta, johon rikoksentekijällä tai sillä, jonka puolesta hän toimii, ei ole laillista oikeutta, on tuomittava kiristyksestä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+
+Yritys on rangaistava.

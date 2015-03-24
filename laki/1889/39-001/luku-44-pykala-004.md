@@ -1,8 +1,4 @@
-# 4 §
-Luku: 44 LUKU Hengen, terveyden tahi omaisuuden suojelemiseksi annettujen määräysten rikkomisesta
+# 4 § Luvaton eläinlääkärinammatin harjoittaminen
+Luku: 44 luku Terveyttä ja turvallisuutta vaarantavista rikoksista
 
-Joka ilman laillista oikeutta valmistaa, pitää kaupan tahi muulla tavoin toiselle jättää myrkkyä tahi muuta sellaista hengenvaarallista ainetta, rangaistakoon enintään viidensadan markan sakolla taikka vankeudella korkeintaan kolmeksi kuukaudeksi.
-
-Sama olkoon laki, jos joku, ilman laillista oikeutta, valmistaa, taikka pitää varastossa tahi kaupan ruutia tahi muuta räjähdysainetta.
-
-Luvattomasti valmistettu tahi kaupan tai varastossa pidetty aine menetettäköön.
+Joka ilman laillista oikeutta toimii eläinlääkärinammatin harjoittajana, on tuomittava luvattomasta eläinlääkärinammatin harjoittamisesta sakkoon tai vankeuteen enintään kolmeksi kuukaudeksi.

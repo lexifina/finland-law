@@ -1,10 +1,6 @@
-# 5 §
-Luku: 21 LUKU
+# 5 § Pahoinpitely
+Luku: 21 luku Henkeen ja terveyteen kohdistuvista rikoksista
 
-Jos joku tahallansa on pidellyt toista niin pahoin, että tämä siitä on saanut vaikean ruumiinvamman, ja jos vaikeata ruumiinvammaa tarkotettiin; rangaistakoon kuritushuoneella korkeintaan kymmeneksi vuodeksi.
+Joka tekee toiselle ruumiillista väkivaltaa taikka tällaista väkivaltaa tekemättä vahingoittaa toisen terveyttä, aiheuttaa toiselle kipua tai saattaa toisen tiedottomaan tai muuhun vastaavaan tilaan, on tuomittava pahoinpitelystä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
 Yritys on rangaistava.
-
-Jos vaikeata ruumiinvammaa ei tarkotettu; tuomittakoon kuritushuonetta korkeintaan kuusi vuotta taikka vankeutta vähintään kolme kuukautta.
-
-Vaikea ruumiinvamma on: puheen, näön taikka kuulon kadottaminen, vaikea vika taikka muu vaikea ruumiinvirhe, pysyväinen vaikea terveydenhaitta taikka hengenvaarallinen tauti.

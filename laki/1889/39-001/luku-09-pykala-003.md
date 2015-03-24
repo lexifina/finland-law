@@ -1,4 +1,6 @@
-# 3 §
-Luku: 9 LUKU Vahingonkorvauksesta
+# 3 § Rikoksentekijän ja oikeushenkilön välinen suhde
+Luku: 9 luku Oikeushenkilön rangaistusvastuusta
 
-Jos surmatun vaimo tahi lapset rikoksen johdosta jäävät tarpeellista elatusta vaille; on heille, rikoksentekijän varoihin sekä muihin kohtiin katsoen, tuomittava vahingonkorvaukseksi mitä vaimo tahi lapset tarvitsevat, siksi kuin itse voivat itsensä elättää; ja määrättäköön se vahingonkorvaus suoritettavaksi joko yhdellä kertaa taikka eri aikoina.
+Rikos katsotaan oikeushenkilön toiminnassa tehdyksi, jos sen tekijä on toiminut oikeushenkilön puolesta tai hyväksi ja hän kuuluu oikeushenkilön johtoon tai on virka- tai työsuhteessa oikeushenkilöön taikka on toiminut oikeushenkilön edustajalta saamansa toimeksiannon perusteella.
+
+Oikeushenkilöllä ei ole oikeutta saada rikoksentekijältä korvausta maksamastaan yhteisösakosta, ellei korvausvelvollisuus perustu yhteisöistä tai säätiöistä annettuihin säädöksiin.

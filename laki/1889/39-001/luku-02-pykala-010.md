@@ -1,8 +1,8 @@
 # 10 §
 Luku: 2 LUKU Rangaistuksista
 
-Jos virkamies on vikapää kuolemanrangaistukseen taikka kuritushuoneesen elinkaudeksi; on hän myöskin julistettava viralta pannuksi.
+Virkamies, julkista luottamustehtävää hoitava henkilö tai julkista valtaa käyttävä henkilö, joka tuomitaan elinkaudeksi vankeuteen, on myös tuomittava pantavaksi viralta. Hänet on tuomittava pantavaksi viralta myös, jos hänet tuomitaan vankeuteen määräajaksi, vähintään kahdeksi vuodeksi, paitsi jos tuomioistuin katsoo, ettei rikos osoita tuomittua sopimattomaksi olemaan virkamiehenä tai hoitamaan julkista tehtävää.
 
-Jos virkamies on tehnyt rikoksen, josta kuritushuonetta määräajaksi pitää tulla, ja elleivät asianhaarat ole erittäin lieventävät; on hän samalla tuomittava viralta pantavaksi, vaikkei rikos olekaan virassa tehty.
+Jos 1 momentissa tarkoitettu henkilö tuomitaan vankeuteen kahta vuotta lyhyemmäksi ajaksi tahallisesta rikoksesta, hänet voidaan samalla tuomita viralta pantavaksi, jos rikos osoittaa hänet ilmeisen sopimattomaksi olemaan virkamiehenä tai hoitamaan julkista tehtävää.
 
-Virkamies, joka kärsii ehdotonta tai sakon asemesta tuomittua vapausrangaistusta, olkoon, jos hänen on annettu pitää virkansa, rangaistusaikana saman etujen menettämisen alainen, kuin viran toimituksesta erotettukin.
+Yleisillä vaaleilla valittua julkisyhteisön edustajiston jäsentä ei kuitenkaan saa tämän pykälän nojalla tuomita pantavaksi viralta tuosta tehtävästään.

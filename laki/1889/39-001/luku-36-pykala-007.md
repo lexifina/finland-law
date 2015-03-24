@@ -1,8 +1,9 @@
-# 7 §
-Luku: 36 Petoksesta ja väärennyksestä
+# 7 § Törkeä kiskonta
+Luku: 36 LUKU Petoksesta ja muusta epärehellisyydestä
 
-Jos joku, hankkiaksensa itselleen tahi toiselle hyötyä taikka toista vahingoittaakseen, tahallansa on erehdyttänyt sen, jonka asiana on kirkonkirjan, henkiluettelon taikka muun senkaltaisen yleisen kirjan pitäminen, ja siten saattanut siihen jotakin väärin merkityksi; tuomittakoon kuritushuoneesen korkeintaan neljäksi vuodeksi ja kansalaisluottamuksensa menettäneeksi, taikka, jos asianhaarat ovat erittäin lieventävät, vankeuteen enintään kahdeksi vuodeksi tahi vähintään viidenkymmenen markan sakkoon. Jos hän väärin merkittyä hyväkseen käytti; rangaistakoon kuritushuoneella vähintään kahdeksi ja enintään kahdeksaksi vuodeksi ja menettäköön kansalaisluottamuksensa.
-
-Jos rikos tehtiin ilman tässä mainittua aikomusta; olkoon rangaistus vankeutta korkeintaan yksi vuosi taikka sakkoa.
-
-Jos toinen 1 momentissa mainitussa aikomuksessa käyttää semmoista väärin merkittyä hyväkseen; tuomittakoon niin kuin itse olisi väärän merkitsemisen matkaan saattanut.
+Jos kiskonnassa
+1) tavoitellaan huomattavaa hyötyä,
+2) aiheutetaan huomattavaa tai erityisen tuntuvaa vahinkoa,
+3) rikoksentekijä käyttää häikäilemättömästi hyväksi toisen erityistä heikkoutta tai muuta turvatonta tilaa tai
+4) rikos tehdään erityisen suunnitelmallisesti
+ja kiskonta on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä kiskonnasta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.

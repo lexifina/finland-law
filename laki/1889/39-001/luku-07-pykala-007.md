@@ -1,4 +1,4 @@
-# 7 §
-Luku: 7 LUKU Rikoksien yhtymisestä
+# 7 § Aikaisemmin tuomitun yhdyskuntapalvelurangaistuksen ja valvontarangaistuksen huomioon ottaminen
+Luku: 7 LUKU Yhteisestä rangaistuksesta
 
-Jos edellä tässä luvussa mainituissa tapauksissa syyllinen on jostakin rikoksesta julistettava viralta pantavaksi, viran toimituksesta erotettavaksi, maan palvelukseen kelvottomaksi, tahi kansalaisluottamuksensa menettäneeksi, taikka muun senkaltaisen seurauksen alaiseksi; tuomittakoon, paitse yleistä lajia olevaa rangaistusta, myöskin sellainen seuraus.
+Aikaisemmin tuomittu yhdyskuntapalvelurangaistus ja valvontarangaistus voidaan ottaa uutta rangaistusta tuomittaessa huomioon vastaavalla tavalla kuin aikaisempi ehdoton vankeusrangaistus 6 §:n mukaan.

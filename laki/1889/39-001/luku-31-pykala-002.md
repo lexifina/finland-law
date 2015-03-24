@@ -1,13 +1,11 @@
-# 2 §
-Luku: 31 LUKU Ryöstöstä ja kiristämisestä
+# 2 § Törkeä ryöstö
+Luku: 31 LUKU Ryöstöstä ja kiristyksestä
 
-Jos joku ryöstää jotakin:
-1. yleiseltä postilta;
-2. maalla tahi vesillä matkustavalta,
-3. siltä, joka kapinan, vihollisen ahdistamisen, tulipalon, vedenhädän, haaksirikon, yleisen kulkutaudin tahi muun sellaisen vaaran takia ei voi omaansa varjella; taikka
-4. yön aikana, asutusta talosta tahi aluksesta, johon ryöstäjä, ryöstämisen tahi varastamisen aikomuksessa, on kätkeytynyt, tahi johon hän on luvattomasti tullut;
-rangaistakoon sellaisesta törkeästä ryöstöstä kuritushuoneella vähintään kahdeksi ja enintään kymmeneksi vuodeksi.
+Jos ryöstössä
+1) aiheutetaan tahallisesti toiselle vaikea ruumiinvamma, vakava sairaus tai hengenvaarallinen tila,
+2) rikos tehdään erityisen raa’alla tai julmalla tavalla,
+3) käytetään ampuma- tai teräasetta taikka muuta niihin rinnastettavaa hengenvaarallista välinettä tai
+4) rikos kohdistetaan henkilöön, joka ammattiinsa tai toimeensa kuuluvan työn tai tehtävän vuoksi ei voi itseään tai omaisuuttaan puolustaa,
+ja ryöstö on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä ryöstöstä vankeuteen vähintään kahdeksi ja enintään kymmeneksi vuodeksi.
 
-Sama olkoon laki, jos ryöstön tekee kaksi tahi useammat, jotka ryöstämistä tahi varastamista varten ovat yhteen liittäytyneet.
-
-Tässä §:ssä mainittujen rikoksien yritys on rangaistava.
+Yritys on rangaistava.

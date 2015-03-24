@@ -1,6 +1,4 @@
-# 10 §
-Luku: 40 LUKU Virkamiesten virkarikoksista.
+# 10 § Tuottamuksellinen virkavelvollisuuden rikkominen
+Luku: 40 LUKU Virkarikoksista
 
-Virkamies, joka, oman voiton pyynnöstä, itse taikka toisen kautta kehottaa tahi viettelee maassa olevaa yhteisöä varojen kokoamiseen, maksuihin, kuluihin tahi työhön, pantakoon viralta taikka erotettakoon viran toimittamisesta taikka vetäköön sakkoa.
-
-Jos hän sellaista, vapaatahtoisesti tarjotun nimellä, otti vastaan; rangaistakoon sakolla, ja antakoon lahjan takaisin.
+Jos virkamies virkaansa toimittaessaan huolimattomuudesta muulla kuin 5 §:n 2 momentissa tarkoitetulla tavalla rikkoo virkatoiminnassa noudatettaviin säännöksiin tai määräyksiin perustuvan virkavelvollisuutensa, eikä teko huomioon ottaen sen haitallisuus ja vahingollisuus ja muut tekoon liittyvät seikat ole kokonaisuutena arvostellen vähäinen, hänet on tuomittava tuottamuksellisesta virkavelvollisuuden rikkomisesta varoitukseen tai sakkoon.

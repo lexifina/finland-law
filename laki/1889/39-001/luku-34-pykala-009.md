@@ -1,8 +1,9 @@
-# 9 §
-Luku: 34 LUKU Yleistä vaaraa tuottavista rikoksista
+# 9 § Yleisvaarallisen rikoksen valmistelu
+Luku: 34 luku Yleisvaarallisista rikoksista
 
-Jos joku, aikoen saada vaaran aikaan rautatien käyttämisessä, on sellaisen vaaran matkaan saattanut tahallansa vahingoittamalla rautatietä tahi sen kuljetusneuvoja tahi muuta sen tarpeistoa, taikka panemalla jotakin radalle, taikka antamalla väärän ilmoitusmerkin, taikka muulla sellaisella tavalla; rangaistakoon kuritushuoneella vähintään kahdeksi ja enintään kahdeksaksi vuodeksi. Jos hän sen teki sellaista aikomatta; olkoon rangaistus kuritushuonetta enintään neljä vuotta taikka vankeutta vähintään kuusi kuukautta.
+Joka tehdäkseen 1–5 §:ssä tarkoitetun rikoksen pitää hallussaan pommia, muuta räjähdettä taikka vaarallista laitetta tai ainetta, on tuomittava yleisvaarallisen rikoksen valmistelusta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
-Yritys on rangaistava.
-
-Vaaran tuottamuksesta rautatien käyttämisessä rangaistakoon syyllinen vähintään viidenkymmenen markan sakolla taikka vankeudella korkeintaan yhdeksi vuodeksi.
+Yleisvaarallisen rikoksen valmistelusta tuomitaan myös se, joka tehdäkseen ydinräjähderikoksen
+1) hankkii tai yrittää hankkia taikka pitää hallussaan tai yrittää pitää hallussaan ydinräjähteen valmistukseen tarvittavia aineita,
+2) hankkii tai yrittää hankkia, valmistaa tai yrittää valmistaa taikka pitää hallussaan tai yrittää pitää hallussaan ydinräjähteen valmistukseen tarvittavia laitteita tai
+3) hankkii ydinräjähteen valmistukseen tarvittavan valmistuskaavan tai -piirustuksen.

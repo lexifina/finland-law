@@ -1,4 +1,4 @@
-# 6 §
-Luku: 37 LUKU Raharikoksista
+# 6 § Väärän rahan hallussapito
+Luku: 37 LUKU Maksuvälinerikoksista
 
-Jos joku, muatakseen tahi väärentääkseen metalli- tahi setelirahan tahi arvopaperin, on valmistanut tahi hankkinut leimasimen, merkkiraudan, kaavan tahi muun siihen kelpaavan työkalun; rangaistakoon sellaisesta valmistelusta vankeudella korkeintaan kahdeksi vuodeksi
+Joka ilman hyväksyttävää syytä pitää hallussaan väärää tai väärennettyä rahaa, on tuomittava väärän rahan hallussapidosta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.

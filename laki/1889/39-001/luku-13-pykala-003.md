@@ -1,6 +1,11 @@
-# 3 §
-Luku: 13 LUKU Majesteetinrikoksesta, sekä väkivallasta ja kunnianloukkauksesta Keisarillisen perhekunnan jäseniä vastaan
+# 3 § Valtiopetoksen valmistelu
+Luku: 13 luku Valtiopetosrikoksista
 
-Joka murhaa tahi tahallansa tappaa Keisarinnan, Perintöruhtinaan, Leskikeisarinnan tahi muun Keisarillisen perhekunnan jäsenen, tuomittakoon kuolemanrangaistukseen. Jos joku tahallansa muulla tavoin pitelee pahoin Keisarinnaa, Perintöruhtinasta tahi Leskikeisarinnaa taikka tekee heille muuta väkivaltaa; rangaistakoon kuritushuoneella vähintään neljäksi ja enintään kahdeksitoista vuodeksi tahi elinkaudeksi, taikka huokeammissa tapauksissa vankeudella vähintään yhdeksi vuodeksi. Jos se tehdään muulle Keisarillisen perhekunnan jäsenelle; olkoon rangaistus kuritushuonetta enintään kaksitoista vuotta tahi vankeutta vähintään kuusi kuukautta.
+Joka tehdäkseen valtiopetoksen
+1 ryhtyy yhteydenpitoon vieraan valtion tai sen asiamiehen kanssa,
+2) valmistaa, hankkii, kokoaa tai varastoi aseita, ampumatarvikkeita tai muita niihin rinnastettavia väkivallan käyttöön soveltuvia välineitä,
+3) antaa koulutusta aseiden tai muiden väkivallan käyttöön soveltuvien välineiden käyttämisessä tai
+4) värvää tai kokoaa väkeä tai varustaa sitä aseilla,
+on tuomittava valtiopetoksen valmistelusta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.
 
-Tässä §:ssä mainittujen rikosten yritys on rangaistava.
+Valtiopetoksen valmistelusta tuomitaan myös se, joka perustaa tai organisoi yhteenliittymän, jonka tarkoituksena on Suomen valtiosäännön tai valtiojärjestyksen väkivaltainen kumoaminen tai muuttaminen, osallistuu johtavassa asemassa tai muuten merkittävällä tavalla sellaisen yhteenliittymän toimintaan tai tietoisena yhteenliittymän tarkoitusperästä antaa sille merkittävää taloudellista, järjestöllistä tai muuta vastaavaa tukea.

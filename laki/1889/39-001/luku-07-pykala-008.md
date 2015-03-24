@@ -1,6 +1,4 @@
-# 8 §
-Luku: 7 LUKU Rikoksien yhtymisestä
+# 8 § Aikaisemmin tuomitun nuorisorangaistuksen huomioon ottaminen
+Luku: 7 LUKU Yhteisestä rangaistuksesta
 
-Jos useat tuomiot, joilla sama henkilö on tuomittu rangaistukseen, ovat yhtä haavaa pantavat täytäntöön; ilmoittakoon Keisarin ja Suuriruhtinaan käskynhaltija siitä hovioikeuteen, jonka tulee rangaistukset yhdistää.
-
-Jos ainoastaan sakkoa on tuomittu; älköön sellaista ilmoitusta tehtäkö, paitse jos syylliseltä on havaittu puuttuvan varoja sakkojen yhteenlasketun määrän suorittamiseen.
+Jos nuorisorangaistukseen tuomittu olisi tuomittava ehdottomaan vankeusrangaistukseen ennen nuorisorangaistuksen tuomitsemista tehdystä rikoksesta tai nuorisorangaistuksen tuomitsemisen jälkeen, mutta ennen sen täytäntöönpanon päättymistä tehdystä uudesta rikoksesta, hänet voidaan tuomita tästä rikoksesta ja nuorisorangaistukseen johtaneesta rikoksesta yhteiseen ehdottomaan vankeusrangaistukseen. Jo täytäntöön pantua nuorisorangaistusta vastaava osa on otettava huomioon siten kuin nuorisorangaistuksesta annetun lain 19 §:ssä säädetään.

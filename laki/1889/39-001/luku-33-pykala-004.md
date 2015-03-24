@@ -1,6 +1,7 @@
-# 4 §
-Luku: 33 LUKU Luvattomasta viljelyksestä, metsästyksestä ja kalastuksesta
+# 4 § Väärennysaineiston hallussapito
+Luku: 33 LUKU Väärennysrikoksista
 
-Joka toisen maalla luvattomasti kaskeaa tai kydettää, vetäköön sakkoa vähintään viisikymmentä ja enintään viisisataa markkaa.
-
-Jos hän siihen kylvi; menköön kasvu tai sen arvo maanomistajalle, ellei erittäin ole toisin säädetty.
+Joka ilman hyväksyttävää syytä
+1) vastaanottaa, hankkii, kuljettaa tai pitää hallussaan väärän tai väärennetyn todistuskappaleen tai
+2) valmistaa, vastaanottaa, hankkii, myy, luovuttaa tai pitää hallussaan sellaisen välineen tai tarvikkeen, jota voidaan perustellusti epäillä pääasiallisesti käytettävän väärennysrikosten tekemiseen,
+on tuomittava väärennysaineiston hallussapidosta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.

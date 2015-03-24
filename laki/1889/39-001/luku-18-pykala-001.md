@@ -5,4 +5,4 @@ Jos joku sanoo nimensä tahi säätynsä muuksi, kuin se on, ja jos toinen siten
 
 Jos siihen tulee vihkiminen lisäksi, taikka jos pettäjä makaa naisen, joka on aviosopimukseen vietelty; olkoon rangaistus kuritushuonetta korkeintaan kaksi vuotta taikka vankeutta vähintään kuusi kuukautta ja enintään kaksi vuotta, taikka, jos asianhaarat ovat erittäin raskauttavat, kuritushuonetta korkeintaan neljä vuotta.
 
-Tässä mainitusta rikoksesta älköön virallinen syyttäjä tehkö syytettä, ellei asianomistaja ole ilmoittanut rikosta syytteeseen pantavaksi taikka oikeudessa hakenut aviosopimuksen tahi avioliiton purkamista.
+Tässä mainitusta rikoksesta älköön syyttäjä tehkö syytettä, ellei asianomistaja ole ilmoittanut rikosta syytteeseen pantavaksi taikka oikeudessa hakenut aviosopimuksen tahi avioliiton purkamista.

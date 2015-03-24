@@ -1,8 +1,12 @@
-# 4 §
-Luku: 34 LUKU Yleistä vaaraa tuottavista rikoksista
+# 4 § Terveyden vaarantaminen
+Luku: 34 luku Yleisvaarallisista rikoksista
 
-Joka tahallansa sytyttää tuleen talon, rakennuksen tahi aluksen muissa kuin 1 ja 2 §:ssä mainituissa tapauksissa, taikka kasvavan, leikatun tahi korjatun viljan, heinä- tahi olkisuovan, metsän tahi suon, taikka varaston työkaluja, polttopuita, sysiä, hirsiä, lautoja tahi muita tarveaineita, taikka tavaravaraston, taikka muuta senkaltaista; tuomittakoon murhapoltosta kuritushuoneesen enintään kahdeksaksi vuodeksi ja kansalaisluottamuksensa menettäneeksi taikka, jos asianhaarat ovat erittäin lieventävät, vankeuteen vähintään neljäksi kuukaudeksi.
+Joka
+1) myrkyttämällä tai muulla vastaavalla tavalla saattaa terveydelle vaaralliseksi elintarvikkeen tai muun ihmisten nautittavaksi tai käytettäväksi tarkoitetun aineen taikka pitää sellaista vaaralliseksi saatettua ainetta muiden saatavilla,
+2) levittää vakavaa sairautta,
+3) käyttää säteilylähdettä säteilylain (592/1991) vastaisesti,
+4) käyttää ydinainetta tai ydinjätettä taikka toimii ydinenergiaa käytettäessä ydinenergialain (990/1987) vastaisesti tai
+5) geenitekniikkalain (377/1995) vastaisesti käyttää suljetussa tilassa tai tarkoituksellisesti levittää ympäristöön muuntogeenisiä organismeja
+siten, että teko on omiaan aiheuttamaan yleistä hengen tai terveyden vaaraa, on tuomittava terveyden vaarantamisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.
 
 Yritys on rangaistava.
-
-Jos tuleen sytytetty oli rikoksentekijän omaa, ja jos sytytyksestä ei ollut ilmeistä vaaraa toisen hengelle tahi terveydelle, taikka 1 tahi 2 §:ssä mainituille esineille, taikka toisen omaisuudelle, sellaiselle kuin tämän §:n 1 momentissa sanotaan; älköön tässä §:ssä säädettyä rangaistusta tuomittako.

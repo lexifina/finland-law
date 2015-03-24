@@ -1,4 +1,4 @@
-# 4 §
-Luku: 32 LUKU Varastetun tavaran kätkemisestä sekä muusta luvattomasta ryhtymisestä rikoksen kautta saatuun tavaraan
+# 4 § Tuottamuksellinen kätkemisrikos
+Luku: 32 LUKU Kätkemis- ja rahanpesurikoksista
 
-Jos joku 1 §:ssä sanotulla tavalla ryhtyy tavaraan, joka on saatu muun kuin siinä nimitetyn rikoksen kautta, ja jos hän tiesi, miten se oli saatu, itse olematta rikoksessa osallisena; rangaistakoon sakolla taikka vankeudella korkeintaan yhdeksi vuodeksi. Rangaistusta älköön kuitenkaan määrättäkö korkeampaa, kuin avunannosta siihen rikokseen, jonka kautta tavara on saatu.
+Joka hankkii, ottaa huostaansa tai välittää toiselta 1 §:ssä tarkoitetulla rikoksella saatua omaisuutta tai muulla tavoin ryhtyy sellaiseen omaisuuteen, vaikka hänellä on syytä epäillä, että omaisuus on tällä tavalla saatu, on tuomittava tuottamuksellisesta kätkemisrikoksesta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.

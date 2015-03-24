@@ -1,4 +1,4 @@
-# 18 §
-Luku: 16 LUKU Rikoksista julkista viranomaista ja yleistä järjestystä vastaan
+# 18 § Oikeushenkilön rangaistusvastuu
+Luku: 16 luku Rikoksista viranomaisia vastaan
 
-Jos joku vastoin laillista kieltoa hukkaa tahi luovuttaa irtainta tahi kiinteätä omaisuutta taikka antaa toisen omaisuutta ulos; rangaistakoon sakolla tahi vankeudella korkeintaan kolmeksi kuukaudeksi.
+Lahjuksen antamiseen, törkeään lahjuksen antamiseen, lahjuksen antamiseen kansanedustajalle ja törkeään lahjuksen antamiseen kansanedustajalle sovelletaan, mitä oikeushenkilön rangaistusvastuusta säädetään.

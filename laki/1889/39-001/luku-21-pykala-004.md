@@ -1,6 +1,6 @@
-# 4 §
-Luku: 21 LUKU
+# 4 § Lapsensurma
+Luku: 21 luku Henkeen ja terveyteen kohdistuvista rikoksista
 
-Joka, ilman tappamisen aikomusta, tahallansa pitelee toista niin pahoin, että tämä sen johdosta kuolee, rangaistakoon kuritushuoneella vähintään kahdeksi ja enintään kahdeksitoista vuodeksi.
+Nainen, joka synnytyksestä johtuvassa uupumuksessa tai ahdistuksessa surmaa lapsensa, on tuomittava lapsensurmasta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.
 
-Jos tapettu, ilman rikollisen syytä, oli törkeällä loukkauksella tahi erinomaisella väkivaltaisuudella rikollisen vihastuttanut, taikka jos pahoinpitely oli sitä laatua, ettei ollut todennäköistä syytä luulla kuoleman tahi vaikean ruumiinvamman siitä seuraavan, taikka jos asianhaarat muuten ovat erittäin lieventävät; tuomittakoon kuritushuonetta enintään neljä vuotta tahi vankeutta vähintään kuusi kuukautta.
+Yritys on rangaistava.

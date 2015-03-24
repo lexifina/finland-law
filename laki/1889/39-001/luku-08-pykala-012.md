@@ -1,0 +1,4 @@
+# 12 § Tuomitun rangaistuksen täytäntöönpanon raukeaminen eräissä tapauksissa
+Luku: 8 luku Vanhentumisesta
+
+Jos vankeusrangaistuksen, yhdyskuntapalvelurangaistuksen tai sakon muuntorangaistuksen täytäntöönpano on keskeytynyt tai ehdonalaiseen vapauteen päästetty on määrätty menettämään vapautensa, täytäntöönpanon jatkamisessa on vastaavasti sovellettava 10 ja 11 §:n säännöksiä. Määräaikaisen vankeusrangaistuksen ja yhdyskuntapalvelurangaistuksen raukeamiseen johtava aika määräytyy jäljellä olevan rangaistuksen mukaan, ja jos useita rangaistuksia on niitä täytäntöönpantaessa laskettu yhteen, yhteenlasketusta rangaistuksesta jäljellä olevan ajan mukaan. Aika on laskettava keskeytymispäivästä ja, mikäli ehdonalainen vapaus on määrätty menetetyksi tai ehdollinen rangaistus pantavaksi täytäntöön, siitä päivästä, jona menettämistä tai täytäntöönpanoa koskeva lainvoiman saanut tuomio annettiin.

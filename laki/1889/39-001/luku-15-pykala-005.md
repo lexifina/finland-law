@@ -1,4 +1,4 @@
-# 5 §
-Luku: 15 LUKU Rikoksista maan Valtiosäätyjä vastaan ja toisen vaalioikeuden tahi äänivallan häiritsemisestä
+# 5 § Yritetty yllytys perättömään lausumaan
+Luku: 15 luku Rikoksista oikeudenkäyttöä vastaan
 
-Jos virkamies virkatoimessaan joutuu tässä luvussa säädettyyn rangaistukseen vikapääksi; pantakoon sitä paitse viralta.
+Joka yrittää taivuttaa toista 1–3 §:ssä tarkoitettuun rikokseen, on tuomittava yritetystä yllytyksestä perättömään lausumaan sakkoon tai vankeuteen enintään yhdeksi vuodeksi.

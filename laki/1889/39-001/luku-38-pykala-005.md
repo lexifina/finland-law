@@ -1,4 +1,6 @@
-# 5 §
-Luku: 38 LUKU Epärehellisyydestä ja rangaistavasta voitonpyynnöstä
+# 5 § Tietoliikenteen häirintä
+Luku: 38 luku Tieto- ja viestintärikoksista
 
-Joka luvattomasti ottaa pois tahi kätkee sellaista irtainta omaisuuttansa, jota toinen panttina tahi tunnustodisteena hallitsee tai on oikeutettu pitämään takanansa tahi käyttämään, rangaistakoon sakolla tai vankeudella korkeintaan yhdeksi vuodeksi, ellei rikos muun lainpaikan mukaan ole kovemmin rangaistava.
+Joka puuttumalla postiliikenteessä taikka tele- tai radioviestinnässä käytettävän laitteen toimintaan, lähettämällä ilkivaltaisessa tarkoituksessa radiolaitteella tai televerkossa häiritseviä viestejä tai muulla vastaavalla tavalla oikeudettomasti estää tai häiritsee postiliikennettä taikka tele- tai radioviestintää, on tuomittava tietoliikenteen häirinnästä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+
+Yritys on rangaistava.

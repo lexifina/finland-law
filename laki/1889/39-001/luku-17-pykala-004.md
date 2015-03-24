@@ -1,4 +1,4 @@
-# 4 §
-Luku: 17 LUKU Väärästä valasta
+# 4 § Väkivaltaisen mellakan johtaminen
+Luku: 17 luku Rikoksista yleistä järjestystä vastaan
 
-Jos asianymmärtävä on, nojautuen valaan, jonka hän kerran kaikkiaan on tehnyt, antanut väärän tahi erehdyttävän todisteen tahi lausunnon; tuomittakoon niin kuin väärin todistanut.
+Joka yllyttää tai johtaa 3 §:ssä tarkoitettua väkijoukkoa, on tuomittava väkivaltaisen mellakan johtamisesta vankeuteen enintään neljäksi vuodeksi.

@@ -1,4 +1,6 @@
-# 4 §
-Luku: 7 LUKU Rikoksien yhtymisestä
+# 4 § Muut seuraamukset
+Luku: 7 LUKU Yhteisestä rangaistuksesta
 
-Jos joku on vikapää kuolemanrangaistukseen, taikka kuritushuoneesen elinkaudeksi; käsittää kuolemanrangaistus kaikki muut yleistä lajia olevat rangaistukset, sekä kuritushuone-rangaistus kaikki vapausrangaistukset ja sakot.
+Jos jostakin rikoksesta on yleisen rangaistuksen ohella tuomittava viraltapano tai muu seuraamus, seuraamus on laissa säädetyin edellytyksin tuomittava myös yhteisen rangaistuksen ohella.
+
+Samalla kertaa tuomittavista rikoksista määrätään vain yksi nuorisorangaistus.

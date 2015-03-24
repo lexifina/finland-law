@@ -1,8 +1,4 @@
-# 7 §
-Luku: 21 LUKU
+# 7 § Lievä pahoinpitely
+Luku: 21 luku Henkeen ja terveyteen kohdistuvista rikoksista
 
-Joka, ilman surmaamisen aikomusta, toista vahingoittaakseen saattaa häneen myrkkyä tahi muuta sellaista vaarallista ainetta, tuomittakoon, jos siitä tulee kuolema, kuritushuoneesen vähintään kahdeksaksi ja enintään kahdeksitoista vuodeksi taikka elinkaudeksi, ja, jos siitä syntyy vaikea ruumiinvamma, kuritushuoneesen vähintään kuudeksi ja enintään kahdeksitoista vuodeksi, sekä jos siitä tulee vähempi vamma tai ei mitään vammaa, kuritushuoneesen vähintään kahdeksi ja enintään kahdeksaksi vuodeksi, ja julistettakoon kaikissa näissä tapauksissa kansalaisluottamuksensa menettäneeksi.
-
-Yritys on rangaistava.
-
-Jos joku, aikoen toista vahingoittaa, on valmistanut tahi itselleen hankkinut myrkkyä tahi muuta sellaista vaarallista ainetta, vaan ei ole yrittänyt toteuttaa aikomustaan; tuomittakoon vankeuteen enintään yhdeksi vuodeksi.
+Jos pahoinpitely, huomioon ottaen väkivallan, ruumiillisen koskemattomuuden loukkauksen tai terveyden vahingoittamisen vähäisyys taikka muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen vähäinen, rikoksentekijä on tuomittava lievästä pahoinpitelystä sakkoon.

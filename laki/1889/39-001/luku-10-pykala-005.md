@@ -1,8 +1,12 @@
-# 5 §
-Luku: 10 LUKU Uskontorikoksista
+# 5 § Muun omaisuuden menettäminen
+Luku: 10 luku Menettämisseuraamuksista
 
-Jos joku pakottamalla, kavaluudella, lahjalla taikka ajallista etua lupaamalla taivuttaa jonkun Suomessa tunnustetun, luvallisen tahi suvaitun uskokunnan jäsenen kääntymään toiseen uskonoppiin, taikka kasteella tahi muulla toimella saa jonkun, joka ei ole yhtäkolmatta vuotta täyttänyt, otetuksi loiseen uskonoppiin, kuin missä hän on kasvatettava; rangaistakoon vankeudella korkeintaan kahdeksi vuodeksi, taikka vähintään viidenkymmenen ja enintään neljän tuhannen markan sakolla.
+Rikoksella tuotettu, valmistettu tai aikaansaatu taikka rikoksen kohteena ollut esine tai omaisuus on tuomittava valtiolle menetetyksi, jos sen hallussapito on rangaistavaa.
 
-Yritys on rangaistava.
+Rikoksella tuotettu, valmistettu tai aikaansaatu taikka rikoksen kohteena ollut esine tai omaisuus voidaan tuomita kokonaan tai osaksi menetetyksi, jos menettämisseuraamus on tarpeen:
+1) esineen tai omaisuuden terveydelle tai ympäristölle haitallisten ominaisuuksien vuoksi;
+2) uusien rikosten ehkäisemiseksi, ja esine on erityisen sovelias rikoksen kohteeksi tai rikolliseen käyttöön;
+3) säännöstelyä taikka maahantuontia tai maastavientiä koskevien säännösten tai määräysten tarkoituksen toteuttamiseksi; tai
+4) luonnon tai ympäristön suojelemiseksi annettujen säännösten tai määräysten tarkoituksen toteuttamiseksi.
 
-Jos syyllinen ei ole Suomen kansalainen; on hän samalla tuomittava, rangaistuksen kärsittyänsä, maasta karkotettavaksi, jos rikos on sen arvoinen.
+Astia, päällys tai muu väline, jota on käytetty menetetyksi tuomittavan esineen tai omaisuuden säilyttämiseen, voidaan myös tuomita menetetyksi, jos menettämisseuraamusta ei muuten ole hankaluuksitta mahdollista panna täytäntöön.

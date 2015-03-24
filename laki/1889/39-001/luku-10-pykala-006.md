@@ -1,6 +1,6 @@
-# 6 §
-Luku: 10 LUKU Uskontorikoksista
+# 6 § Menettämisen rajoitukset
+Luku: 10 luku Menettämisseuraamuksista
 
-Joka estää palvelijaansa tahi muuta talonväkeänsä olemasta jumalanpalveluksessa, niin että hän harvoin tai ei milloinkaan salli heidän ottaa siihen osaa; rangaistakoon enintään kolmensadan markan sakolla.
+Menetetyksi ei tuomita 4 tai 5 §:ssä tarkoitettua esinettä tai muuta omaisuutta, joka kokonaan tai osaksi kuuluu muulle kuin rikoksentekijälle, rikokseen osalliselle tai sille, jonka puolesta tai suostumuksin rikos on tehty. Esine tai omaisuus voidaan kuitenkin tuomita menetetyksi siltä, jolle se on rikoksen tekemisen jälkeen siirretty, jos hän sen vastaanottaessaan on tiennyt esineen tai omaisuuden liittymisestä rikokseen tai hänellä on ollut perusteltu syy sitä epäillä taikka jos hän on saanut sen lahjana tai muuten vastikkeetta.
 
-Syytettä tässä §:ssä mainitusta rikoksesta älköön virallinen syyttäjä tehkö, ellei asianomistaja ole sitä tehtäväksi ilmoittanut.
+Esine tai omaisuus on sen omistusoikeudesta riippumatta tuomittava menetetyksi, jos sen omistajakin sitä hallussaan pitämällä syyllistyisi rikokseen.

@@ -1,6 +1,9 @@
-# 4 §
-Luku: 40 LUKU Virkamiesten virkarikoksista.
+# 4 § Lahjuksen ottaminen kansanedustajana
+Luku: 40 LUKU Virkarikoksista
 
-Jos virkamies tahallansa on pannut tahi panettanut täytäntöön rangaistuksen, jonka täytäntöönpanon hän tietää luvattomaksi, taikka kovemman rangaistuksen, kuin mitä tuomittu oli; pantakoon viralta ja julistettakoon maan palvelukseen kelvottomaksi sekä tuomittakoon sitä paitse kuritushuoneesen vähintään yhdeksi ja enintään kuudeksi vuodeksi.
+Jos kansanedustaja itselleen tai toiselle
+1) pyytää lahjan tai muun oikeudettoman edun taikka tekee muutoin aloitteen sellaisen edun saamiseksi taikka
+2) ottaa vastaan tai hyväksyy muun kuin tavanomaiseksi vieraanvaraisuudeksi katsottavan lahjan tai muun oikeudettoman edun taikka hyväksyy sitä koskevan lupauksen tai tarjouksen
+toimiakseen tai jättääkseen toimimatta edun vuoksi edustajantoimessaan tietyllä tavalla taikka palkkiona sellaisesta toiminnasta ja teko on omiaan selvästi horjuttamaan luottamusta edustajantoimen hoitamisen riippumattomuuteen, hänet on tuomittava lahjuksen ottamisesta kansanedustajana sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
-Jos täytäntöön pantu rangaistus oli sakkoa, taikka jos asianhaarat muuten ovat erittäin lieventävät; tuomittakoon rikollinen viran toimittamisesta erotettavaksi taikka vankeuteen korkeintaan kahdeksi vuodeksi.
+Lahjuksen ottamisena kansanedustajana ei pidetä ehdokkaan vaalirahoituksesta annetun lain mukaista vaalirahoitusta, ellei sen tarkoituksena ole 1 momentin kiertäminen.

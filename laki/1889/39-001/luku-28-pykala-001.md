@@ -1,8 +1,6 @@
-# 1 §
-Luku: 28 LUKU Varkaudesta ja näpistämisestä
+# 1 § Varkaus
+Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
-Jos joku varastaa tavaraa tahi rahaa, ja jos anastetun arvo on kahtakymmentä markkaa suurempi; rangaistakoon varkaudesta vankeudella korkeintaan yhdeksi vuodeksi, taikka, jos asianhaarat ovat erittäin raskauttavat, kuritushuoneella korkeintaan kahdeksi vuodeksi.
+Joka anastaa toisen hallusta irtainta omaisuutta, on tuomittava varkaudesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi kuudeksi kuukaudeksi.
 
-Ellei arvo ole kahtakymmentä markkaa suurempi; tuomittakoon näpistämisestä sakkoa enintään kaksisataa markkaa, taikka, jos asianhaarat ovat erittäin raskauttavat, vankeutta korkeintaan kolme kuukautta.
-
-Tässä §:ssä mainittujen rikosten yritys on rangaistava.
+Yritys on rangaistava.

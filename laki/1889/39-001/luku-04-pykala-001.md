@@ -1,6 +1,4 @@
-# 1 §
-Luku: 4 LUKU Yrityksestä
+# 1 § Tunnusmerkistöerehdys
+Luku: 4 luku Vastuuvapausperusteista
 
-Kun yritys lain mukaan on rangaistava, eikä erityistä rangaistusta siitä ole määrätty; tuomittakoon rangaistus sen lainpaikan mukaan, joka säätää rangaistuksen täytetystä rikoksesta, kuitenkin vähentämällä yleistä lajia olevan rangaistuksen niin, kuin 3 luvun 2 §:n mukaan vähennetään siltä, joka on täyttänyt viisitoista, vaan ei kahdeksaatoista vuotta.
-
-Jos täytetystä rikoksesta on säädetty kansalaisluottamuksen menettäminen; tuomittakoon sellainen seuraus yrityksestä ainoastaan sille, joka on vikapää kuritushuone-rangaistukseen. Mitä on säädetty viraltapanosta, kelvottomuudesta maan palvelukseen, erottamisesta viran toimituksesta, samoin kuin muistakin seurauksista, joita laki täytetystä rikoksesta määrää, käytettäköön myös yritystä rangaistaessa.
+Jos tekijä ei teon hetkellä ole selvillä kaikkien niiden seikkojen käsilläolosta, joita rikoksen tunnusmerkistön toteutuminen edellyttää, tai jos hän erehtyy sellaisesta seikasta, teko ei ole tahallinen. Vastuu tuottamuksellisesta rikoksesta voi kuitenkin tulla kysymykseen tuottamuksen rangaistavuutta koskevien säännösten mukaan.

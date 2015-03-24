@@ -1,4 +1,8 @@
-# 7 §
-Luku: 28 LUKU Varkaudesta ja näpistämisestä
+# 7 § Luvaton käyttö
+Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
-Jos joku eri paikoissa tahi eri aikoina on näpistänyt, varastanut tahi tehnyt murtoja, taikka ollut niissä rikoksissa osallinen tahi niitä yrittänyt, ja jos häntä näistä yhtaikaa oikeudessa syytetään; noudatettakoon mitä 7 luvun 2 tahi 3 §:ssä säädetään.
+Joka luvattomasti käyttää toisen irtainta omaisuutta taikka kiinteää konetta tai laitetta, on tuomittava luvattomasta käytöstä sakkoon tai vankeuteen enintään yhdeksi vuodeksi.
+
+Yritys on rangaistava.
+
+Luvattomana käyttönä ei pidetä suojaamattoman langattoman tietoverkkoyhteyden kautta muodostetun internet-yhteyden käyttämistä.

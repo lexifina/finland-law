@@ -1,7 +1,6 @@
-# 2 §
-Luku: 9 LUKU Vahingonkorvauksesta
+# 2 § Rangaistusvastuun edellytykset
+Luku: 9 luku Oikeushenkilön rangaistusvastuusta
 
-Vahingonkorvaukseksi luetaan hyvitys:
-1. tarpeellisista kuluista: niinkuin vahingoitetusta, hävitetystä tahi hukatusta tavarasta, taikka parantajan palkkaamiseen tahi muuhun sellaiseen;
-2. tulojen tahi elatuksen vähentymisestä: niinkuin elinkeinon haittaamisen tahi ehkäisemisen, tai muun sellaisen seikan kautta; sekä
-3. kivusta ja särystä, taikka viasta tahi muusta pysyväisestä haitasta; sekä myöskin kärsimisestä, jonka on vaikuttanut väkisinmakaaminen, vapauden kadottaminen tahi muu senkaltainen syy.
+Oikeushenkilö tuomitaan yhteisösakkoon, jos sen lakisääteiseen toimielimeen tai muuhun johtoon kuuluva taikka oikeushenkilössä tosiasiallista päätösvaltaa käyttävä on ollut osallinen rikokseen tai sallinut rikoksen tekemisen taikka jos sen toiminnassa ei ole noudatettu vaadittavaa huolellisuutta ja varovaisuutta rikoksen ehkäisemiseksi.
+
+Yhteisösakkoon tuomitaan, vaikkei rikoksentekijää saada selville tai muusta syystä tuomita rangaistukseen. Yhteisösakkoon ei kuitenkaan tuomita sellaisen asianomistajarikoksen johdosta, jota asianomistaja ei ilmoita syytteeseen pantavaksi, ellei erittäin tärkeä yleinen etu vaadi syytteen nostamista.

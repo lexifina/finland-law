@@ -1,10 +1,12 @@
-# 7 §
-Luku: 20 LUKU Luvattomasta sekaannuksesta ja muusta haureudesta
+# 7 § Törkeä lapsen seksuaalinen hyväksikäyttö
+Luku: 20 luku Seksuaalirikoksista
 
-Jos joku makaa tytön, joka ei ole täyttänyt kahtatoista vuotta, taikka harjottaa hänen kanssaan muuta haureutta; tuomittakoon kuritushuoneesen vähintään kahdeksi ja enintään kahdeksaksi vuodeksi taikka vankeuteen vähintään kuudeksi kuukaudeksi.
+Jos
+1) tekijä on sukupuoliyhteydessä kuuttatoista vuotta nuoremman lapsen tai 6 §:n 2 momentissa tarkoitetussa tapauksessa kuusitoista mutta ei kahdeksantoista vuotta täyttäneen lapsen kanssa taikka
+2) lapsen seksuaalisessa hyväksikäytössä
+a) kohteena on lapsi, jolle rikos lapsen iän tai kehitystason vuoksi on omiaan aiheuttamaan erityistä vahinkoa,
+b) rikos tehdään erityisen nöyryyttävällä tavalla tai
+c) rikos on omiaan aiheuttamaan erityistä vahinkoa lapselle hänen tekijää kohtaan tuntemansa erityisen luottamuksen tai muuten tekijästä erityisen riippuvaisen asemansa vuoksi,
+ja rikos on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä lapsen seksuaalisesta hyväksikäytöstä vankeuteen vähintään yhdeksi ja enintään kymmeneksi vuodeksi.
 
-Jos se tehdään tytön kanssa, joka on kaksitoista, vaan ei viittätoista vuotta täyttänyt, eikä ole ennen maattu; olkoon rangaistus kuritushuonetta korkeintaan kaksi vuotta taikka vankeutta vähintään kolme kuukautta ja enintään kaksi vuotta.
-
-Jos joku makaa tytön, joka on viisitoista, vaan ei seitsemäätoista vuotta täyttänyt, eikä ennen ole maattu; tuomittakoon vankeuteen korkeintaan kolmeksi kuukaudeksi taikka enintään kolmensadan markan sakkoon.
-
-Tämän §:n 2 tahi 3 momentissa mainituista rikoksista älköön virallinen syyttäjä tehkö syytettä, ellei asianomistaja ole ilmoittanut rikosta syytteesen pantavaksi.
+Yritys on rangaistava.

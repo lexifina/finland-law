@@ -1,0 +1,4 @@
+# 18 § Soveltamisalasäännös
+Luku: 21 luku Henkeen ja terveyteen kohdistuvista rikoksista
+
+Sovellettaessa tämän luvun 2 §:n 4 kohtaa rikollisen teon kohteena olevaan virkamieheen rinnastetaan 40 luvun 11 §:ssä tarkoitettu julkista luottamustehtävää hoitava henkilö, sellainen ulkomainen virkamies, joka toimii Kansainvälisen rikostuomioistuimen palveluksessa taikka Suomen alueella kansainvälisen sopimuksen tai muun kansainvälisen velvoitteen nojalla tarkastus-, tarkkailu-, takaa-ajo- tai esitutkintatehtävissä taikka joka toimii Suomen alueella kansainvälisestä oikeusavusta rikosasioissa annetun lain nojalla Suomen viranomaisen esittämän tai hyväksymän oikeusapupyynnön perusteella esitutkinta- tai muissa virkatehtävissä, julkista valtaa käyttävä henkilö ja 16 luvun 20 §:n 5 momentissa tarkoitettu henkilö.

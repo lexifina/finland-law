@@ -1,6 +1,8 @@
-# 2 §
-Luku: 8 LUKU Ajasta, jonka kuluessa rikokset ovat pantavat syytteesen ja rangaistukset täytäntöön
+# 2 § Syyteoikeuden vanhentumisajan alkaminen
+Luku: 8 luku Vanhentumisesta
 
-Syyte katsotaan alkaneeksi, milloin rikoksesta syytettävä on siitä vangittu tahi laillisesti kutsuttu vastaamaan.
+Edellä 1 §:ssä mainitut ajat lasketaan rikoksen tekopäivästä. Jos rikoksen tunnusmerkistössä säädetään laiminlyönti rangaistavaksi, syyteoikeus alkaa vanhentua, kun laiminlyöty teko olisi viimeistään tullut tehdä. Jos rikoksen tunnusmerkistössä edellytetään määrätyn seurauksen syntymistä, aika lasketaan tuon seurauksen ilmenemispäivästä.
 
-Jos rikoksessa on useita osallisia; älköön yhden vangitsemista taikka kutsumista pidettäkö syytteenä toisia vastaan.
+Jos rikolliseen tekoon sisältyy lainvastaisen asiaintilan ylläpitäminen, syyteoikeuden vanhentumisaika alkaa vasta sellaisen tilan päättymisestä.
+
+Syyteoikeus osallisuudesta rikokseen alkaa vanhentua samana päivänä kuin syyteoikeus pääteosta.

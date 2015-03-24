@@ -1,4 +1,8 @@
-# 7 §
-Luku: 3 LUKU Perusteista, jotka poistavat rangaistavaisuuden tahi sitä vähentävät
+# 7 § Tuottamus
+Luku: 3 luku Rikosoikeudellisen vastuun yleisistä edellytyksistä
 
-Jos joku luvattomasti tunkeutuu toisen huoneeseen, taloon, kartanoon tahi alukseen, taikka tekee vastarintaa sille, joka verekseltä tahtoo omansa ottaa takaisin, olkoon hätävarjelus niinikään oikeutettu.
+Tekijän menettely on huolimatonta, jos hän rikkoo olosuhteiden edellyttämää ja häneltä vaadittavaa huolellisuusvelvollisuutta, vaikka hän olisi kyennyt sitä noudattamaan (tuottamus).
+
+Se, pidetäänkö huolimattomuutta törkeänä (törkeä tuottamus), ratkaistaan kokonaisarvostelun perusteella. Arvostelussa otetaan huomioon rikotun huolellisuusvelvollisuuden merkittävyys, vaarannettujen etujen tärkeys ja loukkauksen todennäköisyys, riskinoton tietoisuus sekä muut tekoon ja tekijään liittyvät olosuhteet.
+
+Pikemmin tapaturmaan kuin tuottamukseen perustuvasta teosta ei rangaista.

@@ -1,6 +1,4 @@
-# 5 §
-Luku: 32 LUKU Varastetun tavaran kätkemisestä sekä muusta luvattomasta ryhtymisestä rikoksen kautta saatuun tavaraan
+# 5 § Kätkemisrikkomus
+Luku: 32 LUKU Kätkemis- ja rahanpesurikoksista
 
-Jos joku ostaa, itselleen vaihtaa, pantiksi tahi lahjaksi ottaa, luovuttaa, muuntaa tahi muuksi valmistaa tavaraa, jonka toinen rikoksen kautta on saanut, ja jos hänellä on syytä varoa saantoa laittomaksi; rangaistakoon korkeintaan kahdensadan markan sakolla.
-
-Sama olkoon laki, jos joku, tässä sanotulla tavalla, ottaa vastaan kruunun omaa sotilaalta, jonka saantoa hänen pitäisi epäillä.
+Jos kätkemisrikos tai tuottamuksellinen kätkemisrikos, huomioon ottaen omaisuuden arvo tai muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen vähäinen, rikoksentekijä on tuomittava kätkemisrikkomuksesta sakkoon.

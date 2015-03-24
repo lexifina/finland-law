@@ -1,6 +1,4 @@
-# 4 §
-Luku: 37 LUKU Raharikoksista
+# 4 § Rahanväärennyksen valmistelu
+Luku: 37 LUKU Maksuvälinerikoksista
 
-Mitä tässä luvussa säädetään setelirahasta, koskekoon myöskin sellaista painettua velkaseteliä, pankinseteliä, tahi haltijalle asetettua arvopaperia, jonka Suomen valtio, muu valtio, tahi Suomen pankki, taikka, koto- tahi ulkomaisen hallituksen luvalla, kunta, yhdyskunta, yhdistys, seura, yhtiö tahi yksityinen henkilö on antanut liikkeesen.
-
-Painetuksi on arvopaperi katsottava, vaikka antajan nimi, taikka yksityisiä sanoja tahi numeroita onkin kirjoittamalla siihen pantu.
+Joka rahanväärennysrikoksen tekemistä varten valmistaa, tuo maahan, pitää hallussaan, hankkii tai vastaanottaa tällaisen rikoksen tekemiseen soveltuvan välineen, tarvikkeen, tallenteen tai ohjelmiston, on tuomittava rahanväärennyksen valmistelusta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

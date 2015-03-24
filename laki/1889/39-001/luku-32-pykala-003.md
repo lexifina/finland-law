@@ -1,4 +1,4 @@
-# 3 §
-Luku: 32 LUKU Varastetun tavaran kätkemisestä sekä muusta luvattomasta ryhtymisestä rikoksen kautta saatuun tavaraan
+# 3 § Ammattimainen kätkemisrikos
+Luku: 32 LUKU Kätkemis- ja rahanpesurikoksista
 
-Jos joku ottaa varastetun tavaran kätkemisen ammatikseen tahi tavakseen; tuomittakoon kuritushuoneesen vähintään kahdeksi ja enintään kymmeneksi vuodeksi sekä kansalaisluottamuksensa menettäneeksi.
+Jos edellä tässä luvussa tarkoitettu ryhtyminen rikoksella saatuun omaisuuteen on laajamittaista ja ammattimaista, rikoksentekijä on tuomittava ammattimaisesta kätkemisrikoksesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kuudeksi vuodeksi.

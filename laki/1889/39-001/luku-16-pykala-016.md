@@ -1,4 +1,4 @@
-# 16 §
-Luku: 16 LUKU Rikoksista julkista viranomaista ja yleistä järjestystä vastaan
+# 16 § Vangin karkaaminen
+Luku: 16 luku Rikoksista viranomaisia vastaan
 
-Joka luvattomasti ottaa paikaltaan taikka tahallansa turmelee tahi pilaa julkisen viraston tahi virkamiehen kuulutuksen, joka yleisön tiedoksi on julki pantu, vetäköön sakkoa enintään kolmesataa markkaa.
+Vanki, pidätetty tai viranomaisen huostassa oleva kiinniotettu taikka sotilaskurinpitolaissa tarkoitettuun arestiin määrätty henkilö, joka karkaa tai yrittää karata rangaistuslaitoksesta tai muusta säilöstä taikka häntä vartioivan, saattavan tai kuljettavan henkilön huostasta, on tuomittava vangin karkaamisesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.

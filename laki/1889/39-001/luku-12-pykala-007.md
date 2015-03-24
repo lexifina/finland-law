@@ -1,8 +1,6 @@
-# 7 §
-Luku: 12 LUKU Maanpetoksesta ja muista rikoksista Suomen tahi Venäjän turvallisuutta vastaan
+# 7 § Turvallisuussalaisuuden paljastaminen
+Luku: 12 luku Maanpetosrikoksista
 
-Jos se, joka on uskottu tietämään salaisen keskustelun, neuvottelun tahi päätöksen asiassa, jonka varassa Suomen tahi Venäjän oikeus tai turvallisuus on, ilmaisee keskustelun, neuvottelun tahi päätöksen, taikka luvatta julkaisee tahi tekee tiettäväksi asiakirjan, joka sellaista koskee; rangaistakoon kuritushuoneella vähintään kahdeksi ja enintään kymmeneksi vuodeksi, Jos asianhaarat ovat erittäin lieventävät; olkoon rangaistus kuritushuonetta korkeintaan kaksi vuotta.
+Joka oikeudettomasti julkistaa tai toiselle välittää, luovuttaa tai ilmaisee taikka tällaista tarkoitusta varten oikeudettomasti hankkii tiedon seikasta, joka Suomen ulkoisen turvallisuuden vuoksi on säädetty tai määrätty salassa pidettäväksi tai joka tekijän tieten on sen laatuinen, että sen paljastuminen on omiaan aiheuttamaan vakavaa vahinkoa Suomen maanpuolustukselle, turvallisuudelle, ulkomaansuhteille tai kansantaloudelle, on tuomittava turvallisuussalaisuuden paljastamisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.
 
 Yritys on rangaistava.
-
-Jos keskustelu, neuvottelu, päästös tahi asiakirja on tullut muun henkilön tiedoksi, taikka jos asiakirja on joutunut tämän käsiin, ja jos hän tahallansa siitä jotakin ilmaisee, julkaisee taikka tekee tiettäväksi, vaikka hän tietää, että asia on pidettävä salassa; rangaistakoon vankeudella vähintään yhdeksi vuodeksi taikka vähintään kahdensadan markan sakolla.

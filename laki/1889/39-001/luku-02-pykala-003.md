@@ -1,6 +1,10 @@
 # 3 §
 Luku: 2 LUKU Rangaistuksista
 
-Ehdotonta vankeusrangaistusta tuomitaan määräajaksi, vähintään neljäksitoista päiväksi ja enintään neljäksi vuodeksi, paitse milloin pitempi vankeusaika on erittäin määrätty, taikka rangaistuksia yhdistettäessä.
+Milloin laissa on säädetty rangaistukseksi kuritushuonetta, on kuritushuonerangaistuksen sijasta tuomittava vankeusrangaistus.
 
-Tämä rangaistus määrätään täysin päivin, taikka kuukausin taikka vuosin, täysin kuukausin ja päivin, taikka täysin vuosin ja kuukausin, sekä rangaistuksia yhdistettäessä täysin vuosin, kuukausin ja päivin.
+Elinkautisen kuritushuonerangaistuksen sijasta tuomitaan elinkautinen vankeusrangaistus. Määräaikaisen kuritushuonerangaistuksen sijasta tuomitaan vankeutta rangaistussäännöksessä kuritushuonerangaistukselle säädetyn rangaistusasteikon rajoissa. Jollei rangaistussäännöksessä ole erityistä vähimmäis- tai enimmäisaikaa, kuritushuoneen sijasta tuomitaan vankeutta vähintään kuusi kuukautta ja enintään kaksitoista vuotta.
+
+Ennen 1 päivää heinäkuuta 1975 annetussa rangaistussäännöksessä säädetyn vankeusrangaistuksen enimmäisaika on, jollei sitä ole erikseen määrätty, neljä vuotta.
+
+Mitä on säädetty elinkautisesta kuritushuonerangaistuksesta, koskee myös elinkautista vankeusrangaistusta.

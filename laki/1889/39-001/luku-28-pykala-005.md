@@ -1,10 +1,10 @@
-# 5 §
-Luku: 28 LUKU Varkaudesta ja näpistämisestä
+# 5 § Törkeä kavallus
+Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
-Joka toisen kerran varastaa, rangaistakoon kuritushuoneella korkeintaan neljäksi vuodeksi, taikka, jos varkaus 2 §:n mukaan on törkeä, kuritushuoneella vähintään yhdeksi ja enintään kuudeksi vuodeksi.
+Jos kavalluksessa
+1) kohteena on erittäin arvokas omaisuus tai suuri määrä varoja,
+2) aiheutetaan rikoksen uhrille tämän olot huomioon ottaen erityisen tuntuvaa vahinkoa tai
+3) rikoksentekijä käyttää hyväkseen erityisen vastuullista asemaansa
+ja kavallus on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä kavalluksesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.
 
-Jos joku kolmannen kerran varastaa; rangaistakoon kuritushuoneella vähintään yhdeksi ja enintään kuudeksi vuodeksi, taikka, jos varkaus on törkeä, kuritushuoneella vähintään kahdeksi ja enintään kymmeneksi vuodeksi.
-
-Joka varastaa neljännen kerran tahi useammin, tuomittakoon kuritushuoneesen vähintään kahdeksi ja enintään kahdeksitoista vuodeksi, taikka, jos asianhaarat ovat erittäin raskauttavat, elinkaudeksi.
-
-Joka murrosta, ryöstöstä, tahi kiristämisestä on kärsinyt rangaistuksen ja jälkeenpäin tekee varkauden, rangaistakoon siitä niin kuin varkauden uusimisesta.
+Yritykseen on vastaavasti sovellettava, mitä 4 §:ssä on yrityksestä säädetty.

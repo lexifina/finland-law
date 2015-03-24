@@ -1,8 +1,4 @@
-# 8 §
-Luku: 34 LUKU Yleistä vaaraa tuottavista rikoksista
+# 8 § Törkeä yleisvaaran tuottamus
+Luku: 34 luku Yleisvaarallisista rikoksista
 
-Joka tahallansa matkaan saattaa vedentulvan, rangaistakoon, jos siitä on vaara ihmisen hengelle, kuritushuoneella vähintään neljäksi ja enintään kahdeksitoista vuodeksi, mutta jos siitä ainoastaan on yleinen vaara omaisuudelle, kuritushuoneella vähintään kahdeksi ja enintään kahdeksaksi vuodeksi.
-
-Yritys on rangaistava.
-
-Vedentulvan tuottamuksesta olkoon rangaistus sakkoa vähintään viisikymmentä markkaa taikka vankeutta korkeintaan yksi vuosi.
+Jos yleisvaaran tuottamuksessa aiheutetaan suurelle ihmismäärälle vakavaa hengen tai terveyden vaaraa ja rikos on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä yleisvaaran tuottamuksesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.

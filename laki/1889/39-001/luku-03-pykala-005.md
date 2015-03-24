@@ -1,4 +1,8 @@
-# 5 §
-Luku: 3 LUKU Perusteista, jotka poistavat rangaistavaisuuden tahi sitä vähentävät
+# 5 § Syyksiluettavuus
+Luku: 3 luku Rikosoikeudellisen vastuun yleisistä edellytyksistä
 
-Teosta, joka harkitaan tapahtuneeksi pikemmin tapaturmasta, kuin tuottamuksesta, älköön rangaistusta tuomittako.
+Rangaistusvastuun edellytyksenä on tahallisuus tai tuottamus.
+
+Jollei toisin säädetä, tässä laissa tarkoitettu teko on vain tahallisena rangaistava.
+
+Mitä 2 momentissa säädetään, koskee myös muualla laissa tarkoitettua tekoa, josta ankarimmaksi rangaistukseksi on säädetty enemmän kuin kuusi kuukautta vankeutta tai jota koskeva rangaistussäännös on annettu tämän lain voimaantulon jälkeen.

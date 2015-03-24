@@ -1,4 +1,6 @@
-# 15 §
-Luku: 44 LUKU Hengen, terveyden tahi omaisuuden suojelemiseksi annettujen määräysten rikkomisesta
+# 15 § Eläimen vartioimatta jättäminen
+Luku: 44 luku Terveyttä ja turvallisuutta vaarantavista rikoksista
 
-Joka avaa toisen veräjän tahi hilan, eikä sitä jälleen sulje, vetäköön sakkoa, jos asianomistaja rikoksesta syyttää tahi sen syytteeseen ilmoittaa, enintään kaksikymmentä markkaa.
+Joka tahallaan tai törkeästä huolimattomuudesta jättää asianmukaisesti vartioimatta ihmisille vaarallisen eläimen, josta hän on vastuussa, on tuomittava eläimen vartioimatta jättämisestä sakkoon.
+
+Tuomioistuin voi määrätä eläimen tapettavaksi, jos se on eläimen vaarallisuuden vuoksi perusteltua. Määräystä on noudatettava muutoksenhausta huolimatta, jollei määräyksen antanut tuomioistuin tai muutoksenhakutuomioistuin toisin määrää.

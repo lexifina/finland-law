@@ -1,4 +1,7 @@
-# 2 §
-Luku: 14 LUKU Rikoksista ystävyydessä olevaa valtiota vastaan
+# 2 § Vaalilahjonta
+Luku: 14 luku Rikoksista poliittisia oikeuksia vastaan
 
-Joka on syypää kunnianloukkaukseen ystävyydessä olevan valtion päämiestä vastaan, rangaistakoon vankeudella vähintään kahdeksi kuukaudeksi ja enintään kolmeksi vuodeksi tahi vähintään kolmensadan markan sakolla.
+Joka
+1) lupaa, tarjoaa tai antaa toiselle palkkion tai muun edun taivuttaakseen toisen äänestämään yleisissä vaaleissa tai yleisessä äänestyksessä tietyllä tavalla tai jättämään äänestämättä taikka
+2) vaatii palkkion tai muun edun äänestämisestä tai äänestämättä jättämisestä yleisissä vaaleissa tai yleisessä äänestyksessä,
+on tuomittava vaalilahjonnasta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.

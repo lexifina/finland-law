@@ -1,6 +1,7 @@
-# 2 §
-Luku: 40 LUKU Virkamiesten virkarikoksista.
+# 2 § Törkeä lahjuksen ottaminen
+Luku: 40 LUKU Virkarikoksista
 
-Jos tuomari tahi muu virkamies tahallansa tekee vääryyttä tuomitessaan tahi päättäessään; erotettakoon viran toimittamisesta, taikka pantakoon viralta sekä julistettakoon maan palvelukseen kelvottomaksi. Jos asianhaarat ovat erittäin raskauttavat; tuomittakoon rikollinen vankeuteen ja pantakoon samalla viralta sekä julistettakoon maan palvelukseen kelvottomaksi.
-
-Jos joku sen rikoksen johdosta tuli syyttömästi tahi liian ankarasti rangaistuksi; tuomittakoon rikollinen, jos rikos on sen arvoinen, kuritushuoneesen vähintään neljäksi ja enintään kahdeksitoista vuodeksi tahi elinkaudeksi, ja pantakoon samalla viralta sekä julistettakoon kansalaisluottamuksensa menettäneeksi.
+Jos lahjuksen ottamisessa
+1) virkamies asettaa lahjuksen toimintansa ehdoksi taikka toimii tai hänen tarkoituksenaan on toimia lahjan tai edun vuoksi palvelussuhteessaan velvollisuuksiensa vastaisesti lahjanantajaa tai toista huomattavasti hyödyttäen tai toiselle tuntuvaa vahinkoa tai haittaa aiheuttaen taikka
+2) lahjan tai edun arvo on huomattava
+ja lahjuksen ottaminen on myös kokonaisuutena arvostellen törkeä, virkamies on tuomittava törkeästä lahjuksen ottamisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi sekä lisäksi viralta pantavaksi.

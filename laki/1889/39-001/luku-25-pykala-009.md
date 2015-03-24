@@ -1,4 +1,6 @@
-# 9 §
-Luku: 25 LUKU Rikoksista toisen vapautta vastaan
+# 9 § Syyteoikeus
+Luku: 25 luku Vapauteen kohdistuvista rikoksista
 
-Joka tahallansa, ilman laillista oikeutta, vangitsemalla, sisään sulkemalla tahi muulla tavalla riistää toiselta vapauden, rangaistakoon kuritushuoneella korkeintaan neljäksi vuodeksi taikka vankeudella. Jos vapauden kato kesti kauemmin kuin kolmekymmentä päivää, taikka jos asianhaarat muuten ovat erittäin raskauttavat; olkoon rangaistus kuritushuonetta korkeintaan kuusi vuotta.
+Syyttäjä ei saa nostaa syytettä tuottamuksellisesta vapaudenriistosta, laittomasta uhkauksesta eikä pakottamisesta, ellei asianomistaja ilmoita sitä syytteeseen pantavaksi tai ellei laittoman uhkauksen tai pakottamisen tekemiseen ole käytetty hengenvaarallista välinettä taikka ellei erittäin tärkeä yleinen etu vaadi syytteen nostamista.
+
+Syyttäjä ei saa nostaa syytettä lapsen omavaltaisesta huostaanotosta, jos se olisi vastoin lapsen etua. Ennen syytteen nostamista on kuultava sen kunnan sosiaalilautakuntaa, jossa lapsella on asuinpaikka tai jossa lapsi oleskelee tai jolla muuten ilmeisesti on parhaat tiedot lapsesta.

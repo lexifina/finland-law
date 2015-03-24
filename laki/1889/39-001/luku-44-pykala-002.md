@@ -1,4 +1,7 @@
-# 2 §
-Luku: 44 LUKU Hengen, terveyden tahi omaisuuden suojelemiseksi annettujen määräysten rikkomisesta
+# 2 § Terveydensuojelurikkomus
+Luku: 44 luku Terveyttä ja turvallisuutta vaarantavista rikoksista
 
-Joka, tietäen toisen olevan todellisessa hengenvaarassa, on tälle antamatta tahi hankkimatta sellaista apua, minkä hän, saattamatta itseään tahi ketään muuta vaaraan, voi aikaan saada, vetäköön sakkoa enintään kolmesataa markkaa.
+Joka tahallaan tai törkeästä huolimattomuudesta
+1) terveydensuojelulain tai sen nojalla annetun säännöksen vastaisesti jättää säädetyn ilmoituksen tekemättä taikka rikkoo viranomaisen antamaa kieltoa tai yleistä tai yksittäistapausta koskevaa määräystä tai
+2) tartuntatautilain (583/1986) tai sen nojalla annetun säännöksen vastaisesti jättää noudattamatta yleisvaarallisen tartuntataudin leviämisen estämiseksi annettua säännöstä tai yleistä tai yksittäistapausta koskevaa määräystä,
+on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta, terveydensuojelurikkomuksesta sakkoon tai vankeuteen enintään kolmeksi kuukaudeksi.

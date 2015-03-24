@@ -1,4 +1,4 @@
-# 7 §
-Luku: 41 LUKU Kirkollista järjestystä koskevain määräysten rikkomisesta
+# 7 § Toisen vahingoittamiseen soveltuvan esineen luovuttaminen alaikäiselle
+Luku: 41 luku Aserikoksista
 
-Joka sapattina pitää rihkamakaupan tahi muun senkaltaisen kauppapuodin avoinna, taikka sapattina jälkeen kello yhdeksän aamulla harjottaa torikauppaa, vetäköön sakkoa enintään sata markkaa.
+Joka järjestyslain 11 §:n vastaisesti myy tai muuten pysyvästi luovuttaa alle 18-vuotiaalle ilma-aseen, jousitoimisen aseen tai harppuunan, on tuomittava toisen vahingoittamiseen soveltuvan esineen luovuttamisesta alaikäiselle sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.

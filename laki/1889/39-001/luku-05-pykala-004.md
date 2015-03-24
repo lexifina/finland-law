@@ -1,4 +1,4 @@
-# 4 §
-Luku: 5 LUKU Osallisuudesta
+# 4 § Välillinen tekeminen
+Luku: 5 luku Yrityksestä ja osallisuudesta
 
-Kun jonkun erityinen olosuhde poistaa jonkin teon rangaistavaisuuden taikka sitä vähentää tahi enentää; koskekoon se ainoastaan sitä tekijää, yllyttäjää tahi auttajaa, joka on mainitussa suhteessa.
+Tekijänä tuomitaan se, joka on tehnyt tahallisen rikoksen käyttäen välikappaleena toista, jota ei voida rangaista siitä rikoksesta syyntakeettomuuden tai tahallisuuden puuttumisen vuoksi taikka muusta rikosoikeudellisen vastuun edellytyksiin liittyvästä syystä.

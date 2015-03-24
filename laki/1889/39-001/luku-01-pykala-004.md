@@ -1,4 +1,6 @@
-# 4 §
-Luku: 1 LUKU Suomen rikoslain alaisista
+# 4 § Virkarikos ja sotilasrikos
+Luku: 1 luku Suomen rikosoikeuden soveltamisalasta
 
-Jos sellainen rikos, josta 41, 42, 43 tahi 44 luvussa mainitaan, taikka muu siihen verrattava rikos on tehty maan ulkopuolella; tuomittakoon rangaistus ainoastaan silloin, kun laki tahi sopimuskirja erittäin sen säätää.
+Tämän lain 40 luvun 11 §:n 1, 2, 3 ja 5 kohdassa tarkoitetun henkilön Suomen ulkopuolella tekemään 40 luvussa mainittuun rikokseen sovelletaan Suomen lakia.
+
+Suomen lakia sovelletaan myös 45 luvussa mainittuun rikokseen, jonka tuon luvun säännösten alainen henkilö on tehnyt Suomen ulkopuolella.

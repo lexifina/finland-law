@@ -1,4 +1,9 @@
-# 5 §
-Luku: 24 LUKU Rauhan rikkomisesta
+# 5 § Salakuuntelu
+Luku: 24 luku Yksityisyyden, rauhan ja kunnian loukkaamisesta
 
-Rauhan rikkomisesta, joka 1, 2 tahi 3 §:ssä mainitaan, älköön virallinen syyttäjä tehkö syytettä, ellei asianomistaja ole ilmoittanut sitä syytteesen pantavaksi, taikka ellei rikos ole tapahtunut sellaisessa paikassa, kuin 1 §:n 2 momentissa sanotaan.
+Joka oikeudettomasti teknisellä laitteella kuuntelee tai tallentaa
+1) keskustelua, puhetta tai yksityiselämästä aiheutuvaa muuta ääntä, jota ei ole tarkoitettu hänen tietoonsa ja joka tapahtuu tai syntyy kotirauhan suojaamassa paikassa, taikka
+2) muualla kuin kotirauhan suojaamassa paikassa salaa puhetta, jota ei ole tarkoitettu hänen eikä muunkaan ulkopuolisen tietoon, sellaisissa olosuhteissa, joissa puhujalla ei ole syytä olettaa ulkopuolisen kuulevan hänen puhettaan,
+on tuomittava salakuuntelusta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.
+
+Yritys on rangaistava.

@@ -1,4 +1,4 @@
-# 10 §
-Luku: 21 LUKU
+# 10 § Vammantuottamus
+Luku: 21 luku Henkeen ja terveyteen kohdistuvista rikoksista
 
-Joka huolimattomuutensa tahi varomattomuutensa kautta on tuottanut toiselle kuoleman taikka vaikean ruumiinvamman, rangaistakoon, jos kuolema oli seurauksena, vankeudella korkeintaan kolmeksi vuodeksi taikka vähintään viidenkymmenen markan sakolla, ja, jos vaikea ruumiinvamma syntyi, vankeudella korkeintain yhdeksi vuodeksi taikka enintään viidensadan markan sakolla.
+Joka huolimattomuudellaan aiheuttaa toiselle ruumiinvamman tai sairauden, joka ei ole vähäinen, on tuomittava vammantuottamuksesta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.

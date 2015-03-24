@@ -1,6 +1,4 @@
-# 2 §
-Luku: 16 LUKU Rikoksista julkista viranomaista ja yleistä järjestystä vastaan
+# 2 § Virkamiehen vastustaminen
+Luku: 16 luku Rikoksista viranomaisia vastaan
 
-Joka tahallansa, väkivaltaa kuitenkaan käyttämättä tahi uhkaamatta, tekee haittaa virantoimituksessa olevalle virkamiehelle, rangaistakoon vankeudella korkeintaan kolmeksi kuukaudeksi tahi enintään kolmensadan markan sakolla.
-
-Sama olkoon laki, jos rikos tehdään jotakuta 1 §:n 2 momentissa mainittua vastaan, taikka sitä vastaan, joka on saanut luvan pitää kotietsintöä.
+Jos virkamiehen väkivaltainen vastustaminen, huomioon ottaen väkivallan tai uhkauksen vähäisyys taikka muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen lieventävien asianhaarojen vallitessa tehty, rikoksentekijä on tuomittava virkamiehen vastustamisesta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.

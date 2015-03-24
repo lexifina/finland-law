@@ -1,6 +1,10 @@
-# 6 §
-Luku: 44 LUKU Hengen, terveyden tahi omaisuuden suojelemiseksi annettujen määräysten rikkomisesta
+# 6 § Dopingrikos
+Luku: 44 luku Terveyttä ja turvallisuutta vaarantavista rikoksista
 
-Jos joku rikkoo ohjeen, joka ihmisissä liikkuvan kulkutaudin estämiseksi tahi ehkäisemiseksi on annettu; rangaistakoon enintään viidensadan markan sakolla.
+Joka laittomasti
+1) valmistaa tai yrittää valmistaa dopingainetta,
+2) tuo tai yrittää tuoda maahan dopingainetta tai
+3) myy, välittää, toiselle luovuttaa tai muulla tavoin levittää tai yrittää levittää dopingainetta,
+on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta, dopingrikoksesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
-Joka rikkoo ohjeen, joka kotoeläimissä liikkuvan kulkutaudin estämiseksi tahi ehkäisemiseksi on annettu, vetäköön sakkoa enintään kaksisataa markkaa.
+Dopingrikoksesta tuomitaan myös se, joka pitää hallussaan dopingainetta todennäköisesti tarkoituksenaan levittää sitä laittomasti.

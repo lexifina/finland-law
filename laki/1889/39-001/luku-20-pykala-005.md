@@ -1,4 +1,11 @@
-# 5 §
-Luku: 20 LUKU Luvattomasta sekaannuksesta ja muusta haureudesta
+# 5 § Seksuaalinen hyväksikäyttö
+Luku: 20 luku Seksuaalirikoksista
 
-Jos joku sekaantuu siihen, joka on ollut hänen veljensä tai sisarensa tahi niiden jälkeisen aviopuoliso, taikka jos joku sekaantuu aviopuolisonsa veljen tahi sisaren jälkeiseen; vetäköön kumpikin sakkoa vähintään neljäkymmentä ja enintään kaksisataa markkaa. Jos he ovat menneet avioliittoon keskenänsä, älköön rangaistusta tuomittako.
+Joka asemaansa hyväksikäyttäen taivuttaa sukupuoliyhteyteen tai ryhtymään muuhun seksuaalista itsemääräämisoikeutta olennaisesti loukkaavaan seksuaaliseen tekoon tai alistumaan sellaisen teon kohteeksi
+1) kahdeksaatoista vuotta nuoremman henkilön, joka on koulussa tai muussa laitoksessa hänen määräysvaltansa tai valvontansa alainen taikka muussa niihin rinnastettavassa alisteisessa suhteessa häneen,
+2) kahdeksaatoista vuotta nuoremman henkilön, jonka kyky itsenäisesti päättää seksuaalisesta käyttäytymisestään on hänen kypsymättömyytensä sekä osapuolten ikäeron vuoksi olennaisesti heikompi kuin tekijällä, käyttämällä törkeästi väärin tämän kypsymättömyyttä,
+3) henkilön, joka on hoidettavana sairaalassa tai muussa laitoksessa ja jonka kyky puolustaa itseään taikka muodostaa tai ilmaista tahtoaan on sairauden, vammaisuuden tai muun heikkoudentilan vuoksi olennaisesti heikentynyt, tai
+4) henkilön, joka on hänestä erityisen riippuvainen, käyttämällä törkeästi väärin tätä riippuvuussuhdetta tekijästä,
+on tuomittava seksuaalisesta hyväksikäytöstä sakkoon tai vankeuteen enintään neljäksi vuodeksi.
+
+Yritys on rangaistava.

@@ -1,4 +1,4 @@
-# 13 §
-Luku: 40 LUKU Virkamiesten virkarikoksista.
+# 13 § Sotilasvirkarikokset
+Luku: 40 LUKU Virkarikoksista
 
-Jos pappi on vihkinyt lesken ennen kuin pesänositus on tapahtunut, taikka jos se, jonka lain mukaan tulee liittää avio, on sen tehnyt ennen pesänositusta; rangaistakoon sakolla, taikka, jos asianhaarat ovat erittäin raskauttavat, erotettakoon viran toimittamisesta tahi vetäköön sakkoa vähintään kaksisataa markkaa.
+Sotilasrangaistussäännösten alaisten virkamiesten virkarikoksia ovat myös ne rikokset, joista säädetään rangaistus 45 luvussa.

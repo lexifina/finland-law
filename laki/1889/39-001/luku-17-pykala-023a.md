@@ -1,0 +1,10 @@
+# 23 a § Eläinsuojelurikokseen liittyvä menettämisseuraamus
+Luku: 17 luku Rikoksista yleistä järjestystä vastaan
+
+Eläintenpitokiellossa tarkoitetut eläimet, joita päätöstä annettaessa pitää tai jotka omistaa eläintenpitokieltoon määrättävä, on tuomittava valtiolle menetetyiksi. Myös eläintenpitokiellon rikkomisen kohteena olleet eläimet on tuomittava valtiolle menetetyiksi. Menettämisseuraamus tuomitaan siitä riippumatta, kenen omaisuutta menetetyksi tuomittavat eläimet ovat. Eläintenpitokiellon rikkomisen kohteena olleiden eläinten asemesta on toissijaisesti tuomittava menetetyksi niiden arvo siltä, joka on syyllistynyt eläintenpitokiellon rikkomiseen.
+
+Edellä 1 momentissa tarkoitettu menettämisseuraamus tuomitaan syyttäjän vaatimuksesta. Mainittuihin menettämisseuraamuksiin sovelletaan 10 luvun 1 §:ää ja 11 §:n 3 momenttia. Arvon menettämiseen sovelletaan lisäksi 10 luvun 10 §:ää. Muihin kuin 1 momentissa tarkoitettuihin menettämisseuraamuksiin sovelletaan, mitä 10 luvussa säädetään.
+
+Tuomioistuin voi määrätä, että asianosaiselle varataan tilaisuus itse myydä tai muuten luovuttaa omistamansa kiellossa tarkoitetut eläimet. Jos menettämisseuraamus kohdistuu eläimiin, jotka omistaa kokonaan tai osaksi muu kuin eläintenpitokieltoon määrätty, tälle voidaan varata tilaisuus noutaa eläimet korvauksetta itselleen. Tuomiossa on asetettava määräaika, jonka kuluessa eläimet on luovutettava tai noudettava. Jos eläimet noudetaan tai luovutetaan tuomion mukaisesti, menettämisseuraamus raukeaa.
+
+Eläimen tuomitsemista valtiolle menetetyksi koskeva tuomio voidaan panna täytäntöön muutoksenhausta huolimatta. Jos tuomioistuin varaa 3 momentissa tarkoitetun tilaisuuden eläinten luovuttamiseen tai noutamiseen taikka jos siihen on muuten erityisen painavia syitä, tuomioistuimen on määrättävä, ettei menettämisseuraamusta panna täytäntöön ennen 3 momentissa tarkoitetun määräajan päättymistä taikka ennen kuin asiasta toisin määrätään tai menettämisseuraamus on muutoin pantavissa täytäntöön.

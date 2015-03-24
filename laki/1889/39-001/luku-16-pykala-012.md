@@ -1,4 +1,4 @@
-# 12 §
-Luku: 16 LUKU Rikoksista julkista viranomaista ja yleistä järjestystä vastaan
+# 12 § Viranomaisen hallussa olevan todistuskappaleen hävittäminen
+Luku: 16 luku Rikoksista viranomaisia vastaan
 
-Jos vankeja on liittäytynyt yhteen ja he yhdessä ovat tehneet väkivaltaa sille, jonka huostassa tahi vartioitavina he ovat, taikka väkivallalla tahi väkivaltaa uhaten tehneet hänelle vastarintaa taikka pakottaneet tahi yrittäneet pakottaa häntä johonkin tekoon, taikka murtautuneet tahi yrittäneet murtautua vankihuoneesta tahi muusta säilystä; rangaistakoon salakapinasta jokainen, joka on väkivallan tekoon tahi uhkaukseen syypää, kuritushuoneella korkeintaan kahdeksaksi vuodeksi, ja muut kukin kuritushuoneella enintään neljäksi vuodeksi taikka vankeudella vähintään kuudeksi kuukaudeksi.
+Joka oikeudettomasti hävittää, ottaa haltuunsa, vahingoittaa tai muutoin tekee käyttökelvottomaksi yleisessä arkistossa tai viranomaisen hallussa olevan asiakirjan tai muun todistuskappaleen taikka viranomaisen pitämän yleisen rekisterin tai sen osan, on tuomittava viranomaisen hallussa olevan todistuskappaleen hävittämisestä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

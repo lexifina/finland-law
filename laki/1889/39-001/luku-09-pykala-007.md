@@ -1,4 +1,13 @@
-# 7 §
-Luku: 9 LUKU Vahingonkorvauksesta
+# 7 § Rangaistusvaatimuksen tekemättä jättäminen
+Luku: 9 luku Oikeushenkilön rangaistusvastuusta
 
-Oikeus hakea vahingonkorvausta menetetystä tavarasta rauetkoon, ellei kannetta nosteta yhden vuoden kuluessa, lukien siitä päivästä, samaa päivää lukuun ottamatta, jolloin se tuomio, minkä kautta tavara päätettiin menetetyksi, sai laillisen voiman.
+Syyttäjä saa jättää rangaistusvaatimuksen oikeushenkilöä vastaan tekemättä, jos:
+1) oikeushenkilön 2 §:n 1 momentissa tarkoitettu laiminlyönti tai sen johdon taikka oikeushenkilössä tosiasiallista päätösvaltaa käyttävän osuus rikoksessa on ollut vähäinen taikka
+2) oikeushenkilön toiminnassa tehdystä rikoksesta ei ole aiheutunut muuta kuin vähäistä vahinkoa tai vaaraa
+ja oikeushenkilö on vapaaehtoisesti ryhtynyt tarpeellisiin toimiin uusien rikosten ehkäisemiseksi.
+
+Rangaistusvaatimus saadaan jättää tekemättä myös, jos rikoksentekijä 4 §:n 2 momentin 3 kohdassa tarkoitetussa tapauksessa on jo tuomittu rangaistukseen ja on odotettavissa, ettei oikeushenkilöä tämän vuoksi tuomittaisi yhteisösakkoon.
+
+Päätös jättää rangaistusvaatimus oikeushenkilöä vastaan tekemättä tai peruuttaa vaatimus annetaan oikeushenkilölle tiedoksi postitse tai noudattaen, mitä oikeudenkäymiskaaren 11 luvussa säädetään. Päätökseen sovelletaan, mitä oikeudenkäynnistä rikosasioissa annetun lain 1 luvun 6 a §:n 2 momentissa ja 11 §:n 1 ja 3 momentissa säädetään päätöksestä jättää syyttämättä.
+
+Rangaistusvaatimuksen peruuttamiseen 1 momentin nojalla sovelletaan, mitä oikeudenkäynnistä rikosasioissa annetun lain 1 luvun 12 §:ssä säädetään syytteen peruuttamisesta. Tieto peruuttamisesta on kuitenkin annettava vain oikeushenkilölle.

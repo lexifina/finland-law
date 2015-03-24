@@ -1,6 +1,8 @@
-# 2 §
-Luku: 4 LUKU Yrityksestä
+# 2 § Kieltoerehdys
+Luku: 4 luku Vastuuvapausperusteista
 
-Jos tekijä omasta tahdostaan, eikä ulkonaisten esteiden tähden, on luopunut rikoksen täyttämisestä, taikka ehkäissyt sen vaikutuksen, joka tekee rikoksen täytetyksi; jääköön yritys rankaisematta.
-
-Jos sellainen yritys käsittää teon, joka semmoisenaan on eri rikos; tuomittakoon siitä rikoksesta rangaistus.
+Jos tekijä erehtyy pitämään tekoaan sallittuna, hän on rangaistusvastuusta vapaa, jos erehtymistä on pidettävä ilmeisen anteeksiannettavana seuraavien seikkojen vuoksi:
+1) lain puutteellinen tai virheellinen julkistaminen;
+2) lain sisällön erityinen vaikeaselkoisuus;
+3) viranomaisen virheellinen neuvo; tai
+4) muu näihin rinnastettava seikka.

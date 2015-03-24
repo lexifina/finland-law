@@ -1,6 +1,4 @@
-# 11 §
-Luku: 21 LUKU
+# 11 § Törkeä vammantuottamus
+Luku: 21 luku Henkeen ja terveyteen kohdistuvista rikoksista
 
-Jos joku tahallansa pitelee toista pahoin, niin että tämä siitä saa vähemmän vian, ruumiinvirheen tahi taudin, kuin 5 §:ssä sanotaan; tuomittakoon vankeuteen enintään kahdeksi vuodeksi taikka vähintään viidenkymmenen markan sakkoon. Jos asianhaarat ovat erittäin raskauttavat; olkoon rangaistus kuritushuonetta korkeintaan kolme vuotta.
-
-Tässä §:ssä mainitun vähemmän ruumiinvamman tuottamuksesta olkoon rangaistus sakkoa enintään kaksisataa markkaa.
+Jos vammantuottamuksessa ruumiinvamma tai sairaus aiheutetaan törkeällä huolimattomuudella ja rikos on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä vammantuottamuksesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

@@ -1,4 +1,6 @@
-# 13 §
-Luku: 16 LUKU Rikoksista julkista viranomaista ja yleistä järjestystä vastaan
+# 13 § Lahjuksen antaminen
+Luku: 16 luku Rikoksista viranomaisia vastaan
 
-Joka virkamiehelle tahi muulle sellaiselle henkilölle, kuin 1 §:ssä mainitaan, antaa, lupaa tahi tarjoo lahjoman, saattaaksensa hänet toimessaan vääryyttä edistämään, rangaistakoon vankeudella korkeintaan kolmeksi kuukaudeksi taikka enintään viidensadan markan sakolla, ja lahjoma tahi sen arvo menetettäköön.
+Joka virkamiehelle lupaa, tarjoaa tai antaa hänen toiminnastaan palvelussuhteessa hänelle tai toiselle tarkoitetun lahjan tai muun edun, jolla vaikutetaan tai pyritään vaikuttamaan taikka joka on omiaan vaikuttamaan virkamiehen toimintaan palvelussuhteessa, on tuomittava lahjuksen antamisesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+
+Lahjuksen antamisesta tuomitaan myös se, joka virkamiehen toiminnasta palvelussuhteessa lupaa, tarjoaa tai antaa 1 momentissa tarkoitetun lahjan tai edun toiselle.

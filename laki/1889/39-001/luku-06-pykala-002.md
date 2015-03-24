@@ -1,6 +1,4 @@
-# 2 §
-Luku: 6 LUKU Rikoksen uusimisesta
+# 2 § Rangaistusasteikko ja siitä poikkeaminen
+Luku: 6 luku Rangaistuksen määräämisestä
 
-Älköön suurempaa rangaistusta uusimisesta tuomittako, jos ennen uusimista kymmenen vuotta on kulunut siitä päivästä, jolloin rikollinen edellisestä teostaan on loppuun kärsinyt yleistä lajia olevan rangaistuksen.
-
-Suurempaa rangaistusta uusimisesta älköön myöskään tuomittako, jos edellinen teko tapahtui ennen kuin rikollinen täytti kahdeksantoista vuotta.
+Rangaistus määrätään noudattaen rikoksesta säädettyä rangaistusasteikkoa. Siitä voidaan poiketa siten kuin 8 ja 8 a §:ssä säädetään. Asteikon mukainen enimmäisrangaistus voidaan ylittää siten kuin 7 luvussa säädetään.

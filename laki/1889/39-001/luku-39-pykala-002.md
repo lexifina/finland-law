@@ -1,8 +1,11 @@
-# 2 §
-Luku: 39 LUKU Konkurssirikoksista
+# 2 § Velallisen petos
+Luku: 39 LUKU Velallisen rikoksista
 
-Jos velallinen joutuu konkurssitilaan, ja jos havaitaan, että hän on:
-1. tietäen itsensä kykenemättömäksi täyttämään sitoumuksensa, lahjoittamisen taikka muun, seurauksiltaan siihen verrattavan toimen kautta, luovuttanut sen arvoista tavaraa, taikka sitoutunut vastaamaan sellaisesta summasta, että siitä on tahi olisi saattanut olla velkojille tuntuva vahinko;
-2. itse haettuaan lupaa omaisuutensa luovuttamiseen, taikka saatuansa tietää velkojan hakeneen häntä siihen velvoitettavaksi, yli tarpeensa myynyt tahi tahallansa hävittänyt taikka muulla tavalla hukannut jotakin omaisuudestaan; taikka
-3. osottanut niskoittelemista siten, että on kieltäytynyt tekemästä velallisvalan, taikka antamasta velkojilleen pesää koskevia tarpeellisia tietoja, ja, siitä lain mukaan velka- tai muussa vankeudessa oltuaan, edelleen niskoitellut;
-rangaistakoon, ellei hän näytä täysin tyydyttäneensä velkojiansa, epärehellisenä velallisena vankeudella korkeintaan kahdeksi vuodeksi.
+Velallinen, joka hankkiakseen itselleen tai toiselle oikeudetonta taloudellista hyötyä konkurssi-, ulosotto-, velkajärjestely- tai saneerausmenettelyssä
+1) salaa omaisuuttaan,
+2) ilmoittaa kokonaan tai osittain perusteettoman taikka valeoikeustoimeen perustuvan velvoitteen,
+3) antaa muun väärän tai harhaanjohtavan tiedon velkojien kannalta merkityksellisestä seikasta, tai
+4) jättää ilmoittamatta velan,
+on tuomittava velallisen petoksesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+
+Jos velallinen oikaisee erehdyttävän tiedon tai muuten ehkäisee tekonsa vaikutuksen menettelyyn, ennen kuin hän vahvistaa pesäluettelon oikeaksi tai erehdyttävä tieto muuten vaikuttaa menettelyyn, ei tekoa pidetä velallisen petoksena.

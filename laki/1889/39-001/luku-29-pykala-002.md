@@ -1,10 +1,7 @@
-# 2 §
-Luku: 29 LUKU Kavaltamisesta
+# 2 § Törkeä veropetos
+Luku: 29 LUKU Rikoksista julkista taloutta vastaan
 
-Joka tapaa tahi löytää taikka muun sellaisen sattuman kautta saa haltuunsa jotakin, eikä sitä kuulututa niin, kuin laissa on säädetty, rangaistakoon enintään kahden sadan markan sakolla.
-
-Jos hän salaa löydön tahi löytökalun, kun omistaja tahi muu oikeutettu itsensä ilmoittaa, taikka jos hän sen muulla tavoin anastaa, ilman laillista oikeutta; rangaistakoon sakolla taikka vankeudella korkeintaan yhdeksi vuodeksi.
-
-Kaikissa näissä tapauksissa menetettäköön löytäjäiset ja laillinen osuus löytökalusta.
-
-Muinaiskalujen löydöstä on erittäin säädetty.
+Jos veropetoksessa
+1) tavoitellaan huomattavaa taloudellista hyötyä tai
+2) rikos tehdään erityisen suunnitelmallisesti
+ja veropetos on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä veropetoksesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.

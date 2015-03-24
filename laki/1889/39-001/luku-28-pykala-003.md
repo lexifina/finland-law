@@ -1,6 +1,6 @@
-# 3 §
-Luku: 28 LUKU Varkaudesta ja näpistämisestä
+# 3 § Näpistys
+Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
-Joka, aikoen varastaa vähän tahi paljon, väkivoimalla murtautuu kartanoon, taloon, alukseen, tahi suljettuun säilytyspaikkaan, taikka tiirikalla, väärällä avaimella tai muuten viekkautta käyttäen sinne laittaa itsellensä pääsön tahi aukon, taikka myöskin väkivoimalla tahi viekkaudella aukaisee lukolla, sinetillä tahi muulla senkaltaisella tavalla suljetun kaapin, arkun, lippaan tai muun säilytyskapineen, viemättä sitä pois, rangaistakoon, ellei hän samalla tee varkautta tahi sitä yritä, murrosta kuritushuoneella korkeintaan yhdeksi vuodeksi, taikka, jos asianhaarat ovat erittäin lieventävät, vankeudella enintään kuudeksi kuukaudeksi.
+Jos varkaus, huomioon ottaen anastetun omaisuuden arvo tai muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen vähäinen, rikoksentekijä on tuomittava näpistyksestä sakkoon.
 
 Yritys on rangaistava.

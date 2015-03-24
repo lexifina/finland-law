@@ -1,4 +1,6 @@
-# 1 §
-Luku: 1 LUKU Suomen rikoslain alaisista
+# 1 § Suomessa tehty rikos
+Luku: 1 luku Suomen rikosoikeuden soveltamisalasta
 
-Suomen lain mukaan on Suomen mies tuomittava rikoksesta, jonka hän on tehnyt Suomenmaassa, taikka suomalaisessa laivassa tahi Suomenmaata tai Suomen miestä vastaan maan ulkopuolella; samoin muustakin maan ulkopuolella tekemästään rikoksesta, jos Keisari ja Suuriruhtinas määrää, että syyte siitä rikoksesta on Suomessa tehtävä.
+Suomessa tehtyyn rikokseen sovelletaan Suomen lakia.
+
+Suomen lain soveltamisesta Suomen talousvyöhykkeellä tehtyyn rikokseen säädetään Suomen talousvyöhykkeestä annetussa laissa (1058/2004) ja merenkulun ympäristönsuojelulaissa (1672/2009).

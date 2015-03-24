@@ -1,6 +1,6 @@
-# 4 §
-Luku: 25 LUKU Rikoksista toisen vapautta vastaan
+# 4 § Panttivangin ottaminen
+Luku: 25 luku Vapauteen kohdistuvista rikoksista
 
-Jos joku pakottaa naisen luvattomaan sekaannukseen väkivallalla, tahi uhkauksella, jossa pakottava vaara on tarjona, taikka jos joku makaa naisen, jonka hän sitä tarkotusta varten on saattanut tunnottomaan tilaan, tahi kykenemättömäksi itseänsä puolustamaan; rangaistakoon väkisinmakaamisesta kuritushuoneella korkeintaan kymmeneksi vuodeksi, taikka, jos asianhaarat ovat erittäin lieventävät, vankeudella vähintään kuudeksi kuukaudeksi.
+Joka riistää toiselta vapauden pakottaakseen jonkun muun tekemään, sietämään tai tekemättä jättämään jotakin uhalla, ettei panttivankia vapauteta tai että hänet surmataan tai hänen terveyttään vahingoitetaan, on tuomittava, jos teko kokonaisuutena arvostellen on törkeä, panttivangin ottamisesta vankeuteen vähintään yhdeksi ja enintään kymmeneksi vuodeksi.
 
 Yritys on rangaistava.

@@ -1,4 +1,6 @@
-# 3 §
-Luku: 16 LUKU Rikoksista julkista viranomaista ja yleistä järjestystä vastaan
+# 3 § Haitanteko virkamiehelle
+Luku: 16 luku Rikoksista viranomaisia vastaan
 
-Jos väkeä paljon kokoontuu yhteen ja väkijoukko osottaa aikovansa yksin toimin tehdä 1 §:ssä mainitun rikoksen, taikka muuten häiritä yleistä turvallisuutta ja järjestystä, eikä hajaannu 6 §:ssä säädetyn kehotuksen saatuansa; rangaistakoon metelistä, yllyttäjä ja johtaja vankeudella korkeintaan kahdeksi vuodeksi, sekä muista jokainen, joka ei ole kehoitusta totellut, vankeudella korkeintaan kuudeksi kuukaudeksi tahi enintään viidensadan markan sakolla.
+Joka käyttämättä väkivaltaa tai sen uhkaa oikeudettomasti estää tai yrittää estää 1 §:ssä tarkoitetun virkatoimen suorittamista tai vaikeuttaa sitä, on tuomittava haitanteosta virkamiehelle sakkoon.
+
+Haitanteosta virkamiehelle tuomitaan myös se, joka menettelee 1 momentissa mainitulla tavalla sitä kohtaan, joka virkamiehen pyynnöstä tai suostumuksella avustaa virkamiestä julkisen vallan käyttöä sisältävässä virkatoimessa.

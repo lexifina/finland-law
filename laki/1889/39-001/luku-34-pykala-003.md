@@ -1,4 +1,10 @@
-# 3 §
-Luku: 34 LUKU Yleistä vaaraa tuottavista rikoksista
+# 3 § Törkeä tuhotyö
+Luku: 34 luku Yleisvaarallisista rikoksista
 
-Jos rikoksentekijä 1 tahi 2 §:ssä mainituissa tapauksissa on toimittanut pois sammutuskaluja, estääksensä tahi vaikeuttaaksensa tulen sammutusta, taikka jos rikos tehtiin silloin kun kapina, vihollisen ahdistaminen, yleinen kulkutauti tahi muu senkaltainen vaara oli tarjona; rangaistakoon syyllinen kuritushuoneella vähintään kuudeksi ja enintään kahdeksitoista vuodeksi taikka elinkaudeksi; tuomittakoon myöskin kansalaisluottamuksensa menettäneeksi.
+Jos tuhotyö tai liikennetuhotyö tehdään
+1) aiheuttaen suurelle ihmismäärälle vakavaa hengen tai terveyden vaaraa,
+2) aiheuttaen jollekin yhteiskunnan tärkeälle toiminnolle uhkaavan vahingon pitkäaikaisuuden tai laaja-alaisuuden vuoksi taikka muusta syystä erityisen vakavaa vaaraa taikka
+3) sodan tai muiden poikkeusolojen aikana
+ja rikos on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä tuhotyöstä vankeuteen vähintään kahdeksi ja enintään kymmeneksi vuodeksi.
+
+Yritys on rangaistava.

@@ -1,8 +1,6 @@
-# 2 §
-Luku: 38 LUKU Epärehellisyydestä ja rangaistavasta voitonpyynnöstä
+# 2 § Salassapitorikkomus
+Luku: 38 luku Tieto- ja viestintärikoksista
 
-Jos asianajaja hänelle uskotussa asiassa, päämiehensä vahingoksi, auttaa tämän vastapuolta neuvoilla, todisteilla tahi kirjoituksen laatimisella, taikka jos hän tahallansa saattaa päämiehensä vahinkoon; rangaistakoon enintään viidensadan markan sakolla.
+Jos salassapitorikos, huomioon ottaen teon merkitys yksityisyyden tai luottamuksellisuuden suojan kannalta taikka muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen vähäinen, rikoksentekijä on tuomittava salassapitorikkomuksesta sakkoon.
 
-Jos asianhaarat ovat erittäin raskauttavat; taikka jos asianajaja, vastoin parempaa tietoansa, on vietellyt päämiehensä käymään oikeutta perättömästä tahi väärästä asiasta; tuomittakoon vähintään kahdensadan markan sakkoon taikka vankeuteen vähintään yhdeksi kuukaudeksi ja enintään yhdeksi vuodeksi, ja julistettakoon kelvottomaksi toisen asiata ajamaan oikeuden tahi muun julkisen viranomaisen edessä.
-
-Jos asianajaja muussa tapauksessa, vastoin parempaa tietoansa, on ottanut toimekseen ja ajanut väärää asiata; tuomittakoon enintään kolmensadan markan sakkoon ja julistettakoon, jos asianhaarat ovat erittäin raskauttavat, kelvottomaksi ajamaan toisen asiata julkisen viranomaisen edessä.
+Salassapitorikkomuksesta tuomitaan myös se, joka on syyllistynyt sellaiseen 1 §:ssä tarkoitettuun salassapitovelvollisuuden rikkomiseen, joka on erikseen säädetty salassapitorikkomuksena rangaistavaksi.

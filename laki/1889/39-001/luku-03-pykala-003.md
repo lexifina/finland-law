@@ -1,6 +1,11 @@
-# 3 §
-Luku: 3 LUKU Perusteista, jotka poistavat rangaistavaisuuden tahi sitä vähentävät
+# 3 § Laiminlyönnin rangaistavuus
+Luku: 3 luku Rikosoikeudellisen vastuun yleisistä edellytyksistä
 
-Mielipuolen teko, taikka semmoisen, joka ikäheikkouden tahi muun samanlaisen syyn takia on ymmärrystään vailla, jääköön rankaisematta.
+Laiminlyönti on rangaistava, jos rikoksen tunnusmerkistössä niin nimenomaan määrätään.
 
-Jos joku on joutunut sellaiseen satunnaiseen mielenhäiriöön, ettei hän ole tunnossaan; jääköön teko, jonka hän tässä tunnottomassa tilassa tekee, niinikään rankaisematta.
+Laiminlyönti on rangaistava myös, jos tekijä on jättänyt estämättä tunnusmerkistön mukaisen seurauksen syntymisen, vaikka hänellä on ollut erityinen oikeudellinen velvollisuus estää seurauksen syntyminen. Tällainen velvollisuus voi perustua:
+1) virkaan, toimeen tai asemaan;
+2) tekijän ja uhrin väliseen suhteeseen;
+3) tehtäväksi ottamiseen tai sopimukseen;
+4) tekijän vaaraa aiheuttaneeseen toimintaan; tai
+5) muuhun niihin rinnastettavaan syyhyn.

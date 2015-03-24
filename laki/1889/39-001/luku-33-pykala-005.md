@@ -1,6 +1,4 @@
-# 5 §
-Luku: 33 LUKU Luvattomasta viljelyksestä, metsästyksestä ja kalastuksesta
+# 5 § Maastomerkin väärennys
+Luku: 33 LUKU Väärennysrikoksista
 
-Joka, luvattomasti, rakentaa toisen maalle, taikka sitä kaivaa tahi kyntää, taikka siihen kylvää tahi istuttaa, taikka ottaa siitä jotakin haltuunsa; vetäköön sakkoa enintään kaksisataa markkaa.
-
-Kasvu tahi istutus, taikka sen arvo, menköön maan lailliselle haltijalle.
+Joka vaikeuttaakseen oikeudellisesti merkityksellisten maasto-olosuhteiden todistamista asettaa väärin taikka luvattomasti hävittää, muuttaa tai siirtää rajaa, linjaa tai veden korkeutta osoittavan taikka muun niihin verrattavan maastomerkin, on tuomittava maastomerkin väärennyksestä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

@@ -1,6 +1,9 @@
-# 1 §
-Luku: 29 LUKU Kavaltamisesta
+# 1 § Veropetos
+Luku: 29 LUKU Rikoksista julkista taloutta vastaan
 
-Jos joku, ilman laillista oikeutta, anastaa vierasta, hänen huostassaan olevaa irtainta tavaraa; rangaistakoon kavaltamisesta sakolla taikka vankeudella korkeintaan yhdeksi vuodeksi.
-
-Jos tavara oli rikoksentekijän huostaan uskottu lukittuna, taikka sinetillä tai muuten suljettuna, taikka jos se oli kapinasta, viholliselta, tulipalosta, vedenhädästä, haaksirikosta tahi muusta sellaisesta vaarasta pelastettua, taikka jos asianhaarat muuten ovat erittäin raskauttavat; olkoon rangaistus vankeutta vähintään kaksi kuukautta ja enintään kolme vuotta taikka kuritushuonetta korkeintaan kolme vuotta.
+Joka
+1) antamalla viranomaiselle verotusta varten väärän tiedon veron määräämiseen vaikuttavasta seikasta,
+2) salaamalla verotusta varten annetussa ilmoituksessa veron määräämiseen vaikuttavan seikan,
+3) veron välttämistarkoituksessa laiminlyömällä verotusta varten säädetyn velvollisuuden, jolla on merkitystä veron määräämiselle, tai
+4) muuten petollisesti,
+aiheuttaa tai yrittää aiheuttaa veron määräämättä jättämisen tai sen määräämisen liian alhaiseksi taikka veron aiheettoman palauttamisen, on tuomittava veropetoksesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

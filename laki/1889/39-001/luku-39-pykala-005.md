@@ -1,4 +1,4 @@
-# 5 §
-Luku: 39 LUKU Konkurssirikoksista
+# 5 § Velallisrikkomus
+Luku: 39 LUKU Velallisen rikoksista
 
-Jos konkurssiin luovutetun omaisuuden omistaja on laitos, yhdistys, seura, yhtiö, taikka kaupan tahi muun elinkeinon harjottaja, joka ei itse hoida liikettänsä; olkoon se, jolle omaisuuden hoito oli uskottu, konkurssirikoksia koskevien säännöksien alainen.
+Jos velallisen petos tai velallisen vilpillisyys, huomioon ottaen velallisen antaman väärän tai harhaanjohtavan tiedon vähäinen merkitys velkojien kannalta taikka muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen vähäinen, rikoksentekijä on tuomittava velallisrikkomuksesta sakkoon.

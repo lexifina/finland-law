@@ -1,6 +1,10 @@
-# 1 §
-Luku: 15 LUKU Rikoksista maan Valtiosäätyjä vastaan ja toisen vaalioikeuden tahi äänivallan häiritsemisestä
+# 1 § Perätön lausuma tuomioistuimessa
+Luku: 15 luku Rikoksista oikeudenkäyttöä vastaan
 
-Joka valtiopäivillä väkivaltaisesti tahi väkivaltaa uhaten häiritsee maan Valtiosäätyjen, niiden valiokuntain tahi jonkun säädyn neuvottelu- tahi päätösvapautta, taikka estää heitä kokoontumasta, taikka sitä yrittää, rangaistakoon kuritushuoneella vähintään kahdeksi ja enintään kahdeksitoista vuodeksi.
+Jos
+1) todistaja tai asiantuntija tuomioistuimessa,
+2) asianosainen tuomioistuimessa totuusvakuutuksen nojalla kuulusteltaessa tai
+3) muu henkilö tuomioistuimessa valan tai vakuutuksen nojalla
+antaa väärän tiedon asiassa tai ilman laillista syytä salaa siihen kuuluvan seikan, hänet on tuomittava perättömästä lausumasta tuomioistuimessa vankeuteen enintään kolmeksi vuodeksi.
 
-Miten se on rangaistava, joka muutoin sanoilla tahi töillä hätyyttää valtiopäivämiestä, taikka säädyn tai valiokunnan palvelusmiehiä, siitä säädetään valtiopäivä-järjestyksessä.
+Mitä edellä 1 momentissa säädetään, on voimassa myös kuultaessa henkilöä pääkäsittelyssä hänen henkilökohtaisesti läsnä olematta käyttäen videoneuvottelua, puhelinta tai muuta oikeudenkäymiskaaren 17 luvun 34 a §:ssä tarkoitettua teknistä tiedonvälitystapaa.

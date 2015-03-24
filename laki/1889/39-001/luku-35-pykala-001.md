@@ -1,4 +1,8 @@
-# 1 §
-Luku: 35 LUKU Omaisuuden vahingoittamisesta.
+# 1 § Vahingonteko
+Luku: 35 LUKU Vahingonteosta
 
-Joka, ilman laillista oikeutta, tahallansa hävittää tahi vahingoittaa toisen huoneen, aluksen, telegrafin tahi telefonin, rautatien, tien, kadun, sillan, sulun, padon, taikka muun senkaltaisen rakennuksen, tuomittakoon, ellei vahingonteko ole lajiansa muu rikos, josta kovempi rangaistus on säädetty, vankeuteen taikka vähintään viidenkymmenen markan sakkoon.
+Joka oikeudettomasti hävittää tai vahingoittaa toisen omaisuutta, on tuomittava vahingonteosta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.
+
+Vahingonteosta tuomitaan myös se, joka toista vahingoittaakseen oikeudettomasti hävittää, turmelee, kätkee tai salaa tietovälineelle tallennetun tiedon tai muun tallennuksen.
+
+Edellä 2 momentissa tarkoitetun vahingonteon yritys on rangaistava.

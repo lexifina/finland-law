@@ -1,6 +1,4 @@
-# 3 §
-Luku: 4 LUKU Yrityksestä
+# 3 § Vastuusta vapauttavaa seikkaa koskeva erehdys
+Luku: 4 luku Vastuuvapausperusteista
 
-Rikoksen valmistelu rangaistaan ainoastaan silloin kuin siitä on laissa erittäin määrätty.
-
-Rangaistavasta valmistelusta noudatettakoon mitä 2 §:ssä yrityksestä on säädetty.
+Jos tekoon ei liity jäljempänä 4–6 §:ssä tarkoitettua vastuuvapausperustetta, mutta tekotilanteeseen, sellaisena kuin tekijä sen perustellusti käsitti, olisi tällainen peruste liittynyt, häntä ei rangaista tahallisesta rikoksesta. Vastuu tuottamuksellisesta rikoksesta voi kuitenkin tulla kysymykseen tuottamuksen rangaistavuutta koskevien säännösten mukaan.
