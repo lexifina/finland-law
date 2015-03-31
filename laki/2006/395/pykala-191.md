@@ -8,9 +8,9 @@ Myös silloin, kun kysymys ei ole julkisuuslain 4 §:n 2 momentissa tarkoitetun 
 1) asiakirjasalaisuutta;
 2) vaitiolovelvollisuutta;
 3) hyväksikäyttökieltoa;
-4) salassa pidettäviä asiakirjoja koskevia 22―24 §:ää; ja
+4) salassa pidettäviä asiakirjoja koskevia 22–24 §:ää; ja
 5) rangaistussäännöksiä sisältävää 35 §:ää.
 
 Sovellettaessa 2 momenttia tietojen luovuttamisesta on voimassa, mitä salassapidosta poikkeamisesta ja sen lakkaamisesta säädetään julkisuuslain 7 luvussa.
 
-Tätä lakia toimeenpantaessa ei sovelleta, mitä vakuutusyhtiölain (1062/1979) 18 luvun 6, 6 b ja 6 c §:ssä, eläkesäätiölain 132, 132 a ja 132 c §:ssä tai vakuutuskassalain 165, 165 a ja 165 c §:ssä säädetään vaitiolovelvollisuudesta ja tietojen luovuttamisesta.
+Tätä lakia toimeenpantaessa ei sovelleta, mitä vakuutusyhtiölain (521/2008) 30 luvun 1, 3 ja 4 §:ssä, eläkesäätiölain 132, 132 a ja 132 c §:ssä tai vakuutuskassalain 165, 165 a ja 165 c §:ssä säädetään vaitiolovelvollisuudesta ja tietojen luovuttamisesta.

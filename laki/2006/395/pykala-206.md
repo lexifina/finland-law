@@ -1,8 +1,10 @@
-# 206 § Tietojen antaminen viranomaisille ja luottotietotoimintaa harjoittavalle rekisterinpitäjälle
+# 206 § Tietojen antaminen viranomaisille ja luottotietoja harjoittaville rekisterinpitäjille
 Osa: IV OSA ERINÄISET SÄÄNNÖKSET
 Luku: 14 luku Tietojen antaminen, saaminen ja salassapito
 
-Eläkelaitoksella ja Eläketurvakeskuksella on oikeus sen lisäksi, mitä julkisuuslaissa säädetään, salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä antaa tämän lain toimeenpanoon perustuvia tietoja seuraavasti:
-1) asianomaiselle viranomaiselle ja toimielimelle ne tiedot, jotka ovat välttämättömiä EY:n sosiaaliturva-asetuksen tai sosiaaliturvasopimuksen mukaisten tehtävien toimeenpanossa;
-2) verohallinnolle tiedot, jotka ovat välttämättömiä sille ennakkoperintälaissa säädetyn valvontavelvollisuuden täyttämiseksi silloin, kun on aihetta epäillä, että työnantaja ei ole täyttänyt ennakonpidätysvelvollisuuttaan;
-3) luottotietotoimintaa harjoittavalle rekisterinpitäjälle sellaiset tiedot työnantajan tähän lakiin perustuvasta ulosottokelpoisesta työeläkevakuutusmaksusaatavasta, jotka luottotietorekisterin pitäjällä lain mukaan on oikeus tallettaa luottotietorekisteriin.
+Eläkelaitoksella ja Eläketurvakeskuksella on oikeus sen lisäksi, mitä julkisuuslaissa säädetään, salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä antaa tämän lain toimeenpanoon perustuvia tietoja seuraavasti:
+1) asianomaiselle viranomaiselle ja toimielimelle ne tiedot, jotka ovat välttämättömiä EU:n sosiaaliturvan perusasetuksen tai sosiaaliturvasopimuksen mukaisten tehtävien toimeenpanossa;
+2) Verohallinnolle tiedot, jotka ovat välttämättömiä sille ennakkoperintälaissa säädetyn valvontavelvollisuuden täyttämiseksi silloin, kun on aihetta epäillä, että työnantaja ei ole täyttänyt ennakonpidätysvelvollisuuttaan;
+3) luottotietotoimintaa harjoittavalle rekisterinpitäjälle sellaiset tiedot työnantajan tähän lakiin perustuvasta ulosottokelpoisesta työeläkevakuutusmaksusaatavasta, jotka luottotietorekisterin pitäjällä lain mukaan on oikeus tallettaa luottotietorekisteriin;
+4) työsuojeluviranomaiselle tiedot, jotka ovat sille välttämättömiä tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetussa laissa (1233/2006) tarkoitetun valvontavelvollisuuden täyttämiseksi silloin, kun on aihetta epäillä, että tilaaja ei ole täyttänyt selvitysvelvollisuuttaan tai että tilaajan sopimuspuoli on esittänyt virheellisiä todistuksia eläkevakuuttamisvelvollisuuden täyttämisestä tai eläkevakuutusmaksujen maksamisesta;
+5) työttömyysvakuutusrahastolle tiedot, jotka ovat sille välttämättömiä työttömyysetuuksien rahoituksesta annetussa laissa (555/1998) tarkoitetun valvontavelvollisuuden täyttämiseksi silloin, kun on aihetta epäillä, että työnantaja on laiminlyönyt velvollisuuttaan maksaa työttömyysvakuutusmaksuja.

@@ -3,6 +3,8 @@ Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄN
 Luku: 4 luku Eläkkeen määräytyminen
 Väliotsikko: Elinaikakerroin
 
-Eläketurva sopeutetaan eliniän odotteen muutokseen siten, että eläke muunnetaan työntekijän 62 vuoden iän täyttämisvuodelle vahvistetulla elinaikakertoimella vanhuuseläkkeen alkaessa.
+Vanhuuseläkkeen ja työkyvyttömyyden alkamiseen mennessä ansaittu eläke sopeutetaan eliniän odotteen muutokseen elinaikakertoimella.
 
-Kun työkyvyttömyyseläke muuttuu vanhuuseläkkeeksi 63 vuoden iässä, eläke tarkistetaan työntekijän 62 vuoden iän täyttämisvuodelle vahvistetulla elinaikakertoimella.
+Vanhuuseläkkeen alkaessa eläke muunnetaan sille vuodelle vahvistetulla elinaikakertoimella, jonka aikana työntekijä täyttää 62 vuotta. Jos vanhuuseläke alkaa ennen tuota vuotta, vanhuuseläke muunnetaan eläkkeen alkamisvuodelle vahvistetulla elinaikakertoimella.
+
+Työkyvyttömyyseläkkeen alkaessa työkyvyttömyyden alkamiseen mennessä ansaittu eläke muunnetaan työkyvyttömyyden alkamisvuodelle vahvistetulla elinaikakertoimella. Työkyvyttömyyseläkkeen muuttuessa vanhuuseläkkeeksi eläkettä ei muunneta elinaikakertoimella.

@@ -4,17 +4,17 @@ Luku: 8 luku Eläkkeen maksaminen, viivästyskorotus ja takaisinperintä
 
 Jos eläke on maksettava muulle kuin eläkkeensaajalle itselleen tämän tai muun lain perusteella, ja kahdella tai useammalla viranomaisella, kunnalla, laitoksella tai toimielimellä taikka muulla taholla on oikeus siihen, eläke maksetaan seuraavassa järjestyksessä:
 1) sairausvakuutusrahastolle 118 §:n mukaan;
-2) eläkelaitokselle yrittäjien eläkelain 12 §:n 6 momentin mukaan tai maatalousyrittäjien eläkelaitokselle maatalousyrittäjien eläkelain 12 §:n 5 momentin mukaan maksamattomina vakuutusmaksuina;
+2) eläkelaitokselle yrittäjän eläkelain 120 §:n 1 momentin mukaan tai maatalousyrittäjien eläkelaitokselle maatalousyrittäjän eläkelain 28 §:n mukaan maksamattomina vakuutusmaksuina;
 3) eläkelaitokselle aiheettomasti maksetun eläkkeen takaisinperintänä 126 §:n mukaan;
 4) työnantajalle tai sairauskassalle 117 §:n mukaan;
-5) työttömyyskassalle tai Kansaneläkelaitokselle 120 §:n 2 momentin mukaan;
-6) Kansaneläkelaitokselle 120 §:n 1 momentin mukaan;
+5) työttömyyskassalle tai Kansaneläkelaitokselle 120 §:n 4 momentin mukaan;
+6) Kansaneläkelaitokselle 120 §:n 1 tai 2 momentin mukaan;
 7) sosiaalihuoltolain mukaiselle toimielimelle 119 §:n 1 momentin mukaan;
 8) kunnalle tai kuntayhtymälle 119 §:n 2 momentin mukaan;
-9) Kansaneläkelaitokselle 120 §:n 3 momentin mukaan;
+9) Kansaneläkelaitokselle 120 §:n 5 momentin mukaan;
 10) Potilasvakuutuskeskukselle potilasvahinkolain (585/1986) 9 §:n mukaan;
-11) EU- tai ETA-maan laitokselle ja Sveitsille eläkkeen aiheeton maksu EY:n sosiaaliturva-asetuksen täytäntöönpanosta annetun neuvoston asetuksen (ETY) N:o 574/72 111 artiklan 1 kohdan mukaan;
-12) ulosottoviranomaiselle ulosottolain (37/1895) 4 luvun 7 §:n mukaan;
-13) EU- tai ETA-maan laitokselle ja Sveitsille muun etuuden kuin eläkkeen aiheeton maksu EY:n sosiaaliturva-asetuksen täytäntöönpanosta annetun neuvoston asetuksen (ETY) 111 artiklan 2 ja 3 kohdan mukaan;
+11) EU- tai ETA-maan laitokselle eläkkeen aiheeton maksu EU:n sosiaaliturvan täytäntöönpanoasetuksen 72 artiklan 2 kohdan mukaan;
+12) ulosottoviranomaiselle ulosottokaaren (705/2007) 4 luvun 2 §:n mukaan;
+13) EU- tai ETA-maan laitokselle muun etuuden kuin eläkkeen aiheeton maksu EU:n sosiaaliturvan täytäntöönpanoasetuksen 72 artiklan 1 ja 3 kohdan mukaan;
 14) sosiaaliturvasopimusten mukaisille sosiaaliturvasopimusmaiden laitokselle eläkkeen ja muun etuuden aiheeton maksu sosiaaliturvasopimuksen määräysten mukaan; sekä
 15) sosiaalihuoltolain mukaiselle toimielimelle 122 §:n mukaan.

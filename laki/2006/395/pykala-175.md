@@ -2,11 +2,11 @@
 Osa: III OSA VAKUUTTAMISTA JA KUSTANNUSTEN JAKOA KOSKEVAT SÄÄNNÖKSET
 Luku: 12 luku Kustannusten jako eläkelaitosten kesken
 
-Sellaisesta työkyvyttömyyseläkkeestä aiheutuvista kustannuksista, jossa vakuutetun tämän lain ja merimieseläkelain mukaisten työansioiden yhteismäärä 76 §:n mukaisen tarkasteluajan kahden viimeisen kalenterivuoden aikana on vähintään 12 566,70 euroa, vastaa kukin eläkelaitos, jonka toimintapiiriin vakuutettu kuului mainittujen kalenterivuosien aikana, samassa suhteessa kuin mikä on kyseisessä eläkelaitoksessa vakuutettujen tämän lain alaisten työansioiden osuus vastaavien 3 §:ssä mainittujen eläkelakien mukaisten työansioiden sekä 74 §:ssä ja 76 §:n 2 momentissa tarkoitettujen työ- tai ansiotulojen yhteismäärästä mainittuina kalenterivuosina.
+Sellaisesta työkyvyttömyyseläkkeestä aiheutuvista kustannuksista, jossa vakuutetun tämän lain ja merimieseläkelain mukaisten työansioiden yhteismäärä 76 §:n mukaisen tarkasteluajan kahden viimeisen kalenterivuoden aikana on vähintään 12 566,70 euroa, vastaa kukin eläkelaitos, jonka toimintapiiriin vakuutettu kuului mainittujen kalenterivuosien aikana. Eläkelaitos vastaa kustannuksista samassa suhteessa kuin mikä on kyseisessä eläkelaitoksessa vakuutettujen tämän lain alaisten työansioiden osuus vastaavien 3 §:ssä mainittujen eläkelakien mukaisten työansioiden, päättyneen työkyvyttömyyseläkkeen tulevan ajan ansion sekä 74 §:ssä tarkoitettujen 76 §:n 2 momentin mukaisten työ- tai ansiotulojen ja 76 §:n 4–6 momentissa tarkoitettujen työ- tai ansiotulojen yhteismäärästä mainittuina kalenterivuosina.
 
 Eläkelaitos ei vastaa työkyvyttömyyseläkkeestä siltä osin kuin eläkelaitoksessa vakuutetut tämän lain alaiset työansiot tämän lain 147 §:ssä tarkoitetun tilapäisen työnantajan osalta tai muun työnantajan saman vakuutuksen osalta alittavat 2 094,45 euroa mainittuina kahtena kalenterivuonna.
 
-Edellä 1 momentissa tarkoitettuun eläkkeeseen luetaan myös merimieseläkelain 3 a §:n 4 momentissa tarkoitettu, mainitun lain perusteella saatava eläkkeenosa.
+Edellä 1 momentissa tarkoitettuun eläkkeeseen luetaan myös merimieseläkelain 153 §:n 2 ja 3 momentissa tarkoitettu, mainitun lain perusteella saatava eläkkeenosa.
 
 Eläkelaitoksen vastuuseen ei kuitenkaan kuulu:
 1) 30 §:n mukainen kuntoutuskorotus;

@@ -8,15 +8,13 @@ Eläkkeeseen oikeuttaa työntekijän 18 vuoden iän täyttämistä seuraavan kal
 
 Palkattoman ajan etuuksien perusteena olevat tulot katsotaan sen kalenterivuoden ansioiksi, johon etuusaika kohdentuu. Etuuksien perusteena olevat tulot oikeuttavat eläkkeeseen seuraavasti:
 1) 117 prosenttia äitiys-, erityisäitiys-, isyys- tai vanhempainrahan perusteena olevasta sairausvakuutuslain mukaisesta työtulosta siltä ajalta, jolta etuus on maksettu työntekijälle, ja 17 prosenttia siltä ajalta, jolta etuus on maksettu työnantajalle;
-2) 75 prosenttia vuorotteluvapaalain mukaisen vuorottelukorvauksen perusteena olevasta ansiosta;
+2) 55 prosenttia vuorotteluvapaalain mukaisen vuorottelukorvauksen perusteena olevasta ansiosta;
 3) 75 prosenttia työttömyysturvalain mukaisen ansioon suhteutetun päivärahan perusteena olevasta ansiosta siltä osin kuin päivärahaa on saatu 63 vuoden iän täyttämiskuukauden loppuun mennessä;
-4) 65 prosenttia julkisesta työvoimapalvelusta annetun lain mukaisen ansiotuen perusteena olevasta ansiosta;
-5) 65 prosenttia työttömyysturvalain 10 luvussa tarkoitetun koulutuspäivärahan perusteena olevasta ansiosta;
 6) 65 prosenttia aikuiskoulutustuesta annetun lain mukaisen aikuiskoulutustuen perusteena olevasta ansiosta;
 7) 65 prosenttia työeläkelakien tai Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain mukaisen kuntoutusrahan tai tapaturmavakuutuksen tai liikennevakuutuksen kuntoutusta koskevien säännösten perusteella myönnetyn ansionmenetyskorvauksen perusteena olevasta työansiosta siltä ajalta, jolta etuus on maksettu työntekijälle, ei kuitenkaan, jos kuntoutusraha on maksettu eläkkeen lisänä;
-8) 65 prosenttia sairauspäivärahan ja erityishoitorahan perusteena olevasta sairausvakuutuslaissa tarkoitetusta työtulosta siltä ajalta, jolta etuus on maksettu työntekijälle;
+8) 65 prosenttia sairauspäivärahan, osasairauspäivärahan ja erityishoitorahan perusteena olevasta sairausvakuutuslaissa tarkoitetusta työtulosta siltä ajalta, jolta etuus on maksettu työntekijälle, kuitenkin siten, että osasairauspäivärahan perusteena oleva tulo on puolet sairauspäivärahan perusteena olevasta työtulosta;
 9) 65 prosenttia tapaturma-, liikenne- tai sotilastapaturmavakuutusta koskevien säännösten mukaisen ansionmenetyskorvauksen perusteena olevasta työansiosta siltä ajalta, jolta päiväraha on maksettu työntekijälle, ei kuitenkaan siltä osin kuin eläkettä karttuu samasta syystä 8 kohdan mukaisesti.
 
 Jos 3 momentin 1 kohdassa tarkoitettu etuus on ansiotulojen puuttumisen tai niiden vähäisyyden vuoksi maksettu vähimmäispäivärahan suuruisena, etuuden perusteena olevana tulona pidetään 523,61:tä euroa kuukaudessa. Jos etuus on työhön paluun vuoksi maksettu vähimmäispäivärahan suuruisena, etuuden perusteena olevana tulona pidetään työntekijälle maksetun vähimmäispäivärahan määrää.
 
-Etuuden perusteena olevan tulon perusteella ei kartu eläkettä siltä ajalta, jolta työntekijä on saanut työeläkelakien mukaista muuta eläkettä kuin osa-aika- tai perhe-eläkettä.
+Etuuden perusteena olevan tulon perusteella ei kartu eläkettä siltä ajalta, jolta työntekijä on saanut työeläkelakien mukaista eläkettä, vastaavaa ulkomaista etuutta taikka kansainvälisen järjestön tai Euroopan yhteisöjen toimielimen palvelukseen perustuvaa etuutta. Osa-aika- ja perhe-eläkkeen ajalta eläkettä karttuu kuitenkin myös etuuden perusteena olevan tulon perusteella.

@@ -2,12 +2,9 @@
 Osa: IV OSA ERINÄISET SÄÄNNÖKSET
 Luku: 15 luku Erinäisiä määräyksiä
 
-Eläkelaitoksen ja Eläketurvakeskuksen on säilytettävä tämän lain mukaisen eläketurvan järjestämiseen ja eläkeasiaan liittyvät asiakirjat siten kuin arkistolaissa (831/1994) säädetään. Jos arkistolaitos ei ole määrännyt säilytettäväksi mainittuja asiakirjoja pysyvästi, eläkelaitoksen tai Eläketurvakeskuksen on säilytettävä:
-1) vakuutushakemus, vakuutuskirja, vakuutuksen irtisanomisilmoitus ja muut niihin rinnastettavat vakuutuksen voimassaoloa ja päättymistä koskevat asiakirjat ja tiedot, eläkehakemus, lääkärinlausunnot ja -kannanotot ja muut eläkkeensaajan terveydentilaa, työ- ja toimintakykyä, kuntouttamismahdollisuuksia sekä maksettuja ja evättyjä etuuksia koskevat lausunnot, tutkimustulokset, selvitykset ja muut niihin rinnastettavat asiakirjat ja tiedot, eläkkeeseen ja perhe-eläkkeeseen vaikuttavat tulotiedot sekä eläkelaitoksen eläkettä koskevat päätökset sadan vuoden ajan;
-2) valitusasiaa koskevat asiakirjat 50 vuoden ajan, jollei niitä ole edellä 1 kohdan mukaan säilytettävä tätä pidempää aikaa;
-3) asiakirjat, jotka koskevat työnantajan yritystoiminnan omistussuhteita, vakuutusmaksun määräämiseen tarvittavia työntekijöiden palkkatietoja, työnantajan työkyvyttömyyseläketilastoja, vakuutusmaksulaskelmia ja -perusteita, vakuutusmaksun perintää, etuuksien maksamiskieltoa koskevia viranomaisten ja vakuutuslaitosten ilmoituksia, vakuutuslaitosten takautumisoikeutta sekä sovittua vuosityöansiota varten saatuja vakuutuksenottajien verotietoja 10 vuoden ajan;
-4) muut tämän lain mukaista toimintaa koskevat asiakirjat kuuden vuoden ajan.
-
-Asiakirjojen ja tietojen säilytysaika alkaa siitä, kun vakuutus- tai eläkehakemus on saapunut eläkelaitokseen tai kun asia on muulla tavoin tullut eläkelaitoksessa tai Eläketurvakeskuksessa vireille.
-
-Sosiaali- ja terveysministeriön asetuksella voidaan säätää sellaisesta asiakirjojen ja tietojen tallennusmenetelmästä, jolla luotettavasti säilytetään asiakirjojen ja tietojen asiasisältö. Tällä tavoin tallennettuina niiden katsotaan vastaavan alkuperäisiä, jollei muuta näytetä.
+Eläkelaitoksen ja Eläketurvakeskuksen on säilytettävä tämän lain mukaisen eläketurvan järjestämiseen ja eläkeasiaan liittyvät asiakirjat siten kuin arkistolaissa (831/1994) säädetään. Jos arkistolaitos ei ole määrännyt säilytettäväksi edellä tarkoitettuja asiakirjoja pysyvästi, eläkelaitoksen tai Eläketurvakeskuksen on säilytettävä:
+1) vakuutushakemus, vakuutuskirja ja vakuutussopimus sekä vakuuttamisen, vakuutuksen hoidon ja vakuutusmaksun määräämisen kannalta muut tarpeelliset asiakirjat vakuutuksen voimassaoloajan ja kymmenen sen jälkeistä kalenterivuotta;
+2) eläke- tai kuntoutusasiaan liittyvä hakemus, lääkärinlausunto, kuntoutussuunnitelma ja muut kuntoutusta tai eläkkeenhakijan terveydentilaa, työ- ja toimintakykyä tai kuntouttamismahdollisuuksia koskevat asiakirjat, muut eläke- tai kuntoutusetuuden myöntämisen, käsittelyn tai maksamisen kannalta tarpeelliset asiakirjat sekä eläke- tai kuntoutusasiaa koskeva päätös ja laskelma vakuutetun elossaoloajan sekä viisi sen jälkeistä kalenterivuotta;
+3) perhe-eläkkeen myöntämisen, käsittelyn tai maksamisen kannalta tarpeelliset asiakirjat sekä perhe-eläkettä koskeva päätös ja laskelma perhe-eläkkeen maksuajan ja viisi sen jälkeistä kalenterivuotta;
+4) vakuutusmaksun perinnän kannalta tarpeelliset asiakirjat perinnän päättymiseen ja viisi sen jälkeistä kalenterivuotta; ja
+5) valitusasiaa koskevat asiakirjat 50 vuotta, jollei niitä ole 1–4 kohdan mukaan säilytettävä tätä pidempää aikaa; valitusasiaa koskevien asiakirjojen säilytysaika alkaa siitä, kun ne ovat palautuneet eläkelaitokseen tai Eläketurvakeskukseen muutoksenhakuasteesta.

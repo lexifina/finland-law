@@ -1,8 +1,8 @@
-# 94 § Ensisijaisen etuuden muutoksen vaikutus eläkkeen määrään
+# 94 § Ensisijaisen etuuden tai eläkkeen muutoksen vaikutus eläkkeen määrään
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 5 luku Ensisijaisten etuuksien vähentäminen eläkkeestä
 
-Jos eläkkeensaajalle myönnetään ensisijainen etuus tai jos ensisijaisen etuuden tai tämän lain mukaisen eläkkeen määrä muuttuu muutoin kuin indeksitarkistuksen vuoksi, eläkkeen määrä tarkistetaan. Eläkkeen määrä tarkistetaan myös, jos tämän lain mukaisesta eläkkeestä on vähennetty ensisijainen etuus ja eläkkeensaajalle myönnetään muu työeläke. Osatyökyvyttömyyseläkkeestä ei kuitenkaan vähennetä tapaturmavakuutuslain, liikennevakuutuslain tai sotilastapaturmalain mukaista päivärahaa tai ansionmenetyskorvausta, jos se on myönnetty osatyökyvyttömyyseläkkeen aikana sattuneen tapaturman tai liikennevahingon perusteella.
+Ensisijaisen etuuden vähentämistä eläkkeestä tarkistetaan, jos eläkkeensaajalle myönnetään uusi ensisijainen etuus tai jos ensisijaisen etuuden tai tämän lain mukaisen eläkkeen määrä muuttuu muusta syystä kuin indeksitarkistuksen tai kertakorotuksen vuoksi. Eläkkeen määrä tarkistetaan myös, jos tämän lain mukaisesta eläkkeestä on vähennetty ensisijainen etuus ja eläkkeensaajalle myönnetään muu työeläke. Osatyökyvyttömyyseläkkeestä ei kuitenkaan vähennetä tapaturmavakuutuslain, liikennevakuutuslain tai sotilastapaturmalain mukaista päivärahaa tai ansionmenetyskorvausta, jos se on myönnetty osatyökyvyttömyyseläkkeen aikana sattuneen tapaturman tai liikennevahingon perusteella.
 
 Perhe-eläkkeen määrä tarkistetaan, jos eläkkeensaajalle myönnetään ensisijaista etuutta vastaava perhe-eläke tai työeläkelakien mukainen perhe-eläke ja tämän lain mukaisesta perhe-eläkkeestä on vähennetty ensisijainen etuus.
 

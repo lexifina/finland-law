@@ -7,4 +7,4 @@ Eläkelaitos voi määrätä työnantajalle arvion perusteella enintään kaksin
 2) 144 §:n 1 momentissa tai 146 §:ssä tarkoitettujen tietojen antamisen kyseisessä lainkohdassa tarkoitetussa määräajassa; tai
 3) 147 §:ssä tarkoitettujen tietojen antamisen kyseisessä lainkohdassa tarkoitetussa määräajassa.
 
-Korotettua vakuutusmaksua määrättäessä 1 momentin 1―3 kohdassa tarkoitetun laiminlyönnin ajalta otetaan huomioon laiminlyöntiajan pituus, laiminlyönnin toistuvuus ja muut näihin rinnastettavat laiminlyönnin moitittavuuden arviointiin liittyvät seikat. Eläkelaitoksen on annettava työnantajalle tämän pyynnöstä valituskelpoinen päätös korotetusta vakuutusmaksusta.
+Korotettua vakuutusmaksua määrättäessä 1 momentin 1–3 kohdassa tarkoitetun laiminlyönnin ajalta otetaan huomioon laiminlyöntiajan pituus, laiminlyönnin toistuvuus ja muut näihin rinnastettavat laiminlyönnin moitittavuuden arviointiin liittyvät seikat. Eläkelaitoksen on annettava työnantajalle tämän pyynnöstä valituskelpoinen päätös korotetusta vakuutusmaksusta.

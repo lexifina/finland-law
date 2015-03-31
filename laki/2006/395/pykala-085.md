@@ -2,7 +2,7 @@
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 4 luku Eläkkeen määräytyminen
 
-Leskeneläkkeen määrä on perhe-eläkkeen perusteesta, jollei 2 momentista tai 88―93 §:stä muuta johdu:
+Leskeneläkkeen määrä on perhe-eläkkeen perusteesta, jollei 2 momentista tai 88–93 §:stä muuta johdu:
 1) 6/12, jos edunsaajana on leski tai leski ja yksi lapsi;
 2) 5/12, jos edunsaajana on leski ja kaksi lasta;
 3) 3/12, jos edunsaajana on leski ja kolme lasta; sekä

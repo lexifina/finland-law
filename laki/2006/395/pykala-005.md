@@ -2,9 +2,9 @@
 Osa: I OSA YLEISET SÄÄNNÖKSET
 Luku: 2 luku Lain soveltamisala
 
-Tämä laki koskee sellaista ulkomailla työskentelevää työntekijää, johon sovelletaan Suomen lainsäädäntöä EY:n sosiaaliturva-asetuksen tai sosiaaliturvasopimuksen sovellettavaa lainsäädäntöä koskevien määräysten perusteella, jos tämän lain soveltamisalaan kuulumisen edellytykset muutoin täyttyvät.
+Tämä laki koskee sellaista ulkomailla työskentelevää työntekijää, johon sovelletaan Suomen lainsäädäntöä EU:n sosiaaliturvan perusasetuksen tai sosiaaliturvasopimuksen sovellettavaa lainsäädäntöä koskevien määräysten perusteella, jos tämän lain soveltamisalaan kuulumisen edellytykset muutoin täyttyvät.
 
-Tämä laki koskee myös muuta työntekijää, jonka suomalainen työnantaja lähettää työhön maahan, jossa ei sovelleta EY:n sosiaaliturva-asetusta tai sosiaaliturvasopimusta, edellyttäen että:
+Tämä laki koskee myös muuta työntekijää, jonka suomalainen työnantaja lähettää työhön maahan, jossa ei sovelleta EU:n sosiaaliturvan perusasetusta eikä sosiaaliturvasopimusta, edellyttäen, että:
 1) työntekijä työskentelee joko lähettävän suomalaisen työnantajan palveluksessa tai sen kanssa samaan taloudelliseen kokonaisuuteen kuuluvan ulkomaisen yrityksen palveluksessa;
 2) työntekijän työsuhde lähettäneeseen suomalaiseen yritykseen jatkuu ulkomailla työskentelyn ajan; ja
 3) työntekijä kuuluu Suomen sosiaaliturvalainsäädännön alaisuuteen lähtiessään ulkomaille työhön.

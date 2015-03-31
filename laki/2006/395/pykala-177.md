@@ -1,5 +1,5 @@
-# 177 § Eläkelaitoksen vastuu rekisteröidystä lisäedusta
+# 177 §
 Osa: III OSA VAKUUTTAMISTA JA KUSTANNUSTEN JAKOA KOSKEVAT SÄÄNNÖKSET
 Luku: 12 luku Kustannusten jako eläkelaitosten kesken
 
-Työntekijän eläkelain voimaanpanolain (396/2006) 32 §:n 5 momentissa tarkoitetusta työntekijäin eläkelain (395/1961) mukaisesti rekisteröidystä lisäedusta eläkelaitos on vastuussa siltä osin kuin etu vastaa sosiaali- ja terveysministeriön antamien tai vahvistamien laskuperusteiden mukaisesti eläkelaitokselle suoritettavia vakuutusmaksuja tai laskettavaa eläkevastuuta.
+177 § on kumottu L:lla 30.12.2013/1209, joka tuli voimaan 1.1.2014. Ks. soveltamisesta L:n 1209/2013 voimaantulosäännös. Aiempi sanamuoto kuuluu:

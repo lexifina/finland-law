@@ -2,4 +2,4 @@
 Osa: I OSA YLEISET SÄÄNNÖKSET
 Luku: 2 luku Lain soveltamisala
 
-Tätä lakia ei sovelleta urheilemiseen. Urheilemista koskevasta eläketurvasta säädetään urheilijoiden tapaturma- ja eläketurvasta annetussa laissa (575/2000).
+Tätä lakia ei sovelleta urheilemiseen. Urheilemista koskevasta eläketurvasta säädetään urheilijan tapaturma- ja eläketurvasta annetussa laissa (276/2009).

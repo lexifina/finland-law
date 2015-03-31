@@ -2,7 +2,7 @@
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 8 luku Eläkkeen maksaminen, viivästyskorotus ja takaisinperintä
 
-Jos vanhuuseläke, perhe-eläke tai täysi työkyvyttömyyseläke on ennen 92―94 §:n mukaisen ensisijaisen etuuden vähentämistä pienempi kuin 20 euroa kuukaudessa, eläkelaitos voi maksaa sen kertasuorituksena.
+Jos vanhuuseläke, perhe-eläke tai täysi työkyvyttömyyseläke on ennen 92–94 §:n mukaisen ensisijaisen etuuden vähentämistä pienempi kuin 20 euroa kuukaudessa, eläkelaitos voi maksaa sen kertasuorituksena.
 
 Kun 1 momentissa tarkoitetun eläkkeen määrä on vähintään 20 euroa, mutta enintään 50 euroa kuukaudessa, eläkelaitos voi maksaa eläkkeen kertasuorituksena, jos eläkkeensaajalle on ilmoitettu eläkkeen maksamisesta kertasuorituksena eikä eläkkeensaaja ole vastustanut sitä eläkelaitoksen ilmoittamassa kohtuullisessa ajassa.
 

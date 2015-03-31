@@ -4,7 +4,7 @@ Luku: 14 luku Tietojen antaminen, saaminen ja salassapito
 
 Eläketurvakeskuksella ja sen suostumuksella eläkelaitoksella on oikeus avata tekninen käyttöyhteys sen lisäksi, mitä tietojen antamisesta teknisellä käyttöyhteydellä säädetään julkisuuslain 29 §:n 3 momentissa:
 1) lakisääteistä sosiaalivakuutusta toimeenpanevalle yhteisölle tai laitokselle henkilörekisterinsä sellaisiin tietoihin, jotka sillä on tämän tai muun lain perusteella oikeus saada tehtäviensä toimeenpanoa varten;
-2) EY:n sosiaaliturva-asetuksen tai sosiaaliturvasopimuksen mukaisten tehtävien toimeenpanosta huolehtivalle viranomaiselle sellaisiin tietoihin, joita sillä on 206 §:n 1 momentin 1 kohdan mukaan oikeus saada;
+2) EU:n sosiaaliturvan perusasetuksen tai sosiaaliturvasopimuksen mukaisten tehtävien toimeenpanosta huolehtivalle viranomaiselle sellaisiin tietoihin, joita sillä on 206 §:n 1 momentin 1 kohdan mukaan oikeus saada;
 3) Kansaneläkelaitokselle sekä muulle sellaiselle tietojen vastaanottajalle, jolla on oikeus saada julkisten alojen työeläkelakien toimeenpanosta huolehtivalta eläkelaitokselta eläkettä, eläkeoikeutta ja vakuuttamista koskevat tiedot 208 §:n 1 momentissa tarkoitettuihin tietoihin; ja
 4) henkivakuutusyhtiölle, eläkekassalle tai eläkesäätiölle 204 §:ssä tarkoitettujen ryhmälisäeläketurvan hoitamista tai järjestämistä varten välttämättömiin tietoihin.
 
