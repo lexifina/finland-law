@@ -7,6 +7,6 @@ Jos suostumusta ei voida saada ja henkilö on ilmeisen kykenemätön vastaamaan 
 
 Myös muu kuin 1 momentissa tarkoitettu henkilö voi tehdä ilmoituksen häntä koskevien salassapitosäännösten estämättä.
 
-Lastensuojeluilmoituksen ja ennakollisen lastensuojeluilmoituksen tekemisestä säädetään lastensuojelulain 25 ja 25 c §:ssä. Jos ilmoitusvelvollinen henkilö on ottanut viipymättä yhteyttä sosiaalihuollosta vastaavaan viranomaiseen siten kuin 1—3 momentissa säädetään ja ilmoittanut yhteydenoton syyt, ei samojen tietojen perusteella tarvitse tehdä lastensuojeluilmoitusta.
+Lastensuojeluilmoituksen ja ennakollisen lastensuojeluilmoituksen tekemisestä säädetään lastensuojelulain 25 ja 25 c §:ssä. Jos ilmoitusvelvollinen henkilö on ottanut viipymättä yhteyttä sosiaalihuollosta vastaavaan viranomaiseen siten kuin 1–3 momentissa säädetään ja ilmoittanut yhteydenoton syyt, ei samojen tietojen perusteella tarvitse tehdä lastensuojeluilmoitusta.
 
 Iäkkään henkilön palvelutarpeesta ilmoittamisessa on lisäksi noudatettava, mitä vanhuspalvelulain 25 §:ssä säädetään.

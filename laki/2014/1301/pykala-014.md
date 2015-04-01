@@ -30,7 +30,7 @@ Kunnallisina sosiaalipalveluina on huolehdittava myös kehitysvammaisten erityis
 10) adoptiolaissa (22/2012);
 11) avioliittolaissa (234/1929);
 12) laissa lapsen huollosta ja tapaamisoikeudesta (361/1983)
-13) isyyslaissa (700/1975):
+13) isyyslaissa (700/1975) :
 14) lapsen elatuksesta annetussa laissa (704/1975)
 15) lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta annetussa laissa (619/1996);
 16) oppilas- ja opiskelijahuoltolaissa (1287/2013).
