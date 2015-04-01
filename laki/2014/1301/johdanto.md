@@ -1,0 +1,2 @@
+Sosiaalihuoltolaki
+Eduskunnan päätöksen mukaisesti säädetään:

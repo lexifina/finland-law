@@ -1,0 +1,8 @@
+# 41 § Monialainen yhteistyö
+Luku: 4 luku Sosiaalihuollon toteuttaminen
+
+Palvelutarpeen arvioimiseksi, päätösten tekemiseksi ja sosiaalihuollon toteuttamiseksi toimenpiteestä vastaavan sosiaalihuollon viranomaisen on huolehdittava siitä, että käytettävissä on henkilön yksilöllisiin tarpeisiin nähden riittävästi asiantuntemusta ja osaamista. Jos henkilön tarpeiden arviointi ja niihin vastaaminen edellyttävät sosiaalitoimen tai muiden viranomaisten palveluja tai tukitoimia, on näiden tahojen osallistuttava toimenpiteestä vastaavan työntekijän pyynnöstä henkilön palvelutarpeen arvioinnin tekemiseen ja asiakassuunnitelman laatimiseen.
+
+Sosiaalihuoltoa toteutetaan yhteistyössä eri toimijoiden kanssa siten, että sosiaalihuollon ja tarvittaessa muiden hallinnonalojen palvelut muodostavat asiakkaan edun mukaisen kokonaisuuden. Työntekijän on oltava tarpeen mukaan yhteydessä eri yhteistyötahoihin ja asiantuntijoihin sekä tarvittaessa henkilön omaisiin ja muihin hänelle läheisiin henkilöihin siten kuin tässä laissa tarkemmin säädetään.
+
+Tietojen antamisesta ilman asiakkaan suostumusta ja asiakastietojen kirjaamisesta monialaisessa yhteistyössä sekä sosiaali- ja terveydenhuollon yhteisissä palveluissa sekä sosiaalihuollon viranomaisen oikeudesta saada laissa säädettyjen tehtäviensä suorittamiseksi tarpeellista virka-apua muilta viranomaisilta säädetään sosiaalihuollon asiakkaan asemasta ja oikeuksista annetussa laissa.
