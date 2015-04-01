@@ -1,0 +1,2 @@
+Laki suoran lisäeläkejärjestelyn turvaamisesta työnantajan maksukyvyttömyyden varalta
+Eduskunnan päätöksen mukaisesti säädetään:
