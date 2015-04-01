@@ -7,6 +7,6 @@ Edellä 54 §:n 3 ja 5 momentissa tarkoitetussa tapauksessa, kun oleskeluluvan p
 
 Jos oleskelulupa myönnetään perhesiteen perusteella, myönnettävän määräaikaisen oleskeluluvan voimassaoloaika ei kuitenkaan saa olla pidempi kuin oleskeluluvan myöntämisen perusteena olevan perheenkokoajan määräaikaisen oleskeluluvan voimassaoloaika.
 
-Tilapäinen oleskelulupa Suomessa tutkinnon suorittaneelle myönnetään 54 §:n 4 momentin nojalla yhden kerran kuudeksi kuukaudeksi edellisen oleskeluluvan päättymisestä.
+Tilapäinen oleskelulupa Suomessa tutkinnon suorittaneelle myönnetään 54 §:n 4 momentin nojalla yhden kerran enintään yhdeksi vuodeksi edellisen oleskeluluvan päättymisestä.
 
 Euroopan unionin sininen kortti myönnetään kahdeksi vuodeksi. Jos työsuhde on voimassa tätä lyhyemmän ajan, Euroopan unionin sininen kortti myönnetään työsuhteen voimassaoloajaksi lisättynä kolmella kuukaudella. Euroopan unionin sinisen kortin haltijan perheenjäsenelle myönnetään oleskelulupa vastaavaksi ajaksi.

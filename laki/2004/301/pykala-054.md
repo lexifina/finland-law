@@ -12,4 +12,6 @@ Ulkomaalaiselle, jolle on myönnetty tilapäinen oleskelulupa 45 §:n 1 momentin
 
 Ulkomaalaiselle, jolle on myönnetty tilapäinen oleskelulupa 51 §:n nojalla maasta poistamisen estymisen vuoksi, ihmiskaupan uhrille, jolle on myönnetty tilapäinen oleskelulupa, ja 52 d §:ssä tarkoitetulle laittomasti maassa oleskelleelle ja työskennelleelle kolmannen maan kansalaiselle, jolle on myönnetty tilapäinen oleskelulupa, myönnetään kahden vuoden yhtäjaksoisen maassa oleskelun jälkeen jatkuva oleskelulupa, jos olosuhteet, joiden perusteella edellinen määräaikainen lupa myönnettiin, ovat edelleen voimassa.
 
+Edellä 52 d §:ssä tarkoitetulle kolmannen maan kansalaiselle myönnetyn tilapäisen oleskeluluvan voimassaoloa jatketaan siihen asti kunnes hänelle on maksettu hänelle kuuluvat, perityksi saadut palkkasaatavat.
+
 Uusi määräaikainen oleskelulupa myönnetään uudella perusteella, jos ulkomaalaiselle voitaisiin myöntää ensimmäinen oleskelulupa tällä uudella perusteella. Ulkomaalaiselle, jolle on myönnetty tilapäinen tai jatkuva oleskelulupa perhesiteen perusteella, voidaan myöntää oleskelulupa perhesiteen päätyttyä sillä perusteella, että henkilöllä on kiinteät siteet Suomeen.
