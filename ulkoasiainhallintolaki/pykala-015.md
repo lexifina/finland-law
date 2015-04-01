@@ -1,6 +1,6 @@
-# 15 § Virkaan nimittävä viranomainen
+# 15 § Virkaan nimittäminen
 Luku: 3 luku Ulkoasiainhallinnon virkamiehet
 
-Valtioneuvosto nimittää virkaan ulkoasiainministeriön valtiosihteerin kansliapäällikkönä.
+Ulkoasiainhallinnon virkoihin nimittää valtioneuvosto tai ulkoasiainministeriö sen mukaan kuin valtioneuvoston asetuksella säädetään.
 
-Muihin ulkoasiainhallinnon virkoihin nimittää valtioneuvosto tai ulkoasiainministeriö sen mukaan kuin valtioneuvoston asetuksella säädetään.
+Ulkoasiainhallinnon yleisvirat voidaan täyttää niitä haettavaksi julistamatta.
