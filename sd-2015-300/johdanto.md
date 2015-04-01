@@ -1,0 +1,2 @@
+Laki laajarunkoisten rakennusten rakenteellisen turvallisuuden arvioinnista
+Eduskunnan päätöksen mukaisesti säädetään:
