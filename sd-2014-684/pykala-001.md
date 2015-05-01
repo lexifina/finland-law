@@ -9,4 +9,5 @@ Lupia, joihin 1 momentissa tarkoitettua menettelyä sovelletaan, ovat:
 4) vesilain (587/2011) 3 luvun mukainen lupa rakentamista koskevaan vesitaloushankkeeseen;
 5) maankäyttö- ja rakennuslain (132/1999) 125 §:n mukainen rakennuslupa, 126 §.n mukainen toimenpidelupa ja 171 §:n mukainen poikkeuksen myöntäminen;
 6) vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain (390/2005) 23 §:n mukainen lupa vaarallisen kemikaalin laajamittaiseen teolliseen käsittelyyn ja varastointiin ja 37 §:n mukainen lupa vaarallisen kemikaalin siirtoa varten tarkoitetun putkiston rakentamiseen;
-7) kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain (603/1977) 5 §:n mukainen lunastuslupa.
+7) kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain (603/1977) 5 §:n mukainen lunastuslupa;
+8) ympäristönsuojelulain (527/2014) 27 §:n mukainen ympäristölupa.
