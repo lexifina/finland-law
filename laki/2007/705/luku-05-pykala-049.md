@@ -1,7 +1,7 @@
 # 49 § Valvomaton ja ehdollinen saatava sekä keskeneräinen kirjaus
 Luku: 5 luku Myynti
 
-Valvomatta jäänyt kiinnitykseen perustuva panttisaatava merkitään asianosaisluetteloon lainhuuto- ja kiinnitysrekisteristä ilmenevään määrään. Velallisen hallussa olevaa panttikirjaa ei oteta huomioon.
+Valvomatta jäänyt kiinnitykseen perustuva panttisaatava merkitään asianosaisluetteloon lainhuuto- ja kiinnitysrekisteristä ilmenevään määrään. Velallisen hallussa olevaa tai hänen nimiinsä kirjattua panttikirjaa ei oteta huomioon.
 
 Ehdollinen saatava merkitään valvonnan mukaisesti.
 

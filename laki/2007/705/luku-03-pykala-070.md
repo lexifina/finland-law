@@ -5,10 +5,11 @@ Ulosottoviranomainen saa yksittäistapauksessa antaa pyydettäessä ulosottovira
 1) syyttäjä- ja esitutkintaviranomaiselle rikosten selvittämistä, esitutkintaa, syyteharkintaa ja tuomioistuinkäsittelyä varten sekä törkeiden rikosten ennalta estämistä varten;
 2) rahanpesun selvittelykeskukselle laissa säädettyjen tehtävien hoitamista varten;
 3) syyttäjäviranomaiselle sakon muuntorangaistuksen harkintaa varten;
-4) suojelupoliisille ja pääesikunnalle turvallisuusselvityksistä annetussa laissa (177/2002) säädetyn laajan turvallisuusselvityksen tekemistä varten;
+4) suojelupoliisille ja pääesikunnalle turvallisuusselvitysten laatimiseksi turvallisuusselvityslaissa (726/2014) säädetyllä tavalla;
 5) syyttäjä- ja esitutkintaviranomaiselle liiketoimintakiellon määräämistä tai pidentämistä koskevaa tutkintaa varten ja poliisille liiketoimintakiellon noudattamisen valvontaa varten;
 6) tulliviranomaiselle tullilaissa (1466/1994) säädetyn tehtävän hoitamista varten;
-7) konkurssiasiamiehelle laissa säädettyjen tehtävien hoitamista varten.
+7) konkurssiasiamiehelle laissa säädettyjen tehtävien hoitamista varten;
+8) Maahanmuuttovirastolle kansalaisuuslaissa (359/2003) säädettyjen tehtävien hoitamista varten.
 
 Ulosottomies saa ilmaista tuomioistuimelle 1 momentissa tarkoitetun asian, ulosottovalituksen, täytäntöönpanoriidan ja takaisinsaantiasian käsittelyä varten tarpeelliset ulosottoasiaan liittyvät tiedot. Mitä 73 §:ssä säädetään, ei estä ulosottomiestä ilmaisemasta tarpeellisia tietoja tuomioistuimelle ulosottovalituksen ja täytäntöönpanoriidan käsittelyä varten, vaikka tietojen antaja käyttää oikeuttaan kieltäytyä todistamasta.
 

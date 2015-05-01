@@ -4,6 +4,6 @@ Väliotsikko: Ulosottotoimen hallinto
 
 Ulosottolaitos muodostuu keskushallinnosta ja sen alaisista paikallisista ulosottovirastoista.
 
-Keskushallinnosta huolehtii valtakunnallinen ulosoton hallintovirasto (hallintovirasto). Hallintovirasto ja ulosottovirastot kuuluvat oikeusministeriön hallinnonalaan.
+Ulosottotoimen keskushallinnosta huolehtii Valtakunnanvoudinvirasto. Valtakunnanvoudinvirasto ja ulosottovirastot kuuluvat oikeusministeriön hallinnonalaan.
 
-Ulosottoviraston toimialue (ulosottopiiri) muodostuu yhdestä tai useammasta kihlakunnasta. Ulosottopiireistä säädetään valtioneuvoston asetuksella. Oikeusministeriö päättää ulosottoviraston toimipaikoista.
+Ulosottoviraston toimialue (ulosottopiiri) muodostuu yhdestä tai useammasta kihlakunnasta. Ulosottopiireistä säädetään valtioneuvoston asetuksella. Ulosottoviraston toimipaikoista säädetään oikeusministeriön asetuksella.

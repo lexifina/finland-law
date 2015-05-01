@@ -3,7 +3,7 @@ Luku: 13 luku Voimaantulo- ja siirtymäsäännökset
 
 1. Ennen 1 päivää maaliskuuta 2004 vireille tulleisiin asioihin sovelletaan silloin voimassa ollutta lakia sen mukaan kuin ulosottolain muuttamisesta annetun lain (679/2003) voimaantulo- ja siirtymäsäännöksen 2 momentissa säädetään.
 
-2. Ennen 1 päivää tammikuuta 2007 vireille tulleisiin asioihin sovelletaan silloin voimassa ollutta lakia sen mukaan kuin ulosottolain muuttamisesta annetun lain (469/2006) voimaantulo- ja siirtymäsäännöksen 2―12 momentissa säädetään. Tämän lain 4 luvun 49 §:n 1 momentin 3 kohtaa ryhdytään soveltamaan vuoden kuluttua tämän lain voimaantulosta ja myös silloin vireillä olevissa asioissa.
+2. Ennen 1 päivää tammikuuta 2007 vireille tulleisiin asioihin sovelletaan silloin voimassa ollutta lakia sen mukaan kuin ulosottolain muuttamisesta annetun lain (469/2006) voimaantulo- ja siirtymäsäännöksen 2–12 momentissa säädetään. Tämän lain 4 luvun 49 §:n 1 momentin 3 kohtaa ryhdytään soveltamaan vuoden kuluttua tämän lain voimaantulosta ja myös silloin vireillä olevissa asioissa.
 
 3. Tämän lain 1 luvun 11 §:n 1 ja 2 momentin, 12 §:n sekä muiden hallintovirastoa koskevien säännösten voimaantulosta säädetään erikseen lailla. Siihen saakka hallintoviraston tehtävät kuuluvat oikeusministeriölle ja lääninhallitukset hoitavat muulta osin niille aikaisemman lain mukaan kuuluvat tehtävät.
 
@@ -13,7 +13,7 @@ Luku: 13 luku Voimaantulo- ja siirtymäsäännökset
 
 6. Mitä avustavasta ulosottomiehestä muualla säädetään, koskee tämän lain voimaantulon jälkeen kihlakunnanulosottomiestä.
 
-7. Tämän lain 2 luvun 24―28 §:ää sovelletaan myös ennen lain voimaantuloa annettuun ulosottoperusteeseen ja siinä tarkoitettuun saatavaan sekä lain voimaan tullessa vireillä olevaan ulosottoasiaan. Jos kuitenkin ulosottoperuste on annettu ennen 1 päivää maaliskuuta 1993, ulosottoperusteen määräaika ja saatavan vanhentuminen lasketaan mainitusta päivästä.
+7. Tämän lain 2 luvun 24–28 §:ää sovelletaan myös ennen lain voimaantuloa annettuun ulosottoperusteeseen ja siinä tarkoitettuun saatavaan sekä lain voimaan tullessa vireillä olevaan ulosottoasiaan. Jos kuitenkin ulosottoperuste on annettu ennen 1 päivää maaliskuuta 1993, ulosottoperusteen määräaika ja saatavan vanhentuminen lasketaan mainitusta päivästä.
 
 8. Tämän lain 3 luvun 113 §:n 1 momenttia sovelletaan lain voimaantulon jälkeen vireille tulevissa asioissa.
 

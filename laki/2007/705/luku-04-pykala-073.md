@@ -8,4 +8,4 @@ Määräosin omistettu kiinteistö tai irtain esine saadaan ulosmitata, vaikkei 
 
 Sen estämättä, mitä 1 momentissa säädetään, yhteisesti omistettu kiinteistö tai irtain esine saadaan ulosmitata, jos kaikki yhteisomistajat siihen suostuvat. Yhteisesti omistettua kiinteistöä ei saa ulosmitata, jos sopimus hallinnan jakamisesta on kirjattu.
 
-Yhteisomistusesineen myynnistä säädetään 5 luvun 81―83 §:ssä.
+Yhteisomistusesineen myynnistä säädetään 5 luvun 81–83 §:ssä.

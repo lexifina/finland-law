@@ -1,6 +1,6 @@
-# 12 § Hallintovirasto
+# 12 § Valtakunnanvoudinvirasto
 Luku: 1 luku Yleiset säännökset
 
-Hallintovirastolle kuuluu hallinnollinen ulosottotoimen yleinen johto, ohjaus ja valvonta. Hallintoviraston tulee erityisesti huolehtia ulosottolaitoksen palvelujen alueellisesta saatavuudesta.
+Valtakunnanvoudinvirastolle kuuluu hallinnollinen ulosottotoimen yleinen johto, ohjaus ja valvonta. Valtakunnanvoudinviraston tulee erityisesti huolehtia ulosottolaitoksen palvelujen alueellisesta saatavuudesta.
 
-Hallintoviraston päällikön nimittää valtioneuvosto. Muutoin hallintoviraston nimestä, tehtävistä, viroista ja muusta järjestämisestä säädetään erikseen lailla.
+Valtakunnanvoudinviraston päällikön nimittää valtioneuvosto. Muutoin viraston tehtävistä, viroista ja muusta järjestämisestä säädetään erikseen lailla.
