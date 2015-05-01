@@ -5,4 +5,6 @@ Joka lupaamalla tai antamalla välitöntä taloudellista arvoa edustavan korvauk
 
 Seksikaupan kohteena olevan henkilön hyväksikäytöstä tuomitaan myös se, joka käyttää hyväkseen kolmannen lupaamaa tai antamaa 1 momentissa tarkoitettua korvausta ryhtymällä sukupuoliyhteyteen tai siihen rinnastettavaan seksuaaliseen tekoon sanotussa momentissa tarkoitetun rikoksen kohteena olevan henkilön kanssa.
 
-Yritys on rangaistava.
+Seksikaupan kohteena olevan henkilön hyväksikäytöstä tuomitaan niin ikään se, joka tekee 1 tai 2 momentissa tarkoitetun teon, vaikka hänellä on ollut syytä epäillä 1 tai 2 momentissa tarkoitetun henkilön olevan 9 tai 9 a §:ssä taikka 25 luvun 3 tai 3 a §:ssä tarkoitetun rikoksen kohteena.
+
+Tahallisen rikoksen yritys on rangaistava.

@@ -11,7 +11,7 @@ Rikesakko voidaan säätää seuraamukseksi tieliikennelain (267/1981), ajoneuvo
 5) ajoneuvon katsastusta ja rekisteröitäväksi ilmoittamista; taikka
 6) vesillä liikkujaa koskevia yleisiä velvollisuuksia, vesikulkuneuvon rakennetta, varusteita ja kuntoa, vesiliikenteeseen liittyvien asiakirjojen esittämisvelvollisuutta tai vesiliikennettä koskevia alueellisia kieltoja ja rajoituksia.
 
-Rikesakko voidaan säätää seuraamukseksi myös jätelaissa (1072/1993) säädetyn roskaamiskiellon vähäisestä rikkomisesta sekä kalastuslaissa (286/1982) säädetyn kalastuksenhoito- tai viehekalastusmaksun suorittamisen laiminlyönnistä taikka kyseisen maksun suorittamista osoittavan tositteen määräajassa esittämisen laiminlyönnistä.
+Rikesakko voidaan säätää seuraamukseksi myös jätelaissa (646/2011) säädetyn roskaamiskiellon vähäisestä rikkomisesta sekä kalastuslaissa (379/2015) säädetyn kalastonhoitomaksun suorittamisen laiminlyönnistä taikka kyseisen maksun suorittamista osoittavan todistuksen määräajassa esittämisen laiminlyönnistä.
 
 Rikesakko voidaan säätää seuraamukseksi myös järjestyslaissa (612/2003) säädetystä järjestysrikkomuksesta.
 
