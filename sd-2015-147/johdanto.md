@@ -1,0 +1,2 @@
+Laki rakennusten energiatodistustietojärjestelmästä
+Eduskunnan päätöksen mukaisesti säädetään:
