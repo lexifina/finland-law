@@ -1,6 +1,4 @@
-# 2§
-Osa: I Yleiset säännökset.
+# 2 §
+Osa: I OSA Yleiset säännökset
 
-Verovelvollisen kunkin tulolähteen tulos vahvistetaan erikseen.
-
-Tässä laissa tarkoitettu tulolähde on verovelvollisen jokainen itsenäinen liike tai ammatti.
+Verovelvollisen harjoittama liike- ja ammattitoiminta muodostaa elinkeinotoiminnan tulolähteen.

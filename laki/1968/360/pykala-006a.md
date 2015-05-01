@@ -1,0 +1,21 @@
+# 6 a §
+Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
+Luku: 1 LUKU Tulon veronalaisuus
+
+Yhteisön veronalaista tuloa ei ole osinko, joka on saatu kotimaiselta yhteisöltä tai eri jäsenvaltioissa sijaitseviin emo- ja tytäryhtiöihin sovellettavasta yhteisestä verojärjestelmästä annetun neuvoston direktiivin 2011/96/EU, sellaisena kuin se on muutettuna neuvoston direktiivillä 2013/13/EU, 2 artiklassa tarkoitetulta ulkomaiselta yhtiöltä.
+
+Yhteisön veronalaista tuloa ei ole osinko, joka on saatu Euroopan talousalueella asuvalta muulta kuin 1 momentissa tarkoitetulta yhteisöltä, jos:
+1) osinkoa jakava yhteisö on ilman valintamahdollisuutta ja vapautusta velvollinen suorittamaan tulostaan, josta osinko on jaettu, veroa vähintään kymmenen prosenttia; ja
+2) yhteisön kotipaikka kyseessä olevan valtion verolainsäädännön mukaan on tässä valtiossa ja yhteisön kotipaikka kaksinkertaisen verotuksen välttämistä koskevan sopimuksen mukaan ei ole Euroopan talousalueen ulkopuolella olevassa valtiossa.
+
+Yhteisön veronalaista tuloa on muilta kuin 1 ja 2 momentissa tarkoitetuilta yhteisöiltä saatu osinko. Lisäksi poiketen siitä, mitä 1 ja 2 momentissa säädetään:
+1) osingosta on veronalaista tuloa 75 prosenttia ja verovapaata tuloa 25 prosenttia, jos osinko on saatu sijoitusomaisuuteen kuuluvista 1 momentissa mainitun direktiivin 2 artiklassa tarkoitetun ulkomaisen yhtiön osakkeista, jonka osakepääomasta osingonsaaja omistaa osinkoa jaettaessa välittömästi alle kymmenen prosenttia, taikka sijoitusomaisuuteen kuuluvista kotimaisen tai muun kuin edellä mainitun ulkomaisen Euroopan talousalueella asuvan yhteisön osakkeista;
+2) osinko on veronalaista tuloa, jos osinkoa jakava yhteisö on tuloverolain 33 a §:n 2 momentissa tarkoitettu julkisesti noteerattu yhtiö ja osingonsaaja on muu yhteisö kuin julkisesti noteerattu yhtiö, joka ei omista osinkoa jaettaessa välittömästi vähintään kymmentä prosenttia osinkoa jakavan yhtiön osakepääomasta.
+
+Poiketen siitä, mitä edellä säädetään, osuuspankin saama osinko osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain (1504/2001) 3 §:ssä tarkoitetulta osuuspankkien keskusrahalaitoksena toimivalta liikepankilta on verovapaata tuloa.
+
+Luonnollisen henkilön tai kuolinpesän muusta kuin julkisesti noteeratusta yhtiöstä saamasta osingosta 75 prosenttia on veronalaista tuloa. Luonnollisen henkilön tai kuolinpesän julkisesti noteeratusta yhtiöstä saamasta osingosta on 85 prosenttia veronalaista tuloa.
+
+Peitellystä osingosta on 75 prosenttia veronalaista tuloa.
+
+Tuloverolain 33 a §:n 3 momentissa ja 33 b §:n 6 momentissa tarkoitettuun osinkona pidettävään vapaan oman pääoman rahastosta saatuun varojenjakoon sovelletaan tämän lain 6 c §:ssä säädetyin poikkeuksin, mitä tässä pykälässä säädetään.

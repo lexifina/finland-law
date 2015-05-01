@@ -1,9 +1,11 @@
-# 46§
-Osa: III Tulon ja menon jaksottaminen.
-Luku: 4 luku Vähennyskelpoiset varaukset.
+# 46 §
+Osa: III OSA Tulon ja menon jaksottaminen
+Luku: 4 LUKU Vähennyskelpoiset varaukset
 
-Verovelvollinen, raha-, vakuutus- ja eläkelaitoksia lukuun ottamatta, saa vähentää verovuonna tekemänsä luottotappiovarauksen, mikäli luottotappiovarausten yhteismäärä ei ylitä 3 prosenttia liikesaamisten yhteismäärästä tai verovelvollisen toteennäyttämää sitä suurempaa todennäköistä tuottotappion vaaraa.
+Talletuspankki sekä luottolaitos saa vähentää verovuonna tehdyn luottotappiovarauksen, jonka määrä on enintään 0,6 prosenttia laitoksella verovuoden päättyessä olevien saamisten yhteismäärästä; verovuonna ja aikaisemmin tehtyjen purkamattomien luottotappiovarausten yhteismäärä ei saa kuitenkaan ylittää 5 prosenttia laitoksella verovuoden päättyessä olevien saamisten yhteismäärästä. Jos talletuspankki on kumottujen liikepankkilain (1269/1990), säästöpankkilain (1270/1990) tai osuuspankkilain (1271/1990) nojalla taikka jos luottolaitos on rahoitustoimintalain (1544/1991) nojalla siirtänyt luottotappiovarauksiaan vararahastoon, sen verovuonna ja aikaisemmin tekemien purkamattomien luottotappiovarausten yhteismäärä ei saa ylittää edellä tarkoitettua luottotappiovarausten enimmäismäärää vähennettynä vararahastoon tehdyllä siirrolla.
 
-Raha-, vakuutus- ja eläkelaitos saa vähentää verovuonna tehdyn, enintään 0.6 prosenttia laitoksella verovuoden päättyessä olevien saamisten yhteismäärästä vastaavan luottotappiovarauksen, kuitenkin niin, että laitoksen verovuonna ja aikaisemmin tekemien purkamattomien luottotappiovarusten yhteismäärä ei saa ylittää 6 prosenttia laitoksella verovuoden päättyessä olevien saamisten yhteismäärästä ja että vakuutuslaitoksen vakuutusmaksusaamisiin sovelletaan 1 momentin säännöksiä.
+Jos talletuspankki tai luottolaitos, joka on 1 momentissa tarkoitetulla tavalla siirtänyt luottotappiovarauksiaan vararahastoon, on siirtänyt verovuoden aikana toiselle samaan konserniin kuuluvalle talletuspankille tai luottolaitokselle luottotappiovarauksen perusteena olevia saamisiaan määrän, joka vastaa vähintään saamiset siirtäneen talletuspankin tai luottolaitoksen saamisten määrää siirtoa seuraavassa tilinpäätöksessä, otetaan edellä tarkoitettu vararahastosiirron määrä huomioon mainittujen talletuspankkien ja luottolaitosten verotuksessa luottotappiovarauksen enimmäismäärää laskettaessa siirrettyjen saamisten sekä niiden saamisten suhteessa, jotka ovat luottotappiovarauksen perusteena saamiset siirtäneen talletuspankin ja luottolaitoksen seuraavassa tilinpäätöksessä. Talletuspankkien tai luottolaitosten sulautuessa otetaan sulautuneen talletuspankin tai luottolaitoksen vararahastoon siirtämien luottotappiovarausten määrä samalla tavalla huomioon luottotappiovarausten enimmäismäärää rajoittavana vastaanottavan talletuspankin tai luottolaitoksen verotuksessa kuin se olisi otettu huomioon sulautuneen talletuspankin tai luottolaitoksen verotuksessa.
 
-Se osa luottotappiovarauksesta, joka ylittää tässä pykälässä tarkoitetun vähennyskelpoisen luottotappion enimmäismäärän, on tuloutettava sinä verovuonna, jona enimmäismäärä on ylitetty.
+3–4 momentit on kumottu L:lla 30.12.2008/1077.
+
+Jos luottotappiovarausten tai niiden ja vararahastoon tehdyn siirron yhteismäärä ylittää tässä pykälässä tarkoitetun vähennyskelpoisten luottotappiovarausten enimmäismäärän, luetaan luottotappiovarauksista enimmäismäärän ylittävä osa sen verovuoden veronalaiseksi tuloksi, jona enimmäismäärä on ylitetty.

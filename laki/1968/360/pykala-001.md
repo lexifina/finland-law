@@ -1,6 +1,4 @@
-# 1§
-Osa: I Yleiset säännökset.
+# 1 §
+Osa: I OSA Yleiset säännökset
 
-Elinkeinotoiminnan tulos vahvistetaan valtion- ja kunnallisverotusta toimitettaessa tässä laissa säädetyllä tavalla.
-
-Elinkeinotoiminnalla tarkoitetaan liike- ja ammattitoimintaa.
+Elinkeinotoiminnan tulos lasketaan tuloverotusta toimitettaessa tässä laissa säädetyllä tavalla. Elinkeinotoiminnalla tarkoitetaan liike- ja ammattitoimintaa.

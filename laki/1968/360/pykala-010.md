@@ -1,5 +1,5 @@
-# 10§
-Osa: II Tulon veronalaisuus ja menon vähennyskelpoisuus.
-Luku: 2 luku Menon ja menetyksen vähennyskelpoisuus.
+# 10 §
+Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
+Luku: 2 LUKU Menon ja menetyksen vähennyskelpoisuus
 
-Vaihto-omaisuutta ovat elinkeinotoiminnassa sellaisinaan tai jalostettuina luovutettaviksi tarkoitetut kauppatavarat, raakaaineet, puolivalmisteet ja muut hyödykkeet sekä elinkeinotoiminnassa kulutettaviksi tarkoitetut poltto- ja voiteluaineet ja muut tarvikkeet.
+Vaihto-omaisuutta ovat elinkeinotoiminnassa sellaisinaan tai jalostettuina luovutettaviksi tarkoitetut kauppatavarat, raaka-aineet, puolivalmisteet ja muut hyödykkeet sekä elinkeinotoiminnassa kulutettaviksi tarkoitetut poltto- ja voiteluaineet ja muut tarvikkeet.
