@@ -1,0 +1,6 @@
+# 4 § Toimenpiteen kumoaminen
+Luku: 6 luku Vakuustakavarikko
+
+Pidättämiseen oikeutetun virkamiehen on kumottava väliaikainen vakuustakavarikko ennen tuomioistuinkäsittelyä ja tuomioistuimen on kumottava vakuustakavarikko, kun sakon, vahingonkorvauksen, hyvityksen tai menetettäväksi tuomittavan rahamäärän maksamisen vakuudeksi asetetaan riittävä vakuus tai kun muuten ei enää ole syytä pitää turvaamistoimea voimassa. Pidättämiseen oikeutetun virkamiehen on tehtävä tuomioistuimelle esitys vakuustakavarikon kumoamisesta, jos sen edellytyksiä ei enää ole.
+
+Tuomioistuimen on kumottava vakuustakavarikko myös, jollei syytettä nosteta neljän kuukauden kuluessa vakuustakavarikkoa koskevan määräyksen antamisesta. Tuomioistuin voi pidättämiseen oikeutetun virkamiehen viimeistään viikkoa ennen määräajan päättymistä tekemästä pyynnöstä pidentää tätä aikaa enintään neljällä kuukaudella kerrallaan. Tuomioistuimen on otettava määräajan pidentämistä koskeva asia käsiteltäväksi viipymättä ja ratkaistava se määräajan kuluessa. Sellaiselle henkilölle, jota asia koskee, on varattava tilaisuus tulla kuulluksi määräajan pidentämistä koskevan asian käsittelyn yhteydessä. Asia voidaan kuitenkin ratkaista sanottua henkilöä kuulematta, jollei häntä tavoiteta.

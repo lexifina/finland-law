@@ -1,0 +1,4 @@
+# 58 § Telekuuntelun, teknisen kuuntelun ja teknisen laitetarkkailun keskeyttäminen
+Luku: 10 luku Salaiset pakkokeinot
+
+Jos käy ilmi, että telekuuntelu kohdistuu muuhun kuin luvan kohteena olevalta rikoksesta epäillyltä lähtöisin olevaan tai hänelle tarkoitettuun viestiin taikka että teknisen kuuntelun kohteena oleva rikoksesta epäilty ei oleskele kuunneltavassa tilassa tai muussa paikassa, pakkokeinon käyttö on keskeytettävä niin pian kuin mahdollista sekä kuuntelulla saadut tallenteet ja sillä saatuja tietoja koskevat muistiinpanot on heti hävitettävä. Velvollisuus keskeyttämiseen sekä tallenteiden ja muistiinpanojen hävittämiseen koskee myös teknistä laitetarkkailua, jos käy ilmi, että tarkkailu kohdistuu viestin sisältöön tai 6 §:ssä tarkoitettuihin tunnistamistietoihin taikka että rikoksesta epäilty ei käytä tarkkailun kohteena olevaa laitetta.

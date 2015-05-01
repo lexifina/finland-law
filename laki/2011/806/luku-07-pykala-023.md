@@ -1,0 +1,10 @@
+# 23 § Takavarikoidun esineen, omaisuuden tai asiakirjan palauttaminen
+Luku: 7 luku Takavarikoiminen ja asiakirjan jäljentäminen
+
+Jos syyteasian käsittelyn yhteydessä useat vaativat takavarikoitua palautettavaa esinettä, omaisuutta tai asiakirjaa itselleen, tuomioistuimen on määrättävä, että riita paremmasta oikeudesta käsitellään erikseen riita-asiain oikeudenkäynnistä säädetyssä järjestyksessä. Tuomioistuimen on samalla määrättävä, minkä ajan kuluessa kanne on nostettava. Tuomioistuin voi kuitenkin tutkia parempaa oikeutta koskevan kysymyksen syyteasian käsittelyn yhteydessä, jollei tutkiminen viivytä asian käsittelyä.
+
+Jos syytettä ei nosteta ja jos useat vaativat takavarikoitua palautettavaa esinettä, omaisuutta tai asiakirjaa itselleen, pidättämiseen oikeutettu virkamies voi asettaa 1 momentissa tarkoitetun määräajan kanteen nostamista varten. Omaisuus on tuomioistuimen tai pidättämiseen oikeutetun virkamiehen asetettua määräajan pidettävä poliisin hallussa, kunnes parempaa oikeutta koskeva asia on lainvoimaisesti ratkaistu tai hallussapito on ennen sitä osoittautunut muuten tarpeettomaksi. Jollei kannetta sanotussa ajassa nosteta, omaisuuden suhteen saadaan menetellä 3 momentissa säädetyllä tavalla.
+
+Jos takavarikoitu esine, omaisuus tai asiakirja on takavarikon kumoamisen jälkeen palautettava omistajalleen tai muulle henkilölle, jolla on siihen oikeus, eikä tämä nouda takavarikon kohdetta kolmen kuukauden kuluessa poliisin ilmoituksesta, esineen, omaisuuden tai asiakirjan omistusoikeus siirtyy valtiolle tai kohteen ollessa löytötavara esineen löytäjälle löytötavaralaissa (778/1988) säädetyllä tavalla.
+
+Jos palautettavan esineen, omaisuuden tai asiakirjan omistaja tai muu henkilö, jolla on siihen oikeus, ei ole poliisin tiedossa, poliisin on selvitettävä kysymystä mahdollisuuksien mukaan. Tarvittaessa on käytettävä julkista kuulutusta. Jos kukaan ei vaadi takavarikon kohdetta itselleen kuuden kuukauden kuluessa kuuluttamisesta, esine siirtyy valtiolle tai kohteen ollessa löytötavara esineen löytäjälle löytötavaralaissa säädetyllä tavalla. Tarkemmat määräykset kuuluttamisesta antaa Poliisihallitus.

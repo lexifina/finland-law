@@ -1,0 +1,4 @@
+# 8 § Sijaintitietojen hankkiminen epäillyn ja tuomitun tavoittamiseksi
+Luku: 10 luku Salaiset pakkokeinot
+
+Esitutkintaviranomaiselle voidaan antaa lupa rikoksesta epäillyn tavoittamiseksi hankkia tämän hallussa olevan tai oletettavasti muuten käyttämän teleosoitteen tai telepäätelaitteen sijaintitieto, kun häntä on syytä epäillä 6 §:n 2 momentissa tarkoitetusta rikoksesta, ja lisäksi on syytä epäillä, että hän pakoilee tai muuten karttaa esitutkintaa tai oikeudenkäyntiä. Lisäksi esitutkintaviranomaiselle voidaan antaa lupa edellä tarkoitettujen sijaintitietojen hankkimiseen ehdottomaan vankeusrangaistukseen tuomitun tavoittamiseksi, jos on syytä epäillä, että tämä pakoilee tai muuten karttaa rangaistuksen täytäntöönpanoa, ja jos sijaintitietojen saamisella voidaan olettaa olevan erittäin tärkeä merkitys hänen tavoittamisekseen.

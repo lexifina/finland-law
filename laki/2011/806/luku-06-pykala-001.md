@@ -1,0 +1,6 @@
+# 1 § Vakuustakavarikon edellytykset
+Luku: 6 luku Vakuustakavarikko
+
+Omaisuutta saadaan määrätä vakuustakavarikkoon sakon, rikokseen perustuvan vahingonkorvauksen tai hyvityksen taikka valtiolle menetettäväksi tuomittavan rahamäärän maksamisen turvaamiseksi. Edellytyksenä vakuustakavarikon määräämiselle on, että omaisuus kuuluu henkilölle, jota on syytä epäillä rikoksesta tai joka voidaan rikoksen johdosta tuomita korvaamaan vahinko tai maksamaan hyvitystä taikka menettämään valtiolle rahamäärä, ja on olemassa vaara, että mainittu henkilö pyrkii välttämään sakon, vahingonkorvauksen, hyvityksen tai rahamäärän maksamista kätkemällä tai hävittämällä omaisuuttaan, pakenemalla tai muulla näihin rinnastettavalla tavalla. Vakuustakavarikkoon saadaan panna omaisuutta enintään määrä, jonka voidaan olettaa vastaavan tuomittavaa sakkoa, vahingonkorvausta, hyvitystä tai menettämisseuraamusta.
+
+Oikeushenkilön omaisuutta voidaan panna vakuustakavarikkoon myös, jos on syytä epäillä, että oikeushenkilön puolesta pyritään omaisuuden kätkemisellä tai hävittämisellä taikka muulla näihin rinnastettavalla tavalla välttämään yhteisösakon maksamista. Oikeushenkilön osalta noudatetaan soveltuvin osin tämän luvun säännöksiä rikoksesta epäillyn omaisuuteen kohdistuvasta vakuustakavarikosta.

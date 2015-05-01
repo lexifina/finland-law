@@ -1,0 +1,6 @@
+# 9 § Ilmoitus haltuunottamisesta
+Luku: 7 luku Takavarikoiminen ja asiakirjan jäljentäminen
+
+Esineen, omaisuuden tai asiakirjan haltuunottamisesta takavarikoimista tai jäljentämistä varten on viipymättä ilmoitettava sille, jonka luona esine, omaisuus tai asiakirja on otettu haltuun, jos hän ei ole ollut paikalla haltuunoton tapahtuessa. Tarvittaessa haltuunottamisesta on ilmoitettava muullekin henkilölle, jonka esineestä, omaisuudesta tai asiakirjasta on kyse. Siitä on ilmoitettava myös kirjeen, paketin tai muun vastaavan lähetyksen vastaanottajalle ja lähettäjälle, jos heidän osoitteensa on tiedossa.
+
+Ilmoituksen tekemistä voidaan pidättämiseen oikeutetun virkamiehen päätöksellä siirtää enintään viikko haltuunottamisesta, jos tärkeä tutkinnallinen syy sitä vaatii. Sen jälkeen tuomioistuin saa mainitun virkamiehen pyynnöstä päättää ilmoituksen siirtämisestä enintään kaksi kuukautta kerrallaan. Ilmoitus on kuitenkin tehtävä viipymättä esitutkinnan päätyttyä. Määräajan pidentämistä koskeva pyyntö on tehtävä tuomioistuimelle viimeistään viikkoa ennen määräajan päättymistä. Tuomioistuimen on otettava määräajan pidentämistä koskeva asia käsiteltäväksi viipymättä ja ratkaistava se määräajan kuluessa.

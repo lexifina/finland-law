@@ -1,0 +1,10 @@
+# 3 § Väliaikainen vakuustakavarikko
+Luku: 6 luku Vakuustakavarikko
+
+Pidättämiseen oikeutettu virkamies voi päättää väliaikaisesta vakuustakavarikosta, jos asia ei siedä viivytystä ja jos 1 §:ssä säädetyt edellytykset ovat ilmeisesti olemassa. Kohteena oleva omaisuus saadaan ennen väliaikaisen vakuustakavarikon täytäntöönpanoa ottaa mainitun virkamiehen päätöksellä esitutkintaviranomaisen haltuun, jos se on tarpeen täytäntöönpanon turvaamiseksi.
+
+Väliaikainen vakuustakavarikko lakkaa olemasta voimassa, jos vaatimusta vakuustakavarikon määräämisestä ei tehdä tuomioistuimelle viikon kuluessa väliaikaismääräyksen antamisesta. Pidättämiseen oikeutetun virkamiehen on tehtävä ulosottokaaren (705/2007) 4 luvun 33 §:ssä tarkoitettu rekisteri-ilmoitus väliaikaisen vakuustakavarikon voimassaolon lakkaamisesta ja kumoamisesta sekä päätöksestä, jolla tuomioistuin on hylännyt vaatimuksen väliaikaisen vakuustakavarikon kohteena olevan omaisuuden panemisesta vakuustakavarikkoon.
+
+Väliaikaisesta vakuustakavarikosta on ilman aiheetonta viivytystä laadittava pöytäkirja, jossa riittävästi mainitaan vakuustakavarikon tarkoitus, selostetaan siihen johtanut menettely ja yksilöidään kohteena oleva omaisuus. Jäljennös pöytäkirjasta on viivytyksettä toimitettava sille, jonka omaisuuteen väliaikainen vakuustakavarikko kohdistuu.
+
+Jos 1 momentissa tarkoitettu syyttäjän päätös on lähetetty toiseen Euroopan unionin jäsenvaltioon omaisuuden tai todistusaineiston jäädyttämistä koskevien päätösten täytäntöönpanosta Euroopan unionissa annetussa laissa (540/2005) tarkoitettuna jäädyttämispäätöksenä, toimenpide lakkaa olemasta voimassa kuitenkin vasta, jos vaatimusta vakuustakavarikosta ei ole tehty tuomioistuimelle viikon kuluessa siitä, kun syyttäjä on saanut tiedon väliaikaistoimenpiteen täytäntöönpanosta. Voimassaolon lakkaamisesta syyttäjän on välittömästi ilmoitettava sille toisen jäsenvaltion viranomaiselle, jolle väliaikaistoimi on lähetetty täytäntöönpantavaksi.
