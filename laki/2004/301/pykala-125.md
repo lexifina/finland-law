@@ -1,5 +1,5 @@
 # 125 § Menettely käräjäoikeudessa
-Luku: 7 luku Turvaamistoimet
+Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
 Säilöön ottamisesta ja 123 §:n 3 momentissa tarkoitetusta poikkeuksellisesta sijoittamisesta päättäneen virkamiehen tai hänen määräämänsä on oltava läsnä asiaa käräjäoikeudessa käsiteltäessä.
 

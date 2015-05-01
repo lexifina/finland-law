@@ -1,5 +1,5 @@
 # 130 § Henkilöllisyyden todentaminen ja oleskelua koskevien tietojen antaminen
-Luku: 7 luku Turvaamistoimet
+Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
 Ulkomaalaisen on poliisin tai muun ulkomaalaisen asiaa käsittelevän viranomaisen kehotuksesta esitettävä matkustusasiakirjansa tai muulla luotettavalla tavalla todennettava henkilöllisyytensä.
 

@@ -1,5 +1,5 @@
 # 123 § Säilöön ottamisesta päättäminen ja säilöön otetun sijoittaminen
-Luku: 7 luku Turvaamistoimet
+Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
 Säilöön ottamisesta päättää poliisissa poliisilaitoksen, keskusrikospoliisin tai suojelupoliisin päällystöön kuuluva poliisimies ja rajavartiolaitoksessa pidättämiseen oikeutettu virkamies tai vähintään luutnantin arvoinen rajavartiomies. Säilöön otetulle tai hänen lailliselle edustajalleen on ilmoitettava säilöön ottamisen peruste.
 

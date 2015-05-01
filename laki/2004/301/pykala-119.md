@@ -1,5 +1,5 @@
 # 119 § Muut velvollisuudet
-Luku: 7 luku Turvaamistoimet
+Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
 Ulkomaalainen voidaan 118 §:n 1 momentissa säädetyin edellytyksin määrätä luovuttamaan matkustusasiakirjansa ja matkalippunsa poliisin tai rajatarkastusviranomaisen haltuun taikka ilmoittamaan poliisille tai rajatarkastusviranomaiselle paikka, josta hän on tavoitettavissa.
 

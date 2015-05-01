@@ -1,5 +1,5 @@
 # 118 § Ilmoittautumisvelvollisuus
-Luku: 7 luku Turvaamistoimet
+Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
 Ulkomaalainen voidaan velvoittaa ilmoittautumaan poliisin tai rajatarkastusviranomaisen toimipisteessä määräajoin, jos se on välttämätöntä:
 1) hänen maahantulonsa edellytysten selvittämiseksi; taikka

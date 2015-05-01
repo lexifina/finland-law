@@ -1,5 +1,5 @@
 # 132 § Matkustusasiakirjan ottaminen viranomaisen haltuun
-Luku: 7 luku Turvaamistoimet
+Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
 Poliisi, rajatarkastusviranomainen, Maahanmuuttovirasto tai Suomen edustusto voi ottaa ulkomaalaisen esittämän tai ulkomaalaisen hallussa olevan väärän tai väärennetyn matkustusasiakirjan taikka väärän henkilötiedon antamiseen käytettäväksi aiotun matkustusasiakirjan haltuunsa.
 

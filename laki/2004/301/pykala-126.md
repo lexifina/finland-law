@@ -1,5 +1,5 @@
 # 126 § Käräjäoikeuden päätös
-Luku: 7 luku Turvaamistoimet
+Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
 Käräjäoikeuden on määrättävä säilöön otettu ulkomaalainen päästettäväksi heti vapaaksi, jos edellytyksiä säilössä pitämiselle ei ole. Päätöksessä on mainittava säilöön ottamisen tai siirron peruste. Päätös on julistettava heti käsittelyn päätyttyä.
 

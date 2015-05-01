@@ -1,5 +1,5 @@
 # 131 § Henkilötuntomerkkien ottaminen
-Luku: 7 luku Turvaamistoimet
+Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
 Poliisi tai rajatarkastusviranomainen saa henkilöllisyyden todentamiseksi, ulkomaalaisten maahantuloa ja maastalähtöä sekä oleskelua ja työntekoa koskevien asioiden käsittelyä, päätöksentekoa ja valvontaa varten ja valtion turvallisuuden suojaamiseksi ottaa sormenjäljet, valokuvan sekä muut henkilötuntomerkit ulkomaalaisesta:
 1) joka on hakenut turvapaikkaa tai oleskelulupaa toissijaisen suojelun tai humanitaarisen suojelun taikka tilapäisen suojelun perusteella;

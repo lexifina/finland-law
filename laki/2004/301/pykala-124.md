@@ -1,5 +1,5 @@
 # 124 § Säilöön ottamisesta ilmoittaminen ja tuomioistuinkäsittely
-Luku: 7 luku Turvaamistoimet
+Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
 Säilöön ottamisesta ja 123 §:n 3 momentissa tarkoitetusta poikkeuksellisesta sijoittamisesta päättäneen virkamiehen on viipymättä ja viimeistään säilöön ottamista seuraavana päivänä ilmoitettava asiasta säilyttämispaikkakunnan käräjäoikeudelle tai kiireellisessä tapauksessa muullekin käräjäoikeudelle sen mukaan kuin oikeusministeriön asetuksella tarkemmin säädetään. Ilmoitus voidaan tehdä puhelimitse tai sähköisesti. Puhelimitse tehty ilmoitus on viipymättä toimitettava kirjallisena käräjäoikeudelle.
 
