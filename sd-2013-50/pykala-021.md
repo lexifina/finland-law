@@ -1,8 +1,0 @@
-# 21 § Rakennusten energiatodistustietojärjestelmä
-Luku: 6 luku Valvonta sekä tietojen käsittely, säilytys ja luovuttaminen
-
-Asumisen rahoitus- ja kehittämiskeskus ylläpitää vastuullisena rekisterinpitäjänä rakennusten energiatodistustietojärjestelmää energiatodistusten ja energiatodistusten laatijoiden tietojen rekisteröimiseksi, tämän lain noudattamisen valvontaa koskevien tietojen rekisteröimiseksi sekä tietopalvelutehtäviä varten.
-
-Pätevyyden toteaja ilmoittaa energiatodistuksen laatijaa koskevat tiedot tietojärjestelmään rakennusten energiatodistusten laatijarekisteriin tallennettaviksi. Energiatodistuksen laatija ilmoittaa energiatodistusta koskevat tiedot tietojärjestelmään rakennusten energiatodistusrekisteriin tallennettaviksi. Kevennetyllä energiatodistusmenettelyllä tehtyjen todistusten tietoja ei ilmoiteta eikä tallenneta rekisteriin.
-
-Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä tietojärjestelmän tietosisällöstä, ilmoitettavista tiedoista ja tietojen toimittamisesta tietojärjestelmään sekä tietojärjestelmän käytöstä.
