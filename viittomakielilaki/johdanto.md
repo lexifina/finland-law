@@ -1,0 +1,2 @@
+Viittomakielilaki
+Eduskunnan päätöksen mukaisesti säädetään:
