@@ -9,4 +9,4 @@ Oikaisuvaatimus Rikosseuraamuslaitoksen aluejohtajalle voidaan tehdä päätöks
 5) 28 §:ssä tarkoitettua rangaistusajaksi lukemista;
 6) 33 §:ssä tarkoitettujen matkakustannusten korvaamista.
 
-Muutoin oikaisuvaatimuksen ja valituksen käsittelyssä noudatetaan, mitä vankeuslain 20 luvun 10—15 §:ssä säädetään.
+Muutoin oikaisuvaatimuksen ja valituksen käsittelyssä noudatetaan, mitä vankeuslain 20 luvun 3—9 §:ssä säädetään.
