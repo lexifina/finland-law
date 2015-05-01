@@ -5,4 +5,4 @@ Valvotun koevapauden ehdoksi voidaan asettaa, että seksuaalirikoksesta tuomittu
 
 Vangin on annettava suostumuksensa lääkehoitoon kirjallisesti Rikosseuraamuslaitoksen lääkärille. Lääkärin on ennen suostumuksen antamista selvitettävä vangille lääkehoidon vaikutukset.
 
-Rikosseuraamuslaitoksen on ennen koevapauteen sijoittamista selvitettävä vangille lääkehoidon lopettamisesta aiheutuvat seuraamukset. Seuraamuksista säädetään 26 §:ssä ja ehdonalaisen vapauden valvonnasta annetun lain (782/2005) 10 a §:ssä.
+Rikosseuraamuslaitoksen on ennen koevapauteen sijoittamista selvitettävä vangille lääkehoidon lopettamisesta aiheutuvat seuraamukset. Seuraamuksista säädetään 26 §:ssä ja yhdyskuntaseuraamusten täytäntöönpanosta annetun lain (400/2015) 74 §:ssä.
