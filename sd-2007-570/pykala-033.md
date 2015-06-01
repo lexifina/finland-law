@@ -3,7 +3,7 @@ Luku: 3 luku Toimeenpano
 
 Vammaisetuus lakkaa sitä seuraavan kuukauden alusta, jona:
 1) etuudensaajan terveydentilassa, hoidon, huolenpidon tai kuntoutuksen tarpeessa, toimintakyvyssä, erityiskustannuksissa tai muissa olosuhteissa on tapahtunut sellainen muutos, jonka vuoksi oikeutta etuuteen ei enää ole; tai
-2) etuudensaaja muuttaa asumaan ulkomaille.
+2) etuudensaajaa ei enää pidetä Suomessa asuvana.
 
 Alle 16-vuotiaan vammaistuki lakkaa viimeistään sitä seuraavan kuukauden alusta, kun lapsi täyttää 16 vuotta.
 

@@ -10,12 +10,12 @@ Oikeus hoitotukeen on 16 vuotta täyttäneellä henkilöllä, joka saa:
 4 b) pelkkää leskeneläkettä 2, 4 tai 4 a kohdassa mainittujen lakien perusteella ja on täyttänyt 65 vuotta; tai
 5) edellä mainittuja etuuksia vastaavaa ulkomailta maksettavaa etuutta.
 
-Lisäksi edellytetään, että henkilön toimintakyvyn voidaan arvioida olevan sairauden, vian tai vamman vuoksi yhtäjaksoisesti heikentynyt vähintään vuoden ajan ja että henkilön sairaudesta, viasta tai vammasta aiheutuu avuntarvetta tai ohjauksen ja valvonnan tarvetta taikka erityiskustannuksia.
+Lisäksi edellytetään, että henkilön toimintakyvyn voidaan arvioida olevan sairauden, vian tai vamman vuoksi yhtäjaksoisesti heikentynyt vähintään vuoden ajan ja että henkilön sairaudesta, viasta tai vammasta aiheutuu avuntarvetta tai ohjauksen ja valvonnan tarvetta. Henkilön sairaudesta, viasta tai vammasta aiheutuvat erityiskustannukset vaikuttavat tuen myöntämiseen siten kuin 10 §:ssä säädetään.
 
 Hoitotukena myönnetään:
-1) perushoitotukea 49,69 euroa kuukaudessa, jos henkilö tarvitsee henkilökohtaisissa toiminnoissaan, kotitaloustöissä ja asioinnissa kodin ulkopuolella säännöllisesti vähintään viikoittain toistuvaa toisen henkilön apua tai ohjausta ja valvontaa taikka hänelle aiheutuu sairaudesta, viasta tai vammasta erityiskustannuksia;
-2) korotettua hoitotukea 123,70 euroa kuukaudessa, jos henkilö tarvitsee monissa henkilökohtaisissa toiminnoissa jokapäiväistä aikaa vievää toisen henkilön apua tai sairaudesta, viasta tai vammasta aiheutuu huomattavassa määrin säännöllistä ohjauksen ja valvonnan tarvetta taikka huomattavia erityiskustannuksia; tai
-3) ylintä hoitotukea 261,57 euroa kuukaudessa, jos henkilön hoidon ja valvonnan tarve on yhtämittaista taikka sairaudesta, viasta tai vammasta aiheutuu erittäin huomattavia erityiskustannuksia.
+1) perushoitotukea 49,69 euroa kuukaudessa, jos henkilö tarvitsee henkilökohtaisissa toiminnoissaan, kotitaloustöissä ja asioinnissa kodin ulkopuolella säännöllisesti vähintään viikoittain toisen henkilön apua tai ohjausta ja valvontaa;
+2) korotettua hoitotukea 123,70 euroa kuukaudessa, jos henkilö tarvitsee monissa henkilökohtaisissa toiminnoissa jokapäiväistä aikaa vievää toisen henkilön apua tai sairaudesta, viasta tai vammasta aiheutuu huomattavassa määrin säännöllistä ohjauksen ja valvonnan tarvetta; tai
+3) ylintä hoitotukea 261,57 euroa kuukaudessa, jos henkilön hoidon ja valvonnan tarve on yhtämittaista.
 
 Sokealla tai liikuntakyvyttömällä henkilöllä on oikeus vähintään perushoitotukeen.
 
