@@ -1,6 +1,10 @@
-# 104 § Menettely turvallisen turvapaikka- tai alkuperämaan ollessa kyseessä
+# 104 § Nopeutetun menettelyn käyttäminen
 Luku: 6 luku Kansainvälinen suojelu
 
-Jos katsotaan, että hakija on saapunut turvallisesta turvapaikka- tai alkuperämaasta, hakemus on ratkaistava seitsemän päivän kuluessa siitä, kun puhuttelupöytäkirja on valmistunut ja tieto sen valmistumisesta rekisteröity ulkomaalaisrekisteriin.
+Kansainvälistä suojelua koskeva hakemus voidaan ratkaista nopeutetussa menettelyssä, kun hakemus katsotaan 101 §:n nojalla ilmeisen perusteettomaksi.
 
-Turvalliseen turvapaikkamaahan palautettavalle ulkomaalaiselle annetaan asiakirja, josta ilmenee, että hänen hakemustaan ei ole tutkittu aineellisesti Suomessa.
+Ilman huoltajaa olevan alaikäisen jättämä hakemus voidaan ratkaista nopeutetussa menettelyssä vain 101 §:n 3 kohdassa säädetyllä perusteella.
+
+Jos 96 a §:ssä tarkoitettua tukea ei pystytä antamaan nopeutetussa menettelyssä, nopeutettua menettelyä ei sovelleta.
+
+Käytettäessä nopeutettua menettelyä Maahanmuuttoviraston on ratkaistava hakemus viiden kuukauden kuluessa sen jättämisestä.
