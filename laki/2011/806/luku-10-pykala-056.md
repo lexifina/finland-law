@@ -13,7 +13,7 @@ Ylimääräistä tietoa saa käyttää myös, jos ylimääräisen tiedon käytt�
 
 Ylimääräisen tiedon käyttämisestä näyttönä päättää tuomioistuin pääasian käsittelyn yhteydessä. Ylimääräisen tiedon käyttämisen kirjaamisesta esitutkintapöytäkirjaan säädetään esitutkintalain 9 luvun 6 §:n 2 momentissa ja ilmoittamisesta haastehakemuksessa oikeudenkäynnistä rikosasioissa annetun lain 5 luvun 3 §:n 1 momentin 8 kohdassa.
 
-Ylimääräistä tietoa saa lisäksi käyttää aina rikoksen estämiseksi, poliisin toiminnan suuntaamiseksi ja syyttömyyttä tukevana selvityksenä.
+Ylimääräistä tietoa saa lisäksi käyttää aina rikoksen estämiseksi, poliisin tai Tullin toiminnan suuntaamiseksi ja syyttömyyttä tukevana selvityksenä.
 
 Ylimääräistä tietoa saa käyttää myös hengelle, terveydelle tai vapaudelle aiheutuvan merkittävän vaaran taikka huomattavan ympäristö-, omaisuus- tai varallisuusvahingon estämiseksi.
 

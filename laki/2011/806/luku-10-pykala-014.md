@@ -1,7 +1,7 @@
 # 14 § Peitelty tiedonhankinta ja sen edellytykset
 Luku: 10 luku Salaiset pakkokeinot
 
-Peitellyllä tiedonhankinnalla tarkoitetaan tiettyyn henkilöön kohdistuvaa lyhytkestoisessa vuorovaikutuksessa tapahtuvaa tiedonhankintaa, jossa poliisimiehen tehtävän salaamiseksi käytetään vääriä, harhauttavia tai peiteltyjä tietoja.
+Peitellyllä tiedonhankinnalla tarkoitetaan tiettyyn henkilöön kohdistuvaa lyhytkestoisessa vuorovaikutuksessa tapahtuvaa tiedonhankintaa, jossa poliisimiehen tai Tullin rikostorjunnan tullimiehen tehtävän salaamiseksi käytetään vääriä, harhauttavia tai peiteltyjä tietoja.
 
 Poliisi saa käyttää peiteltyä tiedonhankintaa, jos on syytä olettaa, että toimenpiteellä saadaan selvitystä:
 1) rikoksesta, josta säädetty ankarin rangaistus on vähintään neljä vuotta vankeutta;
@@ -12,5 +12,11 @@ Poliisi saa käyttää peiteltyä tiedonhankintaa, jos on syytä olettaa, että 
 6) suunnitelmalliseen, järjestäytyneeseen, ammattimaiseen, jatkuvaan tai toistuvaan rikolliseen toimintaan liittyvästä varkaudesta tai kätkemisrikoksesta;
 7) panttivangin ottamisen valmistelusta; taikka
 8) törkeän ryöstön valmistelusta.
+
+Tulli saa käyttää peiteltyä tiedonhankintaa, jos on syytä olettaa, että toimenpiteellä saadaan selvitystä:
+1) rikoksesta, josta säädetty ankarin rangaistus on vähintään neljä vuotta vankeutta;
+2) tullirikokseksi katsottavasta huumausainerikoksesta;
+3) salakuljetuksesta; taikka
+4) törkeästä tulliselvitysrikoksesta.
 
 Peitelty tiedonhankinta ei ole sallittua asunnossa edes asunnonhaltijan myötävaikutuksella.
