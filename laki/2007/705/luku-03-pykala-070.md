@@ -7,7 +7,7 @@ Ulosottoviranomainen saa yksittäistapauksessa antaa pyydettäessä ulosottovira
 3) syyttäjäviranomaiselle sakon muuntorangaistuksen harkintaa varten;
 4) suojelupoliisille ja pääesikunnalle turvallisuusselvitysten laatimiseksi turvallisuusselvityslaissa (726/2014) säädetyllä tavalla;
 5) syyttäjä- ja esitutkintaviranomaiselle liiketoimintakiellon määräämistä tai pidentämistä koskevaa tutkintaa varten ja poliisille liiketoimintakiellon noudattamisen valvontaa varten;
-6) tulliviranomaiselle tullilaissa (1466/1994) säädetyn tehtävän hoitamista varten;
+6) Tullille tullilaissa (1466/1994) säädetyn tehtävän hoitamista varten;
 7) konkurssiasiamiehelle laissa säädettyjen tehtävien hoitamista varten;
 8) Maahanmuuttovirastolle kansalaisuuslaissa (359/2003) säädettyjen tehtävien hoitamista varten.
 
