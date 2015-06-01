@@ -13,6 +13,6 @@ Taloudellisena tukena pidetään myös lainaa, korkotukea ja lainan vakuutta.
 
 Avustuksella tarkoitetaan myös valtionosuutta tai -avustusta kunnalle tai kuntayhtymälle.
 
-Tämän luvun 4 a ja 4 b §:ssä tarkoitettuun työnantajaan ja tämän edustajaan sovelletaan, mitä 47 luvun 8 §:n 1 momentin 1 tai 2 kohdassa säädetään työnantajasta tai työnantajan edustajasta.
+Tämän luvun 4 a–4 c §:ssä tarkoitettuun työnantajaan ja tämän edustajaan sovelletaan, mitä 47 luvun 8 §:n 1 momentin 1 kohdassa säädetään työnantajasta ja 2 kohdassa työnantajan edustajasta.
 
-Tämän luvun 4 a ja 4 b §:ssä mainittuun rikokseen sovelletaan, mitä 47 luvun 7 §:ssä säädetään vastuun kohdentamisesta.
+Tämän luvun 4 a–4 c §:ssä mainittuun rikokseen sovelletaan, mitä 47 luvun 7 §:ssä säädetään vastuun kohdentamisesta.
