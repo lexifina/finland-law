@@ -17,4 +17,4 @@ Ylimääräistä tietoa saa lisäksi käyttää aina rikoksen estämiseksi, poli
 
 Ylimääräistä tietoa saa käyttää myös hengelle, terveydelle tai vapaudelle aiheutuvan merkittävän vaaran taikka huomattavan ympäristö-, omaisuus- tai varallisuusvahingon estämiseksi.
 
-Poliisilain nojalla saadun ylimääräisen tiedon käyttämisestä rikoksen selvittämiseen säädetään poliisilain 5 luvun 54 §:ssä.
+Poliisilain ja rikostorjunnasta Tullissa annetun lain nojalla saadun ylimääräisen tiedon käyttämisestä rikoksen selvittämiseen säädetään poliisilain 5 luvun 54 §:ssä sekä rikostorjunnasta Tullissa annetun lain 3 luvun 53 §:ssä.
