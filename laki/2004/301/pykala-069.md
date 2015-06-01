@@ -1,7 +1,7 @@
 # 69 § Ulkoasiainhallinto oleskelulupaviranomaisena
 Luku: 4 luku Oleskelu
 
-Suomen diplomaatti- tai konsuliedustusto ottaa vastaan oleskelulupahakemuksen ulkomailla olevalta henkilöltä ja tarkistaa, että hakemus on oikein täytetty ja että se sisältää tarvittavat asiakirjat ja tiedot.
+Suomen edustusto ottaa vastaan oleskelulupahakemuksen ulkomailla olevalta henkilöltä ja tarkistaa, että hakemus on oikein täytetty ja että se sisältää tarvittavat asiakirjat ja tiedot.
 
 Oleskelulupahakemuksen ulkomailla voi ottaa vastaan myös muu Suomen edustusto, jos ulkoasiainministeriö on antanut tarvittavan valtuuden siinä palvelevalle nimetylle Suomen kansalaiselle.
 

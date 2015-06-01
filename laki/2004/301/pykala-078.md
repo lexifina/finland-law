@@ -15,7 +15,7 @@ a) työ on tutkintoon sisältyvää työharjoittelua tai opintoihin sisältyvän
 b) työn määrä tasoittuu keskimäärin 25 tuntiin viikossa aikana, jolloin oppilaitoksessa järjestetään varsinaista opetusta; tai
 c) kokoaikainen työ sijoittuu aikaan, jolloin oppilaitoksessa ei järjestetä varsinaista opetusta;
 5) jolle on myönnetty tilapäinen oleskelulupa 52 a tai 52 d §:n perusteella;
-6) jonka oleskelulupa on myönnetty maasta poistamisen estymisen vuoksi 51 §:n perusteella;
+6) jonka oleskelulupa on myönnetty maasta poistumisen estymisen vuoksi 51 §:n perusteella;
 7) jolle ulkoasiainministeriö on myöntänyt oleskeluluvan edustuston rakennus-, korjaus- tai huoltotyön tekemistä varten.
 
 Tähän pykälään perustuvasta työnteko-oikeudesta on 3 momentin 7 kohdassa tarkoitettua oleskelulupaa lukuun ottamatta tehtävä merkintä ulkomaalaisen oleskeluluvan yhteyteen.
