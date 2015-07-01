@@ -1,10 +1,8 @@
 # 118 § Ilmoittautumisvelvollisuus
 Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
-Ulkomaalainen voidaan velvoittaa ilmoittautumaan poliisin tai rajatarkastusviranomaisen toimipisteessä määräajoin, jos se on välttämätöntä:
-1) hänen maahantulonsa edellytysten selvittämiseksi; taikka
-2) hänen maasta poistamistaan koskevan päätöksen valmistelemiseksi tai täytäntöönpanon turvaamiseksi taikka muutoin maasta poistumisen valvomiseksi.
+Ulkomaalainen voidaan velvoittaa ilmoittautumaan poliisin tai rajatarkastusviranomaisen toimipisteessä taikka vastaanottokeskuksessa määräajoin.
 
-Ilmoittautumisvelvollisuuden määrää se viranomainen, joka valmistelee 1 momentissa tarkoitettua asiaa, tai täytäntöönpanosta huolehtiva viranomainen. Ilmoittautumisvelvolliselle on ilmoitettava ilmoittautumisvelvollisuuden peruste.
+Jos vastaanottokeskuksessa ilmoittautumaan velvoitettu ulkomaalainen ei noudata ilmoittautumisvelvollisuuttaan, on vastaanottokeskuksen ilmoitettava velvollisuuden laiminlyönnistä välittömästi velvoitteen määränneelle viranomaiselle.
 
-Ilmoittautumisvelvollisuus on voimassa, kunnes maahantulon edellytykset on selvitetty, kunnes maasta poistamista koskeva päätös on pantu täytäntöön tai kunnes asian käsittely on muutoin päättynyt. Ilmoittautumisvelvollisuus on kuitenkin heti määrättävä päättyväksi, kun se ei ole enää välttämätön päätöksenteon tai täytäntöönpanon turvaamiseksi.
+Ilmoittautumisvelvollisuuden toteutumista valvovaan vastaanottokeskuksen henkilökuntaan kuuluvaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).

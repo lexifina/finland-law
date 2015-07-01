@@ -7,4 +7,4 @@ Työnantaja tai tämän edustaja, joka
 3) tahallaan tai törkeästä huolimattomuudesta laiminlyö 86 a §:n 2 momentissa säädetyn velvollisuuden,
 on tuomittava työnantajan ulkomaalaisrikkomuksesta sakkoon, jollei teosta muualla laissa ole säädetty ankarampaa rangaistusta.
 
-Rangaistusvastuu työnantajan ja toimeksiantajan kesken määräytyy 86 b §:n mukaan. Rangaistusvastuun kohdentumisesta työnantajan ja tämän edustajan kesken säädetään rikoslain 47 luvun 7 § :ssä.
+Rangaistusvastuu työnantajan ja toimeksiantajan kesken määräytyy 86 b §:n mukaan. Rangaistusvastuun kohdentumisesta työnantajan ja tämän edustajan kesken säädetään rikoslain 47 luvun 7 §:ssä.
