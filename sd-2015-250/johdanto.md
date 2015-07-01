@@ -1,0 +1,2 @@
+Laki matkailijamyynnistä suoritetun arvonlisäveron käteispalautustoimintaa harjoittavan velvollisuuksista
+Eduskunnan päätöksen mukaisesti säädetään:
