@@ -1,0 +1,2 @@
+Arvonlisäverolaki
+Eduskunnan päätöksen mukaisesti säädetään:
