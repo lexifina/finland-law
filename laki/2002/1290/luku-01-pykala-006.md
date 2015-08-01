@@ -2,7 +2,7 @@
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 1 luku Yleiset säännökset
 
-Yrittäjäksi katsotaan tässä laissa henkilö, joka päätointaan varten on yrittäjien eläkelain (468/1969) tai maatalousyrittäjien eläkelain (467/1969) mukaisesti velvollinen ottamaan sanottujen lakien mukaisen vakuutuksen.
+Yrittäjäksi katsotaan tässä laissa henkilö, joka päätointaan varten on yrittäjän eläkelain (1272/2006) tai maatalousyrittäjän eläkelain (1280/2006) mukaisesti velvollinen ottamaan sanottujen lakien mukaisen vakuutuksen. Yrittäjänä ei kuitenkaan pidetä maatalousyrittäjän eläkelain 1 a §:n 2 momentissa tarkoitettua apurahansaajaa.
 
 Yrittäjäksi katsotaan myös yrityksen osaomistaja. Osaomistajana pidetään tätä lakia sovellettaessa henkilöä,
 1) joka työskentelee johtavassa asemassa osakeyhtiössä, jossa hänellä itsellään on vähintään 15 prosenttia tai hänen perheenjäsenillään tai hänellä yhdessä perheenjäsentensä kanssa on vähintään 30 prosenttia osakepääomasta tai osakkeiden tuottamasta äänimäärästä tai muutoin vastaava määräämisvalta; tai
@@ -13,4 +13,4 @@ Omistusosuutta laskettaessa otetaan huomioon myös välillinen toisten yritysten
 
 Henkilön katsotaan olevan johtavassa asemassa yrityksessä, jos hän on osakeyhtiön toimitusjohtaja tai hallituksen jäsen tai jos hän osakeyhtiössä tai muussa yrityksessä tai yhteisössä on vastaavassa asemassa. Perheenjäseneksi katsotaan yrityksessä työskentelevän henkilön puoliso ja henkilö, joka on yrityksessä työskentelevälle henkilölle sukua suoraan ylenevässä tai alenevassa polvessa ja asuu henkilön kanssa samassa taloudessa.
 
-Yrityksessä työskentelemisen vaikutuksesta oikeuteen saada työttömyysetuutta säädetään 2 luvun 4―5 §:ssä.
+Yrityksessä työskentelemisen vaikutuksesta oikeuteen saada työttömyysetuutta säädetään 2 luvun 5–8 §:ssä.

@@ -1,12 +1,14 @@
-# 6 § Opiskelu
+# 6 § Yrityksessä työskentelyn päättyminen
 Osa: I OSA YHTEISET SÄÄNNÖKSET
-Luku: 2 luku Etuuden saamisen työvoimapoliittiset edellytykset
+Luku: 2 luku Etuuden saamisen yleiset työvoimapoliittiset edellytykset
 
-Päätoimisella opiskelijalla ei ole oikeutta työttömyysetuuteen. Rajoitus koskee myös päätoimisen opiskelun lomajaksoja.
+Ellei muuhun arvioon ole aihetta, henkilön työskentelyn yrityksessä katsotaan päättyneen, jos:
+1) henkilön työkyky on alentunut pysyvästi ja olennaisesti;
+2) henkilö on palkansaajaan rinnastettava yrittäjä, jonka toimeksiantosuhde on päättynyt ja jonka ei katsota työllistyvän 5 §:n 1 ja 2 momentissa tarkoitetulla tavalla päätoimisesti mahdollisten muiden toimeksiantojen tekemiseksi; tai
+3) yritystoimintaa on pidettävä kausiluonteisena ja toimintakausi on päättynyt.
 
-Päätoimisina pidetään
-1) opintoja, joiden tavoitteena on alemman tai ylemmän korkeakoulututkinnon tai ammattikorkeakoulututkinnon suorittaminen;
-2) lukio-opintoja, kun niiden oppimäärän mukainen laajuus on yhteensä vähintään 75 kurssia; sisäoppilaitoksessa järjestetyt lukio-opinnot katsotaan kuitenkin aina päätoimisiksi; ja
-3) ammatillisia ja muita opintoja, kun opintojen opintosuunnitelman mukainen laajuus on keskimäärin vähintään kolme opintoviikkoa opiskelukuukautta kohti, tai jollei opintojen laajuutta ole määritelty opintoviikkoina, opetusohjelman mukainen laajuus keskimäärin vähintään 25 viikkotuntia.
+Henkilön työkyvyn katsotaan alentuneen pysyvästi ja olennaisesti, jos hän on saanut enimmäisajan sairausvakuutuslain (1224/2004) mukaista päivärahaa, hänen katsotaan edelleen olevan terveydellisistä syistä kykenemätön työhönsä yrityksessä ja hänen työkyvyttömyyseläkehakemuksensa on vireillä tai hylätty.
 
-Henkilön aloittamaa muuta kuin edellä tarkoitettua opiskelua pidetään päätoimisena opiskeluna, jos opintojen vaatima työmäärä, ottaen huomioon opintojen opetussuunnitelman mukainen laajuus, opiskelun sitovuus, henkilön aikaisempi työssäolo ja aiemmin hankkima koulutus, on niin suuri, että se on esteenä kokoaikaisen työn vastaanottamiselle työmarkkinoilla yleisesti sovellettavin ehdoin.
+Palkansaajaan rinnastettavalla yrittäjällä tarkoitetaan yrittäjää, joka itse osallistuu työsuoritukseen toimeksiantajan määräämällä tavalla, on toimeksiantosuhteessa samoihin harvalukuisiin toimeksiantajiin ja jolla ei ole kiinteää osto- tai myyntipaikkaa tai vastaavaa toimipaikkaa toiminnan harjoittamista varten. Lisäksi edellytetään, ettei hänellä ole viimeksi kuluneen vuoden aikana työnhakijaksi ilmoittautumisesta lukien ollut edellä tarkoitettujen työsuoritusten tekemiseksi palveluksessaan työsuhteessa olevia työntekijöitä muutoin kuin satunnaisesti.
+
+Kausiluonteisena pidetään yritystoimintaa, jota luonnonolosuhteista johtuen on mahdollista harjoittaa keskimäärin yhteensä enintään kuuden kuukauden ajan vuodessa.

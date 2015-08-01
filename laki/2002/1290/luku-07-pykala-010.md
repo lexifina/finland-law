@@ -1,12 +1,17 @@
-# 10 § Omavastuuajan voimassaolo
+# 10 § Omavastuuaika
 Osa: III OSA TYÖMARKKINATUKI
 Luku: 7 luku Työmarkkinatukea koskevat yleiset säännökset
 
-Omavastuuaika on voimassa sen kalenterivuoden loppuun, jona se on kokonaan hankittu.
+Työmarkkinatukea maksetaan sen jälkeen, kun henkilö on ollut työttömänä työnhakijana työ- ja elinkeinotoimistossa yhteensä viittä täyttä työpäivää vastaavan ajan enintään kahdeksan peräkkäisen kalenteriviikon aikana.
 
-Alkavan kalenterivuoden aikana uutta omavastuuaikaa ei edellytetä:
-1) niin kauan kuin henkilö yhdenjaksoisesti saa työmarkkinatukea;
-2) kun omavastuuaika ajoittuu kahdelle kalenterivuodelle;
-3) kun omavastuuaika on täyttynyt kalenterivuoden päättyessä ilman, että työmarkkinatuen maksu on vielä alkanut;
-4) kun oikeus työmarkkinatukeen alkaa uudelleen 14 päivän kuluessa edellisen työmarkkinatukioikeuden päättymisestä; tai
-5) kun henkilö on saanut 3 luvun 4 §:n 5 kohdassa tarkoitettua kuntoutusetuutta tai sairausvakuutuslain mukaista päivärahaa ja palaa uudelleen työttömäksi työnhakijaksi 14 päivän kuluessa edellä tarkoitetun etuuden päättymisen jälkeen.
+Omavastuupäiviksi ei lueta niitä päiviä:
+1) joina henkilö ei täytä työttömyysetuuden saamiselle 2 luvussa säädettyjä edellytyksiä;
+2) joilta henkilöllä ei ole oikeutta työttömyysetuuteen 2 a tai 3 luvussa tarkoitettujen rajoitusten vuoksi;
+3) joilta henkilöllä ei ole oikeutta soviteltuun työttömyysetuuteen 4 luvun 3 §:ssä säädettyjen työaikarajojen ylittymisen vuoksi;
+4) joilta henkilöllä ei ole oikeutta työmarkkinatukeen 2 §:n mukaisen odotusajan vuoksi.
+
+Omavastuuaikaan luetaan kuitenkin 3 luvun 3 §:n 4 momentissa tarkoitettu sairausvakuutuksen päivärahan ja kuntoutusrahan omavastuuaika. Omavastuupäiviksi luetaan myös ne päivät, joilta henkilölle on maksettu 10 luvun perusteella työmarkkinatukea.
+
+Omavastuuaikaa ei kuitenkaan edellytetä, jos henkilö muutoin täyttää työmarkkinatuen saamisen edellytykset ja:
+1) hänen oikeutensa työmarkkinatukeen alkaa välittömästi 6 luvun 7 tai 9 §:ssä tarkoitetun työttömyyspäivärahan enimmäisajan täytyttyä; tai
+2) hänen työntekonsa estyy sellaisen työtaistelutoimenpiteen takia, jolla ei ole riippuvuussuhdetta hänen työehtoihinsa tai työoloihinsa.

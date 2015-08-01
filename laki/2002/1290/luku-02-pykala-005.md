@@ -1,18 +1,17 @@
-# 5 § Yritystoiminnan päättyminen ja keskeytyminen
+# 5 § Yritystoiminta ja oma työ
 Osa: I OSA YHTEISET SÄÄNNÖKSET
-Luku: 2 luku Etuuden saamisen työvoimapoliittiset edellytykset
+Luku: 2 luku Etuuden saamisen yleiset työvoimapoliittiset edellytykset
 
-Päätoimisesti yritystoiminnassa tai omassa työssään 4 §:n 1 tai 2 momentissa tarkoitetulla tavalla työllistyneen henkilön katsotaan edelleen työllistyvän siinä siihen ajankohtaan asti, jona yritystoiminta tai oma työ todistettavasti on lopetettu tai se on ollut yhdenjaksoisesti keskeytyneenä neljän kuukauden ajan. Yritystoiminta tai oma työ on katsottava lopetetuksi konkurssiin asettamisella tai siinä aiemmin työllistyneen henkilön työkyvyn alennuttua olennaisesti tai kun muutoin on ilmeistä, ettei sitä enää jatketa. Yritystoiminta tai oma työ katsotaan todistettavasti keskeytetyksi, kun yhtiön selvitystilan tai yhtiön purkamista koskevan sopimuksen taikka ammatinharjoittajan tekemien ilmoitusten ja toimenpiteiden perusteella on pääteltävissä, että tuotannollinen ja taloudellinen toiminta on keskeytetty. Yritystoiminnan tai oman työn päättymisestä tai keskeytymisestä ja siitä vaadittavista selvityksistä säädetään tarkemmin valtioneuvoston asetuksella.
+Työnhakijalla ei ole oikeutta työttömyysetuuteen siltä ajalta, jona hän työllistyy päätoimisesti yrittäjänä tai sitä vastaavalla tavalla omassa työssään.
 
-Yritystoiminta tai oma työ katsotaan sivutoimiseksi, jos henkilö on ollut vähintään 10 kuukautta kyseiseen yritystoimintaan tai omaan työhön liittymättömässä kokoaikatyössä tai muutoin voidaan päätellä yritystoiminnan tai oman työn vaatiman työmäärän olevan niin vähäinen, ettei se ole esteenä kokoaikaisen työn vastaanottamiselle.
+Henkilön katsotaan työllistyvän yrittäjänä tai sitä vastaavalla tavalla omassa työssään päätoimisesti, jos toiminnan vaatima työmäärä on niin suuri, että se on esteenä kokoaikatyön vastaanottamiselle. Ellei muuhun arvioon ole aihetta, työllistyminen katsotaan sivutoimiseksi ainakin silloin, kun henkilö on ollut vähintään kuusi kuukautta kyseiseen yritystoimintaan tai omaan työhön liittymättömässä kokoaikatyössä.
 
-Yritystoiminnan tai oman työn lopettamista tai neljän kuukauden keskeytystä ei edellytetä, jos:
-1) henkilön päätoiminen työllistyminen on ollut satunnaista;
-2) henkilöä on pidettävä palkansaajaan rinnastettavana yrittäjänä; tai
-3) yritystoimintaa luonnonolosuhteista johtuen on pidettävä kausiluonteisena.
+Ellei muuhun arvioon ole aihetta, yritystoiminta katsotaan aloitetuksi, kun yritys on:
+1) aloittanut varsinaisen tuotannollisen tai taloudellisen toiminnan;
+2) merkitty arvonlisäverovelvollisten rekisteriin;
+3) merkitty ennakkoperintärekisteriin; tai
+4) merkitty Verohallinnon työnantajarekisteriin.
 
-Henkilön päätoimisen työllistymisen katsotaan olleen satunnaista, jos hän on 1 luvun 6 §:n 4 momentissa tarkoitettu perheenjäsen, jolla itsellään ei ole ollut määräysvaltaa yrityksessä ja joka on työllistynyt yrityksessä tai omassa työssä yhteensä enintään kuuden kuukauden ajan.
-
-Palkansaajaan rinnastettavalla yrittäjällä tarkoitetaan yrittäjää, joka itse osallistuu työsuoritukseen ja on pysyvässä toimeksiantosuhteessa pääsääntöisesti yhteen toimeksiantajaan, jonka välittömän johdon ja valvonnan alainen hän on. Lisäksi edellytetään, ettei hänellä ole viimeksi kuluneen vuoden aikana työnhakijaksi ilmoittautumisesta lukien ollut yhteensä enempää kuin yksi ulkopuolinen työntekijä kerrallaan palveluksessaan.
-
-Kausiluonteisena pidetään yritystoimintaa, jota on keskimäärin mahdollista harjoittaa yhteensä enintään kuuden kuukauden ajan vuodessa. Lisäksi edellytetään, ettei kausiluonteisesta yritystoiminnasta saatu tulo turvaa eikä ole tarkoitettu turvaamaan ympärivuotista toimeentuloa.
+Päätoimisesti yrittäjänä tai omassa työssä työllistyneen henkilön katsotaan edelleen työllistyvän päätoimisesti yrittäjänä tai omassa työssä siihen ajankohtaan asti, jona:
+1) henkilön työskentely yrityksessä on päättynyt tai yritystoiminta tai oma työ on lopetettu 6–9 §:ssä tarkoitetulla tavalla; taikka
+2) henkilö osoittaa 2 momentissa tarkoitetulla tavalla työssäolollaan, ettei työllistyminen yrittäjänä tai omassa työssä ole esteenä kokoaikatyön vastaanottamiselle.

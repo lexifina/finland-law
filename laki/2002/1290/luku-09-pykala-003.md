@@ -1,15 +1,9 @@
-# 3 § Tarveharkinnassa huomioon otettavat tulot
+# 3 § Rajoitukset ja takaisinperintä
 Osa: III OSA TYÖMARKKINATUKI
-Luku: 9 luku Työmarkkinatuen määrä ja kesto
+Luku: 9 luku Työllistymisraha
 
-Taloudellisen tuen tarvetta harkittaessa otetaan huomioon henkilön omat tulot kokonaan ja hänen puolisonsa tulot 236 euroa ylittävältä osalta kuukaudessa. Tulot vahvistetaan käyttäen hyväksi verotuksessa todettuja tuloja. Työmarkkinatuki määrätään kuitenkin tuen maksamisajankohdan tilannetta vastaavaksi joko arvioitujen tai muutoin todettavissa olevien tulojen perusteella. Valtioneuvoston asetuksella säädetään tarkemmin tarveharkinnassa huomioon otettavista tuloista.
+Henkilöllä ei ole oikeutta työllistymisrahaan jos:
+1) hän työllistyy työhön, johon maksetaan julkisesta työvoima- ja yrityspalvelusta annetun lain 7 luvun 1 §:ssä tarkoitettua palkkatukea; tai
+2) hänellä on oikeus tämän lain 7 luvun 3 §:ssä tarkoitettuun matka-avustukseen.
 
-Tarveharkinnan tuloina ei oteta huomioon (etuoikeutetut tulot):
-1) lapsilisää;
-2) lasten kotihoidon ja yksityisen hoidon tuesta annetun lain mukaista kotihoidon tukea;
-3) asumistukea;
-4) sotilasavustusta;
-5) sotilasvammalain mukaista elinkorkoa ja täydennyskorkoa;
-6) perhe-eläkelain (38/1969) mukaista täydennysmäärää;
-7) toimeentulotuesta annetun lain mukaista toimeentulotukea; sekä
-8) vian, vamman tai haitan perusteella maksettavaa erityisten kustannusten korvausta.
+Jos henkilö kolmen kuukauden kuluessa työsuhteen alkamisesta eroaa siitä tai omalla menettelyllään aiheuttaa työsuhteen päättymisen, Kansaneläkelaitos perii työllistymisrahan kokonaisuudessaan takaisin. Työllistymisrahaa ei kuitenkaan peritä takaisin, jos työ- ja elinkeinotoimisto arvioi, että työsuhteen päättymiseen on ollut hyväksyttävä syy. Osa-aikatyössä olevan oikeudesta soviteltuun työttömyysetuuteen säädetään 4 luvussa ja takaisinperinnästä 11 luvussa.

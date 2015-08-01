@@ -1,9 +1,17 @@
 # 1 § Työtön työnhakija
 Osa: I OSA YHTEISET SÄÄNNÖKSET
-Luku: 2 luku Etuuden saamisen työvoimapoliittiset edellytykset
+Luku: 2 luku Etuuden saamisen yleiset työvoimapoliittiset edellytykset
 
-Työttömyysetuuteen on tässä laissa säädetyin edellytyksin oikeus kokoaikatyötä vailla olevalla ja sitä hakevalla työttömällä työnhakijalla, joka on työmarkkinoiden käytettävissä niillä yleisesti sovellettavin ehdoin, ja jolle ei ole tarjolla työtä tai ei voida osoittaa koulutusta. Työkyvyttömyyseläkettä osaeläkkeenä saavalla työnhakijalla on oikeus työttömyysetuuteen, vaikka hän ei hae kokoaikatyötä.
+Työttömyysetuuteen on tässä laissa säädetyin edellytyksin oikeus kokoaikatyötä hakevalla työttömällä työnhakijalla. Työkyvyttömyyseläkettä osaeläkkeenä saavalla työnhakijalla on oikeus työttömyysetuuteen, vaikka hän ei hae kokoaikatyötä.
 
-Työttömänä pidetään henkilöä, joka ei ole työsuhteessa tai päätoimisesti työllisty yrittäjänä tai omassa työssä. Työttömänä pidetään lisäksi kokoaikaisesti lomautettua ja jäljempänä 4 luvun 1 §:ssä tarkoitettua henkilöä. Työnhakijana pidetään työhallinnon asiakaspalvelun tietojärjestelmään työnhakijaksi rekisteröityä henkilöä, joka on pitänyt työhakemuksensa työvoimatoimistossa voimassa siten kuin julkisesta työvoimapalvelusta annetussa laissa säädetään, ja joka on ilmoittanut työvoimatoimistolle työtarjouksia ja muita yhteydenottoja varten postiosoitteensa ja mahdolliset muut yhteystietonsa, joiden avulla hänet voidaan viivytyksettä tavoittaa.
+Työttömänä pidetään henkilöä, joka ei ole työsuhteessa tai päätoimisesti työllisty yrittäjänä tai omassa työssä. Työttömänä pidetään lisäksi kokoaikaisesti lomautettua, 4 luvun 1 ja 1 a §:ssä tarkoitettua henkilöä sekä henkilöä, jolla on 1 luvun 5 §:n 1 momentin 14 kohdassa tarkoitettu lomautukseen rinnastettava syy työnteon ja palkanmaksun keskeytymiseen. Työttömänä pidetään myös henkilöä, joka on itse hakemallaan työvapaalla, jos:
+1) hän on vastaanottanut vapaan ajaksi kokoaikatyön, jonka oli tarkoitus kestää vähintään haetun vapaan päättymiseen asti;
+2) 1 kohdassa tarkoitettu työ päättyy eikä työn päättyminen ole 2 a luvun 1 §:n 1 momentissa tarkoitetulla tavalla hänen syytään tai hänet lomautetaan; ja
+3) työvapaan keskeyttäminen ei ole mahdollista hänestä riippumattomasta syystä.
 
-Kokoaikatyötä hakevana pidetään työnhakijaa, jonka työhakemuksen ja mahdollisen työnhakusuunnitelman tavoitteena on työllistyminen kokoaikatyöhön.
+Työnhakijana pidetään henkilöä, joka ilmoittaa työ- ja elinkeinotoimistolle työtarjouksia ja muita yhteydenottoja varten postiosoitteensa ja mahdolliset muut yhteystietonsa, joiden avulla hänet voidaan viivytyksettä tavoittaa, ja joka julkisesta työvoima- ja yrityspalvelusta annetussa laissa säädetyllä tavalla:
+1) on rekisteröity työnhakijaksi työ- ja elinkeinotoimiston asiakastietojärjestelmään;
+2) on pitänyt työnhakunsa työ- ja elinkeinotoimistossa voimassa;
+3) asioi työ- ja elinkeinotoimistossa toimiston edellyttämällä tavalla.
+
+Kokoaikatyötä hakevana pidetään työnhakijaa, jonka työnhaun ja mahdollisen työllistymissuunnitelman tavoitteena on työllistyminen kokoaikatyöhön.

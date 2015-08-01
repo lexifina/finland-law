@@ -2,6 +2,16 @@
 Osa: II OSA TYÖTTÖMYYSPÄIVÄRAHA
 Luku: 5 luku Työttömyyspäivärahan saamisen edellytykset
 
-Yrittäjän työssäoloehto täyttyy, kun henkilö lähinnä edellisten 48 kuukauden aikana (tarkastelujakso) on työskennellyt yhteensä 24 kuukautta yrittäjänä siten, että yritystoiminta on ollut laajuudeltaan olennaista. Valtioneuvoston asetuksella säädetään tarkemmin siitä yrittäjien eläkelain tai maatalousyrittäjien eläkelain mukaisen vakuutuksen työtulosta sekä työntekijäin eläkelain mukaisesta työansiosta, joka osoittaa, että yritystoiminta on laajuudeltaan olennaista.
+Yrittäjän työssäoloehto täyttyy, kun henkilö lähinnä edellisten 48 kuukauden aikana (tarkastelujakso) on työskennellyt vähintään 15 kuukautta yrittäjänä. Työssäoloehtoon luetaan sellaiset kuukaudet, joina henkilön yrittäjän eläkelain tai maatalousyrittäjän eläkelain mukainen työtulo taikka työntekijän eläkelain mukainen työansio on ollut yhteensä vähintään 1 000 euroa kuukaudessa. Työssäoloehtoon luetaan vähintään neljä kuukautta kestäneet työskentelyjaksot, ja kukin yrittäjänä työskennelty jakso luetaan yrittäjän työssäoloehtoon vain kerran. Työssäoloehtoon ei lueta työtä, jota henkilö on tehnyt osasairauspäivärahaa saadessaan.
 
-Jos henkilö sairauden, laitoshoidon, kuntoutuksen, asevelvollisuuden, siviilipalveluksen, päätoimisten opintojen, lapsen syntymän, enintään 3-vuotiaan lapsen hoidon tai muun näihin verrattavan hyväksyttävän syyn johdosta on estynyt olemasta työmarkkinoilla, edellä 1 momentissa mainittua tarkastelujaksoa pidennetään vastaavasti, kuitenkin enintään seitsemän vuotta.
+Tarkastelujaksoa pidennetään ajalla, jonka henkilö on estynyt olemasta työmarkkinoilla, jos syynä tähän on:
+1) sairaus, laitoshoito tai kuntoutus;
+2) asevelvollisuus tai siviilipalvelus;
+3) päätoimiset opinnot;
+4) lapsen syntymä tai enintään 3-vuotiaan lapsen hoito;
+5) apurahakausi;
+6) muu näihin verrattava hyväksyttävä syy.
+
+Jos henkilö on työskennellyt osasairauspäivärahaa saadessaan tai on ollut työllistymistä edistävässä palvelussa, tarkastelujaksoa pidennetään vastaavasti.
+
+Tarkastelujaksoa pidennetään enintään seitsemän vuotta.

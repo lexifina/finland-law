@@ -1,9 +1,17 @@
-# 13 § Ammattitaitosuoja
+# 13 § Ammatillisia valmiuksia antavaa koulutusta vailla olevan nuoren oikeus työttömyysetuuteen
 Osa: I OSA YHTEISET SÄÄNNÖKSET
-Luku: 2 luku Etuuden saamisen työvoimapoliittiset edellytykset
+Luku: 2 luku Etuuden saamisen yleiset työvoimapoliittiset edellytykset
 
-Ammattitaitoinen henkilö voi menettämättä oikeuttaan työttömyysetuuteen kolmen ensimmäisen työttömyyskuukauden aikana kieltäytyä työstä, jota ei voida pitää hänen ammattitaitonsa huomioon ottaen hänelle sopivana. Ammattitaitoisena pidetään henkilöä, jolla on joko ammatillinen koulutus sekä siihen liittyvä vähintään vuoden työkokemus tai vastaavasti on saavuttanut ammattitaidon vähintään kahden vuoden työkokemuksella kyseisellä ammattialalla.
+Alle 25-vuotiaan nuoren, joka ei ole suorittanut peruskoulun tai lukion jälkeistä tutkintoon johtavaa, ammatillisia valmiuksia antavaa koulutusta (koulutusta vailla oleva nuori), on tullut hakea edellisessä syyslukukaudella alkavia opintoja koskevassa haussa vähintään kahta opiskelupaikkaa, joiden opiskelijaksi ottamisen perusteet nuori täyttää. Opinnot voivat olla tutkintoon johtavaa, ammatillisia valmiuksia antavaa koulutusta tai ainoastaan peruskoulun oppimäärän suorittaneella 10 §:n 2 momentin 2 kohdassa tarkoitettuja lukio-opintoja. Koulutukseen hakeutumisvelvollisuutta ei voi täyttää hakeutumalla työvoimakoulutukseen. Syyslukukauden katsotaan alkavan 1 päivänä syyskuuta.
 
-Jos työnhakija edellä tarkoitetun kolmen kuukauden aikana tekee työsopimuksen ammattitaitonsa huomioon ottaen sopivasta työstä, joka alkaa kolmen kuukauden kuluessa työsopimuksen tekemisestä, hänellä on pätevä syy tänä aikana kieltäytyä sellaisesta työstä, joka olisi esteenä työsopimuksessa tarkoitetun työn vastaanottamiselle.
+Koulutusta vailla olevalla nuorella ei ole oikeutta työttömyyden perusteella maksettavaan työttömyysetuuteen:
+1) syyslukukauden alkamisesta lukien, jos hän on ilman pätevää syytä:
+a) jättänyt hakematta opiskelupaikkaa 1 momentissa tarkoitetulla tavalla;
+b) omalla menettelyllään aiheuttanut, ettei tule valituksi 1 momentissa tarkoitettuun opiskelupaikkaan;
+c) muulla tavalla kieltäytynyt 1 momentissa tarkoitetusta opiskelupaikasta;
+2) siitä lukien, kun hän ilman pätevää syytä jättää aloittamatta muulloin kuin syyslukukaudella alkavan peruskoulun tai lukion jälkeisen, tutkintoon johtavan ammatillisia valmiuksia antavan koulutuksen tai muulloin kuin syyslukukaudella alkavat 10 §:n 2 momentin 2 kohdassa tarkoitetut lukio-opinnot;
+3) keskeyttämisestä lukien, jos hän on ilman pätevää syytä keskeyttänyt peruskoulun tai lukion jälkeisen, tutkintoon johtavan ammatillisia valmiuksia antavan koulutuksen tai 10 §:n 2 momentin 2 kohdassa tarkoitetut lukio-opinnot taikka vastaavat opinnot ulkomailla.
 
-Ammattitaitosuoja voidaan poistaa, jos työnhakijan työssäkäyntialueella ei työvoimaviranomaisen arvion mukaan ole kolmen ensimmäisen työttömyyskuukauden aikana osoitettavissa hänen ammattitaitonsa huomioon ottaen hänelle sopivaa työtä. Työvoimatoimiston on annettava tieto ammattitaitosuojan poistamisesta työnhakijalle. Jos työnhakija ei tällöin ota vastaan ammattitaitonsa huomioon ottaen sopivaa työtä muualta eikä myöskään muuta työtä työssäkäyntialueeltaan, katsotaan hänen kieltäytyneen työstä 12 §:ssä tarkoitetulla tavalla.
+Koulutusta vailla oleva nuori, joka on menetellyt 2 momentin 1 kohdan a tai b alakohdassa tarkoitetulla tavalla ja on työllistymistä edistävässä palvelussa syyslukukauden alkaessa, menettää oikeutensa työttömyysetuuteen 2 momentista poiketen työllistymistä edistävän palvelun päättymisestä lukien.
+
+Alle 18-vuotiaalla nuorella, joka ei ole suorittanut peruskoulun tai lukion jälkeistä tutkintoon johtavaa, ammatillisia valmiuksia antavaa koulutusta, ei ole oikeutta työttömyyden perusteella maksettavaan työmarkkinatukeen.

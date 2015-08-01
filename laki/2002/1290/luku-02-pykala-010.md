@@ -1,11 +1,15 @@
-# 10 § Pätevä syy työstä eroamiseen
+# 10 § Opiskelu
 Osa: I OSA YHTEISET SÄÄNNÖKSET
-Luku: 2 luku Etuuden saamisen työvoimapoliittiset edellytykset
+Luku: 2 luku Etuuden saamisen yleiset työvoimapoliittiset edellytykset
 
-Henkilöllä on pätevä syy erota työstä työsopimuslain 8 luvun 1 §:n 2 momentissa (purkamisperuste) tarkoitetuissa tapauksissa, tai silloin, kun työtä hänen työkykynsä huomioon ottaen ei voida pitää sopivana.
+Päätoimisella opiskelijalla ei ole oikeutta työttömyysetuuteen. Rajoitus koskee myös päätoimisen opiskelun lomajaksoja.
 
-Jos henkilö on ottanut vastaan sellaista työtä, jota ei voida pitää hänen ammattitaitonsa huomioon ottaen hänelle sopivana, hänellä on pätevä syy erota sanotusta työstä sinä aikana, jona hänellä olisi ollut 13 §:n nojalla oikeus menettämättä oikeuttaan työttömyysetuuteen kieltäytyä ottamasta vastaan sanottua työtä.
+Päätoimisina pidetään:
+1) opintoja, joiden tavoitteena on ammattikorkeakoulututkinnon, ylemmän ammattikorkeakoulututkinnon taikka yliopistossa suoritettavan alemman tai ylemmän korkeakoulututkinnon suorittaminen;
+2) lukio-opintoja, joiden oppimäärän mukainen laajuus on yhteensä vähintään 75 kurssia; sisäoppilaitoksessa järjestetyt lukio-opinnot katsotaan kuitenkin aina päätoimisiksi;
+3) muita kuin 1 ja 2 kohdassa tarkoitettuja opintoja, joiden opintosuunnitelman mukainen laajuus on keskimäärin vähintään viisi opintopistettä, kolme opintoviikkoa tai 4,5 osaamispistettä opiskelukuukautta kohti; sekä
+4) muita kuin 1–3 kohdassa tarkoitettuja opintoja, joiden opetusohjelman mukainen laajuus on keskimäärin vähintään 25 viikkotuntia.
 
-Henkilöllä on pätevä syy erota työstä 4 luvun 6 §:n 1 momentissa tarkoitetun sovitellun työttömyysetuuden enimmäisajan täytyttyä.
+Työnhakijaa ei pidetä päätoimisena opiskelijana, jos opiskeluaikaisen vakiintuneen työssäolon tai yritystoiminnan harjoittamisen perusteella voidaan katsoa, ettei opiskelu ole esteenä kokoaikaisen työn vastaanottamiselle.
 
-Henkilöllä on oikeus erota työstä menettämättä oikeutta työttömyysetuuteen myös muusta kuin edellä 1―3 momentissa tarkoitetusta syystä, jos se on pätevyydeltään verrattavissa näihin.
+Jos työvoimakoulutuksena järjestetyt opinnot, työttömyysetuudella tuetut työnhakijan omaehtoiset opinnot tai kotoutumisen edistämisestä annetun lain 22–24 §:ssä tarkoitetut omaehtoiset opinnot on järjestetty jaksoissa, työnhakijaa ei kyseisten opintojen perusteella pidetä päätoimisena opiskelijana jaksojen välisenä aikana.

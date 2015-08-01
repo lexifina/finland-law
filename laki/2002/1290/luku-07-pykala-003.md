@@ -1,7 +1,7 @@
-# 3 § Työmarkkinatuki työvoimapoliittisen toimenpiteen aikana
+# 3 § Oikeus työmarkkinatukeen matka-avustuksena
 Osa: III OSA TYÖMARKKINATUKI
 Luku: 7 luku Työmarkkinatukea koskevat yleiset säännökset
 
-Työmarkkinatukea maksetaan siihen oikeutetulle henkilölle ajalta, jona hän osallistuu työvoimapoliittiseen toimenpiteeseen. Työmarkkinatuen maksamisesta ilman tarveharkintaa työvoimapoliittiseen toimenpiteeseen osallistuvalle säädetään 9 luvun 5 §:ssä.
+Työmarkkinatuki voidaan myöntää matka-avustuksena työmarkkinatukeen oikeutetulle henkilölle, joka ottaa vastaan vähintään kaksi kuukautta kestävän kokoaikatyön työssäkäyntialueensa ulkopuolella ja jolle työn vastaanottamisesta aiheutuu huomattavia kustannuksia. Matka-avustuksena maksettavaan työmarkkinatukeen oikeutettuna pidetään henkilöä, joka saa työmarkkinatukea tai jolle ei makseta työmarkkinatukea 10 luvun 2 §:ssä mainitusta syystä. Matka-avustusta on haettava ennen työsuhteen alkamista.
 
-Työnhakijalla on oikeus työmarkkinatukeen ajalta, jona hän osallistuu ulkomailla järjestettävään työvoimapoliittiseen toimenpiteeseen sen estämättä, mitä 2 luvun 3 §:ssä ulkomaanmatkasta työmarkkinoilla olon esteenä säädetään.
+Matka-avustusta ei myönnetä sellaisen työsuhteen perusteella, jonka palkkauskustannuksiin työnantajalle on myönnetty julkisesta työvoima- ja yrityspalvelusta annetun lain 7 luvun 1 §:ssä tarkoitettua palkkatukea.

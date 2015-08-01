@@ -1,12 +1,11 @@
-# 4 § Työmarkkinatuki kotoutumistukena
+# 4 § Työmarkkinatuen määrä
 Osa: III OSA TYÖMARKKINATUKI
 Luku: 7 luku Työmarkkinatukea koskevat yleiset säännökset
 
-Työmarkkinatukeen kotoutumistukena on oikeus työttömällä maahanmuuttajalla, joka:
-1) täyttää 1 §:n 1 momentissa tarkoitetut edellytykset;
-2) noudattaa maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetussa laissa (493/1999) tarkoitettua kotoutumissuunnitelmaa ottaen huomioon, mitä 8 luvun 3 §:n 2 momentissa ja 5 §:ssä säädetään; ja
-3) täyttää maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain 14 §:n 1 momentissa säädetyt edellytykset.
+Täysimääräinen työmarkkinatuki on 6 luvun 1 §:n 1 momentissa tarkoitetun peruspäivärahan suuruinen ja työmarkkinatuen korotusosa 6 luvun 1 §:n 2 momentissa tarkoitetun peruspäivärahan korotusosan suuruinen.
 
-Työmarkkinatukeen oikeutetulle maksetaan työmarkkinatukea kotoutumistukena myös maahanmuuttajien kotouttamisesta ja turvapaikanhakijoiden vastaanotosta annetun lain 11 §:ssä tarkoitettuun kotoutumissuunnitelmaan sisältyvien toimenpiteiden ajalta. Maahanmuuttajan kotoutumistoimenpiteiden rinnastamisesta työvoimapoliittisiin toimenpiteisiin säädetään mainitussa laissa ja sen nojalla.
+Työmarkkinatuen saajalle maksetaan lapsikorotusta siten kuin 6 luvun 6 §:ssä säädetään.
 
-Maahanmuuttajalla ei ole oikeutta työmarkkinatukeen viimeksi mainitun lain 10 §:n 2 momentissa tarkoitetun kolmen vuoden ajalta muutoin kuin kotoutumistukena.
+Työmarkkinatuen määrä lasketaan ottaen huomioon, mitä 4 luvussa säädetään.
+
+Matka-avustuksena maksetaan 1 ja 2 momentissa tarkoitettu työmarkkinatuki ilman työmarkkinatuen korotusosaa.

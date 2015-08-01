@@ -1,7 +1,11 @@
-# 5 § Koulutuspäivärahan määrä
-Osa: IV OSA KOULUTUSPÄIVÄRAHA
-Luku: 10 luku Koulutuspäivärahaa koskevat säännökset
+# 5 § Työvoimakoulutusta koskevat erityissäännökset
+Osa: IV OSA Työllistymistä edistävät palvelut
+Luku: 10 luku Työllistymistä edistävien palvelujen ajalta maksettavaa etuutta koskevat säännökset
 
-Koulutuksen ajalta opiskelijalla on oikeus koulutuspäivärahaan. Koulutuspäivärahana maksetaan sitä tämän lain mukaista työttömyysetuutta, jota koskevia säännöksiä henkilöön sovellettaisiin hänen työttömänä ollessaan.
+Työvoimakoulutukseen osallistuvalle maksetaan koulutuksen ajalta työttömyysetuutta kuten 2 §:ssä säädetään työttömän oikeudesta työttömyysetuuteen, vaikka:
+1) hänet on 2 luvun 5 §:n nojalla katsottava päätoimiseksi yrittäjäksi; tai
+2) hän ei ole työtön tai lomautettu, jos hän on työttömyysuhan alainen.
 
-Koulutuspäivärahaan ei sovelleta 6 luvun 3 §:n 3 momenttia. Koulutuspäiväraha maksetaan 6 luvun 2 §:n 2 momentin mukaisesti korotettuna myös sellaiselle henkilölle, joka on saanut ansiopäivärahan korotettua ansio-osaa 150 päivältä.
+Jos opiskelijalla on oikeus työttömyysetuuteen 1 momentin 1 kohdan perusteella, hänelle maksetaan koulutuksen ajalta peruspäivärahaa, ansiopäivärahan perusosaa tai työmarkkinatukea sekä lapsikorotusta. Jos opiskelijalla on oikeus työttömyysetuuteen 1 momentin 2 kohdan perusteella, hänellä on oikeus myös 6 luvun 2 §:n 1 momentin mukaiseen ansiopäivärahan ansio-osaan.
+
+Jos koulutus järjestetään jaksotettuna erillisiin kokonaisuuksiin siten, että koulutusjaksot eivät liity yhtäjaksoisesti toisiinsa, opiskelija ei ole koulutusjaksojen välisenä aikana työvoimakoulutuksessa.

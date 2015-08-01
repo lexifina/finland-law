@@ -2,8 +2,10 @@
 Osa: II OSA TYÖTTÖMYYSPÄIVÄRAHA
 Luku: 5 luku Työttömyyspäivärahan saamisen edellytykset
 
-Työttömyyspäivärahaa maksetaan sen jälkeen, kun henkilö on ollut työttömänä työnhakijana työvoimatoimistossa yhteensä seitsemää täyttä työpäivää vastaavan ajan enintään kahdeksan peräkkäisen kalenteriviikon aikana. Omavastuuaika asetetaan kerran 6 luvun 7 §:ssä tarkoitettua työttömyyspäivärahan enimmäisaikaa kohti.
+Työttömyyspäivärahaa maksetaan sen jälkeen, kun henkilö on ollut työttömänä työnhakijana työ- ja elinkeinotoimistossa yhteensä viittä täyttä työpäivää vastaavan ajan enintään kahdeksan peräkkäisen kalenteriviikon aikana. Omavastuuaika asetetaan kerran 6 luvun 7 §:ssä säädettyä työttömyyspäivärahan enimmäisaikaa kohti.
 
-Omavastuupäiviksi ei voida lukea niitä päiviä, joina henkilö ei täytä päivärahan saamiselle 2 luvussa säädettyjä edellytyksiä tai joilta henkilöllä ei ole oikeutta päivärahaan 3 luvussa tarkoitettujen rajoitusten vuoksi taikka oikeutta soviteltuun päivärahaan 4 luvun 3 §:ssä säädettyjen työaikarajojen ylittymisen vuoksi. Omavastuuaikaan luetaan kuitenkin 3 luvun 4 §:ssä tarkoitettu sairausvakuutuksen päivärahan ja kuntoutusrahan omavastuuaika.
+Omavastuuaikaa ei kuitenkaan aseteta, jos päivärahakauden enimmäisaika alkaisi vuoden kuluessa edellisen enimmäisajan alkamisesta ja jos omavastuuaika on asetettu edellisen päivärahakauden enimmäisajan alkaessa.
 
-Henkilöllä on 1 ja 2 momentista huolimatta oikeus työttömyyspäivärahaan, jos työnteon estymisen syynä on toisten työntekijöiden työtaistelutoimenpide, jolla ei ole riippuvuussuhdetta hänen työehtoihinsa tai työoloihinsa ja jos hän muutoin täyttää työttömyyspäivärahan saamisen edellytykset.
+Omavastuupäiviksi ei lueta niitä päiviä, joina henkilö ei täytä ansio- tai peruspäivärahan saamiselle 2 luvussa säädettyjä edellytyksiä tai joilta henkilöllä ei ole oikeutta työttömyyspäivärahaan 2 a tai 3 luvussa tarkoitettujen rajoitusten vuoksi taikka oikeutta soviteltuun työttömyyspäivärahaan 4 luvun 3 §:ssä säädettyjen työaikarajojen ylittymisen vuoksi. Omavastuuaikaan luetaan kuitenkin 3 luvun 3 §:n 4 momentissa tarkoitettu sairausvakuutuksen päivärahan ja kuntoutusrahan omavastuuaika. Omavastuupäiviksi luetaan myös ne päivät, joilta henkilölle on maksettu työttömyysetuutta 10 luvun perusteella.
+
+Henkilöllä on 1–3 momentista huolimatta oikeus työttömyyspäivärahaan, jos työnteon estymisen syynä on sellainen työtaistelutoimenpide, jolla ei ole riippuvuussuhdetta hänen työehtoihinsa tai työoloihinsa ja jos hän muutoin täyttää työttömyyspäivärahan saamisen edellytykset.

@@ -1,4 +1,5 @@
 # 2 § Kumottavat säädökset
+Osa: VI OSA ERINÄISET SÄÄNNÖKSET
 Luku: 15 luku Voimaantulosäännökset
 
 Tällä lailla kumotaan niihin myöhemmin tehtyine muutoksineen:

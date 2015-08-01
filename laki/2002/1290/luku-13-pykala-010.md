@@ -2,7 +2,7 @@
 Osa: VI OSA ERINÄISET SÄÄNNÖKSET
 Luku: 13 luku Tietojen saamista ja luovuttamista koskevat säännökset
 
-Etuudensaajarekisteri on Vakuutusvalvontaviraston henkilörekisteri, joka toimii työttömyyskassojen maksamia etuuksia koskevana perusrekisterinä. Etuudensaajarekisteriin kerättyjä tietoja saa käyttää vain:
+Etuudensaajarekisteri on Finanssivalvonnan henkilörekisteri, joka toimii työttömyyskassojen maksamia etuuksia koskevana perusrekisterinä. Etuudensaajarekisteriin kerättyjä tietoja saa käyttää vain:
 1) työttömyyskassojen valvontaan;
 2) työttömyyskassojen maksamien etuuksien tilastointiin;
 3) työttömyyskassojen maksamiin etuuksiin liittyvien väärinkäytösten selvittämiseen; sekä
@@ -16,4 +16,4 @@ Rekisteriin saadaan kerätä ja tallentaa työttömyysetuuksien maksatusjärjest
 
 Henkilötietojen säilytysaika ja rekisteröityjen oikeusturva määräytyvät henkilötietolain (523/1999) nojalla.
 
-Vakuutusvalvontaviraston oikeudesta saada ja luovuttaa tietoja säädetään työttömyyskassalaissa.
+Finanssivalvonnan oikeudesta saada ja luovuttaa tietoja säädetään Finanssivalvonnasta annetussa laissa (878/2008) ja työttömyyskassalaissa.

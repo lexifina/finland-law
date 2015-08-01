@@ -1,5 +1,5 @@
 # 15 § Työttömyysetuuden ulosmittaus
-Osa: V OSA TOIMEENPANO JA MUUTOKSEN- HAKU
+Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 11 luku Toimeenpanoa koskevat säännökset
 
 Peruspäivärahaa ja työmarkkinatukea ei saa ulosmitata.

@@ -1,9 +1,7 @@
-# 5 § Matka-avustus
+# 5 § Oikeus työmarkkinatuen korotusosaan työllistymistä edistävien palvelujen ajalta
 Osa: III OSA TYÖMARKKINATUKI
 Luku: 7 luku Työmarkkinatukea koskevat yleiset säännökset
 
-Työvoimatoimisto voi määrätä matka-avustuksen maksettavaksi työnmarkkinatukeen oikeutetulle henkilölle, joka ottaa vastaan vähintään kuusi kuukautta kestävän kokoaikatyön työssäkäyntialueensa ulkopuolella, ja jolle työn vastaanottamisesta aiheutuu huomattavia kustannuksia.
+Korotusosaa maksetaan työllistymissuunnitelmassa tai työllistymissuunnitelmaa korvaavassa suunnitelmassa sovittujen työllistymistä edistävien palvelujen ajalta. Korotusosaa maksetaan myös työllistymissuunnitelmassa tai työllistymissuunnitelmaa korvaavassa suunnitelmassa sovittujen työllistymistä edistävien palvelujen väliseltä ajalta, jos näiden palvelujen välinen aika on enintään seitsemän kalenteripäivää.
 
-Matka-avustusta ei myönnetä sellaisen työsuhteen perusteella:
-1) jonka palkkauskustannuksiin työnantajalle on myönnetty tukea työllisyysmäärärahoista tai yhdistelmätukea; tai
-2) joka on alkanut ennen kuin työvoimaviranomainen on antanut avustuksen myöntämisestä työvoimapoliittisen lausunnon.
+Korotusosaa maksetaan enintään 200 päivältä. Korotusosan maksaminen aloitetaan alusta, kun henkilö on tullut työssäoloehdon ja työttömyyspäivärahan enimmäisajan täyttymisen jälkeen uudelleen oikeutetuksi työmarkkinatukeen.

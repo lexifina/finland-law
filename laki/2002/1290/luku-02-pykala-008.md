@@ -1,11 +1,14 @@
-# 8 § Työmarkkinoiden käytettävissä olo
+# 8 § Yritystoiminnan lopettaminen
 Osa: I OSA YHTEISET SÄÄNNÖKSET
-Luku: 2 luku Etuuden saamisen työvoimapoliittiset edellytykset
+Luku: 2 luku Etuuden saamisen yleiset työvoimapoliittiset edellytykset
 
-Työnhakijalla, joka ei ole työmarkkinoiden käytettävissä, ei ole oikeutta työttömyysetuuteen.
-
-Työnhakija ei ole työmarkkinoiden käytettävissä, jos hän itse asettaa sellaisia rajoituksia, jotka estävät tarjotun työn vastaanottamisen työmarkkinoilla yleisesti sovellettavin ehdoin tai estävät osallistumisen tarjottuun hänelle soveltuvaan koulutukseen. Työnhakijalle on työtä tai koulutusta tarjottaessa varattava kohtuullinen aika lastenhoidon järjestämiseen sekä kulkuvaikeuksien ja muiden vastaavien rajoitusten poistamiseen.
-
-Työnhakija ei ole työmarkkinoiden käytettävissä, jos hän on edellä tarkoitettujen rajoitusten vuoksi eronnut työstä tai koulutuksesta.
-
-Työnhakijan on katsottava olevan jälleen työmarkkinoiden käytettävissä, kun hän työstä tai koulutuksesta kieltäytymisen tai eroamisen jälkeen on työssäolollaan tai muulla luotettavalla tavalla osoittanut poistaneensa edellä tarkoitetut rajoitukset.
+Ellei muuhun arvioon ole aihetta, yritystoiminta katsotaan lopetetuksi, jos:
+1) tuomioistuin on velallisen tai velkojan aloitteesta tehnyt päätöksen konkurssiin asettamisesta;
+2) osakeyhtiö tai osuuskunta on asetettu selvitystilaan;
+3) muun yhtiön kuin osakeyhtiön purkamisesta on tehty kaikkien yhtiömiesten kesken sopimus;
+4) tuotannollinen ja taloudellinen toiminta on päättynyt ja henkilö on:
+a) luopunut yrittäjän eläkelain tai maatalousyrittäjän eläkelain mukaisesta eläkevakuutuksesta;
+b) jättänyt Verohallinnolle ilmoituksen yrityksen poistamiseksi ennakkoperintärekisteristä;
+c) jättänyt Verohallinnolle ilmoituksen yrityksen poistamiseksi työnantajarekisteristä; ja
+d) jättänyt Verohallinnolle joko ilmoituksen yrityksen poistamiseksi arvonlisäverovelvollisten rekisteristä tai yritystoiminnan keskeytymisestä; tai
+5) muiden 1–4 kohdassa mainittuihin verrattavien seikkojen perusteella on ilmeistä, että tuotannollinen ja taloudellinen toiminta on kokonaan päättynyt.

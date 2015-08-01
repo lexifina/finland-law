@@ -1,5 +1,5 @@
 # 4 § Itseoikaisu
-Osa: V OSA TOIMEENPANO JA MUUTOKSEN- HAKU
+Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 12 luku Muutoksenhaku
 
 Jos Kansaneläkelaitos tai työttömyyskassa hyväksyy kaikilta osin sille toimitetussa valituksessa esitetyt vaatimukset, sen on annettava asiasta oikaisupäätös. Oikaisupäätökseen saa hakea muutosta siten kuin 1 §:ssä säädetään.

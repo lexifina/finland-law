@@ -2,6 +2,6 @@
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 1 luku Yleiset säännökset
 
-Työttömällä työnhakijalla on oikeus työnhakusuunnitelmaan siten kuin julkisesta työvoimapalvelusta annetussa laissa (1295/2002) säädetään.
+Työnhakijalla on oikeus työllistymissuunnitelmaan siten kuin julkisesta työvoima- ja yrityspalvelusta annetussa laissa (916/2012) säädetään.
 
-Etuuden saajan yleisenä velvollisuutena on hakea aktiivisesti työtä ja koulutusta, antaa työvoimatoimistolle ammatillista osaamistaan, työkokemustaan, koulutustaan ja työkykyään koskevat tiedot ja selvitykset, toteuttaa yhdessä työvoimatoimiston kanssa laadittua työnhakusuunnitelmaa sekä tarvittaessa hakeutua ja osallistua työllistymistään edistäviin palveluihin ja toimenpiteisiin.
+Etuuden saajan yleisenä velvollisuutena on hakea aktiivisesti työtä ja koulutusta, antaa työ- ja elinkeinotoimistolle ammatillista osaamistaan, työhistoriaansa, koulutustaan ja työkykyään koskevat tiedot ja selvitykset, toteuttaa yhdessä työ- ja elinkeinotoimiston kanssa laadittua työllistymissuunnitelmaa sekä tarvittaessa hakeutua ja osallistua työllistymistään edistäviin palveluihin ja toimenpiteisiin.

@@ -2,8 +2,11 @@
 Osa: II OSA TYÖTTÖMYYSPÄIVÄRAHA
 Luku: 6 luku Työttömyyspäivärahan määrä ja kesto
 
-Ennen vuotta 1950 syntyneelle työnhakijalle, joka on täyttänyt 57 vuotta ennen 7 §:ssä säädetyn enimmäisajan päättymistä, voidaan enimmäisajan estämättä maksaa palkansaajan ansiopäivärahaa ja peruspäivärahaa sen kalenterikuukauden loppuun saakka, jona hän täyttää 60 vuotta. Ennen vuotta 1950 syntyneelle henkilölle, joka on täyttänyt 60 vuotta ennen 7 §:ssä säädetyn enimmäisajan täyttymistä, päivärahaa maksetaan kuitenkin sen kalenterikuukauden loppuun, jona 500 päivän enimmäisaika täyttyy.
+Palkansaajan peruspäivärahaa ja ansiopäivärahaa maksetaan 7 §:ssä säädetyn enimmäisajan estämättä sen kalenterikuukauden loppuun saakka, jona työnhakija täyttää 65 vuotta, jos hän on syntynyt:
+1) vuosina 1950–1954 ja jos hän on täyttänyt 59 vuotta ennen enimmäisajan päättymistä;
+2) vuonna 1955 tai 1956 ja jos hän on täyttänyt 60 vuotta ennen enimmäisajan päättymistä;
+3) vuonna 1957 tai sen jälkeen ja jos hän on täyttänyt 61 vuotta ennen enimmäisajan päättymistä.
 
-Vuonna 1950 tai sen jälkeen syntyneelle työnhakijalle voidaan 7 §:ssä säädetyn enimmäisajan estämättä maksaa palkansaajan peruspäivärahaa ja ansiopäivärahaa sen kalenterikuukauden loppuun saakka, jona työnhakija täyttää 65 vuotta, jos hän:
-1) on täyttänyt 59 vuotta ennen enimmäisajan päättymistä; ja
-2) on enimmäisajan täyttyessä ollut 11 §:n 1 momentissa tarkoitetulla tavalla työssä vähintään 5 vuotta viimeisen 20 vuoden aikana.
+Edellytyksenä 1 momentin soveltamiselle on, että työnhakijalla on enimmäisajan täyttyessä 11 §:ssä tarkoitettua työssäoloaikaa vähintään viisi vuotta viimeisen 20 vuoden aikana.
+
+Palkansaajan peruspäivärahaa ja ansiopäivärahaa maksetaan 7 §:ssä säädetyn enimmäisajan estämättä työnhakijalle työllistymistä edistävän palvelun ajalta, jos työllistymistä edistävä palvelu on järjestetty julkisesta työvoima- ja yrityspalvelusta annetun lain 11 luvun 1 §:n 1 tai 2 momentin mukaisen velvoitteen perusteella.

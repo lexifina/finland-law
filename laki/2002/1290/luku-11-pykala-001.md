@@ -1,8 +1,8 @@
 # 1 § Työttömyysetuuden hakeminen
-Osa: V OSA TOIMEENPANO JA MUUTOKSEN- HAKU
+Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 11 luku Toimeenpanoa koskevat säännökset
 
-Peruspäivärahaa, työmarkkinatukea ja koulutuspäivärahaa haetaan kirjallisesti Kansaneläkelaitokselta. Ansiopäivärahaa ja koulutuspäivärahaa haetaan kirjallisesti siltä työttömyyskassalta, jonka jäsen työnhakija on. Hakemus yhdistelmätuesta tai matka-avustuksesta voidaan jättää myös työvoimatoimistoon.
+Peruspäivärahaa ja työmarkkinatukea haetaan kirjallisesti Kansaneläkelaitokselta. Ansiopäivärahaa haetaan kirjallisesti siltä työttömyyskassalta, jonka jäsen työnhakija on. Hakemus matka-avustuksesta voidaan jättää myös työvoimatoimistoon.
 
 Työttömyysetuutta ei ilman erityisen painavaa syytä myönnetä takautuvasti pitemmältä kuin kolmen kuukauden ajalta ennen hakemuksen vireille tuloa.
 

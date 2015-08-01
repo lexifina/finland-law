@@ -1,7 +1,9 @@
-# 8 § Ylläpitokorvaus
+# 8 § Työmarkkinatuki ilman tarveharkintaa
 Osa: III OSA TYÖMARKKINATUKI
 Luku: 7 luku Työmarkkinatukea koskevat yleiset säännökset
 
-Matka- ja muiden ylläpitokustannusten korvaamisesta (ylläpitokorvaus) työvoimapoliittiseen toimenpiteeseen osallistuvalle työnhakijalle säädetään julkisesta työvoimapalvelusta annetussa laissa.
+Työmarkkinatuki myönnetään ilman tarveharkintaa siltä ajalta, jona henkilö osallistuu työllistymistä edistäviin palveluihin.
 
-Kuntouttavaan työtoimintaan osallistuvalle työmarkkinatukea saavalle maksetaan ylläpitokorvausta 7 euroa kuntouttavasta työtoiminnasta annetun lain 2 luvun 5 §:ssä tarkoitetun aktivointisuunnitelman mukaiselta osallistumispäivältä.
+Työmarkkinatuki maksetaan ilman tarveharkintaa myös sellaiselle 55 vuotta täyttäneelle henkilölle, joka on työttömäksi joutuessaan täyttänyt työssäoloehdon.
+
+3–4 momentit on kumottu L:lla 20.12.2013/1049.

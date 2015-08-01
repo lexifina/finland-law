@@ -1,4 +1,5 @@
 # 1 § Voimaantulo
+Osa: VI OSA ERINÄISET SÄÄNNÖKSET
 Luku: 15 luku Voimaantulosäännökset
 
 Tämä laki tulee voimaan 1 päivänä tammikuuta 2003, kuitenkin siten, että lain 9 luvun 6 §:n 2 momentin 3 kohta sekä 3 ja 4 momentti tulevat voimaan 1 päivänä heinäkuuta 2003.
@@ -9,7 +10,7 @@ Tämän lain 3 luvun 6 §:ää sovelletaan, kun työsuhde, jonka perusteella lai
 
 Sen estämättä, mitä tämän lain 4 luvun 1 §:n 3 kohdassa säädetään, sovelletaan henkilöön, jonka sovittelujakso on kesken lain tullessa voimaan, lain voimaan tullessa voimassa ollutta lakia etuuden sovittelusta sovittelujakson päättymiseen saakka.
 
-Sen estämättä, mitä tämän lain 4 luvun 6 §:n 1 momentissa säädetään, soviteltua työttömyysetuutta voidaan enimmäisajan täyttymisestä huolimatta myöntää 4 luvun 1 §:n 1―4 kohdissa tarkoitetulle henkilölle työttömyysajalta 30 päivään syyskuuta 2003 saakka.
+Sen estämättä, mitä tämän lain 4 luvun 6 §:n 1 momentissa säädetään, soviteltua työttömyysetuutta voidaan enimmäisajan täyttymisestä huolimatta myöntää 4 luvun 1 §:n 1 momentin 1–4 kohdassa tarkoitetulle henkilölle työttömyysajalta 31 päivään joulukuuta 2009 saakka.
 
 Sovellettaessa 5 luvun 3 §:n 2 momentin säännöstä rinnastetaan tämän lain mukaiseen työttömyyspäivärahaan 1 päivänä tammikuuta 1997 tai sen jälkeiseltä ajalta maksettu työttömyyspäiväraha.
 
@@ -22,6 +23,8 @@ Tämän lain 6 luvun 3 §:n 1 momentin 2 kohtaa ja 10 §:n 1 kohtaa sovellettaes
 Tämän lain 8 luvun 2 §:n 4 momentin mukaiseen työssäolovelvoitteeseen luetaan lain voimaantulon jälkeinen työ, työharjoittelu, työkokeilu ja työvoimapoliittinen aikuiskoulutus.
 
 Lain 9 luvun 5 §:n 2 momentissa tarkoitettuun työssäoloehtoon luetaan myös ennen tämän lain voimaantuloa tehty työ tai harjoitettu yritystoiminta.
+
+Sen estämättä, mitä tämän lain 9 luvun 6 §:n 1 momentissa säädetään, 1 päivän tammikuuta ja 30 päivän kesäkuuta 2003 välisenä aikana työmarkkinatuki on kuitenkin 60 prosenttia sanotun momentin mukaisesti lasketusta työmarkkinatuesta.
 
 Tämän lain voimaantulon jälkeen alkavaan koulutukseen myönnettävä koulutuspäiväraha määräytyy siten kuin 6 luvun 3 §:ssä säädetään.
 

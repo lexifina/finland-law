@@ -1,5 +1,5 @@
-# 1 § Soveltamisala
-Osa: IV OSA KOULUTUSPÄIVÄRAHA
-Luku: 10 luku Koulutuspäivärahaa koskevat säännökset
+# 1 § Oikeus etuuteen työllistymistä edistävien palvelujen ajalta
+Osa: IV OSA Työllistymistä edistävät palvelut
+Luku: 10 luku Työllistymistä edistävien palvelujen ajalta maksettavaa etuutta koskevat säännökset
 
-Työttömälle, joka hakeutuu omaehtoiseen, ammatillisia valmiuksia edistävään koulutukseen, maksetaan koulutuksen ajalta toimeentulon turvaamiseksi koulutuspäivärahaa siten kuin tässä laissa säädetään.
+Työllistymistä edistäviin palveluihin osallistuvan työnhakijan toimeentulo turvataan työttömyyspäivärahalla tai työmarkkinatuella.

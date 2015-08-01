@@ -2,8 +2,11 @@
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 4 luku Soviteltu ja vähennetty työttömyysetuus
 
-Soviteltu työttömyysetuus lasketaan siten, että etuus ja 50 prosenttia saadusta tulosta voivat sovittelujakson aikana yhteensä nousta määrään, joka etuutena muutoin olisi voitu maksaa.
+Soviteltu työttömyysetuus lasketaan siten, että etuus ja 50 prosenttia saadun tulon siitä osasta, joka ylittää suojaosan, voivat sovittelujakson aikana yhteensä nousta määrään, joka etuutena muutoin olisi voitu maksaa.
 
-Sovitellun ansiopäivärahan määrä lasketaan siten, että se mahdollisine lapsikorotuksineen ja tulo sovittelujakson aikana yhteensä ovat enintään 90 prosenttia ansiopäivärahan perusteena olevasta palkasta, kuitenkin vähintään niin paljon kuin henkilöllä olisi oikeus saada peruspäivärahana.
+Suojaosan määrä on:
+1) 300 euroa kuukauden sovittelujakson aikana;
+2) 300 euroa käytettäessä 4 §:n 2 momentin mukaista laskennallista tuloa;
+3) 279 euroa neljän peräkkäisen kalenteriviikon sovittelujakson aikana.
 
-Soviteltu ansiopäiväraha mahdollisine lapsikorotuksineen voi olla yhdessä työtulon kanssa enintään päivärahan perusteena olevan palkan suuruinen siltä osin kuin henkilöllä on oikeus sovittelujaksolta 6 luvun 3 §:ssä tarkoitettuun korotettuun ansio-osaan, kuitenkin vähintään niin paljon kuin henkilöllä olisi oikeus saada peruspäivärahaa.
+Sovitellun ansiopäivärahan määrä lasketaan siten, että se mahdollisine lapsikorotuksineen ja tulo sovittelujakson aikana yhteensä ovat enintään ansiopäivärahan perusteena olevan palkan suuruinen, kuitenkin vähintään niin paljon kuin henkilöllä olisi oikeus saada peruspäivärahana.

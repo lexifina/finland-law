@@ -1,12 +1,9 @@
-# 3 § Korotetun ansio-osan edellytykset
+# 3 § Ansiopäivärahan ansio-osan maksuajan lyhentäminen
 Osa: II OSA TYÖTTÖMYYSPÄIVÄRAHA
 Luku: 6 luku Työttömyyspäivärahan määrä ja kesto
 
-Ansiopäivärahan korotettua ansio-osaa maksetaan työnhakijalle, joka:
-1) on menettänyt työnsä työsopimuslain 7 luvun 3, 4, 7 tai 8 §:ssä tarkoitetuista taloudellisista tai tuotannollisista syistä, vastaavista syistä merimieslain mukaan tai julkisen yhteisön toiminnasta johtuvista vastaavista syistä;
-2) on ennen työn menettämistä ollut palkansaajakassan jäsen vähintään viisi vuotta; ja
-3) on ennen työn menettämistä hankkinut 11 §:ssä tarkoitettua työssäoloaikaa vähintään 20 vuotta.
+Ansiopäivärahan saajalle, joka ei ole ollut työssä yhteensä vähintään kolmea vuotta ennen työttömyyspäivärahaoikeuden alkamista, ansiopäiväraha maksetaan päivärahakauden enimmäisajan 100 viimeiseltä päivältä sen suuruisena kuin se maksettaisiin peruspäivärahana.
 
-Henkilön katsotaan menettäneen työnsä 1 momentin 1 kohdassa tarkoitetulla tavalla tuotannollisista tai taloudellisista syistä myös, jos hän on irtisanonut työsopimuksensa työsopimuslain 5 luvun 7 §:n mukaisesti lomautuksen kestettyä yhdenjaksoisesti vähintään 200 päivää.
+Jos ansiopäivärahan saajalle on 250 ensimmäisen työttömyyspäivärahapäivän aikana asetettu korvaukseton määräaika tai työssäolovelvoite hänen meneteltyään 2 a luvun 12 §:ssä tarkoitetulla tavalla moitittavasti, ansiopäiväraha maksetaan päivärahakauden enimmäisajan 100 viimeiseltä päivältä sen suuruisena kuin se maksettaisiin peruspäivärahana. Jos ansiopäivärahan saajalla ei ole 1 momentissa tarkoitettua työssäoloa, ansiopäiväraha maksetaan enimmäisajan 200 viimeiseltä päivältä sen suuruisena kuin se maksettaisiin peruspäivärahana.
 
-Korotettua ansio-osaa maksetaan yhteensä enintään 150 päivältä. Jos irtisanomisperuste on riitautettu, ansiopäivärahaa ei myönnetä tai makseta korotettuna ennen asiassa tehtyä lopullista ratkaisua.
+Edellytyksenä 2 momentin soveltamiselle on, että ansiopäivärahan saajalle ei ole maksettu 250 ensimmäisen työttömyyspäivärahapäivän aikana työllistymistä edistävän palvelun ajalta korotusosaa eikä korotettua ansio-osaa yhteensä vähintään 40 päivältä.

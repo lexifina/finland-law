@@ -1,7 +1,7 @@
-# 6 § Koulutuspäivärahakauden kesto
-Osa: IV OSA KOULUTUSPÄIVÄRAHA
-Luku: 10 luku Koulutuspäivärahaa koskevat säännökset
+# 6 § Kulukorvaus
+Osa: IV OSA Työllistymistä edistävät palvelut
+Luku: 10 luku Työllistymistä edistävien palvelujen ajalta maksettavaa etuutta koskevat säännökset
 
-Koulutuspäivärahaa maksetaan koulutuksen ajalta ja myös lomajaksoilta koulutuksen aikana enintään viideltä päivältä kalenteriviikossa. Koulutuspäivärahaa maksetaan enintään 500 päivältä.
+Matka- ja muiden ylläpitokustannusten korvaamisesta työllistymistä edistävään palveluun osallistuvalle työnhakijalle säädetään julkisesta työvoima- ja yrityspalvelusta annetussa laissa.
 
-Maksetut koulutuspäivärahapäivät luetaan 6 luvun 7 §:ssä tarkoitettuun työttömyyspäivärahan 500 päivän enimmäisaikaan. Koulutuspäivärahana ja työttömyyspäivärahana maksettujen korvauspäivien yhteenlaskettu määrä voi olla enintään 586 päivää. Tämän jälkeiseltä koulutusajalta koulutuspäiväraha maksetaan työmarkkinatuen suuruisena enintään siihen saakka, kun henkilö on saanut koulutuspäivärahaa 500 päivältä.
+Kuntouttavaan työtoimintaan osallistuvalle työttömyysetuutta saavalle maksetaan kulukorvausta yhdeksän euroa työllistymissuunnitelman tai kuntouttavasta työtoiminnasta annetun lain 5 §:ssä tarkoitetun aktivointisuunnitelman mukaiselta osallistumispäivältä.

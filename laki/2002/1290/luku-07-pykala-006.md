@@ -1,17 +1,15 @@
-# 6 § Yhdistelmätuki
+# 6 § Tarveharkinnassa huomioon otettavat tulot
 Osa: III OSA TYÖMARKKINATUKI
 Luku: 7 luku Työmarkkinatukea koskevat yleiset säännökset
 
-Työvoimatoimisto voi määrätä yhdistelmätuen maksettavaksi työnantajalle, jos tukea myönnettäessä:
-1) työllistettävä on työmarkkinatukeen oikeutettu;
-2) työllistettävän oikeus työttömyyspäivärahaan on päättynyt 1 §:n 1 momentin 2 kohdassa tarkoitetulla perusteella (enimmäisaika), tai työllistettävä on saanut työttömyytensä perusteella työmarkkinatukea vähintään 500 päivältä;
-3) työsuhde ei ole alkanut; ja
-4) työnantaja on sitoutunut maksamaan vähintään 9 luvun 1 §:n 1 momentissa tarkoitetun täysimääräisen työmarkkinatuen suuruista palkkaa työkyvyttömyysajalta, jolta työllistetty ei saa sairausvakuutuslain 19 §:n 1 momentissa olevan rajoituksen (omavastuuaika) vuoksi päivärahaa eikä muuta vastaavaa lakisääteistä korvausta tai työnantajalta muulla perusteella sairausajan palkkaa.
+Työmarkkinatuen saajan tulot otetaan taloudellisen tuen tarvetta harkittaessa kokonaisuudessaan huomioon. Metsätalouden tulona otetaan huomioon varojen arvostamisesta verotuksessa annetun lain (1142/2005) 7 §:n 3 ja 4 momentin mukaan vahvistettu metsän keskimääräinen vuotuinen tuotto kerrottuna metsän pinta-alalla. Työmarkkinatuki määrätään tuen maksamisajankohdan tilannetta vastaavaksi joko arvioitujen tai muutoin todettavissa olevien tulojen perusteella. Valtioneuvoston asetuksella säädetään tarkemmin tarveharkinnassa huomioon otettavista tuloista.
 
-Tuen myöntämisajankohtana pidetään 1 momenttia sovellettaessa päivää, jona työvoimaviranomainen antaa työvoimapoliittisen lausunnon yhdistelmätuen myöntämisestä.
-
-Yhdistelmätuki voidaan myöntää myös osa-aikatyön palkkauskustannuksiin.
-
-Yhdistelmätukea ei myönnetä valtion virastolle tai laitokselle.
-
-Yhdistelmätukeen sovelletaan lisäksi, mitä julkisesta työvoimapalvelusta annetussa laissa tai sen nojalla säädetään työnantajalle myönnettävästä työllistämistuesta, jollei tässä laissa toisin säädetä.
+Tarveharkinnassa tuloina ei oteta huomioon (etuoikeutetut tulot):
+1) lapsilisää;
+2) lasten kotihoidon ja yksityisen hoidon tuesta annetun lain mukaista kotihoidon tukea;
+3) asumistukea;
+4) sotilasavustusta;
+5) sotilasvammalain mukaista elinkorkoa ja täydennyskorkoa;
+6) kansaneläkelain mukaista täydennysmäärää;
+7) toimeentulotuesta annetun lain mukaista toimeentulotukea;
+8) vian, vamman tai haitan perusteella maksettavaa erityisten kustannusten korvausta.

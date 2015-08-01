@@ -1,10 +1,5 @@
-# 2 § Muu kuin työsuhteessa tehty työ
+# 2 § Ulkomaalaista koskeva rajoitus
 Osa: I OSA YHTEISET SÄÄNNÖKSET
-Luku: 2 luku Etuuden saamisen työvoimapoliittiset edellytykset
+Luku: 2 luku Etuuden saamisen yleiset työvoimapoliittiset edellytykset
 
-Työnhakijalla on oikeus työttömyysetuuteen tämän lain mukaisesti siltä ajalta, jona hän
-1) palkatta osallistuu tavanomaiseen yleishyödylliseen vapaaehtoistyöhön;
-2) palkatta osallistuu tavanomaiseen talkootyöhön; tai
-3) osallistuu kuntouttavasta työtoiminnasta annetussa laissa (189/2001) tarkoitettuun kuntouttavaan työtoimintaan.
-
-Työnhakijalla, joka palkatta työskentelee yrityksessä tai sellaisissa tehtävissä, jotka yleisesti tehdään työsuhteessa tai yritystoimintana, ei ole oikeutta työttömyysetuuteen.
+Henkilöllä, joka ei ole Suomen kansalainen, ei ole oikeutta työmarkkinatukeen, jos hänellä on oikeus ansiotyöhön tilapäisen oleskeluluvan perusteella.

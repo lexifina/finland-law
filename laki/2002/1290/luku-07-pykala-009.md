@@ -1,14 +1,13 @@
-# 9 § Omavastuuaika
+# 9 § Osittainen työmarkkinatuki
 Osa: III OSA TYÖMARKKINATUKI
 Luku: 7 luku Työmarkkinatukea koskevat yleiset säännökset
 
-Työmarkkinatukea maksetaan sen jälkeen, kun henkilö on ollut työttömänä työnhakijana työvoimatoimistossa yhteensä viisi työpäivää enintään kahdeksan peräkkäisen kalenteriviikon aikana (omavastuuaika). Omavastuuaikaan ei lueta 8 luvun 4 §:ssä tarkoitettuun odotusaikaan tai korvauksettomiin määräaikoihin taikka työssäolovelvoitteisiin sisältyviä työttömyyspäiviä.
+Työmarkkinatuki on 50 prosenttia 4 §:n 1–3 momentin ja 6–8 §:n mukaisesti lasketusta työmarkkinatuesta, jos työnhakija asuu vanhempiensa taloudessa eikä ole täyttänyt työssäoloehtoa.
 
-Omavastuuaika täyttyy myös, kun lyhennettyä työviikkoa tai osa-aikatyötä tekevän työntekijän 4 luvun 1 §:ssä tarkoitettua työttömyysaikaa on kertynyt yhteensä viittä työttömyyspäivää vastaava aika.
+Mitä 1 momentissa säädetään, ei kuitenkaan sovelleta:
+1) aikana, jona työnhakija osallistuu työllistymistä edistäviin palveluihin; tai
+2) työnhakijaan, jonka vanhempien, joiden taloudessa hän asuu, 6 §:ssä tarkoitetut tulot ovat enintään 1 781 euroa kuukaudessa; tulorajaa nostetaan 106 eurolla jokaista työnhakijan vanhempien huollettavana olevaa samassa taloudessa asuvaa kohti.
 
-Omavastuuaikaan luetaan myös ne päivät, jotka henkilö työttömyyden alkamisen jälkeen on ollut työkyvytön saamatta siltä ajalta sairausvakuutuslain mukaista päivärahaa tai muuta vastaavaa lakisääteistä korvausta taikka työnantajalta sairausajan palkkaa.
+Täysimääräisen työmarkkinatuen kuukautta kohden lasketusta määrästä vähennetään 2 momentin 2 kohdassa tarkoitetuissa tilanteissa 50 prosenttia siitä 6 §:n mukaisesti määrätystä tulojen osasta, joka ylittää tämän pykälän 2 momentin 2 kohdassa säädetyn tulorajan. Vanhempien tulojen perusteella vähennettynä työmarkkinatukena maksetaan kuitenkin vähintään 1 momentissa tarkoitettu määrä.
 
-Omavastuuaikaa ei kuitenkaan edellytetä:
-1) jos henkilön oikeus työmarkkinatukeen alkaa välittömästi 6 luvun 7 tai 9 §:ssä tarkoitetun työttömyyspäivärahan enimmäisajan täytyttyä; tai
-2) jos hänen työntekonsa estyy sellaisen toisten työntekijöiden työtaistelutoimenpiteen takia, jolla ei ole riippuvuussuhdetta hänen työehtoihinsa tai työoloihinsa; ja
-3) hän muutoin täyttää työmarkkinatuen saamisen edellytykset.
+Jos hakijan vanhempien, joiden taloudessa hän asuu, tulot ylittävät 2 momentin 2 kohdassa säädetyn tulorajan, mutta hakija kykenee luotettavasti osoittamaan, etteivät vanhemmat tosiasiallisesti häntä taloudellisesti tue, työmarkkinatuki on maksettava ilman 1 momentissa tarkoitettua vähennystä.

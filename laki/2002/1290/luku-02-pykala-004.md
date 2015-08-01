@@ -1,9 +1,7 @@
-# 4 § Yritystoiminta
+# 4 § Muu kuin työsuhteessa tehty työ
 Osa: I OSA YHTEISET SÄÄNNÖKSET
-Luku: 2 luku Etuuden saamisen työvoimapoliittiset edellytykset
+Luku: 2 luku Etuuden saamisen yleiset työvoimapoliittiset edellytykset
 
-Henkilöllä ei ole oikeutta työttömyysetuuteen siltä ajalta, jona hän työllistyy päätoimisesti yrittäjänä tai sitä vastaavalla tavalla omassa työssään. Yrityksenä pidetään myös maatalousyritystä.
+Työnhakijalla on oikeus työttömyysetuuteen tämän lain mukaisesti siltä ajalta, jona hän palkatta osallistuu tavanomaiseen yleishyödylliseen vapaaehtoistyöhön tai tavanomaiseen talkootyöhön.
 
-Henkilön, joka aloittaa 1 luvun 6 §:ssä tarkoitetun yritystoiminnan tai oman työn, katsotaan työllistyvän siinä päätoimisesti, jos toiminnan vaatima työmäärä on niin suuri, että se on esteenä kokoaikaisen työn vastaanottamiselle. Yritystoiminta voidaan katsoa aloitetuksi aikaisintaan varsinaisen tuotannollisen tai taloudellisen toiminnan aloittamisesta, ellei erityisistä syistä muuta johdu. Yritystoiminnan ja oman työn aloittamisajankohdasta säädetään tarkemmin valtioneuvoston asetuksella.
-
-Yritystoiminta tai oma työ katsotaan sivutoimiseksi, jos henkilön työssäolon perusteella tai muutoin voidaan päätellä yritystoiminnan tai oman työn vaatiman työmäärän olevan niin vähäinen, ettei se ole esteenä kokoaikaisen työn vastaanottamiselle.
+Työnhakijalla, joka palkatta työskentelee yrityksessä tai sellaisissa tehtävissä, jotka yleisesti tehdään työsuhteessa tai yritystoimintana, ei ole oikeutta työttömyysetuuteen.

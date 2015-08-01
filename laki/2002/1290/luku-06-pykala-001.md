@@ -2,8 +2,10 @@
 Osa: II OSA TYÖTTÖMYYSPÄIVÄRAHA
 Luku: 6 luku Työttömyyspäivärahan määrä ja kesto
 
-Peruspäiväraha on 22,22 euroa päivältä.
+Peruspäiväraha on 31,36 euroa päivältä.
 
-Ansiopäiväraha muodostuu peruspäivärahan suuruisesta perusosasta ja ansio-osasta. Korotettua ansio-osaa maksetaan, jos 3 §:n edellytykset täyttyvät.
+Peruspäivärahan korotusosa on 4,59 euroa päivältä.
+
+Ansiopäiväraha muodostuu peruspäivärahan suuruisesta perusosasta ja ansio-osasta.
 
 Työttömyyspäivärahan määrä lasketaan ottaen huomioon, mitä 4 luvussa säädetään.

@@ -1,11 +1,13 @@
-# 16 § Koulutuksesta kieltäytyminen ja eroaminen
+# 16 § Koulutusta vailla olevan nuoren työttömyysturvaoikeuden palautuminen
 Osa: I OSA YHTEISET SÄÄNNÖKSET
-Luku: 2 luku Etuuden saamisen työvoimapoliittiset edellytykset
+Luku: 2 luku Etuuden saamisen yleiset työvoimapoliittiset edellytykset
 
-Työnhakijalla, joka ilman 17 §:ssä tarkoitettua tai siihen rinnastettavaa pätevää syytä kieltäytyy työvoimaviranomaisen osoittamasta hänelle soveltuvasta koulutuksesta, jonka aikana hänen ja hänen huollettaviensa toimeentulo on kohtuullisesti turvattu, tai joka aloitettuaan tällaisen koulutuksen ilman pätevää syytä on eronnut tai omasta syystään erotettu tällaisesta koulutuksesta, ei ole oikeutta työttömyysetuuteen 60 päivän ajalta koulutuksesta kieltäytymisestä, eroamisesta tai erottamisesta lukien. Jos työnhakija omalla menettelyllään aiheuttaa, ettei tule valituksi koulutukseen, hänen katsotaan kieltäytyneen siitä.
+Koulutusta vailla olevalla nuorella, joka on menettänyt oikeutensa työttömyysetuuteen 13 §:n 2 momentissa taikka 14 §:n 3 momentissa säädettyjen rajoitusten takia, on oikeus työttömyyden perusteella maksettavaan työttömyysetuuteen, jos:
+1) hän on suorittanut tutkintoon johtavan, ammatillisia valmiuksia antavan koulutuksen; tai
+2) hän on toiminut vähintään 21 kalenteriviikon ajan 2 a luvun 14 §:n 2 momentissa tarkoitetulla tavalla.
 
-Työnhakijan ja hänen huollettaviensa toimeentulo on kohtuullisesti turvattu, jos hänellä on oikeus julkisesta työvoimapalvelusta annetussa laissa tarkoitetun koulutustuen tai tämän lain 7 luvun 3 §:ssä tarkoitetun työmarkkinatuen sekä julkisesta työvoimapalvelusta annetussa laissa tarkoitetun ylläpitokorvauksen tasoisiin etuuksiin.
+Koulutusta vailla olevaan nuoreen ei sovelleta 13 §:n 2 momenttia, 14 §:n 3 momenttia eikä 2 a lukua, jos:
+1) hän on jo menettänyt oikeutensa työttömyyden perusteella maksettavaan työttömyysetuuteen 13 §:n 2 momentissa taikka 14 §:n 3 momentissa säädettyjen rajoitusten takia; ja
+2) hänen oikeutensa työttömyyden perusteella maksettavaan työttömyysetuuteen ei ole palautunut 1 momentin perusteella.
 
-Työttömyyspäivärahaan oikeutetun alle 20-vuotiaan ammatillista koulutusta vailla olevan osalta 1 ja 2 momentin mukaisena koulutuksena pidetään myös ammatillista koulutusta, johon voidaan myöntää opintotukea.
-
-Jos työnhakija on hakenut valittamalla muutosta työvoimapoliittisen aikuiskoulutuksen keskeyttämistä koskevaan päätökseen julkisesta työvoimapalvelusta annetun lain 13 luvun 4 §:n mukaisesti valitusajan kuluessa, ei ennen valitusasiassa annettua lopullista ratkaisua voida katsoa, että hänet olisi 1 momentissa tarkoitetulla tavalla omasta syystään erotettu koulutuksesta.
+Oikeudesta työttömyysetuuteen työllistymistä edistävien palveluiden ajalta säädetään 10 luvussa.
