@@ -1,0 +1,2 @@
+Laki naisiin kohdistuvan väkivallan ja perheväkivallan ehkäisemisestä ja torjumisesta tehdyn Euroopan neuvoston yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
