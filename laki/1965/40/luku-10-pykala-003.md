@@ -1,5 +1,5 @@
-# 3 §.
-Luku: 10 luku. Testamentin tekemisestä ja peruuttamisesta.
+# 3 §
+Luku: 10 LUKU Testamentin tekemisestä ja peruuttamisesta
 
 Joka sairauden tai muun pakottavan syyn vuoksi on estynyt tekemästä testamenttia 1 §:ssä säädetyllä tavalla, saa tehdä sen suullisesti kahden todistajan ollessa yhtaikaa läsnä tai todistajittakin omakätisesti kirjoittamallaan ja allekirjoittamallaan asiakirjalla.
 

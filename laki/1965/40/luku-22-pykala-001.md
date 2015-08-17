@@ -1,5 +1,5 @@
-# 1 §.
-Luku: 22 luku. Erityisjälkisäädöksen ja tarkoitemääräyksen täytäntöönpanosta.
+# 1 §
+Luku: 22 LUKU Erityisjälkisäädöksen ja tarkoitemääräyksen täytäntöönpanosta
 
 Jakamattomasta pesästä täytettävä erityisjälkisäädös on pantava täytäntöön niin pian kuin se voi tapahtua tuottamatta haittaa kenellekään, jonka oikeus on pesän selvityksestä riippuvainen.
 

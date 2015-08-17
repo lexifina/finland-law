@@ -1,5 +1,5 @@
 # 18 §
-Luku: 19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta.
+Luku: 19 LUKU Pesänselvittäjästä ja testamentin toimeenpanijasta
 
 Oikeus voi pesän osakkaan tai sen hakemuksesta, jonka oikeus riippuu pesän selvityksestä, velvoittaa pesänselvittäjän antamaan hallinnostaan selonteon tai määrätä jonkun suorittamaan pesän hallinnon tarkastuksen ja antamaan siitä kertomuksen.
 

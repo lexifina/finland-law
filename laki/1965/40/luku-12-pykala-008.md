@@ -1,4 +1,4 @@
-# 8 §.
-Luku: 12 luku. Testamenttiin perustuvasta käyttöoikeudesta.
+# 8 §
+Luku: 12 LUKU Testamenttiin perustuvasta käyttöoikeudesta
 
-Mitä tässä luvussa on säädetty käyttöoikeuden alaisesta omalsuudesta, on voimassa myös sen sijaan tulleesta omaisuudesta.
+Mitä tässä luvussa on säädetty käyttöoikeuden alaisesta omaisuudesta, on voimassa myös sen sijaan tulleesta omaisuudesta.

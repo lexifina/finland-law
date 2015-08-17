@@ -1,4 +1,4 @@
-# 10 §.
-Luku: 6 luku. Ennakkoperinnöstä.
+# 10 §
+Luku: 6 LUKU Ennakkoperinnöstä
 
-Mitä tässä luvussa on säädetty rintaperilsestä, on vastaavasti sovellettava ottolapseen tai tämän jälkeläiseen.
+Mitä tässä luvussa on säädetty rintaperillisestä, on vastaavasti sovellettava ottolapseen tai tämän jälkeläiseen.

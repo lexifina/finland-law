@@ -1,4 +1,4 @@
-# 1 §.
-Luku: 1 luku. Oikeudesta saada perintö.
+# 1 §
+Luku: 1 LUKU Oikeudesta saada perintö
 
-Periä voi vain se, joka elää perittävän kuolinhetkellä; kuitenkin periköön sitä ennen siitetty, lapsi, jos tämä sittemmin syntyy elävänä.
+Periä voi vain se, joka elää perittävän kuolinhetkellä; kuitenkin periköön sitä ennen siitetty lapsi, jos tämä sittemmin syntyy elävänä.

@@ -1,5 +1,5 @@
-# 2 §.
-Luku: 2 luku. Sukulaisten perintöoikeudesta.
+# 2 §
+Luku: 2 LUKU Sukulaisten perintöoikeudesta
 
 Jollei perittävältä ole jäänyt rintaperillistä, saavat hänen isänsä ja äitinsä kumpainenkin puolet perinnöstä.
 

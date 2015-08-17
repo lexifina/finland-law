@@ -1,4 +1,6 @@
-# 12 §.
-Luku: 23 luku. Perinnönjaosta.
+# 12 §
+Luku: 23 LUKU Perinnönjaosta
 
-Mitä tässä luvussa on sanottu osakkaasta, on vastaavasti sovellottava siihen, jolle osakas on luovuttanut pesäosuutensa, sekä sellaiseen 19 luvun 2 §:n 2 momentissa tarkoitettuun velkojaan, jonka saamisesta osakkaan pesäosuus on ulosmitattu.
+Mitä tässä luvussa säädetään osakkaasta, sovelletaan myös siihen, jolle osakas on luovuttanut pesäosuutensa.
+
+Pesänjakajan määräystä voi avustusvaatimuksen toteuttamiseksi hakea myös sellainen avustukseen oikeutettu henkilö, joka ei ole kuolinpesän osakas, samaten kuin eloonjäänyt puoliso, joka ei ole kuolinpesän osakas, 3 luvussa säädetyn oikeutensa toteuttamiseksi.

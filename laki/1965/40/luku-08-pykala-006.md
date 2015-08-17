@@ -1,6 +1,8 @@
-# 6 §.
-Luku: 8 luku. Perittävän lapselle, puolisolle ja vanhemmille suoritettavasta avustuksesta.
+# 6 §
+Luku: 8 LUKU Avustuksesta ja hyvityksestä
 
-Avustus, josta säädetään 3 ja 4 §:ssä, maksettakoon kertakaikkisena määränä tai soveliain määräajoin annettavina erinä. Milloin avustus on maksettava määräerinä, älköön omaisuutta annettako saajalle, ellei hän pane hyväksyttävää vakuutta avustuserien suorittamisesta.
+Avustus, josta säädetään 3 ja 4 §:ssä, sekä 5 §:ssä tarkoitettu hyvitys annetaan kertakaikkisena määränä. Testamentti on tehoton siltä osin kuin se loukkaa oikeutta saada 1 ja 2 §:n mukaista avustusta tai hyvitystä.
 
-Oikeus voi, kun olennaisesti muuttuneet olosuhteet antavat siihen aihetta, muuttaa määräerinä suoritettavasta avustuksesta tehtyä sopimusta tai päätöstä.
+Avustus ja hyvitys ei saa loukata eloonjääneen puolison oikeutta 3 luvun 1 a §:n 2 momentissa tarkoitettuun etuuteen.
+
+Jollei lahjanlupauksena annettua sitoumusta ollut täytetty perittävän kuollessa, sitä ei voida saattaa voimaan siltä osin kuin se estää saamasta avustusta tai hyvitystä täysimääräisenä.

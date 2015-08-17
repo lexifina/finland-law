@@ -1,4 +1,4 @@
-# 1 §.
-Luku: 5 luku. Valtion oikeudesta perintöön.
+# 1 §
+Luku: 5 LUKU Valtion oikeudesta perintöön
 
 Jollei perillistä ole, menee perintö valtiolle.

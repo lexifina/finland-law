@@ -1,5 +1,5 @@
-# 1 §.
-Luku: 23 luku. Perinnönjaosta.
+# 1 §
+Luku: 23 LUKU Perinnönjaosta
 
 Kun pesä on selvitetty, on jokaisella sen osakkaalla oikeus vaatia jakoa.
 

@@ -1,5 +1,5 @@
-# 1 §.
-Luku: 6 luku. Ennakkoperinnöstä.
+# 1 §
+Luku: 6 LUKU Ennakkoperinnöstä
 
 Mitä perittävä eläessään on antanut rintaperilliselle, on ennakkona vähennettävä tämän perinnöstä, ellei muuta ole määrätty tai olosuhteisiin katsoen otaksuttava tarkoitetun. Jos ennakon saajana on muu perillinen, on vähentäminen tehtävä vain, jos omaisuutta annettaessa on niin määrätty tai olosuhteiden perusteella on katsottava niin tarkoitetun.
 

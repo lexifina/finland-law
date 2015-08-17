@@ -1,4 +1,4 @@
-# 12 §.
-Luku: 20 luku. Perunkirjoituksesta.
+# 12 §
+Luku: 20 LUKU Perunkirjoituksesta
 
-Oikeuden tai tuomarin 1 §:n mukaan antamaan päätökseen ei saa hakea muutosta. Niin ikään on muutoksenhaku kielletty hovioikeuden päätöksestä 9 §:ssä tarkoitetussa asiassa.
+Lääninveroviraston 1 §:n nojalla tekemään päätökseen ei saa valittamalla hakea muutosta.

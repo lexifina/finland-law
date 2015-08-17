@@ -1,4 +1,4 @@
-# 2 §.
-Luku: 11 luku Testamentin tulkinnasta.
+# 2 §
+Luku: 11 LUKU Testamentin tulkinnasta
 
 Erityisjälkisäädös on täytettävä jakamattomasta pesästä.

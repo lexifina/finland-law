@@ -1,8 +1,12 @@
-# 6 §.
-Luku: 21 luku. Kuolleen henkilön ja pesän velasta.
+# 6 §
+Luku: 21 LUKU Kuolleen henkilön ja pesän velasta
 
-Jos pesän luovuttaminen tapahtuu sen jälkeen, kun ositus tai perinnönjako on toimitettu, peruutukoon ositus tai jako.
+Ositusta tai perinnönjakoa ei saa toimittaa, ennen kuin pesän ja vainajan velat on maksettu tai niistä on asetettu maksun turvaava takaus tai muu vakuus.
 
-Mikäli velka voidaan maksaa vainajalle kuuluneesta omaisuudesta ja siitä, mitä hänen osalleen olisi tullut toisen puolison omaisuudesta, jos velka olisi osituksessa otettu lukuun, on pesänselvittäjän hallintoon kuitenkin luovutettava vain se, mitä hänen harkintansa mukaan on tarpeen velkojen maksamiseen ja hallintokustannuksiin. Tähän tarvittava määrä osakasten on suoritettava suhteellisesti sen mukaan kuin he ovat osituksessa tai perinnönjaossa saaneet liikaa. Muilta osin jää ositus tai jako pysyväksi.
+Jos ositus tai perinnönjako on toimitettu 1 momentin vastaisesti, tuomioistuin voi pesänselvittäjän kanteesta:
+1) määrätä osituksen tai perinnönjaon peruuntumaan ja velvoittaa osakkaat palauttamaan kaiken osituksessa tai jaossa saamansa omaisuuden taikka korvaamaan sen arvon; taikka
+2) jollei kaiken omaisuuden palauttaminen ole tarpeen velkojen ja pesänselvitysvelkojen maksamiseksi, velvoittaa osakkaat yhteisvastuullisesti suorittamaan pesälle velkojen maksamiseen tarvittavan rahamäärän.
 
-Jos joku osakas ei kykene suorittamaan osuuttaan, on muiden täytettävä vajaus osituksessa tai jaossa saamallaan omaisuudella tai sen arvolla.
+Osakas, joka on velvoitettu yhteisvastuulliseen suoritukseen pesälle 2 momentin 2 kohdan nojalla, ei ole velvollinen suorittamaan enempää kuin hän on osituksessa tai jaossa saanut. Osakas vapautuu suoritusvelvollisuudestaan, jos hän palauttaa kaiken osituksessa tai jaossa saamansa omaisuuden.
+
+Omaisuuden palauttamiseen tai sen arvon korvaamiseen sovelletaan, mitä 8 ja 8 a–8 c §:ssä säädetään.

@@ -1,7 +1,7 @@
-# 3 §.
-Luku: 8 luku. Perittävän lapselle, puolisolle ja vanhemmille suoritettavasta avustuksesta.
+# 3 §
+Luku: 8 LUKU Avustuksesta ja hyvityksestä
 
-Jos perittävän lapsi sairauden tai muun sellaisen syyn takia on kykenemätön itseään elättämään, on hähellä oikeus testamentilla toiselle annetun omaisuuden arvoon saakka saada testamentin saajalta avustusta, smkäli se on tarpeen lapsen kohtuullista toimeentuloa varten.
+Jos perittävän lapsi sairauden tai muun sellaisen syyn takia on kykenemätön itseään elättämään, on hänellä oikeus testamentilla toiselle annetun omaisuuden arvoon saakka saada testamentin saajalta avustusta, mikäli se on tarpeen lapsen kohtuullista toimeentuloa varten.
 
 Milloin testamentti on tehty lakiosaan oikeutetun perillisen hyväksi, on tämä velvollinen suorittamaan avustusta vain sikäli kuin hän on testamentilla saanut omaisuutta yli perintöosansa.
 

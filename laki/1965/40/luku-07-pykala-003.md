@@ -1,7 +1,7 @@
-# 3 §.
-Luku: 7 luku. Lakiosasta.
+# 3 §
+Luku: 7 LUKU Lakiosasta
 
-Lakiosaa määrättäessä on otettava huomioon avioliittolain mukaan eloonjääneeltä puolisolta kuolleen puolison perillisille tulevan tai elonjääneelle suoritettavan omaisuuden arvo.
+Lakiosaa määrättäessä on otettava huomioon avioliittolain mukaan eloonjääneeltä puolisolta kuolleen puolison perillisille tulevan tai eloonjääneelle suoritettavan omaisuuden arvo.
 
 Pesän varoista ei ole vähennettävä lahjanlupauksena annettua sitoumusta eikä sitä määrää, mikä on suoritettava perittävällä lain mukaan olleen elatusvelvollisuuden täyttämiseksi vastaisuudessa.
 

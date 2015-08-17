@@ -1,5 +1,5 @@
-# 2 §.
-Luku: 23 luku. Perinnönjaosta.
+# 2 §
+Luku: 23 LUKU Perinnönjaosta
 
 Vastoin osakkaan kieltoa älköön jakoon ryhdyttäkö, ennen kuin perunkirjoitus on toimitettu ja kaikki tiedossa olevat velat maksettu tai niiden maksamiseen tarvittavat varat pantu erityiseen hoitoon.
 

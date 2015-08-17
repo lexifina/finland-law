@@ -1,5 +1,5 @@
-# 6 §.
-Luku: 18 luku. Kuolinpesän hallinnosta.
+# 6 §
+Luku: 18 LUKU Kuolinpesän hallinnosta
 
 Osakkaalla, jonka toimeentulo oli perittävästä riippuvainen, on oikeus pesästä ennakolta saada, mitä hänen toimeentuloaan varten tarvitaan, sikäli kuin hänen osuutensa ilmeisesti siihen riittää ja ennakko voidaan suorittaa pesänselvitystä haittaamatta.
 

@@ -1,5 +1,5 @@
-# 6 §.
-Luku: 19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta.
+# 6 §
+Luku: 19 LUKU Pesänselvittäjästä ja testamentin toimeenpanijasta
 
 Jos pesänselvittäjä tahtoo luopua toimestaan ja näyttää pätevän syyn, vapauttakoon oikeus hänet siitä.
 

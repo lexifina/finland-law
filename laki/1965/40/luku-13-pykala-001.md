@@ -1,5 +1,5 @@
-# 1 §.
-Luku: 13 luku. Testamentin pätemättömyydestä.
+# 1 §
+Luku: 13 LUKU Testamentin pätemättömyydestä
 
 Testamentti voidaan moitteen johdosta julistaa pätemättömäksi:
 1) jos testamentin tekijä 9 luvun 1 §:n mukaan ei ollut kelpoinen määräämään jäämistöstään;

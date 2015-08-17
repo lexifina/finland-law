@@ -1,2 +1,2 @@
-Perintökaari.
+Perintökaari
 Eduskunnan päätöksen mukaisesti säädetään:

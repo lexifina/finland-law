@@ -1,4 +1,4 @@
-# 4 §.
-Luku: 21 luku. Kuolleen henkilön ja pesän velasta.
+# 4 §
+Luku: 21 LUKU Kuolleen henkilön ja pesän velasta
 
-Milloin osakkaalla on pätevä syy olettaa, ettei hän joudu vainajan vastattavana olleen takauksen tai muun tietyn sitoumuksen perusteella maksuvelvolliseksi, ei velkaa ole pidettävä tiedettynä velkana.
+Osakkaat vastaavat henkilökohtaisesti velasta, jonka he ovat tehneet pesän lukuun, jollei toisin ole sovittu tai katsottava tarkoitetun taikka muualla toisin säädetä.

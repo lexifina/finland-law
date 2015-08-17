@@ -1,8 +1,6 @@
 # 12 §
-Luku: 19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta.
+Luku: 19 LUKU Pesänselvittäjästä ja testamentin toimeenpanijasta
 
-Pesänselvittäjän tulee, noudattaen mitä jäljempänä säädetään, ryhtyä kaikkiin pesän selvittämiseksi tarvittaviin toimiin.
+Pesänselvittäjän tulee noudattaen, mitä jäljempänä säädetään, ryhtyä kaikkiin pesän selvittämiseksi tarvittaviin toimiin. Pesänselvittäjän on hoidettava tehtävänsä joutuisasti.
 
-Jos havaitaan, etteivät pesän varat riitä velkojen maksamiseen, on pesänselvittäjän koetettava velkojien kanssa sopia heidän tyydyttämisestään. Jollei sopimusta saada aikaan eivätkä osakkaat täytä vajausta, luovuttakoon pesänselvittäjä pesän omaisuuden konkurssiin.
-
-Pesänselvittäjän on, milloin se voi hankaluudetta tapahtua, tiedusteltava osakkaiden mieltä, kun on kysymys perittävän harjoittaman liikkeen selvittämisestä, 2 momentissa tarkoitetun sopimuksen tekemisestä velkojien kanssa tai sellaisen omaisuuden myymisestä, jolla on osakkaille erityistä arvoa, taikka muista osakkaille tärkeistä asioista.
+Pesänselvittäjän on, jos se hankaluudetta käy päinsä, tiedusteltava osakkaiden mielipidettä, kun on kysymys perittävän harjoittaman liikkeen selvittämisestä, 12 a §:ssä tarkoitetun sopimuksen tai päätöksen tekemisestä tai sellaisen omaisuuden myymisestä, jolla on osakkaille erityistä arvoa, taikka muista osakkaille tärkeistä asioista.

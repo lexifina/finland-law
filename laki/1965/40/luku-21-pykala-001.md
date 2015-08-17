@@ -1,6 +1,10 @@
-# 1 §.
-Luku: 21 luku. Kuolleen henkilön ja pesän velasta.
+# 1 §
+Luku: 21 LUKU Kuolleen henkilön ja pesän velasta
 
-Jollei pesän omaisuutta hakemuksesta, joka tehdään kuukauden kuluessa perunkirjoituksesta, luovuteta pesänselvittäjän hallintoon tai konkurssiin, vastaa osakas perunkirjoitusta toimitettaessa tietämistään vainajan veloista.
+Kuolinpesän varoista suoritetaan pesän ja vainajan velat.
 
-Jos perunkirjoituksen jälkeen ilmaantuu uutta velkaa eikä pesän omaisuutta 1 momentissa mainituin tavoin luovuteta kuukauden kuluessa siitä, vastaa osakas tästäkin velasta.
+Pesänselvitysvelat maksetaan ennen muita velkoja sitä mukaa kuin ne erääntyvät. Muut pesän velat maksetaan vasta vainajan velkojen jälkeen.
+
+Kuolinpesän konkurssissa konkurssipesä vastaa pesänselvitysveloista.
+
+Pesänselvitysveloista säädetään 18 luvun 5 §:ssä.

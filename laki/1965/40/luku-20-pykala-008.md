@@ -1,4 +1,4 @@
-# 8 §.
-Luku: 20 luku. Perunkirjoituksesta.
+# 8 §
+Luku: 20 LUKU Perunkirjoituksesta
 
-Perukirja on kaksin kappalein annettava oikeuteen tai sen kansliaan erikseen säädetyn ajan kuluessa.
+Perukirja on annettava lääninverovirastolle siten kuin perintö- ja lahjaverolaissa (378/40) säädetään.

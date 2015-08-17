@@ -1,5 +1,5 @@
-# 1 §.
-Luku: 11 luku Testamentin tulkinnasta.
+# 1 §
+Luku: 11 LUKU Testamentin tulkinnasta
 
 Testamentti on niin tulkittava, että tulkinnan voidaan otaksua vastaavan testamentin tekijän tahtoa. Sen vuoksi on tämän luvun säännöksiä noudatettava vain, mikäli ei testamentin määräyksestä, sen tarkoitukseen ja muihin olosuhteisiin nähden, ole katsottava muuta johtuvan.
 
