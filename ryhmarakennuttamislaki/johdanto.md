@@ -1,0 +1,2 @@
+Ryhmärakennuttamislaki
+Eduskunnan päätöksen mukaisesti säädetään:
