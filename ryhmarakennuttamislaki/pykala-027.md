@@ -1,0 +1,4 @@
+# 27 § Ryhmärakennuttamisasiakirjojen säilyttäjän tehtävistään perimät palkkiot
+Luku: 5 luku Asuntoyhteisömuotoista ryhmärakennutamista koskevat erityissäännökset
+
+Ryhmärakennuttamisasiakirjojen säilyttäjänä toimivalla luottolaitoksella on oikeus periä kohtuullinen palkkio osakekirjojen painattamisesta, ryhmärakennuttamisasiakirjojen ja osakekirjojen säilyttämisestä sekä muiden laissa säädettyjen tehtävien suorittamisesta asunto-osakeyhtiöltä sekä todistusten ja jäljennösten antamisesta niiden pyytäjältä. Ryhmärakennuttamisasiakirjojen säilyttäjänä toimivan aluehallintoviraston näiden tehtävien suorittamisesta perimistä maksuista säädetään valtion maksuperustelaissa (150/1992).
