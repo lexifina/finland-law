@@ -1,0 +1,2 @@
+Laki vaarallisista ja haitallisista aineista aiheutuvien pilaantumisvahinkojen torjuntavalmiudesta, torjumisesta ja torjuntayhteistyöstä tehdyn vuoden 2000 pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
