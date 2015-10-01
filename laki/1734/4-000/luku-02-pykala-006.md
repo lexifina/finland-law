@@ -11,4 +11,4 @@ Rikosasiassa käräjäoikeus on päätösvaltainen myös, kun siinä on yksin pu
 7) törkeä petos;
 8) törkeä maksuvälinepetos;
 9) törkeä tietomurto;
-10) 1—9 kohdassa mainitun rikoksen rangaistava yritys.
+10) 1–9 kohdassa mainitun rikoksen rangaistava yritys.

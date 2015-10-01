@@ -7,7 +7,7 @@ Valituskirjelmässä, joka osoitetaan asianomaiselle hovioikeudelle, on mainitta
 2) miltä kohdin käräjäoikeuden ratkaisuun haetaan muutosta;
 3) mitä muutoksia käräjäoikeuden ratkaisuun vaaditaan tehtäviksi;
 4) perusteet, joilla muutosta vaaditaan, ja miltä osin käräjäoikeuden ratkaisun perustelut valittajan mielestä ovat virheelliset;
-4 a) peruste jatkokäsittelyluvan myöntämiselle 25 a luvun 5–8 §:ssä tarkoitetussa asiassa ja syyt, joiden nojalla valittaja katsoo perusteen olevan olemassa, jos ne eivät muutoin ilmene valituskirjelmästä;
+4 a) peruste jatkokäsittelyluvan myöntämiselle asiassa, jossa jatkokäsittelylupa 25 a luvun 5 §:n mukaan tarvitaan, ja syyt, joiden nojalla valittaja katsoo perusteen olevan olemassa, jos ne eivät muuten ilmene kirjelmästä;
 5) todisteet, joihin halutaan nojautua, ja mitä kullakin todisteella halutaan näyttää toteen; sekä
 6) mahdollinen pyyntö pääkäsittelyn toimittamisesta hovioikeudessa.
 
