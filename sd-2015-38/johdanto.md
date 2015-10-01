@@ -1,0 +1,2 @@
+Laki tiettyjen uusiutuvaa energiaa käyttävien energiajärjestelmien asentajien kouluttajan hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
