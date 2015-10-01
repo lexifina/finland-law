@@ -1,0 +1,3 @@
+# 1 §
+
+Suomen tuomioistuimen on annettava kansainvälistä oikeusapua kansainväliselle tuomioistuimelle sekä kansainvälisen riidan sovittelemista tai ratkaisemista varten asetetulle tutkintakomissiolle, sovintolautakunnalle, välitysoikeudelle ja muulle sellaiselle elimelle, jos sopimuksessa, jonka Suomi on tehnyt vieraan valtion kanssa tai johon Suomi on liittynyt, edellytetään sellaista kansainvälistä oikeusapua annettavaksi tai valtioneuvosto katsoo kohtuulliseksi siihen suostua. Kansainvälistä oikeusapua annettaessa noudatetaan soveltuvin osin, mitä kansainvälisestä oikeusavusta sekä tuomioiden tunnustamisesta ja täytäntöönpanosta siviili- ja kauppaoikeuden alalla annetussa laissa (426/2015) säädetään.
