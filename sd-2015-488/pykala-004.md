@@ -1,0 +1,7 @@
+# 4 § Säätiön säännöt
+
+Säätiön sääntöihin sisältyvän uuden lain vastaisen määräyksen sijasta noudatetaan uutta lakia, jollei tästä laista muuta johdu. Uuden lain vastaisen sääntöjen määräyksen muutos uuden lain mukaiseksi on ilmoitettava rekisteröitäväksi samalla, kun muu sääntöjen muutos ilmoitetaan rekisteröitäväksi, kuitenkin kolmen vuoden kuluessa tämän lain voimaantulosta. Rekisteriviranomainen voi asettaa säätiölle uhkasakon tämän velvoitteen täyttämisen tehosteeksi. Edellä sanotun estämättä ennen uuden lain voimaantuloa rekisteröityä sääntöjen määräystä säätiön toimihenkilön oikeudesta kirjoittaa säätiön nimi tulkitaan siten, että määräyksen perusteella säätiön hallitus voi antaa nimenkirjoitusoikeuden säännöissä määrätyssä asemassa olevalle, ja tällainen määräys on muutettava uuden lain mukaiseksi samalla, kun muu sääntöjen muutos ilmoitetaan rekisteröitäväksi.
+
+Uuden lain voimaantulon jälkeen rekisteröitäväksi ilmoitettua uuden lain vastaista sääntöjen määräystä ei voida rekisteröidä, ellei tästä laista johdu muuta.
+
+Säätiö voi uuden lain vahvistamisen jälkeen, mutta ennen sen voimaantuloa päättää sääntöjensä muuttamisesta uuden lain mukaisiksi noudattaen vanhaa lakia. Päätös voidaan ilmoittaa rekisteröitäväksi ennen uuden lain voimaantuloa ja rekisteröidä siten, että sääntöjen muutos tulee voimaan samana päivänä kuin uusi laki. Sama koskee toimitusjohtajan ja hallintoneuvoston ilmoittamista rekisteriin.
