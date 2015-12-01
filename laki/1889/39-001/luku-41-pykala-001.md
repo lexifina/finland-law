@@ -2,9 +2,9 @@
 Luku: 41 luku Aserikoksista
 
 Joka ampuma-aselain (1/1998) vastaisesti
-1) siirtää tai tuo Suomeen, siirtää Suomesta, kaupallisessa tarkoituksessa vie, kauttakuljettaa tai valmistaa taikka pitää kaupan, hankkii, pitää hallussaan tai luovuttaa ampuma-aseen, aseen osan, patruunoita tai erityisen vaarallisia ammuksia,
-2) kaupallisessa tarkoituksessa korjaa tai muuntaa ampuma-aseen tai aseen osan, pitää ampumarataa taikka kouluttaa ampuma-aseiden käyttöön,
-3) lainaa ampuma-aseen tai aseen osan sille, jolla ei ole oikeutta sen hallussapitoon,
+1) siirtää tai tuo Suomeen, siirtää Suomesta, kaupallisessa tarkoituksessa vie, kauttakuljettaa tai valmistaa taikka pitää kaupan, hankkii, pitää hallussaan tai luovuttaa ampuma-aseen, aseen osan, patruunoita, erityisen vaarallisia ammuksia, ohjus- tai raketinheitinjärjestelmän, kaasusumuttimen taikka tehokkaan ilma-aseen,
+2) kaupallisessa tarkoituksessa korjaa ampuma-aseen, aseen osan, ohjus- tai raketinheitinjärjestelmän, kaasusumuttimen taikka tehokkaan ilma-aseen taikka muuntaa ampuma-aseen tai aseen osan,
+3) lainaa ampuma-aseen, aseen osan, ohjus- tai raketinheitinjärjestelmän, kaasusumuttimen taikka tehokkaan ilma-aseen sille, jolla ei ole oikeutta sen hallussapitoon,
 4) kokonaan tai osittain laiminlyö ase-elinkeinonharjoittajalle ampuma-aselain 25 §:n 1 momentissa säädetyn velvollisuuden tiedoston pitämiseen,
 5) laiminlyö ampuma-aselain 110 §:n 1 momentissa säädetyn velvollisuuden tarkastuttaa myyntiä varten valmistetut, korjatut, Suomeen siirretyt tai tuodut ampuma-aseet tai patruunat,
 6) laiminlyö ampuma-aselain 112 a §:ssä säädetyn velvollisuuden esittää Suomeen siirretty tai tuotu pysyvästi ampumakelvottomaksi tehty ampuma-ase tai pysyvästi toimintakelvottomaksi tehty aseen osa poliisilaitokselle,
@@ -16,4 +16,4 @@ Ampuma-aserikoksesta on tuomittava myös se, joka kansainvälisen järjestäytyn
 
 Yritys on rangaistava.
 
-Ampuma-aserikoksena ei pidetä 1 momentin 1 kohdassa tarkoitettua ampuma-aseen, aseen osan, patruunoiden tai erityisen vaarallisten ammusten hallussapitoa, jos tällaisen esineen hallussapitäjä oma-aloitteisesti ilmoittaa esineestä poliisille ja luovuttaa sen poliisin haltuun.
+Ampuma-aserikoksena ei pidetä 1 momentin 1 kohdassa tarkoitettua ampuma-aseen, aseen osan, patruunoiden, erityisen vaarallisten ammusten, ohjus- tai raketinheitinjärjestelmän, kaasusumuttimen taikka tehokkaan ilma-aseen hallussapitoa, jos tällaisen esineen hallussapitäjä oma-aloitteisesti ilmoittaa esineestä poliisille ja luovuttaa sen poliisin haltuun.
