@@ -13,4 +13,4 @@ Ampuma-asetta tai räjähtävää esinettä erehdyttävästi muistuttavien esine
 
 Mitä 1 ja 2 momentissa säädetään, ei koske esineitä tai aineita, joiden hallussapito on työtehtävän tai muun hyväksyttävän syyn vuoksi tarpeen.
 
-Ampuma-aseiden ja räjähteiden hallussapidosta säädetään ampuma-aselaissa (1/1998), räjähdysvaarallisista aineista annetussa laissa (263/1953) ja räjähdeasetuksessa (473/1993).
+Ampuma-aseiden, kaasusumuttimien, tehokkaiden ilma-aseiden ja räjähteiden hallussapidosta säädetään ampuma-aselaissa (1/1998), vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetussa laissa (390/2005) ja räjähdeasetuksessa (473/1993).
