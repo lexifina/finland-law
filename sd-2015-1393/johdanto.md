@@ -1,0 +1,2 @@
+Laki integroidun hiilipitoisuuksien seurantajärjestelmän eurooppalaisen tutkimusinfrastruktuurikonsortion (ICOS ERIC) oikeushenkilöllisyydestä ja osittaisesta verovapaudesta Suomessa
+Eduskunnan päätöksen mukaisesti säädetään:
