@@ -1,0 +1,2 @@
+Laki valtioiden rajat ylittävien ympäristövaikutusten arvioinnista tehdyn yleissopimuksen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
