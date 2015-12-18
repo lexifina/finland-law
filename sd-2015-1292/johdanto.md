@@ -1,0 +1,2 @@
+Laki Euroopan unionin jäsenvaltion alueelta laittomasti vietyjen kulttuuriesineiden palauttamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
