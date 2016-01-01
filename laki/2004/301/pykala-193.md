@@ -8,4 +8,4 @@ Maahanmuuttoviraston päätöksestä valitetaan Helsingin hallinto-oikeuteen, jo
 4) pakolaisaseman lakkauttamista ja siihen liittyvää pakolaisen matkustusasiakirjan peruuttamista tai toissijaisen suojeluaseman lakkauttamista ja siihen liittyvän muukalaispassin peruuttamista;
 5) pakolaisaseman ja siihen liittyvän pakolaisen matkustusasiakirjan peruuttamista tai toissijaisen suojeluaseman ja siihen liittyvän muukalaispassin peruuttamista.
 
-Helsingin hallinto-oikeus voi käsitellä 103 §:ssä tarkoitettua asiaa koskevan valituksen yhden tuomarin kokoonpanossa.
+Helsingin hallinto-oikeus voi käsitellä 103 §:ssä ja 104 §:n 1 momentissa tarkoitettua asiaa koskevan valituksen yhden tuomarin kokoonpanossa.
