@@ -2,7 +2,7 @@
 
 Valtion eläkerahaston taseessa tai sen liitetiedoissa on ilmoitettava 1 §:ssä tarkoitettuun palvelukseen perustuvista eläkkeistä aiheutuva eläkevastuu sekä eläkevastuun kattamaton osa.
 
-Valtiovarainministeriö asettaa vuosittain rahaston hallintoa, taloutta ja tilejä tarkastamaan kaksi tilintarkastajaa, joiden molempien tulee olla joko Keskuskauppakamarin hyväksymiä tilintarkastajia (KHT) tai julkishallinnon ja -talouden tilintarkastajia (JHTT).
+Valtiovarainministeriö asettaa vuosittain rahaston hallintoa, taloutta ja tilejä tarkastamaan kaksi tilintarkastajaa, joiden molempien tulee olla joko KHT- tai JHT-tilintarkastajia.
 
 Tilintarkastajien on tarkastettava rahaston hallinto, kirjanpito ja tilinpäätös. Tilintarkastajien on annettava kultakin tilikaudelta tilintarkastuskertomus, jossa on erityisesti lausuttava:
 1) onko tilinpäätös laadittu tilinpäätöksen laatimista koskevien säännösten ja määräysten mukaisesti;
