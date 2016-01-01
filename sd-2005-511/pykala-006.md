@@ -1,5 +1,7 @@
 # 6 § Muutoksenhaku
 
-Ilmoituksen tekijä, joka on tyytymätön Valtiokonttorin tekemään päätökseen tässä laissa tai sen nojalla annetuissa säännöksissä tarkoitetussa asiassa, saa hakea päätökseen oikaisua 14 päivän kuluessa päätöksen tiedoksisaannista. Oikaisuvaatimus on tehtävä Valtiokonttorille. Päätökseen, johon saa hakea oikaisua, on liitettävä oikaisuvaatimusohje. Oikaisuvaatimus on käsiteltävä viipymättä.
+Ilmoituksen tekijä saa vaatia oikaisua Valtiokonttorin päätökseen siten kuin hallintolaissa (434/2003) säädetään.
 
-Oikaisuvaatimuksesta annettuun päätökseen saa hakea muutosta valittamalla siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
+Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
+
+Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
