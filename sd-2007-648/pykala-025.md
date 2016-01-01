@@ -5,4 +5,4 @@ Edunvalvontavaltuutuksen vahvistamista haetaan siltä holhousviranomaiselta, jon
 
 Jos valtuuttajalla ei ole kotikuntaa Suomessa, valtuutuksen vahvistamista haetaan siltä holhousviranomaiselta, jonka toimialueella hän pääasiallisesti oleskelee.
 
-Jollei 1 ja 2 momentin mukaan ole holhousviranomaista, joka on toimivaltainen vahvistamaan valtuutuksen, valtuutuksen vahvistaa Helsingin maistraatti.
+Valtiovarainministeriön asetuksella säädetään, mikä maistraatti on toimivaltainen vahvistamaan valtuutuksen tilanteissa, joissa 1 tai 2 momentin mukaista holhousviranomaista ei ole.
