@@ -1,8 +1,8 @@
-# 33 § Valitus
+# 33 § Muutoksenhaku
 Luku: 6 luku Muutoksenhaku
 
-Melan päätöksestä saa valittaa Vaasan hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Valituskirjelmä on toimitettava muutoksenhakuajassa Melalle.
+Paikallisyksikön päätökseen saa vaatia oikaisua Melalta siten kuin hallintolaissa säädetään.
 
-Melan on oikaistava päätöksensä, jos se hyväksyy valituksen kaikilta osin. Muussa tapauksessa Melan on toimitettava valituskirjelmä, lausuntonsa sekä asiassa kertyneet asiakirjat viipymättä ja viimeistään 30 päivän kuluessa valitusajan päättymisestä Vaasan hallinto-oikeudelle.
+Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla Vaasan hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
 
-Hallinto-oikeuden päätöksestä saa valittaa korkeimpaan hallinto-oikeuteen, jos korkein hallinto-oikeus myöntää valitusluvan.
+Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
