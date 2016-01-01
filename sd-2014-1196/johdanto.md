@@ -1,0 +1,2 @@
+Laki vakausmaksujen siirrosta yhteiseen kriisinratkaisurahastoon ja rahasto-osuuksien yhdistämisestä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
