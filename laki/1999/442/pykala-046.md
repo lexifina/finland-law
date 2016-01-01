@@ -8,4 +8,4 @@ Jos edunvalvonnassa olevalla ei ole kotikuntaa Suomessa, valvonta kuuluu sille h
 
 Jos edunvalvonta koskee poissa olevan tai tulevan omistajan oikeutta kuolinpesässä, valvonta kuuluu holhousviranomaiselle, joka 1 momentin mukaan olisi ollut toimivaltainen valvomaan perittävälle määrätyn edunvalvojan toimintaa. Jos jonkun etua on muutoin valvottava 10 §:n nojalla, toimivaltainen on se holhousviranomainen, jonka toimialueella edunvalvonnan tarve ilmenee.
 
-Jollei 1 ja 2 momentin mukaan ole holhousviranomaista, jolle valvonta kuuluu, velvollisuus valvoa edunvalvojan toimintaa on Helsingin maistraatilla.
+Valtiovarainministeriön asetuksella säädetään, mille maistraatille valvonta kuuluu tilanteissa, joissa 1–3 momentin mukaista holhousviranomaista ei ole.
