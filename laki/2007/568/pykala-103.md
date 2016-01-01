@@ -1,9 +1,9 @@
-# 103 § Valtion osuuden ja takuusuorituksen suorittaminen
+# 103 § Valtion osuuden maksaminen
 Osa: VI OSA MUUT SÄÄNNÖKSET
 Luku: 14 luku Rahoitus
 
-Valtio suorittaa Kansaneläkelaitokselle kuukausittain valtion rahoitusosuuden ennakkona 90 prosenttia 101 §:n mukaisista arvioiduista rahoitusosuuksista.
+Valtio maksaa Kansaneläkelaitokselle 98 §:n mukaiset rahoitusosuudet kuukausittain. Ennakkona 97 §:n 1 momentin mukaisista etuuksista valtio maksaa Kansaneläkelaitokselle kuukausittain 90 prosenttia valtion rahoitusosuuden arvioidusta määrästä.
 
-Valtio suorittaa Kansaneläkelaitokselle kuukausittain takuusuorituksen ennakkona määrän, joka vastaa yhtä kahdestoistaosaa takuusuorituksen arvioidusta vuotuisesta määrästä. Kansaneläkelaitoksen rahoituksen turvaamiseksi tai jos vuotuisen ennakon määrä olennaisesti muuttuu, ennakko voidaan jaksottaa edellä säädetystä poiketen.
+Kansaneläkerahaston toimintakulujen rahoittamiseksi joulukuussa maksettava valtion osuuden ennakko määrätään kuitenkin siten, että kansaneläkerahaston rahoitusomaisuuden vähimmäismäärä voidaan saavuttaa.
 
-Ennakoiden ja lopullisten valtion osuuksien vahvistamisesta ja suorittamisesta sekä sitä varten tarvittavista tiedoista säädetään tarkemmin valtioneuvoston asetuksella.
+Valtion osuuksien, niiden ennakoiden ja lopullisten valtion osuuksien vahvistamisesta ja maksamisesta sekä sitä varten tarvittavista tiedoista annetaan tarkempia säännöksiä valtioneuvoston asetuksella.

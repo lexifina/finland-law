@@ -2,7 +2,7 @@
 Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 11 luku Toimeenpano
 
-Etuus maksetaan kuukausittain etuudensaajan ilmoittamalle tilille Suomessa toimivaan rahalaitokseen. Etuus voidaan kuitenkin maksaa muullakin tavalla, jollei tilille maksaminen ole mahdollista tai jos tuen hakija tai saaja esittää muulle maksutavalle erityisen syyn.
+Etuus maksetaan kuukausittain etuudensaajan ilmoittamalle Euroopan unionissa sijaitsevalle tilille. Etuus voidaan kuitenkin maksaa muullakin tavalla, jollei tilille maksaminen ole mahdollista tai jos tuen hakija tai saaja esittää muulle maksutavalle erityisen syyn.
 
 Valtioneuvoston asetuksella säädetään tarkemmin maksamisajankohdasta.
 

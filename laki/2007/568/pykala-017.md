@@ -10,4 +10,4 @@ Henkilöä ei pidetä eläkkeensaajana, jos työkyvyttömyyseläke on jätetty l
 
 Jollei lepäämään jätettyä eläkettä ole Kansaneläkelaitoksen pyytämällä ilmoituksella vaadittu maksettavaksi uudelleen viiden vuoden kuluessa eläkkeen lepäämään jättämisestä, katsotaan se ilman eri päätöstä lakanneeksi.
 
-Täysimääräiseen työkyvyttömyyseläkkeeseen rinnastetaan myös sellainen eläke, jonka määrää on vähennetty 21 §:n mukaisesti.
+Täysimääräiseen työkyvyttömyyseläkkeeseen rinnastetaan myös eläke, jonka määrää on vähennetty 21 §:n mukaisesti tai jonka määrää on vähentänyt 22 §:n 1 tai 2 momentin mukainen huolto- tai perhe-eläke.

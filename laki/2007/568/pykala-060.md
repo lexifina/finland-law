@@ -8,7 +8,7 @@ Lapsikorotushakemuksessa on ilmoitettava:
 3) tiedot hakijan Suomessa asumasta ajasta, jos lapsikorotusta haetaan 51 §:n 1 momentin 2 ja 3 kohdan perusteella.
 
 Lapsikorotuksen saajan on ilmoitettava Kansaneläkelaitokselle:
-1) osoitteen muutoksesta, ulkomaille muutosta ja Suomeen paluusta;
+1) osoitteen muutoksesta sekä lapsikorotuksen saajan tai lapsen ulkomaille muutosta ja Suomeen paluusta;
 2) lapsikorotukseen oikeuttavan eläkkeen tai korvauksen lakkaamisesta;
 3) avio- tai avopuolison lapsen muutosta eri talouteen;
 4) lapsen antamisesta otto- tai kasvattilapseksi;

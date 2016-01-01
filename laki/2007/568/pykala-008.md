@@ -2,7 +2,7 @@
 Osa: I OSA YLEISET SÄÄNNÖKSET
 Luku: 1 luku Lain tarkoitus, soveltamisala ja määritelmät
 
-Kansaneläkkeeseen, perhe-eläkkeeseen ja lapsikorotukseen on oikeus Suomessa asuvalla henkilöllä. Perhe-eläkkeen edellytyksenä on lisäksi, että myös edunjättäjä asui kuollessaan Suomessa.
+Kansaneläkkeeseen, perhe-eläkkeeseen ja lapsikorotukseen on oikeus Suomessa asuvalla henkilöllä. Perhe-eläkkeen edellytyksenä on lisäksi, että myös edunjättäjä asui kuollessaan Suomessa ja lapsikorotuksen edellytyksenä, että myös lapsi asuu Suomessa.
 
 Kansaneläkkeeseen ja lapsikorotukseen on oikeus myös muualla kuin Suomessa asuvalla henkilöllä, jos hän asuu valtiossa, jossa sovelletaan sosiaaliturva-asetusta. Tällöin edellytetään myös, että henkilö kuuluu sosiaaliturva-asetuksen soveltamisalaan ja on asunut tai työskennellyt Suomessa.
 

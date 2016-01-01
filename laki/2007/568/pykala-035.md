@@ -9,18 +9,18 @@ Täydennysmäärää laskettaessa vuositulona ei oteta huomioon lesken saamaa:
 4) vammaisetuuksista annetun lain mukaista vammaisetuutta;
 5) lapsilisälain (796/1992) mukaista lapsilisää;
 6) lasten kotihoidon ja yksityisen hoidon tuesta annetun lain mukaista lasten kotihoidontuen hoitolisää;
-7) maahanmuuttajan erityistuesta annetun lain (1192/2002) mukaista erityistukea;
+7) takuueläkkeestä annetun lain (703/2010) mukaista takuueläkettä;
 8) 63 ikävuoden täyttämisen jälkeen tehdystä työstä karttunutta 6 §:n 1 momentissa mainittujen lakien mukaista työeläkettä lukuun ottamatta perhe-eläkkeeseen sisältyvää edunjättäjän 63 ikävuoden täyttämisen jälkeen tekemästä työstä karttunutta eläkettä;
 9) valtion varoista suoritettavasta eläkkeen korvaamisesta alle kolmivuotiaan lapsen hoidon tai opiskelun ajalta annetun lain mukaista etuutta;
 10) työeläkkeen lapsikorotusta;
 11) kertakorotusta, joka maksetaan työeläkkeen työkyvyttömyyseläkkeeseen ja tällaisen eläkkeen jälkeen maksettavaan perhe-eläkkeeseen sekä lakisääteisen tapaturmavakuutuksen ja sotilastapaturmalain mukaiseen työkyvyttömyyseläkkeeseen;
 12) eräiden työeläkkeiden tarkistamisesta työeläkkeen ja kansaneläkkeen yhteensovittamisen johdosta annetun lain mukaista korotusta;
 13) Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain mukaista kuntoutusrahaa, työeläkelakien mukaista kuntoutusrahaa ja kuntoutuskorotusta tai muuta työ- tai ansiokyvyn palauttamiseksi tai parantamiseksi annettavan kuntoutuksen tai koulutuksen ajalta maksettavaa etuutta;
-14) kustannusten korvauksia ja julkisesta työvoimapalvelusta annetun lain mukaista ylläpitokorvausta tai muuta vastaavaa ylläpitokorvausta;
-15) tapaturmavakuutuslain haittarahaa tai muita haitan perusteella maksettavia korvauksia;
+14) kustannusten korvauksia ja julkisesta työvoima- ja yrityspalvelusta annetun lain (916/2012) mukaista kulukorvausta tai muuta vastaavaa korvausta;
+15) työtapaturma- ja ammattitautilain tai maatalousyrittäjän työtapaturma- ja ammattitautilain mukaista haittarahaa tai muita haitan perusteella maksettavia korvauksia;
 16) sotilasvammalain mukaista täydennyskorkoa ja lisähuoltoeläkettä;
 17) toimeentulotuesta annetun lain (1412/1997) mukaista toimeentulotukea;
 18) sosiaalihuoltolain 27 e §:n mukaisesta työtoiminnasta tai vastaavasta toiminnasta maksettavaa etuutta tai korvausta;
-19) edellä mainittuja etuuksia vastaavaa ulkomailta maksettavaa etuutta lukuun ottamatta 1 kohdassa mainittua perhe-eläkettä ja lapsikorotusta sekä 3 ja 6―12 kohdassa mainittuja etuuksia vastaavia ulkomailta maksettavia etuuksia;
+19) edellä mainittuja etuuksia vastaavaa ulkomailta maksettavaa etuutta lukuun ottamatta 1 kohdassa mainittua perhe-eläkettä ja lapsikorotusta sekä 3 ja 6–12 kohdassa mainittuja etuuksia vastaavia ulkomailta maksettavia etuuksia;
 20) metsätaloudesta saatua tuloa; eikä
 21) osuutta kuolinpesän tuotosta.

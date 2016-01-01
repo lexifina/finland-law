@@ -2,11 +2,9 @@
 Osa: II OSA KANSANELÄKE
 Luku: 4 luku Kansaneläkkeen määräytymisperusteet
 
-Kansaneläkkeen määrää laskettaessa otetaan huomioon henkilön Suomessa asuma aika, joka on kulunut 16 vuoden iän täyttämisestä eläkkeen alkamiseen, kuitenkin enintään 65 vuoden iän täyttämiseen saakka.
+Kansaneläkkeen määrää laskettaessa otetaan huomioon henkilön Suomessa asuma aika, joka on kulunut 16 vuoden iän täyttämisestä kansaneläkkeen tai takuueläkkeestä annetun lain (703/2010) mukaisen takuueläkkeen alkamiseen, kuitenkin enintään 65 vuoden iän täyttämiseen saakka. Kuntoutustuen saaminen ei kuitenkaan estä Suomessa asutun ajan karttumista, jos kuntoutustuen jälkeen myönnetään uusi eläke aikaisintaan kuukauden kuluttua kuntoutustuen päättymisestä.
 
-Laskettaessa 1 momentissa tarkoitettua aikaa huomioon ei oteta aikaa, jona henkilö on saanut ulkomailta kansaneläkettä vastaavaa tai 22 §:n 1 momentissa tarkoitettua tai siihen rinnastettavaa muuta jatkuvaa etuutta kuin perhe-eläkettä.
-
-Jos 1 momentin mukaan tarkoitettua aikaa on kertynyt vähemmän kuin 80 prosenttia siitä kokonaisajasta, joka on kulunut 16 vuoden iän täyttämisestä eläkkeen alkamiseen tai 65 vuoden iän täyttämiseen, täysimääräisen kansaneläkkeen määrä kerrotaan suhteutuskertoimella. Suhteutuskerroin saadaan jakamalla 1 momentissa tarkoitettu aika ajalla, joka on 80 prosenttia siitä kokonaisajasta, joka on kulunut 16 vuoden iän täyttämisestä eläkkeen alkamiseen tai 65 vuoden iän täyttämiseen.
+Jos 1 momentin mukaan tarkoitettua aikaa on kertynyt vähemmän kuin 80 prosenttia siitä kokonaisajasta, joka on kulunut 16 vuoden iän täyttämisestä kansaneläkkeen tai takuueläkkeen alkamiseen tai 65 vuoden iän täyttämiseen, täysimääräisen kansaneläkkeen määrä kerrotaan suhteutuskertoimella. Suhteutuskerroin saadaan jakamalla 1 momentissa tarkoitettu aika ajalla, joka on 80 prosenttia siitä kokonaisajasta, joka on kulunut 16 vuoden iän täyttämisestä kansaneläkkeen tai takuueläkkeen alkamiseen tai 65 vuoden iän täyttämiseen.
 
 Suhteutuskerrointa laskettaessa aikamäärät pyöristetään alaspäin lähimpään täyteen kuukauteen.
 

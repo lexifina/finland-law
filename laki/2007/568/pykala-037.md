@@ -9,3 +9,5 @@ Lesken jatkoeläke lakkaa sitä seuraavan kuukauden alusta, jona leski solmii uu
 Lesken jatkoeläke lakkaa, kun leskelle myönnetään 29 §:n 1 momentissa tarkoitettu eläke. Jos eläke myönnetään kuukauden ensimmäisenä päivänä, jatkoeläke lakkaa sen kuukauden alusta. Muussa tapauksessa jatkoeläke lakkaa eläkkeen myöntämistä seuraavan kuukauden alusta.
 
 Jatkoeläkkeen perusmäärä lakkaa sitä seuraavan kuukauden alusta, jona lesken kanssa samassa taloudessa asunut lesken tai edunjättäjän lapsi, joka on asunut samassa taloudessa lesken ja edunjättäjän kanssa jo edunjättäjän kuollessa, muuttaa pois lesken taloudesta. Perusmäärä lakkaa aina viimeistään sitä seuraavan kuukauden alusta, jona nuorin edellä mainituista lapsista tai lesken ja edunjättäjän yhteisistä lapsista täyttää 18 vuotta.
+
+Jatkoeläkkeen täydennysmäärä lakkaa ilman eri päätöstä, jos 73 §:n 3 momentin 3 kohdan perusteella keskeytettyä täydennysmäärää ei ole kahden vuoden kuluessa keskeyttämisestä lukien vaadittu maksettavaksi.

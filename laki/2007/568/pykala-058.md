@@ -6,9 +6,8 @@ Leskeneläkehakemuksessa on ilmoitettava:
 1) lesken henkilöllisyystiedot;
 2) edunjättäjän henkilöllisyystiedot, asuinmaa ja kuolinaika;
 3) edunjättäjän ja lesken Suomessa sekä ulkomailla asumat ja työskentelemät ajat;
-4) tiedot leskeneläkkeeseen vaikuttavista ansio- ja muista tuloista;
-5) tiedot eläkkeistä, joita edunjättäjä oli saanut tai hakenut; ja
-6) tiedot lesken 5 §:n 3 momentin mukaisen jatkuvan laitoshoidon alkamisesta ja päättymisestä.
+4) tiedot leskeneläkkeeseen vaikuttavista ansio- ja muista tuloista; sekä
+5) tiedot eläkkeistä, joita edunjättäjä oli saanut tai hakenut.
 
 Leskeneläkehakemuksessa tulee myös selvittää, onko hakijalla yhteistä alle 18-vuotiasta lasta edunjättäjän kanssa sekä asuiko samassa taloudessa lesken kanssa alle 18-vuotias lesken tai edunjättäjän lapsi edunjättäjän kuollessa sekä tällaisen lapsen henkilöllisyystiedot.
 

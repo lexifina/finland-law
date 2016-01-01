@@ -1,7 +1,7 @@
-# 102 § Valtion takuusuoritus ja maksuvalmiussuoritus
+# 102 § Valtion maksuvalmiussuoritus
 Osa: VI OSA MUUT SÄÄNNÖKSET
 Luku: 14 luku Rahoitus
 
-Kansaneläkerahaston vieraalla pääomalla vähennetyn rahoitusomaisuuden on oltava kalenterivuoden päättyessä vähintään neljä prosenttia kansaneläkevakuutuksen vuotuisista kokonaiskuluista (rahoitusomaisuuden vähimmäismäärä). Jos kansaneläkerahastoon kertyvät tuotot eivät riitä rahoitusomaisuuden vähimmäismäärän saavuttamiseen, puuttuva osa suoritetaan valtion varoista (takuusuoritus).
+Sen lisäksi, mitä 98 ja 101 §:ssä säädetään valtion rahoitusosuudesta, valtion tulee maksaa kansaneläkerahastoon sellainen määrä varoja, että rahaston maksuvalmius on aina riittävästi turvattu (maksuvalmiussuoritus). Suoritus on palautettava valtiolle, kun sitä ei enää tarvita kansaneläkerahaston maksuvalmiuden turvaamiseen.
 
-Sen lisäksi, mitä 1 momentissa säädetään takuusuorituksesta ja 101 §:ssä valtion rahoitusosuudesta, valtion tulee suorittaa Kansaneläkelaitokselle sellainen määrä varoja, että kansaneläkerahaston maksuvalmius on kunakin ajankohtana riittävästi turvattu (maksuvalmiussuoritus).
+Maksuvalmiussuorituksen maksamisesta ja palauttamisesta voidaan säätää tarkemmin valtioneuvoston asetuksella.

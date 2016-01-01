@@ -1,7 +1,5 @@
-# 98 § Kansaneläkerahaston tuotot
+# 98 § Etuuksien ja kulujen rahoitus
 Osa: VI OSA MUUT SÄÄNNÖKSET
 Luku: 14 luku Rahoitus
 
-Kansaneläkerahastosta maksettavat 97 §:n mukaiset etuudet ja toimintakulut rahoitetaan työnantajan kansaneläkemaksusta kertyvillä varoilla, valtion maksuosuuksilla ja kansaneläkerahaston muilla tuotoilla.
-
-Kansaneläkerahaston muita tuottoja ovat rahaston sijoitustuotot.
+Valtio rahoittaa kansaneläkerahastosta maksettavat 97 §:n mukaiset etuudet ja kulut. Toimintakulut valtio rahoittaa siltä osin kuin kansaneläkerahaston sijoitustuotot ja muut tuotot eivät niitä kata.

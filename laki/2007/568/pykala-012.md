@@ -2,7 +2,7 @@
 Osa: II OSA KANSANELÄKE
 Luku: 3 luku Työkyvyttömyyseläke
 
-Työkyvyttömyyseläkkeeseen on oikeus 16―64-vuotiaalla työkyvyttömällä henkilöllä, kuitenkin siten, että alle 20-vuotiaalle eläke voidaan myöntää vain 16 §:ssä mainituin edellytyksin.
+Työkyvyttömyyseläkkeeseen on oikeus 16–64-vuotiaalla työkyvyttömällä henkilöllä, kuitenkin siten, että alle 20-vuotiaalle eläke voidaan myöntää vain 16 §:ssä mainituin edellytyksin.
 
 Työkyvyttömänä pidetään tätä lakia sovellettaessa henkilöä, joka on sairauden, vian tai vamman takia kykenemätön tekemään tavallista työtään tai muuta siihen verrattavaa työtä, jota on pidettävä hänen ikänsä, ammattitaitonsa sekä muut seikat huomioon ottaen hänelle sopivana ja kohtuullisen toimeentulon turvaavana.
 

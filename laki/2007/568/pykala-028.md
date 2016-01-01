@@ -2,7 +2,7 @@
 Osa: III OSA PERHE-ELÄKE
 Luku: 5 luku Leskeneläke
 
-Leskellä on oikeus alkueläkkeeseen, jota maksetaan kuudelta kuukaudelta 242,56 euroa kuukaudessa.
+Leskellä on oikeus alkueläkkeeseen, jota maksetaan kuudelta kuukaudelta 261,15 euroa kuukaudessa.
 
 Jos edunjättäjä oli asunut ulkomailla, alkueläkkeen määrä lasketaan 32 §:n mukaisesti. Alkueläkettä ei kuitenkaan makseta, jos sen määrä on pienempi kuin 5,38 euroa kuukaudessa.
 
