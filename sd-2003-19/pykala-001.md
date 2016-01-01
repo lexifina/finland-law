@@ -1,0 +1,5 @@
+# 1 § Soveltamisala ja tarkoitus
+
+Tässä laissa säädetään suomalaisten julkisyhteisöjen ja eräiden yritysten välisiä taloudellisia suhteita koskevasta avoimuudesta, yleisiin taloudellisiin tarkoituksiin liittyviä palveluja tuottavien yritysten erilliskirjanpitovelvollisuudesta sekä valtion tiedonantovelvollisuudesta Euroopan yhteisöjen komissiolle.
+
+Lain tarkoituksena on turvata komission ja kansallisten viranomaisten mahdollisuudet valvoa yhteisön kilpailu- ja valtiontukisääntöjen noudattamista siten kuin säädetään jäsenvaltioiden ja julkisten yritysten välisten taloudellisten suhteiden avoimuudesta sekä tiettyjen yritysten taloudellisen toiminnan avoimuudesta annetussa komission direktiivissä 2006/111/EY, jäljempänä avoimuusdirektiivi, ja EY:n perustamissopimuksen 86 artiklan 2 kohdan määräysten soveltamisesta tietyille yleisiin taloudellisiin tarkoituksiin liittyviä palveluja tuottaville yrityksille korvauksena julkisista palveluista myönnettävään valtiontukeen tehdyssä komission päätöksessä 2005/842/EY.
