@@ -1,0 +1,3 @@
+# 2 §
+
+Tuomioistuin voi määrätä syyttäjän ajamassa rikosasiassa valtion varoista maksettavaksi korvausta tässä laissa säädettyjen perusteiden mukaisesti myös muun asianosaisen kutsumalle todistajalle, jos todistaminen asian selvittämisen kannalta on ollut tarpeen. Samoin voidaan korvausta määrätä maksettavaksi epäillyn tai asianomistajan pakkokeinoasiassa kutsumalle todistajalle. Milloin asianosainen on jo maksanut todistajalle korvauksen, hänelle on määrättävä suoritettavaksi vastaava korvaus valtion varoista. Se ei kuitenkaan saa ylittää tämän lain mukaan todistajalle maksettavan korvauksen määrää.
