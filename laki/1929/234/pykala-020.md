@@ -1,5 +1,9 @@
-# 20§
-Osa: I Avioliiton päättäminen.
-Luku: 4 luku Kuuluttaminen.
+# 20 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 5 LUKU Perheasioiden sovittelu
 
-Jos kihlakumppani on hengenvaarallisesti sairaana taikka on sodan aikana sotapalveluksessa tai siihen kutsuttu, saadaan kuuluttaminen kirkollisella vihkimisellä päätettävään avioliittoon toimittaa julkilukemalla kuulutus vain yhden kerran ja siviiliavioliitto päättää kuulutuksetta.
+Perheessä esiintyvät ristiriidat ja oikeudelliset asiat on pyrittävä ensi sijassa selvittämään asianosaisten välisissä neuvotteluissa ja ratkaisemaan sopimuksella.
+
+Perheasioiden sovittelijat antavat pyynnöstä apua ja tukea silloin, kun perheessä esiintyy ristiriitoja.
+
+Sovittelijat voivat antaa pyynnöstä apua ja tukea myös silloin, kun lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen tai sopimuksen noudattamisessa ilmenee ristiriitoja.

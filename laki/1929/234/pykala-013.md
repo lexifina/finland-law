@@ -1,7 +1,7 @@
-# 13§
-Osa: I Avioliiton päättäminen.
-Luku: 4 luku Kuuluttaminen.
+# 13 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 3 LUKU Avioliiton esteiden tutkinta
 
-Kuulutuksen avioliittoon antaa evankelisluterilaisessa kirkossa kirkkoherra, kreikkalaiskatolisessa kirkossa seurakunnanesimies ja muussa uskonnollisessa yhdyskunnassa seurakunnan johtaja tai seurakunnan hallituksen siihen valtuuttama hallituksen jäsen.
+Jos avioliiton esteiden tutkija toteaa, että avioliitolle ei ole laissa säädettyä estettä, hänen on annettava siitä todistus.
 
-Siviiliavioliittoon antaa kuulutuksen maalla ja kauppalassa kihlakunnantuomari tai kihlakunnanoikeuden puheenjohtaja taikka erityinen korkeimman oikeuden määräämä viranomainen sekä kaupungissa maistraatin puheenjohtaja tai maistraatin määräyksen mukaan joku sen lainoppineista jäsenistä taikka järjestysoikeuden puheenjohtaja.
+Todistusta ei saa antaa ennen kuin seitsemäntenä päivänä avioliiton esteiden tutkinnan pyytämisestä. Todistuksen saa kuitenkin antaa aikaisemmin, jos siihen on painavia syitä.

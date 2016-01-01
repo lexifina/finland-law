@@ -1,5 +1,7 @@
-# 14§
-Osa: I Avioliiton päättäminen.
-Luku: 4 luku Kuuluttaminen.
+# 14 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 4 LUKU Vihkiminen
 
-Kuulutusta on molempien kihlakumppanien pyydettävä sen paikkakunnan kuulutusviranomaiselta, missä nainen on kirkonkirjoihin tai vastaavaan rekisteriin merkittyä.
+Vihkiminen toimitetaan sukulaisten tai muiden todistajien läsnä ollessa joko kirkollisena vihkimisenä tai siviilivihkimisenä.
+
+Kirkollinen vihkiminen toimitetaan evankelis-luterilaisessa tai ortodoksisessa kirkossa taikka rekisteröidyssä uskonnollisessa yhdyskunnassa.

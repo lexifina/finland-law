@@ -1,7 +1,9 @@
-# 32§
-Osa: II Puolisoiden oikeussuhteet.
-Luku: 1 luku Yleisiä säännöksiä.
+# 32 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
 
-Vaimo saa avioliittoon mennessään miehensä sukunimen; käyttäköön kuitenkin, jos hän tahtoo ja ennen vihkimistä siitä vihkijälle ilmoittaa, sitä nimeä, mikä hänellä oli naimattomana ollessaan, ja miehensä nimeä niin yhdistettyinä, että hänen nimensä käy miehen nimen edellä.
+Avioeroa tai yhteiselämän lopettamista koskevassa asiassa tuomioistuimen on omasta aloitteestaan otettava käsiteltäväksi kysymys siitä, miten puolisoiden lasten huolto ja tapaamisoikeus olisi lapsen etua silmällä pitäen järjestettävä.
 
-Avioliitossa syntyneet lapset saavat isänsä sukunimen.
+Lapsen huoltoa ja tapaamisoikeutta käsitellessään tuomioistuimen on erityisesti kiinnitettävä asianosaisten huomiota siihen, että huollon ja tapaamisoikeuden tarkoituksena on turvata lapsen myönteiset ja läheiset suhteet kumpaankin vanhempaan.
+
+Lapsen vanhemman tai sosiaalilautakunnan vaatimuksesta tuomioistuimen tulee antaa päätös huollosta ja tapaamisoikeudesta siten kuin lapsen huollosta ja tapaamisoikeudesta annetussa laissa (361/83) säädetään.

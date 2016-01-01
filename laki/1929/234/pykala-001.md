@@ -1,7 +1,9 @@
-# 1§
-Osa: I Avioliiton päättäminen.
-Luku: 1 luku Yleisiä säännöksiä.
+# 1 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 1 LUKU Yleisiä säännöksiä
 
-Avioliitto on päätettävä kirkollisella tai siviilivihkimisellä.
+Kaksi henkilöä, jotka ovat sopineet menevänsä avioliittoon keskenään, ovat kihlautuneet.
 
-Ennen vihkimistä on avioliittoon kuulutettava.
+Avioliitto solmitaan vihkimisellä.
+
+Ennen vihkimistä on selvitettävä, ettei avioliitolle ole esteitä.

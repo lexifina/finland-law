@@ -1,5 +1,5 @@
-# 95§
-Osa: IV Omaisuuden ositus.
-Luku: 1 luku Yleisiä säännöksiä.
+# 95 §
+Osa: IV OSA OMAISUUDEN OSITUS
+Luku: 1 LUKU Yleisiä määräyksiä
 
-Vastiketta oli myskin annettava, niinkuin 94 §:ssä sanotaan, jos puoliso on käyttänyt omaisuutta, johon toisella puolisolla on avio-oikeus, sellaisen omaisuuden hankkimiseen tai parantamiseen, johon ei ole avio-oikeutta, tai sellaisen velan maksamiseen, josta puhutaan 99 §:n 2―4 momenteissa.
+Vastiketta on myöskin annettava, niinkuin 94 §:ssä sanotaan, jos puoliso on käyttänyt omaisuutta, johon toisella puolisolla on avio-oikeus, sellaisen omaisuuden hankkimiseen tai parantamiseen, johon ei ole avio-oikeutta, tai sellaisen velan maksamiseen, josta puhutaan 99 §:n 2 ja 3 momentissa.

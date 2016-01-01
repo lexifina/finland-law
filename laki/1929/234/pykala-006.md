@@ -1,7 +1,5 @@
-# 6§
-Osa: I Avioliiton päättäminen.
-Luku: 2 luku Kihlaus.
+# 6 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 2 LUKU Avioliiton esteet
 
-Mies ja nainen, jotka ovat sopineet avioliittoon menemisestä toistensa kanssa, ovat kihlautuneet.
-
-Sille, joka ei saa mennä avioliittoon toisen suostumuksetta, ei kihlauksesta, milloin suostumusta siihen ei ole annettu, johdu muita velvoituksia, kuin mitä 7 ja 9 §:ssä mainitaan.
+Kukaan ei saa mennä avioliittoon, jos hänen aikaisempi avioliittonsa on vielä voimassa. Avioliittoon ei myöskään saa mennä se, jonka rekisteröity parisuhde on voimassa.

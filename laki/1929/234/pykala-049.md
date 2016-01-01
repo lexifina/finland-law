@@ -1,7 +1,7 @@
-# 49§
-Osa: II Puolisoiden oikeussuhteet.
-Luku: 4 luku Perheen elatus.
+# 49 §
+Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
+Luku: 4 LUKU Elatus
 
-Jos puoliso ilmeisesti laiminlyö velvollisuutensa ottaa osaa perheen elatukseen tai antaa rahaa toisen puolison käytettäväksi, voi oikeus velvoittaa hänet antamaan tälle kuukausittain, viikoittain tai muuten sopivin ajoin varoja niihin elatusmenoihin, joista tämän on huolehdittava tai jotka oikeus olosuhteisiin katsoen harkitsee olevan syytä uskoa hänen huolehdittavikseen.
+Elatusapua voidaan 47 ja 48 §:n nojalla määrätä suoritettavaksi taannehtivasti enintään kanteen vireille panoa edeltäneeltä vuodelta.
 
-Kantajan pyynnöstä voidaan sellaisessa asiassa, josta 1 momentissa puhutaan, antaa päätös, siksi kun asia on tuomiolla ratkaistu.
+Tuomioistuimen päätös elatusavun suorittamisesta voidaan panna heti täytäntöön, vaikka se ei ole saanut lainvoimaa, jollei päätöksessä ole toisin määrätty.

@@ -1,9 +1,9 @@
-# 45§
-Osa: II Puolisoiden oikeussuhteet.
-Luku: 3 luku Avioehtosopimukset sekä puolisoiden väliset lahjat.
+# 45 §
+Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
+Luku: 3 LUKU Avioehtosopimukset sekä puolisoiden väliset lahjat
 
-Jos kihlakumppani tahtoo antaa kihlatulleen omaisuutta, joka on tälle tuleva avioliittoa päätettäessä, noudattakoon, mitä 42 §:ssä avioehtosopimuksista säädetään. Tällaiseen lahjaan on myös sovellettava, mitä 43 ja 44 §:ssä on määrätty. Avioliiton aikana älköön puoliso lahjoittako omaisuutta toiselle puolisolle.
+Jos puoliso lahjoittaa toiselle puolisolle irtainta omaisuutta, lahjoituksesta on ilmoitettava maistraattiin siten kuin lahjanlupauslain 6 §:ssä säädetään, jotta lahjansaaja voisi saada suojaa lahjanantajan velkojien takaisinsaantivaatimuksilta konkurssissa ja ulosotossa.
 
-Mitä edellä sanotaan, ei koske tavanmukaisia lahjoja, joiden arvo ei ole epäsuhteessa antajan oloihin.
+Mitä 1 momentissa säädetään, ei koske lahjaa, jonka kohde ja antamisajankohta on yksilöity 43 §:n nojalla rekisteröitäväksi jätetyssä avioehtosopimuksessa.
 
-Jos kihlakumppani on sitoutunut avioliiton aikana vastikkeetta antamaan toiselle puolisolle rahaa tai muuta omaisuutta, älköön sitoumus olko velvoittava, vaikka siitä olisi annettu kirjallinen todiste.
+Puolisoiden välisen lahjan takaisinsaannista säädetään takaisinsaannista konkurssipesään annetussa laissa (758/1991) sekä ulosottokaaressa (705/2007).

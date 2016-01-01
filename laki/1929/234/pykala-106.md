@@ -1,5 +1,5 @@
-# 106§
-Osa: IV Omaisuuden ositus.
-Luku: 3 luku Erinäisiä säännöksiä.
+# 106 §
+Osa: IV OSA OMAISUUDEN OSITUS
+Luku: 3 LUKU Erinäisiä säännöksiä
 
 Jos puoliso tai kuolleen puolison perilliset tahtovat moittia ositusta, olkoon laki, niinkuin perinnönjaon moittimisesta on säädetty.

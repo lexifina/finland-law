@@ -1,7 +1,9 @@
-# 116§
-Osa: V Yhteisiä säännöksiä.
-Luku: 2 luku Erinäisiä säännöksiä.
+# 116 §
+Osa: V OSA KANSAINVÄLISEN YKSITYISOIKEUDEN ALAAN KUULUVAT SÄÄNNÖKSET
+Luku: 2 luku Ulkomaisen avioliiton tunnustaminen
 
-Oikeuden päätös lasten huollosta tai puolison elatusvelvollisuudesta voidaan, vaikka siihen haetaan muutosta, heti panna täytäntöön, niinkuin se olisi saanut lainvoiman. Sama olkoon laki päätöksestä, joka koskee puolison oikeutta käyttää toiselle puolisolle kuuluvaa irtainta omaisuutta tai puolison julistamista menettäneeksi oikeuden tehdä velka, josta toinenkin puoliso on vastuussa.
+Avioliitto, joka on solmittu vieraassa valtiossa kihlakumppanin kuoltua tai ilman, että kihlakumppani oli vihittäessä henkilökohtaisesti saapuvilla, taikka joka on tullut solmituksi vain tosiasiallisin toimenpitein ilman vihkimistä tai muuta menettelyä, on Suomessa pätevä ainoastaan, jos:
+1) se on pätevä 115 §:n 1 momentissa tarkoitetussa valtiossa; ja
+2) avioliiton katsomiseen täällä päteväksi on erityistä syytä.
 
-Jos puolison elatusvelvollisuutta koskevaa päätöstä sittemmin muutetaan tai päätös kumotaan, harkitkoon oikeus, onko puoliso saapa takaisin, mitä hän jo on suorittanut, tai osan siitä.
+Harkittaessa, onko 1 momentissa tarkoitettua avioliittoa pidettävä pätevänä, on erityisesti otettava huomioon kihlakumppanien yhteydet siihen valtioon, jossa avioliitto solmittiin, sekä puolisoiden yhteiselämän kestoaika.

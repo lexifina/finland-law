@@ -1,5 +1,7 @@
-# 44§
-Osa: II Puolisoiden oikeussuhteet.
-Luku: 3 luku Avioehtosopimukset sekä puolisoiden väliset lahjat.
+# 44 §
+Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
+Luku: 3 LUKU Avioehtosopimukset sekä puolisoiden väliset lahjat
 
-Avioehtosopimus, jonka kihlakumppanit ovat tehneet, tulee voimaan avioliiton päättämisestä, jos se annetaan oikeuteen tai 43 §:n 3 momentissa mainitussa tapauksessa tuomarille kuukauden kuluessa siitä päivästä, jona avioliitto on päätetty; muuten olkoon avioehtosopimus voimassa siitä päivästä, jolloin se on otettu oikeuden pöytäkirjaan.
+Avioehtosopimus tulee voimaan, kun se on rekisteröity.
+
+Avioehtosopimus ei kuitenkaan tule voimaan, jos se on jätetty maistraattiin avioliiton purkauduttua tai sen jälkeen, kun avioeroa koskeva asia on tullut vireille.

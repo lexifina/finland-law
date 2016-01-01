@@ -1,7 +1,11 @@
-# 31§
-Osa: II Puolisoiden oikeussuhteet.
-Luku: 1 luku Yleisiä säännöksiä.
+# 31 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
 
-Puolisot ovat keskenään oikeudellisesti yhdenvertaiset, mikäli ei jäljempänä toisin sanota.
+Avioeroa tai yhteiselämän lopettamista koskevan asian yhteydessä voidaan esittää vaatimus elatusavun vahvistamisesta ja lapsen huollosta tai tapaamisoikeudesta sekä muu sellainen vaatimus, joka liittyy avioeroa tai yhteiselämän lopettamista koskevaan asiaan.
 
-Puolisoiden oikeudesta olla lastensa holhoojia säädetään erikseen.
+Avioeroa tai yhteiselämän lopettamista koskevassa asiassa voi tuomioistuin antaa väliaikaisen määräyksen 1 momentissa tarkoitetusta vaatimuksesta sekä yhteiselämän lopettamisesta.
+
+Tuomioistuimen antamaan väliaikaiseen määräykseen ei saa hakea muutosta.
+
+Väliaikainen määräys on voimassa, kunnes tuomioistuin antaa asiasta päätöksen, jollei määräystä tätä ennen peruuteta tai muuteta.

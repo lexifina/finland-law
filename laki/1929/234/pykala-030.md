@@ -1,5 +1,5 @@
-# 30§
-Osa: II Puolisoiden oikeussuhteet.
-Luku: 1 luku Yleisiä säännöksiä.
+# 30 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
 
-Kun avioliitto on päätetty, tulee miehen ja vaimon, toinen toistaan tukien, yksissä neuvoin toimia perheen hyväksi.
+Avioeroa koskeva asia otetaan harkinta-ajan kuluttua tuomioistuimessa jatkokäsittelyyn puolisoiden tai toisen puolison hakemuksesta siten kuin 28 §: ssä säädetään.

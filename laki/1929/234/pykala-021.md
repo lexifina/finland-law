@@ -1,5 +1,9 @@
-# 21§
-Osa: I Avioliiton päättäminen.
-Luku: 5 luku Vihkiminen.
+# 21 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 5 LUKU Perheasioiden sovittelu
 
-Kirkollinen vihkimien on papin sekä siviilivihkiminen 13 §:n 2 momentissa mainitun viranomaisen toimitettava.
+Sovittelijan tulee pyrkiä saamaan aikaan luottamuksellinen ja avoin keskustelu perheenjäsenten välillä. Hänen tulee pyrkiä saamaan aikaan yhteisymmärrys siitä, miten perheessä esiintyvät ristiriidat voidaan ratkaista kaikkien asianosaisten kannalta parhaalla mahdollisella tavalla.
+
+Sovittelijan tehtävänä on erityisesti kiinnittää huomiota perheeseen kuuluvien alaikäisten lasten aseman turvaamiseen.
+
+Sovittelijan on avustettava asianosaisia sopimusten tekemisessä sekä muissa ristiriitojen ratkaisemiseksi tarpeellisissa toimenpiteissä.

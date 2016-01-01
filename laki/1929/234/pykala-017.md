@@ -1,7 +1,7 @@
-# 17§
-Osa: I Avioliiton päättäminen.
-Luku: 4 luku Kuuluttaminen.
+# 17 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 4 LUKU Vihkiminen
 
-Kun kuulutus annetaan kirkollisella vihkimisellä päätettävään avioliittoon, on se kuulutusviranomaisen toimesta kolmena sunnuntaina peräkkäin luettava julki kirkossa siinä tai niissä seurakunnissa, joihin kihlakumppanit kuuluvat.
-
-Kuulutus siviiliavioliittoon on julkipantava neljäntoista päivän ajaksi, julkipanopäivää niihin lukematta, sen tai niiden kuntain kunnallisia ilmoituksia varten varatulle taululle, missä kihlakumppanit ovat kirkonkirjoihin tai vastaavaan rekisteriin merkityt.
+Kirkollisen vihkimisen saa toimittaa:
+1) evankelis-luterilaisessa ja ortodoksisessa kirkossa pappi; sekä
+2) rekisteröidyssä uskonnollisessa yhdyskunnassa se, jolla on vihkimisoikeudesta annetun lain (571/2008) mukainen vihkimisoikeus.

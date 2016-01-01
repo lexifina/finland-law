@@ -1,5 +1,5 @@
-# 102§
-Osa: IV Omaisuuden ositus.
-Luku: 2 luku Osituksen toimittaminen.
+# 102 §
+Osa: IV OSA OMAISUUDEN OSITUS
+Luku: 2 LUKU Osituksen toimittaminen
 
-Vahingonkorvaus, jonka puoliso avioliiton purkautumisen johdosta voi olla velvollinen suorittamaan toiselle puolisolle, on, mikäli se on erääntynyt, osituksessa suoritettava sikäli, kuin siinä korvausvelvolliselle puolisolle tulee tai hänellä muuten on omaisuutta, joka ei mene velan katteeksi. Sama olkoon laki toiselle puolisolle suoritettavasta elatusavusta, joka on erääntynyt.
+Erääntynyt elatusapu, joka puolison on suoritettava toiselle puolisolle, on suoritettava osituksessa sikäli kuin elatusvelvolliselle puolisolle osituksessa tulee tai hänellä muutoin on omaisuutta, joka ei mene velan katteeksi.

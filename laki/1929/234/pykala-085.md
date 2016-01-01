@@ -1,7 +1,9 @@
-# 85§
-Osa: IV Omaisuuden ositus.
-Luku: 1 luku Yleisiä säännöksiä.
+# 85 §
+Osa: IV OSA OMAISUUDEN OSITUS
+Luku: 1 LUKU Yleisiä määräyksiä
 
-Kun puoliso on kuollut tai avioliitto on tuomiolla purettu, on, puolison tai kuolleen puolison perillisten vaatimuksesta, toimitettava omaisuuden ositus, paitsi milloin kumpaisellakaan puolisolla ei ollut avio-oikeutta toisen omaisuuteen.
+Kun avioeroa koskeva asia on vireillä taikka kun avioliitto on purkautunut, omaisuuden ositus on toimitettava, jos puoliso tai kuolleen puolison perillinen sitä vaatii.
 
-Ositus tarkoittaa kumpaisenkin puolison avio-oikeuden toteuttamista. Jos puolisoilla on yhteistä omaisuutta, on myöskin, jonkun asianosaisen vaatiessa, sellainen omaisuus osituksessa jaettava.
+Jos kumpaisellakaan puolisolla ei ole avio-oikeutta toistensa omaisuuteen, on omaisuuden osituksen sijasta toimitettava ainoastaan puolisoiden omaisuuden erottelu.
+
+Jos puolisoilla on yhteistä omaisuutta, on omaisuus vaadittaessa jaettava omaisuuden osituksessa taikka erottelussa.

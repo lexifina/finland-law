@@ -1,5 +1,7 @@
-# 26§
-Osa: I Avioliiton päättäminen.
-Luku: 6 luku Erinäisiä säännöksiä
+# 26 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
 
-Kanne lahjojen takaisinsaamisesta sekä hyvityksestä tai muusta vahingonkorvauksesta kihlauksen purkautumisen johdosta on tehtävä kuuden kuukauden kuluessa siitä, kun kihlaus on purkautunut.
+Harkinta-aika alkaa siitä, kun avioliiton purkamista koskeva puolisoiden yhteinen hakemus on jätetty tuomioistuimelle tai sen kansliaan tai kun puolison hakemus on annettu tiedoksi toiselle puolisolle.
+
+Kun harkinta-aikaa on kulunut vähintään kuusi kuukautta, puolisot tuomitaan avioeroon, jos he yhdessä sitä vaativat tai toinen heistä sitä vaatii. Vaatimus on tehtävä ennen kuin vuosi on kulunut harkinta-ajan alkamisesta.

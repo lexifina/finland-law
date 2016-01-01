@@ -1,5 +1,7 @@
-# 2§
-Osa: I Avioliiton päättäminen.
-Luku: 1 luku Yleisiä säännöksiä.
+# 2 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 1 LUKU Yleisiä säännöksiä
 
-Avioliittoon ei saa mennä mies, ennenkuin on kahdeksantoista eikä nainen ennenkuin on seitsemäntoista vuotta täyttänyt, ellei tasavallan presidentti ole antanut siihen lupaa.
+Puolisot ovat keskenään yhdenvertaiset. Heidän tulee avioliitossa osoittaa keskinäistä luottamusta sekä yhteisesti toimia perheen hyväksi.
+
+Kummallakin puolisolla on oikeus itse päättää osallistumisestaan ansiotyöhön sekä yhteiskunnalliseen ja muuhun toimintaan perheen ulkopuolella.

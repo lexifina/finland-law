@@ -1,9 +1,9 @@
-# 23§
-Osa: I Avioliiton päättäminen.
-Luku: 5 luku Vihkiminen.
+# 23 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 5 LUKU Perheasioiden sovittelu
 
-Vihkimistä älköön toimitettako, jos vihkijä tietää, että avioliitto ei ole sallittu.
+Lupa perheasioiden sovittelutoimintaan voidaan myöntää hakemuksesta yhteisölle, yhtymälle tai säätiölle, jonka harkitaan antavan perheasioiden sovittelua ammattitaitoisesti. Lupa voidaan myöntää hakemuksesta myös henkilölle, joka on perehtynyt lastensuojelu- tai perheneuvontatyöhön taikka perheoikeuteen ja jolla on aikaisemman kokemuksen sekä henkilökohtaisten ominaisuuksiensa perusteella riittävät edellytykset toimia sovittelijana.
 
-Jos vihkimistä pyydetään muulta kuin siltä, joka on antanut kuulutuksen, on ennen vihkimistä esitettävä kuulutusviranomaisen todistus siitä, että kuuluttaminen on toimitettu ja ettei ole tiedossa seikkaa, joka estäisi avioliiton.
+Lupa myönnetään määräajaksi, enintään viideksi vuodeksi kerrallaan. Lupa voidaan peruuttaa, jos tähän katsotaan olevan aihetta.
 
-Jos kuuluttamisesta on kulunut enemmän kuin kuusi kuukautta, älköön vihkiminen enää sen nojalla tapahtuko.
+Myöntäessään luvan aluehallintovirasto voi samalla antaa tarkempia määräyksiä toimialueesta ja tehtävistä sekä velvollisuudesta antaa aluehallintovirastolle toiminnan valvontaa varten tarpeellisia tietoja.

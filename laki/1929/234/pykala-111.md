@@ -1,7 +1,7 @@
-# 111§
-Osa: V Yhteisiä säännöksiä.
-Luku: 1 luku Elatusoikeuden turvaaminen.
+# 111 §
+Osa: V OSA KANSAINVÄLISEN YKSITYISOIKEUDEN ALAAN KUULUVAT SÄÄNNÖKSET
+Luku: 1 luku Avioliiton solmiminen
 
-Ulosottomiehellä on valta muuttaa palkan pidättämisestä antamaansa määräystä, milloin aihetta siihen ilmaantuu.
+Jos Suomen kansalainen tai sellainen vieraan valtion kansalainen, jolla on asuinpaikka Suomessa, aikoo mennä avioliittoon vieraan valtion viranomaisen edessä ulkomailla tai Suomessa, hänellä on oikeus pyynnöstä saada todistus avioliiton esteiden tutkijalta siitä, että hänellä on Suomen lain mukaan oikeus mennä kyseiseen avioliittoon.
 
-Jos puoliso on suorittanut erääntyneen maksun ja antanut vakuuden elatusvelvollisuutensa vastaisesta täyttämisestä tai jos muusta syystä ei ole tarpeen pitää määräystä voimassa, peruuttakoon ulosottomies määräyksen.
+Todistusta ei kuitenkaan saa antaa, jos avioliiton esteiden tutkimiseksi tarvittavat tiedot eivät käy selville väestötietojärjestelmästä eikä todistusta pyytävä esitä niistä muuta luotettavaa selvitystä.

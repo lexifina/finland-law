@@ -1,7 +1,7 @@
-# 4§
-Osa: I Avioliiton päättäminen.
-Luku: 1 luku Yleisiä säännöksiä.
+# 4 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 2 LUKU Avioliiton esteet
 
-Mies, joka on ollut naimisissa, älköön tasavallan presidentin luvatta menkö uuteen avioliittoon, ennenkuin kuusi kuukautta on kulunut aikaisemman avioliiton purkautumisesta.
+Avioliittoon ei saa mennä alle kahdeksantoistavuotias.
 
-Sama olkoon laki naisesta, jos hän avioliiton purkautuessa ei ollut raskaana tai sen jälkeen on synnyttänyt lapsen. Muuten älköön nainen, joka on ollut naimisissa, uudelleen menkö avioliittoon, ennenkuin aikaisemman avioliiton purkautumisesta on kulunut kymmenen kuukautta.
+Oikeusministeriö voi kuitenkin erityisistä syistä antaa kahdeksaatoista vuotta nuoremmalle luvan mennä avioliittoon. Ennen asian ratkaisemista luvanhakijan huoltajalle on varattava tilaisuus tulla kuulluksi, jos hänen olinpaikkansa voidaan kohtuullisin toimenpitein selvittää.

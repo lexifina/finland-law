@@ -1,5 +1,5 @@
-# 40§
-Osa: II Puolisoiden oikeussuhteet.
-Luku: 2 luku Puolisoiden omaisuus.
+# 40 §
+Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
+Luku: 2 LUKU Puolisoiden omaisuus
 
-Jos puoliso 38 tai 39 §:ssä mainitussa tapauksessa kieltäytyy antamasta suostumustaan kiinteän omaisuuden kiinnittämiseen taikka irtaimen omaisuuden luovuttamiseen tai panttaamiseen voi oikeus hakemuksesta sallia sellaisen toimen, milloin kieltäytymiseen ei havaita olevan syytä.
+Tuomioistuin voi hakemuksesta antaa luvan 38 ja 39 §:ssä tarkoitettuun luovutukseen tai muuhun oikeustoimeen, jos toinen puoliso on kieltäytynyt antamasta suostumustaan taikka jos suostumusta ei ole muusta syystä saatu hankituksi.

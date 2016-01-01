@@ -1,7 +1,11 @@
-# 27§
-Osa: I Avioliiton päättäminen.
-Luku: 6 luku Erinäisiä säännöksiä
+# 27 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
 
-Jos kihlautunut nainen ei ole Suomessa merkitty kirkonkirjoihin tai vastaavaan rekisteriin, on kuulutusta pyydettävä sekä kuulutus hänen osaltaan luettava julki tai julkipantava siellä, missä hän oleskelee.
+Puolisot on tuomittava avioeroon ilman harkinta-aikaa:
+1) jos puolisot ovat toisilleen sukua suoraan takenevassa ja etenevässä polvessa tai sisaruksia taikka puolisisaruksia; tai
+2) jos avioliitto on solmittu jommankumman puolison aikaisemman avioliiton tai rekisteröidyn parisuhteen ollessa voimassa, eikä aikaisempi avioliitto tai rekisteröity parisuhde vielä ole purkautunut.
 
-Mitä edellä on sanottu, on vastaavasti sovellettava kuulutuksen julkilukemiseen tai julkipanoon miehen osalta, jos hän ei ole Suomessa kirjoissa.
+Virallisen syyttäjän on ajettava kannetta puolisoiden tuomitsemisesta avioeroon 1 momentin nojalla.
+
+Jos avioliitto on solmittu aikaisemman avioliiton ollessa voimassa, kumpaisellakin aikaisemman avioliiton puolisolla on oikeus saada avioero ilman harkinta-aikaa.

@@ -1,7 +1,10 @@
-# 112§
-Osa: V Yhteisiä säännöksiä.
-Luku: 1 luku Elatusoikeuden turvaaminen.
+# 112 §
+Osa: V OSA KANSAINVÄLISEN YKSITYISOIKEUDEN ALAAN KUULUVAT SÄÄNNÖKSET
+Luku: 1 luku Avioliiton solmiminen
+Väliotsikko: Diplomaattisten edustajien ja eräiden pappien vihkimisoikeus
 
-Palkkaerää, joka on pidätetty puolisoiden asuessa erillään välien rikkoutumisen vuoksi, älköön ulosmitattako elatusvelvollisen puolison muusta velasta, paitsi milloin velkoja ei muuten saisi saatavaansa maksetuksi eikä toisen puolison ja lasten elatus ole mainitun palkkaerän varassa. Mitä tässä on sanottu, on vastaavasti sovellettava palkkaerään, joka avioliiton purkauduttua on pidätetty sellaisten puolison lasten elatusta varten, jotka ovat toisen puolison huostassa.
+Ulkoasiainministeriö voi antaa Suomen ulkomaanedustuston virkamiehelle oikeuden asemamaassaan vihkiä avioliittoon kihlakumppaneita, joista ainakin toinen on Suomen kansalainen.
 
-Jos puolison varat on luovutettu konkurssiin, älköön konkurssin aikana palkkaerää, joka kuuluu konkurssipesälle, pidätettäkö toisen puolison tai lasten hyväksi.
+Opetusministeriö voi hakemuksesta ja ulkoasiainministeriön lausunnon saatuaan antaa henkilölle, joka saa suomalaisessa uskonnollisessa yhdyskunnassa toimittaa kirkollisen vihkimisen, oikeuden vieraassa valtiossa vihkiä avioliittoon kihlautuneita, joista ainakin toinen on Suomen kansalainen. Oikeus voidaan liittää tiettyyn virkaan, toimeen tai tehtävään taikka antaa edellä tarkoitetulle henkilölle henkilökohtaisesti.
+
+Ulkoasiainministeriö ja opetusministeriö voivat asettaa vihkimisoikeudelle sellaisia rajoituksia tai ehtoja, jotka ovat aiheellisia asianomaisen vieraan valtion lainsäädännön tai vihkimisoikeuden tarpeeseen vaikuttavien seikkojen perusteella.

@@ -1,9 +1,7 @@
-# 16§
-Osa: I Avioliiton päättäminen.
-Luku: 4 luku Kuuluttaminen.
+# 16 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 4 LUKU Vihkiminen
 
-Kun kuulutusta pyydetään, on kihlakumppanien esitettävä tarpeellinen selvitys siitä, että avioliitto on sallittu, mikäli tämä ei käy selville kirkonkirjasta tai rekisteristä, joka on kuulutusviranomaisen käytettävänä.
+Sen lisäksi, mitä vihkimisestä säädetään 15 §:ssä, kirkollisen vihkimisen muut ehdot ja muodot määrää se uskonnollinen yhdyskunta, jossa vihkiminen toimitetaan.
 
-Kumpaisenkin kihlakumppanin on myöskin annettava kuulutusviranomaiselle kirjoitus, jossa hän vakuuttaa, etteivät kihlakumppanit ole keskenään sellaisessa sukulaisuudessa tai lankoudessa, jossa avioliitto on kielletty, ja ettei hän sairasta sellaista tautia, joka on avioliiton esteenä, sekä ilmoittaa, onko hän aikaisemmin mennyt avioliittoon.
-
-Mitä 2 momentissa on sanottu, älköön sovellettako, sikäli kuin lupa avioliittoon on hankittu.
+Siviilivihkimisen toimittamisesta säädetään asetuksella.

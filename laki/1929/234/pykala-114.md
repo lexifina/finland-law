@@ -1,7 +1,6 @@
-# 114§
-Osa: V Yhteisiä säännöksiä.
-Luku: 2 luku Erinäisiä säännöksiä.
+# 114 §
+Osa: V OSA KANSAINVÄLISEN YKSITYISOIKEUDEN ALAAN KUULUVAT SÄÄNNÖKSET
+Luku: 1 luku Avioliiton solmiminen
+Väliotsikko: Vihkimisen toimittaminen
 
-Oikeus voi, sen estämättä, mitä se on päättänyt puolison elatusvelvollisuudesta tai oikeudesta käyttää toiselle puolisolle kuuluvaa irtainta omaisuutta, jommankumman vaatimuksesta määrätä asiasta toisin, kun oleellisesti muuttuneet olot sitä vaativat.
-
-Päätös, josta puhutaan 49 §:n 2 momentissa ja 81 §:ssä, voidaan peruuttaa, milloin olosuhteet antavat siihen aihetta.
+Avioliittoon vihkiminen Suomen viranomaisen edessä Suomessa tai vieraassa valtiossa toimitetaan Suomen lain muotomääräyksiä noudattaen.

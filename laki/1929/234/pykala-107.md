@@ -1,5 +1,5 @@
-# 107§
-Osa: IV Omaisuuden ositus.
-Luku: 3 luku Erinäisiä säännöksiä.
+# 107 §
+Osa: IV OSA OMAISUUDEN OSITUS
+Luku: 3 LUKU Erinäisiä säännöksiä
 
-Ellei kumpaisellakaan puolisolla ollut avio-oikeutta toisen puolison omaisuuteen, olkoon puolisolla tai kuolleen puolison perillisillä, jotka muuten 85 §:n mukaan voisivat tehdä vaatimuksen osituksen toimittamisesta, oikeus vaatia, että puolisoiden omaisuus on eroteltava 104, 105 ja 106 §:ssä tarkoitetuin oikeusvaikutuksin, ja on tällöin myöskin 85 §:n määräystä yhteisen omaisuuden jakamisesta sekä 89, 97, 98, 101 ja 102 §:n säännöksiä soveltuvilta osin noudatettava.
+Jos kummallakaan puolisoista ei ole avio-oikeutta toistensa omaisuuteen, on omaisuuden erottelussa soveltuvin osin noudatettava, mitä 89, 98, 101, 102, 103 b, 104 ja 106 §:ssä säädetään.

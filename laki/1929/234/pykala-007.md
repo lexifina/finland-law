@@ -1,9 +1,7 @@
-# 7§
-Osa: I Avioliiton päättäminen.
-Luku: 2 luku Kihlaus.
+# 7 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 2 LUKU Avioliiton esteet
 
-Jos kihlaus puretaan, olkoon kumpaisellakin kihlakumppanilla oikeus saada takaisin ne lahjat, mitkä hän kihlauksen johdosta on kihlatulleen antanut.
+Kukaan ei saa mennä avioliittoon isänsä, äitinsä, näiden vanhempien tai muun suoraan takenevassa polvessa olevan sukulaisensa kanssa eikä lapsensa, lapsenlapsensa tai muun suoraan etenevässä polvessa olevan sukulaisensa kanssa.
 
-Jos jompikumpi kuolee, saakoon eloonjäänyt niin ikään takaisin toiselle antamansa lahjat, mutka pitäköön, mitä hän itse on saanut.
-
-Milloin lahja ei ole tallella, harkitkoon oikeus, onko sen arvo korvattava.
+Sisarukset ja puolisisarukset eivät saa mennä keskenään avioliittoon.

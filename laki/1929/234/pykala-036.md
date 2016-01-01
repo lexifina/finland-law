@@ -1,5 +1,5 @@
-# 36§
-Osa: II Puolisoiden oikeussuhteet.
-Luku: 2 luku Puolisoiden omaisuus.
+# 36 §
+Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
+Luku: 2 LUKU Puolisoiden omaisuus
 
-Kumpikin puoliso vallitkoon omaisuuttaan 37―39 §:ssä mainituin rajoituksin.
+Kumpikin puoliso vallitkoon omaisuuttaan 37–39 §:ssä mainituin rajoituksin.

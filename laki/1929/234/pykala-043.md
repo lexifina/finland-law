@@ -1,9 +1,7 @@
-# 43§
-Osa: II Puolisoiden oikeussuhteet.
-Luku: 3 luku Avioehtosopimukset sekä puolisoiden väliset lahjat.
+# 43 §
+Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
+Luku: 3 LUKU Avioehtosopimukset sekä puolisoiden väliset lahjat
 
-Avioehtosopimus on annettava sen paikkakunnan oikeuteen, missä miehellä on asunto ja koti, tai, ellei hän asu Suomessa, Helsingin raastuvanoikeuteen.
+Avioehtosopimus on jätettävä maistraattiin rekisteröitäväksi siten kuin maistraattien eräistä henkilörekistereistä annetussa laissa säädetään.
 
-Oikeus ottakoon avioehtosopimuksen sitä varten pidettävään pöytäkirjaan sekä toimittakoon viivytyksettä sopimuksen antamisesta oikeuteen kuulutuksen virallisiin sanomalehtiin.
-
-Milloin oikeuden istuntopäivää ei ole, saa avioehtosopimuksen maalla antaa tuomarille, jonka tulee pitää huoli siitä, että 2 momentin säännöksiä noudatetaan.
+Avioehtosopimuksessa ilmoitettuun irtaimen omaisuuden lahjoitukseen sovelletaan lisäksi, mitä lahjanlupauslain (625/1947) 6 §:ssä tarkoitettujen lahjoitusten rekisteröimisestä erikseen säädetään.

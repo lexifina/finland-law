@@ -1,5 +1,8 @@
-# 28§
-Osa: I Avioliiton päättäminen.
-Luku: 6 luku Erinäisiä säännöksiä
+# 28 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
+Väliotsikko: Oikeudenkäynti
 
-Kihlakumppani, joka on tyytymätön siihen, että kuulutus tai vihkiminen on evätty, voi siitä tehdä kantelun sille viranomaiselle, jonka tutkittava kuulutusviranomaisen tai vihkijiin virkavirhettä koskeva asia on.
+Avioeroa tai yhteiselämän lopettamista koskeva asia pannaan vireille hakemuksella, jonka voivat tehdä puolisot yhdessä tai jonka voi tehdä toinen puoliso yksin.
+
+Jos hakemuksen on tehnyt puoliso yksin, tuomioistuimen on varattava toiselle puolisolle tilaisuus tulla kuulluksi. Tuomioistuimen on annettava kutsu ja hakemus toiselle puolisolle tiedoksi siten kuin haasteen tiedoksiantamisesta säädetään.

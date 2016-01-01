@@ -1,7 +1,5 @@
-# 15§
-Osa: I Avioliiton päättäminen.
-Luku: 4 luku Kuuluttaminen.
+# 15 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 4 LUKU Vihkiminen
 
-Ennenkuin kuulutus saadaan antaa, tutkikoon kuulutusviranomainen, onko avioliitto lain mukaan sallittu.
-
-Kun avioliitto aiotaan päättää kirkollisella vihkimisellä, olkoon kuulutuksen antamisen ehtona sen lisäksi, mitä siitä asianomaisessa uskonnollisessa yhdyskunnassa on määrätty.
+Vihkimisessä kihlakumppanien tulee samanaikaisesti olla läsnä. Kun kumpikin kihlakumppani on vastannut myöntävästi vihkijän hänelle tekemään kysymykseen, tahtooko hän mennä kihlakumppaninsa kanssa avioliittoon, vihkijä toteaa heidät aviopuolisoiksi.

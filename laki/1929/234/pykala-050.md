@@ -1,9 +1,11 @@
-# 50§
-Osa: II Puolisoiden oikeussuhteet.
-Luku: 4 luku Perheen elatus.
+# 50 §
+Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
+Luku: 4 LUKU Elatus
 
-Niistä menoista, mitkä puolisolla kalenterivuoden aikana mahdollisesti on ollut perheen elatukseen yli sen, mitä hän olisi ollut velvollinen suorittamaan, älköön hänellä olko valtaa hakea toiselta puolisolta korvausta, paitsi milloin liikamenot ovat olleet melkoiset ja vaatimus on olosuhteisiin katsoen kohtuullinen.
+Puolisot voivat tehdä keskenään sopimuksen 47 tai 48 §:n nojalla toiselle puolisolle suoritettavasta elatusavusta. Sopimus on tehtävä kirjallisesti sekä esitettävä sen kunnan sosiaalilautakunnan vahvistettavaksi, jossa puolisolla tai toisella heistä on asuinpaikka.
 
-Korvauskannetta älköön tehtäkö sen jälkeen, kun vuosi on kulunut kalenterivuoden päättymisestä.
+Jos kummallakaan puolisolla ei ole Suomessa asuinpaikkaa, mutta Suomen tuomioistuin on toimivallasta, sovellettavasta laista, päätösten tunnustamisesta ja täytäntöönpanosta sekä yhteistyöstä elatusvelvoitteita koskevissa asioissa annetun neuvoston asetuksen (EY) N:o 4/2009 3 tai 6 artiklan mukaan toimivaltainen elatusta koskevassa asiassa, sosiaalilautakunta voi vahvistaa 1 momentissa tarkoitetun sopimuksen, jos osapuolet ovat elatusvelvoitteisiin sovellettavasta laista Haagissa 23 päivänä marraskuuta 2007 tehdyn pöytäkirjan 7 artiklan mukaisesti sopineet, että elatusvelvoitteeseen sovelletaan Suomen lakia. Sopimus on esitettävä vahvistettavaksi Helsingin kaupungin sosiaalilautakunnalle.
 
-Korvausta älköön hakeko muu kuin korvaukseen oikeutettu puoliso.
+Ennen sopimuksen vahvistamista sosiaalilautakunnan on harkittava, voidaanko sopimusta pitää kohtuullisena ottaen huomioon puolison elatuksen tarve, toisen puolison maksukyky sekä muut asiaan vaikuttavat seikat.
+
+Sopimus, jonka sosiaalilautakunta on vahvistanut, voidaan panna täytäntöön niin kuin tuomioistuimen antama lainvoimainen päätös.

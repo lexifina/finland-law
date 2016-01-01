@@ -1,7 +1,7 @@
-# 104§
-Osa: IV Omaisuuden ositus.
-Luku: 3 luku Erinäisiä säännöksiä.
+# 104 §
+Osa: IV OSA OMAISUUDEN OSITUS
+Luku: 3 LUKU Erinäisiä säännöksiä
 
-Jos puoliso on osituksessa luopunut siitä, mitä hänelle olisi ollut tuleva, eikä sittemmin voi makaa ennen ositusta syntynyttä velkaa, vastatkoot kuolleen puolison perilliset, kukin omasta ja toistensa puolesta, tai toinen puoliso siitä, mikä puuttuu, liiaksi saamansa omaisuuden arvolla. Jos puoliso on konkurssitilassa älköön vaadittako selvitystä siitä, mitä häneltä puuttuu.
+Jos puoliso on osituksessa luovuttanut puolisolleen tai tämän perillisille omaisuuttaan huomattavasti enemmän kuin hän olisi ollut velvollinen luovuttamaan, ositus voidaan peräyttää konkurssipesään siten kuin takaisinsaannista konkurssipesään annetussa laissa säädetään.
 
-Mitä 1 momentissa sanotaan, älköön sovellettako, milloin ositus on tapahtunut puolison kuoleman johdosta, sellaiseen velkaan, josta kuollut puoliso oli vastuussa.
+Jotta 1 momentissa tarkoitetussa osituksessa omaisuutta saanut puoliso tai tämän perilliset voisivat saada suojaa toisen puolison velkojien takaisinsaantivaatimuksilta konkurssissa ja ulosotossa, osituskirja on jätettävä maistraattiin rekisteröitäväksi siten kuin maistraattien eräistä henkilörekistereistä annetussa laissa säädetään.

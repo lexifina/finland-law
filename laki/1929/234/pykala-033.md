@@ -1,6 +1,6 @@
-# 33§
-Osa: II Puolisoiden oikeussuhteet.
-Luku: 1 luku Yleisiä säännöksiä.
+# 33 §
+Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
+Luku: 1 LUKU Yleisiä säännöksiä
 
 Avioliitto ei rajoita puolison oikeutta tehdä sopimuksia, mikäli 2 luvussa ei toisin säädetä, eikä myöskään hänen oikeuttaan esiintyä kantajana ja vastaajana.
 

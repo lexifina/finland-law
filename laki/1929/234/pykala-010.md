@@ -1,9 +1,5 @@
-# 10§
-Osa: I Avioliiton päättäminen.
-Luku: 3 luku Avioesteet.
+# 10 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 3 LUKU Avioliiton esteiden tutkinta
 
-Ne, jotka ovat toisilleen sukua suoraan takenevassa ja etenevässä polvessa tahi sisaruksia taikka joista toinen on toisen veljen tai sisaren jälkeläinen, älkööt menkö keskenään avioliittoon.
-
-Henkilöiden kesken, joista toinen on ollut naimisissa toisen takenevassa tai etenevässä polvessa olevan sukulaisen kanssa, olkoon avioliitto niin ikään kielletty.
-
-Avioliitosta lapseksiottajan ja ottolapsen kesken on voimassa, mitä siitä on erikseen säädetty.
+Maistraatin tehtävänä on tutkia, että avioliitolle ei ole laissa säädettyä estettä (avioliiton esteiden tutkinta). Avioliiton esteet voi tutkia myös evankelis-luterilaisen kirkon tai ortodoksisen kirkkokunnan seurakunta, jonka jäseniä kihlakumppanit ovat tai toinen heistä on.

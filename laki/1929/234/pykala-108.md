@@ -1,7 +1,10 @@
-# 108§
-Osa: V Yhteisiä säännöksiä.
-Luku: 1 luku Elatusoikeuden turvaaminen.
+# 108 §
+Osa: V OSA KANSAINVÄLISEN YKSITYISOIKEUDEN ALAAN KUULUVAT SÄÄNNÖKSET
+Luku: 1 luku Avioliiton solmiminen
+Väliotsikko: Oikeus solmia avioliitto
 
-Jos puoliso, joka on velvoitettu tai joka täyttääkseen elatusvelvollisuutensa on kirjallisessa, todistajain yllekirjoittamassa sopimuksessa sitoutunut antamaan varoja toisen puolison käytettäväksi tai tämän ja lasten elatukseen, on laiminlyönyt velvollisuutensa eikä vaaditaessa ole antanut vakuutta velvollisuutensa täyttämisestä, voidaan sen turvaamiseksi määrätä, että määräosa puolison palkasta on, sikäli kuin se erääntyy, maksettava toiselle puolisolle. Määräystä sellaisesta palkan pidättämisestä älköön kuitenkaan annettako maksuerän suorittamiseksi, joka on erääntynyt aikaisemmin kuin vuotta ennen pidätyksen hakemista.
+Kahden henkilön oikeus solmia avioliitto Suomen viranomaisen edessä määräytyy Suomen lain mukaan.
 
-Jos maksuvelvollinen puoliso on lastensa huoltaja tai on velvollinen elättämään avioliiton ulkopuolella syntynyttä lasta, älköön erääntyneestä palkasta pidätettäkö enempää, kuin että hän voi täyttää elatusvelvollisuutensa myöskin lapsia kohtaan.
+Jos henkilöt eivät kumpikaan ole Suomen kansalaisia eikä kummallakaan ole asuinpaikkaa Suomessa, heillä on oikeus solmia avioliitto Suomen viranomaisen edessä vain, jos avioliitto on sallittu Suomen lain mukaan ja jos kummallakin on oikeus solmia avioliitto sen valtion lain mukaan, jonka kansalainen hän on tai jossa hänellä on asuinpaikka, tai sen valtion lain mukaan, jota jommassakummassa näistä valtioista on sovellettava avioliiton esteiden tutkintaan. Kihlakumppani on velvollinen esittämään hyväksyttävän selvityksen oikeudestaan solmia avioliitto vieraan valtion lain mukaan.
+
+Jos sen valtion lainsäädännön sisällöstä, jonka mukaan kihlakumppanin oikeus solmia avioliitto 2 momentin mukaan määräytyy, ei valtion sotatilan tai siihen verrattavien epävakaiden olojen vuoksi ole saatavissa selvitystä, kihlakumppanin oikeus solmia avioliitto voidaan 2 momentin estämättä tutkia Suomen lain nojalla, jos kihlakumppani sitä pyytää ja avioliiton solmimista täällä voidaan pitää perusteltuna ottaen huomioon kihlakumppanien yhteydet Suomeen.

@@ -1,7 +1,8 @@
-# 115§
-Osa: V Yhteisiä säännöksiä.
-Luku: 2 luku Erinäisiä säännöksiä.
+# 115 §
+Osa: V OSA KANSAINVÄLISEN YKSITYISOIKEUDEN ALAAN KUULUVAT SÄÄNNÖKSET
+Luku: 2 luku Ulkomaisen avioliiton tunnustaminen
+Väliotsikko: Tunnustamisen edellytykset
 
-Sopimusta, jonka puolisot ovat tehneet perheen tai toisen puolison ja lasten elatuksesta taikka puolison oikeudesta käyttää toiselle puolisolle kuuluvaa irtainta omaisuutta, voi oikeus puolison vaatimuksesta muuttaa, jos se havaitaan ilmeisesti kohtuuttomaksi tai oleellisesti muuttuneet olot antavat siihen aihetta.
+Avioliitto, johon puolisot ovat menneet vieraassa valtiossa sen valtion viranomaisen edessä, on pätevä Suomessa, jos se on pätevä siinä valtiossa, jossa avioliitto solmittiin, tai siinä valtiossa, jossa jommallakummalla puolisolla oli asuinpaikka tai jonka kansalainen hän oli avioliittoa solmittaessa.
 
-Sama olkoon laki, jos oli vahingonkorvauksesta tai osituksesta avioliiton purkamisen varalta tehty sopimus on ilmeisesti kohtuuton.
+Avioliitto, jonka vieraan valtion diplomaattinen tai konsulivirkamies, vieraan valtion kirkollisen seurakunnan pappi taikka joku muu, jonka vieras valtio on oikeuttanut toimittamaan vihkimisiä vieraassa valtiossa, on päättänyt toisessa vieraassa valtiossa tai 113 §:ssä tarkoitetun luvan nojalla Suomessa, on Suomessa pätevä, jos se on pätevä siinä valtiossa, jota vihkijä edustaa, tai siinä valtiossa, jossa jommallakummalla puolisolla oli asuinpaikka tai jonka kansalainen hän oli avioliittoa solmittaessa.

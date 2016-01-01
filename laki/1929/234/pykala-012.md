@@ -1,7 +1,7 @@
-# 12§
-Osa: I Avioliiton päättäminen.
-Luku: 3 luku Avioesteet.
+# 12 §
+Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
+Luku: 3 LUKU Avioliiton esteiden tutkinta
 
-Se, jolla on kaatumatauti, joka ei pääasiallisesti johdu ulkonaisista syistä, tai tarttuvalla asteella oleva sukupuolitauti, älköön menkö avioliittoon, ellei ole siihen saanut tasavallan presidentin lupaa.
+Kihlakumppanien on kirjallisesti vakuutettava avioliiton esteiden tutkijalle, että avioliitolle ei ole 7–9 §:ssä tarkoitettua estettä.
 
-Kuuromykkä älköön myöskään sellaisetta luvatta menkö avioliittoon toisen kuuromykän kanssa, paitsi milloin jommankumman kuuromykkyys ei ole synnynnäistä.
+Kihlakumppanin on lisäksi kirjallisesti ilmoitettava, onko hän aikaisemmin solminut avioliiton tai rekisteröidyn parisuhteen. Jos avioliiton esteiden tutkijan käytettävissä olevista tiedoista ei ilmene, että aikaisempi avioliitto tai rekisteröity parisuhde on purkautunut, kihlakumppanin on avioliiton esteiden tutkijalle annettava siitä todistus tai muu erityinen selvitys.
