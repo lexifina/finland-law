@@ -1,5 +1,5 @@
 # 4 §
-Luku: 20 LUKU Perunkirjoituksesta
+Luku: 20 luku Perunkirjoituksesta
 
 Pesän varat ja velat on merkittävä perukirjaan sellaisina kuin ne kuoleman tapahtuessa olivat. Perukirjassa on mainittava myös varojen arvo.
 

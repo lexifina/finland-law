@@ -1,5 +1,5 @@
 # 8 §
-Luku: 25 LUKU Jäämistöön kuuluvan maatilan jakamisesta
+Luku: 25 luku Jäämistöön kuuluvan maatilan jakamisesta
 
 Ennen lopullista perinnönjakoa, jossa sovelletaan tämän luvun säännöksiä, pesänjakajan on tarvittaessa tai kuolinpesän osakkaan vaatimuksesta hankittava elinkeino-, liikenne- ja ympäristökeskukselta, jonka alueella jäämistöön kokonaan tai osaksi kuuluvan maatilan talouskeskus sijaitsee, lausunto siitä:
 1) onko jäämistöön kuuluva maatila sellainen, että sen viljelijä ja hänen perheenjäsenensä voivat saada siitä pääasiallisen toimeentulonsa, taikka muodostavatko jäämistöön kuuluvat tilat tai tilanosat joko yksinään tai yhdessä soveliaan tilanpidonjatkajan ja hänen puolisonsa omistamien tilojen tai tilanosien kanssa, 1 b §:n 2 momentissa tarkoitetussa tapauksessa eloonjääneelle puolisolle kuuluva osa mukaan luettuna, sellaisen maatilataloudellisen kokonaisuuden, josta sen viljelijä ja hänen perheenjäsenensä voivat saada pääasiallisen toimeentulonsa;

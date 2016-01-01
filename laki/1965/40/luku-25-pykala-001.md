@@ -1,5 +1,5 @@
 # 1 §
-Luku: 25 LUKU Jäämistöön kuuluvan maatilan jakamisesta
+Luku: 25 luku Jäämistöön kuuluvan maatilan jakamisesta
 
 Tämän luvun säännöksiä on sovellettava jaettaessa jäämistöön kuuluvaa maatilataloudellisessa käytössä olevaa maatilaa, tilaa ja tilanosaa, jollei testamentista muuta johdu tai jolleivät kuolinpesän osakkaat toisin sovi.
 

@@ -1,5 +1,5 @@
 # 20 §
-Luku: 19 LUKU Pesänselvittäjästä ja testamentin toimeenpanijasta
+Luku: 19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta
 
 Pesänselvittäjällä on oikeus saada pesän varoista pesän laatuun ja laajuuteen sekä tehtävän suorittamiseen käytettyyn työhön katsoen kohtuullinen palkkio sekä korvaus kuluistaan. Jolleivät pesän varat tähän riitä, on hyvitys sen suoritettava, jonka hakemuksesta pesänselvittäjä on määrätty. Jos maksuvelvollisia on useita, vastaavat he yhteisvastuullisesti.
 

@@ -1,5 +1,5 @@
 # 1 b §
-Luku: 25 LUKU Jäämistöön kuuluvan maatilan jakamisesta
+Luku: 25 luku Jäämistöön kuuluvan maatilan jakamisesta
 
 Soveliaalla tilanpidonjatkajalla on oikeus vaatia, että jäämistöön kuuluva elinkelpoinen maatila taikka sellaiset jäämistöön kuuluvat tilat tai tilanosat, joista yksinään tai yhdessä hänen tai hänen puolisonsa omistamien tilojen tai tilanosien kanssa muodostuu elinkelpoinen maatila, sisällytetään maatalousirtaimistoineen jakamattomana hänen osuuteensa.
 

@@ -1,5 +1,5 @@
 # 1 §
-Luku: 2 LUKU Sukulaisten perintöoikeudesta
+Luku: 2 luku Sukulaisten perintöoikeudesta
 
 Lähinnä saavat perinnön rintaperilliset.
 

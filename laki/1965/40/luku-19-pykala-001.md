@@ -1,5 +1,5 @@
 # 1 §
-Luku: 19 LUKU Pesänselvittäjästä ja testamentin toimeenpanijasta
+Luku: 19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta
 
 Pesän osakkaan hakemuksesta oikeuden on päätettävä, että pesän omaisuus on luovutettava pesänselvittäjän hallintoon, ja määrättävä joku pesänselvittäjänä pitämään huolta pesän hallinnosta. Jos joku on testamentissa määrätty perillisten tai yleisjälkisäädöksen saajain sijasta testamentin toimeenpanijana pesää hallitsemaan, on määräys annettava myös hänen hakemuksestaan. Sellaista määräystä voi niin ikään hakea erityisjälkisäädöksen saaja tai se, jolla on oikeus ajaa kannetta tarkoitemääräyksen toteuttamisesta, milloin tämän harkitaan olevan tarpeen säädöksen tai määräyksen täytäntöön saattamiseksi. Sama oikeus on sillä, jolle perillinen tai yleisjälkisäädöksen saaja on luovuttanut osuutensa pesään.
 

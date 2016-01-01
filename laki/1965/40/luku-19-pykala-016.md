@@ -1,5 +1,5 @@
 # 16 §
-Luku: 19 LUKU Pesänselvittäjästä ja testamentin toimeenpanijasta
+Luku: 19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta
 
 Niin pian kuin omaisuuden osituksen tai perinnönjaon edellyttämä pesän selvittäminen on suoritettu ja ositus tai jako voidaan toimittaa tuottamatta haittaa kenellekään, jonka oikeus on pesän selvityksestä riippuvainen, ilmoittakoon pesänselvittäjä tästä osakkaille ja tehköön hallinnostaan tilin.
 

@@ -1,5 +1,5 @@
 # 3 §
-Luku: 1 LUKU Oikeudesta saada perintö
+Luku: 1 luku Oikeudesta saada perintö
 
 Ulkomaalaisella on Suomessa yhtäläinen oikeus perinnön saamiseen kuin Suomen kansalaisella.
 

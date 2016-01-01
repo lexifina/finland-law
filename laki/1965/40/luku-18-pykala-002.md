@@ -1,5 +1,5 @@
 # 2 §
-Luku: 18 LUKU Kuolinpesän hallinnosta
+Luku: 18 luku Kuolinpesän hallinnosta
 
 Osakasten tulee, milloin ei, sen mukaan kuin tässä laissa säädetään, ole järjestetty erityistä kuolinpesän hallintoa, pesän selvittämistä varten yhteisesti hallita pesän omaisuutta. He edustavat tällöin kuolinpesää kolmatta henkilöä vastaan sekä kantavat ja vastaavat pesää koskevissa asioissa. Toimenpide, joka ei siedä viivytystä, voidaan suorittaa, vaikkei kaikkien osakasten suostumusta saada hankituksi.
 

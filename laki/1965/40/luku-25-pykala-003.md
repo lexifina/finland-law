@@ -1,5 +1,5 @@
 # 3 §
-Luku: 25 LUKU Jäämistöön kuuluvan maatilan jakamisesta
+Luku: 25 luku Jäämistöön kuuluvan maatilan jakamisesta
 
 Jos kaksi tai useampi soveliaista tilanpidonjatkajista vaatii, että maatila, tila tai tilanosa on tämän luvun mukaisesti sisällytettävä hänen osuuteensa, on etusija annettava sille, jolla on parhaat ammatilliset edellytykset maatalouselinkeinon harjoittamiseen.
 

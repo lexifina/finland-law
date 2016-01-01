@@ -1,5 +1,5 @@
 # 2 §
-Luku: 20 LUKU Perunkirjoituksesta
+Luku: 20 luku Perunkirjoituksesta
 
 Osakkaan, jonka hoidettavana pesän omaisuus on, tahi pesänselvittäjän tai testamentin toimeenpanijan on määrättävä perunkirjoituksen aika ja paikka sekä valittava sitä toimittamaan kaksi uskottua miestä. Jollei osakas, pesänselvittäjä tai testamentin toimeenpanija ole ottanut pesän omaisuutta haltuunsa, tulee muun henkilön, jolla, sen mukaan kuin 18 luvun 4 §:ssä sanotaan, on omaisuus hoidettavanaan, toimituttaa perunkirjoitus.
 

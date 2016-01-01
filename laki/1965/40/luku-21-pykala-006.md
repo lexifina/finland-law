@@ -1,5 +1,5 @@
 # 6 §
-Luku: 21 LUKU Kuolleen henkilön ja pesän velasta
+Luku: 21 luku Kuolleen henkilön ja pesän velasta
 
 Ositusta tai perinnönjakoa ei saa toimittaa, ennen kuin pesän ja vainajan velat on maksettu tai niistä on asetettu maksun turvaava takaus tai muu vakuus.
 

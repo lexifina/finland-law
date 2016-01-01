@@ -1,5 +1,5 @@
 # 3 §
-Luku: 7 LUKU Lakiosasta
+Luku: 7 luku Lakiosasta
 
 Lakiosaa määrättäessä on otettava huomioon avioliittolain mukaan eloonjääneeltä puolisolta kuolleen puolison perillisille tulevan tai eloonjääneelle suoritettavan omaisuuden arvo.
 

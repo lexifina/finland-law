@@ -1,5 +1,5 @@
 # 12 b §
-Luku: 19 LUKU Pesänselvittäjästä ja testamentin toimeenpanijasta
+Luku: 19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta
 
 Pesänselvittäjä voi hakea kuolinpesän asettamista konkurssiin.
 

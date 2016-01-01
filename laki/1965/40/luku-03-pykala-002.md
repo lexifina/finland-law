@@ -1,5 +1,5 @@
 # 2 §
-Luku: 3 LUKU Puolison perintöoikeudesta ja oikeudesta hallita jäämistöä
+Luku: 3 luku Puolison perintöoikeudesta ja oikeudesta hallita jäämistöä
 
 Jos ensiksi kuolleen puolison kuollessa puolisoilla tai toisella heistä oli sellaista omaisuutta, johon toisella ei ollut avio-oikeutta, tai ensiksi kuolleen puolison jäämistö muusta syystä oli suurempi tai pienempi kuin puolet puolisoiden omaisuudesta, on jäämistön eloonjääneen puolison kuollessa katsottava vastaavan yhtä suurta osaa tämän pesästä.
 

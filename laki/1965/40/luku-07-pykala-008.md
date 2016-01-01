@@ -1,5 +1,5 @@
 # 8 §
-Luku: 7 LUKU Lakiosasta
+Luku: 7 luku Lakiosasta
 
 Jollei perillinen siitä huolimatta, että testamentti ja lahjanlupaus on jätetty huomioon ottamatta, voi saada lakiosaansa, on se, jolle perittävä eläessään on antanut 3 §:n 3 momentissa tarkoitettua omaisuutta, tai se, joka on saanut 4 §: ssä sanotun vakuutusmäärän, velvollinen vastaamaan sen täyttämisestä, mitä lakiosasta puuttuu, enintään sillä määrällä, mikä perintöosaa määrättäessä on luettava pesän varojen lisäykseksi.
 

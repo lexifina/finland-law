@@ -1,5 +1,5 @@
 # 7 §
-Luku: 18 LUKU Kuolinpesän hallinnosta
+Luku: 18 luku Kuolinpesän hallinnosta
 
 Osakkaan on korvattava vahinko, minkä hän pesää hoitaessaan tai hallitessaan on tahallansa tai huolimattomuudesta aiheuttanut jollekin, jonka oikeus on pesänselvityksestä riippuvainen. Jos huolimattomuus on lievä, voidaan korvausta alentaa tai hänet kokonaan vapauttaa korvausvelvollisuudesta, milloin se vahingon suuruuteen ja muihin seikkoihin nähden harkitaan kohtuulliseksi.
 

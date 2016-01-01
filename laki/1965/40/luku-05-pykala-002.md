@@ -1,5 +1,5 @@
 # 2 §
-Luku: 5 LUKU Valtion oikeudesta perintöön
+Luku: 5 luku Valtion oikeudesta perintöön
 
 Valtiokonttori voi päättää, jos se havaitaan olosuhteisiin katsoen kohtuulliseksi, että valtion saama omaisuus luovutetaan kokonaan tai osittain perittävän läheiselle. Omaisuus voidaan luovuttaa myös sille kunnalle, jossa perittävä oli viimeksi asunut. Kiinteä omaisuus voidaan lisäksi luovuttaa sille kunnalle, jossa omaisuus sijaitsee.
 

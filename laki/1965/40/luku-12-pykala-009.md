@@ -1,5 +1,5 @@
 # 9 §
-Luku: 12 LUKU Testamenttiin perustuvasta käyttöoikeudesta
+Luku: 12 luku Testamenttiin perustuvasta käyttöoikeudesta
 
 Jos käyttöoikeuden haltija hoitamalla huonosti omaisuutta tai muulla epäoikeutetulla menettelyllä ilmeisesti vaarantaa omistajan etua, voi oikeus hakemuksesta velvoittaa hänet asettamaan omaisuudesta vakuuden tai päättää, että se on annettava oikeuden määräämän uskotun miehen hallittavaksi.
 

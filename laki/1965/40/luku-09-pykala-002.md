@@ -1,5 +1,5 @@
 # 2 §
-Luku: 9 LUKU Oikeudesta tehdä ja saada testamentti
+Luku: 9 luku Oikeudesta tehdä ja saada testamentti
 
 Testamentti muun henkilön kuin testamentin tekijän kuolinhetkellä elävän taikka sitä ennen siitetyn ja sittemmin elävänä syntyvän hyväksi on tehoton.
 

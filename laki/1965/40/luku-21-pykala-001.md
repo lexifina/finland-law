@@ -1,5 +1,5 @@
 # 1 §
-Luku: 21 LUKU Kuolleen henkilön ja pesän velasta
+Luku: 21 luku Kuolleen henkilön ja pesän velasta
 
 Kuolinpesän varoista suoritetaan pesän ja vainajan velat.
 

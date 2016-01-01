@@ -1,5 +1,5 @@
 # 9 a §
-Luku: 20 LUKU Perunkirjoituksesta
+Luku: 20 luku Perunkirjoituksesta
 
 Jos perittävällä oli kuollessaan kotikunta Suomessa, maistraatti voi kuolinpesän osakkaan, eloonjääneen puolison, pesänhoitajan, pesänselvittäjän, pesänjakajan tai testamentin toimeenpanijan hakemuksesta vahvistaa, että kaikki pesän osakkaat ja perittävän aviopuoliso on merkitty perukirjaan, kuten 3 §:n 1 momentissa säädetään.
 

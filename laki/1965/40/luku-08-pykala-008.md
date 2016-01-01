@@ -1,5 +1,5 @@
 # 8 §
-Luku: 8 LUKU Avustuksesta ja hyvityksestä
+Luku: 8 luku Avustuksesta ja hyvityksestä
 
 Avustusta, josta säädetään 1 ja 2 §:ssä, sekä 5 §:n mukaista hyvitystä on vaadittava viimeistään perinnönjaossa. Jos perinnönjakoa ei ole toimitettava, avustusta on 2 §:n nojalla vaadittava viimeistään puolisoiden omaisuuden osituksessa tai avopuolisoiden omaisuuden erottelussa.
 

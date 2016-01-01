@@ -1,5 +1,5 @@
 # 8 §
-Luku: 6 LUKU Ennakkoperinnöstä
+Luku: 6 luku Ennakkoperinnöstä
 
 Jos perillinen, joka on saanut ennakkoperintöä, on kuollut ennen perittävää, on ennakko vähennettävä hänen jälkeläistensä perintöosista.
 

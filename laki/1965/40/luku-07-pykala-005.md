@@ -1,5 +1,5 @@
 # 5 §
-Luku: 7 LUKU Lakiosasta
+Luku: 7 luku Lakiosasta
 
 Testamentti on perillistä kohtaan tehoton siltä osin kuin se estää häntä saamasta lakiosaansa jäämistöstä tai rajoittaa hänen oikeuttaan määrätä lakiosana tulevasta omaisuudesta.
 

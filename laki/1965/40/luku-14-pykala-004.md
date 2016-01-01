@@ -1,5 +1,5 @@
 # 4 §
-Luku: 14 LUKU Testamentin tiedoksi antamisesta ja moitteesta
+Luku: 14 luku Testamentin tiedoksi antamisesta ja moitteesta
 
 Testamentin tekijän kuoltua on testamentin saajan annettava testamentti tiedoksi perillisille haastemiehen välityksellä tai muutoin todistettavasti ja heille on annettava samalla oikeaksi todistettu jäljennös testamentista. Jos testamentti on tehty suullisesti, on perillisille annettava oikeaksi todistettu jäljennös testamentin todistajien kuulustelusta laaditusta tuomioistuimen pöytäkirjasta tai muu kirjallinen selvitys testamentin sisällöstä.
 

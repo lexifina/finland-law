@@ -1,5 +1,5 @@
 # 6 §
-Luku: 20 LUKU Perunkirjoituksesta
+Luku: 20 luku Perunkirjoituksesta
 
 Pesän ilmoittakoon se, joka hoitaa pesän omaisuutta tai muutoin on sen tilaan parhaiten perehtynyt. Osakkaan sekä eloonjääneen puolison, vaikkei tämä olisikaan osakas, tulee kehotuksesta antaa tietoja perunkirjoitusta varten.
 

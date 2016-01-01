@@ -1,5 +1,5 @@
 # 6 a §
-Luku: 21 LUKU Kuolleen henkilön ja pesän velasta
+Luku: 21 luku Kuolleen henkilön ja pesän velasta
 
 Osakkaat ovat keskenään vastuussa 6 §:n 2 momentin 2 kohdassa tarkoitetusta suorituksesta sen mukaan kuin he ovat osituksessa tai perinnönjaossa saaneet liikaa.
 

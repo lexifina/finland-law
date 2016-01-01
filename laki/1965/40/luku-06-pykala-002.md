@@ -1,5 +1,5 @@
 # 2 §
-Luku: 6 LUKU Ennakkoperinnöstä
+Luku: 6 luku Ennakkoperinnöstä
 
 Isälle tai äidille lapsen elättämisestä sekä kasvattamisesta ja kouluttamisesta aiheutuneita kustannuksia ei ole vähennettävä tämän perinnöstä.
 

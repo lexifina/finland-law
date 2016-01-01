@@ -1,5 +1,5 @@
 # 1 a §
-Luku: 3 LUKU Puolison perintöoikeudesta ja oikeudesta hallita jäämistöä
+Luku: 3 luku Puolison perintöoikeudesta ja oikeudesta hallita jäämistöä
 
 Eloonjäänyt puoliso saa pitää kuolleen puolison jäämistön jakamattomana hallinnassaan, jollei rintaperillisen jakovaatimuksesta tai perittävän tekemästä testamentista muuta johdu.
 

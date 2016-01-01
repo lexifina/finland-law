@@ -1,5 +1,5 @@
 # 12 §
-Luku: 19 LUKU Pesänselvittäjästä ja testamentin toimeenpanijasta
+Luku: 19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta
 
 Pesänselvittäjän tulee noudattaen, mitä jäljempänä säädetään, ryhtyä kaikkiin pesän selvittämiseksi tarvittaviin toimiin. Pesänselvittäjän on hoidettava tehtävänsä joutuisasti.
 

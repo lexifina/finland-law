@@ -1,5 +1,5 @@
 # 9 §
-Luku: 6 LUKU Ennakkoperinnöstä
+Luku: 6 luku Ennakkoperinnöstä
 
 Mitä puoliso on avio-oikeuden alaisesta omaisuudestaan antanut lapsipuolelleen tai tämän rintaperilliselle, on vähennettävä saajan perinnöstä toisen puolison jälkeen, jollei muuta ole määrätty tai olosuhteisiin katsoen ole otaksuttava tarkoitetun.
 

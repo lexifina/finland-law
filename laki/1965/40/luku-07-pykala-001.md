@@ -1,5 +1,5 @@
 # 1 §
-Luku: 7 LUKU Lakiosasta
+Luku: 7 luku Lakiosasta
 
 Rintaperillisellä sekä ottolapsella ja tämän jälkeläisellä on lakiosa perittävän jälkeen.
 

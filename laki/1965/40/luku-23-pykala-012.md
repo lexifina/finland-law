@@ -1,5 +1,5 @@
 # 12 §
-Luku: 23 LUKU Perinnönjaosta
+Luku: 23 luku Perinnönjaosta
 
 Mitä tässä luvussa säädetään osakkaasta, sovelletaan myös siihen, jolle osakas on luovuttanut pesäosuutensa.
 

@@ -1,5 +1,5 @@
 # 3 §
-Luku: 3 LUKU Puolison perintöoikeudesta ja oikeudesta hallita jäämistöä
+Luku: 3 luku Puolison perintöoikeudesta ja oikeudesta hallita jäämistöä
 
 Jos eloonjäänyt puoliso on antamalla lahjan tai muulla siihen rinnastettavalla toimella, ottamatta asianmukaisesti huomioon ensiksi kuolleen puolison perillisten oikeutta, aiheuttanut omaisuutensa olennaisen vähentymisen, on eloonjääneen puolison pesää jaettaessa hänen perillisilleen tulevasta osuudesta suoritettava ensiksi kuolleen puolison perillisille vastiketta heidän pesäosuutensa vähentymisestä.
 

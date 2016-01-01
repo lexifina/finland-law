@@ -1,5 +1,5 @@
 # 2 §
-Luku: 8 LUKU Avustuksesta ja hyvityksestä
+Luku: 8 luku Avustuksesta ja hyvityksestä
 
 Perittävän kihlakumppanille, eloonjääneelle puolisolle 3 luvun 7 §:ssä tarkoitetuissa tapauksissa tai perittävän avopuolisolle voidaan antaa jäämistöstä avustuksena rahaa, muuta omaisuutta tai käyttöoikeus omaisuuteen sen mukaan kuin harkitaan kohtuulliseksi, jos hänen toimeentulonsa perittävän kuoleman vuoksi on heikentynyt ja avustus on tarpeen hänen toimeentulonsa turvaamiseksi.
 

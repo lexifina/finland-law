@@ -1,5 +1,5 @@
 # 1 §
-Luku: 8 LUKU Avustuksesta ja hyvityksestä
+Luku: 8 luku Avustuksesta ja hyvityksestä
 
 Jos perittävän lapsi tarvitsee kasvatukseensa tai koulutukseensa varoja hänelle perintönä tulevan omaisuuden lisäksi, annettakoon, sen mukaan kuin olosuhteisiin katsoen harkitaan kohtuulliseksi, hänelle päältä päin pesän säästöstä kertakaikkisena määränä avustusta enintään siksi kun hän on tullut kahdenkymmenenyhden vuoden ikään.
 

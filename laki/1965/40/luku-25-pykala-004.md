@@ -1,5 +1,5 @@
 # 4 §
-Luku: 25 LUKU Jäämistöön kuuluvan maatilan jakamisesta
+Luku: 25 luku Jäämistöön kuuluvan maatilan jakamisesta
 
 Jos tilanpidon jatkajan lisäksi muullakin jakohetkellä perillisasemassa olevalla perillisellä tai yleistestamentin saajalla on riittävät ammatilliset edellytykset maatalouselinkeinon harjoittamiseen, maatilasta voidaan jaon yhteydessä osoittaa 2 §:ssä säädetyin ehdoin alueita tällaiselle perilliselle tai yleistestamentin saajalle itsenäisen elinkelpoisen maatilan muodostamista varten. Näin voidaan kuitenkin menetellä vain, jos alueiden erottamisella ei poisteta soveliaalta tilanpidon jatkajalta ja tämän momentin mukaisesti alueita saavalta mahdollisuutta maaseutuelinkeinojen rahoituslain (329/1999) ja Ahvenanmaalla vastaavan maakuntalainsäädännön mukaisiin tukitoimenpiteisiin jaon yhteydessä muodostuvien maatilojen osalta.
 

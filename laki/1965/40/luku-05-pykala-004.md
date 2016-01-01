@@ -1,4 +1,4 @@
 # 4 §
-Luku: 5 LUKU Valtion oikeudesta perintöön
+Luku: 5 luku Valtion oikeudesta perintöön
 
 Tarkemmat säännökset valtion saaman omaisuuden luovuttamisesta annetaan asetuksella.

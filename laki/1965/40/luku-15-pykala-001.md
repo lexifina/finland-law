@@ -1,5 +1,5 @@
 # 1 §
-Luku: 15 LUKU Perintöön tai testamenttiin perustuvan oikeuden menettämisestä ja perinnöttömäksi tekemisestä
+Luku: 15 luku Perintöön tai testamenttiin perustuvan oikeuden menettämisestä ja perinnöttömäksi tekemisestä
 
 Älköön kukaan saako perintöä tai testamenttia sen jälkeen, jonka kuoleman hän on tahallisesti aiheuttanut rikollisella teolla.
 

@@ -1,5 +1,5 @@
 # 1 §
-Luku: 3 LUKU Puolison perintöoikeudesta ja oikeudesta hallita jäämistöä
+Luku: 3 luku Puolison perintöoikeudesta ja oikeudesta hallita jäämistöä
 
 Jos perittävä oli naimisissa eikä häneltä ole jäänyt rintaperillistä, menee jäämistö eloonjääneelle puolisolle.
 

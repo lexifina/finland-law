@@ -1,5 +1,5 @@
 # 4 §
-Luku: 12 LUKU Testamenttiin perustuvasta käyttöoikeudesta
+Luku: 12 luku Testamenttiin perustuvasta käyttöoikeudesta
 
 Testamenttiin perustuvaa käyttöoikeutta ei saa toiselle luovuttaa.
 

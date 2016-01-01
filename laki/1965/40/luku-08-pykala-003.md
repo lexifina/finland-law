@@ -1,5 +1,5 @@
 # 3 §
-Luku: 8 LUKU Avustuksesta ja hyvityksestä
+Luku: 8 luku Avustuksesta ja hyvityksestä
 
 Jos perittävän lapsi sairauden tai muun sellaisen syyn takia on kykenemätön itseään elättämään, on hänellä oikeus testamentilla toiselle annetun omaisuuden arvoon saakka saada testamentin saajalta avustusta, mikäli se on tarpeen lapsen kohtuullista toimeentuloa varten.
 

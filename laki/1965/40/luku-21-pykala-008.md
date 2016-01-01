@@ -1,5 +1,5 @@
 # 8 §
-Luku: 21 LUKU Kuolleen henkilön ja pesän velasta
+Luku: 21 luku Kuolleen henkilön ja pesän velasta
 
 Jos palautettava omaisuus ei ole tallella tai muuten palautettavissa, sen arvo on korvattava.
 

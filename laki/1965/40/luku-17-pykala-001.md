@@ -1,5 +1,5 @@
 # 1 §
-Luku: 17 LUKU Perinnöstä luopumisesta ja perintöosuuden luovuttamisesta
+Luku: 17 luku Perinnöstä luopumisesta ja perintöosuuden luovuttamisesta
 
 Sopimus elossa olevan henkilön jäämistöstä on pätemätön.
 

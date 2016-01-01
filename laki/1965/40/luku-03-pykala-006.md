@@ -1,5 +1,5 @@
 # 6 §
-Luku: 3 LUKU Puolison perintöoikeudesta ja oikeudesta hallita jäämistöä
+Luku: 3 luku Puolison perintöoikeudesta ja oikeudesta hallita jäämistöä
 
 Milloin eloonjäänyt puoliso on mennyt uuteen avioliittoon, on hänen kuoltuaan hänen avio-oikeuden alaisen omaisuutensa säästö ja yksityinen omaisuutensa tämän luvun mukaisesti jaettava ennen ositusta.
 

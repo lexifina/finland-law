@@ -1,5 +1,5 @@
 # 4 §
-Luku: 23 LUKU Perinnönjaosta
+Luku: 23 luku Perinnönjaosta
 
 Oikeus määrätköön hakemuksesta sopivan henkilön pesänjakajaksi. Milloin pesän laatuun tai laajuuteen katsoen taikka muusta erityisestä syystä on tarpeen, voidaan määrätä useita pesänjakajia. Hakemukseen on liitettävä jäljennös perukirjasta.
 

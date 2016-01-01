@@ -1,5 +1,5 @@
 # 1 a §
-Luku: 25 LUKU Jäämistöön kuuluvan maatilan jakamisesta
+Luku: 25 luku Jäämistöön kuuluvan maatilan jakamisesta
 
 Tässä luvussa tarkoitetaan:
 1) maatilalla yhden tai useamman tilan tai tilanosan muodostamaa maatilataloudellista kokonaisuutta;

@@ -1,5 +1,5 @@
 # 4 §
-Luku: 10 LUKU Testamentin tekemisestä ja peruuttamisesta
+Luku: 10 luku Testamentin tekemisestä ja peruuttamisesta
 
 Testamentin todistajaksi älköön otettako henkilöä, joka on viittätoista vuotta nuorempi tai joka sieluntoiminnan häiriön vuoksi on kykenemätön todistamaan, älköönkä testamentin tekijän puolisoa tai sitä, joka on testamentin tekijään suoraan takenevassa tahi etenevässä sukulaisuudessa taikka lankoudessa, eikä myöskään hänen veljeänsä tai sisartansa tahi näiden puolisoa taikka hänen ottovanhempaansa tai ottolastansa.
 

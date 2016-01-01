@@ -1,5 +1,5 @@
 # 1 §
-Luku: 16 LUKU Perillisen ja testamentin saajan oikeuden vanhentumisesta
+Luku: 16 luku Perillisen ja testamentin saajan oikeuden vanhentumisesta
 
 Joka on saanut perinnön tai testamentin, saattakoon oikeutensa voimaan tässä luvussa säädetyllä tavalla viimeistään kymmenen vuoden kuluessa perittävän kuolemasta, tai, jos testamenttiin perustuva oikeus alkaa myöhemmin, tästä ajankohdasta lukien.
 

@@ -1,5 +1,5 @@
 # 7 §
-Luku: 25 LUKU Jäämistöön kuuluvan maatilan jakamisesta
+Luku: 25 luku Jäämistöön kuuluvan maatilan jakamisesta
 
 Jos tilanpidonjatkaja taikka 4 §:n 1 momentissa tarkoitettu perillinen tai yleistestamentinsaaja, joka on saanut 1 b §:n tai 4 §:n 1 momentin mukaisesti 2 §:n mukaisesta arvosta osuuteensa maatilan, tilan tai tilanosan, luovuttaa sen tai olennaisen osan siitä muulle kuin rintaperilliselleen tai tämän puolisolle ennen kuin kymmenen vuotta on kulunut perinnönjaosta, hän on velvollinen korvaamaan muulle perilliselle ja yleistestamentinsaajalle, mitä luovutuksesta saadun hinnan ja maatilan, tilan tai tilanosan 2 §:n mukaisen arvon välisestä erotuksesta olisi tullut heidän osalleen. Jos luovutuksesta saatu hinta on ollut olennaisesti luovutusajankohdan käypää arvoa alempi, tilanpidonjatkaja taikka 4 §:n 1 momentissa tarkoitettu perillinen tai yleistestamentinsaaja on kuitenkin velvollinen korvaamaan muulle perilliselle ja yleistestamentinsaajalle, mitä käyvän arvon ja 2 §:n mukaisen arvon välisestä erotuksesta olisi tullut heidän osalleen.
 

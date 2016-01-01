@@ -1,5 +1,5 @@
 # 7 §
-Luku: 23 LUKU Perinnönjaosta
+Luku: 23 luku Perinnönjaosta
 
 Pesänjakajan on määrättävä perinnönjaon aika ja paikka sekä todistettavasti kutsuttava osakkaat toimitukseen. Pesänjakajan on, jos kaikki osakkaat ovat tulleet saapuville, koetettava saada heidät sopimaan jaosta. Jos sopimus saadaan aikaan, jako on toimitettava sen mukaisesti.
 

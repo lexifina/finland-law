@@ -1,5 +1,5 @@
 # 12 a §
-Luku: 19 LUKU Pesänselvittäjästä ja testamentin toimeenpanijasta
+Luku: 19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta
 
 Jos on syytä epäillä, että pesän varat eivät riitä pesän ja vainajan velkojen maksuun, pesänselvittäjän on pyrittävä tekemään velkojien kanssa sopimus velkojen maksusta. Jollei sopimusta tehdä, pesänselvittäjällä on, kun 18 luvun 5 §:ssä tarkoitetut pesänselvitysvelat on maksettu, oikeus päättää muiden velkojen maksamisesta noudattaen, mitä velkojien maksunsaantijärjestyksestä annetussa laissa (1578/1992) ja tämän lain 21 luvun 1 §:n 2 momentissa säädetään velkojen maksamisesta kuolinpesän konkurssissa.
 

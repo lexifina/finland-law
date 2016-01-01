@@ -1,5 +1,5 @@
 # 4 §
-Luku: 19 LUKU Pesänselvittäjästä ja testamentin toimeenpanijasta
+Luku: 19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta
 
 Pesänselvittäjäksi oikeuden on määrättävä henkilö, jonka voidaan olettaa suorittavan pesän selvityksen sen laadun edellyttämällä taidolla ja joka siihen suostuu. Erityistä huomiota on kiinnitettävä pesän osakkaiden sekä muidenkin ehdotuksiin, joiden oikeus on pesän selvityksestä riippuvainen.
 

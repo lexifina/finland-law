@@ -1,5 +1,5 @@
 # 7 a §
-Luku: 25 LUKU Jäämistöön kuuluvan maatilan jakamisesta
+Luku: 25 luku Jäämistöön kuuluvan maatilan jakamisesta
 
 Laskettaessa 7 §:ssä tarkoitettua korvausta on otettava huomioon viljelijän toimenpiteestä aiheutunut arvonnousu tai arvonalennus.
 

@@ -1,5 +1,5 @@
 # 2 §
-Luku: 10 LUKU Testamentin tekemisestä ja peruuttamisesta
+Luku: 10 luku Testamentin tekemisestä ja peruuttamisesta
 
 Todistajat merkitkööt nimikirjoituksensa oheen ammattinsa ja asuinpaikkansa samoin kuin todistamisen paikan ja ajan sekä tehkööt siihen merkinnän muistakin seikoista, joiden he katsovat vaikuttavan testamentin pätevyyteen.
 

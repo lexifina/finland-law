@@ -1,5 +1,5 @@
 # 10 §
-Luku: 19 LUKU Pesänselvittäjästä ja testamentin toimeenpanijasta
+Luku: 19 luku Pesänselvittäjästä ja testamentin toimeenpanijasta
 
 Hakemus, jota 1, 2 tai 6 §:ssä tarkoitetaan, samoin kuin 9 §:ssä mainittu ilmoitus saadaan antaa oikeuteen tai sen kansliaan.
 

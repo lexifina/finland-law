@@ -1,5 +1,5 @@
 # 3 §
-Luku: 2 LUKU Sukulaisten perintöoikeudesta
+Luku: 2 luku Sukulaisten perintöoikeudesta
 
 Jollei 1 ja 2 §:ssä mainittuja perillisiä ole, saavat perittävän isän ja äidin vanhemmat koko perinnön.
 

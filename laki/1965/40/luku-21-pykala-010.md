@@ -1,5 +1,5 @@
 # 10 §
-Luku: 21 LUKU Kuolleen henkilön ja pesän velasta
+Luku: 21 luku Kuolleen henkilön ja pesän velasta
 
 Kun perunkirjoituksen toimittamisesta on kulunut kuukausi, velkoja voi vaatia vakuutta sellaisesta vainajalta jääneestä velasta, joka ei ole erääntynyt ja josta ei ole riittävää vakuutta. Jollei vakuutta anneta kolmen kuukauden kuluessa vakuuden vaatimisesta, velka katsotaan erääntyneeksi.
 
