@@ -3,7 +3,7 @@ Osa: I OSA
 Luku: 2 LUKU Verovelvollisuus
 Väliotsikko: Vähäinen toiminta
 
-Myyjä ei ole verovelvollinen, jos tilikauden liikevaihto on enintään 8 500 euroa, ellei häntä ole oman ilmoituksen perusteella merkitty verovelvolliseksi.
+Myyjä ei ole verovelvollinen, jos tilikauden liikevaihto on enintään 10 000 euroa, ellei häntä ole oman ilmoituksensa perusteella merkitty verovelvolliseksi.
 
 Edellä 1 momentissa tarkoitettuun liikevaihtoon luetaan verollisten myyntien, 56, 58, 70, 70 b, 71, 72 ja 72 a–72 e §:n perusteella verottomien myyntien, kiinteistön tai siihen kohdistuvien oikeuksien luovutusten sekä 41 §:ssä tarkoitettujen rahoituspalvelujen ja 44 §:ssä tarkoitettujen vakuutuspalvelujen myyntien yhteismäärä. Liikevaihtoon ei lueta liitännäisluonteisten rahoitus- ja vakuutuspalvelujen eikä käyttöomaisuuden myyntejä.
 

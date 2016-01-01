@@ -2,10 +2,10 @@
 Osa: II OSA
 Luku: 14 a luku Verovelvollisuuden alarajaan liittyvä huojennus
 
-Verovelvollinen, jonka tilikauden liikevaihto (kaavassa liikevaihto) ylittää 8 500 euroa, saa tilikaudelta tilitettävästä verosta (kaavassa vero) huojennuksen, jonka suuruus määräytyy seuraavasti:
- | (liikevaihto – 8 500) x vero
-vero – | ------------------------------------
- | 14 000
+Verovelvollinen, jonka tilikauden liikevaihto (kaavassa liikevaihto) ylittää 10 000 euroa, saa tilikaudelta tilitettävästä verosta (kaavassa vero) huojennuksen, jonka suuruus määräytyy seuraavasti:
+ | (liikevaihto – 10 000) x vero
+vero – | -------------------------------------
+ | 20 000
 
 Verovelvollinen, jonka tilikauden liikevaihto on enintään 8 500 euroa, saa huojennuksena koko tilikaudelta tilitettävän veron.
 
