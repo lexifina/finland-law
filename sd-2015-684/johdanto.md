@@ -1,0 +1,2 @@
+Laki eräistä asbestipurkutyötä koskevista vaatimuksista
+Eduskunnan päätöksen mukaisesti säädetään:
