@@ -1,6 +1,6 @@
 # 8 § Tilintarkastus
 
-Maa- ja metsätalousministeriö asettaa vuosittain rahaston hallintoa, taloutta ja tilejä tarkastamaan kaksi tilintarkastajaa, joista toisen tulee olla Keskuskauppakamarin hyväksymä tilintarkastaja (KHT) ja toinen julkishallinnon ja -talouden tilintarkastajan tutkinnon suorittanut henkilö (JHTT).
+Maa- ja metsätalousministeriö asettaa vuosittain rahaston hallintoa, taloutta ja tilejä tarkastamaan kaksi tilintarkastajaa, joista toisen tulee olla KHT-tilintarkastaja ja toisen JHT-tilintarkastaja.
 
 Rahasto on valtiontalouden tarkastusviraston tarkastuksen alainen.
 
