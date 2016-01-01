@@ -1,6 +1,8 @@
-# 38 § Käsittelyn kiireellisyys
+# 38 § Päätösvaltaisuus ja käsittelyn kiireellisyys
 Luku: 2 luku Luovuttaminen Suomesta toiseen Pohjoismaahan
 
-Korkeimman oikeuden on käsiteltävä asia kiireellisesti ja viimeistään 7 päivän kuluessa vastauksen toimittamiseen varatun ajan päättymisestä tehtävä luovuttamista koskeva päätös.
+Korkein oikeus voi käsitellä ja ratkaista luovuttamista koskevan asian kolmijäsenisessä jaostossa.
 
-Jos 1 momentissa säädettyä määräaikaa ei erityisestä syystä voida noudattaa, päätös tulee tehdä niin pian kuin mahdollista.
+Korkeimman oikeuden on käsiteltävä luovuttamista koskeva asia kiireellisesti. Asia on ratkaistava seitsemän päivän kuluessa vastauksen toimittamiseen varatun ajan päättymisestä.
+
+Jos 2 momentissa säädettyä määräaikaa ei erityisestä syystä voida noudattaa, asia tulee ratkaista niin pian kuin mahdollista.
