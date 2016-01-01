@@ -1,0 +1,2 @@
+Laki valtion rahoituksesta evankelis-luterilaiselle kirkolle eräisiin yhteiskunnallisiin tehtäviin
+Eduskunnan päätöksen mukaisesti säädetään:
