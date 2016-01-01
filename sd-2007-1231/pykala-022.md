@@ -1,6 +1,6 @@
 # 22 § Muutoksenhaku
 Luku: 5 luku Erinäiset säännökset
 
-Auktorisoitujen kääntäjien tutkintolautakunnan päätöksestä, joka koskee auktorisointia tai sen peruuttamista, saa valittaa hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
+Auktorisoitujen kääntäjien tutkintolautakunnan päätökseen, joka koskee auktorisointia tai sen peruuttamista, saa hakea muutosta valittamalla siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
 
-Opetushallituksen päätökseen, joka koskee arvioijan merkintää tai poistamista arvioijarekisteristä, ei saa hakea muutosta valittamalla. Asianosaisella on oikeus vaatia kirjallisesti oikaisua opetushallituksen päätökseen 21 §:n 2 momentissa tarkoitetussa määräajassa opetushallitukselta. Opetushallituksen oikaisuvaatimuksen johdosta antamaan päätökseen, joka koskee arvioijarekisteristä poistamista, saa valittamalla hakea muutosta siten kuin hallintolainkäyttölaissa säädetään. Hallinto-oikeuden päätökseen ei saa hakea valittamalla muutosta.
+Opetushallituksen päätökseen, joka koskee arvioijan merkintää tai poistamista arvioijarekisteristä, saa vaatia oikaisua siten kuin hallintolaissa säädetään. Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään. Hallinto-oikeuden päätökseen ei saa hakea muutosta valittamalla.
