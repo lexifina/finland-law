@@ -7,6 +7,6 @@ Valtuuskunnan päätös vastuuvapauden myöntämisestä hallituksen jäsenelle t
 
 Jos valtuuskunta ei myönnä vastuuvapautta hallituksen jäsenelle tai pääjohtajalle, se voi päättää vahingonkorvauskanteen nostamisesta hallituksen jäsentä tai pääjohtajaa vastaan.
 
-Asioista, jotka koskevat 1 momenttiin ja tilintarkastuslain 51 §:ään perustuvaa oikeutta vahingonkorvaukseen, päättää valtuuskunta.
+Asioista, jotka koskevat 1 momenttiin ja tilintarkastuslain 10 luvun 3 §:ään perustuvaa oikeutta vahingonkorvaukseen, päättää valtuuskunta.
 
 Vahingonkorvauksen sovittelusta ja korvausvastuun jakautumisesta kahden tai useamman korvausvelvollisen kesken säädetään vahingonkorvauslain 2 ja 6 luvussa.
