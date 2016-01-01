@@ -1,5 +1,7 @@
 # 12 § Muutoksenhaku
 
-Hakija, joka on tyytymätön Asumisen rahoitus- ja kehittämiskeskuksen päätökseen tässä laissa tai sen nojalla annetuissa säännöksissä tarkoitetussa asiassa, saa hakea päätöksen oikaisua 14 päivän kuluessa päätöksen tiedoksisaannista. Oikaisuvaatimus on tehtävä päätöksen tehneelle viranomaiselle. Päätökseen, johon saa hakea oikaisua, on liitettävä oikaisuvaatimusosoitus. Oikaisuvaatimus on käsiteltävä viipymättä.
+Hakija saa vaatia Asumisen rahoitus- ja kehittämiskeskuksen ja Valtiokonttorin päätökseen oikaisua päätöksen tehneeltä viranomaiselta siten kuin hallintolaissa (434/2003) säädetään.
 
-Oikaisuvaatimuksesta annettuun Asumisen rahoitus- ja kehittämiskeskuksen päätökseen, joka koskee keskuksen 8 §:n nojalla tekemää päätöstä, ei saa hakea valittamalla muutosta. Muuhun oikaisuvaatimuksesta annettuun päätökseen saa hakea valittamalla muutosta siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
+Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Oikaisuvaatimukseen annettuun Asumisen rahoitus- ja kehittämiskeskuksen päätökseen 8 §:ssä tarkoitetussa asiassa ei kuitenkaan saa hakea muutosta valittamalla.
+
+Hallinto-oikeuden päätökseen 10 §:ssä tarkoitetussa korkotuen lakkauttamista ja takaisinperintää koskevassa asiassa saa hakea muutosta valittamalla siten kuin hallintolainkäyttölaissa säädetään. Hallinto-oikeuden muuhun päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
