@@ -1,6 +1,6 @@
 # 11 § Suomessa asuminen
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 1 luku Verovelvollisuuden alueellinen ulottuvuus
+Luku: 1 LUKU Verovelvollisuuden alueellinen ulottuvuus
 
 Henkilön katsotaan asuvan Suomessa, jos hänellä on täällä varsinainen asunto ja koti tai jos hän jatkuvasti oleskelee täällä yli kuuden kuukauden ajan, jolloin tilapäinen poissaolo ei estä pitämästä oleskelua jatkuvana. Suomen kansalaista pidetään kuitenkin Suomessa asuvana, vaikka hän ei jatkuvasti oleskelekaan täällä yli kuuden kuukauden aikaa, kunnes kolme vuotta on kulunut sen vuoden päättymisestä, jonka aikana hän on lähtenyt maasta, jollei hän näytä, että hänellä ei ole verovuonna ollut olennaisia siteitä Suomeen. Jollei muuta näytetä, Suomen kansalaisen ei katsota mainitun ajan jälkeen asuvan Suomessa.
 

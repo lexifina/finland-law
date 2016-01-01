@@ -1,7 +1,5 @@
 # 79 § Henkilövakuutuksen nojalla saadut vakuutussuoritukset
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 luku Ansiotulon veronalaisuus
+Luku: 4 LUKU Ansiotulon veronalaisuus
 
 Veronalaista ansiotuloa on henkilövakuutuksen nojalla veronalaisen ansiotulon sijaan tai muutoin tulojen taikka elatuksen vähentymisestä saatu korvaus.
-
-Henkilövakuutukseen perustuvasta pysyvän työkyvyttömyyden johdosta saadusta kertakorvauksesta on veronalaista tuloa 50 prosenttia.

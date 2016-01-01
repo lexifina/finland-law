@@ -1,6 +1,6 @@
 # 23 § Yleishyödyllisen yhteisön verovelvollisuus
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 3 luku Kokonaan tai osittain verovapaat yhteisöt
+Luku: 3 LUKU Kokonaan tai osittain verovapaat yhteisöt
 
 Edellä 22 §:ssä tarkoitettu yleishyödyllinen yhteisö on verovelvollinen saamastaan elinkeinotulosta. Lisäksi se on verovelvollinen muuhun kuin yleiseen tai yleishyödylliseen tarkoitukseen käytetyn kiinteistön tai kiinteistön osan tuottamasta tulosta kunnalle ja seurakunnalle 124 §:n 3 momentissa tarkoitetun tuloveroprosentin mukaan.
 

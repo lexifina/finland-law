@@ -1,7 +1,7 @@
 # 148 § Siirtymäkauden yhtiömiesvähennys
-Osa: VII OSA VOIMAANTULO- JA SIIRTYMÄ-SÄÄNNÖKSET
+Osa: VII OSA VOIMAANTULO- JA SIIRTYMÄSÄÄNNÖKSET
 
-Verovelvolliselle, joka on verovuonna 1992 ollut ja on verovuonna edelleenyhtiömiehenä sellaisessa avoimessa yhtiössä tai kommandiittiyhtiössä, jonka tulosta on ennen tätä lakia voimassa olleen tulo- ja varallisuusverolain 35 §:n 2 momentin mukaan jaettu verotettavaksi puolet yhtiön ja puolet yhtiömiesten tulona, myönnetään vuosilta 1993―1998 toimitettavissa verotuksissa ansiotulosta tehtävä yhtiömiesvähennys.
+Verovelvolliselle, joka on verovuonna 1992 ollut ja on verovuonna edelleen yhtiömiehenä sellaisessa avoimessa yhtiössä tai kommandiittiyhtiössä, jonka tulosta on ennen tätä lakia voimassa olleen tulo- ja varallisuusverolain 35 §:n 2 momentin mukaan jaettu verotettavaksi puolet yhtiön ja puolet yhtiömiesten tulona, myönnetään vuosilta 1993–1998 toimitettavissa verotuksissa ansiotulosta tehtävä yhtiömiesvähennys.
 
 Yhtiömiesvähennyksen täysi määrä on seuraava prosenttiosuus yhtiömiehen 1 momentissa tarkoitetuista avoimista yhtiöistä ja kommandiittiyhtiöistä saamien tulo-osuuksien yhteismäärästä sen 200 000 markkaan saakka:
 Verovuosi | Vähennettävä prosenttiosuus

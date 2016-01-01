@@ -1,0 +1,4 @@
+# 123 b § Yritysjärjestelyjen vaikutus suomalaisen yhteisön kiinteän toimipaikan tappioiden käsittelyyn
+Osa: V OSA TAPPIONTASAUS
+
+Jos sulautumisen, jakautumisen, elinkeinotulon verottamisesta annetun lain 52 d §:ssä tarkoitetun liiketoimintasiirron tai saman lain 52 g §:ssä tarkoitetun eurooppayhtiön tai eurooppaosuuskunnan sääntömääräisen kotipaikan siirron yhteydessä toiseen jäsenvaltioon siirtyviin varoihin kuuluu siirtävän yhteisön kiinteä toimipaikka, joka sijaitsee tässä toisessa tai kolmannessa Euroopan unionin jäsenvaltiossa, varat luovuttaneen yhteisön verotettavaan tuloon lisätään kiinteän toimipaikan sellaiset tappiot, jotka on vähennetty Suomessa sijaitsevan yhteisön verotuksessa ja joita ei ole katettu mainitun kiinteän toimipaikan myöhempien verovuosien voitoilla. Tappiot lisätään Suomessa sijaitsevan yhteisön tuloon 10 edeltävän verovuoden ajalta.

@@ -1,6 +1,6 @@
 # 53 § Eräät verovapaat pääomatulot
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 luku Pääomatulon veronalaisuus
+Luku: 2 LUKU Pääomatulon veronalaisuus
 
 Veronalaista tuloa ei ole:
 1) etu, jonka verovelvollinen on saanut omaan tai perheensä tarpeeseen käytetystä asunnosta, joka hänellä on asunto-osakeyhtiön tai muun asunto- tai kiinteistöyhteisön osakkaana tai jäsenenä ollut käytössään käypää vuokraa alemmasta vastikkeesta;
@@ -8,4 +8,8 @@ Veronalaista tuloa ei ole:
 3) asumisoikeustalon omistajan saama asumisoikeusmaksu, jonka asumisoikeusasunnoista annetussa laissa (650/90) tarkoitettu asumisoikeuden saaja suorittaa asumisoikeutta perustettaessa;
 4) Pohjoismaiden Investointipankin jäsenmaan saama osuus pankin jakamasta ylijäämästä;
 5) Pohjoismaiden ympäristörahoitusyhtiön jäsenvaltion osuus yhtiön voitosta;
-6) valtiolta, kunnalta tai muulta julkisyhteisöltä käypää alempana korkona saatu korkotuki.
+6) valtiolta, kunnalta tai muulta julkisyhteisöltä käypää alempana korkona saatu korkotuki;
+7) kestävän metsätalouden rahoituslain (544/2007) nojalla saatu etuus;
+8) luonnolliselle henkilölle tai kuolinpesälle muuhun kuin tulonhankkimistoimintaan liittyvien valuuttakurssivoittojen yhteismäärä enintään 500 euroon asti vuodessa;
+9) luonnollisen henkilön osuuskunnasta jäsenyyden perusteella elantomenojen vähentymisenä saama etu, joka muodostuu ostoista käypää hintaa alempaan hintaan, joka ei alita osuuskunnalle hyödykkeiden tai palveluiden tuottamisesta aiheutuneita kustannuksia;
+10) luonnollisen henkilön osuuskunnasta ostojensa suhteessa saama ylijäämänpalautus siltä osin kuin palautettava ylijäämä on muodostunut palautuksen saajan elantomenoihin liittyvistä ostoista.

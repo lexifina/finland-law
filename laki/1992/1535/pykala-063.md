@@ -1,6 +1,6 @@
 # 63 § Hankintatyön arvo
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 luku Ansiotulon veronalaisuus
+Luku: 4 LUKU Ansiotulon veronalaisuus
 
 Veronalaista ansiotuloa on se työn arvo, jonka verovelvollinen tai hänen puolisonsa, verovelvollisen kotona oleva lapsi, joka ennen verovuotta on täyttänyt 14 vuotta, ja kuolinpesän tai verotusyhtymän osakas taikka hänen perheenjäsenensä ovat verovuonna tehneet valmistaessaan tai kuljettaessaan puutavaraa maatilan metsästä tapahtuneen hankintakaupan tai muun siihen verrattavan myynnin yhteydessä (hankintatyö).
 

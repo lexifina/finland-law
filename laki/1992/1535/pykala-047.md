@@ -1,11 +1,11 @@
 # 47 § Omaisuuden hankintamenon laskemista koskevia erityisiä säännöksiä
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 luku Pääomatulon veronalaisuus
+Luku: 2 LUKU Pääomatulon veronalaisuus
 
-Omaisuuden hankintamenoon luetaan myös omaisuuden perusparannusmenot verovelvollisen omistusaikana. Vastikkeetta saadun omaisuuden hankintamenoksi katsotaan perintö- ja lahjaverotuksessa käytetty verotusarvo.
+Omaisuuden hankintamenoon luetaan myös omaisuuden perusparannusmenot verovelvollisen omistusaikana. Vastikkeetta saadun omaisuuden hankintamenoksi katsotaan perintö- ja lahjaverotuksessa käytetty verotusarvo. Hankintameno lasketaan kuitenkin lahjoittajan hankintamenosta, jos lahjansaaja luovuttaa saamansa omaisuuden ennen kuin lahjoituksesta on kulunut yksi vuosi.
 
-Metsän luovutusvoiton määrää laskettaessa hankintamenosta vähennetään 55 §:n nojalla tehdyn metsävähennyksen määrä.
+Verovelvollisen aikaisemmin omistamien osakkeiden tai osuuksien hankintamenoa ei oteta huomioon näiden perusteella merkityn optiolainan, optio-oikeuden, vaihtovelkakirjan tai merkintäoikeuden hankintamenoa laskettaessa. Verovelvollisen aikaisemmin omistaman osakkeen tai osuuden hankintameno sekä sen perusteella merkityn osakkeen tai osuuden hankintameno jaetaan sekä aikaisemmin omistetun että sen perusteella merkityn osakkeen tai osuuden hankintamenoksi. Jos rahastoanti ja uusmerkintä on toteutettu samanaikaisesti, jaetaan aikaisemmin omistetun osakkeen ja sen perusteella annissa saatujen osakkeiden yhteenlaskettu hankintameno kaikkien näiden osakkeiden hankintamenoksi.
 
-Verovelvollisen aikaisemmin omistamien osakkeiden tai osuuksien hankintamenoa ei oteta huomioon näiden perusteella merkityn osakkeen, osuuden, optiolainan tai vaihtovelkakirjan taikka merkintäoikeuden hankintamenoa laskettaessa.
+Arvo-osuusjärjestelmään kuuluvat osuudet tiettyyn omaisuuteen, sijoitusrahaston rahasto-osuudet ja yhteissijoitusyrityksen osuudet katsotaan luovutetuiksi, jollei verovelvollinen muuta näytä, siinä järjestyksessä kuin ne on saatu. Omaisuuden luovutusjärjestystä ratkaistaessa omaisuus katsotaan saaduksi samana ajankohtana, josta sen omistusaika luovutusvoiton verotuksessa lasketaan.
 
-Arvo-osuusjärjestelmään kuuluvat osuudet tiettyyn omaisuuteen katsotaan luovutetuiksi, jollei verovelvollinen muuta näytä, siinä järjestyksessä kuin ne on saatu.
+Jos omaisuus on luovutettu käypää arvoa alempaan hintaan siten, että kysymys on perintö- ja lahjaverolain 18 §:n 3 momentissa tarkoitetusta lahjanluonteisesta kaupasta, luovutus jaetaan maksetun hinnan ja käyvän arvon suhteen perusteella vastikkeelliseen ja vastikkeettomaan osaan. Vastikkeellisesti luovutetun osuuden hankintamenoksi katsotaan siihen kohdistuva osa omaisuuden hankintamenosta.

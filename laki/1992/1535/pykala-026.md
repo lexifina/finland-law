@@ -1,5 +1,7 @@
-# 26 § Yksityiskäyttöönotto yhtymästä
+# 26 § Sijoitus yhtymään ja yksityiskäyttöönotto yhtymästä
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 4 luku Yritysjärjestelyt
+Luku: 4 LUKU Yritysjärjestelyt
 
-Yhtymän osakkaan ottaessa yhtymästä omaisuutta katsotaan yhtymän verotuksessa omaisuuden luovutushinnaksi alkuperäistä hankintamenoa vastaava määrä tai sitä alempi todennäköinen luovutushinta. Yhtymän verotuksessa luovutushinnaksi luettava määrä katsotaan omaisuuden hankinnasta johtuneeksi menoksi yhtymän osakkaan verotuksessa.
+Yhtymän osakkaan sijoittaessa omaisuutta tai oikeuksia yhtymään katsotaan osakkaan verotuksessa omaisuuden tai oikeuden luovutushinnaksi todennäköinen luovutushinta sijoituksen ajankohtana. Yhtymän verotuksessa katsotaan omaisuuden tai oikeuden hankintamenoksi sama määrä.
+
+Yhtymän osakkaan ottaessa yhtymästä kiinteistön, rakennuksen, rakennelman, arvopaperin tai oikeuden katsotaan luovutushinnaksi omaisuuden tai oikeuden todennäköinen luovutushinta. Muun yhtymästä otetun omaisuuden, palvelun tai etuuden luovutushinnaksi katsotaan alkuperäinen hankintameno tai sitä alempi todennäköinen luovutushinta. Yhtymän osakkaan verotuksessa katsotaan hankintamenoksi yhtymän verotuksessa luovutushinnaksi luettava määrä.

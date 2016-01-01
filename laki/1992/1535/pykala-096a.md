@@ -1,0 +1,9 @@
+# 96 a § Kollektiivisen lisäeläketurvan maksut
+Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
+Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+
+Verovelvollisella on oikeus vähentää puhtaasta ansiotulostaan eläkesäätiössä, eläkekassassa tai vakuutusyhtiössä kollektiivisesti järjestetystä lisäeläketurvasta suorittamiansa maksuja 5 prosenttia eläketurvan järjestäneen työnantajan verovelvolliselle verovuonna maksaman palkan määrästä, kuitenkin enintään 5 000 euroa vuodessa. Maksut eivät ole vähennyskelpoisia siltä osin kuin niiden määrä ylittää työnantajan lisäeläketurvasta maksaman määrän. Vähennyskelpoisuuden edellytyksenä on lisäksi, että eläkettä aletaan vanhuuseläkkeenä maksaa aikaisintaan vakuutetun saavutettua työntekijän eläkelain mukaiseen lykättyyn vanhuuseläkkeeseen oikeuttavan iän.
+
+Kollektiivisella lisäeläketurvalla tarkoitetaan työnantajan työntekijöistä koostuvalle henkilöpiirille järjestämää vapaaehtoista lisäeläketurvaa, jonka henkilöpiiri on määritelty ryhmittäin työalan tai muun siihen verrattavan perusteen mukaan siten, ettei se tosiasiassa kohdistu nimettyihin tai muutoin yksilöllisesti määrättyihin henkilöihin. Kollektiivisena lisäeläketurvana ei pidetä järjestelyä, joka on tarkoitettu koskemaan vain yhtä työnantajan palveluksessa olevaa henkilöä kerrallaan.
+
+Muusta kuin Euroopan talousalueeseen kuuluvassa valtiossa asuvasta tai siellä kiinteästä toimipaikasta toimivasta vakuutuslaitoksesta otetun vapaaehtoisen eläkevakuutuksen maksut eivät ole vähennyskelpoisia. Ulkomailta Suomeen muuttaneen henkilön, lukuun ottamatta henkilöä, joka on ollut Suomessa yleisesti verovelvollinen Suomeen muuttamista edeltäneiden viiden vuoden aikana, maksamat tällaisen vakuutuksen maksut ovat vähennyskelpoisia hänen verotuksessaan muuttovuodelta ja kolmelta sitä seuraavalta vuodelta, jos maksut perustuvat vakuutukseen, joka on otettu vähintään yhtä vuotta ennen henkilön Suomeen muuttamista.

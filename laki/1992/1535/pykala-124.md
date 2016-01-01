@@ -1,17 +1,14 @@
-# 124 § Veron määräytyminen ja jakautuminen veronsaajien kesken
+# 124 § Veron määräytyminen
 Osa: VI OSA VERO
-Luku: 1 luku Valtionvero ja yhteisön tulovero
+Luku: 1 LUKU Valtionvero ja yhteisön tulovero
 Väliotsikko: Yleisiä säännöksiä
 
-Luonnollisen henkilön ja kuolinpesän on suoritettava valtiolle tuloveroa verotettavasta ansiotulostaan progressiivisen tuloveroasteikon perusteella ja verotettavasta pääomatulostaan tuloveroprosentin mukaan. Muun verovelvollisen on suoritettava tuloveroa verotettavasta tulostaan tuloveroprosentin mukaan.
+Luonnollisen henkilön ja kuolinpesän on suoritettava valtiolle tuloveroa verotettavasta ansiotulostaan progressiivisen tuloveroasteikon perusteella ja verotettavasta pääomatulostaan tuloveroprosentin mukaan. Luonnollisen henkilön on eläketulostaan suoritettava valtiolle lisäksi eläketulon lisäveroa siten kuin 4 momentissa säädetään. Muun verovelvollisen on suoritettava tuloveroa verotettavasta tulostaan tuloveroprosentin mukaan.
 
-Pääomatulon tuloveroprosentti on 25. Yhteisön ja yhteisetuuden tuloveroprosentti on niin ikään 25, joka jakautuu eri veronsaajille tuleviin osuuksiin seuraavasti:
-valtion osuus 12,96 prosenttiyksikköä,
-kunnan osuus 11,20 prosenttiyksikköä ja
-seurakunnan osuus 0,84 prosenttiyksikköä.
+Pääomatulosta suoritetaan tuloveroa 30 prosenttia (pääomatulon tuloveroprosentti). Siltä osin kuin verovelvollisen verotettavan pääomatulon määrä ylittää 30 000 euroa, pääomatulosta suoritetaan veroa 33 prosenttia (pääomatulon korotettu tuloveroprosentti). Yhteisön tuloveroprosentti on 20. Yhteisetuuden tuloveroprosentti on 28. Yhteisöjen ja yhteisetuuksien veron jakautumisesta eri veronsaajien kesken säädetään verontilityslaissa (532/1998).
 
-Edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön, tiekunnan ja yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 12,04, joka jakautuu kunnan ja seurakunnan osuuteen 2 momentissa säädetyllä tavalla.
+Edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 6,52. Näiden yhteisöjen veron jakautumisesta kunnan ja seurakunnan kesken säädetään verontilityslaissa. Edellä 21 §:n 2 momentissa tarkoitetun yhteisön tuloveroprosentti on 6,07.
 
-Kultakin vuodelta toimitettavassa ansiotulon verotuksessa sovellettavasta veroasteikosta säädetään erikseen.
+Luonnollisen henkilön on suoritettava eläketulon lisäveroa 6 prosenttia siltä osin kuin eläketulo vähennettynä eläketulovähennyksen määrällä ylittää 45 000 euroa. Eläketulon lisäveroon sovelletaan, mitä ansiotulosta valtiolle suoritettavasta tuloverosta tässä tai muussa laissa säädetään.
 
-Edellä 2 momentissa tarkoitettuun seurakunnan osuuteen tuloverosta on oikeus evankelisluterilaisen kirkon ja ortodoksisen kirkkokunnan seurakunnalla.
+Kultakin vuodelta toimitettavassa ansiotulon verotuksessa sovellettavasta veroasteikoista säädetään erikseen.

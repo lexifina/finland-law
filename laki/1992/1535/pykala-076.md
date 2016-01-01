@@ -1,9 +1,16 @@
 # 76 § Eräät ulkomailla työskentelyyn liittyvät verovapaat korvaukset
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 luku Ansiotulon veronalaisuus
+Luku: 4 LUKU Ansiotulon veronalaisuus
 Väliotsikko: Ulkomailla työskentelystä saadut tulot
 
 Veronalaista tuloa ei ole:
 1) ulkomaanedustuksessa palvelevan tai muun Suomen valtioon palvelussuhteessa olevan, ulkomaille sijoitetun henkilön paikalliskorotus tai valtion maksama muu ulkomailla suoritetusta työstä tai paikallisista erikoisolosuhteista johtuvien erityisten menojen kattamiseksi tarkoitettu korvaus;
 2) Suomen Ulkomaankauppaliitto r.y:een työsuhteessa olevan, ulkomaille sijoitetun henkilön paikalliskorotus tai Suomen Ulkomaankauppaliitto r.y:n maksama muu ulkomailla suoritetusta työstä tai paikallisista erikoisolosuhteista johtuvien erityisten menojen kattamiseksi tarkoitettu korvaus siltä osin, kuin korvaukset eivät ylitä vastaavaa ulkomaanedustuksessa palvelevan henkilöstön paikalliskorotusta tai muuta edellä tarkoitettua korvausta;
-3) palkka tai palkkio, jonka Yhdistyneet Kansakunnat tai jokin sen erityisjärjestö maksaa muualla kuin Suomessa suoritetusta asiantuntijatehtävästä.
+3) palkka tai palkkio, jonka Yhdistyneet Kansakunnat tai jokin sen erityisjärjestö maksaa muualla kuin Suomessa suoritetusta asiantuntijatehtävästä;
+3 a) korvaus, jonka Euroopan unioni, kansainvälinen järjestö, Suomen valtio tai kriisinhallintaoperaation toimeenpanija maksaa erityisten kustannusten ja elantokustannusten lisäyksen kattamiseksi siviilihenkilöstön osallistumisesta kriisinhallintaan annetussa laissa (1287/2004) tarkoitetussa palvelussuhteessa olevalle henkilölle;
+4) palkka tai palkkio, jonka Suomen valtio maksaa ulkomaanedustuksessa palvelevalle rajoitetusti verovelvolliselle, joka ei ole Suomen kansalainen, ja eläke, jonka Suomen valtio maksaa tällaisen palvelun perusteella rajoitetusti verovelvolliselle, joka ei ole Suomen kansalainen;
+4 a) korvaus, jonka Euroopan yhteisöjen komissio maksaa palvelukseensa määrätyn kansallisen asiantuntijan tehtävän tai komission hyväksymän muun, Euroopan unionin laajentumisprosessiin taikka Euroopan unionin nykyisten ja tulevien raja-alueiden kehittämiseen liittyvän asiantuntijatehtävän hoitamisesta aiheutuneiden erityisten kustannusten ja elantokustannusten lisäyksen kattamiseksi; tällaisena korvauksena pidetään toimeentulomäärärahaa, kiinteää lisämäärärahaa sekä korvausta matkakustannuksista, muuttokustannuksista ja erityisestä tehtävästä johtuvista kustannuksista tai muuta niihin rinnastettavaa komission maksamaa korvausta;
+4 b) korvaus, jonka Euroopan yhteisöjen alueiden komitea tai talous- ja sosiaalikomitea maksaa komitean jäsenen tehtävän hoitamisesta aiheutuneiden erityisten kustannusten ja elantokustannusten lisäyksen kattamiseksi; tällaisena korvauksena pidetään yleistä kulukorvausta sekä korvausta matkakustannuksista tai muuta niihin rinnastettavaa komitean maksamaa korvausta;
+5) muusta kuin 1–3 kohdassa tarkoitetusta, ulkomailla tapahtuvasta työskentelystä johtuvat, työnantajan maksamat verovelvollisen ja hänen perheenjäsenensä muutto- ja matkakustannukset sekä ulkomailla työskentelyn aikana työnantajan siellä kustantama tavanomainen yksityinen palveluhenkilöstö ja lasten koulutus sekä se osa asumisen tuottamasta edusta, joka ylittää edun kohtuullisen arvon; Verohallinto antaa tarkemmat määräykset ulkomailla saadun asuntoedun arvosta.
+
+Edellä 1 momentin 4 kohdassa tarkoitettua eläkettä pidetään kuitenkin veronalaisena tulona, jos eläkkeen maksamista koskeva päätös on tehty ennen 1 päivää tammikuuta 1996 tai eläkkeensaajan kotivaltio ei saa verottaa eläkkeestä Suomen ja tämän valtion välillä voimassa olevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen mukaan.

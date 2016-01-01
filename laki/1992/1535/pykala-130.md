@@ -1,9 +1,7 @@
 # 130 § Kunnallisveron laskentaperuste
 Osa: VI OSA VERO
-Luku: 2 luku Kunnallisvero
+Luku: 2 LUKU Kunnallisvero
 
-Luonnollisen henkilön ja kuolinpesän on suoritettava ansiotulostaan tuloveroa kunnalle siten, että yhden markan määrä kunnallisverotuksen verotettavaa tuloa vastaa yhtä veroäyriä.
+Luonnollisen henkilön ja kuolinpesän on suoritettava kunnallisverotuksen verotettavasta tulostaan tuloveroa kunnalle kuntalain (365/1995) 66 §:n mukaan vahvistetun tuloveroprosentin mukaan.
 
-Jos verovelvolliselle kunnassa vahvistettavien veroäyrien määrä jäisi alle sadan, ne jätetään määräämättä.
-
-Veroäyrin hinnan määräämisestä säädetään kunnallislaissa.
+Jos verovelvollisen tulo jää alle 10 euron, kunnallisveroa ei määrätä.

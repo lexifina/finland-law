@@ -1,5 +1,7 @@
-# 132 § Alijäämähyvityksen vähentäminen verovelvollisen valtionverosta
+# 132 § Alijäämähyvitysten vähentäminen verovelvollisen valtionverosta
 Osa: VI OSA VERO
-Luku: 3 luku Alijäämähyvitys
+Luku: 3 LUKU Alijäämähyvitys
 
-Alijäämähyvitys vähennetään verovelvollisen ansiotulosta valtiolle suoritettavasta tuloverosta sen jälkeen, kun verosta on vähennetty valtionverotuksen invalidivähennys ja valtionverotuksen elatusvelvollisuusvähennys. Pelkästään ansiotuloista menevästä valtion tuloverosta vähennettävä määrä on kuitenkin enintään kolme neljäsosaa alijäämähyvityksen määrästä.
+Alijäämähyvitykset vähennetään verovelvollisen ansiotulosta valtiolle suoritettavasta tuloverosta sen jälkeen, kun verosta on vähennetty valtionverotuksen invalidivähennys ja valtionverotuksen elatusvelvollisuusvähennys. Pelkästään ansiotuloista menevästä valtion tuloverosta vähennettävä määrä on kuitenkin enintään kolme neljäsosaa alijäämähyvitysten määrästä.
+
+Erityinen alijäämähyvitys vähennetään ensisijaisesti ansiotulosta valtiolle suoritettavasta tuloverosta sen jälkeen, kun verosta on vähennetty muut verosta tehtävät vähennykset opintolainavähennystä lukuun ottamatta. Erityinen alijäämähyvitys vähennetään alijäämähyvityksen jälkeen.

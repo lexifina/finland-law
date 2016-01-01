@@ -1,6 +1,6 @@
 # 30 § Verotettavan tulon laskeminen
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 1 luku Yleiset säännökset
+Luku: 1 LUKU Yleiset säännökset
 
 Luonnollisen henkilön ja kuolinpesän verotettava tulo lasketaan tulolajeittain erikseen. Elinkeinotoiminnan ja maatalouden tulos lasketaan kumpikin erikseen ja otetaan aikaisempien vuosien vahvistettujen tappioiden vähentämisen jälkeen huomioon jaettavana yritystulona verovelvollisen ansiotuloa ja pääomatuloa laskettaessa siten kuin jäljempänä säädetään.
 

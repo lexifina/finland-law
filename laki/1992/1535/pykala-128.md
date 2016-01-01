@@ -1,9 +1,9 @@
 # 128 § Tulontasauksen edellytykset
 Osa: VI OSA VERO
-Luku: 1 luku Valtionvero ja yhteisön tulovero
+Luku: 1 LUKU Valtionvero ja yhteisön tulovero
 Väliotsikko: Tulontasaus
 
-Jos luonnollinen henkilö tai kuolinpesä on verovuonna saanut vähintään 15 000 markan suuruisen ansiotulon, joka on kertynyt etu- tai jälkikäteen kahdelta tai useammalta vuodelta ja joka on vähintään neljäsosa hänen verovuonna saamansa puhtaan ansiotulon yhteismäärästä, on tällaista kertatuloa verotettaessa verovelvollisen ennen verotuksen päättymistä esittämästä vaatimuksesta toimitettava tulontasaus.
+Jos luonnollinen henkilö tai kuolinpesä on verovuonna saanut vähintään 2 500 euron suuruisen ansiotulon, joka on kertynyt etu- tai jälkikäteen kahdelta tai useammalta vuodelta ja joka on vähintään neljäsosa hänen verovuonna saamansa puhtaan ansiotulon yhteismäärästä, on tällaista kertatuloa verotettaessa verovelvollisen ennen verotuksen päättymistä esittämästä vaatimuksesta toimitettava tulontasaus.
 
 Kahdelta tai useammalta vuodelta kertyneenä ansiotulona voidaan pitää muun muassa:
 1) aikaisemmilta vuosilta saatua palkkaa tai verovuodelta ja sitä edeltäneeltä vuodelta saatua eläkettä;

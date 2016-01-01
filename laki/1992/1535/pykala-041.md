@@ -1,13 +1,11 @@
 # 41 § Nettovarallisuuden laskenta
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 luku Pääomatulon veronalaisuus
+Luku: 2 LUKU Pääomatulon veronalaisuus
 
-Pääomatulo-osuutta laskettaessa 38―40 §:n mukaan nettovarallisuus lasketaan ja varat sekä velat arvostetaan varallisuusverolaissa säädetyllä tavalla.
+Laskettaessa 38–40 §:n mukaista pääomatulo-osuutta nettovarallisuus lasketaan sekä varat ja velat arvostetaan varojen arvostamisesta verotuksessa annetussa laissa säädetyllä tavalla.
 
-Maatalouden varoihin ei lueta rahavaroja eikä saamisia eikä varallisuusverolain 17 §:ssä tarkoitettua maatilaan kuuluvan etuuden arvoa.
-
-Elinkeinoyhtymän elinkeinotoiminnan varoina ei pidetä yhtymän saamisia osakkailta.
-
-Jos yhtymän elinkeinotoiminnan varoihin kuuluu 48 §:ssä tarkoitettu asunto, jota osakas on verovuonna käyttänyt omana tai perheensä asuntona, asunnon arvo vähennetään osakkaan osuudesta yhtymän varoihin 1 momentissa tarkoitettua pääomatulo-osuutta laskettaessa.
+Jos yhtymän elinkeinotoiminnan varoihin kuuluu asunto, jota osakas on verovuonna käyttänyt omana tai perheensä asuntona, asunnon arvo vähennetään osakkaan osuudesta yhtymän varoihin 1 momentissa tarkoitettua pääomatulo-osuutta laskettaessa.
 
 Avoimen yhtiön yhtiömiehen ja kommandiittiyhtiön vastuunalaisen yhtiömiehen yhtiöosuuden hankintaan käytetty korollinen velka vähennetään hänen osuudestaan elinkeinoyhtymän elinkeinotoiminnan varoista.
+
+Laskettaessa pääomatulo-osuutta 38–40 §:n mukaan edellä 1 momentissa tarkoitettuun nettovarallisuuteen lisätään 30 prosenttia verovuoden päättymistä edeltäneiden 12 kuukauden aikana maksettujen elinkeinotoiminnan tai maatalouden ennakonpidätyksen alaisten palkkojen määrästä.

@@ -1,9 +1,10 @@
 # 136 § Verotuksen kattosääntö
 Osa: VI OSA VERO
-Luku: 4 luku Erityiset säännökset
+Luku: 4 LUKU Erityiset säännökset
 
-Jos verovuonna Suomessa asuneen luonnollisen henkilön tai kotimaisen kuolinpesän verovuoden verotettavasta pääoma- ja ansiotulosta sekä varallisuudesta menevän valtionveron sekä ansiotulon perusteella määrätyn kunnallisveron, kirkollisveron, kansaneläkevakuutusmaksun ja sairausvakuutusmaksun yhteismäärä on suurempi kuin 70 prosenttia verovelvollisen valtionverotuksessa vahvistetun verotettavan pääoma- ja ansiotulon yhteismäärästä, verovelvollisen maksettavaksi ei panna tämän määrän yli menevää valtionveron osaa.
+Tämän lain mukaan määrättäviä tuloveroja alennetaan, jos Suomessa asuva henkilö:
+1) saa vieraasta valtiosta ansiotuloa, jota kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen mukaan verotetaan vain vieraassa valtiossa;
+2) saa myös muuta veronalaista ansiotuloa; sekä
+3) hänelle näistä tuloista Suomessa määrättävien tuloverojen ja ulkomailla 1 kohdassa mainitusta tulosta maksettavien tuloverojen yhteismäärä on korkeampi kuin siinä tapauksessa, että koko ansiotulo olisi sellaista tuloa, jota verotetaan vain tai voidaan verottaa Suomessa.
 
-Verovelvollisen maksettavaksi verotuslain 77 §:n nojalla määrätty veronkorotus maksuunpannaan 1 momentista poiketen kuitenkin kokonaan, eikä sitä oteta huomioon verojen ja maksujen enimmäismäärää laskettaessa.
-
-Puolisoiden verotuksessa määräytyy 1 momentissa tarkoitettu verojen maksuunpanematta jättäminen heidän tulojensa ja verojensa yhteismäärän perusteella.
+Tuloveroa määrätään 3 momentissa tarkoitetussa tapauksessa määrä, joka yhdessä ulkomaille mainitusta tulosta maksetun veron kanssa vastaa sitä tuloverojen määrää, joka verovelvollisen olisi ollut suoritettava, jos koko ansiotulo olisi ollut sellaista tuloa, josta verotetaan vain tai voidaan verottaa Suomessa.

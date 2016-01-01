@@ -1,8 +1,8 @@
 # 104 § Kunnallisverotuksen invalidivähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 luku Ansiotulosta tehtävät vähennykset
+Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
 
-Verovelvollisen luonnollisen henkilön puhtaasta ansiotulosta kunnallisverotuksessa vähennetään 2 600 markkaa, jos hänellä on sairaudesta, viasta tai vammasta aiheutunut pysyvä haitta, jonka haitta-aste esitetyn selvityksen mukaan on 100 prosenttia. Jos prosenttimäärä on pienempi, mutta kuitenkin vähintään 30 prosenttia, vähennyksenä myönnetään prosenttimäärän osoittama osuus 2 600 markasta. Vähennys myönnetään kuitenkin enintään muun puhtaan ansiotulon kuin eläketulon suuruisena.
+Verovelvollisen luonnollisen henkilön puhtaasta ansiotulosta kunnallisverotuksessa vähennetään 440 euroa, jos hänellä on sairaudesta, viasta tai vammasta aiheutunut pysyvä haitta, jonka haitta-aste esitetyn selvityksen mukaan on 100 prosenttia. Jos prosenttimäärä on pienempi, mutta kuitenkin vähintään 30 prosenttia, vähennyksenä myönnetään prosenttimäärän osoittama osuus 440 eurosta. Vähennys myönnetään kuitenkin enintään muun puhtaan ansiotulon kuin eläketulon suuruisena.
 
 Jos verovelvollinen on verovuonna saanut lakisääteiseen vähimmäiseläketurvaan perustuvaa työkyvyttömyyseläkettä, katsotaan hänen haitta-asteensa ilman eri selvitystä 100 prosentiksi, jos eläke on myönnetty täytenä, ja 50 prosentiksi, jos se on myönnetty osaeläkkeenä, jollei verovelvollisen haitta-asteen esitetyn selvityksen perusteella katsota olevan suurempi. Verovelvollinen säilyttää oikeutensa työkyvyttömyyseläkkeen mukaiseen invalidivähennykseen senkin jälkeen, kun työkyvyttömyyseläke on muuttunut vanhuuseläkkeeksi.
 

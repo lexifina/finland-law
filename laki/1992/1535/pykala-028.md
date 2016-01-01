@@ -1,9 +1,5 @@
-# 28 § Sulautuminen
+# 28 § Sulautuminen ja jakautuminen
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 4 luku Yritysjärjestelyt
+Luku: 4 LUKU Yritysjärjestelyt
 
-Yhteisöjen tai yhtymien sulautuessa syntynyt voitto ei ole veronalaista tuloa eikä tappio vähennyskelpoinen meno.
-
-Sulautuvan yhteisön tai yhtymän ei katsota purkautuvan verotuksessa. Sulautuneen yhteisön tai yhtymän verotuksessa vähentämättä olevat vähennyskelpoiset menot vähennetään vastaanottaneen yhteisön tai yhtymän tuloista samalla tavalla kuin ne olisi vähennetty sulautuneen yhteisön tai yhtymän tuloista. Sulautumisessa siirtynyttä omaisuutta luovutettaessa omistusajat lasketaan sulautuneen yhteisön tai yhtymän saannosta.
-
-Sulautuvaa ja vastaanottavaa yhteisöä tai yhtymää käsitellään verotuksessa erillisinä siihen asti, kun sulautuminen on tullut voimaan.
+Yhteisöjen ja yhtymien sulautuessa noudatetaan soveltuvin osin, mitä elinkeinotulon verottamisesta annetun lain 52, 52 a, 52 b ja 52 h §:ssä säädetään, ja yhteisöjen jakautuessa, mitä mainitun lain 52, 52 c ja 52 h §:ssä säädetään.

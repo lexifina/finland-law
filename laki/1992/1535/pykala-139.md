@@ -1,4 +1,4 @@
 # 139 § Korkotulon lähdeverosta annetun lain mukaiset korot
-Osa: VII OSA VOIMAANTULO- JA SIIRTYMÄ-SÄÄNNÖKSET
+Osa: VII OSA VOIMAANTULO- JA SIIRTYMÄSÄÄNNÖKSET
 
-Sellainen korkotulon lähdeverosta annetussa laissa tarkoitettu korko, joka on kertynyt ajalta ennen vuotta 1995 ei ole tämän lain mukaan veronalaista tuloa.
+Korkotulon lähdeverosta annetussa laissa tarkoitettu korko ei ole tämän lain mukaan veronalaista tuloa.

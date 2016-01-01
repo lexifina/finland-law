@@ -1,6 +1,6 @@
 # 29 § Tulokäsite ja tulolajit
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 1 luku Yleiset säännökset
+Luku: 1 LUKU Yleiset säännökset
 
 Veronalaista tuloa ovat jäljempänä säädetyin rajoituksin verovelvollisen rahana tai rahanarvoisena etuutena saamat tulot. Verovelvollisella on oikeus vähentää tuloistaan niiden hankkimisesta tai säilyttämisestä johtuneet menot (luonnolliset vähennykset).
 

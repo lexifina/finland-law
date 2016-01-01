@@ -1,6 +1,6 @@
 # 37 § Syytinki ja muu nautintaoikeus
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 luku Pääomatulon veronalaisuus
+Luku: 2 LUKU Pääomatulon veronalaisuus
 Väliotsikko: Eräät nautintaoikeudet
 
 Veronalaista tuloa ei ole kiinteistön luovutuksen yhteydessä määräajaksi tai eliniäksi pidätetty etuus (syytinki), sikäli kuin se suoritetaan asuntoetuna, luonnontuotteina tai palveluina. Rahana suoritettu syytinki on veronalaista pääomatuloa.

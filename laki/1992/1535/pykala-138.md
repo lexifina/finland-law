@@ -1,5 +1,5 @@
 # 138 § Lain voimaantulo
-Osa: VII OSA VOIMAANTULO- JA SIIRTYMÄ-SÄÄNNÖKSET
+Osa: VII OSA VOIMAANTULO- JA SIIRTYMÄSÄÄNNÖKSET
 
 Tämä laki tulee voimaan 1 päivänä tammikuuta 1993. Sitä sovelletaan ensimmäisen kerran vuodelta 1993 toimitettavassa verotuksessa.
 
