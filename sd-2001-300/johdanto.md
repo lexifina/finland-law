@@ -1,2 +1,2 @@
-Laki eräiden valtion tukea koskevien Euroopan yhteisöjen säännösten soveltamisesta
+Laki eräiden valtion tukea koskevien Euroopan unionin säännösten soveltamisesta
 Eduskunnan päätöksen mukaisesti säädetään:
