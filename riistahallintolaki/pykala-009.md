@@ -3,6 +3,6 @@ Luku: 1 luku Suomen riistakeskus
 
 Suomen riistakeskuksen kirjanpitovelvollisuuteen, kirjanpitoon ja tilinpäätökseen sovelletaan, mitä kirjanpitolaissa (1336/1997) säädetään.
 
-Suomen riistakeskuksen tilintarkastukseen sovelletaan, mitä tilintarkastuslaissa (459/2007) säädetään.
+Suomen riistakeskuksen tilintarkastukseen sovelletaan, mitä tilintarkastuslaissa (1141/2015) säädetään.
 
 Maa- ja metsätalousministeriö määrää Suomen riistakeskuksen tilintarkastajat.
