@@ -1,6 +1,6 @@
 # 13 § Takauskeskustarkastaja
 
-Takauskeskustarkastajaksi määrätään Keskuskauppakamarin tai julkishallinnon ja -talouden tilintarkastuslautakunnan hyväksymä tilintarkastusyhteisö. Takauskeskustarkastajan tehtäviä tilintarkastusyhteisössä hoitavan luonnollisen henkilön tulee olla Keskuskauppakamarin hyväksymä tilintarkastaja (KHT-tilintarkastaja) tai julkishallinnon ja -talouden tilintarkastuslautakunnan hyväksymä tilintarkastaja (JHTT-tilintarkastaja). Takauskeskuksen tilintarkastustehtäviä 12 §:n mukaisesti suorittamaan valittu tilintarkastusyhteisö ei voi toimia samanaikaisesti takauskeskustarkastajana.
+Takauskeskustarkastajaksi määrätään tilintarkastusyhteisö. Takauskeskustarkastajan tehtäviä tilintarkastusyhteisössä hoitavan luonnollisen henkilön tulee olla KHT-tilintarkastaja tai JHT-tilintarkastaja. Takauskeskuksen tilintarkastustehtäviä 12 §:n mukaisesti suorittamaan valittu tilintarkastusyhteisö ei voi toimia samanaikaisesti takauskeskustarkastajana.
 
 Takauskeskustarkastajan on kultakin tilikaudelta annettava valtiovarainministeriölle ja takauskeskuksen hallitukselle kertomus takauskeskuksen toiminnasta ja taloudesta. Tarkastajan on viipymättä ilmoitettava niille takauskeskusta koskevasta seikasta tai päätöksestä, jonka hän on saanut tietoonsa tehtäväänsä suorittaessaan ja jonka voidaan katsoa:
 1) olennaisesti rikkovan takauskeskusta tai sen toimintaa koskevia lakeja, asetuksia tai hallinnollisia määräyksiä;
