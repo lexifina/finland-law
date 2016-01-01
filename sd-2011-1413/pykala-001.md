@@ -1,6 +1,6 @@
 # 1 § Soveltamisala
 
-Tätä lakia sovelletaan myönnettäessä avustusta maa- ja elintarviketalouden sekä maaseudun tutkimus- ja kehittämishankkeisiin.
+Tätä lakia sovelletaan myönnettäessä avustusta maa- ja elintarviketalouden sekä maaseudun ja saariston tutkimus- ja kehittämishankkeisiin.
 
 Maaseudun kehittämisohjelmaan sisältyvään hanketukeen sovelletaan maaseudun kehittämisen tukemisesta annettua lakia (28/2014).
 
