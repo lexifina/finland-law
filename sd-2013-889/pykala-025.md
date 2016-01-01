@@ -1,7 +1,7 @@
 # 25 § Tilintarkastus
 Luku: 4 luku Talous
 
-Kansallisgallerian tilintarkastukseen sekä tilintarkastajien asemaan ja vastuuseen sovelletaan tilintarkastuslakia (459/2007).
+Kansallisgallerian tilintarkastukseen sekä tilintarkastajien asemaan ja vastuuseen sovelletaan tilintarkastuslakia (1141/2015).
 
 Sen lisäksi, mitä tilintarkastuslaissa säädetään, Kansallisgallerian tilintarkastuskertomuksen tulee sisältää erityinen lausuma siitä:
 1) onko Kansallisgallerian varat asianmukaisesti sijoitettu;
