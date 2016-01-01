@@ -1,7 +1,7 @@
 # 16 § Paikallisyksikön järjestämän lomituksen ajankohta
 Luku: 3 luku Lomituspalvelujen hakeminen ja toteuttaminen sekä päätöksenteko
 
-Paikallisyksikön järjestämiä lomituspalveluja käyttävän turkistuottajan tulee tehdä paikallisyksikölle ehdotus lomitusajankohdasta mahdollisimman varhaisessa vaiheessa. Vuosilomaa koskeva ehdotus on tehtävä turkistiloittain viimeistään kaksi kuukautta ennen suunniteltua lomitusajankohtaa.
+Paikallisyksikön järjestämiä lomituspalveluja käytettäessä vuosiloma-ajankohtia koskeva ehdotus on tehtävä turkistiloittain kirjallisesti 13 §:ssä tarkoitetulla hakemuksella. Lisävapaan ajankohdasta turkistuottajan tulee tehdä paikallisyksikölle ehdotus mahdollisimman varhaisessa vaiheessa.
 
 Jollei paikallisyksikkö voi järjestää lomitusta turkistuottajan ehdottamana ajankohtana, sen tulee varata hänelle tilaisuus uuden ajankohdan esittämiseen. Paikallisyksikön on vahvistettava lomitusajankohta ja ilmoitettava se turkistuottajalle mahdollisimman varhaisessa vaiheessa. Vuosiloman ajankohta on ilmoitettava viimeistään kuukautta ennen vuosiloman alkamista, jollei turkistuottaja suostu lyhyempään ilmoitusaikaan.
 
