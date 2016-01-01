@@ -1,6 +1,6 @@
 # 29 §
 
-Jos välimiehet pitävät tarpeellisena todistajan tai asiantuntijan kuulustelemista tuomioistuimessa, asianosaisen kuulustelua totuusvakuutuksen nojalla taikka asianosaisen tai kolmannen henkilön velvoittamista esittämään asiakirja tai esine, jolla voi olla merkitystä todisteena asiassa, asianosainen voi esittää tätä koskevan hakemuksen tuomioistuimelle.
+Jos välimiehet pitävät tarpeellisena asianosaisen, todistajan tai asiantuntijan kuulustelemista tuomioistuimessa taikka asianosaisen tai kolmannen henkilön velvoittamista esittämään asiakirja tai esine, jolla voi olla merkitystä todisteena asiassa, asianosainen voi esittää tätä koskevan hakemuksen tuomioistuimelle.
 
 Edellä 1 momentissa tarkoitettu hakemus tehdään sille yleiselle alioikeudelle, jonka alueella kuultava tai se, jota asia muuten koskee, oleskelee.
 
