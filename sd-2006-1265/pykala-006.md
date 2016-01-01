@@ -16,4 +16,6 @@ Korkein hallinto-oikeus on päätösvaltainen myös kolmijäsenisenä käsittele
 
 Edellä 2 momentissa tarkoitetussa tapauksessa asia voidaan käsitellä ja ratkaista ilman niitä asiantuntijajäseniä, joiden osallistumisesta muutoin ratkaisukokoonpanoon on erikseen säädetty.
 
+Korkein hallinto-oikeus on päätösvaltainen myös kahden jäsenen kokoonpanossa ratkaisemaan valituslupaa koskevan asian ja siihen liittyvän vaatimuksen ulkomaalaislain (301/2004) 6 luvussa tarkoitetussa turvapaikkaa tai muuta kansainvälistä suojelua koskevassa asiassa, jollei ratkaistavana olevan kysymyksen laatu edellytä kolmijäsenisen kokoonpanon käyttämistä. Asia voidaan käsitellä ja ratkaista kahden jäsenen kokoonpanossa myös, kun valituksenalaisella päätöksellä on samalla ratkaistu muulla perusteella haettu oleskelulupa ja päätetty maasta poistamisesta ja maahantulokiellosta. Kaksijäsenisessä kokoonpanossa käsitelty asia on siirrettävä laajemman kokoonpanon ratkaistavaksi, jos jäsenet eivät ole ratkaisusta yksimielisiä.
+
 Korkein hallinto-oikeus voi kuitenkin myös yksijäsenisenä päättää jättää tutkimatta hallintolainkäyttölain (586/1996) 64 a §:ssä tarkoitetun asian, jos korkein hallinto-oikeus on jo antanut päätöksen asianosaisen samaa asiaa koskevaan kanteluun tai purkuhakemukseen, sekä tällaiseen asiaan liittyvän vaatimuksen.
