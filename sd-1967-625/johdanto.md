@@ -1,0 +1,2 @@
+Laki virkatehtävässä apuna olleelle henkilölle eräissä tapauksissa suoritettavasta tapaturmakorvauksesta
+Eduskunnan päätöksen mukaisesti säädetään:
