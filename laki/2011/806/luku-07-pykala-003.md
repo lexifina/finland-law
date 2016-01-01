@@ -1,10 +1,14 @@
-# 3 § Läheisiin henkilöihin sekä vaitiolovelvollisuuteen ja -oikeuteen liittyvät takavarikoimis- ja jäljentämiskiellot
+# 3 § Takavarikoimis- ja jäljentämiskiellot
 Luku: 7 luku Takavarikoiminen ja asiakirjan jäljentäminen
 
-Rikoksesta epäillyn tai häneen oikeudenkäymiskaaren 17 luvun 20 § :ssä tarkoitetussa suhteessa olevan henkilön hallusta ei saa takavarikoida tai jäljentää todisteena käytettäväksi asiakirjaa, joka sisältää epäillyn ja sanotun henkilön taikka mainitussa suhteessa epäiltyyn olevien henkilöiden välisen viestin. Tällaisen asiakirjan saa kuitenkin takavarikoida tai jäljentää, jos tutkittavana olevasta rikoksesta säädetty ankarin rangaistus on vähintään kuusi vuotta vankeutta.
+Asiakirjaa tai muuta 1 §:ssä tarkoitettua kohdetta ei saa takavarikoida eikä jäljentää, jos se sisältää tietoa, josta oikeudenkäymiskaaren 17 luvun 10–14, 16, 20 tai 21 §:n nojalla on velvollisuus tai oikeus kieltäytyä todistamasta.
 
-Asiakirjaa ei saa takavarikoida tai jäljentää todisteena käytettäväksi, jos sen voidaan olettaa sisältävän sellaista, josta oikeudenkäymiskaaren 17 luvun 23 §:n 1 momentissa tarkoitettu henkilö ei saa todistaa oikeudenkäynnissä tai mainitun luvun 24 §:n 2 tai 3 momentissa tarkoitettu henkilö saa kieltäytyä kertomasta, ja asiakirja on edellä tarkoitetun henkilön tai sen hallussa, jonka hyväksi vaitiolovelvollisuus tai -oikeus on säädetty.
+Jos salassapitovelvollisuus tai -oikeus perustuu oikeudenkäymiskaaren 17 luvun 11 §:n 2 tai 3 momenttiin tai 13, 14, 16 tai 20 §:ään, edellytyksenä kiellolle 1 momentissa säädetyn lisäksi on, että kohde on mainitussa lainkohdassa tarkoitetun henkilön tai häneen mainitun luvun 22 §:n 2 momentissa tarkoitetussa suhteessa olevan henkilön hallussa taikka sen hallussa, jonka hyväksi salassapitovelvollisuus tai -oikeus on säädetty.
 
-Asiakirja saadaan kuitenkin 2 momentin estämättä takavarikoida tai jäljentää, jos henkilö voidaan oikeudenkäymiskaaren 17 luvun 23 §:n 3 momentin nojalla velvoittaa todistamaan tai 24 §:n 4 momentin nojalla velvoittaa vastaamaan kysymykseen ja jos tutkittavana on tämän pykälän 1 momentissa tarkoitettu rikos.
+Takavarikoimis- tai jäljentämiskieltoa ei kuitenkaan ole, jos:
+1) oikeudenkäymiskaaren 17 luvun 11 §:n 2 tai 3 momentissa, 12 §:n 1 tai 2 momentissa, 13 §:n 1 tai 3 momentissa, 14 §:n 1 momentissa taikka 16 §:n 1 momentissa tarkoitettu henkilö, jonka hyväksi salassapitovelvollisuus on säädetty, suostuu takavarikoimiseen tai jäljentämiseen;
+2) oikeudenkäymiskaaren 17 luvun 20 §:n 1 momentissa tarkoitettu henkilö suostuu takavarikoimiseen tai jäljentämiseen;
+3) tutkittavana on rikos, josta säädetty ankarin rangaistus on vähintään kuusi vuotta vankeutta, ja tuomioistuin voisi tutkittavaa rikosta koskevassa oikeudenkäynnissä velvoittaa todistamaan oikeudenkäymiskaaren 17 luvun 12 §:n 3 momentin, 13 §:n 2 tai 3 momentin, 14 §:n 2 momentin taikka 20 §:n 2 momentin nojalla;
+4) tutkittavana on rikos, josta oikeudenkäymiskaaren 17 luvun 9 §:n 3 momentin nojalla tuomioistuimessa ei olisi oikeutta tai velvollisuutta kieltäytyä todistamasta, eikä takavarikoitava tai jäljennettävä kohde ole mainitun luvun 20 §:n 1 momentissa tarkoitetun henkilön hallussa.
 
-Asiakirja saadaan 1 ja 2 momentin estämättä pitää takavarikoituna tai jäljennettynä, jos sen irrottaminen muusta takavarikon kohteesta ei ole mahdollista.
+Asiakirja tai muu kohde saadaan edellä tässä pykälässä säädetyn estämättä takavarikoida, jos on syytä olettaa, että se on joltakulta rikoksella viety tai että se tuomitaan menetetyksi. Asiakirja tai muu kohde saadaan pitää takavarikoituna tai jäljennettynä, jos sen irrottaminen tai erottaminen muusta takavarikon kohteesta ei ole mahdollista.
