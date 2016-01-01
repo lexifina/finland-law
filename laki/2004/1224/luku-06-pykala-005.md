@@ -1,14 +1,17 @@
-# 5 § Erityiskorvattavuuden hakeminen
+# 5 § Peruskorvattavuuden vahvistaminen
 Osa: II OSA SAIRAANHOITOKORVAUKSET
-Luku: 6 luku Lääkkeiden hintalautakunta
+Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
 
-Myyntiluvan haltijan on haettava valtioneuvoston asetuksessa säädetyn vaikean ja pitkäaikaisen sairauden hoidossa tarvittavan lääkevalmisteen erityiskorvattavuutta lääkkeiden hintalautakunnalta. Hakemuksessa on esitettävä perusteltu ehdotus lääkevalmisteen erityiskorvattavaksi saattamisesta.
+Lääkevalmisteen peruskorvattavuus sairauden hoidossa voidaan vahvistaa enintään myyntilupaviranomaisen lääkevalmisteelle vahvistaman valmisteyhteenvedon ja siinä hyväksyttyjen käyttöaiheiden mukaisessa laajuudessa. Peruskorvattavuudesta päätettäessä tulee ottaa huomioon lääkkeen hoidollinen arvo. Ilman lääkemääräystä myytävälle lääkevalmisteelle voidaan vahvistaa peruskorvattavuus vain, jos kyse on lääketieteellisin perustein välttämättömästä lääkevalmisteesta.
 
-Lääkevalmisteen erityiskorvattavuutta koskevassa hakemuksessa myyntiluvan haltijan on esitettävä yksilöity ja perusteltu selvitys lääkevalmisteen:
-1) hoidollisesta arvosta;
-2) erityiskorvattavuudella saavutettavista hyödyistä ja erityiskorvattavuudesta aiheutuvista kustannuksista;
-3) korvaavasta tai korjaavasta vaikutustavasta tai välttämättömyydestä;
-4) taloudellisuudesta; sekä
-5) markkinaennusteesta.
+Peruskorvattavuutta ei vahvisteta, jos kyse on:
+1) lääkevalmisteesta, jota käytetään tilapäisen tai oireiltaan lievän sairauden hoitoon;
+2) lääkevalmisteesta, jonka hoidollinen arvo on vähäinen;
+3) lääkevalmisteesta, jota käytetään muuhun tarkoitukseen kuin sairauden hoitoon; tai
+4) perinteisestä kasvirohdosvalmisteesta taikka homeopaattisesta valmisteesta.
 
-Mitä 1 ja 2 momentissa säädetään, koskee soveltuvin osin myös hakemusta, jossa erityiskorvattavuutta haetaan lääkevalmisteelle, joka on jo aikaisemmin hyväksytty erityiskorvattavaksi, taikka lääkevalmisteelle, jonka vaikuttava lääkeaine sisältyy jo aikaisemmin hyväksyttyihin erityiskorvattaviin valmisteisiin.
+Lääkkeiden hintalautakunta voi vahvistaa peruskorvattavuuden tiettyyn lääkevalmisteen tarkoin määriteltyyn käyttöaiheeseen 2 momentissa tarkoitetuissa tilanteissa.
+
+Lääkkeiden hintalautakunta voi lääkeryhmittäin päättää 2 momentissa tarkoitetuista valmisteista.
+
+Jos valmisteen peruskorvattavuutta koskevat edellytykset eivät täyty, hakemus tukkuhinnan osalta raukeaa.

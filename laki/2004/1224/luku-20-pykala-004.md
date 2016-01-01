@@ -2,4 +2,4 @@
 Osa: VII OSA ERINÄISET SÄÄNNÖKSET
 Luku: 20 luku Erinäisiä säännöksiä
 
-Kansaneläkelaitoksen, sosiaalivakuutuslautakunnan sekä tarkastuslautakunnan päätös on maksuton.
+Kansaneläkelaitoksen ja tämän lain mukaisen muutoksenhakuelimen päätös on maksuton.

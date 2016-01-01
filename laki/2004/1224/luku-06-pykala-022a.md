@@ -1,0 +1,5 @@
+# 22 a § Viitehintajärjestelmään sisältyvien lääkevalmisteiden enimmäistukkuhinnan alentaminen ja rajoitetun korvattavuuden uudelleen arviointi
+Osa: II OSA SAIRAANHOITOKORVAUKSET
+Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
+
+Lääkkeiden hintalautakunta alentaa viitehintaryhmään sisältyvien lääkevalmisteiden vahvistettuja enimmäistukkuhintoja viitehintaryhmän perustamista seuraavan neljännen viitehintakauden alkaessa. Enimmäistukkuhintojen alentaminen koskee lääkevalmisteita, joiden enimmäistukkuhinta on korkeampi kuin viitehintaryhmään sisällytetyn rinnakkaisvalmisteen korkein vahvistettu enimmäistukkuhinta. Näiden valmisteiden enimmäistukkuhinta vahvistetaan vastaamaan korkeinta viitehintaryhmään kuuluvalle rinnakkaisvalmisteelle vahvistettua enimmäistukkuhintaa. Samassa yhteydessä lääkkeiden hintalautakunta arvioi uudelleen viitehintaryhmään sisältyvien rajoitetusti korvattavien lääkevalmisteiden korvattavuuden laajuuden. Korvattavuuden rajoitus voidaan poistaa, jos 6 tai 9 §:ssä tarkoitettuja edellytyksiä korvattavuuden rajoittamiselle ei enää ole.

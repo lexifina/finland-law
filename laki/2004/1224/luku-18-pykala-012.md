@@ -1,5 +1,7 @@
-# 12 § Kansaneläkelaitoksen valvontaoikeus
+# 12 § Työnantajien sekä palkansaajien ja yrittäjien rahoitusosuus
 Osa: VI OSA SAIRAUSVAKUUTUKSEN RAHOITUS
 Luku: 18 luku Sairausvakuutusrahasto ja vakuutusmaksut
 
-Kansaneläkelaitoksella on oikeus valvoa sairausvakuutusmaksun määräämistä, maksuunpanoa, kantoa ja tilitystä sekä tarkastaa näiltä osin verotusta koskevia asiakirjoja.
+Työnantajien suorittaman sairausvakuutusmaksun sekä palkka- ja työtulon perusteella perittävän sairausvakuutuksen päivärahamaksun tuotoilla rahoitetaan 11 §:ssä tarkoitetut työtulovakuutuksen kulut, joista on vähennetty 13 §:ssä tarkoitetulla valtion osuudella ja yrittäjän lisärahoitusosuudella rahoitettavat kulut.
+
+Lain voimaan tullessa 1 momentissa tarkoitetuista kuluista rahoitetaan työnantajan sairausvakuutusmaksulla 73 prosenttia ja sairausvakuutuksen päivärahamaksulla 27 prosenttia.

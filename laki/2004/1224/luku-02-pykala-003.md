@@ -4,12 +4,17 @@ Luku: 2 luku Sairaanhoitokorvauksia koskevat yhteiset säännökset
 
 Tämän lain nojalla ei korvata:
 1) kunnallisista terveyspalveluista sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain (734/1992) nojalla perittyjä maksuja;
-2) kunnan tai kuntayhtymän sosiaali- ja terveydenhuollon suunnittelusta ja valtionosuudesta annetun lain (733/1992) 4 §:ssä tarkoitetulla tavalla järjestämän sairaanhoidon kustannuksia;
-3) sairaanhoidon kustannuksia, kun yksityisen terveydenhuollon palvelut on järjestetty kunnallisen sosiaali- tai terveydenhuollon tiloissa;
-4) kunnallisen sairaanhoidon yhteydessä annetusta lääkehoidosta aiheutuneita kustannuksia silloin, kun lääkehoidon antaa avovastaanotolla lääkäri, hammaslääkäri taikka lääkärin tai hammaslääkärin valvonnassa muu terveydenhuollon ammattihenkilö;
-5) sairaanhoidon kustannuksia ajalta, jonka vakuutettu on julkisessa laitoshoidossa tai sitä vastaavassa hoidossa;
-6) sairaanhoidon kustannuksia ajalta, jolloin vakuutettu on suorittamassa rangaistusten täytäntöönpanosta annetun lain (39/1889) 2 §:ssä tarkoitetussa rangaistuslaitoksessa vankeusrangaistusta lukuun ottamatta sakon muuntorangaistusta tai on vaarallisten rikoksenuusijain eristämisestä annetun lain (317/1953) 1 §:n nojalla pakkolaitoksessa;
-7) sairaanhoitoon liittyvien tai vakuutetun muutoin tarvitsemien hoitotarvikkeiden, apuvälineiden ja proteesien hankkimisesta aiheutuvia kustannuksia; eikä
-8) yksityisistä terveydenhuoltopalveluista perittyjä hoitopäivä-, poliklinikka-, toimisto- ja muita vastaavia maksuja.
+2) kunnan tai kuntayhtymän sosiaali- ja terveydenhuollon suunnittelusta ja valtionavustuksesta annetun lain (733/1992) 4 §:ssä tarkoitetulla tavalla järjestämän sairaanhoidon kustannuksia;
+3) kunnallisen sairaanhoidon yhteydessä avovastaanotolla annetusta lääkehoidosta aiheutuneita kustannuksia;
+4) sairaanhoidon kustannuksia ajalta, jonka vakuutettu on julkisessa laitoshoidossa tai sitä vastaavassa hoidossa;
+5) sairaanhoidon kustannuksia, jos kustannukset korvataan vankeuslain (767/2005) 10 luvun 7 §:n perusteella;
+6) sairaanhoitoon liittyvien tai vakuutetun muutoin tarvitsemien hoitotarvikkeiden, apuvälineiden ja proteesien hankkimisesta aiheutuvia kustannuksia;
+7) yksityisistä terveydenhuoltopalveluista perittyjä hoitopäivä-, poliklinikka-, toimisto- ja muita vastaavia maksuja;
+8) lääkärin antaman psykoterapian kustannuksia, jos kustannukset korvataan Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain (566/2005) 11 a tai 12 §:n perusteella;
+9) sairaanhoidon kustannuksia, jos kustannukset ovat syntyneet hoidosta, joka ei kuulu terveydenhuoltolain 7 a §:ssä tarkoitettuun terveydenhuollon palveluvalikoimaan.
 
-Edellä 5 ja 6 kohdassa sairaanhoidon kustannuksilla tarkoitetaan myös lääkkeistä aiheutuvia kustannuksia.
+Edellä 4 ja 5 kohdassa sairaanhoidon kustannuksilla tarkoitetaan myös lääkkeistä aiheutuvia kustannuksia.
+
+Kunnallisen sosiaali- ja terveydenhuollon tiloissa järjestetyn yksityisen terveydenhuollon palveluiden kustannusten korvaaminen edellyttää, että tilojen vuokranantaja on ilmoittanut Kansaneläkelaitokselle vuokraussopimuksen tehneen palveluiden antajan yksilöintitiedot sekä toimipaikkaa ja vuokrasopimuksen kestoa koskevat tiedot. Tilojen vuokranantajan on huolehdittava siitä, että tilojen vuokraaminen ei vaaranna kunnallisen sosiaali- ja terveydenhuollon lakisääteistä toimintaa.
+
+Osakeyhtiötä, jonka enemmistöomistajana on yksi tai useampi kunta tai kuntayhtymä, pidetään tässä pykälässä tarkoitettuna yksityisenä terveydenhuollon palveluiden antajana, jos muun kuin kunnan tai kuntayhtymän omistusosuus on yhteensä vähintään 25 prosenttia yhtiön osakepääomasta.

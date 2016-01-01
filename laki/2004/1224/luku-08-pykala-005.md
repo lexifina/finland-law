@@ -1,8 +1,7 @@
 # 5 § Sairauspäivärahan maksamisen rajoitukset
 Osa: III OSA PÄIVÄRAHAETUUDET
-Luku: 8 luku Sairauspäiväraha
+Luku: 8 luku Sairauspäiväraha ja osasairauspäiväraha
 
 Sairauspäivärahaa ei makseta vakuutetulle, joka on:
-1) suorittamassa hänelle tuomittua vankeusrangaistusta rangaistusten täytäntöönpanosta annetun lain 2 §:ssä tarkoitetussa rangaistuslaitoksessa lukuun ottamatta sakon muuntorangaistusta;
-2) vaarallisten rikoksenuusijain eristämisestä annetun lain 1 §:n nojalla pakkolaitoksessa; taikka
-3) varusmiespalveluksessa vakinaisessa väessä, varusmiespalvelusta vastaavassa vapaaehtoisessa asepalveluksessa, aseettomana, reserviläisenä tai nostoväkeen kuuluvana puolustusvoimien palveluksessa taikka siviilipalveluksessa.
+1) suorittamassa hänelle tuomittua vankeusrangaistusta vankeuslain (767/2005) 4 luvun 1 §:ssä tarkoitetussa vankilassa lukuun ottamatta sakon muuntorangaistusta; tai
+2) varusmiespalveluksessa vakinaisessa väessä, varusmiespalvelusta vastaavassa vapaaehtoisessa asepalveluksessa, aseettomana, reserviläisenä tai varareserviin kuuluvana puolustusvoimien palveluksessa taikka siviilipalveluksessa.

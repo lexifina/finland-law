@@ -2,4 +2,4 @@
 Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 15 luku Toimeenpanoa koskevat säännökset
 
-Korvaukset ja etuudet maksetaan hakijan ilmoittamalle tilille Suomessa toimivaan rahalaitokseen. Jos tilille maksaminen ei ole mahdollista tai jos hakija esittää Kansaneläkelaitokselle erityisen syyn, voidaan etuus tai korvaus maksaa muullakin tavalla.
+Korvaukset ja etuudet maksetaan hakijan ilmoittamalle Euroopan unionissa sijaitsevalle tilille. Jos tilille maksaminen ei ole mahdollista tai jos hakija esittää Kansaneläkelaitokselle erityisen syyn, etuus tai korvaus voidaan maksaa muullakin tavalla.

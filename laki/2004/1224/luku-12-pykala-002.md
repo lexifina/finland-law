@@ -2,8 +2,15 @@
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 12 luku Päivärahaetuuden suhde muihin etuuksiin
 
-Jos vakuutetulla on oikeus saada korvausta samalta ajalta ja saman työkyvyttömyyden vuoksi muun lain kuin tämän lain nojalla, tämä etuus vähennetään hänelle maksettavasta sairauspäivärahasta, jollei muualla toisin säädetä.
+Tämän lain nojalla maksettavasta sairauspäivärahasta vähennetään seuraavat samalta ajalta ja saman työkyvyttömyyden vuoksi muun lain nojalla maksettavat etuudet:
+1) kansaneläkelain 12 §:n mukainen työkyvyttömyyseläke lukuun ottamatta pykälän 4 momentin mukaista eläkettä;
+2) työtapaturman ja ammattitaudin perusteella myönnettävä tapaturmavakuutuslain mukainen päiväraha, tapaturmaeläke ja elinkorko;
+3) työtapaturman ja ammattitaudin perusteella myönnettävä maatalousyrittäjien tapaturmavakuutuslain mukainen päiväraha ja tapaturmaeläke;
+4) opiskeluun liittyvissä työhön rinnastettavissa olosuhteissa syntyneen vamman tai sairauden korvaamisesta annetun lain mukainen päiväraha ja tapaturmaeläke;
+5) urheilijan tapaturma- ja eläketurvasta annetun lain mukainen tapaturmaeläke;
+6) sotilastapaturmalain mukainen päiväraha ja tapaturmaeläke sekä sotilasvammalain mukainen elinkorko;
+7) liikennevakuutuslain mukainen ansionmenetyskorvaus ja työkyvyttömyyseläke.
 
-Sen estämättä, mitä 1 momentissa säädetään, voidaan sairauspäiväraha maksaa täysimääräisenä, jos muun korvauksen saaminen viivästyy vakuutetusta riippumattomasta syystä. Kansaneläkelaitoksella on oikeus periä mainitusta muun lain mukaisesta korvauksesta maksettua sairauspäivärahaa vastaava osuus. Jos sairauspäivärahaa on maksettu muun korvauksen maksamisen viivästymisen vuoksi ja vakuutettu on tämän jälkeen saanut 1 momentissa tarkoitetun korvauksen muulta korvausvelvolliselta, Kansaneläkelaitoksella on oikeus periä maksettu sairauspäivärahan määrä takaisin vakuutetulta tämän saaman edellä tarkoitetun muun korvauksen määrään asti.
+Sen estämättä, mitä 1 momentissa säädetään, voidaan sairauspäiväraha maksaa täysimääräisenä, jos 1 momentin 2–7 kohdassa mainitun muun lain mukaisen etuuden saaminen viivästyy vakuutetusta riippumattomasta syystä. Kansaneläkelaitoksella on oikeus periä mainitusta 1 momentin 2–7 kohdan mukaisesta muun lain mukaisesta etuudesta maksettua sairauspäivärahaa vastaava osuus etuuden maksajalta.
 
 Jos sairauspäivärahaa tulee maksettavaksi työnantajalle, työnantajalle ei makseta sairauspäivärahaa 2 momentin mukaisessa viivästymistilanteessa.

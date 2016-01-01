@@ -1,9 +1,17 @@
-# 8 § Ulkomailla asuvan eläkkeensaajan sairausvakuutusmaksun määräytyminen
+# 8 § Sairaanhoitovakuutuksen kulut
 Osa: VI OSA SAIRAUSVAKUUTUKSEN RAHOITUS
 Luku: 18 luku Sairausvakuutusrahasto ja vakuutusmaksut
+Väliotsikko: Sairaanhoitovakuutuksen kulut ja rahoitus
 
-Eläkkeensaajan, joka on muuttanut toiseen Euroopan talousalueen maahan ja jonka sairaanhoidon kustannusten korvaamisesta Suomi sosiaaliturvajärjestelmien soveltamisesta yhteisön alueella liikkuviin palkattuihin työntekijöihin, itsenäisiin ammatinharjoittajiin ja heidän perheenjäseniinsä annetun neuvoston asetuksen (ETY) N:o 1408/71 27, 28 tai 28 a artiklan perusteella vastaa, on suoritettava vakuutetun sairausvakuutusmaksu senkin jälkeen, kun hän ei enää kuulu Suomen asumisperusteisen sosiaaliturvalainsäädännön piiriin.
+Sairausvakuutusrahastosta maksettavia sairaanhoitovakuutuksen kuluja ovat:
+1) hoito- ja tutkimuskorvaukset, matkakustannusten korvaukset ja lääkekorvaukset;
+2) Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain mukaiset kuntoutusmenot;
+3) Ylioppilaiden terveydenhoitosäätiölle 13 luvun 11 §:n perusteella maksettavat korvaukset;
+4) maatalousyrittäjien tapaturmavakuutuslain 15 §:n mukaan perusturvaosuuteen katsottavat sairaanhoitokulut; sekä
+5) rajat ylittävästä terveydenhuollosta annetun lain 9 §:n 2–4 momentin sekä 20 ja 21 §:n perusteella maksettavat korvaukset.
 
-Eläkkeensaaja ei ole velvollinen suorittamaan vakuutetun sairausvakuutusmaksua sellaisen eläketulon perusteella, josta Suomessa peritään lähdevero sen suuruisena kuin rajoitetusti verovelvollisen tulon ja varallisuuden verottamisesta annetun lain 7 §:ssä säädetään.
+Edellä 1 §:n 6 kohdassa tarkoitetuista toimintakuluista sairaanhoitovakuutuksen kuluja ovat 1 momentin 1–5 kohdassa tarkoitettujen etuuksien ja korvausten toimeenpanosta Kansaneläkelaitokselle aiheutuvat toimintakulut.
 
-Jos ulkomailla asuva eläkkeensaaja on rajoitetusti verovelvollinen, vakuutetun sairausvakuutusmaksun määräytymisen ja suorittamisen perusteena käytetään eläketulon osalta Suomesta ulkomaille maksettavaa eläkettä.
+Sairaanhoitovakuutuksen kuluina otetaan lisäksi huomioon 1 momentissa tarkoitettujen kulujen vuosittaisen muutoksen vaikutus sairausvakuutusrahaston vähimmäismäärän turvaamiseen.
+
+Edellä 1 momentin 1 ja 2 kohdassa tarkoitetuista kuluista vähennetään sairausvakuutusrahastoon takautuvasti maksetut suoritukset.

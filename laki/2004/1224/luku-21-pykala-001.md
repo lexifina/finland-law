@@ -1,7 +1,8 @@
 # 1 § Voimaantulo
+Osa: VII OSA ERINÄISET SÄÄNNÖKSET
 Luku: 21 luku Voimaantulo- ja siirtymäsäännökset
 
-Tämä laki tulee voimaan 1 päivänä tammikuuta 2005. Sen 11 luvun 4 §:n 5―7 momentti kuitenkin tulee voimaan vasta 1 päivänä lokakuuta 2005.
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2005. Sen 11 luvun 4 §:n 5–7 momentti kuitenkin tulee voimaan vasta 1 päivänä lokakuuta 2005.
 
 Tämän lain 11 luvun 1 §:n 1 momentissa säädetyt rahamäärät vastaavat vuodelle 2004 vahvistettua työtekijäin eläkelain 9 §:n 2 momentin ensimmäisessä virkkeessä tarkoitettua indeksilukua, ja lain 5 luvun 8 §:n 1 momentissa säädetty rahamäärä samalle vuodelle vahvistettua kansaneläkeindeksistä annetussa laissa tarkoitettua indeksilukua. Lain 11 luvun 1 §:n 3 momenttia sovelletaan ensimmäisen kerran 1 päivänä tammikuuta 2005 tarkistettaessa 11 luvun 1 §:n 1 momentissa tarkoitettuja rahamääriä.
 
@@ -21,7 +22,7 @@ Tämän lain 11 luvun 2 §:n 1 momentin 3 kohtaa sovelletaan, kun työkyvyttömy
 
 Lain 11 luvun 4 §:n 5 momenttia sovelletaan, kun oikeus saman lapsen perusteella maksettavaan vanhempainpäivärahaan tai erityishoitorahaan alkaa 1 päivänä lokakuuta 2005 tai sen jälkeen, taikka kun työkyvyttömyys alkaa 1 päivänä lokakuuta 2005 tai sen jälkeen.
 
-Lain 11 luvun 4 §:n 6―7 momenttia sovelletaan, kun ensimmäinen saman lapsen perusteella maksettava vanhempainpäivärahapäivä on 1 päivänä lokakuuta 2005 tai sen jälkeen.
+Lain 11 luvun 4 §:n 6–7 momenttia sovelletaan, kun ensimmäinen saman lapsen perusteella maksettava vanhempainpäivärahapäivä on 1 päivänä lokakuuta 2005 tai sen jälkeen.
 
 Tämän lain 11 luvun 6 §:n 3 momentin viimeisen virkkeen säännöstä siitä, että päivärahaetuuden määräytymisessä ei oteta huomioon kuntoutusrahalain 14 §:n 2 momentin mukaan määräytyneestä kuntoutusrahasta sitä osuutta, jolla se ylittää määrän, joka vastaavassa tilanteessa olisi määritelty kyseisen lain 14 §:n 1 momentin mukaan kuntoutusrahan määräksi, sovelletaan, kun työkyvyttömyys tai oikeus päivärahaetuuteen alkaa tämän lain tultua voimaan.
 
@@ -29,7 +30,7 @@ Sen estämättä, mitä tämän lain 13 luvun 5 §:ssä säädetään, korvataan
 
 Tämän lain 14 luvun säännöksiä sovelletaan, kun työnantaja hakee vuosilomakustannuskorvausta sellaisten kustannuksien perusteella, joiden perusteena oleva vanhempainpäivärahakausi on päättynyt tämän lain voimaantulon jälkeen.
 
-Lain 14 luvun 3 §:n 2 momenttia sovelletaan vuosilomakustannuskorvaukseen, jos vanhempainpäivärahaa on saman lapsen perusteella maksettu ensimmäisen kerran tämän lain voimaantulon jälkeen.
+Lain 14 luvun 3 §:n 2 momenttia sovelletaan vuosilomakustannuskorvaukseen, jos vanhempainpäivärahaa on saman lapsen perusteella maksettu ensimmäisen kerran tämän lain voimaantulon jälkeen. Sen estämättä, mitä 14 luvun 3 §:n 2 momentissa säädetään, jos työnantaja hakee vuosilomakustannuskorvausta edellä 14 momentissa säädetyllä perusteella, korvauksen määrä on päivää kohden työntekijälle vuosiloman kertymisajalta maksetun erityisäitiys-, äitiys-, isyys- ja vanhempainrahan suuruinen.
 
 Sen estämättä, mitä tämän lain 15 luvun 3 §:n 1 momentissa säädetään, korvausta vuonna 2004 syntyneistä vuotuisen omavastuuosuuden ylittävistä matkakustannuksista voi hakea 30 päivään kesäkuuta 2005 saakka.
 

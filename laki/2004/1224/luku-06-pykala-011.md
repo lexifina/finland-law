@@ -1,7 +1,9 @@
-# 11 § Hakemuksen käsittelyaika
+# 11 § Kansaneläkelaitoksen, asiantuntijaryhmän sekä asiantuntijoiden kuuleminen korvattavuus- ja tukkuhintahakemuksista
 Osa: II OSA SAIRAANHOITOKORVAUKSET
-Luku: 6 luku Lääkkeiden hintalautakunta
+Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
 
-Lääkkeiden hintalautakunnan päätös myyntiluvan saaneen lääkevalmisteen korvausperusteeksi vahvistetusta kohtuullisesta tukkuhinnasta tai aikaisemmin vahvistetun tukkuhinnan korottamisesta sekä lääkevalmisteen erityiskorvattavuudesta on toimitettava hakijalle 90 päivän kuluessa hakemuksen saapumisesta. Jos ratkaistavana on sekä lääkevalmisteen kohtuullinen tukkuhinta että sen erityiskorvattavuus, päätös on toimitettava hakijalle 180 päivän kuluessa hakemuksen saapumisesta. Jos hakemuksen tueksi esitettävät tiedot ovat riittämättömät, lautakunta tai tarvittaessa lautakunnan pääsihteeri keskeyttää hakemuksen käsittelyn ja ilmoittaa viipymättä hakijalle, mitä yksilöityjä lisätietoja edellytetään. Lopullinen päätös on tällöin toimitettava hakijalle 90 päivän kuluessa lisäselvityksen vastaanottamisesta.
+Lääkkeiden hintalautakunta pyytää tarvittaessa Kansaneläkelaitoksen lausunnon lääkevalmisteen peruskorvattavuutta, erityiskorvattavuutta ja lääkevalmisteen kohtuullista tukkuhintaa sekä tukkuhinnan korottamista koskevasta hakemuksesta.
 
-Lääkkeiden hintalautakunta voi pidentää käsittelyaikaa 60 päivällä, jos hinnankorotushakemuksia on poikkeuksellisen paljon. Lautakunnan puheenjohtaja voi tarvittaessa päättää pidennetystä käsittelyajasta.
+Uutta vaikuttavaa lääkeainetta koskevasta erityiskorvattavuushakemuksesta pyydetään lääkkeiden hintalautakunnan asiantuntijaryhmän lausunto, jollei erityisestä syystä muuta johdu. Muissa tilanteissa asiantuntijaryhmältä voidaan pyytää lausunto tarvittaessa.
+
+Lääkkeiden hintalautakunta voi pyytää tarvittaessa asiantuntijalausuntoja käsiteltävinä olevista hakemuksista taikka asioista, jotka hintalautakunta on ottanut käsiteltäväksi omasta aloitteestaan.

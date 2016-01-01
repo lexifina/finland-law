@@ -1,15 +1,18 @@
-# 3 § Kohtuullisen tukkuhinnan vahvistaminen
+# 3 § Päätöksenteko lääkkeiden hintalautakunnassa
 Osa: II OSA SAIRAANHOITOKORVAUKSET
-Luku: 6 luku Lääkkeiden hintalautakunta
+Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
 
-Lääkkeiden hintalautakunnan on pyydettävä Kansaneläkelaitokselta lausunto tukkuhinnan vahvistamista koskevasta hakemuksesta ennen asian ratkaisemista, jollei erityisestä syystä muuta johdu.
+Lautakunta päättää sille kuuluvat asiat esittelystä. Lautakunta on päätösvaltainen, kun kokouksessa on läsnä puheenjohtajan lisäksi vähintään kolme jäsentä. Lautakunnan päätökseksi tulee se mielipide, jota enemmistö on kannattanut, ja äänten mennessä tasan se mielipide, jota puheenjohtaja on kannattanut.
 
-Lääkevalmisteen korvausperusteeksi hyväksyttävän tukkuhinnan kohtuullisuutta arvioitaessa otetaan huomioon:
-1) lääkevalmisteen käytöstä aiheutuvat hoitokustannukset ja käytöllä saavutettavat hyödyt potilaan sekä terveyden- ja sosiaalihuollon kokonaiskustannusten kannalta;
-2) käytettävissä olevista muista hoitovaihtoehdoista aiheutuvat hyödyt ja kustannukset;
-3) vastaavien lääkevalmisteiden hinnat Suomessa;
-4) lääkevalmisteen hinnat muissa Euroopan talousalueen maissa;
-5) lääkevalmisteen valmistus-, tutkimus- ja tuotekehityskustannukset; sekä
-6) korvauksiin käytettävissä olevat varat.
+Lääkkeiden hintalautakunta voi siirtää johtajan ratkaistavaksi:
+1) lääkevalmisteen peruskorvattavuuden ja kohtuullisen tukkuhinnan vahvistamisen, jos kysymyksessä on:
+a) valmisteen määräaikaisesti voimassa olevan peruskorvattavuuden ja tukkuhinnan uudelleen vahvistaminen;
+b) uusi yhdistelmävalmiste, jos samoja lääkeaineita sisältäviä valmisteita on hyväksytty korvattaviksi;
+c) korvattavaksi hyväksytyn valmisteen uusi pakkauskoko, vahvuus tai lääkemuoto;
+d) korvattavaksi hyväksyttyä valmistetta vastaava rinnakkaisvalmiste tai rinnakkaistuontivalmiste;
+2) lääkevalmisteen erityiskorvattavuuden hyväksymisen, jos samaa lääkeainetta sisältävä valmiste on hyväksytty erityiskorvattavaksi;
+3) lääkelain 21 f §:n mukaisen erityisluvalla toimitettavan lääkevalmisteen peruskorvattavuuden ja kohtuullisen tukkuhinnan vahvistamisen sekä lisäksi erityiskorvattavuuden hyväksymisen, jos samaa lääkeainetta sisältävä valmiste on hyväksytty erityiskorvattavaksi;
+4) kohtuullista tukkuhintaa koskevan todistuksen antamisen myyntiluvan haltijalle lääkkeiden ulkomaille vientiä varten;
+5) lääkevalmisteen korvattavuuden lakkauttamisen siltä osin kun myyntilupaviranomainen on muuttanut lääkevalmisteelle hyväksyttyä käyttöaihetta suppeammaksi kuin hyväksytyn korvattavuuden perusteena oleva käyttöaihe.
 
-Mitä 2 momentissa säädetään lääkevalmisteesta, koskee soveltuvin osin kliinisiä ravintovalmisteita, perusvoiteita ja lääkelain 21 §:n 4 momentin tarkoittamia erityisluvallisia lääkevalmisteita.
+Sen lisäksi, mitä 2 momentissa säädetään, lääkkeiden hintalautakunta voi siirtää johtajan ratkaistavaksi lääkevalmisteiden viitehintaryhmien muodostamisen, kullekin viitehintaryhmälle asetettavan viitehinnan vahvistamisen sekä lääkevalmisteen sisällyttämisen viitehintaryhmään. Lääkkeiden hintalautakunnan johtajan ratkaistavaksi voidaan siirtää myös viitehintaryhmään kuuluvan valmisteen korvattavuus ja enimmäistukkuhinta.

@@ -12,4 +12,4 @@ Hyvän työterveyshuoltokäytännön toteuttamiseksi tarpeellisia voimavaratekij
 
 Kansaneläkelaitos vahvistaa vuosittain korvauksen perusteena olevat laskennalliset enimmäismäärät edellä tarkoitettujen voimavaratekijöiden perusteella yleistä kustannuskehitystä vastaavasti.
 
-Korvauksen enimmäismäärässä voidaan ottaa korottavana tekijänä huomioon työpaikan kokoon sekä työterveyshuoltotoiminnan aloittamiseen, työterveysaseman perustamiseen tai työterveyshuollon sisällön muuttamiseen liittyvä erityinen syy sekä työn terveysvaaroista aiheutuva työterveyshuollon tarpeeseen vaikuttava muu syy. Valtioneuvoston asetuksella voidaan tarkemmin säätää korvauksen enimmäismäärää korottavista tekijöistä.
+Korvauksen enimmäismäärässä voidaan ottaa korottavana tekijänä huomioon työpaikan kokoon sekä työterveyshuoltotoiminnan aloittamiseen, työterveysaseman perustamiseen tai työterveyshuollon sisällön muuttamiseen liittyvä erityinen syy. Valtioneuvoston asetuksella voidaan tarkemmin säätää korvauksen enimmäismäärää korottavista tekijöistä.

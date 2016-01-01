@@ -1,7 +1,19 @@
-# 4 § Kohtuullisen tukkuhinnan korottaminen
+# 4 § Peruskorvattavuuden ja kohtuullisen tukkuhinnan hakeminen
 Osa: II OSA SAIRAANHOITOKORVAUKSET
-Luku: 6 luku Lääkkeiden hintalautakunta
+Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
+Väliotsikko: Korvattavuuden ja kohtuullisen tukkuhinnan vahvistamismenettely
 
-Myyntiluvan haltijan on haettava lääkevalmisteen, kliinisen ravintovalmisteen ja perusvoiteen vahvistetun tukkuhinnan korottamista lääkkeiden hintalautakunnalta. Lääkkeiden hintalautakunnan on pyydettävä Kansaneläkelaitokselta lausunto tukkuhinnan korottamista koskevasta hakemuksesta ennen asian ratkaisemista.
+Myyntiluvan haltijan on haettava lääkevalmisteen peruskorvattavuuden ja kohtuullisen tukkuhinnan vahvistamista lääkkeiden hintalautakunnalta.
 
-Tukkuhinnan korottamista koskevassa hakemuksessa on esitettävä yksilöity ja perusteltu ehdotus uudeksi kohtuulliseksi tukkuhinnaksi. Tueksi tarvitaan selvitys pysyväisluonteisista muutoksista, jotka ovat tapahtuneet lääkevalmisteen hinnanmuodostukseen vaikuttavissa seikoissa tukkuhinnan voimassaoloaikana. Hakemukseen on lisäksi soveltuvin osin liitettävä 2 §:n 2 momentissa tarkoitetut selvitykset.
+Peruskorvattavuus- ja tukkuhintahakemuksessa on esitettävä yksilöity ja perusteltu ehdotus lääkevalmisteen peruskorvattavuudesta ja valmisteelle vahvistettavasta kohtuullisesta tukkuhinnasta. Hakemuksessa on oltava:
+1) selvitys lääkkeen käyttötarkoituksesta, hoidollisesta arvosta ja korvattavuudella saavutettavista hyödyistä verrattuna muihin saman sairauden hoidossa käytettäviin lääkevalmisteisiin;
+2) selvitys keskimääräisestä vuorokausiannoksesta ja tällä perusteella muodostuvasta ehdotetun tukkuhinnan ja arvonlisäverollisen vähittäismyyntihinnan mukaisesta lääkehoidon kustannuksesta;
+3) perusteltu arvio lääkkeen myynnistä ehdotetun tukkuhinnan ja arvonlisäverollisen vähittäismyyntihinnan perusteella sekä arvio valmistetta käyttävien potilaiden määrästä;
+4) selvitys lääkkeen taloudellisuudesta ja markkinaennusteesta verrattuna muihin saman sairauden hoitoon käytettäviin lääkkeisiin;
+5) lääkkeen patenttia ja lisäsuojatodistusta koskeva selvitys;
+6) muissa Euroopan talousalueen maissa käytössä olevat lääkevalmisteen muut kauppanimet, lääkevalmisteen korvauksen perusteeksi hyväksytyt käytössä olevat tukkuhinnat sekä lääkkeen korvausperusteet;
+7) terveystaloudellinen selvitys, jos kysymyksessä on uutta vaikuttavaa lääkeainetta sisältävä lääkevalmiste tai korvattavuuden merkittävä laajentaminen.
+
+Myyntiluvan haltijan on liitettävä hakemukseen myös muut lääkkeiden hintalautakunnan edellyttämät selvitykset. Myyntiluvan haltija voi sisällyttää hakemukseen edellä mainittujen selvitysten lisäksi muita asian käsittelyn kannalta tarpeellisiksi katsomiaan selvityksiä. Haettaessa peruskorvattavuuden rajoittamista tarkoin määriteltyyn käyttöaiheeseen myyntiluvan haltijan on esitettävä perustelut korvattavuuden rajoittamiselle ottaen erityisesti huomioon lääkevalmisteen hoidollinen arvo kyseisessä sairaustilassa ja ehdotetun rajoituksen tarkoituksenmukaisuus lääkehoidon toteutuksen kannalta.
+
+Mitä tässä pykälässä säädetään, noudatetaan soveltuvin osin haettaessa hyväksytyn peruskorvattavuuden laajentamista.

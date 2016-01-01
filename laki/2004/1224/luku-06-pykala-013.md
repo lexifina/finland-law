@@ -1,7 +1,5 @@
-# 13 § Velvollisuus ilmoittaa lääkevalmistetta koskevasta muutoksesta
+# 13 § Kliininen ravintovalmiste, perusvoide ja erityislupavalmiste sekä vaihtokelpoinen lääke
 Osa: II OSA SAIRAANHOITOKORVAUKSET
-Luku: 6 luku Lääkkeiden hintalautakunta
+Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
 
-Myyntiluvan haltijan on viipymättä ilmoitettava lääkkeiden hintalautakunnalle, jos lääkevalmisteen myynti kasvaa hakemuksessa esitettyä ennakkoarviota olennaisesti suuremmaksi.
-
-Lääkelaitoksen on ilmoitettava lääkkeiden hintalautakunnalle lääkevalmisteen käyttöaiheessa tapahtuneet muutokset.
+Mitä tässä luvussa säädetään lääkevalmisteen korvattavuuden ja kohtuullisen tukkuhinnan hakemisesta ja vahvistamisesta, sovelletaan soveltuvin osin myös kliinisen ravintovalmisteen ja perusvoiteen sekä lääkelain 21 f §:ssä tarkoitetun erityisluvallisen lääkevalmisteen ja 57 b §:ssä tarkoitetun vaihtokelpoisen lääkkeen korvattavuuden ja kohtuullisen tukkuhinnan hakemiseen ja vahvistamiseen.

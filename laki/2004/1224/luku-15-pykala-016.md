@@ -1,9 +1,0 @@
-# 16 § Kansaneläkelaitoksen tehtävät toimeenpantaessa neuvoston asetuksen (ETY) N:o 1408/71 ja sosiaaliturvasopimusten säännöksiä
-Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
-Luku: 15 luku Toimeenpanoa koskevat säännökset
-
-Kansaneläkelaitoksen tehtävistä toimeenpantaessa sosiaaliturvajärjestelmien soveltamisesta yhteisön alueella liikkuviin palkattuihin työntekijöihin, itsenäisiin ammatinharjoittajiin ja heidän perheenjäseniinsä annetun neuvoston asetuksen (ETY) N:o 1408/71 ja pohjoismaisen sosiaaliturvasopimuksen (SopS 136/2004) sekä muiden sosiaaliturvasopimusten säännöksiä säädetään tarkemmin valtioneuvoston asetuksella.
-
-Edellä 1 momentissa tarkoitettuja toimeenpanoon liittyviä tehtäviä ovat eurooppalaisen sairaanhoitokortin ja muiden asetuksessa tai sosiaaliturvasopimuksissa tarkoitettujen todistusten sekä neuvoston asetuksen 22 artiklassa tarkoitettujen lupien antaminen, jollei luvan antaminen kuulu sairaanhoitopiirin tai sairaalakuntayhtymän toimivaltaan. Toimeenpanoon liittyviä tehtäviä ovat myös neuvoston asetuksen ja sosiaaliturvasopimusten perusteella annettujen sairaus- ja äitiysetuuksien kustannusten korvaamiseen liittyvät tehtävät sekä muut sellaiset toimeenpanoon liittyvät tehtävät, jotka perustuvat yhteisön oikeuteen tai sosiaaliturvasopimuksiin.
-
-Kansaneläkelaitos huolehtii sen mukaan kuin valtioneuvoston asetuksella tarkemmin säädetään niistä sairaanhoidon kustannusten korvaamiseen liittyvistä tehtävistä, jotka johtuvat vieraan valtion kanssa tehdystä vastavuoroisesta sopimuksesta. Vieraalle valtiolle suoritettavat kustannukset maksetaan valtion varoista. Vastaavasti vieraan valtion suorittamat kustannusten korvaukset tilitetään valtiolle. Terveyskeskusten ja sairaaloiden on annettava tässä momentissa tarkoitetun tehtävän hoitamista varten tarpeelliset tiedot Kansaneläkelaitokselle siten kuin valtioneuvoston asetuksella tarkemmin säädetään.

@@ -1,9 +1,12 @@
-# 1 § Lääkkeiden hintalautakunnan tehtävät ja kokoonpano
+# 1 § Tehtävä
 Osa: II OSA SAIRAANHOITOKORVAUKSET
-Luku: 6 luku Lääkkeiden hintalautakunta
+Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
+Väliotsikko: Lääkkeiden hintalautakunta
 
-Sosiaali- ja terveysministeriön yhteydessä toimii lääkkeiden hintalautakunta. Lautakunta vahvistaa lääkkeen, kliinisen ravintovalmisteen ja perusvoiteen kohtuullisen, korvausperusteeksi hyväksyttävän tukkuhinnan ja vahvistetun kohtuullisen tukkuhinnan korottamisen sekä päättää lääkkeen erityiskorvattavuudesta. Lisäksi lääkkeiden hintalautakunta päättää lääkkeen kohtuullisen tukkuhinnan ja erityiskorvattavuuden lakkauttamisesta tukkuhinnan ja erityiskorvattavuuden voimassaoloaikana.
+Sosiaali- ja terveysministeriön yhteydessä toimii lääkkeiden hintalautakunta, jonka tehtävänä on lääkkeen, kliinisen ravintovalmisteen ja perusvoiteen:
+1) korvattavuuden vahvistaminen;
+2) kohtuullisen, korvausperusteeksi hyväksyttävän tukkuhinnan vahvistaminen;
+3) kohtuullisen tukkuhinnan korottamisesta päättäminen;
+4) korvattavuuden ja tukkuhinnan lakkauttamisesta päättäminen.
 
-Lääkkeiden hintalautakunnassa on kaksi jäsentä sosiaali- ja terveysministeriöstä, yksi valtiovarainministeriöstä, kaksi Kansaneläkelaitoksesta, yksi Lääkelaitoksesta ja yksi Sosiaali- ja terveysalan tutkimus- ja kehittämiskeskuksesta. Lääkkeiden hintalautakunnan yhteydessä toimii asiantuntijaryhmä, jossa on enintään seitsemän jäsentä. Asiantuntijaryhmässä tulee olla edustettuna asiantuntemusta lääketieteen, farmakologian, terveystalouden ja sairausvakuutuksen alalta.
-
-Sosiaali- ja terveysministeriö määrää lääkkeiden hintalautakunnan ja asiantuntijaryhmän puheenjohtajat, varapuheenjohtajat ja muut jäsenet sekä kullekin jäsenelle henkilökohtaisen varajäsenen kolmeksi vuodeksi kerrallaan. Lautakunta on päätösvaltainen, kun kokouksen puheenjohtajan lisäksi vähintään kolme jäsentä on saapuvilla.
+Sen lisäksi, mitä 1 momentissa säädetään, lääkkeiden hintalautakunta päättää lääkkeiden viitehintaryhmän muodostamisesta, viitehintaryhmälle määritettävästä viitehinnasta, valmisteiden viitehintaryhmään sisällyttämisestä sekä viitehintaryhmään kuuluvan valmisteen korvattavuudesta ja enimmäistukkuhinnasta.

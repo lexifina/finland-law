@@ -1,4 +1,5 @@
 # 2 § Kumottavat säädökset
+Osa: VII OSA ERINÄISET SÄÄNNÖKSET
 Luku: 21 luku Voimaantulo- ja siirtymäsäännökset
 
 Tällä lailla kumotaan niihin myöhemmin tehtyine muutoksineen:

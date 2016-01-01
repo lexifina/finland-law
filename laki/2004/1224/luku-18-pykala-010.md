@@ -1,5 +1,5 @@
-# 10 § Rahaston varojen lainaaminen
+# 10 § Valtion rahoitusosuus
 Osa: VI OSA SAIRAUSVAKUUTUKSEN RAHOITUS
 Luku: 18 luku Sairausvakuutusrahasto ja vakuutusmaksut
 
-Sairausvakuutusrahastolla sekä kansaneläkelaissa tarkoitetuilla kansaneläkerahastolla ja eläkevastuurahastolla on oikeus erityisestä syystä rahastojen luotonannossa noudatetuin ehdoin lainata varoja toisilleen vakuutta vaatimatta.
+Valtion varoista rahoitetaan 44,9 prosenttia 8 §:n 1 momentin 1–4 kohdan sekä 2 ja 3 momentin mukaisten sairaanhoitovakuutuksen kulujen yhteismäärästä. Lisäksi valtion varoista rahoitetaan 8 §:n 1 momentin 5 kohdassa tarkoitetut sairaanhoidon kulut siltä osin kuin Suomessa annettujen sairaanhoitoetuuksien perusteella ulkomailta saadut kulujen korvaukset eivät niitä kata.

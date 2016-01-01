@@ -6,4 +6,4 @@ Vakuutetulla on oikeus saada sairauden hoitoon liittyvistä matkakustannuksista 
 
 Lisäksi korvaus maksetaan sairauden hoitoon kuuluvien apuvälineiden hankkimiseen ja ylläpitämiseen liittyvistä vakuutetun itsensä apuvälineiden valmistus-, huolto- ja välityspaikkoihin tekemistä matkoista aiheutuneista kustannuksista.
 
-Ulkomailla ja ulkomaille tehdyn matkan aiheuttamia kustannuksia ei korvata tämän lain perusteella. Jos vakuutettu on joutunut hoidon tarpeeseen vastavuoroisesta sairaan- ja terveydenhoidosta rajaseudulla annetun lain (307/1961) 1 §:ssä tarkoitetulla rajaseudulla, hänellä on oikeus saada korvausta matkakustannuksista siten kuin tässä laissa säädetään.
+Ulkomailla ja ulkomaille tehdyn matkan aiheuttamia kustannuksia korvataan tämän lain perusteella, jos sairaanhoito on annettu Euroopan unionin jäsenvaltiossa tai valtiossa, joka soveltaa Euroopan unionin lainsäädäntöä.

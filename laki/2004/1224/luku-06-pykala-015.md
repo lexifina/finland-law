@@ -1,7 +1,5 @@
-# 15 § Asetuksenantovaltuus
+# 15 § Myynnin ylitystä koskeva ilmoitus
 Osa: II OSA SAIRAANHOITOKORVAUKSET
-Luku: 6 luku Lääkkeiden hintalautakunta
+Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
 
-Valtioneuvoston asetuksella säädetään tarkemmin lääkkeiden hintalautakunnasta ja sen yhteydessä toimivasta asiantuntijaryhmästä, päätöksentekomenettelystä, hintalautakunnalle tehtävästä hakemuksesta, Kansaneläkelaitoksen ja asiantuntijaryhmän lausunnon antamisesta sekä asian käsittelystä lääkkeiden hintalautakunnassa.
-
-Sosiaali- ja terveysministeriön asetuksella voidaan säätää tarkemmin hakemusmenettelystä, hakijasta ja hakemukseen liitettävistä selvityksistä sekä lääkkeiden hintalautakunnalle tehtävästä ilmoituksesta.
+Myyntiluvan haltijan on viipymättä ilmoitettava lääkkeiden hintalautakunnalle, jos korvattavan lääkevalmisteen myynti kasvaa korvattavuutta ja kohtuullista tukkuhintaa koskevan päätöksen perusteena ollutta ennakkoarviota merkittävästi suuremmaksi.

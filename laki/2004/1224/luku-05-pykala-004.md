@@ -2,4 +2,4 @@
 Osa: II OSA SAIRAANHOITOKORVAUKSET
 Luku: 5 luku Lääkekorvaukset
 
-Lääkkeen peruskorvaus on 50 prosenttia 10 euroa ylittävästä määrästä kultakin ostokerralta.
+Peruskorvattavaksi hyväksytyn lääkkeen korvaus on 40 prosenttia 9 §:n 1, 2 tai 3 momentissa tarkoitetusta korvauksen perusteesta alkuomavastuun täyttymisen jälkeen.

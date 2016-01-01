@@ -1,5 +1,7 @@
-# 4 § Sairausvakuutusmaksun määräytyminen
+# 4 § Vakuutusmaksut
 Osa: VI OSA SAIRAUSVAKUUTUKSEN RAHOITUS
 Luku: 18 luku Sairausvakuutusrahasto ja vakuutusmaksut
 
-Vakuutetun sairausvakuutusmaksu määrätään kunnallisverotuksessa verotettavan tulon perusteella, ellei toisin säädetä. Maksun suuruudesta säädetään erikseen lailla.
+Tämän lain perusteella määrättäviä vakuutusmaksuja ovat vakuutetun sairausvakuutusmaksu ja työnantajan sairausvakuutusmaksu.
+
+Vakuutetun sairausvakuutusmaksun muodostavat sairausvakuutuksen sairaanhoitomaksu sekä sairausvakuutuksen päivärahamaksu.

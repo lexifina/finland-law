@@ -8,6 +8,6 @@ Hyväksyttäviä perustamiskustannuksia ovat työterveyshuollon järjestämiseks
 
 Hyväksyttäviä käyttökustannuksia ovat työterveyshuollossa toimivan henkilöstön palkkakustannukset, niistä maksetut pakolliset palkkasivukustannukset ja muut työterveyshuollon toteuttamiseksi tarpeelliset ja kohtuulliset kustannukset.
 
-Hyväksyttäviä kustannuksia ovat myös työterveyshuoltolaissa tarkoitetun työterveyshuoltopalvelujen antamiseen oikeutetun terveydenhuollon toimintayksikön tai ammatinharjoittajan perimät sekä kansanterveyslaissa tarkoitetun terveyskeskuksen perimät sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain tarkoittamat maksut edellyttäen, että ne vastaavat 1―3 momentissa todettuja työterveyshuollon järjestämisestä aiheutuneita hyväksyttäviä kustannuksia.
+Hyväksyttäviä kustannuksia ovat myös työterveyshuoltolaissa tarkoitetun työterveyshuoltopalvelujen antamiseen oikeutetun terveydenhuollon toimintayksikön tai ammatinharjoittajan perimät sekä kansanterveyslaissa tarkoitetun terveyskeskuksen perimät sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain tarkoittamat maksut edellyttäen, että ne vastaavat 1–3 momentissa todettuja työterveyshuollon järjestämisestä aiheutuneita hyväksyttäviä kustannuksia.
 
 Valtioneuvoston asetuksella voidaan tarkemmin säätää tarpeellisten ja kohtuullisten kustannusten korvaamisesta.

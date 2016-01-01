@@ -1,11 +1,13 @@
-# 9 § Korvauksen peruste ja ostokerta
+# 9 § Korvauksen ja lääkekohtaisen omavastuun peruste
 Osa: II OSA SAIRAANHOITOKORVAUKSET
 Luku: 5 luku Lääkekorvaukset
 
-Lääkkeen, kliinisen ravintovalmisteen sekä perusvoiteen hankkimisesta vakuutetulle aiheutuneiden kustannusten korvauksen perusteena on enintään valmisteelle vahvistettu kohtuullinen tukkuhinta, johon on lisätty apteekin myyntikate, reseptin toimitusmaksu sekä arvonlisävero lääkelain 58 §:ssä tarkoitetun lääketaksan mukaisesti.
+Lääkkeen, kliinisen ravintovalmisteen sekä perusvoiteen hankkimisesta vakuutetulle aiheutuneiden kustannusten korvauksen perusteena on enintään valmisteelle vahvistettu kohtuullinen tukkuhinta, johon on lisätty enintään lääkelain 58 §:ssä tarkoitetun lääketaksan mukainen apteekin toimitusmaksun sisältävä myyntikate ja arvonlisävero. Jos valmiste sisältyy tämän lain 6 luvun 21 §:ssä tarkoitettuun viitehintaryhmään, korvauksen perusteena on viitehintaryhmälle vahvistettu viitehinta, johon on lisätty apteekin arvonlisäverollinen toimitusmaksu. Viitehintaryhmän lakatessa korvauksen perusteena on enintään 6 luvun 22 §:ssä tarkoitettu enimmäistukkuhinta, johon on lisätty enintään lääkelain 58 §:ssä tarkoitetun lääketaksan mukainen apteekin toimitusmaksun sisältävä myyntikate ja arvonlisävero. Kliinisen ravintovalmisteen ja perusvoiteen korvauksen perusteena on lääkelain 58 §:n nojalla annettujen säännösten mukainen lääkemääräyksellä toimitettavan itsehoitolääkkeen hinta.
 
-Apteekissa valmistettuja korvattavia valmisteita vastaavien lääkkeiden, kliinisten ravintovalmisteiden ja perusvoiteiden kustannuksista korvataan vakuutetulta peritty hinta, jonka tulee olla lääkelain 58 §:ssä tarkoitetun lääketaksan mukainen.
+Jos viitehintaryhmään sisältyvästä valmisteesta vakuutetulta peritty hinta on pienempi kuin korvauksen perusteeksi vahvistettu viitehinta tai jos lääkkeen määrääjä on kieltänyt viitehintaryhmään sisältyvän valmisteen vaihdon lääkelain 57 b §:n 3 momentissa tarkoitetulla tavalla, korvaus maksetaan valmisteesta perityn hinnan perusteella.
+
+Apteekissa valmistettujen korvattavia valmisteita vastaavien lääkkeiden, kliinisten ravintovalmisteiden ja perusvoiteiden kustannuksista korvaus maksetaan vakuutetulta peritystä lääkelain 58 §:ssä tarkoitetun lääketaksan mukaisesta hinnasta.
 
 Lääkkeellisestä hapesta ja verestä korvataan vakuutetulle aiheutuneet tarpeelliset ja kohtuulliset kustannukset.
 
-Ostokerralla tarkoitetaan vakuutetun samalla kertaa ostamia, enintään kolmen kuukauden hoitoaikaa vastaavia lääkemääriä. Erityisestä syystä lääkkeitä voidaan korvata ostokertaa kohden pitemmältäkin ajalta. Valtioneuvoston asetuksella säädetään tarkemmin siitä, milloin omavastuu voidaan periä poikkeuksellisesti kolmen kuukauden hoitoaikaa vastaavasta määrästä, vaikka lääke on lääketieteellisistä syistä tai lääkevalmisteen farmaseuttisten ominaisuuksien johdosta ostettu useana eränä.
+Tässä laissa tarkoitettu korvaus maksetaan samalla kertaa ostetusta enintään kolmen kuukauden hoitoaikaa vastaavasta valmistemäärästä, jollei erityisestä syystä muuta johdu. Lääkekohtainen omavastuu peritään samalla kertaa ostetusta enintään kolmen kuukauden hoitoaikaa vastaavasta valmistemäärästä.

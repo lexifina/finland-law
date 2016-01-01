@@ -1,12 +1,9 @@
-# 9 § Erityiskorvattavuutta koskeva viranomaismenettely
+# 9 § Erityiskorvattavuuden ja kohtuullisen tukkuhinnan vahvistaminen
 Osa: II OSA SAIRAANHOITOKORVAUKSET
-Luku: 6 luku Lääkkeiden hintalautakunta
+Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
 
-Lääkkeiden hintalautakunta voi ottaa käsiteltäväkseen sosiaali- ja terveysministeriön esityksen perusteella lääkevalmisteen erityiskorvattavuutta koskevan asian, jos erityiskorvattavuudelle on erityisiä hoidollisia perusteita.
+Lääkevalmisteen erityiskorvattavuus voidaan myöntää valtioneuvoston asetuksessa määriteltyihin vaikeisiin ja pitkäaikaisiin sairauksiin. Lääkevalmisteen erityiskorvattavuuden edellytyksenä on, että valmiste on hyväksytty peruskorvattavaksi. Lääkevalmiste voidaan hyväksyä erityiskorvattavaksi, kun sen hoidollisesta arvosta vaikean ja pitkäaikaisen sairauden hoidossa ja hyödyllisyydestä hoitovaihtoehtoihin verrattuna on riittävästi käyttökokemusta ja tutkimustietoa. Erityiskorvattavuudesta päätettäessä otetaan huomioon sairauden laatu ja että lääkevalmisteen hoidollisesta arvosta, välttämättömyydestä, korvaavasta tai korjaavasta vaikutustavasta, tarpeellisuudesta ja taloudellisuudesta on riittävästi käyttökokemusta ja tutkimustietoa. Lisäksi päätöstä tehtäessä on otettava huomioon lääkkeiden erityiskorvauksiin käytettävissä olevat varat. Ilman lääkemääräystä myytävälle lääkevalmisteelle voidaan vahvistaa erityiskorvattavuus vain, jos kyse on lisäksi lääketieteellisin perustein välttämättömästä lääkevalmisteesta.
 
-Lääkkeiden hintalautakunta voi ottaa omasta aloitteestaan käsiteltäväksi lääkevalmisteen erityiskorvattavuutta koskevan asian, jos:
-1) lääkevalmisteen erityiskorvattavuudelle ei ole laissa säädettyjä edellytyksiä;
-2) lääkevalmisteesta saadun uuden käyttökokemuksen tai tutkimustiedon perusteella erityiskorvattavuuden jatkamiselle ei ole enää sairaanhoidollisia perusteita; taikka
-3) lääkevalmisteen erityiskorvattavuudelle on erityisiä hoidollisia perusteita.
+Lääkevalmisteen erityiskorvattavuutta koskeva päätös voidaan rajoittaa koskemaan vain sairauden tiettyä muotoa tai vaikeusastetta. Mitä tässä luvussa säädetään peruskorvattavuuden rajoittamisesta, noudatetaan soveltuvin osin myös erityiskorvattavuuden rajoittamisesta.
 
-Ennen asian ratkaisemista lääkkeiden hintalautakunnan on kuultava myyntiluvan haltijaa ja Kansaneläkelaitosta.
+Erityiskorvattavan lääkevalmisteen kohtuullisen tukkuhinnan vahvistamiseen sovelletaan 7 §:ää. Jos valmisteen erityiskorvattavuutta koskevat edellytykset eivät täyty, hakemus tukkuhinnan osalta raukeaa.

@@ -2,11 +2,9 @@
 Osa: I OSA YLEISET SÄÄNNÖKSET
 Luku: 1 luku Lain tarkoitus ja soveltamisala
 
-Suomessa asuva henkilö on vakuutettu tämän lain mukaisesti. Suomessa asuminen ratkaistaan asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain (1573/1993) 3, 3 a, 4, 9 ja 10 §:n mukaan.
+Vakuutettu on henkilö, johon sovelletaan sosiaaliturvalainsäädäntöä asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain (1573/1993) 3 tai 3 a §:n, 3 b §:n 1, 2 tai 4 momentin, 3 c, 4–7, 7 a tai 8 §:n taikka 10 §:n 2 momentin mukaan.
 
-Työntekijä tai yrittäjä on vakuutettu työskentelyn tai yritystoiminnan aloittamisesta lukien, jos hän työskentelee yhtäjaksoisesti vähintään neljän kuukauden ajan, tai kun hän on yhtäjaksoisesti harjoittanut yritystoimintaa vähintään neljän kuukauden ajan.
-
-Vakuutettu on myös henkilö, johon sovelletaan sosiaaliturvalainsäädäntöä asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 5―8 §:n mukaan.
+Yrittäjä on vakuutettu yritystoiminnan aloittamisesta lukien, kun hän on yhtäjaksoisesti harjoittanut yritystoimintaa vähintään neljän kuukauden ajan. Lisäksi edellytetään, että oleskelulupavaatimus täyttyy siten kuin asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain 3 c §:n 1 momentissa tai 2 momentin 1 kohdassa säädetään, jos oleskeluun vaaditaan oleskelulupa.
 
 Vakuutettu ei ole ulkomaan kansalainen, joka Suomessa palvelee vieraan valtion diplomaattisena edustajana, lähetettynä konsuliedustajana, valtioiden välisessä järjestössä tai kuuluu vieraan valtion ulkomaanedustuston hallinnolliseen tai tekniseen henkilökuntaan, palveluskuntaan taikka on edellä tarkoitetun henkilön yksityispalvelija.
 

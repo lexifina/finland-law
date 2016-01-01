@@ -2,7 +2,7 @@
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 12 luku Päivärahaetuuden suhde muihin etuuksiin
 
-Kansaneläkelaitoksen tulee tarvittaessa selvittää vakuutetun kuntoutustarve, viimeistään kuitenkin silloin, kun vakuutetun sairauspäivärahan enimmäisaikaan luettavien päivien lukumäärä ylittää 60 päivää.
+Kansaneläkelaitoksen tulee tarvittaessa selvittää vakuutetun kuntoutustarve, viimeistään kuitenkin silloin, kun vakuutetun sairauspäivärahan ja osasairauspäivärahan enimmäisaikoihin luettavien päivien lukumäärä ylittää 60 päivää.
 
 Kansaneläkelaitoksen tulee välittömästi ilmoittaa 150. päivärahapäivän täyttyessä ensisijaisuusajan päättymisestä tämän luvun 3 §:n 1 momentissa tarkoitetun eläkkeen myöntäjälle. Samanaikaisesti vakuutetulle tulee tiedottaa kuntoutusmahdollisuuksista ja muun korvauksen hakemisesta.
 

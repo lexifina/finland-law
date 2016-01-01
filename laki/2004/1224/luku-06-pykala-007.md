@@ -1,7 +1,12 @@
-# 7 § Lääkevalmisteen irtisanominen korvausjärjestelmästä
+# 7 § Kohtuullisen tukkuhinnan vahvistaminen
 Osa: II OSA SAIRAANHOITOKORVAUKSET
-Luku: 6 luku Lääkkeiden hintalautakunta
+Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
 
-Myyntiluvan haltija voi irtisanoa lääkevalmisteen korvausjärjestelmästä. Lääkevalmisteelle vahvistettu kohtuullinen tukkuhinta lakkaa olemasta voimassa irtisanomista seuraavan vuosineljänneksen alusta lukien. Myyntiluvan haltijan on toimitettava irtisanomisilmoitus lääkkeiden hintalautakunnalle viimeistään kolme kuukautta ennen haluttua irtisanomisajankohtaa. Lääkkeiden hintalautakunta vahvistaa myyntiluvan haltijan ilmoituksen lääkevalmisteen poistamisesta sairausvakuutuksen korvausjärjestelmästä.
+Lääkevalmisteelle ehdotetun korvausperusteeksi hyväksyttävän tukkuhinnan kohtuullisuutta arvioitaessa otetaan huomioon:
+1) saman sairauden hoidossa käytettävien vastaavien lääkevalmisteiden hinnat Suomessa;
+2) lääkevalmisteen hinnat muissa Euroopan talousalueen maissa;
+3) lääkevalmisteen käytöstä aiheutuvat hoitokustannukset ja käytöllä saavutettavat hyödyt potilaan sekä terveyden- ja sosiaalihuollon kokonaiskustannusten kannalta;
+4) käytettävissä olevista muista hoitovaihtoehdoista aiheutuvat hyödyt ja kustannukset;
+5) korvauksiin käytettävissä olevat varat.
 
-Mitä 1 momentissa säädetään, koskee myös kliinisiä ravintovalmisteita ja perusvoiteita.
+Lääkevalmisteen valmistus-, tutkimus- ja tuotekehityskustannukset voidaan ottaa huomioon lääkevalmisteelle ehdotetun tukkuhinnan kohtuullisuutta arvioitaessa, jos kustannuksista on esitetty riittävän yksilöityjä, vertailukelpoisia ja luotettavia lääkevalmistekohtaisia tietoja.

@@ -1,7 +1,11 @@
-# 5 § Erityisperustein korvattava lääke
+# 5 § Erityiskorvaus
 Osa: II OSA SAIRAANHOITOKORVAUKSET
 Luku: 5 luku Lääkekorvaukset
 
-Sen estämättä, mitä 4 §:ssä säädetään, lääkkeen peruskorvaus voidaan valtioneuvoston asetuksella rajata koskemaan vain lääkkeen erityistä käyttöaihetta, jos lääkkeen käytössä ja tutkimuksissa on osoitettu merkittävää hoidollista arvoa tietyissä sairaustiloissa. Erityisperustein korvattavia voivat olla sellaiset erityisen kalliit lääkkeet, jotka ovat välttämättömiä vakavan sairauden hoidossa ja joiden lääketieteellisesti perustellusta käytöstä aiheutuisi vakuutetulle peruskorvattuna oikeus 8 §:ssä tarkoitettuun lisäkorvaukseen, sekä lääkkeet, joiden korvattavuus on perusteltua rajoittaa tarkoin määriteltyihin sairaustiloihin, kun otetaan huomioon lääkkeen hoidollinen arvo laajassa käytössä ja lääkkeistä aiheutuvat kustannukset.
+Lääke on erityiskorvattava, jos sille on hyväksytty erityiskorvattavuus siten kuin 6 luvussa säädetään. Lisäksi edellytetään, että lääkettä käytetään lääketieteellisin perustein vaikeaksi ja pitkäaikaiseksi arvioitavan sairauden hoidossa.
 
-Valtioneuvoston asetuksella annetaan tarkempia säännöksiä erityisperustein korvattavista lääkkeistä ja lääketieteellisin perustein vakaviksi arvioitavista sairauksista. Kansaneläkelaitos päättää erityisistä käyttöaiheista ja edellytyksistä, joilla näiden lääkkeiden korvaaminen on lääketieteellisesti perusteltua ottaen huomioon lääkkeen hoidollinen arvo.
+Lääkkeen erityiskorvaus 9 §:n 1, 2 tai 3 momentissa tarkoitetusta korvauksen perusteesta on:
+1) 65 prosenttia alkuomavastuun täyttymisen jälkeen, jos kysymyksessä on vaikean ja pitkäaikaisen sairauden hoidossa tarvittava välttämätön lääke (alempi erityiskorvaus);
+2) 100 prosenttia 3 euron lääkekohtaisen omavastuun ylittävältä osalta alkuomavastuun täyttymisen jälkeen, jos kysymyksessä on vaikean ja pitkäaikaisen sairauden hoidossa tarvittava, vaikutustavaltaan korvaava tai korjaava välttämätön lääke (ylempi erityiskorvaus).
+
+Valtioneuvoston asetuksella annetaan tarkempia säännöksiä lääketieteellisin perustein vaikeiksi ja pitkäaikaisiksi arvioitavista sairauksista, joiden lääkehoidon kustannuksista tämän lain perusteella korvataan 65 tai 100 prosenttia. Kansaneläkelaitos voi tarkemmin päättää tarvittavista selvityksistä sekä niistä vaikean ja pitkäaikaisen sairauden lääketieteellisistä edellytyksistä, joiden tulee täyttyä, jotta lääkkeiden erityiskorvaaminen vakuutetulle on lääketieteellisesti perusteltua.

@@ -1,9 +1,9 @@
-# 6 § Erityiskorvattavuuden vahvistaminen
+# 6 § Peruskorvattavuuden rajoittaminen
 Osa: II OSA SAIRAANHOITOKORVAUKSET
-Luku: 6 luku Lääkkeiden hintalautakunta
+Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
 
-Lääkkeiden hintalautakunta hankkii asiantuntijaryhmän lausunnon ennen lääkevalmisteen erityiskorvattavuushakemuksen ratkaisemista, kun erityiskorvattavuutta on haettu uutta vaikuttavaa lääkeainetta sisältävälle lääkevalmisteelle. Muissa erityiskorvattavuutta koskevissa asioissa lausunto pyydetään asiantuntijaryhmältä tarvittaessa. Lisäksi Kansaneläkelaitokselta on pyydettävä ennen asian ratkaisemista lausunto erityiskorvattavuutta koskevasta hakemuksesta, jollei erityisestä syystä muuta johdu.
+Lääkkeiden hintalautakunta voi rajoittaa lääkevalmisteen peruskorvattavuuden tarkoin määriteltyihin käyttöaiheisiin, jos lääkkeen käytössä ja tutkimuksessa on osoitettu merkittävää hoidollista arvoa tietyissä sairaustiloissa, ja:
+1) kyse on erityisen kalliista lääkkeestä, joka on välttämätön vakavan sairauden hoidossa ja jonka lääketieteellisesti perustellusta käytöstä aiheutuisi vakuutetulle peruskorvattuna oikeus 5 luvun 8 §:ssä tarkoitettuun lisäkorvaukseen; tai
+2) lääkkeestä laajassa käytössä aiheutuisi kohtuuttomia kustannuksia saavutettavaan hyötyyn nähden.
 
-Lääkevalmisteen erityiskorvattavuudesta päätettäessä otetaan huomioon sairauden laatu, lääkevalmisteen tarpeellisuus ja taloudellisuus, käytössä ja tutkimuksissa osoitettu lääkevalmisteen hoidollinen arvo sekä lääkkeiden erityiskorvauksiin käytettävissä olevat varat. Lääkevalmisteen erityiskorvattavuutta koskeva päätös voidaan rajoittaa koskemaan vain tiettyä valtioneuvoston asetuksella määritellyn sairauden muotoa tai vaikeusastetta.
-
-Lääkevalmiste voidaan hyväksyä erityiskorvattavaksi sen oltua peruskorvattuna kaksi vuotta. Lääkevalmiste voidaan hyväksyä erityiskorvattavaksi tätä aikaisemmin, jos lääkevalmisteen hoidollisesta arvosta, välttämättömyydestä, korvaavasta tai korjaavasta vaikutustavasta, tarpeellisuudesta ja taloudellisuudesta on riittävästi käyttökokemusta ja tutkimustietoa.
+Myyntiluvan haltijan hakemuksesta lääkkeiden hintalautakunta voi rajoittaa peruskorvattavuuden tarkoin määriteltyihin käyttöaiheisiin tietyissä sairaustiloissa, jos kysymys on 1 momentin 1 kohdassa tarkoitetusta erityisen kalliista lääkkeestä. Korvattavuuden rajoittamisen edellytyksiä arvioitaessa tulee ottaa huomioon lääkkeen käytössä ja tutkimuksissa osoitettu hoidollinen arvo niissä sairaustiloissa, joita korvattavuuden rajoitus koskee, sekä ehdotetun rajoituksen tarkoituksenmukaisuus lääkehoidon toteutuksen ja lääkekorvausjärjestelmän kannalta.
