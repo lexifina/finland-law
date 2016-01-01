@@ -1,4 +1,4 @@
 # 41 § Muutoksenhaku
 Luku: 9 luku Erinäiset säännökset
 
-Tietosuojavaltuutetun 35 §:n nojalla tekemään päätökseen haetaan muutosta valittamalla noudattaen, mitä hallintolainkäyttölaissa (586/1996) säädetään.
+Tietosuojavaltuutetun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
