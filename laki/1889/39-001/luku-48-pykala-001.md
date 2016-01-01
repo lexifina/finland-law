@@ -3,10 +3,40 @@ Luku: 48 luku Ympäristörikoksista
 
 Joka tahallaan tai törkeästä huolimattomuudesta
 1) saattaa, päästää tai jättää ympäristöön esineen, ainetta, säteilyä tai muuta sellaista lain tai sen nojalla annetun säännöksen taikka yleisen tai yksittäistapausta koskevan määräyksen vastaisesti taikka ilman laissa edellytettyä lupaa tai lupaehtojen vastaisesti,
-2) valmistaa, luovuttaa, kuljettaa, käyttää, käsittelee tai säilyttää ainetta, valmistetta, seosta, tuotetta tai esinettä taikka käyttää laitetta vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain, kemikaalilain, REACH-asetuksen, CLP-asetuksen, biosidiasetuksen, kasvinsuojeluaineasetuksen taikka näiden tai ympäristönsuojelulain (527/2014) nojalla annetun säännöksen vastaisesti taikka otsonikerrosta heikentävistä aineista annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1005/2009, tietyistä fluoratuista kasvihuonekaasuista annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 842/2006, pysyvistä orgaanisista yhdisteistä sekä direktiivin 79/117/ETY muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 850/2004 tai pesuaineista annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 648/2004 3, 4 tai 4 a artiklan vastaisesti taikka jätelain (646/2011) 147 §:n 2 momentissa mainitun säännöksen, jätelain nojalla annetun säännöksen, yksittäistapausta koskevan määräyksen tai kiellon vastaisesti taikka laiminlyö jätelain mukaisen jätehuollon järjestämisvelvollisuutensa tai
-3) tuo maahan, vie maasta tai siirtää Suomen alueen kautta jätettä jätelain tai sen nojalla annetun säännöksen tai yksittäistapausta koskevan määräyksen tai jätteiden siirrosta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1013/2006 vastaisesti taikka tuo maahan tai vie maasta ainetta, valmistetta tai tuotetta vastoin ympäristönsuojelulain nojalla annettua asetusta taikka vastoin otsonikerrosta heikentävistä aineista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1005/2009, tietyistä fluoratuista kasvihuonekaasuista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 842/2006, vaarallisten kemikaalien viennistä ja tuonnista annettua Euroopan parlamentin ja neuvoston asetusta (EU) N:o 649/2012, pysyvistä orgaanisista yhdisteistä sekä direktiivin 79/117/ETY muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 850/2004 tai metallisen elohopean ja tiettyjen elohopeayhdisteiden ja -seosten viennin kieltämisestä sekä metallisen elohopean turvallisesta varastoinnista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1102/2008 taikka vie maasta muuntogeenisiä organismeja, niitä sisältäviä elintarvikkeita tai rehuja vastoin muuntogeenisten organismien valtioiden rajat ylittävistä siirroista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1946/2003
+2) valmistaa, luovuttaa, kuljettaa, käyttää, käsittelee tai säilyttää ainetta, valmistetta, seosta, tuotetta tai esinettä taikka käyttää laitetta vastoin
+a) vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annettua lakia,
+b) kemikaalilakia,
+c) REACH-asetusta,
+d) CLP-asetusta,
+e) biosidiasetusta,
+f) kasvinsuojeluaineasetusta,
+g) a—f alakohdassa mainitun säädöksen tai ympäristönsuojelulain (527/2014) nojalla annettua säännöstä,
+h) otsonikerrosta heikentävistä aineista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1005/2009,
+i) tietyistä fluoratuista kasvihuonekaasuista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 842/2006,
+j) pysyvistä orgaanisista yhdisteistä sekä direktiivin 79/117/ETY muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 850/2004,
+k) pesuaineista annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 648/2004 3, 4 tai 4 a artiklaa,
+l) jätelain (646/2011) 147 §:n 2 momentissa mainittua säännöstä taikka
+m) jätelain nojalla annettua säännöstä, yksittäistapausta koskevaa määräystä tai kieltoa,
+3) laiminlyö jätelain mukaisen jätehuollon järjestämisvelvollisuutensa,
+4) tuo maahan, vie maasta tai siirtää Suomen alueen kautta jätettä vastoin
+a) jätelakia, sen nojalla annettua säännöstä tai yksittäistapausta koskevaa määräystä taikka
+b) jätteiden siirrosta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1013/2006,
+5) tuo maahan tai vie maasta ainetta, valmistetta tai tuotetta vastoin
+a) ympäristönsuojelulain nojalla annettua asetusta,
+b) otsonikerrosta heikentävistä aineista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1005/2009,
+c) tietyistä fluoratuista kasvihuonekaasuista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 842/2006,
+d) vaarallisten kemikaalien viennistä ja tuonnista annettua Euroopan parlamentin ja neuvoston asetusta (EU) N:o 649/2012,
+e) pysyvistä orgaanisista yhdisteistä sekä direktiivin 79/117/ETY muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 850/2004 tai
+f) metallisen elohopean ja tiettyjen elohopeayhdisteiden ja -seosten viennin kieltämisestä sekä metallisen elohopean turvallisesta varastoinnista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1102/2008 taikka
+6) vie maasta muuntogeenisiä organismeja, niitä sisältäviä elintarvikkeita tai rehuja vastoin muuntogeenisten organismien valtioiden rajat ylittävistä siirroista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1946/2003
 siten, että teko on omiaan aiheuttamaan ympäristön pilaantumista, muuta vastaavaa ympäristön haitallista muuttumista tai roskaantumista taikka vaaraa terveydelle, on tuomittava ympäristön turmelemisesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
-Edellä 1 momentin 3 kohdassa tarkoitetun tahallisen rikoksen yritys on rangaistava.
+Edellä 1 momentin 4—6 kohdassa tarkoitetun tahallisen rikoksen yritys on rangaistava.
 
-Ympäristön turmelemisesta tuomitaan myös se, joka tahallaan tai törkeästä huolimattomuudesta ryhtyy muuten kuin 1 momentissa tarkoitetulla tavalla muuttamaan ympäristöä vastoin maankäyttö- ja rakennuslain (132/1999), vesilain (587/2011) tai maa-aineslain (555/1981) säännöksiä tai Saimaan ja Vuoksen juoksutussääntöä taikka näiden nojalla annettuja säännöksiä, yleisiä tai yksittäistapausta koskevia määräyksiä taikka kaavaa tai lupaa siten, että teko on omiaan aiheuttamaan vakavuudeltaan ympäristön pilaantumiseen rinnastettavaa muuttumista.
+Ympäristön turmelemisesta tuomitaan myös se, joka tahallaan tai törkeästä huolimattomuudesta ryhtyy muuten kuin 1 momentissa tarkoitetulla tavalla muuttamaan ympäristöä vastoin
+1) maankäyttö- ja rakennuslakia (132/1999),
+2) vesilakia (587/2011),
+3) maa-aineslakia (555/1981),
+4) Saimaan ja Vuoksen juoksutussääntöä taikka
+5) näiden nojalla annettua säännöstä, yleistä tai yksittäistapausta koskevaa määräystä taikka kaavaa tai lupaa
+siten, että teko on omiaan aiheuttamaan vakavuudeltaan ympäristön pilaantumiseen rinnastettavaa muuttumista.
