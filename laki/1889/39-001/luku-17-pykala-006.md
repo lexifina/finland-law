@@ -3,8 +3,7 @@ Luku: 17 luku Rikoksista yleistä järjestystä vastaan
 
 Joka käyttämällä tai uhkaamalla käyttää väkivaltaa estää tai yrittää estää järjestystä ylläpitävää henkilöä suorittamasta hänelle lain tai asetuksen nojalla kuuluvaa tehtävää tai muuten vaikeuttaa sanotun tehtävän suorittamista, on tuomittava, jollei laissa muualla säädetä ankarampaa rangaistusta, järjestystä ylläpitävän henkilön vastustamisesta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
 
-Järjestystä ylläpitävällä henkilöllä tarkoitetaan tässä pykälässä
-1) järjestyksen pitämisestä joukkoliikenteessä annetussa laissa (472/1977) tarkoitettua kuljettajaa, häneen rinnastettavaa henkilöä taikka heitä kuljettajan tai häneen rinnastettavan henkilön pyynnöstä avustavaa matkustajaa,
-2) joukkoliikenteen tarkastusmaksusta annetussa laissa (469/1979) tarkoitettua matkalippujen tarkastajaa ja tarkastuksessa apuna olevaa järjestyksenvalvojaa,
-3) yksityisistä turvallisuuspalveluista annetussa laissa (282/2002) tarkoitettua vartijaa sekä
-4) järjestyksenvalvojista annetussa laissa (533/1999) tarkoitettua järjestyksenvalvojaa.
+Järjestystä ylläpitävällä henkilöllä tarkoitetaan tässä pykälässä:
+1) järjestyksen pitämisestä joukkoliikenteessä annetussa laissa (472/1977) tarkoitettua kuljettajaa, häneen rinnastettavaa henkilöä taikka heitä kuljettajan tai häneen rinnastettavan henkilön pyynnöstä avustavaa matkustajaa;
+2) joukkoliikenteen tarkastusmaksusta annetussa laissa (469/1979) tarkoitettua matkalippujen tarkastajaa ja tarkastuksessa apuna olevaa järjestyksenvalvojaa; sekä
+3) yksityisistä turvallisuuspalveluista annetussa laissa (1085/2015) tarkoitettua vartijaa ja järjestyksenvalvojaa.
