@@ -8,7 +8,6 @@ Sairauspäivärahan enimmäisaikaa laskettaessa otetaan huomioon kaikki sairausp
 
 Enimmäisaikaa laskettaessa otetaan huomioon myös päivät, joilta sairauspäivärahaa ei ole maksettu 5 §:ssä säädettyjen maksamisrajoitusten tai 5 a §:ssä säädetyn maksamisen keskeytyksen vuoksi tai sen vuoksi, että:
 1) vakuutetun työtulojen määrä on jäänyt alle 7 luvun 1 §:n 1 momentissa säädetyn vähimmäismäärän;
-2) vakuutettu ei ole täyttänyt 3 §:n mukaista työedellytystä;
-3) vakuutetulla on oikeus työkyvyttömyyden vuoksi muun lain perusteella sairauspäivärahaa suurempaan ansionmenetyskorvaukseen;
-4) vakuutetulle on suoritettu samalta ajalta vanhempainpäivärahaa; tai
-5) hakemus sairauspäivärahan saamiseksi on myöhästynyt.
+2) vakuutetulla on oikeus työkyvyttömyyden vuoksi muun lain perusteella sairauspäivärahaa suurempaan ansionmenetyskorvaukseen;
+3) vakuutetulle on suoritettu samalta ajalta vanhempainpäivärahaa; tai
+4) hakemus sairauspäivärahan saamiseksi on myöhästynyt.

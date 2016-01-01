@@ -11,7 +11,7 @@ Sairausvakuutusrahastosta maksettavia työtulovakuutuksen kuluja ovat:
 4) maatalousyrittäjien työterveyshuollon eräiden kustannusten korvaamisesta valtion varoista annetussa laissa säädetyt kulut; sekä
 5) edellä 14 luvussa tarkoitetut vuosilomakustannuskorvaukset.
 
-Edellä 1 §:n 6 kohdassa tarkoitetuista toimintakuluista työtulovakuutuksen kuluja ovat 1 momentin 1—5 kohdassa tarkoitettujen etuuksien ja korvausten toimeenpanosta Kansaneläkelaitokselle aiheutuvat toimintakulut.
+Edellä 1 §:n 6 kohdassa tarkoitetuista toimintakuluista työtulovakuutuksen kuluja ovat 1 momentin 1–5 kohdassa tarkoitettujen etuuksien ja korvausten toimeenpanosta Kansaneläkelaitokselle aiheutuvat toimintakulut.
 
 Työtulovakuutuksen kuluina otetaan lisäksi huomioon 1 momentissa tarkoitettujen kulujen vuosittaisen muutoksen vaikutus sairausvakuutusrahaston vähimmäismäärän turvaamiseen.
 
