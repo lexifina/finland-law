@@ -1,7 +1,7 @@
 # 9 § Todistajankuulustelu tuomioistuimessa
 Luku: 7 luku Kuulustelut
 
-Jos todistajalla ilmeisesti on tiedossaan seikka, joka on tärkeä syyllisyyden selvittämiseksi tai rikoksella saadun hyödyn jäljittämiseksi ja pois ottamiseksi, ja hän kieltäytyy sitä ilmaisemasta, vaikka hän saattaa olla ilmaisemiseen velvollinen tai 8 §:n 3 momentin mukaan ilmaisemiseen oikeutettu, kysymys kieltäytymisen perusteesta tutkitaan tutkinnanjohtajan pyynnöstä tuomioistuimessa. Todistajankuulustelu toimitetaan tuomioistuimessa, jos kieltäytymiselle ei ole laillista perustetta.
+Jos todistajalla ilmeisesti on tiedossaan seikka, joka on tärkeä syyllisyyden selvittämiseksi tai rikoksella saadun hyödyn jäljittämiseksi ja pois ottamiseksi, ja hän kieltäytyy sitä ilmaisemasta, vaikka hän saattaa olla ilmaisemiseen velvollinen, kysymys kieltäytymisen perusteesta tutkitaan tutkinnanjohtajan pyynnöstä tuomioistuimessa. Todistajankuulustelu toimitetaan tuomioistuimessa, jos kieltäytymiselle ei ole laillista perustetta.
 
 Mitä 1 momentissa säädetään, sovelletaan myös todistajaan, joka kieltäytyy esittämästä asiakirjaa tai muuta todistusaineistoa.
 
