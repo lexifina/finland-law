@@ -15,3 +15,5 @@ Korkein hallinto-oikeus on päätösvaltainen myös kolmijäsenisenä käsittele
 9) ylimääräistä muutoksenhakua koskevan asian, jos hakemus yksimielisesti hylätään tai jätetään tutkimatta, ja tällaiseen asiaan liittyvän vaatimuksen.
 
 Edellä 2 momentissa tarkoitetussa tapauksessa asia voidaan käsitellä ja ratkaista ilman niitä asiantuntijajäseniä, joiden osallistumisesta muutoin ratkaisukokoonpanoon on erikseen säädetty.
+
+Korkein hallinto-oikeus voi kuitenkin myös yksijäsenisenä päättää jättää tutkimatta hallintolainkäyttölain (586/1996) 64 a §:ssä tarkoitetun asian, jos korkein hallinto-oikeus on jo antanut päätöksen asianosaisen samaa asiaa koskevaan kanteluun tai purkuhakemukseen, sekä tällaiseen asiaan liittyvän vaatimuksen.
