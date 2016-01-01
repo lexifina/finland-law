@@ -1,6 +1,6 @@
-# 8 § Sairaanhoidon ja lääkinnällisen kuntoutuksen korvaus
+# 8 § Sairaanhoidon korvaus
 
-Tapaturman aiheuttaman vamman tai sairauden hoidon korvaamiseen sovelletaan työtapaturma- ja ammattitautilain (459/2015) 8 luvun säännöksiä lukuun ottamatta mainitun lain 48 ja 49 §:ää.
+Tapaturman aiheuttaman vamman tai sairauden hoidon korvaamiseen sovelletaan työtapaturma- ja ammattitautilain (459/2015) 8 lukua lukuun ottamatta 48 ja 49 §:ää. Sairaanhoidon matkakulujen korvaamiseen sovelletaan mainitun lain 50 §:ää.
 
 Tässä laissa tarkoitetun pysyvän työkyvyttömyyden aiheuttaneen vamman tai sairauden hoitoon ei sovelleta työtapaturma- ja ammattitautilain 40—42 §:ää.
 
