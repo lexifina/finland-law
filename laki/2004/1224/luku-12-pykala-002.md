@@ -4,8 +4,8 @@ Luku: 12 luku Päivärahaetuuden suhde muihin etuuksiin
 
 Tämän lain nojalla maksettavasta sairauspäivärahasta vähennetään seuraavat samalta ajalta ja saman työkyvyttömyyden vuoksi muun lain nojalla maksettavat etuudet:
 1) kansaneläkelain 12 §:n mukainen työkyvyttömyyseläke lukuun ottamatta pykälän 4 momentin mukaista eläkettä;
-2) työtapaturman ja ammattitaudin perusteella myönnettävä tapaturmavakuutuslain mukainen päiväraha, tapaturmaeläke ja elinkorko;
-3) työtapaturman ja ammattitaudin perusteella myönnettävä maatalousyrittäjien tapaturmavakuutuslain mukainen päiväraha ja tapaturmaeläke;
+2) työtapaturman ja ammattitaudin perusteella myönnettävä työtapaturma- ja ammattitautilain mukainen ansionmenetyskorvaus;
+3) työtapaturman ja ammattitaudin perusteella myönnettävä maatalousyrittäjän työtapaturma- ja ammattitautilain mukainen ansionmenetyskorvaus;
 4) opiskeluun liittyvissä työhön rinnastettavissa olosuhteissa syntyneen vamman tai sairauden korvaamisesta annetun lain mukainen päiväraha ja tapaturmaeläke;
 5) urheilijan tapaturma- ja eläketurvasta annetun lain mukainen tapaturmaeläke;
 6) sotilastapaturmalain mukainen päiväraha ja tapaturmaeläke sekä sotilasvammalain mukainen elinkorko;

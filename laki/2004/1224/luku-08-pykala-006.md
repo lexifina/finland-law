@@ -5,7 +5,7 @@ Luku: 8 luku Sairauspäiväraha ja osasairauspäiväraha
 Sairauspäivärahaan ei ole oikeutta vakuutetulla, joka saa:
 1) Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain (566/2005) mukaista kuntoutusrahaa;
 2) työeläkelakien mukaista kuntoutusrahaa, osakuntoutusrahaa tai kuntoutusavustuksena maksettavaa kuntoutusrahaa;
-3) tapaturmavakuutuslain (608/1948), maatalousyrittäjien tapaturmavakuutuslain (1026/1981), liikennevakuutuslain (279/1959), sotilasvammalain (404/1948) tai sotilastapaturmalain (1211/1990) kuntoutusta koskevien säännösten perusteella ansionmenetyskorvausta;
+3) työtapaturma- ja ammattitautilain, maatalousyrittäjän työtapaturma- ja ammattitautilain, liikennevakuutuslain (279/1959), sotilasvammalain (404/1948) tai sotilastapaturmalain (1211/1990) kuntoutusta koskevien säännösten perusteella ansionmenetyskorvausta;
 4) kansaneläkelain (568/2007) tai työeläkelakien mukaista vanhuuseläkettä tai varhennettua vanhuuseläkettä taikka kansaneläkelain voimaanpanosta annetun lain (569/2007) 2 §:n, merimieseläkelain (1290/2006), työntekijän eläkelain 3 §:n 2 momentin 1 ja 3–7 kohdassa mainittujen lakien, työntekijän eläkelain voimaanpanolain (396/2006) 28 §:n, yrittäjän eläkelain voimaanpanosta annetun lain (1273/2006) 28 §:n, maatalousyrittäjän eläkelain voimaanpanosta annetun lain (1281/2006) 27 §:n tai valtion eläkelain voimaanpanosta annetun lain (1296/2006) 14 §:n mukaista työttömyyseläkettä;
 5) työeläkelakien mukaista osa-aikaeläkettä;
 6) takuueläkkeestä annetun lain (703/2010) 7 §:n 1 momentin 1 tai 5 kohdan tai 2 momentin 1 kohdan mukaista takuueläkettä;

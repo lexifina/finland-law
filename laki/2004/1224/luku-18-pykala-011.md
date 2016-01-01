@@ -5,7 +5,7 @@ Väliotsikko: Työtulovakuutuksen kulut ja rahoitus
 
 Sairausvakuutusrahastosta maksettavia työtulovakuutuksen kuluja ovat:
 1) tämän lain mukaiset päivärahaetuudet ja Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain mukaiset kuntoutusrahat;
-2) maatalousyrittäjien tapaturmavakuutuslain 15 §:n mukaan perusturvaosuuteen katsottavat päivärahat;
+2) maatalousyrittäjän työtapaturma- ja ammattitautilain 148 §:n 2 momentin mukaan perusturvaosuuteen katsottavat päivärahat;
 3) 13 luvussa tarkoitetut työterveyshuollon järjestämisestä aiheutuvien kustannusten korvaukset lukuun ottamatta Ylioppilaiden terveydenhoitosäätiölle maksettavia korvauksia;
 4) maatalousyrittäjien työterveyshuollon eräiden kustannusten korvaamisesta valtion varoista annetussa laissa säädetyt kulut; sekä
 5) edellä 14 luvussa tarkoitetut vuosilomakustannuskorvaukset.
