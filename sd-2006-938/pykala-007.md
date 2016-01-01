@@ -2,4 +2,4 @@
 
 Valtuuskunta on kirjanpitovelvollinen, ja sen kirjanpitoon sovelletaan kirjanpitolakia (1336/1997).
 
-Valtuuskunnalla tulee olla kaksi tilintarkastajaa ja kaksi varatilintarkastajaa. Vähintään yhden tilintarkastajan ja yhden varatilintarkastajan tulee olla Keskuskauppakamarin tai kauppakamarin hyväksymiä tilintarkastajia. Muilta osin tilintarkastukseen sovelletaan tilintarkastuslakia (936/1994).
+Valtuuskunnalla tulee olla kaksi tilintarkastajaa. Vähintään yhden tilintarkastajan tulee olla tilintarkastuslaissa (1141/2015) tarkoitettu tilintarkastaja. Jos tilintarkastajaksi ei ole valittu tilintarkastusyhteisöä, tulee valtuuskunnan valita tilintarkastajalle varatilintarkastaja. Muilta osin tilintarkastukseen sovelletaan tilintarkastuslakia.
