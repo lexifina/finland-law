@@ -2,6 +2,6 @@
 
 Folktinget on kirjanpitovelvollinen ja sen kirjanpitoon sovelletaan kirjanpitolakia (1336/1997).
 
-Folktingetillä tulee olla kaksi tilintarkastajaa ja kaksi varatilintarkastajaa. Vähintään yhden tilintarkastajan ja yhden varatilintarkastajan tulee olla Keskuskauppakamarin tai kauppakamarin hyväksymiä tilintarkastajia. Muilta osin tilintarkastukseen sovelletaan tilintarkastuslakia (936/1994).
+Folktingetillä tulee olla vähintään yksi tilintarkastaja ja varatilintarkastaja, joiden tulee olla tilintarkastuslaissa (1141/2015) tarkoitettuja tilintarkastajia. Muilta osin tilintarkastukseen sovelletaan tilintarkastuslakia.
 
 Folktingetin tilikausi on kalenterivuosi.
