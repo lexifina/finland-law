@@ -10,6 +10,7 @@ Palkattoman ajan etuuksien perusteena olevat tulot katsotaan sen kalenterivuoden
 1) 117 prosenttia äitiys-, erityisäitiys-, isyys- tai vanhempainrahan perusteena olevasta sairausvakuutuslain mukaisesta työtulosta siltä ajalta, jolta etuus on maksettu työntekijälle, ja 17 prosenttia siltä ajalta, jolta etuus on maksettu työnantajalle;
 2) 55 prosenttia vuorotteluvapaalain mukaisen vuorottelukorvauksen perusteena olevasta ansiosta;
 3) 75 prosenttia työttömyysturvalain mukaisen ansioon suhteutetun päivärahan perusteena olevasta ansiosta siltä osin kuin päivärahaa on saatu 63 vuoden iän täyttämiskuukauden loppuun mennessä;
+4–5 kohdat on kumottu L:lla 22.12.2009/1203.
 6) 65 prosenttia aikuiskoulutustuesta annetun lain mukaisen aikuiskoulutustuen perusteena olevasta ansiosta;
 7) 65 prosenttia työeläkelakien tai Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain mukaisen kuntoutusrahan tai tapaturmavakuutuksen tai liikennevakuutuksen kuntoutusta koskevien säännösten perusteella myönnetyn ansionmenetyskorvauksen perusteena olevasta työansiosta siltä ajalta, jolta etuus on maksettu työntekijälle, ei kuitenkaan, jos kuntoutusraha on maksettu eläkkeen lisänä;
 8) 65 prosenttia sairauspäivärahan, osasairauspäivärahan ja erityishoitorahan perusteena olevasta sairausvakuutuslaissa tarkoitetusta työtulosta siltä ajalta, jolta etuus on maksettu työntekijälle, kuitenkin siten, että osasairauspäivärahan perusteena oleva tulo on puolet sairauspäivärahan perusteena olevasta työtulosta;

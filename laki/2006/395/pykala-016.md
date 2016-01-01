@@ -11,11 +11,11 @@ Osa-aikatyöhön siirtyneellä 61–67-vuotiaalla työntekijällä on oikeus osa
 
 Edellä 1 momentin 1 ja 2 kohdassa tarkoitettuun työskentelyyn rinnastetaan työskentely EU- tai ETA-maassa.
 
-Jos työntekijä on 1 momentin 1 kohdassa tarkoitetun 18 kuukauden aikana saanut sairausvakuutuslain mukaista päivärahaa, sairausajan palkkaa, liikennevakuutuslain nojalla myönnettyä ansionmenetyskorvausta tai tapaturmavakuutuslain säännöksiin perustuvaa päivärahaa, tätä 18 kuukauden aikaa pidennetään vastaavasti, kuitenkin enintään kuusi kuukautta.
+Jos työntekijä on 1 momentin 1 kohdassa tarkoitetun 18 kuukauden aikana saanut sairausvakuutuslain mukaista päivärahaa, sairausajan palkkaa, liikennevakuutuslain nojalla myönnettyä ansionmenetyskorvausta tai työtapaturma- ja ammattitautilain tai maatalousyrittäjän työtapaturma- ja ammattitautilain mukaista päivärahaa, tätä 18 kuukauden aikaa pidennetään vastaavasti, kuitenkin enintään kuusi kuukautta.
 
 Osa-aikaeläkkeen edellyttämä osa-aikatyöskentely täyttyy, jos:
 1) työntekijän ansiotulo on vähentynyt niin, että hänen osa-aikatyöstä saamansa työansiot ovat 35–70 prosenttia työntekijän vakiintuneesta ansiosta ja työajassa on tapahtunut vastaava muutos;
-2) työntekijä ei ole yhtäjaksoisesti työstä poissa kuutta viikkoa pidempää aikaa; tähän poissaoloaikaan ei lueta vuosilomaa eikä aikaa, jolta työntekijälle on maksettu sairausvakuutuslain mukaista päivärahaa, sairausajan palkkaa, liikennevakuutuslain nojalla myönnettyä ansionmenetyskorvausta tai tapaturmavakuutuslain säännöksiin perustuvaa päivärahaa siltä osin kuin työntekijä on saanut mainittuja päivärahoja yhteensä enintään 12 kuukauden ajalta.
+2) työntekijä ei ole yhtäjaksoisesti työstä poissa kuutta viikkoa pidempää aikaa; tähän poissaoloaikaan ei lueta vuosilomaa eikä aikaa, jolta työntekijälle on maksettu sairausvakuutuslain mukaista päivärahaa, sairausajan palkkaa, liikennevakuutuslain nojalla myönnettyä ansionmenetyskorvausta tai työtapaturma- ja ammattitautilain tai maatalousyrittäjän työtapaturma- ja ammattitautilain mukaista päivärahaa siltä osin kuin työntekijä on saanut mainittuja päivärahoja yhteensä enintään 12 kuukauden ajalta.
 
 Jos työntekijän ansiotulojen vähentyminen poikkeaa työajan lyhentymisestä sen vuoksi, että kokoaikaisen ansiotyön ansiotuloon on sisältynyt palkkaukseen kuuluvaa ylityökorvausta, sunnuntai-, yötyö- tai vuorolisää taikka muuta sellaista erityistä lisää tai korvausta, jota ei sisälly osa-aikatyöstä saatavaan ansiotuloon, tällainen lisä tai korvaus jätetään huomioon ottamatta 4 momentin 1 kohdassa säädetyn ansioiden ja työajan muutosta arvioitaessa. Osa-aikatyön työansioiden tulee kuitenkin olla 35–70 prosenttia työntekijän vakiintuneesta ansiosta.
 
