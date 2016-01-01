@@ -25,4 +25,6 @@ Kunnan ja kuntayhtymän, joka perii maksamistaan palkkioista tuloverolain 31 §:
 
 Sijoitustoiminnan verohuojennuksesta verovuosina 2013–2015 annetun lain (993/2012) mukaisen sijoituksen vastaanottaneen kohdeyhtiön on annettava sijoituksesta Verohallinnolle vuosi-ilmoitus. Verohallinto antaa tarkemmat määräykset annettavista tiedoista, tietojen antamisen ajankohdasta ja tavasta.
 
+Yliopiston ja korkeakoulun on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot verovelvollisen tekemästä tuloverolain (1535/1992) 98 a §:ssä tarkoitetusta vähennyskelpoisesta lahjoituksesta.
+
 Verohallinto voi antaa tarkempia määräyksiä annettavista tiedoista, tietojen antamisen ajankohdasta ja tavasta tai rajoittaa tiedonantovelvollisuutta.
