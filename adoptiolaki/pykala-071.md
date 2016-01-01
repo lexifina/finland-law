@@ -1,4 +1,4 @@
-# 71 § Hovioikeuden selventävä vahvistamispäätös
+# 71 § Tuomioistuimen päätös tunnustamisesta
 Luku: 9 luku Kansainvälisen yksityisoikeuden alaan kuuluvat säännökset
 
-Vaikka adoptio tai sen purkaminen tunnustetaan 69 tai 70 §:n nojalla ilman eri vahvistusta, Helsingin hovioikeus voi hakemuksesta vahvistaa, että adoptio tai sen purkaminen on pätevä Suomessa.
+Helsingin käräjäoikeus voi hakemuksesta vahvistaa, tunnustetaanko 69 §:ssä tarkoitettu adoptio tai 70 §:ssä tarkoitettu adoption purkaminen päteväksi Suomessa.
