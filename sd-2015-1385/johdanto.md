@@ -1,0 +1,2 @@
+Laki ulkomailla suoritettujen korkeakouluopintojen tuottamasta virkakelpoisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
