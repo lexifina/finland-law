@@ -10,7 +10,7 @@ c) REACH-asetusta,
 d) CLP-asetusta,
 e) biosidiasetusta,
 f) kasvinsuojeluaineasetusta,
-g) a—f alakohdassa mainitun säädöksen tai ympäristönsuojelulain (527/2014) nojalla annettua säännöstä,
+g) a–f alakohdassa mainitun säädöksen tai ympäristönsuojelulain (527/2014) nojalla annettua säännöstä,
 h) otsonikerrosta heikentävistä aineista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1005/2009,
 i) tietyistä fluoratuista kasvihuonekaasuista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 842/2006,
 j) pysyvistä orgaanisista yhdisteistä sekä direktiivin 79/117/ETY muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 850/2004,
@@ -31,7 +31,7 @@ f) metallisen elohopean ja tiettyjen elohopeayhdisteiden ja -seosten viennin kie
 6) vie maasta muuntogeenisiä organismeja, niitä sisältäviä elintarvikkeita tai rehuja vastoin muuntogeenisten organismien valtioiden rajat ylittävistä siirroista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1946/2003
 siten, että teko on omiaan aiheuttamaan ympäristön pilaantumista, muuta vastaavaa ympäristön haitallista muuttumista tai roskaantumista taikka vaaraa terveydelle, on tuomittava ympäristön turmelemisesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
-Edellä 1 momentin 4—6 kohdassa tarkoitetun tahallisen rikoksen yritys on rangaistava.
+Edellä 1 momentin 4–6 kohdassa tarkoitetun tahallisen rikoksen yritys on rangaistava.
 
 Ympäristön turmelemisesta tuomitaan myös se, joka tahallaan tai törkeästä huolimattomuudesta ryhtyy muuten kuin 1 momentissa tarkoitetulla tavalla muuttamaan ympäristöä vastoin
 1) maankäyttö- ja rakennuslakia (132/1999),
