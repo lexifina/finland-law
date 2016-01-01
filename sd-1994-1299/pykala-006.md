@@ -1,6 +1,6 @@
 # 6 § Tilintarkastus
 
-Etuyhtymän tilintarkastuksesta on voimassa, mitä tilintarkastuslaissa (936/94) ja tässä pykälässä säädetään.
+Etuyhtymän tilintarkastuksesta on voimassa, mitä tilintarkastuslaissa (1141/2015) ja tässä pykälässä säädetään.
 
 Etuyhtymässä on oltava yksi tai useampi tilintarkastaja sen mukaan kuin perustamissopimuksessa määrätään. Jäsenet valitsevat tilintarkastajan yksimielisellä päätöksellä, jollei perustamissopimuksessa ole toisin sovittu. Jäsenet voivat lisäksi valita yhden tai useamman varatilintarkastajan.
 
