@@ -7,7 +7,7 @@ Luonnollisen henkilön ja kuolinpesän on suoritettava valtiolle tuloveroa verot
 
 Pääomatulosta suoritetaan tuloveroa 30 prosenttia (pääomatulon tuloveroprosentti). Siltä osin kuin verovelvollisen verotettavan pääomatulon määrä ylittää 30 000 euroa, pääomatulosta suoritetaan veroa 33 prosenttia (pääomatulon korotettu tuloveroprosentti). Yhteisön tuloveroprosentti on 20. Yhteisetuuden tuloveroprosentti on 28. Yhteisöjen ja yhteisetuuksien veron jakautumisesta eri veronsaajien kesken säädetään verontilityslaissa (532/1998).
 
-Edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 6,52. Näiden yhteisöjen veron jakautumisesta kunnan ja seurakunnan kesken säädetään verontilityslaissa. Edellä 21 §:n 2 momentissa tarkoitetun yhteisön tuloveroprosentti on 6,07.
+Edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 6,07.
 
 Luonnollisen henkilön on suoritettava eläketulon lisäveroa 6 prosenttia siltä osin kuin eläketulo vähennettynä eläketulovähennyksen määrällä ylittää 45 000 euroa. Eläketulon lisäveroon sovelletaan, mitä ansiotulosta valtiolle suoritettavasta tuloverosta tässä tai muussa laissa säädetään.
 

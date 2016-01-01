@@ -6,4 +6,4 @@ Edellä 5 §:ssä tarkoitettua yhteisetuutta verotetaan erillisenä verovelvolli
 
 Yhteisetuuden osakkaan veronalaisena tulona ei pidetä hänen saamaansa osuutta yhteisetuuden tulosta.
 
-Tiekunta suorittaa tulostaan veroa kunnalle ja seurakunnalle 124 §:n 3 momentissa tarkoitetun tuloveroprosentin mukaan.
+Tiekunta suorittaa tulostaan veroa kunnalle 124 §:n 3 momentissa tarkoitetun tuloveroprosentin mukaan.
