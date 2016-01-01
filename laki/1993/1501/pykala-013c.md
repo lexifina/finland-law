@@ -10,6 +10,4 @@ Paliskunta on velvollinen täyttämään paliskuntaryhmän ilmoitus- ja tilitysv
 
 Paliskuntaryhmän verokausi on poronhoitovuosi. Veroilmoitus verokaudelta on annettava viimeistään verokautta seuraavana toisena kalenterikuukautena verotililain (604/2009) 8 §:ssä säädettynä ajankohtana kyseisen lain 7 §:ssä säädettyä menettelyä noudattaen. Vero on maksettava viimeistään verokautta seuraavana toisena kalenterikuukautena verotililain 11 §:n 1 momentissa säädettynä ajankohtana.
 
-5 momentti on kumottu L:lla 11.6.2010/529, joka tuli voimaan 1.9.2010.
-
 Sen estämättä, mitä 1 momentissa säädetään, tämän lain laskuja koskevia säännöksiä sovelletaan jokaiseen elinkeinonharjoittajaan erikseen.

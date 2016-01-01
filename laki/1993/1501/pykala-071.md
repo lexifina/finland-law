@@ -9,7 +9,6 @@ Veroa ei suoriteta seuraavista myynneistä:
 3) ammattimaisessa kansainvälisessä liikenteessä olevalla vesi- tai ilma-aluksella tapahtuva palvelun myynti ulkomaille matkustaville sekä palvelun myynti tällaisen vesi-aluksen tai sen lastin välittömiä tarpeita varten;
 4) ilma-aluksen, sen varaosan tai varusteen vuokraus tai niihin kohdistuvan työsuorituksen myynti, ilma-aluksen rahtaus taikka muun palvelun myynti ilma-aluksen tai sen lastin välittömiä tarpeita varten sellaisen elinkeinonharjoittajan käyttöön, joka maksua vastaan harjoittaa pääasiallisesti kansainvälistä lentoliikennettä;
 5) tavaraan kohdistuvan työsuorituksen myynti, jos myyjä, ostajana oleva ulkomainen elinkeinonharjoittaja, joka ei ole Suomessa verovelvollinen, tai joku muu heidän toimeksiannostaan vie tavaran välittömästi Yhteisön ulkopuolelle käyttämättä sitä täällä;
-8 kohta on kumottu L:lla 29.4.2011/417, joka tuli voimaan 1.6.2011.
 9) jäljempänä 80 §:ssä tarkoitetun matkatoimistopalvelun myynti siltä osin kuin kysymys on toisten elinkeinonharjoittajien Yhteisön ulkopuolella välittömästi matkustajan hyväksi luovuttamista palveluista ja tavaroista;
 10) 69 a §:ssä tarkoitetun yhteisökuljetuksen myynti, joka liittyy tavaroiden kuljetukseen Azoreille tai Madeiralle;
 11) henkilökuljetuspalvelu, joka tapahtuu suoraan ulkomaille tai ulkomailta;

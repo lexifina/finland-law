@@ -12,6 +12,5 @@ Sen estämättä, mitä 27 §:ssä säädetään, veroa suoritetaan:
 7) säilytyslokeroiden käyttöoikeuden luovuttamisesta;
 8) ilmoitus- tai mainostilan, ajanviete- tai virvoitusjuoma-automaatin tai muun sellaisen laitteen taikka pelin vaatiman tilan luovuttamisesta kiinteistöltä;
 9) yleisen tien tai rautatien kokonaishoitopalvelun luovuttamisesta valtiolle.
-10 kohta on kumottu L:lla 30.12.2010/1392, joka tuli voimaan 1.1.2011.
 
 Edellä 1 momentin 9 kohdassa tarkoitetulla kokonaishoitopalvelulla tarkoitetaan yleisen tien tai rautatien rakentamis- ja kunnossapitopalvelua, josta saatava vastike määräytyy liikennemäärän tai muun vastaavan tien tai rautatien käyttöä kuvaavan suoritemäärän (liikennesuoritteen) perusteella.

@@ -12,6 +12,7 @@ Veroa ei suoriteta seuraavista myynneistä:
 6) ilma-aluksen, sen varaosan tai varusteen myynti taikka tavaran myynti ilma-aluksen varustamiseksi sellaisen elinkeinonharjoittajan käyttöön, joka maksua vastaan harjoittaa pääasiallisesti kansainvälistä lentoliikennettä;
 7) tavaran myynti ammattimaisessa kansainvälisessä liikenteessä olevalla vesi- tai ilma-aluksella tapahtuvaa myyntiä varten sekä tällaisella aluksella tapahtuva myynti ulkomaille matkustaville, jollei 2 momentissa toisin säädetä;
 8) tavaran myynti ammattimaisessa kansainvälisessä liikenteessä olevan vesi-aluksen varustamiseksi.
+9–10 kohdat on kumottu L:lla 29.12.1995/1767.
 
 Veroa suoritetaan matkatavaroissa mukaan otettavien tavaroiden myynnistä vesi- tai ilma-aluksessa matkustaville, jos myynti tapahtuu 63 c §:ssä tarkoitetun henkilökuljetuksen aikana.
 

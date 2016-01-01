@@ -1,6 +1,6 @@
 # 134 e §
 Osa: II OSA
-Luku: 13 LUKU Otsikko on kumottu L:lla 27.6.2014/505, joka tulee voimaan 1.1.2015. Aiempi sanamuoto kuuluu: Ajallinen kohdistaminen
+Luku: 13 LUKU Otsikko on kumottu L:lla 27.6.2014/505, joka tuli voimaan 1.1.2015. Aiempi sanamuoto kuuluu: Ajallinen kohdistaminen
 
 Erityisjärjestelmää käyttävän verovelvollisen on pidettävä erityisjärjestelmän piiriin kuuluvista liiketoimista riittävän yksityiskohtaista kirjanpitoa, jotta kulutusjäsenvaltio voi määrittää 133 h ja 133 o §:ssä tarkoitetun veroilmoituksen oikeellisuuden.
 

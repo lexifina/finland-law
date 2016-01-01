@@ -1,6 +1,6 @@
 # 134 §
 Osa: II OSA
-Luku: 13 LUKU Otsikko on kumottu L:lla 27.6.2014/505, joka tulee voimaan 1.1.2015. Aiempi sanamuoto kuuluu: Ajallinen kohdistaminen
+Luku: 13 LUKU Otsikko on kumottu L:lla 27.6.2014/505, joka tuli voimaan 1.1.2015. Aiempi sanamuoto kuuluu: Ajallinen kohdistaminen
 Väliotsikko: Yhteisiä menettelysäännöksiä
 
 Erityisjärjestelmää sovelletaan kaikkiin järjestelmää käyttävän verovelvollisen suorittamiin 133 d tai 133 k §:ssä tarkoitettuihin myynteihin. Sitä ei kuitenkaan sovelleta myynteihin arvonlisäverovelvollisten rekisteriin merkitylle oikeushenkilölle, joka ei ole elinkeinonharjoittaja.
