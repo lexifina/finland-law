@@ -5,4 +5,4 @@ Yhtiömiehellä on oikeus hoitaa yhtiön asioita ilman toisen yhtiömiehen myöt
 
 Yhtiön toimialaan tai tarkoitukseen kuulumattomaan toimenpiteeseen ei saa ryhtyä ilman kaikkien yhtiömiesten suostumusta.
 
-Milloin toimenpiteeseen sopimuksen mukaan vaaditaan useamman yhtiömiehen suostumus mutta joku heistä on sairauden tai poissaolon vuoksi estynyt suostumusta antamasta, saa yhtiömies kuitenkin suorittaa toimen, jos se on kiireellinen ja yhtiön oikeuden turvaamiseksi tai yhtiötä uhkaavan vahingon torjumiseksi välttämätön.
+Jos toimenpiteeseen yhtiösopimuksen mukaan vaaditaan useamman kuin yhden yhtiömiehen suostumus, mutta joku heistä on sairauden tai poissaolon vuoksi estynyt suostumusta antamasta, yhtiömies saa kuitenkin suorittaa toimen, jos se on kiireellinen ja yhtiön oikeuden turvaamiseksi tai yhtiötä uhkaavan vahingon torjumiseksi välttämätön.

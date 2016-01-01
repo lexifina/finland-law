@@ -9,6 +9,10 @@ Yhtiömiehellä on oikeus vaatia yhtiön purkamista, kun:
 
 Sen lisäksi, mitä 1 momentissa on säädetty, saavat yhtiömiehen konkurssin tai hänen osuutensa ulosmittauksen johdosta konkurssipesä ja ulosmitatun osuuden pakkohuutokaupassa ostanut vaatia yhtiön purkamista. Yhtiömiehen kuoltua on sama oikeus kuolinpesällä, jollei yhtiön toiminnan jatkamisesta sovita.
 
-Kun vaatimus yhtiön purkamisesta on tehty, yhtiömiehet voivat sopia siitä, miten yhtiö puretaan. Tällaista sopimusta ei kuitenkaan saa tehdä 1 momentin 2 kohdassa tarkoitetussa tapauksessa ilman konkurssipesän, ulosmittausvelkojan tai pakkohuutokauppaostajan suostumusta eikä 3 kohdassa tarkoitetussa tapauksessa ilman kuolinpesän suostumusta.
+Yhtiösopimuksessa voidaan sopia siitä, miten yhtiö puretaan.
 
-Jos yhtiömiehet eivät sovi siitä, miten yhtiö puretaan, yhtiö on selvitettävä niin kuin tässä luvussa säädetään.
+Kun vaatimus yhtiön purkamisesta on tehty, yhtiö puretaan yhtiösopimuksen mukaisesti tai, jos purkamismenettelystä ei sovita yhtiösopimuksessa, siten kuin yhtiömiehet erikseen sopivat.
+
+Edellä 3 momentissa tarkoitettua yhtiösopimuksen ehtoa ei saa ilmoittaa rekisteröitäväksi eikä 4 momentissa tarkoitettua yhtiömiesten sopimusta tehdä 1 momentin 2 kohdassa tarkoitetussa tapauksessa ilman konkurssipesän, ulosmittausvelkojan tai pakkohuutokauppaostajan suostumusta eikä saman momentin 3 kohdassa tarkoitetussa tapauksessa ilman kuolinpesän suostumusta.
+
+Jos yhtiösopimuksessa ei ole sovittu purkamisesta eivätkä yhtiömiehet erikseen sovi siitä, yhtiö on selvitettävä niin kuin tässä luvussa säädetään.

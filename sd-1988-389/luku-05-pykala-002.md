@@ -5,4 +5,4 @@ Jos yhtiösopimus on voimassa toistaiseksi, jokaisella yhtiömiehellä on oikeus
 
 Jos yhtiön toimintaa jatketaan huolimatta yhtiösopimuksessa sovitun yhtiökauden päättymisestä, pidetään yhtiösopimusta sen jälkeen toistaiseksi voimassa olevana.
 
-Mitä 1 momentissa on säädetty, sovelletaan yhtiömiehen eliniäksi tai yli kymmeneksi vuodeksi solmittuun yhtiösopimukseen, kun yhtiömieheksi ryhtymisestä on kulunut kymmenen vuotta. Sopimus, jolla rajoitetaan yhtiömiehen tässä momentissa tarkoitettua oikeutta irtisanoa yhtiösopimus, on tehoton.
+Mitä 1 momentissa säädetään, sovelletaan yhtiömiehen eliniäksi tai yli kymmeneksi vuodeksi solmittuun yhtiösopimukseen, kun yhtiökauden alkamisesta on kulunut kymmenen vuotta. Irtisanomisoikeutta ei kuitenkaan ole, jos yhtiömiehet sopivat enintään kymmenen vuoden yhtiökauden jatkamisesta uudeksi enintään kymmenen vuoden yhtiökaudeksi. Sopimus, jolla rajoitetaan avoimen yhtiön yhtiömiehenä tai kommandiittiyhtiön vastuunalaisena yhtiömiehenä olevan luonnollisen henkilön tässä momentissa tarkoitettua oikeutta irtisanoa yhtiösopimus, on tehoton.

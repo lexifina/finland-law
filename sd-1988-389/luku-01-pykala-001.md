@@ -1,8 +1,8 @@
-# 1 § Soveltamisala
+# 1 § Soveltamisala ja yhtiömiesten vastuu
 Luku: 1 luku Yleisiä säännöksiä
 
-Tämän lain säännöksiä sovelletaan, jollei muussa laissa ole toisin säädetty, kun kaksi tai useampi harjoittaa sopimuksen perusteella yhdessä elinkeinotoimintaa yhteisen taloudellisen tarkoituksen saavuttamiseksi. Sopimuksen osapuolet (yhtiömiehet) vastaavat tällaisen yhtiön velvoitteista niiden täyteen määrään niin kuin omasta velastaan. Sopimuksessa voidaan kuitenkin yhden tai useamman yhtiömiehen, ei kuitenkaan kaikkien, vastuu yhtiön velvoitteista rajoittaa sopimuksen osoittaman omaisuuspanoksen määrään.
+Tätä lakia sovelletaan Suomen lain mukaan rekisteröityihin avoimiin yhtiöihin ja kommandiittiyhtiöihin, jollei muussa laissa toisin säädetä. Avoimessa yhtiössä ja kommandiittiyhtiössä kaksi tai useampi harjoittaa yhtiösopimuksen perusteella yhdessä elinkeinotoimintaa yhteisen taloudellisen tarkoituksen saavuttamiseksi.
 
-Avointa yhtiötä koskevia säännöksiä sovelletaan, kun yhtiömiesten vastuuta ei ole rajoitettu.
+Avoimen yhtiön yhtiösopimuksen osapuolet (yhtiömiehet) vastaavat yhtiön velvoitteista niiden täyteen määrään niin kuin omasta velastaan. Kommandiittiyhtiössä yhden tai useamman yhtiömiehen, ei kuitenkaan kaikkien, vastuuta yhtiön velvoitteista on rajoitettu yhtiösopimuksen osoittaman omaisuuspanoksen määrään.
 
-Kommandiittiyhtiötä koskevia säännöksiä sovelletaan, kun vastuuta yhtiön velvoitteista on rajoitettu 1 momentissa tarkoitetulla tavalla.
+Tässä laissa tarkoitetaan äänettömällä yhtiömiehellä kommandiittiyhtiön yhtiömiestä, jonka vastuu yhtiön velvoitteista on rajoitettu 2 momentissa tarkoitetulla tavalla. Vastuunalaisella yhtiömiehellä tarkoitetaan kommandiittiyhtiön muuta yhtiömiestä.
