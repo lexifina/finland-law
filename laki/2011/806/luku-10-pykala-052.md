@@ -3,7 +3,7 @@ Luku: 10 luku Salaiset pakkokeinot
 
 Telekuuntelua, tietojen hankkimista telekuuntelun sijasta, teknistä kuuntelua ja teknistä katselua ei saa kohdistaa:
 1) rikoksesta epäillyn ja hänen oikeudenkäymiskaaren 17 luvun 13 §:n 1 tai 3 momentissa tarkoitetun oikeudellisen avustajansa tai 1 momentissa tarkoitetun tulkin taikka mainittuun avustajaan 22 §:n 2 momentissa tarkoitetussa suhteessa olevan henkilön väliseen viestiin;
-2) rikoksesta epäillyn ja oikeudenkäymiskaaren 17 luvun 16 § :ssä tarkoitetun papin tai muun vastaavassa asemassa olevan henkilön väliseen viestiin; eikä
+2) rikoksesta epäillyn ja oikeudenkäymiskaaren 17 luvun 16 §:ssä tarkoitetun papin tai muun vastaavassa asemassa olevan henkilön väliseen viestiin; eikä
 3) rikoksen johdosta vapautensa menettäneen epäillyn ja lääkärin, sairaanhoitajan, psykologin tai sosiaalityöntekijän väliseen viestiin.
 
 Ellei tutkittavana ole rikos, josta säädetty ankarin rangaistus on vähintään kuusi vuotta vankeutta, telekuuntelua, tietojen hankkimista telekuuntelun sijasta, teknistä kuuntelua ja teknistä katselua ei saa kohdistaa myöskään:

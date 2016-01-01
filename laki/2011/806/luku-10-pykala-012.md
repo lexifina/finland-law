@@ -8,4 +8,4 @@ Suunnitelmallisella tarkkailulla tarkoitetaan rikoksesta epäiltyyn kohdistuvaa 
 
 Esitutkintaviranomainen saa kohdistaa rikoksesta epäiltyyn suunnitelmallista tarkkailua, jos tätä on syytä epäillä rikoksesta, josta säädetty ankarin rangaistus on vähintään kaksi vuotta vankeutta, taikka varkaudesta tai kätkemisrikoksesta.
 
-Tässä pykälässä tarkoitettua tarkkailua ei saa kohdistaa vakituiseen asumiseen käytettävään tilaan. Teknistä laitetta ei saa käyttää rikoslain 24 luvun 11 § :ssä tarkoitettuun kotirauhan suojaamaan paikkaan kohdistuvassa tarkkailussa tai suunnitelmallisessa tarkkailussa.
+Tässä pykälässä tarkoitettua tarkkailua ei saa kohdistaa vakituiseen asumiseen käytettävään tilaan. Teknistä laitetta ei saa käyttää rikoslain 24 luvun 11 §:ssä tarkoitettuun kotirauhan suojaamaan paikkaan kohdistuvassa tarkkailussa tai suunnitelmallisessa tarkkailussa.

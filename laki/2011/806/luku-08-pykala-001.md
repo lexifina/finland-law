@@ -4,7 +4,7 @@ Väliotsikko: Paikkaan kohdistuva etsintä
 
 Tämän luvun mukaisia paikkaan kohdistuvia etsintöjä ovat kotietsintä, joka voi olla yleinen tai erityinen kotietsintä, sekä paikanetsintä.
 
-Yleisellä kotietsinnällä tarkoitetaan rikoslain 24 luvun 11 § :ssä tarkoitetussa kotirauhan suojaamassa paikassa toimitettavaa etsintää.
+Yleisellä kotietsinnällä tarkoitetaan rikoslain 24 luvun 11 §:ssä tarkoitetussa kotirauhan suojaamassa paikassa toimitettavaa etsintää.
 
 Erityisellä kotietsinnällä tarkoitetaan etsintää sellaisessa tilassa, jossa etsinnän kohteeksi on syytä olettaa joutuvan tietoa, josta oikeudenkäymiskaaren 17 luvun 10–14, 16, 20 tai 21 §:n mukaan on velvollisuus tai oikeus kieltäytyä todistamasta ja johon ei tämän lain 7 luvun 3 §:n nojalla saa kohdistaa takavarikkoa tai asiakirjan jäljentämistä.
 
