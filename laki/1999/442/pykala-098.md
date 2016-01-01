@@ -1,0 +1,7 @@
+# 98 § Lain soveltaminen
+Luku: 11 luku Voimaantulo- ja siirtymäsäännökset
+
+Tätä lakia sovelletaan sen voimaantuloa edeltävältä ajalta oleviin holhoustoimen asioihin seuraavasti:
+1) Vajaavaltaiset. Niihin, jotka tämän lain tullessa voimaan ovat vajaavaltaisia, sovelletaan, mitä tässä laissa säädetään vajaavaltaisesta. Holhousviranomaisen on valvonnassaan olevien holhottavaksi julistettujen osalta viipymättä selvitettävä, onko tarpeen, että vajaavaltaisuus yhä jatkuu, ja tarvittaessa tehtävä hakemus edunvalvonnan järjestämiseksi siten kuin tässä laissa säädetään.
+2) Holhoojat ja uskotut miehet. Holhoojaan ja holhouslain nojalla määrättyyn uskottuun mieheen sovelletaan tämän lain tultua voimaan, mitä edunvalvojasta säädetään.
+3) Eräät vireillä olevat asiat. Jos holhottavaksi julistamista taikka holhoojan tai uskotun miehen määräämistä tai tehtävästään vapauttamista koskeva asia on tuomioistuimessa vireillä tämän lain voimaan tullessa, asia on käsiteltävä vastaavasti tämän lain mukaisena toimintakelpoisuuden rajoittamista taikka edunvalvojan määräämistä tai tehtävästään vapauttamista koskevana hakemuksena. Jos holhottavaksi julistamista koskeva asia on muutoksenhaun johdosta vireillä korkeimmassa oikeudessa tai hovioikeudessa, asia on palautettava alioikeuden käsiteltäväksi, jollei muutoksenhakemusta jätetä heti tutkimatta. Päättäessään asian palauttamisesta tuomioistuin voi määrätä, että päätös, jolla joku on julistettu holhottavaksi, pysyy voimassa, kunnes alioikeus on ratkaissut asian.
