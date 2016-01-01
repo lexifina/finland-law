@@ -10,6 +10,7 @@ Jäämistöä koskevalla asialla tarkoitetaan asiaa, joka koskee:
 3 a) avopuolisoiden yhteistalouden purkamisesta annetussa laissa tarkoitettua hyvitystä, omaisuuden erottelua tai erottelun taikka hyvitysratkaisun moitetta, jos asia pannaan vireille avopuolison kuoleman jälkeen;
 4) testamenttiin perustuvaa oikeutta, testamentin pätevyyttä, testamentin moitetta tai testamentin tulkintaa;
 5) kuolinpesän hallintoa, pesänselvittäjän tai pesänjakajan määräämistä tai vapauttamista, perunkirjoitusta taikka pesänselvitystä;
-6) perinnönjakoa tai perinnönjaon moitetta.
+6) perinnönjakoa tai perinnönjaon moitetta;
+7) omaisuuden palauttamista kuolinpesälle perinnönjaon taikka osituksen, omaisuuden erottelun tai hyvityksen oikaisua varten.
 
 Kuolinpesää koskevalla asialla tarkoitetaan asiaa, joka koskee kuolinpesän tai sen osakkaan taikka testamentinsaajan vastuuta vainajan tai pesän sitoumuksesta taikka muusta vastaavasta asiasta.
