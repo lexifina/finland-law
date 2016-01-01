@@ -11,7 +11,7 @@ Luku: 12 luku Voimaantulo ja siirtymäsäännökset
 
 5. Lapseksiottamisasioiden lautakunnassa tämän lain voimaan tullessa vireillä olleet asiat siirtyvät tämän lain tultua voimaan adoptiolautakunnan käsiteltäviksi. Kun adoptiolautakunta antaa lupapäätöksensä tämän lain tultua voimaan, sovelletaan 1 ja 2 momentin estämättä 48—50 §:ää.
 
-6. Vieraassa valtiossa ennen tämän lain voimaantuloa tapahtuneen lapseksiottamisen ja lapseksiottamisen purkamisen tunnustamiseen sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä. Sama koskee sellaisen lapseksiottamisen tunnustamista, johon 1 tai 2 momentin nojalla sovelletaan aikaisempaa lakia. Helsingin hovioikeuden tunnustamisasiassa antamaan ratkaisuun saadaan kuitenkin hakea muutosta siten kuin 84 §:ssä säädetään, jos ratkaisu annetaan tämän lain tultua voimaan.
+6. Vieraassa valtiossa ennen tämän lain voimaantuloa tapahtuneen lapseksiottamisen ja lapseksiottamisen purkamisen tunnustamiseen sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä. Sama koskee sellaisen lapseksiottamisen tunnustamista, johon 1 tai 2 momentin nojalla sovelletaan aikaisempaa lakia. Asia käsitellään kuitenkin Helsingin hovioikeuden sijasta Helsingin käräjäoikeudessa, eikä lapseksiottamisesta annetun lain 42 §:n 2 momentissa säädettyä muutoksenhakukieltoa sovelleta.
 
 7. Ottolapsineuvonnan tai kansainvälisen lapseksiottamispalvelun järjestämistä koskeva lupa-asia tai muu asia, joka on tullut sosiaali- ja terveysministeriössä vireille ennen tämän lain voimaantuloa, käsitellään loppuun noudattaen tämän lain voimaan tullessa voimassa olleita säännöksiä.
 
