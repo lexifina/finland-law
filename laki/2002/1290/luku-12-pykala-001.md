@@ -6,8 +6,6 @@ Kansaneläkelaitoksen tai työttömyyskassan päätökseen tyytymätön saa hake
 
 Valituskirjelmä on toimitettava Kansaneläkelaitokselle tai asianomaiselle työttömyyskassalle 30 päivän kuluessa siitä, kun valittaja on saanut päätöksestä tiedon.
 
-Työttömyysturva-asiamies on oikeutettu hakemaan valittamalla työttömyysetuuden saamisen työvoimapoliittisia edellytyksiä tai oikeudenkäyntikulujen jakamista koskevassa asiassa muutosta 1 momentin mukaisesti työttömyysturvan muutoksenhakulautakunnalta 30 päivän kuluessa siitä, kun työnhakija on saanut Kansaneläkelaitoksen tai työttömyyskassan päätöksestä tiedon, ja vakuutusoikeudelta 30 päivän kuluessa siitä, kun työvoimaviranomainen on saanut päätöksestä tiedon.
-
 Kansaneläkelaitoksen tai työttömyyskassan päätöstä on muutoksenhausta huolimatta noudatettava, kunnes asia on lainvoimaisella päätöksellä ratkaistu.
 
 Työvoimaviranomaisen antamasta sitovasta lausunnosta ei saa erikseen hakea muutosta valittamalla.

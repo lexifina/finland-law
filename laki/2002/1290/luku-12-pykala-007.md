@@ -8,7 +8,7 @@ Jos työttömyysturvan muutoksenhakulautakunnan tai vakuutusoikeuden antama lain
 
 Tehtyään edellä 1 tai 2 momentissa tarkoitetun päätöksen poistamista koskevan vaatimuksen Kansaneläkelaitos tai työttömyyskassa voi, kunnes asia on uudelleen ratkaistu, väliaikaisesti keskeyttää etuuden maksamisen tai maksaa sen vaatimuksensa mukaisena.
 
-Myös Finanssivalvonta voi esittää mainitulla tavalla virheellisen työttömyyskassan päätöksen poistamista työttömyysturvan muutoksenhakulautakunnalle tai työttömyysturvan muutoksenhakulautakunnan päätöksen poistamista vakuutusoikeudelle. Tehtyään esityksen Finanssivalvonta voi määrätä etuuden maksamisen väliaikaisesti keskeytettäväksi tai maksettavaksi esityksensä mukaisena. Lisäksi työttömyysturva-asiamies on oikeutettu hakemaan työvoimapoliittisia edellytyksiä koskevassa asiassa lainvoimaisen päätöksen poistamista siten kuin 1 ja 2 momentissa säädetään.
+Myös Finanssivalvonta voi esittää mainitulla tavalla virheellisen työttömyyskassan päätöksen poistamista työttömyysturvan muutoksenhakulautakunnalle tai työttömyysturvan muutoksenhakulautakunnan päätöksen poistamista vakuutusoikeudelle. Tehtyään esityksen Finanssivalvonta voi määrätä etuuden maksamisen väliaikaisesti keskeytettäväksi tai maksettavaksi esityksensä mukaisena.
 
 Päätöksen poistamista on haettava viiden vuoden kuluessa siitä, kun päätös sai lainvoiman. Erityisen painavista syistä päätös voidaan poistaa määräajan jälkeenkin tehdystä hakemuksesta.
 
