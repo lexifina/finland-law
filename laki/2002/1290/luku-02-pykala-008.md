@@ -12,3 +12,7 @@ b) jättänyt Verohallinnolle ilmoituksen yrityksen poistamiseksi ennakkoperint�
 c) jättänyt Verohallinnolle ilmoituksen yrityksen poistamiseksi työnantajarekisteristä; ja
 d) jättänyt Verohallinnolle joko ilmoituksen yrityksen poistamiseksi arvonlisäverovelvollisten rekisteristä tai yritystoiminnan keskeytymisestä; tai
 5) muiden 1–4 kohdassa mainittuihin verrattavien seikkojen perusteella on ilmeistä, että tuotannollinen ja taloudellinen toiminta on kokonaan päättynyt.
+
+Ellei muuhun arvioon ole aihetta, yksityisen elinkeinonharjoittajan yritystoiminta katsotaan lopetetuksi myös, kun:
+1) tuotannollinen ja taloudellinen toiminta on työnhakijan luotettavana pidettävän ilmoituksen mukaan päättynyt tai muuten on ilmeistä, ettei toimintaa enää jatketa; ja
+2) henkilö on luopunut mahdollisesta yrittäjän eläkelain tai maatalousyrittäjän eläkelain mukaisesta eläkevakuutuksesta.
