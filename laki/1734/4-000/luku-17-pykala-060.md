@@ -1,4 +1,4 @@
 # 60 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Milloin katselmuksesta on jonkin tapauksen varalta erikseen säädetty, noudatettakoon sitä.
+Todisteen vastaanottamisesta ulkomailla säädetään erikseen.

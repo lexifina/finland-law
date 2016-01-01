@@ -1,7 +1,4 @@
 # 30 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Todistajanvalaa älköön vannoko tai sitä vastaavaa vakuutusta antako:
-1) se, joka ei ole täyttänyt viittätoista vuotta;
-2) se, jolta havaitaan mielisairauden, tylsämielisyyden tai muun sieluntoiminnan häiriintymisen vuoksi puuttuvan selvä käsitys valan merkityksestä; älköönkä
-3) rikosasiassa syytettyyn 20 §:ssä mainitussa suhteessa oleva henkilö.
+Todistajaan, joka ei ole täyttänyt 15 vuotta tai jonka henkinen toiminta on häiriintynyt, sovelletaan, mitä 27 §:ssä säädetään todistelutarkoituksessa kuultavasta asianosaisesta.

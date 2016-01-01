@@ -1,10 +1,17 @@
 # 24 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
+Väliotsikko: Kirjallisen kertomuksen käyttökielto sekä todisteen hyödyntämiskielto
 
-Todistaja saa kieltäytyä kertomasta seikkaa tai vastaamasta kysymykseen, jos hän ei voisi sitä tehdä saattamatta syytteen vaaraan itseään tai toisia, joka on häneen sellaisessa suhteessa, kuin 20 §:ssä on sanottu. Todistaja saa niin ikään kieltäytyä antamasta lausumaa, jolla liike- tai ammattisalaisuus tulisi ilmaistuksi, jolleivät erittäin tärkeät syyt vaadi, että todistajaa kuulustellaan niistä.
+Tuomioistuimessa ei saa käyttää todisteena kirjallista yksityisluonteista kertomusta, joka on annettu vireillä olevan tai alkavan oikeudenkäynnin varalta, paitsi jos:
+1) riita-asiassa, jossa sovinto on sallittu, asianosaiset suostuvat sen käyttämiseen todisteena;
+2) vastaaja toimittaa sen tuomioistuimelle kiistäessään 5 luvun 14 §:ssä tarkoitetun juoksevaan velkakirjaan, vekseliin tai shekkiin perustuvan vaatimuksen vastauksensa yhteydessä kiistämisensä todennäköisten syiden tueksi;
+3) muualla laissa toisin säädetään;
+4) tuomioistuin sen erityisestä syystä sallii.
 
-Sananvapauden käyttämisestä joukkoviestinnässä annetussa laissa (460/2003) tarkoitettu yleisön saataville toimitetun viestin laatija taikka julkaisija tai ohjelmatoiminnan harjoittaja saa kieltäytyä vastaamasta kysymykseen, kuka on antanut viestin perusteena olevat tiedot, samoin kuin kysymykseen, johon ei voi vastata paljastamatta tietojen antajaa. Sama oikeus on sillä, joka on saanut tiedon edellä mainituista seikoista ollessaan asianomaisen viestin laatijan taikka julkaisijan tai ohjelmatoiminnan harjoittajan palveluksessa.
+Tuomioistuimessa ei saa käyttää todisteena esitutkintapöytäkirjaan tai muulle asiakirjalle merkittyä tai muulla tavalla tallennettua lausumaa, ellei laissa toisin säädetä, paitsi jos lausuman antajaa ei voida kuulustella pääkäsittelyssä tai pääkäsittelyn ulkopuolella taikka hän on jäänyt asianmukaisista toimenpiteistä huolimatta tavoittamatta, eikä asian ratkaisemista tulisi enää viivyttää.
 
-Edellä 2 momentissa mainittu henkilö saa kieltäytyä vastaamasta myös kysymykseen, kuka on laatinut yleisön saataville toimitetun viestin, samoin kuin kysymykseen, johon ei voi vastata paljastamatta viestin laatijan henkilöllisyyttä.
-
-Milloin 2 tai 3 momentissa tarkoitettu asia koskee rikosta, mistä saattaa seurata vankeutta kuusi vuotta tai ankarampi rangaistus, taikka sanotunlaisen rikoksen yritystä tai osallisuutta siihen, taikka tietoa, joka on annettu vastoin sellaista salassapitovelvollisuutta, jonka rikkomisesta on erikseen säädetty rangaistus, voidaan sanotussa momentissa mainittu henkilö kuitenkin velvoittaa vastaamaan siinä tarkoitettuun kysymykseen.
+Seuraavien esitutkinnassa videotallenteeseen tai siihen rinnastettavaan muuhun kuva- ja äänitallenteeseen tallennettua kuulustelua voidaan kuitenkin käyttää todisteena, jos syytetylle on varattu asianmukainen mahdollisuus esittää kuulusteltavalle kysymyksiä:
+1) henkilö, joka ei ole täyttänyt 15 vuotta tai jonka henkinen toiminta on häiriintynyt;
+2) 15–17-vuotias asianomistaja, joka on erityisen suojelun tarpeessa ottaen huomioon etenkin hänen henkilökohtaiset olosuhteensa ja rikoksen laatu;
+3) rikoslain 20 luvun 1, 2, 4, 5, 6 tai 7 §:ssä tarkoitetun seksuaalirikoksen 15–17-vuotias asianomistaja, joka ei halua tulla oikeudenkäyntiin kuultavaksi;
+4) rikoslain 20 luvun 1, 2, 4, 5, 6 tai 7 §:ssä tarkoitetun seksuaalirikoksen 18 vuotta täyttänyt asianomistaja, jos kuuleminen oikeudenkäynnissä vaarantaisi hänen terveytensä tai aiheuttaisi muuta vastaavaa merkittävää haittaa.

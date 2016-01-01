@@ -1,7 +1,6 @@
 # 20 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Todistaja ei saa kieltäytyä todistamasta. Vastoin tahtoansa älköön kuitenkaan todistamaan vaadittako:
-1) sitä, joka on tai on ollut avioliitossa tahi on kihloissa jommankumman asianosaisen kanssa
-2) sitä, joka on asianosaisen suoraan etenevässä tai takenevassa polvessa oleva sukulainen tahi joka on tai on ollut naimisissa asianosaiseen sanotunlaisessa sukulaisuussuhteessa olevan henkilön kanssa; eikä
-3) asianosaisen sisaruksia tai näiden aviopuolisoita tahi asianosaisen ottovanhempia tai ottolapsia.
+Sananvapauden käyttämisestä joukkoviestinnässä annetussa laissa (460/2003) tarkoitettu yleisön saataville toimitetun viestin laatija taikka julkaisija tai ohjelmatoiminnan harjoittaja saa kieltäytyä todistamasta siitä, kuka on antanut viestin perusteena olevat tiedot tai laatinut yleisön saataville toimitetun viestin.
+
+Tuomioistuin voi velvoittaa 1 momentissa tarkoitetun henkilön todistamaan, jos syyttäjä ajaa syytettä rikoksesta, josta säädetty ankarin rangaistus on vähintään kuusi vuotta vankeutta tai joka koskee salassapitovelvollisuuden rikkomista rangaistavaksi säädetyllä tavalla.

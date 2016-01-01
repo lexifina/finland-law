@@ -1,8 +1,6 @@
 # 17 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Joka on velvoitettu tuomaan asiakirjan oikeuteen ja tuomittu tällaisen velvoituksen laiminlyömisestä uhkasakkoon, olkoon oikeutettu siitä erikseen valittamaan.
+Asianosaisen nykyinen tai entinen aviopuoliso taikka nykyinen avopuoliso, sisarus, sukulainen suoraan ylenevässä tai alenevassa polvessa taikka se, jolla on vastaavanlainen parisuhteeseen tai sukulaisuuteen rinnastuva läheinen suhde asianosaiseen, saa kieltäytyä todistamasta.
 
-Joka ei tyydy oikeuden päätökseen, joka koskee korvausta asiakirjan tuomisesta oikeuteen, voi niin ikään hakea siihen muutosta valittamalla.
-
-Valitus älköön estäkö panemasta päätöstä täytäntöön, ellei oikeus, joka sen on antanut, harkitse olevan erityistä aihetta täytäntöönpanon tuonnemmaksi lykkäämiseen tahi valitustuomioistuin sitä määrää.
+Jos 1 momentissa tarkoitettu henkilö suostuu todistamaan tuomioistuimessa, suostumusta ei voida peruuttaa, ellei muusta tässä luvussa säädetystä salassapitovelvollisuudesta tai vaitiolo-oikeudesta muuta johdu.

@@ -1,5 +1,5 @@
 # 6 §
-Luku: 18 LUKU Samassa oikeudenkäynnissa käsiteltävistä kanteista ja väliintulosta riita- asiassa
+Luku: 18 LUKU Samassa oikeudenkäynnissä käsiteltävistä kanteista ja väliintulosta riita-asiassa
 
 Samojen tai eri asianosaisten väliset asiat voidaan myös muissa kuin edellä mainituissa tapauksissa käsitellä samassa oikeudenkäynnissä, jos se edistää asioiden selvittämistä.
 

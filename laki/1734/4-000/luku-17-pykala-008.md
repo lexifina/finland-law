@@ -1,4 +1,9 @@
 # 8 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Asianosaisten on hankittava asiassa tarpeelliset todisteet. Tuomioistuin saa myös, milloin tarpeelliseksi harkitaan, omasta aloitteestaan päättää hankittavaksi todisteita. Se ei kuitenkaan saa vastoin asianosaisten yhteistä tahtoa omasta aloitteestaan määrätä uutta todistajaa kuulusteltavaksi tai asiakirjaa esitettäväksi, jos asiassa on sovinto sallittu tai jos asianomistaja vaatii rangaistusta asianomistajarikoksesta, mistä ei ole säädetty muuta tai kovempaa rangaistusta kuin sakkoa tai enintään neljä vuotta vankeutta.
+Tuomioistuimen on evättävä näyttö, joka:
+1) koskee asiaan vaikuttamatonta seikkaa;
+2) on muuten tarpeeton;
+3) voidaan korvata olennaisesti vähemmällä kustannuksella tai vaivalla saatavissa olevalla todisteella;
+4) voidaan korvata olennaisesti luotettavammalla todisteella; tai
+5) on asianmukaisista toimenpiteistä huolimatta jäänyt tavoittamattomiin, eikä asian ratkaisemista tule enää viivyttää.

@@ -1,6 +1,11 @@
 # 51 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Mitä 26 a, 31, 33, 34, 34 a ja 41 §:ssä säädetään, on soveltuvin osin voimassa myös asiantuntijasta.
+Todistelutarkoituksessa kuultavaa asianosaista sekä todistajaa ja asiantuntijaa voidaan kuulla pääkäsittelyssä näkösuojan takaa taikka asianosaisen tai muun henkilön läsnä olematta, jos tuomioistuin harkitsee tämän soveliaaksi ja menettely on tarpeen:
+1) kuultavan taikka tällaiseen henkilöön 17 §:n 1 momentissa tarkoitetussa suhteessa olevan henkilön suojaamiseksi henkeen tai terveyteen kohdistuvalta uhalta;
+2) jos kuultava muuten jättäisi ilmaisematta, mitä asiasta tietää; tai
+3) jos henkilö häiritsee tai koettaa eksyttää kuultavaa tämän puhuessa.
 
-Jos asiantuntija on antanut kirjallisen lausunnon, on se, mikäli ei oikeus erityisistä syistä toisin määrää, joko kokonaan tai osaksi luettava.
+Asianosaisille on varattava tilaisuus esittää kuultavalle kysymyksiä.
+
+Kuultavan kuulemisesta yleisön läsnä olematta säädetään oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetussa laissa.

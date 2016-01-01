@@ -1,12 +1,8 @@
 # 11 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Tuomioistuimessa ei saa, ellei laissa toisin säädetä, käyttää todisteena:
-1) yksityisluontoista kertomusta, jonka joku on vireille pannun tai alkavan oikeudenkäynnin varalta kirjallisesti antanut, ellei tuomioistuin sitä erityisestä syystä salli; eikä
-2) esitutkintapöytäkirjaan tai muulle asiakirjalle merkittyä tai muulla tavalla tallennettua lausumaa.
+Tuomioistuimen päätösneuvottelun sisällöstä ei saa todistaa.
 
-Jos henkilön, joka ei ole täyttänyt 15 vuotta tai jonka henkinen toiminta on häiriintynyt, esitutkinnassa antama kertomus on tallennettu videotallenteeseen tai siihen rinnastettavaan muuhun kuva- ja äänitallenteeseen, kertomusta saadaan kuitenkin käyttää tuomioistuimessa todisteena, jos syytetylle on varattu mahdollisuus esittää kuulusteltavalle kysymyksiä. Tällaisen henkilön kuulemisesta todistajana tai todistelutarkoituksessa säädetään 21 §:ssä.
+Riita-asioiden sovittelusta ja sovinnon vahvistamisesta yleisissä tuomioistuimissa annetussa laissa (394/2011) tarkoitettu sovittelija ei saa riita-asiassa todistaa siitä, mitä hän tehtävässään on saanut tietää soviteltavasta asiasta, elleivät erittäin tärkeät syyt ottaen huomioon asian laatu, todisteen merkitys asian ratkaisemisen kannalta ja seuraukset sen esittämisestä sekä muut olosuhteet vaadi todistamista tai se, jonka hyväksi vaitiolovelvollisuus on säädetty, todistamiseen suostu.
 
-Jos todistajaa ei voida kuulustella pääkäsittelyssä tai pääkäsittelyn ulkopuolella, tuomioistuin voi sallia, että 1 momentin 2 kohdassa tarkoitettu asiakirja tai lausuma voidaan ottaa oikeudenkäynnissä huomioon.
-
-Kiistäessään 5 luvun 14 §:ssä tarkoitetun kantajan juoksevaan velkakirjaan, vekseliin tai shekkiin perustuvan vaatimuksen vastaaja saa toimittaa tuomioistuimelle vastauksensa yhteydessä kiistämisensä todennäköisten syiden tueksi 1 momentissa tarkoitetun yksityisluontoisen kirjallisen kertomuksen.
+Rikosasioiden ja eräiden riita-asioiden sovittelusta annetussa laissa (1015/2005) tarkoitettu sovittelija ei saa todistaa siitä, mitä hän tehtävässään on saanut tietää soviteltavasta asiasta, elleivät erittäin tärkeät syyt ottaen huomioon asian laatu, todisteen merkitys asian ratkaisemisen kannalta ja seuraukset sen esittämisestä sekä muut olosuhteet vaadi todistamista tai se, jonka hyväksi vaitiolovelvollisuus on säädetty, todistamiseen suostu.

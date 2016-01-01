@@ -1,8 +1,6 @@
 # 15 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Tuomioistuin voi päättää, että asiakirja otetaan vastaan pääkäsittelyn ulkopuolella, jos sitä ei voida esittää pääkäsittelyssä tai sen esittäminen pääkäsittelyssä todisteen merkitykseen verrattuna aiheuttaisi kohtuuttomia kustannuksia tai kohtuutonta haittaa. Jos asian selvittämiseksi on erityisen tärkeää, asiaa saadaan tällöin käsitellä myös muilta osin.
+Sen estämättä, mitä 11 §:n 2 ja 3 momentissa, 12 §:n 1 momentissa taikka 13 tai 14 §:ssä säädetään, tuomioistuin voi velvoittaa lainkohdassa tarkoitetun henkilön todistamaan, jos se, jonka hyväksi salassapitovelvollisuus on säädetty, on kuollut ja jos erittäin tärkeät syyt ottaen huomioon asian laatu, todisteen merkitys asian ratkaisemisen kannalta ja seuraukset sen esittämisestä sekä muut olosuhteet sitä vaativat.
 
-Kun oikeus on velvoittanut jonkun tuomaan oikeuteen asiakirjan, esittäköön hän sen alkuperäisenä tai oikeaksi todistettuna jäljennöksenä, mutta olkoon kuitenkin velvollinen näyttämään alkuperäisen asiakirjan, milloin oikeus katsoo sen tarpeelliseksi. Jos alkuperäisenä esitettävän asiakirjan oikeuteen tuominen on erityisen hankalaa, saa asiakirjan esiintuoda siinä alioikeudessa, missä se soveliaimmin käy päinsä.
-
-Oikeus saa myöskin, jos katsoo tarpeelliseksi, uhkasakolla velvoittaa sen, jonka on esiintuotava asiakirja, täyttämään velvollisuutensa tai määrätä, että se on ulosottomiehen toimesta oikeuteen tuotava.
+Sen estämättä, mitä edellä 13 tai 14 §:ssä säädetään, mainituissa pykälissä tarkoitettu henkilö saa todistaa siltä osin kuin tiedon ilmaiseminen on välttämätöntä puolustuksen järjestämiseksi häntä tai häneen 22 §:n 2 momentissa tarkoitetussa suhteessa olevaa henkilöä vastaan esitetyn rangaistusvaatimuksen tai muun rikokseen perustuvan vaatimuksen vuoksi taikka hänelle tai häneen 22 §:n 2 momentissa tarkoitetussa suhteessa olevalle henkilölle asianomistajana kuuluvien oikeuksien käyttämiseksi.

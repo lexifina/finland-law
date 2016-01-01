@@ -1,4 +1,4 @@
 # 19 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Jos tuomari nimetään todistajaksi, harkitkoon hän tuomarinvalallaan, tietääkö hän jotakin asiaan vaikuttavaa. Jos hän havaitsee niin olevan, kuulusteltakoon häntä todistajana. Jos syyttäjä nimetään todistamaan, harkitkoon oikeus, onko se totuuden ilmisaamiseksi tarpeen, ja luopukoon hän silloin asiasta.
+Liike- tai ammattisalaisuudesta saa kieltäytyä todistamasta, jolleivät erittäin tärkeät syyt ottaen huomioon asian laatu, todisteen merkitys asian ratkaisemisen kannalta ja seuraukset sen esittämisestä sekä muut olosuhteet vaadi todistamista.

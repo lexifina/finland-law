@@ -1,10 +1,6 @@
 # 49 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Asiantuntijan, jota kuullaan henkilökohtaisesti tuomioistuimessa, on valintansa mukaan joko vannottava asiantuntijan vala tai annettava vakuutus. Asiantuntija, joka ei kuulu mihinkään uskontokuntaan, antaa kuitenkin aina vakuutuksen.
+Todistajan ja asiantuntijan kuulustelu toimitetaan siten kuin 2 momentissa sekä 48 §:n 3–6 momentissa säädetään. Tarvittaessa voidaan kuitenkin poiketa 2 momentissa ja 48 §:n 3 ja 4 momentissa säädetystä. Asianomistajaa, jolla ei ole asiassa vaatimuksia, kuullaan kuitenkin 48 §:n mukaisesti.
 
-Vala vannotaan seuraavan kaavan mukaan: Minä N. N. lupaan ja vannon kaikkivaltiaan ja kaikkitietävän Jumalan kautta, että olen parhaan ymmärrykseni mukaan täyttävä minulle annetun tehtävän.
-
-Vakuutus annetaan noudattaen soveltuvin osin valan kaavaa.
-
-Asiantuntija vannoo valan tai antaa vakuutuksen ennen kuin häntä kuullaan suullisesti tuomioistuimessa. Jos hän on antanut lausunnon jo kirjallisena etukäteen, valan tai vakuutuksen kaava on tällöin sovitettava sen mukaan. Julkisen viran, toimen tai tehtävän nojalla asiantuntijana toimivalta ei vaadita valaa tai vakuutusta.
+Pääkuulustelusta huolehtii se osapuoli, joka on nimennyt kuultavan. Jos kuultavan on nimennyt tuomioistuin tai jos kuultava on molemman osapuolen nimeämä, tuomioistuin päättää, kumpi osapuolista huolehtii pääkuulustelusta, jollei soveliaimmaksi ole katsottava, että tuomioistuin huolehtii siitä.

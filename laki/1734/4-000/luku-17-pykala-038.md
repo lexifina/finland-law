@@ -1,6 +1,7 @@
 # 38 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
+Väliotsikko: Asiakirjat ja katselmuskohteet
 
-Todistajaan, josta mainitaan 30 §:n 1 ja 2 kohdassa, älköön sovellettako 36 ja 37 §:n määräyksiä. Sellainen todistaja saadaan kuitenkin noutaa oikeuteen.
+Näyttönä tuomioistuimelle voidaan esittää esine tai asiakirja. Tuomioistuin voi näytön hankkimiseksi toimittaa sellaisen esineen, jota ei voida hankaluudetta tuoda tuomioistuimeen, tai kiinteän omaisuuden tai paikan taikka muun kohteen katselmuksen.
 
-Milloin se, joka on nimennyt todistajan, luopuu hänen kuulustelemisestaan tai sitä koskeva kysymys muuten raukeaa, ei todistajalle 36 ja 37 §:n nojalla saa tuomita uhkasakkoa eikä häntä vastaan saa käyttää pakkokeinoja.
+Edellä 1 momentissa tarkoitettua näyttöä voidaan esittää tai hankkia siitä huolimatta, että asiakirjasta taikka esineestä tai muusta katselmuskohteesta ilmenee salassa pidettävää tai vaitiolo-oikeuden alaista tietoa, jos todistetta voidaan ilman kohtuutonta haittaa käsitellä niin, ettei tällainen tieto tule ilmi.

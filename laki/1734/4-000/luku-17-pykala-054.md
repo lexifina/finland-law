@@ -1,6 +1,4 @@
 # 54 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Päätökseen, jolla asiantuntija on tuomittu uhkasakkoon tai korvausvelvolliseksi taikka joka koskee asiantuntijalle tulevaa korvausta, saa hakea muutosta valittamalla.
-
-Valituksen vaikutuksesta päätöksen täytäntöönpanoon olkoon voimassa, mitä 17 §:n 3 momentissa on säädetty.
+Asiantuntijalausunto, asiakirja, katselmuskohde sekä 24 §:ssä tai 47 §:n 2 momentissa tarkoitettu kertomus tai lausuma on pääkäsittelyssä esiteltävä tarpeellisilta osiltaan.

@@ -1,9 +1,11 @@
 # 61 §
-Luku: 17 LUKU Todistelusta
-Väliotsikko: Asianosaisen kuulustelu
+Luku: 17 luku Todistelusta
+Väliotsikko: Todistelu vastaisuuden varalta
 
-Asianosaista voidaan kuulustella todistelutarkoituksessa. Sellaisessa kuulustelussa noudatetaan soveltuvin osin, mitä todistajan kuulustelusta 33 ja 41 §:ssä säädetään.
+Asianomaisen henkilön hakemuksesta käräjäoikeudessa kuullaan todistajaa tai asiantuntijaa taikka esitetään asiakirja tai esine taikka toimitetaan katselmus riita-asiassa, josta oikeudenkäynti ei vielä ole vireillä, jos hakijan oikeus saattaa olla todisteen vastaanottamisen tai katselmuksen toimittamisen varassa. Edellytyksenä on lisäksi vaara, että todistajaa tai asiantuntijaa voidaan vain vaikeuksin kuulla myöhemmin tai että muu todiste häviää tai että se voidaan vain vaikeuksin esittää myöhemmin taikka että katselmus voidaan vain vaikeuksin toimittaa myöhemmin.
 
-Asianosaista voidaan riita-asiassa 1 momentissa mainitussa tarkoituksessa kuulustella myös totuusvakuutuksen nojalla sellaisista seikoista, joilla on erityistä merkitystä ratkaistaessa asiaa.
+Jos toisen henkilön oikeus on todistelun varassa, voidaan hänet tarvittaessa kutsua käsittelyyn.
 
-Niin ikään voidaan asianomistajaa kuulustella totuusvakuutuksen nojalla siitä, mitä ja minkä verran hän on rikoksen johdosta kärsinyt vahinkoa.
+Todiste otetaan vastaan kuultavan taikka asiakirjan tai esineen haltijan yleisessä oikeuspaikassa taikka siinä käräjäoikeudessa, johon mainittu henkilö suostuu saapumaan.
+
+Hakija vastaa tässä pykälässä tarkoitetusta todistelusta aiheutuvista kuluista.

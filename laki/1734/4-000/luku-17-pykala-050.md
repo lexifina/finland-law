@@ -1,6 +1,6 @@
 # 50 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Asiantuntijan tulee antaa tarkka selonteko siitä, mitä hän tutkimuksessaan on havainnut, sekä tähän nojautuva perusteltu lausunto hänelle esitetystä kysymyksestä. Lausunto on laadittava kirjallisesti, jollei tuomioistuin katso olevan syytä sallia, että se annetaan suullisesti. Milloin asiantuntijana käytetään muuta henkilöä kuin julkisen viran nojalla tai toimen nojalla sen haltijaa, tuomioistuimen on määrättävä aika, jonka kuluessa lausunto on annettava.
+Jos asiassa kuullaan useita henkilöitä todistelutarkoituksessa, kuulustellaan heidät kukin erikseen. Heitä saadaan kuitenkin kuulustella vastakkain, jos kertomukset tai lausunnot ovat epäselvät tai ristiriitaiset taikka se on muuten tarpeen.
 
-Asiantuntijaa, joka on antanut lausuntonsa kirjallisena, on kuultava tuomioistuimessa suullisesti, jos asianosainen sitä vaatii eikä hänen kuulemisensa ole ilmeisesti merkityksetöntä, taikka jos tuomioistuin pitää asiantuntijan kuulemista tarpeellisena. Jos asiantuntijoita on useampia, voidaan yksi tai useampi heistä kutsua kuultavaksi.
+Henkilö, joka on nimetty todistajaksi tai asiantuntijaksi, ei saa olla läsnä asian käsittelyssä enempää kuin hänen kuulustelemisensa vaatii. Tuomioistuin voi kuitenkin tarvittaessa sallia, että asiantuntija on läsnä asian käsittelyn muissa osissa. Tuomioistuin voi tarvittaessa myös sallia, että asianomistaja, jolla ei ole asiassa vaatimuksia, on läsnä asian käsittelyssä ennen kuin häntä kuullaan todistelutarkoituksessa. Tällainen asianomistaja saa olla läsnä kuulustelunsa jälkeen.

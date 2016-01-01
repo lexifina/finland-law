@@ -1,4 +1,8 @@
 # 5 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Jos asianosainen oikeuden määräyksestä huolimatta ilman pätevää syytä jää oikeuteen saapumatta tai muutoin jättää jotakin oikeudenkäynnissä täyttämättä tahi vastaamatta asian selvittämistä tarkoittavaan kysymykseen, harkitkoon oikeus, huomioon ottaen kaikki asiassa ilmenneet seikat, mikä vaikutus asianosaisen menettelyllä todisteena on oleva.
+Yleisesti tunnetusta seikasta näyttö ei ole tarpeen.
+
+Riita-asiassa, jossa sovinto on sallittu, näyttö ei myöskään ole tarpeen asianosaisen tunnustamasta seikasta tai seikasta, josta asianosaiset ovat yksimielisiä.
+
+Jos tunnustus on annettu riita-asiassa, jossa sovinto ei ole sallittu, tai rikosasiassa taikka jos asianosainen peruuttaa 2 momentissa tarkoitetun tunnustuksensa, tuomioistuin harkitsee, mikä vaikutus tunnustuksella tai tunnustuksen peruuttamisella on todisteena.

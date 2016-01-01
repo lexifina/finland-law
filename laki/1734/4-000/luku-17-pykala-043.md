@@ -1,8 +1,9 @@
 # 43 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
+Väliotsikko: Todistelumenettely pääkäsittelyssä
 
-Milloin lain mukaan oikeustoimi on päätettävä esteettömäin todistajain läsnä ollessa tai esteettömän todistajan on toimituksessa oltava läsnä, olkoon, mikäli erikseen ei ole toisin säädetty, sellaiseksi todistajaksi esteellinen:
-1) se, joka 30 §:n mukaan ei saa vannoa todistajanvalaa;
-2) se, joka itse on toimituksessa asianosainen tai jonka oikeutta toimitus koskee tahi joka itse on oikeustoimeen osallinen taikka jonka hyväksi oikeustoimi tehdään;
-3) se, joka on 20 §:ssä tarkoitetussa suhteessa henkilöön, joka toimituksessa on asianosainen tai jonka oikeutta toimitus koskee tahi joka on oikeustoimeen osallinen tai jonka hyväksi oikeustoimi tehdään; taikka
-4) se, joka on 20 §:ssä tarkoitetussa suhteessa siihen, jonka tehtäviin toimitus kuuluu, tai notaarin tahi viran tai toimen haltijaan, jota käytetään oikeustoimen tekemisessä.
+Ennen todistajan tai asiantuntijan kuulemista tuomioistuimen puheenjohtajan on kysyttävä kuultavalta hänen nimeään ja tarvittaessa varmistauduttava hänen henkilöllisyydestään. Tarvittaessa puheenjohtajan on tiedusteltava, onko estettä antaa vakuutusta ja onko kuultavalla velvollisuus tai oikeus kieltäytyä todistamasta. Puheenjohtajan on tarvittaessa tiedusteltava kuultavan uskottavuuteen vaikuttavia seikkoja.
+
+Jos todistajalla tai asiantuntijalla on oikeus kieltäytyä todistamasta, puheenjohtajan on ilmoittava se kuultavalle ja kerrottava, että jollei hän tahdo käyttää hyväkseen tätä etua, hänellä on sama totuusvelvollisuus kuin muillakin todistajilla tai asiantuntijoilla. Puheenjohtajan on lisäksi tarvittaessa muutoinkin selostettava kuultavaa koskevan vaitiolovelvollisuuden tai vaitiolo-oikeuden sisältö.
+
+Anonyymillä todistajalla ei ole velvollisuutta ilmoittaa henkilöllisyyttään.

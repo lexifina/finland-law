@@ -1,10 +1,9 @@
 # 36 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Jos todistaja jää pois ilman laillista estettä tai poistuu luvatta, todistaja tuomitaan asetettuun uhkasakkoon ja tuomioistuin voi määrätä todistajan tuotavaksi heti tuomioistuimeen, jollei asian käsittelyä päätetä jatkaa myöhemmin. Jos asian käsittelyä päätetään jatkaa toisessa istunnossa, on asetettava korkeampi uhkasakko tai, jos aihetta on, määrättävä hänet tuotavaksi. Tuotavaksi määrätty todistaja saadaan ottaa säilöön. Vapaudenmenetys tässä momentissa tarkoitetusta syystä saa kuljetusaikoineen kestää enintään viisi vuorokautta. Vapaudenmenetys ei saa kuitenkaan kestää pitempään kuin oikeudenkäynnin järjestämisen turvaamiseksi on välttämätöntä.
+Asiantuntija antaa lausuntonsa kirjallisesti.
 
-Jos todistajan tai muun todistelutarkoituksessa henkilökohtaisesti kuultavan käyttäytymisen perusteella on aihetta olettaa, ettei hän tule noudattamaan kutsua saapua tuomioistuimeen, tuomioistuin voi määrätä hänet tuotavaksi istuntoon.
-
-Kun 1 tai 2 momentissa tarkoitettu henkilö on tuotu tuomioistuimeen, asetettua uhka-sakkoa ei saa tuomita.
-
-Oikeuteen tämän pykälän nojalla tuotavaksi määrätty henkilö vastaa tuomisesta aiheutuneista kustannuksista.
+Asiantuntijaa on kuultava tuomioistuimessa suullisesti, jos:
+1) se on tarpeen asiantuntijan lausunnon epäselvyyksien, puutteellisuuksien tai ristiriitaisuuksien poistamiseksi;
+2) tuomioistuin katsoo sen muusta syystä tarpeelliseksi; tai
+3) asianosainen sitä pyytää eikä kuuleminen ole ilmeisesti merkityksetöntä.

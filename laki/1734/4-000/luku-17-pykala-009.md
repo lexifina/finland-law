@@ -1,8 +1,8 @@
 # 9 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Asianosaisen esteetön poissaolo riita-asiassa ei estä todisteiden esittämistä. Rikosasiassa todiste voidaan ottaa vastaan vastaajan esteettömästä poissaolosta huolimatta ainoastaan, jos tuomioistuin harkitsee sen soveliaaksi.
+Jokaisella on velvollisuus saapua tuomioistuimeen kuultavaksi todistelutarkoituksessa sekä luovuttaa esine tai asiakirja tuomioistuimelle todisteeksi taikka sallia katselmuksen toimittaminen, jollei laissa toisin säädetä. Velvollisuudesta toimia asiantuntijana säädetään erikseen.
 
-Silloin, kun todiste on otettu vastaan asianosaisen poissa ollessa, todiste on asianosaisen saapuvilla ollessa otettava vastaan uudelleen, jollei sen vastaanottamiselle ole estettä ja jollei 7 §:stä tai oikeudenkäynnistä rikosasioissa annetun lain 6 luvun 3 a §:stä muuta johdu. Jos todistetta ei oteta vastaan uudelleen, tuomioistuimen on tehtävä siitä selko asiassa kertyneen oikeudenkäyntiaineiston perusteella.
+Sillä, jolla on tuomioistuimessa kuulusteltaessa asianosaisena todistelutarkoituksessa, todistajana tai asiantuntijana velvollisuus tai oikeus kieltäytyä todistamasta, ei ole velvollisuutta luovuttaa esinettä tai asiakirjaa käytettäväksi todisteena taikka sallia katselmuksen toimittamista näytön hankkimiseksi salassa pidettävästä tai vaitiolo-oikeuden alaisesta tiedosta. Rikosasian vastaaja ja häneen 17 §:n 1 momentissa tarkoitetussa suhteessa oleva henkilö on kuitenkin velvollinen sallimaan katselmuksen toimittamisen.
 
-Saapuvilla olevalle asianosaiselle on suotava tilaisuus lausua mielensä jokaisesta tuomioistuimessa esitetystä todisteesta.
+Jäljempänä tässä luvussa säädetty velvollisuus tai oikeus kieltäytyä todistamasta ei koske tietoa, jonka oikeudettomasta hankkimisesta, paljastamisesta tai käyttämisestä syyttäjä ajaa syytettä.

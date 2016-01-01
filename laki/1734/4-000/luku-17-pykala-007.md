@@ -1,4 +1,4 @@
 # 7 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Jos todiste, jonka asianosainen tahtoo esittää, koskee seikkaa, joka on asiaan vaikuttamaton tai selvitetty, tahi jos näyttö on huomattavasti vähemmällä vaivalla tai kustannuksella saatavissa toisella tavoin, älköön oikeus salliko todisteen esittämistä.
+Asianosaisten on hankittava asiassa tarpeelliset todisteet. Tuomioistuin saa omasta aloitteestaan päättää hankittavaksi todisteita riita-asiassa, jossa sovinto ei ole sallittu. Rikosasiassa tuomioistuin saa hankkia näyttöä, jos se todennäköisesti ei tue syytettä. Tuomioistuimella on kuitenkin asian laadusta riippumatta oikeus hankkia omasta aloitteestaan asiantuntijalausunto.

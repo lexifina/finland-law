@@ -1,4 +1,8 @@
 # 27 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Oikeudella on valta määrätä, että todistajana kuulusteltavan on, palauttaakseen mieleensä kuulusteltavina olevat seikat, ennen saapumistaan todistamaan tarkastettava hänen saatavinaan olevia tilikirjoja, muistiinpanoja tai muita asiakirjoja tahi katsastettava paikka tai esinettä, mikäli se on mahdollista tuottamatta todistajalle huomattavaa haittaa.
+Asianosaista, joka ei ole täyttänyt 15 vuotta tai jonka henkinen toiminta on häiriintynyt, voidaan kuulustella todistelutarkoituksessa, jos tuomioistuin harkitsee tämän soveliaaksi ja jos:
+1) henkilökohtaisella kuulemisella on asian selvittämiseksi keskeinen merkitys; ja
+2) kuuleminen ei todennäköisesti aiheuta kuultavalle sellaista kärsimystä tai muuta haittaa, joka voi vahingoittaa häntä tai hänen kehitystään.
+
+Tuomioistuimen on tarvittaessa määrättävä kuultavalle tukihenkilö. Tukihenkilöön sovelletaan, mitä oikeudenkäynnistä rikosasioissa annetun lain 2 luvussa säädetään asianomistajalle määrättävästä tukihenkilöstä.

@@ -1,6 +1,6 @@
 # 16 §
-Luku: 17 LUKU Todistelusta
+Luku: 17 luku Todistelusta
 
-Kun joku muu kuin asianosainen on velvoitettu tuomaan oikeuteen asiakirjan, saakoon hän vaivoistaan ja kuluistaan kohtuullisen korvauksen, mikä yksityisen asianosaisen vaatiessa asiakirjaa esitettäväksi tai siihen nojautuessa on tämän maksettava, mutta muutoin valtion varoista suoritettava.
+Uskonnonvapauslaissa (453/2003) tarkoitetun rekisteröidyn uskonnollisen yhdyskunnan pappi tai muu vastaavassa asemassa oleva henkilö ei saa todistaa siitä, mitä hän on ripissä tai yksityisessä sielunhoidossa saanut tietää, ellei se, jonka hyväksi salassapitovelvollisuus on säädetty, suostu todistamiseen.
 
-Valtion varoista suoritetun korvauksen maksamisesta takaisin valtiolle on soveltuvin osin voimassa, mitä 21 luvun 13 §:ssä ja oikeudenkäynnistä rikosasioissa annetun lain 9 luvun 1 §:ssä säädetään.
+Vaitiolovelvollisuudesta Suomen evankelis-luterilaisessa kirkossa ja Suomen ortodoksisessa kirkossa säädetään kuitenkin erikseen.
