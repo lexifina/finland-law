@@ -19,3 +19,9 @@ Luonnollisen henkilön tai kuolinpesän muusta kuin julkisesti noteeratusta yhti
 Peitellystä osingosta on 75 prosenttia veronalaista tuloa.
 
 Tuloverolain 33 a §:n 3 momentissa ja 33 b §:n 6 momentissa tarkoitettuun osinkona pidettävään vapaan oman pääoman rahastosta saatuun varojenjakoon sovelletaan tämän lain 6 c §:ssä säädetyin poikkeuksin, mitä tässä pykälässä säädetään.
+
+Poiketen siitä, mitä edellä tässä pykälässä yhteisön saamasta osingosta säädetään, osinko on veronalaista tuloa siltä osin kuin:
+1) se on osinkoa jakavan yhteisön verotuksessa vähennyskelpoinen; tai
+2) kyse on sellaisesta järjestelystä tai järjestelyjen sarjasta, jonka päätarkoituksena tai yhtenä keskeisenä tarkoituksena on pykälän tavoitteen tai tarkoituksen vastaisen veroedun saavuttaminen ja joka ei ole aito kaikki asiaan liittyvät tosiseikat ja olosuhteet huomioon ottaen.
+
+Edellä 9 momentin 2 kohdassa tarkoitettua järjestelyä tai järjestelyjen sarjaa pidetään epäaitona siltä osin kuin se ei perustu päteviin liiketaloudellisiin syihin, jotka vastaavat asian todellista taloudellista luonnetta. Mitä mainitussa lainkohdassa säädetään, ei estä sellaisten muiden säännösten tai sopimusmääräysten soveltamista, joiden tavoitteena on veron välttämisen, veropetosten tai väärinkäytösten estäminen.
