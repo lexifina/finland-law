@@ -1,0 +1,2 @@
+Laki kotitaloustyöntekijöiden ihmisarvoista työtä koskevan Kansainvälisen työjärjestön vuoden 2011 yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
