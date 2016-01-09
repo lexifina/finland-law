@@ -2,3 +2,5 @@
 Luku: 3 luku Kuluttajariita-asian käsittely ja ratkaiseminen
 
 Kuluttajariita-asiassa annettu lautakunnan päätös ei ole täytäntöönpanokelpoinen, eikä sillä ole tuomion oikeusvaikutuksia. Päätökseen ei saa hakea muutosta valittamalla. Lautakuntakäsittely ei estä asian viemistä yleisen tuomioistuimen käsiteltäväksi.
+
+Ilmoittaessaan osapuolille ratkaisustaan lautakunnan on samalla mainittava 1 momentin mukaisesta valituskiellosta sekä siitä, että lautakunnan ratkaisut ovat suosituksia.
