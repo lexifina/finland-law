@@ -1,0 +1,2 @@
+Laki muussa kuin viranomaisessa tapahtuvasta kuluttajariitojen ratkaisemisesta
+Eduskunnan päätöksen mukaisesti säädetään:
