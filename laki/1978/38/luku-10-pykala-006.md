@@ -1,0 +1,6 @@
+# 6 § Sopimuksen muoto ja kieli
+Luku: 10 luku Aikaosuudet ja pitkäkestoiset lomatuotteet
+
+Sopimus on tehtävä kirjallisesti, ja osapuolten on se allekirjoitettava. Kuluttajalle on annettava kappale sopimusta. Sopimus voidaan tehdä myös sähköisesti siten, että kuluttaja voi tallentaa ja toisintaa sopimuksen muuttumattomana. Sopimuksen sähköiseen allekirjoittamiseen sovelletaan, mitä vahvasta sähköisestä tunnistamisesta ja sähköisistä allekirjoituksista annetussa laissa (617/2009) säädetään. Pääsopimukseen mahdollisesti liittyvän luottosopimuksen muodosta ja sisällöstä säädetään tämän lain 7 luvussa.
+
+Sopimus on kuluttajan valinnan mukaan laadittava joko hänen asuinpaikkavaltionsa tai kansalaisuusvaltionsa kielellä, jos kysymyksessä on ETA-valtio ja valittu kieli on Euroopan unionin virallinen kieli taikka norja tai islanti. Jos kiinteistö, jota sopimus koskee, sijaitsee muussa ETA-valtiossa kuin siinä, jonka kielellä sopimus laaditaan, elinkeinonharjoittajan on lisäksi annettava kuluttajalle oikeaksi todistettu käännös sopimuksesta kiinteistön sijaintivaltion kielellä. Jos sopimus tehdään Suomessa toimivan elinkeinonharjoittajan kanssa muulla kielellä kuin suomeksi tai ruotsiksi, elinkeinonharjoittajan on kuluttajan pyynnöstä ja valinnan mukaan annettava kuluttajalle suomen- tai ruotsinkielinen käännös sopimuksesta.

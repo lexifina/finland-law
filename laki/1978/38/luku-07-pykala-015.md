@@ -1,0 +1,8 @@
+# 15 § Luotonhakijan henkilöllisyyden todentaminen
+Luku: 7 luku Kuluttajaluotot
+
+Luotonantajan on ennen kuluttajaluottosopimuksen päättämistä todennettava luottoa hakevan henkilöllisyys huolellisesti. Jos henkilöllisyys todennetaan sähköisesti, luotonantajan on käytettävä tunnistusmenetelmää, joka täyttää vahvasta sähköisestä tunnistamisesta ja sähköisistä allekirjoituksista annetun lain (617/2009) 8 §:ssä säädetyt vaatimukset.
+
+Jos luotonantaja on jo aiemmin todentanut kuluttajan henkilöllisyyden 1 momentissa tarkoitetulla tavalla, kuluttajan henkilöllisyys voidaan todentaa myös hänelle ensitunnistamisen jälkeen luodun henkilökohtaisen tunnisteen avulla.
+
+Asiakkaan tuntemisesta on lisäksi voimassa, mitä rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetussa laissa (503/2008) säädetään.

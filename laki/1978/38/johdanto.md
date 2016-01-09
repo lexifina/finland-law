@@ -1,0 +1,2 @@
+Kuluttajansuojalaki
+Eduskunnan päätöksen mukaisesti säädetään:

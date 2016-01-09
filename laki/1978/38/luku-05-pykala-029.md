@@ -1,0 +1,5 @@
+# 29 § Kauppalain soveltaminen
+Luku: 5 LUKU Kuluttajankauppa
+Väliotsikko: Muut säännökset kuluttajankaupassa
+
+Kauppalain (355/1987) säännöksiä sovelletaan tässä luvussa tarkoitettuun kauppaan siltä osin kuin tämän lain säännöksistä ei johdu muuta. Tässä luvussa tarkoitettuun kauppaan ei kuitenkaan sovelleta, mitä kauppalain 13 §:n 3 momentissa, 15 §:ssä, 20 §:n 2 ja 3 momentissa, 24, 31 ja 35 §:ssä, 39 §:n 2 momentissa, 47 §:ssä, 49 §:n 3 momentissa, 57 §:n 2 momentissa, 58 ja 60 §:ssä, 63 §:n 1 momentissa ja 73 §:n 2 momentissa säädetään. Mitä kauppalain 19 §:n 2 momentissa ja 37 §:n 2 momentissa säädetään, ei sovelleta tämän luvun soveltamisalaan kuuluvaan huutokauppaan. Mitä kauppalain 68 ja 69 §:ssä säädetään myyjän oikeudesta korvaukseen hinnanerosta, ei sovelleta tässä luvussa tarkoitettuun kauppaan. Mitä kauppalain 76 §:n 2 momentissa säädetään, ei sovelleta ostajan ollessa huolenpitovelvollinen. Myyjällä ei kauppalain 75–78 §:n nojalla ole oikeutta suurempaan korvaukseen kuin tämän luvun 28 §:ssä säädetään.
