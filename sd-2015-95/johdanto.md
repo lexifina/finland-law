@@ -1,0 +1,2 @@
+Laki jäänmurtoavustusta koskevasta yhteistyöstä ja vuorovaikutuksesta Itämerellä Venäjän federaation hallituksen kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
