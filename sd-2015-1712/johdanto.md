@@ -1,0 +1,2 @@
+Laki huviveneiden turvallisuudesta ja päästövaatimuksista
+Eduskunnan päätöksen mukaisesti säädetään:
