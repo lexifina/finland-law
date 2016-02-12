@@ -1,0 +1,2 @@
+Laki lapsen oikeuksia koskevan yleissopimuksen valitusmenettelyä koskevan valinnaisen pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
