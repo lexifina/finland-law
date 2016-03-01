@@ -5,7 +5,7 @@ Asianosaisella on esitutkinnan aloittamisen jälkeen oikeus saada tieto esitutki
 
 Asianosaisella ei ole 1 momentissa tarkoitettua oikeutta ennen tutkinnan lopettamista, jos tietojen antamisesta on haittaa asian selvittämiselle.
 
-Asianosaisella ei ole 1 momentissa tarkoitettua oikeutta, jos tiedon antamatta jättäminen on välttämätöntä erittäin tärkeän yleisen tai yksityisen edun turvaamiseksi. Asianosaisella ei ole oikeutta saada tietoa viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 11 §:n 2 momentin 6 a tai 7 kohdassa tarkoitetuista tiedoista.
+Asianosaisella ei ole 1 momentissa tarkoitettua oikeutta, jos tiedon antamatta jättäminen on välttämätöntä erittäin tärkeän yleisen tai yksityisen edun turvaamiseksi. Asianosaisella ei ole oikeutta saada tietoa viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 11 §:n 2 momentin 6 a, 7 tai 7 a kohdassa tarkoitetuista tiedoista.
 
 Kun harkitaan asianosaisen oikeutta saada tietoja tai sen rajoittamista, arvioinnissa on otettava huomioon asianosaisen oikeus puolustautua asianmukaisesti tai muuten asianmukaisesti valvoa oikeuttaan oikeudenkäynnissä.
 
