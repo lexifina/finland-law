@@ -5,8 +5,9 @@ Todistelutarkoituksessa kuultavaa asianosaista sekä todistajaa ja asiantuntijaa
 1) kuultava ei sairauden tai muun syyn vuoksi voi saapua henkilökohtaisesti pääkäsittelyyn;
 2) kuultavan henkilökohtaisesta saapumisesta pääkäsittelyyn aiheutuu todisteen merkitykseen verrattuna huomattavia kustannuksia tai huomattavaa haittaa;
 3) kuultavan kertomuksen uskottavuutta voidaan luotettavasti arvioida ilman hänen henkilökohtaista läsnäoloaan pääkäsittelyssä;
-4) menettely on tarpeen kuultavan taikka tällaiseen henkilöön 17 §:n 1 momentissa tarkoitetussa suhteessa olevan henkilön suojaamiseksi henkeen tai terveyteen kohdistuvalta uhalta; tai
-5) kuultava ei ole täyttänyt 15 vuotta tai hänen henkinen toimintansa on häiriintynyt.
+4) menettely on tarpeen kuultavan taikka tällaiseen henkilöön 17 §:n 1 momentissa tarkoitetussa suhteessa olevan henkilön suojaamiseksi henkeen tai terveyteen kohdistuvalta uhalta;
+5) kuultava ei ole täyttänyt 15 vuotta tai hänen henkinen toimintansa on häiriintynyt; tai
+6) rikosasiassa kuultava on muusta kuin 4 kohdassa tarkoitetusta syystä erityisen suojelun tarpeessa ottaen huomioon etenkin hänen henkilökohtaiset olosuhteensa ja rikoksen laatu.
 
 Edellä 1 momentin 1–3 kohdassa tarkoitetuissa tapauksissa voidaan kuulemisessa kuitenkin käyttää myös puhelinta.
 
