@@ -1,0 +1,2 @@
+Laki sosiaalihuollon ammattihenkilöistä
+Eduskunnan päätöksen mukaisesti säädetään:
