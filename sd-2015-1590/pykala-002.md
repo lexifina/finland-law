@@ -1,0 +1,9 @@
+# 2 § Oikeustulkkirekisterilautakunta
+
+Oikeustulkkirekisteriin merkitsemisestä ja oikeustulkkirekisteristä poistamisesta päättää Opetushallituksen yhteydessä toimiva oikeustulkkirekisterilautakunta, jonka Opetushallitus asettaa enintään viideksi vuodeksi kerrallaan.
+
+Oikeustulkkirekisterilautakunta valvoo oikeustulkkirekisteriin merkittyjen tulkkien toimintaa.
+
+Opetushallitus päättää oikeustulkkirekisterilautakunnan jäsenten palkkiot ja vastaa oikeustulkkirekisterilautakunnan hallintoasioista.
+
+Oikeustulkkirekisterilautakunnan tehtävistä voidaan säätää tarkemmin valtioneuvoston asetuksella.
