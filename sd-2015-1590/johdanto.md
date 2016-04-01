@@ -1,0 +1,2 @@
+Laki oikeustulkkirekisteristä
+Eduskunnan päätöksen mukaisesti säädetään:
