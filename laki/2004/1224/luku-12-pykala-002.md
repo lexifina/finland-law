@@ -2,7 +2,7 @@
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 12 luku Päivärahaetuuden suhde muihin etuuksiin
 
-Tämän lain nojalla maksettavasta sairauspäivärahasta vähennetään seuraavat samalta ajalta ja saman työkyvyttömyyden vuoksi muun lain nojalla maksettavat etuudet:
+Tämän lain nojalla maksettavasta sairauspäivärahasta vähennetään työeläkelakien mukainen työuraeläke ja seuraavat samalta ajalta ja saman työkyvyttömyyden vuoksi muun lain nojalla maksettavat etuudet:
 1) kansaneläkelain 12 §:n mukainen työkyvyttömyyseläke lukuun ottamatta pykälän 4 momentin mukaista eläkettä;
 2) työtapaturman ja ammattitaudin perusteella myönnettävä työtapaturma- ja ammattitautilain mukainen ansionmenetyskorvaus;
 3) työtapaturman ja ammattitaudin perusteella myönnettävä maatalousyrittäjän työtapaturma- ja ammattitautilain mukainen ansionmenetyskorvaus;
