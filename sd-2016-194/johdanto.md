@@ -1,0 +1,2 @@
+Laki ylimääräisistä taiteilijaeläkkeistä
+Eduskunnan päätöksen mukaisesti säädetään:
