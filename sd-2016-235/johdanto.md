@@ -1,0 +1,2 @@
+Laki valtion metsätalousosakeyhtiöstä
+Eduskunnan päätöksen mukaisesti säädetään:
