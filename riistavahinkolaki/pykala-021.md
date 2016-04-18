@@ -1,7 +1,7 @@
 # 21 § Täydennysviljelyn tai uudelleen metsityksen korvaaminen
 Luku: 3 luku Korvauksen myöntämisen perusteet
 
-Vahinkoalan välttämättömästä täydennysviljelystä tai uudelleen metsityksestä aiheutuvan korvauksen laskemisessa otetaan huomioon kohtuulliset kustannukset, jotka aiheutuvat metsänviljelyaineiston hankkimisesta, viljelytoimenpiteen tai uudistumisen edellyttämästä suunnittelusta, työnjohdosta ja työstä. Kustannusten määrittämisessä noudatetaan kestävän metsätalouden rahoituksesta annettuja säännöksiä.
+Vahinkoalan välttämättömästä täydennysviljelystä tai uudelleen metsityksestä aiheutuvan korvauksen laskemisessa otetaan huomioon kohtuulliset kustannukset, jotka aiheutuvat metsänviljelyn suunnittelusta ja toteutuksesta.
 
 Taimisuojia, heinäntorjunta-aineita sekä niiden hankinnasta aiheutuneita kustannuksia ei korvata.
 
