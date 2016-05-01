@@ -1,7 +1,7 @@
 # 10 § Tuomitun vankeusrangaistuksen raukeaminen
 Luku: 8 luku Vanhentumisesta
 
-Elinkautinen vankeusrangaistus sekä joukkotuhonnasta, rikoksesta ihmisyyttä vastaan, törkeästä rikoksesta ihmisyyttä vastaan, sotarikoksesta ja törkeästä sotarikoksesta tuomittu määräaikainen vankeusrangaistus eivät raukea.
+Elinkautinen vankeusrangaistus sekä joukkotuhonnasta, rikoksesta ihmisyyttä vastaan, törkeästä rikoksesta ihmisyyttä vastaan, hyökkäysrikoksesta, sotarikoksesta ja törkeästä sotarikoksesta tuomittu määräaikainen vankeusrangaistus eivät raukea.
 
 Määräaikainen vankeusrangaistus raukeaa, jollei rangaistuksen täytäntöönpano ole lainvoiman saaneen tuomion antamispäivästä laskettuna alkanut
 1) kahdessakymmenessä vuodessa, jos rangaistus on yli kahdeksan vuotta,
