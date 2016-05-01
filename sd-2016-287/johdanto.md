@@ -1,0 +1,2 @@
+Laki sosiaalihuollon ammatillisen henkilöstön kelpoisuusvaatimuksista annetun lain kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
