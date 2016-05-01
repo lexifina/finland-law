@@ -4,7 +4,7 @@ Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 Edellytyksenä lapsen säilöön ottamiselle on, että:
 1) 121 §:n 1 momentissa säädetty edellytys säilöön ottamiselle on olemassa sekä yksilöllisen arvioinnin perusteella todetaan 118–120 §:ssä tarkoitetut turvaamistoimet riittämättömiksi ja säilöönotto viimesijaisena keinona välttämättömäksi;
 2) lasta on 6 §:n 2 momentin mukaisesti kuultu ennen päätöksen tekemistä; ja
-3) sosiaalihuollosta vastaavan toimielimen määräämälle sosiaalihuollon ammatillisen henkilöstön kelpoisuusvaatimuksista annetun lain (272/2005) 3 §:n mukaisen sosiaalityöntekijän ammatillisen kelpoisuuden omaavalle viranhaltijalle on varattu tilaisuus tulla kuulluksi.
+3) sosiaalihuollosta vastaavan toimielimen määräämälle virkasuhteessa olevalle sosiaalityöntekijälle on varattu tilaisuus tulla kuulluksi.
 
 Huoltajansa kanssa säilöön otettavan lapsen osalta edellytetään lisäksi, että säilöön ottaminen on välttämätöntä lapsen ja hänen huoltajansa välisen perheyhteyden ylläpitämiseksi.
 
