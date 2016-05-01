@@ -2,7 +2,7 @@
 
 Tapaturmalla tarkoitetaan äkillisen, odottamattoman ulkoisen tekijän aiheuttamaa vammaa tai sairautta ja siitä seurannutta kuolemaa.
 
-Tämän lain mukaan korvataan tapaturma, joka sattuu urheilijalle ennen kuin hän täyttää 43 vuotta lajille ominaisissa olosuhteissa:
+Tämän lain mukaan urheilijalle korvataan tapaturma, joka hänelle sattuu lajille ominaisissa olosuhteissa ennen kuin hän täyttää 65 vuotta:
 1) peli- tai urheilusuorituksen yhteydessä;
 2) ohjatussa, valvotussa tai harjoitteluohjelman mukaisessa harjoittelussa;
 3) urheilijan ollessa siirtymässä asunnoltaan tai majoitustiloista kilpailu-, peli- tai harjoittelupaikalle tai sieltä takaisin;
