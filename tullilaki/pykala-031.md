@@ -1,0 +1,8 @@
+# 31 § Rajatarkastus
+Luku: 5 luku Tullin muut toimivaltuudet
+
+Tullimiehellä on oikeus rajatarkastuksen toimittamiseen rajavartiolain 28, 28 a, 36 ja 38 §:ssä rajavartiomiehelle säädetyin toimivaltuuksin. Lisäksi Tulli voi käyttää rajanylityspaikalla teknisessä valvonnassa kertyvää kuvaa ja ääntä siten kuin siitä rajavartiolain 31 §:ssä rajavartiolaitoksen osalta säädetään. Tullitoimipaikan esimiehenä toimivalla tullimiehellä on oikeus ohjata ja rajoittaa liikkumista rajanylityspaikalla siten kuin siitä rajavartiolain 30 a §:ssä rajanylityspaikan esimiehenä toimivan rajavartiomiehen ja vähintään luutnantin arvoisen rajavartiomiehen osalta säädetään.
+
+Rajavartiolain 28 §:n 1 momentin 1 ja 2 kohdassa tarkoitetusta poistumisen estämisestä sekä tavaroiden ja kulkuneuvon tilapäisestä haltuun ottamisesta rajatarkastuksen toimittamisen ajaksi päättää tullitoimipaikan esimiehenä toimiva tullimies tai tehtävään määrätty tullirikostorjunnan tai tullivalvonnan esimiehenä toimiva tullimies. Kiireellisessä tapauksessa poistumisen estää ja haltuunoton suorittaa rajatarkastusta suorittava tullimies, jonka on viivytyksettä saatettava asia tullitoimipaikan esimiehenä toimivan tullimiehen tai tullirikostorjunnan tai tullivalvonnan esimiehenä toimivan tullimiehen ratkaistavaksi.
+
+Rajavartiolain 28 §:n 1 momentin 9 kohdassa tarkoitetusta henkilöntarkastuksesta päättää tehtävään määrätty tullirikostorjunnan tai tullivalvonnan esimiehenä toimiva tullimies. Rajatarkastusta suorittava tullimies voi kuitenkin päättää henkilöntarkastuksesta, joka kohdistetaan henkilön vaatteisiin tai mukana oleviin tavaroihin.
