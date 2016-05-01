@@ -10,7 +10,7 @@ Lääkinnälliseen kuntoutukseen kuuluu:
 4) toimintakyvyn parantamiseen ja ylläpitämiseen tähtäävät terapiat sekä muut tarvittavat kuntoutumista edistävät toimenpiteet;
 5) apuvälinepalvelut;
 6) sopeutumisvalmennus;
-7) 1―6 kohdassa tarkoitetuista tarpeellisista toimenpiteistä koostuvat kuntoutusjaksot laitos- tai avohoidossa.
+7) 1–6 kohdassa tarkoitetuista tarpeellisista toimenpiteistä koostuvat kuntoutusjaksot laitos- tai avohoidossa.
 
 Kunta vastaa potilaan lääkinnällisen kuntoutuksen suunnittelusta siten, että kuntoutus muodostaa yhdessä tarpeenmukaisen hoidon kanssa toiminnallisen kokonaisuuden. Lääkinnällisen kuntoutuksen tarve, tavoitteet ja sisältö on määriteltävä kirjallisessa yksilöllisessä kuntoutussuunnitelmassa. Kunta vastaa lisäksi kuntoutuspalvelun ohjauksesta ja seurannasta sekä nimeää potilaalle tarvittaessa kuntoutuksen yhdyshenkilön.
 

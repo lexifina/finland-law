@@ -10,4 +10,4 @@ Tässä laissa tarkoitettuun mielenterveystyöhön kuuluu:
 
 Terveydenhuollossa tehtävä mielenterveystyö on suunniteltava ja toteutettava siten, että se muodostaa toimivan kokonaisuuden kunnassa tehtävän sosiaali- ja terveydenhuollon kanssa.
 
-Mielenterveystyöstä säädetään lisäksi mielenterveyslaissa (1116/1990).
+Mielenterveystyöstä säädetään lisäksi mielenterveyslaissa (1116/1990) ja sosiaalihuoltolaissa.

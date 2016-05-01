@@ -13,7 +13,7 @@ Kouluterveydenhuollon palveluihin sisältyvät:
 
 Kunnan on kouluterveydenhuoltoa järjestäessään toimittava yhteistyössä vanhempien ja huoltajien kanssa sekä muun oppilashuolto- ja opetushenkilöstön ja muiden tarvittavien tahojen kanssa.
 
-Kouluterveydenhuolto on osa perusopetuslain (628/1998) 31 a §:n 2 momentin mukaisia oppilashuollon palveluja. Kunnan perusterveydenhuollosta vastaavan viranomaisen on osallistuttava perusopetuslain 15 §:n mukaisen opetussuunnitelman laatimiseen siltä osin kuin se koskee oppilashuoltoa sekä oppilaitoksen ja kodin välistä yhteistyötä.
+Kouluterveydenhuolto on osa oppilas- ja opiskelijahuoltolain (1287/2013) mukaisia opiskeluhuollon palveluja. Kunnan perusterveydenhuollosta vastaavan viranomaisen on osallistuttava perusopetuslain (628/1998) 15 §:n mukaisen opetussuunnitelman laatimiseen siltä osin kuin se koskee oppilashuoltoa sekä oppilaitoksen ja kodin välistä yhteistyötä.
 
 Kunta vastaa oppilaan ja tarpeellisen saattajan kouluterveydenhuoltoon liittyvästä matkasta aiheutuneista kohtuullisista kustannuksista, jos matkaa ei ole mahdollista yhdistää koulumatkaan.
 

@@ -9,4 +9,4 @@ Tässä laissa tarkoitettuun päihdetyöhön kuuluu:
 
 Terveydenhuollossa tehtävä päihdetyö on suunniteltava ja toteutettava siten, että se muodostaa toimivan kokonaisuuden muun kunnassa tehtävän päihdetyön ja mielenterveystyön kanssa.
 
-Päihdetyöstä säädetään lisäksi päihdehuoltolaissa (41/1986).
+Päihdetyöstä säädetään lisäksi päihdehuoltolaissa (41/1986) ja sosiaalihuoltolaissa.
