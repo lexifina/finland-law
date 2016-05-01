@@ -2,8 +2,8 @@
 Osa: I OSA
 Luku: 9 LUKU Tavaran maahantuonti
 
-Velvollinen suorittamaan veron tavaran maahantuonnista on tullikoodeksin 4 artiklan 18 kohdassa tarkoitettu tavaranhaltija. Tätä sovelletaan myös siihen, joka on tavaranhaltijan asemassa maahantuonnin tapahtuessa tullialueelta Yhteisön veroalueelle.
+Tullikoodeksin 5 artiklan 15 kohdassa tarkoitettu ilmoittaja on velvollinen suorittamaan veron tavaran maahantuonnista. Tätä sovelletaan myös siihen, joka on tavaroiden ilmoittajan asemassa maahantuonnin tapahtuessa Euroopan unionin tullialueelta Yhteisöön.
 
-Veron suorittamisesta on vastuussa sen lisäksi, mitä 1 momentissa säädetään, se, joka tullikoodeksin 201–208 ja 212–216 artiklan mukaan on velvollinen maksamaan syntyneen tullivelan.
+Veron suorittamisesta on vastuussa sen lisäksi, mitä 1 momentissa säädetään, se, joka tullikoodeksin 77–80 tai 83–88 artiklan mukaan on velvollinen maksamaan syntyneen tullivelan.
 
 Velvollinen suorittamaan veron tullihuutokaupassa myydystä tavarasta on sen ostaja.

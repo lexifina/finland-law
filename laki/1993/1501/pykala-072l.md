@@ -2,7 +2,7 @@
 Osa: I OSA
 Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
 
-Veroa on suoritettava tavaran siirrosta 72 h §:ssä tarkoitetusta menettelystä, vapaa-alueelta tai vapaavarastosta.
+Veroa on suoritettava tavaran siirrosta 72 h §:ssä tarkoitetusta menettelystä tai väliaikaisesta varastosta.
 
 Veroa ei kuitenkaan suoriteta, jos
 1) tavaraa ei ole maahantuotu tai ostettu yhteisöhankintana eikä tavaraa ja siihen kohdistuvaa palvelua ole myyty 72 h §:n nojalla verotta;

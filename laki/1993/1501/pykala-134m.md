@@ -8,6 +8,6 @@ Edellä 1 momentissa tarkoitettuun veroon sovelletaan, mitä verotililain 23 §:
 
 Jos erityisjärjestelmää käyttävä verovelvollinen maksaa verokaudelta Suomeen tilitettävää veroa ilman veron maksettavaksi määräämistä 133 i §:n 1 momentissa tai 133 p §:n 1 momentissa säädetyn määräajan jälkeen, hänen on veron maksamisen yhteydessä maksettava oma-aloitteisesti veronlisäystä. Jos veroa ei ole maksettu ilman veron maksettavaksi määräämistä tai jos verovelvollinen ei ole oma-aloitteisesti maksanut verolle veronlisäystä, verolle määrätään veronlisäystä.
 
-Edellä 3 momentissa tarkoitettu veronlisäys lasketaan siten kuin veronlisäyksestä ja viivekorosta annetussa laissa (1556/1995) säädetään.
+Edellä 3 momentissa tarkoitettu veronlisäys lasketaan siten kuin veronlisäyksestä ja viivekorosta annetussa laissa säädetään.
 
 Kun erityisjärjestelmää käyttävälle verovelvolliselle määrätään veronlisäystä, sovelletaan, mitä 184 ja 185 §:ssä säädetään veron määräämisestä.

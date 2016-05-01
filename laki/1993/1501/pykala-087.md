@@ -2,4 +2,4 @@
 Osa: I OSA
 Luku: 9 LUKU Tavaran maahantuonti
 
-Veron suorittamisvelvollisuuden syntymisajankohdasta on voimassa, mitä tullivelan syntymisajankohdasta säädetään tullikoodeksin 201–208 ja 212–216 artiklassa.
+Veron suorittamisvelvollisuuden syntymisajankohtaan sovelletaan, mitä tullivelan syntymisajankohdasta säädetään tullikoodeksin 77–80 ja 83–88 artiklassa.
