@@ -6,3 +6,5 @@ Sosiaali- ja terveysalan lupa- ja valvontavirasto myöntää hakemuksesta oikeud
 Sosiaali- ja terveysalan lupa- ja valvontavirasto myöntää hakemuksesta oikeuden käyttää valtioneuvoston asetuksella säädettyä nimikesuojatun ammattihenkilön ammattinimikettä henkilölle, jolle on Euroopan unioniin tai Euroopan talousalueeseen kuulumattomassa valtiossa suoritetun koulutuksen perusteella myönnetty tutkintotodistus tai muu asiakirja, joka kyseisessä valtiossa vaaditaan oikeuden saamiseksi kyseiseen ammattiin.
 
 Sosiaali- ja terveysalan lupa- ja valvontavirasto voi määrätä hakijalle korvaavina toimenpiteinä sopeutumisajan tai kelpoisuuskokeen. Valtioneuvoston asetuksella voidaan säätää tarkemmin sopeutumisajasta ja kelpoisuuskokeesta sekä hakijalle asetettavista muista pätevyysvaatimuksista.
+
+Mitä tässä pykälässä säädetään, koskee myös EU- tai ETA-alueen ulkopuolisen valtion kansalaisen muussa EU- tai ETA-maassa kuin Suomessa suorittaman koulutuksen perusteella myönnettävää oikeutta harjoittaa Suomessa 7 tai 8 §:ssä tarkoitettua ammattia tai oikeutta käyttää valtioneuvoston asetuksella säädettyä nimikesuojatun ammattihenkilön ammattinimikettä.
