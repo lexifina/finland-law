@@ -1,7 +1,7 @@
 # 46 § Hoidon ja huolenpidon turvaavat päätökset
 Luku: 4 luku Sosiaalihuollon toteuttaminen
 
-Omatyöntekijän kanssa asiakastyötä tekevän kunnallisen viranhaltijan, jolla on sosiaalityöntekijän kelpoisuus, on tehtävä päätös niistä sosiaalipalveluista, joilla yhdessä turvataan 12 ja 13 §:n mukaisesti erityistä tukea tarvitsevan lapsen tai erityistä tukea tarvitsevan muun asiakkaan välttämätön huolenpito ja toimeentulo sekä terveys ja kehitys, jos menettely on asiakkaan edun mukainen.
+Omatyöntekijän kanssa asiakastyötä tekevän virkasuhteessa olevan sosiaalityöntekijän on tehtävä päätös niistä sosiaalipalveluista, joilla yhdessä turvataan 12 ja 13 §:n mukaisesti erityistä tukea tarvitsevan lapsen tai erityistä tukea tarvitsevan muun asiakkaan välttämätön huolenpito ja toimeentulo sekä terveys ja kehitys, jos menettely on asiakkaan edun mukainen.
 
 Päätökset koskevat asiakkaan taikka hänen huolenpidostaan vastaavan henkilön tarvitsemia sosiaalipalveluja.
 
