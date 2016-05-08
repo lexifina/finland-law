@@ -1,3 +1,3 @@
 # 2 §
 
-Tämän lain voimaantulosta säädetään tasavallan presidentin asetuksella.
+Muutoksen muiden määräysten voimaansaattamisesta ja tämän lain voimaantulosta säädetään valtioneuvoston asetuksella.
