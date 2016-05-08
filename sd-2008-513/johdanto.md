@@ -1,0 +1,2 @@
+Laki ydinaineiden turvajärjestelyjä koskevista toimista tehdyn yleissopimuksen muutoksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
