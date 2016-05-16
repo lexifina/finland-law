@@ -7,4 +7,4 @@ Perhesiteen perusteella määräaikaisen oleskeluluvan saaneelle ulkomaalaiselle
 
 Neljän vuoden määräaika lasketaan maahantulopäivästä, jos ulkomaalaisella on maahan saapuessaan ollut oleskelulupa jatkuvaa maassaoleskelua varten. Jos oleskelulupaa on haettu Suomessa, neljän vuoden määräaika lasketaan ensimmäistä jatkuvaa maassaoleskelua varten myönnetyn määräaikaisen oleskeluluvan alkamispäivästä.
 
-Jos oleskelulupa on saatu pakolaisuuden, toissijaisen suojelun tai humanitaarisen suojelun perusteella, neljän vuoden määräaika lasketaan maahantulopäivästä.
+Jos oleskelulupa on saatu pakolaisuuden tai toissijaisen suojelun perusteella, neljän vuoden määräaika lasketaan maahantulopäivästä.

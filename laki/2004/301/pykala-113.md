@@ -1,7 +1,7 @@
 # 113 § Jatkuvan oleskeluluvan myöntäminen
 Luku: 6 luku Kansainvälinen suojelu
 
-Jatkuva oleskelulupa myönnetään ulkomaalaiselle, joka saa turvapaikan tai oleskeluluvan kiintiöpakolaisena, toissijaisen suojelun perusteella tai humanitaarisen suojelun perusteella. Jatkuva oleskelulupa voidaan myöntää ulkomaalaiselle, joka otetaan Suomeen 93 §:n nojalla tehdyn valtioneuvoston päätöksen perusteella.
+Jatkuva oleskelulupa myönnetään ulkomaalaiselle, joka saa turvapaikan tai oleskeluluvan kiintiöpakolaisena tai toissijaisen suojelun perusteella. Jatkuva oleskelulupa voidaan myöntää ulkomaalaiselle, joka otetaan Suomeen 93 §:n nojalla tehdyn valtioneuvoston päätöksen perusteella.
 
 Ulkomaalaiselle, jolle on myönnetty oleskelulupa 112 §:n nojalla, myönnetään kolmen vuoden yhtäjaksoisen maassa oleskelun jälkeen jatkuva oleskelulupa, jos perusteet luvan myöntämiselle ovat edelleen olemassa.
 

@@ -8,3 +8,5 @@ Poliisin suorittamaan turvapaikkapuhutteluun, jossa selvitetään turvapaikkahak
 Rajavartiolaitoksen tämän lain nojalla suorittamaan tutkintaan sovelletaan rajavartiolain 27 §:ää.
 
 Vieraan valtion sotilaan maahantulosta on lisäksi voimassa, mitä aluevalvontalaissa (755/2000) säädetään.
+
+Sähköiseen asiointiin sovelletaan sähköisestä asioinnista viranomaistoiminnassa annettua lakia (13/2003).

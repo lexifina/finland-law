@@ -10,4 +10,4 @@ Mitä 1 momentissa säädetään, koskee liikenteenharjoittajaa myös, jos Suome
 1) toinen liikenteenharjoittaja, jonka oli tarkoitus kuljettaa ulkomaalainen määrämaahan, kieltäytyy ottamasta häntä kuljetettavakseen; taikka
 2) määrämaan viranomaiset ovat käännyttäneet ulkomaalaisen ja hänet on lähetetty takaisin Suomeen.
 
-Jos rajatarkastusviranomainen on sallinut ulkomaalaisen maahantulon, liikenteenharjoittajalla ei ole 1 momentissa säädettyä velvollisuutta, ellei ulkomaalainen ole rajalla hakenut turvapaikkaa tai oleskelulupaa toissijaisen suojelun, humanitaarisen suojelun tai tilapäisen suojelun perusteella.
+Jos rajatarkastusviranomainen on sallinut ulkomaalaisen maahantulon, liikenteenharjoittajalla ei ole 1 momentissa säädettyä velvollisuutta, ellei ulkomaalainen ole rajalla hakenut turvapaikkaa tai oleskelulupaa toissijaisen suojelun tai tilapäisen suojelun perusteella.

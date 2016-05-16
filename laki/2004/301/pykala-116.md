@@ -2,7 +2,7 @@
 Luku: 6 luku Kansainvälinen suojelu
 
 Maahanmuuttovirasto:
-1) antaa turvapaikan ja myöntää ensimmäisen oleskeluluvan toissijaisen suojelun ja humanitaarisen suojelun perusteella turvapaikkamenettelyssä;
+1) antaa turvapaikan ja myöntää ensimmäisen oleskeluluvan toissijaisen suojelun perusteella turvapaikkamenettelyssä;
 2) myöntää ensimmäisen oleskeluluvan 89 §:n nojalla;
 3) myöntää ensimmäisen oleskeluluvan pakolaisuuden tai toissijaisen suojelun perusteella pakolaiskiintiössä Suomeen otettavalle ulkomaalaiselle;
 4) myöntää ensimmäisen oleskeluluvan 93 §:n nojalla muun humanitaarisen maahanmuuton perusteella;

@@ -2,7 +2,7 @@
 Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
 Poliisi tai rajatarkastusviranomainen saa henkilöllisyyden todentamiseksi, ulkomaalaisten maahantuloa ja maastalähtöä sekä oleskelua ja työntekoa koskevien asioiden käsittelyä, päätöksentekoa ja valvontaa varten ja valtion turvallisuuden suojaamiseksi ottaa sormenjäljet, valokuvan sekä muut henkilötuntomerkit ulkomaalaisesta:
-1) joka on hakenut turvapaikkaa tai oleskelulupaa toissijaisen suojelun tai humanitaarisen suojelun taikka tilapäisen suojelun perusteella;
+1) joka on hakenut turvapaikkaa tai oleskelulupaa toissijaisen suojelun tai tilapäisen suojelun perusteella;
 2) joka on hakenut oleskelulupaa perhesiteen perusteella;
 3) joka on saanut oleskeluluvan pakolaiskiintiössä Suomeen otettuna ulkomaalaisena;
 4) joka on päätetty käännyttää tai maasta karkottaa; taikka

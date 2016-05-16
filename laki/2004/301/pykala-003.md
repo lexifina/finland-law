@@ -19,7 +19,7 @@ Tässä laissa tarkoitetaan:
 11) pakolaisella ulkomaalaista, joka täyttää pakolaissopimuksen 1 artiklan vaatimukset;
 12) pakolaisasemalla asemaa, joka myönnetään pakolaiseksi tunnustetulle ulkomaalaiselle;
 12 a) toissijaisella suojeluasemalla asemaa, joka myönnetään ulkomaalaiselle, joka voi saada toissijaista suojelua;
-13) kansainvälisellä suojelulla pakolaisasemaa, toissijaista suojeluasemaa tai humanitaarisen suojelun perusteella myönnettävää oleskelulupaa;
+13) kansainvälisellä suojelulla pakolaisasemaa tai toissijaista suojeluasemaa;
 14) turvapaikalla pakolaiselle turvapaikkamenettelyssä myönnettävää oleskelulupaa;
 15) perheenkokoajalla Suomessa oleskelevaa henkilöä, jonka Suomessa oleskelun perusteella ulkomailla olevalle perheenjäsenelle haetaan oleskelulupaa perhesiteen perusteella;
 16) vastuuvaltion määrittämisestä annetulla neuvoston asetuksella neuvoston asetusta (EY) N:o 343/2003, annettu 18 päivänä helmikuuta 2003, niiden perusteiden ja menettelyjen vahvistamisesta, joiden mukaisesti määritetään kolmannen maan kansalaisen johonkin jäsenvaltioon jättämän turvapaikkahakemuksen käsittelystä vastuussa oleva valtio;
