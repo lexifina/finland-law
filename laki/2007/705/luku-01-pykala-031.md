@@ -11,6 +11,6 @@ Todistus annetaan tulosteena ulosoton tietojärjestelmästä. Jollei 1 momentiss
 
 Todistus voidaan antaa pyyntöä edeltävien neljän vuoden ajalta, jos pyytäjä osoittaa, että tieto on tarpeen hänen toimeentulonsa tai muutoin painavan yksityisen etunsa taikka tärkeän yleisen edun turvaamiseksi.
 
-Ennen todistuksen antamista todistuksen pyytäjän nimi, ammatti ja asuinpaikka sekä keskeinen 3 momentissa tarkoitettu perustelu tulee tallettaa ulosoton tietojärjestelmään. Rekisteröidyn pyynnöstä hänelle on annettava tieto siitä, kenelle on viimeisten kuuden kuukauden aikana annettu häntä koskeva todistus ulosottorekisteristä.
+Ennen todistuksen antamista todistuksen pyytäjän nimi, asuin- tai kotipaikka sekä keskeinen 3 momentissa tarkoitettu perustelu tulee tallettaa ulosoton tietojärjestelmään. Rekisteröidyn pyynnöstä hänelle on annettava tieto siitä, kenelle on viimeisten kuuden kuukauden aikana annettu häntä koskeva todistus ulosottorekisteristä.
 
 Alaikäistä koskevista todistuksista säädetään 3 luvun 113 §:n 2 momentissa.
