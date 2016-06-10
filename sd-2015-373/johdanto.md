@@ -1,0 +1,2 @@
+Laki vammaisten henkilöiden oikeuksista tehdyn yleissopimuksen ja sen valinnaisen pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
