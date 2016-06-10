@@ -1,0 +1,8 @@
+# 21 § Eduskunnan oikeusasiamiehen johtosääntö ja kanslian työjärjestys
+Luku: 4 luku Eduskunnan oikeusasiamiehen kanslia ja tarkemmat säännökset
+
+Eduskunnan oikeusasiamiehen kanslian viroista ja virkojen erityisistä kelpoisuusvaatimuksista säädetään eduskunnan oikeusasiamiehen johtosäännössä.
+
+Eduskunnan oikeusasiamiehen kanslian työjärjestyksessä annetaan tarkempia määräyksiä tehtävien jakamisesta oikeusasiamiehen ja apulaisoikeusasiamiesten kesken. Työjärjestyksessä määrätään myös oikeusasiamiehen, apulaisoikeusasiamiesten ja Ihmisoikeuskeskuksen johtajan sijaisuusjärjestelyistä sekä kanslian henkilöstön tehtävistä samoin kuin kansliassa noudatettavasta yhteistoimintamenettelystä.
+
+Oikeusasiamies vahvistaa kanslian työjärjestyksen apulaisoikeusasiamiehiä ja Ihmisoikeuskeskuksen johtajaa kuultuaan.
