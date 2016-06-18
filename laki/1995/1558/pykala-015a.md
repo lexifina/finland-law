@@ -7,6 +7,6 @@ Ulkomaisen työnantajan on vuosittain toimitettava Verohallinnolle 15 §:n 1 mom
 1) tuloverolain 10 §:n 4 c kohdassa tarkoitetusta palkasta, jos kansainvälinen sopimus ei estä veron perimistä palkasta;
 2) muusta kuin 1 kohdassa tarkoitetusta palkasta silloin, kun palkansaaja jatkuvasti oleskelee Suomessa yli kuuden kuukauden ajan.
 
-Edellä säädetystä poiketen on lähetetyistä työntekijöistä annetun lain (1146/1999) 4 a §:n mukaisesti asetetun edustajan toimitettava Verohallinnolle 1 ja 2 momentissa tarkoitetut tiedot silloin, kun hänen edustamaansa ulkomaista työnantajaa ei ole merkitty ennakkoperintärekisteriin.
+Edellä säädetystä poiketen on työntekijöiden lähettämisestä annetun lain (447/2016) 8 §:n mukaisesti asetetun edustajan toimitettava Verohallinnolle 1 ja 2 momentissa tarkoitetut tiedot silloin, kun hänen edustamaansa ulkomaista työnantajaa ei ole merkitty ennakkoperintärekisteriin.
 
 Verohallinto antaa tarkempia määräyksiä annettavista tiedoista, tietojen antamisen ajankohdasta ja tavasta tai rajoittaa tiedonantovelvollisuutta.
