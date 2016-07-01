@@ -10,7 +10,7 @@ Sen lisäksi, mitä tässä laissa säädetään, rekisteröityyn uskonnolliseen
 6) 37 §:n säännöksiä esteellisyydestä;
 7) 38 §:n säännöksiä tilintarkastuksesta;
 8) 39 §:n säännöksiä vahingonkorvausvelvollisuudesta;
-9) 40―42 §:n säännöksiä yhdistyksen purkautumisesta;
+9) 40, 41 ja 42 §:n säännöksiä yhdistyksen purkautumisesta;
 10) 45 §:n säännöksiä toiminnan lopettamisesta ja selvitysmiehistä;
 11) 46 §:n säännöksiä laillisesta tuomioistuimesta;
 12) 58 §:n säännöksiä vastuusta velvoitteista;
