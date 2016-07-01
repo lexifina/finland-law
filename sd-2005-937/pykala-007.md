@@ -5,5 +5,5 @@ Omaishoidon tuesta on laadittava yhdessä hoidettavan ja omaishoitajan kanssa ho
 Lisäksi suunnitelmaan tulee kirjata ainakin:
 1) omaishoitajan antaman hoidon määrä ja sisältö;
 2) muiden hoidettavalle tarpeellisten sosiaali- ja terveydenhuollon palvelujen määrä ja sisältö;
-3) omaishoitajan hoitotehtävää tukevien sosiaalihuollon palvelujen määrä ja sisältö; sekä
+3) omaishoitajan hoitotehtävää tukevien palvelujen määrä ja sisältö;
 4) miten hoidettavan hoito järjestetään hoitajan vapaan, terveydenhoitoon liittyvien käyntien tai muun poissaolon aikana.
