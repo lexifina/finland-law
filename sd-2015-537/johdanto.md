@@ -1,0 +1,2 @@
+Laki Euroopan unionin ja Euroopan atomienergiayhteisön ja niiden jäsenvaltioiden sekä Moldovan tasavallan välisen assosiaatiosopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
