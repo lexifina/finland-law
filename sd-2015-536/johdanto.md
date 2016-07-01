@@ -1,0 +1,2 @@
+Laki Euroopan unionin ja Euroopan atomienergiayhteisön ja niiden jäsenvaltioiden sekä Georgian välisen assosiaatiosopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
