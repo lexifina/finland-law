@@ -7,6 +7,6 @@ DNA-testiä varten tarpeelliset näytteet ottaa Suomessa Helsingin yliopiston oi
 
 DNA-testiä varten tarpeelliset näytteet ottaa ulkomailla Suomen edustustossa tai edustuston järjestämissä tiloissa terveydenhuollon ammattihenkilö. Näyte lähetetään 1 momentissa tarkoitetulle testin toimittajalle.
 
-Testinäytteen ottamisen valvoo ja näytteenantajan henkilöllisyyden varmistaa poliisi tai Maahanmuuttoviraston taikka edustuston virkamies.
+Testinäytteen ottamisen valvoo ja näytteenantajan henkilöllisyyden varmistaa Maahanmuuttoviraston tai edustuston virkamies.
 
 Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä DNA-tutkimuksen suorittamisesta.

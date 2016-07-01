@@ -5,4 +5,4 @@ Viranomainen voi ottaa ulkomaalaisen matkustusasiakirjan tilapäisesti haltuunsa
 
 Matkustusasiakirja on palautettava ulkomaalaiselle heti, kun sen hallussapito ei ole asian käsittelyn kannalta tarpeellista. Ulkomaalaisella on oikeus saada matkustusasiakirja välillä haltuunsa matkustamista tai välttämättömien asioiden hoitoa varten.
 
-Poliisi tai rajatarkastusviranomainen antaa matkustusasiakirjan tilapäisestä haltuunotosta todistuksen.
+Maahanmuuttovirasto, poliisi tai rajatarkastusviranomainen antaa matkustusasiakirjan tilapäisestä haltuunotosta todistuksen.

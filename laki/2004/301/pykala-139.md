@@ -5,4 +5,4 @@ Maahanmuuttovirasto päättää muukalaispassin ja pakolaisen matkustusasiakirja
 
 Suomen edustusto päättää Maahanmuuttovirastoa kuultuaan muukalaispassin myöntämisestä ulkomailla olevalle ulkomaalaiselle.
 
-Poliisilaitos päättää uuden muukalaispassin ja pakolaisen matkustusasiakirjan myöntämisestä silloin, kun hakijalla on esittää voimassa oleva muukalaispassi tai pakolaisen matkustusasiakirja.
+3 mo on kumottu L:lla 29.6.2016/501, joka tulee voimaan 1.1.2017. Aiempi sanamuoto kuuluu:

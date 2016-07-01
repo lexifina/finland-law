@@ -9,4 +9,11 @@ Jos 1 momentin 2 kohdassa mainittuja seikkoja ilmenee, suoritetaan kokonaisharki
 
 Jos perheenkokoaja on saanut oleskeluluvan toissijaisen suojelun perusteella ja luvan myöntämisen peruste on aseellinen selkkaus, taikka jos hän on saanut oleskeluluvan tilapäisen suojelun perusteella, kokonaisharkintaa suoritettaessa otetaan huomioon se, että ehdotonta estettä perheenkokoajan paluulle kotimaahan ei ole.
 
-Tässä pykälässä tarkoitetun oleskeluluvan myöntäminen ei edellytä, että ulkomaalaisen toimeentulo on turvattu, jos perhe on muodostettu ennen perheenkokoajan Suomeen tuloa.
+Tässä pykälässä tarkoitetun oleskeluluvan myöntäminen edellyttää, että ulkomaalaisen toimeentulo on turvattu. Toimeentuloedellytystä ei kuitenkaan sovelleta, jos:
+1) oleskelulupahakemus perhesiteen perusteella on jätetty kolmen kuukauden kuluessa siitä, kun:
+a) perheenkokoaja on saanut tiedoksi päätöksen hänelle annetusta turvapaikasta; tai
+b) perheenkokoaja on saanut tiedoksi päätöksen hyväksymisestään Suomeen pakolaiskiintiössä;
+2) perheenkokoajan perhe on muodostettu:
+a) ennen perheenkokoajan Suomeen tuloa, jos hänelle on annettu turvapaikka; tai
+b) ennen perheenkokoajan hyväksymistä Suomeen pakolaiskiintiössä; ja
+3) perheenyhdistäminen ei ole mahdollista sellaisessa kolmannessa maassa, johon perheenkokoajalla tai perheenjäsenellä on erityisiä siteitä.

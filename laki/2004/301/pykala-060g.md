@@ -7,7 +7,7 @@ Jos oleskelulupakortti annetaan hakemuksen mukaisesti, hakijalle ei anneta erill
 
 Uuden oleskelulupakortin saajan on luovutettava viranomaiselle aikaisempi oleskelulupakortti. Jos kortti ei ole saajan hallussa, hänen on esitettävä asiasta selvitys.
 
-Maahanmuuttovirasto tai paikallispoliisi antaa uuden oleskelulupakortin. Hakemus jätetään paikallispoliisille.
+Maahanmuuttovirasto antaa uuden oleskelulupakortin. Hakemus jätetään Maahanmuuttovirastolle.
 
 Uuden oleskelulupakortin hakemisen yhteydessä hakijalta otetaan sormenjäljet siten kuin 60 d §:ssä säädetään. Hakijan on liitettävä hakemukseen kasvokuvansa.
 
