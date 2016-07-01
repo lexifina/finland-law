@@ -1,0 +1,5 @@
+# 10 § Valvonta ja erimielisyyksien ratkaiseminen
+
+Viestintäviraston tehtävänä on valvoa tämän lain sekä sen nojalla annettujen säännösten ja päätösten noudattamista, jollei tässä laissa muuta säädetä. Viestintäviraston on edistettävä verkkotoimijoiden yhteistyötä sekä pyrittävä ratkaisemaan verkkotoimijoiden väliset erimielisyydet ensisijaisesti sovittelemalla. Viestintäviraston on poikkeuksellisia olosuhteita lukuun ottamatta tehtävä päätös neljän kuukauden kuluessa asian vireille tulosta 3 §:ssä tarkoitetussa asiassa ja kahden kuukauden kuluessa asian vireille tulosta 4, 7 ja 9 §:ssä tarkoitetussa asiassa.
+
+Jos joku rikkoo tätä lakia tai sen nojalla annettuja määräyksiä, Viestintävirasto voi velvoittaa hänet korjaamaan virheensä tai laiminlyöntinsä kohtuullisessa määräajassa. Päätöksen tehosteeksi voidaan asettaa uhkasakko tai uhka, että toiminta keskeytetään osaksi tai kokonaan taikka että tekemättä jätetty toimenpide teetetään asianomaisen kustannuksella. Uhkasakosta, keskeyttämisuhasta ja teettämisuhasta säädetään uhkasakkolaissa (1113/1990).
