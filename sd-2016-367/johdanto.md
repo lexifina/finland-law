@@ -1,0 +1,2 @@
+Laki diplomaattisissa edustustoissa ja konsuliedustustoissa tai kansainvälisissä hallitustenvälisissä järjestöissä toimivissa edustustoissa työskentelevien työntekijöiden perheenjäsenen ansiotyön tekemisestä Serbian kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
