@@ -11,6 +11,6 @@ Vaikka teosta ei säädetä rangaistusta tekopaikan laissa, siihen sovelletaan S
 5) 17 luvun 18, 18 a tai 19 §:ssä;
 6) 20 luvun 1, 2, 4, 5, 6, 7 tai 8 a–8 c §:ssä;
 7) 20 luvun 9 tai 9 a §:ssä, jos teko kohdistuu kahdeksaatoista vuotta nuorempaan henkilöön;
-8) 21 luvun 5 tai 6 §:ssä, 22 luvun 1 tai 2 §:ssä taikka 25 luvun 8 §:ssä, jos teko on naisiin kohdistuvan väkivallan ja perheväkivallan ehkäisemisestä ja torjumisesta tehdyn Euroopan neuvoston yleissopimuksen (/) 37 artiklassa tarkoitettu avioliittoon pakottaminen, 38 artiklassa tarkoitettu naisen sukuelinten silpominen taikka 39 artiklassa tarkoitettu pakotettu raskauden keskeyttäminen tai pakkosterilointi;
+8) 21 luvun 5 tai 6 §:ssä, 22 luvun 1 tai 2 §:ssä taikka 25 luvun 8 §:ssä, jos teko on naisiin kohdistuvan väkivallan ja perheväkivallan ehkäisemisestä ja torjumisesta tehdyn Euroopan neuvoston yleissopimuksen (53/2015) 37 artiklassa tarkoitettu avioliittoon pakottaminen, 38 artiklassa tarkoitettu naisen sukuelinten silpominen taikka 39 artiklassa tarkoitettu pakotettu raskauden keskeyttäminen tai pakkosterilointi;
 9) 30 luvun 7, 7 a, 8 tai 8 a §:ssä ja vaikka lainkohtia sovelletaan mainitun luvun 14 §:n nojalla; taikka
 10) 40 luvun 1–4 tai 4 a §:ssä, jos rikoksen tekijä on kansanedustaja, ulkomainen virkamies tai ulkomaisen parlamentin jäsen.

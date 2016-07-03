@@ -1,6 +1,14 @@
-# 3 § Markkinoiden vääristäminen
+# 3 § Markkinoiden manipulointi
 Luku: 51 luku Arvopaperimarkkinarikoksista
 
-Joka hankkiakseen itselleen tai toiselle taloudellista hyötyä vääristää säännellyllä markkinalla tai Suomessa monenkeskisessä kaupankäyntijärjestelmässä kaupankäynnin kohteena olevan rahoitusvälineen markkinoita, on tuomittava markkinoiden vääristämisestä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+Joka manipuloi markkinoita
+1) antamalla toimeksiannon taikka ryhtymällä liiketoimeen tai muuhun näihin rinnastettavaan toimintaan, joka
+a) antaa väärän tai harhaanjohtavan käsityksen rahoitusvälineen tai siihen liittyvän hyödykettä koskevan spot-sopimuksen tarjonnasta, kysynnästä tai hinnasta,
+b) varmistaa, että rahoitusvälineen tai siihen liittyvän hyödykettä koskevan spot-sopimuksen hinta asettuu epänormaalille tai keinotekoiselle tasolle taikka
+c) vaikuttaa rahoitusvälineen tai siihen liittyvän hyödykettä koskevan spot-sopimuksen hintaan ja jossa käytetään keinotekoista tai muuta vilpillistä menettelyä tai järjestelyä taikka
+2) hankkiakseen itselleen tai toiselle taloudellista hyötyä levittämällä tiedotusvälineissä tai muulla tavoin tietoa, joka antaa väärän tai harhaanjohtavan käsityksen rahoitusvälineen tai siihen liittyvän hyödykettä koskevan spot-sopimuksen tarjonnasta, kysynnästä tai hinnasta tai varmistaa, että rahoitusvälineen tai siihen liittyvän hyödykettä koskevan spot-sopimuksen hinta asettuu epänormaalille tai keinotekoiselle tasolle,
+on tuomittava markkinoiden manipuloinnista sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
-Mitä 1 momentissa säädetään, sovelletaan myös muuta kuin 1 momentissa tarkoitettua rahoitusvälinettä koskevaan liiketoimeen tai muuhun toimeen, jos se vääristää 1 momentissa tarkoitetun rahoitusvälineen markkinoita.
+Markkinoiden manipuloinnista tuomitaan myös se, joka manipuloi viitearvon laskentaa antamalla väärän tai harhaanjohtavan tiedon tai toimimalla muulla näihin merkitykseltään rinnastuvalla tavalla.
+
+Yritys on rangaistava.

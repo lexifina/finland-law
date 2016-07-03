@@ -1,13 +1,11 @@
 # 1 § Sisäpiirintiedon väärinkäyttö
 Luku: 51 luku Arvopaperimarkkinarikoksista
 
-Joka hankkiakseen itselleen tai toiselle taloudellista hyötyä tahallaan tai törkeästä huolimattomuudesta käyttää säännellyllä markkinalla kaupankäynnin kohteena olevaan rahoitusvälineeseen liittyvää sisäpiirintietoa hyväksi
-1) luovuttamalla tai hankkimalla sellaisen rahoitusvälineen omaan tai toisen lukuun tai
-2) neuvomalla suoraan tai välillisesti toista sellaisen rahoitusvälineen hankinnassa tai luovutuksessa,
+Joka tahallaan tai törkeästä huolimattomuudesta käyttää rahoitusvälineeseen liittyvää sisäpiirintietoa hyväksi
+1) luovuttamalla tai hankkimalla rahoitusvälineen omaan tai toisen lukuun taikka peruuttamalla rahoitusvälinettä koskevan toimeksiannon tai muuttamalla sitä taikka
+2) neuvomalla suoraan tai välillisesti toista rahoitusvälineen hankinnassa tai luovutuksessa taikka rahoitusvälinettä koskevan toimeksiannon peruuttamisessa tai muuttamisessa,
 on tuomittava sisäpiirintiedon väärinkäytöstä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
-Sisäpiirintiedon väärinkäytöstä tuomitaan myös henkilö, joka 1 momentissa tarkoitetulla tavalla käyttää Suomessa monenkeskisessä kaupankäyntijärjestelmässä kaupankäynnin kohteena olevaan rahoitusvälineeseen liittyvää sisäpiirintietoa hyväksi tällaisessa kaupankäynnissä.
-
-Mitä 1 momentissa säädetään, sovelletaan myös rahoitusvälineeseen, jonka arvo määräytyy 1 momentissa tarkoitetun rahoitusvälineen perusteella.
+Sisäpiirintiedon väärinkäytöstä tuomitaan myös se, joka tahallaan tai törkeästä huolimattomuudesta käyttää hyväksi 1 momentin 2 kohdassa tarkoitettua neuvoa 1 momentin 1 kohdassa tarkoitetulla tavalla.
 
 Tahallisen rikoksen yritys on rangaistava.

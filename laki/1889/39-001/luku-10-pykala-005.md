@@ -8,5 +8,3 @@ Rikoksella tuotettu, valmistettu tai aikaansaatu taikka rikoksen kohteena ollut 
 2) uusien rikosten ehkäisemiseksi, ja esine on erityisen sovelias rikoksen kohteeksi tai rikolliseen käyttöön;
 3) säännöstelyä taikka maahantuontia tai maastavientiä koskevien säännösten tai määräysten tarkoituksen toteuttamiseksi; tai
 4) luonnon tai ympäristön suojelemiseksi annettujen säännösten tai määräysten tarkoituksen toteuttamiseksi.
-
-Astia, päällys tai muu väline, jota on käytetty menetetyksi tuomittavan esineen tai omaisuuden säilyttämiseen, voidaan myös tuomita menetetyksi, jos menettämisseuraamusta ei muuten ole hankaluuksitta mahdollista panna täytäntöön.
