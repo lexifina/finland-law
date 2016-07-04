@@ -2,7 +2,7 @@
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
 Luku: 1 LUKU Tulon veronalaisuus
 
-Yhteisön veronalaista tuloa ei ole osinko, joka on saatu kotimaiselta yhteisöltä tai eri jäsenvaltioissa sijaitseviin emo- ja tytäryhtiöihin sovellettavasta yhteisestä verojärjestelmästä annetun neuvoston direktiivin 2011/96/EU, sellaisena kuin se on muutettuna neuvoston direktiivillä 2013/13/EU, 2 artiklassa tarkoitetulta ulkomaiselta yhtiöltä.
+Yhteisön veronalaista tuloa ei ole osinko, joka on saatu kotimaiselta yhteisöltä tai eri jäsenvaltioissa sijaitseviin emo- ja tytäryhtiöihin sovellettavasta yhteisestä verojärjestelmästä annetun neuvoston direktiivin 2011/96/EU, sellaisena kuin se on muutettuna neuvoston direktiiveillä 2013/13/EU ja 2014/86/EU, 2 artiklassa tarkoitetulta ulkomaiselta yhtiöltä.
 
 Yhteisön veronalaista tuloa ei ole osinko, joka on saatu Euroopan talousalueella asuvalta muulta kuin 1 momentissa tarkoitetulta yhteisöltä, jos:
 1) osinkoa jakava yhteisö on ilman valintamahdollisuutta ja vapautusta velvollinen suorittamaan tulostaan, josta osinko on jaettu, veroa vähintään kymmenen prosenttia; ja

@@ -13,4 +13,3 @@ Tulon hankkimisesta tai säilyttämisestä johtuneita menoja eivät ole:
 8) lahjukset eivätkä lahjusten luonteiset edut;
 9) osakeyhtiön omista osakkeista suorittama määrä, ellei 18 §:n 3 momentissa toisin säädetä;
 10) väliaikaisesta pankkiverosta annetun lain (986/2012) nojalla suoritettava pankkivero.
-12) voimalaitosverolain (1255/2013) nojalla suoritettava vero.
