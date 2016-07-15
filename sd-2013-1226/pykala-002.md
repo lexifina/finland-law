@@ -5,7 +5,6 @@ Valtion yhteiset tieto- ja viestintätekniset palvelut ovat palveluja, joiden j�
 Valtion yhteisiä tieto- ja viestintäteknisiä palveluja ovat:
 1) y hteiset perustietotekniikkapalvelut, joilla tarkoitetaan fyysisiä laitteita, laitteiston toiminnan edellyttämiä ohjelmistoja, tietoliikenne- ja viestintäpalveluja sekä näihin liittyviä infrastruktuuri- ja tukipalvelujen kokonaisuuksia;
 2) y hteiset tietojärjestelmäpalvelut, joilla tarkoitetaan sellaisia tietojärjestelmiä ja niihin liittyviä palveluja, jotka tukevat julkisen hallintotehtävän tai organisaatioiden samankaltaisen toiminnan hoitamista;
-3) yhteiset sähköisen asioinnin ja hallinnon tukipalvelut, joilla tarkoitetaan sähköisen asioinnin toteuttamisen edellyttämiä tai sähköisiin asiointipalveluihin liittymistä tukevia tieto- ja viestintäteknisiä ratkaisuja.
 
 Yhteisten palvelujen on oltava kustannustehokkaita, käyttötarkoitukseensa yleisesti sovellettavia, suorituskykyisiä, toimintavarmoja, käyttäjäystävällisiä, esteettömiä ja saatavilla tasapuolisesti koko Suomen alueella. Yhteisten palvelujen on noudatettava valtion tietohallinnon kokonaisarkkitehtuuria ja yhteentoimivuuden kuvauksia ja määrityksiä ja niiden on täytettävä tarpeen mukaiset tietoturvallisuutta ja varautumista koskevat vaatimukset.
 
