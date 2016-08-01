@@ -1,10 +1,8 @@
 # 2 § Tehtävät
 Luku: 1 luku Yleiset säännökset
 
-Maanpuolustuskorkeakoulun tehtävänä on edistää sotatieteellistä tutkimusta ja antaa tutkimukseen ja alan parhaisiin käytäntöihin perustuvaa sotatieteellistä opetusta sekä kasvattaa opiskelijoita palvelemaan isänmaata ja ihmiskuntaa. Maanpuolustuskorkeakoulu johtaa sotilaslaitoksissa ja rajavartiolaitokseen kuuluvassa Raja- ja merivartiokoulussa annettavaa sotatieteiden kandidaatin ja sotatieteiden maisterin tutkintoihin sisältyvää opetusta.
+Maanpuolustuskorkeakoulun tehtävänä on edistää sotatieteellistä tutkimusta ja antaa tutkimukseen ja alan parhaisiin käytäntöihin perustuvaa sotatieteellistä opetusta sekä kasvattaa opiskelijoita palvelemaan isänmaata ja ihmiskuntaa.
 
-Tehtäviään hoitaessaan Maanpuolustuskorkeakoulu toimii vuorovaikutuksessa muun yhteiskunnan kanssa sekä edistää tutkimustulosten yhteiskunnallista vaikuttavuutta.
+Maanpuolustuskorkeakoulu johtaa puolustusvoimien hallintoyksiköissä ja rajavartiolaitokseen kuuluvassa Raja- ja merivartiokoulussa annettavaa sotatieteiden kandidaatin ja sotatieteiden maisterin tutkintoihin sisältyvää opetusta. Maanpuolustuskorkeakoulu sovittaa yhteen hallintoyksiköissä ja Raja- ja merivartiokoulussa annettavan sotilasammatillisen opetuksen sotatieteellisiin tutkintoihin kuuluvan opetuksen kanssa. Sotilasammatillisia opintoja voidaan järjestää myös Maanpuolustuskorkeakoulussa.
 
-Puolustushaarat ja rajavartiolaitos ohjaavat upseerin virkaan vaadittavia sotilasammatillisia opintoja. Sotilasammatillista opetusta annetaan puolustusvoimien puolustushaara-, aselaji- ja toimialakouluissa sekä rajavartiolaitoksen Raja- ja merivartiokoulussa. Sotilasammatillisia opintoja voidaan järjestää myös Maanpuolustuskorkeakoulussa.
-
-Pääesikunta vahvistaa Maanpuolustuskorkeakoulun opetuksen yleiset tavoitteet ja sovittaa yhteen Maanpuolustuskorkeakoulun opetuksen puolustusvoimien muun koulutuksen kanssa.
+Tehtäviään hoitaessaan Maanpuolustuskorkeakoulun tulee edistää elinikäistä oppimista, toimia vuorovaikutuksessa muun yhteiskunnan kanssa sekä edistää tutkimustulosten yhteiskunnallista vaikuttavuutta. Maanpuolustuskorkeakoulun tulee järjestää toimintansa siten, että tutkimuksessa, koulutuksessa ja opetuksessa varmistetaan korkea kansainvälinen taso eettisiä periaatteita ja hyvää tieteellistä käytäntöä noudattaen.
