@@ -1,0 +1,2 @@
+Laki vuokratalojen rakentamislainojen lyhytaikaisesta korkotuesta
+Eduskunnan päätöksen mukaisesti säädetään:
