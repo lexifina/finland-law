@@ -2,7 +2,7 @@
 Osa: II OSA HALLINTO, TILINPÄÄTÖS, TOIMINTAKERTOMUS, TILINTARKASTUS JA SÄÄNTÖJEN MUUTTAMINEN
 Luku: 5 luku Tilinpäätös ja toimintakertomus
 
-Tilikaudelta on aina laadittava toimintakertomus, jossa on oltava kirjanpitolain 3 luvun 1 §:n 6 momentin mukaiset tiedot.
+Tilikaudelta on aina laadittava toimintakertomus, jossa on oltava kirjanpitolain 3 luvun 1 a §:n 4 momentin 1—3 kohdan mukaiset tiedot.
 
 Toimintakertomuksessa on 1 momentissa säädetyn lisäksi ilmoitettava tilikaudelta:
 1) millä tavoin säätiö on toiminut tarkoituksensa toteuttamiseksi; sekä

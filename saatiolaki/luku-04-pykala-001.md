@@ -4,4 +4,4 @@ Luku: 4 luku Tilintarkastus
 
 Säätiössä on toimitettava tilintarkastus.
 
-Säätiön tilintarkastuksesta on muutoin voimassa, mitä tässä luvussa ja tilintarkastuslaissa (459/2007) säädetään.
+Säätiön tilintarkastuksesta säädetään tämän luvun lisäksi tilintarkastuslaissa (1141/2015).
