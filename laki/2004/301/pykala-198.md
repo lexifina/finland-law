@@ -1,6 +1,6 @@
-# 198 § Valituskirjelmä valituslupa-asiassa
+# 198 § Valituksen tekeminen valituslupa-asiassa
 Luku: 13 luku Oikeusturva
 
-Haettaessa valituslupaa valituskirjelmä on toimitettava korkeimmalle hallinto-oikeudelle.
+Valituslupa-asiassa valitus ja valituslupahakemus toimitetaan korkeimmalle hallinto-oikeudelle. Valituslupahakemuksessa on ilmoitettava syyt, joiden vuoksi hakija katsoo, että valitusluvan myöntämiseen on 196 §:n 4 momentissa tarkoitettu peruste.
 
-Valituskirjelmä voidaan toimittaa Suomen edustustolle, jos valittaja ei enää oleskele Suomessa. Säilöön otettu saa toimittaa valituskirjelmänsä säilöönottotilasta vastaavalle. Valituskirjelmän vastaanottaneen on viipymättä toimitettava valituskirjelmä korkeimmalle hallinto-oikeudelle.
+Valitus ja valituslupahakemus voidaan toimittaa Suomen edustustolle, jos valittaja ei enää oleskele Suomessa. Säilöön otettu saa toimittaa valituksensa ja valituslupahakemuksensa säilöönottotilasta vastaavalle. Valituksen ja valituslupahakemuksen vastaanottaneen on viipymättä toimitettava ne korkeimmalle hallinto-oikeudelle.

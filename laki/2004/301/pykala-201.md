@@ -10,3 +10,5 @@ Päätös, joka on tehty turvallisesta turvapaikkamaasta tulleen ulkomaalaisen k
 Päätöstä käännyttämisestä ei saa panna täytäntöön 2 ja 3 momentissa säädetyllä tavalla, ennen kuin 198 b §:ssä tarkoitettu hakemus on ratkaistu.
 
 Toisen 102 §:ssä tarkoitetun uusintahakemuksen jättäminen ei estä 103 §:n 4 kohdan nojalla tehdyn lainvoimaisen käännyttämispäätöksen täytäntöönpanoa.
+
+Jos hakija peruuttaa valituksensa kansainvälistä suojelua koskevassa asiassa, 102 §:ssä tarkoitettu uusintahakemus ei estä aikaisemman hakemuksen johdosta annetun lainvoimaisen käännyttämispäätöksen täytäntöönpanoa.

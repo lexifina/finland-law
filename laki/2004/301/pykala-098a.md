@@ -10,6 +10,6 @@ Päätös on tehtävä 15 kuukauden kuluessa, jos päätöstä ei voida jostakin
 
 Päätös on tehtävä 18 kuukauden kuluessa, jos sitä ei voida tehdä 2 momentin mukaisessa määräajassa sen vuoksi, että kansainvälistä suojelua koskevan hakemuksen asianmukaisen ja perustellun tutkinnan varmistaminen edellyttää pidempää tutkinta-aikaa.
 
-Jos alkuperämaassa vallitsee epävarma tilanne eikä päätöstä sen vuoksi voida tehdä 1—3 momentissa säädetyssä määräajassa, päätös on kuitenkin tehtävä viimeistään 21 kuukauden kuluessa 1 momentissa säädetystä määräajan alkamisesta.
+Jos alkuperämaassa vallitsee epävarma tilanne eikä päätöstä sen vuoksi voida tehdä 1–3 momentissa säädetyssä määräajassa, päätös on kuitenkin tehtävä viimeistään 21 kuukauden kuluessa 1 momentissa säädetystä määräajan alkamisesta.
 
 Mitä 4 momentissa säädetään, ei rajoita pakolaisaseman tai toissijaisen suojeluaseman saamista.
