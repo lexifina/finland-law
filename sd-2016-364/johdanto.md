@@ -1,0 +1,2 @@
+Laki diplomaattisissa ja konsuliedustustoissa sekä kansainvälisten järjestöjen edustustoissa työskentelevän diplomaattisen, konsuli-, hallinnollisen ja teknillisen henkilökunnan perheenjäsenten vapaasta ansiotyön tekemisestä Argentiinan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
