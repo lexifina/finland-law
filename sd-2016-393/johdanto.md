@@ -1,0 +1,2 @@
+Laki biologista monimuotoisuutta koskevaan yleissopimukseen liittyvän Nagoyan pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
