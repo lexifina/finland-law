@@ -2,7 +2,7 @@
 Luku: 10 luku Salaiset pakkokeinot
 
 Esitutkintaviranomaiselle voidaan myöntää lupa kohdistaa teknistä kuuntelua vakituiseen asumiseen käytettävään tilaan, jossa rikoksesta epäilty todennäköisesti oleskelee (asuntokuuntelu). Edellytyksenä on lisäksi, että häntä on syytä epäillä:
-1) joukkotuhonnasta, joukkotuhonnan valmistelusta, rikoksesta ihmisyyttä vastaan, törkeästä rikoksesta ihmisyyttä vastaan, sotarikoksesta, törkeästä sotarikoksesta, kidutuksesta, kemiallisen aseen kiellon rikkomisesta, biologisen aseen kiellon rikkomisesta, jalkaväkimiinakiellon rikkomisesta;
+1) joukkotuhonnasta, joukkotuhonnan valmistelusta, rikoksesta ihmisyyttä vastaan, törkeästä rikoksesta ihmisyyttä vastaan, hyökkäysrikoksesta, hyökkäysrikoksen valmistelusta, sotarikoksesta, törkeästä sotarikoksesta, kidutuksesta, kemiallisen aseen kiellon rikkomisesta, biologisen aseen kiellon rikkomisesta, jalkaväkimiinakiellon rikkomisesta;
 2) Suomen itsemääräämisoikeuden vaarantamisesta, sotaan yllyttämisestä, maanpetoksesta, törkeästä maanpetoksesta, vakoilusta, törkeästä vakoilusta;
 3) valtiopetoksesta, törkeästä valtiopetoksesta;
 4) törkeästä lapsen seksuaalisesta hyväksikäytöstä;

@@ -5,7 +5,7 @@ Väliotsikko: Telepakkokeinot
 Telekuuntelulla tarkoitetaan viestintämarkkinalaissa tarkoitetun yleisen viestintäverkon tai siihen liitetyn viestintäverkon kautta teleosoitteeseen tai telepäätelaitteeseen vastaanotettavan taikka siitä lähetetyn viestin kuuntelua, tallentamista ja muuta käsittelyä viestin sisällön ja siihen liittyvien 6 §:ssä tarkoitettujen tunnistamistietojen selvittämiseksi. Telekuuntelua saadaan kohdistaa vain rikoksesta epäillyltä lähtöisin olevaan tai hänelle tarkoitettuun viestiin.
 
 Esitutkintaviranomaiselle voidaan antaa lupa kohdistaa telekuuntelua rikoksesta epäillyn hallussa olevan tai hänen oletettavasti muuten käyttämäänsä teleosoitteeseen tai telepäätelaitteeseen, jos epäiltyä on syytä epäillä:
-1) joukkotuhonnasta, joukkotuhonnan valmistelusta, rikoksesta ihmisyyttä vastaan, törkeästä rikoksesta ihmisyyttä vastaan, sotarikoksesta, törkeästä sotarikoksesta, kidutuksesta, kemiallisen aseen kiellon rikkomisesta, biologisen aseen kiellon rikkomisesta, jalkaväkimiinakiellon rikkomisesta;
+1) joukkotuhonnasta, joukkotuhonnan valmistelusta, rikoksesta ihmisyyttä vastaan, törkeästä rikoksesta ihmisyyttä vastaan, hyökkäysrikoksesta, hyökkäysrikoksen valmistelusta, sotarikoksesta, törkeästä sotarikoksesta, kidutuksesta, kemiallisen aseen kiellon rikkomisesta, biologisen aseen kiellon rikkomisesta, jalkaväkimiinakiellon rikkomisesta;
 2) Suomen itsemääräämisoikeuden vaarantamisesta, sotaan yllyttämisestä, maanpetoksesta, törkeästä maanpetoksesta, vakoilusta, törkeästä vakoilusta, turvallisuussalaisuuden paljastamisesta, luvattomasta tiedustelutoiminnasta;
 3) valtiopetoksesta, törkeästä valtiopetoksesta, valtiopetoksen valmistelusta;
 4) törkeästä sukupuolisiveellisyyttä loukkaavan lasta esittävän kuvan levittämisestä;
