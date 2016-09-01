@@ -1,0 +1,10 @@
+# 7 § Panostajalta edellytetty käyttäytyminen
+
+Panostajan pätevyyskirjan hakija ei täytä 5 §:n 2 momentin 3 kohdan edellytystä, jos hänet on siten, että teko tai teot osoittavat hänen olevan ilmeisen sopimaton toimimaan panostajana, työskentelemään räjähteiden kanssa tai pitämään hallussaan räjähteitä:
+1) viimeksi kuluneiden kymmenen vuoden aikana tuomittu lainvoiman saaneella tuomiolla yli kahden vuoden vankeusrangaistukseen;
+2) viimeksi kuluneiden viiden vuoden aikana tuomittu lainvoiman saaneella tuomiolla enintään kahden vuoden vankeusrangaistukseen;
+3) viimeksi kuluneiden kolmen vuoden aikana tuomittu lainvoiman saaneella tuomiolla sakkorangaistukseen rikoslain (39/1889) 17 luvun 1 a §:ssä tarkoitetusta järjestäytyneen rikollisryhmän toimintaan osallistumisesta, 20 luvun 1, 2, 4, 5, 5 a, 6, 7, 7 a, 8, 8 a—8 c, 9 tai 9 a §:ssä tarkoitetusta seksuaalirikoksesta, 25 luvun 7 §:ssä tarkoitetusta laittomasta uhkauksesta tai 7 a §:ssä tarkoitetusta vainoamisesta, 34 luvun 1 §:ssä tarkoitetusta tuhotyöstä, 34 a luvun 1—4, 4 a—4 c tai 5 §:ssä tarkoitetusta terrorismirikoksesta, 41 luvun 1 §:ssä tarkoitetusta ampuma-aserikoksesta, 44 luvun 11 §:ssä tarkoitetusta räjähderikoksesta, 12 §:ssä tarkoitetusta varomattomasta käsittelystä tai 13 §:ssä tarkoitetusta vaarallisten aineiden kuljetusrikoksesta tai 47 luvun 1—3, 3 a, 4—6 tai 6 a §:ssä tarkoitetusta työrikoksesta;
+4) vähintään kolmesti viimeksi kuluneiden kahden vuoden aikana tuomittu lainvoiman saaneella tuomiolla sakkorangaistukseen rikoslain 21 luvun 5 §:ssä tarkoitetusta pahoinpitelystä, 23 luvun 1—4 §:ssä tarkoitetusta liikennerikoksesta tai 50 luvun 1 §:ssä tarkoitetusta huumausainerikoksesta; tai
+5) viimeisten viiden vuoden aikana laiminlyönyt toistuvasti olennaisia räjäytystyön turvallisuusvaatimuksia.
+
+Edellä 1 momentissa tarkoitetun lisäksi pätevyyskirjan hakija ei täytä 5 §:n 2 momentin 3 kohdan edellytystä, jos hakijaa on hänen omaa tai toisen turvallisuutta vaarantavan elämäntapansa tai käyttäytymisensä taikka muun aikaisemman toimintansa perusteella pidettävä ilmeisen sopimattomana toimimaan panostajana, työskentelemään räjähteiden kanssa tai pitämään hallussaan räjähteitä.
