@@ -1,0 +1,2 @@
+Laki korkealaatuisen siemenperunan tuotantoalueesta
+Eduskunnan päätöksen mukaisesti säädetään:
