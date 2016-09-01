@@ -1,6 +1,6 @@
 # 17 § Tuhon toteamisesta ja vahingon arvioinnista aiheutuvat kustannukset
 
-Tuhon toteaminen kuuluu Elintarviketurvallisuusviraston, Riista- ja kalatalouden tutkimuslaitoksen, Metsäntutkimuslaitoksen tai Säteilyturvakeskuksen tehtäviin sen jälkeen, kun tutkimuslaitoksen käyttämisestä tuhon toteamiseen on 5 §:n 3 momentissa tarkoitetuin tavoin päätetty.
+Tuhon toteaminen kuuluu Elintarviketurvallisuusviraston, Luonnonvarakeskuksen tai Säteilyturvakeskuksen tehtäviin sen jälkeen, kun tutkimuslaitoksen käyttämisestä tuhon toteamiseen on 5 §:n 3 momentissa tarkoitetuin tavoin päätetty.
 
 Jos tuhon toteamisessa käytetään apuna yksityistä tahoa, maatilatalouden kehittämisrahaston varoista voidaan maksaa korvausta kohtuullisiin hyväksyttäviin kustannuksiin. Päätöksen korvauksen maksamisesta tekee maa- ja metsätalousministeriö.
 
