@@ -1,0 +1,2 @@
+Laki porotaloutta kohdanneiden vahinkojen korvaamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
