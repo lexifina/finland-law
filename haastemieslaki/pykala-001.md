@@ -1,5 +1,5 @@
 # 1 § Haastemiehet
 
-Haastemiehiä ovat virkansa puolesta haastemiehen esimiehet, haastemiehet ja avustavat ulosottomiehet.
+Haastemiehiä ovat virkansa puolesta haastemiehen esimiehet, haastemiehet ja kihlakunnanulosottomiehet.
 
-Haastemiehistä Ahvenanmaan maakunnassa on säädetty erikseen.
+Haastemiehistä Ahvenanmaan maakunnassa säädetään erikseen.
