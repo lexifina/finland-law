@@ -3,4 +3,4 @@ Luku: 3 luku Valvonta
 
 Tämän lain noudattamista valvoo Liikenteen turvallisuusvirasto.
 
-Liikenne- ja viestintäministeriö valvoo nimeämiään ilmoitettuja laitoksia.
+Liikenteen turvallisuusvirasto valvoo nimeämiään ilmoitettuja laitoksia.
