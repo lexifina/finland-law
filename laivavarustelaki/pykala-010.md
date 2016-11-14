@@ -1,6 +1,6 @@
-# 10 § Vaatimustenmukaisuusmerkillä merkityn laivavarusteen tarkastus
+# 10 § Ruorimerkillä merkityn laivavarusteen tarkastus
 Luku: 3 luku Valvonta
 
-Liikenteen turvallisuusvirasto voi kustannuksellaan tarkastaa markkinoille saatettuja vaatimustenmukaisuusmerkillä varustettuja laivavarusteita sen varmistamiseksi, että laivavarusteet täyttävät niille asetetut vaatimukset, jos niitä ei ole vielä asennettu tai sijoitettu alukseen.
+Liikenteen turvallisuusvirasto tarkastaa markkinoille saatettuja, vielä alukseen sijoittamattomia ruorimerkillä varustettuja laivavarusteita sen varmistamiseksi, että ne täyttävät niille asetetut vaatimukset. Laivavarusteen valmistajan on tarjottava omalla kustannuksellaan näytteitä Liikenteen turvallisuusviraston saataville tai annettava virastolle mahdollisuus tutustua näytteisiin.
 
-Laivavarusteessa olevasta vaatimustenmukaisuusmerkistä huolimatta Liikenteen turvallisuusvirasto voi arvioida alukseen asennetun tai sijoitetun laivavarusteen, jos kansainvälistä turvallisuutta tai ympäristön pilaantumisen ehkäisemistä koskevat kansainväliset oikeudelliset asiakirjat edellyttävät käyttötestejä aluksella eikä jo suoritettuja vaatimuksenmukaisuuden arviointimenettelyjä toisteta. Laivavarusteen valmistajan tai tämän edustajan on pyydettäessä annettava Liikenteen turvallisuusvirastolle laivavarusteen tarkastus- ja testausselosteet.
+Liikenteen turvallisuusvirasto voi tarkastaa alukseen sijoitetun, ruorimerkillä varustetun laivavarusteen, jos kansainvälistä turvallisuutta tai ympäristön pilaantumisen ehkäisemistä koskevat kansainväliset oikeudelliset asiakirjat edellyttävät käyttötestejä aluksella eikä jo suoritettuja vaatimustenmukaisuuden arviointimenettelyjä toisteta. Laivavarusteen valmistajan tai tämän valtuutetun edustajan on pyydettäessä annettava Liikenteen turvallisuusvirastolle laivavarusteen tarkastus- ja testausselosteet.

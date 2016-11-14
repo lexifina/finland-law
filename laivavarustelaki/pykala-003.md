@@ -7,7 +7,7 @@ Alusten ympäristönsuojelua koskevista laitteista ja järjestelyistä säädet�
 
 Alusturvallisuutta koskevien säännösten ja määräysten noudattamisen valvonnasta säädetään alusturvallisuuden valvonnasta annetussa laissa (370/1995).
 
-Radiolaitteen, jonka vaatimustenmukaisuutta ei varmisteta laivavarusteena, vaatimustenmukaisuuden varmistamisesta ja markkinoille saattamisesta säädetään radiotaajuuksista ja telelaitteista annetussa laissa (1015/2001).
+Radiolaitteen, jonka vaatimustenmukaisuutta ei varmisteta laivavarusteena, vaatimustenmukaisuuden varmistamisesta ja markkinoille saattamisesta säädetään tietoyhteiskuntakaaressa (917/2014).
 
 Suomen vesialueella ja Saimaan kanavan vuokra-alueella käytettävän vesikulkuneuvon rakenteesta, varusteista ja kunnosta säädetään vesiliikennelaissa (463/1996).
 
