@@ -1,0 +1,3 @@
+# 2 § Suhde Euroopan unionin lainsäädäntöön
+
+Tämän lain mukaista valtiontakausta myönnettäessä sovelletaan Euroopan unionin toiminnasta tehdyn sopimuksen 107 ja 108 artiklan soveltamisesta vähämerkityksiseen tukeen maatalousalalla annettua komission asetusta (EU) N:o 1408/2013, jäljempänä maatalousalan de minimis -asetus, jollei tämän lain mukaiseen valtiontakaukseen sovellettavasta valtiontuen hyväksymistä koskevasta Euroopan komission päätöksestä muuta johdu. Jos valtiontakaus perustuu komission hyväksymään ohjelmaan, takauksen myöntämisen edellytyksenä on, että toimenpide täyttää ohjelman ja sen hyväksymistä koskevan komission päätöksen ehdot.
