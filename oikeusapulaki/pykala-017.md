@@ -7,4 +7,4 @@ Siltä osin kuin oikeusapua annetaan tämän lain nojalla avustaja ei saa omavas
 
 Jos avustaja on saanut tilapäisesti panna sijaansa toisen henkilön, voidaan sijaisen suorittamista avustajantehtävistä tuleva palkkio ja korvaus määrätä erikseen maksettavaksi hänelle.
 
-Muutoksenhakutuomioistuin voi päättää, että avustajan palkkiota ja kuluja ei korvata valtion varoista, jos muutoksenhakemus on selvästi perusteeton.
+Tuomioistuin voi päättää, että avustajan palkkiota ei korvata valtion varoista, jos asian hoitamisessa on ollut erittäin vakavia avustajasta johtuvia laiminlyöntejä tai puutteita. Muutoksenhakutuomioistuin voi myös päättää, että avustajan palkkiota ja kuluja ei korvata valtion varoista, jos muutoksenhakemus on selvästi perusteeton.
