@@ -1,5 +1,5 @@
 # 9 §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 
 Lainvoiman saanut tuomio rikosasiassa voidaan syytetyn vahingoksi purkaa:
 1) jos 8 §:n 1 tai 2 kohdassa mainittu seikka on ollut olemassa ja sen voidaan otaksua vaikuttaneen siihen, että syytetty on vapautettu tai että hänet on tuomittu olennaisesti lievempien rangaistussäännösten mukaan kuin mitä olisi ollut sovellettava; tai

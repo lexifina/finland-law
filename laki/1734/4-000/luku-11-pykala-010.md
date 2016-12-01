@@ -1,5 +1,5 @@
 # 10 §
-Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 
 Edellä 9 §:ssä tarkoitettu tiedoksianto toimitetaan pitämällä asiakirja liitteineen nähtävillä tuomioistuimen kansliassa ja julkaisemalla ilmoitus asiakirjan pääasiallisesta sisällöstä sekä siitä, missä tiedoksi annettavat asiakirjat ovat nähtävillä, virallisessa lehdessä jonkin kuukauden ensimmäisessä numerossa. Tuomioistuin voi julkaista ilmoituksen myös sanomalehdessä. Ilmoitus on viipymättä pantava nähtäville myös tuomioistuimen ilmoitustaululle.
 

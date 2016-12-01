@@ -1,5 +1,5 @@
 # 16 §
-Luku: 21 LUKU Oikeudenkäyntikuluista
+Luku: 21 luku Oikeudenkäyntikuluista
 
 Jos alemman tuomioistuimen päätökseen haetaan muutosta, velvollisuus korvata oikeudenkäyntikulut ylemmässä tuomioistuimessa on määrättävä sen mukaisesti, mitä muutoksenhakumenettelyssä on tapahtunut ja onko asianosainen voittanut vai hävinnyt muutoksenhaun.
 

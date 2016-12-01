@@ -1,5 +1,5 @@
 # 9 §
-Luku: 6 LUKU Riita-asian pääkäsittely
+Luku: 6 luku Riita-asian pääkäsittely
 
 Asianosainen ei saa asiassa, jossa sovinto on sallittu, pääkäsittelyssä vedota sellaiseen seikkaan, johon hän ei ole vedonnut valmistelussa, ellei asianosainen saata todennäköiseksi, että hänen menettelynsä johtuu pätevästä syystä.
 

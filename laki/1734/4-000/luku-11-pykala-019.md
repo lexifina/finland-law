@@ -1,5 +1,5 @@
 # 19 §
-Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 
 Jos kantaja, jonka huolehdittavaksi haasteen tiedoksiantaminen on annettu, ei ole siihen mennessä, kun tuomioistuin jatkaa asian käsittelyä, toimittanut tuomioistuimelle todistusta haasteen tiedoksiantamisesta määrätyssä ajassa ja säädetyllä tavalla, asia jätetään sillensä.
 

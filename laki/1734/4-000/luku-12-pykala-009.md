@@ -1,5 +1,5 @@
 # 9 §
-Luku: 12 LUKU Asianosaisista
+Luku: 12 luku Asianosaisista
 Väliotsikko: Asianosaiselle asetetun velvoitteen laiminlyönti riita-asiassa
 
 Jos molemmat asianosaiset ovat poissa tuomioistuimen istunnosta, asia jätetään sillensä.

@@ -1,5 +1,5 @@
 # 6 §
-Luku: 30 LUKU Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
+Luku: 30 luku Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
 
 Lupahakemuksessa on mainittava se 3 §:ssä säädetty peruste, jolla valituslupaa pyydetään, sekä syyt, joiden nojalla hakija katsoo, että valitusluvan myöntämiseen on edellä tarkoitettu peruste. Lisäksi on ilmoitettava hovioikeuden ratkaisu, johon hakija tahtoo hakea muutosta.
 

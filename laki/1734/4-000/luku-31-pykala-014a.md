@@ -1,5 +1,5 @@
 # 14 a §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 
 Siitä poiketen, mitä 12 §:ssä säädetään, tuomion purkamista haetaan siltä tuomioistuimelta, jonka tuomiota hakemus koskee, jos hakemus tarkoittaa:
 1) rikosasiassa annetun tuomion purkamista tai oikaisemista siksi, että henkilöä on käsitelty toisena tai väärällä nimellä;

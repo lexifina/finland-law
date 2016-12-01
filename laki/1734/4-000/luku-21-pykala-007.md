@@ -1,5 +1,5 @@
 # 7 §
-Luku: 21 LUKU Oikeudenkäyntikuluista
+Luku: 21 luku Oikeudenkäyntikuluista
 
 Asianosaisen, jonka kanne jätetään tutkimatta, katsotaan hävinneen asian.
 

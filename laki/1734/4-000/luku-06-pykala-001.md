@@ -1,5 +1,5 @@
 # 1 §
-Luku: 6 LUKU Riita-asian pääkäsittely
+Luku: 6 luku Riita-asian pääkäsittely
 Väliotsikko: Pääkäsittely
 
 Asian valmistelua johtaneen tuomarin on oltava pääkäsittelyssä tuomioistuimen puheenjohtajana tai jäsenenä, jollei siihen ole estettä.

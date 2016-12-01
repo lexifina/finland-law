@@ -1,5 +1,5 @@
 # 14 §
-Luku: 30 LUKU Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
+Luku: 30 luku Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
 
 Valituskirjelmän toimittamisesta suoraan korkeimpaan oikeuteen on vastaavasti voimassa, mitä 8 §:n 1 momentissa säädetään.
 

@@ -1,4 +1,4 @@
 # 2 §
-Luku: 21 LUKU Oikeudenkäyntikuluista
+Luku: 21 luku Oikeudenkäyntikuluista
 
 Asiassa, jossa sovinto ei ole sallittu, asianosaiset vastaavat itse oikeudenkäyntikuluistaan, jollei ole erityistä syytä velvoittaa asianosaista korvaamaan osaksi tai kokonaan vastapuolensa oikeudenkäyntikulut.

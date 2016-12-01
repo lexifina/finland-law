@@ -1,5 +1,5 @@
 # 6 §
-Luku: 7 LUKU Turvaamistoimista
+Luku: 7 luku Turvaamistoimista
 
 Kun 5 §:n 1 momentissa tarkoitettuun hakemukseen on suostuttu, hakijan on kuukauden kuluessa päätöksen antamisesta pantava pääasiaa koskeva kanne vireille tuomioistuimessa tai saatettava pääasia käsiteltäväksi muussa sellaisessa menettelyssä, joka voi johtaa ulosottokaaren 2 luvun 2 §:ssä tarkoitettuun täytäntöönpanokelpoiseen ratkaisuun. Milloin turvaamistoimi on saamisen turvaamiseksi kohdistettu kiinteistöön, joka on panttina hakijan erääntymättömästä saamisesta, tässä momentissa tarkoitettu määräaika alkaa eräpäivästä. Jos asian käsittelyä ei sanotussa ajassa panna vireille tai jos asian käsittely jää sillensä, turvaamistoimi peruutetaan siten kuin ulosottokaaren 8 luvun 4 §:ssä säädetään.
 

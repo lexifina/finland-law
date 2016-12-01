@@ -1,5 +1,5 @@
 # 5 a §
-Luku: 12 LUKU Asianosaisista
+Luku: 12 luku Asianosaisista
 
 Jos kantaja oikeudenkäynnin aikana luovuttaa oikeutensa riidan kohteeseen toiselle, luovutuksensaaja voi haastetta ottamatta jatkaa kanteen ajamista siinä muodossa kuin se oli luovutushetkellä.
 

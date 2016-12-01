@@ -1,5 +1,5 @@
 # 3 §
-Luku: 13 LUKU Tuomarin esteellisyydestä
+Luku: 13 luku Tuomarin esteellisyydestä
 
 Läheisellä tarkoitetaan tässä luvussa:
 1) tuomarin puolisoa sekä tuomarin lasta, lapsenlasta, sisarusta, vanhempaa, isovanhempaa ja tuomarille muuten erityisen läheistä henkilöä samoin kuin tällaisen henkilön puolisoa;

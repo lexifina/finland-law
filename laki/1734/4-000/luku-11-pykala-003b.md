@@ -1,5 +1,5 @@
 # 3 b §
-Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 
 Kun tuomioistuin huolehtii tiedoksiannosta, se voidaan toimittaa myös siten, että tiedoksi annettavan asiakirjan sisältö kerrotaan vastaanottajalle puhelimitse (puhelintiedoksianto). Puhelimitse ei kuitenkaan voida antaa tiedoksi haastetta muussa kuin 5 luvun 3 §:n 1 kohdassa tarkoitetussa asiassa.
 

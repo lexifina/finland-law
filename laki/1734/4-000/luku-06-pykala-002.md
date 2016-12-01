@@ -1,5 +1,5 @@
 # 2 §
-Luku: 6 LUKU Riita-asian pääkäsittely
+Luku: 6 luku Riita-asian pääkäsittely
 
 Pääkäsittelyssä asia käsitellään, jollei tuomioistuin toisin päätä, seuraavassa järjestyksessä:
 1) istunnon alussa tuomioistuimen on lyhyesti yhteenvedon avulla selostettava, mihin asian valmistelussa on päädytty, sekä tiedusteltava, vastaavatko valmistelussa esitetyt vaatimukset edelleen asianosaisten kantaa;

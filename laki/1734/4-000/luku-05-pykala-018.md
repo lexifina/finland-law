@@ -1,5 +1,5 @@
 # 18 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 
 Tuomioistuimen on valmistelun kuluessa huolehdittava siitä, että asianosaisille ilmoitetaan asian valmistelusta vastaava tuomari ja muut tarvittavat tiedot asian käsittelyn edistymisestä. Asianosaisille on aina ilmoitettava:
 1) kantajalle asian vireilletulosta, haasteen antamisesta ja vastaukselle asetetusta määräajasta ja sen mahdollisesta pidennyksestä; sekä

@@ -1,5 +1,5 @@
 # 2 §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 
 Jos joku tahtoo kannella tuomiovirheestä, tulee hänen antaa kantelukirjelmä asianomaiseen ylioikeuteen tahi, mikäli kysymys on ylioikeuden tai korkeimman oikeuden tuomiosta, korkeimpaan oikeuteen.
 

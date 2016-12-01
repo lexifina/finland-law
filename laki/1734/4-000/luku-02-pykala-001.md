@@ -1,5 +1,5 @@
 # 1 §
-Luku: 2 LUKU Päätösvaltaisuudesta
+Luku: 2 luku Päätösvaltaisuudesta
 
 Käräjäoikeus on päätösvaltainen rikosasiassa, kun tuomioistuimessa on puheenjohtaja ja kaksi lautamiestä.
 

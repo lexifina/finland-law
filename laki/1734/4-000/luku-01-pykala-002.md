@@ -1,4 +1,4 @@
 # 2 §
-Luku: 1 LUKU Yleisistä tuomioistuimista
+Luku: 1 luku Yleiset säännökset
 
-Käräjäoikeudessa on lainoppineina jäseninä laamanni ja käräjätuomari sekä muina jäseninä lautamiehiä. Käräjäoikeuden puheenjohtajana toimii lainoppinut jäsen.
+Yleisiä tuomioistuimia ovat käräjäoikeudet, hovioikeudet ja korkein oikeus.

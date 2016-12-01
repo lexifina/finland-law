@@ -1,5 +1,5 @@
 # 15 §
-Luku: 12 LUKU Asianosaisista
+Luku: 12 luku Asianosaisista
 
 Asianosaisella, jota vastaan on annettu yksipuolinen tuomio, on oikeus hakea takaisinsaantia siinä tuomioistuimessa, joka on antanut yksipuolisen tuomion. Takaisinsaantia on haettava kirjallisesti 30 päivän kuluessa siitä lukien, kun takaisinsaannin hakija hänen läsnäollessaan toimitetussa ulosmittauksessa taikka muulla tavoin todisteellisesti on saanut tiedon yksipuolisesta tuomiosta.
 

@@ -1,5 +1,5 @@
 # 2 §
-Luku: 9 LUKU Oikeudenkäyntikirjelmä
+Luku: 9 luku Oikeudenkäyntikirjelmä
 
 Jos kirjelmä tai muu asiakirja on annettava tiedoksi jollekin, asianosaisen on liitettävä asiakirjaan tiedoksiantoa varten tarpeelliset jäljennökset.
 

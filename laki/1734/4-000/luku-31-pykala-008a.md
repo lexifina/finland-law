@@ -1,5 +1,5 @@
 # 8 a §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 
 Lainvoiman saanut, menettämisseuraamusta koskeva tuomio rikosasiassa voidaan vastaajan eduksi purkaa:
 1) jos 8 §:n 1, 2 tai 4 kohdassa mainitut edellytykset ovat olemassa;

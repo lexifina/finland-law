@@ -1,5 +1,5 @@
 # 24 §
-Luku: 30 LUKU Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
+Luku: 30 luku Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
 
 Kutsu suulliseen käsittelyyn annetaan tiedoksi noudattaen, mitä 26 luvun 28 §:ssä säädetään kutsusta hovioikeuden pääkäsittelyyn.
 

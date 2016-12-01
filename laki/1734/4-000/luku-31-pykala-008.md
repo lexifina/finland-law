@@ -1,5 +1,5 @@
 # 8 §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 
 Lainvoiman saanut tuomio rikosasiassa voidaan syytetyn eduksi purkaa:
 1) jos oikeuden jäsen tai virkamies, syyttäjä taikka asianosaisen edustaja tai avustaja on jutun yhteydessä syyllistynyt rikolliseen menettelyyn, jonka voidaan otaksua vaikuttaneen jutun lopputulokseen;

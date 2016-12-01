@@ -1,5 +1,5 @@
 # 1 §
-Luku: 12 LUKU Asianosaisista
+Luku: 12 luku Asianosaisista
 Väliotsikko: Asianosaisen läsnäolo riita-asiassa
 
 Kun vajaavaltainen on asianosaisena riitaasiassa tai asianomistajana rikosasiassa, vajaavaltaisen puhevaltaa käyttää edunvalvoja tai muu laillinen edustaja. Alaikäisen henkilöä koskevassa asiassa vajaavaltaisen puhevaltaa käyttää kuitenkin huoltaja tai muu laillinen edustaja.

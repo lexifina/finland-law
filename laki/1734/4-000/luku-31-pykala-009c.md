@@ -1,5 +1,5 @@
 # 9 c §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 
 Lainvoiman saanut, menettämisseuraamusta koskeva tuomio rikosasiassa voidaan vastaajan vahingoksi purkaa:
 1) jos 8 §:n 1 tai 2 kohdassa mainittu seikka on ollut olemassa ja sen voidaan otaksua vaikuttaneen siihen, että menettämisseuraamusta ei ole tuomittu tai että se on tuomittu olennaisesti lievempänä kuin se olisi tullut tuomita; tai

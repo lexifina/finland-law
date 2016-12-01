@@ -1,5 +1,5 @@
 # 7 §
-Luku: 13 LUKU Tuomarin esteellisyydestä
+Luku: 13 luku Tuomarin esteellisyydestä
 
 Tuomari on esteellinen, jos hän tai hänen 3 §:n 1 momentin 1 kohdassa tarkoitettu läheisensä on käsitellyt samaa asiaa toisessa tuomioistuimessa, muussa viranomaisessa tai välimiehenä. Tuomari on esteellinen myös, jos hän on asianosaisena samanlaisessa asiassa ja tämän asian laatu tai käsiteltävänä olevan asian ratkaisun vaikutus tuomarin asiaan antaa perustellun aiheen epäillä tuomarin puolueettomuutta asiassa.
 

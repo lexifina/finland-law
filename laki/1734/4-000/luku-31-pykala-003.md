@@ -1,5 +1,5 @@
 # 3 §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 
 Kantelukirjelmässä on ilmoitettava vaatimuksen perusteet sekä ne todisteet, joihin vaatimus nojautuu. Kirjelmään on liitettävä tuomio, josta kannellaan, ja ne kirjalliset todisteet, joihin viitataan.
 

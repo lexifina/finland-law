@@ -1,5 +1,5 @@
 # 17 §
-Luku: 15 LUKU Oikeudenkäyntiasiamiehestä
+Luku: 15 luku Oikeudenkäyntiasiamiehestä
 
 Oikeudenkäyntiasiamies tai -avustaja tai hänen apulaisensa tai tulkki ei saa luvattomasti ilmaista yksityisen tai perheen salaisuutta tai liike- tai ammattisalaisuutta, jonka hän on saanut tietää:
 1) hoitaessaan oikeudenkäyntiin liittyvää tehtävää;

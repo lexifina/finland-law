@@ -1,5 +1,5 @@
 # 24 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 
 Tuomioistuimen on valmistelun kuluessa tehtävä kirjallinen yhteenveto asianosaisten vaatimuksista, niiden perusteista sekä tarvittaessa todisteista ja siitä mitä kullakin todisteella aiotaan näyttää toteen.
 

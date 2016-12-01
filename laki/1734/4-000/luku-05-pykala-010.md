@@ -1,5 +1,5 @@
 # 10 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 
 Haasteessa vastaajaa kehotetaan vastauksessaan:
 1) ilmoittamaan, myöntääkö hän kanteen vai vastustaako hän sitä;

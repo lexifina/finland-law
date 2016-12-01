@@ -1,5 +1,5 @@
 # 17 §
-Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 Väliotsikko: Erinäiset säännökset
 
 Tiedoksiannosta on laadittava kirjallinen todistus, jossa on mainittava tiedoksiannon päivämäärä ja paikkakunta sekä kenelle tiedoksianto on toimitettu. Jos tiedoksianto on toimitettu 7 §:ssä säädetyllä tavalla, todistuksessa on lisäksi mainittava syy siihen, sekä päivä, jona ilmoitus on annettu postin kuljetettavaksi. Todistuksesta on annettava jäljennös tiedoksisaajalle. Tiedoksiannon toimittajan on allekirjoitettava todistus.

@@ -1,5 +1,5 @@
 # 1 §
-Luku: 13 LUKU Tuomarin esteellisyydestä
+Luku: 13 luku Tuomarin esteellisyydestä
 
 Tuomari ei saa käsitellä asiaa, jos hän on tässä luvussa tarkoitetuin tavoin esteellinen.
 

@@ -1,5 +1,5 @@
 # 9 §
-Luku: 21 LUKU Oikeudenkäyntikuluista
+Luku: 21 luku Oikeudenkäyntikuluista
 
 Milloin useampi kuin yksi asianosainen on vastuussa samoista oikeudenkäyntikuluista, he vastaavat niiden korvaamisesta yhteisvastuullisesti.
 

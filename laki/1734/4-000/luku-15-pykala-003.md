@@ -1,5 +1,5 @@
 # 3 §
-Luku: 15 LUKU Oikeudenkäyntiasiamiehestä
+Luku: 15 luku Oikeudenkäyntiasiamiehestä
 
 Virkamies älköön olko asiamiehenä tai avustajana oikeudenkäynnissä, jos se on vastoin hänen virkavelvollisuuttaan.
 

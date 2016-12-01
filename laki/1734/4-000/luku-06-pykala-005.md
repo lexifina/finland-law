@@ -1,5 +1,5 @@
 # 5 §
-Luku: 6 LUKU Riita-asian pääkäsittely
+Luku: 6 luku Riita-asian pääkäsittely
 
 Asia on käsiteltävä pääkäsittelyssä yhtäjaksoisesti.
 

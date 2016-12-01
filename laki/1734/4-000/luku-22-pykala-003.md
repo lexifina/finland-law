@@ -1,5 +1,5 @@
 # 3 §
-Luku: 22 LUKU Käräjäoikeuden pöytäkirja ja todistelun taltiointi
+Luku: 22 luku Käräjäoikeuden pöytäkirja ja todistelun taltiointi
 
 Pöytäkirjaan on merkittävä:
 1) tuomioistuimen nimi ja käsittelypäivä;

@@ -1,5 +1,5 @@
 # 12 §
-Luku: 30 LUKU Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
+Luku: 30 luku Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
 
 Vastauksen antajaan sovelletaan, mitä 7 §:ssä on säädetty.
 

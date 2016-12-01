@@ -1,5 +1,5 @@
 # 1 §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 Väliotsikko: Kantelu
 
 Lainvoiman saanut tuomio voidaan tehdystä kantelusta tuomiovirheen perusteella poistaa:

@@ -1,5 +1,5 @@
 # 7 §
-Luku: 18 LUKU Samassa oikeudenkäynnissä käsiteltävistä kanteista ja väliintulosta riita-asiassa
+Luku: 18 luku Samassa oikeudenkäynnissä käsiteltävistä kanteista ja väliintulosta riita-asiassa
 
 Kanteiden käsitteleminen samassa oikeudenkäynnissä 1–6 §:ssä säädetyin tavoin edellyttää, että kanteet on nostettu samassa tuomioistuimessa, että tuomioistuin on toimivaltainen käsittelemään yhdistettävät kanteet ja että kanteet voidaan käsitellä samanlaisessa oikeudenkäyntimenettelyssä.
 

@@ -1,5 +1,5 @@
 # 11 §
-Luku: 30 LUKU Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
+Luku: 30 luku Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
 
 Vastauksessa muutoksenhakemukseen on:
 1) ilmoitettava asia, jossa vastaus annetaan;

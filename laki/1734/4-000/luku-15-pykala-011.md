@@ -1,4 +1,4 @@
 # 11 §
-Luku: 15 LUKU Oikeudenkäyntiasiamiehestä
+Luku: 15 luku Oikeudenkäyntiasiamiehestä
 
 Valtuusmiehen älköön olko lupa Oikeudessa luopua asiasta, jonka hän on siinä alottanut, ellei Oikeus katso hänellä olevan siihen syytä.

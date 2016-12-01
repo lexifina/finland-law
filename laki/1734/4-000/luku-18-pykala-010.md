@@ -1,5 +1,5 @@
 # 10 §
-Luku: 18 LUKU Samassa oikeudenkäynnissä käsiteltävistä kanteista ja väliintulosta riita-asiassa
+Luku: 18 luku Samassa oikeudenkäynnissä käsiteltävistä kanteista ja väliintulosta riita-asiassa
 
 Väliintulijalla on oikeus toimia oikeudenkäynnissä asianosaisen tavoin. Hän ei kuitenkaan saa muuttaa kannetta eikä ryhtyä muuhun toimeen, joka on ristiriidassa asianosaisen suorittaman toimen kanssa, eikä muutoin kuin asianosaisen ohella hakea muutosta tuomioon tai päätökseen.
 

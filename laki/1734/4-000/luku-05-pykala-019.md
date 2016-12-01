@@ -1,5 +1,5 @@
 # 19 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 
 Valmistelussa on selvitettävä:
 1) asianosaisten vaatimukset ja niiden perusteet;

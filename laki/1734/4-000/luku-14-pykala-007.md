@@ -1,5 +1,5 @@
 # 7 §
-Luku: 14 LUKU Asian käsittelystä oikeudessa
+Luku: 14 luku Asian käsittelystä oikeudessa
 
 Joka
 1) ei noudata puheenjohtajan 6 §:n nojalla antamia määräyksiä,

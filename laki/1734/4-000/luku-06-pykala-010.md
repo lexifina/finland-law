@@ -1,5 +1,5 @@
 # 10 §
-Luku: 6 LUKU Riita-asian pääkäsittely
+Luku: 6 luku Riita-asian pääkäsittely
 
 Jos pääkäsittely on aloitettu, se saadaan lykätä ainoastaan, jos:
 1) se on aloitettu 7 §:n nojalla;

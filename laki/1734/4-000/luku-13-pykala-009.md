@@ -1,5 +1,5 @@
 # 9 §
-Luku: 13 LUKU Tuomarin esteellisyydestä
+Luku: 13 luku Tuomarin esteellisyydestä
 
 Väite tuomarin esteellisyydestä ratkaistaan siinä tuomioistuimessa, jossa pääasia on käsiteltävänä. Väite voidaan ratkaista myös kirjallisessa menettelyssä. Tuomioistuin voi myös omasta aloitteestaan ottaa ratkaistavakseen kysymyksen esteellisyydestä.
 

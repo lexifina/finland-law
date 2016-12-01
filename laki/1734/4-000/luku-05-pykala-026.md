@@ -1,5 +1,5 @@
 # 26 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 Väliotsikko: Sovinnon aikaansaaminen
 
 Asiassa, jossa sovinto on sallittu, tuomioistuimen on pyrittävä saamaan asianosaiset sopimaan asia.

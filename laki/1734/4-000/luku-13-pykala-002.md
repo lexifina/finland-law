@@ -1,5 +1,5 @@
 # 2 §
-Luku: 13 LUKU Tuomarin esteellisyydestä
+Luku: 13 luku Tuomarin esteellisyydestä
 
 Tämän luvun tuomaria koskevia säännöksiä sovelletaan myös tuomioistuimen muuhun jäseneen, esittelijään, pöytäkirjanpitäjään ja siihen, joka tuomioistuimessa ratkaisee asian tai voi olla läsnä asiaa ratkaistaessa.
 

@@ -1,5 +1,5 @@
 # 2 §
-Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 
 Tuomioistuin voi asianosaisen suostumuksella antaa tiedoksiannosta huolehtimisen asianosaiselle, jos tuomioistuin katsoo siihen olevan aihetta. Samalla tuomioistuimen on määrättävä, milloin asiakirja on viimeistään annettava tiedoksi ja milloin todistus tiedoksiannosta on viimeistään toimitettava tuomioistuimelle.
 

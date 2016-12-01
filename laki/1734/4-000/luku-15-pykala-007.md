@@ -1,5 +1,5 @@
 # 7 §
-Luku: 15 LUKU Oikeudenkäyntiasiamiehestä
+Luku: 15 luku Oikeudenkäyntiasiamiehestä
 
 Asiamies saa sopia asian, jollei valtuutuksessa nimenomaisesti ole määrätty, ettei hänellä ole siihen lupaa. Valtuutusta, joka on annettu nimetylle henkilölle, ei asiamies ilman lupaa saa siirtää toiselle.
 

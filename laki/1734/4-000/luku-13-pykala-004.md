@@ -1,5 +1,5 @@
 # 4 §
-Luku: 13 LUKU Tuomarin esteellisyydestä
+Luku: 13 luku Tuomarin esteellisyydestä
 
 Tuomari on esteellinen asiassa, jossa:
 1) tuomari tai hänen läheisensä on asianosainen;

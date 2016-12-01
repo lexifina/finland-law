@@ -1,5 +1,5 @@
 # 14 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 Väliotsikko: Juoksevaa sitoumusta koskeva säännös
 
 Jos kantajan vaatimus perustuu juoksevaan velkakirjaan, vekseliin tai shekkiin, vastaajaa on haasteessa kehotettava vastaamaan kirjallisesti, jollei kantaja ole pyytänyt, että vastaajaa kehotettaisiin vastaamaan suullisesti istunnossa.

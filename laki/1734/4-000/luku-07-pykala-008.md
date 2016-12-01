@@ -1,5 +1,5 @@
 # 8 §
-Luku: 7 LUKU Turvaamistoimista
+Luku: 7 luku Turvaamistoimista
 
 Jos syytä, jonka vuoksi turvaamistoimesta on päätetty, ei enää ole, turvaamistoimi on määrättävä peruutettavaksi.
 

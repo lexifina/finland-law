@@ -1,5 +1,5 @@
 # 10 §
-Luku: 12 LUKU Asianosaisista
+Luku: 12 luku Asianosaisista
 
 Asiassa, jossa sovinto on sallittu, on asianosaisen vaatimuksesta, jollei tämän luvun 12 tai 13 §:stä muuta johdu, annettava yksipuolinen tuomio, jos vastapuoli
 1) on jäänyt pois istunnosta tai

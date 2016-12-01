@@ -1,5 +1,5 @@
 # 12 §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 
 Tuomion purkamista haetaan korkeimmalta oikeudelta, jollei 14 a §:stä muuta johdu.
 

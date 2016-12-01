@@ -1,5 +1,5 @@
 # 5 §
-Luku: 13 LUKU Tuomarin esteellisyydestä
+Luku: 13 luku Tuomarin esteellisyydestä
 
 Tuomari on esteellinen, jos hän tai hänen 3 §:n 1 momentin 1 kohdassa tarkoitettu läheisensä toimii:
 1) hallituksen, hallintoneuvoston tai niihin rinnastettavan toimielimen jäsenenä taikka toimitusjohtajana tai sitä vastaavassa asemassa yhteisössä, säätiössä tai julkisoikeudellisessa laitoksessa tai liikelaitoksessa; tai

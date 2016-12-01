@@ -1,5 +1,5 @@
 # 4 §
-Luku: 15 LUKU Oikeudenkäyntiasiamiehestä
+Luku: 15 luku Oikeudenkäyntiasiamiehestä
 
 Oikeudenkäyntiasiamiehen on, jollei päämies ole häntä tuomioistuimessa asiamieheksi suullisesti valtuuttanut, esitettävä päämiehen omakätisesti allekirjoittama valtakirja, jos tuomioistuin niin määrää.
 

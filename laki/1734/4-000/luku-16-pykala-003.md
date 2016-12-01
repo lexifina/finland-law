@@ -1,5 +1,5 @@
 # 3 §
-Luku: 16 LUKU Oikeudenkäyntiväitteistä
+Luku: 16 luku Oikeudenkäyntiväitteistä
 
 Ratkaisuun, jolla asia oikeudenkäyntiväitteen johdosta jätetään tutkimatta, haetaan muutosta 25 luvun 1 §:n 2 momentin mukaisesti valittamalla.
 

@@ -1,5 +1,5 @@
 # 11 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 
 Haasteessa on ilmoitettava, että kirjallinen vastaus on toimitettava tuomioistuimen kansliaan tuomioistuimen määräämässä ajassa haasteen tiedoksiannosta. Ennen määräajan umpeen kulumista tehdystä pyynnöstä asetettua määräaikaa voidaan erityisestä syystä pitentää.
 

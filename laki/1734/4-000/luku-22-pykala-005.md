@@ -1,5 +1,5 @@
 # 5 §
-Luku: 22 LUKU Käräjäoikeuden pöytäkirja ja todistelun taltiointi
+Luku: 22 luku Käräjäoikeuden pöytäkirja ja todistelun taltiointi
 
 Pääkäsittelyn pöytäkirjaan on 3 §:ssä säädetyn lisäksi merkittävä asian käsittelyn kannalta tarpeelliset tiedot ja siinä on mainittava:
 1) esitetyt vaatimukset, väitteet, myöntämiset ja vastustamiset,

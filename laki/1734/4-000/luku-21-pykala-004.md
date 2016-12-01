@@ -1,5 +1,5 @@
 # 4 §
-Luku: 21 LUKU Oikeudenkäyntikuluista
+Luku: 21 luku Oikeudenkäyntikuluista
 
 Jos voittanut asianosainen on aloittanut oikeudenkäynnin ilman, että vastapuoli on antanut siihen aihetta, taikka muutoin tahallisesti tai huolimattomuudesta aiheuttanut tarpeettoman oikeudenkäynnin, hän on velvollinen korvaamaan vastapuolensa oikeudenkäyntikulut, jollei asiassa ilmenneisiin seikkoihin nähden ole aihetta määrätä, että kumpikin asianosainen saa pitää oikeudenkäyntikulunsa vahinkonaan.
 

@@ -9,6 +9,6 @@ Vakuutusta ei anna:
 3) rikosasiassa:
 a) asianomistaja, jolla ei ole asiassa vaatimuksia;
 b) se, jota on syytetty samasta teosta tai teosta, jolla on välitön yhteys siihen tekoon, jota syyte koskee;
-c) se, jolle on annettu rangaistusmääräys tai rikesakko b kohdassa tarkoitetusta teosta;
+c) se, jolle on annettu sakkomääräys, rangaistusmääräys tai rikesakkomääräys b alakohdassa tarkoitetusta teosta;
 d) se, jonka teko esitutkintalain 3 luvun 9 §:n nojalla on päätetty jättää saattamatta syyttäjän harkittavaksi taikka jonka teosta syyttäjä on päättänyt jättää oikeudenkäynnistä rikosasioissa annetun lain 1 luvun 7 tai 8 §:n taikka muun vastaavan toimenpiteistä luopumista tarkoittavan lainkohdan nojalla syytteen nostamatta;
 4) anonyymi todistaja.

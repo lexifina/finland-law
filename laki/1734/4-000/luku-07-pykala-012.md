@@ -1,5 +1,5 @@
 # 12 §
-Luku: 7 LUKU Turvaamistoimista
+Luku: 7 luku Turvaamistoimista
 
 Kanne 10 §:ssä tarkoitettujen kulujen korvaamisesta silloin, kun pääasiaa ei ole saatettu 6 §:n 1 momentissa tarkoitetulla tavalla vireille, sekä 11 §:ssä tarkoitettujen vahingon ja kulujen korvaamisesta on pantava vireille siinä käräjäoikeudessa, jolla on toimivalta tutkia 6 §:ssä tarkoitettu kanne, taikka, jos kanne ei ole käräjäoikeudessa käsiteltävä, käräjäoikeudessa sillä paikkakunnalla, missä vastapuolen on vastattava sellaisessa riita-asiassa tai missä turvaamistoimi on täytäntöönpantu. Edellä 4 §:n 3 ja 4 momentissa tarkoitetuissa asioissa kanne 10 §:ssä tarkoitettujen kulujen korvaamisesta silloin, kun pääasiaa ei ole saatettu 6 §:n 1 momentissa tarkoitetulla tavalla vireille, sekä 11 §:ssä tarkoitettujen vahingon ja kulujen korvaamisesta on kuitenkin pantava vireille markkinaoikeudessa.
 

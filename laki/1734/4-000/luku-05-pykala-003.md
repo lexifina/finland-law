@@ -1,5 +1,5 @@
 # 3 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 
 Jos asia koskee
 1) tietyn määräistä saamista,

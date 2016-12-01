@@ -1,5 +1,5 @@
 # 2 §
-Luku: 14 LUKU Asian käsittelystä oikeudessa
+Luku: 14 luku Asian käsittelystä oikeudessa
 
 Kannetta riita-asiassa ei saa oikeudenkäynnin aikana muuttaa. Kantajalla on kuitenkin oikeus
 1) vaatia muuta kuin kanteessa tarkoitettua suoritusta, milloin vaatimus perustuu oikeudenkäynnin aikana tapahtuneeseen olosuhteiden muutokseen tai vasta silloin kantajan tietoon tulleeseen seikkaan;

@@ -1,5 +1,5 @@
 # 6 §
-Luku: 12 LUKU Asianosaisista
+Luku: 12 luku Asianosaisista
 Väliotsikko: Asianosaisen läsnäolo
 
 Asianosainen määrätään saapumaan käräjäoikeudessa pidettävään pääkäsittelyyn henkilökohtaisesti sakon uhalla, jollei katsota, että hänen henkilökohtainen läsnäolonsa asian selvittämiseksi ei ole tarpeen.

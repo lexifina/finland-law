@@ -1,5 +1,5 @@
 # 3 §
-Luku: 30 LUKU Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
+Luku: 30 luku Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
 
 Valituslupa voidaan myöntää ainoastaan, jos lain soveltamisen kannalta muissa samanlaisissa tapauksissa tai oikeuskäytännön yhtenäisyyden vuoksi on tärkeätä saattaa asia korkeimman oikeuden ratkaistavaksi taikka jos siihen on erityistä aihetta asiassa tapahtuneen sellaisen oikeudenkäynti- tai muun virheen takia, jonka perusteella ratkaisu olisi purettava tai poistettava, tahi jos valitusluvan myöntämiseen on muu painava syy.
 

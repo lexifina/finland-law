@@ -1,5 +1,5 @@
 # 7 §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 Väliotsikko: Lainvoiman saaneen tuomion purkaminen
 
 Lainvoiman saanut tuomio riita-asiassa voidaan purkaa:

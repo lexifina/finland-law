@@ -1,5 +1,5 @@
 # 19 §
-Luku: 12 LUKU Asianosaisista
+Luku: 12 luku Asianosaisista
 
 Jos asianosainen tai hänen laillinen edustajansa ei noudata hänelle annettua kehotusta sakon uhalla saapua tuomioistuimeen henkilökohtaisesti, tuomioistuimen on, jos se edelleen pitää asianomaisen henkilökohtaista läsnäoloa välttämättömänä, asetettava korkeampi uhkasakko tai määrättävä hänet tai hänen laillisen edustajansa tuotavaksi samaan tai myöhempään istuntoon.
 

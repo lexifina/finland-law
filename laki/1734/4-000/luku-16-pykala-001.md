@@ -1,5 +1,5 @@
 # 1 §
-Luku: 16 LUKU Oikeudenkäyntiväitteistä
+Luku: 16 luku Oikeudenkäyntiväitteistä
 
 Oikeudenkäyntiväite on tehtävä silloin, kun vastaaja ensimmäisen kerran käyttää asiassa puhevaltaa, ja kaikki väitteet, mikäli mahdollista, yhdellä kertaa.
 

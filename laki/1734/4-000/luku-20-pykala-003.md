@@ -1,5 +1,5 @@
 # 3 §
-Luku: 20 LUKU Sovinnosta
+Luku: 20 luku Sovinnosta
 
 Sovinto vahvistetaan asianosaisten pyynnöstä. Sovintoa ei saa vahvistaa, jos se on lain vastainen tai selvästi kohtuuton taikka jos se loukkaa sivullisen oikeutta.
 

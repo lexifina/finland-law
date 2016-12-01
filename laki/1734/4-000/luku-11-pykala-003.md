@@ -1,5 +1,5 @@
 # 3 §
-Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 Väliotsikko: Tiedoksiantotavat
 
 Kun tuomioistuin tai syyttäjä huolehtii tiedoksiannosta, tiedoksianto toimitetaan lähettämällä asiakirja asianosaiselle:

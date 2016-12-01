@@ -1,5 +1,5 @@
 # 11 §
-Luku: 6 LUKU Riita-asian pääkäsittely
+Luku: 6 luku Riita-asian pääkäsittely
 
 Asiassa on toimitettava uusi pääkäsittely, jos pääkäsittely on yhden tai useamman kerran ollut lykättynä yhteensä yli 14 päivää.
 

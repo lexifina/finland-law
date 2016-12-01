@@ -1,5 +1,5 @@
 # 5 §
-Luku: 30 LUKU Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
+Luku: 30 luku Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
 
 Määräaika valitusluvan pyytämiseen ja valituksen tekemiseen on 60 päivää siitä päivästä, jona hovioikeuden ratkaisu annettiin.
 

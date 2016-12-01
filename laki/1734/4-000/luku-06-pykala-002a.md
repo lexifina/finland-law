@@ -1,5 +1,5 @@
 # 2 a §
-Luku: 6 LUKU Riita-asian pääkäsittely
+Luku: 6 luku Riita-asian pääkäsittely
 
 Tuomioistuimen on valvottava, että asian käsittelyssä noudatetaan selvyyttä ja järjestystä. Tuomioistuin voi myös määrätä, että asian erilliset kysymykset tai erilliset osat käsitellään erikseen.
 

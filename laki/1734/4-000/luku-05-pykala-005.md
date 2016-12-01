@@ -1,5 +1,5 @@
 # 5 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 Väliotsikko: Haastehakemuksen täydentäminen
 
 Jos haastehakemus on puutteellinen, kantajaa on kehotettava määräajassa korjaamaan puute, jos korjaaminen on oikeudenkäynnin jatkamiseksi tai vastauksen antamista varten välttämätöntä. Kantajalle on samalla ilmoitettava, millä tavoin haastehakemus on puutteellinen ja että kanne voidaan jättää tutkimatta tai hylätä, jos kantaja ei noudata kehotusta.

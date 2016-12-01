@@ -1,5 +1,5 @@
 # 5 §
-Luku: 7 LUKU Turvaamistoimista
+Luku: 7 luku Turvaamistoimista
 
 Turvaamistointa on haettava kirjallisesti. Jos turvaamistoimi liittyy vireillä olevaan oikeudenkäyntiin, hakemus voidaan tehdä suullisesti istunnossa, jossa pääasiaa käsitellään. Hakemus on käsiteltävä kiireellisesti.
 

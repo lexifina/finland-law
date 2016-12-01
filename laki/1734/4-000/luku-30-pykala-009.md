@@ -1,5 +1,5 @@
 # 9 §
-Luku: 30 LUKU Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
+Luku: 30 luku Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
 
 Jos määräajassa toimitettua lupahakemusta tai valitusta ei ole laadittu säädetyllä tavalla taikka muutoksenhakukirjelmään ei ole liitetty asiakirjoja, joihin hakija viittaa perusteinaan, korkeimman oikeuden on kehotettava hakijaa korjaamaan puute määräämässään ajassa, jollei täydentäminen ole asian käsittelyn kannalta tarpeetonta.
 

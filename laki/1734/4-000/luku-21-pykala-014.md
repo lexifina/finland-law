@@ -1,5 +1,5 @@
 # 14 §
-Luku: 21 LUKU Oikeudenkäyntikuluista
+Luku: 21 luku Oikeudenkäyntikuluista
 
 Oikeudenkäyntikulujen korvaamista koskeva vaatimus on tehtävä ennen käsittelyn päättymistä. Vaatimuksessa on eriteltävä oikeudenkäyntikulujen määrä ja niiden perusteet.
 

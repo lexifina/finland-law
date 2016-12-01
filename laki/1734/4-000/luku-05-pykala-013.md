@@ -1,5 +1,5 @@
 # 13 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 Väliotsikko: Asian ratkaiseminen valmistelua jatkamatta
 
 Jos vastaaja, jota on kehotettu vastaamaan kirjallisesti asiassa, jossa sovinto on sallittu,

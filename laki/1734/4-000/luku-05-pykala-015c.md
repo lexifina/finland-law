@@ -1,5 +1,5 @@
 # 15 c §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 
 Valmisteluistunnossa, johon tuomioistuin kutsuu asianosaiset, asian käsittelyä jatketaan suullisesti siitä, mihin kirjallisessa valmistelussa on päädytty.
 

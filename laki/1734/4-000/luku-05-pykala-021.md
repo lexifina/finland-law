@@ -1,5 +1,5 @@
 # 21 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 
 Tuomioistuimen on valmistelussa huolehdittava 19 §:ssä säädettyjen tavoitteiden toteutumisesta ja siitä, että asianosaiset mainitsevat kaikki seikat, joihin he haluavat vedota.
 

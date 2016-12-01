@@ -1,5 +1,5 @@
 # 6 §
-Luku: 13 LUKU Tuomarin esteellisyydestä
+Luku: 13 luku Tuomarin esteellisyydestä
 
 Tuomari on esteellinen, jos:
 1) asianosainen on tuomarin tai hänen 3 §:n 1 momentin 1 kohdassa tarkoitetun läheisensä vastapuoli muussa oikeudenkäynnissä tai viranomaisen käsiteltävänä olevassa asiassa; tai

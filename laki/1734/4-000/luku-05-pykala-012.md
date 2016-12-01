@@ -1,5 +1,5 @@
 # 12 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 
 Haaste, haastehakemus ja siihen liitetyt asiakirjat on annettava vastaajalle tiedoksi siten kuin 11 luvussa säädetään.
 

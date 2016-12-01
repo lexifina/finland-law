@@ -1,5 +1,5 @@
 # 6 §
-Luku: 6 LUKU Riita-asian pääkäsittely
+Luku: 6 luku Riita-asian pääkäsittely
 
 Pääkäsittelyä aloitettaessa tuomioistuimen on selvitettävä, voidaanko asia ottaa lopullisesti käsiteltäväksi.
 

@@ -1,5 +1,5 @@
 # 1 §
-Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 Väliotsikko: Tiedoksiannosta huolehtiminen
 
 Tuomioistuin huolehtii tiedoksiannosta, jollei jäljempänä toisin säädetä.

@@ -1,5 +1,5 @@
 # 3 §
-Luku: 6 LUKU Riita-asian pääkäsittely
+Luku: 6 luku Riita-asian pääkäsittely
 
 Pääkäsittely on suullinen. Asianosainen ei saa lukea eikä antaa tuomioistuimelle kirjallista lausumaa taikka muutoinkaan esittää asiaa kirjallisesti.
 

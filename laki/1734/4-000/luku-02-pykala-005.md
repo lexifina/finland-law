@@ -1,5 +1,5 @@
 # 5 §
-Luku: 2 LUKU Päätösvaltaisuudesta
+Luku: 2 luku Päätösvaltaisuudesta
 
 Käräjäoikeudessa on vain puheenjohtaja:
 1) hakemusasiassa, jonka käsittelyä ei jatketa riita-asian käsittelystä säädetyssä järjestyksessä;

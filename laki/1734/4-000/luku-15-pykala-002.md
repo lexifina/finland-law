@@ -1,5 +1,5 @@
 # 2 §
-Luku: 15 LUKU Oikeudenkäyntiasiamiehestä
+Luku: 15 luku Oikeudenkäyntiasiamiehestä
 
 Jollei tässä tai muussa laissa toisin säädetä, oikeudenkäyntiasiamiehenä tai -avustajana saa toimia asianajaja, julkinen oikeusavustaja tai luvan saaneista oikeudenkäyntiavustajista annetussa laissa (715/2011) tarkoitettu luvan saanut oikeudenkäyntiavustaja.
 

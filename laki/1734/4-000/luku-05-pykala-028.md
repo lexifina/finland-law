@@ -1,5 +1,5 @@
 # 28 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 Väliotsikko: Asian siirtäminen pääkäsittelyyn
 
 Kun valmistelussa on selvitetty 19 §:ssä tarkoitetut seikat tai kun sitä ei muusta syystä ole enää tarkoituksenmukaista jatkaa, tuomioistuimen on todettava valmistelu päättyneeksi ja siirrettävä asia pääkäsittelyyn. Tuomioistuimen on määrättävä pääkäsittelyn ajankohta ja kutsuttava asianosaiset pääkäsittelyyn siten kuin 11 luvussa säädetään. Asianosaisille on varattava tilaisuus lausua pääkäsittelyn ajankohdasta, jos se käy haitatta päinsä.

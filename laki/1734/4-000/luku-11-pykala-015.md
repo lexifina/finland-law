@@ -1,4 +1,4 @@
 # 15 §
-Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 
 Tiedoksianto konkurssipesälle on toimitettava pesänhoitajalle.

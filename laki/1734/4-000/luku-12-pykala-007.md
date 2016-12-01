@@ -1,5 +1,5 @@
 # 7 §
-Luku: 12 LUKU Asianosaisista
+Luku: 12 luku Asianosaisista
 
 Edellä 6 §:ssä säädetty koskee soveltuvin osin riita-asian asianosaisen laillista edustajaa.
 

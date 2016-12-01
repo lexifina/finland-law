@@ -1,5 +1,5 @@
 # 4 §
-Luku: 6 LUKU Riita-asian pääkäsittely
+Luku: 6 luku Riita-asian pääkäsittely
 
 Jos asianosainen pääkäsittelyssä esittää muita kuin valmistelussa esittämiään vaatimuksia tai perusteita, tai kun asianosainen selittää, että hän ei voi tai halua lausua mitään asiassa, tuomioistuimen on tarvittaessa asiakirjoista selostettava, mitä asianosainen on valmistelussa lausunut.
 

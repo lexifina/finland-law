@@ -1,5 +1,5 @@
 # 4 §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 
 Jollei kantelukirjelmään ole liitetty tuomiota, josta kannellaan, taikka jos kirjelmä on niin puutteellinen, ettei asiaa voida sen perusteella ratkaista, kantelijaa on kehotettava korjaamaan puute määräajassa uhalla, että jos hän sen laiminlyö, kantelu jätetään tutkimatta. Kehotus saadaan lähettää postitse kantelijan ilmoittamalla osoitteella.
 

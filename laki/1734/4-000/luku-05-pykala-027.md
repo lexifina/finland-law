@@ -1,5 +1,5 @@
 # 27 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 Väliotsikko: Asian ratkaiseminen valmistelussa
 
 Valmistelussa voidaan:

@@ -1,5 +1,5 @@
 # 14 §
-Luku: 12 LUKU Asianosaisista
+Luku: 12 luku Asianosaisista
 
 Sen asianosaisen asiana, jonka vaatimuksesta yksipuolinen tuomio on annettu, on huolehtia siitä, että vastapuoli saa tiedon yksipuolisesta tuomiosta.
 

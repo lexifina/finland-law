@@ -1,5 +1,5 @@
 # 17 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 Väliotsikko: Valmistelun tavoitteet ja sisältö
 
 Tuomioistuimen on toimitettava valmistelu siten, että asia voidaan käsitellä pääkäsittelyssä yhtäjaksoisesti.

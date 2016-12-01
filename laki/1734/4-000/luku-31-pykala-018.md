@@ -1,5 +1,5 @@
 # 18 §
-Luku: 31 LUKU Ylimääräisestä muutoksenhausta
+Luku: 31 luku Ylimääräisestä muutoksenhausta
 
 Menetetyn määräajan palauttamista on haettava kirjallisesti 30 päivän kuluessa 17 §:ssä tarkoitetun esteen lakkaamisesta ja viimeistään vuoden kuluessa siitä päivästä, jona määräaika päättyi.
 

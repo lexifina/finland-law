@@ -1,5 +1,5 @@
 # 14 §
-Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 
 Tiedoksianto muulle kuin 13 §:ssä tarkoitetulle yhdyskunnalle taikka yhtiölle, osuuskunnalle, yhdistykselle tai muulle yhteisölle tai yhtymälle taikka laitokselle tai säätiölle on, sikäli kuin jonkin tapauksen varalta ei toisin säädetä, toimitettava jollekin niistä, joilla on oikeus edustaa tiedoksiannon vastaanottajaa. Jollei edustajaa ole, tiedoksianto toimitetaan 10 §:ssä säädetyllä tavalla. Milloin tiedoksiannon vastaanottaja harjoittaa liikettä eikä sen edustajaa tavata, on tiedoksiannosta soveltuvin osin voimassa, mitä 7 §:ssä säädetään tiedoksiannon toimittamisesta sellaiselle henkilölle, joka harjoittaa liikettä.
 

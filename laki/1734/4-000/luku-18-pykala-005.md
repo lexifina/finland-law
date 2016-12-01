@@ -1,5 +1,5 @@
 # 5 §
-Luku: 18 LUKU Samassa oikeudenkäynnissä käsiteltävistä kanteista ja väliintulosta riita-asiassa
+Luku: 18 luku Samassa oikeudenkäynnissä käsiteltävistä kanteista ja väliintulosta riita-asiassa
 
 Jos asianosainen sen varalta, että hän häviää asian, haluaa esittää kolmatta vastaan takautumisvaatimuksen tai vahingonkorvausvaatimuksen tai siihen rinnastettavan muun vaatimuksen, hän saa nostaa tällaista vaatimusta koskevan kanteen käsiteltäväksi samassa oikeudenkäynnissä tuon asian kanssa.
 

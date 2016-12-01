@@ -1,5 +1,5 @@
 # 1 §
-Luku: 15 LUKU Oikeudenkäyntiasiamiehestä
+Luku: 15 luku Oikeudenkäyntiasiamiehestä
 
 Asianosainen, jota ei ole määrätty saapumaan henkilökohtaisesti tuomioistuimeen, saa oikeudenkäynnissä käyttää oikeudenkäyntiasiamiestä.
 

@@ -1,5 +1,5 @@
 # 2 §
-Luku: 5 LUKU Riita-asian vireillepano ja valmistelu
+Luku: 5 luku Riita-asian vireillepano ja valmistelu
 
 Haastehakemuksessa on ilmoitettava:
 1) kantajan yksilöity vaatimus;

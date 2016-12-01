@@ -1,5 +1,5 @@
 # 7 §
-Luku: 2 LUKU Päätösvaltaisuudesta
+Luku: 2 luku Päätösvaltaisuudesta
 
 Jos käräjäoikeus käsitellessään asiaa 6 §:ssä tarkoitetussa kokoonpanossa katsoo, että asia on käsiteltävä käräjäoikeuden 1 §:ssä tarkoitetussa kokoonpanossa, asia on siirrettävä sanotussa kokoonpanossa käsiteltäväksi.
 

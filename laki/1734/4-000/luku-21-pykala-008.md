@@ -1,5 +1,5 @@
 # 8 §
-Luku: 21 LUKU Oikeudenkäyntikuluista
+Luku: 21 luku Oikeudenkäyntikuluista
 
 Korvattavia oikeudenkäyntikuluja ovat oikeudenkäynnin valmistelusta ja asian tuomioistuimessa ajamisesta sekä asiamiehen tai avustajan palkkiosta aiheutuneet kustannukset. Korvausta suoritetaan myös oikeudenkäynnin asianosaiselle aiheuttamasta työstä ja oikeudenkäyntiin välittömästi liittyvästä menetyksestä.
 

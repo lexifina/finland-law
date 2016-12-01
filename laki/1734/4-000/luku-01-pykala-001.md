@@ -1,4 +1,4 @@
 # 1 §
-Luku: 1 LUKU Yleisistä tuomioistuimista
+Luku: 1 luku Yleiset säännökset
 
-Yleisiä tuomioistuimia ovat alioikeutena käräjäoikeus, ylioikeutena hovioikeus ja ylimpänä oikeusasteena korkein oikeus.
+Tätä lakia sovelletaan oikeudenkäyntiin yleisissä tuomioistuimissa, jollei oikeudenkäynnistä rikosasioissa annetusta laista (689/1997) tai muusta laista toisin johdu.

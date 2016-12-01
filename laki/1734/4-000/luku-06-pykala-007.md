@@ -1,5 +1,5 @@
 # 7 §
-Luku: 6 LUKU Riita-asian pääkäsittely
+Luku: 6 luku Riita-asian pääkäsittely
 
 Pääkäsittely saadaan 6 §:n 2 momentissa tarkoitetusta esteestä huolimatta aloittaa, jos on aihetta olettaa, ettei asian käsittelyä esteestä huolimatta tarvitse lykätä.
 

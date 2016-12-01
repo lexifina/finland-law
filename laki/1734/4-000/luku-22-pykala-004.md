@@ -1,5 +1,5 @@
 # 4 §
-Luku: 22 LUKU Käräjäoikeuden pöytäkirja ja todistelun taltiointi
+Luku: 22 luku Käräjäoikeuden pöytäkirja ja todistelun taltiointi
 
 Suullisen valmistelun pöytäkirjaan on 3 §:ssä säädetyn lisäksi merkittävä:
 1) esitetyt vaatimukset, väitteet, myöntämiset ja vastustamiset;

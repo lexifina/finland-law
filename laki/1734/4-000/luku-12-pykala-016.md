@@ -1,5 +1,5 @@
 # 16 §
-Luku: 12 LUKU Asianosaisista
+Luku: 12 luku Asianosaisista
 
 Asianosainen, jota vastaan on annettu yksipuolinen tuomio, ei saa valittaa siitä. Yksipuolisessa tuomiossa on tästä ilmoitettava ja samalla annettava ohjeet, minkä ajan kuluessa ja missä tuomioistuimessa takaisinsaantia on haettava.
 

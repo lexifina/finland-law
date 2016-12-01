@@ -1,5 +1,5 @@
 # 16 §
-Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 
 Haaste voidaan antaa tiedoksi myös vastaajan haasteen vastaanottamista varten valtuuttamalle asiamiehelle. Asianajajan tai julkisen oikeusavustajan tulee esittää valtakirja ainoastaan, jos tuomioistuin niin määrää.
 

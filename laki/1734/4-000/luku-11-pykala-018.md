@@ -1,5 +1,5 @@
 # 18 §
-Luku: 11 LUKU Tiedoksiannosta oikeudenkäynnissä
+Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 
 Jollei tiedoksiantoa ole toimitettu määrätyssä ajassa tai jos se on toimitettu virheellisesti, ja asianosainen jää tuomioistuimeen saapumatta tai ei anna häneltä pyydettyä kirjallista vastausta tai lausumaa, tiedoksianto on toimitettava uudelleen, jollei uutta tiedoksiantoa virheen vähäisyyden vuoksi ole pidettävä tarpeettomana.
 

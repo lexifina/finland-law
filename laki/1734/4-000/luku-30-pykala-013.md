@@ -1,5 +1,5 @@
 # 13 §
-Luku: 30 LUKU Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
+Luku: 30 luku Muutoksenhaku hovioikeudesta korkeimpaan oikeuteen
 Väliotsikko: Muutoksenhaku hovioikeuden ensimmäisenä oikeusasteena käsittelemässä asiassa
 
 Hovioikeuden ratkaisuun on liitettävä valitusosoitus, josta ilmenee, miten ratkaisuun tyytymättömän on meneteltävä saattaakseen valituksensa korkeimman oikeuden tutkittavaksi ja miten valitukseen vastataan.
