@@ -9,7 +9,7 @@ Joka suoraan tai välillisesti antaa tai kerää varoja rahoittaakseen tai tieto
 5) murhaa, tappoa, surmaa, törkeää pahoinpitelyä, vapaudenriistoa, törkeää vapaudenriistoa, törkeää ihmiskauppaa, panttivangin ottamista tai törkeää julkisrauhan rikkomista tai niillä uhkaamista, kun teko kohdistuu henkilöön, jota tarkoitetaan kansainvälistä suojelua nauttivia henkilöitä vastaan, mukaan lukien diplomaattiset edustajat, kohdistuvien rikosten ehkäisemistä ja rankaisemista koskevassa yleissopimuksessa (SopS 63/1978),
 on tuomittava terrorismin rahoittamisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kahdeksaksi vuodeksi.
 
-Terrorismin rahoittamisesta tuomitaan myös se, joka suoraan tai välillisesti antaa tai kerää varoja rahoittaakseen tai tietoisena siitä, että niillä rahoitetaan 1–4 tai 4 a–4 c §:ssä tarkoitettua rikosta.
+Terrorismin rahoittamisesta tuomitaan myös se, joka suoraan tai välillisesti antaa tai kerää varoja rahoittaakseen tai tietoisena siitä, että niillä rahoitetaan 1–4, 4 a–4 c tai 5 b §:ssä tarkoitettua rikosta.
 
 Yritys on rangaistava.
 
