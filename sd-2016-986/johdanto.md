@@ -1,0 +1,2 @@
+Laki rikesakkorikkomuksista
+Eduskunnan päätöksen mukaisesti säädetään:
