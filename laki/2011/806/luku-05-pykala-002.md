@@ -8,6 +8,6 @@ Matkustuskieltopäätöksessä voidaan kieltoon määrätty velvoittaa:
 4) ilmoittautumaan tiettyinä aikoina poliisille;
 5) oleskelemaan laitoksessa tai sairaalassa, jossa hän ennestään on tai johon hänet otetaan;
 6) olemaan ottamatta yhteyttä 1 §:n 1 momentin 2 kohdassa tarkoitettuun henkilöön; tai
-7) luovuttamaan passinsa poliisille.
+7) luovuttamaan passinsa ja matkustusasiakirjaksi hyväksyttävän henkilökorttinsa poliisille.
 
 Matkustuskieltopäätöksessä voidaan kuitenkin antaa lupa poistua siinä määrätyltä paikkakunnalta tai alueelta työssäkäyntiä varten tai muusta siihen rinnastettavasta syystä.
