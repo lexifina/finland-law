@@ -1,7 +1,7 @@
 # 2 § Esitutkinnan päättäminen
 Luku: 10 luku Esitutkinnan päättäminen
 
-Esitutkinnan valmistuttua asia on toimitettava syyttäjälle syyteharkintaa taikka rangaistusmääräyksen tai rikesakkomääräyksen antamista varten. Sotilasoikeuden-käyntiasiana tutkittavasta rikoksesta laadittu esitutkintapöytäkirja on toimitettava viipymättä sotilasviranomaiselle.
+Esitutkinnan valmistuttua asia on toimitettava syyttäjälle syyteharkintaa taikka sakon ja rikesakon määräämisestä annetussa laissa tarkoitetun määräyksen tai vaatimuksen antamista varten. Sotilasoikeudenkäyntiasiana tutkittavasta rikoksesta laadittu esitutkintapöytäkirja on toimitettava viipymättä sotilasviranomaiselle.
 
 Esitutkinta päätetään kuitenkin saattamatta asiaa syyttäjän käsiteltäväksi, jos tutkinnassa on selvinnyt, ettei rikosta ole tehty taikka ettei asiassa voida nostaa ketään vastaan syytettä tai esittää muuta rikokseen perustuvaa julkisoikeudellista vaatimusta.
 
