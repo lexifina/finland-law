@@ -1,0 +1,2 @@
+Laki tuomioistuinten ulkopuolista rikosasioiden käsittelyä koskevan uudistuksen voimaanpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
