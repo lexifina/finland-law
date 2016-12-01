@@ -10,4 +10,4 @@ Määrätessään muuntorangaistusta yhteisestä sakkorangaistuksesta tuomioistu
 
 Sitä sakon osaa, jolla sakon kokonaisrahamäärä on 3 §:n 2 momentin tai 7 luvun 3 a §:n nojalla korotettu, ei muunneta vankeudeksi.
 
-Rangaistusmääräysmenettelyssä annettua sakkorangaistusta ei muunneta vankeudeksi. Tällaista sakkoa ei muunneta vankeudeksi silloinkaan, kun tuomioistuin on tuominnut sen rangaistusvaatimuksen vastustamista seuranneessa oikeudenkäynnissä.
+Sakon ja rikesakon määräämisestä annetussa laissa säädetyssä menettelyssä annettua sakkorangaistusta ei muunneta vankeudeksi. Tällaista sakkoa ei muunneta vankeudeksi silloinkaan, kun tuomioistuin on tuominnut sen muutoksenhakuasteena.
