@@ -1,0 +1,2 @@
+Laki velkojien maksunsaantijärjestyksestä
+Eduskunnan päätöksen mukaisesti säädetään:
