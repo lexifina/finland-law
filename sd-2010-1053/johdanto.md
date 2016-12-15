@@ -1,0 +1,2 @@
+Laki työsuojeluun liittyvien arviointielimien hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
