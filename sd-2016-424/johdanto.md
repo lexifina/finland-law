@@ -1,0 +1,2 @@
+Laki suorasta kansainvälisestä rautatieliikenteestä Suomen tasavallan hallituksen ja Venäjän federaation hallituksen välillä tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
