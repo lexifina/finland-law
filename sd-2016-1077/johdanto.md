@@ -1,0 +1,2 @@
+Laki kilpailuoikeudellisista vahingonkorvauksista
+Eduskunnan päätöksen mukaisesti säädetään:
