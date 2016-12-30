@@ -1,0 +1,2 @@
+Laki Kansainvälisen rikostuomioistuimen Rooman perussääntöön vuonna 2010 hyväksyttyjen muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
