@@ -5,3 +5,5 @@ Kiinteistötietojärjestelmän suoritteista ja tietopalveluista peritään valti
 Perittävien maksujen suuruudesta säädetään maa- ja metsätalousministeriön asetuksella. Maa- ja metsätalousministeriön on ennen asetuksen antamista kuultava keskeisiä kiinteistötietojärjestelmän tiedon tuottajia.
 
 Julkishallinnon sisäiset vakiomuotoiset tietoluovutukset viranomaistoimintaa varten teknisen käyttöyhteyden kautta ovat maksuttomia.
+
+Kiinteistötunnusta ja kiinteistöjaotusta koskevan tiedon käyttöoikeus on maksuton.
