@@ -1,0 +1,3 @@
+# 8 § Kuolevuusperustetäydennys
+
+Eläkekassan tasausvastuuseen siirretään vakuutusteknisen vastuuvelan laskuperusteiden muutoksesta aiheutuvien kustannusten kattamiseksi 31 päivänä joulukuuta 2016 vakavaraisuuspääomasta määrä, joka on merimieseläkelain 202 §:ssä tarkoitetuissa vakuutusteknisen vastuuvelan laskuperusteissa vahvistettu prosenttimäärä 31 päivänä joulukuuta 2015 mennessä karttuneesta vanhuuseläkevastuusta. Prosenttimäärä vahvistetaan sen suuruiseksi, että se vastaa työntekijän eläkelain muuttamisesta annetun lain voimaanpanolain (71/2016) 10 §:ssä tarkoitettua työntekijän eläkelain mukaisissa vastuuvelan tai eläkevastuun laskuperusteissa vahvistettua prosenttimäärää.

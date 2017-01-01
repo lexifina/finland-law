@@ -1,0 +1,3 @@
+# 9 § Oikeus eläkkeeseen lisäeläkejärjestelyn eläkeiässä
+
+Jos henkilöllä on työntekijän eläkelain muuttamisesta annetun lain voimaanpanolain (69/2016) 8 §:n tai työntekijän eläkelain voimaanpanolain (396/2006) 30 b §:n 2 momentin perusteella oikeus vanhuuseläkkeeseen merimieseläkelain 8 §:n mukaista alinta vanhuuseläkeikäänsä alemmassa eläkeiässä, on hänellä oikeus samasta ajankohdasta myös merimieseläkelain mukaiseen eläkkeeseen. Tällöin merimieseläkelain mukaista eläkettä vähennetään 0,4 prosenttia jokaiselta kuukaudelta, jolta eläkkeen alkamisaikaa varhennetaan ennen työntekijän alimman vanhuuseläkeiän täyttämistä seuraavan kuukauden alkua. Tarkemmat säännökset merimieseläkelain mukaisen eläkkeen vähentämisestä annetaan sosiaali- ja terveysministeriön asetuksella.
