@@ -1,5 +1,5 @@
 # 1 § Huumausainerikos
-Luku: 50 LUKU Huumausainerikoksista
+Luku: 50 luku Huumausainerikoksista
 
 Joka laittomasti
 1) valmistaa tai yrittää valmistaa huumausainetta taikka viljelee tai yrittää viljellä kokapensasta, kat-kasvia (Catha edulis) tai Psilosybe-sieniä,

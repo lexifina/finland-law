@@ -1,5 +1,5 @@
 # 11 § Maksuvälinepetoksen valmistelu
-Luku: 37 LUKU Maksuvälinerikoksista
+Luku: 37 luku Maksuvälinerikoksista
 
 Joka maksuvälinepetosrikoksen tekemistä varten
 1) valmistaa, tuo maahan, hankkii, vastaanottaa tai pitää hallussaan maksuvälinelomakkeen tai

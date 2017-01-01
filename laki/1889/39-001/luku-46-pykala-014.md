@@ -1,5 +1,5 @@
 # 14 § Määritelmät
-Luku: 46 LUKU Maahantuontiin ja maastavientiin liittyvät rikokset
+Luku: 46 luku Maahantuontiin ja maastavientiin liittyvät rikokset
 
 Verolla tarkoitetaan tässä luvussa veron ennakkoa lukuun ottamatta 29 luvun 9 §:n 1 momentissa tarkoitettua veroa.
 

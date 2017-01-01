@@ -1,5 +1,5 @@
 # 5 § Törkeä kavallus
-Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
+Luku: 28 luku Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
 Jos kavalluksessa
 1) kohteena on erittäin arvokas omaisuus tai suuri määrä varoja,

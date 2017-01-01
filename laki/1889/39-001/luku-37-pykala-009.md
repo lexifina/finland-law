@@ -1,5 +1,5 @@
 # 9 § Törkeä maksuvälinepetos
-Luku: 37 LUKU Maksuvälinerikoksista
+Luku: 37 luku Maksuvälinerikoksista
 
 Jos maksuvälinepetoksessa
 1) aiheutetaan huomattavaa tai erityisen tuntuvaa vahinkoa tai

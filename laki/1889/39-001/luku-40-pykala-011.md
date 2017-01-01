@@ -1,5 +1,5 @@
 # 11 § Määritelmät
-Luku: 40 LUKU Virkarikoksista
+Luku: 40 luku Virkarikoksista
 
 Tässä laissa tarkoitetaan:
 1) virkamiehellä henkilöä, joka on virka- tai siihen rinnastettavassa palvelussuhteessa valtioon, kuntaan taikka kuntayhtymään tai muuhun kuntien julkisoikeudelliseen yhteistoimintaelimeen, eduskuntaan, valtion liikelaitokseen taikka evankelisluterilaiseen kirkkoon tai ortodoksiseen kirkkokuntaan tai sen seurakuntaan tai seurakuntien yhteistoimintaelimeen, Ahvenanmaan maakuntaan, Suomen Pankkiin, Kansaneläkelaitokseen, Työterveyslaitokseen, kunnalliseen eläkelaitokseen, Kuntien takauskeskukseen tai kunnalliseen työmarkkinalaitokseen;

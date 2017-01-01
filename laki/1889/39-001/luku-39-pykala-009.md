@@ -1,5 +1,5 @@
 # 9 § Syyteoikeus
-Luku: 39 LUKU Velallisen rikoksista
+Luku: 39 luku Velallisen rikoksista
 
 Syyttäjä ei saa nostaa syytettä velallisrikkomuksesta eikä velkojansuosinnasta, ellei asianomistaja ilmoita sitä syytteeseen pantavaksi.
 

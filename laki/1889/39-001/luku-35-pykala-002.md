@@ -1,5 +1,5 @@
 # 2 § Törkeä vahingonteko
-Luku: 35 LUKU Vahingonteosta
+Luku: 35 luku Vahingonteosta
 
 Jos vahingonteolla aiheutetaan
 1) erittäin suurta taloudellista vahinkoa,

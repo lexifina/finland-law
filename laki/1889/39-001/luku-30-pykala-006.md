@@ -1,5 +1,5 @@
 # 6 § Yrityssalaisuuden väärinkäyttö
-Luku: 30 LUKU Elinkeinorikoksista
+Luku: 30 luku Elinkeinorikoksista
 
 Joka oikeudettomasti
 1) käyttää tässä laissa rangaistavaksi säädetyllä teolla tietoon saatua tai ilmaistua toiselle kuuluvaa yrityssalaisuutta elinkeinotoiminnassa taikka

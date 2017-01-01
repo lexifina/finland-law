@@ -1,5 +1,5 @@
 # 3 a § Sakko ja rikesakko
-Luku: 7 LUKU Yhteisestä rangaistuksesta
+Luku: 7 luku Yhteisestä rangaistuksesta
 
 Jos kahdesta tai useammasta rikoksesta olisi tuomittava samalla kertaa sakkorangaistus ja rikesakko, rangaistukseksi tuomitaan sakkorangaistus tai yhteinen sakkorangaistus 40 eurolla korotettuna. Jalankulkijalle tai moottorittoman ajoneuvon kuljettajalle tuomittavaa rikesakkoa ei kuitenkaan oteta huomioon korotusta määrättäessä.
 

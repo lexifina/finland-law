@@ -1,5 +1,5 @@
 # 3 a § Valmismatkaliikerikkomus ja valmismatkaliikerikos
-Luku: 30 LUKU Elinkeinorikoksista
+Luku: 30 luku Elinkeinorikoksista
 
 Joka tahallaan tai törkeästä huolimattomuudesta
 1) ilman, että hänet on valmismatkaliikkeistä annetun lain (939/2008) 6 §:n mukaisesti rekisteröity valmismatkaliikkeen harjoittajaksi, harjoittaa sellaista valmismatkaliikettä, johon ei vaadita vakuutta, tai käyttää nimitystä matkatoimisto tai valmismatkaliike tai

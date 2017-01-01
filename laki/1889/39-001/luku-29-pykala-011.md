@@ -1,5 +1,5 @@
 # 11 § Veron- ja tullinkorotuksen suhde veropetokseen ja verorikkomukseen
-Luku: 29 LUKU Rikoksista julkista taloutta vastaan
+Luku: 29 luku Rikoksista julkista taloutta vastaan
 
 Edellä 1, 3 ja 4 §:ssä tarkoitetussa rikosasiassa voidaan jättää ilmoitus tekemättä, esitutkinta toimittamatta, syyte ajamatta sekä rangaistus määräämättä, jos veron- tai tullinkorotus harkitaan riittäväksi seuraamukseksi. Asiaa arvioitaessa otetaan huomioon teon tai laiminlyönnin vakavuus ja toistuvuus, odotettavissa oleva rangaistus, tekoon tai laiminlyöntiin liittyvän veron tai tullin määrä, veron- tai tullinkorotuksen suuruus sekä verovelvolliselle teosta tai laiminlyönnistä mahdollisesti aiheutuneet muut seuraukset.
 

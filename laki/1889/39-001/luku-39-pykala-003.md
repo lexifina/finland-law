@@ -1,5 +1,5 @@
 # 3 § Törkeä velallisen petos
-Luku: 39 LUKU Velallisen rikoksista
+Luku: 39 luku Velallisen rikoksista
 
 Jos velallisen petoksessa
 1) tavoitellaan huomattavaa hyötyä tai

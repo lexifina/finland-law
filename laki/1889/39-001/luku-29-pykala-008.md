@@ -1,5 +1,5 @@
 # 8 § Avustusrikkomus
-Luku: 29 LUKU Rikoksista julkista taloutta vastaan
+Luku: 29 luku Rikoksista julkista taloutta vastaan
 
 Jos avustuspetos tai avustuksen väärinkäyttö, huomioon ottaen tavoitellun hyödyn määrä tai muut rikokseen liittyvät seikat, on kokonaisuutena arvostellen vähäinen, rikoksentekijä on tuomittava avustusrikkomuksesta sakkoon.
 

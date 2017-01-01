@@ -1,5 +1,5 @@
 # 2 § Törkeä väärennys
-Luku: 33 LUKU Väärennysrikoksista
+Luku: 33 luku Väärennysrikoksista
 
 Jos väärennyksessä
 1) rikoksen kohteena oleva todistuskappale on yleiseltä kannalta tärkeä viranomaisen säilyttämä arkistoasiakirja tai viranomaisen pitämä yleinen rekisteri taikka jos todistuskappale on todistusarvoltaan muuten erityisen merkityksellinen tai

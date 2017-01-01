@@ -1,5 +1,5 @@
 # 9 § Määritelmät ja vastuun kohdentaminen
-Luku: 29 LUKU Rikoksista julkista taloutta vastaan
+Luku: 29 luku Rikoksista julkista taloutta vastaan
 
 Verolla tarkoitetaan tässä luvussa myös
 1) veron ennakkoa ja veroon rinnastettavaa julkista maksua ja

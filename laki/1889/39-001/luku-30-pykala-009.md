@@ -1,5 +1,5 @@
 # 9 § Kirjanpitorikos
-Luku: 30 LUKU Elinkeinorikoksista
+Luku: 30 luku Elinkeinorikoksista
 
 Jos kirjanpitovelvollinen, tämän edustaja, kirjanpitovelvollisessa oikeushenkilössä tosiasiallista määräysvaltaa käyttävä tai se, jonka tehtäväksi kirjanpito on toimeksiannolla uskottu,
 1) laiminlyö liiketapahtumien kirjaamista tai tilinpäätöksen laatimista vastoin kirjanpitolainsäädännön mukaisia velvollisuuksia,

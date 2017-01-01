@@ -1,5 +1,5 @@
 # 4 a § Törkeä lahjuksen ottaminen kansanedustajana
-Luku: 40 LUKU Virkarikoksista
+Luku: 40 luku Virkarikoksista
 
 Jos lahjuksen ottamisessa kansanedustajana
 1) kansanedustaja asettaa lahjan tai edun toimintansa ehdoksi taikka toimii tai hänen tarkoituksenaan on toimia edustajantoimessaan lahjuksen antajaa tai toista huomattavasti hyödyttäen tai toiselle tuntuvaa vahinkoa tai haittaa aiheuttaen taikka

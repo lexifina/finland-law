@@ -1,5 +1,5 @@
 # 2 § Törkeä varkaus
-Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
+Luku: 28 luku Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
 Jos varkaudessa
 1) anastamisen kohteena on erittäin arvokas omaisuus,

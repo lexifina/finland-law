@@ -1,5 +1,5 @@
 # 8 § Lahjuksen ottaminen elinkeinotoiminnassa
-Luku: 30 LUKU Elinkeinorikoksista
+Luku: 30 luku Elinkeinorikoksista
 
 Joka
 1) elinkeinonharjoittajan palveluksessa ollessaan,

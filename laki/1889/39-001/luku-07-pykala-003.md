@@ -1,5 +1,5 @@
 # 3 § Yhteinen sakkorangaistus
-Luku: 7 LUKU Yhteisestä rangaistuksesta
+Luku: 7 luku Yhteisestä rangaistuksesta
 
 Jos joku olisi tuomittava samalla kertaa kahdesta tai useammasta rikoksesta sakkorangaistukseen, hänet tuomitaan yhteiseen sakkorangaistukseen.
 

@@ -1,5 +1,5 @@
 # 9 a § Törkeä kirjanpitorikos
-Luku: 30 LUKU Elinkeinorikoksista
+Luku: 30 luku Elinkeinorikoksista
 
 Jos kirjanpitorikoksessa
 1) liiketapahtumien kirjaaminen tai tilinpäätöksen laatiminen laiminlyödään kokonaan tai olennaisilta osiltaan,

@@ -1,5 +1,5 @@
 # 5 § Yhteisen rangaistuksen mittaaminen
-Luku: 7 LUKU Yhteisestä rangaistuksesta
+Luku: 7 luku Yhteisestä rangaistuksesta
 
 Yhteisen vankeusrangaistuksen ja sakkorangaistuksen mittaamisessa noudatetaan soveltuvin osin 6 luvun säännöksiä.
 

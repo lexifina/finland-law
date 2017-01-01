@@ -1,5 +1,5 @@
 # 4 § Kavallus
-Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
+Luku: 28 luku Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
 Joka anastaa hallussaan olevia varoja tai muuta irtainta omaisuutta, on tuomittava kavalluksesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi kuudeksi kuukaudeksi.
 

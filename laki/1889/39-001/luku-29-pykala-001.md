@@ -1,5 +1,5 @@
 # 1 § Veropetos
-Luku: 29 LUKU Rikoksista julkista taloutta vastaan
+Luku: 29 luku Rikoksista julkista taloutta vastaan
 
 Joka
 1) antamalla viranomaiselle verotusta varten väärän tiedon veron määräämiseen vaikuttavasta seikasta,

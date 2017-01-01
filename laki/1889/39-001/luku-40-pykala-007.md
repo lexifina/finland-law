@@ -1,5 +1,5 @@
 # 7 § Virka-aseman väärinkäyttäminen
-Luku: 40 LUKU Virkarikoksista
+Luku: 40 luku Virkarikoksista
 
 Jos virkamies hankkiakseen itselleen tai toiselle hyötyä taikka aiheuttaakseen toiselle haittaa tai vahinkoa
 1) rikkoo virkatoiminnassa noudatettaviin säännöksiin tai määräyksiin perustuvan virkavelvollisuutensa osallistuessaan päätöksentekoon tai sen valmisteluun tai käyttäessään julkista valtaa muissa virkatehtävissään taikka

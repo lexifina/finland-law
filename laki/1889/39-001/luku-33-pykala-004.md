@@ -1,5 +1,5 @@
 # 4 § Väärennysaineiston hallussapito
-Luku: 33 LUKU Väärennysrikoksista
+Luku: 33 luku Väärennysrikoksista
 
 Joka ilman hyväksyttävää syytä
 1) vastaanottaa, hankkii, kuljettaa tai pitää hallussaan väärän tai väärennetyn todistuskappaleen tai

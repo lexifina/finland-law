@@ -1,5 +1,5 @@
 # 3 b § Törkeä datavahingonteko
-Luku: 35 LUKU Vahingonteosta
+Luku: 35 luku Vahingonteosta
 
 Jos datavahingonteossa
 1) aiheutetaan erityisen tuntuvaa haittaa tai taloudellista vahinkoa,

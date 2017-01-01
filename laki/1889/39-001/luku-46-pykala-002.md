@@ -1,5 +1,5 @@
 # 2 § Törkeä säännöstelyrikos
-Luku: 46 LUKU Maahantuontiin ja maastavientiin liittyvät rikokset
+Luku: 46 luku Maahantuontiin ja maastavientiin liittyvät rikokset
 
 Jos säännöstelyrikoksessa
 1) tavoitellaan huomattavaa taloudellista hyötyä,

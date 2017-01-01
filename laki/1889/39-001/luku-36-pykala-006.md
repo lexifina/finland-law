@@ -1,5 +1,5 @@
 # 6 § Kiskonta
-Luku: 36 LUKU Petoksesta ja muusta epärehellisyydestä
+Luku: 36 luku Petoksesta ja muusta epärehellisyydestä
 
 Joka käyttämällä hyväksi toisen taloudellista tai muuta ahdinkoa, riippuvaista asemaa, ymmärtämättömyyttä tai ajattelemattomuutta jonkin sopimuksen tai muun oikeustoimen yhteydessä hankkii tai edustaa itselleen tai toiselle taloudellista etua, joka on selvästi epäsuhteessa vastikkeeseen, on tuomittava kiskonnasta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 

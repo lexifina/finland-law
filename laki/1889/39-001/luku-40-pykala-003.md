@@ -1,5 +1,5 @@
 # 3 § Lahjusrikkomus
-Luku: 40 LUKU Virkarikoksista
+Luku: 40 luku Virkarikoksista
 
 Jos virkamies itselleen tai toiselle
 1) pyytää lahjan tai muun oikeudettoman edun taikka tekee muutoin aloitteen sellaisen edun saamiseksi taikka

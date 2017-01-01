@@ -1,5 +1,5 @@
 # 7 § Lahjominen elinkeinotoiminnassa
-Luku: 30 LUKU Elinkeinorikoksista
+Luku: 30 luku Elinkeinorikoksista
 
 Joka
 1) elinkeinonharjoittajan palveluksessa olevalle,

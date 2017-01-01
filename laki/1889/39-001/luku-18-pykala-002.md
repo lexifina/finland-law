@@ -1,5 +1,5 @@
 # 2 §
-Luku: 18 LUKU Rikoksista sukuoikeuksia vastaan
+Luku: 18 luku Rikoksista sukuoikeuksia vastaan
 
 Joka tahallansa tuo esiin pettolapsen taikka vaihtaa lapsen, taikka muulla tavalla tahallansa muuttaa tahi polkee toisen sukuoikeutta, rangaistakoon vankeudella.
 

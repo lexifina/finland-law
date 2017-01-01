@@ -1,5 +1,5 @@
 # 7 § Tulliselvitysrikos
-Luku: 46 LUKU Maahantuontiin ja maastavientiin liittyvät rikokset
+Luku: 46 luku Maahantuontiin ja maastavientiin liittyvät rikokset
 
 Joka jättää täyttämättä tullilainsäädännössä säädetyn ilmoitus- tai tiedonantovelvollisuuden taikka sellaista velvollisuutta täyttäessään antaa väärän tai puutteellisen tiedon siten, että teko on omiaan aiheuttamaan
 1) veron määräämättä jättämisen, sen määräämisen liian alhaisena tai veron aiheettoman palauttamisen,

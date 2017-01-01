@@ -1,5 +1,5 @@
 # 2 § Törkeä rahanväärennys
-Luku: 37 LUKU Maksuvälinerikoksista
+Luku: 37 luku Maksuvälinerikoksista
 
 Jos rahanväärennyksessä
 1) väärän tai väärennetyn rahan määrä tai arvomäärä on huomattava tai

@@ -1,5 +1,5 @@
 # 1 § Ryöstö
-Luku: 31 LUKU Ryöstöstä ja kiristyksestä
+Luku: 31 luku Ryöstöstä ja kiristyksestä
 
 Joka
 1) käyttämällä henkilöön kohdistuvaa väkivaltaa tai uhkaamalla välittömästi käyttää sellaista väkivaltaa toisen hallusta anastaa tai ottaa luvattomasti käyttöön toisen irtainta omaisuutta taikka

@@ -1,5 +1,5 @@
 # 8 § Syyteoikeus
-Luku: 36 LUKU Petoksesta ja muusta epärehellisyydestä
+Luku: 36 luku Petoksesta ja muusta epärehellisyydestä
 
 Syyttäjä ei saa nostaa syytettä lievästä petoksesta eikä luottamusaseman väärinkäytöstä, ellei asianomistaja ilmoita sitä syytteeseen pantavaksi.
 

@@ -1,5 +1,5 @@
 # 3 §
-Luku: 2 LUKU Rangaistuksista
+Luku: 2 luku Rangaistuksista
 
 Milloin laissa on säädetty rangaistukseksi kuritushuonetta, on kuritushuonerangaistuksen sijasta tuomittava vankeusrangaistus.
 

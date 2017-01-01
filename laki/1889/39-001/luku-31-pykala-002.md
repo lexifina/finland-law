@@ -1,5 +1,5 @@
 # 2 § Törkeä ryöstö
-Luku: 31 LUKU Ryöstöstä ja kiristyksestä
+Luku: 31 luku Ryöstöstä ja kiristyksestä
 
 Jos ryöstössä
 1) aiheutetaan tahallisesti toiselle vaikea ruumiinvamma, vakava sairaus tai hengenvaarallinen tila,

@@ -1,5 +1,5 @@
 # 11 § Puolustustarvikkeiden maastavientirikos
-Luku: 46 LUKU Maahantuontiin ja maastavientiin liittyvät rikokset
+Luku: 46 luku Maahantuontiin ja maastavientiin liittyvät rikokset
 
 Joka ilman puolustustarvikkeiden viennistä annetussa laissa (282/2012) tarkoitettua lupaa
 1) vie tai siirtää Suomesta puolustustarvikkeita,

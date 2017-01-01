@@ -1,5 +1,5 @@
 # 10 §
-Luku: 2 LUKU Rangaistuksista
+Luku: 2 luku Rangaistuksista
 
 Virkamies, julkista luottamustehtävää hoitava henkilö tai julkista valtaa käyttävä henkilö, joka tuomitaan elinkaudeksi vankeuteen, on myös tuomittava pantavaksi viralta. Hänet on tuomittava pantavaksi viralta myös, jos hänet tuomitaan vankeuteen määräajaksi, vähintään kahdeksi vuodeksi, paitsi jos tuomioistuin katsoo, ettei rikos osoita tuomittua sopimattomaksi olemaan virkamiehenä tai hoitamaan julkista tehtävää.
 

@@ -1,5 +1,5 @@
 # 4 § Törkeä kiristys
-Luku: 31 LUKU Ryöstöstä ja kiristyksestä
+Luku: 31 luku Ryöstöstä ja kiristyksestä
 
 Jos kiristyksessä
 1) uhataan vakavanlaatuisella rikoksella, joka vaarantaisi toisen hengen tai terveyden tai aiheuttaisi huomattavaa vahinkoa toisen omaisuudelle,

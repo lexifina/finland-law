@@ -1,5 +1,5 @@
 # 6 § Määritelmät
-Luku: 33 LUKU Väärennysrikoksista
+Luku: 33 luku Väärennysrikoksista
 
 Todistuskappaleena pidetään tässä laissa asiakirjaa ja sen näköisjäljennöstä, merkkiä, leimaa, rekisterikilpeä, ääni- ja kuvatallennetta, piirturin, laskimen tai muun vastaavan teknisen laitteen tuottamaa tallennetta sekä automaattiseen tietojenkäsittelyyn soveltuvaa tallennetta, jos sitä käytetään tai voidaan käyttää oikeudellisesti merkityksellisenä todisteena oikeuksista, velvoitteista tai tosiasioista.
 

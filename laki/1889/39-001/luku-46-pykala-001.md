@@ -1,5 +1,5 @@
 # 1 § Säännöstelyrikos
-Luku: 46 LUKU Maahantuontiin ja maastavientiin liittyvät rikokset
+Luku: 46 luku Maahantuontiin ja maastavientiin liittyvät rikokset
 
 Joka rikkoo tai yrittää rikkoa
 1) eräiden Suomelle Yhdistyneiden Kansakuntien ja Euroopan unionin jäsenenä kuuluvien velvoitusten täyttämisestä annetussa laissa (659/1967),

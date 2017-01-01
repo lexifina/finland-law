@@ -1,5 +1,5 @@
 # 4 § Lahjuksen ottaminen kansanedustajana
-Luku: 40 LUKU Virkarikoksista
+Luku: 40 luku Virkarikoksista
 
 Jos kansanedustaja itselleen tai toiselle
 1) pyytää lahjan tai muun oikeudettoman edun taikka tekee muutoin aloitteen sellaisen edun saamiseksi taikka

@@ -1,5 +1,5 @@
 # 1 § Petos
-Luku: 36 LUKU Petoksesta ja muusta epärehellisyydestä
+Luku: 36 luku Petoksesta ja muusta epärehellisyydestä
 
 Joka, hankkiakseen itselleen tai toiselle oikeudetonta taloudellista hyötyä taikka toista vahingoittaakseen, erehdyttämällä tai erehdystä hyväksi käyttämällä saa toisen tekemään tai jättämään tekemättä jotakin ja siten aiheuttaa taloudellista vahinkoa erehtyneelle tai sille, jonka eduista tällä on ollut mahdollisuus määrätä, on tuomittava petoksesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 

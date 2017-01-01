@@ -1,5 +1,5 @@
 # 15 § Rajoitussäännös
-Luku: 46 LUKU Maahantuontiin ja maastavientiin liittyvät rikokset
+Luku: 46 luku Maahantuontiin ja maastavientiin liittyvät rikokset
 
 Tämän luvun 1–5, 7–10 ja 12 §:ssä tarkoitettuna rikoksena ei pidetä vähäistä ilmoittamis- tai tiedonantovelvollisuuden laiminlyöntiä eikä muuta vähäistä menettelytapamääräyksen rikkomista.
 

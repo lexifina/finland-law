@@ -1,5 +1,5 @@
 # 12 § Vakuusoikeuden loukkaus
-Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
+Luku: 28 luku Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
 Joka loukkaa toisen pantti- tai pidätysoikeutta
 1) hävittämällä, vahingoittamalla, ottamalla haltuunsa tai käyttämällä omaisuuttaan tai

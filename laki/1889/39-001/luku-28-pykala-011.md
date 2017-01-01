@@ -1,5 +1,5 @@
 # 11 § Hallinnan loukkaus
-Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
+Luku: 28 luku Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
 Joka luvattomasti
 1) ottaa haltuunsa, siirtää tai piilottaa toisen hallinnassa olevaa irtainta omaisuutta,

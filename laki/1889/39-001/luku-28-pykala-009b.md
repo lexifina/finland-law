@@ -1,5 +1,5 @@
 # 9 b § Törkeä moottorikulkuneuvon käyttövarkaus
-Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
+Luku: 28 luku Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
 Jos moottorikulkuneuvon käyttövarkaudessa
 1) tavoitellaan huomattavaa taloudellista hyötyä tai

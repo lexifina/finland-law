@@ -1,5 +1,5 @@
 # 1 a § Alkoholijuoman markkinointirikos
-Luku: 30 LUKU Elinkeinorikoksista
+Luku: 30 luku Elinkeinorikoksista
 
 Joka alkoholilain 33 §:n tai sen nojalla annetun säännöksen vastaisesti
 1) mainostaa suorasti tai epäsuorasti väkevää alkoholijuomaa tai muuten edistää väkevän alkoholijuoman myyntiä,

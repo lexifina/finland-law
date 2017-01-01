@@ -1,5 +1,5 @@
 # 12 § Syyteoikeus
-Luku: 30 LUKU Elinkeinorikoksista
+Luku: 30 luku Elinkeinorikoksista
 
 Syyttäjän on ennen markkinointirikosta koskevan syytteen nostamista varattava kuluttaja-asiamiehelle sekä ennen alkoholijuoman markkinointirikosta koskevan syytteen nostamista Sosiaali- ja terveysalan lupa- ja valvontavirastolle tilaisuus antaa lausuntonsa asiassa. Tuomioistuimen on markkinointirikosta ja kilpailumenettelyrikosta koskevaa asiaa käsitellessään varattava kuluttaja-asiamiehelle sekä alkoholijuoman markkinointirikosta koskevaa asiaa käsitellessään Sosiaali- ja terveysalan lupa- ja valvontavirastolle tilaisuus tulla kuulluksi.
 

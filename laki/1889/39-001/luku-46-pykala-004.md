@@ -1,5 +1,5 @@
 # 4 § Salakuljetus
-Luku: 46 LUKU Maahantuontiin ja maastavientiin liittyvät rikokset
+Luku: 46 luku Maahantuontiin ja maastavientiin liittyvät rikokset
 
 Joka ilman asianmukaista lupaa taikka muuten tuontia tai vientiä koskevien säännösten tai määräysten vastaisesti tuo tai yrittää tuoda maahan taikka vie tai yrittää viedä maasta tavaraa, jonka tuonti tai vienti on kielletty tai edellyttää viranomaisen lupaa tai tarkastusta, on tuomittava salakuljetuksesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 

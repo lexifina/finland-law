@@ -1,5 +1,5 @@
 # 7 § Törkeä rahanpesu
-Luku: 32 LUKU Kätkemis- ja rahanpesurikoksista
+Luku: 32 luku Kätkemis- ja rahanpesurikoksista
 
 Jos rahanpesussa
 1) rikoksen kautta saatu omaisuus on ollut erittäin arvokas tai

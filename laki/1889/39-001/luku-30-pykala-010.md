@@ -1,5 +1,5 @@
 # 10 § Tuottamuksellinen kirjanpitorikos
-Luku: 30 LUKU Elinkeinorikoksista
+Luku: 30 luku Elinkeinorikoksista
 
 Jos kirjanpitovelvollinen, tämän edustaja, kirjanpitovelvollisessa oikeushenkilössä tosiasiallista määräysvaltaa käyttävä tai se, jonka tehtäväksi kirjanpito on toimeksiannolla uskottu, törkeästä huolimattomuudesta
 1) laiminlyö kokonaan tai osaksi liiketapahtumien kirjaamisen tai tilinpäätöksen laatimisen taikka

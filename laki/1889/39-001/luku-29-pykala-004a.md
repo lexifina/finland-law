@@ -1,5 +1,5 @@
 # 4 a § Työeläkevakuutusmaksupetos
-Luku: 29 LUKU Rikoksista julkista taloutta vastaan
+Luku: 29 luku Rikoksista julkista taloutta vastaan
 
 Työnantaja tai tämän edustaja, joka
 1) laiminlyömällä työntekijän eläkelain (395/2006) 141 §:n tai merimieseläkelain (1290/2006) 138 §:n mukaisen työntekijän eläketurvan järjestämisvelvollisuuden tai työntekijän eläkelain 144 §:ssä tai sen nojalla annetussa asetuksessa tai merimieseläkelain 139 §:ssä tarkoitetun ilmoitusvelvollisuuden tai

@@ -1,5 +1,5 @@
 # 5 § Avustuspetos
-Luku: 29 LUKU Rikoksista julkista taloutta vastaan
+Luku: 29 luku Rikoksista julkista taloutta vastaan
 
 Joka
 1) antaa avustuksesta päättävälle väärän tiedon seikasta, joka on omiaan olennaisesti vaikuttamaan avustuksen saantiin, määrään tai ehtoihin, tai salaa sellaisen seikan tai

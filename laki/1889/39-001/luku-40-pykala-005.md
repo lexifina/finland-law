@@ -1,5 +1,5 @@
 # 5 § Virkasalaisuuden rikkominen ja tuottamuksellinen virkasalaisuuden rikkominen
-Luku: 40 LUKU Virkarikoksista
+Luku: 40 luku Virkarikoksista
 
 Jos virkamies tahallaan palvelussuhteensa aikana tai sen päätyttyä oikeudettomasti
 1) paljastaa sellaisen asiakirjan tai tiedon, joka viranomaisten toiminnan julkisuudesta annetun lain (621/1999) tai muun lain mukaan on salassa pidettävä tai jota ei lain mukaan saa ilmaista, taikka

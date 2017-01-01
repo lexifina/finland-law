@@ -1,5 +1,5 @@
 # 9 § Määritelmät
-Luku: 35 LUKU Vahingonteosta
+Luku: 35 luku Vahingonteosta
 
 Mitä 38 luvun 13 §:n 1 momentissa säädetään tietojärjestelmän määritelmästä, sovelletaan myös tämän luvun 3 a ja 3 b §:ään.
 

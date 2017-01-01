@@ -1,5 +1,5 @@
 # 1 § Yhteisen vankeusrangaistuksen määrääminen
-Luku: 7 LUKU Yhteisestä rangaistuksesta
+Luku: 7 luku Yhteisestä rangaistuksesta
 
 Jos joku on tuomittava samalla kertaa kahdesta tai useammasta rikoksesta vankeusrangaistukseen, hänet tuomitaan rikoksista yhteiseen vankeusrangaistukseen, jollei muualla laissa toisin säädetä.
 

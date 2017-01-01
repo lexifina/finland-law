@@ -1,5 +1,5 @@
 # 12 § Soveltamisalasäännökset
-Luku: 40 LUKU Virkarikoksista
+Luku: 40 luku Virkarikoksista
 
 Tämän luvun virkamiestä koskevia säännöksiä sovelletaan myös julkista luottamustehtävää hoitavaan henkilöön ja julkista valtaa käyttävään henkilöön.
 

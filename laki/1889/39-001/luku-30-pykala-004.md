@@ -1,5 +1,5 @@
 # 4 § Yritysvakoilu
-Luku: 30 LUKU Elinkeinorikoksista
+Luku: 30 luku Elinkeinorikoksista
 
 Joka oikeudettomasti hankkii tiedon toiselle kuuluvasta yrityssalaisuudesta
 1) tunkeutumalla ulkopuolisilta suljettuun paikkaan taikka ulkopuolisilta suojattuun tietojärjestelmään,

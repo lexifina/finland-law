@@ -1,5 +1,5 @@
 # 8 § Törkeä tulliselvitysrikos
-Luku: 46 LUKU Maahantuontiin ja maastavientiin liittyvät rikokset
+Luku: 46 luku Maahantuontiin ja maastavientiin liittyvät rikokset
 
 Jos tulliselvitysrikoksessa
 1) teko on omiaan aiheuttamaan huomattavaa taloudellista hyötyä,

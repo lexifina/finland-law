@@ -1,5 +1,5 @@
 # 8 § Törkeä luvaton käyttö
-Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
+Luku: 28 luku Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
 Jos luvattomassa käytössä
 1) tavoitellaan huomattavaa taloudellista hyötyä tai

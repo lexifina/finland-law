@@ -1,5 +1,5 @@
 # 1 §
-Luku: 18 LUKU Rikoksista sukuoikeuksia vastaan
+Luku: 18 luku Rikoksista sukuoikeuksia vastaan
 
 Jos joku sanoo nimensä tahi säätynsä muuksi, kuin se on, ja jos toinen siten aviosopimukseen petetään; taikka jos joku toisen viettelee aviosopimukseen siten, että salaa laillisen avioliitonesteen taikka seikan, joka voi saattaa avioliiton purkautumaan; rangaistakoon vankeudella korkeintaan yhdeksi vuodeksi taikka sakolla.
 

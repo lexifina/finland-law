@@ -1,5 +1,5 @@
 # 2 a § Törkeän ryöstön valmistelu
-Luku: 31 LUKU Ryöstöstä ja kiristyksestä
+Luku: 31 luku Ryöstöstä ja kiristyksestä
 
 Joka 2 §:ssä tarkoitetun rikoksen tekemistä varten
 1) pitää hallussaan ampuma- tai teräasetta tai muuta niihin rinnastettavaa hengenvaarallista välinettä taikka välinettä, joka soveltuu erityisesti käytettäväksi apuvälineenä rikoksessa,

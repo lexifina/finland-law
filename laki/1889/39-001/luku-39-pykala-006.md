@@ -1,5 +1,5 @@
 # 6 § Velkojansuosinta
-Luku: 39 LUKU Velallisen rikoksista
+Luku: 39 luku Velallisen rikoksista
 
 Jos velallinen, joka tietää itsensä kyvyttömäksi täyttämään velvoitteensa, suosiakseen tiettyä velkojaa muiden velkojien kustannuksella
 1) maksaa ennenaikaisesti velan olosuhteissa, joissa maksu ei ole tavanomainen,

@@ -1,5 +1,5 @@
 # 5 § Luottamusaseman väärinkäyttö
-Luku: 36 LUKU Petoksesta ja muusta epärehellisyydestä
+Luku: 36 luku Petoksesta ja muusta epärehellisyydestä
 
 Jos se, jonka tehtävänä on hoitaa toisen taloudellisia tai oikeudellisia asioita, väärinkäyttää luottamusasemaansa
 1) ryhtymällä sellaiseen toimeen, johon hänellä ei ole oikeutta, tai

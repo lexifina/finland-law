@@ -1,5 +1,5 @@
 # 2 § Määräaikaisen vankeusrangaistuksen enimmäis- ja vähimmäisaika
-Luku: 7 LUKU Yhteisestä rangaistuksesta
+Luku: 7 luku Yhteisestä rangaistuksesta
 
 Yhteistä rangaistusta määrättäessä eri rikoksista seuraavan ankarimman enimmäisrangaistuksen saa ylittää, mutta rangaistus ei saa olla eri rikosten enimmäisrangaistusten yhteisaikaa pitempi. Ankarinta enimmäisrangaistusta ei myöskään saa ylittää enempää kuin
 1) yhdellä vuodella, jos ankarin enimmäisrangaistus on vankeutta vähemmän kuin yksi vuosi kuusi kuukautta;

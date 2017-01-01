@@ -1,5 +1,5 @@
 # 1 § Velallisen epärehellisyys
-Luku: 39 LUKU Velallisen rikoksista
+Luku: 39 luku Velallisen rikoksista
 
 Velallinen, joka
 1) hävittää omaisuuttaan,

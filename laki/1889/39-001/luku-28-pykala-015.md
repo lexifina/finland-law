@@ -1,5 +1,5 @@
 # 15 § Syyteoikeus
-Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
+Luku: 28 luku Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
 Syyttäjä ei saa nostaa syytettä 3, 6–9, 9 c eikä 10–12 §:ssä tarkoitetuista rikoksista, ellei asianomistaja ilmoita rikosta syytteeseen pantavaksi taikka ellei erittäin tärkeä yleinen etu vaadi syytteen nostamista.
 

@@ -1,5 +1,5 @@
 # 5 § Määritelmät
-Luku: 50 LUKU Huumausainerikoksista
+Luku: 50 luku Huumausainerikoksista
 
 Huumausaineena pidetään tässä luvussa huumausainelaissa tarkoitettua huumausainetta.
 

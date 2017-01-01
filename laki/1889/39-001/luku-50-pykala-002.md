@@ -1,5 +1,5 @@
 # 2 § Törkeä huumausainerikos
-Luku: 50 LUKU Huumausainerikoksista
+Luku: 50 luku Huumausainerikoksista
 
 Jos huumausainerikoksessa
 1) rikoksen kohteena on erittäin vaarallinen huumausaine tai suuri määrä huumausainetta,

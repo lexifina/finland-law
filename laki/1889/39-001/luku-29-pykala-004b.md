@@ -1,5 +1,5 @@
 # 4 b § Törkeä työeläkevakuutusmaksupetos
-Luku: 29 LUKU Rikoksista julkista taloutta vastaan
+Luku: 29 luku Rikoksista julkista taloutta vastaan
 
 Jos työeläkevakuutusmaksupetoksessa
 1) tavoitellaan huomattavaa taloudellista hyötyä tai

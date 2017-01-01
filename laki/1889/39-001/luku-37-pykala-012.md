@@ -1,5 +1,5 @@
 # 12 § Määritelmät
-Luku: 37 LUKU Maksuvälinerikoksista
+Luku: 37 luku Maksuvälinerikoksista
 
 Tässä luvussa tarkoitetaan:
 1) rahalla seteleitä ja metallirahoja, jotka Suomessa tai muussa maassa ovat virallisesti käypiä maksuvälineitä;

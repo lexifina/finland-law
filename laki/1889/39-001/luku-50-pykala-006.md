@@ -1,5 +1,5 @@
 # 6 § Menettämisseuraamus
-Luku: 50 LUKU Huumausainerikoksista
+Luku: 50 luku Huumausainerikoksista
 
 Valtiolle menetetyksi on tuomittava:
 1) välineet, tarvikkeet tai aineet, joita on käytetty tässä luvussa tarkoitetun rikoksen tekemiseen tai jotka on tähän tarkoitukseen hankittu; sekä

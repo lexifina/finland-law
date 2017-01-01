@@ -1,5 +1,5 @@
 # 10 § Luvaton pyynti
-Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
+Luku: 28 luku Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
 Joka luvattomasti metsästää toisen metsästysalueella tai kalastaa tai muuten pyytää toisen kalavedessä taikka ylittää lakiin, lupaan, sopimukseen tai päätökseen perustuvan metsästys- tai kalastusoikeutensa, on tuomittava luvattomasta pyynnistä sakkoon.
 

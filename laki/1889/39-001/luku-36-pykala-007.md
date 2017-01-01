@@ -1,5 +1,5 @@
 # 7 § Törkeä kiskonta
-Luku: 36 LUKU Petoksesta ja muusta epärehellisyydestä
+Luku: 36 luku Petoksesta ja muusta epärehellisyydestä
 
 Jos kiskonnassa
 1) tavoitellaan huomattavaa hyötyä,

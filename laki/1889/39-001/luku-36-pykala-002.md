@@ -1,5 +1,5 @@
 # 2 § Törkeä petos
-Luku: 36 LUKU Petoksesta ja muusta epärehellisyydestä
+Luku: 36 luku Petoksesta ja muusta epärehellisyydestä
 
 Jos petoksessa
 1) tavoitellaan huomattavaa hyötyä,

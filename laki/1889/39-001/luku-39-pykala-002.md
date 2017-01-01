@@ -1,5 +1,5 @@
 # 2 § Velallisen petos
-Luku: 39 LUKU Velallisen rikoksista
+Luku: 39 luku Velallisen rikoksista
 
 Velallinen, joka hankkiakseen itselleen tai toiselle oikeudetonta taloudellista hyötyä konkurssi-, ulosotto-, velkajärjestely- tai saneerausmenettelyssä
 1) salaa omaisuuttaan,

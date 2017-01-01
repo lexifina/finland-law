@@ -1,5 +1,5 @@
 # 1 § Lahjuksen ottaminen
-Luku: 40 LUKU Virkarikoksista
+Luku: 40 luku Virkarikoksista
 
 Jos virkamies toiminnastaan palvelussuhteessa itselleen tai toiselle
 1) pyytää lahjan tai muun oikeudettoman edun taikka tekee muutoin aloitteen sellaisen edun saamiseksi,

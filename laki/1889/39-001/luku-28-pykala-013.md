@@ -1,5 +1,5 @@
 # 13 § Määritelmät
-Luku: 28 LUKU Varkaudesta, kavalluksesta ja luvattomasta käytöstä
+Luku: 28 luku Varkaudesta, kavalluksesta ja luvattomasta käytöstä
 
 Tämän luvun säännöksiä sovelletaan myös, kun teko kohdistuu yhteiseen omaisuuteen, johon tekijällä on osuus.
 

@@ -1,5 +1,5 @@
 # 1 a § Törkeä velallisen epärehellisyys
-Luku: 39 LUKU Velallisen rikoksista
+Luku: 39 luku Velallisen rikoksista
 
 Jos velallisen epärehellisyydessä
 1) tavoitellaan huomattavaa hyötyä,

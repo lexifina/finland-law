@@ -1,5 +1,5 @@
 # 16 § Veron- ja tullinkorotuksen suhde salakuljetukseen ja tulliselvitysrikokseen
-Luku: 46 LUKU Maahantuontiin ja maastavientiin liittyvät rikokset
+Luku: 46 luku Maahantuontiin ja maastavientiin liittyvät rikokset
 
 Edellä 4, 5, 7 ja 9 §:ssä tarkoitetussa rikosasiassa voidaan jättää ilmoitus tekemättä, esitutkinta toimittamatta, syyte ajamatta tai rangaistus määräämättä, jos veron- tai tullinkorotus harkitaan riittäväksi seuraamukseksi. Asiaa arvioitaessa otetaan huomioon teon tai laiminlyönnin vakavuus ja toistuvuus, odotettavissa oleva rangaistus, tekoon tai laiminlyöntiin liittyvän veron tai tullin määrä, veron- tai tullinkorotuksen suuruus sekä verovelvolliselle teosta tai laiminlyönnistä mahdollisesti aiheutuneet muut seuraukset.
 

@@ -1,5 +1,5 @@
 # 8 § Törkeä virka-aseman väärinkäyttäminen
-Luku: 40 LUKU Virkarikoksista
+Luku: 40 luku Virkarikoksista
 
 Jos virka-aseman väärinkäyttämisessä
 1) tavoitellaan huomattavan suurta hyötyä tai

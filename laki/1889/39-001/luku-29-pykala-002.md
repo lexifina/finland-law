@@ -1,5 +1,5 @@
 # 2 § Törkeä veropetos
-Luku: 29 LUKU Rikoksista julkista taloutta vastaan
+Luku: 29 luku Rikoksista julkista taloutta vastaan
 
 Jos veropetoksessa
 1) tavoitellaan huomattavaa taloudellista hyötyä tai

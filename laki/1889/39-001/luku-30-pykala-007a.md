@@ -1,5 +1,5 @@
 # 7 a § Törkeä lahjominen elinkeinotoiminnassa
-Luku: 30 LUKU Elinkeinorikoksista
+Luku: 30 luku Elinkeinorikoksista
 
 Jos lahjomisessa elinkeinotoiminnassa
 1) lahjalla tai edulla pyritään saamaan asianomainen toimimaan tehtävässään lahjuksen antajaa tai toista huomattavasti hyödyttäen tai toiselle tuntuvaa vahinkoa tai haittaa aiheuttaen taikka

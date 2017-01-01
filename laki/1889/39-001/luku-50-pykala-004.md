@@ -1,5 +1,5 @@
 # 4 § Huumausainerikoksen edistäminen
-Luku: 50 LUKU Huumausainerikoksista
+Luku: 50 luku Huumausainerikoksista
 
 Joka
 1) huumausaineen laitonta valmistusta, viljelyä, maahantuontia tai maastavientiä varten valmistaa, kuljettaa, luovuttaa tai välittää välineitä, tarvikkeita tai aineita tietäen, että niitä käytettäisiin tähän tarkoitukseen, tai

@@ -1,5 +1,5 @@
 # 6 § Rahanpesu
-Luku: 32 LUKU Kätkemis- ja rahanpesurikoksista
+Luku: 32 luku Kätkemis- ja rahanpesurikoksista
 
 Joka
 1) ottaa vastaan, käyttää, muuntaa, luovuttaa, siirtää, välittää tai pitää hallussaan rikoksella hankittua omaisuutta, rikoksen tuottamaa hyötyä tai näiden tilalle tullutta omaisuutta hankkiakseen itselleen tai toiselle hyötyä tai peittääkseen tai häivyttääkseen hyödyn tai omaisuuden laittoman alkuperän tai avustaakseen rikoksentekijää välttämään rikoksen oikeudelliset seuraamukset taikka

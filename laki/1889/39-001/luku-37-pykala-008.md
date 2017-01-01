@@ -1,5 +1,5 @@
 # 8 § Maksuvälinepetos
-Luku: 37 LUKU Maksuvälinerikoksista
+Luku: 37 luku Maksuvälinerikoksista
 
 Joka, hankkiakseen itselleen tai toiselle oikeudetonta taloudellista hyötyä,
 1) käyttää maksuvälinettä ilman sen laillisen haltijan lupaa, lupaan perustuvan oikeutensa ylittäen tai muuten ilman laillista oikeutta tai
