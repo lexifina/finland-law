@@ -1,8 +1,0 @@
-# 22 § Järjestyksenvalvojan asettaminen
-Luku: 6 luku Erinäiset säännökset
-
-Terveyden- tai sosiaalihuollon toimipisteen, Kansaneläkelaitoksen toimipisteen, työvoima- ja elinkeinotoimiston, kauppakeskuksen, liikenneaseman, sataman tai lentopaikan sijaintipaikan taikka kulkuneuvon lähtöpaikan poliisilaitos voi paikan tai kulkuneuvon ylläpitäjän tai haltijan hakemuksesta antaa luvan asettaa terveyden- tai sosiaalihuollon toimipisteeseen, Kansaneläkelaitoksen toimipisteeseen, työvoima- ja elinkeinotoimistoon, kauppakeskukseen, liikenneasemalle, satamaan, lentopaikkaan tai joukkoliikenteen kulkuneuvoon järjestyksenvalvojista annetussa laissa (533/1999) tarkoitettuja järjestyksenvalvojia ylläpitämään poliisin tai rajavartiolaitoksen apuna järjestystä ja turvallisuutta, jos järjestyksen ja turvallisuuden ylläpitäminen ei muulla tavalla ole tarkoituksenmukaista sekä järjestyksen ja turvallisuuden ylläpitäminen sitä perustellusta syystä edellyttää. Järjestyksenvalvojien asettamiseen oikeuttavassa luvassa järjestyksenvalvojien toimialue on rajattava siinä tarkoitettujen paikkojen alueelle taikka kulkuneuvoon ja tarvittaessa niiden välittömään läheisyyteen. Sosiaalihuollon toimipisteellä ei tarkoiteta koulukoteja tai lastensuojelulaitoksia.
-
-Lupa järjestyksenvalvojien asettamiseen on voimassa enintään viisi vuotta. Lupaan voidaan liittää järjestyksenvalvojien koulutukseen, voimankäyttövälineiden kantamiseen, toimialueeseen sekä sijoitteluun ja lukumäärään liittyviä ehtoja.
-
-Luvan myöntänyt poliisilaitos voi tarvittaessa peruuttaa luvan järjestyksenvalvojien asettamiseen sekä muuttaa luvan ehtoja tai voimassaoloaikaa sellaisten muutosten vuoksi, joilla on olennaisia vaikutuksia toimialueen järjestyksen ja turvallisuuden ylläpitämiselle.
