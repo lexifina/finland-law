@@ -4,4 +4,4 @@ Metsätietojärjestelmä muodostuu metsäkeskuksen automaattisen tietojenkäsitt
 
 Tietojärjestelmän käyttötarkoituksena on metsäkeskukselle kuuluvien julkisten hallintotehtävien hoitaminen. Metsäkeskuksen julkisista hallintotehtävistä säädetään Suomen metsäkeskuksesta annetun lain (418/2011) 8 §:ssä.
 
-Metsäkeskus saa käyttää tietojärjestelmää yksityisille maanomistajille suunnattua koulutusta, neuvontaa ja tiedotusta sekä muuta metsätalouden edistämistä varten siltä osin kuin kyseessä oleva toiminta ei liity metsäkeskuksen liiketoimintaan tai muuhun kaupalliseen toimintaan.
+Metsäkeskus saa käyttää tietojärjestelmää yksityisille maanomistajille suunnattua koulutusta, neuvontaa ja tiedotusta sekä muuta metsätalouden edistämistä varten.
