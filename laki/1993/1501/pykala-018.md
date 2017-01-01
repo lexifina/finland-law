@@ -1,6 +1,6 @@
 # 18 §
 Osa: I OSA
-Luku: 3 LUKU Verollinen myynti
+Luku: 3 luku Verollinen myynti
 
 Tavaran myynnillä tarkoitetaan tavaran omistusoikeuden vastikkeellista luovuttamista.
 

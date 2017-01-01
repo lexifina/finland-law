@@ -1,6 +1,6 @@
 # 31 §
 Osa: I OSA
-Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
+Luku: 4 luku Poikkeukset myynnin verollisuudesta
 Väliotsikko: Eräiden kiinteistöön liittyvien palvelujen oma käyttö
 
 Rakentamispalvelu katsotaan otetuksi omaan käyttöön myös silloin, kun:

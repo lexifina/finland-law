@@ -1,6 +1,6 @@
 # 7 §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 
 Valtion liikelaitokset, Huoltovarmuuskeskus, Suomen Pankki ja Kansaneläkelaitos ovat harjoittamastaan 1 §:ssä tarkoitetusta toiminnasta erikseen verovelvollisia.
 

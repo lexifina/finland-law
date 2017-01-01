@@ -1,6 +1,6 @@
 # 63 §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 Väliotsikko: Tavaroiden myynnin yleissäännös
 
 Tavara on myyty Suomessa, jos tavara on täällä, kun se luovutetaan ostajalle.

@@ -1,6 +1,6 @@
 # 138 §
 Osa: II OSA
-Luku: 13 LUKU Ajallinen kohdistaminen
+Luku: 13 luku Ajallinen kohdistaminen
 
 Poiketen siitä, mitä 136 ja 137 §:ssä säädetään, 65 §:ssä tarkoitetun palvelun myynnistä suoritettava vero, jonka palvelun ostava elinkeinonharjoittaja tai arvonlisäverovelvollisten rekisteriin merkitty oikeushenkilö, joka ei ole elinkeinonharjoittaja, on 9 §:n 1 momentin mukaan velvollinen suorittamaan, kohdistetaan sille kalenterikuukaudelle, jonka aikana veron suorittamisvelvollisuus on 15 §:n mukaan syntynyt.
 

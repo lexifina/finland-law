@@ -1,6 +1,6 @@
 # 209 k §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Kun oikeus ja velvollisuus tarkistaa kiinteistöinvestointia koskevan hankintaan sisältyvän veron vähennystä siirtyvät luovutuksensaajalle, luovuttajan on annettava luovutuksensaajalle selvitys, joka sisältää 209 l §:ssä tarkoitetut tiedot.
 

@@ -1,6 +1,6 @@
 # 93 a §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Veron perusteeseen sisällytetään myös maahantuotuun tavaraan kohdistuneiden sellaisten palvelujen veron perusteen arvo, jotka on 72 h §:n 1 momentin 5 kohdan nojalla myyty verotta.
 

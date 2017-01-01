@@ -1,6 +1,6 @@
 # 22 §
 Osa: I OSA
-Luku: 3 LUKU Verollinen myynti
+Luku: 3 luku Verollinen myynti
 
 Palvelun ottamisella omaan käyttöön tarkoitetaan sitä, että elinkeinonharjoittaja:
 1) suorittaa, luovuttaa tai muulla tavalla ottaa palvelun vastikkeetta omaan tai henkilöstönsä yksityiseen kulutukseen taikka muutoin muuhun kuin liiketoiminnan tarkoitukseen;

@@ -1,6 +1,6 @@
 # 156 b §
 Osa: II OSA
-Luku: 15 LUKU Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
+Luku: 15 luku Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
 
 Palautushakemuksen on koskettava ajanjaksoa, joka on vähintään kolmen peräkkäisen samaan kalenterivuoteen kuuluvan kalenterikuukauden ja enintään kalenterivuoden mittainen. Hakemus voidaan kuitenkin tehdä kolmea kuukautta lyhyemmältä ajanjaksolta, jos hakemus koskee kalenterivuoden loppuosaa.
 

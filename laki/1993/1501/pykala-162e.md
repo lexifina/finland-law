@@ -1,6 +1,6 @@
 # 162 e §
 Osa: II OSA
-Luku: 17 LUKU Perustamisilmoitus ja yhteenvetoilmoitus
+Luku: 17 luku Perustamisilmoitus ja yhteenvetoilmoitus
 
 Verovelvollisen on annettava kultakin kalenterikuukaudelta yhteenvetoilmoitus:
 1) 72 b ja 72 c §:ssä tarkoitetuista yhteisömyynneistä;

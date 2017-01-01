@@ -1,6 +1,6 @@
 # 79 d §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 
 Keräilyesineillä tarkoitetaan seuraavia tullitariffissa luokiteltuja tavaroita:
 1) nimikkeeseen 9704 00 00 kuuluvat postimerkit, veromerkit, arvoleimat, ensipäiväkuoret, ehiöt ja vastaavat tavarat, edellyttäen, että ne eivät ole voimassa eivätkä tule voimaan tai että niiden hinta määräytyy keräilyarvon perusteella; ja

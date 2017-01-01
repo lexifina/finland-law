@@ -1,6 +1,6 @@
 # 79 §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 Väliotsikko: Tuet ja avustukset
 
 Veron perusteeseen luetaan suoraan tavaran tai palvelun hintaan liittyvät tuet ja avustukset.

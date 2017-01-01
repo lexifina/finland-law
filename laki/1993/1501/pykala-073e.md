@@ -1,6 +1,6 @@
 # 73 e §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 
 Käyvällä markkina-arvolla tarkoitetaan sitä täyttä määrää, jonka ostaja siinä vaihdannan vaiheessa, jossa tavara tai palvelu myydään, joutuisi kyseisen tavaran tai palvelun saadakseen samana ajankohtana maksamaan vapaan kilpailun vallitessa riippumattomalle myyjälle sen jäsenvaltion alueella, jossa myynti tai yhteisöhankinta on veronalainen.
 

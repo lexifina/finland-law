@@ -1,6 +1,6 @@
 # 122 §
 Osa: I OSA
-Luku: 12 LUKU Veron palauttaminen muille kuin verovelvollisille
+Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 Väliotsikko: Ulkomaiset elinkeinonharjoittajat
 
 Ulkomaisella elinkeinonharjoittajalla on oikeus saada palautuksena tavaran tai palvelun hankintaan sisältyvä arvonlisävero, jos hänellä ei ole Suomessa kiinteää toimipaikkaa, josta hän suorittaa liiketoimia, ja jos hän ei harjoita Suomessa liiketoiminnan muodossa muuta tavaroiden ja palvelujen myyntiä kuin:

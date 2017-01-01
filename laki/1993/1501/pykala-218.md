@@ -1,6 +1,6 @@
 # 218 §
 Osa: II OSA
-Luku: 22 a LUKU Erinäiset säännökset
+Luku: 22 a luku Erinäiset säännökset
 
 Rangaistus arvonlisäveron lainvastaisesta välttämisestä ja sen yrittämisestä säädetään rikoslain (39/1889) 29 luvun 1–3 §:ssä.
 

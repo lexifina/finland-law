@@ -1,6 +1,6 @@
 # 72 f §
 Osa: I OSA
-Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
+Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 Väliotsikko: Tavaran yhteisöhankinta
 
 Tavaran yhteisöhankinnasta ei suoriteta veroa, jos:

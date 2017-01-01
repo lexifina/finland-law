@@ -1,6 +1,6 @@
 # 79 j §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 
 Edellä 79 a §:ssä tarkoitettu voittomarginaali on tavaran myynnistä saadun vastikkeen ja tavaran ostohinnan erotus, ellei 79 k §:ssä toisin säädetä.
 

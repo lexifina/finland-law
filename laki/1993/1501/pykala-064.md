@@ -1,6 +1,6 @@
 # 64 §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 Väliotsikko: Palvelun myynnin yleissäännökset
 
 Palvelujen myyntimaata koskevia säännöksiä sovellettaessa:

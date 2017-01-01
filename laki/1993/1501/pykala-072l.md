@@ -1,6 +1,6 @@
 # 72 l §
 Osa: I OSA
-Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
+Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 
 Veroa on suoritettava tavaran siirrosta 72 h §:ssä tarkoitetusta menettelystä tai väliaikaisesta varastosta.
 

@@ -1,6 +1,6 @@
 # 95 d §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Muita tavaroita kuin alkoholia, alkoholijuomia, 95 a §:ssä lueteltuja tupakkatuotteita ja moottorikulkuneuvojen polttoainetta saa 95 §:n nojalla tuoda verotta enintään 300 euron arvosta. Jos matkustaja on saapunut ilma- tai meriteitse muulla kuin huvikäytössä olevalla ilma- tai vesialuksella, verottoman tuonnin enimmäisarvo on kuitenkin 430 euroa.
 

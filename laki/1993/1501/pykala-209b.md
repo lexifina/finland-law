@@ -1,6 +1,6 @@
 # 209 b §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Myyjän on annettava ostajalle lasku, jos ostajana on elinkeinonharjoittaja tai oikeushenkilö, joka ei ole elinkeinonharjoittaja:
 1) verollisesta tavaran tai palvelun myynnistä;

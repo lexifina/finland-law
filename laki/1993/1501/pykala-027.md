@@ -1,6 +1,6 @@
 # 27 §
 Osa: I OSA
-Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
+Luku: 4 luku Poikkeukset myynnin verollisuudesta
 Väliotsikko: Kiinteistönluovutukset
 
 Veroa ei suoriteta kiinteistön myynnistä eikä maanvuokraoikeuden, huoneenvuokraoikeuden, rasiteoikeuden tai muun niihin verrattavan kiinteistöön kohdistuvan oikeuden luovuttamisesta.

@@ -1,6 +1,6 @@
 # 102 §
 Osa: I OSA
-Luku: 10 LUKU Vähennettävä vero
+Luku: 10 luku Vähennettävä vero
 Väliotsikko: Yleinen vähennysoikeus
 
 Verovelvollinen saa vähentää verollista liiketoimintaa varten:

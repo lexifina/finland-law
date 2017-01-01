@@ -1,6 +1,6 @@
 # 80 §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 Väliotsikko: Matkatoimistopalvelut
 
 Kun matkanjärjestäjä myy omissa nimissään muilta elinkeinonharjoittajilta välittömästi matkustajan hyväksi ostamiaan palveluja ja tavaroita, matkanjärjestäjän katsotaan myyvän yhden palvelun (matkatoimistopalvelu).

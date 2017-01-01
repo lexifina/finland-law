@@ -1,6 +1,6 @@
 # 209 j §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Edellä 19 a §:ssä tarkoitetun liiketoiminnan jatkajan on annettava liikkeen tai sen osan luovuttajalle selvitys siitä, että luovutettuja tavaroita ja palveluja ryhdytään käyttämään vähennykseen oikeuttavaan tarkoitukseen.
 

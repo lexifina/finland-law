@@ -1,6 +1,6 @@
 # 85 §
 Osa: I OSA
-Luku: 8 LUKU Verokanta
+Luku: 8 luku Verokanta
 
 Seuraavien palvelujen myynnistä sekä seuraavien tavaroiden myynnistä, yhteisöhankinnasta, siirrosta varastointimenettelystä ja maahantuonnista suoritettava vero on 14 prosenttia veron perusteesta:
 1) ruokatavara, juoma ja muu sellaisenaan ihmisen nautittavaksi tarkoitettu aine sekä niiden raaka-aine ja niitä valmistettaessa tai säilöttäessä käytettävä mauste, säilöntäaine, väri- ja muu lisäaine (elintarvike);

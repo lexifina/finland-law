@@ -1,6 +1,6 @@
 # 63 g §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 
 Tavaran yhteisöhankinta katsotaan verotetun 63 f §:ssä tarkoitetulla tavalla tavaran kuljetuksen päättymisvaltiossa myös silloin, kun:
 1) ostajana on elinkeinonharjoittaja, jonka liiketoiminnan kotipaikka ei ole kuljetuksen päättymisvaltiossa eikä hänellä ole siellä kiinteää toimipaikkaa;

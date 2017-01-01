@@ -1,6 +1,6 @@
 # 209 o §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Edellä 209 n §:ssä tarkoitetut laskut on säilytettävä Suomessa.
 

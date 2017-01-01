@@ -1,6 +1,6 @@
 # 209 t §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Edellä 43 a ja 43 c §:ssä tarkoitetun sijoituskullan myyjän on tunnistettava asiakas aina, kun yhden liiketoimen tai toisiinsa kytkeytyneiden liiketoimien yhteenlaskettu arvo on vähintään 15 000 euroa. Myyjän on käytettävissä olevin keinoin tunnistettava myös henkilö, jonka lukuun edellä tarkoitettu asiakas todennäköisesti toimii.
 

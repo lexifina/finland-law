@@ -1,6 +1,6 @@
 # 39 §
 Osa: I OSA
-Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
+Luku: 4 luku Poikkeukset myynnin verollisuudesta
 Väliotsikko: Koulutus
 
 Veroa ei suoriteta koulutuspalvelun myynnistä.

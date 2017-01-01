@@ -1,6 +1,6 @@
 # 133 c §
 Osa: I OSA
-Luku: 12 LUKU Veron palauttaminen muille kuin verovelvollisille
+Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 
 Lain 133 a ja 133 b §:ssä tarkoitettua palautusta on haettava kirjallisesti Verohallinnolta. Hakemus on tehtävä vuoden kuluessa sen kalenterivuoden päättymisestä, jolloin oikeus veron palautukseen syntyi.
 

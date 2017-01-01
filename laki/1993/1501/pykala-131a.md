@@ -1,6 +1,6 @@
 # 131 a §
 Osa: I OSA
-Luku: 12 LUKU Veron palauttaminen muille kuin verovelvollisille
+Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 
 Jos tavara tai palvelu hankitaan 43 a §:ssä tarkoitettua sijoituskullan verotonta myyntiä varten, elinkeinonharjoittajalla on oikeus saada palautuksena:
 1) 43 c §:ssä tarkoitetulta myyjältä ostamastaan verollisesta sijoituskullasta suoritettava vero;

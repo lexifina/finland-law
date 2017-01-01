@@ -1,6 +1,6 @@
 # 79 a §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 Väliotsikko: Käytetyt tavarat sekä taide-, keräily- ja antiikkiesineet
 
 Kun verovelvollinen jälleenmyyjä myy verollista edelleenmyyntiä varten hankkimansa käytetyn tavaran taikka taide-, keräily- tai antiikkiesineen, veron perusteena saadaan pitää voittomarginaalia ilman veron osuutta.

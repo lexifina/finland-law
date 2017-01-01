@@ -1,6 +1,6 @@
 # 156 h §
 Osa: II OSA
-Luku: 15 LUKU Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
+Luku: 15 luku Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
 
 Palautus maksetaan 10 työpäivän kuluessa 156 e tai 156 g §:ssä tarkoitetun määräajan päättymisestä.
 

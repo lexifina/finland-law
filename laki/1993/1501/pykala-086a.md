@@ -1,6 +1,6 @@
 # 86 a §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Tavaran maahantuonti tapahtuu Suomessa, jos tavara on Suomessa, kun se tuodaan Yhteisöön, ellei 2 momentissa toisin säädetä.
 

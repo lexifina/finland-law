@@ -1,6 +1,6 @@
 # 190 §
 Osa: II OSA
-Luku: 20 LUKU Ohjaus ja ennakkoratkaisu
+Luku: 20 luku Ohjaus ja ennakkoratkaisu
 
 Jos asia on hakijalle tärkeä, Verohallinto antaa kirjallisesta hakemuksesta ennakkoratkaisun siitä, miten lakia sovelletaan hakijan liiketoimeen. Ennakkoratkaisua ei anneta, jos asia on keskusverolautakunnan päätöksellä ratkaistu tai sitä koskeva hakemus on vireillä keskusverolautakunnassa.
 

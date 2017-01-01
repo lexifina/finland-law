@@ -1,6 +1,6 @@
 # 60 a §
 Osa: I OSA
-Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
+Luku: 4 luku Poikkeukset myynnin verollisuudesta
 
 Veroa ei suoriteta itsenäisen yhteenliittymän harjoittamasta palvelun myynnistä jäsenilleen, jos:
 1) jäsenet harjoittavat toimintaa, joka ei oikeuta vähennykseen tai ei tapahdu liiketoiminnan muodossa;

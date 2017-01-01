@@ -1,6 +1,6 @@
 # 69 b §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 Väliotsikko: Kuljetukseen liittyvät palvelut ja irtaimeen omaisuuteen kohdistuvat palvelut
 
 Seuraavat muulle kuin elinkeinonharjoittajalle luovutetut palvelut on myyty Suomessa, jos ne suoritetaan täällä:

@@ -1,6 +1,6 @@
 # 18 b §
 Osa: I OSA
-Luku: 3 LUKU Verollinen myynti
+Luku: 3 luku Verollinen myynti
 
 Tavaraa ei katsota myydyn 18 a §:ssä tarkoitetulla tavalla, jos elinkeinonharjoittaja tai joku muu hänen puolestaan siirtää tavaran:
 1) kuljetuksen päättymisvaltiossa suoritettavaa, hänelle myytävää tavaran arviointia tai tavaraan kohdistuvaa työsuoritusta varten ja tavara palautetaan arvioinnin tai työn jälkeen hänelle Suomeen;

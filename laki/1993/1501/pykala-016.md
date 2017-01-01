@@ -1,6 +1,6 @@
 # 16 §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 
 Velvollisuus suorittaa vero rakentamispalvelun ottamisesta omaan käyttöön syntyy:
 1) sitä mukaa kuin itse suoritettu rakentamispalvelu valmistuu;

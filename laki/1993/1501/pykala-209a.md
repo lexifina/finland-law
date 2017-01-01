@@ -1,6 +1,6 @@
 # 209 a §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Laskutukseen sovelletaan 209 b–209 g §:ää, jos myynti tapahtuu 5 luvun mukaan Suomessa.
 

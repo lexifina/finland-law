@@ -1,6 +1,6 @@
 # 161 §
 Osa: II OSA
-Luku: 17 LUKU Perustamisilmoitus ja yhteenvetoilmoitus
+Luku: 17 luku Perustamisilmoitus ja yhteenvetoilmoitus
 
 Sen, joka ryhtyy harjoittamaan 1 §:ssä tarkoitettua verollista toimintaa, on tehtävä ennen toiminnan aloittamista yritys- ja yhteisötietolaissa (244/2001) tarkoitettu perustamisilmoitus.
 

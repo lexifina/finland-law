@@ -1,6 +1,6 @@
 # 63 c §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 Väliotsikko: Myynti kuljetusvälineissä Yhteisön alueella
 
 Vesi- tai ilma-aluksessa taikka junassa Yhteisön alueella tapahtuvan henkilökuljetuksen aikana suoritetun tavaroiden myynnin katsotaan tapahtuvan Suomessa vain silloin, kun kuljetuksen lähtöpaikka on täällä.

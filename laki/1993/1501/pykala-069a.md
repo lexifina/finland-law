@@ -1,6 +1,6 @@
 # 69 a §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 
 Muulle kuin elinkeinonharjoittajalle luovutettu tavaran yhteisökuljetus on 69 §:stä poiketen myyty Suomessa, jos kuljetuksen lähtöpaikka on täällä.
 

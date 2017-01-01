@@ -1,6 +1,6 @@
 # 79 k §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 
 Verovelvollinen jälleenmyyjä saa käyttää voittomarginaalina oma-aloitteisten verojen verotusmenettelystä annetun lain 11 ja 12 §:ssä tarkoitetun verokauden voittomarginaalia.
 

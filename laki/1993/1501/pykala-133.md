@@ -1,6 +1,6 @@
 # 133 §
 Osa: I OSA
-Luku: 12 LUKU Veron palauttaminen muille kuin verovelvollisille
+Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 Väliotsikko: Erityissäännöksiä
 
 Mitä tässä laissa säädetään vähennykseen oikeuttavasta käytöstä ja vähennettävästä verosta, sovelletaan myös 130, 131 ja 131 a §:ssä tarkoitettuun palautukseen oikeuttavaan käyttöön ja palautettavaan veroon.

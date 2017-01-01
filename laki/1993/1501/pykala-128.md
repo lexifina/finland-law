@@ -1,6 +1,6 @@
 # 128 §
 Osa: I OSA
-Luku: 12 LUKU Veron palauttaminen muille kuin verovelvollisille
+Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 
 Hakemus verojen palauttamisesta on tehtävä ulkoasiainministeriölle kalenterivuoden neljännekseltä ja viimeistään vuoden kuluessa laskun maksupäivästä. Ulkoasiainministeriö vahvistaa, onko hakijalla vastavuoroisuuden, hakijan aseman sekä tavaran tai palvelun käyttötarkoituksen perusteella oikeus palautukseen. Verohallinto tarkistaa muut palautuksen edellytykset ja palauttaa veron.
 

@@ -1,6 +1,6 @@
 # 112 §
 Osa: I OSA
-Luku: 10 LUKU Vähennettävä vero
+Luku: 10 luku Vähennettävä vero
 
 Kun verovelvollinen ottaa vähennykseen oikeuttavaan käyttöön muussa käytössä olleen tavaran, hän saa vähentää tavaran hankintaan sisältyneen veron taikka omaan käyttöön valmistamisesta suorittamansa veron. Jos tavaran todennäköinen luovutushinta on alempi kuin sen alkuperäinen ostohinta tai sitä vastaava arvo, arvonalennusta vastaavaa veroa ei kuitenkaan saa vähentää.
 

@@ -1,6 +1,6 @@
 # 156 l §
 Osa: II OSA
-Luku: 15 LUKU Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
+Luku: 15 luku Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
 
 Palautukseen sovelletaan muutoin, mitä arvonlisäverosta tämän lain II osassa, oma-aloitteisten verojen verotusmenettelystä annetussa laissa sekä muussa laissa säädetään.
 

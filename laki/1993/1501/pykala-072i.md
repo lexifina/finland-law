@@ -1,6 +1,6 @@
 # 72 i §
 Osa: I OSA
-Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
+Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 
 Edellä 72 h §:n 1 momentin 2 ja 4 kohdassa tarkoitettuja tavaroita ovat seuraavat tullitariffi- ja tilastointinimikkeistöstä ja yhteisestä tullitariffista annetussa neuvoston asetuksessa (ETY) n:o 2658/87 (tullitariffi) tarkoitetut tavarat:
 1) tina, nimike 8001;

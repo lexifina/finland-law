@@ -1,6 +1,6 @@
 # 129 a §
 Osa: I OSA
-Luku: 12 LUKU Veron palauttaminen muille kuin verovelvollisille
+Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 
 Euroopan unionille palautetaan Euroopan unionin ja Suomessa sijaitsevan julkisen tai yksityisen yhteisön välillä tehdyn tilaustutkimusta koskevan sopimuksen tai yhteistyösopimuksen perusteella Suomesta ostettujen tavaroiden ja palvelujen sekä maahan tuotujen tavaroiden hankintaan sisältyvä vero.
 

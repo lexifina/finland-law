@@ -1,6 +1,6 @@
 # 127 §
 Osa: I OSA
-Luku: 12 LUKU Veron palauttaminen muille kuin verovelvollisille
+Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 Väliotsikko: Diplomaattiset hankinnat
 
 Ulkovallan Suomessa toimivalle diplomaattiselle ja muulle samassa asemassa olevalle edustustolle sekä lähetetyn konsulin virastolle voidaan vastavuoroisesti hakemuksesta palauttaa viralliseen käyttöön ostettujen tavaroiden ja palvelujen hankintaan sisältyvä vero.

@@ -1,6 +1,6 @@
 # 70 §
 Osa: I OSA
-Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
+Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 Väliotsikko: Tavaroiden myynti
 
 Veroa ei suoriteta seuraavista myynneistä:

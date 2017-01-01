@@ -1,6 +1,6 @@
 # 95 b §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Matkustaja saa 95 §:n nojalla tuoda verotta hiilihapotonta viiniä 4 litraa ja olutta 16 litraa.
 

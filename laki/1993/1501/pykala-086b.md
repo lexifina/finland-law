@@ -1,6 +1,6 @@
 # 86 b §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Tullikoodeksin 5 artiklan 15 kohdassa tarkoitettu ilmoittaja on velvollinen suorittamaan veron tavaran maahantuonnista. Tätä sovelletaan myös siihen, joka on tavaroiden ilmoittajan asemassa maahantuonnin tapahtuessa Euroopan unionin tullialueelta Yhteisöön.
 

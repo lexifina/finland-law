@@ -1,6 +1,6 @@
 # 69 h §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 Väliotsikko: Immateriaalipalvelut
 
 Muulle kuin elinkeinonharjoittajalle luovutettua immateriaalipalvelua ei ole myyty Suomessa, jos palvelu luovutetaan ostajalle, joka on sijoittautunut Yhteisön ulkopuolelle tai jonka kotipaikka tai vakinainen asuinpaikka on Yhteisön ulkopuolella.

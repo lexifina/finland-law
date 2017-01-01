@@ -1,6 +1,6 @@
 # 8 b §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 Väliotsikko: Päästöoikeuden ostajat
 
 Verovelvollinen päästöoikeuden myynnistä on ostaja, jos ostaja on merkitty arvonlisäverovelvollisten rekisteriin.

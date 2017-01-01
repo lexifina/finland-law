@@ -1,6 +1,6 @@
 # 209 e §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Edellä 209 b §:ssä tarkoitetussa laskussa on oltava seuraavat tiedot millä tahansa kielellä:
 1) laskun antamispäivä;

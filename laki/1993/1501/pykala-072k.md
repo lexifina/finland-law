@@ -1,6 +1,6 @@
 # 72 k §
 Osa: I OSA
-Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
+Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 
 Luvan verottoman varaston pitämiseen antaa Verohallinto hakemuksesta. Lupapäätöksessä vahvistetaan varaston pitämistä koskevat ehdot. Verohallinto voi vaatia asetettavaksi vakuuden veron suorittamisesta.
 

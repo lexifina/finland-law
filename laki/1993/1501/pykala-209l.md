@@ -1,6 +1,6 @@
 # 209 l §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Edellä 209 k §:ssä tarkoitetusta selvityksestä on käytävä ilmi:
 1) selvityksen antamispäivä;

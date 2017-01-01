@@ -1,6 +1,6 @@
 # 26 d §
 Osa: I OSA
-Luku: 3 a LUKU Tavaran yhteisöhankinta
+Luku: 3 a luku Tavaran yhteisöhankinta
 
 Edellä 26 c §:ssä kuljetusvälineellä tarkoitetaan henkilö- tai tavarakuljetukseen tarkoitettuja:
 1) moottorikäyttöisiä maakuljetusvälineitä, joiden moottorin iskutilavuus on yli 48 cm 3 tai teho yli 7,2 kW;

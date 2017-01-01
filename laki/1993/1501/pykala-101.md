@@ -1,6 +1,6 @@
 # 101 §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Tavaran maahantuonnin arvonlisäverotuksessa ei sovelleta tullia koskevia säännöksiä, ellei tässä laissa erikseen siitä säädetä.
 

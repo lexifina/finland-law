@@ -1,6 +1,6 @@
 # 73 b §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 
 Veron perusteeseen luetaan tavaran yhteisöhankkijan valmisteveron alaisista tavaroista suoritettava valmistevero.
 

@@ -1,6 +1,6 @@
 # 13 c §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 
 Poronhoitolaissa (848/90) tarkoitettua paliskuntaa ja siihen kuuluvia poronomistajia kohdellaan arvonlisäverotuksessa porotalouden osalta yhtenä elinkeinonharjoittajana (paliskuntaryhmä). Paliskuntaryhmään kuuluvan poronomistajan ottaessa tavaroita tai palveluja omaan käyttöön sovelletaan, mitä 22 a §:ssä säädetään.
 

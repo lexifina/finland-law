@@ -1,6 +1,6 @@
 # 225 §
 Osa: II OSA
-Luku: 23 LUKU Voimaantulo- ja siirtymäsäännökset
+Luku: 23 luku Voimaantulo- ja siirtymäsäännökset
 
 Palvelun tai tavaran myynnistä, josta liikevaihtoverolain mukaan ei olisi suoritettava veroa, ei ole suoritettava veroa siltä osin kuin siitä on kertynyt vastiketta ennen 1 päivää tammikuuta 1994.
 

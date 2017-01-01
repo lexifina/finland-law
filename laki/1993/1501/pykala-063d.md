@@ -1,6 +1,6 @@
 # 63 d §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 Väliotsikko: Sähkön ja verkon kautta toimitettavan kaasun tai lämpö- ja jäähdytysenergian myynti
 
 Sähkö, unionin alueella sijaitsevan maakaasuverkon tai siihen yhdistetyn verkon kautta toimitettava kaasu sekä lämpö- ja jäähdytysverkon kautta toimitettava lämpö- ja jäähdytysenergia, joka myydään verovelvolliselle jälleenmyyjälle, on myyty Suomessa, jos verovelvollisella jälleenmyyjällä on täällä kiinteä toimipaikka, johon nämä tavarat luovutetaan. Jos näitä tavaroita ei luovuteta Suomessa tai muualla olevaan kiinteään toimipaikkaan, niiden myynti on tapahtunut Suomessa, jos verovelvollisen jälleenmyyjän liiketoiminnan kotipaikka on täällä.

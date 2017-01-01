@@ -1,6 +1,6 @@
 # 95 a §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Verotta 95 §:n nojalla tuotavien tupakkatuotteiden enimmäismäärä on:
 1) 200 savuketta;

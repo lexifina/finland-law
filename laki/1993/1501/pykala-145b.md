@@ -1,6 +1,6 @@
 # 145 b §
 Osa: II OSA
-Luku: 13 LUKU Ajallinen kohdistaminen
+Luku: 13 luku Ajallinen kohdistaminen
 
 Edellä 121 c §:n 1 momentissa tarkoitettu tarkistus kohdistetaan tarkistusvuoden viimeiselle kalenterikuukaudelle.
 

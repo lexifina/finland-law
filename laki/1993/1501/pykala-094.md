@@ -1,6 +1,6 @@
 # 94 §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 Väliotsikko: Poikkeukset maahantuonnin verollisuudesta
 
 Verotonta on seuraavien tavaroiden maahantuonti:

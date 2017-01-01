@@ -1,6 +1,6 @@
 # 73 d §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 
 Edellä 73 c §:n 2 momentin 1 kohdassa tarkoitettu etuyhteys on olemassa, jos:
 1) ostajana oleva yksityishenkilö kuuluu perhe- tai sukulaisuussuhteen perusteella myyjän lähipiiriin taikka on tähän muutoin läheisessä henkilökohtaisessa suhteessa;

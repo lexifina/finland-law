@@ -1,6 +1,6 @@
 # 43 a §
 Osa: I OSA
-Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
+Luku: 4 luku Poikkeukset myynnin verollisuudesta
 Väliotsikko: Sijoituskulta
 
 Veroa ei suoriteta sijoituskullan myynnistä ja välityksestä.

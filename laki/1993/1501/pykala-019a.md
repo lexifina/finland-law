@@ -1,6 +1,6 @@
 # 19 a §
 Osa: I OSA
-Luku: 3 LUKU Verollinen myynti
+Luku: 3 luku Verollinen myynti
 Väliotsikko: Liikkeen tai sen osan luovutus
 
 Myyntinä ei pidetä liikkeen tai sen osan luovutuksen yhteydessä tapahtuvaa tavaroiden ja palvelujen luovuttamista liiketoiminnan jatkajalle, joka ryhtyy käyttämään luovutettuja tavaroita ja palveluja vähennykseen oikeuttavaan tarkoitukseen.

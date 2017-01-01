@@ -1,6 +1,6 @@
 # 210 §
 Osa: II OSA
-Luku: 22 a LUKU Erinäiset säännökset
+Luku: 22 a luku Erinäiset säännökset
 
 Jos Tulli on kantanut veron, se voi erityisestä syystä hakemuksesta alentaa suoritettua tai suoritettavaa arvonlisäveroa ja sen viivästysseuraamuksia ja muita seuraamuksia tai poistaa ne kokonaan.
 

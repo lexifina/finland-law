@@ -1,6 +1,6 @@
 # 73 a §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 
 Tavaran yhteisöhankinnasta suoritettavan veron peruste on vastike ilman veron osuutta, ellei 73 c §:ssä toisin säädetä.
 

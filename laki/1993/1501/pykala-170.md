@@ -1,6 +1,6 @@
 # 170 §
 Osa: II OSA
-Luku: 17 LUKU Perustamisilmoitus ja yhteenvetoilmoitus
+Luku: 17 luku Perustamisilmoitus ja yhteenvetoilmoitus
 
 Jokaisen on annettava Verohallinnon kehotuksesta nimen, pankkitilin numeron, tilitapahtuman tai muun vastaavan yksilöinnin perusteella tietoja, jotka saattavat olla tarpeen muun verovelvollisen verotusta tai muutoksenhakua koskevan asian käsittelyä varten ja jotka selviävät hänen hallussaan olevista asiakirjoista tai muutoin ovat hänen tiedossaan, mikäli hänellä ei lain mukaan ole oikeutta kieltäytyä todistamasta asiassa. Verotukseen vaikuttavia taloudellista asemaa koskevia tietoja ei kuitenkaan saa kieltäytyä antamasta.
 

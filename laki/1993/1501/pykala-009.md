@@ -1,6 +1,6 @@
 # 9 §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 Väliotsikko: Ulkomaalaiset
 
 Jos ulkomaalaisella ei ole Suomessa kiinteää toimipaikkaa eikä hän ole 12 §:n 2 momentin nojalla hakeutunut verovelvolliseksi, verovelvollinen ulkomaalaisen Suomessa myymistä tavaroista ja palveluista on ostaja. Veroa ei ole suoritettava, jos ostajana on valtio.

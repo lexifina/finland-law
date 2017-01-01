@@ -1,6 +1,6 @@
 # 8 d §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 Väliotsikko: Romun ja jätteen ostajat
 
 Verovelvollinen 2 momentissa tarkoitetun romun ja jätteen myynnistä on ostaja, jos ostaja on arvonlisäverovelvollisten rekisteriin merkitty elinkeinonharjoittaja.

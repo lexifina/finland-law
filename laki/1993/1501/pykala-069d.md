@@ -1,6 +1,6 @@
 # 69 d §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 Väliotsikko: Kulttuuri-, viihde- ja muut vastaavat palvelut
 
 Elinkeinonharjoittajalle luovutettu oikeus pääsyyn opetus-, tiede-, kulttuuri-, viihde- ja urheilutilaisuuteen, messuille ja näyttelyyn ja muuhun vastaavaan tilaisuuteen sekä pääsyyn välittömästi liittyvä palvelu on myyty Suomessa, jos tilaisuus järjestetään täällä.

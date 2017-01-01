@@ -1,6 +1,6 @@
 # 44 §
 Osa: I OSA
-Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
+Luku: 4 luku Poikkeukset myynnin verollisuudesta
 Väliotsikko: Vakuutuspalvelut
 
 Veroa ei suoriteta vakuutuspalvelun myynnistä ja välityksestä.

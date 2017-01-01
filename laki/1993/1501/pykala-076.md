@@ -1,6 +1,6 @@
 # 76 §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 
 Otettaessa rakentamispalvelu omaan käyttöön 33 §:ssä tarkoitetulla tavalla veron peruste on:
 1) ostetun rakentamispalvelun ostohinta;

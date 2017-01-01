@@ -1,6 +1,6 @@
 # 36 §
 Osa: I OSA
-Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
+Luku: 4 luku Poikkeukset myynnin verollisuudesta
 
 Veroa ei suoriteta myöskään seuraavien palvelujen ja tavaroiden myynnistä:
 1) sairaankuljetukset erityisesti tätä tarkoitusta varten varustetulla kuljetusvälineellä;

@@ -1,6 +1,6 @@
 # 21 §
 Osa: I OSA
-Luku: 3 LUKU Verollinen myynti
+Luku: 3 luku Verollinen myynti
 
 Tavaran ottamisella omaan käyttöön tarkoitetaan sitä, että elinkeinonharjoittaja:
 1) ottaa tavaran yksityiseen kulutukseen;

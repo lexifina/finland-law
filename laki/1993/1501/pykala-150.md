@@ -1,6 +1,6 @@
 # 150 §
 Osa: II OSA
-Luku: 15 LUKU Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
+Luku: 15 luku Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
 Väliotsikko: Yhteisöön sijoittautumattomat elinkeinonharjoittajat
 
 Yhteisöön sijoittautumattoman elinkeinonharjoittajan on haettava 122 ja 122 a §:ssä tarkoitettua palautusta kirjallisesti Verohallinnolta.

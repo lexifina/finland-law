@@ -1,6 +1,6 @@
 # 69 c §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 Väliotsikko: Kuljetusvälineen vuokraus
 
 Kuljetusvälineen lyhytaikainen vuokrauspalvelu on myyty Suomessa, jos kuljetusväline luovutetaan ostajan käyttöön täällä.

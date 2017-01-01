@@ -1,6 +1,6 @@
 # 90 §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Yhteisön ulkopuolella korjattavana, valmistettavana tai muutoin käsiteltävänä olleen tavaran samoin kuin korjattavaksi viedyn tilalle tuodun samanlaatuisen tavaran veron peruste on korjaus-, käsittely- tai niitä vastaavien muiden kustannusten ja lähetyskulujen määrä sekä Yhteisön ulkopuolella tavaraan lisättyjen tavaran osien arvo. Säännöstä ei kuitenkaan sovelleta, jos tavara on myyty verotta Yhteisön ulkopuolelle tai jos Suomessa vähennykseen oikeuttavassa käytössä ollut tavara on myyty Yhteisön ulkopuolella.
 

@@ -1,6 +1,6 @@
 # 16 a §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 
 Velvollisuus suorittaa vero tavaran yhteisöhankinnasta syntyy, kun hankinta on tehty. Tavaran hankinta on tehty sinä ajankohtana, jona tavara on vastaanotettu tai jona se olisi otettu omaan käyttöön.
 

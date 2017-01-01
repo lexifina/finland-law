@@ -1,6 +1,6 @@
 # 74 §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 Väliotsikko: Oma käyttö
 
 Otettaessa tavara omaan käyttöön veron peruste on:

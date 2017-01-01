@@ -1,6 +1,6 @@
 # 209 n §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Verovelvollisen on säilytettävä antamiensa 1 §:n 1 momentin 1 kohdassa tarkoitettuja myyntejä koskevien laskujen jäljennökset sekä tähän toimintaan ja 131 §:n 1 momentin 4 kohdassa tarkoitettuun palautukseen oikeuttavaan toimintaan liittyviä tavaroiden ja palvelujen ostoja koskevat vastaanottamansa laskut sekä niitä ostoja koskevat laskut, joista hän on ostajana verovelvollinen.
 

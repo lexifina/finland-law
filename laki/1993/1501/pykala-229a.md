@@ -1,6 +1,6 @@
 # 229 a §
 Osa: II OSA
-Luku: 23 LUKU Voimaantulo- ja siirtymäsäännökset
+Luku: 23 luku Voimaantulo- ja siirtymäsäännökset
 
 Elinkeinonharjoittaja saa vähennyksenä tai palautuksena rakennustyön suorittajalta tai rakennuttajalta ostamastaan tai itse rakentamastaan arvonlisäverollisessa tai 130 ja 131 §:ssä tarkoitetussa palautukseen oikeuttavassa toiminnassa käyttämästään uudesta rakennuksesta tai pysyvästä rakennelmasta laskennallisen veron, jonka suuruus on 13,5 prosenttia rakennuksen tai rakennelman hankintamenosta. Tätä sovelletaan vain rakennuksiin, joiden rakentamiseen on ryhdytty 1 päivänä tammikuuta 1994 tai sen jälkeen, ja vain siltä osin kuin rakentamispalvelua on tehty ennen 1 päivää kesäkuuta 1994.
 

@@ -1,6 +1,6 @@
 # 30 §
 Osa: I OSA
-Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
+Luku: 4 luku Poikkeukset myynnin verollisuudesta
 
 Kiinteistön käyttöoikeuden luovuttamisesta suoritetaan 27 §:stä poiketen veroa, jos luovuttaja hakeutuu tästä toiminnasta verovelvolliseksi. Verovelvollisuus koskee vain hakemuksessa mainittua kiinteistöä tai sen osaa. Verovelvollisuus edellyttää, että kiinteistöä käytetään jatkuvasti 10 luvussa tarkoitettuun vähennykseen oikeuttavaan toimintaan tai että kiinteistön käyttäjänä on valtio, yliopistolain 1 §:ssä tarkoitettu yliopisto tai ammattikorkeakoululain 5 §:ssä tarkoitettu ammattikorkeakouluosakeyhtiö.
 

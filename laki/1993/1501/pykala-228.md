@@ -1,6 +1,6 @@
 # 228 §
 Osa: II OSA
-Luku: 23 LUKU Voimaantulo- ja siirtymäsäännökset
+Luku: 23 luku Voimaantulo- ja siirtymäsäännökset
 
 Tämän lain 10 ja 12 luvun vähennettävää ja palautettavaa veroa koskevia säännöksiä sovelletaan silloin, kun myyty tavara on toimitettu tai palvelu on suoritettu taikka maahan tuotu tavara on luovutettu tullivalvonnasta vähennykseen tai palautukseen oikeutetulle lain voimaantulopäivänä tai sen jälkeen. Ennen tämän lain voimaantuloa vähennykseen oikeutetulle verovelvolliselle toimitetusta tavarasta tai suoritetusta palvelusta taikka tullivalvonnasta luovutetusta tavarasta tehtävään vähennykseen sovelletaan liikevaihtoverolain säännöksiä, ellei jäljempänä toisin säädetä.
 

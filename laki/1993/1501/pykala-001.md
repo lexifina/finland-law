@@ -1,6 +1,6 @@
 # 1 §
 Osa: I OSA
-Luku: 1 LUKU Yleinen soveltamisala
+Luku: 1 luku Yleinen soveltamisala
 
 Arvonlisäveroa suoritetaan valtiolle sen mukaan kuin tässä laissa säädetään:
 1) liiketoiminnan muodossa Suomessa tapahtuvasta tavaran ja palvelun myynnistä;

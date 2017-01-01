@@ -1,6 +1,6 @@
 # 2 §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 Väliotsikko: Yleissäännökset
 
 Velvollinen suorittamaan arvonlisäveroa (verovelvollinen) 1 §:ssä tarkoitetusta myynnistä on tavaran tai palvelun myyjä, ellei 2 a, 8 a–8 d tai 9 §:ssä toisin säädetä.

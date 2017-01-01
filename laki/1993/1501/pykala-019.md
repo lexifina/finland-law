@@ -1,6 +1,6 @@
 # 19 §
 Osa: I OSA
-Luku: 3 LUKU Verollinen myynti
+Luku: 3 luku Verollinen myynti
 
 Kun tavara tai palvelu myydään asiamiehen nimissä päämiehen lukuun, katsotaan asiamiehen myyneen tavaran tai palvelun ostajalle ja päämiehen myyneen sen asiamiehelle.
 

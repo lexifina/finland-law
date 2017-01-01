@@ -1,6 +1,6 @@
 # 139 §
 Osa: II OSA
-Luku: 13 LUKU Ajallinen kohdistaminen
+Luku: 13 luku Ajallinen kohdistaminen
 
 Edellä 78 §:n 1 momentissa tarkoitetut veron perusteesta vähennettävät erät sekä 78 §:n 2 momentissa tarkoitettu kertyneestä luottotappiosta tehtävä lisäys kohdistetaan sille kalenterikuukaudelle, jolle se on hyvän kirjanpitotavan mukaan kirjanpidossa kirjattava.
 

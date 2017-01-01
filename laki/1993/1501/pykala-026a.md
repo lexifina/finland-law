@@ -1,6 +1,6 @@
 # 26 a §
 Osa: I OSA
-Luku: 3 a LUKU Tavaran yhteisöhankinta
+Luku: 3 a luku Tavaran yhteisöhankinta
 
 Tavaran yhteisöhankinnalla tarkoitetaan irtaimen esineen omistusoikeuden vastikkeellista hankintaa, jos myyjä, ostaja tai joku muu heidän puolestaan kuljettaa esineen ostajalle jäsenvaltiosta toiseen.
 

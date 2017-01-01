@@ -1,6 +1,6 @@
 # 1 a §
 Osa: I OSA
-Luku: 1 LUKU Yleinen soveltamisala
+Luku: 1 luku Yleinen soveltamisala
 
 Suomella tarkoitetaan tässä laissa Euroopan yhteisöjen lainsäädännön mukaista Suomen arvonlisäveroaluetta ja Ahvenanmaan maakuntaa sekä ulkomailla kaikkia muita alueita.
 

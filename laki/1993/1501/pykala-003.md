@@ -1,6 +1,6 @@
 # 3 §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 Väliotsikko: Vähäinen toiminta
 
 Myyjä ei ole verovelvollinen, jos tilikauden liikevaihto on enintään 10 000 euroa, ellei häntä ole oman ilmoituksensa perusteella merkitty verovelvolliseksi.

@@ -1,6 +1,6 @@
 # 209 §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Verovelvollisen on järjestettävä kirjanpitonsa sellaiseksi, että siitä saadaan veron määräämistä varten tarvittavat tiedot. Suoritettavan ja vähennettävän veron määrään vaikuttavien liiketapahtumien kirjausten on perustuttava kirjanpitolaissa tarkoitettuihin tositteisiin ottaen lisäksi huomioon, mitä tässä laissa tositteista säädetään. Tarkemmat kirjanpitoa koskevat säännökset annetaan valtioneuvoston asetuksella.
 

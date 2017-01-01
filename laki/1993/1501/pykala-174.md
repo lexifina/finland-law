@@ -1,6 +1,6 @@
 # 174 §
 Osa: II OSA
-Luku: 18 LUKU Rekisteröinti
+Luku: 18 luku Rekisteröinti
 
 Verohallinto poistaa verovelvollisen rekisteristä siitä lukien, kun verollinen liiketoiminta on päättynyt. Verollisen liiketoiminnan voidaan katsoa jatkuvan niin kauan kuin elinkeinonharjoittaja tai konkurssihallinto myy elinkeinonharjoittajan hankkimaa liikeomaisuutta. Jos konkurssihallinto kuitenkin itsenäisesti jatkaa elinkeinonharjoittajan liiketoimintaa, elinkeinonharjoittajan verovelvollisuus katsotaan aina päättyneeksi viimeistään konkurssiin asettamishetkellä.
 

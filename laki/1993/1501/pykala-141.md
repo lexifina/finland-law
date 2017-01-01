@@ -1,6 +1,6 @@
 # 141 §
 Osa: II OSA
-Luku: 13 LUKU Ajallinen kohdistaminen
+Luku: 13 luku Ajallinen kohdistaminen
 
 Edellä 10 luvussa tarkoitetut vähennykset kohdistetaan sille kalenterikuukaudelle, jonka aikana:
 1) ostettu tavara tai palvelu on vastaanotettu;

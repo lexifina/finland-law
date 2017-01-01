@@ -1,6 +1,6 @@
 # 114 §
 Osa: I OSA
-Luku: 10 LUKU Vähennettävä vero
+Luku: 10 luku Vähennettävä vero
 Väliotsikko: Vähennysoikeuden rajoitukset
 
 Vähennystä ei saa tehdä, kun hankinta koskee seuraavia tavaroita ja palveluja:

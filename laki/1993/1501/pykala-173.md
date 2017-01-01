@@ -1,6 +1,6 @@
 # 173 §
 Osa: II OSA
-Luku: 18 LUKU Rekisteröinti
+Luku: 18 luku Rekisteröinti
 
 Verohallinto merkitsee verovelvollisen rekisteriin siitä lukien, kun verollinen liiketoiminta alkaa. Verovelvollinen voidaan kuitenkin merkitä rekisteriin jo siitä lukien, kun hän ryhtyy hankkimaan tavaroita ja palveluja verollista liiketoimintaa varten.
 

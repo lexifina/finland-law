@@ -1,6 +1,6 @@
 # 102 a §
 Osa: I OSA
-Luku: 10 LUKU Vähennettävä vero
+Luku: 10 luku Vähennettävä vero
 
 Edellä 102 §:n 1 momentin 1 ja 3 kohdassa tarkoitetun vähennysoikeuden edellytyksenä on, että verovelvollisella on ostamastaan tavarasta tai palvelusta myyjän antama 209 e ja 209 f §:n mukainen lasku tai muu laskuna toimiva tosite. Jos kyse on 209 a §:n 4 momentissa tarkoitetusta tilanteesta, laskun on oltava 209 e §:ää vastaavien myyjän sijoittautumisjäsenvaltion säännösten mukainen.
 

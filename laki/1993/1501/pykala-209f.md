@@ -1,6 +1,6 @@
 # 209 f §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Sen estämättä, mitä 209 e §:n 1 momentin 1–10 kohdassa säädetään, seuraavissa laskuissa tarvitsee olla vain jäljempänä 3 momentissa tarkoitetut tiedot:
 1) loppusummaltaan enintään 400 euron suuruiset laskut;

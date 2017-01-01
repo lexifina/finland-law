@@ -1,6 +1,6 @@
 # 72 h §
 Osa: I OSA
-Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
+Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 Väliotsikko: Väliaikaiseen varastointiin ja varastointimenettelyihin liittyvät verottomuudet
 
 Veroa ei suoriteta:

@@ -1,6 +1,6 @@
 # 131 §
 Osa: I OSA
-Luku: 12 LUKU Veron palauttaminen muille kuin verovelvollisille
+Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 Väliotsikko: Ulkomaankauppaa ja verotonta toimintaa harjoittavat yritykset
 
 Elinkeinonharjoittajalla on oikeus saada palautuksena tavaran tai palvelun hankintaan sisältyvä vero, jos hankinta liittyy:

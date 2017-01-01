@@ -1,6 +1,6 @@
 # 26 b §
 Osa: I OSA
-Luku: 3 a LUKU Tavaran yhteisöhankinta
+Luku: 3 a luku Tavaran yhteisöhankinta
 
 Tavaraa ei katsota hankitun 26 a §:n 2 momentissa tarkoitetulla tavalla, jos elinkeinonharjoittaja tai joku muu hänen puolestaan siirtää tavaran:
 1) Suomessa suoritettavaa, hänelle myytävää tavaran arviointia tai tavaraan kohdistuvaa työsuoritusta varten ja tavara palautetaan työn jälkeen hänelle siihen jäsenvaltioon, josta tavara alun perin kuljetettiin;

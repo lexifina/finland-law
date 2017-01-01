@@ -1,6 +1,6 @@
 # 69 j §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 
 Sähköisillä palveluilla tarkoitetaan seuraavia sähköisesti suoritettavia palveluja:
 1) verkkosivujen luovuttaminen ja isännöinti (hosting) sekä ohjelmien ja laitteistojen etäylläpito;

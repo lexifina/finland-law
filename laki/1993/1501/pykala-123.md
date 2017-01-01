@@ -1,6 +1,6 @@
 # 123 §
 Osa: I OSA
-Luku: 12 LUKU Veron palauttaminen muille kuin verovelvollisille
+Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 
 Palautusoikeuden edellytyksenä on, että elinkeinonharjoittaja on hankkinut tavarat tai palvelut sijoittautumisvaltiossa vähennykseen oikeuttavia liiketoimia varten.
 

@@ -1,6 +1,6 @@
 # 115 §
 Osa: I OSA
-Luku: 10 LUKU Vähennettävä vero
+Luku: 10 luku Vähennettävä vero
 
 Tavarasta ei saa tehdä 102 §:ssä tarkoitettua vähennystä, jos sen myyjä on soveltanut myyntiin 79 a §:ssä tarkoitettua menettelyä.
 

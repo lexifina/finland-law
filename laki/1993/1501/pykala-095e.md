@@ -1,6 +1,6 @@
 # 95 e §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Suomen ja yhteisön ulkopuolisen maan tai alueen välisessä ammattimaisessa liikenteessä olevan kulkuneuvon henkilökuntaan kuuluva saa tuoda työmatkoiltaan tavaroita 95 §:n nojalla verotta kalenterikuukaudessa määrän, joka 95 a–95 d §:n mukaan saadaan kerralla tuoda verotta.
 

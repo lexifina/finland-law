@@ -1,6 +1,6 @@
 # 43 b §
 Osa: I OSA
-Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
+Luku: 4 luku Poikkeukset myynnin verollisuudesta
 
 Sijoituskultana pidetään vähintään 995 tuhannesosan pitoista kultaharkkoa tai -levyä, jonka paino on hyväksytty kultamarkkinoilla.
 

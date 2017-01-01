@@ -1,6 +1,6 @@
 # 172 §
 Osa: II OSA
-Luku: 18 LUKU Rekisteröinti
+Luku: 18 luku Rekisteröinti
 
 Verovelvolliset merkitään arvonlisäverovelvollisten rekisteriin.
 

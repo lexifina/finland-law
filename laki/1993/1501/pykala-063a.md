@@ -1,6 +1,6 @@
 # 63 a §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 Väliotsikko: Kaukomyynti
 
 Tavaran myynnin katsotaan tapahtuvan Suomessa myös silloin, kun myyjä tai joku muu myyjän puolesta kuljettaa tavaran toisesta jäsenvaltiosta Suomeen. Tavara katsotaan kuljetetun toisesta jäsenvaltiosta silloinkin, kun kuljetus alkaa Yhteisön ulkopuolelta, jos kuljetus tapahtuu sen jäsenvaltion kautta, johon tavara on maahantuotu.

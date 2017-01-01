@@ -1,6 +1,6 @@
 # 13 a §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 Väliotsikko: Ryhmien verotus
 
 Verohallinto voi kahden tai useamman elinkeinonharjoittajan hakemuksesta määrätä, että niitä on tätä lakia sovellettaessa kohdeltava yhtenä elinkeinonharjoittajana (verovelvollisuusryhmä). Elinkeinonharjoittajilla tulee olla liiketoiminnan kotipaikka tai kiinteä toimipaikka Suomessa.

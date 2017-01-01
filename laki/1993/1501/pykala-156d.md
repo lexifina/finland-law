@@ -1,6 +1,6 @@
 # 156 d §
 Osa: II OSA
-Luku: 15 LUKU Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
+Luku: 15 luku Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
 
 Jos 123 §:n 2 momentissa tarkoitettua sijoittautumisjäsenvaltiossa sovellettavaa vähennyskelpoista osuutta tarkistetaan palautushakemuksen toimittamisen jälkeen arvonlisäverodirektiivin 175 artiklan mukaisesti, elinkeinonharjoittajan on ilmoitettava tarkistettu vähennyskelpoinen osuus palautusajanjaksoa seuraavan kalenterivuoden aikana sijoittautumisjäsenvaltion perustaman sähköisen tietojärjestelmän kautta.
 

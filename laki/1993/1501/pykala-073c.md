@@ -1,6 +1,6 @@
 # 73 c §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 
 Jos vastike ilman veron osuutta on huomattavasti 73 e §:ssä tarkoitettua käypää markkina-arvoa alempi, myynnistä tai 26 a §:n 1 momentissa tarkoitetusta yhteisöhankinnasta suoritettavan veron perusteena pidetään käypää markkina-arvoa.
 

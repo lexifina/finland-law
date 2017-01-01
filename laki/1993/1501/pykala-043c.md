@@ -1,6 +1,6 @@
 # 43 c §
 Osa: I OSA
-Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
+Luku: 4 luku Poikkeukset myynnin verollisuudesta
 
 Sen estämättä, mitä 43 a §:ssä säädetään, sijoituskullan myynnistä elinkeinonharjoittajalle suoritetaan veroa, jos 2 momentissa tarkoitettu myyjä valitsee myynnin verollisuuden.
 

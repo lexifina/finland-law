@@ -1,6 +1,6 @@
 # 85 a §
 Osa: I OSA
-Luku: 8 LUKU Verokanta
+Luku: 8 luku Verokanta
 
 Seuraavien palvelujen myynnistä sekä seuraavien tavaroiden myynnistä, yhteisöhankinnasta, siirrosta varastointimenettelystä ja maahantuonnista suoritettava vero on 10 prosenttia veron perusteesta:
 1) henkilökuljetus;

@@ -1,6 +1,6 @@
 # 94 b §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Verotonta on tavaran maahantuonti, jos tavaran tuontikuljetus päättyy toisessa jäsenvaltiossa ja jos tavara on yhteisömyyntinä veroton ja maahantuojana on elinkeinonharjoittaja.
 

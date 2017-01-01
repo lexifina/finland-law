@@ -1,6 +1,6 @@
 # 156 k §
 Osa: II OSA
-Luku: 15 LUKU Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
+Luku: 15 luku Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
 
 Ilmoitus palautushakemuksen vastaanottoajankohdasta lähetetään hakijalle sähköisenä viestinä hänen ilmoittamaansa osoitteeseen. Myös palautusta tai palautuksen takaisinperimistä koskevat lisätietopyynnöt lähetetään sähköisenä viestinä, jollei 2 momentin taikka asianomaisen yksityisyyden suojaamisen, muun erityisen suojan tai suojelun tarpeen tai oikeuksien turvaamisen johdosta pyyntöä ole lähetettävä postitse kirjeellä. Ilmoitus ja lisätietopyynnöt voidaan vaihtoehtoisesti lähettää hakijalle sähköisesti hakijan sijoittautumisjäsenvaltion perustaman sähköisen tietojärjestelmän kautta sijoittautumisjäsenvaltion virka-apua käyttäen.
 

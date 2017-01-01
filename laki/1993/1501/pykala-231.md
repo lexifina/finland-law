@@ -1,6 +1,6 @@
 # 231 §
 Osa: II OSA
-Luku: 23 LUKU Voimaantulo- ja siirtymäsäännökset
+Luku: 23 luku Voimaantulo- ja siirtymäsäännökset
 
 Tämän lain 98 §:n ja 11 luvun veronpalautuksen ja vähennetyn laskennallisen veron suorittamista koskevia säännöksiä sovelletaan, kun tavara on viety maasta, toimitettu tai otettu omaan käyttöön lain voimaantulopäivänä tai sen jälkeen.
 

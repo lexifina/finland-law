@@ -1,6 +1,6 @@
 # 79 c §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 
 Taide-esineillä tarkoitetaan seuraavia tullitariffissa luokiteltuja tavaroita:
 1) taulut, alkuperäiskaiverrukset ja muut nimikkeeseen 9701 tai 9702 00 00 kuuluvat esineet;

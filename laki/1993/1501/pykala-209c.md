@@ -1,6 +1,6 @@
 # 209 c §
 Osa: II OSA
-Luku: 22 LUKU Laskut ja muut tositteet
+Luku: 22 luku Laskut ja muut tositteet
 
 Tavaran yhteisömyyntiä koskeva lasku on annettava viimeistään tavaran toimituskuukautta seuraavan kalenterikuukauden 15 päivänä.
 

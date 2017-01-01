@@ -1,6 +1,6 @@
 # 63 b §
 Osa: I OSA
-Luku: 5 LUKU Myynti ja yhteisöhankinta Suomessa
+Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
 
 Tavaran myynnin ei katsota tapahtuvan Suomessa, jos myyjä tai joku muu myyjän puolesta kuljettaa tavaran Suomesta toiseen jäsenvaltioon.
 

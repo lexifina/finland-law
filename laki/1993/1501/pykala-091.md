@@ -1,6 +1,6 @@
 # 91 §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Veron perusteeseen sisällytetään tavaran kuljetus-, lastaus-, purkaus- ja vakuutuskustannukset sekä muut maahantuontiin liittyvät kustannukset kuljetussopimuksen mukaiseen ensimmäiseen Suomessa olevaan määräpaikkaan saakka.
 

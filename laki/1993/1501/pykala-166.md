@@ -1,6 +1,6 @@
 # 166 §
 Osa: II OSA
-Luku: 17 LUKU Perustamisilmoitus ja yhteenvetoilmoitus
+Luku: 17 luku Perustamisilmoitus ja yhteenvetoilmoitus
 
 Edellä 161 §:ssä tarkoitetun ilmoittamisvelvollisuuden täyttämisestä vastuussa olevista henkilöistä säädetään yritys- ja yhteisötietolaissa.
 

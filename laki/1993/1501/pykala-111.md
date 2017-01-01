@@ -1,6 +1,6 @@
 # 111 §
 Osa: I OSA
-Luku: 10 LUKU Vähennettävä vero
+Luku: 10 luku Vähennettävä vero
 Väliotsikko: Muut erityisvähennykset
 
 Verovelvollinen saa tehdä 102 §:ssä tarkoitetun vähennyksen ostetusta energiahyödykkeestä silloinkin, kun veloitus sisältyy kiinteistön verottomaan vuokraan tai vastikkeeseen. Vähentää saadaan kuitenkin vain kiinteistön omistajan tai haltijan ostamasta energiahyödykkeestä tai polttoaineesta suoritettavaa veroa vastaava määrä.

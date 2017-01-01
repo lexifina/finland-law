@@ -1,6 +1,6 @@
 # 15 §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 Väliotsikko: Veron suorittamisvelvollisuuden syntymisajankohta
 
 Velvollisuus suorittaa vero 1 §:ssä tarkoitetusta myynnistä syntyy, kun:

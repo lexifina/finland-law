@@ -1,6 +1,6 @@
 # 78 §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 Väliotsikko: Oikaisuerät
 
 Veron perusteesta saadaan vähentää:

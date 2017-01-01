@@ -1,6 +1,6 @@
 # 156 a §
 Osa: II OSA
-Luku: 15 LUKU Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
+Luku: 15 luku Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
 Väliotsikko: Toiseen jäsenvaltioon sijoittautuneet elinkeinonharjoittajat
 
 Toiseen jäsenvaltioon sijoittautuneen elinkeinonharjoittajan on haettava 122 ja 122 a §:ssä tarkoitettua palautusta sähköisesti Verohallinnolta toimittamalla hakemus sijoittautumisjäsenvaltiolle tämän perustaman sähköisen tietojärjestelmän kautta.

@@ -1,6 +1,6 @@
 # 6 §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 Väliotsikko: Julkisyhteisöt
 
 Valtio ja kunta ovat verovelvollisia 1 §:ssä tarkoitetusta toiminnasta.

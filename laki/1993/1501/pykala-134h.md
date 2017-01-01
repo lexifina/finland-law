@@ -1,6 +1,6 @@
 # 134 h §
 Osa: II OSA
-Luku: 13 LUKU Otsikko on kumottu L:lla 27.6.2014/505, joka tuli voimaan 1.1.2015. Aiempi sanamuoto kuuluu: Ajallinen kohdistaminen
+Luku: 13 luku Otsikko on kumottu L:lla 27.6.2014/505.
 
 Erityisjärjestelmää käyttävän verovelvollisen erityisjärjestelmän piiriin kuuluviin liiketoimiin ei sovelleta, mitä oma-aloitteisten verojen verotusmenettelystä annetun lain 32 ja 33 §:ssä säädetään veron maksamisesta.
 

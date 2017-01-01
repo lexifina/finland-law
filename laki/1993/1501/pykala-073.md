@@ -1,6 +1,6 @@
 # 73 §
 Osa: I OSA
-Luku: 7 LUKU Veron peruste
+Luku: 7 luku Veron peruste
 Väliotsikko: Yleissäännökset
 
 Myynnistä suoritettavan veron peruste on vastike ilman veron osuutta, ellei 73 c §:ssä toisin säädetä. Vastikkeella tarkoitetaan myyjän ja ostajan väliseen sopimukseen perustuvaa hintaa, joka sisältää kaikki hinnanlisät.

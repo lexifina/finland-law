@@ -1,6 +1,6 @@
 # 156 f §
 Osa: II OSA
-Luku: 15 LUKU Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
+Luku: 15 luku Veron palauttaminen eräille ulkomaisille elinkeinonharjoittajille
 
 Jos Verohallinnolla ei ole kaikkia asian ratkaisemiseksi tarvittavia tietoja, sen on pyydettävä lisätietoja neljän kuukauden kuluessa siitä, kun se vastaanotti hakemuksen. Tarvittaessa voidaan pyytää vielä täydentäviä lisätietoja.
 

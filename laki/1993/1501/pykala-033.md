@@ -1,6 +1,6 @@
 # 33 §
 Osa: I OSA
-Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
+Luku: 4 luku Poikkeukset myynnin verollisuudesta
 
 Kiinteistön uudisrakentamiseen tai perusparantamiseen liittynyt rakentamispalvelu katsotaan otetuksi omaan käyttöön myös silloin, kun elinkeinonharjoittaja, valtio tai kunta muissa kuin 31 §:n 1 momentin 1 kohdassa tarkoitetuissa tilanteissa luovuttaa kiinteistön ennen kuin se on otettu käyttöön rakentamispalvelun suorittamisen jälkeen.
 

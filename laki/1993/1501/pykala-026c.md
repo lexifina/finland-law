@@ -1,6 +1,6 @@
 # 26 c §
 Osa: I OSA
-Luku: 3 a LUKU Tavaran yhteisöhankinta
+Luku: 3 a luku Tavaran yhteisöhankinta
 
 Edellä 26 a §:ssä tarkoitettu yhteisöhankinta on kyseessä vain silloin, kun:
 1) tavaran ostajana on elinkeinonharjoittaja tai oikeushenkilö, joka ei ole elinkeinonharjoittaja, ja myyjänä on elinkeinonharjoittaja, joka ei ole omassa maassaan verottoman vähäisen toiminnan harjoittaja; tai

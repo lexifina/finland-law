@@ -1,6 +1,6 @@
 # 157 §
 Osa: II OSA
-Luku: 16 LUKU Veroviranomaiset
+Luku: 16 luku Veroviranomaiset
 
 Verotuksesta ja sen valvonnasta vastaa Verohallinto sen mukaan kuin siitä erikseen säädetään.
 

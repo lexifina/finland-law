@@ -1,6 +1,6 @@
 # 130 §
 Osa: I OSA
-Luku: 12 LUKU Veron palauttaminen muille kuin verovelvollisille
+Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 Väliotsikko: Kunnat
 
 Kunnalla on oikeus saada palautuksena hankintaan sisältyvä 10 luvussa tarkoitettu vero, josta ei saa tehdä vähennystä tai josta ei saa 131 §:ssä tarkoitettua palautusta. Palautus saadaan myös 79 §:n 1 momentissa tarkoitetusta tuesta tai avustuksesta suoritettavasta verosta.

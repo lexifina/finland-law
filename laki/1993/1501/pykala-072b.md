@@ -1,6 +1,6 @@
 # 72 b §
 Osa: I OSA
-Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
+Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 
 Yhteisömyynnillä tarkoitetaan irtaimen esineen myyntiä, jos myyjä, ostaja tai joku muu heidän puolestaan kuljettaa esineen ostajalle Suomesta toiseen jäsenvaltioon. Esine voidaan ennen kuljetusta toiseen jäsenvaltioon toimittaa elinkeinonharjoittajalle työsuorituksen tekemistä varten.
 

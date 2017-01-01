@@ -1,6 +1,6 @@
 # 12 §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 Väliotsikko: Verovelvolliseksi hakeutuminen
 
 Liiketoiminnan harjoittaja voi sen estämättä, mitä 3–5 §:ssä ja 60 §:ssä säädetään, tulla hakemuksesta verovelvolliseksi.

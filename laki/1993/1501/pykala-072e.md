@@ -1,6 +1,6 @@
 # 72 e §
 Osa: I OSA
-Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
+Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 
 Veroa ei suoriteta moottoriajoneuvon myynnistä, jos ostajalla on oikeus tuoda maahan vastaava ajoneuvo verotta 94 §:n 1 momentin 20 kohdan nojalla tai oikeus 129 §:n 1 momentissa tarkoitettuun palautukseen. Verottomuuden edellytykset on osoitettava asetuksella säädettävällä tavalla.
 

@@ -1,6 +1,6 @@
 # 129 §
 Osa: I OSA
-Luku: 12 LUKU Veron palauttaminen muille kuin verovelvollisille
+Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 Väliotsikko: Euroopan unioni ja muut kansainväliset järjestöt
 
 Suomessa sijaitsevalle Euroopan unionin tai Euroopan atomienergiayhteisön elimelle, johon sovelletaan Euroopan unionin erioikeuksista ja vapautuksista 8 päivänä huhtikuuta 1965 tehtyä pöytäkirjaa, palautetaan Suomesta ostettujen tavaroiden ja palvelujen hankintaan sisältyvä vero.

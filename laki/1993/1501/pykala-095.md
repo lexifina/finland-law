@@ -1,6 +1,6 @@
 # 95 §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Yhteisön ulkopuolelta Suomeen saapuva matkustaja saa tuoda tavaroita henkilökohtaisissa matkatavaroissaan verotta enintään 95 a–95 e §:ssä säädetyt enimmäismäärät. Verottomuuden edellytyksenä on, ettei tuonti ole luonteeltaan kaupallista.
 

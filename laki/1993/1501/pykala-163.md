@@ -1,6 +1,6 @@
 # 163 §
 Osa: II OSA
-Luku: 17 LUKU Perustamisilmoitus ja yhteenvetoilmoitus
+Luku: 17 luku Perustamisilmoitus ja yhteenvetoilmoitus
 
 Edellä 161 §:ssä tarkoitettu perustamis-, muutos- ja lopettamisilmoitus voidaan antaa myös sähköisesti.
 

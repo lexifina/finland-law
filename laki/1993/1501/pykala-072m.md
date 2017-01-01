@@ -1,6 +1,6 @@
 # 72 m §
 Osa: I OSA
-Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
+Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 
 Velvollinen suorittamaan veroa 72 l §:ssä tarkoitetusta tavaran siirrosta on se, joka aiheuttaa 72 h §:ssä tarkoitetun menettelyn päättymisen tai siirron väliaikaisesta varastosta.
 

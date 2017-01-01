@@ -1,6 +1,6 @@
 # 101 b §
 Osa: I OSA
-Luku: 9 LUKU Tavaran maahantuonti
+Luku: 9 luku Tavaran maahantuonti
 
 Tavaran maahantuonnin arvonlisäverotuksessa pienin kannettava tai perittävä veron määrä on 5 euroa.
 

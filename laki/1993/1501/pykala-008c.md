@@ -1,6 +1,6 @@
 # 8 c §
 Osa: I OSA
-Luku: 2 LUKU Verovelvollisuus
+Luku: 2 luku Verovelvollisuus
 Väliotsikko: Rakentamispalvelun ostajat
 
 Verovelvollinen 31 §:n 3 momentin 1 kohdassa tarkoitettujen rakentamispalvelujen myynnistä sekä työvoiman vuokrauksesta kyseisiä palveluja varten on ostaja, jos:

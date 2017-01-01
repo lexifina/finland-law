@@ -1,6 +1,6 @@
 # 72 d §
 Osa: I OSA
-Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
+Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 Väliotsikko: Eräät muut myynnit
 
 Veroa ei suoriteta tavaroiden ja palvelujen myynnistä toisissa jäsenvaltioissa sijaitseville diplomaattisille ja muille samassa asemassa oleville edustustoille, lähetettyjen konsulien virastoille sekä niiden henkilökunnalle vastaavin edellytyksin kuin verottomuus tai palautus myönnetään sijaintivaltiossa.

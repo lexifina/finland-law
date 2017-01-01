@@ -1,6 +1,6 @@
 # 70 b §
 Osa: I OSA
-Luku: 6 LUKU Kansainväliseen kauppaan liittyvät verottomuudet
+Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 
 Veroa ei suoriteta matkailijan henkilökohtaisissa matkatavaroissa mukaan otettavien tavaroiden myynnistä matkailijalle, jonka kotipaikka tai vakinainen asuinpaikka ei ole Yhteisössä eikä Norjassa, jos hänen selvitetään vieneen tavarat käyttämättöminä Yhteisöstä myyntikuukautta seuraavien kolmen kuukauden kuluessa ja jos matkailijalta peritty vastike on vähintään 40 euroa. Valtioneuvoston asetuksella säädetään tarkemmin, miten selvitys on annettava.
 

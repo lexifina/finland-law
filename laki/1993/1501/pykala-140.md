@@ -1,6 +1,6 @@
 # 140 §
 Osa: II OSA
-Luku: 13 LUKU Ajallinen kohdistaminen
+Luku: 13 luku Ajallinen kohdistaminen
 
 Edellä 79 k §:n 2 momentissa tarkoitettu verokauden aikana hankitun tavaran ostohinta ja 80 §:n 2 momentissa tarkoitettu välittömästi matkustajan hyväksi hankitun palvelun tai tavaran ostohinta kohdistetaan sille kalenterikuukaudelle, jonka aikana palvelu tai tavara on vastaanotettu.
 
