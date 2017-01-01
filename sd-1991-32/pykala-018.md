@@ -1,0 +1,8 @@
+# 18 § Puutteellisuuden korjaaminen
+Luku: 2 luku Rekisteröintihakemus ja sen käsittely
+
+Jos hakija ei ole noudattanut hakemusta koskevia säännöksiä tai jos rekisteriviranomainen havaitsee olevan muita esteitä piirimallin rekisteröinnille, hakijaa on välipäätöksellä kehotettava määräajassa antamaan lausumansa tai korjaamaan puutteellisuuden.
+
+Jollei hakija välipäätöksessä määrätyn ajan kuluessa anna lausumaa tai ryhdy toimenpiteisiin korjatakseen puutteellisuuden, josta on huomautettu, hakemus on jätettävä sillensä. Edellä 1 momentin mukaan annetussa välipäätöksessä on ilmoitettava tästä seuraamuksesta.
+
+Sillensä jätetty hakemus otetaan uudelleen käsiteltäväksi, jos hakija kahden kuukauden kuluessa välipäätöksessä määrätyn ajan päättymisestä sitä pyytää sekä antaa lausumansa tai ryhtyy toimenpiteisiin puutteellisuuden korjaamiseksi ja saman ajan kuluessa suorittaa vahvistetun uudelleenkäsittelymaksun. Uudelleen käsiteltäväksi ottaminen voi tapahtua vain kerran.
