@@ -9,11 +9,12 @@ Jos henkilö saa muuta kuin 3 luvun 4 §:ssä tarkoitettua lakisääteistä etuu
 4) sotilasvammalain mukainen elinkorko ja täydennyskorko;
 5) vammaisetuuksista annetun lain mukainen vammaistuki;
 6) eläkkeensaajan asumistuesta annetun lain (571/2007) mukainen asumistuki;
-7) asumistukilain (408/1975) mukainen asumistuki;
+7) yleisestä asumistuesta annetun lain (938/2014) mukainen asumistuki;
 8) lapsilisälain (796/1992) mukainen lapsilisä;
 9) toimeentulotuesta annetun lain (1412/1997) mukainen toimeentulotuki;
 10) sotilasavustuslain (781/1993) mukainen sotilasavustus;
-11) työtapaturma- ja ammattitautilain, maatalousyrittäjän työtapaturma- ja ammattitautilain sekä sotilasvammalain mukaiset kustannusten korvaukset.
+11) työtapaturma- ja ammattitautilain, maatalousyrittäjän työtapaturma- ja ammattitautilain sekä sotilasvammalain mukaiset kustannusten korvaukset;
+12) työeläkelakien mukainen osittainen varhennettu vanhuuseläke.
 
 Työttömyysetuudesta ei vähennetä 1 momentissa mainittua vastaavaa toisen valtion lainsäädännön mukaan maksettavaa etuoikeutettua tuloa.
 
