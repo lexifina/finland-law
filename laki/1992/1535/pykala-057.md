@@ -8,4 +8,4 @@ Yhteisö saa valtioneuvoston asetuksella tarkemmin säädettävällä tavalla v�
 
 Edellä 1 momentin 2 kohdassa tarkoitetun Verohallinnon nimeämän tahon on toimitettava vuosittain Verohallinnolle tiedot saamistaan vähennyskelpoisista lahjoituksista, niiden antajista ja siitä, mihin tarkoitukseen lahjoitus on käytetty. Verohallinnolle on lisäksi toimitettava viimeksi päättyneen toimintavuoden toimintakertomus, tuloslaskelma ja tase. Verohallinto antaa tarkemmat määräykset tietojen antamistavasta ja -ajankohdasta.
 
-Muutoksenhausta 1 momentin 2 kohdassa tarkoitettuun Verohallinnon nimeämispäätökseen säädetään verotusmenettelystä annetun lain 71 e §:ssä.
+Muutoksenhausta 1 momentin 2 kohdassa tarkoitettuun Verohallinnon nimeämispäätökseen säädetään verotusmenettelystä annetussa laissa.

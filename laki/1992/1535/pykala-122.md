@@ -11,4 +11,4 @@ Osakeyhtiö ja osuuskunta saa kuitenkin vähentää tappion 3 momentissa tarkoit
 
 Edellä 1 momentissa tarkoitettuna omistajanvaihdoksena ei pidetä säästöpankkilain 90–92 §:n mukaista säästöpankin muutosta säästöpankkiosakeyhtiöksi eikä osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetun lain 31 ja 32 §:n mukaista osuuspankin muutosta osuuspankkiosakeyhtiöksi.
 
-Muutoksenhausta 3 ja 4 momentissa tarkoitettuun päätökseen säädetään verotusmenettelystä annetun lain 71 e §:ssä.
+Muutoksenhausta 3 ja 4 momentissa tarkoitettuun päätökseen säädetään verotusmenettelystä annetussa laissa.
