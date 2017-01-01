@@ -1,0 +1,2 @@
+Laki asunto-omaisuuteen liittyvien kuluttajaluottojen välittäjistä
+Eduskunnan päätöksen mukaisesti säädetään:
