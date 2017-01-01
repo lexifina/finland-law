@@ -2,7 +2,7 @@
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 2 a luku Työvoimapoliittisesti moitittava menettely
 
-Jos työnhakija kuuden kuukauden tarkastelujakson kuluessa toistuvasti menettelee 1 tai 4 §:ssä taikka 9—12 a §:ssä tarkoitetulla tavalla työvoimapoliittisesti arvioituna moitittavasti, hänelle asetetaan työssäolovelvoite toistuvasta menettelystä lukien.
+Jos työnhakija kuuden kuukauden tarkastelujakson kuluessa toistuvasti menettelee 1 tai 4 §:ssä taikka 9–12 a §:ssä tarkoitetulla tavalla työvoimapoliittisesti arvioituna moitittavasti, hänelle asetetaan työssäolovelvoite toistuvasta menettelystä lukien.
 
 Oikeus työttömyysetuuteen palautuu, kun henkilö on yhteensä vähintään 12 kalenteriviikkoa:
 1) ollut työssäoloehtoon luettavassa työssä;

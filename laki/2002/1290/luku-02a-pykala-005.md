@@ -15,4 +15,4 @@ Henkilöllä on pätevä syy kieltäytyä hänelle tarjotusta työstä, jos:
 5) työhön liittyy ilmeinen väkivallan uhka; tai
 6) työssä esiintyy työntekijän terveydelle haittaa tai vaaraa aiheuttavaa häirintää tai muuta epäasiallista kohtelua.
 
-Henkilö voi kieltäytyä tarjotusta työstä menettämättä oikeutta työttömyysetuuteen myös muusta kuin 1 ja 2 momentissa ja 6—8 §:ssä tarkoitetusta syystä, jos se on pätevyydeltään verrattavissa näihin.
+Henkilö voi kieltäytyä tarjotusta työstä menettämättä oikeutta työttömyysetuuteen myös muusta kuin 1 ja 2 momentissa ja 6–8 §:ssä tarkoitetusta syystä, jos se on pätevyydeltään verrattavissa näihin.

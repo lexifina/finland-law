@@ -14,4 +14,4 @@ Omavastuupäiviksi ei lueta niitä päiviä:
 
 Omavastuuaikaan luetaan kuitenkin 3 luvun 3 §:n 4 momentissa tarkoitettu sairausvakuutuksen päivärahan ja kuntoutusrahan omavastuuaika. Omavastuupäiviksi luetaan myös ne päivät, joilta henkilölle on maksettu työttömyysetuutta 10 luvun perusteella.
 
-Henkilöllä on 1—4 momentista huolimatta oikeus työttömyyspäivärahaan, jos työnteon estymisen syynä on sellainen työtaistelutoimenpide, jolla ei ole riippuvuussuhdetta hänen työehtoihinsa tai työoloihinsa ja jos hän muutoin täyttää työttömyyspäivärahan saamisen edellytykset.
+Henkilöllä on 1–4 momentista huolimatta oikeus työttömyyspäivärahaan, jos työnteon estymisen syynä on sellainen työtaistelutoimenpide, jolla ei ole riippuvuussuhdetta hänen työehtoihinsa tai työoloihinsa ja jos hän muutoin täyttää työttömyyspäivärahan saamisen edellytykset.

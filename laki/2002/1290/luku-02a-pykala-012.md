@@ -10,4 +10,4 @@ Mitä 1 momentissa säädetään, sovelletaan muuhun kuin työllistymistä edist
 
 Jos työnhakija omalla menettelyllään aiheuttaa, ettei hänelle voida järjestää 1 tai 2 momentissa tarkoitettua palvelua, hänen katsotaan kieltäytyneen siitä.
 
-Koulutusta vailla olevan nuoren oikeudesta työttömyysetuuteen hänen kieltäydyttyään omaehtoisesta koulutuksesta säädetään 2 luvun 13—16 §:ssä.
+Koulutusta vailla olevan nuoren oikeudesta työttömyysetuuteen hänen kieltäydyttyään omaehtoisesta koulutuksesta säädetään 2 luvun 13–16 §:ssä.

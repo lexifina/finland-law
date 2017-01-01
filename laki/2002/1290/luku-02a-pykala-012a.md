@@ -6,4 +6,4 @@ Työnhakijalla, joka ilman pätevää syytä keskeyttää tai joutuu omasta syys
 
 Jos henkilö on hakenut oikaisua tai valittamalla muutosta palvelun keskeyttämistä koskevaan päätökseen eikä oikaisuvaatimusta tai valitusta ole pidettävä ilmeisen aiheettomana, ei ennen asiassa annettua lopullista ratkaisua voida katsoa, että hän olisi 1 momentissa tarkoitetulla tavalla omasta syystään joutunut keskeyttämään palvelun.
 
-Koulutusta vailla olevan nuoren oikeudesta työttömyysetuuteen hänen keskeytettyään omaehtoisen koulutuksen säädetään 2 luvun 13—16 §:ssä.
+Koulutusta vailla olevan nuoren oikeudesta työttömyysetuuteen hänen keskeytettyään omaehtoisen koulutuksen säädetään 2 luvun 13–16 §:ssä.
