@@ -1,5 +1,5 @@
-# 8 § Veron perintä ja suorittaminen, muutoksenhaku ja ilmoittamisvelvollisuus
+# 8 § Palkkatulon lähdeveron perintä
 
-Palkkatulon lähdeveron perinnässä ja suorittamisessa, veron perinnän valvonnassa sekä muutoksenhaussa noudatetaan soveltuvin osin ennakkoperintälain säännöksiä. Verohallinto voi antaa veron perimistä, suorittamista, työnantajan vuosi-ilmoitusta sekä tilittämistä koskevat tarkemmat määräykset.
+Palkkatulon lähdeveron perinnässä noudatetaan ennakkoperintälain säännöksiä.
 
-Työnantajan on palkkatulon lähdeveron perimisen sijasta toimitettava ennakkoperintälain mukainen ennakonpidätys, vaikka palkansaajan verokortissa olisi 4 §:ssä tarkoitettu merkintä, jos palkkatulon lähdeveron edellytykset eivät ole toteutuneet tai ne ovat lakanneet. Työnantaja vastaa ennakonpidätyksen toimittamisesta ja pidätetyn määrän suorittamisesta siten kuin ennakkoperintälaissa säädetään.
+Työnantajan on palkkatulon lähdeveron perimisen sijasta toimitettava ennakkoperintälain mukainen ennakonpidätys, vaikka palkansaajan verokortissa olisi 4 §:ssä tarkoitettu merkintä, jos palkkatulon lähdeveron edellytykset eivät ole toteutuneet tai ne ovat lakanneet. Työnantaja on vastuussa ennakonpidätyksen toimittamisesta ja pidätetyn määrän maksamisesta siten kuin ennakkoperintälaissa säädetään.
