@@ -1,0 +1,2 @@
+Laki oikeudenkäynnistä vakuutusoikeudessa
+Eduskunnan päätöksen mukaisesti säädetään:
