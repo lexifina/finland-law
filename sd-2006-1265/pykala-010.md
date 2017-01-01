@@ -1,6 +1,6 @@
 # 10 §
 Luku: 3 luku Jäsenet
 
-Korkeimmassa hallinto-oikeudessa on presidentin lisäksi muina jäseninä vähintään 15 hallintoneuvosta. Korkeimman hallinto-oikeuden presidentin ja jäsenten nimittämisestä ja kelpoisuusvaatimuksista säädetään tuomareiden nimittämisestä annetussa laissa (205/2000).
+Korkeimmassa hallinto-oikeudessa on presidentin lisäksi muina jäseninä vähintään 15 oikeusneuvosta. Korkeimman hallinto-oikeuden presidentin ja jäsenten nimittämisestä ja kelpoisuusvaatimuksista säädetään tuomioistuinlaissa (673/2016).
 
-Korkeimmassa hallinto-oikeudessa voi olla määräaikaisia jäseniä siten kuin tuomareiden nimittämisestä annetussa laissa säädetään.
+Korkeimman hallinto-oikeuden määräaikaisista jäsenistä säädetään tuomioistuinlaissa.
