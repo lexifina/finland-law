@@ -1,5 +1,5 @@
 # 6 § Laskennallisen enimmäismäärän vahvistaminen
-Osa: IV OSA TYÖTERVEYSHUOLTO JA VUOSILOMAKUSTANNUSKORVAUS
+Osa: IV OSA TYÖTERVEYSHUOLTO, VUOSILOMAKUSTANNUSKORVAUS JA KORVAUS VANHEMMUUDESTA AIHEUTUVISTA PERHEVAPAAKUSTANNUKSISTA
 Luku: 13 luku Työterveyshuoltoa koskevat korvaukset
 
 Työnantajalle maksettavan korvauksen perusteena oleva työntekijäkohtainen laskennallinen enimmäismäärä määritellään korvausluokittain hyvän työterveyshuoltokäytännön toteuttamiseksi tarpeellisten voimavaratekijöiden perusteella siten kuin valtioneuvoston asetuksella tarkemmin säädetään. Vastaavasti määritellään yrittäjälle ja muulle omaa työtään tekevälle maksettavan korvauksen yrittäjäkohtainen laskennallinen enimmäismäärä.

@@ -1,5 +1,5 @@
 # 1 § Työnantajan oikeus työterveyshuollon korvaukseen
-Osa: IV OSA TYÖTERVEYSHUOLTO JA VUOSILOMAKUSTANNUSKORVAUS
+Osa: IV OSA TYÖTERVEYSHUOLTO, VUOSILOMAKUSTANNUSKORVAUS JA KORVAUS VANHEMMUUDESTA AIHEUTUVISTA PERHEVAPAAKUSTANNUKSISTA
 Luku: 13 luku Työterveyshuoltoa koskevat korvaukset
 
 Työnantajalla on oikeus saada korvausta työterveyshuoltolaissa (1383/2001) työnantajan velvollisuudeksi säädetyn tai määrätyn työterveyshuollon järjestämisestä aiheutuneista tarpeellisista ja kohtuullisista kustannuksista (korvausluokka I).

@@ -1,5 +1,5 @@
 # 11 § Yliopisto-opiskelijoiden terveydenhoito
-Osa: IV OSA TYÖTERVEYSHUOLTO JA VUOSILOMAKUSTANNUSKORVAUS
+Osa: IV OSA TYÖTERVEYSHUOLTO, VUOSILOMAKUSTANNUSKORVAUS JA KORVAUS VANHEMMUUDESTA AIHEUTUVISTA PERHEVAPAAKUSTANNUKSISTA
 Luku: 13 luku Työterveyshuoltoa koskevat korvaukset
 
 Kansaneläkelaitos voi suorittaa Ylioppilaiden terveydenhoitosäätiölle kohtuullisen korvauksen sen järjestämän perusterveydenhuollon kustannuksista.

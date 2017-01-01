@@ -1,5 +1,5 @@
-# 6 § Vuosilomakustannuskorvauksen hakeminen
+# 6 § Vuosilomakustannuskorvauksen ja vanhemmuudesta aiheutuvista perhevapaakustannuksista maksettavan korvauksen hakeminen
 Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 15 luku Toimeenpanoa koskevat säännökset
 
-Vuosilomakustannuskorvausta on haettava kuuden kuukauden kuluessa vanhempainpäivärahakauden päättymisestä.
+Vuosilomakustannuskorvausta ja korvausta vanhemmuudesta aiheutuvista perhevapaakustannuksista on haettava kuuden kuukauden kuluessa vanhempainpäivärahakauden päättymisestä.

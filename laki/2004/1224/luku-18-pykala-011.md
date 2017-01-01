@@ -9,7 +9,7 @@ Sairausvakuutusrahastosta maksettavia työtulovakuutuksen kuluja ovat:
 2) maatalousyrittäjän työtapaturma- ja ammattitautilain 148 §:n 2 momentin mukaan perusturvaosuuteen katsottavat päivärahat;
 3) 13 luvussa tarkoitetut työterveyshuollon järjestämisestä aiheutuvien kustannusten korvaukset lukuun ottamatta Ylioppilaiden terveydenhoitosäätiölle maksettavia korvauksia;
 4) maatalousyrittäjien työterveyshuollon eräiden kustannusten korvaamisesta valtion varoista annetussa laissa säädetyt kulut; sekä
-5) edellä 14 luvussa tarkoitetut vuosilomakustannuskorvaukset.
+5) 14 luvussa tarkoitetut vuosilomakustannuskorvaukset ja korvaukset vanhemmuudesta aiheutuvista perhevapaakustannuksista.
 
 Edellä 1 §:n 6 kohdassa tarkoitetuista toimintakuluista työtulovakuutuksen kuluja ovat 1 momentin 1–5 kohdassa tarkoitettujen etuuksien ja korvausten toimeenpanosta Kansaneläkelaitokselle aiheutuvat toimintakulut.
 

@@ -1,5 +1,5 @@
 # 5 § Työterveyshuollon kustannuksista maksettava korvaus
-Osa: IV OSA TYÖTERVEYSHUOLTO JA VUOSILOMAKUSTANNUSKORVAUS
+Osa: IV OSA TYÖTERVEYSHUOLTO, VUOSILOMAKUSTANNUSKORVAUS JA KORVAUS VANHEMMUUDESTA AIHEUTUVISTA PERHEVAPAAKUSTANNUKSISTA
 Luku: 13 luku Työterveyshuoltoa koskevat korvaukset
 
 Työnantajalle, yrittäjälle ja muulle omaa työtään tekevälle työterveyshuollon järjestämisestä aiheutuneista 1 §:n 1 momentissa ja 1 §:n 2 momentissa tarkoitetuista kustannuksista korvataan 50 prosenttia.

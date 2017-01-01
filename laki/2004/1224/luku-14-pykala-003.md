@@ -1,6 +1,6 @@
-# 3 § Korvauksen määrä
-Osa: IV OSA TYÖTERVEYSHUOLTO JA VUOSILOMAKUSTANNUSKORVAUS
-Luku: 14 luku Vuosilomakustannuskorvaus
+# 3 § Vuosilomakustannuskorvauksen määrä
+Osa: IV OSA TYÖTERVEYSHUOLTO, VUOSILOMAKUSTANNUSKORVAUS JA KORVAUS VANHEMMUUDESTA AIHEUTUVISTA PERHEVAPAAKUSTANNUKSISTA
+Luku: 14 luku Vuosilomakustannuskorvaus ja korvaus vanhemmuudesta aiheutuvista perhevapaakustannuksista
 
 Työnantajalle maksetaan korvausta jokaiselta kalenterikuukaudelta, jolta vuosilomaa on kertynyt 1 §:ssä tarkoitetulta ajalta edellyttäen, että vanhempainpäivärahapäiviä on kalenterikuukautena ollut vähintään 14.
 

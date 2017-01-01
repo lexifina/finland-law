@@ -9,12 +9,12 @@ Tämän lain nojalla ei korvata:
 4) sairaanhoidon kustannuksia ajalta, jonka vakuutettu on julkisessa laitoshoidossa tai sitä vastaavassa hoidossa;
 5) sairaanhoidon kustannuksia, jos kustannukset korvataan vankeuslain (767/2005) 10 luvun 7 §:n perusteella;
 6) sairaanhoitoon liittyvien tai vakuutetun muutoin tarvitsemien hoitotarvikkeiden, apuvälineiden ja proteesien hankkimisesta aiheutuvia kustannuksia;
-7) yksityisistä terveydenhuoltopalveluista perittyjä hoitopäivä-, poliklinikka-, toimisto- ja muita vastaavia maksuja;
+7) yksityisistä terveydenhuoltopalveluista perittyjä hoitopäivä-, poliklinikka- ja toimistomaksuja sekä muita vastaavia maksuja;
 8) lääkärin antaman psykoterapian kustannuksia, jos kustannukset korvataan Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain (566/2005) 11 a tai 12 §:n perusteella;
-9) sairaanhoidon kustannuksia, jos kustannukset ovat syntyneet hoidosta, joka ei kuulu terveydenhuoltolain 7 a §:ssä tarkoitettuun terveydenhuollon palveluvalikoimaan.
+9) sairaanhoidon kustannuksia, jos kustannukset ovat syntyneet hoidosta, joka ei kuulu terveydenhuoltolain (1326/2010) 7 a §:ssä tarkoitettuun terveydenhuollon palveluvalikoimaan.
 
-Edellä 4 ja 5 kohdassa sairaanhoidon kustannuksilla tarkoitetaan myös lääkkeistä aiheutuvia kustannuksia.
+Edellä 1 momentin 4 ja 5 kohdassa sairaanhoidon kustannuksilla tarkoitetaan myös lääkkeistä aiheutuvia kustannuksia.
 
-Kunnallisen sosiaali- ja terveydenhuollon tiloissa järjestetyn yksityisen terveydenhuollon palveluiden kustannusten korvaaminen edellyttää, että tilojen vuokranantaja on ilmoittanut Kansaneläkelaitokselle vuokraussopimuksen tehneen palveluiden antajan yksilöintitiedot sekä toimipaikkaa ja vuokrasopimuksen kestoa koskevat tiedot. Tilojen vuokranantajan on huolehdittava siitä, että tilojen vuokraaminen ei vaaranna kunnallisen sosiaali- ja terveydenhuollon lakisääteistä toimintaa.
+Kunnallisen sosiaali- ja terveydenhuollon tiloissa järjestetyn yksityisen terveydenhuollon palveluiden kustannusten korvaamisen edellytyksenä on, että tilojen vuokranantaja on ilmoittanut Kansaneläkelaitokselle vuokraussopimuksen tehneen palvelun antajan yksilöintitiedot sekä toimipaikkaa ja vuokrasopimuksen kestoa koskevat tiedot. Tilojen vuokranantajan on huolehdittava siitä, että tilojen vuokraaminen ei vaaranna kunnallisen sosiaali- ja terveydenhuollon lakisääteistä toimintaa.
 
-Osakeyhtiötä, jonka enemmistöomistajana on yksi tai useampi kunta tai kuntayhtymä, pidetään tässä pykälässä tarkoitettuna yksityisenä terveydenhuollon palveluiden antajana, jos muun kuin kunnan tai kuntayhtymän omistusosuus on yhteensä vähintään 25 prosenttia yhtiön osakepääomasta.
+Osakeyhtiötä, jonka enemmistöomistajana on yksi tai useampi kunta tai kuntayhtymä, pidetään tässä pykälässä tarkoitettuna yksityisenä terveydenhuollon palveluiden antajana, jos muun kuin kunnan tai kuntayhtymän omistusosuus on yhteensä vähintään 25 prosenttia yhtiön osakepääomasta. Muun kuin kunnan tai kuntayhtymän omistusosuutta ei kuitenkaan edellytetä, jos yhtiöittäminen on tehty kuntalain (410/2015) 126 §:n 1 momentissa säädetyn yhtiöittämisvelvollisuuden täyttämiseksi.

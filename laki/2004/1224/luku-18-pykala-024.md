@@ -6,4 +6,6 @@ Sairausvakuutuksen päivärahamaksun ja työnantajan sairausvakuutusmaksun maksu
 
 Sen estämättä, mitä 1 momentissa säädetään, yrittäjän lisärahoitusosuutta tarkistetaan vuosittain siten, että yrittäjän lisärahoitusosuuden tuotolla voidaan kattaa se osa 11 §:ssä tarkoitetuista työtulovakuutuksen kuluista, joka muodostuu 8 luvun 10 §:ssä tarkoitetusta päivärahamenosta.
 
+Sen estämättä, mitä 1 momentissa säädetään, työnantajien rahoitusosuutta tarkistetaan vuosittain siten, että työnantajien rahoitusosuuden tuotolla voidaan kattaa se osa tämän luvun 11 §:ssä tarkoitetuista työtulovakuutuksen kuluista, joka muodostuu 14 luvun 4 §:ssä tarkoitetusta kertakorvausmenosta.
+
 Valtioneuvoston asetuksella säädetään vuosittain ennen marraskuun 23 päivää seuraavana vuonna sovellettavasta sairausvakuutuksen päivärahamaksun ja työnantajan sairausvakuutusmaksun maksuprosentista sekä yrittäjän lisärahoitusosuuden suuruudesta.

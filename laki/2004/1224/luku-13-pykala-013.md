@@ -1,5 +1,5 @@
 # 13 § Korvauksen määräytyminen
-Osa: IV OSA TYÖTERVEYSHUOLTO JA VUOSILOMAKUSTANNUSKORVAUS
+Osa: IV OSA TYÖTERVEYSHUOLTO, VUOSILOMAKUSTANNUSKORVAUS JA KORVAUS VANHEMMUUDESTA AIHEUTUVISTA PERHEVAPAAKUSTANNUKSISTA
 Luku: 13 luku Työterveyshuoltoa koskevat korvaukset
 
 Korvausta suoritetaan toiminnan toteuttamiseksi tarpeellisten voimavarojen käytöstä aiheutuneista kustannuksista opiskelijakohtaisen laskennallisen enimmäismäärän perusteella.

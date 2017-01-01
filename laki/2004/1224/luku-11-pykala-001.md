@@ -2,7 +2,7 @@
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 11 luku Päivärahaetuuksien määrä
 
-Sairauspäivärahan määrä on 70 prosenttia vakuutetun verotuksessa todettujen vuosityötulojen kolmassadasosasta, jos vuosityötulot eivät ylitä 26 898 euroa. Tämän ylittävästä osasta 50 606 euron vuosituloon sairauspäivärahan määrä on 35 prosenttia vuosityötulon kolmassadasosasta ja 50 606 euron ylittävästä osasta 25 prosenttia vuosityötulon kolmassadasosasta.
+Sairauspäivärahan määrä on 70 prosenttia vakuutetun verotuksessa todettujen vuosityötulojen kolmassadasosasta, jos vuosityötulot eivät ylitä 26 898 euroa. Tämän ylittävästä osasta sairauspäivärahan määrä on 20 prosenttia vuosityötulon kolmassadasosasta.
 
 Vanhempainpäivärahan ja erityishoitorahan määrä on 70 prosenttia vakuutetun verotuksessa todettujen vuosityötulojen kolmassadasosasta, jos vuosityötulot eivät ylitä 32 892 euroa. Tämän ylittävästä osasta 50 606 euron vuosituloon vanhempainpäivärahan ja erityishoitorahan määrä on 40 prosenttia vuosityötulon kolmassadasosasta ja 50 606 euron ylittävästä osasta 25 prosenttia vuosityötulon kolmassadasosasta.
 

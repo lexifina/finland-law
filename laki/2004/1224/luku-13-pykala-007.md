@@ -1,5 +1,5 @@
 # 7 § Hyväksyttävät kustannukset
-Osa: IV OSA TYÖTERVEYSHUOLTO JA VUOSILOMAKUSTANNUSKORVAUS
+Osa: IV OSA TYÖTERVEYSHUOLTO, VUOSILOMAKUSTANNUSKORVAUS JA KORVAUS VANHEMMUUDESTA AIHEUTUVISTA PERHEVAPAAKUSTANNUKSISTA
 Luku: 13 luku Työterveyshuoltoa koskevat korvaukset
 
 Hyväksyttäviä kustannuksia ovat hyvän työterveyshuoltokäytännön toteuttamiseksi tarpeelliset ja kohtuulliset perustamis- ja käyttökustannukset.

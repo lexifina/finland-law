@@ -1,5 +1,5 @@
 # 14 § Oikeus saada tietoja ja antaa tarkempia ohjeita korvauksen määräytymisestä
-Osa: IV OSA TYÖTERVEYSHUOLTO JA VUOSILOMAKUSTANNUSKORVAUS
+Osa: IV OSA TYÖTERVEYSHUOLTO, VUOSILOMAKUSTANNUSKORVAUS JA KORVAUS VANHEMMUUDESTA AIHEUTUVISTA PERHEVAPAAKUSTANNUKSISTA
 Luku: 13 luku Työterveyshuoltoa koskevat korvaukset
 
 Kansaneläkelaitoksella on oikeus saada Ylioppilaiden terveydenhoitosäätiöltä terveydenhoidon voimavarojen tehokkaan ja tuloksellisen käytön sekä toiminnan taloudellisuuden ja jatkuvan kehityksen seuraamiseksi ja arvioimiseksi tarvitsemiaan tietoja.

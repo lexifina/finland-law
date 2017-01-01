@@ -1,6 +1,6 @@
-# 1 § Oikeus korvaukseen
-Osa: IV OSA TYÖTERVEYSHUOLTO JA VUOSILOMAKUSTANNUSKORVAUS
-Luku: 14 luku Vuosilomakustannuskorvaus
+# 1 § Oikeus vuosilomakustannuskorvaukseen
+Osa: IV OSA TYÖTERVEYSHUOLTO, VUOSILOMAKUSTANNUSKORVAUS JA KORVAUS VANHEMMUUDESTA AIHEUTUVISTA PERHEVAPAAKUSTANNUKSISTA
+Luku: 14 luku Vuosilomakustannuskorvaus ja korvaus vanhemmuudesta aiheutuvista perhevapaakustannuksista
 
 Työnantajalle korvataan erityisäitiys-, äitiys-, isyys- ja vanhempainvapaan aikana työntekijälle kertyvistä lakisääteisistä vuosilomista aiheutuvia kustannuksia. Työnantajalla on oikeus korvaukseen, jos työnantajan on lain mukaan maksettava työntekijälle vuosiloman ajalta vuosilomapalkkaa tai lomakorvausta siltä ajalta, jolta työntekijä olematta työssä on saanut erityisäitiys-, äitiys-, isyys- tai vanhempainrahaa.
 
