@@ -1,0 +1,2 @@
+Laki vaikeavammaisille yrittäjille myönnettävistä veronhuojennuksista
+Eduskunnan päätöksen mukaisesti säädetään:
