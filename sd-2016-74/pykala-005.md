@@ -1,3 +1,5 @@
-# 5 § Osa-aikaeläke
+# 5 § Osa-aikaeläke ja osittainen varhennettu vanhuuseläke
 
 Ennen vuotta 1956 syntyneen yrittäjän 1 päivänä tammikuuta 2017 tai sitä ennen alkaneeseen osa-aikaeläkkeeseen sovelletaan 31 päivänä joulukuuta 2016 voimassa olleita säännöksiä ja osa-aikaeläkettä saavan lesken leskeneläkkeen vähentämiseen sovelletaan yrittäjän eläkelain 84 §:ää, sellaisena kuin se oli voimassa 31 päivänä joulukuuta 2016. Lisäksi osa-aikaeläkkeen jälkeiseen muuhun eläkkeeseen sovelletaan yrittäjän eläkelain 20 ja 21 §:ää sekä osa-aikaeläkkeen suuruiseksi vanhuuseläkkeeksi muutetun eläkkeen kustannustenjakoon mainitun lain 139 §:ää, sellaisina kuin ne olivat voimassa 31 päivänä joulukuuta 2016. Osa-aikaeläkkeen rinnalla tehdyn osa-aikatyön kunkin vuoden työansioista karttuu eläkettä siten kuin yrittäjän eläkelain muuttamisesta annetussa laissa ja tämän lain 4 §:ssä säädetään. Jos osa-aikaeläke on lakkautettuna yhdenjaksoisesti yli kuuden kuukauden ajan, yrittäjällä ei ole enää oikeutta osa-aikaeläkkeeseen.
+
+Vuonna 1948 tai sitä ennen syntyneellä yrittäjällä ei ole oikeutta osittaiseen varhennettuun vanhuuseläkkeeseen.
