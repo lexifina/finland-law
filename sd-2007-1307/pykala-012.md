@@ -4,4 +4,4 @@ Polttoainemaksu on suoritettava 30 päivän kuluessa maksuunpanopäätöksen ant
 
 Polttoainemaksu on maksettava rahalaitokseen tai maksuja vastaanottavaan maksupaikkaan siten kuin veronkantolaissa tai sen nojalla säädetään. Polttoainemaksun maksamisen yhteydessä on ilmoitettava maksulipun viitenumero.
 
-Tulli voi lähettää erääntyneestä polttoainemaksusta maksuvelvolliselle maksumuistutuksen.
+Verohallinto voi lähettää erääntyneestä polttoainemaksusta maksuvelvolliselle maksumuistutuksen.
