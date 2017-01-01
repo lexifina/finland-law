@@ -9,4 +9,5 @@ Tässä laissa tarkoitetaan:
 5) tapaajalla henkilöä, joka on tullut tapaamaan vapautensa menettänyttä;
 6) säilytystilalla poliisin hallinnoimaa tilaa, jota käytetään poliisin säilyttämien vapautensa menettäneiden säilytykseen;
 7) teknisellä valvonnalla säilytystilan valvontaa teknisellä laitteistolla;
-8) vartijalla poliisilain 1 luvun 10 §:ssä tarkoitettua ylivartijaa ja vartijaa.
+8) vartijalla poliisilaitoksen palveluksessa olevaa virkasuhteista vartijaa ja ylivartijaa;
+9) etävalvonnalla teknistä valvontaa, jossa säilytystilaa teknisellä valvonnalla valvova henkilö on muualla kuin sen säilytystilan alueella, jota hän valvoo.
