@@ -1,0 +1,2 @@
+Laki tapaturman ja palvelussairauden korvaamisesta kriisinhallintatehtävässä
+Eduskunnan päätöksen mukaisesti säädetään:
