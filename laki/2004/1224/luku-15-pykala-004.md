@@ -3,7 +3,7 @@ Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 15 luku Toimeenpanoa koskevat säännökset
 
 Päivärahaetuuksia on haettava seuraavasti:
-1) sairauspäivärahaa kahden kuukauden kuluessa työkyvyttömyyden alkamisesta ja osasairauspäivärahaa kahden kuukauden kuluessa siitä päivästä, josta alkaen etuutta halutaan saada;
+1) sairauspäivärahaa kahden kuukauden kuluessa työkyvyttömyyden alkamisesta sekä osasairauspäivärahaa, tartuntatautipäivärahaa ja luovutuspäivärahaa kahden kuukauden kuluessa siitä päivästä, josta alkaen etuutta halutaan saada;
 2) erityishoitorahaa ja erityisäitiysrahaa neljän kuukauden kuluessa siitä päivästä, josta alkaen etuutta halutaan saada;
 3) äitiysrahaa viimeistään kahta kuukautta ennen laskettua synnytysaikaa;
 4) vanhempainrahaa sekä osittaista vanhempainrahaa kuukautta ennen sitä päivää, josta alkaen etuutta halutaan saada, jollei 6 kohdasta muuta johdu;
