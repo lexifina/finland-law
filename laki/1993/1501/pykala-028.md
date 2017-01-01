@@ -2,8 +2,4 @@
 Osa: I OSA
 Luku: 4 LUKU Poikkeukset myynnin verollisuudesta
 
-Kiinteistöllä tarkoitetaan maa-aluetta, rakennusta ja pysyvää rakennelmaa tai niiden osaa.
-
-Kiinteistöllä harjoitettavaa erityistä toimintaa palvelevat koneet, laitteet ja kalusteet eivät kuulu kiinteistöön.
-
-Kiinteistön myyntiin tai vuokraukseen tavanomaisesti liittyvään asuinirtaimistoon sovelletaan, mitä kiinteistöstä säädetään.
+Kiinteistöllä tarkoitetaan yhteisestä arvonlisäverojärjestelmästä annetun direktiivin 2006/112/EY täytäntöönpanotoimenpiteistä annetun neuvoston täytäntöönpanoasetuksen (EU) N:o 282/2011 13 b artiklassa määriteltyä kiinteää omaisuutta.

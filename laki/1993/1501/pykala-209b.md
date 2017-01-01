@@ -13,6 +13,6 @@ Lasku on annettava myös:
 
 Myyjän on annettava lasku myös 1 ja 2 momentissa tarkoitettuja myyntejä koskevista:
 1) ennakkomaksuista, ei kuitenkaan silloin, kun ne koskevat tavaroiden yhteisömyyntiä;
-2) 78 §:n 1 momentin 1 ja 3 kohdassa sekä 78 a §:ssä tarkoitetuista oikaisueristä ja korvauksista, jollei niitä ole huomioitu aiemmin annetuissa laskuissa.
+2) 78 §:n 1 momentin 1, 2 ja 4 kohdassa sekä 78 a §:ssä tarkoitetuista oikaisueristä ja korvauksista, jollei niitä ole huomioitu aiemmin annetuissa laskuissa.
 
 Ostajan laatima lasku katsotaan myyjän antamaksi, jos myyjä ja ostaja ovat sopineet asiasta ja jos on olemassa järjestely, jonka mukaan myyjä hyväksyy laskun.
