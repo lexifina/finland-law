@@ -1,0 +1,4 @@
+# 29 § Lisensioivan yhteishallinnointiorganisaation oikeus tehdä vähennyksiä tekijänoikeuskorvauksista
+Luku: 6 luku Oikeuksien hallinnointi toisen yhteishallinnointiorganisaation puolesta
+
+Lisensioiva yhteishallinnointiorganisaatio ei saa tehdä tekijänoikeuskorvauksista muita vähennyksiä kuin hallinnointipalkkion osuuden, ellei muista vähennyksistä ole nimenomaisesti sovittu valtuuttavan yhteishallinnointiorganisaation kanssa.

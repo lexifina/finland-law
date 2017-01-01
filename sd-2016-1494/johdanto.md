@@ -1,0 +1,2 @@
+Laki tekijänoikeuden yhteishallinnoinnista
+Eduskunnan päätöksen mukaisesti säädetään:
