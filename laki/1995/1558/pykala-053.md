@@ -1,4 +1,4 @@
-# 53 § Verovastuun toteuttaminen
+# 53 § Verovastuun toteuttaminen ja muutoksenhaku
 Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
-Verovastuun toteuttamisesta on voimassa, mitä siitä veronkantolain 40 §:ssä säädetään.
+Verovastuun toteuttamisesta ja muutoksenhausta säädetään veronkantolaissa.
