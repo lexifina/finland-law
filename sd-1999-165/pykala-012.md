@@ -5,4 +5,4 @@ Henkilöllä on oikeus eläkeoikeuden palauttamiseen Suomen työeläkejärjestel
 
 Euroopan yhteisöistä palautettava summa (palautusmäärä) on koko Euroopan yhteisöjen eläkejärjestelmän mukaan karttunutta eläkeoikeutta vastaava pääoma-arvo (rahastosiirto).
 
-Suomeen 1 momentin mukaisesti palautettavan eläkeoikeuden pääoma-arvona käytetään palautusmäärää. Pääoma-arvosta lasketaan eläkeoikeus 5 §:ssä tarkoitettujen perusteiden mukaisesti. Näistä eläkeoikeuksista huolehtii kunnallinen eläkelaitos. Palautusmäärä tuloutetaan valtion eläkerahastolle.
+Suomeen 1 momentin mukaisesti palautettavan eläkeoikeuden pääoma-arvona käytetään palautusmäärää. Pääoma-arvosta lasketaan eläkeoikeus 5 §:ssä tarkoitettujen perusteiden mukaisesti. Näistä eläkeoikeuksista huolehtii Keva samalla tavalla kuin valtion palvelukseen perustuvista eläkeoikeuksista. Palautusmäärä tuloutetaan valtion eläkerahastolle.
