@@ -1,5 +1,5 @@
 # 19 § Hinnanalennus ja sopimuksen purku
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Jollei virheen oikaisu tule kysymykseen tai jollei oikaisua suoriteta kohtuullisessa ajassa siitä, kun tilaaja on ilmoittanut virheestä ja toimeksisaaja on saanut asian vaatiman tilaisuuden kohteen tarkastukseen, tilaaja saa vaatia virhettä vastaavaa hinnanalennusta tai, jos sopimusrikkomus on olennainen, purkaa sopimuksen.
 

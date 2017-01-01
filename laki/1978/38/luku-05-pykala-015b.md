@@ -1,5 +1,5 @@
 # 15 b § Tiedot takuusta
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Takuusta on selkeästi käytävä ilmi:
 1) takuun sisältö sekä se, että ostajalla on lain mukaiset oikeudet, ja että takuulla ei rajoiteta näitä oikeuksia; sekä

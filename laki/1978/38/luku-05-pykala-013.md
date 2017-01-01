@@ -1,5 +1,5 @@
 # 13 § Tiedot tavarasta
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Tavarassa on myös virhe, jos se ei vastaa niitä tietoja tavaran ominaisuuksista tai käytöstä, jotka myyjä tai joku muu aikaisemmassa myyntiportaassa tai myyjän lukuun on antanut tavaraa markkinoitaessa tai muuten ennen kaupantekoa.
 

@@ -1,5 +1,5 @@
 # 30 § Vahingonkorvaus
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Jos toimeksisaaja purkaa sopimuksen tilaajan maksuviivästyksen vuoksi tai jos tilaaja peruuttaa tilauksen 26 §:n 1 momentin mukaisesti, toimeksisaajalla on oikeus korvaukseen niistä erityisistä kustannuksista, joita hänelle on aiheutunut sopimuksen tekemisestä ja täyttämisestä ja joista hän todennäköisesti ei voi hyötyä muulla tavalla, sekä sopimuksen purkamisen tai peruutuksen vuoksi aiheutuvista erityisistä kustannuksista.
 

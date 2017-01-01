@@ -1,5 +1,5 @@
 # 27 § Toimeksisaajan oikeus pidättyä suorituksesta
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Jos palveluksen hinta tai osa siitä on maksettava ennen palveluksen luovutusta, mutta maksu viivästyy, toimeksisaajalla on oikeus pidättyä suorituksesta, kunnes hän saa maksun. Suorituksen keskeyttämisestä on viipymättä ilmoitettava tilaajalle.
 

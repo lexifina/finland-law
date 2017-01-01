@@ -1,5 +1,5 @@
 # 25 § Hinnan maksaminen ja erittely
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Jollei palveluksen hinnan maksuajankohtaa ole sovittu, tilaajan on maksettava hinta toimeksisaajan sitä vaatiessa, ei kuitenkaan ennen kuin palvelus on 3 §:n mukaisesti luovutettu ja tilaajalla on ollut kohtuullinen mahdollisuus tarkastaa suoritus.
 

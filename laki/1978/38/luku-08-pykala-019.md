@@ -1,5 +1,5 @@
 # 19 § Hinnanalennus ja sopimuksen purku
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Jollei virheen korjaaminen tai uusi suoritus tule kysymykseen taikka jollei tällaista oikaisua suoriteta kohtuullisessa ajassa siitä, kun tilaaja on ilmoittanut virheestä, tilaaja saa vaatia virhettä vastaavaa hinnanalennusta.
 

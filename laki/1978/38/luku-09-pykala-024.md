@@ -1,5 +1,5 @@
 # 24 § Hinnankorotusehdot
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Sopimusehto, jonka mukaan toimeksisaajalla on oikeus yksipuolisesti korottaa sovittua hintaa tai ylittää hinta-arviota enemmän kuin 23 §:ssä säädetään, on pätevä vain, jos:
 1) korotus johtuu sellaisesta lain muutoksesta tai viranomaisen päätöksestä, jota toimeksisaajan ei kohtuudella voida edellyttää ottaneen huomioon sopimusta tehtäessä, taikka sellaisesta rakentamista, elementtien asennusta tai muuta toimeksisaajan suoritettavaa palvelusta kohdanneesta, toimeksisaajan vaikutusmahdollisuuksien ulkopuolella olevasta esteestä, jota hänen ei kohtuudella voida edellyttää ottaneen huomioon sopimusta tehtäessä ja jonka seurauksia hän ei myöskään kohtuudella olisi voinut välttää eikä voittaa;

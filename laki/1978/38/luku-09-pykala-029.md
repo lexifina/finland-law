@@ -1,5 +1,5 @@
 # 29 § Sopimuksen purku
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Toimeksisaaja saa purkaa sopimuksen tilaajan maksuviivästyksen vuoksi, jos sopimusrikkomus on olennainen.
 

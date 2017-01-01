@@ -1,5 +1,5 @@
 # 24 § Maksuajankohta
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Jollei toisin ole sovittu, ostajan on maksettava kauppahinta myyjän sitä vaatiessa, ei kuitenkaan ennen kuin tavara on sopimuksen mukaisesti hänen saatavillaan.
 

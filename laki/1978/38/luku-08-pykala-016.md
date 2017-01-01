@@ -1,5 +1,5 @@
 # 16 § Virheilmoitus
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 Väliotsikko: Virheen seuraamukset
 
 Tilaaja ei saa vedota palveluksen virheeseen, ellei hän ilmoita virheestä toimeksisaajalle kohtuullisessa ajassa siitä, kun hän havaitsi virheen tai hänen olisi pitänyt se havaita. Virheilmoitus voidaan myös tehdä elinkeinonharjoittajalle, joka on välittänyt palveluksen tai sitoutunut vastaamaan sen ominaisuuksista.

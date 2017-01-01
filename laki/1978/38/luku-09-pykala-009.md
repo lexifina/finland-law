@@ -1,5 +1,5 @@
 # 9 § Vakiokorvaus viivästyksestä
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Jos elementtien tai urakan luovutus viivästyy, tilaajalla on oikeus vakiokorvaukseen. Sen määrä on ensimmäisen viivästyskuukauden kultakin alkaneelta viivästysviikolta 0,5 prosenttia vastaavasta osasta hintaa ja tämän jälkeen kultakin alkaneelta viivästysviikolta 1 prosentti vastaavasta osasta hintaa.
 

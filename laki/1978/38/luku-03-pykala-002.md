@@ -1,5 +1,5 @@
 # 2 §
-Luku: 3 LUKU Sopimusehtojen sääntely
+Luku: 3 luku Sopimusehtojen sääntely
 
 Elinkeinonharjoittajaa voidaan, jos se on kuluttajansuojan kannalta tarpeellista, kieltää jatkamasta 1 §:n 1 momentin vastaisen sopimusehdon käyttämistä taikka uudistamasta sellaisen tai siihen rinnastettavan sopimusehdon käyttämistä. Elinkeinonharjoittajien yhteenliittymää voidaan vastaavasti kieltää jatkamasta tai uudistamasta 1 §:n 2 momentin vastaista menettelyä. Kieltoa on tehostettava uhkasakolla, jollei se erityisestä syystä ole tarpeetonta.
 

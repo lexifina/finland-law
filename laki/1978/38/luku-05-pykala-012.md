@@ -1,5 +1,5 @@
 # 12 § Yleinen virhesäännös
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 Väliotsikko: Tavaran ominaisuudet ja virhe
 
 Tavaran on lajiltaan, määrältään, laadultaan, muilta ominaisuuksiltaan ja pakkaukseltaan vastattava sitä, mitä voidaan katsoa sovitun.

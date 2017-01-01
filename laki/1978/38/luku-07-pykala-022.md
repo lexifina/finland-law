@@ -2,7 +2,6 @@
 Luku: 7 luku Kuluttajaluotot
 
 Sen sijaan, mitä 20 §:n 2 momentissa säädetään korvauksen määrästä, luotonantajalla on oikeus vaatia korvauksena luoton todellinen vuosikorko ajalta, jonka luotto on ollut kuluttajan käytettävissä, jos kuluttaja etämyynnissä peruuttaa:
-1) asuntoluottosopimuksen tai luottosopimuksen, jonka vakuutena on asuinkiinteistöön vahvistettu kiinnitys tai asunto-osakeyhtiölain (1599/2009) 2 §:ssä tarkoitetun asunto-osakeyhtiön tai muun yhtiön osakkeet tai niihin rinnastettavat yhteisöosuudet tai asumisoikeus taikka edellä lueteltuihin rinnastettava Euroopan talousalueeseen kuuluvassa valtiossa sijaitseva vastaava vakuus;
 2) luottosopimuksen, joka on määrältään alle 200 euroa tai yli 75 000 euroa;
 3) luottosopimuksen, joka liittyy käyttelytiliin ja jonka ehtojen mukaan luottoaika on enintään yksi kuukausi;
 4) luottosopimuksen, jonka ehtojen mukaan luottoaika on enintään kolme kuukautta, josta ei peritä korkoa ja josta perittävät muut luottokustannukset todelliseksi vuosikoroksi muunnettuina eivät ylitä korkolain 4 §:n 1 momentissa tarkoitetun koron määrää;

@@ -1,5 +1,5 @@
 # 2 §
-Luku: 4 LUKU Sopimuksen sovittelu ja tulkinta
+Luku: 4 luku Sopimuksen sovittelu ja tulkinta
 
 Jos 1 §:ssä tarkoitettu sopimusehto on laadittu etukäteen ilman, että kuluttaja on voinut vaikuttaa sen sisältöön, on 1 §:ää sovellettaessa noudatettava tässä pykälässä säädettyjä rajoituksia.
 

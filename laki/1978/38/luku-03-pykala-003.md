@@ -1,5 +1,5 @@
 # 3 §
-Luku: 3 LUKU Sopimusehtojen sääntely
+Luku: 3 luku Sopimusehtojen sääntely
 
 Kiellon, jota 2 §:ssä tarkoitetaan, määrää markkinaoikeus. Markkinaoikeus voi myös antaa kiellon väliaikaisena, jolloin kielto on voimassa, kunnes asia on lopullisesti ratkaistu.
 

@@ -1,5 +1,5 @@
 # 6 § Lisätyöt
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Jos palvelusta suoritettaessa ilmenee tarvetta toimeksiantoon kuulumattomiin toimenpiteisiin, jotka on tarkoituksenmukaista suorittaa samassa yhteydessä (lisätyöt), toimeksisaajan on pyydettävä tilaajalta lupa niiden suorittamiseen.
 

@@ -1,5 +1,5 @@
 # 14 § Sellaisena kuin se on -ehto
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Jos tavara on myyty ""sellaisena kuin se on"" tai samankaltaista yleistä varaumaa käyttäen, siinä katsotaan kuitenkin olevan virhe, jos:
 1) tavara ei vastaa niitä tietoja, jotka myyjä on ennen kaupantekoa antanut sen ominaisuuksista tai käytöstä ja joiden voidaan olettaa vaikuttaneen kauppaan;

@@ -1,5 +1,5 @@
 # 31 § Tilaajan myötävaikutusvelvollisuuden laiminlyönti
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Jos elementtien luovutus viivästyy tilaajasta johtuvasta syystä, toimeksisaajalla on oikeus saada tilaajalta korvaus viivästyksen vuoksi tarpeellisiksi tulleista elementtien kuljetus-, varastointi- tai suojauskustannuksista sekä vakuutusmenoista. Sopimus, jonka mukaan tilaajan maksettava korvaus määräytyy kaavamaisesti tiettynä osuutena hinnasta tai muun vakioperusteen mukaan, on pätevä, jos sopimuksen mukainen korvaus on kohtuullinen ottaen huomioon edellä tarkoitetussa viivästystapauksessa toimeksisaajalle yleensä aiheutuvat kustannukset.
 

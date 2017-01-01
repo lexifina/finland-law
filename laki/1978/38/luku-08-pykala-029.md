@@ -1,5 +1,5 @@
 # 29 § Toimeksisaajan oikeus purkaa sopimus
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Jos tilaaja viivästyy palveluksen hinnan tai sen osan maksamisessa ja sopimusrikkomus on olennainen, toimeksisaaja saa purkaa sopimuksen siltä osin kuin palvelusta ei ole suoritettu.
 

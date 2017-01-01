@@ -1,5 +1,5 @@
 # 10 § Vahingonkorvaus
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Tilaajalla on oikeus korvaukseen vahingosta, jonka hän kärsii toimeksisaajan viivästyksen vuoksi, jollei toimeksisaaja osoita, että viivästys johtuu hänen vaikutusmahdollisuuksiensa ulkopuolella olevasta esteestä, jota hänen ei kohtuudella voida edellyttää ottaneen huomioon sopimusta tehtäessä ja jonka seurauksia hän ei myöskään kohtuudella olisi voinut välttää eikä voittaa.
 

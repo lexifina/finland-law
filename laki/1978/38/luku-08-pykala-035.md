@@ -1,5 +1,5 @@
 # 35 § Muun elinkeinonharjoittajan virhevastuu
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Jos toimeksisaaja on käyttänyt apunaan toista elinkeinonharjoittajaa palveluksen suorittamisessa ja tämän elinkeinonharjoittajan suorittamassa palveluksen osassa on virhe, tilaajalla on oikeus kohdistaa virheeseen perustuva, tämän luvun säännösten mukainen vaatimuksensa myös mainittuun elinkeinonharjoittajaan.
 

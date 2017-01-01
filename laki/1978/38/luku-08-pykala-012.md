@@ -1,5 +1,5 @@
 # 12 § Yleinen virhesäännös
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 Väliotsikko: Palveluksen ominaisuudet ja virhe
 
 Palveluksen on sisällöltään, suoritustavaltaan ja tulokseltaan vastattava sitä, mitä voidaan katsoa sovitun.

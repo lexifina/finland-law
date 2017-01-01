@@ -1,5 +1,5 @@
 # 13 § Tiedot palveluksesta
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Palveluksessa on myös virhe, jos se ei vastaa niitä tietoja, jotka toimeksisaaja on antanut palveluksen sisällöstä tai suorituksestaan taikka muista palveluksen laatua tai hyväksikäyttöä koskevista seikoista palvelusta markkinoitaessa tai muuten ennen sopimuksentekoa ja joiden voidaan olettaa vaikuttaneen tilaajan päätöksentekoon. Sama koskee palvelusta suoritettaessa annettuja tietoja, joiden voidaan olettaa vaikuttaneen tilaajan päätöksentekoon.
 

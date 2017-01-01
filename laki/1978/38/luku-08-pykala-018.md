@@ -1,5 +1,5 @@
 # 18 § Virheen oikaisu
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Tilaajalla on oikeus vaatia, että toimeksisaaja korjaa virheen tai uusii virheellisen suorituksen ilman, että tilaajalle aiheutuu siitä lisäkustannuksia. Toimeksisaaja ei kuitenkaan ole velvollinen oikaisemaan virhettä, jos siitä aiheutuisi hänelle kohtuuttomia kustannuksia tai kohtuutonta haittaa.
 

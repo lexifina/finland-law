@@ -1,5 +1,5 @@
 # 11 § Vahingonkorvaus
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Tilaajalla on oikeus korvaukseen vahingosta, jonka hän kärsii toimeksisaajan viivästyksen vuoksi, jollei toimeksisaaja osoita, että viivästys johtuu hänen vaikutusmahdollisuuksiensa ulkopuolella olevasta esteestä, jota hänen ei kohtuudella voida edellyttää ottaneen huomioon sopimuksentekohetkellä ja jonka seurauksia hän ei myöskään kohtuudella olisi voinut välttää eikä voittaa.
 

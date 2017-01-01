@@ -1,5 +1,5 @@
 # 6 § Vaaranvastuun siirtyminen
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Myyjällä on vaaranvastuu siitä, että tavara tuhoutuu, katoaa, huonontuu tai vähenee ostajasta riippumattomasta syystä ennen sen luovutusta. Jos ostaja ei ajoissa nouda tai vastaanota tavaraa, jota pidetään hänen saatavillaan, ostajalla on kuitenkin vaaranvastuu siitä, että tavara huonontuu luontaisten ominaisuuksiensa vuoksi sen jälkeen, kun myyjä on tehnyt sen, mitä luovutus häneltä edellyttää.
 

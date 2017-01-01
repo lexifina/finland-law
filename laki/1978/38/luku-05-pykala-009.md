@@ -1,5 +1,5 @@
 # 9 § Kaupan purku
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Ostaja saa purkaa kaupan myyjän viivästyksen vuoksi, jos hän on asettanut myyjälle kohtuullisen lisäajan eikä myyjä ole luovuttanut tavaraa lisäajan kuluessa. Asetetun lisäajan kuluessa ostaja saa purkaa kaupan vain, jos myyjä on kieltäytynyt toimittamasta tavaraa tämän ajan kuluessa.
 

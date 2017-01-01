@@ -1,5 +1,5 @@
 # 3 § Tavaran luovutus
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 Väliotsikko: Tavaran luovutus ja vaaranvastuu
 
 Jollei toisin ole sovittu, tavara on pidettävä ostajan noudettavissa siellä, missä myyjällä kaupantekohetkellä oli liikepaikkansa. Jos myyjällä ei ollut kauppaan liittyvää liikepaikkaa eikä toisin ole sovittu, myyjän on lähetettävä tai kuljetettava tavara ostajalle.

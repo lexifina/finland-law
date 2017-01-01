@@ -1,5 +1,5 @@
 # 14 § Neuvontavelvollisuus
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Jos sopimusta tehtäessä tai sen jälkeen osoittautuu, että palvelus, sen hinta, kohteen arvo ja ominaisuudet tai muut erityiset seikat huomioon ottaen ilmeisesti ei olisi tilaajan kannalta tarkoituksenmukainen, toimeksisaajan on viipymättä ilmoitettava siitä tilaajalle. Toimeksisaajan on ilmoitettava tilaajalle myös, jos palvelus ilmeisesti tulee huomattavasti kalliimmaksi kuin tilaaja on kohtuudella voinut odottaa.
 

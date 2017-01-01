@@ -1,5 +1,5 @@
 # 20 § Vahingonkorvaus
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Tilaajalla on oikeus korvaukseen vahingosta, jonka hän kärsii toimeksisaajan suorituksessa olevan virheen vuoksi.
 

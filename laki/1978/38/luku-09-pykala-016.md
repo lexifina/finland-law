@@ -1,5 +1,5 @@
 # 16 § Virheilmoitus
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 Väliotsikko: Virheen seuraamukset
 
 Tilaaja ei saa vedota toimeksisaajan suorituksen virheeseen, ellei hän ilmoita virheestä toimeksisaajalle kohtuullisessa ajassa siitä, kun hän havaitsi virheen tai hänen olisi pitänyt se havaita. Virheilmoitus voidaan myös tehdä elinkeinonharjoittajalle, joka on välittänyt sopimuksen toimeksisaajan lukuun taikka sitoutunut oikaisemaan suorituksessa olevan virheen tai muuten vastaamaan suorituksen ominaisuuksista.

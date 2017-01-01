@@ -1,5 +1,5 @@
 # 6 § Vaaranvastuun siirtyminen
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Toimeksisaajalla on vaaranvastuu siitä, että elementtejä tuhoutuu, katoaa tai vahingoittuu tilaajasta riippumattomasta syystä ennen luovutusta. Toimeksisaajalla on myös vaaranvastuu siitä, että hänen suorituksensa muuten tuhoutuu, vahingoittuu tai menee hukkaan tilaajasta riippumattomasta syystä ennen sen luovutusta tai, jos luovutus viivästyy tilaajan puolella olevasta syystä, ennen kuin toimeksisaaja on tehnyt sen, mitä luovutus häneltä edellyttää.
 

@@ -1,5 +1,5 @@
 # 21 § Materiaalin aiheuttamat tuotevahingot
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Milloin palveluksen suorittamisessa käytetyn materiaalin virheestä aiheutuu vahinkoa muulle omaisuudelle kuin palveluksen kohteelle, toimeksisaajan korvausvelvollisuuteen sovelletaan 20 §:n säännöksiä vain, mikäli vahinko kohdistuu omaisuuteen, jolla on välitön käyttöyhteys palveluksen kohteeseen.
 

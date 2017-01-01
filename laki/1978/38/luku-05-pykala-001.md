@@ -1,5 +1,5 @@
 # 1 § Luvun soveltamisala
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 Väliotsikko: Yleiset säännökset kuluttajankaupasta
 
 Tämän luvun säännökset koskevat tavaran kauppaa, jossa myyjänä on elinkeinonharjoittaja ja ostajana kuluttaja.

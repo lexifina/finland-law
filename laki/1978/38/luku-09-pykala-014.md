@@ -1,5 +1,5 @@
 # 14 § Suorituksesta annetut tiedot
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Toimeksisaajan suorituksessa on myös virhe, jos se ei vastaa niitä tietoja, jotka toimeksisaaja on markkinoinnissa tai muuten ennen sopimuksentekoa antanut elementtien ominaisuuksista, suorituksensa sisällöstä taikka muista suorituksensa laatua tai hyväksikäyttöä koskevista seikoista ja joiden voidaan olettaa vaikuttaneen sopimukseen. Sama koskee sopimuksenteon jälkeen annettuja tietoja, joiden voidaan olettaa vaikuttaneen tilaajan päätöksentekoon.
 

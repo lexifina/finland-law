@@ -1,5 +1,5 @@
 # 27 § Myyjän oikeus purkaa kauppa
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Jos ostaja viivästyy kauppahinnan maksamisessa, myyjä saa purkaa kaupan, jos sopimusrikkomus on olennainen.
 

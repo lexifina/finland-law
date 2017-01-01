@@ -1,5 +1,5 @@
 # 18 § Virheen oikaisu
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Ostajalla on oikeus vaatia, että myyjä korjaa virheen tai toimittaa virheettömän tavaran. Tällainen oikaisu on suoritettava kohtuullisessa ajassa ja siten, ettei ostajalle aiheudu siitä kustannuksia tai olennaista haittaa. Myyjä ei kuitenkaan ole velvollinen oikaisemaan virhettä, jos siihen on este, jota hän ei voi voittaa, tai jos siitä aiheutuisi hänelle kohtuuttomia kustannuksia. Tässä tulee erityisesti ottaa huomioon virheen merkitys ja tavaran arvo, jos se olisi sopimuksen mukainen, sekä se, voidaanko oikaisu suorittaa muulla tavalla aiheuttamatta ostajalle huomattavaa haittaa.
 

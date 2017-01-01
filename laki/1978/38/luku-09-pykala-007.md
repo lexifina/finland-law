@@ -1,5 +1,5 @@
 # 7 § Oikeus pidättyä maksusta
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 Väliotsikko: Toimeksisaajan viivästyksen seuraamukset
 
 Jos elementit ovat toimeksisaajan viivästyksen vuoksi luovuttamatta ajankohtana, jona hinta tai osa siitä sopimuksen mukaan erääntyy maksettavaksi, tilaajalla on oikeus pidättyä maksusta, kunnes luovutus tapahtuu. Jos luovutus on viivästynyt vain osaksi, tilaaja ei kuitenkaan saa pidättyä maksusta siltä osin kuin se ilmeisesti ylittää ne vaatimukset, joihin hänellä on viivästyksen perusteella oikeus. Luovutuksen jälkeenkin tilaajalla on oikeus pidättyä maksamasta sellaista osaa hinnasta, joka on tarpeen viivästykseen perustuvan korvausvaatimuksen vakuudeksi.

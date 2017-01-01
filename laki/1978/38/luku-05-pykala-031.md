@@ -1,5 +1,5 @@
 # 31 § Aikaisemman myyntiportaan virhevastuu
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Ostajalla on oikeus kohdistaa tavaran virheeseen perustuva, tämän luvun säännösten mukainen vaatimuksensa myös elinkeinonharjoittajaan, joka aikaisemmassa myyntiportaassa on luovuttanut tavaran jälleenmyyntiä varten.
 

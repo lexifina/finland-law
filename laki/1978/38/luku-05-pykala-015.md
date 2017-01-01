@@ -1,5 +1,5 @@
 # 15 § Virheellisyyden määräävä ajankohta
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Tavaran virheellisyyttä on arvioitava sen perusteella, millainen tavara on ominaisuuksiltaan vaaranvastuun siirtyessä ostajalle. Myyjä vastaa virheestä, joka tavarassa on ollut tänä ajankohtana, vaikka virhe ilmenisi vasta myöhemmin.
 

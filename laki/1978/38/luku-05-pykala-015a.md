@@ -1,5 +1,5 @@
 # 15 a § Takuun merkitys
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Jos myyjä on sitoutunut vastaamaan tavaran käyttökelpoisuudesta tai muista ominaisuuksista määrätyn ajan (takuu), tavarassa katsotaan olevan virhe, jos tavara tänä aikana huonontuu takuussa tarkoitetulla tavalla. Virhevastuuta ei kuitenkaan synny, jos myyjä saattaa todennäköiseksi, että huonontuminen johtuu tapaturmasta, tavaran vääränlaisesta käsittelystä tai muusta ostajan puolella olevasta seikasta.
 

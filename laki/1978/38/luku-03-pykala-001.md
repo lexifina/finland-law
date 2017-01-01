@@ -1,5 +1,5 @@
 # 1 §
-Luku: 3 LUKU Sopimusehtojen sääntely
+Luku: 3 luku Sopimusehtojen sääntely
 
 Elinkeinonharjoittaja ei saa käyttää kulutushyödykkeitä tarjotessaan sopimusehtoa, jota kulutushyödykkeen hinta ja muut asiaan vaikuttavat seikat huomioon ottaen on pidettävä kuluttajien kannalta kohtuuttomana.
 

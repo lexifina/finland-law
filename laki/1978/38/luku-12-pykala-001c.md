@@ -1,5 +1,5 @@
 # 1 c § Oikeus vedota eräisiin ilmoituksiin ja asiakirjoihin
-Luku: 12 LUKU Erinäisiä säännöksiä
+Luku: 12 luku Erinäisiä säännöksiä
 
 Jos tässä laissa tarkoitettu virheilmoitus taikka ilmoitus sopimuksen purkamisesta tai peruuttamisesta on tarkoituksenmukaisella tavalla lähetetty vastaanottajalle, lähettäjä saa vedota ilmoitukseen, vaikka se myöhästyisi, vääristyisi tai ei tulisi perille.
 

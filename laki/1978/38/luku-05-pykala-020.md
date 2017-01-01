@@ -1,5 +1,5 @@
 # 20 § Vahingonkorvaus
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Ostajalla on oikeus korvaukseen vahingosta, jonka hän kärsii tavaran virheen vuoksi. Edellä 10 §:n 3 ja 4 momentissa tarkoitetun välillisen vahingon myyjä on kuitenkin velvollinen korvaamaan vain, jos virhe tai vahinko johtuu huolimattomuudesta hänen puolellaan taikka jos tavara kaupantekohetkellä poikkesi siitä, mihin myyjä on erityisesti sitoutunut.
 

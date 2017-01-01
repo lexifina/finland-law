@@ -1,5 +1,5 @@
 # 4 §
-Luku: 3 LUKU Sopimusehtojen sääntely
+Luku: 3 luku Sopimusehtojen sääntely
 
 Sopimusehtojen käyttöä kuluttajansuojan kannalta valvoo kuluttaja-asiamies.
 

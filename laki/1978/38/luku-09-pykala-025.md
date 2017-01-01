@@ -1,5 +1,5 @@
 # 25 § Hinnan maksaminen ja vakuus
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Jollei hinnan maksuajankohtaa ole sovittu, tilaajan on maksettava hinta toimeksisaajan sitä vaatiessa, ei kuitenkaan ennen kuin suoritus on 3 §:n mukaisesti luovutettu ja tilaajalla on ollut kohtuullinen mahdollisuus tarkastaa suoritus.
 

@@ -1,5 +1,5 @@
 # 9 § Sopimuksen purku
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Tilaaja saa purkaa sopimuksen toimeksisaajan viivästyksen vuoksi, jos sopimusrikkomus on olennainen.
 

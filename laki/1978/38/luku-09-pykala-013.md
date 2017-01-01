@@ -1,5 +1,5 @@
 # 13 § Yleinen virhesäännös
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 Väliotsikko: Suorituksen ominaisuudet ja virhe
 
 Toimeksisaajan suorituksessa on virhe, jos se ei sisällöltään, laadultaan tai muilta ominaisuuksiltaan vastaa sitä, mitä voidaan katsoa sovitun.

@@ -1,5 +1,5 @@
 # 18 § Virheen oikaisu
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Tilaajalla on oikeus vaatia, että toimeksisaaja oikaisee virheen tai toimittaa virheettömät elementit virheellisten tilalle ilman, että tilaajalle aiheutuu siitä kustannuksia. Edellytyksenä on, että virhe voidaan oikaista ilman, että toimeksisaajalle aiheutuu kohtuuttomia kustannuksia tai kohtuutonta haittaa.
 

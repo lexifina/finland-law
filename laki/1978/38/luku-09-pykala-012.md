@@ -1,5 +1,5 @@
 # 12 § Erityissäännöksiä sopimuksen purkamisesta
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 
 Jos tilaaja purkaa sopimuksen kokonaan tai osaksi eikä toimeksisaajan jo tekemää suoritusta voida palauttaa olennaisesti muuttumattomana tai ilman, että tilaajalle aiheutuu olennaista haittaa, toimeksisaajalla on oikeus saada suorituksestaan korvaus, joka vastaa sen arvoa tilaajalle.
 

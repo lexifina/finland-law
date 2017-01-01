@@ -1,5 +1,5 @@
 # 23 § Palveluksen hinta
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 Väliotsikko: Tilaajan velvollisuudet ja tilaajan sopimusrikkomuksen seuraamukset
 
 Jollei palveluksen hinnasta tai sen laskemistavasta ole sovittu, tilaajan on maksettava hinta, joka on kohtuullinen ottaen huomioon palveluksen sisältö, laajuus, laatu, taloudellisesti tarkoituksenmukainen suoritustapa, sopimuksentekoajankohdan käypä hinta tai hinnan laskemistapa sekä muut olosuhteet. Jos toimeksisaaja on palvelusta markkinoitaessa antanut palveluksen hinnasta tai sen laskemistavasta sopimuksentekoajankohdan hintatasoa tarkoittavia tietoja, joiden voidaan olettaa vaikuttaneen sopimukseen, hinta määräytyy annettujen tietojen mukaisesti.

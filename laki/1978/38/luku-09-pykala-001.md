@@ -1,5 +1,5 @@
 # 1 § Luvun soveltamisala
-Luku: 9 LUKU Taloelementtien kauppa ja rakennusurakka
+Luku: 9 luku Taloelementtien kauppa ja rakennusurakka
 Väliotsikko: Yleiset säännökset taloelementtien kaupasta ja rakennusurakasta
 
 Tämän luvun säännökset koskevat elinkeinonharjoittajan (toimeksisaaja) ja kuluttajan (tilaaja) välisiä sopimuksia:

@@ -1,5 +1,5 @@
 # 30 § Toimeksisaajan oikeus vahingonkorvaukseen
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Jos toimeksisaaja purkaa sopimuksen tai jos tilaaja peruuttaa palveluksen, toimeksisaajalla on oikeus vastikkeeseen jo suoritetusta palveluksen osasta sekä toimenpiteistä, jotka on suoritettava sopimuksen purkamisesta tai peruutuksesta huolimatta.
 

@@ -1,5 +1,5 @@
 # 10 § Vahingonkorvaus
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 
 Ostajalla on oikeus korvaukseen vahingosta, jonka hän kärsii myyjän viivästyksen vuoksi, jollei myyjä osoita, että viivästys johtuu hänen vaikutusmahdollisuuksiensa ulkopuolella olevasta esteestä, jota hänen ei kohtuudella voida edellyttää ottaneen huomioon kaupantekohetkellä ja jonka seurauksia hän ei myöskään kohtuudella olisi voinut välttää eikä voittaa.
 

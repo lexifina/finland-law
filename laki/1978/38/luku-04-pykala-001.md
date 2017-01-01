@@ -1,5 +1,5 @@
 # 1 §
-Luku: 4 LUKU Sopimuksen sovittelu ja tulkinta
+Luku: 4 luku Sopimuksen sovittelu ja tulkinta
 
 Jos tässä laissa tarkoitetun sopimuksen ehto on kuluttajan kannalta kohtuuton tai sen soveltaminen johtaisi kohtuuttomuuteen, ehtoa voidaan sovitella tai jättää se huomioon ottamatta. Sopimuksen ehtona pidetään myös vastikkeen määrää koskevaa sitoumusta. Kohtuuttomuutta arvioitaessa otetaan huomioon sopimuksen koko sisältö, osapuolten asema, sopimusta tehtäessä vallinneet olot ja, jollei 2 §:stä muuta johdu, olojen muuttuminen sekä muut seikat.
 

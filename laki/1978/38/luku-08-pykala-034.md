@@ -1,5 +1,5 @@
 # 34 § Materiaalintoimittajan virhevastuu
-Luku: 8 LUKU Eräät kuluttajapalvelussopimukset
+Luku: 8 luku Eräät kuluttajapalvelussopimukset
 
 Tilaajalla on oikeus kohdistaa palveluksen suorittamisessa käytetyn materiaalin virheestä johtuva, tämän luvun säännösten mukainen vaatimuksensa myös elinkeinonharjoittajaan, joka aikaisemmassa myyntiportaassa on luovuttanut materiaalin jälleenmyyntiä varten.
 

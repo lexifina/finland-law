@@ -1,5 +1,5 @@
 # 16 § Virheilmoitus
-Luku: 5 LUKU Kuluttajankauppa
+Luku: 5 luku Kuluttajankauppa
 Väliotsikko: Virheen seuraamukset
 
 Ostaja ei saa vedota tavaran virheeseen, ellei hän ilmoita virheestä myyjälle kohtuullisessa ajassa siitä, kun hän havaitsi virheen tai hänen olisi pitänyt se havaita. Virheilmoitus voidaan kuitenkin aina tehdä kahden kuukauden kuluessa siitä, kun ostaja havaitsi virheen, ja se voidaan tehdä myös elinkeinonharjoittajalle, joka on välittänyt kaupan myyjän lukuun tai sitoutunut vastaamaan tavaran ominaisuuksista.
