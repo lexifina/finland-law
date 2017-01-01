@@ -2,7 +2,7 @@
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 7 luku Eläkkeen hakeminen ja päätökset
 
-Työntekijän oikeuden tämän lain mukaiseen eläkkeeseen ja eläkkeen määrän ratkaisee 106 §:ssä tarkoitettu yksityisten alojen ratkaiseva eläkelaitos antamalla asiasta päätöksen. Eläkelaitoksen on ratkaistava eläkehakemus viipymättä saatuaan tarpeelliset selvitykset. Jos työntekijä on ollut vakuutettuna sekä yksityisten alojen että julkisten alojen työeläkelakien mukaan, eläkeasiasta antaa päätösyhdistelmän 107 §:ssä tarkoitettuna viimeisenä eläkelaitoksena toimiva yksityisten alojen ratkaiseva eläkelaitos tai julkisten alojen eläkelaitos.
+Työntekijän oikeuden tämän lain mukaiseen eläkkeeseen ja eläkkeen määrän ratkaisee 106 §:ssä tarkoitettu yksityisten alojen ratkaiseva eläkelaitos antamalla asiasta päätöksen. Eläkelaitoksen on ratkaistava eläkehakemus viipymättä saatuaan tarpeelliset selvitykset. Jos työntekijä on ollut vakuutettuna sekä yksityisten alojen työeläkelain että julkisten alojen eläkelain mukaan, eläkeasiasta antaa päätösyhdistelmän 107 §:ssä tarkoitettuna viimeisenä eläkelaitoksena toimiva yksityisten alojen ratkaiseva eläkelaitos tai Keva.
 
 Yksityisten alojen ratkaiseva eläkelaitos tai viimeinen eläkelaitos voi antaa eläkkeen myöntämistä koskevan päätöksen väliaikaisena siksi ajaksi, jonka asian käsittely kestää ja asiasta on annettu lopullinen päätös. Väliaikaiseen päätökseen ei saa hakea muutosta.
 

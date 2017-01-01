@@ -1,18 +1,20 @@
-# 107 a § Viimeisen eläkelaitoksen määräytyminen
+# 107 a § Viimeisen eläkelaitoksen määräytyminen, kun työskentelyä yksityisten alojen työeläkelakien ja julkisten alojen eläkelain mukaisilla aloilla
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 7 luku Eläkkeen hakeminen ja päätökset
 
-Viimeinen eläkelaitos on se 106 §:ssä tarkoitettu eläkelaitos tai 107 §:n 1 momentissa tarkoitettujen julkisten alojen työeläkelakien mukaista eläketurvaa hoitava eläkelaitos, missä työntekijän työansioita on vakuutettu määrältään eniten kahden viimeisen kalenterivuoden aikana.
+Viimeinen eläkelaitos on 106 §:ssä tarkoitettu yksityisten alojen eläkelaitos tai Keva.
 
-Vakuutettujen työansioiden määrästä riippumatta viimeinen eläkelaitos on vanhuus- tai perhe-eläkeasiaa käsiteltäessä julkisten alojen eläkelaitos, jos:
-1) työntekijän virka- tai työsuhteeseen perustuva eläketurva on eläkehakemuksen vireille tullessa järjestetty vain 107 §:n 1 momentissa tarkoitetun julkisten alojen työeläkelain mukaan tai työntekijä on säilyttänyt oikeutensa mainitun julkisten alojen työeläkelain mukaiseen lisäeläkeosuuteen taikka henkilökohtaiseen eläkeikään; tai
-2) edunjättäjän virka- tai työsuhteeseen perustuva eläketurva oli eläketapahtumahetkellä järjestetty vain 107 §:n 1 momentissa tarkoitetun julkisten alojen työeläkelain mukaan tai edunjättäjä oli säilyttänyt oikeutensa mainitun julkisten alojen työeläkelain mukaiseen lisäeläkeosuuteen taikka henkilökohtaiseen eläkeikään.
+Viimeinen eläkelaitos on 106 §:ssä tarkoitettu yksityisten alojen ratkaiseva eläkelaitos, jos työntekijän työansioita on vakuutettu määrältään eniten kahden viimeisen kalenterivuoden aikana yksityisten alojen työeläkelakien mukaan.
 
-Vakuutettujen työansioiden määrästä riippumatta viimeinen eläkelaitos on työkyvyttömyyseläkeasiaa käsiteltäessä julkisten alojen eläkelaitos, jos:
-1) julkisten alojen eläkelaitos arvioi työntekijän oikeuden työkyvyttömyyseläkkeeseen julkisten alojen työ- ja virkasuhteen jatkuessa alkaneen työkyvyttömyyden perusteella kunnallisen eläkelain 24 §:n 1 momentin 1 kohdan, valtion eläkelain 35 §:n 1 momentin 1 kohdan tai viimeksi mainittua lainkohtaa soveltaen evankelis-luterilaisen kirkon eläkelain 6 §:n tai Kansaneläkelaitoksesta annetun lain 13 §:n nojalla;
-2) työntekijä on säilyttänyt oikeutensa 1 kohdassa mainitun julkisten alojen työeläkelain mukaiseen lisäeläkeoikeuteen taikka henkilökohtaiseen eläkeikään; tai
-3) kysymys on osatyökyvyttömyyseläkkeestä ja virka- tai työsuhteessa olevan työntekijän työeläketurva on eläketapahtumahetkellä järjestetty 107 §:n 1 momentissa tarkoitetun julkisten alojen työeläkelain mukaan.
+Viimeinen eläkelaitos on Keva, jos työntekijän työansioita on vakuutettu määrältään eniten kahden viimeisen kalenterivuoden aikana julkisten alojen eläkelaissa tarkoitetun palveluksen perusteella.
 
-Vakuutettujen työansioiden määrästä riippumatta Merimieseläkekassa on viimeinen eläkelaitos vanhuus-, työkyvyttömyys- tai perhe-eläkeasiaa käsiteltäessä, jos työntekijällä on tai edunjättäjällä olisi ollut oikeus jäädä vanhuuseläkkeelle merimieseläkelain 8 §:n 2 momentissa säädetyssä alennetussa eläkeiässä eikä julkisten alojen eläkelaitos ole 2 tai 3 momentin perusteella viimeinen eläkelaitos.
+Vakuutettujen työansioiden määrästä riippumatta viimeinen eläkelaitos on vanhuus-, osittainen varhennettu vanhuus-, työura- tai perhe-eläkeasiaa käsiteltäessä Keva, jos:
+1) työntekijän virka- tai työsuhteeseen perustuva eläketurva on eläkehakemuksen vireille tullessa järjestetty vain julkisten alojen eläkelain mukaan tai työntekijä on säilyttänyt oikeutensa julkisten alojen eläkelain voimaanpanolain (82/2016) 1 §:n 5 momentissa tarkoitettujen lakien mukaiseen lisäeläkeosuuteen taikka julkisten alojen eläkelain voimaanpanolain mukaiseen henkilökohtaiseen tai ammatilliseen eläkeikään; tai
+2) edunjättäjän virka- tai työsuhteeseen perustuva eläketurva oli eläketapahtumahetkellä järjestetty vain julkisten alojen eläkelain mukaan tai edunjättäjä oli säilyttänyt oikeutensa edellä 1 kohdassa tarkoitettuun lisäeläkeosuuteen taikka henkilökohtaiseen tai ammatilliseen eläkeikään.
 
-Jos työntekijä, joka on ollut vakuutettuna sekä yksityisten että julkisten alojen työeläkelakien mukaan, hakee näiden lakien perusteella osa-aikaeläkettä samasta ajankohdasta, yksityisten alojen ratkaiseva eläkelaitos ja julkisten alojen eläkelaitos ratkaisevat kumpikin omalta osaltaan osa-aikaeläkeasian erikseen.
+Vakuutettujen työansioiden määrästä riippumatta viimeinen eläkelaitos on työkyvyttömyys-eläkeasiaa käsiteltäessä Keva, jos:
+1) Keva arvioi työntekijän oikeuden työkyvyttömyyseläkkeeseen julkisten alojen työ- ja virkasuhteen jatkuessa alkaneen työkyvyttömyyden perusteella julkisten alojen eläkelain 33 §:n 1 momentin 1 kohdan nojalla;
+2) työntekijä on säilyttänyt oikeutensa edellä 4 momentin 1 kohdassa tarkoitettuun lisäeläkeosuuteen tai henkilökohtaiseen tai ammatilliseen eläkeikään; tai
+3) kysymys on osatyökyvyttömyyseläkkeestä ja virka- tai työsuhteessa olevan työntekijän työeläketurva on eläketapahtumahetkellä järjestetty julkisten alojen eläkelain mukaan.
+
+Vakuutettujen työansioiden määrästä riippumatta Merimieseläkekassa on viimeinen eläkelaitos vanhuus-, osittainen varhennettu vanhuus-, työkyvyttömyys-, työura- tai perhe-eläkeasiaa käsiteltäessä, jos työntekijällä on tai edunjättäjällä olisi ollut oikeus jäädä vanhuuseläkkeelle merimieseläkelain mukaisessa alennetussa eläkeiässä eikä Keva ole 4 tai 5 momentin perusteella viimeinen eläkelaitos.

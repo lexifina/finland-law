@@ -8,7 +8,7 @@ Eläketurvakeskuksella ja sen suostumuksella eläkelaitoksella on oikeus avata t
 3) Kansaneläkelaitokselle sekä muulle sellaiselle tietojen vastaanottajalle, jolla on oikeus saada julkisten alojen työeläkelakien toimeenpanosta huolehtivalta eläkelaitokselta eläkettä, eläkeoikeutta ja vakuuttamista koskevat tiedot 208 §:n 1 momentissa tarkoitettuihin tietoihin; ja
 4) henkivakuutusyhtiölle, eläkekassalle tai eläkesäätiölle 204 §:ssä tarkoitettujen ryhmälisäeläketurvan hoitamista tai järjestämistä varten välttämättömiin tietoihin.
 
-Eläketurvakeskuksella on 1 momentissa säädetyn lisäksi oikeus avata tekninen käyttöyhteys työntekijäin ryhmähenkivakuutuspoolille, maatalousyrittäjien eläkelaitokselle, Valtiokonttorille tai kunnalliselle eläkelaitokselle 207 §:ssä tarkoitettuihin tietoihin ja julkisten alojen työeläkelakien toimeenpanosta huolehtiville eläkelaitoksille 208 §:n 2 momentissa tarkoitettuihin tietoihin.
+Eläketurvakeskuksella on 1 momentissa säädetyn lisäksi oikeus avata tekninen käyttöyhteys työntekijäin ryhmähenkivakuutuspoolille, Maatalousyrittäjien eläkelaitokselle, Valtiokonttorille tai Kevalle 207 §:ssä tarkoitettuihin tietoihin ja julkisten alojen työeläkelakien toimeenpanosta huolehtiville eläkelaitoksille 208 §:n 2 momentissa tarkoitettuihin tietoihin.
 
 Tekninen käyttöyhteys on kuitenkin oikeus avata julkisten alojen työeläkelakien toimeenpanosta huolehtivilta eläkelaitoksilta saatujen tietojen antamiseksi 1 momentin 3 kohdassa tarkoitetulla tavalla tai tietojen antamiseksi julkisten alojen työeläkelakien toimeenpanosta huolehtiville eläkelaitoksille 2 momentissa tarkoitetulla tavalla vain, jos tästä on 208 §:n 3 momentin mukaisesti sovittu.
 

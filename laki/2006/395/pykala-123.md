@@ -12,7 +12,6 @@ Jos eläke on maksettava muulle kuin eläkkeensaajalle itselleen tämän tai muu
 7) sosiaalihuoltolain mukaiselle toimielimelle 119 §:n 1 momentin mukaan;
 8) kunnalle tai kuntayhtymälle 119 §:n 2 momentin mukaan;
 9) Kansaneläkelaitokselle 120 §:n 5 momentin mukaan;
-10) Potilasvakuutuskeskukselle potilasvahinkolain (585/1986) 9 §:n mukaan;
 11) EU- tai ETA-maan laitokselle eläkkeen aiheeton maksu EU:n sosiaaliturvan täytäntöönpanoasetuksen 72 artiklan 2 kohdan mukaan;
 12) ulosottoviranomaiselle ulosottokaaren (705/2007) 4 luvun 2 §:n mukaan;
 13) EU- tai ETA-maan laitokselle muun etuuden kuin eläkkeen aiheeton maksu EU:n sosiaaliturvan täytäntöönpanoasetuksen 72 artiklan 1 ja 3 kohdan mukaan;

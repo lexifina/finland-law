@@ -2,7 +2,7 @@
 Osa: I OSA YLEISET SÄÄNNÖKSET
 Luku: 1 luku Lain tarkoitus
 
-Tässä laissa säädetään yksityisellä alalla työskentelevän työntekijän oikeudesta vanhuuseläkkeeseen, osa-aikaeläkkeeseen, kuntoutukseen ja työkyvyttömyyseläkkeeseen sekä työntekijöiden edunsaajan oikeudesta perhe-eläkkeeseen.
+Tässä laissa säädetään yksityisellä alalla työskentelevän työntekijän oikeudesta vanhuuseläkkeeseen, osittaiseen varhennettuun vanhuuseläkkeeseen, kuntoutukseen, työkyvyttömyyseläkkeeseen ja työuraeläkkeeseen sekä työntekijöiden edunsaajan oikeudesta perhe-eläkkeeseen.
 
 Työnantaja on velvollinen järjestämään ja kustantamaan työntekijälleen tämän lain mukaisen eläketurvan Suomessa tehdystä työstä, jollei jäljempänä muuta säädetä. Työntekijä on velvollinen osallistumaan eläketurvansa kustantamiseen työntekijän työeläkevakuutusmaksulla.
 

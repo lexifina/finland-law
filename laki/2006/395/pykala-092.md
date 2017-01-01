@@ -7,7 +7,8 @@ Tämän lain mukaisesta eläkkeestä vähennetään työntekijän saama ensisija
 2) maatalousyrittäjän työtapaturma- ja ammattitautilakiin perustuva ansionmenetyskorvaus lukuun ottamatta mainitun lain 58 §:n mukaista tapaturmaeläkettä ja sitä edeltävää päivärahaa;
 3) liikennevakuutuslain nojalla myönnetty omaan vammaan perustuva ansionmenetyskorvaus tai eläke;
 4) liikennevakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain nojalla myönnetty ansionmenetyskorvaus;
-5) sotilastapaturmalain nojalla myönnetty päiväraha tai tapaturmaeläke.
+5) sotilastapaturmalain nojalla myönnetty ansionmenetyskorvaus;
+6) potilasvahinkolain (585/1986) nojalla myönnetty omaan vammaan perustuva ansionmenetyskorvaus tai eläke.
 
 Sen estämättä, mitä 1 momentissa säädetään, ensisijaisen etuuden vähentämisen jälkeen eläke on kuitenkin vähintään ensisijaisen etuuden vahinkotapahtumavuoden jälkeen työntekijälle työansioiden perusteella karttuneen eläkkeen suuruinen. Tämän lain mukaisena eläkkeenä työntekijälle maksetaan kaikkien työeläkkeiden yhteismäärän ja ensisijaisen etuuden vähentämisen erotuksesta, kuitenkin vähintään edellä tarkoitetusta vähimmäismäärästä, yhtä suuri osa kuin tämän lain mukainen eläke on hänen kaikista työeläkkeistään.
 

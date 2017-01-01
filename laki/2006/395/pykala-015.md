@@ -1,12 +1,13 @@
-# 15 § Osa-aikaeläkkeeseen liittyviä käsitteitä
+# 15 § Oikeus osittaiseen varhennettuun vanhuuseläkkeeseen
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 3 luku Eläke- ja kuntoutusetuudet
-Väliotsikko: Osa-aikaeläke
+Väliotsikko: Osittainen varhennettu vanhuuseläke
 
-Osa-aikaeläkeoikeutta ratkaistaessa tässä laissa tarkoitetaan:
-1) ansiotyöllä työeläkelakien perusteella vakuutettavaa työskentelyä;
-2) kokoaikatyöllä 1 kohdassa tarkoitettua ansiotyötä, jossa työntekijän työaika on asianomaisella alalla normaalisti sovellettavan kokoaikaisen työntekijän enimmäistyöajan pituinen; jos työntekijä on samanaikaisesti useammassa ansiotyössä, hänen työskentelyään pidetään kokoaikaisena, jos hänen yhteenlaskettu työaikansa on vähintään 35 tuntia viikossa.
+Työntekijällä on oikeus jäädä osittaiselle varhennetulle vanhuuseläkkeelle aikaisintaan hänen syntymävuotensa mukaan määräytyvän alaikärajan täyttämistä seuraavan kalenterikuukauden alusta.
 
-Jäljempänä 16, 17, 20, 21 ja 24 §:ssä mainitulla osa-aikatyöllä tarkoitetaan työeläkelakien perusteella vakuutettavaa työtä, jota työntekijä tekee osa-aikaeläkkeellä ollessaan. Tällaiseen osa-aikatyöhön rinnastetaan osa-aikatyö, joka tehdään EU- tai ETA-maassa.
+Työntekijän osittaisen varhennetun vanhuuseläkkeen alaikäraja määräytyy seuraavasti:
+1) vuonna 1963 ja sitä ennen syntyneellä alaikäraja on 61 vuotta;
+2) vuonna 1964 syntyneellä alaikäraja on 62 vuotta;
+3) vuonna 1965 ja sen jälkeen syntyneellä osittaisen varhennetun vanhuuseläkkeen alaikäraja sopeutetaan eliniän muutokseen 82 ja 83 §:n mukaisesti.
 
-Jäljempänä 16 §:n 4 momentin 1 kohdassa ja 17 §:ssä tarkoitetulla vakiintuneella ansiolla tarkoitetaan sitä jäljempänä 76 §:ssä tarkoitettua tulevan ajan ansiota, jonka perusteella työntekijän työkyvyttömyyseläke laskettaisiin, jos työntekijä osa-aikaeläkkeen alkamishetkellä olisi tullut työkyvyttömäksi.
+Työntekijällä ei ole oikeutta osittaiseen varhennettuun vanhuuseläkkeeseen, jos hän eläkkeen alkaessa saa muuta omaan työskentelyynsä perustuvaa työeläkelakien mukaista etuutta taikka maatalouden harjoittamisesta luopumisen tukemisesta annetun lain (612/2006) tai maatalousyrittäjien luopumistuesta annetun lain (1293/1994) mukaista luopumistukea.

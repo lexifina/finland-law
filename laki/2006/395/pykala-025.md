@@ -3,7 +3,7 @@ Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄN
 Luku: 3 luku Eläke- ja kuntoutusetuudet
 Väliotsikko: Työeläkekuntoutus
 
-Alle 63-vuotiaalla työntekijällä on oikeus saada työkyvyttömyyden estämiseksi tai työ- ja ansiokyvyn parantamiseksi tarkoituksenmukaista ammatillista kuntoutusta, jos:
+Työntekijällä, joka ei ole täyttänyt alinta vanhuuseläkeikäänsä, on oikeus saada työkyvyttömyyden estämiseksi tai työ- ja ansiokyvyn parantamiseksi tarkoituksenmukaista ammatillista kuntoutusta, jos:
 1) asianmukaisesti todettu sairaus, vika tai vamma todennäköisesti aiheuttaa sellaisen uhkan, että hän tulee työkyvyttömäksi 35 §:n 1 momentissa tarkoitetulla tavalla;
 2) työntekijällä on työskentelystä saatuja vakuutettuja työansioita 76 §:ssä tarkoitettuna tulevan ajan tarkasteluaikana vähintään 25 133,40 euroa; ja
 3) työntekijällä ei ole oikeutta kuntoutukseen tapaturmavakuutuksen tai liikennevakuutuksen kuntoutusta koskevien säännösten perusteella.

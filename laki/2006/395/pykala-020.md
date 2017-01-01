@@ -1,11 +1,7 @@
-# 20 § Osa-aikaeläkkeen tarkistaminen
+# 20 § Työuraeläkkeen määrä osittaisen varhennetun vanhuuseläkkeen jälkeen
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 3 luku Eläke- ja kuntoutusetuudet
 
-Osa-aikaeläkkeen määrä tarkistetaan, jos:
-1) osa-aikaeläkkeen saajan osa-aikatyön ansiotuloissa on tapahtunut pysyvä muutos, joka merkittävästi poikkeaa osa-aikaeläkettä määrättäessä huomioon otetuista 96 §:n mukaisella palkkakertoimella tarkasteluajankohdan tasoon tarkistetuista osa-aikatyön ansiotuloista; tai
-2) osa-aikaeläkkeen saaja saa oikeuden osa-aikaeläkkeeseen sellaisen työeläkelain mukaan, jonka perusteella hänellä ei aiemmin ole ollut oikeutta osa-aikaeläkkeeseen.
+Työuraeläkkeen määrä osittaisen varhennetun vanhuuseläkkeen jälkeen lasketaan 18 §:n 1 momentin 1 ja 2 kohdassa tarkoitetuista eläkkeen osista sekä osittaisen varhennetun vanhuuseläkkeen alkamisvuonna ja sen jälkeen työuraeläkkeen alkamista edeltävän kuukauden loppuun mennessä ansaitusta eläkkeestä.
 
-Tarkistaminen tehdään muutosta seuraavan kalenterikuukauden alusta lukien tai, jos muutos tapahtuu kalenterikuukauden ensimmäisenä päivänä, tästä päivästä lukien.
-
-Kun osa-aikaeläkkeen määrä tarkistetaan, vakiintuneena ansiotulona pidetään ansiotuloa, joka oli perusteena osa-aikaeläkettä ensimmäisen kerran määrättäessä.
+Jos työuraeläke myöhemmin jätetään lepäämään 53 f §:n mukaan, osittainen varhennettu vanhuuseläke jatkuu aiemmin myönnetyn suuruisena.

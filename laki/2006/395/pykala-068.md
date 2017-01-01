@@ -2,7 +2,7 @@
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 4 luku Eläkkeen määräytyminen
 
-Jos työkyvyttömyyseläkettä saaneelle työntekijälle myöhemmin myönnetään vanhuuden tai työkyvyttömyyden perusteella uusin perustein eläke, eläkkeeseen oikeuttavaksi luetaan myös aika, jona työntekijä sai työkyvyttömyyseläkettä. Tältä ajalta eläkettä laskettaessa käytetään perusteena päättyneen työkyvyttömyyseläkkeen tulevan ajan ansiota.
+Jos työkyvyttömyyseläkettä saaneelle työntekijälle myöhemmin myönnetään uusin perustein eläke, eläkkeeseen oikeuttavaksi luetaan myös aika, jona työntekijä sai työkyvyttömyyseläkettä. Tältä ajalta eläkettä laskettaessa käytetään perusteena päättyneen työkyvyttömyyseläkkeen tulevan ajan ansiota.
 
 Edellä 1 momentin perusteella eläkettä karttuu työkyvyttömyyden alkamisvuoden alusta työkyvyttömyyseläkkeen päättymiskuukauden loppuun työkyvyttömyyseläkkeen tulevan ajan eläkkeen perusteena olevasta ansiosta 1,5 prosenttia vuotta kohden.
 

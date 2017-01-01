@@ -1,12 +1,7 @@
-# 19 § Osa-aikaeläkkeen saajan ilmoitusvelvollisuus
+# 19 § Työkyvyttömyyseläkkeen määrä osittaisen varhennetun vanhuuseläkkeen jälkeen
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 3 luku Eläke- ja kuntoutusetuudet
 
-Osa-aikaeläkkeen saaja on velvollinen ilmoittamaan eläkelaitokselle:
-1) työaikajärjestelyjensä muutoksista;
-2) muista kuin työehtosopimusten mukaisista palkan tarkistuksista;
-3) työsuhteen tai yrittäjätoiminnan päättymisestä tai uuden alkamisesta;
-4) muutoksista yrittäjätoiminnassa;
-5) uuden työeläkkeen tai vastaavan EU- tai ETA-maasta myönnetyn etuuden alkamisesta;
-6) yli kuuden viikon mittaisesta työstä poissaolosta, jos poissaolo ei johdu vuosilomasta tai sellaisesta sairaudesta, jonka perusteella osa-aikaeläkkeen saaja saa sairausvakuutuslain mukaista päivärahaa, sairausajan palkkaa, työtapaturma- ja ammattitautilain tai maatalousyrittäjän työtapaturma- ja ammattitautilain mukaista päivärahaa tai liikennevakuutuslain nojalla myönnettyä ansionmenetyskorvausta; ja
-7) ensisijaisen etuuden alkamisesta tai sen muuttumisesta.
+Jos osittaisella varhennetulla vanhuuseläkkeellä oleva työntekijä tulee työkyvyttömyyseläkkeeseen oikeuttavasti työkyvyttömäksi, työkyvyttömyyseläkkeen määrä lasketaan 18 §:n 1 momentin 1 ja 2 kohdassa tarkoitetuista eläkkeen osista, osittaisen varhennetun vanhuuseläkkeen alkamisvuonna ja sen jälkeen työkyvyttömyyden alkamista edeltävän vuoden loppuun mennessä ansaitusta eläkkeestä sekä tulevan ajan eläkeosasta.
+
+Jos työkyvyttömyyseläke myöhemmin lakkaa, sen maksaminen keskeytetään tai se jätetään lepäämään työkyvyttömyyseläkkeellä olevien työhönpaluun edistämisestä annetun lain (738/2009) mukaan, osittainen varhennettu vanhuuseläke jatkuu aiemmin myönnetyn suuruisena.
