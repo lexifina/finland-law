@@ -1,6 +1,6 @@
 # 46 b §
 Osa: III OSA Tulon ja menon jaksottaminen
-Luku: 4 LUKU Vähennyskelpoiset varaukset
+Luku: 4 luku Vähennyskelpoiset varaukset
 
 Verovelvollinen, joka on vastuussa ydinjätehuoltoon kuuluvista toimenpiteistä, saa vuodelta 1982 toimitettavassa verotuksessa vähentää tulostaan kauppa- ja teollisuusministeriön mainitulle vuodelle atomienergialain (356/57) 4 ja 5 §:n nojalla vahvistaman ydinjätehuoltovarauksen kokonaismäärän. Vuosilta 1983–1987 toimitettavissa verotuksissa verovelvollinen saa vähentää kauppa- ja teollisuusministeriön verovuodelle ja sitä edeltäneelle vuodelle vahvistamien ydinjätehuoltovarausten erotuksen. Näiltä vuosilta toimitettavissa verotuksissa voidaan kuitenkin vähentää enintään seuraavat määrät:
 Verovuosi | Vähennyksen enimmäismäärä

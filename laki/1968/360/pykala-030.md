@@ -1,6 +1,6 @@
 # 30 §
 Osa: III OSA Tulon ja menon jaksottaminen
-Luku: 3 LUKU Käyttöomaisuuden hankintamenon jaksottaminen
+Luku: 3 luku Käyttöomaisuuden hankintamenon jaksottaminen
 
 Koneiden, kaluston ja muun niihin verrattavan irtaimen käyttöomaisuuden hankintamenoista tehdään poistot yhtenä eränä menojäännöksestä.
 

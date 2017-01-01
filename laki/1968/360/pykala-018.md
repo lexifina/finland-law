@@ -1,6 +1,6 @@
 # 18 §
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
-Luku: 2 LUKU Menon ja menetyksen vähennyskelpoisuus
+Luku: 2 luku Menon ja menetyksen vähennyskelpoisuus
 
 Vähennyskelpoisia ovat myös:
 1) vuosi- ja vaihtoalennukset, osto- ja myyntihyvitykset ynnä muut sellaiset oikaisuerät,

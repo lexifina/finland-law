@@ -1,6 +1,6 @@
 # 8 §
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
-Luku: 2 LUKU Menon ja menetyksen vähennyskelpoisuus
+Luku: 2 luku Menon ja menetyksen vähennyskelpoisuus
 
 Edellä 7 §:ssä tarkoitettuja vähennyskelpoisia menoja ovat muun ohessa:
 1) vaihto-omaisuuden ja sijoitusomaisuuden hankintamenot sekä 5 §:n 6 kohdassa tarkoitettu sijoitusomaisuuden arvonkorotus,
@@ -26,7 +26,8 @@ Edellä 7 §:ssä tarkoitettuja vähennyskelpoisia menoja ovat muun ohessa:
 16) metsän uudistamiseen sekä puun kasvatukseen ja korjuuseen liittyvät menot;
 17) vakuutusyhtiölain 8 luvun 19 §:ssä tarkoitettujen sijoitussidonnaisten vakuutusten katteena olevien sijoitusten tuloslaskelmaan kuluksi merkityt arvonlaskut;
 18) edellä 2 a–2 c kohdassa tarkoitetuista rahoitusvälineistä sekä käyvän arvon suojauksesta käypään arvoon arvostamiseen siirryttäessä tilinpäätöksessä omaan pääomaan merkitty arvonlasku;
-19) yleisradioverosta annetun lain (484/2012) nojalla suoritettava yhteisön yleisradiovero.
+19) yleisradioverosta annetun lain (484/2012) nojalla suoritettava yhteisön yleisradiovero;
+20) apteekkiverosta annetun lain (770/2016) nojalla suoritettava apteekkivero sekä Landskapslagen (1947:6) om apoteksavgift i landskapet Åland nojalla suoritettava apteekkimaksu.
 
 Henkivakuutuksesta suoritetut vakuutusmaksut ovat vähennyskelpoisia vain silloin, kun:
 1) vakuutuksen edunsaajana on vakuutettu työntekijä tai hänen tuloverolain 34 §:n 3 momentin 2 kohdassa tarkoitettu omaisensa, tai

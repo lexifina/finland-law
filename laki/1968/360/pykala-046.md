@@ -1,6 +1,6 @@
 # 46 §
 Osa: III OSA Tulon ja menon jaksottaminen
-Luku: 4 LUKU Vähennyskelpoiset varaukset
+Luku: 4 luku Vähennyskelpoiset varaukset
 
 Talletuspankki sekä luottolaitos saa vähentää verovuonna tehdyn luottotappiovarauksen, jonka määrä on enintään 0,6 prosenttia laitoksella verovuoden päättyessä olevien saamisten yhteismäärästä; verovuonna ja aikaisemmin tehtyjen purkamattomien luottotappiovarausten yhteismäärä ei saa kuitenkaan ylittää 5 prosenttia laitoksella verovuoden päättyessä olevien saamisten yhteismäärästä. Jos talletuspankki on kumottujen liikepankkilain (1269/1990), säästöpankkilain (1270/1990) tai osuuspankkilain (1271/1990) nojalla taikka jos luottolaitos on rahoitustoimintalain (1544/1991) nojalla siirtänyt luottotappiovarauksiaan vararahastoon, sen verovuonna ja aikaisemmin tekemien purkamattomien luottotappiovarausten yhteismäärä ei saa ylittää edellä tarkoitettua luottotappiovarausten enimmäismäärää vähennettynä vararahastoon tehdyllä siirrolla.
 

@@ -1,6 +1,6 @@
 # 5 a §
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
-Luku: 1 LUKU Tulon veronalaisuus
+Luku: 1 luku Tulon veronalaisuus
 
 Veronalaisia ovat myös seuraavat oikaisuerät:
 1) rahoitusomaisuudesta 17 §:n 2 kohdan nojalla tehtyä vähennystä vastaava määrä siltä osin kuin omaisuuden käypä arvo verovuoden päättyessä on sen vähentämättä olevaa arvoa suurempi;

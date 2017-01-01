@@ -1,6 +1,6 @@
 # 6 b §
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
-Luku: 1 LUKU Tulon veronalaisuus
+Luku: 1 luku Tulon veronalaisuus
 
 Edellä 6 §:n 1 momentin 1 kohdassa tarkoitetun yhteisön saama käyttöomaisuuteen kuuluvien osakkeiden luovutushinta ei ole veronalaista tuloa eikä osakkeiden hankintameno vähennyskelpoinen meno, jos osakkeet ovat verovapaasti luovutettavia.
 

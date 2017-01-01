@@ -1,6 +1,6 @@
 # 16 §
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
-Luku: 2 LUKU Menon ja menetyksen vähennyskelpoisuus
+Luku: 2 luku Menon ja menetyksen vähennyskelpoisuus
 
 Tulon hankkimisesta tai säilyttämisestä johtuneita menoja eivät ole:
 1) verovelvollisen puolison sekä sellaisen lapsen tai muun perheenjäsenen, joka ei ennen verovuotta ole täyttänyt 14 vuotta, palkat, eläkkeet tai muut etuudet;

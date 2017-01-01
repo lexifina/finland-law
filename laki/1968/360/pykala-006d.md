@@ -1,6 +1,6 @@
 # 6 d §
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
-Luku: 1 LUKU Tulon veronalaisuus
+Luku: 1 luku Tulon veronalaisuus
 
 Osuuskunnasta saadulla ylijäämällä tarkoitetaan osuuspääoman korkoa ja muuta osuuskuntalain (421/2013) 16 luvun 1 §:n 1 kohdassa tarkoitettua osuuskunnan jakamaa ylijäämää tämän pykälän 5 momentissa tarkoitettua ylijäämänpalautusta lukuun ottamatta.
 

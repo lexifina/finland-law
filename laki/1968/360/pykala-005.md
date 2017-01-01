@@ -1,6 +1,6 @@
 # 5 §
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
-Luku: 1 LUKU Tulon veronalaisuus
+Luku: 1 luku Tulon veronalaisuus
 
 Edellä 4 §:ssä tarkoitettuja veronalaisia elinkeinotuloja ovat muun ohessa:
 1) vaihto-, sijoitus- ja käyttöomaisuudesta sekä muista elinkeinossa käytetyistä aineellisista ja aineettomista hyödykkeistä saadut luovutushinnat ja muut vastikkeet 6 §:n 1 momentin 1 kohdassa säädetyin poikkeuksin;

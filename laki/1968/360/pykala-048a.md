@@ -1,6 +1,6 @@
 # 48 a §
 Osa: III OSA Tulon ja menon jaksottaminen
-Luku: 4 LUKU Vähennyskelpoiset varaukset
+Luku: 4 luku Vähennyskelpoiset varaukset
 
 Lakisääteistä eläkevakuutustoimintaa harjoittava vakuutusyhtiö saa vähentää varauksen, jonka enimmäismäärä on työeläkevakuutusyhtiöistä annetun lain (354/1997) 14 §:ssä tarkoitettuun osittamattomaan lisävakuutusvastuuseen tehdyn siirron määrä.
 

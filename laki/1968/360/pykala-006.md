@@ -1,6 +1,6 @@
 # 6 §
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
-Luku: 1 LUKU Tulon veronalaisuus
+Luku: 1 luku Tulon veronalaisuus
 
 Veronalaista tuloa eivät ole:
 1) muun kuin pääomasijoitustoimintaa harjoittavan osakeyhtiön tai osuuskunnan sekä säästöpankin ja keskinäisen vakuutusyhtiön saamat käyttöomaisuuteen kuuluvien osakkeiden luovutushinnat siten kuin 6 b §:ssä säädetään;

@@ -1,6 +1,6 @@
 # 27 d §
 Osa: III OSA Tulon ja menon jaksottaminen
-Luku: 1 LUKU Yleiset jaksottamissäännöt
+Luku: 1 luku Yleiset jaksottamissäännöt
 
 Option asettajan sitoumuksestaan saama korvaus (preemio) on sen verovuoden veronalaista tuloa, jona optio on asetettu.
 

@@ -1,6 +1,6 @@
 # 19 §
 Osa: III OSA Tulon ja menon jaksottaminen
-Luku: 1 LUKU Yleiset jaksottamissäännöt
+Luku: 1 luku Yleiset jaksottamissäännöt
 
 Tulo on sen verovuoden tuottoa, jonka aikana se on saatu rahana, saamisena tai muuna rahanarvoisena etuutena. Merkitykseltään vähäiset tuloerät saadaan kuitenkin lukea sen verovuoden tuotoksi, jona niiden maksu on saatu.
 

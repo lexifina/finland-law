@@ -1,6 +1,6 @@
 # 18 a §
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
-Luku: 2 LUKU Menon ja menetyksen vähennyskelpoisuus
+Luku: 2 luku Menon ja menetyksen vähennyskelpoisuus
 
 Yhteisön, avoimen yhtiön ja kommandiittiyhtiön 18 §:n 1 momentin 2 kohdassa tarkoitetut korot ovat vähennyskelpoisia tässä pykälässä säädetyllä tavalla.
 

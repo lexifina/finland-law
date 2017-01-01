@@ -1,5 +1,5 @@
 # 13 §
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
-Luku: 2 LUKU Menon ja menetyksen vähennyskelpoisuus
+Luku: 2 luku Menon ja menetyksen vähennyskelpoisuus
 
 Hyödyke luetaan vaihto-omaisuuteen siitä alkaen, kun se on lähetetty, toimitettu tai muuten luovutettu verovelvolliselle, siihen saakka, kun verovelvollinen on sen luovuttanut taikka se on kulutettu, tuhoutunut tai muuten menetetty. Ulkomaalta ostettu hyödyke katsotaan luovutetuksi ja siten verovelvollisen vaihto-omaisuudeksi välittömästi sen jälkeen, kun se on tuotu laivaan, annettu muulle rahdinkuljettajalle tai, milloin hyödyke on varastoitu ulkomaille, se on, sen mukaan kuin valtiovarainministeriön asetuksella tarkemmin säädetään, verovelvolliselle luovutettu. Metsäkauppasopimuksella määrätyltä alueelta kiinteään hintaan ostetut, laadultaan määritellyt puut luetaan ostajan vaihto-omaisuuteen. Rakennus, rakennelma, kone tai muu sellainen luovuttajan valmistama hyödyke, jonka tilaaja sopimuksen mukaan ottaa vastaan erityisen tarkastuksen toimitettuaan, luetaan luovuttajan vaihto-omaisuuteen siihen saakka, kun se on tarkastuksen jälkeen vastaanotettu.

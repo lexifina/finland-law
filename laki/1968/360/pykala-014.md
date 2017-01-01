@@ -1,6 +1,6 @@
 # 14 §
 Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
-Luku: 2 LUKU Menon ja menetyksen vähennyskelpoisuus
+Luku: 2 luku Menon ja menetyksen vähennyskelpoisuus
 
 Vaihto-, sijoitus- ja käyttöomaisuuden hankintameno on hyödykkeen hankinnasta ja valmistuksesta johtuneiden muuttuvien menojen määrä. Hankintamenoon luetaan lisäksi kirjanpitolain 4 luvun 5 §:n tai mainitun lain 7 a luvun 1 §:ssä tarkoitettujen kansainvälisten tilinpäätösstandardien nojalla hyödykkeen hankintamenoon kirjanpidossa luetut kiinteät menot ja korkomenot.
 
