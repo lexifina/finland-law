@@ -2,4 +2,4 @@
 
 Vaatimustenmukaisuuden arviointilaitosten kansallisesta akkreditointijärjestelmästä säädetään vaatimustenmukaisuuden arviointipalvelujen pätevyyden toteamisesta annetussa laissa (920/2005).
 
-Radiolaitteiden markkinavalvonnasta säädetään tietoyhteiskuntakaaren 30 luvussa.
+Tämän lain soveltamisalaan kuuluvien tuotteiden markkinavalvonnasta säädetään eräiden tuotteiden markkinavalvonnasta annetussa laissa (1137/2016). Radiolaitteiden markkinavalvonnasta säädetään tietoyhteiskuntakaaren 30 luvussa.
