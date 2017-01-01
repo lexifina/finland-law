@@ -12,4 +12,4 @@ Työttömyysetuuteen ei ole oikeutta työnhakijalla:
 5) joka saa Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain (566/2005) tai työntekijän eläkelain (395/2006) 3 §:ssä mainittujen lakien, eläkeohjesäännön tai eläkesääntöjen mukaista kuntoutusrahaa taikka ansionmenetyskorvausta tapaturmavakuutuksen, liikennevakuutuksen tai sotilasvammalain (404/1948) kuntoutusta koskevien säännösten perusteella; tai
 6) joka saa työeläkelakien mukaista työuraeläkettä.
 
-Sen estämättä, mitä edellä 2 momentin 1 kohdassa säädetään, työnhakijalla on oikeus työttömyysetuuteen, jos hän saa vanhuuseläkettä sen johdosta, että hän on saavuttanut valtion eläkelain (1295/2006) 8 §:n 1 momentissa tarkoitetun eroamisiän.
+Sen estämättä, mitä 2 momentin 1 kohdassa säädetään, työnhakijalla on oikeus työttömyysetuuteen, jos hän saa vanhuuseläkettä sen johdosta, että hän on saavuttanut julkisten alojen eläkelain voimaanpanolain (82/2016) 7 §:ssä tarkoitetun eroamisiän.
