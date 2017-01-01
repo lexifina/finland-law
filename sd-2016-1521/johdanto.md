@@ -1,0 +1,2 @@
+Laki sotilastapaturman ja palvelussairauden korvaamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
