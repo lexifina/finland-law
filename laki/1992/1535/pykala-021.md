@@ -4,7 +4,6 @@ Luku: 3 LUKU Kokonaan tai osittain verovapaat yhteisöt
 
 Tulon perusteella suorittavat veroa kunnalle 124 §:n 3 momentissa tarkoitetun tuloveroprosentin mukaan:
 1) valtio ja sen laitokset;
-2) Raha-automaattiyhdistys sekä Oy Veikkaus Ab muusta kuin arpajaisverolaissa (552/1992) ja viihdelaitelaissa (164/1995) tarkoitetun toiminnan ja musiikkiautomaattien pitämisestä saamastaan tulosta;
 3) kunta, kuntayhtymä, maakunta sekä näiden palveluksessa olevia varten perustettu eläkelaitos, eläkesäätiö tai -kassa tai muu vastaava eläkelaitos, -säätiö tai -kassa, joka saa avustusta yhteiskunnan varoista.
 
 Evankelis-luterilainen kirkko, ortodoksinen kirkkokunta sekä muu uskonnollinen yhdyskunta ja niiden seurakunnat samoin kuin niiden palveluksessa olevia varten perustettu eläkelaitos, eläkesäätiö ja eläkekassa suorittavat veroa kunnalle 124 §:n 3 momentissa tarkoitetun tuloveroprosentin mukaan.
