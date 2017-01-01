@@ -1,5 +1,5 @@
-# 24 § Valtion edun valvonta
+# 24 § Valtion oikeudenvalvonta
 
-Valtion edunvalvojasta muutoksenhakua ja oikaisua koskevissa asioissa säädetään Tullin hallinnosta annetussa laissa (960/2012).
+Valtion oikeutta valvoo Veronsaajien oikeudenvalvontayksikkö.
 
-Valtion edunvalvojaa kuullaan ja päätös annetaan tiedoksi siten, että edunvalvojalle varataan tilaisuus tutustua päätökseen ja sen perusteena oleviin asiakirjoihin.
+Veronsaajien oikeudenvalvontayksikköä kuullaan ja päätös annetaan tiedoksi siten, että sille varataan tilaisuus tutustua päätökseen ja sen perusteena oleviin asiakirjoihin.
