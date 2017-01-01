@@ -2,7 +2,7 @@
 
 Eläketurvakeskuksen tehtävänä on:
 1) edistää ja yhteensovittaa työeläketurvan toimeenpanoa ja kehittämistä;
-2) harjoittaa toimialaansa kuuluvaa tilasto- ja tutkimustoimintaa;
+2) harjoittaa toimialaansa kuuluvaa tilasto- ja tutkimustoimintaa sekä laatia arvioita ja laskelmia eläketurvan kehityksestä ja rahoituksesta;
 3) edistää eläkelaitosten keskinäistä yhteistyötä eläkelaitosten yhteistoimintaa edellyttävissä tehtävissä ja hoitaa eläkelaitosten yhteistoimintaan liittyviä tehtäviä;
 4) edistää työeläkelaitosten yhteistyötä muiden laitosten ja viranomaisten välillä;
 5) huolehtia laissa sille määrättyjen tehtävien hoitamiseksi tarvittavista rekistereistä ja työeläkelaitosten työeläkelakien mukaista toimintaa varten tarvitsemien tietojen saatavuudesta;

@@ -4,7 +4,7 @@ Eläketurvakeskuksella on salassapitosäännösten ja muiden tiedon saantia kosk
 1) työeläkelaitoksilta;
 2) Ahvenanmaan maakunnan hallitukselta;
 3) Kansaneläkelaitokselta;
-4) Tapaturmavakuutuslaitosten liitolta;
+4) Tapaturmavakuutuskeskukselta;
 5) Liikennevakuutuskeskukselta;
 6) lakisääteistä tapaturma- ja liikennevakuutusta hoitavalta vakuutusyhtiöltä;
 7) Vakuutuskuntoutus VKK ry:ltä; sekä
@@ -12,6 +12,6 @@ Eläketurvakeskuksella on salassapitosäännösten ja muiden tiedon saantia kosk
 
 Eläketurvakeskuksella on oikeus saada 1 momentissa mainitut tiedot maksutta. Jos tiedot tarvitaan tietyssä muodossa ja siitä aiheutuu tietojen luovuttajalle olennaisia lisäkustannuksia, kustannukset on kuitenkin korvattava.
 
-Eläketurvakeskuksella on oikeus yhdistää ja käyttää 1 momentin tai työntekijän eläkelain 197 ja 198 §:n perusteella saamiaan henkilö- ja muita tietoja tutkimus- ja tilastotoiminnan lisäksi tämän lain 2 §:n 1 momentin 1 kohdassa tarkoitettua työeläketurvan kehittämistä varten tarvittavien selvitysten ja esitysten tekemiseen. Tietoja käsiteltäessä on huolehdittava siitä, ettei kenenkään yksityisyys tai liike- tai ammattisalaisuus vaarannu.
+Eläketurvakeskuksella on oikeus yhdistää ja käyttää 1 momentin tai työntekijän eläkelain 197 ja 198 §:n perusteella saamiaan henkilö- ja muita tietoja tutkimus- ja tilastotoiminnan lisäksi tämän lain 2 §:n 1 momentin 1 kohdassa tarkoitettua työeläketurvan kehittämistä varten tarvittavien selvitysten ja esitysten tekemiseen. Eläketurvakeskuksella on salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä oikeus antaa julkisten alojen työeläkelakien toimeenpanosta huolehtivalta eläkelaitokselta saadut eläkettä, eläkeoikeutta tai vakuuttamista koskevat tiedot tieteellistä tutkimusta, tilastointia tai viranomaisten suunnittelu- tai selvitystyötä varten siten kuin viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 28 §:ssä säädetään. Tietoja käsiteltäessä on huolehdittava siitä, ettei kenenkään yksityisyys eikä liike- tai ammattisalaisuus vaarannu.
 
 Tämän pykälän nojalla kerättyjen tietojen salassapitoon ja luovuttamiseen sovelletaan tilastolain (280/2004) 4 luvun säännöksiä.
