@@ -1,0 +1,36 @@
+# 14 d § Verotuksen maakohtainen raportti
+Luku: 2 luku Verovelvollisen ilmoittamisvelvollisuus
+
+Yleisesti verovelvollisen, joka on konsernin ylin emoyritys (selvitysvelvollinen), on annettava Verohallinnolle tilikausittain laadittava maakohtainen raportti, jos:
+1) konserniin kuuluu selvitysvelvollisen lisäksi vähintään yksi ulkomainen osapuoli; ja
+2) konsernituloslaskelman liikevaihto on vähintään 750 miljoonaa euroa selvitettävää tilikautta edeltävällä tilikaudella.
+
+Konsernin ylimmällä emoyrityksellä tarkoitetaan yritystä, joka kirjanpitolain tai vastaavien ulkomaisten säännösten mukaan on velvollinen laatimaan konsernitilinpäätöksen tai sen olisi tehtävä näin, jos sen oman pääoman ehtoisilla osuuksilla käytäisiin kauppaa verotuksellisen kotipaikan mukaisen lainkäyttöalueen arvopaperipörssissä. Lisäksi edellytyksenä on, että se ei ole sellaisen osapuolen välittömässä tai välillisessä määräysvallassa, jolla olisi velvollisuus laatia konsernitilinpäätös.
+
+Konsernituloslaskelmalla tarkoitetaan kirjanpitolain 7 a luvun 1 §:ssä tarkoitettujen kansainvälisten tilinpäätösstandardien tai vastaavien standardien mukaan laadittua konsernituloslaskelmaa. Jos kansainvälisten tilinpäätösstandardien mukaista konsernitilinpäätöstä ei ole laadittu, käytetään konsernitilinpäätöstä, joka on Euroopan unionin jäsenvaltion tai Euroopan talousalueeseen kuuluvan valtion kirjanpitolainsäädännön ja näiden puuttuessa vastaavien säännösten mukainen.
+
+Maakohtaisen raportin on velvollinen antamaan myös konserniin kuulumaton yleisesti verovelvollinen, jolla on ulkomailla sijaitseva, hallinnollisesta yhteistyöstä verotuksen alalla ja direktiivin 77/799/ETY kumoamisesta annetun neuvoston direktiivin 2011/16/EU, sellaisena kuin se on viimeksi muutettuna direktiivin 2011/16/EU muuttamisesta siltä osin kuin on kyse pakollisesta automaattisesta tietojenvaihdosta verotuksen alalla annetulla neuvoston direktiivillä (EU) 2016/881, liitteessä III tarkoitettu kiinteä toimipaikka ja jonka liikevaihto selvitettävää tilikautta edeltävällä tilikaudella on vähintään 750 miljoonaa euroa.
+
+Yleisesti verovelvollisen, joka ei ole konsernin ylin emoyritys, ja konserniin kuuluvan, hallinnollisesta yhteistyöstä verotuksen alalla ja direktiivin 77/799/ETY kumoamisesta annetun neuvoston direktiivin 2011/16/EU, sellaisena kuin se on viimeksi muutettuna direktiivin 2011/16/EU muuttamisesta siltä osin kuin on kyse pakollisesta automaattisesta tietojenvaihdosta verotuksen alalla annetulla neuvoston direktiivillä (EU) 2016/881, liitteessä III tarkoitetun kiinteän toimipaikan (toissijainen selvitysvelvollinen) on annettava tilikausittain Verohallinnolle maakohtainen raportti, jos konsernituloslaskelman liikevaihto selvitettävää tilikautta edeltävällä tilikaudella on vähintään 750 miljoonaa euroa tilikaudella. Lisäksi edellytyksenä on, että ulkomainen konsernin ylin emoyritys:
+1) ei ole velvoitettu laatimaan maakohtaista raporttia;
+2) verotuksellisesti asuu sellaisella Euroopan unionin ulkopuolella sijaitsevalla lainkäyttöalueella, jonka kanssa Suomella on direktiivissä määritelty kansainvälinen sopimus mutta ei tietojenvaihtosopimusta verotuksen maakohtaisesta raportista maakohtaisen raportin antamista koskevaan määräaikaan mennessä; tai
+3) verotuksellisesti asuu sellaisella lainkäyttöalueella, joka on syyllistynyt direktiivin liitteen III kohdan 14 mukaiseen järjestelmälliseen laiminlyöntiin, ja Verohallinto on antanut tästä tiedon.
+
+Toissijainen selvitysvelvollinen on ainoastaan velvollinen antamaan sen saamat tai hankkimat hallussa olevat tiedot, jos ulkomainen konsernin ylin emoyritys on kieltäytynyt antamasta tietoja ja kieltäytymisestä on annettu ilmoitus.
+
+Edellä 5 ja 6 momentissa esitettyä toissijaista maakohtaisen raportin tietojen antamisvelvollisuutta ei ole, jos ulkomainen konsernin ylin emoyritys on osoittanut konserniin kuuluvan osapuolen, jolla on verotuksellinen kotipaikka Euroopan unionissa, antamaan vaatimusten mukaisen maakohtaisen raportin. Tietojen antamisvelvollisuutta ei ole myöskään, jos ulkomainen konsernin ylin emoyritys on nimennyt toisen konserniin kuuluvan osapuolen (nimetty selvitysvelvollinen) toimittamaan maakohtaisen raportin tämän sellaisen verotuksellisen kotipaikan veroviranomaiselle, joka on Euroopan unionin ulkopuolella. Lisäksi edellytyksenä on, että:
+1) nimetyn selvitysvelvollisen verotuksellisen kotipaikan lainkäyttöalue edellyttää maakohtaisen raportin antamista;
+2) Suomen sekä nimetyn selvitysvelvollisen verotuksellisen kotipaikan mukaisen lainkäyttöalueen välillä on tietojenvaihtosopimus maakohtaisesta raportista maakohtaisen raportin antamista koskevaan määräaikaan mennessä;
+3) nimetyn selvitysvelvollisen verotuksellisen kotipaikan mukainen lainkäyttöalue ei ole ilmoittanut Verohallinnolle järjestelmällisestä laiminlyönnistä;
+4) nimetyn selvitysvelvollisen verotuksellisen kotipaikan mukaiselle lainkäyttöalueelle on tehty ilmoitus maakohtaisen raportin antajasta; ja
+5) Verohallinnolle on tehty ilmoitus nimetystä selvitysvelvollisesta.
+
+Edellä olevaa 5–7 momenttia sovelletaan myös konserniin kuulumattomaan ulkomaiseen yritykseen, jolla on Suomessa hallinnollisesta yhteistyöstä verotuksen alalla ja direktiivin 77/799/ETY kumoamisesta annetun neuvoston direktiivin 2011/16/EU, sellaisena kuin se on viimeksi muutettuna direktiivin 2011/16/EU muuttamisesta siltä osin kuin on kyse pakollisesta automaattisesta tietojenvaihdosta verotuksen alalla annetulla neuvoston direktiivillä (EU) 2016/881, liitteessä III tarkoitettu kiinteä toimipaikka.
+
+Verohallinnolle on annettava ilmoitus maakohtaisen raportin antajasta. Ilmoituksen antaa yleisesti verovelvollinen ja hallinnollisesta yhteistyöstä verotuksen alalla ja direktiivin 77/799/ETY kumoamisesta annetun neuvoston direktiivin 2011/16/EU, sellaisena kuin se on viimeksi muutettuna direktiivin 2011/16/EU muuttamisesta siltä osin kuin on kyse pakollisesta automaattisesta tietojenvaihdosta verotuksen alalla annetulla neuvoston direktiivillä (EU) 2016/881, liitteessä III tarkoitettu kiinteä toimipaikka, joka:
+1) kuuluu konserniin, jonka konsernituloslaskelman liikevaihto selvitettävää tilikautta edeltävällä tilikaudella on vähintään 750 miljoonaa euroa ja johon kuuluu vähintään yksi ulkomainen osapuoli; tai
+2) kuuluu yritykseen, jonka liikevaihto on vähintään 750 miljoonaa euroa selvitettävää tilikautta edeltävällä tilikaudella ja johon kuuluu vähintään yksi ulkomailla sijaitseva direktiivin liitteessä III tarkoitettu kiinteä toimipaikka tai ulkomainen yritys, jolla on Suomessa sijaitseva direktiivin liitteessä III tarkoitettu kiinteä toimipaikka.
+
+Mitä 1–9 momentissa säädetään yleisesti verovelvollisesta, sovelletaan myös avoimeen yhtiöön ja kommandiittiyhtiöön sekä sellaiseen osapuoleen, joka on organisoitu Suomen lakien mukaan mutta jolla ei ole verotuksellista kotipaikkaa Suomessa tai ulkomailla.
+
+Edellä 9 momentin mukainen ilmoitus on annettava Verohallinnolle viimeistään selvitettävän tilikauden viimeisenä päivänä. Maakohtainen raportti ja 6 momentin mukainen ilmoitus kieltäytymisestä on annettava 12 kuukauden kuluessa selvitettävän tilikauden viimeisestä päivästä. Verohallinto voi antaa tarkempia määräyksiä 9 momentissa säädetyn ilmoituksen sekä maakohtaisen raportin sisällöstä ja toimittamistavasta.

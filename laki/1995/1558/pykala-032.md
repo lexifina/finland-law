@@ -9,6 +9,8 @@ Jos verovelvollinen on tietensä tai törkeästä huolimattomuudesta antanut ole
 
 Jos verovelvollinen ei ole esittänyt siirtohinnoitteludokumentointia tai sitä täydentävää lisäselvitystä 14 c §:ssä tarkoitetussa määräajassa taikka on esittänyt siirtohinnoitteludokumentoinnin tai lisäselvityksen olennaisesti vaillinaisena tai virheellisenä, verovelvolliselle voidaan määrätä enintään 25 000 euron suuruinen veronkorotus.
 
+Jos 14 d §:ssä tarkoitettu ilmoituksen ja verotuksen maakohtaisen raportin antaja ei ole täyttänyt velvoitettaan säädetyssä määräajassa tai on täyttänyt sen olennaisesti vaillinaisena tai virheellisenä, sille voidaan määrätä enintään 25 000 euron suuruinen veronkorotus.
+
 Veronkorotus määrätään tuloverolaissa säädettyjen verosta tehtävien vähennysten ja alijäämähyvityksen vähentämisen jälkeen.
 
 Jos veronkorotuksen yhteydessä ei maksuunpanna veroa, tilitetään veronkorotus valtiolle.
