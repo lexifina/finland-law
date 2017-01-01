@@ -1,0 +1,2 @@
+Laki erillisten vesijättöjen lakkauttamisesta kiinteistöinä
+Eduskunnan päätöksen mukaisesti säädetään:
