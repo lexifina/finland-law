@@ -1,7 +1,7 @@
-# 12 § Matka-avustuksen takaisinperintä
+# 12 § Liikkuvuusavustuksen takaisinperintä
 Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 11 luku Toimeenpanoa koskevat säännökset
 
-Jos henkilö eroaa työstä tai omalla menettelyllään aiheuttaa työsuhteen päättymisen kahden kuukauden kuluessa sen työsuhteen alkamisesta, jonka perusteella hänelle on maksettu 7 luvun 3 §:ssä tarkoitettua matka-avustusta, peritään matka-avustus takaisin, jollei takaisinperintä ole kohtuutonta. Muutoin takaisinperintään sovelletaan, mitä 10 §:ssä säädetään.
+Jos työsuhde, jonka perusteella henkilölle on maksettu 8 luvussa tarkoitettua liikkuvuusavustusta, päättyy kahden kuukauden kuluessa työsuhteen alkamisesta, peritään liikkuvuusavustus takaisin työsuhteen alkamisesta lukien, jollei takaisinperintä ole kohtuutonta. Muutoin takaisinperintään sovelletaan, mitä 10 §:ssä säädetään.
 
-Matka-avustusta ei peritä takaisin, jos henkilöllä on ollut 2 a luvun 3 §:n 1 kohdassa tarkoitettu pätevä syy työstä eroamiseen.
+Vaikka työ päättyy kahden kuukauden kuluessa työsuhteen alkamisesta, liikkuvuusavustusta ei peritä takaisin, jos työsuhteen päättyminen ei ole henkilön syytä 2 a luvun 1 §:n 1 momentissa tarkoitetulla tavalla.

@@ -2,6 +2,6 @@
 Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 11 luku Toimeenpanoa koskevat säännökset
 
-Peruspäivärahaa ja työmarkkinatukea ei saa ulosmitata.
+Peruspäivärahaa, työmarkkinatukea ja 8 luvussa tarkoitettua liikkuvuusavustusta ei saa ulosmitata.
 
 Sopimus, joka tarkoittaa tähän lakiin perustuvan oikeuden siirtämistä toiselle, on mitätön.

@@ -2,7 +2,7 @@
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 2 luku Etuuden saamisen yleiset työvoimapoliittiset edellytykset
 
-Työnhakijalla ei ole oikeutta työttömyysetuuteen siltä ajalta, jona hän työllistyy päätoimisesti yrittäjänä tai sitä vastaavalla tavalla omassa työssään.
+Työnhakijalla ei ole oikeutta työttömyysetuuteen siltä ajalta, jona hän työllistyy päätoimisesti yrittäjänä tai sitä vastaavalla tavalla omassa työssään yhdenjaksoisesti yli kahden viikon ajan.
 
 Henkilön katsotaan työllistyvän yrittäjänä tai sitä vastaavalla tavalla omassa työssään päätoimisesti, jos toiminnan vaatima työmäärä on niin suuri, että se on esteenä kokoaikatyön vastaanottamiselle. Ellei muuhun arvioon ole aihetta, työllistyminen katsotaan sivutoimiseksi ainakin silloin, kun henkilö on ollut vähintään kuusi kuukautta kyseiseen yritystoimintaan tai omaan työhön liittymättömässä kokoaikatyössä.
 

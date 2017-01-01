@@ -2,7 +2,7 @@
 Osa: II OSA TYÖTTÖMYYSPÄIVÄRAHA
 Luku: 5 luku Työttömyyspäivärahan saamisen edellytykset
 
-Palkansaajan työssäoloehtoon luetaan kalenteriviikot, joina henkilö on ollut vakuutuksenalaisessa työaikaa ja palkkaa koskevat edellytykset täyttävässä työssä. Työssäoloehtoon luetaan myös sellaiset täydet kalenteriviikot, joina henkilö on ollut 60 vuotta täytettyään työ- ja elinkeinotoimiston julkisesta työvoima- ja yrityspalvelusta annetun lain 11 luvun 1 §:n 2 momentin perusteella järjestämässä työllistymistä edistävässä palvelussa. Kukin kalenteriviikko luetaan työssäoloehtoon vain kerran.
+Palkansaajan työssäoloehtoon luetaan kalenteriviikot, joina henkilö on ollut vakuutuksenalaisessa työaikaa ja palkkaa koskevat edellytykset täyttävässä työssä. Kukin kalenteriviikko luetaan työssäoloehtoon vain kerran.
 
 Työaikaa koskevat edellytykset täyttyvät, kun henkilön työaika yhdessä tai useammassa työssä on yhteensä vähintään 18 tuntia tai kun jaksotyössä työsopimuksen mukainen säännöllinen työaika on tasoittumisjakson aikana keskimäärin yhteensä vähintään 18 tuntia kalenteriviikossa. Työaikaan ei lueta sitä työaikaa, joka on säästetty työaikapankkiin.
 

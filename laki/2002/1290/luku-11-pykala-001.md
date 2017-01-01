@@ -2,7 +2,7 @@
 Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 11 luku Toimeenpanoa koskevat säännökset
 
-Peruspäivärahaa ja työmarkkinatukea haetaan kirjallisesti Kansaneläkelaitokselta. Ansiopäivärahaa haetaan kirjallisesti siltä työttömyyskassalta, jonka jäsen työnhakija on. Hakemus matka-avustuksesta voidaan jättää myös työvoimatoimistoon.
+Peruspäivärahaa ja työmarkkinatukea haetaan kirjallisesti Kansaneläkelaitokselta. Ansiopäivärahaa haetaan kirjallisesti siltä työttömyyskassalta, jonka jäsen työnhakija on. Peruspäivärahan tai työmarkkinatuen piiriin kuuluva työnhakija hakee liikkuvuusavustusta Kansaneläkelaitokselta ja muu työnhakija siltä työttömyyskassalta, jonka jäsen hän on.
 
 Työttömyysetuutta ei ilman erityisen painavaa syytä myönnetä takautuvasti pitemmältä kuin kolmen kuukauden ajalta ennen hakemuksen vireille tuloa.
 
