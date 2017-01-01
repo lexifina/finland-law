@@ -2,7 +2,7 @@
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 9 luku Muutoksenhaku
 
-Muutoksenhakua varten on työeläkeasioiden muutoksenhakulautakunta ja vakuutusoikeus. Työeläkeasioiden muutoksenhakulautakunnasta ja sen jäsenistä säädetään laissa työeläkeasioiden muutoksenhakulautakunnasta (677/2005) ja vakuutusoikeudesta vakuutusoikeuslaissa (132/2003). Valtioneuvosto nimittää sosiaali- ja terveysministeriön esityksestä enintään viideksi vuodeksi kerrallaan työeläkeasioiden muutoksenhakulautakuntaan työelämän ja työmarkkinoiden olosuhteita tuntevia jäseniä, joista vähintään neljä on määrättävä työnantajayhdistysten edustavimpien keskusjärjestöjen ja vähintään neljä työntekijäin ja toimihenkilöiden ammattiyhdistysten edustavimpien keskusjärjestöjen ehdotuksesta.
+Muutoksenhakua varten on työeläkeasioiden muutoksenhakulautakunta ja vakuutusoikeus. Työeläkeasioiden muutoksenhakulautakunnasta ja sen jäsenistä säädetään työeläkeasioiden muutoksenhakulautakunnasta annetussa laissa (677/2005) ja vakuutusoikeudesta tuomioistuinlaissa (673/2016). Valtioneuvosto nimittää sosiaali- ja terveysministeriön esityksestä enintään viideksi vuodeksi kerrallaan työeläkeasioiden muutoksenhakulautakuntaan työelämän ja työmarkkinoiden olosuhteita tuntevia jäseniä, joista vähintään neljä on määrättävä työnantajayhdistysten edustavimpien keskusjärjestöjen ja vähintään neljä työntekijäin ja toimihenkilöiden ammattiyhdistysten edustavimpien keskusjärjestöjen ehdotuksesta.
 
 Asianosainen saa hakea valittamalla muutosta eläkelaitoksen tai Eläketurvakeskuksen tämän lain nojalla antamaan päätökseen työeläkeasioiden muutoksenhakulautakunnalta siten kuin tässä laissa ja hallintolainkäyttölaissa (586/1996) säädetään.
 
