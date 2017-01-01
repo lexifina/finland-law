@@ -20,6 +20,7 @@ Veronalaista tuloa eivät ole:
 15) asumistukilain (408/1975) ja eläkkeensaajan asumistuesta annetun lain (571/2007) mukainen asumistuki sekä opintotukilain (65/1994) mukainen asumislisä;
 16) luonnollisen henkilön valtion ja kuntien varoista asunnonkorjaukseen saama avustus sekä kolttalain (253/1995) nojalla asunnon tai muun yksityistaloudessa tarvittavan rakennuksen tai rakennelman rakentamiseen, laajentamiseen tai peruskorjaukseen saama avustus ja valtionlainaan liittyvä tuki;
 17) vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetussa laissa (380/87) tarkoitetut edut;
+18) perustulokokeilusta annetussa laissa (1528/2016) tarkoitettu perustulo;
 19) Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetussa laissa (566/2005) tarkoitetut kuntoutusetuudet sekä mainitun lain 31 §:ssä tarkoitettu ylläpitokorvaus;
 21) rangaistusta suorittavan vangin tai tutkintavangin saama toiminta- tai käyttöraha;
 22) toimeentulotuesta annetun lain (1412/1997) mukainen toimeentulotuki;
