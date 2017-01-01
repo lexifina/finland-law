@@ -1,0 +1,7 @@
+# 8 § Vastuuvakuutus tai muu vakuus
+
+Ilmoituksen tekijällä on oltava voimassa oleva vastuuvakuutus, pankkitakaus tai Finanssivalvonnan hyväksymä muu vastaava vakuus asunto-omaisuuteen liittyvien kuluttajaluottojen välityksestä ja tällaisiin kuluttajaluottoihin liittyvistä neuvontapalveluista aiheutuvien vahinkojen korvaamiseksi. Vakuutuksen tai muun vakuuden on oltava määrältään vähintään sen suuruinen kuin asuntoluottodirektiivin 29 artiklan 2 kohdan a alakohdan nojalla annetuissa sääntelystandardeissa edellytetään, ja sen on oltava voimassa niiden Euroopan talousalueeseen kuuluvien valtioiden alueilla, joissa ilmoituksen tekijä tarjoaa asunto-omaisuuteen liittyvien kuluttajaluottojen välitystä tai tällaisiin luottoihin liittyviä neuvontapalveluja. Vakuutuksenantajalla tai muun vakuuden antajalla on oltava kotipaikka ETA-valtiossa, jollei Finanssivalvonta hakemuksesta myönnä tästä poikkeusta.
+
+Vakuutuksen on täytettävä lisäksi seuraavat ehdot:
+1) jos vakuutukseen sisältyy omavastuu, vakuutuksenantaja suorittaa vakuutuskorvauksen vahingon kärsineelle omavastuuta vähentämättä;
+2) vakuutuksesta korvataan vahinko, joka on syntynyt vakuutuskauden aikana tapahtuneen teon tai laiminlyönnin seurauksena ja jonka korvaamisesta on esitetty kirjallinen vaatimus ilmoituksen tekijälle tai vakuutuksenantajalle vakuutuksen voimassaoloaikana tai kolmen vuoden kuluessa vakuutuksen päättymisestä.

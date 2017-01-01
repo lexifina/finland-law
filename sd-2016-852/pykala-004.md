@@ -1,0 +1,3 @@
+# 4 § Oikeus tarjota neuvontapalveluja
+
+Asunto-omaisuuteen liittyviä kuluttajaluottoja koskevia neuvontapalveluja saa tarjota vain luotonvälittäjä. Oikeutta neuvontapalvelujen tarjoamiseen ei ole kuitenkaan jonkin luotonantajan asiamiehenä toimivalla tai luotonantajan kanssa kirjanpitolain (1336/1997) 1 luvun 6 §:ssä tarkoitetulla tavalla samaan konserniin kuuluvalla eikä luotonvälittäjällä, joka on kirjanpitolain 1 luvun 7 tai 8 §:ssä tarkoitetussa omistusyhteysyritys- tai osakkuusyrityssuhteessa luotonantajaan. Vastaavin rajoituksin myös tämän lain 3 §:n 2 momentin 3 kohdassa tarkoitetulla elinkeinonharjoittajalla on oikeus neuvontapalvelujen tarjoamiseen.
