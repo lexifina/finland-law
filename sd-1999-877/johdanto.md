@@ -1,0 +1,2 @@
+Laki varastetuista tai laittomasti maastaviedyistä kulttuuriesineistä tehdyn Unidroit'n yleissopimuksen eräiden määräysten hyväksymisestä ja yleissopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
