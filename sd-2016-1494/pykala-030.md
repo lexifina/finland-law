@@ -1,0 +1,4 @@
+# 30 § Tekijänoikeuskorvausten tilittäminen edustussopimuksen nojalla
+Luku: 6 luku Oikeuksien hallinnointi toisen yhteishallinnointiorganisaation puolesta
+
+Lisensioivan yhteishallinnointiorganisaation on säännöllisesti ja täsmällisesti tilitettävä valtuuttaville yhteishallinnointiorganisaatioille niiden välityksellä maksettavat tekijänoikeuskorvaukset. Tekijänoikeuskorvaus tulee tilittää valtuuttavalle yhteishallinnointiorganisaatiolle mahdollisimman pian ja viimeistään yhdeksän kuukauden kuluttua sen tilikauden lopusta, jona tekijänoikeuskorvaus kerättiin, ellei tämä ole mahdotonta.
