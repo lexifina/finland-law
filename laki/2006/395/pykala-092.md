@@ -3,8 +3,8 @@ Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄN
 Luku: 5 luku Ensisijaisten etuuksien vähentäminen eläkkeestä
 
 Tämän lain mukaisesta eläkkeestä vähennetään työntekijän saama ensisijainen etuus ja perhe-eläkkeestä ensisijaista etuutta vastaava perhe-eläke tai korvaus. Ensisijaisia etuuksia ovat:
-1) työtapaturma- ja ammattitautilakiin perustuva ansionmenetyskorvaus lukuun ottamatta mainitun lain 68 §:n mukaista tapaturmaeläkettä ja sitä edeltävää päivärahaa sekä ansionmenetyskorvausta, josta on vähennetty mainitun lain 202 §:n 2 momentissa tarkoitettu työeläke;
-2) maatalousyrittäjän työtapaturma- ja ammattitautilakiin perustuva ansionmenetyskorvaus lukuun ottamatta mainitun lain 58 §:n mukaista tapaturmaeläkettä ja sitä edeltävää päivärahaa;
+1) työtapaturma- ja ammattitautilakiin perustuva ansionmenetyskorvaus lukuun ottamatta mainitun lain 68 §:n mukaista tapaturmaeläkettä ja ennen vakuuttamisvelvollisuuden yläikärajan täyttämistä maksettavaa päivärahaa, joka perustuu mainitussa lainkohdassa tarkoitettuun vahinkotapahtumaan, sekä ansionmenetyskorvausta, josta on vähennetty mainitun lain 202 §:n 2 momentissa tarkoitettu työeläke;
+2) maatalousyrittäjän työtapaturma- ja ammattitautilakiin perustuva ansionmenetyskorvaus lukuun ottamatta mainitun lain 58 §:n mukaista tapaturmaeläkettä ja ennen vakuuttamisvelvollisuuden yläikärajan täyttämistä maksettavaa päivärahaa, joka perustuu mainitussa lainkohdassa tarkoitettuun vahinkotapahtumaan;
 3) liikennevakuutuslain nojalla myönnetty omaan vammaan perustuva ansionmenetyskorvaus tai eläke;
 4) liikennevakuutuslain perusteella korvattavasta kuntoutuksesta annetun lain nojalla myönnetty ansionmenetyskorvaus;
 5) sotilastapaturmalain nojalla myönnetty ansionmenetyskorvaus;

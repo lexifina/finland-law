@@ -1,4 +1,4 @@
-# 206 § Tietojen antaminen viranomaisille ja luottotietoja harjoittaville rekisterinpitäjille
+# 206 § Eläkelaitoksen ja Eläketurvakeskuksen oikeus tietojen oma-aloitteiseen luovuttamiseen
 Osa: IV OSA ERINÄISET SÄÄNNÖKSET
 Luku: 14 luku Tietojen antaminen, saaminen ja salassapito
 
@@ -7,4 +7,7 @@ Eläkelaitoksella ja Eläketurvakeskuksella on oikeus sen lisäksi, mitä julkis
 2) Verohallinnolle tiedot, jotka ovat välttämättömiä sille ennakkoperintälaissa säädetyn valvontavelvollisuuden täyttämiseksi silloin, kun on aihetta epäillä, että työnantaja ei ole täyttänyt ennakonpidätysvelvollisuuttaan;
 3) luottotietotoimintaa harjoittavalle rekisterinpitäjälle sellaiset tiedot työnantajan tähän lakiin perustuvasta ulosottokelpoisesta työeläkevakuutusmaksusaatavasta, jotka luottotietorekisterin pitäjällä lain mukaan on oikeus tallettaa luottotietorekisteriin;
 4) työsuojeluviranomaiselle tiedot, jotka ovat sille välttämättömiä tilaajan selvitysvelvollisuudesta ja vastuusta ulkopuolista työvoimaa käytettäessä annetussa laissa (1233/2006) tarkoitetun valvontavelvollisuuden täyttämiseksi silloin, kun on aihetta epäillä, että tilaaja ei ole täyttänyt selvitysvelvollisuuttaan tai että tilaajan sopimuspuoli on esittänyt virheellisiä todistuksia eläkevakuuttamisvelvollisuuden täyttämisestä tai eläkevakuutusmaksujen maksamisesta;
-5) työttömyysvakuutusrahastolle tiedot, jotka ovat sille välttämättömiä työttömyysetuuksien rahoituksesta annetussa laissa (555/1998) tarkoitetun valvontavelvollisuuden täyttämiseksi silloin, kun on aihetta epäillä, että työnantaja on laiminlyönyt velvollisuuttaan maksaa työttömyysvakuutusmaksuja.
+5) työttömyysvakuutusrahastolle tiedot, jotka ovat sille välttämättömiä työttömyysetuuksien rahoituksesta annetussa laissa tarkoitetun valvontavelvollisuuden täyttämiseksi silloin, kun on aihetta epäillä, että työnantaja on laiminlyönyt velvollisuuttaan maksaa työttömyysvakuutusmaksuja;
+6) Tapaturmavakuutuskeskukselle ja lakisääteistä tapaturmavakuutusta toimeenpanevalle vakuutusyhtiölle näille laissa säädetyn valvontaan liittyvän tehtävän täyttämiseksi työnantajaa ja vakuutusta koskevat välttämättömät tiedot, jos on syytä epäillä, ettei työnantaja ole täyttänyt lakiin perustuvaa maksu- tai vakuuttamisvelvollisuuttaan.
+
+Edellä 1 momentin 1, 2 ja 4–6 kohdan nojalla saatuja salassa pidettäviä tietoja voidaan antaa edelleen rikosten selvittämistä ja syytteeseenpanoa varten. Tiedot tulee hävittää heti, kun niitä ei tarvita.

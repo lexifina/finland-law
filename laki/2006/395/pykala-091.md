@@ -8,5 +8,3 @@ Leskeneläkettä vähennettäessä otetaan lesken hakemuksesta työeläkkeiden a
 3) mainitut ansiotulot ja niihin perustuvat etuudet sekä osatyökyvyttömyyseläke, kun ansiotuloista otetaan huomioon 60 prosenttia, ovat yhteensä vähintään 25 prosenttia pienemmät kuin lesken 88 §:n mukaisesti määrätty eläke.
 
 Edellä 1 momentissa tarkoitettu keskimääräinen ansiotulo lasketaan lesken kuudelta kuukaudelta ennen hakemuksen tekemistä saamista ansioista ja eläkkeen vähentäminen 1 momentissa tarkoitetulla tavalla tehdään aikaisintaan tämän takautuvan jakson alusta.
-
-Leskeneläke tarkistetaan, kun lesken olosuhteissa tapahtuu sellainen muutos, jonka takia 1 momentissa tarkoitetut edellytykset eivät enää täyty.
