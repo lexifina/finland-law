@@ -1,6 +1,6 @@
 # 2 § Palvelujärjestelmän avulla hoidettavat tehtävät
 
-Palvelun käyttäjä voi järjestelmän avulla hoitaa työnantajasuoritukset ja ennakonpidätykset, jotka liittyvät palkan ja muun vastaavan suorituksen maksuun, verotukseen, ammattiyhdistysjäsenmaksuun, lakisääteiseen työeläkevakuutusjärjestelmään, lakisääteiseen tapaturmavakuutusjärjestelmään, lakisääteiseen työttömyysvakuutusjärjestelmään, yleissitoviin työehtosopimuksiin sisältyvään työntekijäin ryhmähenkivakuutukseen, työnantajan sosiaaliturvamaksuun sekä vakuutetun sairausvakuutusmaksuun.
+Palvelun käyttäjä voi järjestelmän avulla hoitaa työnantajasuoritukset ja ennakonpidätykset, jotka liittyvät palkan ja muun vastaavan suorituksen maksuun, verotukseen, ammattiyhdistysjäsenmaksuun, lakisääteiseen työeläkevakuutusjärjestelmään, lakisääteiseen tapaturmavakuutusjärjestelmään, lakisääteiseen työttömyysvakuutusjärjestelmään, yleissitoviin työehtosopimuksiin sisältyvään työntekijäin ryhmähenkivakuutukseen, työnantajan sairausvakuutusmaksuun sekä vakuutetun sairausvakuutusmaksuun.
 
 Järjestelmän avulla voidaan hoitaa myös vakuutushakemuksen tekeminen, palkasta ulosotettavan osan pidättäminen ja maksaminen, palkan laskeminen, palkka- ja työaikakirjanpitoa varten tarvittavien tietojen kerääminen, tässä laissa tarkoitettuihin työnantajasuorituksiin liittyvä ilmoitusliikenne, muita verotukseen liittyviä tehtäviä sekä Kansaneläkelaitokselle sen hoitamiin etuuksiin liittyvien ilmoitusten antaminen.
 
