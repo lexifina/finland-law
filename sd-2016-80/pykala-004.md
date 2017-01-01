@@ -1,0 +1,7 @@
+# 4 § Siirtymäajan korotettu karttuma
+
+Vuoden 2025 loppuun eläkettä karttuu työansioista 1,7 prosenttia vuodessa 53 vuoden iän täyttämistä seuraavan kalenterikuukauden alusta sen kalenterikuukauden loppuun, jona työntekijä täyttää 63 vuotta, jos työntekijä ei saa maatalousyrittäjien luopumistuesta annetun lain (1293/1994) tai maatalouden harjoittamisesta luopumisen tukemisesta annetun lain (612/2006) mukaista luopumistukea tai muuta omaan työskentelyyn perustuvaa työeläkelakien mukaista etuutta kuin osa-aikaeläkettä tai osittaista varhennettua vanhuuseläkettä. Jos karttumisprosentti muuttuu kalenterivuoden aikana, eläkkeen karttuminen määräytyy keskimääräisen karttumisprosentin mukaan muista kuin vanhuuseläkkeen alkamisen jälkeen ansaituista työansioista. Keskimääräinen karttumisprosentti lasketaan ottamalla karttumisprosentit huomioon niiden kalenterivuoteen sisältyvien kalenterikuukausien lukumäärän suhteessa, joihin karttumisprosentit kohdistuvat.
+
+Mitä 1 momentissa säädetään, koskee myös työntekijää, joka työskentelee toisessa Euroopan unionin jäsenvaltiossa tai Euroopan talousalueeseen kuuluvassa valtiossa 53 vuotta täytettyään. Tällöin teoreettiseen eläkkeeseen lisätään 1,7 karttumisprosentin ja 1,5 karttumisprosentin erotuksen perusteella laskettu erillinen lisä. Erillinen lisä lasketaan Suomessa ansaittujen työansioiden perusteella.
+
+Vuoden 2025 loppuun saakka 53 vuotta täyttäneen työntekijän eläkevakuutusmaksu määräytyy työntekijän eläkelain muuttamisesta annetun lain voimaanpanolain (71/2016) 4 §:n 2 momentissa säädetysti.
