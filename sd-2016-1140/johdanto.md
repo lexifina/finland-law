@@ -1,0 +1,2 @@
+Laki räjähteiden vaatimustenmukaisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
