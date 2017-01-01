@@ -9,6 +9,6 @@ Pääomatulosta suoritetaan tuloveroa 30 prosenttia (pääomatulon tuloveroprose
 
 Edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 6,07.
 
-Luonnollisen henkilön on suoritettava eläketulon lisäveroa 6 prosenttia siltä osin kuin eläketulo vähennettynä eläketulovähennyksen määrällä ylittää 45 000 euroa. Eläketulon lisäveroon sovelletaan, mitä ansiotulosta valtiolle suoritettavasta tuloverosta tässä tai muussa laissa säädetään.
+Luonnollisen henkilön on suoritettava eläketulon lisäveroa 5,85 prosenttia siltä osin kuin eläketulo vähennettynä eläketulovähennyksen määrällä ylittää 47 000 euroa. Eläketulon lisäveroon sovelletaan, mitä ansiotulosta valtiolle suoritettavasta tuloverosta tässä tai muussa laissa säädetään.
 
 Kultakin vuodelta toimitettavassa ansiotulon verotuksessa sovellettavasta veroasteikoista säädetään erikseen.

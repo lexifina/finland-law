@@ -5,8 +5,21 @@ Luku: 3 LUKU Pääomatulosta tehtävät vähennykset
 Verovelvollisella on oikeus vähentää 34 a §:ssä tarkoitetun oman eläkevakuutuksensa ja pitkäaikaissäästämissopimuksensa maksuja yhteensä 5 000 euroa vuodessa. Vähennyskelpoinen enimmäismäärä on kuitenkin 2 500 euroa, jos verovelvollisen työnantaja on verovuonna maksanut verovelvolliselle ottamansa vapaaehtoisen yksilöllisen eläkevakuutuksen maksuja. Maksuja voidaan vähentää aikaisintaan siltä verovuodelta, jonka aikana vakuutettu tai varoihin oikeutettu täyttää 18 vuotta, ja viimeistään siltä vuodelta, jonka aikana eläkettä tai muuta suoritusta on alettu maksaa. Vähennysoikeus koskee vakuutusta, jonka on ottanut verovelvollinen tai hänen puolisonsa ja jossa verovelvollinen on vakuutettuna, sekä pitkäaikaissäästämissopimusta, jonka on tehnyt verovelvollinen tai hänen puolisonsa ja jossa verovelvollinen on sidotusta pitkäaikaissäästämisestä annetussa laissa tarkoitettu varoihin oikeutettu.
 
 Vähennyskelpoisuuden edellytyksenä on, että sopimuksen mukaan:
-1) vanhuuseläkettä aletaan maksaa vakuutetulle tai pitkäaikaissäästämissopimukseen perustuvia suorituksia varoihin oikeutetulle aikaisintaan hänen saavutettuaan työntekijän eläkelain (395/2006) mukaiseen lykättyyn vanhuuseläkkeeseen oikeuttavan iän;
-2) vakuutusta ei voida takaisinostaa eikä säästömäärää nostaa 1 kohdassa mainittua ajankohtaa aiemmin muilla vakuutetun tai pitkäaikaissäästämissopimuksen mukaan varoihin oikeutetun olosuhteisiin liittyvillä perusteilla kuin näiden vähintään vuoden kestäneen työttömyyden tai pysyvän työkyvyttömyyden tai osatyökyvyttömyyden, puolison kuoleman tai avioeron perusteella.
+1) vakuutusta ei voida takaisinostaa eikä säästömäärää nostaa 2 kohdassa mainittua ajankohtaa aiemmin muilla vakuutetun tai pitkäaikaissäästämissopimuksen mukaan varoihin oikeutetun olosuhteisiin liittyvillä perusteilla kuin näiden vähintään vuoden kestäneen työttömyyden tai pysyvän työkyvyttömyyden tai osatyökyvyttömyyden, puolison kuoleman tai avioeron perusteella; ja
+2) vanhuuseläkettä aletaan maksaa vakuutetulle tai pitkäaikaissäästämissopimukseen perustuvia suorituksia varoihin oikeutetulle aikaisintaan hänen saavutettuaan syntymävuotensa ja sopimuksen tekoajan perusteella alla olevan taulukon mukaan määräytyvän iän;
+a) sopimus on tehty ennen 1 päivää tammikuuta 2013
+syntymävuosi | eläkeikä, vuotta
+1957 tai aiemmin | 63
+1958–1961 | 64
+1962–1972 | 65
+1973–1984 | 66
+1985–1997 | 67
+1998 tai myöhemmin | 68
+b) sopimus on tehty 1 päivänä tammikuuta 2013 tai sen jälkeen
+syntymävuosi | eläkeikä, vuotta
+1957 tai aiemmin | 68
+1958–1961 | 69
+1962 tai myöhemmin | 70
 
 Kertamaksullisen eläkevakuutuksen maksut eivät ole vähennyskelpoisia.
 

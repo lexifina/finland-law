@@ -16,3 +16,5 @@ Veronalaista tuloa ei synny työnantajan tilapäisesti järjestämästä sairaan
 Veronalaista tuloa ei synny myöskään työntekijän työkäyttöä varten järjestetyn tietoliikenneyhteyden yksityiskäytöstä.
 
 Edellä 1 momentin 4 kohdassa tarkoitettuna etuna pidetään myös enintään 400 euron vuosittaista etua työnantajan tarjoamasta työntekijän omaehtoisesta liikunta- tai kulttuuritoiminnasta. Tässä momentissa kulttuuritoiminnalla tarkoitetaan käyntiä museossa, teatterissa, oopperassa, elokuvateatterissa, konsertissa, taidenäyttelyssä tai muussa vastaavassa eri taiteenaloihin liittyvässä tapahtumassa tai tilaisuudessa. Kulttuuritoimintana pidetään myös käyntiä tiedekeskuksessa ja urheilutapahtumassa sekä osallistumista ohjatulle toiminnalliselle taidekurssille. Edellytyksenä on, että etu on ainoastaan työntekijän käytettävissä.
+
+Veronalaista tuloa ei synny, jos työnantaja tarjoaa entiselle työntekijälleen edellä 1 momentin 1 kohdassa tarkoitettua etua kuuden kuukauden aikana työsuhteen päättymisen jälkeen.
