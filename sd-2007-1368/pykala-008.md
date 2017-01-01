@@ -2,7 +2,7 @@
 
 Osakkeiden käypänä arvona pidetään hintaa, joka osakkeista on mahdollista saada normaalein kaupallisin ehdoin toteutettavassa kaupankäynnissä.
 
-Arvopaperimarkkinalaissa (495/1989) tarkoitetun julkisen kaupankäynnin tai monenkeskisen kaupankäynnin kohteena olevan yhtiön osakkeiden käypä hinta osakemyyntitilanteissa muodostuu joko edellä tässä kohdassa tarkoitetussa kaupankäynnissä tai sen ulkopuolella toteutetussa edustavassa tarjoushuutokaupassa.
+Arvopaperimarkkinalaissa (746/2012) tarkoitetun säännellyn markkinan tai monenkeskisen kaupankäynnin kohteena olevan yhtiön osakkeiden käypä hinta osakemyyntitilanteissa muodostuu joko edellä tässä momentissa tarkoitetussa kaupankäynnissä tai sen ulkopuolella toteutetussa edustavassa tarjoushuutokaupassa.
 
 Muun kuin 2 momentissa tarkoitetun yhtiön osakkeiden käypä hinta osakemyyntitilanteissa arvioidaan yrityskaupassa yleisesti käytettävillä arvostusmenetelmillä.
 
