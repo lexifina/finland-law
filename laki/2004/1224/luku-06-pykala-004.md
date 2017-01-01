@@ -14,6 +14,8 @@ Peruskorvattavuus- ja tukkuhintahakemuksessa on esitettävä yksilöity ja perus
 6) muissa Euroopan talousalueen maissa käytössä olevat lääkevalmisteen muut kauppanimet, lääkevalmisteen korvauksen perusteeksi hyväksytyt käytössä olevat tukkuhinnat sekä lääkkeen korvausperusteet;
 7) terveystaloudellinen selvitys, jos kysymyksessä on uutta vaikuttavaa lääkeainetta sisältävä lääkevalmiste tai korvattavuuden merkittävä laajentaminen.
 
+Myyntiluvan haltijan on esitettävä selvitys tukkuhinnan kohtuullisuuteen vaikuttaneissa seikoissa tapahtuneista muutoksista, mikäli valmisteelle ehdotetaan aiemmin vahvistettua tukkuhintaa korkeampaa tukkuhintaa.
+
 Myyntiluvan haltijan on liitettävä hakemukseen myös muut lääkkeiden hintalautakunnan edellyttämät selvitykset. Myyntiluvan haltija voi sisällyttää hakemukseen edellä mainittujen selvitysten lisäksi muita asian käsittelyn kannalta tarpeellisiksi katsomiaan selvityksiä. Haettaessa peruskorvattavuuden rajoittamista tarkoin määriteltyyn käyttöaiheeseen myyntiluvan haltijan on esitettävä perustelut korvattavuuden rajoittamiselle ottaen erityisesti huomioon lääkevalmisteen hoidollinen arvo kyseisessä sairaustilassa ja ehdotetun rajoituksen tarkoituksenmukaisuus lääkehoidon toteutuksen kannalta.
 
 Mitä tässä pykälässä säädetään, noudatetaan soveltuvin osin haettaessa hyväksytyn peruskorvattavuuden laajentamista.
