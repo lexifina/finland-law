@@ -1,0 +1,5 @@
+# 12 § Eläke osittaisen varhennetun vanhuuseläkkeen jälkeen
+
+Jos työntekijän palvelussuhteet osittaisella varhennetulla vanhuuseläkkeellä ollessa täyttävät 9 §:n yhdenjaksoisuuden edellytykset 5—7 §:ssä tarkoitettuun eläkeikään tai eroamisikään saakka tai hän tulee palvelussuhteen jatkuessa työkyvyttömäksi työkyvyttömyyseläkkeen tai työuraeläkkeen saamisen edellyttämällä tavalla, hänellä on oikeus 8 §:ssä säädettyyn lisäeläkeosuuteen julkisten alojen eläkelain 18 §:n 1 momentin 2 kohdan mukaisessa eläkeosuudessa.
+
+Jos vuonna 1960 tai sen jälkeen syntyneen työntekijän, jolla ei ole 6 §:ssä tarkoitettua ammatillista eläkeikää ja joka ei kuulu 7 §:ssä tarkoitetun eroamisiän piiriin, palvelussuhteet osittaisella varhennetulla vanhuuseläkkeellä ollessa täyttävät 9 §:n yhdenjaksoisuuden edellytykset julkisten alojen eläkelain 10 §:n 2 ja 3 momenteissa tarkoitettuun alimpaan vanhuuseläkeikään saakka tai hän tulee palvelussuhteen jatkuessa työkyvyttömäksi työkyvyttömyyseläkkeen tai työuraeläkkeen saamiseen edellyttämällä tavalla, hänellä on oikeus 8 §:ssä säädettyyn lisäeläkeosuuteen julkisten alojen eläkelain 18 §:n 1 momentin 2 kohdan mukaisessa eläkeosuudessa.

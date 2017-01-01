@@ -1,0 +1,3 @@
+# 26 § Eräiden sotilaiden tulevan ajan pääteikä ja vanhuuseläke työkyvyttömyyseläkkeen jälkeen
+
+Sen estämättä, mitä julkisten alojen eläkelain 83 §:ssä säädetään, tämän lain 24 ja 25 §:ssä tarkoitetun sotilaan työkyvyttömyyseläkettä määrättäessä eläkkeeseen oikeuttaa aika sen vuoden alusta, jona sotilas on tullut työkyvyttömäksi, sen kalenterikuukauden loppuun, jona sotilas täyttää eroamisikänsä. Edellä tarkoitettu työkyvyttömyyseläke muuttuu vanhuuseläkkeeksi ja osatyökyvyttömyyseläke täyden työkyvyttömyyseläkkeen suuruiseksi vanhuuseläkkeeksi eroamisiän täyttämistä seuraavan kuukauden alussa. Sotilaalla on oikeus työkyvyttömyyseläkkeen aikana ansaittuun eläkkeeseen eroamisiän täyttämistä seuraavan kuukauden alusta edellyttäen, että kyseinen palvelus on päättynyt.
