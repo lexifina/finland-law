@@ -1,0 +1,2 @@
+Laki hyödyllisyysmallioikeudesta
+Eduskunnan päätöksen mukaisesti säädetään:
