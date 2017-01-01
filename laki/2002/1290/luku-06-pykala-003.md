@@ -1,9 +1,7 @@
-# 3 § Ansiopäivärahan ansio-osan maksuajan lyhentäminen
+# 3 § Korotusosan ja korotetun ansio-osan maksaminen työllistymistä edistävien palvelujen ajalta
 Osa: II OSA TYÖTTÖMYYSPÄIVÄRAHA
 Luku: 6 luku Työttömyyspäivärahan määrä ja kesto
 
-Ansiopäivärahan saajalle, joka ei ole ollut työssä yhteensä vähintään kolmea vuotta ennen työttömyyspäivärahaoikeuden alkamista, ansiopäiväraha maksetaan päivärahakauden enimmäisajan 100 viimeiseltä päivältä sen suuruisena kuin se maksettaisiin peruspäivärahana.
+Korotusosaa ja korotettua ansio-osaa maksetaan työllistymissuunnitelmassa tai työllistymissuunnitelmaa korvaavassa suunnitelmassa sovittujen työllistymistä edistävien palvelujen ajalta. Korotusosaa ja korotettua ansio-osaa maksetaan myös työllistymissuunnitelmassa tai työllistymissuunnitelmaa korvaavassa suunnitelmassa sovittujen palvelujen väliseltä ajalta, jos näiden palvelujen välinen aika on enintään seitsemän kalenteripäivää.
 
-Jos ansiopäivärahan saajalle on 250 ensimmäisen työttömyyspäivärahapäivän aikana asetettu korvaukseton määräaika tai työssäolovelvoite hänen meneteltyään 2 a luvun 12 §:ssä tarkoitetulla tavalla moitittavasti, ansiopäiväraha maksetaan päivärahakauden enimmäisajan 100 viimeiseltä päivältä sen suuruisena kuin se maksettaisiin peruspäivärahana. Jos ansiopäivärahan saajalla ei ole 1 momentissa tarkoitettua työssäoloa, ansiopäiväraha maksetaan enimmäisajan 200 viimeiseltä päivältä sen suuruisena kuin se maksettaisiin peruspäivärahana.
-
-Edellytyksenä 2 momentin soveltamiselle on, että ansiopäivärahan saajalle ei ole maksettu 250 ensimmäisen työttömyyspäivärahapäivän aikana työllistymistä edistävän palvelun ajalta korotusosaa eikä korotettua ansio-osaa yhteensä vähintään 40 päivältä.
+Korotusosaa ja korotettua ansio-osaa maksetaan työllistymistä edistävien palvelujen ajalta yhteensä enintään 200 päivältä. Korotusosan ja korotetun ansio-osan maksaminen aloitetaan alusta, kun työnhakija on uudelleen täyttänyt palkansaajan tai yrittäjän työssäoloehdon.
