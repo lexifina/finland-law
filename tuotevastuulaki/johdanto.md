@@ -1,0 +1,2 @@
+Tuotevastuulaki
+Eduskunnan päätöksen mukaisesti säädetään:

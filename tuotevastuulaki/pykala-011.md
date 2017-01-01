@@ -1,0 +1,3 @@
+# 11 §
+
+Tämä laki ei rajoita vahinkoa kärsineen oikeutta korvaukseen sopimuksen perusteella taikka vahingonkorvauslain tai muun lain nojalla.
