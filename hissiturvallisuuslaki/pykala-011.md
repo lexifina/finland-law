@@ -1,0 +1,6 @@
+# 11 § Hissin turvakomponentin vaatimustenmukaisuuden arviointimenettelyt
+Luku: 2 luku Hissin ja hissin turvakomponentin vaatimustenmukaisuus
+
+Valmistajan on suoritettava hissin turvakomponentille soveltuva vaatimustenmukaisuuden arviointi käyttämällä valitsemiaan vaatimustenmukaisuuden arviointimenettelyjä.
+
+Valtioneuvoston asetuksella säädetään tarkemmin hissin turvakomponentin vaatimustenmukaisuuden arvioinnissa käytettävistä arviointimenettelyistä.
