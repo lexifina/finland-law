@@ -6,4 +6,4 @@ Tässä laissa tarkoitettua etuutta haetaan Kansaneläkelaitokselta. Jos etuuden
 
 Jos hakija sairauden, vanhuuden tai muun sellaisen syyn takia ei pysty itse hakemaan etuutta tai muutoin huolehtimaan etuutta koskevista eduistaan ja oikeuksistaan eikä hänellä ole edunvalvojaa, voi Kansaneläkelaitoksen hyväksymä hakijan lähiomainen tai muukin henkilö, joka on pääasiallisesti huolehtinut hakijasta, käyttää puhevaltaa hakijan etuutta koskevassa asiassa.
 
-Työkyvyttömyyseläke muuttuu vanhuuseläkkeeksi ilman hakemusta, kun eläkkeensaaja täyttää 65 vuotta, jos eläkkeen määräytymisperusteet eivät muutu.
+Työkyvyttömyyseläke muuttuu vanhuuseläkkeeksi ilman hakemusta, kun eläkkeensaaja täyttää tämän lain 10 §:n mukaisen vanhuuseläkeiän, jos eläkkeen määräytymisperusteet eivät muutu.

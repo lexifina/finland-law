@@ -4,13 +4,13 @@ Luku: 6 luku Jatkoeläkkeen määräytymisperusteet
 
 Täydennysmäärää laskettaessa vuositulona ei oteta huomioon lesken saamaa:
 1) tämän lain mukaista leskeneläkkeen perusmäärää tai lapsikorotusta:
-2) eläkkeensaajan asumistuesta annetun lain (571/2007) mukaista asumistukea, asumistukilain (408/1975) mukaista asumistukea, sotilasavustuslain (781/1993) mukaista asumisavustusta tai opintotukilain (65/1994) mukaista asumislisää eikä etua omaan tarpeeseen käytetystä asunnosta;
+2) eläkkeensaajan asumistuesta annetun lain (571/2007) mukaista asumistukea, yleisestä asumistuesta annetun lain (938/2014) mukaista asumistukea, sotilasavustuslain (781/1993) mukaista asumisavustusta tai opintotukilain (65/1994) mukaista asumislisää eikä etua omaan tarpeeseen käytetystä asunnosta;
 3) opintotukilain mukaista opintorahaa;
 4) vammaisetuuksista annetun lain mukaista vammaisetuutta;
 5) lapsilisälain (796/1992) mukaista lapsilisää;
 6) lasten kotihoidon ja yksityisen hoidon tuesta annetun lain mukaista lasten kotihoidontuen hoitolisää;
 7) takuueläkkeestä annetun lain (703/2010) mukaista takuueläkettä;
-8) 63 ikävuoden täyttämisen jälkeen tehdystä työstä karttunutta 6 §:n 1 momentissa mainittujen lakien mukaista työeläkettä lukuun ottamatta perhe-eläkkeeseen sisältyvää edunjättäjän 63 ikävuoden täyttämisen jälkeen tekemästä työstä karttunutta eläkettä;
+8) työeläkelainsäädännön mukaisen alimman vanhuuseläkeiän täyttämisen jälkeiseen aikaan perustuvaa työeläkkeenä maksettavaan vanhuuseläkkeeseen sisältyvää lykkäyskorotusta;
 9) valtion varoista suoritettavasta eläkkeen korvaamisesta alle kolmivuotiaan lapsen hoidon tai opiskelun ajalta annetun lain mukaista etuutta;
 10) työeläkkeen lapsikorotusta;
 11) kertakorotusta, joka maksetaan työeläkkeen työkyvyttömyyseläkkeeseen ja tällaisen eläkkeen jälkeen maksettavaan perhe-eläkkeeseen sekä lakisääteisen tapaturmavakuutuksen ja sotilastapaturmalain mukaiseen työkyvyttömyyseläkkeeseen;

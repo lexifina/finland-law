@@ -11,6 +11,6 @@ Leskeneläkehakemuksessa on ilmoitettava:
 
 Leskeneläkehakemuksessa tulee myös selvittää, onko hakijalla yhteistä alle 18-vuotiasta lasta edunjättäjän kanssa sekä asuiko samassa taloudessa lesken kanssa alle 18-vuotias lesken tai edunjättäjän lapsi edunjättäjän kuollessa sekä tällaisen lapsen henkilöllisyystiedot.
 
-Leskeneläkkeensaajan on sen lisäksi, mitä 56 §:n 2 ja 4 momentissa säädetään, ilmoitettava Kansaneläkelaitokselle eläkkeeseen vaikuttavien tulojen muutoksesta ja tämän lain mukaisen työkyvyttömyys- tai vanhuuseläkkeen, kansaneläkelain voimaanpanosta annetun lain 2 §:ssä tarkoitetun työttömyyseläkkeen, mainitun lain 3 §:ssä tarkoitetun yksilöllisen varhaiseläkkeen taikka näitä vastaavan ulkomailta maksettavan eläkkeen myöntämisestä.
+Leskeneläkkeensaajan on sen lisäksi, mitä 56 §:n 2 ja 4 momentissa säädetään, ilmoitettava Kansaneläkelaitokselle eläkkeeseen vaikuttavien tulojen muutoksesta ja tämän lain mukaisen työkyvyttömyys- tai vanhuuseläkkeen taikka näitä vastaavan ulkomailta maksettavan eläkkeen myöntämisestä.
 
 Ulkomailla asuvan lesken on toimitettava hakemuksen liitteeksi virkatodistus tai muu vastaava selvitys.

@@ -8,6 +8,6 @@ Jos henkilö on saanut sairauspäivärahan enimmäisajan jälkeen sairauden, via
 
 Jos hakijan työkyvyttömyys on alkanut ennen kuin hän on täyttänyt 15 vuotta, sairausvakuutuslain mukaista enimmäisaikaa tai sitä vastaavaa aikaa ei edellytetä.
 
-Poiketen siitä, mitä 1 momentissa säädetään, työkyvyttömyyseläke myönnetään työkyvyttömyyden alkamista seuraavan kuukauden alusta, jos henkilö on tullut työkyvyttömäksi kansaneläkelain voimaanpanosta annetun lain (569/2007) 2 §:n mukaista työttömyyseläkettä saadessaan. Samoin 63 vuotta täyttäneelle henkilölle voidaan myöntää työkyvyttömyyseläke työkyvyttömyyden alkamista seuraavan kuukauden alusta, kuitenkin aikaisintaan siitä lukien, kun hänelle on myönnetty 6 §:n 1 momentissa mainittujen lakien mukainen vanhuuseläke.
+Edellä 6 §:n 1 momentissa mainittujen lakien mukaisen vanhuuseläkkeen alaikärajan täyttäneelle henkilölle voidaan myöntää työkyvyttömyyseläke työkyvyttömyyden alkamista seuraavan kuukauden alusta, kuitenkin aikaisintaan siitä lukien, kun hänelle on myönnetty 6 §:n 1 momentissa mainittujen lakien mukainen vanhuuseläke.
 
 Sairauspäivärahaa vastaava ulkomailta maksettava etuus ja tällaista etuutta vastaava palkka otetaan huomioon eläkkeen alkamisaikaa määrättäessä samalla tavalla kuin sairauspäiväraha, kuitenkin enintään sairauspäivärahan enimmäisaikaan saakka.

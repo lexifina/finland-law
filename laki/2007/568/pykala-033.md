@@ -10,6 +10,6 @@ Täydennysmäärää laskettaessa otetaan vuosituloina huomioon lesken jatkuvast
 5) muut pääomatulot; sekä
 6) edellä mainittuja tuloja vastaavat ulkomailta maksettavat tulot.
 
-Työeläkkeen varhennettu vanhuuseläke otetaan tulona huomioon ilman varhennusvähennystä.
+Työeläkkeen varhennettu vanhuuseläke ja osittainen varhennettu vanhuuseläke otetaan tulona huomioon ilman varhennusvähennystä.
 
 Vuosituloista vähennetään lesken jatkuvasti maksamat asuntovelkojen korot.

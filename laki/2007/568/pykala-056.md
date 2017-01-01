@@ -14,7 +14,7 @@ Vanhuuseläkkeensaajan on ilmoitettava Kansaneläkelaitokselle:
 4) osoitteen muuttumisesta, ulkomaille muutosta ja Suomeen paluusta; sekä
 5) eläkkeeseen vaikuttavien eläketulojen muutoksesta.
 
-Kun henkilö hakee 11 §:n mukaista vanhuuseläkettä, hänen tulee esittää työttömyyskassan tai Kansaneläkelaitoksen todistus siitä, miltä ajalta hän on saanut työttömyyspäivärahaa työttömyysturvalain 6 luvun 9 §:n 2 tai 3 momentissa tarkoitetun lisäpäiväoikeuden perusteella.
+Kun henkilö hakee 11 §:n mukaista vanhuuseläkettä, hänen tulee esittää työttömyyskassan tai Kansaneläkelaitoksen todistus siitä, miltä ajalta hän on saanut työttömyyspäivärahaa työttömyysturvalain 6 luvun 9 §:ssä tarkoitetun lisäpäiväoikeuden perusteella.
 
 Ulkomailla asuvan henkilön on toimitettava hakemuksen liitteeksi virkatodistus tai muu vastaava selvitys.
 

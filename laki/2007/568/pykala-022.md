@@ -12,6 +12,6 @@ Kansaneläkkeen määrää laskettaessa otetaan huomioon henkilön jatkuvasti ta
 
 Kansaneläkkeen määrää laskettaessa otetaan tulona huomioon myös 1 momentissa tarkoitettua eläkettä tai korvausta vastaava taikka kansaneläkettä tai tämän lain mukaista perhe-eläkettä vastaava ulkomailta maksettava jatkuva eläke tai korvaus.
 
-Tämän lain 6 §:n 1 momentissa mainittujen lakien mukainen työeläkkeen varhennettu vanhuuseläke otetaan tulona huomioon ilman varhennusvähennystä.
+Edellä 6 §:n 1 momentissa mainittujen lakien mukainen työeläkkeen varhennettu vanhuuseläke ja osittainen varhennettu vanhuuseläke otetaan tulona huomioon ilman varhennusvähennystä.
 
-Jos henkilö hakee tämän lain mukaista vanhuuseläkettä 65 vuotta täytettyään tai varhennettua vanhuuseläkettä 63 vuotta täytettyään eikä hae työeläkkeen vanhuuseläkettä, edellä mainittu työeläke otetaan kansaneläkettä laskettaessa kuitenkin tulona huomioon sen suuruisena kuin se olisi, jos hän siirtyisi työeläkkeelle välittömästi 63 vuotta täytettyään (ennakoitu työeläke).
+Jos henkilö hakee tämän lain mukaista vanhuuseläkettä tai varhennettua vanhuuseläkettä eikä hae 6 §:n 1 momentissa mainittujen lakien mukaista työeläkkeen vanhuuseläkettä, edellä mainittu työeläke otetaan kansaneläkettä laskettaessa kuitenkin tulona huomioon sen suuruisena kuin se olisi, jos hän siirtyisi työeläkkeelle välittömästi häneen sovellettavan työeläkelainsäädännön mukaisen alimman vanhuuseläkeiän täyttämistä seuraavan kuukauden alusta (ennakoitu työeläke).

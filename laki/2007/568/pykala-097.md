@@ -2,7 +2,7 @@
 Osa: VI OSA MUUT SÄÄNNÖKSET
 Luku: 14 luku Rahoitus
 
-Kansaneläkelaitoksen kansaneläkerahastosta maksetaan tämän lain mukaiset vanhuuseläkkeet, työkyvyttömyyseläkkeet, lapsikorotukset ja perhe-eläkkeet sekä kansaneläkelain voimaanpanosta annetun lain mukaiset työttömyyseläkkeet.
+Kansaneläkelaitoksen kansaneläkerahastosta maksetaan tämän lain mukaiset vanhuuseläkkeet, työkyvyttömyyseläkkeet, lapsikorotukset ja perhe-eläkkeet.
 
 Kansaneläkerahastosta maksetaan myös maatalousyrittäjän työtapaturma- ja ammattitautilain 148 §:n 2 momentin mukaan perusturvaosuuteen katsottavat kansaneläke- ja perhe-eläkekulut.
 

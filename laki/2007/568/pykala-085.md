@@ -3,9 +3,9 @@ Osa: VI OSA MUUT SÄÄNNÖKSET
 Luku: 13 luku Tietojen saaminen, luovuttaminen ja salassapito
 
 Kansaneläkelaitoksella on oikeus saada sen toimeenpantaviksi säädettyjen etuuksien hoitamista varten salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä:
-1) väestörekisteriviranomaisilta väestötietolain (507/1993) 4 §:n 1 momentin 1–4 kohdassa ja 2 momentin 1 kohdassa tarkoitetut välttämättömät tiedot ja niissä tapahtuneet muutokset;
+1) väestörekisteriviranomaisilta väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain (661/2009) 13 §:n 1 momentin 1–17 ja 20–22 kohdassa mainitut välttämättömät tiedot ja niissä tapahtuneet muutokset;
 2) Maahanmuuttovirastolta sen rekisterissä olevien Suomeen muuttaneiden ulkomaalaisten ja heidän perheenjäsentensä tunnistetiedot sekä perheoikeudellista asemaa ja oleskelulupaa koskevat tiedot sekä mainituissa tiedoissa tapahtuneet muutokset;
-3) Eläketurvakeskukselta, eläkelaitokselta, vakuutuslaitokselta sekä muulta eläkkeen tai muun korvauksen myöntäjältä tai maksajalta tiedot eläke- ja korvauspäätöksistä ja eläkkeen tai korvauksen määrän muuttumisesta sekä tiedot 63 vuoden ikään mennessä karttuneesta työeläkkeen määrästä;
+3) Eläketurvakeskukselta, eläkelaitokselta, vakuutuslaitokselta sekä muulta eläkkeen tai muun korvauksen myöntäjältä tai maksajalta tiedot eläke- ja korvauspäätöksistä ja eläkkeen tai korvauksen määrän muuttumisesta sekä tiedon työeläkkeen määrästä, joka ei sisällä 23 §:ssä mainittuja karttumia ja korotuksia eikä työeläkkeen varhennusvähennystä;
 4) Eläketurvakeskukselta tiedot henkilön kuulumisesta Suomea sitovan valtioiden välisen sopimuksen perusteella Suomen asumisperusteisen sosiaaliturvan piiriin;
 5) Koulutusrahastolta aikuiskoulutustukea hakeneiden henkilöllisyystiedot ja yksilöintiä koskevat tiedot sekä heitä koskevien aikuiskoulutustukiratkaisujen laatua, tuen myöntöaikaa ja tuen määrää koskevat tiedot sekä mainituissa tiedoissa tapahtuneet muutokset; sekä
 6) työttömyyskassoilta tiedot ansioon suhteutetun päivärahan perusteista, määristä, määrän muuttumisesta sekä tiedot päivärahahakemusten vireilläolosta.
