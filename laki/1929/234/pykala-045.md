@@ -1,6 +1,6 @@
 # 45 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 3 LUKU Avioehtosopimukset sekä puolisoiden väliset lahjat
+Luku: 3 luku Avioehtosopimukset sekä puolisoiden väliset lahjat
 
 Jos puoliso lahjoittaa toiselle puolisolle irtainta omaisuutta, lahjoituksesta on ilmoitettava maistraattiin siten kuin lahjanlupauslain 6 §:ssä säädetään, jotta lahjansaaja voisi saada suojaa lahjanantajan velkojien takaisinsaantivaatimuksilta konkurssissa ja ulosotossa.
 

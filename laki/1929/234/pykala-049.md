@@ -1,6 +1,6 @@
 # 49 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 4 LUKU Elatus
+Luku: 4 luku Elatus
 
 Elatusapua voidaan 47 ja 48 §:n nojalla määrätä suoritettavaksi taannehtivasti enintään kanteen vireille panoa edeltäneeltä vuodelta.
 

@@ -1,6 +1,6 @@
 # 56 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 5 LUKU Puolisoiden velat
+Luku: 5 luku Puolisoiden velat
 
 Jos puoliso käyttää väärin oikeuttaan tehdä velkaa, josta toinenkin puoliso tulee vastaamaan, on oikeudella valta julistaa hänet menettäneeksi mainitun oikeuden. Sellaisen päätöksen voi oikeus peruuttaa, milloin puolisot siitä sopivat tai muuttuneet olot antavat siihen aihetta.
 

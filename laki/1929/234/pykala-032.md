@@ -1,6 +1,6 @@
 # 32 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
+Luku: 6 luku Yhteiselämän lopettaminen ja avioero
 
 Avioeroa tai yhteiselämän lopettamista koskevassa asiassa tuomioistuimen on omasta aloitteestaan otettava käsiteltäväksi kysymys siitä, miten puolisoiden lasten huolto ja tapaamisoikeus olisi lapsen etua silmällä pitäen järjestettävä.
 

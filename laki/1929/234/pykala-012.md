@@ -1,6 +1,6 @@
 # 12 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 3 LUKU Avioliiton esteiden tutkinta
+Luku: 3 luku Avioliiton esteiden tutkinta
 
 Kihlakumppanien on kirjallisesti vakuutettava avioliiton esteiden tutkijalle, että avioliitolle ei ole 7–9 §:ssä tarkoitettua estettä.
 

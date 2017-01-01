@@ -1,6 +1,6 @@
 # 85 §
 Osa: IV OSA OMAISUUDEN OSITUS
-Luku: 1 LUKU Yleisiä määräyksiä
+Luku: 1 luku Yleisiä määräyksiä
 
 Kun avioeroa koskeva asia on vireillä taikka kun avioliitto on purkautunut, omaisuuden ositus on toimitettava, jos puoliso tai kuolleen puolison perillinen sitä vaatii.
 

@@ -1,6 +1,6 @@
 # 44 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 3 LUKU Avioehtosopimukset sekä puolisoiden väliset lahjat
+Luku: 3 luku Avioehtosopimukset sekä puolisoiden väliset lahjat
 
 Avioehtosopimus tulee voimaan, kun se on rekisteröity.
 

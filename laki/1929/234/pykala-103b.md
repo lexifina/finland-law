@@ -1,6 +1,6 @@
 # 103 b §
 Osa: IV OSA OMAISUUDEN OSITUS
-Luku: 2 LUKU Osituksen toimittaminen
+Luku: 2 luku Osituksen toimittaminen
 
 Ositusta voidaan sovitella, jos ositus muutoin johtaisi kohtuuttomaan lopputulokseen taikka siihen, että toinen puoliso saisi perusteettomasti taloudellista etua. Osituksen sovittelua harkittaessa on otettava erityisesti huomioon avioliiton kestoaika, puolisoiden toiminta yhteisen talouden hyväksi ja omaisuuden kartuttamiseksi ja säilyttämiseksi sekä muut näihin verrattavat puolisoiden taloutta koskevat seikat.
 

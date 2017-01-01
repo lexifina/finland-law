@@ -1,6 +1,6 @@
 # 19 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 4 LUKU Vihkiminen
+Luku: 4 luku Vihkiminen
 
 Vihkiminen on mitätön, jos se ei ole tapahtunut siten kuin 15 §:ssä säädetään tai jos vihkimisen on toimittanut joku, jolla ei ollut vihkimisoikeutta.
 

@@ -1,6 +1,6 @@
 # 52 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 5 LUKU Puolisoiden velat
+Luku: 5 luku Puolisoiden velat
 
 Kumpikin puoliso vastaa yksin siitä velasta, minkä hän on tehnyt ennen avioliittoa tai sen aikana.
 

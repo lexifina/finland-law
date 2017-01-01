@@ -1,6 +1,6 @@
 # 38 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 2 LUKU Puolisoiden omaisuus
+Luku: 2 luku Puolisoiden omaisuus
 
 Puoliso ei saa ilman toisen puolison kirjallista suostumusta luovuttaa kiinteää omaisuutta, joka on tarkoitettu käytettäväksi puolisoiden yhteisenä kotina. Puolison suostumusta ei kuitenkaan tarvita, jos luovutettava omaisuus on tarkoitettu käytettäväksi pääasiallisesti muuhun tarkoitukseen ja jos kotia ja siihen liittyvää maa-aluetta ei voida jättää luovutuksen ulkopuolelle alentamatta merkittävästi kiinteän omaisuuden arvoa. Mitä tässä momentissa säädetään kiinteästä omaisuudesta, koskee myös toisen maalla olevaa rakennusta ja käyttöoikeutta maahan. Luovuttamiseen rinnastetaan myös kiinteän omaisuuden antaminen vuokralle tai muun sitä koskevan käyttöoikeuden perustaminen.
 

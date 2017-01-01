@@ -1,6 +1,6 @@
 # 31 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
+Luku: 6 luku Yhteiselämän lopettaminen ja avioero
 
 Avioeroa tai yhteiselämän lopettamista koskevan asian yhteydessä voidaan esittää vaatimus elatusavun vahvistamisesta ja lapsen huollosta tai tapaamisoikeudesta sekä muu sellainen vaatimus, joka liittyy avioeroa tai yhteiselämän lopettamista koskevaan asiaan.
 

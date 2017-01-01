@@ -1,6 +1,6 @@
 # 23 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 5 LUKU Perheasioiden sovittelu
+Luku: 5 luku Perheasioiden sovittelu
 
 Lupa perheasioiden sovittelutoimintaan voidaan myöntää hakemuksesta yhteisölle, yhtymälle tai säätiölle, jonka harkitaan antavan perheasioiden sovittelua ammattitaitoisesti. Lupa voidaan myöntää hakemuksesta myös henkilölle, joka on perehtynyt lastensuojelu- tai perheneuvontatyöhön taikka perheoikeuteen ja jolla on aikaisemman kokemuksen sekä henkilökohtaisten ominaisuuksiensa perusteella riittävät edellytykset toimia sovittelijana.
 

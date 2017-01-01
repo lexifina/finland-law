@@ -1,6 +1,6 @@
 # 41 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 3 LUKU Avioehtosopimukset sekä puolisoiden väliset lahjat
+Luku: 3 luku Avioehtosopimukset sekä puolisoiden väliset lahjat
 
 Ennen avioliittoa tai sen aikana tekemässään avioehtosopimuksessa voivat kihlakumppanit tai puolisot määrätä, että avio-oikeutta ei ole sellaiseen omaisuuteen, joka jommallakummalla heistä on tai jonka hän myöhemmin saa. Samassa järjestyksessä voidaan sopia siitä, että puolisolla on avio-oikeus omaisuuteen, johon hänellä aikaisemmin tehdyn avioehtosopimuksen perusteella ei olisi sellaista oikeutta.
 

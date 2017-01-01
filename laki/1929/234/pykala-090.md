@@ -1,6 +1,6 @@
 # 90 §
 Osa: IV OSA OMAISUUDEN OSITUS
-Luku: 1 LUKU Yleisiä määräyksiä
+Luku: 1 luku Yleisiä määräyksiä
 
 Omaisuuden ositusta toimitettaessa on omaisuutena, johon toisella puolisolla ei ole avio-oikeutta, pidettävä:
 1) omaisuutta, jonka puoliso on ansainnut taikka saanut perintönä, lahjana tai testamentin nojalla avioliiton purkauduttua toisen puolison kuoleman vuoksi;

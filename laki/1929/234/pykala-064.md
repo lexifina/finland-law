@@ -1,6 +1,6 @@
 # 64 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 6 LUKU Erinäisiä säännöksiä
+Luku: 6 luku Erinäisiä säännöksiä
 
 Jos puoliso avustaa toista puolisoa tämän ansiotoiminnassa ja tahtoo siitä saada korvauksen, on hänen näytettävä, että siitä oli sovittu tai että korvausta oli tarkoitettu annettavaksi tahi että sen suorittaminen työn laatuun ja muuten olosuhteisiin katsoen on pidettävä kohtuullisena.
 

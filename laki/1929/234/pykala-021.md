@@ -1,6 +1,6 @@
 # 21 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 5 LUKU Perheasioiden sovittelu
+Luku: 5 luku Perheasioiden sovittelu
 
 Sovittelijan tulee pyrkiä saamaan aikaan luottamuksellinen ja avoin keskustelu perheenjäsenten välillä. Hänen tulee pyrkiä saamaan aikaan yhteisymmärrys siitä, miten perheessä esiintyvät ristiriidat voidaan ratkaista kaikkien asianosaisten kannalta parhaalla mahdollisella tavalla.
 

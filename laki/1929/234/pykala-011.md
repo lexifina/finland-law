@@ -1,6 +1,6 @@
 # 11 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 3 LUKU Avioliiton esteiden tutkinta
+Luku: 3 luku Avioliiton esteiden tutkinta
 
 Kihlakumppanien on yhdessä pyydettävä avioliiton esteiden tutkintaa 10 §:ssä tarkoitetulta avioliiton esteiden tutkijalta.
 

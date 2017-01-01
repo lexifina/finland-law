@@ -1,6 +1,6 @@
 # 18 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 4 LUKU Vihkiminen
+Luku: 4 luku Vihkiminen
 
 Vihkimistä ei saa toimittaa, jos vihkijä tietää seikan, joka estää avioliiton, tai jos vihkijä toteaa, että kihlakumppani ei häiriintyneen mielentilansa takia ilmeisesti kykene ymmärtämään avioliiton merkitystä.
 

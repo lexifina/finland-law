@@ -1,6 +1,6 @@
 # 22 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 5 LUKU Perheasioiden sovittelu
+Luku: 5 luku Perheasioiden sovittelu
 
 Perheasioiden sovittelun yleinen suunnittelu, ohjaus ja valvonta kuuluu sosiaali- ja terveysministeriön alaisena aluehallintovirastolle.
 

@@ -1,6 +1,6 @@
 # 24 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
+Luku: 6 luku Yhteiselämän lopettaminen ja avioero
 Väliotsikko: Yhteiselämän lopettaminen
 
 Tuomioistuin voi puolisoiden yhteisestä tai toisen puolison hakemuksesta:

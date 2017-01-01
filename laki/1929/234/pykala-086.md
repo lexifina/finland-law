@@ -1,6 +1,6 @@
 # 86 §
 Osa: IV OSA OMAISUUDEN OSITUS
-Luku: 1 LUKU Yleisiä määräyksiä
+Luku: 1 luku Yleisiä määräyksiä
 
 Kunnes ositus toimitetaan, osallistuu eloonjäänyt puoliso kuolleen puolison omaisuuden hallintoon niin kuin perintökaaressa säädetään.
 

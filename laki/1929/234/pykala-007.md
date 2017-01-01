@@ -1,6 +1,6 @@
 # 7 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 2 LUKU Avioliiton esteet
+Luku: 2 luku Avioliiton esteet
 
 Kukaan ei saa mennä avioliittoon isänsä, äitinsä, näiden vanhempien tai muun suoraan takenevassa polvessa olevan sukulaisensa kanssa eikä lapsensa, lapsenlapsensa tai muun suoraan etenevässä polvessa olevan sukulaisensa kanssa.
 

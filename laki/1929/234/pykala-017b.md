@@ -1,6 +1,6 @@
 # 17 b §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 4 LUKU Vihkiminen
+Luku: 4 luku Vihkiminen
 
 Kysymys vihkimisoikeuden myöntämisestä 17 a §:n 2 momentin nojalla tulee vireille maistraatin aloitteesta. Vihkimisoikeus voidaan myöntää sille, joka on suorittanut oikeustieteen ylemmän korkeakoulututkinnon ja jonka voidaan työkokemuksensa tai muiden seikkojen perusteella olettaa toimivan tehtävässään moitteettomasti. Tällainen oikeus merkitään vihkimisoikeusrekisteriin siten kuin vihkimisoikeudesta annetun lain 9 §:ssä säädetään.
 

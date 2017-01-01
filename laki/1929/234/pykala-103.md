@@ -1,6 +1,6 @@
 # 103 §
 Osa: IV OSA OMAISUUDEN OSITUS
-Luku: 2 LUKU Osituksen toimittaminen
+Luku: 2 luku Osituksen toimittaminen
 
 Osituksessa, jonka eloonjäänyt puoliso ja ensiksi kuolleen puolison perilliset tai puolisot toimittavat, saa se puoli, jonka tulee luovuttaa omaisuutta, itse päättää, mitä se haluaa luovuttaa. Sellaisen omaisuuden sijasta, jonka se tahtoo itse pitää, on lupa antaa rahaa omaisuudelle osituksessa määrätyn arvon mukaan.
 

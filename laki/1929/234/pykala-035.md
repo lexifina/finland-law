@@ -1,6 +1,6 @@
 # 35 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 2 LUKU Puolisoiden omaisuus
+Luku: 2 luku Puolisoiden omaisuus
 
 Kumpaisellakin puolisolla on avio-oikeus toisen omaisuuteen. Sen nojalla saavat omaisuuden osituksessa eloonjäänyt puoliso ja kuolleen puolison perilliset taikka kumpikin puoliso puolet puolisoiden omaisuuden säästöstä, sen mukaan kuin IV osassa tarkemmin säädetään.
 

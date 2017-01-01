@@ -1,6 +1,6 @@
 # 20 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 5 LUKU Perheasioiden sovittelu
+Luku: 5 luku Perheasioiden sovittelu
 
 Perheessä esiintyvät ristiriidat ja oikeudelliset asiat on pyrittävä ensi sijassa selvittämään asianosaisten välisissä neuvotteluissa ja ratkaisemaan sopimuksella.
 

@@ -1,6 +1,6 @@
 # 39 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 2 LUKU Puolisoiden omaisuus
+Luku: 2 luku Puolisoiden omaisuus
 
 Puoliso ei saa ilman toisen puolison suostumusta luovuttaa tai siirtää toiselle:
 2) osakeyhtiön osakkeita, vuokraoikeutta tai muita oikeuksia, jotka oikeuttavat hallitsemaan huoneistoa, joka on yksinomaan tai pääasiallisesti tarkoitettu käytettäväksi puolisoiden yhteisenä kotina;

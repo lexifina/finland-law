@@ -1,6 +1,6 @@
 # 26 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
+Luku: 6 luku Yhteiselämän lopettaminen ja avioero
 
 Harkinta-aika alkaa siitä, kun avioliiton purkamista koskeva puolisoiden yhteinen hakemus on jätetty tuomioistuimelle tai sen kansliaan tai kun puolison hakemus on annettu tiedoksi toiselle puolisolle.
 

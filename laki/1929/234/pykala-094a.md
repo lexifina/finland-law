@@ -1,6 +1,6 @@
 # 94 a §
 Osa: IV OSA OMAISUUDEN OSITUS
-Luku: 1 LUKU Yleisiä määräyksiä
+Luku: 1 luku Yleisiä määräyksiä
 
 Kun puolison kuoltua jommankumman puolison avio-oikeuden alaisesta omaisuudesta annettu ennakkoperintö on vähennettävä ennakon saajan perinnöstä kuolleen puolison jälkeen, on omaisuuden osituksessa vainajan perillisille ja testamentin saajille tulevasta osuudesta vähennettävä ennakon arvo tai, jollei koko arvoa käy vähentäminen ennakon saajan perinnöstä, se määrä, mikä siitä voidaan vähentää.
 

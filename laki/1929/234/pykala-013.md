@@ -1,6 +1,6 @@
 # 13 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 3 LUKU Avioliiton esteiden tutkinta
+Luku: 3 luku Avioliiton esteiden tutkinta
 
 Jos avioliiton esteiden tutkija toteaa, että avioliitolle ei ole laissa säädettyä estettä, hänen on annettava siitä todistus.
 

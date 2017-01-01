@@ -1,6 +1,6 @@
 # 27 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
+Luku: 6 luku Yhteiselämän lopettaminen ja avioero
 
 Puolisot on tuomittava avioeroon ilman harkinta-aikaa:
 1) jos puolisot ovat toisilleen sukua suoraan takenevassa ja etenevässä polvessa tai sisaruksia taikka puolisisaruksia; tai

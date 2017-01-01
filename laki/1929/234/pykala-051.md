@@ -1,6 +1,6 @@
 # 51 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 4 LUKU Elatus
+Luku: 4 luku Elatus
 
 Tuomioistuimen antamaa päätöstä tai puolisoiden tekemää sopimusta elatusavun suorittamisesta voidaan muuttaa, jos sitä on muuttuneiden olosuhteiden vuoksi pidettävä aiheellisena. Päätöstä tai sopimusta, jossa elatusapu on vahvistettu suoritettavaksi kertakaikkisena, ei voida kuitenkaan muuttaa sen jälkeen, kun elatusapu on maksettu.
 

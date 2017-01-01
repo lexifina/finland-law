@@ -1,6 +1,6 @@
 # 99 §
 Osa: IV OSA OMAISUUDEN OSITUS
-Luku: 2 LUKU Osituksen toimittaminen
+Luku: 2 luku Osituksen toimittaminen
 
 Kun puolisoiden omaisuus on eroteltu ja se vastike, mikä puolisolle 92 §:n nojalla ehkä on tuleva, on otettu lukuun, määrätään sen omaisuuden säästö, johon puolisoilla on avio-oikeus, erikseen kumpaisenkin puolison omaisuuden osalta siten, että omaisuuden arvosta vähennetään ne puolison yksityiset velat, jotka ovat syntyneet ennen 90 §:n 1 ja 2 kohdassa tarkoitettua ajankohtaa sekä veloista, joista puolisot ovat vastuussa kumpikin omasta ja toistensa puolesta, niin paljon kuin hänen osalleen tulee.
 

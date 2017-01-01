@@ -1,6 +1,6 @@
 # 28 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 6 LUKU Yhteiselämän lopettaminen ja avioero
+Luku: 6 luku Yhteiselämän lopettaminen ja avioero
 Väliotsikko: Oikeudenkäynti
 
 Avioeroa tai yhteiselämän lopettamista koskeva asia pannaan vireille hakemuksella, jonka voivat tehdä puolisot yhdessä tai jonka voi tehdä toinen puoliso yksin.

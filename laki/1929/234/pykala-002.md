@@ -1,6 +1,6 @@
 # 2 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 1 LUKU Yleisiä säännöksiä
+Luku: 1 luku Yleisiä säännöksiä
 
 Puolisot ovat keskenään yhdenvertaiset. Heidän tulee avioliitossa osoittaa keskinäistä luottamusta sekä yhteisesti toimia perheen hyväksi.
 

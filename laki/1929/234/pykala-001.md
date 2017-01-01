@@ -1,6 +1,6 @@
 # 1 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 1 LUKU Yleisiä säännöksiä
+Luku: 1 luku Yleisiä säännöksiä
 
 Kaksi henkilöä, jotka ovat sopineet menevänsä avioliittoon keskenään, ovat kihlautuneet.
 

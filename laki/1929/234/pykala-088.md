@@ -1,6 +1,6 @@
 # 88 §
 Osa: IV OSA OMAISUUDEN OSITUS
-Luku: 1 LUKU Yleisiä määräyksiä
+Luku: 1 luku Yleisiä määräyksiä
 
 Jos puolisoilla oli yhteistä velkaa, on osituksessa puolisolla tai kuolleen puolison perillisillä oikeus vaatia, että siitä ennen ositusta suoritetaan toisen puolen osuus tai että sen maksamisesta annetaan vakuus.
 

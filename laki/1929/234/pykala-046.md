@@ -1,6 +1,6 @@
 # 46 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 4 LUKU Elatus
+Luku: 4 luku Elatus
 
 Kummankin puolison tulee kykynsä mukaan ottaa osaa perheen yhteiseen talouteen ja puolisoiden elatukseen. Puolisoiden elatus käsittää puolisoiden yhteisten sekä kummankin henkilökohtaisten tarpeiden tyydyttämisen.
 

@@ -1,6 +1,6 @@
 # 50 §
 Osa: II OSA PUOLISOIDEN OIKEUSSUHTEET
-Luku: 4 LUKU Elatus
+Luku: 4 luku Elatus
 
 Puolisot voivat tehdä keskenään sopimuksen 47 tai 48 §:n nojalla toiselle puolisolle suoritettavasta elatusavusta. Sopimus on tehtävä kirjallisesti sekä esitettävä sen kunnan sosiaalilautakunnan vahvistettavaksi, jossa puolisolla tai toisella heistä on asuinpaikka.
 
