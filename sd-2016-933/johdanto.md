@@ -1,0 +1,2 @@
+Laki kulttuuriesineiden maastaviennin rajoittamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
