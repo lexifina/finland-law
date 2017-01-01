@@ -7,7 +7,7 @@ Verovelvollinen, jonka tilikauden liikevaihto (kaavassa liikevaihto) ylittää 1
 vero – | -------------------------------------
  | 20 000
 
-Verovelvollinen, jonka tilikauden liikevaihto on enintään 8 500 euroa, saa huojennuksena koko tilikaudelta tilitettävän veron.
+Verovelvollinen, jonka tilikauden liikevaihto on enintään 10 000 euroa, saa huojennuksena koko tilikaudelta tilitettävän veron.
 
 Edellä 1 ja 2 momentissa tarkoitettu tilikauden liikevaihto lasketaan 3 §:n mukaisesti. Liikevaihtoon ei kuitenkaan lueta veron osuutta eikä metsätaloudesta ja 30 §:ssä tarkoitetusta kiinteistön käyttöoikeuden luovuttamisesta saatua vastiketta.
 

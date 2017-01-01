@@ -6,8 +6,6 @@ Poronhoitolaissa (848/90) tarkoitettua paliskuntaa ja siihen kuuluvia poronomist
 
 Paliskunta ja paliskuntaan kuuluvat poronomistajat vastaavat paliskuntaryhmän verosta.
 
-Paliskunta on velvollinen täyttämään paliskuntaryhmän ilmoitus- ja tilitysvelvollisuuden ja oikeutettu tekemään veron palauttamista koskevat hakemukset.
-
-Paliskuntaryhmän verokausi on poronhoitovuosi. Veroilmoitus verokaudelta on annettava viimeistään verokautta seuraavana toisena kalenterikuukautena verotililain (604/2009) 8 §:ssä säädettynä ajankohtana kyseisen lain 7 §:ssä säädettyä menettelyä noudattaen. Vero on maksettava viimeistään verokautta seuraavana toisena kalenterikuukautena verotililain 11 §:n 1 momentissa säädettynä ajankohtana.
+Paliskunta on velvollinen täyttämään paliskuntaryhmän oma-aloitteisten verojen verotusmenettelystä annetun lain 4 luvussa tarkoitetun ilmoittamisvelvollisuuden ja 6 luvussa tarkoitetun maksuvelvollisuuden.
 
 Sen estämättä, mitä 1 momentissa säädetään, tämän lain laskuja koskevia säännöksiä sovelletaan jokaiseen elinkeinonharjoittajaan erikseen.

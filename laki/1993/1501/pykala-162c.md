@@ -1,6 +1,6 @@
 # 162 c §
 Osa: II OSA
-Luku: 17 LUKU Ilmoittamisvelvollisuus
+Luku: 17 LUKU Perustamisilmoitus ja yhteenvetoilmoitus
 
 Verovelvollisen on ilmoitettava viipymättä Verohallinnolle, jos 162 a §:n 2–4 momentissa säädetyt edellytykset eivät kalenterivuonna tai seuraavana kalenterivuonna todennäköisesti täyty.
 

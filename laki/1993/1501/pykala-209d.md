@@ -1,6 +1,6 @@
 # 209 d §
 Osa: II OSA
-Luku: 22 LUKU Kirjanpito ja tositteet
+Luku: 22 LUKU Laskut ja muut tositteet
 
 Edellä 209 b §:ssä tarkoitettu lasku voidaan vastaanottajan suostumuksin antaa sähköisenä. Sähköisellä laskulla tarkoitetaan laskua, joka annetaan ja vastaanotetaan sähköisessä muodossa.
 

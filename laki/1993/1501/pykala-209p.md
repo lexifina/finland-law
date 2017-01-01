@@ -1,6 +1,6 @@
 # 209 p §
 Osa: II OSA
-Luku: 22 LUKU Kirjanpito ja tositteet
+Luku: 22 LUKU Laskut ja muut tositteet
 
 Mitä 209 n ja 209 o §:ssä säädetään laskusta, sovelletaan myös muihin tositteisiin, joihin suoritettavan ja vähennettävän veron määrään vaikuttavien liiketapahtumien kirjaukset perustuvat.
 

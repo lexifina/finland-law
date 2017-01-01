@@ -10,4 +10,4 @@ Verohallinto ei toimita palautushakemusta sille jäsenvaltiolle, josta palautust
 
 Edellä 3 momentissa tarkoitettu päätös olla toimittamatta hakemusta voidaan antaa tiedoksi lähettämällä se postitse kirjeellä hakijan ilmoittamaan osoitteeseen. Asianomaisen katsotaan saaneen asiasta tiedon, jollei muuta näytetä, seitsemäntenä päivänä sen jälkeen, kun asiakirja on annettu postin kuljetettavaksi. Tämän lisäksi päätöksestä ilmoitetaan viipymättä sähköisesti tietojärjestelmän kautta.
 
-Muutoksenhakuun 3 momentissa tarkoitetusta päätöksestä sovelletaan, mitä 21 luvussa säädetään muutoksenhausta ennakkoratkaisua koskevasta päätöksestä.
+Muutoksenhakuun 3 momentissa tarkoitettuun päätökseen sovelletaan, mitä oma-aloitteisten verojen verotusmenettelystä annetun lain 65 §:n 2 momentissa säädetään.

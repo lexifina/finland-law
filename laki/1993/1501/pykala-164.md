@@ -1,9 +1,9 @@
 # 164 §
 Osa: II OSA
-Luku: 17 LUKU Ilmoittamisvelvollisuus
+Luku: 17 LUKU Perustamisilmoitus ja yhteenvetoilmoitus
 
-Veroilmoitus ja yhteenvetoilmoitus annetaan Verohallinnolle.
+Edellä 162 §:ssä tarkoitettu yhteenvetoilmoitus annetaan Verohallinnolle.
 
-Muutoin kuin sähköisesti annettu yhteenvetoilmoitus katsotaan annetuksi silloin, kun se on saapunut Verohallinnolle siten kuin hallintolain (434/2003) 18 §:ssä säädetään.
+Yhteenvetoilmoitus katsotaan annetuksi silloin, kun se on saapunut Verohallinnolle.
 
-Sähköisesti annettu yhteenvetoilmoitus katsotaan annetuksi silloin, kun se on saapunut Verohallinnolle siten kuin sähköisestä asioinnista viranomaistoiminnassa annetun lain (13/2003) 10 §:ssä säädetään.
+Edellä 2 momenttia sovellettaessa noudatetaan, mitä sähköisestä asioinnista viranomaistoiminnassa annetun lain 10 §:ssä (13/2003) ja hallintolain (434/2003) 18 §:ssä säädetään.

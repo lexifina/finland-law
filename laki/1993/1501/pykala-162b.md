@@ -1,6 +1,6 @@
 # 162 b §
 Osa: II OSA
-Luku: 17 LUKU Ilmoittamisvelvollisuus
+Luku: 17 LUKU Perustamisilmoitus ja yhteenvetoilmoitus
 
 Edellä 162 a §:n 2 momentissa tarkoitetun verovelvollisen verollisen toiminnan alkamisen yhteydessä tekemän hakemuksen perusteella verokautena pidetään kuitenkin kalenterikuukautta ja 162 a §:n 3 tai 4 momentissa tarkoitetun verovelvollisen hakemuksen perusteella kalenterikuukautta tai neljänneskalenterivuotta toiminnan alkamisesta.
 

@@ -1,6 +1,6 @@
 # 209 h §
 Osa: II OSA
-Luku: 22 LUKU Kirjanpito ja tositteet
+Luku: 22 LUKU Laskut ja muut tositteet
 
 Edellä 103 §:n 2 momentissa tarkoitetusta selvityksestä on käytävä ilmi selvityksen antamispäivä, myyjän ja ostajan nimet, osoitteet sekä yritys- ja yhteisötunnukset, luovutuksen luonne ja veron määrä, joka myyjän on suoritettava.
 

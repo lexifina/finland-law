@@ -1,6 +1,6 @@
 # 162 a §
 Osa: II OSA
-Luku: 17 LUKU Ilmoittamisvelvollisuus
+Luku: 17 LUKU Perustamisilmoitus ja yhteenvetoilmoitus
 
 Verokausi on kalenterikuukausi, jollei 2–4 momentissa toisin säädetä.
 

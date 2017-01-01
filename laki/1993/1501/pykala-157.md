@@ -2,9 +2,7 @@
 Osa: II OSA
 Luku: 16 LUKU Veroviranomaiset
 
-Verotuksen yleinen valvonta kuuluu Verohallinnolle.
-
-Verohallinnon tehtävänä on veron määrääminen ja palauttaminen, veron suorittamisen ja maksamisen valvonta sekä veronkanto.
+Verotuksesta ja sen valvonnasta vastaa Verohallinto sen mukaan kuin siitä erikseen säädetään.
 
 Verohallinto ratkaisee oikeuden 122 §:ssä tarkoitettuun palautukseen ja suorittaa muut palautukseen liittyvät tehtävät.
 

@@ -2,7 +2,7 @@
 Osa: I OSA
 Luku: 7 LUKU Veron peruste
 
-Verovelvollinen jälleenmyyjä saa käyttää voittomarginaalina 162 a §:ssä tarkoitetun verokauden voittomarginaalia.
+Verovelvollinen jälleenmyyjä saa käyttää voittomarginaalina oma-aloitteisten verojen verotusmenettelystä annetun lain 11 ja 12 §:ssä tarkoitetun verokauden voittomarginaalia.
 
 Verokauden voittomarginaali on verokauden aikana myydyistä 79 a §:ssä tarkoitetun menettelyn piiriin kuuluvista tavaroista saatujen vastikkeiden yhteismäärän ja sen aikana hankittujen mainitun menettelyn piiriin kuuluvien tavaroiden ostohintojen yhteismäärän erotus.
 

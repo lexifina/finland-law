@@ -1,5 +1,5 @@
 # 146 a §
 Osa: II OSA
-Luku: 13 a LUKU Verotusmenettely eräissä yhteisöhankintatilanteissa
+Luku: 13 a LUKU Yleinen verotusmenettely ja muutoksenhaku
 
-Jos 26 d §:n 1 momentin 1 kohdassa tarkoitetun uuden kuljetusvälineen ostaja ei ole tämän lain mukaan muusta toiminnasta verovelvollinen ja kuljetusvälineestä on suoritettava autoverolain (1482/94) mukaan autoveroa, yhteisöhankinnasta suoritettavan arvonlisäveron maksamisesta, veroviranomaisista, ilmoittamisvelvollisuudesta, veron määräämisestä, ennakkoratkaisusta, muutoksen hakemisesta ja veron takaisinmaksusta on voimassa, mitä autoverosta säädetään.
+Veron maksamiseen, ilmoittamiseen, määräämiseen, oikaisuun ja muuhun verotusmenettelyyn sekä muutoksenhakuun sovelletaan, mitä oma-aloitteisten verojen verotusmenettelystä annetussa laissa säädetään, jollei tässä laissa toisin säädetä.

@@ -1,6 +1,6 @@
 # 171 a §
 Osa: II OSA
-Luku: 17 LUKU Ilmoittamisvelvollisuus
+Luku: 17 LUKU Perustamisilmoitus ja yhteenvetoilmoitus
 
 Verohallinnolla on oikeus saada maksutta tässä luvussa tarkoitetut, verotusta varten tarvittavat tiedot.
 

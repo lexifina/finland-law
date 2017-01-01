@@ -2,4 +2,4 @@
 Osa: II OSA
 Luku: 22 a LUKU Erinäiset säännökset
 
-Aluehallintovirasto ja poliisi ovat velvollisia antamaan veroviranomaisille tarpeellista virka-apua. Aluehallintovirastolla on myös oikeus veroviranomaisen esityksestä uhkasakolla velvoittaa se, joka ei ole noudattanut 168 ja 169 §:n nojalla annettua kehotusta, täyttämään velvollisuutensa.
+Niiden verovelvollisten, jotka eivät ole kirjanpitovelvollisia tai joiden verokausi on neljänneskalenterivuosi tai kalenterivuosi, tilikautena pidetään kalenterivuotta. Paliskuntaryhmän tilikausi on poronhoitovuosi.

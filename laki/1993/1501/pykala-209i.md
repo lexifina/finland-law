@@ -1,6 +1,6 @@
 # 209 i §
 Osa: II OSA
-Luku: 22 LUKU Kirjanpito ja tositteet
+Luku: 22 LUKU Laskut ja muut tositteet
 
 Verohallinto voi tarkastuksen taikka veron palauttamisen tai määräämisen yhteydessä hyväksyä tehdyn vähennyksen, vaikkei verovelvollisella ole lain vaatimusten mukaista laskua, selvitystä tai muuta tositetta, jos verovelvollinen kykenee muutoin osoittamaan olevansa 102, 102 a, 102 c, 103, 106 tai 111–113 §:n nojalla oikeutettu vähennykseen.
 

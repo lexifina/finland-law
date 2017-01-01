@@ -1,6 +1,6 @@
 # 169 §
 Osa: II OSA
-Luku: 17 LUKU Ilmoittamisvelvollisuus
+Luku: 17 LUKU Perustamisilmoitus ja yhteenvetoilmoitus
 
 Verovelvollisen on Verohallinnon kehotuksesta esitettävä Suomessa tarkastettavaksi kirjanpitonsa, muistiinpanonsa sekä kaikki se toimintaan liittyvä ja muu aineisto ja omaisuus, joka saattaa olla tarpeen hänen verotuksessaan tai hänen verotustaan koskevaa muutoksenhakua käsiteltäessä.
 
