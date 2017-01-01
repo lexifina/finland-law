@@ -10,4 +10,4 @@ Tässä laissa tarkoitetaan KuEL-lailla kunnallista eläkelakia (549/2003), VaEL
 
 Julkisten alojen eläkelakia sovelletaan KuEL-lain, VaEL-lain, KiEL-lain ja Kansaneläkelaitoksesta annetun lain (731/2001) 13 §:n nojalla myönnettyihin eläkkeisiin ja etuuksiin.
 
-Julkisten alojen eläkelain 96 §:n 1 momentin 6 kohtaa ja 99 §:n 2 momenttia sovelletaan potilasvahinkolain (585/1986) tai raideliikennevastuulain (113/1999) mukaiseen korvaukseen, jonka vakuutustapahtuma on 1 päivänä tammikuuta 2017 tai sen jälkeen.
+Julkisten alojen eläkelain 96 §:n 1 momentin 6 kohtaa ja 99 §:n 2 momenttia sovelletaan potilasvahinkolain (585/1986) tai raideliikennevastuulain (113/1999) mukaiseen korvaukseen, jonka vahinkotapahtuma on 1 päivänä tammikuuta 2017 tai sen jälkeen.
