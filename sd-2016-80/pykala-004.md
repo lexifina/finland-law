@@ -4,4 +4,4 @@ Vuoden 2025 loppuun eläkettä karttuu työansioista 1,7 prosenttia vuodessa 53 
 
 Mitä 1 momentissa säädetään, koskee myös työntekijää, joka työskentelee toisessa Euroopan unionin jäsenvaltiossa tai Euroopan talousalueeseen kuuluvassa valtiossa 53 vuotta täytettyään. Tällöin teoreettiseen eläkkeeseen lisätään 1,7 karttumisprosentin ja 1,5 karttumisprosentin erotuksen perusteella laskettu erillinen lisä. Erillinen lisä lasketaan Suomessa ansaittujen työansioiden perusteella.
 
-Vuoden 2025 loppuun saakka 53 vuotta täyttäneen työntekijän eläkevakuutusmaksu määräytyy työntekijän eläkelain muuttamisesta annetun lain voimaanpanolain (71/2016) 4 §:n 2 momentissa säädetysti.
+Vuoden 2025 loppuun saakka 53 vuotta täyttäneen työntekijän eläkevakuutusmaksu määräytyy työntekijän eläkelain muuttamisesta annetun lain voimaanpanolain (71/2016) 4 §:n 3 momentissa säädetysti.
