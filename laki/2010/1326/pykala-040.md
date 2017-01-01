@@ -1,8 +1,8 @@
 # 40 § Ensihoitopalvelun sisältö
 Luku: 4 luku Terveydenhuollon yhteistyö ja alueelliset palvelut
 
-Ensihoitopalveluun sisältyy:
-1) äkillisesti sairastuneen tai loukkaantuneen potilaan kiireellinen hoito ensisijaisesti terveydenhuollon hoitolaitoksen ulkopuolella lukuun ottamatta meripelastuslaissa (1145/2001) tarkoitettuja tehtäviä ja tarvittaessa potilaan kuljettaminen lääketieteellisesti arvioiden tarkoituksenmukaisimpaan hoitoyksikköön;
+Ensihoitopalveluun sisältyvät:
+1) äkillisesti sairastuneen tai loukkaantuneen potilaan hoidon tarpeen arviointi ja kiireellinen hoito ensisijaisesti terveydenhuollon hoitolaitoksen ulkopuolella, eivät kuitenkaan meripelastuslaissa (1145/2001) tarkoitetut tehtävät, tarvittaessa potilaan kuljettaminen lääketieteellisesti arvioiden tarkoituksenmukaisimpaan hoitoyksikköön ja äkillisesti sairastuneen tai vammautuneen potilaan jatkohoitoon liittyvät siirrot, silloin kun potilas tarvitsee siirron aikana vaativaa ja jatkuvaa hoitoa tai seurantaa;
 2) ensihoitovalmiuden ylläpitäminen;
 3) tarvittaessa potilaan, hänen läheisensä ja muiden tapahtumaan osallisten ohjaaminen psykososiaalisen tuen piiriin;
 4) osallistuminen alueellisten varautumis- ja valmiussuunnitelmien laatimiseen suuronnettomuuksien ja terveydenhuollon erityistilanteiden varalle yhdessä muiden viranomaisten ja toimijoiden kanssa; ja
