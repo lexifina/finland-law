@@ -1,0 +1,2 @@
+Laki räjähdysvaarallisissa tiloissa käytettäväksi tarkoitettujen laitteiden ja suojausjärjestelmien vaatimustenmukaisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
