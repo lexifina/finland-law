@@ -1,0 +1,2 @@
+Laki tuomioistuinharjoittelusta
+Eduskunnan päätöksen mukaisesti säädetään:
