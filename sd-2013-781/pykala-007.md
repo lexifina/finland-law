@@ -9,5 +9,3 @@ Esitutkintaviranomaisen ja syyttäjän on annettava toimivaltaiselle viranomaise
 4) ilmoitus syytteen tai rangaistusta koskevan määräyksen peruuttamisesta.
 
 Edellä 2 momentissa mainittu tieto on annettava viipymättä päätöksen tekemisestä taikka rangaistuksen antamisesta.
-
-Mitä 1 ja 2 momentissa säädetään, sovelletaan vastaavasti arvonlisäverolain (1501/1993) 218 §:n 3 momentissa ja ennakkoperintälain (1118/1996) 55 §:n 2 momentissa tarkoitettuun rikkomukseen.
