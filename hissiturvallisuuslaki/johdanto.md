@@ -1,0 +1,2 @@
+Hissiturvallisuuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
