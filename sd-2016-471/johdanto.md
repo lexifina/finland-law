@@ -1,0 +1,2 @@
+Laki liikenneturvallisuusmaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
