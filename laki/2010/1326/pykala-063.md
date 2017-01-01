@@ -1,7 +1,7 @@
 # 63 § Koulutuskorvauksen ja tutkimusrahoituksen maksaminen
 Luku: 7 luku Opetus- ja tutkimustoiminnan järjestäminen
 
-Aluehallintovirasto ja Ahvenanmaan valtionvirasto maksavat valtion koulutuskorvauksen. Tutkintojen ja opinnot aloittaneiden opiskelijoiden määrään perustuva koulutuskorvaus maksetaan sairaanhoitopiirin kuntayhtymälle, jossa on yliopistollinen sairaala, ilman eri hakemusta.
+Aluehallintovirasto ja Ahvenanmaan valtionvirasto maksavat valtion koulutuskorvauksen. Tutkintojen ja opinnot aloittaneiden opiskelijoiden määrään perustuva koulutuskorvaus maksetaan sairaanhoitopiirin kuntayhtymälle, jossa on yliopistollinen sairaala, sekä erikoislääkäri- ja erikoishammaslääkärikoulutusta järjestävälle yliopistolle ilman eri hakemusta.
 
 Toteutuneisiin koulutuskuukausiin perustuva korvaus maksetaan puolivuosittain hakemusten perusteella. Ensimmäisen vuosipuoliskon osalta korvausta on haettava viimeistään saman vuoden 30 päivänä syyskuuta ja toisen vuosipuoliskon osalta viimeistään seuraavan vuoden 31 päivänä maaliskuuta. Aluehallintoviraston ja Ahvenanmaan valtionviraston on ratkaistava määräajassa jätetty korvaushakemus sen kalenterivuoden aikana, jolloin hakemus on saapunut. Aluehallintovirasto maksaa kuukausittain tutkimusrahoituksen erityisvastuualueen tutkimustoimikunnalle, joka maksaa rahoituksen edelleen hankkeiden toteuttajille.
 
