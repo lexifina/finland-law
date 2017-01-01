@@ -1,4 +1,4 @@
 # 10 § Rahoitus
 Luku: 4 luku Erinäiset säännökset
 
-Tämän lain mukaiset valtionavustukset suoritetaan ensisijaisesti valtion talousarviossa tieteen edistämiseen osoitetuista veikkauksen ja raha-arpajaisten voittovaroista.
+Tässä laissa tarkoitetut avustukset myönnetään valtion talousarvioon tätä tarkoitusta varten otettavan määrärahan rajoissa. Määräraha osoitetaan ensisijaisesti siitä arpajaislain (1047/2001) 17 §:ssä tarkoitetusta rahapeliyhtiön tuotosta, joka valtion talousarviossa on osoitettu käytettäväksi tieteen tukemiseen.
