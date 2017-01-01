@@ -1,0 +1,20 @@
+# 8 § Oikeus eläkkeeseen lisäeläkejärjestelyn eläkeiässä
+
+Jos 3 päivänä syyskuuta 2015 voimassa olevan työsuhteen ehtojen mukaan työntekijän lisäeläketurva perustuu siihen, että hän saa työntekijän eläkelain mukaisen eläkkeen työntekijän eläkelain muuttamisesta annetun lain 11 §:n 2 ja 3 momentissa säädettyä alinta vanhuuseläkeikäänsä alemmassa iässä, ja alemman iän täyttäessään työntekijä kuuluu tähän työsuhteeseen liittyvän:
+1) rekisteröidystä lisäeläkejärjestelystä vapaamuotoiseksi ryhmäeläkevakuutukseksi muunnetun lisäeläkejärjestelyn piiriin;
+2) eläkesäätiössä tai eläkekassassa järjestetyn lisäeläketurvan korvanneen vapaamuotoisen ryhmäeläkevakuutuksen piiriin;
+3) eläkesäätiössä tai eläkekassassa järjestetyn lisäeläketurvan piiriin; tai
+4) työntekijän eläkelain 3 §:n 2 momentissa, sellaisena kuin se oli voimassa 31 päivänä joulukuuta 2016, mainittujen lakien mukaista vähimmäisturvaa paremman eläketurvan korvanneen vapaamuotoisen ryhmäeläkevakuutuksen piiriin tai vastaavan eläkesäätiössä taikka eläkekassassa järjestetyn lisäeläketurvan piiriin;
+on työntekijällä oikeus siirtyä tästä työsuhteesta työntekijän eläkelain mukaiselle eläkkeelle lisäeläkejärjestelyn mukaisessa eläkeiässä. Edellytyksenä lisäksi on, että 1—3 kohdassa tarkoitettu lisäeläkejärjestely on ollut voimassa 1 päivänä marraskuuta 2002.
+
+Mitä 1 momentissa säädetään, koskee myös työntekijää, jonka 3 päivänä syyskuuta 2015 voimassa olleeseen työsuhteeseen liittyvä 1 momentin 1 ja 2 kohdassa tarkoitettu lisäeläkejärjestely on korvattu eläkesäätiössä tai -kassassa järjestetyllä lisäeläketurvalla tai 3 kohdassa tarkoitettu järjestely vapaamuotoisella ryhmäeläkevakuutuksella.
+
+Jos 1 ja 2 momentissa tarkoitetun lisäeläkejärjestelyn ehtojen mukaan lisäeläkejärjestelyn alemmasta eläkeiästä 63 vuoden ikään työntekijän eläketurva on järjestetty kokonaan lisäeläkejärjestelyn mukaisena eläkkeenä ja 63 vuoden iässä lisäeläkkeestä vähennetään työntekijän eläkelain mukainen eläke, mainitun lisäeläkejärjestelyn piiriin kuuluvalla työntekijällä on oikeus saada työntekijän eläkelain mukainen eläke 63 vuoden iässä. Oikeus koskee myös mainituista lisäeläkejärjestelyistä tämän lain voimaan tullessa eläkkeellä jo olevia henkilöitä ja henkilöitä, jotka ovat täyttäneet 1 momentissa tarkoitetun lisäeläkejärjestelyn eläkeiän ennen tämän lain voimaantuloa.
+
+Myönnettäessä työntekijän eläkelain mukainen eläke 1—3 momentissa tarkoitetuissa tilanteissa, eläkettä vähennetään pysyvästi 0,4 prosenttia jokaiselta kuukaudelta, jolta eläke alkaa ennen työntekijälle työntekijän eläkelain muuttamisesta annetun lain 11 §:n 2 momentissa säädettyä alinta vanhuuseläkeikää. Myönnettäessä työntekijän eläkelain mukainen eläke 3 momentin viimeisessä virkkeessä tarkoitetuissa tilanteissa, sovelletaan kuitenkin tämän lain voimaantullessa voimassa olleita säännöksiä. Tarkemmat säännökset työntekijän eläkelain mukaisen eläkkeen vähentämisestä annetaan sosiaali- ja terveysministeriön asetuksella.
+
+Jos työnantaja ennen tämän lain voimaantuloa on järjestänyt työntekijöilleen eläketurvan, jossa eläkkeen määrä on suurempi kuin työntekijän eläkelain mukainen eläke, ei lisäeläketurva korotu sen johdosta, että työntekijän eläkelain mukainen eläke alenee työntekijän eläkelain muuttamisesta annetun lain säännösten perusteella.
+
+Lisäeläketurvan ehtoja tai eläkekassan tai eläkesäätiön sääntöjä muuttamalla voidaan lisäeläketurvaan tehdä työntekijän eläkelain muuttamisesta annetun lain mukaisia eläkkeen korotuksia vastaava vähennys. Edellytyksenä vähennykselle on, että lisäeläketurva on määritelty siten, että työntekijän eläkelain mukainen eläke ja lisäeläketurva yhdessä muodostavat tietyn suuruisen kokonaiseläketurvan ja että kokonaiseläketurvan ei voida katsoa raha-arvoltaan alentuneen.
+
+Eläkekassan päättäessä sääntöjensä muuttamisesta työntekijän eläkelain muuttamisesta annetun lain muutoksista johtuen päätös tehdään vakuutuskassalain (1164/1992) 52 §:n estämättä yksinkertaisella äänten enemmistöllä vastaavin edellytyksin kuin mitä eläkesäätiölain (1774/1995) 11 §:n 6 momentissa säädetään.
