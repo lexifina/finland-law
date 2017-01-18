@@ -1,0 +1,2 @@
+Laki eurooppalaisesta tilivarojen turvaamismääräysmenettelystä
+Eduskunnan päätöksen mukaisesti säädetään:
