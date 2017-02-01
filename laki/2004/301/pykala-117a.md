@@ -1,7 +1,7 @@
 # 117 a § Turvaamistoimien määräämisen yleiset edellytykset
 Luku: 7 luku Turvaamistoimet ja ulkomaalaisvalvonta
 
-Ulkomaalaiseen voidaan kohdistaa 118–122 §:ssä tarkoitettu turvaamistoimi, jos se on välttämätöntä:
+Ulkomaalaiseen voidaan kohdistaa 118–122 ja 122 a §:ssä tarkoitettu turvaamistoimi, jos se on välttämätöntä ja oikeasuhtaista:
 1) hänen maahantulonsa tai maassa oleskelunsa edellytysten selvittämiseksi; taikka
 2) hänen maasta poistamistaan koskevan päätöksen valmistelemiseksi tai täytäntöönpanon turvaamiseksi taikka muutoin maasta poistumisen valvomiseksi.
 
