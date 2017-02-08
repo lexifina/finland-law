@@ -1,0 +1,2 @@
+Laki Yhdistyneiden Kansakuntien ja sen yhteydessä toimivan henkilöstön turvallisuutta koskevan yleissopimuksen valinnaisen pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
