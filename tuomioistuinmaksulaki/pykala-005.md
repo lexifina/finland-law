@@ -9,7 +9,7 @@ Tämän lain mukaista maksua ei peritä:
 6) maatalousyrittäjien lomituspalvelulain (1231/1996) mukaisissa asioissa eikä maaseutuelinkeinotukea koskevissa asioissa, joissa on kyse luottojen maksuhelpotuksesta, vapaaehtoisesta velkajärjestelystä tai valtion takautumisvaatimuksesta luopumisesta;
 7) sakon muuntorangaistusta koskevissa asioissa;
 8) oikeusapulaissa (257/2002) tarkoitetun oikeusavun myöntämistä koskevissa asioissa eikä oikeudenkäyntiavustajalle maksettavaa palkkiota ja kulukorvausta koskevissa asioissa, ellei kyse ole muutoksenhausta palkkiota tai kulukorvausta koskevassa asiassa;
-9) tartuntatautilain (583/1986), päihdehuoltolain (41/1986) eikä mielenterveyslain (1116/1990) mukaisissa asioissa;
+9) tartuntatautilain (1227/2016), päihdehuoltolain (41/1986) eikä mielenterveyslain (1116/1990) mukaisissa asioissa;
 10) pakkokeinolain (806/2011) mukaisissa asioissa, oikeudenkäymiskaaren 17 luvun 69 §:n mukaisissa asioissa eikä konkurssilain (120/2004) 4 luvun 11 §:n 5 momentin mukaisissa asioissa;
 11) siviilipalveluslain (1446/2007) mukaisissa asioissa;
 12) sotilaskurinpidosta ja rikostorjunnasta puolustusvoimissa annetun lain (255/2014) mukaisissa asioissa, jotka koskevat asevelvollisena palvelevan tai naisten vapaaehtoista asepalvelusta suorittavan tekemää kurinpitovalitusta;
