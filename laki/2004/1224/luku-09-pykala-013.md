@@ -6,4 +6,4 @@ Lapsen isällä on oikeus äitiysrahakaudella vanhempainrahaan, jos äiti on äi
 
 Jos lapsen äiti kuolee äitiys- tai vanhempainrahakauden aikana, lasta hoitavalla ja lapsen huollosta vastaavalla isällä on oikeus vanhempainrahaan. Vanhempainrahaa voidaan suorittaa isälle enintään niin monelta arkipäivältä kuin äitiys- tai vanhempainrahaa on jäänyt äidin kuoleman johdosta maksamatta. Jos lapsen isä ei hoida lasta eikä vastaa tämän huollosta, vanhempainraha maksetaan muulle lapsen huollosta vastaavalle vakuutetulle, johon tällöin sovelletaan, mitä tältä osin lapsen isästä säädetään.
 
-Mitä tässä pykälässä säädetään äidistä ja isästä, sovelletaan myös adoptioäitiin ja adoptioisään.
+Mitä tässä pykälässä säädetään äidistä ja isästä, sovelletaan myös adoptiovanhempiin.
