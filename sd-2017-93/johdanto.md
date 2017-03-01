@@ -1,0 +1,2 @@
+Laki tutkintojen ja muiden osaamiskokonaisuuksien viitekehyksestä
+Eduskunnan päätöksen mukaisesti säädetään:
