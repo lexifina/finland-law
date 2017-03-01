@@ -1,4 +1,0 @@
-# 5 a §
-Luku: 1 luku Parisuhteen rekisteröinti
-
-Parisuhteen rekisteröinnin esteiden tutkimisesta ja parisuhteen rekisteröinnistä sekä niihin liittyvistä todistuksista ei peritä maksuja. Parisuhteen rekisteröinnistä voidaan kuitenkin periä maksu ja matkakustannusten korvaus, jos parisuhteen osapuolet ja rekisteriviranomainen ovat sopineet, että 5 §:ssä tarkoitettu rekisteröinti suoritetaan muulloin kuin valtion virastojen aukiolosta annetun asetuksen (332/1994) 1 §:ssä tarkoitettuna aukioloaikana tai muualla kuin rekisteriviranomaisen toimitiloissa. Maksu ja korvaus matkakustannuksista voidaan periä myös, jos parisuhteen osapuolet ja avioliittolain 17 a §:n 2 momentissa tarkoitettu vihkijä ovat sopineet, että tämä toimittaa rekisteröinnin. Maksun ja korvauksen suuruudesta säädetään valtioneuvoston asetuksella valtion maksuperustelaissa (150/1992) säädettyjen perusteiden mukaan.
