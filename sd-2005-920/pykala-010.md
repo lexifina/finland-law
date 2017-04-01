@@ -1,3 +1,5 @@
 # 10 § Muutoksenhaku
 
-Akkreditointiyksikön tämän lain perusteella tekemään hallintopäätökseen haetaan muutosta valittamalla siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Päätöstä on muutoksenhausta huolimatta noudatettava, jollei valitusviranomainen toisin määrää.
+Akkreditointiyksikön päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+
+Päätöstä on muutoksenhausta huolimatta noudatettava, jollei valitusviranomainen toisin määrää.
