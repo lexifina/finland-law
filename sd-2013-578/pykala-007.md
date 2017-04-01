@@ -1,5 +1,5 @@
 # 7 § Muutoksenhaku Patentti- ja rekisterihallituksen päätökseen muissa asioissa
 
-Patentti- ja rekisterihallituksen päätökseen muussa kuin 6 §:ssä tarkoitetussa asiassa saa, jollei muualla toisin säädetä, hakea muutosta valittamalla Helsingin hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään.
+Patentti- ja rekisterihallituksen päätökseen muussa kuin 6 §:ssä tarkoitetussa asiassa saa, jollei muualla toisin säädetä, hakea muutosta valittamalla Helsingin hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
 
 Muutoksen hakemisesta Patentti- ja rekisterihallituksen päätökseen yrityskiinnityslaissa (634/1984) tarkoitetussa asiassa säädetään erikseen.
