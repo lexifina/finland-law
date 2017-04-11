@@ -1,0 +1,2 @@
+Laki keskinäisestä avunannosta ja yhteistyöstä tulliasioissa Argentiinan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
