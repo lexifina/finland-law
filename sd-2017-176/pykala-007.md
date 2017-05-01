@@ -1,0 +1,9 @@
+# 7 § Saalisrekisteri
+
+Luonnonvarakeskus on sopimuksen 13 artiklassa tarkoitetun sähköisen saalisrekisterin ja siihen liittyvän luvanmyyntirekisterin toimivaltainen rekisterinpitäjä ja vastaa rekisterin hallinnoimiseksi välttämättömän tietojärjestelmän ylläpidosta ja kehittämisestä yhteistyössä kalastuslupien myynnistä vastaavan tahon kanssa.
+
+Saalisrekisteriin tallennetaan kalastussäännön 30 §:ssä tarkoitettujen tietojen lisäksi kalastajan nimi, yhteystiedot ja käytetty kalastuslupatyyppi. Saalisrekisterin tietoja käytetään sopimuksen 13 artiklan 2 kohdassa määriteltyihin tarkoituksiin. Saalisrekisterissä olevia tietoja voidaan salassapitosäännösten estämättä luovuttaa Suomen ulkopuolella oleville viranomaisille Suomea sitovien kansainvälisten kalavarojen hoitoon ja suojeluun liittyvien velvoitteiden hoitamiseksi. Tietoja voidaan salassapitosäännösten estämättä lisäksi luovuttaa kalastusta valvoville viranomaisille valvontaa varten sekä kalatalousviranomaisille kalavarojen hoidon suunnittelua varten. Saalisrekisterin sisältämät henkilötiedot poistetaan viiden vuoden kuluttua sen vuoden päättymisestä, jonka aikana henkilö on antanut viimeisen saalisilmoituksen. Jollei tässä laissa toisin säädetä, henkilötietojen salassa pitämiseen ja luovuttamiseen sovelletaan viranomaisten toiminnan julkisuudesta annettua lakia (621/1999) sekä muuhun henkilötietojen käsittelyyn henkilötietolakia (523/1999).
+
+Kalastussäännön 30 §:ssä tarkoitettua saalistietoa koskevaa ilmoitusvelvollisuutta on noudatettava myös sopimuksen 2 artiklan 2 kohdassa tarkoitetulla Tenojoen vesistön lohennousualueella. Valtioneuvoston asetuksella voidaan säätää tarkemmin saalisilmoitusta koskevasta menettelystä.
+
+Luonnonvarakeskuksen on annettava saalistietoja koskevasta ilmoituksesta kalastajalle vastaanottokuittaus, joka kalastajan on vaadittaessa esitettävä luvanmyynnin yhteydessä. Vastaanottokuittaus voidaan antaa sähköisesti tai kirjata suoraan luvanmyyntijärjestelmään.
