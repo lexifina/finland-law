@@ -1,0 +1,2 @@
+Laki Euroopan unionin lainvalvontayhteistyövirastosta
+Eduskunnan päätöksen mukaisesti säädetään:
