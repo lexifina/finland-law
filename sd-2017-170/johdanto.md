@@ -1,0 +1,2 @@
+Laki lääkärin hyväksymisestä luokkaan A kuuluvien säteilytyöntekijöiden terveydentilan seurannan suorittavaksi lääkäriksi
+Eduskunnan päätöksen mukaisesti säädetään:
