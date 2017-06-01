@@ -1,0 +1,2 @@
+Laki yrityspalvelujen asiakastietojärjestelmästä
+Eduskunnan päätöksen mukaisesti säädetään:
