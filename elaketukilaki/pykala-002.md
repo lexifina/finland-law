@@ -1,0 +1,10 @@
+# 2 § Oikeus eläketukeen
+Luku: 1 luku Eläketuen saamisen yleiset edellytykset ja määräytymisperusteet
+
+Eläketuki voidaan myöntää Suomessa asuvalle ennen 1 päivä syyskuuta 1956 syntyneelle henkilölle. Eläketukea maksetaan sen kuukauden loppuun, jonka aikana henkilö täyttää 65 vuotta.
+
+Eläketuen myöntäminen edellyttää, että henkilö on ollut oikeutettu työmarkkinatukeen 31 päivänä elokuuta 2016 ja että hänelle on maksettu 1 päivänä syyskuuta 2010 tai sen jälkeen ja viimeistään 31 päivänä elokuuta 2016 työttömyysturvalain (1290/2002) mukaista työmarkkinatukea vähintään 1250 päivältä tai enimmäisaika työttömyysturvalain mukaista päivärahaa ja sen lisäksi työmarkkinatukea vähintään 750 päivältä.
+
+Edellä 2 momentissa tarkoitettuna 31 päivänä elokuuta 2016 työmarkkinatukeen oikeutettuna henkilönä pidetään tätä lakia sovellettaessa lisäksi työttömyysturvalain 10 luvun 2 §:n 3 momentin 1, 2 tai 4—6 kohdassa tarkoitettua henkilöä, kuntouttavasta työtoiminnasta annetun lain (189/2001) 3 §:ssä tarkoitettua henkilöä, työttömyysturvalain 3 luvun 3 §:n 1 momentissa tarkoitettua työkyvytöntä henkilöä, joka saa sairausvakuutuslain (1224/2004) mukaista sairauspäivärahaa, henkilöä, joka saa Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain (566/2005) mukaista kuntoutusrahaa sekä työkyvytöntä henkilöä, joka saa tämän lain 3 §:ssä mainitun lain perusteella myönnettyä kuntoutustukea.
+
+Edellä 2 momentissa tarkoitettuihin päiviin, joilta henkilölle on maksettu työmarkkinatukea, lasketaan mukaan lisäksi työttömyysturvalain 10 luvun 2 §:n 3 momentin 4—6 kohdan mukaiset päivät, kuntouttavasta työtoiminnasta annetun lain 3 §:n mukaiset päivät, jolloin henkilö on ollut kuntouttavassa työtoiminnassa, työttömyysturvalain 3 luvun 3 §:n 1 momentin mukaiset päivät, joilta henkilö on saanut sairausvakuutuslain mukaista sairauspäivärahaa sekä päivät, joilta henkilö ei ole ennen vuotta 2013 saanut työmarkkinatukea työttömyysturvalain 9 luvun 3 ja 4 §:n mukaisesti, sellaisina kuin ne olivat voimassa 31 päivänä joulukuuta 2012, puolison tuloja koskevan tarveharkinnan perusteella.
