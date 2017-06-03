@@ -1,0 +1,2 @@
+Laki yhteistyöstä ydinenergian rauhanomaisessa käytössä Saudi-Arabian kuningaskunnan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
