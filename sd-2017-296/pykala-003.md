@@ -1,0 +1,7 @@
+# 3 § Rauhoitussäännökset
+
+Kansallispuistossa kielletyistä toiminnoista säädetään luonnonsuojelulain 13 §:ssä ja rauhoitussäännöksiä koskevista poikkeuksista mainitun lain 14 ja 15 §:ssä.
+
+Edellä 1 momentissa tarkoitettujen rauhoitussäännösten estämättä taimenen ja harjuksen istuttaminen Umpi-Valkeaisen ja Iso-Valkeaisen järviin ja siihen perustuva viehekalastus sekä vieheellä kalastaminen kansallispuiston virtavesissä on sallittua. Lisäksi vapaa-ajan kalastus seisovilla pyydyksillä on sallittua Iso- ja Pikkukukkurin järvissä, Iso Syrjäjärvessä ja Aittojärvessä sekä Talasjärvessä, Puukkojärvessä, Syvä Suottajärvessä, Matala Suottajärvessä ja Saari Hoiluan järvessä. Nuotanveto Aittojärvessä on sallittua kalaston hoitamiseksi tai pyyntitavan esittelemiseksi yleisölle.
+
+Hossan kansallispuistossa on niillä, joiden kotipaikka on metsästyslain (615/1993) 8 §:ssä tarkoitetussa kunnassa, oikeus luonnonsuojelulain 13 §:n estämättä metsästää kotikunnassaan kansallispuiston alueella. Kansallispuistossa toimivan paliskunnan osakkailla sekä Suomen riistakeskuksen tähän tarkoitukseen erikseen nimeämillä henkilöillä on kuitenkin kotikunnasta riippumatta oikeus luonnonsuojelulain 15 §:n 1 momentin 3 kohdassa tarkoitettuun riistaeläinlajien yksilöiden luvanvaraiseen poistamiseen. Kuusamon yhteismetsän osakaskunnalla on lisäksi oikeus metsästää hirveä Kuusamon kunnassa sijaitsevilla kansallispuistoon kuuluvilla alueilla.
