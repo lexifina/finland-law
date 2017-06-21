@@ -9,5 +9,6 @@ ulkomaisen ETA-luottolaitoksen sivuliike, luokka B | laskennallisen taseen loppu
 kolmannen maan luottolaitoksen sivuliike | laskennallisen taseen loppusumma | 0,0006
 luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetussa laissa tarkoitettu sijoituspalveluyritys | liikevaihto | 0,03
 luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetussa laissa tarkoitettu kolmannen maan sijoituspalveluyritys | liikevaihto | 0,03
+arvopaperikeskus | liikevaihto | 0,0013
 
 Suhteellinen hallintomaksu peritään maksuvelvolliselta sen kalenterivuoden loppuun, jonka aikana maksuvelvollisen toimilupa on peruttu tai oikeus toiminnan harjoittamiseen on muutoin lakannut.
