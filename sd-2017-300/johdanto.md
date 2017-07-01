@@ -1,0 +1,2 @@
+Laki valtioneuvoston tilannekeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
