@@ -1,0 +1,2 @@
+Laki Euroopan hybridiuhkien torjunnan osaamiskeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
