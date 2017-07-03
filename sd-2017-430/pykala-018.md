@@ -1,0 +1,4 @@
+# 18 § Ehtojen asettaminen telepakkokeinoja koskeviin päätöksiin
+Luku: 2 luku Tutkintamääräyksen tunnustaminen ja täytäntöönpano Suomessa
+
+Kun tuomioistuin direktiivin 30 artiklan 2 kohdassa tarkoitetun tutkintamääräyksen tai 31 artiklan 1 kohdassa tarkoitetun ilmoituksen johdosta tekee pakkokeinolain 10 luvun 5 §:n mukaisesti telekuuntelua koskevan päätöksen, sen on asetettava ehto, jonka mukaan määräyksen antaneen tai ilmoituksen tehneen Euroopan unionin jäsenvaltion viranomaisen tulee noudattaa pakkokeinolain 10 luvun 52 ja 55 §:n säännöksiä sekä 56 §:n säännöksiä siitä, missä tapauksissa ylimääräistä tietoa saa käyttää. Vastaavat ehdot on asetettava, kun tehdään päätös muiden mainituissa pykälissä tarkoitettujen pakkokeinojen käytöstä Suomen alueella. Lisäksi tuomioistuimen on asetettava muut toimenpiteen kohteena olevan henkilön oikeusturvan kannalta tarpeelliset ehdot.

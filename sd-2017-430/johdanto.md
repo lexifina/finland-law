@@ -1,0 +1,2 @@
+Laki rikosasioita koskevaa eurooppalaista tutkintamääräystä koskevan direktiivin täytäntöönpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
