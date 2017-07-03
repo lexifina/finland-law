@@ -4,7 +4,7 @@ Luku: 22 luku Laskut ja muut tositteet
 
 Edellä 43 a ja 43 c §:ssä tarkoitetun sijoituskullan myyjän on tunnistettava asiakas aina, kun yhden liiketoimen tai toisiinsa kytkeytyneiden liiketoimien yhteenlaskettu arvo on vähintään 15 000 euroa. Myyjän on käytettävissä olevin keinoin tunnistettava myös henkilö, jonka lukuun edellä tarkoitettu asiakas todennäköisesti toimii.
 
-Tunnistamista ei tarvitse suorittaa, jos asiakas on rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetun lain (503/2008) 13 §:ssä tarkoitettu asiakas.
+2 momentti on kumottu L:lla 28.6.2017/455. Aiempi sanamuoto kuuluu:
 
 Edellä 1 momentissa tarkoitettujen asiakkaiden tunnistamista ja liiketoimien kirjaamista koskevat tarkemmat säännökset annetaan valtioneuvoston asetuksella.
 

@@ -1,6 +1,6 @@
 # 148 §
 Osa: II OSA
-Luku: 14 luku Verotusmenettely eräissä yhteisöhankinnoissa
+Luku: 13 a luku Yleinen verotusmenettely ja muutoksenhaku
 
 Vero määrätään verovelvollisen ja verosta vastuussa olevien henkilöiden yhteisvastuullisesti maksettavaksi.
 
