@@ -5,4 +5,4 @@ Luotonantajan on ennen kuluttajaluottosopimuksen päättämistä todennettava lu
 
 Jos luotonantaja on jo aiemmin todentanut kuluttajan henkilöllisyyden 1 momentissa tarkoitetulla tavalla, kuluttajan henkilöllisyys voidaan todentaa myös hänelle ensitunnistamisen jälkeen luodun henkilökohtaisen tunnisteen avulla.
 
-Asiakkaan tuntemisesta on lisäksi voimassa, mitä rahanpesun ja terrorismin rahoittamisen estämisestä ja selvittämisestä annetussa laissa (503/2008) säädetään.
+Asiakkaan tuntemisesta säädetään lisäksi rahanpesun ja terrorismin rahoittamisen estämisestä annetussa laissa (444/2017).
