@@ -25,4 +25,4 @@ Muutoksenhaussa markkinaoikeuden ratkaisemaan asiaan korkeimmassa oikeudessa ja 
 
 Edellä säädettyjen maksujen suuruus tarkistetaan kolmivuotiskausittain oikeusministeriön asetuksella rahan arvon muutosta vastaavasti. Maksujen määrät pyöristetään lähimpään täyteen kymmeneen euroon.
 
-Riita-asian käsittelystä eurooppalaisen maksamismääräysmenettelyn käyttöönotosta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 1896/2006 ja eurooppalaisesta vähäisiin vaatimuksiin sovellettavasta menettelystä annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 861/2007 säädetyssä menettelyssä peritään oikeudenkäyntimaksua 86 euroa.
+Riita-asian käsittelystä käräjäoikeudessa eurooppalaisen maksamismääräysmenettelyn käyttöönotosta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 1896/2006 tai eurooppalaisesta vähäisiin vaatimuksiin sovellettavasta menettelystä annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 861/2007 säädetyssä menettelyssä peritään oikeudenkäyntimaksua 86 euroa. Tuomion uudelleen tutkimista koskeva pyyntö rinnastetaan tätä lakia sovellettaessa ylimääräiseen muutoksenhakemukseen.
