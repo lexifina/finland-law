@@ -1,6 +1,6 @@
 # 33 b § Muusta kuin julkisesti noteeratusta yhtiöstä saatu osinko
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Muusta kuin julkisesti noteeratusta yhtiöstä saadusta osingosta 25 prosenttia on veronalaista pääomatuloa ja 75 prosenttia verovapaata tuloa siihen määrään saakka, joka vastaa varojen arvostamisesta verotuksessa annetussa laissa (1142/2005) tarkoitetulle osakkeen verovuoden matemaattiselle arvolle laskettua kahdeksan prosentin vuotuista tuottoa. Siltä osin kuin verovelvollisen saamien tällaisten osinkojen määrä ylittää 150 000 euroa, osingoista 85 prosenttia on pääomatuloa ja 15 prosenttia verovapaata tuloa.
 

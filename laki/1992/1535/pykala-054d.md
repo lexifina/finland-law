@@ -1,6 +1,6 @@
 # 54 d § Vapaaehtoisen yksilöllisen eläkevakuutuksen ja pitkäaikaissäästämissopimuksen maksut
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 3 LUKU Pääomatulosta tehtävät vähennykset
+Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
 Verovelvollisella on oikeus vähentää 34 a §:ssä tarkoitetun oman eläkevakuutuksensa ja pitkäaikaissäästämissopimuksensa maksuja yhteensä 5 000 euroa vuodessa. Vähennyskelpoinen enimmäismäärä on kuitenkin 2 500 euroa, jos verovelvollisen työnantaja on verovuonna maksanut verovelvolliselle ottamansa vapaaehtoisen yksilöllisen eläkevakuutuksen maksuja. Maksuja voidaan vähentää aikaisintaan siltä verovuodelta, jonka aikana vakuutettu tai varoihin oikeutettu täyttää 18 vuotta, ja viimeistään siltä vuodelta, jonka aikana eläkettä tai muuta suoritusta on alettu maksaa. Vähennysoikeus koskee vakuutusta, jonka on ottanut verovelvollinen tai hänen puolisonsa ja jossa verovelvollinen on vakuutettuna, sekä pitkäaikaissäästämissopimusta, jonka on tehnyt verovelvollinen tai hänen puolisonsa ja jossa verovelvollinen on sidotusta pitkäaikaissäästämisestä annetussa laissa tarkoitettu varoihin oikeutettu.
 

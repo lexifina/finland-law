@@ -1,6 +1,6 @@
 # 101 § Kunnallisverotuksen eläketulovähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
 Väliotsikko: Puhtaasta ansiotulosta kunnallisverotuksessa tehtävät vähennykset
 
 Eläketuloa saavan verovelvollisen puhtaasta ansiotulosta vähennetään kunnallisverotuksessa eläketulovähennys.

@@ -1,6 +1,6 @@
 # 55 a § Metsälahjavähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 3 LUKU Pääomatulosta tehtävät vähennykset
+Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
 Luonnollisella henkilöllä on oikeus tehdä metsätalouden puhtaasta pääomatulosta lahjana tai lahjanluonteisella kaupalla saamastaan metsästä suorittamansa lahjaveron perusteella metsälahjavähennys.
 

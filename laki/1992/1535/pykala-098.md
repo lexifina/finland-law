@@ -1,6 +1,6 @@
 # 98 § Veronmaksukyvyn alentumisvähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
 
 Jos verovelvollisen veronmaksukyky hänen ja hänen perheensä käytettävissä olevat tulot ja varallisuus huomioon ottaen on erityisistä syistä, kuten elatusvelvollisuuden, työttömyyden tai sairauden johdosta olennaisesti alentunut, vähennetään hänen puhtaasta ansiotulostaan kohtuullinen määrä, ei kuitenkaan enempää kuin 1 400 euroa. Vähennys myönnetään täysin sadoin euroin.
 

@@ -1,6 +1,6 @@
 # 10 § Suomesta saatu tulo
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 1 LUKU Verovelvollisuuden alueellinen ulottuvuus
+Luku: 1 luku Verovelvollisuuden alueellinen ulottuvuus
 
 Suomesta saatua tuloa on muun ohessa:
 1) täällä olevasta kiinteistöstä tai suomalaisen asunto-osakeyhtiön tai muun osakeyhtiön osakkeiden taikka asunto-osuuskunnan tai muun osuuskunnan jäsenyyden perusteella hallitusta huoneistosta saatu tulo;

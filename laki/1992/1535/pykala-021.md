@@ -1,6 +1,6 @@
 # 21 § Osittain verovapaat yhteisöt
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 3 LUKU Kokonaan tai osittain verovapaat yhteisöt
+Luku: 3 luku Kokonaan tai osittain verovapaat yhteisöt
 
 Tulon perusteella suorittavat veroa kunnalle 124 §:n 3 momentissa tarkoitetun tuloveroprosentin mukaan:
 1) valtio ja sen laitokset;

@@ -1,6 +1,6 @@
 # 66 § Työsuhteeseen perustuva osakeanti
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Ansiotuloa on etu työsuhteeseen perustuvasta oikeudesta merkitä yhteisön osakkeita tai osuuksia käypää hintaa alempaan hintaan. Etu on veronalaista siltä osin kuin osakkeen tai osuuden hinnasta saatu alennus on enemmän kuin 10 prosenttia osakkeen tai osuuden käyvästä hinnasta. Jos etu ei ole henkilöstön enemmistön käytettävissä, saatu alennus on koko määrältään veronalaista tuloa.
 

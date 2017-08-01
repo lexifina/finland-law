@@ -1,6 +1,6 @@
 # 93 § Asunnon ja työpaikan väliset matkakustannukset
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
 Väliotsikko: Tulonhankkimismenot
 
 Ansiotulon hankkimisesta johtuneina menoina pidetään myös matkakustannuksia asunnosta työpaikkaan ja takaisin halvimman kulkuneuvon käyttökustannusten mukaan laskettuna. Näitä matkakustannuksia voidaan kuitenkin vähentää enintään 7 000 euroa ja vain siltä osin kuin ne ylittävät verovuonna 750 euroa (omavastuuosuus).

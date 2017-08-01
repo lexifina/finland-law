@@ -1,6 +1,6 @@
 # 95 § Tulonhankkimisvähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
 
 Verovelvollinen saa vähentää palkkatulostaan:
 1) tulonhankkimisvähennyksenä 750 euroa, kuitenkin enintään palkkatulon määrän;

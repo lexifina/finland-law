@@ -1,6 +1,6 @@
 # 55 c § Seuraamukset metsätilan tai sen osan luovutuksesta
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 3 LUKU Pääomatulosta tehtävät vähennykset
+Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
 Jos verovelvollinen luovuttaa vähintään kymmenen prosenttia 55 a §:ssä tarkoitettuna lahjana saamiensa kiinteistöjen tai niiden osien yhteenlasketusta pinta-alasta ennen kuin 15 vuotta on kulunut lahjoituksesta, verovelvollisen tulosta aiemmin vähennettyjä metsälahjavähennyksiä vastaava määrä 20 prosentilla korotettuna lisätään hänen luovutusvuoden metsätalouden pääomatuloonsa, josta on vähennetty verovuonna tehtävä metsälahjavähennys, tai metsätalouden tappiolliseen pääomatuloon. Vähentämättä jäänyttä metsälahjavähennystä ei voida myöhemmin vähentää.
 

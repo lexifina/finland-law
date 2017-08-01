@@ -1,6 +1,6 @@
 # 15 § Verotusyhtymän ja sen osakkaan verotus
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 2 LUKU Eräät verovelvollisuutta koskevat yleiset säännökset
+Luku: 2 luku Eräät verovelvollisuutta koskevat yleiset säännökset
 
 Verotusyhtymä ei ole erillinen verovelvollinen. Verotusyhtymälle vahvistetaan kuitenkin maatalouden puhdas tulo tai tappiollinen puhdas tulo ja muun toiminnan puhdas tulo tai tappiollinen puhdas tulo.
 

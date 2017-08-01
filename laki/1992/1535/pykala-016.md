@@ -1,6 +1,6 @@
 # 16 § Elinkeinoyhtymän ja sen osakkaan verotus
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 2 LUKU Eräät verovelvollisuutta koskevat yleiset säännökset
+Luku: 2 luku Eräät verovelvollisuutta koskevat yleiset säännökset
 
 Elinkeinoyhtymä ei ole erillinen verovelvollinen. Yhtymälle vahvistetaan kuitenkin elinkeinotoiminnan tulos, joka jaetaan aikaisempien verovuosien tappioiden vähentämisen jälkeen verotettavaksi osakkaiden tulona niiden osuuksien mukaan, jotka heillä on yhtymän tuloon. Elinkeinotoiminnan tappio vähennetään yhtymän seuraavien verovuosien elinkeinotoiminnan tuloksista.
 

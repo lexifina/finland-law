@@ -1,6 +1,6 @@
 # 20 § Tuloverosta vapaat yhteisöt
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 3 LUKU Kokonaan tai osittain verovapaat yhteisöt
+Luku: 3 luku Kokonaan tai osittain verovapaat yhteisöt
 
 Tulon perusteella suoritettavasta verosta ovat vapaat:
 1) Suomen Pankki, Yleisradio Oy, Pohjoismaiden Investointipankki, Pohjoismaiden kehitysrahasto, Pohjoismaiden ympäristörahoitusyhtiö, Finnvera Oyj, Teollisen yhteistyön rahasto Oy, Suomen itsenäisyyden juhlarahasto, rahoitusvakausrahasto ja luottolaitostoiminnasta annetussa laissa (610/2014) tarkoitettu vanha talletussuojarahasto;

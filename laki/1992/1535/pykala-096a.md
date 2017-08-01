@@ -1,6 +1,6 @@
 # 96 a § Kollektiivisen lisäeläketurvan maksut
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
 
 Verovelvollisella on oikeus vähentää puhtaasta ansiotulostaan eläkesäätiössä, eläkekassassa tai vakuutusyhtiössä kollektiivisesti järjestetystä lisäeläketurvasta suorittamiansa maksuja 5 prosenttia eläketurvan järjestäneen työnantajan verovelvolliselle verovuonna maksaman palkan määrästä, kuitenkin enintään 5 000 euroa vuodessa. Maksut eivät ole vähennyskelpoisia siltä osin kuin niiden määrä ylittää työnantajan lisäeläketurvasta maksaman määrän. Vähennyskelpoisuuden edellytyksenä on lisäksi, että eläkettä aletaan vanhuuseläkkeenä maksaa aikaisintaan vakuutetun täytettyä 54 d §:n 2 momentin 2 kohdan b alakohdassa säädetyn iän.
 

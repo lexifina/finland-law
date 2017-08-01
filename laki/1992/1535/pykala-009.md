@@ -1,6 +1,6 @@
 # 9 § Yleinen ja rajoitettu verovelvollisuus
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 1 LUKU Verovelvollisuuden alueellinen ulottuvuus
+Luku: 1 luku Verovelvollisuuden alueellinen ulottuvuus
 
 Velvollinen suorittamaan veroa tulon perusteella on
 1) verovuonna Suomessa asunut henkilö, kotimainen yhteisö, yhteisetuus ja kuolinpesä täältä ja muualta saamastaan tulosta (yleinen verovelvollisuus);

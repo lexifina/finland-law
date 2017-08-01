@@ -1,6 +1,6 @@
 # 95 a § Työasuntovähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
 
 Jos verovelvollinen on varsinaisen työpaikkansa sijainnin vuoksi vuokrannut käyttöönsä asunnon (työasunto) ja verovelvollisella on myös toinen asunto, jossa hän puolisonsa tai alaikäisen lapsensa kanssa asuu (vakituinen asunto), vähennetään verovelvollisen tulonhankkimiskuluina 250 euroa jokaista sellaista täyttä kalenterikuukautta kohti, jona hänellä on ollut kaksi asuntoa (työasuntovähennys). Vähennyksenä myönnetään kuitenkin enintään verovelvollisen työasunnosta maksamaa vuokraa vastaava määrä. Vähennyksen myöntäminen edellyttää, että vakituinen asunto sijaitsee yli 100 kilometrin etäisyydellä työasunnosta ja siitä varsinaisesta työpaikasta, jonka sijainnin vuoksi työasunto on hankittu.
 

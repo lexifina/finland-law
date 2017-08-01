@@ -1,6 +1,6 @@
 # 40 § Elinkeinoyhtymän osakkaan tulo-osuuden pääomatulo-osuus
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Luonnollisen henkilön ja kuolinpesän osuus elinkeinoyhtymän elinkeinotoiminnan tuloksesta katsotaan pääomatuloksi siihen määrään saakka, joka vastaa osakkaan osuudelle yhtymän elinkeinotoimintaan verovuotta edeltäneen verovuoden päättyessä kuuluneesta nettovarallisuudesta laskettavaa 20 prosentin vuotuista tuottoa.
 

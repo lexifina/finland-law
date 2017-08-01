@@ -1,6 +1,6 @@
 # 92 § Verovapaat sosiaalietuudet
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Veronalaista tuloa eivät ole:
 1) kansaneläkelain (568/2007) mukainen lapsikorotus;

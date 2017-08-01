@@ -1,6 +1,6 @@
 # 127 a § Kotitalousvähennys
 Osa: VI OSA VERO
-Luku: 1 LUKU Valtionvero ja yhteisön tulovero
+Luku: 1 luku Valtionvero ja yhteisön tulovero
 
 Verovelvollinen saa vähentää verosta osan käyttämässään asunnossa tai vapaa-ajan asunnossa tehdystä työstä maksamistaan määristä (kotitalousvähennys). Vähennykseen oikeuttaa tavanomainen kotitalous-, hoiva- tai hoitotyö sekä asunnon tai vapaa-ajan asunnon kunnossapito- tai perusparannustyö. Vähennys on enintään 2 400 euroa vuodessa, ja se myönnetään vain siltä osin kuin 127 b §:ssä tarkoitettu vähennettävä osa kustannuksista ylittää 100 euroa.
 

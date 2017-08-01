@@ -1,6 +1,6 @@
 # 80 § Verovapaat vakuutus- ja vahingonkorvaukset
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Veronalaisia korvauksia eivät ole:
 1) sairaanhoitokustannusten ja niihin verrattavien menojen korvaus, ellei 78 §:stä muuta johdu;

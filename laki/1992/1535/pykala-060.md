@@ -1,6 +1,6 @@
 # 60 § Alijäämä ja pääomatulolajin tappio
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 3 LUKU Pääomatulosta tehtävät vähennykset
+Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
 Jos luonnollisen henkilön tai kuolinpesän vähennyskelpoisten tulonhankkimismenojen, korkomenojen ja pääomatuloista vähennettävien 59 §:ssä tarkoitettujen tappioiden yhteismäärä on suurempi kuin veronalaisten pääomatulojen yhteismäärä, erotus on pääomatulolajin alijäämä, jonka perusteella verovelvollisella on oikeus tehdä verosta 131–134 §:ssä tarkoitettu alijäämähyvitys.
 

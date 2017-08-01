@@ -1,6 +1,6 @@
 # 72 § Työmatka
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Työmatkalla tarkoitetaan matkaa, jonka verovelvollinen tilapäisesti tekee työhön kuuluvien tehtävien suorittamiseksi erityiselle työntekemispaikalle.
 

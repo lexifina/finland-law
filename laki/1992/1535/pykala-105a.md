@@ -1,6 +1,6 @@
 # 105 a § Kunnallisverotuksen ansiotulovähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
 
 Kunnallisverotuksessa verovelvollisen puhtaasta ansiotulosta vähennetään kunnallisverotuksen ansiotulovähennys. Vähennys lasketaan verovelvollisen ansaitsemien veronalaisten palkkatulojen, muusta toiselle suoritetusta työstä, tehtävästä tai palveluksesta saatujen ansiotulojen, ansiotulona pidettävien käyttökorvausten, ansiotulona verotettavan osingon, jaettavan yritystulon ansiotulo-osuuden sekä yhtymän osakkaan elinkeinotoiminnan tai maatalouden ansiotulo-osuuden perusteella.
 

@@ -1,6 +1,6 @@
 # 26 § Sijoitus yhtymään ja yksityiskäyttöönotto yhtymästä
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 4 LUKU Yritysjärjestelyt
+Luku: 4 luku Yritysjärjestelyt
 
 Yhtymän osakkaan sijoittaessa omaisuutta tai oikeuksia yhtymään katsotaan osakkaan verotuksessa omaisuuden tai oikeuden luovutushinnaksi todennäköinen luovutushinta sijoituksen ajankohtana. Yhtymän verotuksessa katsotaan omaisuuden tai oikeuden hankintamenoksi sama määrä.
 

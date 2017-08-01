@@ -1,6 +1,6 @@
 # 72 a § Tilapäinen työskentely erityisellä työntekemispaikalla
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Edellä 72 §:ssä tarkoitettuna tilapäisenä työskentelynä erityisellä työntekemispaikalla pidetään enintään kahden vuoden työskentelyä samassa työntekemispaikassa.
 

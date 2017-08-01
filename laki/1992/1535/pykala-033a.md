@@ -1,6 +1,6 @@
 # 33 a § Julkisesti noteeratusta yhtiöstä saatu osinko
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 Väliotsikko: Osinkotulot
 
 Julkisesti noteeratusta yhtiöstä saadusta osingosta 85 prosenttia on pääomatuloa ja 15 prosenttia verovapaata tuloa.

@@ -1,6 +1,6 @@
 # 33 f § Osuuskunnasta saatu varojenjako vapaan oman pääoman rahastosta
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Osuuskunnasta saatua osuuskuntalain 16 luvun 1 §:n 1 kohdassa tarkoitettua varojenjakoa vapaan oman pääoman rahastosta pidetään osuuskunnasta saatuna ylijäämänä ja siihen sovelletaan, mitä tämän lain 33 e §:ssä säädetään.
 

@@ -1,6 +1,6 @@
 # 82 § Stipendi, apuraha ja tunnustuspalkinto
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 Väliotsikko: Apurahat, palkinnot ja voitot
 
 Veronalaista tuloa ei ole:

@@ -1,6 +1,6 @@
 # 48 § Verovapaat luovutusvoitot
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Omaisuuden luovutuksesta saatu voitto ei ole veronalaista tuloa, jos verovelvollinen luovuttaa
 1) vähintään kahden vuoden ajan omistamansa sellaisen huoneiston hallintaan oikeuttavat osakkeet tai osuudet tai sellaisen rakennuksen tai sen osan, jota hän on omistusaikanaan yhtäjaksoisesti vähintään kahden vuoden ajan ennen luovutusta käyttänyt omana tai perheensä vakituisena asuntona (oman asunnon luovutusvoitto);

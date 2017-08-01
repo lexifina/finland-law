@@ -1,6 +1,6 @@
 # 47 § Omaisuuden hankintamenon laskemista koskevia erityisiä säännöksiä
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Omaisuuden hankintamenoon luetaan myös omaisuuden perusparannusmenot verovelvollisen omistusaikana. Vastikkeetta saadun omaisuuden hankintamenoksi katsotaan perintö- ja lahjaverotuksessa käytetty verotusarvo. Hankintameno lasketaan kuitenkin lahjoittajan hankintamenosta, jos lahjansaaja luovuttaa saamansa omaisuuden ennen kuin lahjoituksesta on kulunut yksi vuosi. Luovutettaessa edellä tarkoitetun ajan jälkeen vastikkeetta saatu maatila tai muu yritys tai sellaisen osa, johon on sovellettu perintö- ja lahjaverolain (378/1940) 55 §:ssä tarkoitettua huojennusta, huojennetun omaisuuden hankintamenona käytetään sitä arvoa, joka on laskettu perintö- ja lahjaverolain 55 §:n 2 momentin mukaisesti.
 

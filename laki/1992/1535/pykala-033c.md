@@ -1,6 +1,6 @@
 # 33 c § Ulkomaiselta yhteisöltä saatu osinko
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Ulkomaiselta yhteisöltä saatu osinko on veronalaista tuloa siten kuin tämän lain 33 a ja 33 b §:ssä säädetään, jos yhteisö on eri jäsenvaltioissa sijaitseviin emo- ja tytäryhtiöihin sovellettavasta yhteisestä verojärjestelmästä annetun neuvoston direktiivin 2011/96/EU, sellaisena kuin se on muutettuna neuvoston direktiiveillä 2013/13/EU ja 2014/86/EU, 2 artiklassa tarkoitettu yhtiö.
 

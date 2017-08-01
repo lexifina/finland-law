@@ -1,6 +1,6 @@
 # 61 § Ansiotulo
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Ansiotuloa on muu tulo kuin 2 luvussa tarkoitettu pääomatulo.
 

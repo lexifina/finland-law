@@ -1,6 +1,6 @@
 # 8 § Alaikäinen lapsi ja kasvattilapsi
 Osa: I OSA YLEISET SÄÄNNÖKSET
-Luku: 2 LUKU Yleiset määritelmät
+Luku: 2 luku Yleiset määritelmät
 
 Alaikäisellä lapsella tarkoitetaan tässä laissa lasta, joka ennen verovuoden alkua ei ole täyttänyt 17 vuotta.
 

@@ -1,6 +1,6 @@
 # 44 § Porotaloudesta saatu tulo ja sen laskeminen
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Porotaloudesta saatu tulo on veronalaista pääomatuloa lukuun ottamatta porotalouden hyväksi tehdyn työn arvoa.
 

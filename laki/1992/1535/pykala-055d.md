@@ -1,6 +1,6 @@
 # 55 d § Metsälahjavähennyksen valtiontukiseuranta
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 3 LUKU Pääomatulosta tehtävät vähennykset
+Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
 Metsälahjavähennykseen sovelletaan Euroopan unionin toiminnasta tehdyn sopimuksen 107 ja 108 artiklan soveltamisesta vähämerkityksiseen tukeen annettua komission asetusta (EU) N:o 1407/2013.
 

@@ -1,6 +1,6 @@
 # 46 § Luovutusvoiton laskeminen
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Omaisuuden luovutuksesta saadun voiton määrä lasketaan siten, että luovutushinnasta vähennetään omaisuuden hankintamenon poistamatta olevan osan ja voiton hankkimisesta olleiden menojen yhteismäärä. Muun verovelvollisen kuin yhteisön tai avoimen yhtiön taikka kommandiittiyhtiön saamasta luovutushinnasta vähennettävä määrä on kuitenkin aina vähintään 20 prosenttia ja, jos luovutettu omaisuus on ollut luovuttajalla vähintään 10 vuoden ajan, vähintään 40 prosenttia luovutushinnasta.
 

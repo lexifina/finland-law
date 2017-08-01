@@ -1,6 +1,6 @@
 # 3 § Yhteisö
 Osa: I OSA YLEISET SÄÄNNÖKSET
-Luku: 2 LUKU Yleiset määritelmät
+Luku: 2 luku Yleiset määritelmät
 
 Yhteisöllä tarkoitetaan tässä laissa:
 1) valtiota ja sen laitosta;

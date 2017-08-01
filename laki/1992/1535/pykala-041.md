@@ -1,6 +1,6 @@
 # 41 § Nettovarallisuuden laskenta
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Laskettaessa 38–40 §:n mukaista pääomatulo-osuutta nettovarallisuus lasketaan sekä varat ja velat arvostetaan varojen arvostamisesta verotuksessa annetussa laissa säädetyllä tavalla.
 

@@ -1,6 +1,6 @@
 # 58 a § Takausvelan koron vähennyskelpoisuus
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 3 LUKU Pääomatulosta tehtävät vähennykset
+Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
 Takaajalla tai muun vakuuden asettajalla on oikeus vähentää sitoumuksensa perusteella suorittamansa velan tai sen suorittamista varten ottamansa velan korot, jotka ovat kertyneet siitä alkaen, kun velallinen on todettu maksukyvyttömäksi. Nämä korot ovat kuitenkin vähennyskelpoisia vain, jos alkuperäisellä velallisella olisi ollut oikeus niiden vähentämiseen elinkeinotoimintaan tai maatalouteen kohdistuvina korkoina.
 

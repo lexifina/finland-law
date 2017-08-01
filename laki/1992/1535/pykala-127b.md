@@ -1,6 +1,6 @@
 # 127 b § Kotitalousvähennyksen peruste
 Osa: VI OSA VERO
-Luku: 1 LUKU Valtionvero ja yhteisön tulovero
+Luku: 1 luku Valtionvero ja yhteisön tulovero
 
 Verovelvollinen saa vähentää:
 1) kotitalousvähennykseen oikeuttavasta työstä maksamansa työnantajan sairausvakuutusmaksun, pakollisen työeläkemaksun, tapaturmavakuutusmaksun, työttömyysvakuutusmaksun ja ryhmähenkivakuutusmaksun sekä lisäksi 20 prosenttia maksamastaan palkasta;

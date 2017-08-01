@@ -1,6 +1,6 @@
 # 18 § Yhteisetuuden ja sen osakkaan verotus
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 2 LUKU Eräät verovelvollisuutta koskevat yleiset säännökset
+Luku: 2 luku Eräät verovelvollisuutta koskevat yleiset säännökset
 
 Edellä 5 §:ssä tarkoitettua yhteisetuutta verotetaan erillisenä verovelvollisena.
 

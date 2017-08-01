@@ -1,6 +1,6 @@
 # 31 § Luonnollisia vähennyksiä koskevat erityiset säännökset
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 1 LUKU Yleiset säännökset
+Luku: 1 luku Yleiset säännökset
 
 Tulon hankkimisesta johtuneita menoja ovat muun ohessa:
 1) verovelvollisen tulonhankinnassa työskennelleille henkilöille maksettu palkka ja muut edut;

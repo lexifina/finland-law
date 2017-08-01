@@ -1,6 +1,6 @@
 # 4 § Yhtymä
 Osa: I OSA YLEISET SÄÄNNÖKSET
-Luku: 2 LUKU Yleiset määritelmät
+Luku: 2 luku Yleiset määritelmät
 
 Yhtymällä tarkoitetaan tässä laissa:
 1) laivanisännistöyhtiötä, avointa yhtiötä, kommandiittiyhtiötä ja sellaista kahden tai useamman henkilön elinkeinotoiminnan harjoittamista varten perustamaa muuta kuin yhteisönä pidettävää yhteenliittymää, joka on tarkoitettu toimimaan osakkaiden yhteiseen lukuun (elinkeinoyhtymä);

@@ -1,6 +1,6 @@
 # 136 § Verotuksen kattosääntö
 Osa: VI OSA VERO
-Luku: 4 LUKU Erityiset säännökset
+Luku: 4 luku Erityiset säännökset
 
 1–2 momentit on kumottu L:lla 22.12.2005/1143.
 

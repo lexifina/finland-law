@@ -1,6 +1,6 @@
 # 71 § Verovapaat matkakustannusten korvaukset
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 Väliotsikko: Matkakustannusten korvaukset
 
 Veronalaista tuloa ei ole työnantajalta työmatkasta saatu matkustamiskustannusten korvaus, päiväraha, ateriakorvaus ja majoittumiskorvaus. Veronalaista tuloa ei ole myöskään matkustamiskustannusten eikä kohtuullisten majoittumiskustannusten korvaus matkasta, jonka työntekijä työtehtäviensä hoitamiseksi muutoin kuin 72 §:n 1 momentissa tarkoitetulla tavalla tekee toissijaiseen työpaikkaansa, jona pidetään sellaista työnantajan tai tämän kanssa samaan intressipiiriin kuuluvan yhteisön vakituista toimipaikkaa, joka sijaitsee toisella paikkakunnalla tai toisessa valtiossa kuin työntekijän ensisijaisena pidettävä varsinainen työpaikka.

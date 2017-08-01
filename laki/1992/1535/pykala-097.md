@@ -1,6 +1,6 @@
 # 97 § Merityötulovähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
 
 Puhtaasta ansiotulosta valtion- ja kunnallisverotuksessa myönnetään jäljempänä säädetyin edellytyksin merityötulovähennys 74 §:ssä tarkoitetun merityötulon saajalle.
 

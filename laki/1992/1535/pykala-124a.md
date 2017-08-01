@@ -1,6 +1,6 @@
 # 124 a § Veron määräytyminen verovuosina 2012–2016
 Osa: VI OSA VERO
-Luku: 1 LUKU Valtionvero ja yhteisön tulovero
+Luku: 1 luku Valtionvero ja yhteisön tulovero
 
 Poiketen siitä, mitä 124 §:n 3 momentissa säädetään:
 1) vuonna 2012 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 7,5068 ja 21 §:n 2 momentissa tarkoitetun yhteisön tuloveroprosentti on 6,9433;

@@ -1,6 +1,6 @@
 # 58 § Korkomenot
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 3 LUKU Pääomatulosta tehtävät vähennykset
+Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
 Verovelvollisella on oikeus vähentää pääomatuloistaan velkojensa korot, jos velka kohdistuu veronalaisen tulon hankkimiseen, jollaisena pidetään myös osinkotuloa sen estämättä, että osinkotulo on 33 a–33 d §:n nojalla verovapaata tuloa (tulonhankkimisvelka).
 

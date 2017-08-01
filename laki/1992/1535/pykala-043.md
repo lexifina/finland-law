@@ -1,6 +1,6 @@
 # 43 § Metsätalouden pääomatulo
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 Väliotsikko: Metsätaloudesta ja porotaloudesta saatu tulo
 
 Veronalaista pääomatuloa on verovelvollisen omassa metsässä kasvavan runkopuun hakkuuoikeuden ensimmäisestä vastikkeellisesta luovutuksesta (pystykauppa) saatu tulo ja hankintakaupalla myydystä runkopuusta valmistettavasta tai valmistetusta puutavarasta, kuten tukeista, pylväistä, kuitupuusta tai haloista sekä hakkeesta saadun tulon pääomatulo-osuus. Hankintakaupalla saadun tulon pääomatulo-osuutena pidetään puun myyntituloa vähennettynä hankintatyön arvolla. Metsätalouden pääomatuloa on myös muusta kuin runkopuusta saatu metsätalouden tulo, kuten tulo hakkuutähteiden, kantojen, muun metsäenergiapuun, koristehavujen, tienvarsikeppien, joulupuiden tai vastaavien luovutuksesta. Mitä edellä tässä momentissa säädetään, sovelletaan myös puun myyntituloon, joka on saatu kiinteistön luovutuksesta pidätetyn hakkuuoikeuden nojalla.

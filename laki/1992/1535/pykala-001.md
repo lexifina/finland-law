@@ -1,6 +1,6 @@
 # 1 § Tulovero ja veronsaajat
 Osa: I OSA YLEISET SÄÄNNÖKSET
-Luku: 1 LUKU Lain soveltamisala
+Luku: 1 luku Lain soveltamisala
 
 Ansiotulosta suoritetaan veroa valtiolle, kunnalle ja seurakunnalle.
 

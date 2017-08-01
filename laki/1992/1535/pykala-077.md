@@ -1,6 +1,6 @@
 # 77 § Ulkomaantyötulo
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Ulkomailla tehdystä työstä saatu palkka (ulkomaantyötulo) ei ole veronalaista tuloa, jos verovelvollisen oleskelu ulkomailla johtuu tästä työstä ja kestää yhtäjaksoisesti vähintään kuusi kuukautta (ulkomaantyöskentely). Ulkomaantyötulona ei pidetä palkkaa, jota työskentelyvaltio Suomen ja tämän valtion välillä voimassa olevan kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen mukaan ei saa ensisijaisesti verottaa, 66 §:ssä tarkoitetusta työsuhteeseen perustuvasta edusta saatua tuloa eikä palkkaa, joka on saatu Suomen valtiolta, kunnalta tai muulta suomalaiselta julkisyhteisöltä, Finpro ry:ltä tai Finpro Oy:ltä taikka suomalaisessa vesi- tai ilma-aluksessa tehdystä työstä.
 

@@ -1,6 +1,6 @@
 # 30 a § Yrittäjävähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 1 LUKU Yleiset säännökset
+Luku: 1 luku Yleiset säännökset
 
 Luonnollisen henkilön ja kuolinpesän tulona verotettavasta verovuoden elinkeinotoiminnan, maatalouden, metsätalouden ja porotalouden tulosta vähennetään yrittäjävähennyksenä viisi prosenttia siltä osin kuin kyse on:
 1) 15 §:n 2 momentissa tarkoitetusta verotusyhtymän osakkaan puhtaasta tulosta, josta on vähennetty aikaisemmilta verovuosilta vahvistetut osakkaan maatalouden tappiot yhtymästä;

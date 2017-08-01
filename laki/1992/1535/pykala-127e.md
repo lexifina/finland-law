@@ -1,6 +1,6 @@
 # 127 e § Opintolainavähennyksen tekeminen
 Osa: VI OSA VERO
-Luku: 1 LUKU Valtionvero ja yhteisön tulovero
+Luku: 1 luku Valtionvero ja yhteisön tulovero
 
 Opintolainavähennys tehdään ensisijaisesti valtion tuloverosta. Vähennys tehdään ansiotuloista ja pääomatuloista suoritettavista veroista verojen määrien suhteessa. Siltä osin kuin vähennys ylittää valtion tuloveron määrän, se tehdään kunnallisverosta, vakuutetun sairausvakuutuksen sairaanhoitomaksusta ja kirkollisverosta näiden verojen suhteessa. Vähennys tehdään tuloverosta tehtävien muiden vähennysten sekä 131 ja 131 a §:ssä tarkoitettujen alijäämähyvitysten jälkeen.
 

@@ -1,6 +1,6 @@
 # 57 § Lahjoitusvähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 3 LUKU Pääomatulosta tehtävät vähennykset
+Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
 Yhteisö saa valtioneuvoston asetuksella tarkemmin säädettävällä tavalla vähentää tulostaan:
 1) vähintään 850 euron ja enintään 250 000 euron suuruisen rahalahjoituksen, joka on tehty tiedettä, taidetta tai suomalaisen kulttuuriperinteen säilyttämistä edistävään tarkoitukseen Euroopan talousalueeseen kuuluvalle valtiolle tai Euroopan talousalueella olevalle julkista rahoitusta saavalle yliopistolle tai korkeakoululle taikka näiden yhteydessä olevalle yliopistorahastolle;

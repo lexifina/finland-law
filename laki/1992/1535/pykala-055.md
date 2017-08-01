@@ -1,6 +1,6 @@
 # 55 § Metsävähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 3 LUKU Pääomatulosta tehtävät vähennykset
+Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
 Luonnollisella henkilöllä, kuolinpesällä ja näiden muodostamalla verotusyhtymällä sekä yhteisetuudella on oikeus tehdä metsävähennys maatilana pidettävältä kiinteistöltä saamastaan metsätalouden pääomatulosta ennen 56 §:ssä tarkoitettujen vähennysten tekemistä.
 

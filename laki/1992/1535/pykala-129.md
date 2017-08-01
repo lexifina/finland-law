@@ -1,6 +1,6 @@
 # 129 § Tulontasauksen toimittaminen
 Osa: VI OSA VERO
-Luku: 1 LUKU Valtionvero ja yhteisön tulovero
+Luku: 1 luku Valtionvero ja yhteisön tulovero
 
 Tulontasausta varten jaetaan 128 §:ssä tarkoitettu tulontasauksen kohteena oleva kertatulo niiden vuosien lukumäärällä, joilta tulon katsotaan kertyneen, kuitenkin enintään viidellä.
 

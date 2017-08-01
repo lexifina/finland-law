@@ -1,6 +1,6 @@
 # 7 § Puolisot
 Osa: I OSA YLEISET SÄÄNNÖKSET
-Luku: 2 LUKU Yleiset määritelmät
+Luku: 2 luku Yleiset määritelmät
 
 Tässä laissa tarkoitetaan puolisoilla sellaisia henkilöitä, jotka ennen verovuoden päättymistä ovat solmineet avioliiton.
 

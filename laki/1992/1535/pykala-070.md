@@ -1,6 +1,6 @@
 # 70 § Kansanedustajan, valtioneuvoston jäsenen ja Euroopan parlamentin jäsenen määrätyt edut
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Veronalaista tuloa ei ole kohtuullinen korvaus, joka maksetaan kansanedustajan toimen hoitamisesta aiheutuneiden erityisten kustannusten ja elantokustannusten lisäyksen kattamiseksi.
 

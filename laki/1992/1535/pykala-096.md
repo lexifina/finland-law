@@ -1,6 +1,6 @@
 # 96 § Pakolliset vakuutusmaksut
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
 Väliotsikko: Puhtaasta ansiotulosta valtion- ja kunnallisverotuksessa tehtävät vähennykset
 
 Verovelvollisella on oikeus vähentää puhtaasta ansiotulostaan lakisääteinen työntekijän eläkemaksu, työttömyysvakuutusmaksu ja sairausvakuutuksen päivärahamaksu sekä omasta ja puolisonsa pakollisesta eläkevakuutuksesta suorittamansa maksut.

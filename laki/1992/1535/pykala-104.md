@@ -1,6 +1,6 @@
 # 104 § Kunnallisverotuksen invalidivähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
 
 Verovelvollisen luonnollisen henkilön puhtaasta ansiotulosta kunnallisverotuksessa vähennetään 440 euroa, jos hänellä on sairaudesta, viasta tai vammasta aiheutunut pysyvä haitta, jonka haitta-aste esitetyn selvityksen mukaan on 100 prosenttia. Jos prosenttimäärä on pienempi, mutta kuitenkin vähintään 30 prosenttia, vähennyksenä myönnetään prosenttimäärän osoittama osuus 440 eurosta. Vähennys myönnetään kuitenkin enintään muun puhtaan ansiotulon kuin eläketulon suuruisena.
 

@@ -1,6 +1,6 @@
 # 76 § Eräät ulkomailla työskentelyyn liittyvät verovapaat korvaukset
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 Väliotsikko: Ulkomailla työskentelystä saadut tulot
 
 Veronalaista tuloa ei ole:

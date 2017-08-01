@@ -1,6 +1,6 @@
 # 34 a § Vapaaehtoiseen yksilölliseen eläkevakuutukseen ja pitkäaikaissäästämissopimukseen perustuvat suoritukset
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Veronalaista pääomatuloa on luonnollisen henkilön ottamaan vapaaehtoiseen yksilölliseen eläkevakuutukseen perustuva eläke ja muu vakuutussuoritus sekä takaisinoston perusteella saatu määrä, samoin kuin 54 d §:ssä tarkoitettu sidotusta pitkäaikaissäästämisestä annetussa laissa (1183/2009) tarkoitettuun sopimukseen (pitkäaikaissäästämissopimus) perustuva suoritus.
 

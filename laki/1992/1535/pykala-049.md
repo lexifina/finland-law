@@ -1,6 +1,6 @@
 # 49 § Osittain verovapaat luovutusvoitot
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Muun verovelvollisen kuin yhteisön tai avoimen yhtiön taikka kommandiittiyhtiön luovutusvoiton veronalaista määrää laskettaessa luovutushinnasta vähennetään vähintään 80 prosenttia, jos
 1) kiinteä omaisuus, toisen maalla oleva rakennus tai niiden pysyvä käyttöoikeus, joita verovelvollinen ei ole hankkinut ilmeisesti keinottelutarkoituksessa, on luovutettu kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain (603/77) mukaisella menettelyllä tai muulla siihen rinnastettavalla menettelyllä;

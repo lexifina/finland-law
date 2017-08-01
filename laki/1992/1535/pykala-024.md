@@ -1,6 +1,6 @@
 # 24 § Toimintamuodon muutokset
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 4 LUKU Yritysjärjestelyt
+Luku: 4 luku Yritysjärjestelyt
 
 Yhtymän ei katsota verotuksessa purkautuvan eikä liikkeen, ammatin taikka maa- tai metsätalouden harjoittajan lopettavan toimintaansa siltä osin kuin toimintamuodon muutoksessa aikaisemmin harjoitettuun toimintaan liittyvät varat ja velat siirtyvät samoista arvoista seuraavissa tapauksissa:
 1) liikkeen- tai ammatinharjoittajan taikka maa- tai metsätalouden harjoittaja perustaa tätä toimintaa jatkamaan avoimen yhtiön, johon hän tulee yhtiömieheksi tai kommandiittiyhtiön, johon hän tulee vastuunalaiseksi yhtiömieheksi tai osakeyhtiön, jonka osakkeet hän merkitsee;

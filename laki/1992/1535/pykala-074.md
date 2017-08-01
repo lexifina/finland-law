@@ -1,6 +1,6 @@
 # 74 § Merityötulo
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 Väliotsikko: Merityötulo ja siihen liittyvät matkustuskorvaukset
 
 Merityötulolla tarkoitetaan laivanisännän tai Verohallinnon määräämän muun tähän rinnastettavan aluksen liikennöintiä hoitavan työnantajan palveluksessa, bruttovetoisuudeltaan vähintään 100 rekisteritonnin aluksessa tehdystä aluksen liikennöintiin liittyvästä työstä rahana tai rahanarvoisena etuutena saatua palkkatuloa edellyttäen, että:

@@ -1,6 +1,6 @@
 # 81 § Kertamaksulliset eläkkeet
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Eläkkeestä, joka perustuu verovelvollisen kerralla maksamaan vakuutukseen taikka jonka hän on muutoin saanut ostamalla, vaihtamalla tai muuta vastiketta kuin kiinteistöä vastaan tai muulla näihin verrattavalla vastikkeellisella saannolla, on veronalaista ansiotuloa seuraava osuus:
 jos eläkkeensaajan ikä on verovuoden päättyessä vähemmän kuin 44 vuotta | 60 %

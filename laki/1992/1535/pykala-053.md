@@ -1,6 +1,6 @@
 # 53 § Eräät verovapaat pääomatulot
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Veronalaista tuloa ei ole:
 1) etu, jonka verovelvollinen on saanut omaan tai perheensä tarpeeseen käytetystä asunnosta, joka hänellä on asunto-osakeyhtiön tai muun asunto- tai kiinteistöyhteisön osakkaana tai jäsenenä ollut käytössään käypää vuokraa alemmasta vastikkeesta;

@@ -1,6 +1,6 @@
 # 50 § Luovutustappio
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Omaisuuden luovutuksesta syntynyt tappio vähennetään omaisuuden luovutuksesta saadusta voitosta verovuonna ja viitenä sitä seuraavana vuotena sitä mukaan kuin voittoa kertyy. Luonnollisen henkilön ja kotimaisen kuolinpesän verotuksessa vähennyskelpoinen luovutustappio, joka jää vähentämättä omaisuuden luovutuksesta saadusta voitosta, vähennetään puhtaasta pääomatulosta ennen muita pääomatuloista tehtäviä vähennyksiä. Omaisuuden luovutuksesta syntynyttä tappiota ei oteta huomioon pääomatulojen alijäämää vahvistettaessa.
 

@@ -1,6 +1,6 @@
 # 69 § Tavanomainen henkilökuntaetu
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Veronalaiseksi tuloksi ei katsota, ellei edellä säädetystä muuta johdu, koko henkilökunnan tai työnantajan palveluksesta eläkkeellä olevien työnantajalta saamaa tavanomaista ja kohtuullista:
 1) etua työnantajan järjestämästä terveydenhuollosta, lukuun ottamatta työnantajan työntekijälle suorittamaa korvausta terveydenhuollosta tai sairaudesta johtuvista kustannuksista;

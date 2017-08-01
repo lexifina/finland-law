@@ -1,6 +1,6 @@
 # 68 § Työnantajan maksamat vakuutusmaksut
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Työnantajan maksamat työntekijän säästöhenkivakuutuksen ja vapaaehtoisen yksilöllisen eläkevakuutuksen maksut ovat vakuutetun veronalaista ansiotuloa.
 

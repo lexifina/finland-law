@@ -1,6 +1,6 @@
 # 55 b § Metsälahjavähennyksen tekeminen
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 3 LUKU Pääomatulosta tehtävät vähennykset
+Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
 Verovuonna tehtävä metsälahjavähennys on enintään 195 000 euroa, jollei 55 d §:stä muuta johdu, ja enintään 50 prosenttia metsätalouden puhtaasta pääomatulosta ennen metsälahjavähennyksen tekemistä. Verovuonna ja aiemmin tehtyjen metsälahjavähennysten yhteismäärä ei saa ylittää vähennyspohjaa.
 

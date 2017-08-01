@@ -1,6 +1,6 @@
 # 127 c § Kotitalousvähennyksen tekeminen
 Osa: VI OSA VERO
-Luku: 1 LUKU Valtionvero ja yhteisön tulovero
+Luku: 1 luku Valtionvero ja yhteisön tulovero
 
 Kotitalousvähennys vähennetään ensisijaisesti valtion tuloverosta. Vähennys tehdään ansiotuloista ja pääomatuloista suoritettavista veroista verojen määrien suhteessa. Ansiotuloista menevästä verosta vähennys tehdään muiden vähennysten jälkeen ennen alijäämähyvitystä. Siltä osin kuin vähennys ylittää valtion tuloveron määrän, se tehdään kunnallisverosta, sairausvakuutuksen sairaanhoitomaksusta ja kirkollisverosta näiden verojen suhteessa.
 

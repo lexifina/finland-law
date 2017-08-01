@@ -1,6 +1,6 @@
 # 100 § Valtionverotuksen eläketulovähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 5 LUKU Ansiotulosta tehtävät vähennykset
+Luku: 5 luku Ansiotulosta tehtävät vähennykset
 Väliotsikko: Puhtaasta ansiotulosta valtionverotuksessa tehtävät vähennykset
 
 Verovelvollisen puhtaasta ansiotulosta vähennetään valtionverotuksessa eläketulovähennys.

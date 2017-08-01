@@ -1,6 +1,6 @@
 # 126 § Valtionverotuksen invalidivähennys
 Osa: VI OSA VERO
-Luku: 1 LUKU Valtionvero ja yhteisön tulovero
+Luku: 1 luku Valtionvero ja yhteisön tulovero
 
 Verovelvollisen ansiotulosta valtiolle suoritettavasta tuloverosta vähennetään 115 euroa, jos hänellä on sairaudesta, viasta tai vammasta aiheutunut pysyvä haitta, jonka haitta-aste esitetyn selvityksen mukaan on 100 prosenttia tai, jos prosenttimäärä on pienempi, mutta kuitenkin vähintään 30 prosenttia, prosenttimäärän osoittama osuus 115 eurosta.
 

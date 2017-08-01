@@ -1,6 +1,6 @@
 # 17 § Kuolinpesän ja sen osakkaan verotus
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 2 LUKU Eräät verovelvollisuutta koskevat yleiset säännökset
+Luku: 2 luku Eräät verovelvollisuutta koskevat yleiset säännökset
 
 Verovuoden aikana kuolleen henkilön kuolinpesää verotetaan kuolinvuodelta sekä vainajan että kuolinpesän tulosta. Tällöin kuolinpesään sovelletaan niitä tämän lain säännöksiä, joita vainajaan olisi sovellettu.
 

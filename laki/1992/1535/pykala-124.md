@@ -1,6 +1,6 @@
 # 124 § Veron määräytyminen
 Osa: VI OSA VERO
-Luku: 1 LUKU Valtionvero ja yhteisön tulovero
+Luku: 1 luku Valtionvero ja yhteisön tulovero
 Väliotsikko: Yleisiä säännöksiä
 
 Luonnollisen henkilön ja kuolinpesän on suoritettava valtiolle tuloveroa verotettavasta ansiotulostaan progressiivisen tuloveroasteikon perusteella ja verotettavasta pääomatulostaan tuloveroprosentin mukaan. Luonnollisen henkilön on eläketulostaan suoritettava valtiolle lisäksi eläketulon lisäveroa siten kuin 4 momentissa säädetään. Muun verovelvollisen on suoritettava tuloveroa verotettavasta tulostaan tuloveroprosentin mukaan.

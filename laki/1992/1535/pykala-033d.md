@@ -1,6 +1,6 @@
 # 33 d § Muita osinkotuloa koskevia säännöksiä
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Verotusmenettelystä annetun lain (1558/1995) 29 §:ssä tarkoitetusta peitellystä osingosta 75 prosenttia on ansiotuloa ja 25 prosenttia verovapaata tuloa. Peitelty osinko on kuitenkin kokonaan veronalaista ansiotuloa, jos peitelty osinko on saatu tämän lain 33 c n 3 momentissa tarkoitetulta ulkomaiselta yhteisöltä.
 

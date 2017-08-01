@@ -1,6 +1,6 @@
 # 73 § Verovapaiden korvausten perusteet ja määrä
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 4 LUKU Ansiotulon veronalaisuus
+Luku: 4 luku Ansiotulon veronalaisuus
 
 Verohallinto antaa vuosittain etukäteen tarkemmat määräykset verovapaiden matkakustannusten korvausten perusteista ja määristä varattuaan kulukorvausasiain neuvottelukunnalle tilaisuuden tulla kuulluksi asiassa. Tarkemmat säännökset neuvottelukunnasta annetaan valtioneuvoston asetuksella.
 

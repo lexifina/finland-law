@@ -1,6 +1,6 @@
 # 34 b § Eläkevakuutukseen ja pitkäaikaissäästämissopimukseen perustuvan suorituksen verotusta koskevia erityisiä säännöksiä
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 
 Jos vakuutukseen perustuva eläke tai pitkäaikaissäästämissopimukseen perustuva suoritus maksetaan lyhyemmässä ajassa kuin 10 vuodessa tai lyhyemmässä kuin 54 d §:n 4 momentin 1 kohdan mukaisessa ajassa taikka jos eläke tai suoritus maksetaan 54 d §:n 2 momentin vastaisesti, maksettu määrä luetaan pääomatuloksi 50 prosentilla korotettuna. Korotusta ei kuitenkaan määrätä siltä osin kuin verovelvollinen osoittaa, että maksuja ei ole vähennetty Suomen verotuksessa.
 

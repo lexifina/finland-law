@@ -1,6 +1,6 @@
 # 33 e § Osuuskunnasta saatu ylijäämä
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 Väliotsikko: Osuuskunnasta saatu ylijäämä ja muu varojenjako
 
 Osuuskunnasta saadulla ylijäämällä tarkoitetaan osuuspääoman korkoa ja muuta osuuskuntalain (421/2013) 16 luvun 1 §:n 1 kohdassa tarkoitettua osuuskunnan jakamaa ylijäämää.

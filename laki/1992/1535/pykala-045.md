@@ -1,6 +1,6 @@
 # 45 § Luovutusvoiton veronalaisuus
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 Väliotsikko: Luovutusvoitot
 
 Omaisuuden luovutuksesta saatu voitto on veronalaista pääomatuloa siten kuin tässä luvussa säädetään.

@@ -1,6 +1,6 @@
 # 22 § Yleishyödyllinen yhteisö
 Osa: II OSA VEROVELVOLLISUUS
-Luku: 3 LUKU Kokonaan tai osittain verovapaat yhteisöt
+Luku: 3 luku Kokonaan tai osittain verovapaat yhteisöt
 
 Yhteisö on yleishyödyllinen, jos
 1) se toimii yksinomaan ja välittömästi yleiseksi hyväksi aineellisessa, henkisessä, siveellisessä tai yhteiskunnallisessa mielessä;

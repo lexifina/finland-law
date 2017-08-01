@@ -1,6 +1,6 @@
 # 34 § Henkilövakuutukseen perustuvien vakuutuskorvausten veronalaisuus
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
-Luku: 2 LUKU Pääomatulon veronalaisuus
+Luku: 2 luku Pääomatulon veronalaisuus
 Väliotsikko: Yksityisvakuutusetuudet
 
 Henkivakuutuksen sekä 34 a §:ssä tarkoitetun vapaaehtoisen yksilöllisen eläkevakuutuksen nojalla saatu vakuutussuoritus on veronalaista pääomatuloa ja muun henkilövakuutuksen nojalla saatu vakuutussuoritus on veronalaista ansiotuloa siten kuin jäljempänä säädetään.
