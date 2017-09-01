@@ -1,0 +1,2 @@
+Laki Kansainvälisen merenkulkujärjestön eräiden yleissopimusten eräiden liitteiden muutosten lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
