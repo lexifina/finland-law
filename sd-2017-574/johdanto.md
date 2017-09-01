@@ -1,0 +1,2 @@
+Laki joukkolainanhaltijoiden edustajasta
+Eduskunnan päätöksen mukaisesti säädetään:
