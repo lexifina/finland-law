@@ -1,0 +1,2 @@
+Laki alusten painolastivesien ja sedimenttien valvonnasta ja käsittelystä tehdyn kansainvälisen yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
