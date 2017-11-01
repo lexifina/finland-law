@@ -1,4 +1,4 @@
 # 36 § Ennakonpidätyksen lukeminen yhtymän osakkaiden hyväksi
 Luku: 4 luku Yleiset menettelysäännökset ja verotuksen toimittaminen
 
-Yhtymältä pidätetty ennakko luetaan yhtiömiesten veron suoritukseksi niiden osuuksien mukaan, jotka heillä on yhtymän tuloon. Yhtymältä pidätetty ennakko luetaan yhtymän osakkaan sen verovuoden hyväksi, jonka aikana ennakonpidätys on toimitettu.
+Yhtymältä pidätetty ennakonpidätys luetaan yhtiömiesten verotuksessa yhtiömiehen hyväksi sen osuuden mukaan, joka hänellä on yhtymän tuloon. Yhtymältä pidätetty ennakonpidätys luetaan yhtymän osakkaan hyväksi sen verovuoden verotuksessa, jonka aikana ennakonpidätys on toimitettu.

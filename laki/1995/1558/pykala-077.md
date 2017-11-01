@@ -1,12 +1,6 @@
 # 77 § Korkojen laskeminen muutostilanteessa
 Luku: 6 luku Muutoksiin liittyvät erinäiset säännökset
 
-Verovuoden jäännösveron korko lasketaan verotuksen muutoksesta johtuvalle verolle verovuotta seuraavan vuoden helmikuun 1 päivästä verolle määrättävään eräpäivään. Palautuskorko lasketaan verotuksen muutoksen johdosta palautettavalle verolle ja veronkorotukselle mainitusta päivästä tai, jos vero on suoritettu myöhemmin, maksupäivästä palautuspäivään. Jos verotusta oikaistaessa verovelvollisen suoritettavaksi määrätään veronlisäys, jäännösveron korko lasketaan mainitusta päivästä verovelvollisen verotuksen päättymistä seuraavan toisen kuukauden loppuun.
+Koron laskemisesta verotuksen muutoksen johdosta maksettavalle verolle säädetään veronlisäyksestä ja viivekorosta annetussa laissa.
 
-Verovuodelta maksettava yhteisökorko lasketaan verotuksen muutoksesta johtuvalle verolle verovuoden veroilmoituksen viimeistä antopäivää seuraavasta päivästä verolle määrättävään eräpäivään. Palautettava yhteisökorko lasketaan verotuksen muutoksen johdosta palautettavalle verolle ja veronkorotukselle mainituista päivistä tai, jos vero on suoritettu myöhemmin, maksupäivästä palautuspäivään. Jos verotusta oikaistaessa verovelvollisen suoritettavaksi määrätään veronlisäys, maksettava yhteisökorko lasketaan verovuoden veroilmoituksen viimeistä antopäivää seuraavasta päivästä verovelvollisen verotuksen päättymistä seuraavan toisen kuukauden loppuun.
-
-Jäännösveron korko on muutostilanteessa 43 §:n 2 momentissa säädetyn suuruinen verovelvollisen verotuksen päättymistä seuraavan toisen kuukauden loppuun. Sen jälkeiseltä ajalta jäännösveron korko on kutakin kalenterivuotta edeltävän puolivuotiskauden korkolain 12 §:ssä tarkoitettu viitekorko vähennettynä kahdella prosenttiyksiköllä, kuitenkin vähintään 0,5 prosenttia. Maksettava yhteisökorko on muutostilanteessa 40 §:n 1 momentissa säädetyn suuruinen verovelvollisen verotuksen päättymistä seuraavan toisen kuukauden loppuun. Sen jälkeiseltä ajalta yhteisökorko on kutakin kalenterivuotta edeltävän puolivuotiskauden korkolain 12 §:ssä tarkoitettu viitekorko vähennettynä kahdella prosenttiyksiköllä, kuitenkin vähintään 0,5 prosenttia.
-
-Jos edellä tässä pykälässä tarkoitettua palautettavaa veroa on kertynyt jäännösverona, palautetaan myös jäännösverolle kertynyt jäännösveron korko sekä maksettava yhteisökorko. Jos perittävää veroa on palautettu verovelvolliselle ennakonpalautuksena, jäännösveron korko tai maksettava yhteisökorko peritään tältä osin ennakonpalautuksen palautuspäivästä määrättävään eräpäivään.
-
-Verohallinto voi antaa tarkempia määräyksiä tässä pykälässä tarkoitettujen korkojen laskemisesta.
+Koron laskemisesta verotuksen muutoksen johdosta palautettavalle verolle ja veronkorotukselle säädetään veronkantolaissa.

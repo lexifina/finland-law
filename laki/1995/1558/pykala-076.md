@@ -7,4 +7,4 @@ Jos veron maksun lykkäyksen johdosta on peritty lykkäysajalta korkoa, palautet
 
 Palautusta, joka siirretään toiselle valtiolle, ei palauteta verovelvolliselle eikä siirrettävälle määrälle suoriteta korkoa.
 
-Jos muutoksenhaun johdosta annetun päätöksen perusteella joku on määrättävä verovelvolliseksi tai veroa on korotettava, Verohallinto muuttaa verotusta ja perii maksamattoman veron korkoseuraamuksineen.
+Jos muutoksenhaun johdosta annetun päätöksen perusteella joku on määrättävä verovelvolliseksi tai veroa on korotettava, Verohallinto muuttaa verotusta ja perii maksamattoman veron korkoseuraamuksineen. Jos verotuksen muutoksen johdosta määrättävän veron määrä on pienempi kuin kymmenen euroa, veroa ei määrätä maksettavaksi.
