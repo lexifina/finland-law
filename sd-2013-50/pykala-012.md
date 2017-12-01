@@ -5,6 +5,6 @@ Energiatodistuksen saa laatia henkilö, jonka pätevyys on todettu ja voimassa, 
 
 Energiatodistuksen laatijalla tulee olla energiatodistuksen laatimistehtävän vaativuustason mukainen soveltuva tekniikan alan tutkinto tai tämän korvaava työkokemus sekä energiatodistuksen laatijakokeen hyväksyttävällä suorituksella osoitettu perehtyneisyys energiatodistuksen laadintaan ja energiatodistusta koskevaan lainsäädäntöön.
 
-Toisessa Euroopan talousalueeseen kuuluvassa jäsenvaltiossa hankitun muodollisen kelpoisuuden ja ammattipätevyyden tunnustamiseen sovelletaan ammattipätevyyden tunnustamisesta annettua lakia (1093/2007).
+Ulkomailla hankitun muodollisen kelpoisuuden ja ammattipätevyyden tunnustamiseen sovelletaan ammattipätevyyden tunnustamisesta annettua lakia (1384/2015).
 
 Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä vaativuustasoista ja niiden edellyttämisestä todistuksia laadittaessa sekä vaativuustasojen mukaisista soveltuvista tutkinnoista, korvaavaksi hyväksyttävästä työkokemuksesta ja energiatodistuksen laatijakokeen sisällöstä.

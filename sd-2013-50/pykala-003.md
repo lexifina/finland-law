@@ -1,15 +1,9 @@
-# 3 § Velvollisuuksien kohteena olevat ja niistä vapautetut rakennukset
+# 3 § Energiatodistuksen hankkimis- ja käyttövelvollisuuden kohteena olevat rakennukset
 Luku: 2 luku Energiatodistuksen laatiminen, hankkiminen, käyttö ja voimassaolo
 
-Tässä laissa säädetyt velvollisuudet hankkia energiatodistus ja käyttää sitä koskevat rakennusta, jossa käytetään energiaa rakennuksen tilojen tarkoituksenmukaisten sisäilmasto-olosuhteiden ylläpitämiseksi. Velvollisuudet eivät kuitenkaan koske:
-1) rakennusta, jonka pinta-ala on enintään 50 neliömetriä;
-2) loma-asumiseen tarkoitettua rakennusta, jota ei käytetä majoituselinkeinon harjoittamiseen;
-3) väliaikaista rakennusta, jonka käyttöaika on enintään kaksi vuotta;
-4) teollisuus- ja korjaamorakennusta;
-5) muuhun kuin asuinkäyttöön tarkoitettua maatilarakennusta, jossa energiantarve on vähäinen tai jota käytetään alalla, jota koskee kansallinen alakohtainen energiatehokkuussopimus;
-6) rakennusta, joka on suojeltu maankäyttö- ja rakennuslain (132/1999) mukaisella kaavalla, rakennusperinnön suojelemisesta annetun lain (498/2010) tai sitä edeltävien säännösten mukaisella päätöksellä taikka rakennusta, joka sijaitsee maailman kulttuuri- ja luonnonperinnön suojelemisesta tehdyn yleissopimuksen (SopS 19/1987) mukaisessa maailmanperintöluetteloon hyväksytyssä kohteessa tai on kohteena viranomaisten välisessä rakennuksen suojelua koskevassa sopimuksessa, edellyttäen, että rakennuksen luonne tai ulkonäkö muuttuisi vaatimusten vuoksi tavalla, jota ei voida hyväksyä;
-7) kirkkoa tai muuta uskonnollisen yhteisön omistamaa rakennusta, jossa on vain kokoontumiseen tai hartauden harjoittamiseen taikka näitä palvelevaan toimintaan tarkoitettuja tiloja;
-8) kasvihuonetta, väestönsuojaa tai muuta rakennusta, jonka käyttö tarkoitukseensa vaikeutuisi kohtuuttomasti, jos niihin sovellettaisiin rakennusten energiatehokkuutta koskevia säännöksiä ja määräyksiä; eikä
-9) sellaista puolustushallinnon käytössä olevaa rakennusta, johon tai jonka käyttöön liittyy salassa pidettävää tietoa.
+Edellä 2 §:ssä säädetty velvollisuus hankkia energiatodistus ja käyttää sitä koskee rakennusta, jossa käytetään energiaa rakennuksen tilojen tarkoituksenmukaisten sisäilmasto-olosuhteiden ylläpitämiseksi.
 
-Ympäristöministeriön asetuksella voidaan antaa tarkempia säännöksiä pinta-alan määrittämisestä energiatodistusmenettelyssä.
+Mitä 1 momentissa säädetään, ei kuitenkaan sovelleta:
+1) maankäyttö- ja rakennuslain (132/1999) 117 g §:n 2 momentin 1 ja 3–7 kohdassa tarkoitettuihin rakennuksiin;
+2) loma-asumiseen tarkoitettuun rakennukseen, jota ei käytetä majoituselinkeinon harjoittamiseen;
+3) sellaiseen puolustushallinnon käytössä olevaan rakennukseen, johon tai jonka käyttöön liittyy salassa pidettävää tietoa.
