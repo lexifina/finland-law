@@ -5,5 +5,5 @@ Asumisen rahoitus- ja kehittämiskeskus pitää yleisessä tietoverkossa saatavi
 Julkisessa tietopalvelussa saa olla energiatodistusrekisteriin merkittyjä tietoja, ei kuitenkaan yhden tai kaksi huoneistoa käsittävälle asuinrakennukselle tehtyyn energiatodistukseen liittyviä tietoja. Saatavilla saadaan pitää seuraavia tietoja:
 1) rakennuksen nimi, osoite, valmistumisvuosi, käyttötarkoitusluokka ja energiatehokkuusluokka;
 2) todistustunnus, todistuksen laatija, todistuksen laatimispäivä ja viimeinen voimassaolopäivä;
-3) lämmitetty nettoala, lämmitysjärjestelmän kuvaus, ilmanvaihtojärjestelmän kuvaus, laskettu kokonaisenergiankulutus ja ostoenergiankulutus energiamuodoittain ja käytetty energiamuodon kerroin;
+3) lämmitetty nettoala, lämmitysjärjestelmän kuvaus, ilmanvaihtojärjestelmän kuvaus, E-luku ja vakioituun käyttöön perustuva laskennallinen ostoenergiankulutus energiamuodoittain ja käytetty energiamuodon kerroin;
 4) energiatehokkuutta parantavat toimenpiteet.
