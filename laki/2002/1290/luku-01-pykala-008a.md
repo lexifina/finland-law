@@ -10,3 +10,5 @@ Työttömällä työnhakijalla, joka ei ole Suomen kansalainen eikä asu Suomess
 1) häneen ei sovelleta sosiaaliturva-asetusta, perusasetusta tai pohjoismaista sosiaaliturvasopimusta;
 2) hän on ollut Suomessa yhdenjaksoisen oleskelunsa aikana työssä vähintään kuusi kuukautta; ja
 3) hän edelleen jatkaa oleskeluaan Suomessa.
+
+Kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä kausityöntekijöinä työskentelyä varten annetussa laissa (907/2017) tarkoitetulla kausityöntekijällä ei ole oikeutta tämän lain mukaisiin työttömyysetuuksiin.
