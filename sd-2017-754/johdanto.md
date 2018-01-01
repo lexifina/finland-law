@@ -1,0 +1,2 @@
+Laki ylimääräisen taiteilijaeläkkeen perusteella myönnettävistä perhe-eläkkeistä
+Eduskunnan päätöksen mukaisesti säädetään:
