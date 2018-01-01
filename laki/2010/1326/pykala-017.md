@@ -1,7 +1,7 @@
 # 17 § Opiskeluterveydenhuolto
 Luku: 2 luku Terveyden ja hyvinvoinnin edistäminen
 
-Kunnan perusterveydenhuollon on järjestettävä opiskeluterveydenhuollon palvelut alueellaan sijaitsevien lukioiden, ammatillista koulutusta antavien oppilaitosten sekä korkeakoulujen opiskelijoille heidän kotipaikastaan riippumatta. Korkeakouluopiskelijoiden opiskeluterveydenhuolto voidaan kunnan suostumuksella järjestää myös muulla Sosiaali- ja terveysalan lupa- ja valvontaviraston hyväksymällä tavalla. Opiskeluterveydenhuoltoon kuuluu myös opiskelijan työssäoppimisen ja työharjoittelun aikainen terveydenhuolto.
+Kunnan perusterveydenhuollon on järjestettävä opiskeluterveydenhuollon palvelut alueellaan sijaitsevien lukioiden, ammatillista koulutusta antavien oppilaitosten sekä korkeakoulujen opiskelijoille heidän kotipaikastaan riippumatta. Korkeakouluopiskelijoiden opiskeluterveydenhuolto voidaan kunnan suostumuksella järjestää myös muulla Sosiaali- ja terveysalan lupa- ja valvontaviraston hyväksymällä tavalla. Opiskeluterveydenhuoltoon kuuluu myös opiskelijan muun kuin oppisopimukseen perustuvan työpaikalla järjestettävän koulutuksen ja työharjoittelun aikainen terveydenhuolto.
 
 Opiskeluterveydenhuoltoon sisältyvät:
 1) oppilaitoksen opiskeluympäristön terveellisyyden ja turvallisuuden sekä opiskeluyhteisön hyvinvoinnin edistäminen sekä seuranta kolmen vuoden välein;
@@ -11,4 +11,4 @@ Opiskeluterveydenhuoltoon sisältyvät:
 
 Kunnan perusterveydenhuollon on opiskeluterveydenhuollon palveluja järjestäessään toimittava yhteistyössä alaikäisen opiskelijan vanhempien ja huoltajien, muun opiskelijahuolto- ja opetushenkilöstön sekä muiden tarvittavien tahojen kanssa.
 
-Opiskeluterveydenhuolto on osa oppilas- ja opiskelijahuoltolain sekä ammatillisesta aikuiskoulutuksesta annetun lain (631/1998) 16 a §:n mukaista opiskelijahuoltoa. Kunnan perusterveydenhuollosta vastaavan viranomaisen tulee osallistua lukiolain (629/1998) 11 §:n ja ammatillisesta koulutuksesta annetun lain (630/1998) 14 §:n mukaisen opetussuunnitelman laatimiseen siltä osin, kun se koskee opiskelijahuoltoa sekä oppilaitoksen ja kodin välistä yhteistyötä.
+Opiskeluterveydenhuolto on osa oppilas- ja opiskelijahuoltolain sekä ammatillisesta koulutuksesta annetun lain (531/2017) 99 §:n 3 momentin mukaista opiskelijahuoltoa. Kunnan perusterveydenhuollosta vastaavan viranomaisen tulee osallistua lukiolain (629/1998) 11 §:n mukaisen opetussuunnitelman ja ammatillisesta koulutuksesta annetun lain 99 §:n 1 momentissa tarkoitetun Opetushallituksen määräykseen perustuvan koulutuksen järjestäjän päättämien opiskelijahuollon järjestämistapojen laatimiseen siltä osin, kun ne koskevat opiskelijahuoltoa sekä oppilaitoksen ja kodin välistä yhteistyötä.
