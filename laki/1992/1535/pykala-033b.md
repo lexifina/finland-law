@@ -8,7 +8,7 @@ Edellä 1 momentissa tarkoitetun vuotuisen tuoton ylittävältä osalta osingost
 
 Sen estämättä, mitä muualla laissa säädetään osingon veronalaisuudesta, osinko on ansiotuloa, jos osingon jakoperusteena yhtiöjärjestyksen määräyksen, yhtiökokouksen päätöksen, osakassopimuksen tai muun sopimuksen mukaan on osingonsaajan tai tämän intressipiiriin kuuluvan henkilön työpanos. Osinko on sen henkilön tuloa, jonka työpanoksesta on kysymys.
 
-Jos osakas, jota ei työntekijäin eläkelain (395/1961) 1 d §:n mukaan pidetä mainittuun yhtiöön työsuhteessa olevana, on verovuonna käyttänyt omana tai perheensä asuntona yhtiön varoihin kuuluvaa asuntoa, asunnon arvo vähennetään hänen osakkeidensa arvosta 1 momentissa tarkoitettua vuotuista tuottoa laskettaessa.
+Jos osakas, jota työntekijän eläkelain (395/2006) 7 §:n mukaan ei pidetä mainittuun yhtiöön työsuhteessa olevana, on verovuonna käyttänyt omana tai perheensä asuntona yhtiön varoihin kuuluvaa asuntoa, asunnon arvo vähennetään hänen osakkeidensa arvosta 1 momentissa tarkoitettua vuotuista tuottoa laskettaessa.
 
 Elinkeinotoimintaa harjoittavan osakeyhtiön osakkaan ja hänen perheenjäsenensä ottama, yhtiön varoihin kuuluva rahalaina vähennetään hänen osakkeidensa arvosta 1 momentissa tarkoitettua vuotuista tuottoa laskettaessa, jos osakas yksin tai yhdessä perheenjäsentensä kanssa omistaa vähintään 10 prosenttia yhtiön osakkeista tai heillä on vastaava osuus yhtiön kaikkien osakkeiden tuottamasta äänimäärästä. Laina vähennetään ensisijaisesti lainanottajan omien osakkeiden arvosta ja sen ylittävältä osalta perheenjäsenten osakkeiden arvosta osakeomistuksen suhteessa.
 

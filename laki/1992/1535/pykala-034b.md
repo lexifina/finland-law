@@ -4,7 +4,7 @@ Luku: 2 luku Pääomatulon veronalaisuus
 
 Jos vakuutukseen perustuva eläke tai pitkäaikaissäästämissopimukseen perustuva suoritus maksetaan lyhyemmässä ajassa kuin 10 vuodessa tai lyhyemmässä kuin 54 d §:n 4 momentin 1 kohdan mukaisessa ajassa taikka jos eläke tai suoritus maksetaan 54 d §:n 2 momentin vastaisesti, maksettu määrä luetaan pääomatuloksi 50 prosentilla korotettuna. Korotusta ei kuitenkaan määrätä siltä osin kuin verovelvollinen osoittaa, että maksuja ei ole vähennetty Suomen verotuksessa.
 
-Jos työntekijän eläkelain mukainen vanhuuseläkeikä nousee sen jälkeen, kun eläkettä tai muuta suoritusta on alettu maksaa, eläke tai suoritus voidaan 54 d §:n 2 momentin 1 kohdasta poiketen maksaa niin kuin eläkeikä ei olisi noussut.
+Jos työntekijän eläkelain mukainen vanhuuseläkeikä nousee sen jälkeen, kun eläkettä tai muuta suoritusta on alettu maksaa, eläke tai suoritus voidaan 54 d §:n 2 momentin 2 kohdasta poiketen maksaa niin kuin eläkeikä ei olisi noussut.
 
 Jos oikeus eläkkeeseen, suoritukseen tai säästövaroihin luovutetaan tai pantataan 54 d §:n 4 momentin 2 kohdan vastaisesti, lainana, luovutushintana tai muutoin saatu määrä luetaan vakuutetun, säästäjän tai varoihin oikeutetun pääomatuloksi 50 prosentilla korotettuna. Eläkettä tai suoritusta myöhemmin nostettaessa veronalaisesta määrästä vähennetään aiemmin tuloksi luettu määrä, ei kuitenkaan korotuksen osuutta.
 

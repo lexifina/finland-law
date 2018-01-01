@@ -24,7 +24,7 @@ syntymävuosi | eläkeikä, vuotta
 Kertamaksullisen eläkevakuutuksen maksut eivät ole vähennyskelpoisia.
 
 Vähennyskelpoisuuden edellytyksenä on lisäksi, että sopimuksen mukaan:
-1) eläke tai muu suoritus maksetaan muissa kuin 2 momentin 2 kohdassa tarkoitetuissa tilanteissa toistuvina erinä vuosittain tai lyhyemmin määräajoin varoihin oikeutetun tai edunsaajan jäljellä olevan eliniän aikana tai vähintään 10 vuoden aikana siten, että kunakin vuonna suoritetaan enintään se osa jäljellä olevasta säästömäärästä, joka saadaan jakamalla jäljellä oleva säästömäärä jäljellä olevien maksuvuosien lukumäärällä; kalenterivuoden aikana eläkettä tai muuta suoritusta voidaan kuitenkin jäljellä olevasta säästömäärästä riippumatta maksaa aina 2 000 euroon asti;
+1) eläke tai muu suoritus maksetaan muissa kuin 2 momentin 1 kohdassa tarkoitetuissa tilanteissa toistuvina erinä vuosittain tai lyhyemmin määräajoin varoihin oikeutetun tai edunsaajan jäljellä olevan eliniän aikana tai vähintään 10 vuoden aikana siten, että kunakin vuonna suoritetaan enintään se osa jäljellä olevasta säästömäärästä, joka saadaan jakamalla jäljellä oleva säästömäärä jäljellä olevien maksuvuosien lukumäärällä; kalenterivuoden aikana eläkettä tai muuta suoritusta voidaan kuitenkin jäljellä olevasta säästömäärästä riippumatta maksaa aina 2 000 euroon asti;
 2) sopimukseen perustuvaa oikeutta ei saa luovuttaa eikä pantata.
 
 Edellä 1 momentissa tarkoitettuihin maksuihin voi sisältyä myös eläkevakuutukseen liittyvään kuolemanvaravakuutukseen kohdistuvia maksuja siltä osin kuin kuolemanvarakorvaus ei ylitä eläkevakuutuksen säästöä.
