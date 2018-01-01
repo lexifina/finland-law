@@ -15,4 +15,6 @@ Valtion ja kunnan viranomaisen sekä muun julkisyhteisön on toimitettava Veroha
 
 Ulkomaalaisrekisteristä annetussa laissa (1270/1997) tarkoitetun rekisterinpitäjän on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot ulkomaalaisrekisterissä olevan ulkomaalaisen Suomessa oleskelusta, työnantajasta ja palvelussuhteesta sekä elinkeinotoiminnasta.
 
+Kansaneläkelaitoksen on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot myöntämistään eläkkeistä ja etuuksista. Tiedot on annettava hakemusten vireilläolosta, päätöksistä ja maksatuksesta. Lisäksi Kansaneläkelaitoksen on toimitettava hallussaan olevat tiedot myönnetyn työeläkkeen määrästä ja eläkkeen alkamisajasta.
+
 Verohallinto voi antaa tarkempia määräyksiä annettavista tiedoista, tietojen antamisen ajankohdasta ja tavasta tai rajoittaa tiedonantovelvollisuutta.
