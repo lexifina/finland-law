@@ -1,0 +1,2 @@
+Laki yhdistelmärangaistuksen täytäntöönpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
