@@ -1,8 +1,4 @@
-# 23 a § Muutoksenhaku tiedonantovelvollisuutta koskevaan päätökseen
+# 23 a § Rahanpesun ja terrorismin rahoittamisen estämisestä annetussa laissa tarkoitettujen ilmoitusvelvollisten tiedonantovelvollisuus
 Luku: 3 luku Sivullisen tiedonantovelvollisuus
 
-Tiedonantovelvollinen saa hakea muutosta Verohallinnon päätökseen, joka koskee velvollisuutta antaa tässä luvussa tarkoitettuja tietoja. Muutosta haetaan valittamalla siihen hallinto-oikeuteen, jonka tuomiopiiriin tiedonantovelvollisen kotikunta päätöstä tehtäessä kuului.
-
-Valitus on tehtävä 60 päivän kuluessa siitä, kun tiedonantovelvollinen on saanut tiedon Verohallinnon päätöksestä. Päätös voidaan antaa tiedoksi saantitodistusmenettelyä käyttämättä, jolloin päätös katsotaan saaduksi tiedoksi seitsemäntenä päivänä sen jälkeen, kun se on annettu postin kuljetettavaksi, jollei muuta näytetä. Menettelyyn sovelletaan muutoin, mitä 69 §:ssä ja hallintolainkäyttölaissa (586/1996) säädetään.
-
-Tiedonantovelvollinen ja Veronsaajien oikeudenvalvontayksikkö saavat hakea hallinto-oikeuden päätökseen muutosta valittamalla korkeimpaan hallinto-oikeuteen, jos korkein hallinto-oikeus myöntää valitusluvan. Muutoksenhakuun sovelletaan tällöin, mitä 70 ja 71 §:ssä säädetään.
+Rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain (444/2017) 1 luvun 2 §:ssä tarkoitettujen ilmoitusvelvollisten on Verohallinnon kehotuksesta tunnistetiedon, pankkitilin numeron, tilitapahtuman tai muun vastaavan yksilöinnin perusteella annettava ja esitettävä tarkastettavaksi hallussaan olevat tiedot mekanismeista, menettelyistä, asiakirjoista sekä muista tiedoista, joiden perusteella raportoivat suomalaiset finanssilaitokset ovat suorittaneet edellä 17 a §:n 1 momentissa, 17 b §:n 1 momentissa, 17 c §:n 1 momentissa sekä 17 d §:ssä tarkoitetut velvoitteet ja huolellisuusmenettelyt raportoitavien tilien tunnistamisessa.
