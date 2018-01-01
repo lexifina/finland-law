@@ -12,3 +12,5 @@ Muutoksenhakulautakunnan toimivaltaan kuuluvassa asiassa ei noudateta hallintola
 Muutoksenhakulautakunta voi poistaa vakuutuslaitoksen lainvoimaisen päätöksen ja määrätä asian uudelleen käsiteltäväksi siten kuin siitä erikseen lailla säädetään.
 
 Muutoksenhakulautakunta voi jättää kirjallisen tai suullisen selvityksen huomioon ottamatta, jos selvitys saapuu muutoksenhakulautakuntaan vasta asian ratkaisupäivänä tai sen jälkeen.
+
+Vakuutuslaitos on velvollinen toimittamaan asiakirjat muutoksenhakulautakunnalle sen vaatimassa muodossa maksutta.

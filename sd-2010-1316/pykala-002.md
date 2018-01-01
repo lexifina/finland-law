@@ -10,4 +10,6 @@ Muutoksenhakulautakunnassa jäseninä ovat puheenjohtaja sekä vähintään:
 
 Muutoksenhakulautakunnan puheenjohtaja on päätoiminen ja muut jäsenet ovat sivutoimisia.
 
-Puheenjohtajalla ja varapuheenjohtajilla on yksi yhteinen varajäsen, johon sovelletaan, mitä tässä laissa säädetään varapuheenjohtajasta ja jäsenestä. Muilla jäsenillä on kullakin henkilökohtainen varajäsen. Henkilökohtaiseen varajäseneen sovelletaan, mitä tässä laissa säädetään muutoksenhakulautakunnan jäsenestä.
+Puheenjohtajalla ja varapuheenjohtajilla on yksi yhteinen varajäsen, johon sovelletaan, mitä tässä laissa säädetään varapuheenjohtajasta. Muille jäsenille määrätään riittävä määrä varajäseniä noudattaen, mitä 5 §:ssä säädetään jäsenten nimittämisestä. Varajäseneen sovelletaan, mitä tässä laissa säädetään muutoksenhakulautakunnan jäsenestä ja tämän kelpoisuudesta.
+
+Puheenjohtaja, varapuheenjohtaja ja muut jäsenet toimivat tuomarin vastuulla.
