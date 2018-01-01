@@ -2,7 +2,7 @@
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 11 luku Päivärahaetuuksien määrä
 
-Kansaneläkelaitoksen on hakemuksesta arvioitava, mitä on pidettävä vakuutetun työtuloina hänen työkyvyttömyytensä tai vanhempainpäivärahaoikeutensa taikka erityishoitorahaoikeuden alkamista välittömästi edeltäneiden kuuden kuukauden aikana. Päivärahaetuus määräytyy vakuutetun luotettavasti selvittämien kuuden kuukauden työtulojen perusteella edellyttäen, että työtulot ovat jatkuvasti olleet kahdella kerrottuna vähintään 20 prosenttia suuremmat kuin 3 §:ssä tarkoitetut, verotuksessa todetut työtulot, jotka on tarkistettu 1 §:n 3 momentin mukaisesti. Edellä mainitut työtulot otetaan huomioon vain ajalta, jona henkilö on ollut tämän lain mukaisesti Suomessa vakuutettuna.
+Kansaneläkelaitoksen on hakemuksesta arvioitava, mitä on pidettävä vakuutetun työtuloina hänen työkyvyttömyytensä tai vanhempainpäivärahaoikeutensa taikka erityishoitorahaoikeuden alkamista välittömästi edeltäneiden kuuden kuukauden aikana. Päivärahaetuus määräytyy vakuutetun luotettavasti selvittämien kuuden kuukauden työtulojen perusteella edellyttäen, että työtulot ovat jatkuvasti olleet kahdella kerrottuna vähintään 20 prosenttia suuremmat kuin 3 §:ssä tarkoitetut, verotuksessa todetut työtulot, jotka on tarkistettu 1 §:n 4 momentin mukaisesti. Edellä mainitut työtulot otetaan huomioon vain ajalta, jona henkilö on ollut tämän lain mukaisesti Suomessa vakuutettuna.
 
 Yrittäjän eläkelain tai maatalousyrittäjän eläkelain nojalla vakuutetun tulee vastaavasti esittää 1 momentissa tarkoitettuna kuuden kuukauden tulona luotettava selvitys mainittujen eläkelakien mukaan vahvistetuista työtuloista sekä muusta kuin omasta yritystoiminnasta saadusta työtulosta.
 

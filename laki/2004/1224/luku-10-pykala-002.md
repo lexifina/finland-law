@@ -10,6 +10,6 @@ Erityishoitorahaan on oikeus vakuutetulla, joka osallistuu:
 3) lakiin perustuvalle lapsensa sairauden tai vamman vuoksi järjestetylle sopeutumisvalmennus- tai kuntoutuskurssille tai muuhun niihin rinnastettavaan lakiin perustuvaan kuntoutustoimintaan;
 4) lapsensa vaikean sairauden tai vaikean vamman 1 kohdassa mainittuun hoitoon tai kuntoutukseen liittyvään, hoidollisin syin perusteltuun, kouluun tai päivähoitoon palaamisen kokeilujaksoon olemalla varalla, jos lasta hoitava lääkäri katsoo varallaolon tarpeelliseksi.
 
-Erityishoitorahaa maksetaan samalta ajalta molemmille vanhemmille, jos lääkäri on katsonut molempien vanhempien hoitoon tai kuntoutukseen osallistumisen tarpeelliseksi. Edellä tarkoitetun kotihoidon ajalta erityishoitorahaa ei kuitenkaan makseta samalta ajalta molemmille vanhemmille.
+Erityishoitorahaa maksetaan samalta ajalta molemmille vanhemmille, jos lääkäri on katsonut molempien vanhempien hoitoon tai kuntoutukseen osallistumisen tarpeelliseksi. Edellä tarkoitetun kotihoidon ajalta erityishoitorahaa ei kuitenkaan makseta samalta ajalta molemmille vanhemmille, ellei kyse ole saattohoidosta.
 
 Valtioneuvoston asetuksella säädetään tarkemmin edellä 2 momentissa tarkoitetusta lääketieteellisin perustein vaikeaksi arvioitavasta sairaudesta tai vammasta.
