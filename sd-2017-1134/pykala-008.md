@@ -1,0 +1,3 @@
+# 8 § Erityiset opetusjärjestelyt lukio- ja ammatillisessa koulutuksessa
+
+Sen estämättä, mitä muualla laissa tai lain nojalla säädetään tai määrätään opiskelija, jonka perusopetuksen oppimäärään ei kokeiluun osallistumisen vuoksi ole sisältynyt toista kotimaista kieltä, tulee kokeiluun osallistuneen hakemuksesta vapauttaa velvollisuudesta sisällyttää lukiolaissa (629/1998) tarkoitettuun oppimäärään tai ammatillisesta koulutuksesta annetussa laissa (531/2017) tarkoitettuun ammatilliseen perustutkintoon toista kotimaista kieltä. Päätöksen tekee kyseisen koulutuksen järjestäjä. Päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään.
