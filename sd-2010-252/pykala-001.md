@@ -1,6 +1,6 @@
 # 1 § Oppilaitoksen tarkoitus
 
-Saamelaisalueen koulutuskeskus on opetusministeriön toimialaan kuuluva valtion oppilaitos.
+Saamelaisalueen koulutuskeskus on opetus- ja kulttuuriministeriön toimialaan kuuluva valtion oppilaitos.
 
 Koulutuskeskuksen tarkoituksena on lisätä erityisesti saamelaisväestön ammatillista osaamista, järjestää saamelaisten kotiseutualueen elinkeinoelämän tarpeita vastaavaa koulutusta ja edistää alueen työllisyyttä sekä säilyttää ja kehittää saamelaiskulttuuria.
 
