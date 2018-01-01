@@ -3,7 +3,7 @@ Luku: 1 luku Valtioneuvoston organisaatio ja toimiala- jako
 
 Valtioneuvostossa on seuraavat ministeriöt:
 1) valtioneuvoston kanslia;
-2) ulkoasiainministeriö;
+2) ulkoministeriö;
 3) oikeusministeriö;
 4) sisäministeriö;
 5) puolustusministeriö;
