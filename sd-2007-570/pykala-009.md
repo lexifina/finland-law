@@ -13,7 +13,7 @@ Oikeus hoitotukeen on 16 vuotta täyttäneellä henkilöllä, joka saa:
 Lisäksi edellytetään, että henkilön toimintakyvyn voidaan arvioida olevan sairauden, vian tai vamman vuoksi yhtäjaksoisesti heikentynyt vähintään vuoden ajan ja että henkilön sairaudesta, viasta tai vammasta aiheutuu avuntarvetta tai ohjauksen ja valvonnan tarvetta. Henkilön sairaudesta, viasta tai vammasta aiheutuvat erityiskustannukset vaikuttavat tuen myöntämiseen siten kuin 10 §:ssä säädetään.
 
 Hoitotukena myönnetään:
-1) perushoitotukea 49,69 euroa kuukaudessa, jos henkilö tarvitsee henkilökohtaisissa toiminnoissaan, kotitaloustöissä ja asioinnissa kodin ulkopuolella säännöllisesti vähintään viikoittain toisen henkilön apua tai ohjausta ja valvontaa;
+1) perushoitotukea 56,78 euroa kuukaudessa, jos henkilö tarvitsee henkilökohtaisissa toiminnoissaan, kotitaloustöissä ja asioinnissa kodin ulkopuolella säännöllisesti vähintään viikoittain toisen henkilön apua tai ohjausta ja valvontaa;
 2) korotettua hoitotukea 123,70 euroa kuukaudessa, jos henkilö tarvitsee monissa henkilökohtaisissa toiminnoissa jokapäiväistä aikaa vievää toisen henkilön apua tai sairaudesta, viasta tai vammasta aiheutuu huomattavassa määrin säännöllistä ohjauksen ja valvonnan tarvetta; tai
 3) ylintä hoitotukea 261,57 euroa kuukaudessa, jos henkilön hoidon ja valvonnan tarve on yhtämittaista.
 
