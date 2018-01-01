@@ -12,7 +12,7 @@ Muu oleskelulupa ansiotyötä varten myönnetään ulkomaalaiselle, joka:
 8) on suorittanut Suomessa tutkinnon ja maassa oleskelun pääasiallinen tarkoitus on työnteko;
 9) toimii kutsun tai sopimuksen nojalla vierailevana opettajana, luennoitsijana, kouluttajana, konsulttina tai tutkijana, jos työ kestää enintään yhden vuoden;
 10) tekee yksittäisen ulkomailta maahan tuodun tai maasta ulkomaille vietävän koneen, laitteen, tuotantolinjan tai asiantuntijajärjestelmän toimitussopimukseen sisältyvän työn, jos työ kestää enintään kuusi kuukautta;
-11) suorittaa työn tai työharjoittelun, joka sisältyy valtioiden väliseen sopimukseen tai kansalaisjärjestöjen vaihto-ohjelmaan, jos työ tai harjoittelu kestää enintään 18 kuukautta, tai joka tapahtuu korkeakoulututkinnon suorittaneen ulkomaalaisen enintään vuoden kestävänä siirtona yrityksen sisällä; tai
+11) suorittaa työn tai työharjoittelun, joka sisältyy valtioiden väliseen sopimukseen tai kansalaisjärjestöjen vaihto-ohjelmaan, jos työ tai harjoittelu kestää enintään 18 kuukautta; tai
 12) on 18–30-vuotias ja suorittaa työharjoittelun, kun hän opiskelee ulkomaisessa korkeakoulussa suomen tai ruotsin kieltä tai kun harjoittelun ala vastaa ulkomaalaisen opintoja tai tutkintoa, jos työharjoittelu kestää enintään 18 kuukautta.
 
 Jos työnteko ylittää 1 momentin 9–12 kohdassa säädetyt aikarajat, ulkomaalaisen on haettava työntekijän oleskelulupaa.
