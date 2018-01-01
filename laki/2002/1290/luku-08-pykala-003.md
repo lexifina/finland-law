@@ -1,7 +1,12 @@
-# 3 § Tämän lain poikkeava soveltaminen liikkuvuusavustukseen
+# 3 § Liikkuvuusavustuksen kesto
 Osa: III OSA TYÖMARKKINATUKI
 Luku: 8 luku Alueellisen liikkuvuuden tukeminen
 
-Liikkuvuusavustusta maksetaan sen estämättä, mitä 1 luvun 8 a §:n 1 momentissa, 2 ja 2 a luvussa, 3 luvun 1 §:n 3 momentissa ja 4 §:n 1 momentissa säädetään.
+Sen estämättä, mitä 3 luvun 2 §:ssä säädetään, liikkuvuusavustusta maksetaan enintään viideltä päivältä kalenteriviikossa:
+1) 30 päivän ajan työn tai koulutuksen alkamisesta, kun henkilö ottaa vastaan vähintään kaksi kuukautta kestävän työn tai aloittaa tällaiseen työhön liittyvän koulutuksen;
+2) 45 päivän ajan työn tai koulutuksen alkamisesta, kun henkilö ottaa vastaan vähintään kolme kuukautta kestävän työn tai aloittaa tällaiseen työhön liittyvän koulutuksen; tai
+3) 60 päivän ajan työn tai koulutuksen alkamisesta, kun henkilö ottaa vastaan vähintään neljä kuukautta kestävän työn tai tällaiseen työhön liittyvä koulutuksen.
 
-Liikkuvuusavustukseen ei sovelleta, mitä 4 luvun 7 ja 8 §:ssä säädetään sosiaalietuuden vähentämisestä työttömyysetuudesta ja mitä 10 luvun 2 §:n 2 momentissa säädetään työllistymisestä kokoaikatyöhön yli kahden viikon ajaksi.
+Liikkuvuusavustusta maksetaan enintään työsuhteen päättymiseen tai työhön liittyvän koulutuksen keskeyttämiseen asti.
+
+Jos henkilölle myönnetään liikkuvuusavustusta työhön liittyvän koulutuksen perusteella, avustuksen maksamista jatketaan koulutuksen päättymisen jälkeiseltä ajalta henkilön työllistyessä. Lisäksi edellytyksenä on, että 1 §:n 2 momentissa säädetyt työmatkaan tai muuttoon liittyvät edellytykset täyttyvät myös työsuhteen aikana.

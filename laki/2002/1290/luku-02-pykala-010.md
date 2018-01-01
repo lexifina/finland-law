@@ -6,9 +6,10 @@ Päätoimisella opiskelijalla ei ole oikeutta työttömyysetuuteen. Rajoitus kos
 
 Päätoimisina pidetään:
 1) opintoja, joiden tavoitteena on ammattikorkeakoulututkinnon, ylemmän ammattikorkeakoulututkinnon taikka yliopistossa suoritettavan alemman tai ylemmän korkeakoulututkinnon suorittaminen;
-2) lukio-opintoja, joiden oppimäärän mukainen laajuus on yhteensä vähintään 75 kurssia; sisäoppilaitoksessa järjestetyt lukio-opinnot katsotaan kuitenkin aina päätoimisiksi;
-3) muita kuin 1 ja 2 kohdassa tarkoitettuja opintoja, joiden opintosuunnitelman mukainen laajuus on keskimäärin vähintään viisi opintopistettä, kolme opintoviikkoa tai 4,5 osaamispistettä opiskelukuukautta kohti; sekä
-4) muita kuin 1–3 kohdassa tarkoitettuja opintoja, joiden opetusohjelman mukainen laajuus on keskimäärin vähintään 25 viikkotuntia.
+2) ammatillisesta koulutuksesta annetun lain mukaisia opintoja, joiden tavoitteena on ammatillisen perustutkinnon tai tutkinnon osan, ammatilliseen koulutukseen valmentavan koulutuksen tai työhön ja itsenäiseen elämään valmentavan koulutuksen suorittaminen;
+3) lukio-opintoja, joiden oppimäärän mukainen laajuus on yhteensä vähintään 75 kurssia; sisäoppilaitoksessa järjestetyt lukio-opinnot katsotaan kuitenkin aina päätoimisiksi;
+4) muita kuin 1–3 kohdassa tarkoitettuja ammatillisia valmiuksia antavia opintoja, joiden opintosuunnitelman mukainen laajuus on keskimäärin vähintään viisi opintopistettä, kolme opintoviikkoa tai 4,5 osaamispistettä opiskelukuukautta kohti;
+5) muita kuin 1–4 kohdassa tarkoitettuja opintoja, joiden opetusohjelman mukainen laajuus on keskimäärin vähintään 25 viikkotuntia.
 
 Työnhakijaa ei pidetä päätoimisena opiskelijana, jos opiskeluaikaisen vakiintuneen työssäolon tai yritystoiminnan harjoittamisen perusteella voidaan katsoa, ettei opiskelu ole esteenä kokoaikaisen työn vastaanottamiselle.
 

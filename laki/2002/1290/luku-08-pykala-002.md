@@ -1,12 +1,11 @@
-# 2 § Liikkuvuusavustuksen määrä ja kesto
+# 2 § Liikkuvuusavustuksen määrä
 Osa: III OSA TYÖMARKKINATUKI
 Luku: 8 luku Alueellisen liikkuvuuden tukeminen
 
-Liikkuvuusavustus on 6 luvun 1 §:n 1 momentissa tarkoitetun peruspäivärahan suuruinen ilman peruspäivärahan korotusosaa.
+Liikkuvuusavustus on 6 luvun 1 §:n 1 momentissa tarkoitetun peruspäivärahan suuruinen. Mitä mainitun luvun 6 §:ssä säädetään lapsikorotuksen maksamisesta työttömyyspäivärahan saajalle, sovelletaan myös liikkuvuusavustuksen saajaan.
 
-Sen estämättä, mitä 3 luvun 2 §:ssä säädetään, liikkuvuusavustusta maksetaan enintään viideltä päivältä kalenteriviikossa:
-1) 30 päivän ajan työsuhteen alkamisesta lukien, kun henkilö ottaa vastaan vähintään kaksi kuukautta kestävän työn;
-2) 45 päivän ajan työsuhteen alkamisesta lukien, kun henkilö ottaa vastaan vähintään kolme kuukautta kestävän työn; tai
-3) 60 päivän ajan työsuhteen alkamisesta lukien, kun henkilö ottaa vastaan vähintään neljä kuukautta kestävän työn.
+Liikkuvuusavustus maksetaan 6 luvun 1 §:n 2 momentissa tarkoitetulla tavalla korotettuna, jos työpaikka tai koulutuksen järjestämispaikka sijaitsee yli 200 kilometrin etäisyydellä henkilön tosiasiallisesta asuinpaikasta taikka työn tai siihen liittyvän koulutuksen takia tehtyä muuttoa edeltävästä tosiasiallisesta asuinpaikasta.
 
-Liikkuvuusavustusta maksetaan kuitenkin enintään työsuhteen ajan. Liikkuvuusavustusta ei makseta ajalta, jona työnteko ja palkanmaksu ovat keskeytyneet lomautuksen tai lomautukseen rinnastettavan syyn vuoksi.
+Oikeus 1 ja 2 momentissa tarkoitettuun korotukseen ratkaistaan työn tai siihen liittyvän koulutuksen alkamisajankohdan mukaisesti.
+
+Jos tuen saajalle myönnetään liikkuvuusavustusta työhön liittyvän koulutuksen perusteella 2 momentin mukaisesti korotettuna, avustuksen maksamista jatketaan korotettuna koulutuksen päättymisen jälkeiseltä ajalta vain, jos hän täyttää edelleen 2 momentissa säädetyt edellytykset.
