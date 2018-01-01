@@ -6,3 +6,5 @@ Valtioneuvosto nimittää sosiaali- ja terveysministeriön esityksestä päätoi
 Työelämän ja työmarkkinoiden olosuhteita tuntevista jäsenistä puolet on määrättävä työnantajayhdistysten edustavimpien keskusjärjestöjen ehdotuksesta siten, että vähintään kolme on perehtynyt yksityisten alojen eläkejärjestelmään ja vähintään yksi julkisten alojen eläkejärjestelmään. Lisäksi puolet työelämän ja työmarkkinoiden olosuhteita tuntevista jäsenistä on määrättävä työntekijäin ja toimihenkilöiden ammattiyhdistysten edustavimpien keskusjärjestöjen ehdotuksesta siten, että vähintään kolme on perehtynyt yksityisten alojen eläkejärjestelmään ja vähintään yksi julkisten alojen eläkejärjestelmään.
 
 Yrittäjätoimintaan perehtynyt jäsen on määrättävä edustavimpien yrittäjäjärjestöjen ehdotuksesta ja maatalousyrittäjätoimintaan perehtynyt jäsen maatalousyrittäjien edustavimpien keskusjärjestöjen ehdotuksesta.
+
+Muutoksenhakulautakunnan jäsenten on ilmoitettava sidonnaisuuksistaan siten kuin tuomioistuinlain (673/2016) 17 luvun 17 §:ssä säädetään asiantuntijajäsenen velvollisuudesta ilmoittaa sidonnaisuuksistaan.
