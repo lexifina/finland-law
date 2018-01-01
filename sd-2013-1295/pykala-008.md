@@ -1,3 +1,3 @@
-# 8 § Tarkemmat säännökset
+# 8 § Asetuksenantovaltuus
 
-Arviointikeskuksen toimintaperiaatteista, henkilöstöstä, kelpoisuusvaatimuksista, neuvottelukunnista ja palkkioiden määräytymisestä säädetään valtioneuvoston asetuksella.
+Arviointikeskuksen toimintaperiaatteista, neuvottelukunnista ja palkkioiden määräytymisestä säädetään valtioneuvoston asetuksella.
