@@ -1,0 +1,2 @@
+Laki Itsenäisyyden juhlavuoden lastensäätiön valtuuskunnan asettamisesta ja säätiön pääomittamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
