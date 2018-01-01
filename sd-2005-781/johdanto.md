@@ -1,2 +1,2 @@
-Laki pitkäaikaisvankien vapauttamismenettelystä
+Laki elinkautisvankien vapauttamismenettelystä
 Eduskunnan päätöksen mukaisesti säädetään:
