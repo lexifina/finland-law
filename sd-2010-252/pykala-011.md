@@ -1,3 +1,3 @@
-# 11 § Oppilaskunta
+# 11 § Opiskelijakunta
 
-Koulutuskeskuksella on oppilaskunta, johon voivat kuulua 3 §:ssä tarkoitetun ammatillisen peruskoulutuksen opiskelijat sekä sellaiset 3 §:ssä tarkoitetun ammatillisen lisäkoulutuksen ja 4 §:ssä tarkoitetun opetuksen opiskelijat, jotka opiskelevat koulutuskeskuksessa vähintään lukukauden. Oppilaskunnan tehtävänä on edistää opiskelijoiden yhteistoimintaa. Oppilaskunta käyttää ammatillisesta koulutuksesta annetun lain 36 §:ssä tarkoitettua opiskelijoiden puhevaltaa. Oppilaskunnan toiminnan järjestämisestä päättää johtokunta.
+Koulutuskeskuksella on opiskelijakunta, johon voivat kuulua 3 §:ssä tarkoitetun ammatillisen koulutuksen perustutkinto-opiskelijat sekä sellaiset 3 §:ssä tarkoitetun ammatillisen koulutuksen muut opiskelijat ja 4 §:ssä tarkoitetun opetuksen opiskelijat, jotka opiskelevat koulutuskeskuksessa vähintään lukukauden. Opiskelijakunnan tehtävänä on edistää opiskelijoiden yhteistoimintaa. Opiskelijakunnan toiminnan järjestämisestä päättää johtokunta.
