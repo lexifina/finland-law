@@ -1,0 +1,2 @@
+Laki maakaasun siirtoverkonhaltijan eriyttämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
