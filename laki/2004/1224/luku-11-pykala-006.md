@@ -4,6 +4,7 @@ Luku: 11 luku Päivärahaetuuksien määrä
 
 Jos vakuutettu on sairaus- tai vanhempainpäivärahaoikeuden tai erityishoitorahaoikeuden alkamista edeltävien neljän kuukauden aikana saanut työttömyysturvalain mukaista työttömyysetuutta, hänelle maksettava sairaus- ja vanhempainpäiväraha tai erityishoitoraha on vähintään 86 prosenttia hänelle maksetun etuuden määrästä. Tällöin ei työttömyysetuuden määrää laskettaessa oteta huomioon:
 1) työttömyysturvalain 4 luvun 4 §:n mukaista sovittelussa huomioon otettavaa tuloa;
+2) työttömyysturvalain 6 luvun 3 a §:ssä tai 7 luvun 5 a §:ssä tarkoitettua työttömyysetuuden alentamista;
 3) sellaista työttömyysturvalain 4 luvun 7 §:ssä tarkoitettua etuutta, joka tämän lain 12 luvun 2 §:n mukaan on vähennettävä päivärahasta;
 4) työttömyysturvalain 6 luvun 2 §:n 2 momentin mukaan määräytyvää korotettua ansio-osaa siltä osin kuin sen määrä ylittää mainitun pykälän 1 momentin mukaan määräytyvän ansio-osan;
 5) työttömyysturvalain 6 luvun 1 §:n 2 momentin mukaan määräytyvää peruspäivärahan korotusosaa eikä mainitun lain 7 luvun 4 §:n 1 momentin mukaan määräytyvää työmarkkinatuen korotusosaa.
