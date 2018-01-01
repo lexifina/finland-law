@@ -13,4 +13,4 @@ Jatkuvana suorituksena myyty tavara tai palvelu katsotaan 1 momentin 1 kohdassa 
 
 Yli yhden vuoden pituisena jatkuvana suorituksena tapahtuva 65 §:ssä tarkoitetun palvelun myynti, josta palvelun ostava elinkeinonharjoittaja tai arvonlisäverovelvollisten rekisteriin merkitty oikeushenkilö, joka ei ole elinkeinonharjoittaja, on 9 §:n 1 momentin mukaan velvollinen suorittamaan veron ja johon ei liity tilityksiä tai maksuja tämän ajanjakson aikana, katsotaan 1 momentin 1 kohdassa tarkoitetulla tavalla suoritetuksi kunkin kalenterivuoden päättyessä palvelun suorituksen päättymiseen asti.
 
-Jäljempänä 29 §:n 1 momentin 9 kohdassa tarkoitettu yleisen tien tai rautatien kokonaishoitopalvelu katsotaan 1 momentin 1 kohdassa tarkoitetulla tavalla suoritetuksi liikennesuoritteen laskentajakson päättyessä.
+Jäljempänä 29 §:n 1 momentin 10 kohdassa tarkoitettu kokonaishoitopalvelu katsotaan 1 momentin 1 kohdassa tarkoitetulla tavalla suoritetuksi kunkin palvelusuoritukseen liittyvän tilitysjakson päättyessä.

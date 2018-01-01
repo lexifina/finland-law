@@ -12,6 +12,6 @@ Sen estämättä, mitä 27 §:ssä säädetään, veroa suoritetaan:
 7) kiinteistöön pysyvästi asennettujen koneiden ja laitteiden vuokrauksesta;
 8) säilytyslokeroiden käyttöoikeuden luovuttamisesta;
 9) ilmoitus- tai mainostilan, ajanviete- tai virvoitusjuoma-automaatin tai muun sellaisen laitteen taikka pelin vaatiman tilan luovuttamisesta kiinteistöltä;
-10) yleisen tien tai rautatien kokonaishoitopalvelun luovuttamisesta valtiolle.
+10) kokonaishoitopalvelun luovuttamisesta.
 
-Edellä 1 momentin 10 kohdassa tarkoitetulla kokonaishoitopalvelulla tarkoitetaan yleisen tien tai rautatien rakentamis- ja kunnossapitopalvelua, josta saatava vastike määräytyy liikennemäärän tai muun vastaavan tien tai rautatien käyttöä kuvaavan suoritemäärän (liikennesuoritteen) perusteella.
+Edellä 1 momentin 10 kohdassa tarkoitetulla kokonaishoitopalvelulla tarkoitetaan tien, rautatien, rakennuksen tai pysyvän rakennelman sekä niihin tai niiden käyttöön välittömästi liittyvän irtaimiston suunnittelu-, rakentamis-, rahoitus- ja kunnossapitopalveluista muodostuvaa palvelukokonaisuutta, josta saatava vastike määräytyy kohteen käytön tai käytettävyyden perusteella.
