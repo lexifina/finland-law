@@ -14,7 +14,7 @@ Korkein hallinto-oikeus on päätösvaltainen myös kolmijäsenisenä käsittele
 8) mielenterveyslain (1116/1990) 24 §:n 1 ja 2 momentissa tarkoitetun valitusasian, ja tällaiseen asiaan liittyvän vaatimuksen;
 9) ylimääräistä muutoksenhakua koskevan asian, jos hakemus yksimielisesti hylätään tai jätetään tutkimatta, ja tällaiseen asiaan liittyvän vaatimuksen.
 
-Edellä 2 momentissa tarkoitetussa tapauksessa asia voidaan käsitellä ja ratkaista ilman niitä asiantuntijajäseniä, joiden osallistumisesta muutoin ratkaisukokoonpanoon on erikseen säädetty.
+Edellä 2 momentissa tarkoitetussa tapauksessa asia voidaan käsitellä ja ratkaista ilman niitä asiantuntijajäseniä, joiden osallistumisesta muutoin ratkaisukokoonpanoon erikseen säädetään. Ympäristönsuojelua ja vesitaloutta koskeva valituslupa-asia voidaan käsitellä ja ratkaista myös kolmen lainoppineen ja yhden asiantuntijajäsenen kokoonpanossa.
 
 Korkein hallinto-oikeus on päätösvaltainen myös kahden jäsenen kokoonpanossa ratkaisemaan valituslupahakemusta koskevan asian ja siihen liittyvän vaatimuksen ulkomaalaislain (301/2004) 6 luvussa tarkoitetussa kansainvälistä suojelua koskevassa asiassa, jollei ratkaistavana olevan kysymyksen laatu edellytä kolmijäsenisen kokoonpanon käyttämistä. Asia voidaan käsitellä ja ratkaista kahden jäsenen kokoonpanossa myös, kun valituksenalaisella päätöksellä on samalla ratkaistu muulla perusteella haettu oleskelulupa ja päätetty maasta poistamisesta ja maahantulokiellosta. Kaksijäsenisessä kokoonpanossa käsitelty asia on siirrettävä laajemman kokoonpanon ratkaistavaksi, jos jäsenet eivät ole ratkaisusta yksimielisiä.
 
