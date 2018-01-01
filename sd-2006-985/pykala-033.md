@@ -7,9 +7,8 @@ Kirkollishallituksen tehtävänä on, jollei tässä laissa tai kirkkojärjestyk
 3) valmistella asiat kirkolliskokoukselle;
 4) huolehtia kirkolliskokouksen päätösten täytäntöönpanosta;
 5) ohjata ja valvoa kirkolliskokouksen sen yhteyteen perustamien toimielinten työtä;
-6) valvoa kirkon ja seurakuntien etua työmarkkina-asioissa, ohjata kirkon ja seurakuntien työnantaja- ja henkilöstöpolitiikkaa sekä neuvotella ja sopia kirkon ja seurakuntien puolesta niiden työntekijöiden palvelussuhteen ehdoista työehtosopimuslaissa (436/1946) säädetyssä järjestyksessä;
+6) valvoa kirkon ja seurakuntien etua työmarkkina-asioissa, ohjata kirkon ja seurakuntien työnantaja- ja henkilöstöpolitiikkaa, neuvotella ja sopia kirkon ja seurakuntien puolesta niiden työntekijöiden palvelussuhteen ehdoista työehtosopimuslaissa (436/1946) säädetyssä järjestyksessä sekä neuvotella ja sopia kirkon ja seurakuntien puolesta piispojen, palvelukeskuksen johtajan, palvelukeskuksen lakimiehen ja muiden sellaisten työntekijöiden palvelussuhteen ehdoista, joiden tehtävänä on edustaa työnantajaa kirkon ja seurakuntien työntekijöiden palvelussuhteen ehtoja koskevissa asioissa;
 7) huolehtia kirkollishallitukselle 73 ja 74 §:n mukaan kuuluvista kirkonkirjojen pitämiseen liittyvistä tehtävistä;
 8) määrätä kirkon yhteisistä kolehdeista;
 9) hoitaa ne tehtävät, jotka eivät kuulu kirkon muulle viranomaiselle.
-
 Kirkollishallitus valvoo kirkon etua, edustaa kirkkoa ja käyttää sen puhevaltaa, jollei tässä laissa tai kirkkojärjestyksessä toisin säädetä.
