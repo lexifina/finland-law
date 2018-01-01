@@ -1,5 +1,5 @@
 # 2 § Vankeuden pituus
-Luku: 2 c luku Vankeudesta
+Luku: 2 c luku Vankeudesta ja yhdistelmärangaistuksesta
 
 Vankeutta tuomitaan määräajaksi tai elinkaudeksi.
 

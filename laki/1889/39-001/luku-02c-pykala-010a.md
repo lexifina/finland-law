@@ -1,5 +1,5 @@
 # 10 a § Elinkautisvangin vankilassaoloajan laskeminen
-Luku: 2 c luku Vankeudesta
+Luku: 2 c luku Vankeudesta ja yhdistelmärangaistuksesta
 
 Elinkautista rangaistusta suorittavan vangin vankilassaoloajaksi luetaan rangaistusaika sekä aika, jonka vanki on ollut pidätettynä, vangittuna tai muuten vapautensa menettäneenä elinkautiseen vankeusrangaistukseen johtaneen rikoksen vuoksi ennen rangaistuksen suorittamisen aloittamista.
 

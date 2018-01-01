@@ -1,5 +1,5 @@
 # 9 § Ehdonalaisen vapauttamisen lykkääminen
-Luku: 2 c luku Vankeudesta
+Luku: 2 c luku Vankeudesta ja yhdistelmärangaistuksesta
 
 Vangin ehdonalaista vapauttamista voidaan vangin suostumuksella lykätä, jos täytäntöönpantavaksi on tulossa uusia vankeusrangaistuksia tai sakon muuntorangaistuksia taikka vanki haluaa muusta perustellusta syystä vapauttamisensa lykkäämistä.
 

@@ -1,9 +1,15 @@
-# 11 § Koko rangaistuksen suorittaminen vankilassa
-Luku: 2 c luku Vankeudesta
+# 11 § Yhdistelmärangaistus
+Luku: 2 c luku Vankeudesta ja yhdistelmärangaistuksesta
 
-Tuomioistuin voi rangaistukseen tuomitessaan syyttäjän vaatimuksesta päättää, että tuomittu vapautuu vankilasta vasta hänen suoritettuaan tuomitun rangaistusajan kokonaan, jos:
+Tuomioistuin voi rangaistukseen tuomitessaan syyttäjän vaatimuksesta päättää, että syytetty tuomitaan yhdistelmärangaistukseen, joka koostuu enintään tapaukseen sovellettavien säännösten mukaan rikoksesta säädetyn enimmäisrangaistuksen pituisesta ehdottomasta vankeudesta ja sitä välittömästi seuraavasta valvonta-ajasta, jonka pituus on vuosi. Yhdistelmärangaistukseen ei sovelleta ehdonalaista vapauttamista eikä valvottua koevapautta koskevia säännöksiä.
+
+Edellytyksenä yhdistelmärangaistukseen tuomitsemiselle on, että:
 1) rikoksentekijä tuomitaan määräaikaiseen, vähintään kolmen vuoden pituiseen vankeusrangaistukseen murhasta, taposta, surmasta, törkeästä pahoinpitelystä, törkeästä raiskauksesta, törkeästä lapsen seksuaalisesta hyväksikäytöstä, törkeästä ryöstöstä, törkeästä tuhotyöstä, joukkotuhonnasta, rikoksesta ihmisyyttä vastaan, törkeästä rikoksesta ihmisyyttä vastaan, hyökkäysrikoksesta, sotarikoksesta, törkeästä sotarikoksesta, kidutuksesta, törkeästä ihmiskaupasta, panttivangin ottamisesta, törkeästä terveyden vaarantamisesta, ydinräjähderikoksesta, kaappauksesta, terroristisessa tarkoituksessa tehdystä rikoksesta taikka sellaisen rikoksen yrityksestä tai osallisuudesta sellaiseen rikokseen;
-2) rikoksentekijä on rikosta edeltäneiden kymmenen vuoden aikana syyllistynyt 1 kohdassa mainittuun rikokseen taikka 1 kohdassa nimetty rikos on tehty kolmen vuoden kuluessa siitä, kun hän on vapautunut suorittamasta koko rangaistusaikaa vankilassa tai elinkautista vankeutta tai hänet on päästetty ehdonalaiseen vapauteen 12 §:n 1 momentissa tarkoitetulla tavalla; ja
+2) rikoksentekijä on rikosta edeltäneiden kymmenen vuoden aikana syyllistynyt 1 kohdassa mainittuun rikokseen tai tehnyt tällaisen rikoksen kolmen vuoden kuluessa siitä, kun hän on vapautunut suorittamasta yhdistelmärangaistuksen vankeusaikaa tai elinkautista vankeutta; ja
 3) rikoksentekijää on rikoksista ilmenevien seikkojen ja oikeudenkäymiskaaren 17 luvun 37 §:n 3 momentin mukaisen selvityksen perusteella pidettävä erittäin vaarallisena toisen hengelle, terveydelle tai vapaudelle.
 
-Milloin kahdesta tai useammasta rikoksesta tuomitaan määräaikainen yhteinen vankeusrangaistus, 1 momentissa tarkoitetun päätöksen edellytyksenä on, että ainakin yksi rikoksista on sanotussa momentissa mainittu rikos ja että siitä rikoksesta erikseen tuomittaessa seuraisi määräaikainen, vähintään kolmen vuoden pituinen vankeusrangaistus.
+Jos kahdesta tai useammasta rikoksesta tuomitaan muu kuin elinkautinen vankeusrangaistus ja ainakin yksi rikoksista on 2 momentin 1 kohdassa mainittu rikos, josta rikoksentekijä olisi tuomioistuimen harkinnan mukaan tuomittava yhdistelmärangaistukseen, rikoksista tuomitaan yhdistelmärangaistus. Yhdistelmärangaistuksen vankeusajan pituuteen sovelletaan mitä 7 luvun 2 §:ssä säädetään yhteisen määräaikaisen vankeusrangaistuksen enimmäis- ja vähimmäispituudesta. Myös tässä momentissa tarkoitetuissa tilanteissa valvonta-ajan pituus on yksi vuosi.
+
+Valvonta-aika on yhteensä yksi vuosi myös, jos täytäntöön pantavana on samaan aikaan useampi yhdistelmärangaistus.
+
+Jos yhdistelmärangaistusta suorittavalla on samaan aikaan täytäntöön pantavana määräaikainen vankeusrangaistus, josta hänet vapautetaan ehdonalaiseen vapauteen, ja hän alkaa samalla suorittaa yhdistelmärangaistuksen valvonta-aikaa, täytäntöönpanossa sovelletaan yhdistelmärangaistuksen täytäntöönpanosta annettua lakia (801/2017). Ehdonalaisen vapauden koeaika kuluu tänä aikana. Jos ehdonalaisen vapauden koeaika on pitempi kuin yhdistelmärangaistuksen valvonta-aika, jäljellä olevan koeajan täytäntöönpanossa sovelletaan, mitä ehdonalaisen vapauden koeajasta säädetään.

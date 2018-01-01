@@ -1,5 +1,5 @@
 # 5 § Ehdonalaisen vapauttamisen määritelmä ja määräytyminen
-Luku: 2 c luku Vankeudesta
+Luku: 2 c luku Vankeudesta ja yhdistelmärangaistuksesta
 Väliotsikko: Ehdonalainen vapauttaminen
 
 Ehdonalainen vapauttaminen tarkoittaa ehdottomaan vankeusrangaistukseen tuomitun vangin päästämistä suorittamaan loppuosa rangaistuksesta vapaudessa.

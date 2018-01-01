@@ -1,5 +1,5 @@
 # 10 § Ehdonalainen vapauttaminen elinkautisesta vankeudesta
-Luku: 2 c luku Vankeudesta
+Luku: 2 c luku Vankeudesta ja yhdistelmärangaistuksesta
 
 Elinkautiseen vankeuteen tuomittu voidaan päästää ehdonalaiseen vapauteen aikaisintaan, kun vankilassaoloaikaa on kertynyt kaksitoista vuotta. Kahtakymmentäyhtä vuotta nuorempana tehdystä rikoksesta elinkautiseen vankeuteen tuomittu vanki voidaan päästää ehdonalaiseen vapauteen aikaisintaan, kun vankilassaoloaikaa on kertynyt kymmenen vuotta.
 
@@ -7,4 +7,4 @@ Harkittaessa kysymystä ehdonalaisesta vapauttamisesta kiinnitetään huomiota e
 
 Ennen kuin elinkautiseen vankeuteen tuomittu päästetään ehdonalaiseen vapauteen, hänet voidaan sijoittaa valvottuun koevapauteen. Jos Rikosseuraamuslaitoksen keskushallintoyksikkö katsoo, että ennen ehdonalaista vapauttamista ilmitulleen rikoksen tai valvotusta koevapaudesta annetun lain 23 §:n 1 momentissa tarkoitetun suostumuksen peruuttamisen tai mainitun lain 26 §:n 1 momentissa tarkoitetun koevapauden peruuttamisen vuoksi ehdonalaista vapauttamista on harkittava uudelleen, sen on saatettava asia Helsingin hovioikeuden uudelleen käsiteltäväksi. Samoin on meneteltävä valvotusta koevapaudesta annetun lain 28 §:ssä ja vankeuslain 3 luvun 7 §:ssä tarkoitetuissa rangaistusajaksi lukemista koskevissa asioissa.
 
-Asian käsittelystä Helsingin hovioikeudessa säädetään pitkäaikaisvankien vapauttamismenettelystä annetussa laissa (781/2005).
+Asian käsittelystä Helsingin hovioikeudessa säädetään elinkautisvankien vapauttamismenettelystä annetussa laissa (781/2005).

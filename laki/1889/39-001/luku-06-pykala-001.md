@@ -4,7 +4,7 @@ Väliotsikko: Yleiset säännökset
 
 Yleisiä rangaistuslajeja ovat rikesakko, sakko, ehdollinen vankeus, yhdyskuntapalvelu, valvontarangaistus ja ehdoton vankeus.
 
-Erityinen rangaistus alle 18-vuotiaana tehdystä rikoksesta on nuorisorangaistus.
+Erityinen rangaistus alle 18-vuotiaana tehdystä rikoksesta on nuorisorangaistus. Erityinen rangaistus vakavan rikoksen uusineelle on 2 c luvun 11 §:n nojalla tuomittava yhdistelmärangaistus.
 
 Erityisiä rangaistuksia virkamiehiä varten ovat varoitus ja viraltapano.
 
