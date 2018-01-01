@@ -8,7 +8,8 @@ Kelpoinen opiskelijaksi sotatieteellisiin opintoihin, jotka johtavat pelkästä�
 Upseerin virkaan johtaviin opintoihin otettavalta vaaditaan lisäksi, että henkilö on:
 1) Suomen kansalainen;
 2) ennen opintojen aloittamista saanut reservin upseerin koulutuksen;
-3) terveydentilaltaan ja muutoin puolustusvoimien tai rajavartiolaitoksen tehtävien asianmukaisen hoitamisen kannalta sopiva;
+3) terveydentilaltaan puolustusvoimien tai rajavartiolaitoksen tehtävien asianmukaisen hoitamisen kannalta sopiva;
+3 a) puolustusvoimien tai rajavartiolaitoksen tehtävissä edellytettävällä tavalla nuhteeton ja että hänellä ei ole sellaisia sidonnaisuuksia, jotka vaarantavat tehtävien asianmukaista ja riippumatonta hoitamista, ja että hän on muutoinkin luotettava;
 4) enintään 26-vuotias, lentäjäksi koulutettava kuitenkin enintään 23-vuotias.
 
 Maanpuolustuskorkeakoulun rehtori voi muualla aikaisemmin suoritetun tutkinnon tai muiden opintojen vuoksi taikka muusta vastaavasta erityisestä syystä myöntää poikkeuksen 3 momentin 4 kohdassa säädetystä vaatimuksesta.
