@@ -10,4 +10,4 @@ Ennakkoratkaisu annetaan määräajaksi, kuitenkin enintään antamista seuraava
 
 Ennakkoratkaisua koskeva asia on käsiteltävä Verohallinnossa kiireellisenä.
 
-Tavaran maahantuonnista suoritettavaa veroa koskevan ennakkoratkaisun antaa Tulli. Ennakkoratkaisun antamisesta ja sen voimassaolosta on soveltuvin osin voimassa, mitä Verohallinnon antamasta ennakkoratkaisusta säädetään.
+Tavaran maahantuonnista suoritettavaa veroa koskevan ennakkoratkaisun antaa Tulli, jos hakijaa ei ole merkitty arvonlisäverovelvollisten rekisteriin ennakkoratkaisuhakemuksen vireilletulohetkellä. Ennakkoratkaisun antaa kuitenkin Tulli, jos hakijana on luonnollinen henkilö ja hakemuksen tarkoittama tuonti ei liity hänen liiketoimintaansa. Ennakkoratkaisun antamisesta ja sen voimassaolosta on voimassa, mitä Verohallinnon antamasta ennakkoratkaisusta säädetään.
