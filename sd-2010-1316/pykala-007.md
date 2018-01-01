@@ -3,4 +3,4 @@ Luku: 1 luku Tehtävä ja kokoonpano
 
 Muutoksenhakulautakunnassa on tarpeellinen määrä esittelijöitä.
 
-Muutoksenhakulautakunnan esittelijällä on oltava oikeustieteen ylempi korkeakoulututkinto. Esittelijän tehtävistä määrätään tarkemmin muutoksenhakulautakunnan työjärjestyksessä.
+Muutoksenhakulautakunnan esittelijällä on oltava tuomarin virkaan oikeuttava tutkinto. Esittelijän tehtävistä määrätään tarkemmin muutoksenhakulautakunnan työjärjestyksessä.

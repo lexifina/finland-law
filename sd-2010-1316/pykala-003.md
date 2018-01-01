@@ -1,6 +1,4 @@
 # 3 § Jäsenten kelpoisuus
 Luku: 1 luku Tehtävä ja kokoonpano
 
-Puheenjohtajan, varapuheenjohtajien ja lakimiesjäsenten tulee olla oikeustieteen ylemmän korkeakoulututkinnon suorittaneita ja tapaturmavakuutukseen hyvin perehtyneitä. Puheenjohtajalta edellytetään lisäksi käytännössä osoitettua johtamistaitoa.
-
-Lääkärijäsenen tulee olla laillistettu lääkäri.
+Puheenjohtajalla, varapuheenjohtajilla ja lakimiesjäsenillä tulee olla tuomarin virkaan oikeuttava tutkinto ja heidän tulee olla perehtyneitä sosiaalivakuutusasioihin. Puheenjohtajan ja varapuheenjohtajan tulee olla lisäksi perehtyneitä erityisesti muutoksenhakulautakunnassa käsiteltäviin etuusjärjestelmiin. Puheenjohtajalta edellytetään myös käytännössä osoitettua johtamistaitoa. Lääkärijäsenen tulee olla laillistettu lääkäri. Muiden jäsenten tulee olla perehtyneitä sosiaalivakuutusasioihin.
