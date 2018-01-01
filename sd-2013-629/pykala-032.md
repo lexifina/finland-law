@@ -1,7 +1,7 @@
 # 32 § Päätösvalta
 Luku: 4 luku Rikosseuraamuslaitoksen virkamiehen tehtävät, apuvalvoja ja päätöksenteko
 
-Rikosseuraamuslaitoksen keskushallintoyksikkö päättää elinkautista vankeutta tai koko rangaistusta suorittavan vangin valvottuun koevapauteen sijoittamisesta. Rikosseuraamuslaitoksen keskushallintoyksikkö päättää 21 §:n 1 momentissa tarkoitetusta luvasta olla tilapäisesti noudattamatta rangaistusajan suunnitelmaa, jos lupa edellyttää poistumista Suomen valtion alueelta.
+Rikosseuraamuslaitoksen keskushallintoyksikkö päättää elinkautista vankeutta suorittavan vangin valvottuun koevapauteen sijoittamisesta. Rikosseuraamuslaitoksen keskushallintoyksikkö päättää 21 §:n 1 momentissa tarkoitetusta luvasta olla tilapäisesti noudattamatta rangaistusajan suunnitelmaa, jos lupa koskee poistumista Suomen valtion alueelta.
 
 Vankilan johtaja päättää muiden kuin 1 momentissa tarkoitettujen vankien valvottuun koevapauteen sijoittamisesta. Vankilan johtaja päättää myös 22 §:n 3 momentissa tarkoitetun täytäntöönpanoon tulevan uuden rangaistuksen vaikutuksesta koevapauden täytäntöönpanon jatkamiseen, valvotun koevapauden peruuttamisesta kokonaan tai määräajaksi ja 26 §:ssä tarkoitetusta vankilaan palauttamisesta.
 
