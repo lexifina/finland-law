@@ -8,7 +8,6 @@ Tämän luvun säännöksiä ei sovelleta:
 4) asumisoikeusasunnoista annetussa laissa tarkoitettuun asumisoikeuden luovuttamista koskevaan sopimukseen;
 5) asuinhuoneiston vuokrauksesta annetussa laissa tarkoitettuun huoneenvuokrasopimukseen;
 6) 10 luvun soveltamisalaan kuuluvaan sopimukseen;
-7) valmismatkalain soveltamisalaan kuuluvaan sopimukseen;
 8) sopimukseen, joka koskee arpajaislain soveltamisalaan kuuluvaa palvelua;
 9) jakeluautomaatin avulla tai automatisoidussa liiketilassa tehtävään sopimukseen;
 10) maksullisen yleisöpuhelimen avulla teletoiminnan harjoittajan kanssa tehtävään sopimukseen;

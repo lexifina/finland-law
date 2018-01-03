@@ -16,3 +16,5 @@ Sen lisäksi, mitä muualla laissa säädetään tiedonantovelvollisuudesta, luo
 11) ennenaikaiseen takaisinmaksuun liittyvät mahdolliset ehdot;
 12) onko omaisuuden arviointi tarpeen ja tapauksen mukaan maininta siitä, kuka vastaa arvioinnin suorittamisen järjestämisestä ja koituuko arvioinnista kustannuksia kuluttajalle;
 13) varoitus seurauksista, jotka aiheutuvat luottosopimukseen liittyvien velvoitteiden laiminlyönnistä.
+
+Jos luotonantajan tai luotonvälittäjän tarjoamissa luotoissa viitataan rahoitusvälineissä ja rahoitussopimuksissa vertailuarvoina tai sijoitusrahastojen arvonkehityksen mittaamisessa käytettävistä indekseistä ja direktiivien 2008/48/EY ja 2014/17/EU sekä asetuksen (EU) N:o 596/2014 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/1011 3 artiklan 1 kohdan 3 alakohdassa määriteltyyn vertailuarvoon, 1 momentissa tarkoitettujen tietojen tulee sisältää myös vertailuarvon ja sen hallinnoijan nimi sekä vertailuarvon käytön mahdolliset vaikutukset kuluttajaan.

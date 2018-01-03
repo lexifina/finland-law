@@ -8,7 +8,7 @@ Tämän luvun säännöksiä sovellettaessa kuluttajaluottoon rinnastetaan vuokr
 
 Tämän luvun muita kuin 16 a §:n säännöksiä sovellettaessa kuluttajaluottoon rinnastetaan myös luotto, jonka joku muu kuin luotonantaja myöntää tai lupaa myöntää kuluttajalle lainana, maksunlykkäyksenä tai muuna vastaavana taloudellisena järjestelynä, jos elinkeinonharjoittaja välittää luoton kuluttajalle. Luoton kuluttajalle välittävän elinkeinonharjoittajan on tällöin huolehdittava siitä, että mainittuja säännöksiä noudatetaan luottosuhteessa.
 
-Jatkuvan luoton käyttöön oikeuttavaan tunnisteeseen rinnastetaan 40 §:n säännöksiä sovellettaessa tunniste, joka oikeuttaa tilin taikka muun rahoituspalvelun tai rahoitusvälineen käyttöön. Luotonantajaa koskevia säännöksiä sovelletaan tällöin elinkeinonharjoittajaan, joka on tehnyt kuluttajan kanssa tunnistetta koskevan sopimuksen.
+Luoton käyttöön oikeuttavaan tunnisteeseen rinnastetaan 40 §:n säännöksiä sovellettaessa tunniste, joka oikeuttaa tilin taikka muun rahoituspalvelun tai rahoitusvälineen käyttöön. Luotonantajaa koskevia säännöksiä sovelletaan tällöin elinkeinonharjoittajaan, joka on tehnyt kuluttajan kanssa tunnistetta koskevan sopimuksen.
 
 Tämän luvun säännöksiä ei sovelleta:
 1) kuluttajaluottoon, josta ei peritä korkoa tai muita maksuja;
