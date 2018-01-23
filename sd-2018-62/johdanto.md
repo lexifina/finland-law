@@ -1,0 +1,2 @@
+Laki avaruuteen lähetettyjen esineiden rekisteröinnistä tehdystä yleissopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
