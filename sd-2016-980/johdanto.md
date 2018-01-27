@@ -1,0 +1,2 @@
+Laki pakollista työtä koskevaan sopimukseen liittyvän pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
