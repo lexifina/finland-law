@@ -1,0 +1,2 @@
+Laki diplomaattisten tai konsuliedustustojen tai kansainvälisissä hallitustenvälisissä järjestöissä toimivien edustustojen työntekijöiden puolisoiden ansiotyöstä Etelä-Afrikan kanssa tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
