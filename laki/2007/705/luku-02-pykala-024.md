@@ -6,4 +6,4 @@ Tässä laissa tarkoitettu ulosottoperuste, jossa luonnolliselle henkilölle on 
 
 Jos velallinen osoittaa, että saatava on ennen ulosottoperusteen antamista siirretty luonnolliselle henkilölle muulta kuin toiselta luonnolliselta henkilöltä, 1 momentissa tarkoitettu määräaika on 15 vuotta.
 
-Jos ulosottoperusteen määräajan kuluessa saatavan perimiseksi on toimitettu ulosmittaus tai saatava on ilmoitettu 5 luvussa tarkoitetussa myynnissä, määräajan umpeen kuluminen ei estä maksun saamista ulosmitatuista varoista.
+Jos ulosottoperusteen määräajan kuluessa saatavan perimiseksi on toimitettu ulosmittaus tai saatava on ilmoitettu 5 luvussa tarkoitetussa myynnissä, määräajan umpeen kuluminen tai velan vanhentuminen lopullisesti velan vanhentumisesta annetun lain 13 a §:n nojalla ei estä maksun saamista ulosmitatuista varoista.

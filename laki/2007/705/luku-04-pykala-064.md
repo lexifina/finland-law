@@ -3,7 +3,7 @@ Luku: 4 luku Ulosmittaus
 Väliotsikko: Elinkeinotulon ulosmittaus
 
 Jos velallinen on elinkeinoa harjoittava luonnollinen henkilö, hänen saamastaan toistuvasta elinkeinotulosta jätetään ulosmittaamatta viisi kuudesosaa. Velalliselle voidaan jättää:
-1) tätä enemmän, jos velallinen voi siten jatkaa elinkeinotoimintaa tai jos velallisen maksukyky on erityisen syyn vuoksi olennaisesti heikentynyt; tai
+1) tätä enemmän, jos velallinen voi siten jatkaa elinkeinotoimintaa, on ryhtynyt elinkeinonharjoittajaksi pitkän työttömyyden jälkeen tai jos velallisen maksukyky on erityisen syyn vuoksi olennaisesti heikentynyt; tai
 2) tätä vähemmän, jos sitä voidaan pitää velallisen varallisuusasemaan nähden kohtuullisena tai jos velallinen on olennaisesti laiminlyönyt elinkeinoonsa liittyviä maksuvelvoitteita.
 
 Lisäksi noudatetaan soveltuvin osin, mitä suojaosuudesta, menettelystä sekä maksusuunnitelmasta ja maksusopimuksesta palkan ulosmittauksessa säädetään.

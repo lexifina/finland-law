@@ -8,7 +8,7 @@ Jos ulosottoperusteen tässä laissa säädetty määräaika päättyy ennen kui
 Ulosottomiehen tulee velallisen pyynnöstä tehdä luottotietotoiminnan harjoittajalle antamiaan tietoja koskeva peruuttamisilmoitus, kun:
 1) velallinen on maksanut suppeassa ulosotossa perittävänä olleen saatavan;
 2) pitkäkestoinen ulosotto päättyy;
-3) ulosottoperusteen määräaika on kulunut umpeen;
+3) ulosottoperusteen määräaika on kulunut umpeen tai ulosotto päättyy sen vuoksi, että velka on vanhentunut lopullisesti velan vanhentumisesta annetun lain (728/2003) 13 a §:n nojalla;
 4) ulosottoperuste on kumottu tai ulosotto on muusta syystä ollut aiheeton; jos muu saatava tulee ulosotossa kokonaan maksetuksi tietojen luovuttamisen jälkeen, ulosottomiehen tulee ilmoittaa siitä velallisen pyynnöstä luottotietotoiminnan harjoittajalle.
 
 Tässä pykälässä tarkoitetut tiedot annetaan asiakohtaisesti eriteltyinä. Tiedot voidaan luovuttaa sähköisessä muodossa. Alaikäistä koskevien tietojen luovuttamisesta säädetään 3 luvun 113 §:n 2 momentissa.
