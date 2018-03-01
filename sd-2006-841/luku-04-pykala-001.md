@@ -10,6 +10,6 @@ Vapautensa menettänyt ei saa pitää hallussaan alkoholia, muuta päihdyttävä
 
 Muu omaisuus, joka vapautensa menettäneellä on mukanaan säilytystilaan tullessaan tai jonka hän saa vapauden menetyksen aikana, voidaan ottaa säilytettäväksi vapautensa menettäneen säilytystilasta vapauttamiseen saakka, jos se omaisuuden säilytykseen käytettävissä olevat tilat huomioon ottaen on mahdollista.
 
-Jos omaisuutta ei voida säilyttää, se palautetaan taikka lähetetään vapautensa menettäneen kustannuksella hänen osoittamaansa paikkaan. Pilaantunut tavara voidaan hävittää todistajan läsnä ollessa. Alkoholijuoman ja muun alkoholipitoisen aineen hävittämisestä noudatetaan, mitä alkoholilain (1143/1994) 60 §:ssä säädetään. Huumausaineen toimittamisesta hävitettäväksi säädetään huumausainelain (1289/1993) 10 §:ssä.
+Jos omaisuutta ei voida säilyttää, se palautetaan taikka lähetetään vapautensa menettäneen kustannuksella hänen osoittamaansa paikkaan. Pilaantunut tavara voidaan hävittää todistajan läsnä ollessa. Alkoholijuoman ja muun alkoholipitoisen aineen hävittämisestä säädetään alkoholilain (1102/2017) 86 §:ssä. Huumausaineen toimittamisesta hävitettäväksi säädetään huumausainelain (373/2008) 44 §:ssä.
 
 Tavaraan, jolla ei ole omistajaa, sovelletaan löytötavaralakia (778/1988).
