@@ -4,7 +4,7 @@ Metsävaratiedot perustuvat eri menetelmillä tehtäviin arviointeihin, mittauks
 
 Tietojärjestelmään talletettuja metsävaratietoja on säännöllisin väliajoin päivitettävä ottaen huomioon kohdealueen ominaisuudet sekä metsäkeskuksen käytettävissä olevat henkilöresurssit, taloudelliset resurssit ja julkisten hallintotehtävien hoitoon liittyvät tietojenkäyttötarpeet.
 
-Metsävaratietoja päivitetään metsäkeskuksen hallintoasioiden hoitamisen yhteydessä saatujen hakemusten ja ilmoitusten sekä maanomistajan tai hänen valtuuttamansa metsäkeskukselle toimittamien tietojen perusteella. Siitä poiketen, mitä 6 §:ssä säädetään rekisterinpitoon liittyvistä vastuista, rekisterinpitäjä ei vastaa näiden tietojen virheettömyydestä. Jos rekisterinpitoon liittyviä tehtäviä hoitava metsäkeskuksen toimihenkilö on tarkastanut näiden tietojen oikeellisuuden maastossa, sovelletaan kuitenkin, mitä 1 ja 2 momentissa säädetään.
+Metsävaratietoja päivitetään metsäkeskuksen hallintoasioiden hoitamisen yhteydessä saatujen hakemusten ja ilmoitusten perusteella. Lisäksi metsävaratietoja voidaan päivittää muidenkin metsäkeskukselle toimitettujen tietojen perusteella, jos tiedot eivät metsäkeskuksen arvion mukaan sisällä olennaisia puutteita, virheitä tai väärintulkintoja. Rekisterinpitäjä ei vastaa näiden tietojen tai viranomaisilta saatujen tietojen virheettömyydestä. Rekisterinpitäjä vastaa kuitenkin tietojen oikeellisuudesta siltä osin kuin metsäkeskuksen toimihenkilö on tarkastanut näiden tietojen oikeellisuuden maastossa tehdyn tarkastuksen yhteydessä.
 
 Tietojärjestelmästä laadittavaan rekisteriselosteeseen on mahdollisuuksien mukaan liitettävä kuvaus erilaisilla metsänarviointimenetelmillä saatujen tietojen luotettavuudesta ja tarkkuudesta.
 

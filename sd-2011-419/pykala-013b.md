@@ -1,3 +1,5 @@
-# 13 b § Luovutettujen tietojen käyttö
+# 13 b § Teknisen käyttöyhteyden avaaminen suostumuksen perusteella
 
-Metsätietojärjestelmästä luovutettuja tietoja saa käyttää vain siihen käyttötarkoitukseen, johon ne on luovutettu. Tiedot saa luovuttaa edelleen tai muuten antaa sivulliselle vain, jos siitä on säädetty laissa tai jos metsäkeskus on tietojen luovuttamista koskevassa päätöksessään antanut siihen nimenomaisen luvan. Metsäkeskus ei saa antaa lupaa metsätietojärjestelmän alkuperäisestä käyttötarkoituksesta poikkeavaan tietojen käsittelyyn.
+Tekninen käyttöyhteys voidaan avata tekemättä erillistä päätöstä luovutuksensaajan ilmoittaman henkilötietojen käsittelyn perusteen hyväksymisestä, jos maanomistaja on antanut suostumuksensa metsäkeskuksen tarjoamassa sähköisessä palvelussa. Metsäkeskuksen sähköisen palvelun käyttäjäksi rekisteröintiin sovelletaan, mitä 13 a §:ssä säädetään.
+
+Rekisterinpitäjän tulee huolehtia siitä, että maanomistaja saa ennen suostumuksen antamista tiedot luovutuksensaajalle asetetuista tietojen käyttöä koskevista ehdoista ja rajoituksista, suostumuksen peruuttamistavasta ja muista maanomistajan oikeuksien käyttämiseksi tarpeellisista seikoista.
