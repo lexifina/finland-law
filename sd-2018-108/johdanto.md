@@ -1,0 +1,2 @@
+Laki rikostorjunnasta Rajavartiolaitoksessa
+Eduskunnan päätöksen mukaisesti säädetään:
