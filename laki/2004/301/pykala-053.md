@@ -1,7 +1,7 @@
 # 53 § Ensimmäisen määräaikaisen oleskeluluvan pituus
 Luku: 4 luku Oleskelu
 
-Ensimmäinen määräaikainen oleskelulupa myönnetään yhdeksi vuodeksi, kuitenkin enintään hakijan matkustusasiakirjan voimassaoloajaksi, jollei oleskelulupaa haeta lyhyemmäksi ajaksi.
+Jollei jäljempänä tässä pykälässä toisin säädetä, ensimmäinen määräaikainen oleskelulupa myönnetään yhdeksi vuodeksi, kuitenkin enintään hakijan matkustusasiakirjan voimassaoloajaksi, jollei oleskelulupaa haeta lyhyemmäksi ajaksi.
 
 Jos oleskelulupa myönnetään perhesiteen perusteella, ei myönnettävän oleskeluluvan voimassaoloaika kuitenkaan saa olla pidempi kuin oleskeluluvan myöntämisen perusteena olevan perheenjäsenen oleskeluluvan voimassaoloaika.
 
@@ -18,3 +18,5 @@ Oleskelulupa pakolaisuuden ja toissijaisen suojelun perusteella myönnetään ne
 Euroopan unionin sininen kortti myönnetään kahdeksi vuodeksi. Jos työsuhde on voimassa tätä lyhyemmän ajan, Euroopan unionin sininen kortti myönnetään työsuhteen voimassaoloajaksi lisättynä kolmella kuukaudella. Euroopan unionin sinisen kortin haltijan perheenjäsenelle myönnetään oleskelulupa vastaavaksi ajaksi.
 
 Ulkomaalaiselle, joka on todistajansuojeluohjelmasta annetun lain mukaisessa todistajansuojeluohjelmassa, ja ulkomaalaiselle, joka otetaan Suomeen tämän lain 93 §:n nojalla tehdyn valtioneuvoston päätöksen perusteella ja jolle päätetään myöntää jatkuva oleskelulupa 113 §:n 1 momentin perusteella, myönnetään määräaikainen oleskelulupa neljäksi vuodeksi.
+
+Ensimmäinen määräaikainen oleskelulupa voidaan myöntää kahdeksi vuodeksi, jos se myönnetään 47 h §:n tai 77 §:n 1 momentin perusteella. Oleskelulupa voidaan myöntää kahdeksi vuodeksi myös, jos se myönnetään mainituissa lainkohdissa tarkoitetun ulkomaalaisen perheenjäsenelle.

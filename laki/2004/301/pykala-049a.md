@@ -8,6 +8,6 @@ Pitkään oleskelleen kolmannen maan kansalaisen EU-oleskeluluvan toisessa union
 
 Oleskelulupa myönnetään tilapäisenä tai jatkuvana ottaen huomioon tarkoitetun oleskelun luonne.
 
-Työntekoa varten myönnetään työntekijän oleskelulupa tai muu oleskelulupa. Elinkeinon harjoittamista varten myönnetään elinkeinonharjoittajan oleskelulupa. Työntekijän ja elinkeinonharjoittajan oleskeluluvan myöntämisestä säädetään tarkemmin 5 luvussa.
+Työntekoa varten myönnetään työntekijän oleskelulupa tai muu oleskelulupa. Yritystoiminnan harjoittamista varten myönnetään yrittäjän oleskelulupa. Työntekijän ja yrittäjän oleskeluluvan myöntämisestä säädetään tarkemmin 5 luvussa.
 
 Kun toisessa unionin jäsenvaltiossa pitkään oleskelleen kolmannen maan kansalaisen EU-oleskeluluvan saaneelle myönnetään tilapäinen tai jatkuva oleskelulupa, hänen perheenjäsenelleen myönnetään samaksi ajaksi tilapäinen tai jatkuva oleskelulupa Suomessa tai ulkomailta haettuna.

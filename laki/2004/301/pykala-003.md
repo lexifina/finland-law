@@ -12,9 +12,9 @@ Tässä laissa tarkoitetaan:
 6) työntekijän oleskeluluvalla ulkomaalaiselle ansiotyötä varten myönnettävää oleskelulupaa, joka myönnetään kaksivaiheisessa menettelyssä siten, että työ- ja elinkeinotoimisto tekee asiassa osapäätöksen ennen Maahanmuuttoviraston päätöstä;
 6 a) muulla oleskeluluvalla ansiotyötä varten ulkomaalaiselle ansiotyötä varten myönnettävää oleskelulupaa, joka myönnetään ilman edeltävää työ- ja elinkeinotoimiston osapäätöstä;
 6 b) työnteko-oikeudella ulkomaalaisen tämän lain mukaista oikeutta tehdä Suomessa tai suomalaisessa aluksessa ansiotyötä oleskeluluvan, 10 luvun mukaisen oleskeluoikeuden, viisumin tai viisumivapauden nojalla taikka muulla tässä laissa säädetyllä perusteella;
-7) elinkeinonharjoittajan oleskeluluvalla ulkomaalaiselle, jonka tarkoituksena on elinkeinon harjoittaminen, myönnettävää oleskelulupaa, joka myönnetään kaksivaiheisessa menettelyssä siten, että elinkeino-, liikenne- ja ympäristökeskus tekee asiassa osapäätöksen ennen Maahanmuuttoviraston päätöstä;
+7) yrittäjän oleskeluluvalla ulkomaalaiselle, jonka tarkoituksena on yritystoiminnan harjoittaminen, myönnettävää oleskelulupaa, joka myönnetään kaksivaiheisessa menettelyssä siten, että elinkeino-, liikenne- ja ympäristökeskus tekee asiassa osapäätöksen ennen Maahanmuuttoviraston päätöstä;
 8) ansiotyöllä työskentelyä työ-, virka- tai muussa palvelussuhteessa, jossa työtä tehdään vastikkeellisesti;
-9) elinkeinonharjoittajalla henkilöä, joka harjoittaa elinkeinoa tai ammattia omissa nimissään (ammatinharjoittaja) tai on yritysvastuun kannalta tällaiseen henkilöön rinnastettava;
+9) yrittäjällä henkilöä, joka johtavassa asemassa harjoittaa yritystoimintaa;
 10) pakolaissopimuksella pakolaisten oikeusasemaa koskevaa yleissopimusta (SopS 77/1968);
 11) pakolaisella ulkomaalaista, joka täyttää pakolaissopimuksen 1 artiklan vaatimukset;
 12) pakolaisasemalla asemaa, joka myönnetään pakolaiseksi tunnustetulle ulkomaalaiselle;
