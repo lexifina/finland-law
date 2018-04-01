@@ -1,5 +1,5 @@
 # 5 § Pidättämisen edellytykset
-Luku: 2 luku Kiinniottaminen, pidättäminen ja vangitseminen
+Luku: 2 luku Kiinniottaminen, pidättäminen, vangitseminen ja tutkinta-aresti
 Väliotsikko: Pidättäminen
 
 Rikoksesta todennäköisin syin epäilty saadaan pidättää, jos:

@@ -1,5 +1,5 @@
 # 4 § Kiinniottamisesta ilmoittaminen
-Luku: 2 luku Kiinniottaminen, pidättäminen ja vangitseminen
+Luku: 2 luku Kiinniottaminen, pidättäminen, vangitseminen ja tutkinta-aresti
 
 Kiinni otetulle on viipymättä ilmoitettava kiinniottamisen syy.
 

@@ -1,5 +1,5 @@
 # 9 § Pidättämiseen oikeutettu virkamies
-Luku: 2 luku Kiinniottaminen, pidättäminen ja vangitseminen
+Luku: 2 luku Kiinniottaminen, pidättäminen, vangitseminen ja tutkinta-aresti
 
 Pidättämisestä päättää pidättämiseen oikeutettu virkamies. Pidättämiseen oikeutettuja virkamiehiä ovat:
 1) poliisiylijohtaja, Poliisihallituksen poliisijohtaja, poliisiylitarkastaja ja poliisitarkastaja, poliisipäällikkö, apulaispoliisipäällikkö, keskusrikospoliisin päällikkö ja apulaispäällikkö, suojelupoliisin päällikkö, esitutkintatehtäviin määrätty apulaispäällikkö, esitutkintatehtäviin määrätty osastopäällikkö, esitutkintatehtäviin määrätty ylitarkastaja ja tarkastaja, rikosylitarkastaja, rikostarkastaja, rikosylikomisario, ylikomisario, rikoskomisario ja komisario;

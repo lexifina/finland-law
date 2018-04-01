@@ -9,4 +9,8 @@ Päätöksestä, jolla matkustuskielto on määrätty, on käytävä ilmi:
 5) kiellon voimassaoloaika;
 6) oikeus saattaa matkustuskiellon voimassa pitäminen tuomioistuimen tutkittavaksi.
 
-Päätöksestä on annettava jäljennös kieltoon määrätylle. Jos matkustuskieltoon määrätty ei ollut läsnä päätöstä annettaessa tai jos päätöksen jäljennöstä ei muuten voida tuolloin hänelle antaa, jäljennös voidaan toimittaa hänelle postitse hänen ilmoittamallaan osoitteella.
+Tehostettua matkustuskieltoa koskevasta päätöksestä on lisäksi käytävä ilmi tekninen valvontatapa. Jos tuomioistuin on määrännyt velvollisuuden pysyä asunnossa, päätöksestä on ilmettävä myös asunnossa pysymisen velvoitteen tuntimäärä ja ajoittuminen sekä asunnon tai muun asumiseen soveltuvan paikan osoitetiedot.
+
+Päätöksestä on annettava jäljennös kieltoon määrätylle. Jos matkustuskieltoon määrätty ei ollut läsnä päätöstä annettaessa tai jos jäljennöstä ei muuten voida tuolloin hänelle antaa, jäljennös voidaan toimittaa hänelle postitse hänen ilmoittamallaan osoitteella.
+
+Tehostettua matkustuskieltoa koskevasta päätöksestä on viipymättä ilmoitettava Rikosseuraamuslaitokselle.

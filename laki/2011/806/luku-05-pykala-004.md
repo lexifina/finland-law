@@ -5,4 +5,6 @@ Esitutkinnan aikana matkustuskiellosta päättää pidättämiseen oikeutettu vi
 
 Syytteen nostamisen jälkeen matkustuskieltoa koskevasta asiasta päättää tuomioistuin. Tuomioistuin saa tällöin määrätä syytetyn matkustuskieltoon vain syyttäjän vaatimuksesta.
 
-Vangitsemisvaatimusta sekä vangittuna pitämistä koskevaa asiaa käsitellessään tuomioistuimen on harkittava, ovatko 1 §:ssä säädetyt edellytykset olemassa ja tulisiko vangittavaksi vaadittu tai vangittu määrätä vangitsemisen sijasta matkustuskieltoon. Tällöin tuomioistuin päättää matkustuskiellosta myös ennen syytteen nostamista. Vangitsemispäätöksestä tehdyn kantelun johdosta määrätystä matkustuskiellosta päättää kuitenkin vangitsemispäätöksen tehnyt tuomioistuin.
+Vangitsemisvaatimusta sekä vangittuna pitämistä koskevaa asiaa käsitellessään tuomioistuimen on harkittava, ovatko 1 tai 1 a §:ssä säädetyt edellytykset olemassa ja tulisiko vangittavaksi vaadittu tai vangittu määrätä vangitsemisen sijasta matkustuskieltoon. Tällöin tuomioistuin päättää matkustuskiellosta myös ennen syytteen nostamista. Vangitsemispäätöksestä tehdyn kantelun johdosta määrätystä matkustuskiellosta päättää kuitenkin vangitsemispäätöksen tehnyt tuomioistuin.
+
+Tehostetusta matkustuskiellosta päättää kuitenkin aina tuomioistuin.

@@ -1,7 +1,7 @@
 # 8 § Matkustuskiellon kumoaminen
 Luku: 5 luku Matkustuskielto
 
-Matkustuskielto on kumottava kokonaan tai osittain heti, kun edellytyksiä sen voimassa pitämiseen sellaisenaan ei enää ole.
+Matkustuskielto on kumottava kokonaan tai osittain heti, kun edellytyksiä sen voimassa pitämiseen sellaisenaan ei enää ole. Kumoamisesta voi päättää pidättämiseen oikeutettu virkamies, vaikka matkustuskielto olisi tuomioistuimen määräämä.
 
 Matkustuskielto on kumottava, jollei syytettä nosteta 60 päivän kuluessa kiellon määräämisestä. Tuomioistuin voi pidättämiseen oikeutetun virkamiehen viimeistään viikkoa ennen määräajan päättymistä tekemästä pyynnöstä pidentää määräaikaa. Tuomioistuimen on otettava asia käsiteltäväksi viipymättä ja ratkaistava se määräajan kuluessa.
 

@@ -1,5 +1,5 @@
 # 1 § Poliisimiehen kiinniotto-oikeus
-Luku: 2 luku Kiinniottaminen, pidättäminen ja vangitseminen
+Luku: 2 luku Kiinniottaminen, pidättäminen, vangitseminen ja tutkinta-aresti
 Väliotsikko: Kiinniottaminen
 
 Poliisimies saa rikoksen selvittämistä varten ottaa kiinni verekseltä tai pakenemasta tavatun rikoksesta epäillyn.

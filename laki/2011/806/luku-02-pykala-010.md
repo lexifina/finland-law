@@ -1,5 +1,5 @@
 # 10 § Pidättämisestä ilmoittaminen
-Luku: 2 luku Kiinniottaminen, pidättäminen ja vangitseminen
+Luku: 2 luku Kiinniottaminen, pidättäminen, vangitseminen ja tutkinta-aresti
 
 Pidätetylle on ilmoitettava pidättämisen syy viipymättä, kun päätös pidättämisestä on tehty tai hänet on otettu pidättämismääräyksen perusteella kiinni.
 

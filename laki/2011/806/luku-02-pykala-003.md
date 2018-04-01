@@ -1,5 +1,5 @@
 # 3 § Voimakeinojen käyttö
-Luku: 2 luku Kiinniottaminen, pidättäminen ja vangitseminen
+Luku: 2 luku Kiinniottaminen, pidättäminen, vangitseminen ja tutkinta-aresti
 
 Jos kiinniotettava yleisen kiinniotto-oikeuden käyttämisen yhteydessä tekee vastarintaa tai pakenee, kiinniottaja saa käyttää sellaisia kiinniottamisen toimittamiseksi välttämättömiä voimakeinoja, joita voidaan pitää kokonaisuutena arvostellen puolustettavina, kun otetaan huomioon rikoksen laatu, kiinniotettavan käyttäytyminen ja tilanne muutenkin.
 

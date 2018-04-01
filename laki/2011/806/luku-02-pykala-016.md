@@ -1,5 +1,5 @@
 # 16 § Pidättämistä koskevan päätöksen kääntäminen
-Luku: 2 luku Kiinniottaminen, pidättäminen ja vangitseminen
+Luku: 2 luku Kiinniottaminen, pidättäminen, vangitseminen ja tutkinta-aresti
 
 Epäillyllä on oikeus saada kohtuullisessa ajassa kirjallinen käännös pidättämistä koskevasta päätöksestä esitutkintalain (805/2011) 4 luvun 12 §:ssä tarkoitetulle epäillyn käyttämälle kielelle.
 

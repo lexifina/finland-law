@@ -1,5 +1,5 @@
 # 12 § Tuomitun vangitsemisen edellytykset
-Luku: 2 luku Kiinniottaminen, pidättäminen ja vangitseminen
+Luku: 2 luku Kiinniottaminen, pidättäminen, vangitseminen ja tutkinta-aresti
 
 Tuomioistuin saa syyttäjän tai vastaajalle rangaistusta vaatineen asianomistajan vaatimuksesta määrätä ehdottomaan vankeusrangaistukseen tuomitun vangittavaksi tai pidettäväksi edelleen vangittuna, jos:
 1) tuomittu rangaistus on vähintään kaksi vuotta vankeutta;

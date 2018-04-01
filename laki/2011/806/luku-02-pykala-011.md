@@ -1,5 +1,5 @@
 # 11 § Vangitsemisen edellytykset
-Luku: 2 luku Kiinniottaminen, pidättäminen ja vangitseminen
+Luku: 2 luku Kiinniottaminen, pidättäminen, vangitseminen ja tutkinta-aresti
 Väliotsikko: Vangitseminen
 
 Tuomioistuin saa vangitsemisvaatimuksen esittämiseen oikeutetun virkamiehen vaatimuksesta määrätä rikoksesta todennäköisin syin epäillyn vangittavaksi 5 §:n 1 momentissa säädetyin edellytyksin.
