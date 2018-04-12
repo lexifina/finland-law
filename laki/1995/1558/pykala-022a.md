@@ -4,7 +4,7 @@ Luku: 3 luku Sivullisen tiedonantovelvollisuus
 Tiedonantovelvolliselle voidaan määrätä enintään 2 000 euron suuruinen laiminlyöntimaksu, jos:
 1) tiedonantovelvollisuuden täyttämiseksi annettavassa ilmoituksessa, muussa tiedossa tai asiakirjassa on vähäinen puutteellisuus tai virhe eikä tiedonantovelvollinen ole noudattanut todistettavasti lähetettyä kehotusta sen korjaamiseksi;
 2) tiedonantovelvollinen on ilman pätevää syytä antanut ilmoituksen, tiedon tai asiakirjan myöhässä; taikka
-3) tiedonantovelvollinen on antanut tiedot muulla tavalla kuin Verohallinto on määrännyt.
+3) tiedonantovelvollinen on antanut tiedot muulla tavalla kuin laissa säädetään tai Verohallinto määrää.
 
 Jos tiedonantovelvollinen on antanut tiedonantovelvollisuuden täyttämiseksi annettavan ilmoituksen, muun tiedon tai asiakirjan olennaisesti puutteellisena tai virheellisenä taikka antanut ne vasta todistettavasti lähetetyn kehotuksen jälkeen, tiedonantovelvolliselle voidaan määrätä enintään 5 000 euron suuruinen laiminlyöntimaksu.
 
@@ -17,3 +17,5 @@ Pääurakoitsijalle tai muulle päätoteuttajalle ei määrätä laiminlyöntima
 Laiminlyöntimaksua ei määrätä luonnolliselle henkilölle tai kuolinpesälle, ellei kyse ole elinkeinotoimintaan taikka maa- tai metsätalouteen liittyvästä tiedonantovelvollisuuden laiminlyönnistä. Laiminlyöntimaksu voidaan kuitenkin aina määrätä työntekijöiden lähettämisestä annetun lain 8 §:ssä tarkoitetulle edustajalle. Laiminlyöntimaksu voidaan määrätä myös rakennuttajana olevalle luonnolliselle henkilölle, joka laiminlyö tämän lain 15 d §:ssä säädetyn tiedonantovelvollisuuden tai ei esitä 15 d §:ssä tarkoitettua todistusta rakennusvalvontaviranomaiselle.
 
 Laiminlyöntimaksu ei ole verotuksessa vähennyskelpoinen meno. Laiminlyöntimaksu tilitetään valtiolle. Maksuunpannulle ja maksettavaksi erääntyneelle maksamattomalle laiminlyöntimaksulle peritään veronlisäyksestä ja viivekorosta annetun lain (1556/1995) 5 a §:n mukaista viivästyskorkoa.
+
+Edellä 22 §:n 6 momentissa tarkoitetuille tulorekisteriin talletettaville tiedoille määrättävästä myöhästymismaksusta säädetään tulotietojärjestelmästä annetussa laissa. Tämän pykälän mukaista laiminlyöntimaksua ei määrätä, jos tiedon antamisesta myöhässä on määrätty mainitussa laissa tarkoitettu myöhästymismaksu.

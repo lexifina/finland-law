@@ -13,3 +13,5 @@ Edellä 15 b §:ssä tarkoitettu työntekijä tai itsenäinen työnsuorittaja on
 Tässä luvussa tarkoitetut tiedot on annettava Verohallinnolle salassapitosäännösten ja muiden tietojen saantia koskevien rajoitusten estämättä.
 
 Verohallinto voi määrätä, että tiedonantovelvollisen on annettava tässä luvussa tarkoitetut tiedot sähköistä tiedonsiirtomenetelmää käyttäen. Luonnollista henkilöä tai kuolinpesää ei voida velvoittaa antamaan tietoja sähköistä tiedonsiirtomenetelmää käyttäen. Tiedot voidaan antaa sähköistä tiedonsiirtomenetelmää käyttäen, kun tietojen suojaaminen henkilötietolain (523/1999) 32 §:n 1 momentissa tarkoitetulla tavalla on selvitetty.
+
+Siltä osin kuin tässä luvussa tarkoitetut tiedot on tulotietojärjestelmästä annetun lain 6 ja 8 §:n nojalla talletettava tulorekisteriin, tietojen antamiseen sovelletaan, mitä mainitussa laissa säädetään. Tiedot katsotaan annetuiksi Verohallinnolle silloin, kun ne on annettu Tulorekisteriyksikölle.
