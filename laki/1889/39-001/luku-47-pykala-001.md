@@ -8,4 +8,4 @@ on tuomittava työturvallisuusrikoksesta sakkoon tai vankeuteen enintään yhdek
 
 Rangaistus kuolemantuottamuksesta, vammantuottamuksesta ja vaaran aiheuttamisesta säädetään 21 luvun 8–11 ja 13 §:ssä.
 
-Työturvallisuusrikoksena ei kuitenkaan pidetä yksittäistä työturvallisuusmääräysten rikkomista, joka on työturvallisuuden kannalta vähäinen ja josta säädetään rangaistus työturvallisuuslain (738/2002) 63 §:ssä, työterveyshuoltolain (1383/2001) 23 §:ssä, eräiden teknisten laitteiden vaatimustenmukaisuudesta annetun lain (1016/2004) 13 §:ssä tai laivaväen työ- ja asuinympäristöstä sekä ruokahuollosta aluksella annetun lain (395/2012) 20 §:ssä.
+Työturvallisuusrikoksena ei kuitenkaan pidetä yksittäistä työturvallisuusmääräysten rikkomista, joka on työturvallisuuden kannalta vähäinen ja josta säädetään rangaistus työturvallisuuslain (738/2002) 63 §:ssä, työterveyshuoltolain (1383/2001) 23 §:ssä tai laivaväen työ- ja asuinympäristöstä sekä ruokahuollosta aluksella annetun lain (395/2012) 20 §:ssä.

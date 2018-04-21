@@ -9,6 +9,5 @@ Jos tietoliikenteen häirinnässä
 5) rikoksella aiheutetaan erityisen tuntuvaa haittaa tai taloudellista vahinkoa tai
 6) rikos kohdistuu laitteeseen, tietojärjestelmään tai viestintään, jonka vahingoittaminen vaarantaisi energiahuollon, yleisen terveydenhuollon, maanpuolustuksen, oikeudenhoidon taikka muun näihin rinnastettavan yhteiskunnan tärkeän toiminnon
 ja tietoliikenteen häirintä on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä tietoliikenteen häirinnästä vankeuteen vähintään neljäksi kuukaudeksi ja enintään viideksi vuodeksi.
-ja tietoliikenteen häirintä on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä tietoliikenteen häirinnästä vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.
 
 Yritys on rangaistava.
