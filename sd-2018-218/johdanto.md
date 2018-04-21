@@ -1,0 +1,2 @@
+Laki kuluttajien käyttöön tarkoitetuista henkilönsuojaimista
+Eduskunnan päätöksen mukaisesti säädetään:
