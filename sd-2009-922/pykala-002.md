@@ -1,8 +1,6 @@
 # 2 § Tehtävät
 
 Akatemian tehtävänä on:
-1) edistää tieteellistä tutkimusta ja sen hyödyntämistä;
-2) kehittää kansainvälistä tieteellistä yhteistyötä;
-3) toimia asiantuntijaelimenä tiedepolitiikkaa koskevissa kysymyksissä;
-4) myöntää rahoitusta tieteelliseen tutkimukseen, tutkijankoulutukseen ja tutkimusedellytysten kehittämiseen; sekä
-5) suorittaa muut tiedepoliittiset asiantuntijatehtävät, joista valtioneuvoston asetuksella säädetään tai jotka opetus- ja kulttuuriministeriö sille antaa.
+1) edistää tieteellistä tutkimusta ja tutkimusedellytyksiä sekä niiden hyödyntämistä rahoittamalla niitä ja osallistumalla kansainväliseen yhteistyöhön;
+2) toimia asiantuntijana tiedepolitiikan kehittämisessä ja toimeenpanossa;
+3) suorittaa muut asiantuntijatehtävät, joista säädetään valtioneuvoston asetuksella tai jotka opetus- ja kulttuuriministeriö sille antaa.
