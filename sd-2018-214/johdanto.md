@@ -1,0 +1,2 @@
+Laki työntekijöiden ja ammatinharjoittajien lisäeläkeoikeuksista
+Eduskunnan päätöksen mukaisesti säädetään:
