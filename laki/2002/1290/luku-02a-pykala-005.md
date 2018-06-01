@@ -4,7 +4,7 @@ Luku: 2 a luku Työvoimapoliittisesti moitittava menettely
 
 Mitä 4 §:ssä säädetään, sovelletaan vain työhön:
 1) jota työnhakijan työkyky huomioon ottaen voidaan pitää hänelle sopivana;
-2) josta maksetaan työehtosopimuksen mukainen palkka tai, jollei työehtosopimusta ole, työpaikkakunnalla sellaisesta työstä maksettava tavanomainen ja kohtuullinen palkka; ja
+2) josta maksetaan työehtosopimuksen mukainen palkka tai, jollei alalla ole työehtosopimusta, kokoaikatyön palkka on vähintään 1 134 euroa kuukaudessa;
 3) joka ei ole lakon, työsulun tai saarron piirissä.
 
 Henkilöllä on pätevä syy kieltäytyä hänelle tarjotusta työstä, jos:
