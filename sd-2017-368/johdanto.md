@@ -1,0 +1,2 @@
+Laki velkajärjestelyrekisteristä
+Eduskunnan päätöksen mukaisesti säädetään:
