@@ -1,0 +1,2 @@
+Laki matkapalveluyhdistelmistä
+Eduskunnan päätöksen mukaisesti säädetään:
