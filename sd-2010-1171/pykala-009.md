@@ -10,6 +10,4 @@ Lääkärintodistuksesta tulee käydä ilmi:
 
 Jos lääkärintodistus annetaan alle 18-vuotiaalle, siitä tulee käydä ilmi, että työskentely aluksella tai sen jatkaminen ei ole haitallista hänen terveydelleen tai kehitykselleen.
 
-Sosiaali- ja terveysministeriö vahvistaa laivaväen lääkärintodistuksen mallilomakkeen kuultuaan sitä ennen merimiesasiain neuvottelukuntaa.
-
 Lääkärin velvollisuudesta lähettää jäljennös lääkärintodistuksesta Työterveyslaitokselle säädetään merimiehen lääkärintarkastuksista pidettävästä rekisteristä annetun lain (25/1999) 2 §:ssä.
