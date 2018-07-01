@@ -3,7 +3,7 @@ Luku: 4 luku Onnettomuustietojen rekisteröinti
 
 Onnettomuustietorekisteriin talletetaan henkilön tunnistetietojen lisäksi onnettomuustutkinnassa tarpeellisiksi katsotut:
 1) tiedot henkilön terveydentilasta;
-2) tiedot ajoneuvoliikennerekisteristä annetussa laissa (541/2003) tarkoitetuista liikennerikoksista;
+2) tiedot liikennerikoksista rikosrekisteristä ja sakkorekisteristä;
 3) muut 9 §:n nojalla saadut tiedot; sekä
 4) muutoin saadut onnettomuuteen liittyvät tiedot.
 
