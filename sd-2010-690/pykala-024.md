@@ -4,7 +4,7 @@ Luku: 4 luku Rekisteritiedot
 Sen estämättä, mitä viranomaisten toiminnan julkisuudesta annetun lain 16 §:n 3 momentissa säädetään, rekisteriin talletettuja henkilötietoja sisältäviä tietoja voidaan luovuttaa jäljennöksinä, tulosteina tai teknisen käyttöyhteyden avulla tai muutoin sähköisesti:
 1) tulliviranomaisille laissa säädettyjä valvontatehtäviä, rikosten ehkäisyä, esitutkintaa sekä verotusta ja sen valvontaa varten;
 2) rajavartiolaitokselle ja poliisille kalastuksen valvontaa, rajaturvallisuuden ylläpitämistä, meriliikenteen valvontaa, rikosten ehkäisyä, esitutkintaa ja öljypäästöjen tutkintaa sekä pelastustoimintaa varten;
-3) Liikenteen turvallisuusvirastolle merenkulun ohjausta, meriturvallisuuden valvontaa ja alusrekisterin ylläpitoa varten;
+3) Liikenteen turvallisuusvirastolle merenkulun ohjausta, meriturvallisuuden valvontaa ja liikenneasioiden rekisterin ylläpitoa varten;
 4) työsuojeluviranomaisille kalastusalusten työolojen valvontaa varten;
 5) ulosottoviranomaisille niille kuuluvien täytäntöönpanotehtävien hoitamista varten;
 6) elintarvikevalvontaviranomaisille elintarvikkeita koskevan lainsäädännön noudattamisen valvontaa varten;
