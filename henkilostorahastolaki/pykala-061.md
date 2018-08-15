@@ -2,7 +2,7 @@
 Luku: 9 luku Erinäiset säännökset
 
 Henkilöstörahaston toimielimen jäsenen, varajäsenen ja toimihenkilön on pidettävä salassa tässä laissa tarkoitettuja tehtäviä suorittaessaan saadut:
-1) työnantajayrityksen liike- tai ammattisalaisuutta koskevat tiedot;
+1) työnantajayrityksen liikesalaisuutta koskevat tiedot;
 2) työnantajayrityksen taloudellista asemaa koskevat tiedot, jotka eivät ole muun lainsäädännön mukaan julkisia ja joiden levittäminen olisi omiaan vahingoittamaan yritystä tai tämän liike- ja sopimuskumppania;
 3) yksityisen henkilön taloudellista asemaa ja muutoin häntä henkilökohtaisesti koskevat tiedot, jollei henkilö, jonka suojaksi salassapitovelvollisuus on säädetty, ole antanut suostumusta tietojen luovuttamiseen.
 
