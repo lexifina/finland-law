@@ -1,6 +1,6 @@
 # 11 §.
 
-Syyte 9 ja 10 §:ssä tarkoitetusta rikoksesta ja rikkomuksesta käsitellään Helsingin käräjäoikeudessa. Syyttäjä ei saa nostaa syytettä tässä laissa tarkoitetusta rikkomuksesta, ellei asianomistaja ole ilmoittanut rikkomusta syytteeseen pantavaksi.
+Syyte 9 §:ssä tarkoitetusta rikoksesta ja rikkomuksesta käsitellään käräjäoikeudessa. Syyttäjä ei saa nostaa syytettä tässä laissa tarkoitetusta rikkomuksesta, ellei asianomistaja ole ilmoittanut rikkomusta syytteeseen pantavaksi.
 
 Edellä 1 momentissa tarkoitetun syyteasian yhteydessä voidaan käsitellä syytteessä tarkoitetusta rikoksesta johtuva vahingonkorvausvaatimus sen estämättä, mitä 10 a §:ssä säädetään.
 
