@@ -4,4 +4,4 @@ Väliotsikko: Haastehakemus
 
 Riita-asia pannaan vireille käräjäoikeuden kansliaan toimitettavalla kirjallisella haastehakemuksella.
 
-Kun haastehakemus saapuu kansliaan, asia tulee vireille ja sen valmistelu alkaa.
+Kun haastehakemus saapuu kansliaan, asia tulee vireille ja sen valmistelu alkaa. Jos haastehakemus on saapunut virka-ajan päätyttyä, katsotaan se saapuneeksi seuraavana arkipäivänä.

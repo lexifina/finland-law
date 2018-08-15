@@ -6,4 +6,4 @@ Osapuolilla on oikeus sopia, että 1–10 §:ssä tarkoitettu riita-asia voidaan
 
 Kuluttajan, työntekijän taikka elatusapua vaativan tai saavan oikeutta saattaa asia tämän luvun osoittaman tuomioistuimen tutkittavaksi ei voida rajoittaa oikeuspaikkasopimuksin, paitsi jos sopimus on tehty riidan syntymisen jälkeen.
 
-Oikeuspaikkasopimusta ei saa tehdä 11–17 §:ssä tarkoitetussa asiassa.
+Oikeuspaikkasopimusta ei saa tehdä 11–17 §:ssä tarkoitetussa asiassa. Jos asia käsitellään ja ratkaistaan 17 a §:ssä tarkoitettuna summaarisena riita-asiana, oikeuspaikkasopimus jätetään ottamatta huomioon.

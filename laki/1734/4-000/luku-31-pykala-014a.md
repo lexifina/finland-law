@@ -3,6 +3,7 @@ Luku: 31 luku Ylimääräisestä muutoksenhausta
 
 Siitä poiketen, mitä 12 §:ssä säädetään, tuomion purkamista haetaan siltä tuomioistuimelta, jonka tuomiota hakemus koskee, jos hakemus tarkoittaa:
 1) rikosasiassa annetun tuomion purkamista tai oikaisemista siksi, että henkilöä on käsitelty toisena tai väärällä nimellä;
+1 a) pelkästään päiväsakon rahamäärän alentamista;
 2) poissaolon johdosta määrätyn seuraamuksen poistamista laillisen esteen vuoksi; taikka
 3) tuomion purkamista tai oikaisemista 9 a §:n nojalla.
 
