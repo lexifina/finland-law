@@ -9,7 +9,7 @@ Viestintäviraston tehtävänä on huolehtia, että tarjolla on helppokäyttöin
 Tietoja ei kuitenkaan tarvitse antaa siltä osin kuin tietojen antamisen voidaan katsoa vaarantavan:
 1) verkkojen tietoturvallisuutta;
 2) yleistä tai kansallista turvallisuutta;
-3) yritys- ja liikesalaisuuksia.
+3) liikesalaisuuksia.
 
 Edellä 1 momentin 1—3 kohdassa tarkoitettujen tietojen antamisesta perittävistä maksuista säädetään valtion maksuperustelaissa (150/1992).
 
