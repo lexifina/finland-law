@@ -1,7 +1,7 @@
 # 5 § Yrityssalaisuuden rikkominen
 Luku: 30 luku Elinkeinorikoksista
 
-Joka hankkiakseen itselleen tai toiselle taloudellista hyötyä tai toista vahingoittaakseen oikeudettomasti ilmaisee toiselle kuuluvan yrityssalaisuuden tai oikeudettomasti käyttää tällaista yrityssalaisuutta, jonka hän on saanut tietoonsa
+Joka hankkiakseen itselleen tai toiselle taloudellista hyötyä tai toista vahingoittaakseen oikeudettomasti ilmaisee toiselle kuuluvan liikesalaisuuden tai oikeudettomasti käyttää tällaista liikesalaisuutta, jonka hän on saanut tietoonsa
 1) ollessaan toisen palveluksessa,
 2) toimiessaan yhteisön tai säätiön hallintoneuvoston tai hallituksen jäsenenä, toimitusjohtajana, tilintarkastajana tai selvitysmiehenä taikka niihin rinnastettavassa tehtävässä,
 3) suorittaessaan tehtävää toisen puolesta tai muuten luottamuksellisessa liikesuhteessa tai
