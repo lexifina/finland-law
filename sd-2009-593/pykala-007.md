@@ -6,4 +6,4 @@ Keskuksella on oikeus saada maksutta ja salassapitosäännösten estämättä se
 3) Terveyden ja hyvinvoinnin laitokselta tilasto- ja rekisteritiedot;
 4) Sosiaali- ja terveysalan lupa- ja valvontavirastolta tarvittavat rekisteritiedot.
 
-Keskus ei saa luovuttaa tämän lain mukaisia tehtäviä suorittaessaan saamiaan tietoja yksityisen tai yhteisön liike- tai ammattisalaisuudesta tai muuta salassa pidettävää tietoa.
+Keskus ei saa luovuttaa tämän lain mukaisia tehtäviä suorittaessaan saamiaan tietoja yksityisen tai yhteisön liikesalaisuudesta tai muuta salassa pidettävää tietoa.
