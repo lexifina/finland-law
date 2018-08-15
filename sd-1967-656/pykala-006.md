@@ -1,0 +1,5 @@
+# 6 §
+
+Työnantajan, joka haluaa saada itselleen 4 §:n 1 momentin tai 2 momentin mukaan hänelle kuuluvan oikeuden keksintöön, tulee viimeistään neljän kuukauden kuluessa siitä, kun työnantaja sai 5 §:ssä tarkoitetun ilmoituksen, kirjallisesti ilmoittaa työntekijälle, että hän ottaa itselleen tietyn oikeuden keksintöön. Mainitun ajan kuluessa tulee työnantajan myös käyttää hänelle 4 §:n 3 momentin mukaan kuuluvaa etuoikeutta.
+
+Ennen kuin neljä kuukautta on kulunut 5 §:ssä tarkoitetun ilmoituksen vastaanottamisesta, työntekijä ei saa ilman työnantajan kirjallista suostumusta määrätä 4 §:ssä tarkoitetusta keksinnöstä tai ilmaista mitään sitä koskevaa siten, että siitä voi olla seurauksena keksinnön julkiseksi tuleminen tai hyväksikäyttö toisen lukuun. Työntekijällä on kuitenkin oikeus, tehtyään 5 §:n mukaisen ilmoituksen, hakea keksinnölleen patenttia Suomessa. Tällöin työntekijä ei saa jättää hakemusta patenttiviranomaisille, ennen kuin kuukausi on kulunut siitä, kun hän on antanut työnantajalle kirjallisen ilmoituksen, jonka mukaan hänen tarkoituksenaan on hakea keksinnölle patenttia.

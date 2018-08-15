@@ -1,0 +1,5 @@
+# 12 §
+
+Työnantajalle tai työntekijälle tämän lain mukaan kuuluvia oikeuksia koskevat riita-asiat käsitellään markkinaoikeudessa. Tällöin sovelletaan soveltuvin osin, mitä oikeudenkäynnistä patenttiasioissa säädetään.
+
+Asia käsitellään markkinaoikeudessa, jos riita koskee oikeutta tässä laissa tarkoitettuun keksintöön, johon on haettu Euroopan patenttisopimuksessa (SopS 8/1996) tarkoitettua eurooppapatenttia ja jos työntekijä tämän keksinnön tehdessään pääasiallisesti työskenteli Suomessa. Jos valtiota, jossa työntekijä pääasiallisesti työskenteli, ei voida osoittaa, asia käsitellään markkinaoikeudessa, jos työnantajalla oli keksinnön tekohetkellä Suomessa sellainen toimipaikka, jonka palveluksessa keksinnön tehnyt työntekijä oli. Asia voidaan käsitellä markkinaoikeudessa myös silloin, jos riidan osapuolet ovat suullisesti tai kirjallisesti sopineet, että markkinaoikeus on toimivaltainen tuomioistuin asiassa, ja tällainen sopimus on sallittu sen valtion lainsäädännössä, jonka lainsäädäntöä työsopimukseen sovelletaan.
