@@ -7,7 +7,7 @@ Työnantaja saa ottaa vastaan tai muutoin käsitellä huumausainetestiä koskeva
 3) vaarantaa liikenneturvallisuutta;
 4) lisätä merkittävien ympäristövahinkojen riskiä;
 5) vaarantaa työtehtävissä saatujen tietojen suojaa, käytettävyyttä, eheyttä ja laatua ja siten aiheuttaa haittaa tai vahinkoa salassapitosäännösten suojaamille yleisille eduille tai vaarantaa rekisteröityjen yksityisyyden suojaa tai oikeuksia; tai
-6) vaarantaa liike- ja ammattisalaisuutta tai aiheuttaa työnantajalle tai tämän asiakkaalle vähäistä suurempaa taloudellista vahinkoa, jos liike- ja ammattisalaisuuden vaarantamista tai taloudellisen riskin syntymistä ei voida muiden keinojen avulla estää.
+6) vaarantaa liikesalaisuutta tai aiheuttaa työnantajalle tai tämän asiakkaalle vähäistä suurempaa taloudellista vahinkoa, jos liikesalaisuuden vaarantamista tai taloudellisen riskin syntymistä ei voida muiden keinojen avulla estää.
 
 Työnantajalla on 1 momentissa tarkoitettu työnhakijan suostumukseen perustuva oikeus tietojen käsittelyyn myös silloin, kun:
 1) työnhakijan on tarkoitus hoitaa tehtäviä, joissa edellytetään erityistä luottamusta, joissa työskentely tapahtuu muualla kuin työnantajan valvomissa toimitiloissa ja joissa työtehtävien suorittaminen huumeiden vaikutuksen alaisena tai huumeista riippuvaisena voi aiheuttaa työnantajan asiakkaalle merkittävää taloudellista vahinkoa tai vaarantaa tämän henkilökohtaista turvallisuutta;
