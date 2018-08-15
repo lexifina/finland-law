@@ -1,0 +1,5 @@
+# 12 § Tuomion julkistaminen
+
+Tuomioistuin voi tämän lain vastaista menettelyä koskevassa riita-asiassa kantajan vaatimuksesta määrätä, että vastaajan on korvattava kustannukset, jotka kantajalle aiheutuvat siitä, että tämä julkistaa tietoja lainvoimaisesta tuomiosta, jossa vastaajan on todettu menetelleen tämän lain vastaisesti. Määräystä ei saa antaa, jos tietojen levittämistä on muualla laissa rajoitettu. Harkitessaan määräyksen antamista ja sisältöä tuomioistuimen tulee ottaa huomioon julkistamisen yleinen merkitys, loukkauksen laatu ja laajuus, julkistamisesta aiheutuvat kustannukset sekä muut asiaan vaikuttavat seikat. Jos luonnollinen henkilö voidaan tunnistaa häntä koskevien tietojen avulla, tiedot saadaan julkaista vain, jos julkaiseminen on perusteltua ottaen erityisesti huomioon siitä henkilön yksityisyydelle ja maineelle mahdollisesti aiheutuva vahinko.
+
+Tuomioistuin määrää vastaajan korvattavien kohtuullisten julkistamiskustannusten enimmäismäärän ja määräajan julkistamiselle. Kantajalla ei ole oikeutta korvaukseen, jos tietoja tuomiosta ei ole julkistettu tuomioistuimen määräämässä ajassa tuomion lainvoimaiseksi tulosta.

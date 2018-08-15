@@ -1,0 +1,2 @@
+Liikesalaisuuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
