@@ -1,0 +1,2 @@
+Laki turvatoimista Maahanmuuttovirastossa
+Eduskunnan päätöksen mukaisesti säädetään:
