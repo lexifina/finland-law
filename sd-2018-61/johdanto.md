@@ -1,0 +1,2 @@
+Laki kulttuuriperinnön yhteiskunnallisesta merkityksestä tehdyn Euroopan neuvoston puiteyleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
