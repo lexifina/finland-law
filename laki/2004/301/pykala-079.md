@@ -5,8 +5,7 @@ Oikeus tehdä ansiotyötä ilman oleskelulupaa on ulkomaalaisella, joka:
 1) tulee kutsun tai sopimuksen nojalla tulkiksi, opettajaksi, asiantuntijaksi tai urheilutuomariksi enintään kolmeksi kuukaudeksi;
 2) tulee kutsun tai sopimuksen nojalla ammattitaiteilijaksi tai urheilijaksi, mukaan lukien avustava, huoltava ja valmentava henkilökunta, enintään kolmeksi kuukaudeksi;
 3) työskentelee merimiehenä joko kauppa-alusluetteloon merkityllä aluksella tai, tultuaan palvelukseen muualla kuin Suomessa, aluksella, joka pääasiassa liikennöi ulkomaisten satamien välillä;
-5) tulee suorittamaan toisessa Euroopan unionin tai Euroopan talousalueen valtiossa toimivan yrityksen vakituisena työntekijänä palvelujen tarjoamisvapauden piiriin kuuluvaa tilapäistä hankinta- tai alihankintatyötä, jos hänellä on mainitussa valtiossa oleskeluun ja työntekoon oikeuttavat luvat, jotka ovat voimassa työn päätyttyä Suomessa;
-6) tulee Suomeen tutkijaksi toisessa Euroopan unionin jäsenvaltiossa solmitun tutkijadirektiivin mukaisen vastaanottosopimuksen perusteella tutkijadirektiivissä tarkoitetun tieteellisen tutkimushankkeen suorittamista varten enintään kolmeksi kuukaudeksi.
+4) tulee suorittamaan toisessa Euroopan unionin tai Euroopan talousalueen valtiossa toimivan yrityksen vakituisena työntekijänä palvelujen tarjoamisvapauden piiriin kuuluvaa tilapäistä hankinta- tai alihankintatyötä, jos hänellä on mainitussa valtiossa oleskeluun ja työntekoon oikeuttavat luvat, jotka ovat voimassa työn päätyttyä Suomessa.
 
 Ulkomaalaisella on kansainvälistä suojelua haettuaan oikeus tehdä ansiotyötä ilman oleskelulupaa:
 1) kun hänellä on 11 §:n 1 momentin 1 kohdassa tarkoitettu asiakirja ja hän on oleskellut maassa kolme kuukautta;
