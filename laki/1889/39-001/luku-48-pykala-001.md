@@ -15,21 +15,22 @@ h) otsonikerrosta heikentävistä aineista annettua Euroopan parlamentin ja neuv
 i) tietyistä fluoratuista kasvihuonekaasuista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 842/2006,
 j) pysyvistä orgaanisista yhdisteistä sekä direktiivin 79/117/ETY muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 850/2004,
 k) pesuaineista annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 648/2004 3, 4 tai 4 a artiklaa,
-l) jätelain (646/2011) 147 §:n 2 momentissa mainittua säännöstä taikka
-m) jätelain nojalla annettua säännöstä, yksittäistapausta koskevaa määräystä tai kieltoa,
+l) jätelain (646/2011) 147 §:n 2 momentissa mainittua säännöstä,
+m) jätelain nojalla annettua säännöstä, yksittäistapausta koskevaa määräystä tai kieltoa taikka
+n) elohopeasta ja asetuksen (EY) N:o 1102/2008 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2017/852,
 3) laiminlyö jätelain mukaisen jätehuollon järjestämisvelvollisuutensa,
 4) tuo maahan, vie maasta tai siirtää Suomen alueen kautta jätettä vastoin
-a) jätelakia, sen nojalla annettua säännöstä tai yksittäistapausta koskevaa määräystä taikka
-b) jätteiden siirrosta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1013/2006,
+a) jätelakia, sen nojalla annettua säännöstä tai yksittäistapausta koskevaa määräystä,
+b) jätteiden siirrosta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1013/2006 taikka
+c) elohopeasta ja asetuksen (EY) N:o 1102/2008 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2017/852,
 5) tuo maahan tai vie maasta ainetta, valmistetta tai tuotetta vastoin
 a) ympäristönsuojelulain nojalla annettua asetusta,
 b) otsonikerrosta heikentävistä aineista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1005/2009,
 c) tietyistä fluoratuista kasvihuonekaasuista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 842/2006,
 d) vaarallisten kemikaalien viennistä ja tuonnista annettua Euroopan parlamentin ja neuvoston asetusta (EU) N:o 649/2012,
 e) pysyvistä orgaanisista yhdisteistä sekä direktiivin 79/117/ETY muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 850/2004 tai
-f) metallisen elohopean ja tiettyjen elohopeayhdisteiden ja -seosten viennin kieltämisestä sekä metallisen elohopean turvallisesta varastoinnista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1102/2008,
-6) vie maasta muuntogeenisiä organismeja, niitä sisältäviä elintarvikkeita tai rehuja vastoin muuntogeenisten organismien valtioiden rajat ylittävistä siirroista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1946/2003 taikka
-7) * aluskierrätyksestä sekä asetuksen (EY) N:o 1013/2006 ja direktiivin 2009/16/EY muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1257/2013 vastaisesti laiminlyö huolehtia siitä, että asetuksen 5 artiklassa tarkoitettu vaarallisten materiaalien luettelo on ajan tasalla silloin kun alus toimitetaan aluspurkamoon, tai siirtää aluksen purettavaksi muualle kuin asetuksen 16 artiklassa tarkoitetussa eurooppalaisessa luettelossa mainittuun aluspurkamoon
+f) elohopeasta ja asetuksen (EY) N:o 1102/2008 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2017/852 taikka
+6) vie maasta muuntogeenisiä organismeja, niitä sisältäviä elintarvikkeita tai rehuja vastoin muuntogeenisten organismien valtioiden rajat ylittävistä siirroista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1946/2003
 siten, että teko on omiaan aiheuttamaan ympäristön pilaantumista, muuta vastaavaa ympäristön haitallista muuttumista tai roskaantumista taikka vaaraa terveydelle, on tuomittava ympäristön turmelemisesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
 Edellä 1 momentin 4–6 kohdassa tarkoitetun tahallisen rikoksen yritys on rangaistava.
