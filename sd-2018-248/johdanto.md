@@ -1,0 +1,2 @@
+Laki turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta Unkarin kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
