@@ -1,8 +1,8 @@
-# 7 § Polveutumistodistus ja tunnistusasiakirja
-Luku: 3 luku Jalostukseen käytettäviin eläimiin ja niiden sukusoluihin ja alkioihin liittyvät asiakirjat sekä niiden tuonti
+# 7 § Jalostustodistus
+Luku: 3 luku Jalostuseläimiin ja niiden sukusoluihin ja alkioihin liittyvät asiakirjat sekä niiden tuonti
 
-Kun jalostukseen käytettäviä eläimiä taikka niiden sukusoluja tai alkioita myydään, ostetaan, välitetään tai luovutetaan vastikkeetta jäsenvaltiossa tai jäsenvaltioiden välillä tai tuodaan muualta kuin toisesta jäsenvaltiosta maahan, mukana on oltava Euroopan unionin lainsäädännön mukainen polveutumistodistus tai tunnistusasiakirja.
+Kun kantakirjaan tai jalostusrekisteriin merkityillä jalostuseläimillä taikka niiden sukusoluilla tai alkioilla käydään kauppaa jäsenvaltiossa tai jäsenvaltioiden välillä, mukana on seurattava eläinjalostusasetuksen 30 artiklassa tarkoitettu ja Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/1012 soveltamissäännöistä jalostuseläimiä sekä niiden sukusoluja ja alkioita koskevien jalostustodistusten mallilomakkeiden osalta annetun komission täytäntöönpanoasetuksen (EU) 2017/717 tai Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/1012 täydentämisestä hevoseläimille kerran myönnettävään elinikäiseen tunnistusasiakirjaan sisältyvien hevoseläimiin kuuluville puhdasrotuisille jalostuseläimille myönnettävien jalostustodistusten sisällön ja muodon osalta annetun komission delegoidun asetuksen (EU) 2017/1940 mukainen jalostustodistus. Sama koskee myös tilannetta, jossa jalostuseläin tai jalostuseläimen sukusoluilla tai alkioilla tuotetut jälkeläiset on tarkoitus merkitä toiseen kantakirjaan tai jalostusrekisteriin.
 
-Kantakirjaa pitävän yhteisön on annettava polveutumistodistus ja tunnistusasiakirja. Jos kyse on sukusoluista tai alkioista, polveutumistodistuksen voi antaa myös Euroopan unionin eläinten terveyttä koskevan lainsäädännön mukaisesti hyväksytty keinollista lisäämistä harjoittava toimija niiden tietojen perusteella, jotka kantakirjaa pitävä yhteisö on antanut.
+Jalostustodistuksen saa antaa vain kantakirjaa tai jalostusrekisteriä pitävä yhteisö. Jos kyse on sukusoluista tai alkioista, jalostustodistuksen saa kuitenkin antaa myös eläinjalostusasetuksen 31 artiklan 1 kohdassa tarkoitettu toimija kantakirjaa tai jalostusrekisteriä pitävän yhteisön toimittamien tietojen perusteella. Edellä mainitun toimijan on pyynnöstä annettava jalostustodistus.
 
-Maa- ja metsätalousministeriön asetuksella annetaan tarkempia säännöksiä polveutumistodistuksen sisällöstä.
+Elintarviketurvallisuusvirasto voi antaa tarkempia määräyksiä jalostustodistuksista.
