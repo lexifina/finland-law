@@ -1,14 +1,6 @@
-# 4 § Ohjesääntö
-Luku: 2 luku Kantakirjaa pitävän yhteisön hyväksyminen, ohjesääntö ja kantakirja
+# 4 § Jalostusohjelma
+Luku: 2 luku Kantakirjaa tai jalostusrekisteriä pitävän yhteisön hyväksyminen, jalostusohjelma, kantakirja ja jalostusrekisteri
 
-Kantakirjaa pitävän yhteisön tulee laatia rotua tai linjaa koskeva ohjesääntö, joka sisältää:
-1) selvityksen rodun tai linjan jalostustavoitteista;
-2) määritelmän rodun tai linjan ominaispiirteistä;
-3) tiedot eläinten yksilöintiä, polveutumista sekä tuotos- ja tulostietojen hyödyntämistä koskevista järjestelmistä;
-4) tiedot kantakirjan rakenteesta ja jaottelusta;
-5) selvityksen siitä, millä perusteilla eläin merkitään kantakirjaan;
-6) tiedot eläimen jalostusarvon tai valintatyön perustavoitteiden määrittelyssä käytettävistä arviointimenetelmistä.
+Kantakirjaa tai jalostusrekisteriä pitävällä yhteisöllä tulee olla vähintään yksi hyväksytty eläinjalostusasetuksen 8 tai 12 artiklassa tarkoitettu ja liitteen I mukainen jalostusohjelma.
 
-Elintarviketurvallisuusvirasto hyväksyy ohjesäännön tehdessään päätöksen kantakirjaa pitävän yhteisön hyväksymisestä. Jos ohjesääntöä muutetaan, muutos tulee saattaa Elintarviketurvallisuusviraston hyväksyttäväksi ennen muutetun ohjesäännön ottamista käyttöön.
-
-Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä ohjesäännön sisällöstä.
+Elintarviketurvallisuusvirasto tekee päätöksen jalostusohjelman hyväksymisestä. Jos jalostusohjelmaa muutetaan merkittävästi, muutoksesta tulee ilmoittaa Elintarviketurvallisuusvirastolle. Jos Elintarviketurvallisuusvirasto ei muuta ilmoita 90 päivän kuluessa ilmoituksen saatuaan, muutettu jalostusohjelma katsotaan hyväksytyksi.
