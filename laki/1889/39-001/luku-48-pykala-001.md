@@ -29,8 +29,9 @@ b) otsonikerrosta heikentävistä aineista annettua Euroopan parlamentin ja neuv
 c) tietyistä fluoratuista kasvihuonekaasuista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 842/2006,
 d) vaarallisten kemikaalien viennistä ja tuonnista annettua Euroopan parlamentin ja neuvoston asetusta (EU) N:o 649/2012,
 e) pysyvistä orgaanisista yhdisteistä sekä direktiivin 79/117/ETY muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 850/2004 tai
-f) elohopeasta ja asetuksen (EY) N:o 1102/2008 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2017/852 taikka
-6) vie maasta muuntogeenisiä organismeja, niitä sisältäviä elintarvikkeita tai rehuja vastoin muuntogeenisten organismien valtioiden rajat ylittävistä siirroista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1946/2003
+f) elohopeasta ja asetuksen (EY) N:o 1102/2008 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2017/852,
+6) vie maasta muuntogeenisiä organismeja, niitä sisältäviä elintarvikkeita tai rehuja vastoin muuntogeenisten organismien valtioiden rajat ylittävistä siirroista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1946/2003 taikka
+7) aluskierrätyksestä sekä asetuksen (EY) N:o 1013/2006 ja direktiivin 2009/16/EY muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1257/2013 vastaisesti laiminlyö huolehtia siitä, että asetuksen 5 artiklassa tarkoitettu vaarallisten materiaalien luettelo on ajan tasalla silloin kun alus toimitetaan aluspurkamoon, tai siirtää aluksen purettavaksi muualle kuin asetuksen 16 artiklassa tarkoitetussa eurooppalaisessa luettelossa mainittuun aluspurkamoon
 siten, että teko on omiaan aiheuttamaan ympäristön pilaantumista, muuta vastaavaa ympäristön haitallista muuttumista tai roskaantumista taikka vaaraa terveydelle, on tuomittava ympäristön turmelemisesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
 Edellä 1 momentin 4–6 kohdassa tarkoitetun tahallisen rikoksen yritys on rangaistava.

@@ -7,6 +7,6 @@ Rikoksentekijällä on terroristinen tarkoitus, jos hänen tarkoituksenaan on:
 3) oikeudettomasti kumota jonkin valtion valtiosääntö tai muuttaa sitä tai horjuttaa vakavasti valtion oikeusjärjestystä taikka aiheuttaa erityisen suurta vahinkoa valtiontaloudelle tai valtion yhteiskunnallisille perusrakenteille; tai
 4) aiheuttaa erityisen suurta vahinkoa kansainvälisen järjestön taloudelle tai sellaisen järjestön muille perusrakenteille.
 
-Terroristiryhmällä tarkoitetaan vähintään kolmen henkilön muodostamaa tietyn ajan koossa pysyvää rakenteeltaan jäsentynyttä yhteenliittymää, joka toimii yhteistuumin tehdäkseen 1 §:ssä tarkoitettuja rikoksia.
+Terroristiryhmällä tarkoitetaan vähintään kolmen henkilön muodostamaa tietyn ajan koossa pysyvää rakenteeltaan jäsentynyttä yhteenliittymää, joka toimii yhteistuumin tehdäkseen 1 tai 1 a §:ssä tarkoitettuja rikoksia.
 
 Kansainvälisellä järjestöllä tarkoitetaan hallitustenvälistä tai merkityksensä ja kansainvälisesti tunnustetun asemansa perusteella siihen rinnastettavaa järjestöä.
