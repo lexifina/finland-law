@@ -10,5 +10,5 @@ Esitutkintaviranomaiselle voidaan myöntää lupa kohdistaa teknistä kuuntelua 
 6) törkeästä ihmiskaupasta;
 7) törkeästä ryöstöstä;
 8) törkeästä tuhotyöstä, törkeästä terveyden vaarantamisesta, ydinräjähderikoksesta, kaappauksesta;
-9) rikoslain 34 a luvun 1 §:n 1 momentin 2–7 kohdassa tai 2 momentissa tarkoitetusta terroristisessa tarkoituksessa tehdystä rikoksesta, terroristisessa tarkoituksessa tehtävän rikoksen valmistelusta, terroristiryhmän johtamisesta, terroristiryhmän toiminnan edistämisestä, koulutuksen antamisesta terrorismirikoksen tekemistä varten, värväyksestä terrorismirikoksen tekemiseen, terrorismin rahoittamisesta; tai
+9) rikoslain 34 a luvun 1 §:n 1 momentin 2–8 kohdassa tai 2 momentissa tarkoitetusta terroristisessa tarkoituksessa tehdystä rikoksesta, terroristisessa tarkoituksessa tehdystä radiologista asetta koskevasta rikoksesta, terroristisessa tarkoituksessa tehtävän rikoksen valmistelusta, terroristiryhmän johtamisesta, terroristiryhmän toiminnan edistämisestä, koulutuksen antamisesta terrorismirikoksen tekemistä varten, värväyksestä terrorismirikoksen tekemiseen, terrorismin rahoittamisesta; tai
 10) törkeästä huumausainerikoksesta.
