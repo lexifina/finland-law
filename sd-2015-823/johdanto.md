@@ -1,0 +1,2 @@
+Laki Islannin osallistumisesta Euroopan unionin, sen jäsenvaltioiden ja Islannin velvoitteiden yhteiseen täyttämiseen ilmastonmuutosta koskevan Yhdistyneiden kansakuntien puitesopimuksen Kioton pöytäkirjan mukaisella toisella velvoitekaudella tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
