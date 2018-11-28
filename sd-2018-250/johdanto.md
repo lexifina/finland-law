@@ -1,0 +1,2 @@
+Laki yhteistyöstä kilpailuasioissa tehdystä pohjoismaisesta sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
