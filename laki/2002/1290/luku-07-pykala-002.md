@@ -11,8 +11,9 @@ Työmarkkinatukea maksetaan 21 viikon odotusajan jälkeen. Odotusaika alkaa:
 
 Odotusaikaa ei aseteta, jos:
 1) henkilö on suorittanut peruskoulun tai lukion jälkeisen tutkintoon johtavan, ammatillisia valmiuksia antavan koulutuksen;
-2) työnhakijan oikeus työmarkkinatukeen alkaa välittömästi 6 luvun 7 tai 9 §:ssä tarkoitetun työttömyyspäivärahan enimmäisajan täytyttyä; tai
-3) henkilö on saanut vammaisuuden, sairauden, kehityksessä viivästymisen, tunne-elämän häiriön tai muun syyn vuoksi ammatillisesta koulutuksesta annetun lain 20 §:ssä tarkoitettuja erityisiä opetus- tai opiskelijahuollon palveluja ja suorittanut hänelle laaditun henkilökohtaisen opetuksen järjestämistä koskevan suunnitelman mukaiset opinnot.
+2) päätoimiset opinnot päättyvät ja opintojen ajalta on maksettu työttömyysetuutta 2 luvun 10 a §:n perusteella;
+3) työnhakijan oikeus työmarkkinatukeen alkaa välittömästi 6 luvun 7 tai 9 §:ssä tarkoitetun työttömyyspäivärahan enimmäisajan täytyttyä; tai
+4) henkilö on saanut vammaisuuden, sairauden, kehityksessä viivästymisen, tunne-elämän häiriön tai muun syyn vuoksi ammatillisesta koulutuksesta annetun lain 20 §:ssä tarkoitettuja erityisiä opetus- tai opiskelijahuollon palveluja ja suorittanut hänelle laaditun henkilökohtaisen opetuksen järjestämistä koskevan suunnitelman mukaiset opinnot.
 
 Odotusajasta vähennetään täydet kalenteriviikot, joina henkilö on:
 1) ollut työssä, joka luetaan hänen työssäoloehtoonsa;
@@ -20,7 +21,7 @@ Odotusajasta vähennetään täydet kalenteriviikot, joina henkilö on:
 3) odotusajan alkamista lähinnä edeltävän kahden vuoden aikana saanut työttömyysetuutta taikka joilta hänelle ei ole maksettu työmarkkinatukea odotusajan, 6 tai 7 §:ssä tarkoitetun tarveharkinnan tai 10 §:ssä säädetyn omavastuuajan takia.
 
 Odotusaika ei kulu eikä odotusajasta 3 momentista poiketen vähennetä työmarkkinoilla oloa:
-1) päätoimisen opiskelun, siihen liittyvän lomajakson tai eri oppilaitosten välisen lomajakson aikana;
+1) päätoimisen opiskelun, siihen liittyvän lomajakson tai eri oppilaitosten välisen lomajakson aikana, ellei työnhakijalle ole maksettu kyseessä olevalta ajalta työttömyysetuutta 2 luvun 10 a §:n perusteella;
 2) korvauksettoman määräajan aikana;
 3) työssäolovelvoitteen aikana;
 4) aikana, jona henkilölle ei makseta työmarkkinatukea 2 luvun 13 §:n 2 momentissa ja 14 §:n 3 momentissa säädettyjen rajoitusten takia.

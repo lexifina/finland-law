@@ -14,6 +14,6 @@ Päätoimisina pidetään:
 
 Työnhakijaa ei pidetä päätoimisena opiskelijana, jos opiskeluaikaisen vakiintuneen työssäolon tai yritystoiminnan harjoittamisen perusteella voidaan katsoa, ettei opiskelu ole esteenä kokoaikaisen työn vastaanottamiselle.
 
-Jos työvoimakoulutuksena järjestetyt opinnot, työttömyysetuudella tuetut työnhakijan omaehtoiset opinnot tai kotoutumisen edistämisestä annetun lain 22–24 §:ssä tarkoitetut omaehtoiset opinnot on järjestetty jaksoissa, työnhakijaa ei kyseisten opintojen perusteella pidetä päätoimisena opiskelijana jaksojen välisenä aikana.
+Jos 10 a §:ssä tarkoitetut opinnot, työvoimakoulutuksena järjestetyt opinnot, työttömyysetuudella tuetut työnhakijan omaehtoiset opinnot tai kotoutumisen edistämisestä annetun lain 22–24 §:ssä tarkoitetut omaehtoiset opinnot on järjestetty jaksoissa, työnhakijaa ei kyseisten opintojen perusteella pidetä päätoimisena opiskelijana jaksojen välisenä aikana.
 
 Osallistumista työnantajan työsopimuslain 7 luvun 13 §:n tai merityösopimuslain 8 luvun 11 §:n nojalla järjestämään tai hankkimaan koulutukseen ei pidetä päätoimisena opiskeluna. Jos työnantaja kustantaa työntekijän itsensä hankkiman koulutuksen kokonaan tai osittain, koulutusta ei pidetä tätä pykälää sovellettaessa työnantajan järjestämänä tai hankkimana.
