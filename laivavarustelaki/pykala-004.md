@@ -7,4 +7,4 @@ Laivavarusteen valmistajan on todistettava vaatimusten täyttyminen kansainväli
 
 Jos vaatimusten täyttymistä ei ole todistettu, laivavarustetta ei saa sijoittaa alukseen, asettaa saataville markkinoilla eikä saattaa markkinoille.
 
-Liikenteen turvallisuusviraston tai hyväksytyn luokituslaitoksen on aluksen turvallisuus- ja todistuskirjoja myöntäessään ja uusiessaan sekä tehdessään turvallisuus- ja todistuskirjoihin merkinnän suoritetusta määräaikaisesta katsastuksesta taikka väli- tai vuosikatsastuksesta varmistettava, että aluksen laivavarusteet täyttävät niille tässä laissa säädetyt vaatimukset.
+Liikenne- ja viestintäviraston tai hyväksytyn luokituslaitoksen on aluksen turvallisuus- ja todistuskirjoja myöntäessään ja uusiessaan sekä tehdessään turvallisuus- ja todistuskirjoihin merkinnän suoritetusta määräaikaisesta katsastuksesta taikka väli- tai vuosikatsastuksesta varmistettava, että aluksen laivavarusteet täyttävät niille tässä laissa säädetyt vaatimukset.

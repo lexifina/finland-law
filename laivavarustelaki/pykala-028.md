@@ -3,7 +3,7 @@ Luku: 7 luku Muutoksenhaku
 
 Ilmoitettua laitosta koskevan nimeämisen rajoittamista tai peruuttamista koskevaan päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
 
-Muuhun Liikenteen turvallisuusviraston päätökseen saa vaatia oikaisua siten kuin hallintolaissa säädetään. Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään.
+Muuhun Liikenne- ja viestintäviraston päätökseen saa vaatia oikaisua siten kuin hallintolaissa säädetään. Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään.
 
 Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
 

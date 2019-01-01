@@ -14,8 +14,8 @@ Ilmoitetun laitoksen nimeämisen edellytyksenä on, että:
 
 Ilmoitetun laitoksen on osoitettava Turvallisuus- ja kemikaaliviraston akkreditointiyksikön (FINAS-akkreditointipalvelu) akkreditoinnilla tai muutoin täyttävänsä 1 momentissa säädetyt edellytykset. Akkreditointitodistus tai muut tarpeelliset asiakirjatodisteet on liitettävä ilmoitetun laitoksen nimeämistä koskevaan hakemukseen.
 
-Ilmoitetun laitoksen on ilmoitettava Liikenteen turvallisuusvirastolle ja FINAS-akkreditointipalvelulle kaikista sellaisista muutoksista, joilla voi olla vaikutusta 1 momentissa säädettyjen edellytysten täyttymiseen.
+Ilmoitetun laitoksen on ilmoitettava Liikenne- ja viestintävirastolle ja FINAS-akkreditointipalvelulle kaikista sellaisista muutoksista, joilla voi olla vaikutusta 1 momentissa säädettyjen edellytysten täyttymiseen.
 
 FINAS-akkreditointipalvelu arvioi säännöllisin väliajoin akkreditointimenettelyjen mukaisesti, että ilmoitettu laitos edelleen täyttää 1 momentissa asetetut vaatimukset. Ilmoitetun laitoksen on toimitettava FINAS-akkreditointipalvelulle pätevyyden arvioimista varten tarpeelliset tiedot.
 
-Ilmoitetun laitoksen on vuosittain toimitettava Liikenteen turvallisuusvirastolle selvitys tässä laissa tarkoitetusta toiminnastaan ja sen tuloksista.
+Ilmoitetun laitoksen on vuosittain toimitettava Liikenne- ja viestintävirastolle selvitys tässä laissa tarkoitetusta toiminnastaan ja sen tuloksista.
