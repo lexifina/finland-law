@@ -11,3 +11,5 @@ Päivärahaetuus:
 2) jaetaan yrittäjän eläkelain tai maatalousyrittäjien eläkelain mukaan vakuutetulle henkilölle ja hänen työnantajalleen näiden eläkelakien mukaan vahvistetun työtulon ja työnantajan maksaman palkan suhteessa, jos vakuutettu työskentelee samanaikaisesti yrittäjän eläkelain mukaisena yrittäjänä, maatalousyrittäjän eläkelain mukaisena maatalousyrittäjänä tai apurahansaajana sekä muun työnantajan palveluksessa.
 
 Osasairauspäiväraha maksetaan työnantajalle, jos vakuutettu työsuhteen perusteella saa täyttä palkkaa ja jos työsuhteen ehdoissa on sovittu osasairauspäivärahan suorittamisesta vakuutetun sijasta työnantajalle. Jos osasairauspäiväraha on suurempi kuin työnantajan maksama täysi palkka, maksetaan osasairauspäiväraha täyden palkan ylittävältä osalta työntekijälle. Mitä 1 ja 3 momentissa säädetään, ei sovelleta osasairauspäivärahan maksamiseen.
+
+Mitä edellä on säädetty työnantajasta ja työsuhteesta, sovelletaan myös silloin, kun vakuutetulla on oikeus keskeyttää luottamustoimensa hoitaminen työkyvyttömyyden, raskauden tai synnytyksen taikka lapsen hoidon vuoksi ja saada tältä ajalta luottamustoimen palkkiota.
