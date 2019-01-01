@@ -1,9 +1,10 @@
-# 8 § Turvakotipalvelun tuottamiselle asetettavat edellytykset
+# 8 § Turvakotipalvelun tuottajan valinta ja valintaa koskeva päätös
 
-Terveyden ja hyvinvoinnin laitos valitsee turvakotipalvelun tuottajaksi toimijat, joilla on yksityisistä sosiaalipalveluista annetussa laissa (922/2011) tarkoitettu voimassa oleva toimilupa.
+Terveyden ja hyvinvoinnin laitos valitsee avoimen haun kautta tarpeellisen määrän turvakotipalvelun tuottajia siten, että eri puolilla maata on saatavilla riittävästi turvakotipalveluja. Palveluntuottajaksi valittavalla yksityisellä toimijalla on oltava yksityisistä sosiaalipalveluista annetussa laissa (922/2011) tarkoitettu lupa. Palveluntuottajia valitessaan Terveyden ja hyvinvoinnin laitoksen on otettava huomioon erityisesti:
+1) palveluntuottajaksi hakevalla oleva kokemus ympärivuorokautisen sosiaali- tai terveyspalvelun tuottamisesta sekä kriisityöstä ja lähisuhdeväkivallan vastaisesta työstä;
+2) toimintaan tarkoitettujen tilojen sijainti sekä tarkoituksenmukaisuus turvakotipalveluiden tuottamisen kannalta.
 
-Kunnallisilta palveluntuottajilta edellytetään samat edellytykset turvakotipalvelun tuottamiseen kuin yksityisiltä toimijoilta. Terveyden ja hyvinvoinnin laitos tarkistaa edellytysten täyttymisen sopimuksesta neuvotellessaan. Terveyden ja hyvinvoinnin laitos konsultoi sosiaali- ja terveydenhuollon lupa- ja valvontaviranomaisia tässä asiassa.
-
-Turvakotipalvelun tuottajan henkilöstöllä tulee olla riittävä koulutus, työkokemus ja perehtyneisyys lähisuhdeväkivallan kriisityöhön. Henkilöstöön tulee kuulua tarpeellinen määrä eri ammattiryhmien edustajia. Lisäksi henkilöstöön voi kuulua erityisasiantuntijoita riippuen siitä, mikä kriisityön erityisalue on palveluntuottajan erityisalaa.
-
-Turvakotipalvelun tuottamiselle asetettavista edellytyksistä voidaan säätää tarkemmin valtioneuvoston asetuksella.
+Palveluntuottajan valintaa koskevasta päätöksestä on käytävä ilmi:
+1) turvakoti sekä sen perhepaikkamäärä ja toimialue;
+2) turvakodin vastuuhenkilö ja muu henkilöstö;
+3) turvakotipalveluun liittyvä rekisterinpito ja asiakastietojen säilyttäminen.
