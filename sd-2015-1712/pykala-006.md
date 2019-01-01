@@ -13,4 +13,4 @@ Tuotteen katsotaan täyttävän tämän lain tai sen nojalla säädetyt tai mä�
 
 Vaikka tuote ei täytä tässä laissa säädettyjä vaatimuksia, voidaan se asettaa esille näyttelyssä, messuilla, esittelyssä ja muissa vastaavissa tilanteissa, jos näytteille asettaja samalla selvästi ilmoittaa, että tuote ei ole tämän lain mukainen ja että sitä ei saa asettaa saataville tai ottaa käyttöön ennen kuin se täyttää tämän lain vaatimukset.
 
-Liikenteen turvallisuusvirasto antaa tarkempia määräyksiä 2 momentissa tarkoitetuista olennaisista vaatimuksista sekä 3 momentissa tarkoitetusta sekä 4 momentissa tarkoitetusta EU-vaatimustenmukaisuusvakuutuksesta.
+Liikenne- ja viestintävirasto antaa tarkempia määräyksiä 2 momentissa tarkoitetuista olennaisista vaatimuksista sekä 3 momentissa tarkoitetusta sekä 4 momentissa tarkoitetusta EU-vaatimustenmukaisuusvakuutuksesta.
