@@ -7,4 +7,4 @@ Hallinto-oikeuden päätökseen täytäntöönpanon kieltämistä tai keskeyttä
 
 Korkein hallinto-oikeus voi 1 momentissa säädetyin edellytyksin ratkaista täytäntöönpanon kieltämistä tai keskeyttämistä koskevan hakemuksen ilman asiassa kertyneitä asiakirjoja.
 
-Edellä 198 b §:ssä tarkoitettua hakemusta koskeva päätös on tehtävä seitsemän päivän kuluessa. Määräaikaan sisältyy vähintään viisi arkipäivää.
+Edellä 198 b §:n 1 momentissa tarkoitettua hakemusta koskeva päätös on tehtävä seitsemän päivän kuluessa. Määräaikaan sisältyy vähintään viisi arkipäivää.

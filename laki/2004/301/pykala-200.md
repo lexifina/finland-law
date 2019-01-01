@@ -1,10 +1,12 @@
-# 200 § Täytäntöönpanokelpoisuus
+# 200 § Karkottamispäätöksen täytäntöönpano
 Luku: 13 luku Oikeusturva
 
-Tässä laissa tarkoitettua päätöstä maastapoistamisesta, johon saa hakea muutosta valittamalla, ei saa panna täytäntöön ennen kuin asia on lainvoimaisesti ratkaistu, jollei tässä laissa toisin säädetä. Jos asiassa tarvitaan valituslupa korkeimmalta hallinto-oikeudelta, valitus ei estä täytäntöönpanoa, ellei korkein hallinto-oikeus toisin määrää.
+Päätöstä maasta karkottamisesta, johon saa hakea muutosta valittamalla, ei saa panna täytäntöön ennen kuin asia on lainvoimaisesti ratkaistu, ellei tässä laissa toisin säädetä. Jos asiassa tarvitaan valituslupa korkeimmalta hallinto-oikeudelta, valitus ei estä täytäntöönpanoa, ellei korkein hallinto-oikeus toisin määrää.
 
-Schengenin rajasäännöstön perusteella tehty päätös pääsyn epäämisestä voidaan panna täytäntöön muutoksenhausta huolimatta, jollei hallinto-oikeus toisin määrää.
+Päätös maasta karkottamisesta, joka on tehty 149 §:n 1 momentin 2–4 kohdan tai 4 momentin perusteella, voidaan panna täytäntöön aikaisintaan 30 päivän kuluttua siitä kun päätös on annettu tiedoksi, jollei hallinto-oikeus toisin määrää. Päätöstä maasta karkottamisesta ei kuitenkaan saa panna täytäntöön ennen kuin 198 b §:n 2 momentissa tarkoitettu hakemus on ratkaistu.
 
-Lainvoimaista päätöstä tai päätöstä, joka tämän lain mukaan on muutoin pantavissa täytäntöön, ei kuitenkaan saa panna täytäntöön, jos on syytä epäillä, että ulkomaalaisen palauttaminen alkuperämaahan tai muuhun maahan saattaa hänet 147 §:ssä tarkoitettuun vaaraan.
+Jos 2 momentissa tarkoitettu päätös maasta karkottamisesta on tehty ulkomaalaiselle, jonka pakolaisasema tai toissijainen suojeluasema on lakkautettu, päätöstä, johon saa hakea muutosta valittamalla, ei saa panna täytäntöön ennen kuin asia on lainvoimaisesti ratkaistu. Jos asiassa tarvitaan valituslupa korkeimmalta hallinto-oikeudelta, valitus ei estä täytäntöönpanoa, ellei korkein hallinto-oikeus toisin määrää.
 
-Päätöstä maastapoistamisesta ei saa panna täytäntöön 147 a §:n nojalla vapaaehtoiselle paluulle annetun määräajan kuluessa. Täytäntöönpano on kuitenkin sallittua silloin, kun on olemassa pakenemisen vaara tai henkilön katsotaan olevan vaaraksi yleiselle järjestykselle tai turvallisuudelle.
+Päätöstä maasta karkottamisesta ei saa panna täytäntöön 147 a §:n nojalla vapaaehtoiselle paluulle annetun määräajan kuluessa. Täytäntöönpano on kuitenkin sallittu, jos on olemassa pakenemisen vaara tai henkilön katsotaan olevan vaaraksi yleiselle järjestykselle tai turvallisuudelle.
+
+Päätös maasta karkottamisesta, joka perustuu 51 §:ssä tarkoitetun tilapäisen oleskeluluvan myöntämisen edellytyksenä olevan perusteen poistumiseen, voidaan panna täytäntöön aikaisintaan kahdeksantena päivänä sen jälkeen, kun päätös on annettu tiedoksi hakijalle, jollei hallinto-oikeus toisin määrää. Ennen täytäntöönpanoa on varmistuttava siitä, että määräaikaan on sisältynyt vähintään viisi arkipäivää.
