@@ -1,6 +1,6 @@
 # 7 § Valvontaviranomaiset
 Luku: 3 luku Valvonta
 
-Tämän lain noudattamista valvoo Liikenteen turvallisuusvirasto.
+Tämän lain noudattamista valvoo Liikenne- ja viestintävirasto.
 
-Liikenteen turvallisuusvirasto valvoo nimeämiään ilmoitettuja laitoksia.
+Liikenne- ja viestintävirasto valvoo nimeämiään ilmoitettuja laitoksia.
