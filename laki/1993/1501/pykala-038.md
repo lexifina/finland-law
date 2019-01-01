@@ -2,4 +2,6 @@
 Osa: I OSA
 Luku: 4 luku Poikkeukset myynnin verollisuudesta
 
-Sosiaalihuollolla tarkoitetaan valtion tai kunnan harjoittamaa sekä sosiaaliviranomaisten valvomaa muun sosiaalihuollon palvelujen tuottajan harjoittamaa toimintaa, jonka tarkoituksena on huolehtia lasten ja nuorten huollosta, lasten päivähoidosta, vanhustenhuollosta, kehitysvammaisten huollosta, muista vammaisten palveluista ja tukitoimista, päihdehuollosta sekä muusta tällaisesta toiminnasta.
+Sosiaalihuollolla tarkoitetaan valtion tai kunnan harjoittamaa sekä sosiaaliviranomaisten valvomaa muun sosiaalihuollon palvelujen tuottajan harjoittamaa toimintaa, jonka tarkoituksena on huolehtia lasten ja nuorten sekä iäkkäiden henkilöiden huollosta ja vammaisten henkilöiden huollosta ja muista palveluista ja tukitoimista, päihdehuollosta sekä muusta tällaisesta toiminnasta.
+
+Sosiaalihuollolla tarkoitetaan myös sellaisia kuulo-, kuulonäkö- tai puhevamman tai muun vastaavan vamman johdosta suoritettavia tulkkauspalveluja, joita järjestetään lain nojalla tai avustetaan valtion varoin.

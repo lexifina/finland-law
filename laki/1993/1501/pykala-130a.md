@@ -4,7 +4,7 @@ Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 
 Kunnalla on oikeus saada palautuksena laskennallinen vero seuraavista verottomina hankkimistaan palveluista ja tavaroista:
 1) 34 §:ssä tarkoitettu terveyden- ja sairaanhoitopalvelu sekä mainitussa lainkohdassa tarkoitettu hoitoon liittyvä palvelu ja tavara samoin kuin 36 §:ssä 1–4 kohdassa tarkoitetut palvelut ja tavarat;
-2) 37 §:ssä tarkoitettu sosiaalihuoltoon liittyvä palvelu tai tavara.
+2) 37 ja 38 a §:ssä tarkoitettu sosiaalihuoltoon liittyvä palvelu tai tavara.
 
 Kunnalla on oikeus saada palautus myös 1 momentissa tarkoitetun toiminnan harjoittajalle toimintaa varten antamastaan tuesta tai avustuksesta.
 
