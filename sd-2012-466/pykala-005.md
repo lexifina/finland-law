@@ -9,8 +9,8 @@ Vaaratiedotteen saa antaa:
 6) poliisin hallinnosta annetun lain (110/1992) 1 §:n 2 momentissa tarkoitettu Poliisihallituksen alainen valtakunnallinen yksikkö;
 7) Säteilyturvakeskus;
 8) Ilmatieteen laitos;
-9) Liikennevirasto;
-10) Liikenteen turvallisuusvirasto;
+9) Väylävirasto;
+10) Liikenne- ja viestintävirasto;
 11) Elintarviketurvallisuusvirasto;
 12) Sosiaali- ja terveysalan lupa- ja valvontavirasto;
 13) Lääkealan turvallisuus- ja kehittämiskeskus;
