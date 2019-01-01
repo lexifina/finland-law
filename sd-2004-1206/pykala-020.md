@@ -1,3 +1,3 @@
-# 20 § Tiedonsaanti toiselta viranomaiselta
+# 20 § Tiedonsaanti toiselta viranomaiselta ja alusliikennepalvelun tarjoajalta
 
-Liikenteen turvallisuusvirastolla on oikeus saada viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä tämän lain säännösten noudattamisen valvontaa varten tarpeellisia tietoja muilta viranomaisilta.
+Liikenne- ja viestintävirastolla on oikeus saada viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä tämän lain säännösten noudattamisen valvontaa varten tarpeellisia tietoja muilta viranomaisilta sekä alusliikennepalvelulaissa tarkoitetulta alusliikennepalvelun tarjoajalta.
