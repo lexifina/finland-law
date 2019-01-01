@@ -4,4 +4,4 @@ Verkkotoimijan on toisen verkkotoimijan kirjallisesta pyynnöstä tarvittaessa s
 
 Pyyntöön on annettava kirjallinen vastaus kuukauden kuluessa 1 momentissa tarkoitetun pyynnön vastaanottopäivästä.
 
-Jos tässä pykälässä säädetyistä velvollisuuksista syntyy riitaa, se, jonka oikeutta tai etua asia koskee, voi saattaa asian Viestintäviraston ratkaistavaksi.
+Jos tässä pykälässä säädetyistä velvollisuuksista syntyy riitaa, se, jonka oikeutta tai etua asia koskee, voi saattaa asian Liikenne- ja viestintäviraston ratkaistavaksi.
