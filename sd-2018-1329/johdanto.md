@@ -1,0 +1,2 @@
+Laki huoneistotietojärjestelmää koskevan lainsäädännön voimaanpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
