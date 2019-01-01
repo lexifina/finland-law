@@ -1,0 +1,2 @@
+Laki eräiden ennakkoratkaisujen maksuperusteista
+Eduskunnan päätöksen mukaisesti säädetään:
