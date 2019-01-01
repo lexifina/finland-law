@@ -1,12 +1,9 @@
-# 7 b § Alueloukkaus
+# 7 b § Maahantulokiellon rikkominen
 Luku: 17 luku Rikoksista yleistä järjestystä vastaan
 
-Vieraan valtion sotilas taikka vieraan valtion valtionaluksen tai valtionilma-aluksen päällikkö, joka
-1) rikkoo aluevalvontalakia (755/2000) sen 44 §:ssä tarkoitetulla tavalla,
-2) rikkoo aluevalvontalain 4–9 §:n säännöksiä Suomen alueelle tulosta ja maassa oleskelusta tai
-3) rikkoo aluevalvontalain 10 §:n nojalla myönnetyssä luvassa annettuja lupamääräyksiä,
-on tuomittava alueloukkauksesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.
+Joka tulee Suomeen, vaikka hänelle on määrätty voimassa oleva
+1) ulkomaalaislain (301/2004) 150 §:n 1 momentissa tarkoitettu maahantulokielto tai mainitun lain 3 §:n 19 kohdassa tarkoitetun toisen Schengen-valtion antama jäsenvaltioissa sovellettavista yhteisistä vaatimuksista ja menettelyistä laittomasti oleskelevien kolmansien maiden kansalaisten palauttamiseksi annetun Euroopan parlamentin ja neuvoston direktiivin 2008/115/EY 3 artiklan 6 alakohdassa tarkoitettu maahantulokielto tai
+2) ulkomaalaislain 150 §:n 3 momentissa tai 170 §:n 1 momentissa tarkoitettu maahantulokielto,
+on tuomittava maahantulokiellon rikkomisesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.
 
-Alueloukkauksesta tuomitaan myös se, joka aluevalvontalain 2 §:n 5 a kohdassa tarkoitetun tunnuksettoman sotilaallisen ryhmän jäsenenä ja osana tällaisen ryhmän toimintaa rikkoo aluevalvontalain 10 a §:n mukaista kieltoa tulla Suomen alueelle tai olla maassa.
-
-Alueloukkausta koskevassa asiassa syyttäjä saa jättää syytteen nostamatta ja tuomioistuin rangaistuksen tuomitsematta, jos alueloukkaus on saatu välittömästi keskeytetyksi tai jos siihen syyllistynyt on teon vuoksi käännytetty tai karkotettu maasta.
+Maahantulokiellon rikkomisesta ei tuomita Schengenin tietojärjestelmässä maahantulokieltoon määrättyä ulkomaalaista, jonka maahantulo Suomeen on sallittu kauttakulkua varten henkilöiden liikkumista rajojen yli koskevasta unionin säännöstöstä (Schengenin rajasäännöstö) annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/399 6 artiklan 5 kohdan a alakohdassa tarkoitetulla tavalla.
