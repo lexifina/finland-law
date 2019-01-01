@@ -1,7 +1,7 @@
-# 7 § Terveyden ja hyvinvoinnin laitoksen tehtävät
+# 7 § Turvakodin henkilöstö ja sen kouluttaminen
 
-Terveyden ja hyvinvoinnin laitos huolehtii turvakotipalvelujen valtakunnallisesta saatavuudesta siten, että eri puolilla Suomea on tarjolla ja saatavilla palveluja tarpeeseen nähden riittävästi.
+Turvakodissa on oltava vastuuhenkilö sekä tarpeellinen määrä tuki- ja ohjaustyötä tekevää henkilöstöä. Turvakodin henkilöstöllä on oltava koulutusta, työkokemusta ja perehtyneisyyttä lähisuhdeväkivallan kriisityöhön.
 
-Terveyden ja hyvinvoinnin laitos tekee sopimukset turvakotipalvelun tuottamisesta sellaisten turvakotipalvelun tuottajien kanssa, jotka täyttävät parhaiten turvakotipalvelun tuottamiselle 8 §:ssä ja sen nojalla annetussa valtioneuvoston asetuksessa säädetyt edellytykset.
+Terveyden ja hyvinvoinnin laitos järjestää valtakunnallisesti koulutusta turvakotipalvelujen tuottajille. Lisäksi palveluntuottajan on järjestettävä henkilöstölleen tarpeellinen täydennyskoulutus.
 
-Terveyden ja hyvinvoinnin laitos vastaa turvakotipalvelun kokonaisuuden koordinoinnista valtakunnallisesti yhteistyössä sopimuksen tehneiden turvakotien kanssa.
+Turvakodin henkilöstön pätevyysvaatimuksista voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.
