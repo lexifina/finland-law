@@ -19,3 +19,5 @@ Verovelvollisella ei ole myöskään oikeutta vähentää korkoa, joka kohdistuu
 Korkoja vähennettäessä ensin vähennetään muut kuin 131 §:n 3 ja 4 momentissa tarkoitetut ensiasunnon hankintaan otetun velan korot.
 
 Avoimen yhtiön yhtiömiehen ja kommandiittiyhtiön vastuunalaisen yhtiömiehen yhtiöosuuden hankintaan käytetyn velan korko vähennetään hänen osuudestaan elinkeinoyhtymän elinkeinotulosta ennen pääomatulo-osuuden laskemista 40 §:ssä säädetyllä tavalla.
+
+Edellä 1 momentissa säädetystä poiketen yhteisöjen ja elinkeinoyhtymien korkomenot vähennetään siten kuin elinkeinotulon verottamisesta annetun lain 18 a ja 18 b §:ssä säädetään .
