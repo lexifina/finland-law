@@ -10,7 +10,7 @@ Myyntiluvan haltijan on hakemuksessa esitettävä yksilöity ja perusteltu ehdot
 3) taloudellisuudesta ja erityiskorvattavuudesta aiheutuvista kustannuksista;
 4) markkinaennusteesta.
 
-Hakemukseen tulee lisäksi sisällyttää 4 §:n 2 momentin 2–7 kohdassa ja 4 §:n 3 momentissa tarkoitettu kohtuullista tukkuhintaa koskeva selvitys siltä osin kuin se on erityiskorvattavuuden vahvistamisen edellytyksenä.
+Hakemukseen tulee lisäksi sisällyttää 4 §:n 2 momentin 2–7 kohdassa ja 4 §:n 4 momentissa tarkoitettu kohtuullista tukkuhintaa koskeva selvitys siltä osin kuin se on erityiskorvattavuuden vahvistamisen edellytyksenä.
 
 Mitä 1–3 momentissa säädetään, sovelletaan myös hakemukseen, jossa erityiskorvattavuutta haetaan lääkevalmisteelle, joka on jo aikaisemmin hyväksytty erityiskorvattavaksi, taikka lääkevalmisteelle, jonka vaikuttava lääkeaine sisältyy jo aikaisemmin hyväksyttyihin erityiskorvattaviin valmisteisiin.
 

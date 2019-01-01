@@ -6,4 +6,4 @@ Sosiaali- ja terveysministeriö asettaa lääkkeiden hintalautakunnan ja sen yht
 
 Lääkkeiden hintalautakunnassa tulee olla kaksi jäsentä sosiaali- ja terveysministeriöstä, yksi valtiovarainministeriöstä, kaksi Kansaneläkelaitoksesta, yksi Lääkealan turvallisuus- ja kehittämiskeskuksesta ja yksi Terveyden ja hyvinvoinnin laitoksesta.
 
-Asiantuntijaryhmään voidaan nimetä enintään seitsemän jäsentä. Asiantuntijaryhmässä tulee olla edustettuna lääketieteen, farmakologian, terveystalouden ja sairausvakuutuksen alan asiantuntemus.
+Asiantuntijaryhmään voidaan nimetä enintään seitsemän jäsentä. Asiantuntijaryhmässä tulee olla edustettuna lääketieteen, farmakologian ja sairausvakuutuksen alan asiantuntemus.

@@ -9,7 +9,7 @@ Lääkkeiden hintalautakunta voi siirtää johtajan ratkaistavaksi:
 a) valmisteen määräaikaisesti voimassa olevan peruskorvattavuuden ja tukkuhinnan uudelleen vahvistaminen;
 b) uusi yhdistelmävalmiste, jos samoja lääkeaineita sisältäviä valmisteita on hyväksytty korvattaviksi;
 c) korvattavaksi hyväksytyn valmisteen uusi pakkauskoko, vahvuus tai lääkemuoto;
-d) korvattavaksi hyväksyttyä valmistetta vastaava rinnakkaisvalmiste tai rinnakkaistuontivalmiste;
+d) korvattavaksi hyväksyttyä valmistetta vastaava rinnakkaisvalmiste, biosimilaarivalmiste tai rinnakkaistuontivalmiste;
 2) lääkevalmisteen erityiskorvattavuuden hyväksymisen, jos samaa lääkeainetta sisältävä valmiste on hyväksytty erityiskorvattavaksi;
 3) lääkelain 21 f §:n mukaisen erityisluvalla toimitettavan lääkevalmisteen peruskorvattavuuden ja kohtuullisen tukkuhinnan vahvistamisen sekä lisäksi erityiskorvattavuuden hyväksymisen, jos samaa lääkeainetta sisältävä valmiste on hyväksytty erityiskorvattavaksi;
 4) kohtuullista tukkuhintaa koskevan todistuksen antamisen myyntiluvan haltijalle lääkkeiden ulkomaille vientiä varten;
