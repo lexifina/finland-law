@@ -1,8 +1,11 @@
-# 9 § Henkilörekisteririkos
+# 9 § Tietosuojarikos
 Luku: 38 luku Tieto- ja viestintärikoksista
 
-Joka tahallaan tai törkeästä huolimattomuudesta
-1) käsittelee henkilötietoja vastoin henkilötietolain (523/1999) käyttötarkoitussidonnaisuutta, käsittelyn yleisiä edellytyksiä, henkilötietojen tarpeellisuutta tai virheettömyyttä, arkaluonteisia tietoja, henkilötunnusta tai henkilötietojen käsittelyä erityisiä tarkoituksia varten koskevia säännöksiä taikka rikkoo henkilötietojen käsittelyä koskevia erityissäännöksiä,
-2) antamalla rekisteröidylle väärän tai harhaanjohtavan tiedon estää tai yrittää estää rekisteröityä käyttämästä hänelle kuuluvaa tarkastusoikeutta tai
-3) siirtää henkilötietoja Euroopan unionin tai Euroopan talousalueen ulkopuolisiin valtioihin henkilötietolain 5 luvun vastaisesti
-ja siten loukkaa rekisteröidyn yksityisyyden suojaa tai aiheuttaa hänelle muuta vahinkoa tai olennaista haittaa, on tuomittava henkilörekisteririkoksesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.
+Joka muutoin kuin luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2016/679 (yleinen tietosuoja-asetus), jäljempänä yleinen tietosuoja-asetus, tarkoitettuna rekisterinpitäjänä tai henkilötietojen käsittelijänä tahallaan tai törkeästä huolimattomuudesta hankkii henkilötietoja niiden käyttötarkoituksen kanssa yhteensopimattomalla tavalla, luovuttaa henkilötietoja tai siirtää henkilötietoja vastoin
+1) yleisen tietosuoja-asetuksen,
+2) tietosuojalain (1050/2018),
+3) henkilötietojen käsittelystä rikosasioissa ja kansallisen turvallisuuden ylläpitämisen yhteydessä annetun lain (1054/2018) tai
+4) henkilötietojen käsittelyä koskevan muun lain
+henkilötietojen käyttötarkoitussidonnaisuutta, luovuttamista tai siirtämistä koskevaa säännöstä ja siten loukkaa rekisteröidyn yksityisyyden suojaa tai aiheuttaa hänelle muuta vahinkoa tai olennaista haittaa, on tuomittava tietosuojarikoksesta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.
+
+Tietosuojarikoksesta tuomitaan myös se, joka tahallaan tai törkeästä huolimattomuudesta toimii vastoin sitä, mitä 1 momentin 1–4 kohdassa tarkoitetussa säädöksessä säädetään henkilötietojen käsittelyn turvallisuudesta.

@@ -5,6 +5,6 @@ Jos salassapitorikoksen tai salassapitorikkomuksen kohteena on yksityisen henkil
 
 Syyttäjä ei saa nostaa syytettä viestintäsalaisuuden loukkauksesta, törkeästä viestintäsalaisuuden loukkauksesta, tietojärjestelmän häirinnästä, tietomurrosta tai suojauksen purkujärjestelmärikoksesta, ellei asianomistaja ilmoita rikosta syytteeseen pantavaksi tai ellei rikoksentekijä rikosta tehdessään ole ollut yleistä posti- tai teletoimintaa harjoittavan laitoksen palveluksessa taikka ellei erittäin tärkeä yleinen etu vaadi syytteen nostamista.
 
-Syyttäjän on ennen henkilörekisteriin kohdistuvaa salassapitorikosta, salassapitorikkomusta, viestintäsalaisuuden loukkausta, törkeää viestintäsalaisuuden loukkausta tai tietomurtoa taikka henkilörekisteririkosta koskevan syytteen nostamista kuultava tietosuojavaltuutettua. Tuomioistuimen on tällaista rikosta koskevaa asiaa käsitellessään varattava tietosuojavaltuutetulle tilaisuus tulla kuulluksi.
+Syyttäjän on ennen henkilörekisteriin kohdistuvaa salassapitorikosta, salassapitorikkomusta, viestintäsalaisuuden loukkausta, törkeää viestintäsalaisuuden loukkausta, tietomurtoa, törkeää tietomurtoa tai tietosuojarikosta koskevan syytteen nostamista kuultava tietosuojavaltuutettua. Tuomioistuimen on tällaista rikosta koskevaa asiaa käsitellessään varattava tietosuojavaltuutetulle tilaisuus tulla kuulluksi.
 
 Syyttäjä saa nostaa syytteen identiteettivarkaudesta vain, jos asianomistaja ilmoittaa rikoksen syytteeseen pantavaksi.
