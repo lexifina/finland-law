@@ -1,4 +1,4 @@
 # 19 §
 Luku: 4 luku Erinäiset säännökset
 
-Hallintoneuvoston ja hallituksen jäsenen, yliasiamiehen sekä muun toimihenkilön esteellisyydestä on voimassa, mitä hallintomenettelylain (598/82) 10§:n 1 ja 2 momentissa sekä 11§:ssä on säädetty virkamiehen esteellisyysperusteista ja esteellisyyden vaikutuksesta.
+Rahaston toimintaan sovelletaan, mitä hallintolaissa (434/2003), kielilaissa (423/2003), viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) ja sähköisestä asioinnissa viranomaistoiminnassa annetussa laissa (13/2003) säädetään.
