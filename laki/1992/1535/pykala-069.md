@@ -9,7 +9,7 @@ Veronalaiseksi tuloksi ei katsota, ellei edellä säädetystä muuta johdu, koko
 4) etua työnantajan järjestämästä virkistys- tai harrastustoiminnasta;
 5) etua työnantajan järjestämästä yhteiskuljetuksesta asunnon ja työpaikan välisillä matkoilla.
 
-Veronalaiseksi tuloksi ei katsota myöskään sitä toimialalla tavanomaista ja kohtuullista etua, jonka liikenteenharjoittajan palveluksessa tai tämän palveluksesta eläkkeellä oleva verovelvollinen saa työnantajalta matkaan oikeuttavana vapaa- tai alennuslippuna.
+Veronalaiseksi tuloksi ei katsota myöskään sitä toimialalla tavanomaista ja kohtuullista etua, jonka liikenteenharjoittajan tai liikenteenharjoittajan toimintaa välittömästi palvelevan samaan konserniin kuuluvan yhtiön palveluksessa tai edellä mainittujen palveluksesta eläkkeellä oleva verovelvollinen saa työnantajalta matkaan oikeuttavana vapaa- tai alennuslippuna.
 
 Veronalaista tuloa ei synny työnantajan tilapäisesti järjestämästä sairaan lapsen hoidosta ajalta, jona työntekijällä olisi oikeus hoitovapaaseen täysin palkkaeduin. Tilapäisenä pidetään saman sairaustapauksen johdosta enintään neljän päivän pituista hoitojaksoa.
 
