@@ -1,3 +1,3 @@
 # 16 § Valvonta
 
-Tämän lain noudattamista valvovat Liikenteen turvallisuusvirasto sekä terveydenhuolto- ja työsuojeluviranomaiset.
+Tämän lain noudattamista valvovat Liikenne- ja viestintävirasto sekä terveydenhuolto- ja työsuojeluviranomaiset.
