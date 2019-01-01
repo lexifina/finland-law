@@ -21,7 +21,8 @@ Huojennusta ei saada:
 1) metsätaloudesta tilitettävästä verosta;
 2) 30 §:ssä tarkoitetusta kiinteistön käyttöoikeuden luovuttamisesta tilitettävästä verosta;
 3) käyttöomaisuuden myynnistä suoritettavasta verosta;
-4) ostajana 2 a, 8 a–8 d ja 9 §:n perusteella suoritettavasta verosta; eikä
-5) 2 b §:ssä tarkoitetusta yhteisöhankinnasta suoritettavasta verosta.
+4) ostajana 2 a, 8 a–8 d ja 9 §:n perusteella suoritettavasta verosta;
+5) 2 b §:ssä tarkoitetusta yhteisöhankinnasta suoritettavasta verosta; eikä
+6) 1 §:n 1 momentin 2 kohdassa tarkoitetusta tavaran maahantuonnista suoritettavasta verosta.
 
 Edellä 5 momentissa mainittuja eriä ei lueta huojennusta laskettaessa tilikaudelta tilitettävään veroon.
