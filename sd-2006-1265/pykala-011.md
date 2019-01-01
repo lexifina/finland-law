@@ -5,4 +5,4 @@ Korkeimmassa hallinto-oikeudessa kaksi ympäristöasiantuntijaneuvosta osallistu
 
 Patenttia, hyödyllisyysmallioikeutta tai integroidun piirin piirimallia koskevien asioiden käsittelyyn osallistuu kaksi yli-insinöörineuvosta.
 
-Asiantuntijajäsenten kelpoisuusvaatimuksista, tehtävään määräämisestä ja asemasta, oikeudesta pysyä tehtävässään sekä velvollisuudesta ilmoittaa sidonnaisuutensa säädetään tuomioistuinlain 17 luvussa.
+Asiantuntijajäsenten kelpoisuusvaatimuksista, tehtävään määräämisestä ja asemasta, oikeudesta pysyä tehtävässään ja velvollisuudesta ilmoittaa sidonnaisuutensa sekä muutoksenhausta asiantuntijan tehtävään määräämistä koskevaan päätökseen säädetään tuomioistuinlain 17 luvussa.
