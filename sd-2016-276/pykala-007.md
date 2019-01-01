@@ -6,4 +6,4 @@ Verkkotoimijan on tarvittaessa annettava omaa toimintaansa koskevat 5 §:n 1 mom
 
 Julkisyhteisön, jolla on hallussaan digitaalisessa muodossa 5 §:n 1 momentissa tarkoitettuja tietoja, on annettava nämä tiedot ja niitä koskevat muutokset keskitetyn tietopisteen kautta saataville kahden kuukauden kuluessa tietojen vastaanottopäivästä, jos tiedot eivät ole muutoin saatavilla keskitetyn tietopisteen kautta. Määräaikaa voidaan pidentää enintään yhdellä kuukaudella, jos se on tarpeen toimitettujen tietojen luotettavuuden varmistamiseksi.
 
-Jos tässä pykälässä säädetyistä velvollisuuksista syntyy riitaa, se jonka oikeutta tai etua asia koskee, voi saattaa asian Viestintäviraston ratkaistavaksi.
+Jos tässä pykälässä säädetyistä velvollisuuksista syntyy riitaa, se jonka oikeutta tai etua asia koskee, voi saattaa asian Liikenne- ja viestintäviraston ratkaistavaksi.

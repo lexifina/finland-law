@@ -9,4 +9,4 @@ Yhteisrakentamista koskeva pyyntö on jätettävä mahdollisimman aikaisessa vai
 
 Jollei toisin sovita, yhteisrakentamisesta aiheutuvat kustannukset jaetaan verkkotoimijoiden kesken erillisrakentamisesta aiheutuvien arvioitujen kustannusten suhteessa.
 
-Jos verkkotoimija kieltäytyy täyttämästä toisen verkkotoimijan yhteisrakentamista koskevaa pyyntöä tai jos ehdoista ei päästä sopimukseen kuukauden kuluessa yhteisrakentamista koskevan pyynnön vastaanottamisesta, verkkotoimija voi saattaa asian Viestintäviraston ratkaistavaksi.
+Jos verkkotoimija kieltäytyy täyttämästä toisen verkkotoimijan yhteisrakentamista koskevaa pyyntöä tai jos ehdoista ei päästä sopimukseen kuukauden kuluessa yhteisrakentamista koskevan pyynnön vastaanottamisesta, verkkotoimija voi saattaa asian Liikenne- ja viestintäviraston ratkaistavaksi.
