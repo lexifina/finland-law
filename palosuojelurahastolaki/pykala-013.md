@@ -10,7 +10,7 @@ Tilintarkastajien on tarkastettava rahaston hallinto, kirjanpito ja tilinpäät�
 4) tilinpäätöksen vahvistamisesta; sekä
 5) rahaston tuloksen käsittelystä rahaston hallituksen ehdottamalla tavalla; kun tilintarkastus on tehty, tilintarkastajien on tehtävä siitä tilinpäätökseen merkintä, jossa viitataan tilintarkastuskertomukseen sekä lausutaan siitä, onko tilinpäätös laadittu hyvän kirjanpitotavan mukaisesti.
 
-Jos tilintarkastaja kesken tilikauden havaitsee merkittävää huomauttamista tarkastettavan yhteisön hallinnosta ja taloudesta, on asiasta viipymättä ilmoitettava rahaston hallitukselle ja sisäasiainministeriölle.
+Jos tilintarkastaja kesken tilikauden havaitsee merkittävää huomauttamista palosuojelurahaston hallinnosta ja taloudesta, on asiasta viipymättä ilmoitettava rahaston hallitukselle ja sisäministeriölle.
 
 Rahaston hallitus ja henkilöstö on velvollinen avustamaan tarvittaessa tilintarkastajaa tarkastuksen suorittamisessa.
 
