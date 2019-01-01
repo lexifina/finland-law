@@ -1,7 +1,7 @@
 # 5 a § Kasvilajikeluettelo
 Luku: 2 luku Taimiaineiston tuotanto ja markkinointi
 
-Elintarviketurvallisuusvirasto pitää puutarhakasvien taimiaineiston lajikkeista kasvilajikeluetteloa.
+Ruokavirasto pitää puutarhakasvien taimiaineiston lajikkeista kasvilajikeluetteloa.
 
 Luetteloon merkitään lajikkeen nimi ja sen synonyymit, tiedot lajista ja lajikkeesta, rekisteröintipäivä ja rekisteröinnin voimassaolon päättyminen sekä muut lajikkeen yksilöimiseksi tarpeelliset tiedot.
 

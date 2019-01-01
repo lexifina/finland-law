@@ -10,7 +10,7 @@ Rekisteriin merkitään seuraavat tiedot:
 6) taimiaineiston toimittajan hyväksymisen ajankohta;
 7) jäljempänä 10―14 §:n nojalla määrätyt kiellot, rangaistukset ja muut toimenpiteet.
 
-Tiedot poistetaan rekisteristä kolmen vuoden kuluessa siitä, kun taimiaineiston toimittaja on ilmoittanut kasvintuotannon tarkastuskeskukselle toimintansa lopettamisesta.
+Tiedot poistetaan rekisteristä kolmen vuoden kuluessa siitä, kun taimiaineiston toimittaja on ilmoittanut Ruokavirastolle toimintansa lopettamisesta.
 
 Henkilötietojen keräämiseen ja tallettamiseen sekä rekisteriin tallennettujen tietojen käyttämiseen ja luovuttamiseen sovelletaan muutoin, mitä henkilötietolaissa (523/1999) ja viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään.
 
