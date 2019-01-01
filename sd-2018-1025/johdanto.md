@@ -1,0 +1,2 @@
+Laki Maanmittauslaitoksesta
+Eduskunnan päätöksen mukaisesti säädetään:
