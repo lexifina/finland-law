@@ -1,6 +1,6 @@
 # 12 § Valvonta
 
-Tämän lain ja sen nojalla annettujen säännösten noudattamista valvoo Liikenteen turvallisuusvirasto.
+Tämän lain ja sen nojalla annettujen säännösten noudattamista valvoo Liikenne- ja viestintävirasto.
 
 Virastolla on valvontatehtävässä oikeus:
 1) päästä valvonnan edellyttämässä laajuudessa valmistajan, valtuutetun edustajan ja toiminnanharjoittajan toimitiloihin, muihin tiloihin ja valvonnan kohteen omistamiin tai hallinnassa oleviin tiloihin lukuun ottamatta pysyväisluonteiseen asumiseen käytettäviä tiloja;
@@ -10,4 +10,4 @@ Virastolla on valvontatehtävässä oikeus:
 
 Virasto voi käyttää valvonnassa asiantuntijan apua, jos se on valvonnan kannalta tarpeellista. Asiantuntijan on oltava perehtynyt alkolukkotoimintaan ja sitä koskeviin vaatimuksiin. Asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen hoitaessaan tässä pykälässä tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.
 
-Liikenteen turvallisuusviraston on valvontatehtävää hoitaessaan noudatettava, mitä hallintolain (434/2003) 39 §:ssä säädetään. Poliisin velvollisuudesta antaa virka-apua säädetään poliisilain (872/2011) 9 luvun 1 §:ssä.
+Liikenne- ja viestintäviraston on valvontatehtävää hoitaessaan noudatettava, mitä hallintolain (434/2003) 39 §:ssä säädetään. Poliisin velvollisuudesta antaa virka-apua säädetään poliisilain (872/2011) 9 luvun 1 §:ssä.

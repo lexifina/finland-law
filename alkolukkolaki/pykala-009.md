@@ -8,4 +8,4 @@ Jos kuljettajan uloshengitysilman alkoholipitoisuus ei alita 1 momentissa sääd
 
 Alkolukon hyväksymän puhalluksen tilavuuden on oltava vähintään 1,0 litraa. Jos kuljettajan terveydentila vaikeuttaa hyväksyttävän puhalluksen suorittamista, poliisi voi lääkärintodistuksen perusteella antaa luvan laskea vaadittava ilmamäärä alemmaksi.
 
-Liikenteen turvallisuusvirasto voi antaa tarkempia määräyksiä alkolukon teknisestä toiminnasta ajon aikana ja hylätyn puhalluksen jälkeen sekä alkolukon hyväksymän puhalluksen tilavuuden määrästä.
+Liikenne- ja viestintävirasto voi antaa tarkempia määräyksiä alkolukon teknisestä toiminnasta ajon aikana ja hylätyn puhalluksen jälkeen sekä alkolukon hyväksymän puhalluksen tilavuuden määrästä.
