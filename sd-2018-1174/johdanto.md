@@ -1,0 +1,2 @@
+Laki valtion rahoituksesta elokuvakulttuurin edistämiseen
+Eduskunnan päätöksen mukaisesti säädetään:
