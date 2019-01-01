@@ -5,8 +5,8 @@ Väliotsikko: Merityötulo ja siihen liittyvät matkustuskorvaukset
 
 Merityötulolla tarkoitetaan laivanisännän tai Verohallinnon määräämän muun tähän rinnastettavan aluksen liikennöintiä hoitavan työnantajan palveluksessa, bruttovetoisuudeltaan vähintään 100 rekisteritonnin aluksessa tehdystä aluksen liikennöintiin liittyvästä työstä rahana tai rahanarvoisena etuutena saatua palkkatuloa edellyttäen, että:
 1) alusta käytetään ulkomaan liikenteeseen tai verovuoden aikana pääasiassa rannikkoliikenteeseen;
-2) alus on Liikenneviraston tai sen lukuun toimivan taikka muun laivanisännän alus, jota käytetään viranomaisen tilaamissa tehtävissä merialueella;
-3) alus on Ahvenanmaan maakunnanhallituksen alainen muu alus kuin sellainen lautta, joka välittää yleisen tien liikenteen vesistön yli.
+2) alus on Väyläviraston tai sen lukuun toimivan taikka muun laivanisännän alus, jota käytetään viranomaisen tilaamissa tehtävissä merialueella;
+3) alus on Ahvenanmaan maakunnan hallituksen alainen muu alus kuin sellainen lautta, joka välittää yleisen tien liikenteen vesistön yli.
 
 Rannikkoliikenteellä tarkoitetaan kotimaan liikennettä saaristoalueen ulkopuolella Suomenlahdella, Pohjanlahdella ja Itämerellä 57. pohjoisen leveysasteen pohjoispuolella, ei kuitenkaan liikennettä Viipurinlahdelta Virolahden kunnan Santioon sisäväylää pitkin eikä Sipoon kunnan Kaunissaaren ohitusta eikä myöskään Porkkalanniemen tai Hankoniemen ohitusta, jos alusta muutoin käytetään rannikon saaristoalueen sisäpuolella.
 
