@@ -1,0 +1,2 @@
+Laki Liikenneviraston liikenteenohjaus- ja hallintapalveluiden muuttamisesta osakeyhtiöksi
+Eduskunnan päätöksen mukaisesti säädetään:
