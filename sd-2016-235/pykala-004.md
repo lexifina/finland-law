@@ -5,7 +5,7 @@ Osakeyhtiö on valtion alueella, jolla sillä on oikeus harjoittaa metsätaloutt
 2) muun alueen kuin luonnonsuojelulaissa (1096/1996) tarkoitetun luonnonsuojelualueen ja muinaismuistolaissa (295/1963) rauhoitetutuksi säädetyn muinaismuiston suoja-alueen rajankäyntiä;
 3) Metsähallituksen oikeutta edustaa yhteismetsälaissa (109/2003) tarkoitetun osakaskunnan kokouksessa;
 4) Metsähallituksen edustautumista yhteisaluelaissa (758/1989) tarkoitetun osakaskunnan, venevalkaman hallinnointia varten olevaa ja yhteisen vesialueen osakaskuntaa lukuun ottamatta, kokouksessa;
-5) Metsähallitusta yksityisistä teistä annetussa laissa (358/1962) tarkoitettuna tieosakkaana.
+5) Metsähallitusta yksityistielaissa (560/2018) tarkoitettuna tieosakkaana.
 
 Osakeyhtiö on valtion alueella, jolla sillä on oikeus harjoittaa metsätaloutta, oikeutettu Metsähallituksen puolesta myöntämään:
 1) valtion maa-aluetta koskevan kulkuoikeuden, jos sen merkitys on vähäinen;
