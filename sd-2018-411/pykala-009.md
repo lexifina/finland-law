@@ -1,0 +1,9 @@
+# 9 § Luotettavuus
+
+Ilmoituksen tekijää ja perintätoiminnasta vastaavaa henkilöä ei pidetä luotettavana, jos:
+1) hänet on lainvoiman saaneella tuomiolla viiden arviota edeltäneen vuoden aikana tuomittu vankeusrangaistukseen tai kolmen arviota edeltäneen vuoden aikana sakkorangaistukseen rikoksesta, jonka voidaan katsoa osoittavan hänen olevan ilmeisen sopimaton harjoittamaan perintätoimintaa, omistamaan perintätoimintaa harjoittavaa yhteisöä tai säätiötä taikka toimimaan sen hallituksen jäsenenä tai varajäsenenä, toimitusjohtajana tai toimitusjohtajan sijaisena taikka muussa ylimmässä johdossa tai perintätoiminnasta vastaavana henkilönä;
+2) hän on muutoin aikaisemmalla toiminnallaan osoittanut olevansa ilmeisen sopimaton toimimaan 1 kohdassa tarkoitetussa tehtävässä.
+
+Ilmoituksen tekijää ei myöskään pidetä luotettavana, jos tämä on kolmen arviota edeltävän vuoden aikana toistuvasti tai huomattavassa määrin laiminlyönyt veroihin, lakisääteisiin eläke-, tapaturma- tai työkyvyttömyysvakuutusmaksuihin taikka Tullin perimiin maksuihin liittyvien rekisteröitymis-, ilmoitus- ja maksuvelvollisuuksien hoitamisen.
+
+Jos ilmoituksen tekijä on oikeushenkilö, vaatimus luotettavuudesta koskee toimitusjohtajaa ja hänen sijaistaan, hallituksen jäsentä ja varajäsentä, hallintoneuvoston ja siihen rinnastettavan toimielimen jäsentä ja varajäsentä, vastuunalaista yhtiömiestä sekä muuta ylimpään johtoon kuuluvaa samoin kuin sitä, jolla on suoraan tai välillisesti enemmän kuin 25 prosenttia osakeyhtiön osakkeista tai osakkeiden tuottamasta äänivallasta taikka vastaava omistus- tai määräämisvalta muussa yhteisössä. Luotettavuuden arvioimiseksi voidaan 2 momentissa tarkoitetut seikat selvittää sellaisista yritys- ja yhteisötietolain (244/2001) 3 §:ssä tarkoitetuista rekisteröidyistä yrityksistä tai yhteisöistä, jotka välittömästi tai välillisesti kytkeytyvät ilmoituksen tekijään tai edellä tässä momentissa mainittuihin henkilöihin.
