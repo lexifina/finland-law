@@ -6,6 +6,8 @@ Vanhuuseläke alkaa sitä seuraavan kalenterikuukauden alusta, jona työntekijä
 
 Jos työntekijä jatkaa työntekoa vakuuttamisvelvollisuuden yläikärajan täytettyään, vanhuuseläke myönnetään eläkkeen hakemista seuraavan kalenterikuukauden alusta lukien.
 
-Vanhuuseläkkeen aikana alkaneen työsuhteen työansioista karttunut eläke myönnetään hakemuksesta aikaisintaan työntekijän vakuuttamisvelvollisuuden yläikärajan täyttämistä seuraavan kalenterikuukauden alusta.
+Vanhuuseläkkeen aikana alkaneen työsuhteen työansioista sekä muissa kuin 12 §:n 2 momentin mukaisissa tilanteissa vanhuuseläkkeen aikana maksetuista työansioista karttunut eläke myönnetään hakemuksesta aikaisintaan työntekijän vakuuttamisvelvollisuuden yläikärajan täyttämistä seuraavan kalenterikuukauden alusta.
+
+Jos työntekijän työskentely on alkanut ennen vanhuuseläkkeen alkamista ja jatkunut mainitun vanhuuseläkkeen rinnalla, tästä työskentelystä maksetuista työansioista karttunut eläke myönnetään hakemuksesta eläkkeen hakemista seuraavan kalenterikuukauden alusta edellyttäen, että työskentely on päättynyt.
 
 Jos työntekijä on saanut osittaista varhennettua vanhuuseläkettä, vanhuuseläke alkaa sitä seuraavan kalenterikuukauden alusta, jona työntekijä on täyttänyt 11 §:ssä säädetyt edellytykset ja lopettanut työeläkelakien mukaan vakuutetun pääasiallisen työnsä.

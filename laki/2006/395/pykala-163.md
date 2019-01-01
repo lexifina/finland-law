@@ -1,10 +1,15 @@
-# 163 § Laiminlyöntikorotus
+# 163 § Laiminlyöntimaksu
 Osa: III OSA VAKUUTTAMISTA JA KUSTANNUSTEN JAKOA KOSKEVAT SÄÄNNÖKSET
 Luku: 10 luku Eläketurvan järjestäminen ja työeläkevakuutusmaksu
 
-Eläkelaitos voi määrätä työnantajalle arvion perusteella enintään kaksinkertaiseksi korotetun, kohtuullisena pidettävän työeläkevakuutusmaksun, jos työnantaja laiminlyö:
-1) tämän lain mukaisen eläketurvan järjestämisen 141 §:n 1 momentissa tarkoitetussa määräajassa;
-2) 144 §:n 1 momentissa tai 146 §:ssä tarkoitettujen tietojen antamisen kyseisessä lainkohdassa tarkoitetussa määräajassa; tai
-3) 147 §:ssä tarkoitettujen tietojen antamisen kyseisessä lainkohdassa tarkoitetussa määräajassa.
+Työnantaja, joka ei ole järjestänyt eläketurvaa viimeistään palkanmaksua seuraavan kalenterikuukauden kahdeksantena päivänä, on velvollinen maksamaan laiminlyöntimaksun, joka on enintään yhtä suuri kuin laiminlyöntiajalta maksettava työeläkevakuutusmaksu. Laiminlyöntimaksua määrättäessä otetaan huomioon laiminlyöntiajan pituus, laiminlyönnin toistuvuus, laiminlyönnin tahallisuus, laiminlyöntiajan työeläkevakuutusmaksu ja laiminlyöntiajan työansiot.
 
-Korotettua vakuutusmaksua määrättäessä 1 momentin 1–3 kohdassa tarkoitetun laiminlyönnin ajalta otetaan huomioon laiminlyöntiajan pituus, laiminlyönnin toistuvuus ja muut näihin rinnastettavat laiminlyönnin moitittavuuden arviointiin liittyvät seikat. Eläkelaitoksen on annettava työnantajalle tämän pyynnöstä valituskelpoinen päätös korotetusta vakuutusmaksusta.
+Jos eläkelaitos katsoo, että työnantaja on laiminlyönyt tämän lain mukaisen eläketurvan järjestämisen, sen on tehtävä Valtiokonttorille hakemus laiminlyöntimaksun määräämisestä. Valtiokonttori ratkaisee päätöksellään, onko työnantaja laiminlyönyt tämän lain mukaisen eläketurvan järjestämisen ja määrää laiminlyöntimaksun, joka suoritetaan laiminlyöntimaksun määräämistä koskevan hakemuksen tehneelle eläkelaitokselle. Eläkelaitos vastaa laiminlyöntimaksun perinnästä. Finanssivalvonta antaa tarkempia määräyksiä eläkelaitokselle maksetun laiminlyöntimaksun sekä laiminlyöntimaksuun liittyvien kulujen käsittelystä eläkelaitoksessa.
+
+Eläkelaitos voi jättää 2 momentin mukaisen hakemuksen tekemättä, jos laiminlyöntiä ei voida pitää tahallisena ja laiminlyöntimaksun arvioitu määrä on enintään 215,98 euroa tai jos eläketurvan järjestämiseen velvollinen on toiminnallaan osoittanut, että ei ole pyrkinyt välttämään vakuuttamisvelvollisuuttaan tai jos laiminlyöntimaksua ei voitaisi määrätä 4 momentissa mainitusta syystä. Valtiokonttori jättää laiminlyöntimaksun määräämättä kokonaan tai osittain, jos laiminlyöntiä ei voida pitää tahallisena ja laiminlyöntimaksun määrääminen olisi 1 momentissa mainitut seikat huomioon ottaen tai muusta erityisestä syystä kohtuutonta.
+
+Laiminlyöntimaksua ei voida määrätä sille, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa tai jota vastaan samasta teosta nostettu syyte on tuomioistuimessa lainvoimaisesti ratkaistu.
+
+Mitä tässä laissa säädetään päätöksen tiedoksiannosta 105 §:n 3 momentissa, muutoksen hakemisesta 128 §:ssä, muutoksenhakuajasta 130 §:ssä, maksuunpanoa koskevasta perustevalituksesta 131 §:ssä, valituskirjelmän jättämisestä 132 §:ssä, päätöksen oikaisusta muutoksenhaun yhteydessä 133 §:ssä, valituksen siirrosta muutoksenhakuelimelle 134 §:ssä, muutoksenhakuajan jälkeen tulleesta valituksesta 135 §:ssä, päätöksen täytäntöönpanosta 136 §:n 2 momentissa, lainvoimaisen päätöksen poistamisesta 140 §:ssä, osakkaan tai yhtiömiehen vastuusta työeläkevakuutusmaksusta 156 §:ssä, konkurssipesän vastuusta työeläkevakuutusmaksusta 157 §:ssä, työeläkevakuutusmaksun ulosottokelpoisuudesta 159 §:ssä ja työeläkevakuutusmaksun viivästys-korosta 164 §:ssä, sovelletaan myös laiminlyöntimaksua koskevassa asiassa.
+
+Eläkelaitoksen on maksuunpantava Valtiokonttorin määräämä laiminlyöntimaksu viipymättä sitä koskevan päätöksen lainvoimaiseksi tulosta. Eläkelaitoksen on perittävä laiminlyöntimaksu maksuunpanovuotta välittömästi seuraavan viiden kalenterivuoden kuluessa tai oikeus sen saamiseen vanhentuu.

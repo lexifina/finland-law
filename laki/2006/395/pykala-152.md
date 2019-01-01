@@ -15,3 +15,5 @@ Kun työeläkevakuutus on järjestetty:
 1) työeläkevakuutusyhtiössä, työeläkevakuutusmaksu määräytyy 166 §:ssä mainittujen laskuperusteiden mukaisesti;
 2) eläkekassassa, työeläkevakuutusmaksu määräytyy 166 §:ssä mainittujen laskuperusteiden ja eläkekassan sääntöjen mukaisesti; tai
 3) eläkesäätiössä, työeläkevakuutusmaksu eli säätiön kannatusmaksu määräytyy eläkesäätiölain ja eläkesäätiön sääntöjen mukaisesti.
+
+Jos työnantaja laiminlyö 144 tai 147 §:n tai vakuutussopimuksen mukaiset palkkatietojen ilmoittamisvelvoitteensa, eläkelaitos voi arvioida työntekijälle työeläkevakuutusmaksun perusteena käytettävän palkan ja määrätä työeläkevakuutusmaksun arvioidun palkan perusteella. Palkka arvioidaan 166 §:ssä tarkoitettujen laskuperusteiden mukaisesti.

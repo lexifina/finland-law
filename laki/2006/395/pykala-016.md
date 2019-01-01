@@ -2,7 +2,7 @@
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 3 luku Eläke- ja kuntoutusetuudet
 
-Osittaisen varhennetun vanhuuseläkkeen perusteena on eläkkeen alkamista edeltäneen kalenterivuoden loppuun mennessä työeläkelakien mukaan ansaittu eläke. Tämän lain mukaisen eläkeosuuden määrä on työntekijän hakemuksen mukaan 25 tai 50 prosenttia osittaisen varhennetun vanhuuseläkkeen perusteena olevasta tämän lain mukaisesta eläkkeestä.
+Osittaisen varhennetun vanhuuseläkkeen perusteena on eläkkeen alkamista edeltäneen kalenterivuoden loppuun mennessä työeläkelakien mukaan ansaittu eläke. Ansaitussa eläkkeessä otetaan työansioista huomioon osittaisen varhennetun vanhuuseläkkeen alkamista edeltäneen kalenterivuoden loppuun mennessä maksetut työansiot. Tämän lain mukaisen eläkeosuuden määrä on työntekijän hakemuksen mukaan 25 tai 50 prosenttia osittaisen varhennetun vanhuuseläkkeen perusteena olevasta tämän lain mukaisesta eläkkeestä.
 
 Osittaisen varhennetun vanhuuseläkkeen eläkeosuudesta vähennetään pysyvästi 0,4 prosenttia jokaiselta kuukaudelta, jolta tämän eläkeosuuden alkamisaikaa varhennetaan ennen työntekijän alimman vanhuuseläkeiän täyttämistä seuraavan kalenterikuukauden alkua (varhennusvähennys).
 
