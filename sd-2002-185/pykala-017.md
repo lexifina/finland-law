@@ -1,4 +1,4 @@
-# 17 § Palkkiot ja kulujen korvaukset
+# 17 § Palkkiot ja korvaukset
 Luku: 4 luku Valvonta ja tarkastukset
 
-Tarkastuskeskuksen valtuuttamille tarkastajille voidaan suorittaa tarkastuksista palkkiota ja kustannusten korvausta valtion talousarvion rajoissa. Palkkioiden ja korvausten suorittamisesta ja niiden perusteista päättää maa- ja metsätalousministeriö.
+Ruokavirasto maksaa valtuuttamilleen tarkastajille tämän lain mukaisista tarkastuksista ja näytteenotoista palkkion ja korvaa heille aiheutuneet kustannukset.
