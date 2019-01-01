@@ -1,0 +1,2 @@
+Laki ympäristövahinkojen korvaamisesta
+Eduskunnan päätöksen mukaisesti säädetään:

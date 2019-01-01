@@ -1,0 +1,5 @@
+# 9 § Etukäteiskorvaus
+
+Jos häiriöstä tulevaisuudessa aiheutuva ympäristövahinko voidaan etukäteen arvioida, korvaus siitä on vaadittaessa määrättävä ennakolta kertakaikkisena tai vuosikorvauksena. Jos olosuhteet myöhemmin olennaisesti muuttuvat tai arvioitu vahinko muuten olennaisesti poikkeaa häiriöstä aiheutuneesta vahingosta, näin määrättyä korvausta voidaan oikaista sen mukaan kuin olosuhteet huomioon ottaen on kohtuullista.
+
+Kiinteistölle aiheutuvasta vahingosta suoritettava kertakaikkinen etukäteiskorvaus on määrättävä talletettavaksi, jos kiinteistö kiinnityksen johdosta tai maksamattoman kauppahinnan panttioikeutta koskevien säännösten mukaan vastaa saamisesta tai määrätyn raha- tai tavaratulon kantamisoikeudesta, eikä omistaja osoita oikeudenhaltijoiden suostuneen siihen, että korvaus saadaan maksaa hänelle, taikka tuomioistuin harkitse omaisuuden ympäristövahingosta huolimatta selvästi vastaavan sitä rasittavista oikeuksista. Korvauksen tallettamisesta ja nostamisesta on soveltuvin osin voimassa, mitä kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain (603/77) 7 luvussa säädetään.

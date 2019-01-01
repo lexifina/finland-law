@@ -1,0 +1,3 @@
+# 12 § Lain soveltaminen eräiden muiden lakien mukaisessa menettelyssä
+
+Jos kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain tai muun siihen verrattavan lain, maantielain (503/2005), yksityistielain (560/2018), ratalain (110/2007) tai kaivoslain (621/2011) mukaisessa menettelyssä tulee määrättäväksi korvaus tässä laissa tarkoitetusta ympäristövahingosta, sovelletaan tämän lain säännöksiä korvausvelvollisuudesta ja korvauksen määräämisen perusteista, 8–10 §:ää lukuun ottamatta. Jos edellä tässä pykälässä tarkoitettujen lakien mukaisesta toiminnasta seuraa ympäristövahingoksi luettava henkilövahinko, sovelletaan tätä lakia.
