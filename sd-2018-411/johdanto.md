@@ -1,0 +1,2 @@
+Laki perintätoiminnan harjoittajien rekisteröinnistä
+Eduskunnan päätöksen mukaisesti säädetään:
