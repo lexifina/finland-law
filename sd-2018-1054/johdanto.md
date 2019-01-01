@@ -1,0 +1,2 @@
+Laki henkilötietojen käsittelystä rikosasioissa ja kansallisen turvallisuuden ylläpitämisen yhteydessä
+Eduskunnan päätöksen mukaisesti säädetään:
