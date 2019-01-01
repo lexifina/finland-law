@@ -1,5 +1,9 @@
 # 3 § Edunsaajat
 
-Tässä laissa tarkoitettuun tukeen ovat ensisijaisesti oikeutettuja edunjättäjän leski ja alle 18-vuotiaat lapset. Jos ensisijaisia edunsaajia ei ole, ovat toissijaisesti tukeen oikeutettuja edunjättäjän sellaiset vanhemmat ja 18 vuotta täyttäneet lapset, joiden työkyky ja varallisuus ovat niin vähäiset, että he elatukseensa nähden ovat olleet huomattavasti riippuvaisia edunjättäjästä, sekä sellaiset edunjättäjän 18 vuotta täyttäneet, mutta alle 22-vuotiaat lapset, jotka ansiotyössä olematta opiskelevat. Lisäksi ensi- ja toissijaisista edunsaajista on voimassa mitä 1 §:ssä mainitussa virkaehtosopimuksessa edunsaajista on sovittu.
+Tässä laissa tarkoitettuun tukeen ovat oikeutettuja edunjättäjän puoliso ja edunjättäjän alle 22-vuotiaat lapset. Puolisolla tarkoitetaan aviopuolisoa sekä avopuolisoa, joka asui yhdessä edunjättäjän kanssa ja jonka kanssa edunjättäjällä oli tai oli ollut yhteinen lapsi tai julkisen notaarin oikeaksi todistama sopimus keskinäisestä elatuksesta.
 
-Ensi- ja toissijaisten edunsaajien lisäksi tai sijasta tukea voidaan maksaa myös sellaiselle henkilölle, jolle on aiheutunut kuoleman johdosta kohtuuttomaksi katsottava taloudellinen velvoite. Tuki on tällöin harkinnanvaraista sekä määrältään enintään sen suuruista, mitä ensi- tai toissijaisille edunsaajille enimmillään olisi voitu myöntää.
+Edunjättäjän lapsella tarkoitetaan edunjättäjän omaa lasta, aviopuolison lasta, jonka huoltaja mainittu aviopuoliso on tai on ollut lapsen täysi-ikäisyyteen saakka, ja lasta, jonka elatuksesta edunjättäjä on omassa kodissaan tai muutoin huolehtinut.
+
+Aviopuolisolla ei ole oikeutta tukeen, jos edunjättäjä oli kuollessaan 1 momentissa tarkoitetussa avoliitossa ja hakemus avioliiton purkamisesta oli vireillä. Avopuolisolla ei ole oikeutta tukeen, jos edunjättäjä oli avioliitossa eikä hakemusta avioliiton purkamisesta ollut vireillä.
+
+Tukea ei makseta edunsaajalle, joka on rikoksella aiheuttanut tahallisesti edunjättäjän kuoleman.
