@@ -6,4 +6,4 @@ Muuhun tämän lain nojalla tehtyyn päätökseen sekä oikaisuvaatimukseen anne
 
 Hallinto-oikeuden päätökseen arviointilaitoksen nimeämisen peruuttamista koskevassa asiassa saa hakea muutosta valittamalla siten kuin hallintolainkäyttölaissa säädetään. Hallinto-oikeuden muuhun päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
 
-Arviointilaitoksen päätöstä laadunhallintajärjestelmän sertifioimatta jättämisestä ja Liikenteen turvallisuusviraston tämän lain nojalla tekemää päätöstä noudatetaan muutoksenhausta huolimatta, jollei muutoksenhakuviranomainen toisin määrää.
+Arviointilaitoksen päätöstä laadunhallintajärjestelmän sertifioimatta jättämisestä ja Liikenne- ja viestintäviraston tämän lain nojalla tekemää päätöstä noudatetaan muutoksenhausta huolimatta, jollei muutoksenhakuviranomainen toisin määrää.
