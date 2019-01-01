@@ -1,7 +1,7 @@
 # 21 § Valvontarekisterit
 Luku: 6 luku Tarkastukset ja valvonta
 
-Kasvintuotannon tarkastuskeskus pitää valvontaa varten rekisteriä 5 §:ssä tarkoitetuista ilmoitusvelvollisista toimittajista ja 7 §:ssä tarkoitetuista hyväksytyistä perusaineistoista, sellaisesta perusaineistosta, jonka hyväksyminen on peruutettu sekä 10 §:ssä tarkoitetuista kantatodistuksista.
+Ruokavirasto pitää valvontaa varten rekisteriä 5 §:ssä tarkoitetuista ilmoitusvelvollisista toimittajista ja 7 §:ssä tarkoitetuista hyväksytyistä perusaineistoista, sellaisesta perusaineistosta, jonka hyväksyminen on peruutettu sekä 10 §:ssä tarkoitetuista kantatodistuksista.
 
 Valvontarekistereihin on merkittävä vain tässä laissa säädettyjen tehtävien hoitamisen kannalta tarpeellisia tietoja sekä rekisterin käyttöön liittyviä hallinnollisia tietoja. Rekisterinpidon yhteydessä voidaan kerätä tietoja myös tilastollisiin tarkoituksiin.
 

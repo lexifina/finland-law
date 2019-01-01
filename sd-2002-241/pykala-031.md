@@ -12,6 +12,6 @@ on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta, 
 
 Siihen, joka rikkoo geenitekniikalla muunnetun aineiston käyttämiselle metsänviljelyaineiston tuottamiseen 8 §:n 1 momentissa säädettyjä vaatimuksia sovelletaan, mitä geenitekniikkalain 39―41 §:ssä säädetään.
 
-Kasvintuotannon tarkastuskeskus voi jättää tekemättä syyttäjälle ilmoituksen 1 momentissa tarkoitetusta rikkomuksesta, jos rikkomusta kokonaisuutena on pidettävä ilmeisen vähäisenä eikä yleisen edun ole katsottava vaativan syytteen nostamista. Tällöin tarkastuskeskus voi antaa rikkomukseen syyllistyneelle metsänviljelyaineiston toimittajalle kirjallisen huomautuksen, jossa häntä kehotetaan korjaamaan havaitut virheellisyydet.
+Ruokavirasto voi jättää tekemättä syyttäjälle ilmoituksen 1 momentissa tarkoitetusta rikkomuksesta, jos rikkomusta kokonaisuutena on pidettävä ilmeisen vähäisenä eikä yleisen edun ole katsottava vaativan syytteen nostamista. Tällöin Ruokavirasto voi antaa rikkomukseen syyllistyneelle metsänviljelyaineiston toimittajalle kirjallisen huomautuksen, jossa häntä kehotetaan korjaamaan havaitut virheellisyydet.
 
-Kasvintuotannon tarkastuskeskukselle on varattava tilaisuus tulla kuulluksi, kun esitutkinnassa ja käräjäoikeudessa käsitellään 1 momentissa tarkoitettua rikkomusta.
+Ruokavirastolle on varattava tilaisuus tulla kuulluksi, kun esitutkinnassa ja käräjäoikeudessa käsitellään 1 momentissa tarkoitettua rikkomusta.
