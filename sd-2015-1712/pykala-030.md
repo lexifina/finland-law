@@ -9,4 +9,4 @@ Jos ilmoitettu laitos katsoo, että tuote ei ole vaatimusten mukainen, sen tulee
 
 Jos ilmoitettu laitos katsoo todistuksen antamisen jälkeisen toiminnan yhteydessä, että tuote ei ole enää vaatimusten mukainen, sen tulee vaatia valmistajaa toteuttamaan korjaavat toimenpiteet ja tarvittaessa peruuttaa todistus väliaikaisesti tai toistaiseksi. Jos korjaavia toimenpiteitä ei toteuteta tai niillä ei ole vaadittua vaikutusta, ilmoitetun laitoksen tulee tarpeen mukaan rajoittaa todistusta tai peruuttaa se toistaiseksi.
 
-Liikenteen turvallisuusvirasto voi antaa tarkempia määräyksiä ilmoitetun laitoksen tehtävistä ja sen antamista asiakirjoista rakentamisen jälkeiseen arviointiin liittyen.
+Liikenne- ja viestintävirasto voi antaa tarkempia määräyksiä ilmoitetun laitoksen tehtävistä ja sen antamista asiakirjoista rakentamisen jälkeiseen arviointiin liittyen.

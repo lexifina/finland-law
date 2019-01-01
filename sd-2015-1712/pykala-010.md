@@ -7,4 +7,4 @@ Valmistajan on huolehdittava siitä, että tuotteelle suoritetaan soveltuva vaat
 
 Valmistajan on laadittava tekniset asiakirjat, jotka osoittavat tuotteen vaatimustenmukaisuuden, ja säilytettävä asiakirjat sekä jäljennös EU-vaatimuksenmukaisuusvakuutuksesta kymmenen vuoden ajan siitä, kun tuote on saatettu markkinoille. Valmistajan on huolehdittava siitä, että tuotteen mukana on 9 §:n mukainen omistajan käsikirja.
 
-Liikenteen turvallisuusvirasto voi antaa tarkempia määräyksiä 3 momentissa tarkoitetuista teknisistä asiakirjoista.
+Liikenne- ja viestintävirasto voi antaa tarkempia määräyksiä 3 momentissa tarkoitetuista teknisistä asiakirjoista.

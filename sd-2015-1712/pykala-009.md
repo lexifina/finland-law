@@ -13,4 +13,4 @@ Kunkin tuotteen mukana tulee olla omistajan käsikirja, ja sen tulee sisältää
 
 Tässä pykälässä tarkoitettujen asiakirjojen tulee olla saatavilla ainakin suomen- ja ruotsinkielisinä, ja kielen tulee olla ymmärrettävää.
 
-Liikenteen turvallisuusvirasto voi antaa tarkempia määräyksiä tämän pykälän mukaisista asiakirjoista.
+Liikenne- ja viestintävirasto voi antaa tarkempia määräyksiä tämän pykälän mukaisista asiakirjoista.
