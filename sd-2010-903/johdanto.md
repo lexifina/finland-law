@@ -1,0 +1,2 @@
+Laki jäsenvaltioiden itselleen pidättämien kantopalkkioiden jaosta perinteisiä omia varoja EU:n talousarviokäyttöön asetettaessa tehdyn keskitettyä tulliselvitystä koskevan yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
