@@ -16,4 +16,4 @@ Sen estämättä, mitä viranomaisten toiminnan julkisuudesta annetun lain 16 §
 12) kalatalousalan neuvonta- ja edunvalvontajärjestöille kalataloutta koskevaa tiedottamista ja neuvontaa varten;
 13) rekisterinpitäjän hyväksymille tahoille ympäristövaikutusten arviointimenettelyyn liittyviä tai kalataloutta koskevia selvitys-, tutkimus- ja suunnittelutarkoituksia varten.
 
-Ennen tietojen luovuttamista teknisen käyttöyhteyden avulla on tietoja pyytävän esitettävä selvitys tietojen suojauksesta henkilötietolain 32 §:ssä tarkoitetulla tavalla.
+Ennen tietojen luovuttamista teknisen käyttöyhteyden avulla on tietoja pyytävän esitettävä selvitys tietojen suojauksesta tietosuoja-asetuksen 25 artiklan 2 kohdassa tarkoitetulla tavalla.
