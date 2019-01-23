@@ -8,4 +8,4 @@ Metsävaratietoja päivitetään metsäkeskuksen hallintoasioiden hoitamisen yht
 
 Tietojärjestelmästä laadittavaan rekisteriselosteeseen on mahdollisuuksien mukaan liitettävä kuvaus erilaisilla metsänarviointimenetelmillä saatujen tietojen luotettavuudesta ja tarkkuudesta.
 
-Siltä osin kuin kyse on tietojärjestelmän muista henkilötiedoista kuin metsävaratiedoista, tietojen virheettömyyteen sovelletaan, mitä henkilötietolain 9 §:n 2 momentissa säädetään.
+Sen lisäksi, mitä edellä tässä pykälässä säädetään, metsävaratietojen virheettömyyteen sovelletaan, mitä tietosuoja-asetuksen 5 artiklan 1 kohdan d alakohdassa säädetään.
