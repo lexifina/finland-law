@@ -5,10 +5,12 @@ Sillä, jolle on aiheutunut vahinkoa kiinteistötietojärjestelmästä luovutetu
 Tiedon luovuttaja vastaa vahinkoa kärsineelle kiinteistötietojärjestelmästä luovutetussa:
 1) kiinteistörekisterilain mukaisessa tiedossa olevasta virheestä tai puutteesta aiheutuneesta vahingosta sen mukaan kuin kiinteistörekisterilain 11 §:ssä säädetään;
 2) lainhuuto- ja kiinnitysrekisterin mukaisessa tiedossa olevasta virheestä tai puutteesta aiheutuneesta vahingosta sen mukaan kuin maakaaren (540/1995) 7 luvun 4 §:ssä säädetään; sekä
-3) muun lain tai asetuksen mukaisessa tiedossa olevasta virheestä tai puutteesta aiheutuneesta vahingosta sen mukaan kuin vahingonkorvauslaissa (412/1974) säädetään, jollei jonkun tiedon osalta erikseen toisin säädetä.
+3) muun lain tai asetuksen mukaisessa tiedossa olevasta virheestä tai puutteesta aiheutuneesta vahingosta sen mukaan kuin vahingonkorvauslaissa (412/1974) säädetään, jollei jonkin tiedon osalta erikseen toisin säädetä.
 
 Tiedon luovuttajan on kuultava asianomaista tiedon tuottajaa ennen 2 momentissa tarkoitettua korvausta koskevan asian ratkaisemista.
 
-Jos kiinteistötietojärjestelmästä luovutetussa tiedossa oleva virhe tai puute on aiheutunut kiinteistötietojärjestelmään siirretyssä tiedossa olevasta virheestä tai puutteesta tai edellä 4 §:ssä tarkoitetun velvollisuuden laiminlyömisestä, asianomainen julkisyhteisö on velvollinen korvaamaan tiedon luovuttajalle tämän suorittaman vahingonkorvauksen.
+Jos kiinteistötietojärjestelmästä luovutetussa tiedossa oleva virhe tai puute on aiheutunut kiinteistötietojärjestelmään siirretyssä tiedossa olevasta virheestä tai puutteesta tai 4 §:ssä tarkoitetun velvollisuuden laiminlyömisestä, asianomainen julkisyhteisö on velvollinen korvaamaan tiedon luovuttajalle tämän suorittaman vahingonkorvauksen.
 
 Jos kiinteistötietojärjestelmään sisältyvän tiedon virheellisyys aiheutuu kiinteistötietojärjestelmän hallinnosta huolehtivan Maanmittauslaitoksen 5 §:n 1 momentissa tarkoitetusta toiminnasta, Maanmittauslaitos vastaa tiedon luovuttajalle virheestä aiheutuneesta vahingosta sen mukaan kuin tämän pykälän 2 momentissa säädetään.
+
+Luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/679 rikkomisesta aiheutuneen vahingon korvaamisesta säädetään kuitenkin mainitussa asetuksessa.

@@ -1,4 +1,4 @@
-# 6 § Tietojen luovuttaminen tietopalveluna
+# 6 § Tietojen luovuttaminen tietopalveluna ja käsittelyn rajoittaminen
 
 Maanmittauslaitoksen on järjestettävä jokaiselle mahdollisuus saada Maanmittauslaitoksessa maksutta luettavakseen kiinteistötietojärjestelmässä olevat tiedot ja tehdä niistä muistiinpanoja. Maksua vastaan tietoja luovutetaan otteina, todistuksina ja muina tulosteina sekä teknisen käyttöyhteyden avulla. Jollei erityisestä syystä muuta johdu, voidaan tiedoista antaa maksua vastaan kopio sähköisessä muodossa.
 
@@ -6,6 +6,6 @@ Otteita, todistuksia ja muita tulosteita sekä 1 momentissa tarkoitettuja kopioi
 
 Maanmittauslaitos saa teknisen käyttöyhteyden avulla luovuttaa 4 §:ssä tarkoitetun viranomaisen puolesta tietoja kiinteistötietojärjestelmästä oikeushallinnon viranomaiselle, aluehallintovirastolle, elinkeino-, liikenne- ja ympäristökeskukselle, kunnalle, Verohallinnolle, esitutkintaviranomaiselle, kiinteistönmuodostamistehtäviä hoitavalle viranomaiselle, väestökirjahallinnon viranomaiselle ja kaupanvahvistajalle. Lisäksi hakemuksen perusteella Maanmittauslaitos saa myöntää luvan tietojen saamiseen ja välittämiseen teknisen käyttöyhteyden avulla. Tietoja saadaan luovuttaa ja välittää sille, joka tarvitsee tietoja yhdyskuntasuunnittelua, kiinteistönvälitystä, kiinteistönarviointia, luoton myöntämistä ja valvontaa taikka muuta näihin verrattavaa kiinteistöihin liittyvää käyttötarkoitusta varten. Käyttölupaan voidaan ottaa tietojen hakuperustetta, muuta järjestelmän käyttöä ja sen valvontaa koskevia ehtoja. Lupaa ei kuitenkaan tarvita kiinteistötunnusta ja kiinteistöjaotusta koskevan tiedon saamiseen ja välittämiseen teknisen käyttöyhteyden avulla.
 
-Henkilötietojen siirrosta Euroopan unionin ulkopuolelle on voimassa, mitä henkilötietolain (523/1999) 5 luvussa säädetään.
+Henkilötietojen siirrosta kolmansiin maihin tai kansainvälisille järjestöille säädetään luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/679 V luvussa.
 
-Henkilötunnus voidaan luovuttaa ainoastaan silloin, jos pyytäjällä on tai voi olla se henkilötietolain tai muun lain nojalla hallussaan. Kiinteistötietojärjestelmästä annettavaan todistukseen, joka on tarpeen henkilön oikeuksien tai velvollisuuksien toteuttamiseksi, voidaan henkilön yksilöimiseksi merkitä henkilötunnus.
+Edellä 4 momentissa mainitun asetuksen 18 artiklan 1 kohtaa ei sovelleta kiinteistötietojärjestelmään.
