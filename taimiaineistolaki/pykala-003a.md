@@ -12,6 +12,6 @@ Rekisteriin merkitään seuraavat tiedot:
 
 Tiedot poistetaan rekisteristä kolmen vuoden kuluessa siitä, kun taimiaineiston toimittaja on ilmoittanut Ruokavirastolle toimintansa lopettamisesta.
 
-Henkilötietojen keräämiseen ja tallettamiseen sekä rekisteriin tallennettujen tietojen käyttämiseen ja luovuttamiseen sovelletaan muutoin, mitä henkilötietolaissa (523/1999) ja viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään.
+Henkilötietojen keräämisestä ja tallettamisesta sekä rekisteriin tallennettujen tietojen käyttämisestä ja luovuttamisesta säädetään lisäksi luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2016/679, tietosuojalaissa (1050/2018) ja viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999). Henkilötietojen käsittelyyn ei kuitenkaan sovelleta, mitä mainitun asetuksen 18 artiklan 1 kohdan a ja b alakohdassa säädetään.
 
 Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä rekisteröinnistä.
