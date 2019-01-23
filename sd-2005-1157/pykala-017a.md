@@ -1,0 +1,5 @@
+# 17 a § Henkilötietojen käsittely
+
+Tässä laissa tarkoitettujen tehtävien hoitamiseen liittyvien henkilötietojen käsittelyyn sovelletaan luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2016/679 ja tietosuojalakia (1050/2018), jollei muualla laissa toisin säädetä. Henkilötietojen käsittelyyn ei tällöin kuitenkaan sovelleta, mitä mainitun asetuksen 18 artiklan 1 kohdan a ja b alakohdassa säädetään.
+
+Rikosten ennalta estämiseen liittyvissä erävalvontatehtävissä sekä tämän lain 13 §:ssä tarkoitetun esitutkinnan toimittamisessa ja tämän lain 14 §:ssä tarkoitettujen seuraamusten määräämisessä henkilötietojen käsittelyyn sovelletaan, mitä henkilötietojen käsittelystä rikosasioissa ja kansallisen turvallisuuden ylläpitämisen yhteydessä annetussa laissa (1054/2018) säädetään. Henkilötietojen käsittelyyn sovelletaan lisäksi, mitä henkilötietojen käsittelystä poliisitoimen osalta säädetään.

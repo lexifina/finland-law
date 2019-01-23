@@ -11,5 +11,3 @@ Edellä 1 momentissa tarkoitettuun tapahtumailmoitukseen merkitään seuraavat t
 Tietoja saa käyttää vain 1 momentissa säädettyyn tarkoitukseen.
 
 Metsähallituksen on säilytettävä tapahtumailmoitukset kahden vuoden ajan niiden laatimispäivää seuraavan kalenterivuoden alusta lukien, minkä jälkeen ne on hävitettävä.
-
-Sen lisäksi, mitä muussa laissa säädetään, tapahtumailmoitukseen sisältyvien tietojen käsittelyyn sovelletaan henkilötietolain (523/1999) säännöksiä.
