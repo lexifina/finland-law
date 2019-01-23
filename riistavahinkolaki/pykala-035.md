@@ -3,7 +3,7 @@ Luku: 5 luku Korvauksen hakeminen ja maksaminen
 
 Korvausten ja avustusten myöntämisen, maksamisen, tarkastuksen ja takaisinperinnän sekä korvausjärjestelmän toimivuuden ja vaikutusten seurannan tietojärjestelmänä toimii Riistavahinkorekisteri.
 
-Rekisterin kehittämisestä vastaavat Maa- ja metsätalousministeriö ja Maaseutuvirasto. Rekisterin ylläpidosta vastaavat ja henkilötietolaissa (523/1999) tarkoitettuna rekisterinpitäjänä toimivat edellä mainittujen lisäksi kunnan maaseutuelinkeinoviranomaiset, metsäkeskukset ja Valtiokonttori yhdessä.
+Rekisterin kehittämisestä vastaavat maa- ja metsätalousministeriö ja Ruokavirasto. Rekisterin ylläpidosta vastaavat ja rekisterinpitäjinä toimivat edellä mainitut viranomaiset sekä kunnan maaseutuelinkeinoviranomaiset, metsäkeskukset ja Valtiokonttori yhdessä.
 
 Rekisteriin voidaan tallentaa seuraavat tiedot:
 1) hakijan nimi ja yhteystiedot sekä henkilötunnus tai yritys ja yhteisötunnus;
