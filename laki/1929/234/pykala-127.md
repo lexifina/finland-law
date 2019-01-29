@@ -2,15 +2,6 @@
 Osa: V OSA KANSAINVÄLISEN YKSITYISOIKEUDEN ALAAN KUULUVAT SÄÄNNÖKSET
 Luku: 4 luku Aviopuolisoiden oikeussuhteet
 
-Suomen tuomioistuin voi tutkia aviopuolisoiden varallisuussuhteita koskevan asian, jos:
-1) vastaajalla on Suomessa asuin- tai kotipaikka;
-2) kantajalla on Suomessa asuin- tai kotipaikka ja avioliiton varallisuussuhteisiin on sovellettava Suomen lakia;
-3) puolisoiden viimeinen yhteinen asuin- tai kotipaikka oli Suomessa ja toisella puolisoista on tai hänellä oli kuollessaan edelleen asuin- tai kotipaikka täällä;
-4) omaisuus, jota asia koskee, on Suomessa; tai
-5) vastaaja hyväksyy sen, että asia tutkitaan Suomessa taikka ryhtyy vastaamaan asiassa tekemättä väitettä toimivallan puuttumisesta.
+Suomen tuomioistuinten toimivallasta aviovarallisuussuhteita koskevissa asioissa säädetään tiiviimmän yhteistyön toteuttamisesta tuomioistuimen toimivallan, sovellettavan lain sekä päätösten tunnustamisen ja täytäntöönpanon alalla aviovarallisuussuhteita koskevissa asioissa annetussa neuvoston asetuksessa (EU) 2016/1103.
 
-Suomen tuomioistuin on aina toimivaltainen asiassa, joka koskee Suomen tuomioistuimen määräämän pesänjakajan toimenpiteitä.
-
-Suomen maistraatti voi rekisteröidä avioehtosopimuksen tai sopimuksen, jolla määrätään avioliiton varallisuussuhteisiin sovellettavasta laista, vaikka Suomen tuomioistuimella ei 1 momentin mukaan olisikaan kelpoisuutta tutkia aviopuolisoiden varallisuussuhteita koskevaa asiaa.
-
-Mitä 1 momentissa säädetään kantajasta ja vastaajasta, on hakemusasiassa sovellettava hakijaan ja hänen vastapuoleensa.
+Suomen maistraatti voi rekisteröidä avioehtosopimuksen tai sopimuksen, jolla määrätään aviovarallisuussuhteisiin sovellettavasta laista, vaikka Suomen tuomioistuimilla ei 1 momentin mukaan olisi kelpoisuutta tutkia puolisoiden aviovarallisuussuhteita koskevaa asiaa.
