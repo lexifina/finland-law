@@ -1,0 +1,2 @@
+Laki kansainvälisten parien varallisuussuhteita koskevien neuvoston asetusten soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
