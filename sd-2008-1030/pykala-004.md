@@ -1,9 +1,5 @@
 # 4 § Avustuksen myöntämisen edellytykset
 
-Avustusta voidaan myöntää, jos vuokrataloyhteisö tai asumisoikeustaloyhteisö:
-1) ei ole voinut kahtena edellisenä vuotena vuokrilla tai käyttövastikkeilla kattaa hyväksyttäviä vuotuisia pääoma- ja hoitomenoja; tai
-2) on muutoin ajautunut sellaisiin taloudellisiin vaikeuksiin, että valtiolle voi syntyä luottotappioriski tai riski valtion takausvastuun toteutumisesta.
+Avustusta voidaan myöntää, jos se on tarpeen vuokrataloyhteisön tai asumisoikeustaloyhteisön talouden tervehdyttämiseksi tai taloudellisten vaikeuksien ennalta ehkäisemiseksi. Avustusta voidaan myöntää myös, jos se on tarpeen valtion luottotappioriskin tai takausvastuun toteutumisesta aiheutuvan riskin vähentämiseksi. Avustuksen myöntämisen edellytyksenä on myös, että taloudelliset vaikeudet ovat aiheutuneet asuntojen tyhjänä olemisesta, alueen asuntomarkkinatilanteesta tai muusta omistajasta riippumattomasta hyväksyttävästä syystä tai niiden voidaan ennakoida aiheutuvan mainituista syistä.
 
-Avustusta voidaan myöntää 1 momentin 2 kohdan mukaan vain, jos sen arvioidaan rajoittavan valtion luottotappiosta tai takausvastuun toteutumisesta aiheutuvia kustannuksia verrattuna kustannuksiin, jotka valtiolle aiheutuisivat, ellei avustusta myönnetä.
-
-Arvioitaessa luottotappioriskiä tai riskiä valtion takausvastuun toteutumisesta otetaan huomioon lainansaajan varallisuusasema, lainan vakuuden arvo suhteessa valtion asuntolainan, aravalainan, korkotukilainan tai 3 §:n 3 momentissa tarkoitetun lainan jäljellä olevaan pääomaan ja vakuuden realisointimahdollisuudet.
+Avustuksen myöntämisen edellytyksenä on lisäksi, että Valtiokonttori on hyväksynyt yhteisölle tervehdyttämissuunnitelman siitä, miten yhteisön taloutta tervehdytetään tai miten estetään yhteisön ajautuminen taloudellisiin vaikeuksiin.
