@@ -1,0 +1,2 @@
+Laki valtiontakauksista maatilojen maksuvalmiuslainoille
+Eduskunnan päätöksen mukaisesti säädetään:
