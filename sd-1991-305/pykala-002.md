@@ -1,7 +1,7 @@
 # 2§
 
 Valtiokonttorin tehtävänä on, jollei toimivallasta muualla toisin säädetä:
-1) järjestää rahoitus-, sijoitus-, velanhoito- ja lainanhoitopalveluja sekä henkilöstöpalveluja valtion virastoille ja laitoksille;
+1) järjestää rahoitus-, sijoitus-, velanhoito- ja lainanhoitopalveluja sekä työelämäpalveluja valtion virastoille ja laitoksille;
 2) hoitaa valtion keskuskirjanpitoa;
 3) huolehtia valtion vahingonkorvausasioista.
 
