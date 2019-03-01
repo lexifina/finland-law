@@ -1,0 +1,2 @@
+Laki diplomaattisten edustustojen tai konsuliedustustojen diplomaattisen henkilökunnan, konsuliedustuston henkilökunnan tai hallinnollisen tai teknillisen henkilökunnan perheenjäsenten ansiotyöstä Perun kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
