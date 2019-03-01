@@ -17,4 +17,6 @@ Ulkomaalaisrekisteristä annetussa laissa (1270/1997) tarkoitetun rekisterinpit�
 
 Kansaneläkelaitoksen on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot myöntämistään eläkkeistä ja etuuksista. Tiedot on annettava hakemusten vireilläolosta, päätöksistä ja maksatuksesta. Lisäksi Kansaneläkelaitoksen on toimitettava hallussaan olevat tiedot myönnetyn työeläkkeen määrästä ja eläkkeen alkamisajasta.
 
+Huoneistotietojärjestelmästä annetussa laissa (1328/2018) tarkoitetun rekisteriviranomaisen on toimitettava Verohallinnolle verotusta varten tarpeelliset huoneistotietojärjestelmään sisältyvät tiedot.
+
 Verohallinto voi antaa tarkempia määräyksiä annettavista tiedoista, tietojen antamisen ajankohdasta ja tavasta tai rajoittaa tiedonantovelvollisuutta.
