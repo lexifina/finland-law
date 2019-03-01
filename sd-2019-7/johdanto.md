@@ -1,0 +1,2 @@
+Laki diplomaattisten edustustojen, konsuliedustustojen tai kansainvälisessä hallitusten välisessä järjestössä toimivien edustustojen jäsenten perheenjäsenten ansiotyöstä Kolumbian kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
