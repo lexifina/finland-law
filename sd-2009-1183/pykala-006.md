@@ -4,7 +4,7 @@ Säästövarat on sijoitettava, siltä osin kuin niitä ei ole sovittu jätettä
 1) talletuspankin tai siihen rinnastettavan ulkomaisen luottolaitoksen tarjoama tili;
 2) arvopaperimarkkinalain (746/2012) 2 luvun 1 §:ssä tarkoitettu arvopaperi, joka on kaupankäynnistä rahoitusvälineillä annetussa laissa (1070/2017) tarkoitetulla säännellyllä markkinalla tai sanotussa laissa tarkoitetussa monenkeskisessä kaupankäyntijärjestelmässä kaupankäynnin kohteena tai Euroopan talousalueen ulkopuolella niihin rinnastettavan kaupankäynnin kohteena ja jonka liikkeeseenlaskija on velvollinen noudattamaan arvopaperimarkkinalain 3–10 luvun tai kaupankäynnistä rahoitusvälineillä annetun lain 5 luvun 2 §:n mukaista taikka niihin rinnastettavaa tiedonantovelvollisuutta;
 3) arvopaperimarkkinalain 4 luvun 2 §:n 1 momentissa tarkoitettu julkisyhteisön liikkeeseen laskema tai takaama arvopaperi;
-4) sijoitusrahastolaissa tarkoitettu rahasto-osuus sekä mainitun lain 128 §:ssä tarkoitetun yhteissijoitusyrityksen osuus;
+4) sijoitusrahastolaissa tarkoitettu rahasto-osuus sekä mainitun lain 23 luvun 1 §:ssä tarkoitetun yhteissijoitusyrityksen osuus;
 5) vaihtoehtorahastojen hoitajista annetussa laissa tarkoitetun vaihtoehtorahaston osuus, jos vaihtoehtorahaston sääntöjen mukaan sen osuuksia voidaan tarjota ei-ammattimaisille asiakkaille.
 
 Edellä 1 momentin 1 kohdassa tarkoitettuun tiliin sovelletaan, mitä tämän lain 5 §:n 2 momentin 2 kohdassa säädetään.
