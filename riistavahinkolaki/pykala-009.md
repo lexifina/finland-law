@@ -3,7 +3,7 @@ Luku: 3 luku Korvauksen myöntämisen perusteet
 
 Korvauksen enimmäismäärä ei saa ylittää vahingoittuneen omaisuuden käypää arvoa.
 
-Mikäli korvauksia ei voida suorittaa talousarvion puitteissa täysimääräisesti, vähennetään jokaiselta korvaukseen oikeutetulta korvauksen määrää samassa suhteessa. Vähennystä ei kuitenkaan tehdä henkilövahingon perusteella maksettavista korvauksista.
+Jos korvauksia ei voida suorittaa talousarvion puitteissa täysimääräisesti, vähennetään jokaiselta korvaukseen oikeutetulta korvauksen määrää samassa suhteessa. Vähennystä ei kuitenkaan tehdä henkilövahingon eikä suurpedon aiheuttaman viljelys-, eläin- tai irtaimistovahingon perusteella maksettavista korvauksista.
 
 Riistaeläimen aiheuttama vahinko korvataan, jos korvauksen hakijalle aiheutuneiden tässä laissa tarkoitettujen vahinkojen yhteenlaskettu määrä kalenterivuotta kohti on enemmän kuin 170 euroa. Rajoitus ei kuitenkaan koske suurpetojen aiheuttamia henkilövahinkoja.
 
