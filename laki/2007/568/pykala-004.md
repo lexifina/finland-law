@@ -2,4 +2,4 @@
 Osa: I OSA YLEISET SÄÄNNÖKSET
 Luku: 1 luku Lain tarkoitus, soveltamisala ja määritelmät
 
-Henkilö on Suomessa asuva, jos hän asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain (1573/1993) mukaan asuu Suomessa. Jos muuhun kuin Suomessa asuvaan henkilöön sovelletaan edellä mainitun lain mukaan sosiaaliturvalainsäädäntöä, myös hän on tässä laissa tarkoitettu Suomessa asuva henkilö.
+Henkilöä pidetään Suomessa asuvana, jos hän asumisperusteisesta sosiaaliturvasta rajat ylittävissä tilanteissa annetun lain (16/2019) 4–10 §:n mukaisesti tekee työtä tai asuu Suomessa tai häntä mainitun lain 11–13 §:n nojalla pidetään Suomessa asuvan henkilön asemassa.
