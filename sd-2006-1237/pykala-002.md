@@ -2,8 +2,8 @@
 Luku: 1 luku Yleiset säännökset
 
 Tässä laissa tarkoitetaan:
-1) parilla naista ja miestä, jotka elävät keskenään avioliitossa tai avioliitonomaisissa olosuhteissa;
-2) hoitoa saavalla paria tai naista, joka ei elä avioliitossa tai avioliitonomaisissa olosuhteissa miehen kanssa;
+1) parilla naista ja miestä, jotka elävät keskenään avioliitossa tai avioliitonomaisissa olosuhteissa taikka kahta naista, jotka elävät keskenään avioliitossa, rekisteröidyssä parisuhteessa tai avioliitonomaisissa olosuhteissa;
+2) hoitoa saavalla paria tai sellaista naista, joka ei elä avioliitossa, rekisteröidyssä parisuhteessa tai avioliitonomaisissa olosuhteissa;
 3) sukusolujen luovuttamisella omien siittiöiden tai munasolujen antamista käytettäviksi toiselle annettavassa hedelmöityshoidossa;
 4) luovuttajalla henkilöä, joka luovuttaa sukusolujaan;
 5) palvelujen antajalla sellaista terveydenhuollon toimintayksikköä ja lääkäriä, jolla on 24 §:ssä tarkoitettu lupa;
