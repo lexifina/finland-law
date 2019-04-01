@@ -1,0 +1,3 @@
+# 7 § Jakeluvelvoitteen ylittäminen
+
+Jos jakelija on kalenterivuonna toimittanut kulutukseen enemmän biopolttoöljyä kuin 5 §:n 1 momentissa säädetään, jakelija saa ottaa ylimenevän osuuden huomioon seuraavan kalenterivuoden jakeluvelvoitetta laskettaessa ja jakeluvelvoitelain mukaista samaa kalenterivuotta koskevaa jakeluvelvoitetta laskettaessa. Siirtyvä määrä voi kuitenkin olla enintään 30 prosenttia sen kalenterivuoden jakeluvelvoitetta vastaavasta energiamäärästä, jolloin ylitys tapahtui, ja siirtyvällä määrällä voidaan täyttää enintään 30 prosenttia jakeluvelvoitelain mukaisesta jakeluvelvoitteesta.
