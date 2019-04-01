@@ -1,7 +1,7 @@
 # 12 § Merkinnät ja todistus hedelmöityshoidosta
 Luku: 2 luku Hedelmöityshoidon antaminen
 
-Hedelmöityshoidossa käytetystä menetelmästä, mahdollisesti asetettujen ehtojen noudattamisesta ja menetelmän käytön ajankohdasta sekä todetusta raskaudesta on tehtävä merkintä hoitosuostumuksen arkistokappaleeseen. Palvelujen antajan on pyynnöstä annettava nämä tiedot hedelmöityshoitoa saaneelle.
+Hedelmöityshoidossa käytetystä menetelmästä, mahdollisesti asetettujen ehtojen noudattamisesta ja menetelmän käytön ajankohdasta sekä todetusta raskaudesta on tehtävä merkintä hoitosuostumuksen arkistokappaleeseen. Palvelujen antajan on annettava nämä tiedot hedelmöityshoitoa saaneelle.
 
 Hoitosuostumukseen on merkittävä myös 14 §:ssä tarkoitettu luovuttajan tunnus, jos hedelmöityshoidossa on käytetty luovutettuja sukusoluja tai alkioita.
 
