@@ -2,7 +2,10 @@
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 2 a luku Työvoimapoliittisesti moitittava menettely
 
-Työnhakijalla, joka ilman pätevää syytä on eronnut työstään tai joka on itse aiheuttanut työsuhteen päättymisen, ei ole oikeutta työttömyysetuuteen 90 päivän ajalta työsuhteen päättymisen jälkeen. Jos työ olisi kestänyt enintään viisi päivää, oikeutta työttömyysetuuteen ei ole 30 päivän ajalta.
+Työnhakijalla ei ole oikeutta työttömyysetuuteen:
+1) 90 päivän ajalta työsuhteen päättymisen jälkeen, jos hän on ilman pätevää syytä eronnut työstään;
+2) 60 päivän ajalta työsuhteen päättymisen jälkeen, jos hän on itse aiheuttanut työsuhteen päättymisen;
+3) 30 päivän ajalta työsuhteen päättymisen jälkeen, jos työ olisi kestänyt enintään viisi päivää.
 
 Edellä 1 momentissa säädettyä sovelletaan myös, kun henkilön työnteko ja palkanmaksu ovat keskeytyneet kokonaan eduskunnan virkamiehistä annetun lain 43 §:ssä, kirkkolain 6 luvun 63 §:ssä, kunnallisesta viranhaltijasta annetun lain 47 §:ssä, puolustusvoimista annetun lain 48 §:ssä, Suomen Pankin virkamiehistä annetun lain 31 §:ssä, tasavallan presidentin kansliasta annetun lain 42 §:ssä tai valtion virkamieslain 40 §:ssä tarkoitetusta syystä.
 

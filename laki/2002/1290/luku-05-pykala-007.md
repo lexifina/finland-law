@@ -12,6 +12,6 @@ Tarkastelujaksoa pidennetään ajalla, jonka henkilö on estynyt olemasta työma
 5) apurahakausi;
 6) muu näihin verrattava hyväksyttävä syy.
 
-Jos henkilö on työskennellyt osasairauspäivärahaa saadessaan tai on ollut työllistymistä edistävässä palvelussa, tarkastelujaksoa pidennetään vastaavasti.
+Jos henkilö on työskennellyt osasairauspäivärahaa saadessaan tai on ollut työllistymistä edistävässä palvelussa, tarkastelujaksoa pidennetään vastaavasti. Lisäksi tarkastelujaksoa pidennetään ajalla, jona henkilö on hoitanut kansanedustajan tai ministerin tehtävää.
 
 Tarkastelujaksoa pidennetään enintään seitsemän vuotta.
