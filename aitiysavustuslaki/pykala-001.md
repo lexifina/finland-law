@@ -2,4 +2,4 @@
 
 Äidin ja lapsen terveyden ja hyvinvoinnin edistämiseksi suoritetaan naiselle tämän lain mukaisesti valtion varoista äitiysavustus.
 
-Tämän lain soveltaminen henkilöön ratkaistaan asumiseen perustuvan sosiaaliturvalainsäädännön soveltamisesta annetun lain (1573/1993) mukaan.
+Tätä lakia sovelletaan henkilöön, joka asumisperusteisesta sosiaaliturvasta rajat ylittävissä tilanteissa annetun lain (16/2019) 4–10 §:n mukaisesti tekee työtä tai asuu Suomessa tai häntä mainitun lain 11–13 §:n nojalla pidetään Suomessa asuvan henkilön asemassa.
