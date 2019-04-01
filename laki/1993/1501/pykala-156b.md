@@ -7,7 +7,6 @@ Palautushakemuksen on koskettava ajanjaksoa, joka on vähintään kolmen peräkk
 Hankintaan sisältyvä vero kohdistetaan sille hakemusjaksolle, jonka aikana:
 1) velvollisuus suorittaa vero kyseisestä myynnistä on 15 §:n 1 momentin 1 tai 2 kohdan nojalla syntynyt taikka tavarasta tai palvelusta on laskutettu, sen mukaan, kumpi tapahtuu viimeksi; tai
 2) maahan tuotua tavaraa koskeva tullauspäätös on annettu.
-2) maahan tuotu tavara on tullattu.
 
 Hakemus voi koskea myös sellaisten tavaroiden ja palvelujen laskutettua ostoa ja sellaisten tavaroiden maahantuontia, jotka on toimitettu, suoritettu tai tullattu saman kalenterivuoden aikana, jos ostoa tai tuontia ei ole sisällytetty aikaisempiin hakemuksiin.
 

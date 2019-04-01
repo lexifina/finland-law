@@ -12,7 +12,8 @@ Seuraavien palvelujen myynnistä sekä seuraavien tavaroiden myynnistä, yhteis�
 7) kirja;
 8) sanoma- ja aikakauslehdet vähintään kuukauden ajaksi tilattuina;
 9) 79 c §:ssä tarkoitettu taide-esine, muun kuin maahantuonnin osalta kuitenkin vain silloin, kun myyjänä on tekijä tai hänen oikeudenomistajansa taikka satunnaisesti muu elinkeinonharjoittaja kuin 79 a §:n 3 momentissa tarkoitettu verovelvollinen jälleenmyyjä;
-10) tekijänoikeuden haltijoita edustavan järjestön saama 45 §:n 1 momentin 3–5 kohdassa tarkoitettu tekijänoikeuteen liittyvä korvaus.
+10) tekijänoikeuden haltijoita edustavan järjestön saama 45 §:n 1 momentin 3–5 kohdassa tarkoitettu tekijänoikeuteen liittyvä korvaus;
+11) esiintyvän taiteilijan tai muun julkisen esiintyjän ja urheilijan esityksen myynnistä saatava 45 §:n 1 momentin 1 ja 2 kohdassa tarkoitettu palkkio tai korvaus, kun liiketoiminnan harjoittaja on hakeutunut tästä toiminnasta verovelvolliseksi.
 
 Edellä 1 momentin 4 kohdassa tarkoitettuina pääsymaksuina pidetään myös huvipuistojen ajolaitteiden ja muiden vastaavien laitteiden käytöstä perittäviä pääsymaksunluonteisia maksuja.
 
