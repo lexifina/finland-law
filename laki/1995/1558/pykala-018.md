@@ -7,7 +7,7 @@ Kaupparekisterilaissa (129/1979) tarkoitetun rekisteriviranomaisen tai paikallis
 
 Maaseutuelinkeinohallinnon tietojärjestelmästä annetussa laissa (284/2008) tarkoitetun rekisteriviranomaisen on toimitettava Verohallinnolle verotusta varten tarpeelliset maaseutuelinkeinorekisteriin sisältyvät tiedot.
 
-Liikenteen palveluista annetun lain (320/2017) V osan 1 luvun 1 §:ssä tarkoitetun rekisterinpitäjän on toimitettava Verohallinnolle verotusta varten tarpeelliset tieliikenteeseen liittyvät liikenneasioiden rekisteriin tallennetut tiedot.
+Liikenteen palveluista annetun lain (320/2017) 216 §:ssä tarkoitetun rekisterinpitäjän on toimitettava Verohallinnolle verotusta varten tarpeelliset tieliikenteeseen liittyvät liikenneasioiden rekisteriin tallennetut tiedot.
 
 Valtion ja kunnan viranomaisen on toimitettava Verohallinnolle verotusta varten tarpeelliset, hallussaan olevat tiedot kiinteistöistä, niillä olevista rakennuksista, maapohjan ja rakennusten ominaisuuksista, kaavoituksesta ja omistajista.
 
