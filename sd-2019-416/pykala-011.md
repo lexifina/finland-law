@@ -1,0 +1,5 @@
+# 11 § Viranomaisen tarkastusoikeus
+
+Energiavirastolla on oikeus päästä toiminnanharjoittajan hallinnassa oleviin tiloihin ja alueille, jos se on tässä laissa tarkoitetun valvonnan kannalta tarpeen, sekä tehdä siellä tarkastuksia ja ryhtyä muihin valvonnan edellyttämiin toimenpiteisiin. Tarkastuksessa on noudatettava, mitä hallintolain (434/2003) 39 §:ssä säädetään. Tarkastuksessa voi olla läsnä myös muun viranomaisen edustajia. Pysyväisluonteiseen asumiseen käytettyihin tiloihin tarkastuksia tai muita valvontatoimenpiteitä ei kuitenkaan saa ulottaa.
+
+Toiminnanharjoittajan tulee avustaa Energiavirastoa tarkastuksen suorittamisessa. Toiminnanharjoittajan on vaadittaessa esitettävä tarkastusta toimittavalle virkamiehelle ne asiakirjat ja tietojärjestelmässään olevat tallenteensa sekä järjestettävä pääsy laitteisiin ja laitteistoihin, joilla voi olla merkitystä tämän lain säännösten noudattamisen valvonnan kannalta. Tarkastusta toimittavalla virkamiehellä on oikeus ottaa maksutta jäljennöksiä tarkastettavista asiakirjoista ja tulosteita tietojärjestelmissä olevista tallenteista.
