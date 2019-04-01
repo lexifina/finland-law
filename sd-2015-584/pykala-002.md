@@ -9,4 +9,6 @@ Tätä lakia ei sovelleta:
 4) alukseen, jota käytetään sellaisessa vapaaehtoisessa meripelastustoiminnassa, joka ei ole kaupallista toimintaa;
 5) lossiin;
 6) vuokraveneeseen;
-7) huvialukseen ja -veneeseen.
+7) huvialukseen ja -veneeseen;
+8) proomuun;
+9) ruoppaajaan, jolla ei ole omaa kuljetuskoneistoa.
