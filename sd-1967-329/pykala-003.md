@@ -1,0 +1,3 @@
+# 3 §
+
+Työkyvyttömyyseläkkeen saamisen edellytyksenä on, että kansanedustaja edustajantoimen kestäessä on käynyt sairauden, vian tai vamman johdosta kykenemättömäksi sanottuun toimeen todennäköisesti vähintään vuoden ajaksi, työkyvyttömyyden alkamisesta kulunut aika mukaan luettuna, taikka että edustaja edustajantoimen päätyttyä on käynyt yhtä pitkäksi ajaksi kykenemättömäksi virkaan tai työhön, jota ikä, ammattitaito ja muut seikat huomioon ottaen on pidettävä hänelle sopivana ja kohtuullisen toimeentulon turvaavana, tai saanut virka- tai työsuhteeseen perustuvan, työntekijän eläkelain (395/2006) 3 §:ssä mainitun työeläkelain mukaisen työkyvyttömyyseläkkeen.
