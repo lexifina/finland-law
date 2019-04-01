@@ -1,0 +1,2 @@
+Laki hankintayksiköiden ja elinkeinonharjoittajien sähköisestä laskutuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
