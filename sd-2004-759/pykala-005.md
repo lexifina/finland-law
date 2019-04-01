@@ -7,4 +7,4 @@ Terveydentilaa koskevia tietoja saavat käsitellä vain ne henkilöt, jotka näi
 
 Työntekijän työnantajalle luovuttama työkykyään koskeva lääkärintodistus tai -lausunto saadaan kuitenkin luovuttaa työterveyshuollon palvelujen tuottajalle työterveyshuoltolaissa (1383/2001) säädettyjen työterveyshuollon tehtävien toteuttamista varten, jollei työntekijä ole kieltänyt luovuttamista.
 
-Työnantajan on säilytettävä hallussaan olevat työntekijän terveydentilaa koskevat tiedot erillään muista työnantajan keräämistä henkilötiedoista.
+Työnantajan on säilytettävä hallussaan olevat työntekijän terveydentilaa koskevat tiedot erillään muista keräämistään henkilötiedoista. Terveydentilaa koskevat tiedot on poistettava välittömästi sen jälkeen, kun käsittelylle ei ole 1 momentissa tarkoitettua perustetta. Käsittelyn perustetta ja tarvetta on arvioitava vähintään viiden vuoden välein.
