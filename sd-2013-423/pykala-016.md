@@ -11,4 +11,4 @@ Luottolaitoksen liiketoiminnan luovutukseen sovelletaan osuuskuntalain 21 luvun 
 
 Luovuttavan luottolaitoksen varat, velat, varaukset ja sitoumukset siirtyvät luovutussuunnitelmassa määrätyllä tavalla vastaanottavalle yritykselle, kun luovutus on rekisteröity.
 
-Luovuttavan luottolaitoksen jäsenellä, joka ei ole yhtynyt liiketoiminnan luovutusta koskevaan päätökseen, on oikeus kaikkien varojen ja velkojen luovutuksessa erota luottolaitoksesta niin kuin osuuskuntalain 20 luvun 13 §:ssä säädetään. Tässä momentissa tarkoitetulle jäsenelle syntyy oikeus osuuden palautukseen, kun liiketoiminnan luovutuksen täytäntöönpano on rekisteröity.
+Luovuttavan luottolaitoksen jäsenellä, joka ei ole yhtynyt liiketoiminnan luovutusta koskevaan päätökseen, on oikeus kaikkien varojen ja velkojen luovutuksessa erota luottolaitoksesta niin kuin osuuskuntalain 20 luvun 13 §:ssä säädetään. Tässä momentissa tarkoitetulle jäsenelle syntyy oikeus osuuden palautukseen, kun liiketoiminnan luovutuksen täytäntöönpano on rekisteröity. Luottolaitoksen oikeuteen rajoittaa osuuden palautusta sovelletaan tämän lain 4 §:n 3 momenttia.
