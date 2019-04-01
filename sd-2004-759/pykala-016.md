@@ -6,4 +6,4 @@ Työnantaja saa toteuttaa jatkuvasti kuvaa välittävän tai kuvaa tallentavan t
 Työnantaja voi kuitenkin 1 momentin estämättä kohdentaa kameravalvonnan tiettyyn työpisteeseen, jossa työntekijöitä työskentelee, jos tarkkailu on välttämätöntä:
 1) työntekijän työhön liittyvän ilmeisen väkivallan uhkan tai hänen turvallisuudelleen tai terveydelleen ilmeisen haitan tai vaaran ehkäisemiseksi;
 2) omaisuuteen kohdistuvien rikosten estämiseksi ja selvittämiseksi, jos työntekijän tehtävän olennaisena osana on käsitellä arvoltaan tai laadultaan merkittävää omaisuutta, kuten rahaa, arvopapereita tai arvoesineitä; tai
-3) työntekijän etujen ja oikeuksien varmistamiseksi, jos kameravalvonta perustuu tarkkailun kohteeksi tulevan työntekijän pyyntöön ja asiasta on sovittu työnantajan ja työntekijän välillä.
+3) työntekijän etujen ja oikeuksien varmistamiseksi ja kameravalvonta perustuu tarkkailun kohteeksi tulevan työntekijän pyyntöön.
