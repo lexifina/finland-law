@@ -1,0 +1,2 @@
+Laki asumisperusteisesta sosiaaliturvasta rajat ylittävissä tilanteissa
+Eduskunnan päätöksen mukaisesti säädetään:
