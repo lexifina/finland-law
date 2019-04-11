@@ -1,0 +1,4 @@
+# 25 § Rahdinkuljettajan velvollisuus pitää huolta tavarasta
+Luku: 3 luku Sopimuspuolten oikeudet ja velvollisuudet
+
+Jos kuljetuksen aikana ilmenee, että kuljetuksen suorittaminen on mahdotonta, tai jos tavaran luovuttamiselle määräpaikassa on este, rahdinkuljettaja voi purkaa tavaran siihen oikeutetun lukuun. Kuljetuksen on katsottava päättyneen tavaran purkamisen jälkeen, mutta rahdinkuljettajan on säilytettävä tavara siihen oikeutetun lukuun. Hän voi kuitenkin uskoa tavaran kolmannen henkilön huostaan ja vastaa silloin vain siitä, että tämä valitaan asianmukaisella huolella. Tavara voidaan edelleen pidättää vakuutena niistä rahamääristä, jotka kansainvälisessä kuljetuksessa rahtikirjan mukaan ja kotimaisessa kuljetuksessa kuljetussopimuksen mukaan on suoritettava, sekä muistakin siitä kuljetustehtävästä syntyneistä saatavista.
