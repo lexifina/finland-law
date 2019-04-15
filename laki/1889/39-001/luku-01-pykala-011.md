@@ -9,7 +9,7 @@ Vaikka teosta ei säädetä rangaistusta tekopaikan laissa, siihen sovelletaan S
 3) 16 luvun 1–3 §:ssä ja vaikka rikoksen kohteena on 40 luvun 11 §:n 2, 3 tai 5 kohdassa tarkoitettu henkilö taikka ulkomainen virkamies, joka toimii Kansainvälisen rikostuomioistuimen palveluksessa;
 4) 16 luvun 13, 14, 14 a tai 14 b §:ssä ja vaikka lainkohtia sovelletaan mainitun luvun 20 §:n nojalla;
 5) 17 luvun 18, 18 a tai 19 §:ssä;
-6) 20 luvun 1, 2, 4, 5, 6, 7 tai 8 a–8 c §:ssä;
+6) 20 luvun 1, 2, 4, 5, 6, 7, 7 b tai 8 a–8 c §:ssä;
 7) 20 luvun 9 tai 9 a §:ssä, jos teko kohdistuu kahdeksaatoista vuotta nuorempaan henkilöön;
 8) 21 luvun 5 tai 6 §:ssä, 22 luvun 1 tai 2 §:ssä taikka 25 luvun 8 §:ssä, jos teko on naisiin kohdistuvan väkivallan ja perheväkivallan ehkäisemisestä ja torjumisesta tehdyn Euroopan neuvoston yleissopimuksen (SopS 53/2015) 37 artiklassa tarkoitettu avioliittoon pakottaminen, 38 artiklassa tarkoitettu naisen sukuelinten silpominen tai 39 artiklassa tarkoitettu pakotettu raskauden keskeyttäminen tai pakkosterilointi;
 9) 29 luvun 1, 2, 5–7 tai 7 a §:ssä, 32 luvun 6 tai 7 §:ssä taikka 36 luvun 1 tai 2 §:ssä, jos teko on unionin taloudellisiin etuihin kohdistuvien petosten torjunnasta rikosoikeudellisin keinoin annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2017/1371 3 artiklan 2 kohdassa tarkoitettu unionin taloudellisiin etuihin vaikuttava petos tai 4 artiklan 1–3 kohdassa tarkoitettu muu unionin taloudellisiin etuihin liittyvä rikos;
