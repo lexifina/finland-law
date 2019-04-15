@@ -9,3 +9,5 @@ Kun henkilöä on syytä epäillä rikoksesta, hänet saadaan vangita, vaikka ep
 Rikoksesta todennäköisin syin epäilty, jonka luovuttamista Suomeen tullaan pyytämään, saadaan vangita, jos rikoksesta säädetty ankarin rangaistus on vähintään vuosi vankeutta ja jos epäillyn henkilökohtaisten olosuhteiden, luovuttamispyyntöön sisällytettävien rikosten määrän tai laadun taikka muiden vastaavien seikkojen perusteella on syytä epäillä, ettei hän saavu vapaaehtoisesti Suomeen syytetoimenpiteitä varten.
 
 Alle 15-vuotiaana tehdystä rikollisesta teosta epäiltyä ei saa vangita.
+
+Alle 18-vuotiasta epäiltyä ei saa vangita tai määrätä pidettäväksi edelleen vangittuna, elleivät painavat syyt sitä vaadi.

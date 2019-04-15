@@ -10,4 +10,6 @@ b) jatkaa rikollista toimintaa;
 a) tuomitulla ei ole vakinaista asuntoa Suomessa ja on todennäköistä, että hän poistumalla maasta karttaa rangaistuksen täytäntöönpanoa; tai
 b) hänet on tuomittu yhdellä tai useammalla päätöksellä vankeusrangaistukseen useista lyhyin väliajoin suoritetuista rikoksista ja vangitseminen on tarpeen vakavuusasteeltaan samanlaisen rikollisen toiminnan jatkamisen estämiseksi.
 
+Alle 18-vuotiasta tuomittua ei saa vangita tai määrätä pidettäväksi edelleen vangittuna, elleivät painavat syyt sitä vaadi.
+
 Päätös tuomitun vangitsemisesta on voimassa, kunnes rangaistuksen täytäntöönpano alkaa tai muutoksenhakutuomioistuin toisin päättää.
