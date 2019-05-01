@@ -5,7 +5,8 @@ Patentti- ja rekisterihallituksen päätökseen haetaan muutosta valittamalla ma
 2) päätöksellä on ratkaistu hakemus mallin rekisteröimisestä tai muu mallia koskeva asia;
 3) päätöksellä on ratkaistu hakemus integroidun piirin piirimallin rekisteröimisestä tai muu piirimallia koskeva asia;
 4) päätöksellä on ratkaistu hakemus hyödyllisyysmallin rekisteröimisestä tai muu hyödyllisyysmallia koskeva asia;
-5) päätöksellä on ratkaistu hakemus tavaramerkin tai yhteismerkin rekisteröimisestä taikka muu tavaramerkkiä tai yhteismerkkiä koskeva asia;
-6) päätöksellä on evätty kaupparekisteriin tehdyn ilmoituksen rekisteröiminen.
+5) päätöksellä on ratkaistu tavaramerkkiä, yhteisömerkkiä, tarkastusmerkkiä tai kansainvälistä rekisteröintiä koskeva asia;
+6) päätöksellä on evätty kaupparekisteriin tehdyn ilmoituksen rekisteröiminen;
+7) päätöksellä on ratkaistu hakemus toiminimen rekisteröinnin kumoamisesta.
 
 Valitettaessa 1 momentissa tarkoitetusta päätöksestä valitus on tehtävä 60 päivän kuluessa päätöksen tiedoksisaannista.
