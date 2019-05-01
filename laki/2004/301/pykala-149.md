@@ -1,7 +1,7 @@
 # 149 § Maasta karkottamisen perusteet
 Luku: 9 luku Maasta poistaminen
 
-Maasta voidaan karkottaa oleskeluluvalla oleskellut ulkomaalainen:
+Maasta voidaan karkottaa oleskeluluvalla oleskellut tai Suomen kansalaisuuden menettänyt ulkomaalainen:
 1) joka oleskelee Suomessa ilman vaadittavaa oleskelulupaa;
 2) jonka on todettu syyllistyneen rikokseen, josta on säädetty enimmäisrangaistuksena vähintään yksi vuosi vankeutta taikka jonka on todettu syyllistyneen toistuvasti rikoksiin;
 3) joka on käyttäytymisellään osoittanut olevansa vaaraksi muiden turvallisuudelle; taikka

@@ -10,3 +10,5 @@ Jos ulkomaalaisen oleskelulupa on myönnetty 77 §:n 1 momentin 9–11 kohdan no
 Jos ulkomaalaisen työnteko-oikeus perustuu viisumiin tai viisumivapauteen, oikeus kestää enintään 79 §:ssä säädetyn ajan. Oleskeluluvan hakeminen viisumin tai viisumivapauden voimassa ollessa ei pidennä työnteko-oikeuden kestoa. Työnteko-oikeus päättyy sen estämättä, mitä 79 §:ssä säädetään, kun henkilön käännyttämistä koskeva päätös on täytäntöönpanokelpoinen.
 
 Jos työnteko-oikeus perustuu oleskelulupaan ja henkilö karkotetaan, työnteko-oikeus päättyy, kun karkottamista koskeva päätös on täytäntöönpanokelpoinen.
+
+Jos työnteko-oikeus perustuu kansainvälisen suojelun hakemiseen, työnteko-oikeus päättyy, kun ulkomaalaisen maasta poistamista koskeva päätös on täytäntöönpanokelpoinen tai hänen kansainvälistä suojelua koskeva hakemuksensa on rauennut.

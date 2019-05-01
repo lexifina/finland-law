@@ -10,3 +10,5 @@ Unionin kansalainen, joka on laillisesti oleskellut maassa edelliset kymmenen vu
 Unionin kansalainen, joka on alaikäinen, voidaan karkottaa maasta ainoastaan yleiseen turvallisuuteen liittyvistä pakottavista syistä, jollei karkottaminen ole lapsen edun mukaista.
 
 Edellä 3 ja 4 momentissa säädetyksi pakottavaksi syyksi katsotaan se, että unionin kansalaisen on todettu syyllistyneen tekoon, josta ei ole säädetty lievempää rangaistusta kuin yksi vuosi vankeutta, ja hänen rikoksen vakavuuden tai rikollisen toiminnan jatkumisen perusteella arvioidaan olevan vaaraksi yleiselle turvallisuudelle tai hänen epäillään vakavasti vaarantavan Suomen tai muun valtion turvallisuutta.
+
+Mitä edellä säädetään, koskee myös unionin kansalaista ja unionin kansalaisen perheenjäsentä, joka on menettänyt Suomen kansalaisuuden.

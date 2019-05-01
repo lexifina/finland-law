@@ -2,7 +2,7 @@
 Luku: 4 luku Oleskelu
 
 Jatkuva oleskelulupa myönnetään ulkomailla olevalle henkilölle:
-1) jos hän on ollut Suomen kansalainen tai ainakin toinen hänen vanhemmistaan tai yksi hänen isovanhemmistaan on tai on ollut syntyperäinen Suomen kansalainen;
+1) jos hän on ollut Suomen kansalainen eikä hän ole menettänyt Suomen kansalaisuuttaan kansalaisuuslain (359/2003) 33 a §:n perusteella tai ainakin toinen hänen vanhemmistaan tai yksi hänen isovanhemmistaan on tai on ollut syntyperäinen Suomen kansalainen;
 2) jatkuvaluonteista työntekoa varten; taikka
 3) jatkuvaluonteista yritystoimintaa varten.
 

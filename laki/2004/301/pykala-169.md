@@ -6,3 +6,5 @@ Islannin, Norjan, Ruotsin tai Tanskan kansalainen, jonka oleskelua Suomessa ei o
 Islannin, Norjan, Ruotsin ja Tanskan kansalainen, jonka oleskelu Suomessa on rekisteröity 157 §:n 3 momentissa säädetyllä tavalla, voidaan karkottaa maasta, jos hänen katsotaan vaarantavan yleistä järjestystä tai yleistä turvallisuutta taikka kansanterveyttä.
 
 Jos Islannin, Norjan, Ruotsin tai Tanskan kansalainen on oleskellut maassa yli viisi vuotta, hänet voidaan karkottaa maasta ainoastaan yleiseen järjestykseen tai yleiseen turvallisuuteen liittyvistä vakavista syistä ja, jos oleskelu on kestänyt yli kymmenen vuotta, hänet voidaan karkottaa maasta ainoastaan yleiseen turvallisuuteen liittyvistä pakottavista syistä.
+
+Mitä edellä 2 ja 3 momentissa säädetään, koskee myös Islannin, Norjan, Ruotsin ja Tanskan kansalaista, joka on menettänyt Suomen kansalaisuuden.
