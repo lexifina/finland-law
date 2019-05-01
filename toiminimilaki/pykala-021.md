@@ -1,0 +1,3 @@
+# 21 §
+
+Jos rekisteröinti kumotaan osittain, rekisteriviranomaisen tai tuomioistuimen on määrättävä, että toiminimi saa olla rekisterissä uuden toiminimen tai muun muutoksen rekisteröitäväksi ilmoittamiseen tarvittavan kohtuullisen määräajan. Jos rekisteröinti kumotaan kokonaan, rekisteriviranomainen tai tuomioistuin voi määrätä, että toiminimi saa olla rekisterissä uuden toiminimen rekisteröitäväksi ilmoittamiseen tarvittavan kohtuullisen määräajan. Kun toiminimen rekisteröinti on kumottu lainvoimaisella päätöksellä tai tuomiolla eikä toiminimen haltija ole ilmoittanut rekisteröitäväksi uutta toiminimeä tai muuta muutosta, rekisteriviranomaisen on poistettava toiminimi rekisteristä.
