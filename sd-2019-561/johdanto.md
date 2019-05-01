@@ -1,0 +1,2 @@
+Laki terveydenhuollon valtakunnallisista henkilörekistereistä annetun lain kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
