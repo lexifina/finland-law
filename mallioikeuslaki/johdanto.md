@@ -1,0 +1,2 @@
+Mallioikeuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
