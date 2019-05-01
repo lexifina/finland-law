@@ -1,0 +1,2 @@
+Tavaramerkkilaki
+Eduskunnan päätöksen mukaisesti säädetään:

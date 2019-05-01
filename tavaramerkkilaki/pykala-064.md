@@ -1,0 +1,14 @@
+# 64 § Keskeyttämismääräys
+Luku: 7 luku Seuraamukset tavaramerkkioikeuden loukkauksesta ja tuomioistuimen toimivalta
+
+Tuomioistuin voi 62 §:n 1 momentissa tarkoitettua loukkausta koskevaa kannetta käsitellessään tavaramerkin haltijan vaatimuksesta määrätä lähettimen, palvelimen tai muun sellaisen laitteen ylläpitäjän taikka muun välittäjänä toimivan palvelun tarjoajan (välittäjä) sakon uhalla keskeyttämään tavaramerkkiä loukkaavaksi väitetyn käytön (keskeyttämismääräys). Keskeyttämismääräyksen antamisen edellytyksenä on, ettei sitä voida pitää kohtuuttomana ottaen huomioon tavaramerkin väitetyn loukkaajan, välittäjän ja tavaramerkin haltijan oikeudet. Keskeyttämismääräys ei saa vaarantaa kolmannen oikeutta lähettää ja vastaanottaa viestejä.
+
+Ennen 1 momentissa tarkoitetun kanteen nostamista tuomioistuin voi tavaramerkin haltijan hakemuksesta antaa keskeyttämismääräyksen, jos sen antamiselle on 1 momentissa säädetyt edellytykset ja jos on ilmeistä, että tavaramerkin haltijan oikeuksien toteutuminen muutoin vakavasti vaarantuisi.
+
+Tuomioistuimen on varattava sekä välittäjälle että väitetylle loukkaajalle tilaisuus tulla kuulluksi. Välittäjälle tiedoksianto voidaan toimittaa postitse tai sähköpostia käyttäen tai muulla sähköisellä tiedoksiantomenetelmällä.
+
+Tuomioistuin voi pyynnöstä antaa 2 momentissa tarkoitetun keskeyttämismääräyksen sakon uhalla väliaikaisena varaamatta väitetylle loukkaajalle tilaisuutta tulla kuulluksi, jos asian kiireellisyys sitä välttämättä vaatii. Väliaikainen määräys on voimassa, kunnes toisin määrätään. Väitetylle loukkaajalle on väliaikaisen määräyksen antamisen jälkeen viipymättä varattava tilaisuus tulla kuulluksi. Kun väitettyä loukkaajaa on kuultu, tuomioistuimen on viipymättä päätettävä, pidetäänkö määräys voimassa vai peruutetaanko se.
+
+Keskeyttämismääräys tulee voimaan, kun hakija asettaa ulosottomiehelle ulosottokaaren (705/2007) 8 luvun 2 §:ssä tarkoitetun vakuuden. Mahdollisuudesta vapautua vakuuden asettamisesta säädetään oikeudenkäymiskaaren 7 luvun 7 §:ssä. Edellä 2 tai 4 momentin nojalla annettu keskeyttämismääräys raukeaa, jollei 1 momentissa tarkoitettua kannetta nosteta tuomioistuimessa kuukauden kuluessa määräyksen antamisesta.
+
+Keskeyttämismääräystä vaatineen on korvattava sille, jolle määräys on annettu, samoin kuin väitetylle loukkaajalle määräyksen täytäntöönpanosta aiheutunut vahinko sekä asiassa aiheutuneet kulut, jos 1 momentissa tarkoitettu kanne hylätään tai jätetään tutkimatta taikka jos asian käsittely jätetään sillensä sen vuoksi, että kantaja on peruuttanut kanteensa tai jäänyt saapumatta tuomioistuimeen. Sama on voimassa, jos keskeyttämismääräys 4 momentin nojalla peruutetaan tai 5 momentin nojalla raukeaa. Vahingon ja kulujen korvaamista koskevan kanteen nostamisessa noudatetaan, mitä oikeudenkäymiskaaren 7 luvun 12 §:ssä säädetään.

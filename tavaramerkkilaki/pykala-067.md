@@ -1,0 +1,4 @@
+# 67 § Tosiasiallisen käytön osoittaminen kieltoasiassa
+Luku: 7 luku Seuraamukset tavaramerkkioikeuden loukkauksesta ja tuomioistuimen toimivalta
+
+Kantajan velvollisuuteen osoittaa myöhemmän tavaramerkin haltijan pyynnöstä tavaramerkkinsä tai EU-tavaramerkkinsä tosiasiallinen käyttö kanteen vireillepanoa edeltäneen viiden vuoden jakson aikana sovelletaan, mitä 49 §:ssä säädetään aiemman tavaramerkin ja EU-tavaramerkin haltijan näyttövelvollisuudesta. Kantajan on esitettävä todisteet käytöstä, jos kantajan tavaramerkin tai EU-tavaramerkin rekisteröimismenettely on saatu päätökseen vähintään viisi vuotta ennen kanteen vireille panoa. Tuomioistuin ei voi kieltää myöhemmän tavaramerkin käyttöä siltä osin kuin kantajan oikeus voitaisiin vaatia menetettäväksi 46 §:n nojalla loukkauskanteen vireillepanon aikaan.
