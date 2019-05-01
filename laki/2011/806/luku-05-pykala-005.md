@@ -11,6 +11,6 @@ Päätöksestä, jolla matkustuskielto on määrätty, on käytävä ilmi:
 
 Tehostettua matkustuskieltoa koskevasta päätöksestä on lisäksi käytävä ilmi tekninen valvontatapa. Jos tuomioistuin on määrännyt velvollisuuden pysyä asunnossa, päätöksestä on ilmettävä myös asunnossa pysymisen velvoitteen tuntimäärä ja ajoittuminen sekä asunnon tai muun asumiseen soveltuvan paikan osoitetiedot.
 
-Päätöksestä on annettava jäljennös kieltoon määrätylle. Jos matkustuskieltoon määrätty ei ollut läsnä päätöstä annettaessa tai jos jäljennöstä ei muuten voida tuolloin hänelle antaa, jäljennös voidaan toimittaa hänelle postitse hänen ilmoittamallaan osoitteella.
+Päätöksestä on annettava jäljennös kieltoon määrätylle. Jos matkustuskieltoon määrätty ei ollut läsnä päätöstä annettaessa tai jos jäljennöstä ei muuten voida tuolloin hänelle antaa, jäljennös voidaan toimittaa hänelle postitse hänen ilmoittamallaan osoitteella. Jos tehostettuun matkustuskieltoon määrätty on vapaana eikä päätöstä tehostetusta matkustuskiellosta anneta hänen läsnä ollessaan, tuomioistuimen on annettava päätös tehostetusta matkustuskiellosta tiedoksi jotakin oikeudenkäymiskaaren 11 luvun mukaista todisteellista tiedoksiantotapaa noudattaen.
 
-Tehostettua matkustuskieltoa koskevasta päätöksestä on viipymättä ilmoitettava Rikosseuraamuslaitokselle.
+Tehostettua matkustuskieltoa koskevasta päätöksestä sekä sen tiedoksiannosta on viipymättä ilmoitettava Rikosseuraamuslaitokselle ja poliisille.

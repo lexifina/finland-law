@@ -7,10 +7,9 @@ Valtioneuvoston asetuksella voidaan antaa tarkemmat säännökset:
 3) matkustuskieltoon ja tehostettuun matkustuskieltoon liittyvien asiakirjojen laatimisesta, käsittelystä ja sisällöstä sekä kieltoon liittyvistä toimenpiteistä ilmoittamisesta;
 4) 2 luvun 12 a §:n 3 momentissa tarkoitetun selvityksen sisällöstä;
 5) 2 luvun 12 c §:ssä tarkoitetun ratkaisun sisällöstä;
-6) tutkinta-arestiin liittyvien asiakirjojen laatimisesta, käsittelystä ja sisällöstä;
+6) tutkinta-arestiin liittyvien asiakirjojen laatimisesta, käsittelystä ja sisällöstä sekä tutkinta-arestiin liittyvistä toimenpiteistä ilmoittamisesta;
 7) tutkinta-arestiin määrätyn velvollisuuksien rikkomisen selvittämisestä ja kirjaamisesta;
-8) 2 luvun 12 i §:n 2 momentissa tarkoitetun syyttäjälle tehtävän ilmoituksen sisällöstä;
-9) menettelystä, jota noudatetaan 2 luvun 12 c §:n 2 momentissa tarkoitetussa kiinni ottamista ja vankilaan toimittamista koskevassa tilanteessa.
+8) 2 luvun 12 i §:n 2 momentissa tarkoitetun syyttäjälle tehtävän ilmoituksen sisällöstä.
 
 Rikosseuraamuslaitoksen keskushallintoyksikkö antaa tarkemmat määräykset:
 1) tutkinta-arestin valvonnan suorittamisesta;
