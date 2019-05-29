@@ -1,0 +1,2 @@
+Laki kokonaisvaltaisesta kumppanuudesta ja yhteistyöstä Euroopan yhteisön ja sen jäsenvaltioiden sekä Indonesian tasavallan välillä tehdyn puitesopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
