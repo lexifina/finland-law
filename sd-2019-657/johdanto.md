@@ -1,0 +1,2 @@
+Laki lentoliikenteen matkustajarekisteritietojen käytöstä terrorismirikosten ja vakavan rikollisuuden torjunnassa
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,5 @@
+# 6 § Rekisterinpitäjä ja tietosuojavastaava
+
+Poliisihallitus toimii matkustajatietoyksikön matkustajarekisteritietoja sisältävän rekisterin rekisterinpitäjänä ja vastaa tietosuojavastaavan nimeämisestä. Tietosuojavastaava on vastuussa matkustajarekisteritietojen käsittelyn valvonnasta ja tietosuojaan liittyvien toimenpiteiden täytäntöönpanosta matkustajatietoyksikössä.
+
+Tietosuojavastaavalla on pääsy matkustajatietoyksikön käsittelemiin tietoihin. Rekisteröidyllä on oikeus ottaa yhteyttä tietosuojavastaavaan kaikissa kyseisen rekisteröidyn matkustajarekisteritietojen käsittelyyn liittyvissä asioissa.
