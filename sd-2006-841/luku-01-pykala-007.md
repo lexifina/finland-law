@@ -9,4 +9,4 @@ Tässä pykälässä tarkoitetun vartijan vaitiolovelvollisuuteen sovelletaan, m
 
 Mitä tässä laissa säädetään vartijan virka-tehtävästä, koskee myös tässä pykälässä tarkoitetun vartijan tehtävää.
 
-Tässä pykälässä tarkoitetulla vartijalla ei ole käyttöoikeutta henkilötietojen käsittelystä poliisitoimessa annetun lain (761/2003) 2 luvussa tarkoitettuihin poliisin tietojärjestelmiin eikä muihinkaan viranomaistarkoituksia varten perustettuihin rekistereihin tai tietojärjestelmiin.
+Tässä pykälässä tarkoitetulla vartijalla ei ole käyttöoikeutta sellaisiin poliisin henkilörekistereihin, joihin sovelletaan henkilötietojen käsittelystä poliisitoimessa annettua lakia (616/2019), eikä muihinkaan viranomaistarkoituksia varten perustettuihin rekistereihin tai tietojärjestelmiin.
