@@ -1,0 +1,3 @@
+# 10 § Matkustajarekisteritietojen toimittaminen Europolille
+
+Matkustajatietoyksikkö voi perustellusta pyynnöstä toimittaa matkustajarekisteritietoja tai tietojen käsittelyn lisäselvitysten tuloksia Europolille 3 §:n 10 kohdassa tarkoitetun asetuksen IV luvussa tarkoitettua tietojenkäsittelyä varten terrorismirikosten tai vakavan rikollisuuden ennalta estämistä, paljastamista ja tutkintaa sekä tällaisiin rikoksiin liittyviä syytetoimia varten, kun toimittaminen on tarpeen asetuksen 3 artiklassa tarkoitetun jäsenvaltioiden toimivaltaisten viranomaisten rikostorjuntayhteistyön ja keskinäisen yhteistyön tavoitteiden saavuttamiseksi.
