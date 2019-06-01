@@ -14,4 +14,4 @@ Harkittaessa matkustusasiakirjaksi hyväksyttävän henkilökortin myöntämist�
 1) matkustamisen merkitys hänen perhesuhteidensa, terveydentilansa, toimeentulonsa, ammattinsa ja muiden olosuhteiden kannalta; sekä
 2) onko perusteltua syytä olettaa, että hän matkustaa ulkomaille välttääkseen esitutkintaa, rangaistusta tai sen täytäntöönpanoa.
 
-Edellä 3 momentissa tarkoitetun henkilökortin myöntämisestä talletetaan tieto henkilötietojen käsittelystä poliisitoimessa annetun lain (761/2003) 3 §:ssä tarkoitettuun hallintoasioiden tietojärjestelmään.
+Edellä 3 momentissa tarkoitetun henkilökortin myöntämisestä talletetaan tieto poliisin henkilörekisteriin.
