@@ -1,0 +1,2 @@
+Laki joukkoliikenteen tarkastusmaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
