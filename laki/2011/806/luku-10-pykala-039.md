@@ -2,7 +2,7 @@
 Luku: 10 luku Salaiset pakkokeinot
 Väliotsikko: Tietolähdetoiminta ja valvottu läpilasku
 
-Tietolähdetoiminnalla tarkoitetaan muuta kuin satunnaista luottamuksellista, rikoksen selvittämiselle merkityksellisten tietojen vastaanottamista poliisin ja muun esitutkintaviranomaisen ulkopuoliselta henkilöltä (tietolähde).
+Tietolähdetoiminnalla tarkoitetaan muuta kuin satunnaista luottamuksellista, 1 luvun 1 §:ssä tarkoitettujen tehtävien hoitamiseksi merkityksellisten tietojen vastaanottamista poliisin ja muun viranomaisen ulkopuoliselta henkilöltä (tietolähde).
 
 Poliisi tai Tulli saa pyytää tähän tarkoitukseen hyväksyttyä, henkilökohtaisilta ominaisuuksilta sopivaa, rekisteröityä ja tiedonhankintaan suostunutta tietolähdettä hankkimaan 1 momentissa tarkoitettuja tietoja (tietolähteen ohjattu käyttö).
 

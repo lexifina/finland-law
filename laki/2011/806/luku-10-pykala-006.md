@@ -1,7 +1,7 @@
 # 6 § Televalvonta ja sen edellytykset
 Luku: 10 luku Salaiset pakkokeinot
 
-Televalvonnalla tarkoitetaan tunnistamistietojen hankkimista viestistä, joka on lähetetty 3 §:ssä tarkoitettuun viestintäverkkoon kytketystä teleosoitteesta tai telepäätelaitteesta taikka vastaanotettu tällaiseen osoitteeseen tai laitteeseen sekä teleosoitteen tai telepäätelaitteen sijaintitiedon hankkimista taikka teleosoitteen tai telepäätelaitteen käytön tilapäistä estämistä. Tunnistamistiedolla tarkoitetaan sähköisen viestinnän tietosuojalain 2 §:n 8 kohdassa tarkoitettua tilaajaan tai käyttäjään yhdistettävissä olevaa viestiä koskevaa tietoa, jota viestintäverkoissa käsitellään viestien siirtämiseksi, jakelemiseksi tai tarjolla pitämiseksi.
+Televalvonnalla tarkoitetaan tunnistamistietojen hankkimista viestistä, joka on lähetetty 3 §:ssä tarkoitettuun viestintäverkkoon kytketystä teleosoitteesta tai telepäätelaitteesta taikka vastaanotettu tällaiseen osoitteeseen tai laitteeseen, sekä teleosoitteen tai telepäätelaitteen sijaintitiedon hankkimista taikka osoitteen tai laitteen käytön tilapäistä estämistä. Tunnistamistiedolla tarkoitetaan sähköisen viestinnän palveluista annetun lain 3 §:n 7 kohdassa tarkoitettuun käyttäjään tai mainitun pykälän 30 kohdassa tarkoitettuun tilaajaan yhdistettävissä olevaa viestiä koskevaa tietoa, jota viestintäverkoissa käsitellään viestien siirtämiseksi, jakelemiseksi tai tarjolla pitämiseksi.
 
 Esitutkintaviranomaiselle voidaan antaa lupa kohdistaa televalvontaa rikoksesta epäillyn hallussa olevaan tai hänen oletettavasti muuten käyttämäänsä teleosoitteeseen tai telepäätelaitteeseen, jos epäiltyä on syytä epäillä:
 1) rikoksesta, josta säädetty ankarin rangaistus on vähintään neljä vuotta vankeutta;

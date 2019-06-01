@@ -2,7 +2,7 @@
 Luku: 10 luku Salaiset pakkokeinot
 Väliotsikko: Telepakkokeinot
 
-Telekuuntelulla tarkoitetaan viestintämarkkinalaissa tarkoitetun yleisen viestintäverkon tai siihen liitetyn viestintäverkon kautta teleosoitteeseen tai telepäätelaitteeseen vastaanotettavan taikka siitä lähetetyn viestin kuuntelua, tallentamista ja muuta käsittelyä viestin sisällön ja siihen liittyvien 6 §:ssä tarkoitettujen tunnistamistietojen selvittämiseksi. Telekuuntelua saadaan kohdistaa vain rikoksesta epäillyltä lähtöisin olevaan tai hänelle tarkoitettuun viestiin.
+Telekuuntelulla tarkoitetaan sähköisen viestinnän palveluista annetun lain (917/2014) 3 §:n 43 kohdassa tarkoitetun yleisen viestintäverkon tai siihen liitetyn viestintäverkon kautta teleosoitteeseen tai telepäätelaitteeseen vastaanotettavan taikka siitä lähetetyn viestin kuuntelua, tallentamista ja muuta käsittelyä viestin sisällön ja siihen liittyvien tämän luvun 6 §:ssä tarkoitettujen tunnistamistietojen selvittämiseksi. Telekuuntelua saadaan kohdistaa vain rikoksesta epäillyltä lähtöisin olevaan tai hänelle tarkoitettuun viestiin.
 
 Esitutkintaviranomaiselle voidaan antaa lupa kohdistaa telekuuntelua rikoksesta epäillyn hallussa olevaan tai hänen oletettavasti muuten käyttämäänsä teleosoitteeseen tai telepäätelaitteeseen, jos epäiltyä on syytä epäillä:
 1) joukkotuhonnasta, joukkotuhonnan valmistelusta, rikoksesta ihmisyyttä vastaan, törkeästä rikoksesta ihmisyyttä vastaan, hyökkäysrikoksesta, hyökkäysrikoksen valmistelusta, sotarikoksesta, törkeästä sotarikoksesta, kidutuksesta, kemiallisen aseen kiellon rikkomisesta, biologisen aseen kiellon rikkomisesta tai jalkaväkimiinakiellon rikkomisesta;
