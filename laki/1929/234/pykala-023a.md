@@ -2,4 +2,4 @@
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
 Luku: 5 luku Perheasioiden sovittelu
 
-Sovittelijan salassapitovelvollisuuteen sovelletaan mitä sosiaalihuoltolain (710/82) 57 §:n 1 momentissa ja 58 §:n 1 ja 3 momentissa säädetään. Sovittelijaan ei ole sovellettava mitä sosiaalihuoltolain 56 §:ssä säädetään tietojenantovelvollisuudesta ja oikeudesta saada tietoja.
+Sovittelijan salassapitovelvollisuuteen sovelletaan, mitä sosiaalihuollon asiakkaan asemasta ja oikeuksista annetun lain (812/2000) 15 §:ssä ja 29 §:n 1 momentissa säädetään. Sovittelijaan ei sovelleta, mitä mainitun lain 20 §:ssä säädetään tietojenantovelvollisuudesta. Sovittelijalla ei ole oikeutta oma-aloitteisesti hankkia perheestä tietoja muilta viranomaisilta.
