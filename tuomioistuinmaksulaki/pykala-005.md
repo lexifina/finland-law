@@ -7,7 +7,7 @@ Tämän lain mukaista maksua ei peritä:
 4) yksityishenkilön vireille panemissa ulkomaalaislain (301/2004) mukaisissa kansainvälistä suojelua koskevissa asioissa;
 5) velallisen vireille panemissa yksityishenkilön velkajärjestelystä annetun lain (57/1993) mukaisissa asioissa;
 6) maatalousyrittäjien lomituspalvelulain (1231/1996) mukaisissa asioissa eikä maaseutuelinkeinotukea koskevissa asioissa, joissa on kyse luottojen maksuhelpotuksesta, vapaaehtoisesta velkajärjestelystä tai valtion takautumisvaatimuksesta luopumisesta;
-7) sakon muuntorangaistusta koskevissa asioissa;
+7) sakon muuntorangaistusta koskevissa asioissa eikä käräjäoikeudessa käsiteltävissä sakon ja rikesakon määräämisestä annetun lain (754/2010) mukaisissa muutoksenhakuasioissa;
 8) oikeusapulaissa (257/2002) tarkoitetun oikeusavun myöntämistä koskevissa asioissa eikä oikeudenkäyntiavustajalle maksettavaa palkkiota ja kulukorvausta koskevissa asioissa, ellei kyse ole muutoksenhausta palkkiota tai kulukorvausta koskevassa asiassa;
 9) tartuntatautilain (1227/2016), päihdehuoltolain (41/1986) eikä mielenterveyslain (1116/1990) mukaisissa asioissa;
 10) pakkokeinolain (806/2011) mukaisissa asioissa, oikeudenkäymiskaaren 17 luvun 69 §:n mukaisissa asioissa eikä konkurssilain (120/2004) 4 luvun 11 §:n 5 momentin mukaisissa asioissa;
