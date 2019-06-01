@@ -1,0 +1,2 @@
+Laki veropohjan rapautumisen ja voitonsiirron estämiseksi verosopimuksiin toteuttavista toimenpiteistä tehdystä monenvälisestä yleissopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
