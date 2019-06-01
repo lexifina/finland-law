@@ -7,6 +7,8 @@ Sovellettaessa tämän luvun 9 §:ää virkamieheen rinnastetaan 40 luvun 11 §:
 
 Sovellettaessa tämän luvun 13 ja 14 §:ää rikollisen teon kohteena olevaan virkamieheen rinnastetaan 40 luvun 11 §:ssä tarkoitettu julkista luottamustehtävää hoitava henkilö, julkisyhteisön työntekijä, ulkomainen virkamies, julkista valtaa käyttävä henkilö ja sotilas.
 
+Sovellettaessa tämän luvun 1–3, 13 ja 14 §:ää rikollisen teon kohteena olevaan virkamieheen rinnastetaan ulkomainen virkamies, joka poliisilain 5 a luvun 57 §:n 3 momentissa tai sotilastiedustelusta annetun lain 20 §:n 3 momentissa tarkoitetulla tavalla toimii tai käyttää tiedustelumenetelmää Suomen alueella.
+
 Sovellettaessa tämän luvun 14 a ja 14 b §:ää rikollisen teon kohteena olevaan kansanedustajaan rinnastetaan 40 luvun 11 §:ssä tarkoitettu ulkomaisen parlamentin jäsen.
 
 Jos muualla kuin tässä laissa säädetään rikosoikeudellista virkavastuuta koskevien säännösten soveltamisesta muuhun kuin 1–4 momentissa tarkoitettuun henkilöön, hänet rinnastetaan rikollisen teon kohteena olevaan virkamieheen sovellettaessa tämän luvun 1–3, 9, 13 ja 14 §:ää.
