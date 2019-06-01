@@ -9,4 +9,4 @@ Tapaamiskieltoa ei saa antaa lähiomaiselle, muulle läheiselle eikä vapautensa
 
 Päätös tapaamiskiellosta tehdään kirjallisesti. Ennen tapaamiskiellon antamista tapaajaa ja vapautensa menettänyttä on mahdollisuuksien mukaan kuultava.
 
-Tapaamiskieltoja koskevien tietojen tallentamisesta poliisiasiain tietojärjestelmään säädetään henkilötietojen käsittelystä poliisitoimessa annetussa laissa.
+Tapaamiskieltoja koskevien tietojen käsittelystä poliisin henkilörekistereissä säädetään henkilötietojen käsittelystä poliisitoimessa annetussa laissa.
