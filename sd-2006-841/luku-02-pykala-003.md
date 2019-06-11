@@ -8,3 +8,5 @@ Ulkomaiselle vapautensa menettäneelle on tiedotettava 7 luvun 6 §:n mukaisesta
 Vapautensa menettäneiden saatavilla on oltava kokoelma vapautensa menettäneitä koskevista säännöksistä.
 
 Vapautensa menettäneellä on oikeus pitää koko vapaudenmenetyksen ajan hallussaan hänelle esitutkintalain 4 luvun 17 §:n nojalla annettu kirjallinen ilmoitus hänen oikeuksistaan.
+
+Alle 18-vuotiaalle vapautensa menettäneelle on annettava 1 momentissa tarkoitetut tiedot kirjallisesti hänen omalla kielellään, jos se on suomi tai ruotsi, ja muussa tapauksessa hänen ymmärtämällään kielellä. Saamen kielen käyttämisestä säädetään saamen kielilaissa (1086/2003).
