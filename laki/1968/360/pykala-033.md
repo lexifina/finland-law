@@ -1,6 +1,6 @@
 # 33 §
 Osa: III OSA Tulon ja menon jaksottaminen
-Luku: 3 luku Käyttöomaisuuden hankintamenon jaksottaminen
+Luku: 3 luku Käyttöomaisuuden ja muun omaisuuden hankintamenon jaksottaminen
 
 Poiketen siitä, mitä 30 §:ssä säädetään, poistetaan verovelvollisen vaatiessa irtaimen kuluvan käyttöomaisuuden hankintameno kokonaisuudessaan sinä verovuonna, jona omaisuus on otettu käyttöön, jos käyttöomaisuuden:
 1) todennäköinen taloudellinen käyttöaika on enintään 3 vuotta; tai

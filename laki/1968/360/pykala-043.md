@@ -1,6 +1,6 @@
 # 43 §
 Osa: III OSA Tulon ja menon jaksottaminen
-Luku: 3 luku Käyttöomaisuuden hankintamenon jaksottaminen
+Luku: 3 luku Käyttöomaisuuden ja muun omaisuuden hankintamenon jaksottaminen
 
 Jos käyttöomaisuus tuhoutuu tai vahingoittuu tulipalon tai muun vahinkotapahtuman johdosta, vähennetään 30 §:ssä tarkoitettua menojäännöstä laskettaessa vähentämättä jäänyt osa sekä 33 §:n 3 momentissa ja 34, 36 ja 39 §:ssä tarkoitetusta kuluvasta käyttöomaisuudesta saatu vakuutuskorvaus tai muu vastike, poistamatonta hankintamenoa vastaavaa osaa lukuun ottamatta, verovuonna tai kahtena seuraavana verovuonna verovelvollisen käyttöön ottaman kuluvan käyttöomaisuuden tai toimitilojen hallintaan oikeuttavien osakkeiden hankintamenosta tai omaisuuden kuntoon saattamisesta johtuvista menoista (kuluvan käyttöomaisuuden jälleenhankintavaraus).
 

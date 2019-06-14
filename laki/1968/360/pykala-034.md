@@ -1,6 +1,6 @@
 # 34 §
 Osa: III OSA Tulon ja menon jaksottaminen
-Luku: 3 luku Käyttöomaisuuden hankintamenon jaksottaminen
+Luku: 3 luku Käyttöomaisuuden ja muun omaisuuden hankintamenon jaksottaminen
 
 Rakennuksen ja rakennelman hankintameno vähennetään poistamatta olevan hankintamenon osan perusteella määritettävin poistoin.
 

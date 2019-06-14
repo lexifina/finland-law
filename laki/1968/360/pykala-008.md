@@ -3,7 +3,7 @@ Osa: II OSA Tulon veronalaisuus ja menon vähennyskelpoisuus
 Luku: 2 luku Menon ja menetyksen vähennyskelpoisuus
 
 Edellä 7 §:ssä tarkoitettuja vähennyskelpoisia menoja ovat muun ohessa:
-1) vaihto-omaisuuden ja sijoitusomaisuuden hankintamenot sekä 5 §:n 6 kohdassa tarkoitettu sijoitusomaisuuden arvonkorotus,
+1) rahoitusomaisuuden, vaihto-omaisuuden, sijoitusomaisuuden ja muun omaisuuden hankintamenot 8 a ja 42 a §:ssä säädetyin poikkeuksin sekä 5 §:n 6 kohdassa tarkoitettu sijoitusomaisuuden arvonkorotus;
 2) käyttöomaisuuden hankintamenot 6 b §:ssä säädetyin poikkeuksin; jos verovelvollinen on saanut hyödykkeen hankkimiseen avustusta julkiselta yhdyskunnalta tai jos joku muu on elinkeinotoiminnassaan osallistunut hankintamenon suorittamiseen, vähennyskelpoiseen hankintamenoon ei kuitenkaan lueta avustusta tai toisen osuutta vastaavaa osaa hankintamenosta,
 2 a) kaupankäyntitarkoituksessa pidettävistä rahoitusvälineistä kirjanpitolain 5 luvun 2 a §:n tai mainitun lain 7 a luvun 1 §:ssä tarkoitettujen kansainvälisten tilinpäätösstandardien nojalla tuloslaskelmaan kuluksi merkityt arvonlaskut;
 2 b) luottolaitostoiminnasta annetussa laissa tarkoitetun luottolaitoksen, sijoituspalveluyrityksen sekä sellaisen rahoituslaitoksen, johon sovelletaan luottolaitoksen tilinpäätöstä koskevaa lainsäädäntöä, käypään arvoon tulosvaikutteisesti kirjattavista rahoitusvälineistä ja käyvän arvon suojauksesta luottolaitostoiminnasta annetun lain 12 luvun 6 §:n tai kirjanpitolain 7 a luvun 1 §:ssä tarkoitettujen kansainvälisten tilinpäätösstandardien nojalla tuloslaskelmaan kuluksi merkityt arvonlaskut;

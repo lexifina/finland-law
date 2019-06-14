@@ -1,6 +1,6 @@
 # 42 §
 Osa: III OSA Tulon ja menon jaksottaminen
-Luku: 3 luku Käyttöomaisuuden hankintamenon jaksottaminen
+Luku: 3 luku Käyttöomaisuuden ja muun omaisuuden hankintamenon jaksottaminen
 
 Jos verovelvollinen osoittaa, että muiden arvopapereiden kuin osakkeiden tai muun kulumattoman käyttöomaisuuden kuin maa-alueen käypä arvo on verovuoden päättyessä sen hankintamenoa tai tämän säännöksen perusteella aikaisemmin tehdyillä poistoilla vähennettyä hankintamenoa olennaisesti alempi, hankintamenosta saa tehdä sellaisen poiston, joka alentaa poistamatta olevan hankintamenon osan käyvän arvon suuruiseksi.
 
