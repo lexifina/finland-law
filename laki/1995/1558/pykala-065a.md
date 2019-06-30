@@ -14,7 +14,7 @@ Hakijana oleva yhteisö ja Veronsaajien oikeudenvalvontayksikkö saavat hakea mu
 Verovelvollinen ja jokainen muu, jonka oman veron määrään päätös välittömästi saattaa vaikuttaa tai joka on veron suorittamisesta vastuussa sekä Veronsaajien oikeudenvalvontayksikkö saavat hakea muutosta:
 1) ennakkoperintälain 18 §:ssä tarkoitettuun ennakonpidätyksen uudelleen määräämistä ja 24 §:ssä tarkoitettuun ennakon muuttamista koskevaan muutoksenhakukelpoiseen päätökseen;
 2) ennakkoperintälain 22 §:ssä tarkoitettuun ennakonpidätyksen tai ennakon palauttamista koskevaan päätökseen;
-3) ennakkoperintälain 25–27 §:ssä tarkoitettuun ennakkoperintärekisteriin merkitsemistä tai siitä poistamista koskevaan päätökseen;
+3) ennakkoperintälain 25 §:ssä tarkoitettuun ennakkoperintärekisteriin tai rajoitetusti verovelvollisen tulon verottamisesta annetun lain 10 d §:ssä tarkoitettuun säilyttäjärekisteriin merkitsemistä tai siitä poistamista koskevaan päätökseen;
 4) rajoitetusti verovelvollisen tulon verottamisesta annetun lain 5 §:ssä ja 16 §:n 4 momentissa tarkoitettuun lähdeverokorttia, verokorttia tai ennakkoveroa koskevaan muutoksenhakukelpoiseen päätökseen;
 5) rajoitetusti verovelvollisen tulon verottamisesta annetun lain 11 §:n 2 momentissa tarkoitettuun lähdeveron palauttamista koskevaan päätökseen;
 6) Pohjoismaiden Investointipankin, Pohjoismaiden kehitysrahaston ja Pohjoismaiden ympäristörahoitusyhtiön palveluksessa olevien henkilöiden verottamisesta annetun lain (562/1976) 6 §:ssä tarkoitettuun lopullisen palkkaveron palauttamista koskevaan päätökseen.

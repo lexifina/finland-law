@@ -1,0 +1,4 @@
+# 23 b § Rekisteröityneen säilyttäjän erityinen tiedonantovelvollisuus
+Luku: 3 luku Sivullisen tiedonantovelvollisuus
+
+Rajoitetusti verovelvollisen tulon verottamisesta annetun lain 10 c §:ssä tarkoitetun rekisteröityneen säilyttäjän on Verohallinnon kehotuksesta osinkotapahtuman, osingon saajan tai maksajan yksilöintitiedon tai muun vastaavan yksilöinnin perusteella annettava ja esitettävä tarkastettavaksi hallussaan olevat tiedot mekanismeista, menettelyistä ja asiakirjoista sekä muut tiedot, joiden perusteella se on suorittanut 15 e §:ssä, rajoitetusti verovelvollisen tulon verottamisesta annetun lain 10 b §:ssä sekä ennakkoperintälain 4 a §:ssä tarkoitetut osingon saajan tutkimis-, tunnistamis-, selvittämis-, varmistamis- ja ilmoitusvelvoitteet vastuulleen ottamiensa osingonmaksun ja osingon saajien osalta.

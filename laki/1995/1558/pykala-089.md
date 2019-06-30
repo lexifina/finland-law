@@ -5,10 +5,4 @@ Jos Suomessa asunut henkilö, Suomessa asuneen henkilön kuolinpesä tai kotimai
 
 Valtiovarainministeriö voi ottaa 1 momentissa tarkoitetun periaatteellisesti tärkeän asian ratkaistavakseen.
 
-Jos verotusta koskeva toimenpide johtaa kaksinkertaiseen tai muutoin vieraan valtion kanssa kaksinkertaisen verotuksen välttämiseksi tehdyn valtiosopimuksen tarkoituksen vastaiseen verotukseen, valtiovarainministeriö voi hakemuksesta myöntää määräämillään ehdoilla osittaisen tai täydellisen vapautuksen Suomessa maksuunpannusta verosta. Ennen vapautuksen myöntämistä kunnallisverosta ja kirkollisverosta on asianomaiselle kunnalle ja seurakunnalle varattava tilaisuus tulla kuulluksi.
-
-Mitä 3 momentissa on säädetty verosta, koskee myös veroon liittyviä seuraamuksia.
-
-Valtiovarainministeriö voi määrätä Verohallinnon ratkaisemaan 3 momentissa tarkoitettuja hakemuksia, jos vapautettavaksi pyydetty määrä on enintään 50 000 euroa. Valtiovarainministeriö voi kuitenkin ottaa periaatteellisesti tärkeän asian ratkaistavakseen.
-
 Tämän pykälän nojalla annettuun päätökseen ei saa valittamalla hakea muutosta.
