@@ -3,4 +3,9 @@ Luku: 5 luku Takaisinmaksuvelvollisuus
 
 Palkkaturva on perittävä takaisin valtiolle 10 vuoden kuluessa sen vuoden päättymisestä lukien, jona palkkaturvapäätös on annettu. Tämän jälkeen oikeus maksun saantiin on menetetty.
 
-Aikaraja ei estä maksun saamista ulosmitatuista, konkurssiin luovutetuista tai muun julkisen haasteen kohteena olevista varoista, jos saatavan perimiseksi on suoritettu ulosmittaus tai saatava on valvottu konkurssissa taikka muun julkisen haasteen perusteella edellä mainitun määräajan kuluessa. Erityisen vanhentumisajan suhteesta saneerausmenettelyyn ja velkajärjestelyyn säädetään yrityksen saneerauksesta annetun lain (47/1993) 99 ja 99 a §:ssä sekä yksityishenkilön velkajärjestelystä annetun lain (57/1993) 79 ja 79 a §:ssä.
+Vanhentumisajan umpeen kuluminen ei estä maksun saamista ulosmitatuista tai konkurssiin luovutetuista varoista taikka niistä varoista, joista julkisessa haasteessa ilmoitetut saatavat on suoritettava, jos ennen 1 momentissa tarkoitetun vanhentumisajan päättymistä:
+1) saatavan perimiseksi on toimitettu ulosmittaus;
+2) velallinen on asetettu konkurssiin tai saatava on valvottu asianosaiskeskustelussa ulosottokaaren (705/2007) mukaisessa kiinteistön myynnissä; taikka
+3) saatava on ilmoitettu julkisen haasteen johdosta.
+
+Yksityishenkilön velkajärjestelyn ja yrityssaneerauksen vaikutuksesta säädetään erikseen.
