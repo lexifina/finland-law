@@ -5,11 +5,11 @@ Kelpoinen opiskelijaksi sotatieteellisiin opintoihin, jotka johtavat pelkästä�
 
 Kelpoinen opiskelijaksi sotatieteellisiin opintoihin, jotka johtavat pelkästään ylempään korkeakoulututkintoon, on henkilö, joka on suorittanut soveltuvan alemman korkeakoulututkinnon, soveltuvan ammattikorkeakoulututkinnon tai soveltuvan ulkomaisen koulutuksen, joka asianomaisessa maassa antaa kelpoisuuden vastaaviin korkeakouluopintoihin taikka jolla Maanpuolustuskorkeakoulu toteaa muutoin olevan opintoja varten riittävät tiedot ja valmiudet.
 
-Upseerin virkaan johtaviin opintoihin otettavalta vaaditaan lisäksi, että henkilö on:
+Upseerin virkaan johtaviin opintoihin otettavalta vaaditaan lisäksi, että hän on:
 1) Suomen kansalainen;
 2) ennen opintojen aloittamista saanut reservin upseerin koulutuksen;
-3) terveydentilaltaan puolustusvoimien tai rajavartiolaitoksen tehtävien asianmukaisen hoitamisen kannalta sopiva;
-3 a) puolustusvoimien tai rajavartiolaitoksen tehtävissä edellytettävällä tavalla nuhteeton ja että hänellä ei ole sellaisia sidonnaisuuksia, jotka vaarantavat tehtävien asianmukaista ja riippumatonta hoitamista, ja että hän on muutoinkin luotettava;
-4) enintään 26-vuotias, lentäjäksi koulutettava kuitenkin enintään 23-vuotias.
+3) terveydentilaltaan Puolustusvoimien tai Rajavartiolaitoksen tehtävien asianmukaisen hoitamisen kannalta sopiva;
+4) Puolustusvoimien tai Rajavartiolaitoksen tehtävissä edellytettävällä tavalla nuhteeton ja muutoinkin luotettava henkilö, jolla ei ole sellaista toisen valtion kansalaisuutta tai muuta turvallisuusselvityslain (726/2014) 3 §:n 1 momentin 9 a kohdassa tarkoitettua ulkomaansidonnaisuutta, joka voi vaarantaa valtion turvallisuutta, yleistä turvallisuutta, maanpuolustusta tai Suomen kansainvälisiä suhteita taikka palvelusturvallisuutta Puolustusvoimissa tai Rajavartiolaitoksessa eikä muitakaan sidonnaisuuksia, jotka vaarantavat tehtävien asianmukaista ja riippumatonta hoitamista;
+5) enintään 26-vuotias, lentäjäksi koulutettava kuitenkin enintään 23-vuotias.
 
-Maanpuolustuskorkeakoulun rehtori voi muualla aikaisemmin suoritetun tutkinnon tai muiden opintojen vuoksi taikka muusta vastaavasta erityisestä syystä myöntää poikkeuksen 3 momentin 4 kohdassa säädetystä vaatimuksesta.
+Maanpuolustuskorkeakoulun rehtori voi muualla aikaisemmin suoritetun tutkinnon tai muiden opintojen vuoksi taikka muusta vastaavasta erityisestä syystä myöntää poikkeuksen 3 momentin 5 kohdassa säädetystä vaatimuksesta.
