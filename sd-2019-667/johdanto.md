@@ -1,0 +1,2 @@
+Laki konkurssi- ja yrityssaneerausasioiden asianhallintajärjestelmästä
+Eduskunnan päätöksen mukaisesti säädetään:
