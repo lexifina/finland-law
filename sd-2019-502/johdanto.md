@@ -1,0 +1,2 @@
+Laki ylioppilastutkinnosta
+Eduskunnan päätöksen mukaisesti säädetään:
