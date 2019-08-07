@@ -1,0 +1,2 @@
+Laki tavaramerkkioikeudesta tehdystä Singaporen sopimuksesta ja sen soveltamissäännöistä
+Eduskunnan päätöksen mukaisesti säädetään:
