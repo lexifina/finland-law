@@ -1,7 +1,7 @@
 # 19 § Paikallisyhteisön perustamisilmoitus
 Luku: 2 luku Rekisteröidyt uskonnolliset yhdyskunnat
 
-Ilmoitus paikallisyhteisön rekisteröimiseksi tehdään kirjallisesti Patentti- ja rekisterihallitukselle.
+Ilmoitus paikallisyhteisön rekisteröimiseksi tehdään tätä tarkoitusta varten vahvistetulla perustamisilmoituslomakkeella siten kuin yritys- ja yhteisötietolain 10 §:ssä säädetään.
 
 Ilmoitukseen tulee liittää mahdolliset paikallissäännöt. Ilmoituksen tulee sisältää paikallisyhteisön hallituksen puheenjohtajan ja nimenkirjoittajien täydelliset nimet, osoitteet, kotikunnat ja henkilötunnukset sekä mahdolliset yhdistyslain 36 §:n 3 momentin mukaiset nimenkirjoitusoikeuden rajoitukset. Jos henkilöllä ei ole suomalaista henkilötunnusta, ilmoitetaan syntymäaika. Perustamisilmoituksessa saa ilmoittaa myös hallituksen kaikki muut jäsenet.
 

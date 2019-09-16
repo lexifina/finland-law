@@ -1,7 +1,7 @@
 # 20 § Muutos- ja purkautumisilmoitus
 Luku: 2 luku Rekisteröidyt uskonnolliset yhdyskunnat
 
-Rekisteröidyn uskonnollisen yhdyskunnan yhdyskuntajärjestyksen ja rekisteröidyn paikallisyhteisön paikallissääntöjen muutoksesta sekä yhdyskunnan ja rekisteröidyn paikallisyhteisön hallituksen puheenjohtajan, rekisteriin merkityn hallituksen muun jäsenen ja nimenkirjoittajan vaihtumisesta tehdään kirjallinen ilmoitus (muutosilmoitus) Patentti- ja rekisterihallitukselle.
+Rekisteröidyn uskonnollisen yhdyskunnan yhdyskuntajärjestyksen ja rekisteröidyn paikallisyhteisön paikallissääntöjen muutoksesta sekä yhdyskunnan ja rekisteröidyn paikallisyhteisön hallituksen puheenjohtajan, rekisteriin merkityn hallituksen muun jäsenen ja nimenkirjoittajan vaihtumisesta on tehtävä rekisteriin ilmoitus (muutosilmoitus) siten kuin yritys- ja yhteisötietolain 11 §:ssä säädetään.
 
 Yhdyskuntajärjestystä tai paikallissääntöjä koskevaan muutosilmoitukseen tulee liittää muutettu yhdyskuntajärjestys tai muutetut paikallissäännöt. Yhdyskuntajärjestyksen tai paikallissääntöjen muutos tulee voimaan, kun se merkitään uskonnollisten yhdyskuntien rekisteriin.
 
