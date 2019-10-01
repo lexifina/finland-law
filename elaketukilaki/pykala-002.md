@@ -1,4 +1,4 @@
-# 2 § Oikeus eläketukeen
+# 2 § Ennen 1 päivä syyskuuta 1956 syntyneen henkilön oikeus eläketukeen
 Luku: 1 luku Eläketuen saamisen yleiset edellytykset ja määräytymisperusteet
 
 Eläketuki voidaan myöntää Suomessa asuvalle ennen 1 päivä syyskuuta 1956 syntyneelle henkilölle. Eläketukea maksetaan sen kuukauden loppuun, jonka aikana henkilö täyttää 65 vuotta.
