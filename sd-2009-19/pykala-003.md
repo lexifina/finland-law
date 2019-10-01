@@ -8,7 +8,7 @@ Suomen vaakunan tunnuskuvaa käyttävät aina sineteissään ja leimoissaan:
 3) ministeriöt;
 4) valtioneuvoston oikeuskansleri ja oikeuskanslerinvirasto;
 5) korkein oikeus ja korkein hallintooikeus;
-6) valtakunnansyyttäjä ja valtakunnansyyttäjänvirasto;
+6) valtakunnansyyttäjä ja valtakunnansyyttäjän toimisto;
 7) Helsingin yliopiston kansleri;
 8) Suomen Pankki;
 9) puolustusvoimat ja Rajavartiolaitos; sekä
