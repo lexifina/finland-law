@@ -1,0 +1,2 @@
+Laki vastavuoroisista puolustushankinnoista Amerikan Yhdysvaltojen kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
