@@ -1,0 +1,2 @@
+Laki Pohjoismaiden Investointipankin, Pohjoismaiden kehitysrahaston ja Pohjoismaiden ympäristörahoitusyhtiön palveluksessa olevien henkilöiden verottamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
