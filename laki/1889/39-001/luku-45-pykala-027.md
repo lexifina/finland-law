@@ -5,7 +5,7 @@ Väliotsikko: Soveltamisala
 Sotilaalla tarkoitetaan tässä luvussa:
 1) puolustusvoimien sotilasvirassa palvelevaa sekä sitä, joka on nimitetty puolustusvoimien virkamieheksi määräaikaiseen virkasuhteeseen määrättynä sotilastehtävään;
 2) asevelvollisuuttaan aseellisena tai aseettomana suorittavaa tai asevelvollisuuslain (1438/2007) 79 §:ssä tarkoitetussa palveluksessa olevaa sekä naisten vapaaehtoisesta asepalveluksesta annetussa laissa (194/1995) tarkoitettua palvelusta suorittavaa;
-2 a) vapaaehtoisesta maanpuolustuksesta annetun lain (556/2007) 18 §:ssä tarkoitettua puolustusvoimien vapaaehtoisissa harjoituksissa palvelevaa ja lain 21 §:ssä tarkoitettua kouluttajaa ja kouluammuntojen johtajaa; sekä
+2 a) vapaaehtoisesta maanpuolustuksesta annetun lain (556/2007) 18 §:ssä tarkoitettua Puolustusvoimien vapaaehtoisissa harjoituksissa palvelevaa; sekä
 3) puolustusvoimissa sotilasvirkaan koulutettavaa oppilasta.
 
 Sotilaita koskevia säännöksiä sovelletaan lisäksi rajavartiolaitoksessa sotilasvirassa palveleviin ja rajavartijan peruskurssin opiskelijoihin sekä sotilaallisesta kriisinhallinnasta annetussa laissa (211/2006) tarkoitetussa kriisinhallintakoulutuksessa, -harjoituksissa ja -palveluksessa oleviin niin kuin siitä laissa erikseen säädetään.
