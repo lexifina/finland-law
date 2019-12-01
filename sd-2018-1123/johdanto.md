@@ -1,0 +1,2 @@
+Laki eurooppalaisesta ajoneuvo- ja ajokorttitietojärjestelmästä tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
