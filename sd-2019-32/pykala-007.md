@@ -9,4 +9,4 @@ Syyttäjiä ovat:
 5) aluesyyttäjä ja maakunnansyyttäjä;
 6) apulaissyyttäjä.
 
-Suomen kansallisesta jäsenestä Eurojustissa säädetään Eurojustia koskevan päätöksen eräiden määräysten täytäntöönpanosta annetussa laissa (742/2010).
+Suomen kansallisesta jäsenestä Eurojustissa säädetään Suomen osallistumisesta Euroopan unionin rikosoikeudellisen yhteistyön viraston (Eurojust) toimintaan annetussa laissa (1232/2019).
