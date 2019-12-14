@@ -1,0 +1,10 @@
+# 31 § Kasvintuhoojan torjunnasta aiheutuvien kustannusten korvaaminen
+Luku: 7 luku Vahingonkorvaukset
+
+Ruokavirasto voi päättää, että kasvintuhoojan hävittämiseksi annetun 4 tai 5 §:ssä tarkoitetun torjuntapäätöksen täytäntöönpanosta aiheutuneet välittömät ja välttämättömät kustannukset korvataan toimijalle valtion varoista kokonaan tai osittain, jos kasvintuotannolle aiheutuneet vahingot ovat poikkeuksellisen suuret. Korvauksen maksamisen edellytyksenä on, että toimijalle on aiheutunut hävittämistoimenpiteistä huomattavia kustannuksia, joilla on toimijan elinkeinolle kohtuuttoman suuri merkitys tai joiden korvaaminen on toimijan elinkeinon jatkamisen kannalta tarpeellista. Korvausta voidaan maksaa vain siltä osin kuin toimijalle ei makseta korvausta vakuutuksesta tai rahastosta.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä 1 momentissa tarkoitettujen kustannusten ja vahinkojen arvioinnista ja laskennasta.
+
+Korvausta on haettava Ruokavirastolle osoitetulla hakemuksella kuuden kuukauden kuluessa siitä, kun hakija sai tiedon kustannusten syntymisestä tai vahingon ilmenemisestä. Hakemus on toimitettava asianomaiseen elinkeino-, liikenne- ja ympäristökeskukseen ja siihen on liitettävä riittävä selvitys kustannuksista ja vahingoista. Elinkeino-, liikenne- ja ympäristökeskus antaa lausunnon tekemäänsä torjuntapäätökseen liittyvästä korvaushakemuksesta Ruokavirastolle.
+
+Jos kustannuksia tai vahinkoja on korvattu perusteettomasti, Ruokaviraston on määrättävä liikaa saatu määrä palautettavaksi. Palautettavasta määrästä peritään korkolain (633/1982) 3 §:n 2 momentin mukainen vuotuinen korko sen kuukauden alusta, jona korvaus on maksettu. Jos palautettavaa määrää ei makseta viimeistään Ruokaviraston asettamana eräpäivänä, sille on maksettava vuotuista viivästyskorkoa korkolain 4 §:n 1 momentissa tarkoitetun korkokannan mukaan. Jos palautettava määrä on vähäinen taikka jos palauttamista tai koron perimistä on pidettävä kohtuuttomana palautusvelvollisen taloudelliseen asemaan ja olosuhteisiin nähden, voidaan palautusvelvollinen vapauttaa osittain tai kokonaan korvauksen palauttamisesta tai koron maksamisesta.

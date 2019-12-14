@@ -1,0 +1,8 @@
+# 1 § Soveltamisala
+Luku: 1 luku Yleiset säännökset
+
+Tässä laissa annetaan kasvintuhoojien vastaisista suojatoimenpiteistä, Euroopan parlamentin ja neuvoston asetusten (EU) N:o 228/2013, (EU) N:o 652/2014 ja (EU) N:o 1143/2014 muuttamisesta sekä neuvoston direktiivien 69/464/ETY, 74/647/ETY, 93/85/ETY, 98/57/EY, 2000/29/EY, 2006/91/EY ja 2007/33/EY kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2016/2031, jäljempänä kasvinterveysasetus, täydentävät säännökset.
+
+Tässä laissa säädetään myös eräistä muista kuin kasvinterveysasetuksessa säädetyistä toimenpiteistä kasvinterveysriskien hallitsemiseksi ja kasvintuhoojien leviämisen estämiseksi.
+
+Tässä laissa annetaan myös virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta (virallista valvontaa koskeva asetus) annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2017/625, jäljempänä valvonta-asetus, täydentävät säännökset.

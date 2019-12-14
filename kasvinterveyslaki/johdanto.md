@@ -1,0 +1,2 @@
+Kasvinterveyslaki
+Eduskunnan päätöksen mukaisesti säädetään:
