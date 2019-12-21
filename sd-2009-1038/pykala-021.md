@@ -1,8 +1,10 @@
-# 21 § Poikkeukset
+# 21 § Henkilötietojen ilmoittamista koskevat vapautukset ja poikkeukset
 Luku: 6 luku Erinäiset säännökset
 
-Yhtiöllä ei ole 6 §:n mukaista henkilöiden kirjaamis- ja ilmoittamisvelvollisuutta sellaisen alueen säännöllisessä liikenteessä, jolle Euroopan yhteisöjen komissio on myöntänyt kokonaan tai osittain poikkeuksen henkilöluettelodirektiivin 5 artiklan 1 kohdan vaatimuksista direktiivin 9 artiklan 4 kohdassa säädetyin edellytyksin.
+Liikenne- ja viestintäviraston on ilmoitettava henkilöluettelodirektiivin 9 artiklan 3 kohdan mukaisesti Euroopan komissiolle 6 §:n 4 momentissa tarkoitetuista henkilötietojen ilmoittamista koskevista vapautuksista.
 
-Edellä 1 momentissa tarkoitettua poikkeusta koskeva hakemus on osoitettava liikenne- ja viestintäministeriölle. Liikenne- ja viestintäministeriö hakee esitettyä poikkeusta Euroopan yhteisöjen komissiolta, jos henkilöluettelodirektiivin 9 artiklan 4 kohdassa säädetyt edellytykset täyttyvät. Liikenne- ja viestintäministeriön on ennen päätöksen tekemistä pyydettävä asiasta lausunto Liikenne- ja viestintävirastolta, Rajavartiolaitokselta sekä myös Ahvenanmaan maakunnan hallitukselta niissä tapauksissa, joissa poikkeuksella on merkitystä Ahvenanmaan maakunnan liikenteelle.
+Yhtiöllä ei ole 6 §:ssä säädettyä henkilöiden kirjaamis- ja ilmoittamisvelvollisuutta sellaisen alueen säännöllisessä liikenteessä, jolle Euroopan komissio on myöntänyt kokonaan tai osittain poikkeuksen henkilöluettelodirektiivin 5 artiklan 1 kohdan vaatimuksista direktiivin 9 artiklan 4 kohdassa säädetyin edellytyksin.
 
-Poikkeus voi koskea Suomen satamista liikennöiviä matkustaja-aluksia, jotka purjehtivat SOLAS-yleissopimuksen sopimuspuolena olevan muun kuin Euroopan yhteisön jäsenvaltion lipun alla vain, jos kyseinen valtio antaa siihen luvan.
+Edellä 2 momentissa tarkoitettua poikkeusta koskeva hakemus on osoitettava Liikenne- ja viestintävirastolle. Liikenne- ja viestintävirasto hakee esitettyä poikkeusta Euroopan komissiolta, jos henkilöluettelodirektiivin 9 artiklan 4 kohdassa säädetyt edellytykset täyttyvät.
+
+Poikkeus voi koskea Suomen satamista liikennöiviä matkustaja-aluksia, jotka purjehtivat SOLAS-yleissopimuksen sopimuspuolena olevan muun kuin Euroopan unionin jäsenvaltion lipun alla vain, jos kyseinen valtio antaa siihen luvan.

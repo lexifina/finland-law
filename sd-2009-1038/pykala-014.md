@@ -1,5 +1,5 @@
 # 14 § Tietojen luovuttaminen
-Luku: 4 luku Tietojen luovuttaminen ja säilyttämisaika
+Luku: 4 luku Tietojen säilyttäminen
 
 Yhtiö ja yhtiön nimeämä henkilöluettelon pitäjä saa luovuttaa henkilöluetteloihin ja henkilöluettelointijärjestelmään tallennetut tiedot etsintä- tai pelastustoimintaa sekä onnettomuuden jälkiselvittelyjä varten ainoastaan Rajavartiolaitokselle, Liikenne- ja viestintävirastolle, Hätäkeskuslaitokselle, poliisille, Tullille, Onnettomuustutkintakeskukselle sekä pelastuslaissa tarkoitetuille pelastusviranomaisille ja pelastuslaitokselle.
 

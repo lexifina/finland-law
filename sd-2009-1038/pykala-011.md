@@ -1,5 +1,5 @@
 # 11 § Henkilöluettelointijärjestelmän tietosisältö
-Luku: 3 luku Henkilöluettelointijärjestelmä
+Luku: 3 luku Tietojen keräämistä koskevat vaatimukset
 
 Yhtiö ja henkilöluettelon pitäjä saa henkilöluettelointijärjestelmää varten kerätä ja tallentaa:
 1) 5 §:ssä tarkoitetun henkilöiden lukumäärän;

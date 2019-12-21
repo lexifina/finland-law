@@ -1,5 +1,5 @@
 # 13 § Yhtiön nimeämä henkilöluettelon pitäjä
-Luku: 3 luku Henkilöluettelointijärjestelmä
+Luku: 3 luku Tietojen keräämistä koskevat vaatimukset
 
 Yhtiön nimeämä henkilöluettelon pitäjä vastaa 5–7 §:ssä tarkoitettujen tietojen säilyttämisestä ja tallentamisesta henkilöluettelointijärjestelmään sekä tietojen lähettämisestä 12 §:n 2 kohdassa tarkoitetuille etsintä- tai pelastustoimintaan osallistuville viranomaisille tiedoksi hätätilanteessa tai onnettomuuden jälkeen.
 
