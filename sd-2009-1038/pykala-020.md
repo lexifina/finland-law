@@ -1,4 +1,4 @@
-# 20 § Vapautukset
+# 20 § Henkilömäärien ilmoittamista koskeva vapautus
 Luku: 6 luku Erinäiset säännökset
 
-Liikenne- ja viestintäviraston on ilmoitettava henkilöluettelodirektiivin 9 artiklan 3 kohdan mukaisesti Euroopan yhteisöjen komissiolle luettelointivaatimusten vapautuksista, joita 5 §:n 2 momentin ja 6 §:n 3 momentin mukaan on muualla kuin Suomen sisävesialueella.
+Yhtiöllä ei ole 5 §:ssä säädettyä velvollisuutta ilmoittaa henkilöiden lukumäärää keskitettyyn palvelupisteeseen tai nimetylle viranomaiselle sellaisten matkustaja-alusten osalta, jotka liikennöivät yksinomaan D-alueella, jonka lähistöllä etsintä- ja pelastuspalvelut voidaan hoitaa ja sellaisessa säännöllisessä liikenteessä, jossa satamien välinen matka kestää alle tunnin.

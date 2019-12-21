@@ -1,5 +1,5 @@
 # 10 § Henkilöluettelointijärjestelmän perustaminen ja hyväksyminen sekä henkilöluettelon pitäjän nimeäminen
-Luku: 3 luku Henkilöluettelointijärjestelmä
+Luku: 3 luku Tietojen keräämistä koskevat vaatimukset
 
 Yhtiön, jonka matkustaja-alus on merkitty Liikenne- ja viestintäviraston ylläpitämään liikenneasioiden rekisteriin tai ja Ahvenanmaan valtionviraston ylläpitämään alusrekisteriin, on perustettava henkilöluettelointijärjestelmä, jos yhtiön on 5 §:n mukaisesti laskettava ja ilmoitettava matkustaja-aluksella olevien henkilöiden lukumäärä tai 6 §:n mukaisesti kirjattava ja ilmoitettava aluksella olevien henkilöiden henkilötiedot. Samoilla tai samanlaisilla reiteillä ei saa käyttää eri järjestelmiä ilman erityistä syytä.
 
