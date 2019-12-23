@@ -1,0 +1,2 @@
+Laki Eurooppalaisen biologisen ja lääketieteellisen kuvantamisen tutkimusinfrastruktuurin oikeushenkilöydestä ja osittaisesta verovapaudesta Suomessa
+Eduskunnan päätöksen mukaisesti säädetään:
