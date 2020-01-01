@@ -1,9 +1,7 @@
 # 37 § Muutoksenhaku
 Luku: 5 luku Erinäiset säännökset
 
-Tämän lain nojalla tehtyyn päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
-
-Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
 
 Valitus on käsiteltävä kiireellisenä.
 
