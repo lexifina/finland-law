@@ -3,7 +3,8 @@
 Valtiokonttorin tehtävänä on, jollei toimivallasta muualla toisin säädetä:
 1) järjestää rahoitus-, sijoitus-, velanhoito- ja lainanhoitopalveluja sekä työelämäpalveluja valtion virastoille ja laitoksille;
 2) hoitaa valtion keskuskirjanpitoa;
-3) huolehtia valtion vahingonkorvausasioista.
+3) huolehtia valtion vahingonkorvausasioista;
+4) toimia kuntien taloustietovarannon ylläpidosta vastaavana viranomaisena sekä rekisterinpitäjänä.
 
 Valtiokonttori voi tuottaa valtionhallinnolle ja valtion liikelaitoksista annetun lain (1062/2010) mukaisille liikelaitoksille yhteisiä tukipalveluja. Valtioneuvoston asetuksella säädetään, mitä nämä palvelut ovat. Lisäksi Valtiokonttori suorittaa ne muut tehtävät, jotka säädetään tai määrätään sen hoidettaviksi.
 
