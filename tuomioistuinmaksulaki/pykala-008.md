@@ -8,6 +8,6 @@ Tämän lain mukaisten maksujen suorittamisesta ovat vapaat:
 5) konkurssiasiamies;
 6) työsuojeluvaltuutettu työtuomioistuimesta annetun lain (646/1974) 1 §:n 3 momentissa tarkoitetuissa asioissa;
 7) kunnalliset viranomaiset asioissa, jotka koskevat holhoustointa, lapsen huoltoa tai lähestymiskieltoa;
-8) maistraatit ja Ahvenanmaan maakunnassa Ahvenanmaan valtionvirasto asioissa, jotka koskevat holhoustointa.
+8) Digi- ja väestötietovirasto ja Ahvenanmaan maakunnassa Ahvenanmaan valtionvirasto holhoustointa koskevissa asioissa.
 
 Lisäksi vieraan valtion viranomaiset, kansalaiset ja oikeushenkilöt sekä kansainväliset toimielimet ovat vapaat maksujen suorittamisesta asioissa, joita käsitellään soveltaen kansainvälistä oikeusapua tai täytäntöönpanoa koskevia sopimuksia ja säännöksiä.
