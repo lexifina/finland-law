@@ -11,3 +11,5 @@ Julkisesti noteeratusta yhtiöstä saadulla osingolla tarkoitetaan sellaisesta y
 3) kaupankäynnistä rahoitusvälineillä annetussa laissa tarkoitetussa monenkeskisessä kaupankäyntijärjestelmässä edellyttäen, että osake on otettu kaupankäynnin kohteeksi yhtiön hakemuksesta tai sen suostumuksella.
 
 Julkisesti noteeratusta yhtiöstä saatua osakeyhtiölain (624/2006) 13 luvun 1 §:n 1 kohdassa tarkoitettua varojenjakoa vapaan oman pääoman rahastosta pidetään osinkona, ja siihen sovelletaan, mitä tässä pykälässä säädetään.
+
+Osakesäästötilillä olevien osakkeiden perusteella saatu osinko on 1 momentista poiketen osakesäästötilin tuottoa, joka luetaan veronalaiseksi pääomatuloksi siten kuin 53 b §:ssä säädetään.

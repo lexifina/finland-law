@@ -9,3 +9,5 @@ Vähennyskelpoisena luovutustappiona ei pidetä tappiota sellaisen asunnon luovu
 Luovutustappioon rinnastetaan myös:
 1) sellaisen johdannaissopimuksen raukeaminen tai siitä aiheutunut tappio, jolla käydään kauppaa kaupankäynnistä rahoitusvälineillä annetussa laissa tarkoitetulla säännellyllä markkinalla;
 2) sellainen arvopaperin arvonmenetys, jota voidaan konkurssin tai muun siihen verrattavan syyn vuoksi pitää lopullisena.
+
+Osakesäästötilillä olevien varojen luovutuksesta syntynyt tappio ei ole vähennyskelpoinen. Osakesäästötilin lopettamisesta syntyvien tappioiden verotukseen sovelletaan, mitä 53 b §:ssä säädetään.

@@ -10,10 +10,6 @@ Eläke tai suoritus luetaan saajan pääomatuloksi 20 prosentilla korotettuna, j
 
 Edellä 2 momentissa tarkoitettua korotusta ei kuitenkaan määrätä siltä osin kuin osoitetaan, että maksuja ei ole vähennetty Suomen verotuksessa.
 
-Kertamaksullinen eläke on veronalaista ansiotuloa siten kuin 81 §:ssä säädetään.
-
-Vapaaehtoisena eläkevakuutuksena pidetään sellaista vanhuuseläkevakuutusta ja perhe-eläkevakuutusta sekä tällaiseen vakuutukseen liittyvää työkyvyttömyyseläkevakuutusta ja työttömyyseläkevakuutusta, johon perustuva eläke on tarkoitettu maksettavaksi toistuvina erinä vuosittain tai lyhyemmin väliajoin vakuutetun tai edunsaajan jäljellä olevan eliniän tai vähintään kahden vuoden ajan.
-
 Pitkäaikaissäästämissopimuksen mukaisesti sijoitetuille varoille kertyneiden osinkotulojen, korkotulojen, luovutusvoittojen ja muiden tulojen yhteismäärä vähennettynä sijoitettuihin varoihin kohdistuvilla kuluilla, luovutustappioilla ja muilla tappioilla katsotaan 1 momentissa tarkoitettuna tulona sen verovuoden tuloksi, jona sopimukseen perustuva suoritus on saatu.
 
 Säästäjän tai muun varoihin oikeutetun kuoltua säästövarat luetaan kuolinpesän tai testamentinsaajan veronalaiseksi pääomatuloksi kuolinpäivän mukaisesta arvosta.

@@ -11,3 +11,5 @@ Muulta kuin 1 momentissa tarkoitetulta ulkomaiselta yhteisöltä saatu osinko on
 Muulta kuin 1 ja 2 momentissa tarkoitetulta ulkomaiselta yhteisöltä saatu osinko on kokonaan veronalaista ansiotuloa.
 
 Ulkomaisen yhteisön osakkeiden 33 b §:n 1 momentissa tarkoitettua vuotuista tuottoa laskettaessa sovelletaan varojen arvostamisesta verotuksessa annetun lain säännöksiä osakkeen verovuoden matemaattisen arvon laskennasta. Matemaattisen arvon laskennassa tarvittavan selvityksen puuttuessa vuotuinen tuotto lasketaan siitä osakkeen käyvästä arvosta, joka sillä oli omistajan hallussa osingon jakovuotta edeltäneen verovuoden päättyessä. Käyvällä arvolla tarkoitetaan omaisuuden todennäköistä luovutushintaa.
+
+Osakesäästötilillä olevien osakkeiden perusteella saatu osinko on 1–3 momentista poiketen osakesäästötilin tuottoa, joka luetaan veronalaiseksi pääomatuloksi siten kuin 53 b §:ssä säädetään.

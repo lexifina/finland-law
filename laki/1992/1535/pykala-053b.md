@@ -1,0 +1,15 @@
+# 53 b § Osakesäästötili
+Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
+Luku: 2 luku Pääomatulon veronalaisuus
+
+Osakesäästötilin tuotoksi katsotaan se osa säästövarojen käyvästä arvosta, joka ylittää osakesäästötilille tehtyjen rahasuoritusten määrän. Osakesäästötilin tuotto luetaan veronlaiseksi pääomatuloksi silloin, kun tuotto nostetaan osakesäästötililtä. Säästövarojen nostosta tuotoksi katsotaan se suhteellinen osuus, joka nostohetkellä vastaa osakesäästötilillä jäljellä olevan tuoton osuutta jäljellä olevasta säästövarojen määrästä. Muu kuin tuotoksi katsottava osuus varojen nostosta pienentää sitä tilille tehtyjen rahasuoritusten määrää, joka jatkossa otetaan huomioon jaettaessa tililtä tapahtuvia nostoja tuotoksi ja pääoman palautukseksi. Tililtä nostettava muu kuin tuotoksi katsottava osuus vähentää myös osakesäästötilille tehtyjen rahasuoritusten kokonaismäärää osakesäästötilistä annetun lain mukaista tilille sijoitettavaa enimmäismäärää laskettaessa.
+
+Osakesäästötilin tuottoon luetaan tilillä olevien osakkeiden perusteella saadut osingot. Tuottoon ei kuitenkaan lueta lähdevaltion ulkomailta saadusta osingosta pidättämää lähdeveron määrää. Jos osingon lähdevaltio on myöhemmin palauttanut verovelvolliselle osingosta perittyä lähdeveroa, on verovelvollisen ilmoitettava muutoksesta palveluntarjoajalle ja Verohallinnolle. Lähdevaltion palauttama osingon lähdeveron määrä katsotaan osakesäästötililtä nostetuksi tuotoksi sinä verovuonna, jona palautus on maksettu.
+
+Jos osakesäästötilin säästövarojen käypä arvo on osakesäästötili lopetettaessa alempi kuin osakesäästötilille tehtyjen rahasuoritusten nettomäärä, muodostuu osakesäästötilille tehtyjen rahasuoritusten nettomäärän ja säästövarojen käyvän arvon erotuksesta osakesäästötilin tappio. Osakesäästötilin tappio on vähennyskelpoinen veronalaisista pääomatuloista sinä vuonna, jona osakesäästötili lopetetaan. Siltä osin kuin tappiota ei verovuonna ole vähennetty veronalaisista pääomatuloista, se otetaan huomioon vahvistettaessa 60 §:ssä tarkoitettua pääomatulolajin tappiota. Osakesäästötilin tappio vähennetään puhtaasta pääomatulosta luovutustappioiden jälkeen ennen muita pääomatulosta tehtäviä vähennyksiä. Osakesäästötilin tappiota ei oteta huomioon pääomatulolajin alijäämää vahvistettaessa.
+
+Säästövaroja ei katsota nostetuksi tai osakesäästötiliä lopetetuksi, jos verovelvollinen irtisanoo sopimuksen ja tekee uuden osakesäästötiliä koskevan sopimuksen toisen palveluntarjoajan kanssa, jos tilillä olevat varat siirretään suoraan uuden sopimuksen osapuolena olevalle palveluntarjoajalle osakesäästötilistä annetun lain 13 §:ssä säädetyllä tavalla.
+
+Osakesäästötilisopimuksen lakkaamisesta verovelvollisen kuoleman johdosta ei synny tuloverotuksessa veronalaista tuloa eikä vähennyskelpoista tappiota.
+
+Verovelvollisella saa olla vain yksi osakesäästötili. Jos verovelvollisella on useampi kuin yksi osakesäästötili, määrätään verovelvolliselle osakesäästötilin veronkorotus siten kuin verotusmenettelystä annetun lain 32 c §:ssä säädetään.

@@ -12,3 +12,7 @@ Omaisuuden luovutusvoittoon rinnastetaan termiinisopimuksesta, jolla käydään 
 Luovutuksena ei pidetä osakeyhtiön verotuksessa sen hallussa olevien omien osakkeiden luovutusta.
 
 Elinkeinotulon verottamisesta annetun lain 52 f §:n 1 momentissa tarkoitetussa osakevaihdossa syntynyttä voittoa ei katsota veronalaiseksi tuloksi eikä tappiota vähennyskelpoiseksi menoksi, jollei mainitun lain 52 h §:stä muuta johdu. Vaihdossa vastaanotettujen osakkeiden hankintamenona pidetään luovutettujen osakkeiden verotuksessa poistamatta olevaa hankintamenon osaa. Siltä osin kuin vastikkeena saadaan rahaa, osakevaihtoa pidetään veronalaisena luovutuksena. Lisäksi noudatetaan, mitä mainitun lain 52 f §:n 3 ja 4 momentissa säädetään.
+
+Osakesäästötilillä olevien varojen luovutuksesta saatu voitto ei ole veronalaista tuloa. Osakesäästötilillä olevien varojen tuoton verotukseen sovelletaan, mitä 53 b §:ssä säädetään.
+
+Omaisuuden luovutuksesta saatuna voittona pidetään myös kapitalisaatiosopimuksen luovutuksesta saatua voittoa. Luovutusvoiton määrää laskettaessa ei kuitenkaan vähennetä 46 §:n 1 momentissa tarkoitettua luovutushinnasta vähennettävää vähimmäismäärää.

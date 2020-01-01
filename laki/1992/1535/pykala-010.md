@@ -18,4 +18,5 @@ Suomesta saatua tuloa on muun ohessa:
 10) täällä olevan kiinteistön tahi suomalaisen asunto-osakeyhtiön tai muun osakeyhtiön tai osuuskunnan, jonka kokonaisvaroista enemmän kuin 50 prosenttia muodostuu yhdestä tai useammasta täällä olevasta kiinteistöstä, osakkeiden tai osuuksien luovutuksesta saatu voitto;
 11) pitkäaikaissäästämissopimukseen perustuva suoritus;
 12) eläketulo tai muu suoritus, joka on saatu toisesta valtiosta otetun vapaaehtoisen yksilöllisen eläkevakuutuksen perusteella, siltä osin kuin vakuutuksen maksuja on vähennetty Suomen verotuksessa;
-13) osakevaihdossa syntynyt luovutusvoitto, joka olisi ollut veronalaista tuloa, jos siihen ei olisi sovellettu elinkeinotulon verottamisesta annetun lain (360/1968) 52 f §:n 2 momenttia, mainitun pykälän 3 ja 4 momentissa tarkoitetuissa tilanteissa.
+13) osakevaihdossa syntynyt luovutusvoitto, joka olisi ollut veronalaista tuloa, jos siihen ei olisi sovellettu elinkeinotulon verottamisesta annetun lain (360/1968) 52 f §:n 2 momenttia, mainitun pykälän 3 ja 4 momentissa tarkoitetuissa tilanteissa;
+14) osakesäästötilistä annetussa laissa (680/2019) tarkoitetulta osakesäästötililtä nostettu tuotto.
