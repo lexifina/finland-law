@@ -1,0 +1,9 @@
+# 3 b §
+
+Jos yliopisto käyttää työterveyshuollon erikoislääkärikoulutukseen yksityistä terveyspalvelujen tuottajaa tai työnantajan ylläpitämää työterveysasemaa, Työterveyslaitos voi maksaa 3 a §:ssä tarkoitetusta avustuksesta korvausta yksityiselle terveyspalvelujen tuottajalle tai työnantajan ylläpitämälle työterveysasemalle puolivuosittain koulutuksen antajan hakemuksesta. Sosiaali- ja terveysministeriön asetuksella annetaan säännökset hakemusmenettelystä.
+
+Jos yksityinen terveyspalvelujen tuottaja on oikeutettu saamaan antamastaan työterveyshuollon erikoislääkärikoulutuksesta korvausta terveydenhuoltolain (1326/2010) perusteella, sille ei makseta korvausta tämän lain perusteella.
+
+Korvauksen saajien on annettava vuosittain Työterveyslaitokselle selvitys 3 a §:n 3 momentin nojalla saamiensa korvausten käytöstä. Työterveyslaitoksen tulee antaa vuosittain sosiaali- ja terveysministeriölle selvitys 3 a §:n 1 momentin nojalla saamansa avustuksen käytöstä, 3 a §:n 1 momentin nojalla laitoksen omaan toimintaan ohjattujen varojen käytöstä, työterveyshuollon erikoislääkärikoulutuksesta sekä yhteenveto yliopistojen, yksityisten terveyspalvelujen tuottajien ja työnantajien ylläpitämien työterveysasemien saamien korvausten käytöstä. Sosiaali- ja terveysministeriön asetuksella annetaan säännökset selvitysten antamiseen liittyvästä menettelystä.
+
+Avustusten oikeellisuuden valvomiseksi sosiaali- ja terveysministeriöllä on oikeus tarkastaa Työterveyslaitoksen ja korvausta saaneiden toimintaa ja Työterveyslaitoksella on oikeus tarkastaa korvausta saaneiden toimintaa. Tarkastusta varten sosiaali- ja terveysministeriöllä ja Työterveyslaitoksella on oikeus saada salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä korvauksetta käyttöönsä välttämättömät tiedot, asiakirjat ja muu aineisto.
