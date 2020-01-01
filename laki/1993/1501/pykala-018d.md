@@ -2,10 +2,16 @@
 Osa: I OSA
 Luku: 3 luku Verollinen myynti
 
-Arvosetelin luovutus ei ole arvoseteliin liittyvien tavaroiden tai palvelujen myynneistä erillinen tavaran tai palvelun myynti. Mahdollisen arvosetelin jakeluun liittyvän erillisen palvelun myynti on verotuksen piirissä yleisten säännösten mukaisesti.
+Tavara katsotaan myydyn 18 a §:ssä tarkoitetulla tavalla, jos ennen 18 c §:n 4 momentissa tarkoitetun määräajan päättymistä:
+1) jokin 18 c §:n 2 momentissa tarkoitetuista edellytyksistä lakkaa täyttymästä;
+2) 18 c §:n 2 momentin 3 kohdassa tarkoitetun elinkeinonharjoittajan tilalle tulee toinen henkilö, mutta 18 c §:n 3 momentissa säädetyt edellytykset eivät täyty;
+3) tavara myydään muulle henkilölle kuin 18 c §:n 2 momentin 3 kohdassa tarkoitetulle elinkeinonharjoittajalle;
+4) tavara kuljetetaan muuhun maahan kuin Suomeen; tai
+5) tavara tuhoutuu, häviää tai varastetaan.
 
-Yksikäyttöarvoseteliin liittyvien tavaroiden tai palvelujen myyjän arvosetelin myynnistä saamaa vastiketta pidetään näiden tavaroiden ja palvelujen myynnistä saatuna 15 §:n 1 momentin 2 kohdan mukaisena vastikkeena tai sen osana.
-
-Kun verovelvollinen, jolla ei ole velvollisuutta hyväksyä yksikäyttöarvoseteliä tavaroiden tai palvelujen myynnin vastikkeeksi tai sen osaksi, luovuttaa arvosetelin omissa nimissään, hänen katsotaan myyvän seteliin liittyvät tavarat ja palvelut arvosetelin ostajalle. Tätä sovelletaan vain, jos on selvää, että setelin arvo kattaa siihen liittyvien tavaroiden tai palvelujen myynnin koko vastikkeen.
-
-Elinkeinonharjoittajan, jolla on velvollisuus hyväksyä yksikäyttöarvoseteli tavaroiden tai palvelujen myynnin vastikkeeksi, katsotaan myyneen tavarat tai palvelut sellaiselle verovelvolliselle, jonka katsotaan 3 momentin mukaisesti myyneen ne arvosetelin ostajalle.
+Edellä 1 momentissa tarkoitetuissa tilanteissa 18 a §:ssä tarkoitetun myynnin katsotaan tapahtuneen sinä päivänä, jona:
+1) edellytys ei enää täyttynyt;
+2) elinkeinonharjoittaja korvattiin toisella henkilöllä;
+3) 1 momentin 3 kohdassa tarkoitettua myynti tapahtui;
+4) 1 momentin 4 kohdassa tarkoitettu kuljetus alkoi;
+5) tavara tosiasiallisesti vietiin pois tai tuhottiin, tai jos tämän päivän määrittely on mahdotonta, päivänä, jona tavaran tuhoutuminen tai katoaminen havaittiin.

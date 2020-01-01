@@ -1,5 +1,6 @@
 # 63 f §
 Osa: I OSA
 Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
+Väliotsikko: Yhteisöhankinta
 
-Tavaran yhteisöhankinnan katsotaan tapahtuvan Suomessa silloinkin, kun ostaja on käyttänyt yhteisöhankinnassa Suomessa annettua arvonlisäverotunnistetta ja tavaran kuljetus on alkanut toisesta jäsenvaltiosta, ellei ostaja näytä, että yhteisöhankinta on verotettu tai että hän on täyttänyt yhteisöhankintaan liittyvän ilmoitusvelvollisuutensa siinä jäsenvaltiossa, missä tavaran kuljetus päättyi.
+Tavaran yhteisöhankinta on tapahtunut Suomessa, jos ostajalle kuljetettava tavara on täällä kuljetuksen päättyessä.

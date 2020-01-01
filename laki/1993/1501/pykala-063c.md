@@ -1,12 +1,10 @@
 # 63 c §
 Osa: I OSA
 Luku: 5 luku Myynti ja yhteisöhankinta Suomessa
-Väliotsikko: Myynti kuljetusvälineissä Yhteisön alueella
+Väliotsikko: Kuljetuksen liittäminen myyntiin Yhteisön sisäisissä ketjuliiketoimissa
 
-Vesi- tai ilma-aluksessa taikka junassa Yhteisön alueella tapahtuvan henkilökuljetuksen aikana suoritetun tavaroiden myynnin katsotaan tapahtuvan Suomessa vain silloin, kun kuljetuksen lähtöpaikka on täällä.
+Jos samat tavarat myydään useamman kerran peräkkäin ja ne kuljetetaan Suomesta toiseen jäsenvaltioon tai toisesta jäsenvaltiosta Suomeen suoraan ensimmäiseltä myyjältä ketjun viimeiselle ostajalle, ainoastaan väliportaan myyjälle tapahtunut myynti katsotaan kuljetettavien tavaroiden myynniksi.
 
-Yhteisön alueella tapahtuvalla henkilökuljetuksella tarkoitetaan lähtö- ja määräpaikan välistä kuljetusta, johon ei sisälly pysähtymistä Yhteisön ulkopuolella. Paluukuljetus katsotaan erilliseksi kuljetukseksi.
+Jos väliportaan myyjä on kuitenkin ilmoittanut edelliselle myyjälle kuljetuksen alkamisjäsenvaltiossa annetun arvonlisäverotunnisteensa, ainoastaan väliportaan myyjän tekemä myynti katsotaan kuljetettavien tavaroiden myynniksi.
 
-Henkilökuljetuksen lähtöpaikalla tarkoitetaan paikkaa, jossa kuljetusvälineeseen ensimmäisen kerran voi nousta matkustajia Yhteisön alueella. Henkilökuljetuksen määräpaikalla tarkoitetaan paikkaa, jossa viimeisen kerran Yhteisön alueella kuljetusvälineestä voi poistua matkustajia.
-
-Jos kuljetusväline pysähtyy lähtö- ja määräpaikan välillä Yhteisön ulkopuolella, katsotaan pysähtymistä edeltävän kuljetuksen määräpaikaksi viimeinen Yhteisön alueella oleva määräpaikka ja pysähtymisen jälkeisen kuljetuksen lähtöpaikaksi ensimmäinen Yhteisön alueella oleva lähtöpaikka.
+Väliportaan myyjällä tarkoitetaan sellaista ketjuun kuuluvaa muuta kuin ketjun ensimmäistä myyjää, joka tai jonka puolesta kolmas osapuoli kuljettaa tavarat.

@@ -2,7 +2,7 @@
 Osa: I OSA
 Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 
-Suomessa 63 e §:n mukaan tapahtuvasta tavaran yhteisöhankinnasta ei ole suoritettava veroa, jos:
+Suomessa 63 f §:n mukaan tapahtuvasta tavaran yhteisöhankinnasta ei ole suoritettava veroa, jos:
 1) ostajana on ulkomainen elinkeinonharjoittaja, jolla ei ole sellaista kiinteää toimipaikkaa Suomessa, joka osallistuu tavaran edelleenmyyntiin;
 2) ostaja käyttää hankinnassa toisessa jäsenvaltiossa annettua arvonlisäverotunnistetta;
 3) ostaja ostaa tavaran Suomessa tapahtuvaa edelleenmyyntiä varten;

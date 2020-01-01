@@ -14,6 +14,6 @@ Veroa ei suoriteta seuraavista myynneistä:
 8) tavaran myynti ammattimaisessa kansainvälisessä liikenteessä olevan vesi-aluksen varustamiseksi.
 9–10 kohdat on kumottu L:lla 29.12.1995/1767.
 
-Veroa suoritetaan matkatavaroissa mukaan otettavien tavaroiden myynnistä vesi- tai ilma-aluksessa matkustaville, jos myynti tapahtuu 63 c §:ssä tarkoitetun henkilökuljetuksen aikana.
+Veroa suoritetaan matkatavaroissa mukaan otettavien tavaroiden myynnistä vesi- tai ilma-aluksessa matkustaville, jos myynti tapahtuu 63 d §:ssä tarkoitetun henkilökuljetuksen aikana.
 
 Edellä 1 momenttia ei sovelleta sähkön, unionin alueella sijaitsevan maakaasuverkon tai siihen yhdistetyn verkon kautta toimitettavan kaasun eikä lämpö- ja jäähdytysverkon kautta toimitettavan lämpö- ja jäähdytysenergian myyntiin.

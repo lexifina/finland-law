@@ -4,7 +4,9 @@ Luku: 6 luku Kansainväliseen kauppaan liittyvät verottomuudet
 
 Yhteisömyynnillä tarkoitetaan irtaimen esineen myyntiä, jos myyjä, ostaja tai joku muu heidän puolestaan kuljettaa esineen ostajalle Suomesta toiseen jäsenvaltioon. Esine voidaan ennen kuljetusta toiseen jäsenvaltioon toimittaa elinkeinonharjoittajalle työsuorituksen tekemistä varten.
 
-Tavaran myynti katsotaan yhteisömyynniksi vain, jos ostajana on muussa jäsenvaltiossa kuin Suomessa toimiva elinkeinonharjoittaja tai muu oikeushenkilö kuin elinkeinonharjoittaja.
+Tavaran myynti katsotaan yhteisömyynniksi vain, jos:
+1) ostajana on muussa jäsenvaltiossa kuin Suomessa toimiva elinkeinonharjoittaja tai muu oikeushenkilö kuin elinkeinonharjoittaja; ja
+2) ostajalle on muussa jäsenvaltiossa annettu arvonlisäverotunniste ja hän on ilmoittanut tämän tunnisteen myyjälle.
 
 Yhteisömyynnistä ei kuitenkaan ole kyse silloin, kun ostajana on 63 b §:n 2 momentin 1–3 kohdassa tarkoitettu henkilö,
 1) jonka hankinnat eivät ylitä asianomaisessa jäsenvaltiossa sovellettavaa yhteisöhankintojen verotettavuuden alarajaa eikä henkilö ole hakeutunut hankinnoistaan verovelvolliseksi; tai
