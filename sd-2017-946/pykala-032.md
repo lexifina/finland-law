@@ -1,6 +1,4 @@
-# 32 § Tiedon korjaaminen ja muutoksenhaku
+# 32 § Muutoksenhaku
 Luku: 3 luku Nimiviranomaiset ja menettelysäännökset
 
-Maistraatin velvollisuudesta korjata väestötietojärjestelmään merkitty virheellinen tieto säädetään väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetussa laissa.
-
-Maistraatin päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan. Hallinto-oikeuden ja korkeimman hallinto-oikeuden päätös nimeä koskevassa asiassa on lähetettävä tiedoksi nimilautakunnalle.
+Digi- ja väestötietoviraston päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla siten kuin mainitussa laissa säädetään. Hallinto-oikeuden ja korkeimman hallinto-oikeuden päätös nimeä koskevassa asiassa on lähetettävä tiedoksi nimilautakunnalle.
