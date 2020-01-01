@@ -1,6 +1,10 @@
-# 14 § Vastaavan ulosottomiehen määräytyminen
+# 14 § Vastaavan ulosottomiehen määräytyminen laajassa täytäntöönpanossa
 Luku: 3 luku Yleiset menettelysäännökset
 
-Perusteista, joiden mukaisesti vastaava ulosottomies määräytyy, säädetään valtioneuvoston asetuksella. Perusteissa tulee ottaa huomioon vastaajan asuin- tai kotipaikka tai vastaajan muu tosiasiallinen mahdollisuus valvoa etuaan. Jos on useita mainitut edellytykset täyttäviä vaihtoehtoja, vastaava ulosottomies määräytyy sen mukaan, missä täytäntöönpano voidaan tarkoituksenmukaisimmin toimittaa. Erityistoimia edellyttävät ulosottoasiat voidaan keskittää tietyille ulosottomiehille, jotka toimivat silloin siltä osin vastaavina ulosottomiehinä.
+Vastaajana olevan muun luonnollisen henkilön kuin elinkeinonharjoittajan vastaava ulosottomies on hänen asuin- tai kotipaikkansa ulosottomies.
 
-Vastaavan ulosottomiehen määräytymiseen ei saa hakea muutosta.
+Vastaajana olevan elinkeinonharjoittajan, yhtiön, yhtymän ja muun yhteisön vastaava ulosottomies on vastaajan tosiasiallisen toimipaikan ulosottomies. Jos vastaajalla ei ole tosiasiallista toimipaikkaa Suomessa, vastaava ulosottomies on kotipaikan ulosottomies.
+
+Jos toimitukset pitää kokonaisuudessaan tai pääosin muu kuin 1 tai 2 momentissa tarkoitettu ulosottomies ja samaa vastaajaa koskevia muita ulosottoasioita ei ole vireillä, vastaava ulosottomies on toimituspaikan ulosottomies.
+
+Jos vastaajalla ei ole asuin- tai kotipaikkaa eikä toimipaikkaa Suomessa tai se ei ole tiedossa, taikka jos on useita tässä pykälässä tarkoitetut edellytykset täyttäviä vaihtoehtoja vastaavan ulosottomiehen määräytymiselle, vastaava ulosottomies on sen toimipaikan ulosottomies, jossa täytäntöönpano voidaan tarkoituksenmukaisimmin toimittaa.

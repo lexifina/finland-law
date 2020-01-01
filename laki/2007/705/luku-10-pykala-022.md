@@ -1,5 +1,5 @@
 # 22 § Keskeytysmääräyksen sisältö
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Keskeytysmääräyksessä täytäntöönpano voidaan osittain tai kokonaan keskeyttää seuraavasti:
 1) määräys rajoitetaan koskemaan osaa ulosottoperusteessa asetetuista velvoitteista tai osaa vaatimuksen määrästä;

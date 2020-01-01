@@ -1,5 +1,5 @@
 # 9 § Osoituksen antamisen esteet
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Maksuvelvoitteen täytäntöönpanossa osoitusta täytäntöönpanoriitakanteen nostamiseen ei saa antaa lopullisen tilityksen jälkeen. Muussa täytäntöönpanossa osoitusta ei saa antaa sen jälkeen, kun täytäntöönpano on saatettu lainvoimaisesti loppuun. Osoitusta ei myöskään saa antaa, jos:
 1) väite tai vaatimus koskee seikkaa, josta on asianomaiseen nähden lainvoimainen ulosottomiehen päätös tai tuomioistuimen ratkaisu;

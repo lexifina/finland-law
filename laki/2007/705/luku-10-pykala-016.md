@@ -1,5 +1,5 @@
 # 16 § Vaikutus ulosottoasian käsittelyyn
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Sen mukaan kuin täytäntöönpanoriidassa annettu ratkaisu sitä edellyttää, ulosottomiehen tulee jatkaa täytäntöönpanoa tai peruuttaa se.
 

@@ -1,5 +1,5 @@
 # 10 § Osoituksen sisältö ja tiedoksianto
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Täytäntöönpanoriitaosoitus on annettava kirjallisesti. Osoituksessa on mainittava:
 1) käräjäoikeus, jossa kanne on nostettava, ja kanteen nostamisen määräaika;

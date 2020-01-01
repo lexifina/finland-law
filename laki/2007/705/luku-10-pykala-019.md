@@ -1,5 +1,5 @@
 # 19 § Ulosottomiehen keskeytyspäätös
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 Väliotsikko: Täytäntöönpanon keskeyttäminen
 
 Ulosottomies saa keskeyttää täytäntöönpanon itseoikaisua koskevaa harkintaa varten.

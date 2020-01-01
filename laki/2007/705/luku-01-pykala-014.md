@@ -1,8 +1,14 @@
 # 14 § Nimittäminen ja kelpoisuusvaatimukset
 Luku: 1 luku Yleiset säännökset
 
-Johtavan kihlakunnanvoudin ja kihlakunnanvoudin nimittää Valtakunnanvoudinvirasto.
+Valtakunnanvoudin ja apulaisvaltakunnanvoudin nimittää tasavallan presidentti valtioneuvoston esityksestä. Apulaisvaltakunnanvoudin virka on määräajaksi täytettävä virka, johon nimitetään viideksi vuodeksi kerrallaan. Virkaan nimitetään kuitenkin enintään sen kuukauden loppuun, jona nimitettävä on saavuttanut valtion virkamieslain (750/1994) 35 §:ssä säädetyn eroamisiän.
 
-Kihlakunnanvoudiksi voidaan nimittää oikeustieteen kandidaatin tai oikeustieteen maisterin tutkinnon suorittanut Suomen kansalainen, joka on hyvin perehtynyt ulosottotoimeen tai joka on saavuttanut muissa tehtävissä viran menestyksellisen hoitamisen edellyttämän taidon ja jolla on tehtävään tarvittavat henkilökohtaiset ominaisuudet. Johtavaksi kihlakunnanvoudiksi nimitettävältä edellytetään edellä mainitun lisäksi hyvää johtamistaitoa.
+Sen lisäksi, mitä valtion virkamieslain 8 §:n 2 momentissa säädetään, valtakunnanvoudin ja apulaisvaltakunnanvoudin kelpoisuusvaatimuksena on muu oikeustieteen ylempi korkeakoulututkinto kuin kansainvälisen ja vertailevan oikeustieteen maisterin tutkinto sekä erinomainen perehtyneisyys ulosottotoimeen.
 
-Kihlakunnanulosottomiehen nimittämisestä ja kelpoisuusvaatimuksista säädetään valtioneuvoston asetuksella.
+Johtavan kihlakunnanvoudin, kihlakunnanvoudin, johtavan hallintovoudin ja hallintovoudin nimittää valtakunnanvouti. Johtavan kihlakunnanvoudin ja johtavan hallintovoudin virat ovat määräajaksi täytettäviä virkoja, joihin nimitetään viideksi vuodeksi kerrallaan. Virkaan nimitetään kuitenkin enintään sen kuukauden loppuun, jona nimitettävä on saavuttanut valtion virkamieslain 35 §:ssä säädetyn eroamisiän.
+
+Johtavan kihlakunnanvoudin ja kihlakunnanvoudin viran kelpoisuusvaatimuksena on muu oikeustieteen ylempi korkeakoulututkinto kuin kansainvälisen ja vertailevan oikeustieteen maisterin tutkinto, hyvä perehtyneisyys ulosottotoimeen tai muissa tehtävissä saavutettu taito viran menestykselliseen hoitamiseen sekä tehtävään vaadittavat henkilökohtaiset ominaisuudet. Johtavalla kihlakunnanvoudilla on lisäksi oltava tehtävän hoitamisessa tarvittava johtamistaito.
+
+Johtavan hallintovoudin ja hallintovoudin virkojen kelpoisuusvaatimuksista säädetään valtioneuvoston asetuksella.
+
+Ulosottoylitarkastajan ja ulosottotarkastajan nimittämisestä ja virkojen kelpoisuusvaatimuksista säädetään valtioneuvoston asetuksella. Ulosottolaitoksessa voi olla myös muuta virkasuhteista henkilöstöä.

@@ -1,6 +1,8 @@
-# 12 § Valtakunnanvoudinvirasto
+# 12 § Ulosottolaitoksen johtaminen
 Luku: 1 luku Yleiset säännökset
 
-Valtakunnanvoudinvirastolle kuuluu hallinnollinen ulosottotoimen yleinen johto, ohjaus ja valvonta. Valtakunnanvoudinviraston tulee erityisesti huolehtia ulosottolaitoksen palvelujen alueellisesta saatavuudesta.
+Ulosottolaitosta johtaa ja keskushallinnon päällikkönä toimii valtakunnanvouti. Valtakunnanvouti ratkaisee Ulosottolaitoksen päätettäväksi kuuluvat hallinnolliset asiat, joita ei säädetä tai työjärjestyksessä määrätä muun virkamiehen ratkaistaviksi.
 
-Valtakunnanvoudinviraston päällikön nimittää valtioneuvosto. Muutoin viraston tehtävistä, viroista ja muusta järjestämisestä säädetään erikseen lailla.
+Valtakunnanvoudin apuna ja sijaisena toimii apulaisvaltakunnanvouti. Apulaisvaltakunnanvouti ratkaisee hänen käsiteltäväkseen kuuluvat asiat samoin valtuuksin kuin valtakunnanvouti.
+
+Kunkin toimintayksikön päällikkönä toimii johtava kihlakunnanvouti, joka johtaa ja kehittää toimintayksikön toimintaa, vastaa sen toiminnan tuloksellisuudesta sekä seuraa ja valvoo ulosottotoiminnan yhdenmukaisuutta.

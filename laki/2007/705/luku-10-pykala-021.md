@@ -1,5 +1,5 @@
 # 21 § Keskeytysmääräyksen perusteet
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Keskeytysmääräyksen antamista ja sisältöä harkittaessa tulee ottaa huomioon täytäntöönpanon vaihe, todennäköisyys valituksen tai kanteen hyväksymiselle, keskeytyksestä tai täytäntöönpanon jatkamisesta osapuolille aiheutuva mahdollinen haitta sekä muut vastaavat seikat.
 

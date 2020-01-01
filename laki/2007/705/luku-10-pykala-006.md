@@ -1,5 +1,5 @@
 # 6 § Täytäntöönpanoriitana käsiteltävät asiat
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 Väliotsikko: Täytäntöönpanoriita
 
 Asia voidaan kanteesta käsitellä tuomioistuimessa riita-asiana (täytäntöönpanoriita), jos:

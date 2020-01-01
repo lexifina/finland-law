@@ -1,5 +1,5 @@
 # 7 § Osoituksen antaminen
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Ulosottomies antaa osoituksen täytäntöönpanoriitakanteen nostamiseen, jos väitteen tai vaatimuksen tueksi on esitetty todennäköisiä perusteita ja ulosottoasia on tämän johdosta tullut epäselväksi eikä selvitystä voida hankkia ulosottomenettelyssä.
 

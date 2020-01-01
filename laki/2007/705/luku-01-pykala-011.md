@@ -1,9 +1,11 @@
-# 11 § Ulosottolaitoksen organisaatio
+# 11 § Ulosottolaitoksen täytäntöönpano-organisaatio
 Luku: 1 luku Yleiset säännökset
 Väliotsikko: Ulosottotoimen hallinto
 
-Ulosottolaitos muodostuu keskushallinnosta ja sen alaisista paikallisista ulosottovirastoista.
+Tässä laissa tarkoitettua täytäntöönpanoa varten on oikeusministeriön hallinnonalaan kuuluva Ulosottolaitos, jonka virka-alueena on koko maa.
 
-Ulosottotoimen keskushallinnosta huolehtii Valtakunnanvoudinvirasto. Valtakunnanvoudinvirasto ja ulosottovirastot kuuluvat oikeusministeriön hallinnonalaan.
+Ulosottolaitoksessa on laajan täytäntöönpanon alueelliset toimintayksiköt. Aluejaosta säädetään valtioneuvoston asetuksella. Lisäksi Ulosottolaitoksessa on perustäytäntöönpanon ja erityistäytäntöönpanon valtakunnalliset toimintayksiköt.
 
-Ulosottoviraston toimialue (ulosottopiiri) muodostuu yhdestä tai useammasta kihlakunnasta. Ulosottopiireistä säädetään valtioneuvoston asetuksella. Ulosottoviraston toimipaikoista säädetään oikeusministeriön asetuksella.
+Ulosottolaitoksella on toimipaikka Ahvenanmaan maakunnassa. Poiketen siitä, mitä 2 momentissa säädetään, Ahvenanmaan toimipaikassa käsitellään myös perustäytäntöönpanoon kuuluvat ulosottoasiat laajan täytäntöönpanon toimintayksikössä. Muista Ulosottolaitoksen toimipaikoista ja niiden tehtävistä säädetään oikeusministeriön asetuksella.
+
+Toimintaa järjestettäessä on huolehdittava palveluiden alueellisesta saatavuudesta ja kielellisten oikeuksien toteutumisesta.

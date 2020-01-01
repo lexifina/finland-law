@@ -1,5 +1,5 @@
 # 12 § Kanteen nostaminen ja sen laiminlyönti
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Täytäntöönpanoriitakanne on nostettava osoituksen mukaisesti neljän viikon kuluessa osoituksen tiedoksisaannista. Osoituksen antaja voi kirjallisesta hakemuksesta pidentää määräaikaa, jos siihen on hyväksyttävä syy. Hakemus tulee tehdä ennen alkuperäisen määräajan päättymistä. Päätökseen, jolla määräaikaa on pidennetty, ei saa hakea muutosta.
 

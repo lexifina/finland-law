@@ -1,5 +1,5 @@
 # 2 § Oikaisun esteet
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Ulosottomies ei saa asiavirheen perusteella oikaista:
 1) ulosmittausta, jos huutokauppaa koskeva myynti-ilmoitus on julkaistu, ellei oikaisuun ole painavia syitä;

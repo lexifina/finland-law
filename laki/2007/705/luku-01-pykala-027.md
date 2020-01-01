@@ -3,4 +3,4 @@ Luku: 1 luku Yleiset säännökset
 
 Ulosottorekisteriä varten kerättyjen ja siihen talletettujen henkilötietojen käsittelyyn sovelletaan henkilötietolakia, jollei jäljempänä toisin säädetä.
 
-Kihlakunnanvoudit, heidän alaisensa virkamiehet sekä oikeusministeriön ja Valtakunnanvoudinviraston asianomaiset virkamiehet saavat ulosottoasiassa tai ulosoton hallintoasiassa käsitellä salassapitosäännösten estämättä 26 §:ssä mainittuja tietoja, erityistietoja kuitenkin vain asiassa välttämättömin osin.
+Ulosottolaitoksen virkamiehet saavat ulosottoasiassa tai ulosoton hallintoasiassa käsitellä salassapitosäännösten estämättä 26 §:ssä tarkoitettuja tietoja siltä osin kuin se on tarpeellista heidän virkatehtäviensä suorittamiseksi, erityistietoja kuitenkin vain siltä osin kuin se on välttämätöntä tällaisten tehtävien suorittamiseksi. Oikeusministeriön virkamiehet saavat ulosoton hallintoasiassa käsitellä salassapitosäännösten estämättä 26 §:ssä tarkoitettuja tietoja siltä osin kuin se on välttämätöntä heidän virkatehtäviensä suorittamiseksi.

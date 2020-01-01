@@ -1,7 +1,7 @@
 # 31 § Todistus ulosottorekisteristä
 Luku: 1 luku Yleiset säännökset
 
-Jokaisella on oikeus saada paikalliselta ulosottoviranomaiselta nimeämäänsä henkilöä ulosottoasian vastaajana koskeva todistus ulosottorekisteristä. Todistukseen merkitään pyynnön esittämispäivää edeltäneiden kahden vuoden aikana talletetut seuraavat tiedot:
+Jokaisella on oikeus saada ulosottoviranomaiselta nimeämäänsä henkilöä ulosottoasian vastaajana koskeva todistus ulosottorekisteristä. Todistukseen merkitään pyynnön esittämispäivää edeltäneiden kahden vuoden aikana talletetut seuraavat tiedot:
 1) hakijan ja vastaajan nimi sekä vastaajan syntymäaika ja kotikunta;
 2) ulosottoasia, sen vireilläoloaika ja passiivisaatavaksi rekisteröinti;
 3) hakijan saatavan määrä ja hakijalle tilitetty määrä;

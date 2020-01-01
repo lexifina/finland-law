@@ -1,5 +1,5 @@
 # 11 § Muutoksenhaku
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Jos ulosottomies on antanut täytäntöönpanoriitaosoituksen, osoituksen saaja saa kanteen sijasta käyttää valitusoikeuttaan.
 

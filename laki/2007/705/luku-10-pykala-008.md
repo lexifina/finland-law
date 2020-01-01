@@ -1,5 +1,5 @@
 # 8 § Asianosaiset ja kuuleminen
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Asianosaisia täytäntöönpanoriidassa ovat ulosottoasian hakija tai velkoja ja vastaaja sekä sivullinen, jonka oikeutta täytäntöönpano koskee.
 

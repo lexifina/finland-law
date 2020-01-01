@@ -1,5 +1,5 @@
 # 18 § Oikeudenkäyntikulut
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Jos täytäntöönpanoriitakanne on nostettu osoituksesta, asianosaiset vastaavat itse oikeudenkäyntikuluistaan. Tuomioistuin voi kuitenkin erityisestä syystä velvoittaa sen, jolle tuomioistuimen päätös on vastainen, osittain tai kokonaan korvaamaan vastapuolelleen aiheutuneet kulut noudattaen soveltuvin osin oikeudenkäymiskaaren 21 luvun säännöksiä.
 

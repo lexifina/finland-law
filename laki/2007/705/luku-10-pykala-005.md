@@ -1,5 +1,5 @@
 # 5 § Oikaisupäätöksen tiedoksianto ja täytäntöönpano
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 
 Päätös, jolla asiavirhe tai kirjoitusvirhe on oikaistu, annetaan tiedoksi sille, jonka oikeutta muutos koskee. Hakijalle oikaisusta ilmoitetaan, jos päätös poikkeaa hänelle aiemmin ilmoitetusta tai ilmoittaminen on muutoin tarpeellista. Oikaisupyynnön hylkäämisestä ilmoitetaan pyynnön esittäjälle.
 

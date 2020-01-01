@@ -1,5 +1,5 @@
 # 1 § Asiavirheen oikaisu
-Luku: 10 luku Itseoikaisu, täytäntöönpanoriita ja täytäntöönpanon keskeyttäminen
+Luku: 10 luku Itseoikaisu, täytäntöönpanoriita, täytäntöönpanon keskeyttäminen ja kantelu
 Väliotsikko: Itseoikaisu
 
 Ulosottomiehen tulee oikaista samassa ulosottoasiassa tehty toimi tai päätös, jos se perustuu selvästi virheelliseen tai puutteelliseen selvitykseen taikka ilmeisen väärään lain soveltamiseen (asiavirheen oikaisu).
