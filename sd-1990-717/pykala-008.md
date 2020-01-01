@@ -3,4 +3,8 @@ Luku: 3 luku Hallinto
 
 Rahaston hallintoa hoitavat hallintoneuvosto, hallitus ja yliasiamies.
 
-Hallintoneuvostoon kuuluvat eduskunnan asettamat pankkivaltuutetut. Hallintoneuvos-ton puheenjohtajana toimii pankkivaltuuston puheenjohtaja ja varapuheenjohtajana pankkivaltuuston varapuheenjohtaja. Hallintoneuvoston jäsenten palkkiot määrää valtiovarainministeriö.
+Hallintoneuvostossa on vähintään 13 ja enintään 17 jäsentä.
+
+Hallintoneuvoston jäsenet valitsee eduskunta vaalikauden ensimmäisillä valtiopäivillä. Heidän toimensa alkaa niin pian kuin vaali on toimitettu ja kestää seuraavan hallintoneuvoston jäsenten vaalin toimittamiseen.
+
+Hallintoneuvosto valitsee keskuudestaan puheenjohtajan ja varapuheenjohtajan.
