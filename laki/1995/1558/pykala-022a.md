@@ -18,4 +18,4 @@ Laiminlyöntimaksua ei määrätä luonnolliselle henkilölle tai kuolinpesälle
 
 Laiminlyöntimaksu ei ole verotuksessa vähennyskelpoinen meno. Laiminlyöntimaksu tilitetään valtiolle. Maksuunpannulle ja maksettavaksi erääntyneelle maksamattomalle laiminlyöntimaksulle peritään veronlisäyksestä ja viivekorosta annetun lain (1556/1995) 5 a §:n mukaista viivästyskorkoa.
 
-Edellä 22 §:n 6 momentissa tarkoitetuille tulorekisteriin talletettaville tiedoille määrättävästä myöhästymismaksusta säädetään tulotietojärjestelmästä annetussa laissa. Tämän pykälän mukaista laiminlyöntimaksua ei määrätä, jos tiedon antamisesta myöhässä on määrätty mainitussa laissa tarkoitettu myöhästymismaksu.
+Edellä 22 §:n 6 momentissa tarkoitetuille tulorekisteriin talletettaville tiedoille määrättävästä myöhästymismaksusta säädetään tulotietojärjestelmästä annetussa laissa. Tämän pykälän mukaista laiminlyöntimaksua ei määrätä tulorekisteriin annettavan tiedon myöhästymisestä, jos tiedon antamisesta myöhässä on määrätty mainitussa laissa tarkoitettu myöhästymismaksu.
