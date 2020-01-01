@@ -1,7 +1,7 @@
 # 15 § Muutoksenhaku
 
-Liikenne- ja viestintäviraston tämän lain nojalla antamaan päätökseen saa vaatia oikaisua siten kuin hallintolaissa säädetään.
+Liikenne- ja viestintäviraston tämän lain nojalla antamaan päätökseen saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa.
 
-Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
 
 Liikenne- ja viestintävirasto voi päätöksessään määrätä, että päätöstä on noudatettava muutoksenhausta huolimatta, jollei valitusviranomainen toisin määrää.
