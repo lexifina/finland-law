@@ -3,7 +3,7 @@ Luku: 7 luku Valvonta ja seuraamukset
 
 Jokaisella on oikeus saada rekisteristä yritys- ja yhteisötunnuksella tai toiminimellä taikka aputoiminimellä yksilöimästään yrityksestä rekisteriin tallennetut tiedot. Tietoa tähän rekisteriin merkityistä ilmoitusvelvollisista voi hakea myös kootusti elinkeinotoiminnan perusteella.
 
-Sen estämättä, mitä viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 16 §:n 3 momentissa säädetään, rekisteristä saa luovuttaa tiedon luonnollisen henkilön nimestä tai syntymäajasta tulosteena, teknisen käyttöyhteyden avulla tai muutoin sähköisesti taikka saattaa ne yleisesti saataville sähköisen tietoverkon kautta. Henkilötietoja voidaan hakea sähköisen tietoverkon kautta vain yksittäisinä hakuina.
+Sen estämättä, mitä viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 16 §:n 3 momentissa säädetään, rekisteristä saa luovuttaa tiedon luonnollisen henkilön nimestä tai syntymäajasta siten kuin julkisen hallinnon tiedonhallinnasta annetussa laissa (906/2019) säädetään tai saattamalla tiedot yleisesti saataville sähköisen tietoverkon kautta. Henkilötietoja voidaan hakea sähköisen tietoverkon kautta vain yksittäisinä hakuina.
 
 Seuraavat rekisteriin merkityt tiedot Finanssivalvonnan on kuitenkin pidettävä yleisesti saatavilla sähköisen tietoverkon avulla:
 1) elinkeinonharjoittajan nimi sekä toiminimi, mahdollinen aputoiminimi, yritys- ja yhteisötunnus tai muu vastaava tunniste, päätoimipaikka ja niiden toimipaikkojen käyntiosoite, joissa edustajana toimimista harjoitetaan;
