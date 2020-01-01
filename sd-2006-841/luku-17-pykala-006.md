@@ -5,4 +5,4 @@ Valitusta käsitellessään hallinto-oikeus on päätösvaltainen yksijäsenisen
 
 Hallinto-oikeuden päätökseen ei saa hakea muutosta valittamalla.
 
-Asian käsittelystä on muutoin voimassa, mitä hallintolainkäyttölaissa (586/1996) säädetään.
+Asian käsittelystä on muutoin voimassa, mitä oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019) säädetään.
