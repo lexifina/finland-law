@@ -2,4 +2,6 @@
 Osa: VI OSA SAIRAUSVAKUUTUKSEN RAHOITUS
 Luku: 18 luku Sairausvakuutusrahasto ja vakuutusmaksut
 
-Työnantajan sairausvakuutusmaksu on lain voimaan tullessa 2,06 prosenttia työnantajan sosiaaliturvamaksusta annetussa laissa tarkoitetusta palkasta.
+Työnantajan sairausvakuutusmaksu määräytyy vuodelle 2020 siten, että sen tuotoilla rahoitetaan korvaukset vanhemmuudesta aiheutuvista perhevapaakustannuksista sekä 52 prosenttia 12 §:ssä tarkoitetuista työtulovakuutuksen kuluista, joista on vähennetty korvaukset vanhemmuudesta aiheutuvista perhevapaakustannuksista.
+
+Työnantajan sairausvakuutusmaksu peritään työnantajan sairausvakuutusmaksusta annetussa laissa (771/2016) tarkoitetusta palkasta.

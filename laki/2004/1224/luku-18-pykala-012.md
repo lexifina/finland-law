@@ -2,6 +2,4 @@
 Osa: VI OSA SAIRAUSVAKUUTUKSEN RAHOITUS
 Luku: 18 luku Sairausvakuutusrahasto ja vakuutusmaksut
 
-Työnantajien suorittaman sairausvakuutusmaksun sekä palkka- ja työtulon perusteella perittävän sairausvakuutuksen päivärahamaksun tuotoilla rahoitetaan 11 §:ssä tarkoitetut työtulovakuutuksen kulut, joista on vähennetty 13 §:ssä tarkoitetulla valtion osuudella ja yrittäjän lisärahoitusosuudella rahoitettavat kulut.
-
-Lain voimaan tullessa 1 momentissa tarkoitetuista kuluista rahoitetaan työnantajan sairausvakuutusmaksulla 73 prosenttia ja sairausvakuutuksen päivärahamaksulla 27 prosenttia.
+Työnantajien suorittaman sairausvakuutusmaksun sekä palkka- ja yrittäjätulon perusteella perittävän sairausvakuutuksen päivärahamaksun tuotoilla rahoitetaan 11 §:ssä tarkoitetut työtulovakuutuksen kulut, joista on vähennetty 13 §:ssä tarkoitetulla valtion osuudella ja yrittäjän lisärahoitusosuudella rahoitettavat kulut.

@@ -2,10 +2,16 @@
 Osa: VI OSA SAIRAUSVAKUUTUKSEN RAHOITUS
 Luku: 18 luku Sairausvakuutusrahasto ja vakuutusmaksut
 
-Valtion varoista rahoitetaan:
-1) kulut, jotka aiheutuvat sellaisen 11 §:n 1 momentin 1 kohdan mukaisen päivärahan tai kuntoutusrahan maksamisesta, joka on enintään 11 luvun 7 §:ssä tarkoitetun vähimmäismäärän suuruinen tai, kun on kysymyksessä Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 35 §:ssä tarkoitettu kuntoutusraha, enintään viimeksi mainitussa pykälässä tarkoitetun vähimmäismäärän suuruinen; valtion varoista ei kuitenkaan rahoiteta niitä sairauspäivärahoja ja kuntoutusrahoja, jotka ovat enintään vähimmäismäärän suuruisia 12 luvun tai Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 36 §:n 1 momentin tai 37 taikka 39 §:n mukaisen yhteensovituksen vuoksi eikä niitä päivärahoja, joiden määrä on määräytynyt tämän lain 11 luvun 6 §:n perusteella ja ovat vähintään 11 luvun 7 §:ssä tarkoitetun vähimmäismäärän suuruisia;
-2) kulut, jotka aiheutuvat 13 luvun 2 §:n 2 momentissa tarkoitetun sairaanhoidon ja muun terveydenhuollon korvaamisesta yrittäjälle ja muulle omaa työtään tekevälle;
-3) 0,1 prosenttia kuluista, jotka aiheutuvat muun kuin 1 kohdassa tarkoitetun suuruisena maksettavasta tämän lain mukaisesta vanhempainpäivärahasta aiheutuvasta kulusta; sekä
-4) 11 §:n 1 momentin 4 kohdassa tarkoitetut kulut.
+Jos 11 §:n 1 momentin 1 kohdan mukaisen päivärahaetuuden tai kuntoutusrahan määrä jäisi 11 luvun 2 §:n 1 momentin mukaisen vuositulon perusteella laskettuna alle 11 luvun 10 §:n vähimmäismääräisen päivärahaetuuden, rahoitetaan valtion varoista se osuus vähimmäismääräisenä maksettavan päivärahaetuuden tai kuntoutusrahan kuluista, joka ylittää vuositulon perusteella lasketun päivärahaetuuden tai kuntoutusrahan määrän.
+
+Jos Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 35 §:ssä tarkoitettu kuntoutusraha jäisi alle sanotussa pykälässä mainitun vähimmäismääräisen kuntoutusrahan, rahoitetaan valtion varoista se osuus vähimmäismääräisenä maksettavan kuntoutusrahan kuluista, joka ylittää vuositulon perusteella lasketun kuntoutusrahan määrän.
+
+Lisäksi valtio rahoittaa viisi prosenttia päivärahaetuus- ja kuntoutusrahakuluista, jotka muutoin rahoitettaisiin työnantajan sairausvakuutusmaksulla ja vakuutetun päivärahamaksulla.
+
+Jos sairauspäivärahan määrää vähennetään 12 luvussa säädetyn yhteensovituksen vuoksi tai kuntoutusrahaa Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 36 §:n 1 momentissa tai 37 taikka 39 §:n säädetyn yhteensovituksen vuoksi, pienentää tämä vähennys ensisijaisesti vakuutusmaksuilla rahoitettavaa osuutta. Vastaavasti menetellään, kun vanhempainpäiväraha maksetaan 11 luvun 11 tai 12 §:n perusteella vähimmäismääräisenä.
+
+Lisäksi valtion varoista rahoitetaan:
+1) kulut, jotka aiheutuvat 13 luvun 2 §:n 2 momentissa tarkoitetun sairaanhoidon ja muun terveydenhuollon korvaamisesta yrittäjälle ja muulle omaa työtään tekevälle; sekä
+2) 11 §:n 1 momentin 4 kohdassa tarkoitetut kulut.
 
 Kulut, jotka aiheutuvat 8 luvun 10 §:n perusteella maksettavasta sairauspäivärahasta, rahoitetaan yrittäjän eläkelaissa tarkoitetun työtulon perusteella perittävän maksun tuotoilla (yrittäjän lisärahoitusosuus). Yrittäjän lisärahoitusosuutta peritään päivärahamaksun lisäksi vakuutetulta, jolla on voimassa yrittäjän eläkelaissa tarkoitettu vakuutus.

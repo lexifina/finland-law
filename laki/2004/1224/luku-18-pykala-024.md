@@ -2,7 +2,7 @@
 Osa: VI OSA SAIRAUSVAKUUTUKSEN RAHOITUS
 Luku: 18 luku Sairausvakuutusrahasto ja vakuutusmaksut
 
-Sairausvakuutuksen päivärahamaksun ja työnantajan sairausvakuutusmaksun maksuprosenttia tarkistetaan vuosittain siten, että maksujen tuotoilla ja valtion rahoitusosuudella voidaan kattaa 11 §:ssä tarkoitetut työtulovakuutuksen kulut. Ensimmäisen vuoden jälkeen kulujen muutokset rahoitetaan siten, että valtion rahoitusosuuden vähentämisen jälkeen tarvittavat maksujen muutokset jakautuvat tasan päivärahamaksun ja työnantajan sairausvakuutusmaksun kesken. Maksuprosenttia tarkistetaan kahden desimaalin tarkkuudella.
+Sairausvakuutuksen päivärahamaksun ja työnantajan sairausvakuutusmaksun maksuprosenttia tarkistetaan vuosittain siten, että maksujen tuotoilla ja valtion rahoitusosuudella voidaan kattaa 11 §:ssä tarkoitetut työtulovakuutuksen kulut. Kulujen muutokset rahoitetaan siten, että valtion rahoitusosuuden vähentämisen jälkeen tarvittavat maksujen muutokset jakautuvat tasan päivärahamaksun ja työnantajan sairausvakuutusmaksun kesken. Maksuprosenttia tarkistetaan kahden desimaalin tarkkuudella.
 
 Sen estämättä, mitä 1 momentissa säädetään, yrittäjän lisärahoitusosuutta tarkistetaan vuosittain siten, että yrittäjän lisärahoitusosuuden tuotolla voidaan kattaa se osa 11 §:ssä tarkoitetuista työtulovakuutuksen kuluista, joka muodostuu 8 luvun 10 §:ssä tarkoitetusta päivärahamenosta.
 

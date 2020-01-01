@@ -1,7 +1,7 @@
-# 9 § Isän vanhempainpäivärahan määrä
+# 9 § Vanhempainpäivärahaa koskevat erityissäännökset
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 11 luku Päivärahaetuuksien määrä
 
-Isän vanhempainpäivärahakausi alkaa sinä päivänä, jolta hänelle maksetaan ensimmäisen kerran vanhempainpäivärahaa saman lapsen perusteella. Isyys- ja vanhempainrahan määrä on samasta lapsesta koko vanhempainpäivärahakauden ajan samansuuruinen, jollei 8 §:stä muuta johdu.
+Vanhempainpäivärahaoikeuden alkamisajankohtana pidetään sitä päivää, jolta vanhemmalle maksetaan ensimmäisen kerran vanhempainpäivärahaa saman lapsen perusteella. Vanhempainpäiväraha määräytyy samasta lapsesta koko vanhempainpäivärahakauden ajan saman vuositulon perusteella.
 
-Isyysraha maksetaan vähimmäismääräisenä varusmiespalveluksessa vakinaisessa väessä, aseettomana, reserviläisenä tai nostoväkeen kuuluvana puolustusvoimien palveluksessa taikka siviilipalvelusmiehenä olevalle sekä opintotukilain mukaista opintorahaa saavalle.
+Sen estämättä, mitä 2 §:ssä säädetään, vanhempainpäivärahan suuruus voidaan määrätä edellisen vanhempainpäivärahan perusteena olleen 2 §:ssä tarkoitetun vuositulon mukaisesti, jos lapsi, jonka perusteella edellisen kerran on maksettu vanhempainpäivärahaa, ei ole täyttänyt tai hänen hoitoon ottamisestaan ei ole kulunut kolmea vuotta ennen laskettua synnytysaikaa tai lapsen hoitoon ottamista. Tällöin edellisen vanhempainpäivärahan perusteena ollutta vuosituloa tarkistetaan siinä suhteessa kuin vanhempainpäivärahaoikeuden alkamisajankohdalle vahvistettu työntekijän eläkelain 96 §:ssä tarkoitettu palkkakerroin poikkeaa edelliselle kalenterivuodelle vahvistetusta palkkakertoimesta.

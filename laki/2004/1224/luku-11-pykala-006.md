@@ -1,16 +1,22 @@
-# 6 § Sairaus- ja vanhempainpäiväraha ja erityishoitoraha edeltävän etuuden perusteella
+# 6 § Etuusperusteinen tulo
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 11 luku Päivärahaetuuksien määrä
 
-Jos vakuutettu on sairaus- tai vanhempainpäivärahaoikeuden tai erityishoitorahaoikeuden alkamista edeltävien neljän kuukauden aikana saanut työttömyysturvalain mukaista työttömyysetuutta, hänelle maksettava sairaus- ja vanhempainpäiväraha tai erityishoitoraha on vähintään 86 prosenttia hänelle maksetun etuuden määrästä. Tällöin ei työttömyysetuuden määrää laskettaessa oteta huomioon:
-1) työttömyysturvalain 4 luvun 4 §:n mukaista sovittelussa huomioon otettavaa tuloa;
-2) työttömyysturvalain 6 luvun 3 a §:ssä tai 7 luvun 5 a §:ssä tarkoitettua työttömyysetuuden alentamista;
-3) sellaista työttömyysturvalain 4 luvun 7 §:ssä tarkoitettua etuutta, joka tämän lain 12 luvun 2 §:n mukaan on vähennettävä päivärahasta;
-4) työttömyysturvalain 6 luvun 2 §:n 2 momentin mukaan määräytyvää korotettua ansio-osaa siltä osin kuin sen määrä ylittää mainitun pykälän 1 momentin mukaan määräytyvän ansio-osan;
-5) työttömyysturvalain 6 luvun 1 §:n 2 momentin mukaan määräytyvää peruspäivärahan korotusosaa eikä mainitun lain 7 luvun 4 §:n 1 momentin mukaan määräytyvää työmarkkinatuen korotusosaa.
+Etuusperusteinen tulo lasketaan tarkastelujakson aikana saatujen seuraavien ansionmenetyskorvausten ja sosiaalietuuksien perusteella:
+1) työttömyysturvalain mukainen työttömyysetuus;
+2) vuorotteluvapaalain (1305/2002) mukainen vuorottelukorvaus;
+3) 1 luvun 4 §:n 6 kohdassa tarkoitettu päivärahaetuus lukuun ottamatta tartuntatautilain mukaista tartuntatautipäivärahaa;
+4) Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain tai työntekijän eläkelain 3 §:ssä tarkoitettujen työeläkelakien mukainen kuntoutusraha tai kuntoutuskorotus;
+5) työntekijän eläkelain 3 §:ssä tarkoitettujen työeläkelakien mukainen työkyvyttömyyseläke tai kansaneläkelain 12 §:n 1 momentin mukainen työkyvyttömyyseläke;
+6) takuueläkkeestä annetun lain 7 §:n 1 momentin 3–5 kohdan tai 2 momentin 2 kohdan mukainen takuueläke;
+7) aikuiskoulutusetuuksista annetun lain (1276/2000) mukainen aikuiskoulutustuki;
+8) kansanedustajan eläkkeestä ja sopeutumisrahasta annetun lain mukainen sopeutumiseläke tai sopeutumisraha; tai
+9) opintotukilain mukainen opintoraha.
 
-Sairaus- ja vanhempainpäiväraha ja erityishoitoraha on vähintään opintorahan kuukausimäärän kahdeskymmenesviidesosa, jos vakuutettu on etuuskauden alkamista edeltävän neljän kuukauden aikana saanut opintotukilain mukaista opintorahaa.
+Vakuutetun saamista 1 momentin mukaisista ansiomenetyskorvauksista ja sosiaalietuuksista lasketaan etuuden keskimääräinen määrä päivää kohti siten, että tarkastelujakson ajalle myönnettyjen etuuksien yhteismäärä jaetaan etuusjaksojen yhteenlaskettujen arkipäivien lukumäärällä. Saatu rahamäärä pyöristetään lähimpään senttiin.
 
-Sairaus- ja vanhempainpäiväraha ja erityishoitoraha on vähintään kuntoutusrahan suuruinen, jos vakuutettu on etuuskauden alkamista edeltävien kuuden kuukauden aikana saanut Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain mukaista kuntoutusrahaa. Jos vakuutettu on saanut vastaavana aikana työeläkelakien mukaista kuntoutusrahaa, osakuntoutusrahaa tai kuntoutusavustuksena maksettavaa kuntoutusrahaa, sairaus- ja vanhempainpäiväraha ja erityishoitoraha on vähintään vakuutetulle suoritetun kuntoutusrahan kuukausimäärän kahdeskymmenesviidesosa. Tällöin ei kuitenkaan oteta huomioon Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 32 §:n 2 momentin mukaan määräytyneestä kuntoutusrahasta sitä osuutta, jolla se ylittää sen määrän, joka vastaavassa tilanteessa olisi määritelty mainitun lain 32 §:n 1 momentin mukaan kuntoutusrahan määräksi, eikä mainitun lain 33 §:n 1 momentissa tarkoitettua 10 prosentin korotusta eikä työeläkelakien mukaista 33 prosentin korotusta.
+Etuusperusteisen tulon laskemiseksi määritellään etuusperusteinen vuositulo. Etuusperusteinen vuositulo on sellainen tulo, josta 1 §:n 2 ja 3 momentissa säädetyllä päivärahaetuuden määräytymisperusteella saadaan yhtä suuri päiväkohtainen etuuden määrä kuin 2 momentin mukaisesti laskettu etuuden keskimääräinen määrä. Saatu rahamäärä pyöristetään lähimpään senttiin.
 
-Jos vakuutettu on saanut sairaus- tai vanhempainpäivärahan taikka erityishoitorahan alkamista edeltäneenä aikana useampaa kuin yhtä 1–3 momentissa mainituista etuuksista, sairaus- ja vanhempainpäivärahan ja erityishoitorahan perusteena käytetään sitä etuutta, jota vakuutettu on viimeksi saanut.
+Etuusperusteisesta vuositulosta huomioidaan etuusperusteisena tulona osuus, joka on kolmassadasosa tarkastelujaksoon sisältyvien etuusjaksojen arkipäivien lukumäärästä. Saatu rahamäärä pyöristetään lähimpään senttiin.
+
+Jos vakuutettu on saanut 1 momentin 5 kohdan mukaista muuta kuin täyttä työkyvyttömyyseläkettä tarkastelujaksolla ja mainitun etuuden maksu jatkuu päivärahaetuuden kanssa samaan aikaan, ei etuutta huomioida tältä ajalta vuositulossa päivärahaetuuden määrää laskettaessa.

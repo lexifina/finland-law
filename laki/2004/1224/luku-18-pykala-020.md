@@ -3,8 +3,10 @@ Osa: VI OSA SAIRAUSVAKUUTUKSEN RAHOITUS
 Luku: 18 luku Sairausvakuutusrahasto ja vakuutusmaksut
 Väliotsikko: Vakuutusmaksujen määrä ja tarkistaminen
 
-Sairausvakuutuksen sairaanhoitomaksu on lain voimaan tullessa 1,33 prosenttia kunnallisverotuksessa verotettavasta ansiotulosta ja muusta 14 ja 16–19 §:ssä tarkoitetusta sairaanhoitomaksun maksuperusteesta.
+Sairausvakuutuksen sairaanhoitomaksu määräytyy siten, että vakuutetuilta perittävän sairausvakuutuksen sairaanhoitomaksun tuotoilla rahoitetaan 9 §:ssä tarkoitettu rahoitusosuus.
 
-Jos vakuutettu saa muuta kuin 15–18 §:ssä tarkoitettua ansiotuloa, häneltä peritään tästä tulosta sen lisäksi, mitä 1 momentissa ja 23 §:ssä säädetään, sairausvakuutuksen sairaanhoitomaksua 0,17 prosenttia.
+Sairaanhoitomaksu peritään kunnallisverotuksessa verotettavasta ansiotulosta ja muusta 14 ja 16–19 §:ssä tarkoitetusta sairaanhoitomaksun maksuperusteesta.
 
-Edellä 2 momentissa tarkoitettu maksu lasketaan sairaanhoitomaksun maksuperusteen ja päivärahamaksun maksuperusteen erotuksesta. Jos päivärahamaksun maksuperuste on suurempi kuin sairaanhoitomaksun maksuperuste, 2 momentissa tarkoitettua maksua ei peritä.
+Jos vakuutettu saa muuta kuin 15–18 §:ssä tarkoitettua ansiotuloa, häneltä peritään tästä tulosta sen lisäksi, mitä 1 momentissa ja 23 §:ssä säädetään, sairausvakuutuksen sairaanhoitomaksua 0,97 prosenttia. Maksua ei kuitenkaan peritä 14 §:n 2 momentissa mainituista tuloista.
+
+Edellä 3 momentissa tarkoitettu maksu lasketaan sairaanhoitomaksun maksuperusteen ja päivärahamaksun maksuperusteen erotuksesta. Jos päivärahamaksun maksuperuste on suurempi kuin sairaanhoitomaksun maksuperuste, 3 momentissa tarkoitettua maksua ei peritä.

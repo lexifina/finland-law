@@ -1,5 +1,7 @@
-# 8 § Ansiotyössä ja omassa työssä olon vaikutus vanhempainpäivärahan määrään
+# 8 § Sairauspäivärahan määräytyminen vakuutetun ollessa työkyvytön vain johonkin työhönsä
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 11 luku Päivärahaetuuksien määrä
 
-Äitiys- ja vanhempainraha maksetaan äidille vähimmäismäärän suuruisena, jos äiti on samanaikaisesti ansiotyössä tai omassa työssä lukuun ottamatta omassa kotitaloudessa suoritettavaa työtä tai opiskelee päätoimisesti ja saa opintotukilain mukaista opintorahaa. Vastaavasti menetellään isälle maksettavan vanhempainrahan osalta. Mitä tässä pykälässä säädetään, ei kuitenkaan sovelleta osittaiseen vanhempainrahaan. Ansiotyössä olemisena ei pidetä vanhemman toimimista kuntalain 69 §:ssä tarkoitettuna luottamushenkilönä lukuun ottamatta mainitun lain 80 §:ssä tarkoitettuja päätoimisia ja osa-aikaisia luottamushenkilöitä.
+Jos vakuutettu tulee työkyvyttömäksi työskennellessään samanaikaisesti kahdessa tai useammassa työsuhteessa taikka omassa työssä ja on työkyvytön vain johonkin työhönsä, sairauspäiväraha määräytyy 2 §:n 1 momentin mukaisesti tästä työstä aiheutuneen ansionmenetyksen perusteella. Tulosta tehdään vakuutusmaksuvähennys siten kuin 7 §:ssä säädetään. Tätä pykälää ei kuitenkaan sovelleta, jos kysymyksessä on hyvin vähäinen työskentely toisessa työssä.
+
+Jos vakuutetun työkyvyttömyys jatkuu ja hän tulee työkyvyttömäksi kaikkiin töihinsä, sairauspäiväraha määräytyy työkyvyttömyyden alkamista edeltäneiden vuositulojen perusteella siten kuin tässä luvussa säädetään.
