@@ -1,0 +1,8 @@
+# 68 § Vajaavaltaisen kuuleminen
+Luku: 7 luku Suullinen käsittely
+
+Vajaavaltaista voidaan kuulla suullisessa käsittelyssä, jos vajaavaltainen antaa siihen suostumuksensa. Alle 12-vuotiasta voidaan kuitenkin kuulla muussa kuin omassa asiassaan vain, jos kuuleminen on välttämätöntä asian ratkaisemiseksi eikä kuulemisesta arvioida aiheutuvan hänelle merkittävää haittaa. Harkittaessa vajaavaltaisen henkilökohtaista kuulemista on otettava huomioon oikeudenmukaisen oikeudenkäynnin vaatimukset. Kuulemisen yhteydessä vajaavaltaiselle ei saa antaa sellaisia tietoja, jotka voisivat vakavasti vaarantaa hänen terveyttään tai kehitystään. Jos vajaavaltaisen suojaamiseksi tai hänen itsenäisen mielipiteensä selvittämiseksi on tarpeen, vajaavaltaista kuullaan henkilökohtaisesti siten, että hänen lisäkseen läsnä on vain yksi tai useampi hallintotuomioistuimen jäsen.
+
+Jos vajaavaltaista kuullaan 1 momentissa säädetyllä tavalla ilman, että kaikki oikeudenkäynnin osapuolet ovat läsnä, asianosaisille ja osapuolena olevalle viranomaiselle voidaan varata tilaisuus ehdottaa, mistä seikoista vajaavaltaista tulisi kuulla. Lisäksi osapuolille on varattava tilaisuus tutustua kuulemisen sisällöstä laadittuun tai tallennettuun oikeudenkäyntiaineistoon ja lausua mielipiteensä sen sisällöstä. Oikeutta tietojen saamiseen voidaan rajoittaa, jos tiedon antamatta jättäminen on välttämätöntä vajaavaltaisen suojaamiseksi tai hänen muun erittäin tärkeän etunsa turvaamiseksi eikä tiedon antamatta jättäminen vaaranna oikeudenmukaisen oikeudenkäynnin toteutumista.
+
+Tuomioistuin voi tarvittaessa määrätä vajaavaltaiselle kuultavalle tukihenkilön, jonka tehtävänä on olla asianomaisen henkilökohtaisena tukena suullisessa käsittelyssä.
