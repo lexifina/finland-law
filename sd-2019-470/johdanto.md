@@ -1,0 +1,2 @@
+Laki eräiden kiinteistönhankintojen luvanvaraisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:

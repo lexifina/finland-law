@@ -1,0 +1,5 @@
+# 4 § Luvan hakeminen
+
+Luovutuksensaajan on haettava puolustusministeriöltä lupaa kiinteistön hankinnalle ennen kiinteistön luovutusta tai kahden kuukauden kuluessa kiinteistön luovutuksen vahvistamisesta tai siitä, kun kauppa on syntynyt maakaaren (540/1995) 9 a luvussa tarkoitetussa sähköisessä kaupankäyntijärjestelmässä. Jos luovutuksensaaja ei mainitun ajan kuluessa ole hakenut lupaa saannolleen, puolustusministeriön on ilmoitettava luovutuksen saajalle luvanhakuvelvollisuudesta ja asetettava enintään kahden kuukauden pituinen määräaika, jonka kuluessa lupaa on haettava. Puolustusministeriö voi vaatia luvan hakemista myös, jos on ilmeistä, että kiinteistö on luvanhakuvelvollisuuden välttämiseksi hankittu 1 §:n 1 momentissa tarkoitetun lukuun.
+
+Lupahakemuksesta on käytävä ilmi tiedot kiinteistön luovutuksen osapuolista, kiinteistöstä sekä kiinteistön aiotusta käyttötarkoituksesta. Hakemuksen sisällöstä voidaan säätää tarkemmin valtioneuvoston asetuksella. Luovutuksensaajan on puolustusministeriön pyynnöstä annettava myös muita lupahakemuksen käsittelemiseksi tarpeellisia tietoja.
