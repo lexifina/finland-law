@@ -2,7 +2,8 @@
 
 Avustusta voidaan myöntää hankekohtaisen harkinnan perusteella hyväksyttävistä ja kohtuullisista kustannuksista:
 1) enintään 45 prosenttia, jos avustus myönnetään 2 §:n 1 momentin 1 kohdan mukaiseen käyttötarkoitukseen;
-2) enintään 50 prosenttia tai erityisen vaikeaan sosiaaliseen, terveydelliseen ja taloudelliseen tilanteeseen liittyvästä erityisestä syystä enintään 70 prosenttia, jos avustus myönnetään 2 §:n 1 momentin 2 kohdan mukaiseen käyttötarkoitukseen.
+2) enintään 50 prosenttia tai erityisen vaikeaan sosiaaliseen, terveydelliseen ja taloudelliseen tilanteeseen liittyvästä erityisestä syystä enintään 70 prosenttia, jos avustus myönnetään 2 §:n 1 momentin 2 kohdan mukaiseen käyttötarkoitukseen;
+3) enintään 50 prosenttia, jos avustus myönnetään 2 §:n 1 momentin 3 kohdan mukaisiin käyttötarkoituksiin.
 
 Hyväksyttävät kustannukset ovat enintään avustettavan toimenpiteen toteutuneet kustannukset.
 
