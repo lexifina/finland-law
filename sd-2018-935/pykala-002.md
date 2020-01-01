@@ -8,8 +8,8 @@ Liikenne- ja viestintävirasto hoitaa seuraavia tehtäviä:
 4) vastaa merikartoituksen järjestämisestä;
 5) kehittää ja edistää liikenteen ja viestinnän palveluita ja niiden tarjontaa sekä liikenteen ja viestinnän markkinoiden toimivuutta ja huolehtii käyttäjien ja matkustajien oikeuksiin liittyvistä tehtävistä;
 6) edistää liikenteen ja viestinnän sekä niiden markkinoiden digitalisaatiota ja automatisaatiota sekä mahdollistaa liikenteeseen ja viestintään liittyvät kokeilut, tutkimukset ja innovaatiot;
-7) kehittää julkisen henkilöliikenteen, tavaraliikenteen ja logistiikan toimintaedellytyksiä;
-8) vastaa saariston liikenne- ja kuljetuspalveluiden erillisrahoituksesta valtion talousarvion puitteissa;
+7) kehittää julkisen henkilöliikenteen, tavaraliikenteen ja logistiikan toimintaedellytyksiä sekä vastaa julkisen henkilöliikenteen valtion rahoituksen kohdentamisesta ja rahoituksen kohdentamiseen liittyvästä elinkeino-, liikenne- ja ympäristökeskusten ohjauksesta;
+8) kehittää ja edistää yksityistieasioiden hoitamista valtakunnallisesti, huolehtii yksityisteihin liittyvistä asiantuntija- ja neuvontatehtävistä sekä vastaa yksityistieavustusten kohdentamisesta ja saariston liikenne- ja kuljetuspalveluiden rahoituksesta valtion talousarvion puitteissa;
 9) suunnittelee radiotaajuuksien käyttöä, edistää radioviestinnän teknistä toteutusta, selvittää ja poistaa radioviestinnän häiriöitä, huolehtii radiolaitteiden markkinavalvonnasta, valvoo verkkotoimilupien ehtojen noudattamista ja hoitaa radiolupahallintoa sekä muuta taajuushallintoa;
 10) hoitaa postitoiminnan valvontatehtäviä ja verkkotunnusten rekisteri- ja valvontatehtäviä;
 11) hoitaa valtiontuki- ja valtionavustustehtäviä sekä liikenteen verotustehtäviä;
