@@ -1,0 +1,6 @@
+# 19 § Hätätyö
+Luku: 5 luku Säännöllisen työajan ylittäminen sekä sunnuntaityö
+
+Työnantaja saa teettää hätätyötä, jos ennalta arvaamaton tapahtuma on aiheuttanut keskeytyksen säännöllisessä toiminnassa tai vakavasti uhkaa johtaa sellaiseen keskeytykseen tai hengen, terveyden, omaisuuden tai ympäristön vaarantumiseen. Hätätyötä saa teettää säännöllisen työajan lisäksi vain siinä määrin kuin se on välttämätöntä ja enintään kahden viikon ajan. Hätätyössä saa poiketa siitä, mitä 8, 17 ja 24–27 §:ssä säädetään. Hätätyön päätyttyä työaika on kuitenkin tasoitettava enintään 18 §:ssä säädettyyn enimmäismäärään ja työntekijälle on annettava korvaava lepoaika 25 §:n 4 momentissa ja 28 §:n 2 momentissa säädetyllä tavalla.
+
+Työnantajan on viivytyksettä tehtävä työsuojeluviranomaiselle kirjallinen ilmoitus hätätyön syystä, laajuudesta ja todennäköisestä kestosta. Työnantajan on varattava hätätyötä tekeviä työntekijöitä edustavalle luottamusmiehelle tai, jos tällaista ei ole valittu, työsuojeluvaltuutetulle tai luottamusvaltuutetulle taikka muulle työntekijöiden edustajalle tilaisuus liittää ilmoitukseen lausuntonsa. Työsuojeluviranomainen voi tutkittuaan asian joko jättää sen saamansa ilmoituksen varaan tai ryhtyä toimenpiteisiin hätätyön rajoittamiseksi tai lopettamiseksi.
