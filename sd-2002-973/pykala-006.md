@@ -2,7 +2,7 @@
 
 Valtion kiinteistövarallisuuden luovuttamisesta päättää valtioneuvosto.
 
-Ministeriö päättää hallinnonalallaan olevan kiinteistövarallisuuden luovuttamisesta, jos sen käypä hinta on enintään viisi miljoonaa euroa.
+Ministeriö päättää hallinnonalallaan olevan kiinteistövarallisuuden luovuttamisesta, jos sen käypä hinta on enintään kymmenen miljoonaa euroa.
 
 Mitä 2 momentissa säädetään, koskee myös tasavallan presidentin kansliaa ja valtion liikelaitosta niiden hallinnassa olevan kiinteistövarallisuuden osalta.
 
