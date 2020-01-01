@@ -8,4 +8,4 @@ Avio-oikeutta ei kuitenkaan ole omaisuuteen, josta avioehtosopimuksin taikka lah
 
 Oikeuteen, jota ei voida luovuttaa tai joka muuten luonteeltaan on henkilökohtainen, on avio-oikeutta koskevia määräyksiä sovellettava ainoastaan sikäli, kuin ne eivät ole vastoin sitä, mitä sellaisesta oikeudesta erityisesti on voimassa.
 
-Jos puolison omaisuus on luovutettu konkurssiin, toinen puoliso voi poistaa kummankin puolison avio-oikeuden ilmoittamalla siitä maistraatille vuoden kuluessa konkurssin alkamisesta siten kuin maistraattien eräistä henkilörekistereistä annetussa laissa (57/2005) säädetään.
+Jos puolison omaisuus on luovutettu konkurssiin, toinen puoliso voi poistaa kummankin puolison avio-oikeuden ilmoittamalla siitä Digi- ja väestötietovirastolle kirjallisesti vuoden kuluessa konkurssin alkamisesta. Ahvenanmaan maakunnassa ilmoitus voidaan tehdä Ahvenanmaan valtionvirastolle.
