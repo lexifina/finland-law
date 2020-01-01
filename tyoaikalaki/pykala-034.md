@@ -6,6 +6,7 @@ Työnantaja tai valtakunnallinen työnantajien yhdistys sekä työntekijöiden v
 Valtakunnalliset työnantajien ja työntekijöiden yhdistykset saavat työehtosopimuksessa (valtakunnallinen työehtosopimus) sopia toisin siitä, mitä tässä laissa säädetään:
 1) 4 §:ssä varallaolosta;
 2) 8 §:ssä tehtävistä, joissa yötyötä saadaan teettää, yötyöntekijän enimmäistyöajasta 24 tunnin aikana, yötyöajan tasoittumisesta ja sen sijoittumisesta kuitenkin siten, että se käsittää vähintään 7 tunnin ajanjakson, johon sisältyy kello 24:n ja 05:n välinen aika;
+2 a) 8 a §:ssä yötyötä tekevän työntekijän oikeudesta työmatkakuljetukseen;
 3) 12 §:n 2 momentissa liukuvan työajan rajoista, enimmäiskertymästä ja seurantajakson pituudesta;
 4) 15 §:n 2 momentissa lyhennettyä työaikaa koskevan määräaikaisen sopimuksen kestosta;
 5) 17 §:ssä sunnuntaityötä koskevasta suostumuksesta;
