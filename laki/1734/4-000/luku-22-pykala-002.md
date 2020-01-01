@@ -1,6 +1,5 @@
 # 2 §
 Luku: 22 luku Käräjäoikeuden pöytäkirja ja todistelun taltiointi
-Väliotsikko: Riita-asian pöytäkirja
 
 Jokaisesta riita-asiasta laaditaan pöytäkirja erikseen.
 
