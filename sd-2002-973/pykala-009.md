@@ -1,9 +1,8 @@
 # 9 § Vuokraamisesta päättäminen
 
 Valtion maaomaisuuden vuokraamisesta päättää valtioneuvosto, jos:
-1) vuokrattavan maaomaisuuden käypä arvo on yli kymmenen miljoonaa euroa; tai
-2) vuokrattavan maaomaisuuden käypä arvo on yli viisi miljoonaa euroa ja vuokra-aika on pitempi kuin 30 vuotta; tai
-3) jos vuokrauksella on periaatteellisesti huomattava merkitys.
+1) vuokrattavan maaomaisuuden käypä arvo on yli kymmenen miljoonaa euroa ja vuokra-aika on pitempi kuin 50 vuotta; tai
+2) vuokrauksella on periaatteellisesti huomattava merkitys.
 
 Muissa tapauksissa vuokraamisesta päättää ministeriö, jonka hallinnonalaan vuokrattava maaomaisuus kuuluu, tai liikelaitos, jonka hallinnassa vuokrattava maaomaisuus on.
 
