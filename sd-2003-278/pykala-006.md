@@ -4,7 +4,7 @@ Keskusjärjestön kokouksessa:
 1) päätetään tilinpäätöksen vahvistamisesta ja vastuuvapauden myöntämisestä hallituksen jäsenille ja toimitusjohtajalle;
 2) päätetään mahdollisesta jäsenmaksusta ja sen määrästä seuraavaksi toimintavuodeksi;
 3) valitaan ne hallituksen jäsenet, joiden valinta 5 §:n 3 momentin mukaan kuuluu keskusjärjestön kokoukselle;
-4) valitaan yksi tilintarkastaja ja tämän varamies, jonka valinta 12 §:n 2 momentin mukaan kuuluu keskusjärjestön kokoukselle; ja
+4) valitaan kaksi tilintarkastajaa ja heille varatilintarkastajat; ja
 5) määrätään hallituksen puheenjohtajan ja jäsenten sekä tilintarkastajan palkkiot seuraavaksi toimintavuodeksi.
 
 Hallituksen tehtävänä on:
