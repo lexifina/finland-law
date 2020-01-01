@@ -1,0 +1,2 @@
+Laki takaisinsaannista konkurssipesään
+Eduskunnan päätöksen mukaisesti säädetään:
