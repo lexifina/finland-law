@@ -27,7 +27,9 @@ Edellä 7 §:ssä tarkoitettuja vähennyskelpoisia menoja ovat muun ohessa:
 17) vakuutusyhtiölain 8 luvun 19 §:ssä tarkoitettujen sijoitussidonnaisten vakuutusten katteena olevien sijoitusten tuloslaskelmaan kuluksi merkityt arvonlaskut;
 18) edellä 2 a–2 c kohdassa tarkoitetuista rahoitusvälineistä sekä käyvän arvon suojauksesta käypään arvoon arvostamiseen siirryttäessä tilinpäätöksessä omaan pääomaan merkitty arvonlasku;
 19) yleisradioverosta annetun lain (484/2012) nojalla suoritettava yhteisön yleisradiovero;
-20) apteekkiverosta annetun lain (770/2016) nojalla suoritettava apteekkivero sekä Landskapslagen (1947:6) om apoteksavgift i landskapet Åland nojalla suoritettava apteekkimaksu.
+20) apteekkiverolain (770/2016) nojalla suoritettava apteekkiveron sekä Landskapslagen (1947:6) om apoteksavgift i landskapet Åland nojalla suoritettava apteekkimaksu;
+21) muun kuin laskuperustekorkoisen säästöhenkivakuutuksen ja kapitalisaatiosopimuksen tuottamat tuloverolain 35 §:n 3 momentissa säädetyllä tavalla lasketut tappiot;
+22) tuloverolain 35 b §:ssä tarkoitetun säästöhenkivakuutuksen, kapitalisaatiosopimuksen ja eläkevakuutuksen tuottamat tuloverolain 35 b §:n 3 momentissa säädetyllä tavalla lasketut tappiot.
 
 Henkivakuutuksesta suoritetut vakuutusmaksut ovat vähennyskelpoisia vain silloin, kun:
 1) vakuutuksen edunsaajana on vakuutettu työntekijä tai hänen tuloverolain 34 §:n 3 momentin 2 kohdassa tarkoitettu omaisensa, tai

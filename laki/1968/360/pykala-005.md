@@ -15,4 +15,6 @@ Edellä 4 §:ssä tarkoitettuja veronalaisia elinkeinotuloja ovat muun ohessa:
 10) vakuutus- ja eläkelaitoksen kaupankäyntitarkoituksessa pidettävistä rahoitusvälineistä vakuutus- ja eläkelaitoksia koskevan lainsäädännön nojalla tuloslaskelmaan tuotoksi merkityt arvonnousut;
 11) edellä 8–10 kohdassa tarkoitetuista rahoitusvälineistä sekä käyvän arvon suojauksesta käypään arvoon arvostamiseen siirryttäessä tilinpäätöksessä omaan pääomaan merkitty arvonnousu;
 12) elinkeinotoiminnasta johtuneesta saamisesta tai velasta aiheutuneet indeksi- ja kurssivoitot sekä velkaa tai saamista valuuttakurssimuutoksilta suojaavan termiinisopimuksen tai vastaavan suojausinstrumentin arvonnousut;
-13) vakuutusyhtiölain (521/2008) 8 luvun 19 §:ssä tarkoitettujen sijoitussidonnaisten vakuutusten katteena olevien sijoitusten tuloslaskelmaan tuotoksi merkityt arvonnousut.
+13) vakuutusyhtiölain (521/2008) 8 luvun 15 §:n 2 momentissa tarkoitettujen sijoitussidonnaisten vakuutusten katteena olevien sijoitusten tuloslaskelmaan tuotoksi merkityt arvonnousut;
+14) muun kuin laskuperustekorkoisen säästöhenkivakuutuksen ja kapitalisaatiosopimuksen tuottamat tuloverolain 35 §:n 1 momentissa säädetyllä tavalla lasketut tulot;
+15) tuloverolain 35 b §:ssä tarkoitetun säästöhenkivakuutuksen, kapitalisaatiosopimuksen ja eläkevakuutuksen tuottamat tuloverolain 35 b §:ssä säädetyllä tavalla lasketut tulot.

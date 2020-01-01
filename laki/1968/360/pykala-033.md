@@ -6,7 +6,7 @@ Poiketen siitä, mitä 30 §:ssä säädetään, poistetaan verovelvollisen vaat
 1) todennäköinen taloudellinen käyttöaika on enintään 3 vuotta; tai
 2) hankintameno on enintään 850 euroa (pienhankinta).
 
-Edellä 1 momentin 2 kohdassa tarkoitettuna pienhankintana pidetään käyttöomaisuushyödykettä tai, jos useat käyttöomaisuushyödykkeet yhdessä muodostavat kiinteän kokonaisuuden, tällaista käyttömaisuushyödykkeiden muodostamaa kokonaisuutta. Pienhankintoina saadaan verovuonna vähentää yhteensä enintään 2 500 euroa.
+Edellä 1 momentin 2 kohdassa tarkoitettuna pienhankintana pidetään käyttöomaisuushyödykettä tai, jos useat käyttöomaisuushyödykkeet yhdessä muodostavat kiinteän kokonaisuuden, tällaista käyttöomaisuushyödykkeiden muodostamaa kokonaisuutta. Pienhankintoina saadaan verovuonna vähentää yhteensä enintään 2 500 euroa.
 
 Ammattimaiseen liikenteeseen käytetyn auton hankintamenosta poistetaan verovelvollisen vaatiessa sinä verovuonna, jona auto on otettu käyttöön, enintään 25 prosenttia, kahtena seuraavana verovuotena enintään 20 prosenttia ja sen jälkeisinä verovuosina enintään 15 prosenttia.
 
