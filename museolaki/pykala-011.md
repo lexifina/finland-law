@@ -1,0 +1,6 @@
+# 11 §
+Luku: 4 luku Erinäisiä säännöksiä
+
+Vahvistaessaan opetus- ja kulttuuritoimen rahoituksesta annetun lain 49 §:n 1 momentin mukaisesti museon valtionosuuden perusrahoituksen ja alueellisen vastuumuseotehtävän lisärahoituksen perusteena käytettävät henkilötyövuosien määrät opetus- ja kulttuuriministeriö ottaa huomioon museon toteutuneen henkilötyövuosien määrän neljän edellisen varainhoitovuoden aikana ja valtionosuuden tarpeellisuuden tämän lain 4 §:n 2 momentissa säädetyn tavoitteen kannalta. Vahvistettava perusrahoituksen henkilötyövuosien määrä on vähintään kaksi.
+
+Opetus- ja kulttuuriministeriö vahvistaa neljän vuoden välein museoiden rahoitusta koskevan suunnitelman. Suunnitelma sisältää arvion valtionosuuteen oikeutettujen museoiden valtionosuuden perusteeksi vahvistettavista henkilötyövuosien määristä ja valtakunnalliseen vastuumuseotehtävään myönnettävän harkinnanvaraisen lisärahoituksen määristä seuraavan neljän varainhoitovuoden ajaksi. Suunnitelma on lähtökohtana museon valtionosuuden perusteena olevaa henkilötyövuosien määrää vahvistettaessa ja vastuumuseotehtävään myönnettävää harkinnanvaraista lisärahoitusta myönnettäessä, jollei valtion talousarviosta, museon toteutuneen henkilötyövuosimäärän olennaisesta alentumisesta tai suunnitelman vahvistamisen jälkeen ilmenneestä olosuhteiden muutoksesta muuta johdu.
