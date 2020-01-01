@@ -9,7 +9,8 @@ Yhteispalvelussa voidaan hoitaa seuraavia asiakaspalvelutehtäviä:
 5) toimeksiantajan toimituskirjojen ja muiden asiakirjojen luovuttaminen sekä hallintolain (434/2003) 60 §:n 2 momentissa tarkoitettu asiakirjojen tiedoksianto;
 6) toimeksiantajan suoritteista perittävien maksujen vastaanottaminen sekä niiden ja maksutietojen välittäminen viivytyksettä toimeksiantajalle;
 7) edellä mainittuihin palvelutehtäviin liittyvät asiakaspalvelun tukitoiminnot sekä välittömästi näihin palvelutehtäviin liittyvä tekninen ohjaus, tiedon välittäminen ja tiedottaminen;
-8) toimeksiantajan tuotteiden myynti ja niistä kertyneiden maksujen sekä maksutietojen välittäminen viivytyksettä toimeksiantajalle.
+8) toimeksiantajan tuotteiden myynti ja niistä kertyneiden maksujen sekä maksutietojen välittäminen viivytyksettä toimeksiantajalle;
+9) muut kuin 1–8 kohdassa tarkoitetut laissa säädetyt tehtävät.
 
 Edellä 1 momentissa tarkoitetut asiakaspalvelutehtävät hoidetaan yhteispalvelussa toimeksisaajan järjestämänä henkilökohtaisena palveluna käyntiasioinnin yhteydessä taikka puhelimen tai muun tieto- ja viestintäteknisen käyttöyhteyden avulla. Palvelujen tarjoamisessa voidaan käyttää myös kotikäyntejä sekä muita menettelyjä ja keinoja, jotka eivät edellytä kiinteää toimitilaa.
 
