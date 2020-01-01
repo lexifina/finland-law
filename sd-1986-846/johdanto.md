@@ -1,0 +1,2 @@
+Laki asuintalovarauksesta verotuksessa
+Eduskunnan päätöksen mukaisesti säädetään:
