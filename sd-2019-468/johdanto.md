@@ -1,0 +1,2 @@
+Laki kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta kansallisen turvallisuuden varmistamiseksi
+Eduskunnan päätöksen mukaisesti säädetään:
