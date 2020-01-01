@@ -1,13 +1,11 @@
 # 14 § Asian käsittely
 Luku: 2 luku Asioiden käsittely muutoksenhakulautakunnassa
 
-Asian käsittelyyn muutoksenhakulautakunnassa sovelletaan hallintolainkäyttölakia, jollei erikseen toisin säädetä.
+Asian käsittelyyn muutoksenhakulautakunnassa sovelletaan oikeudenkäynnistä hallintoasioissa annettua lakia, jollei erikseen toisin säädetä.
 
-Mitä hallintolainkäyttölain 38 §:ssä säädetään suullisen käsittelyn toimittamisesta yksityisen asianosaisen pyynnöstä hallinto-oikeudessa, koskee suullisen käsittelyn toimittamista muutoksenhakulautakunnassa. Muutoksenhakulautakunnassa sovelletaan myös asian käsittelyä ja selvittämistä koskevia hallintolainkäyttölain 37, 39, 39 a—39 g ja 40—50 §:n säännöksiä sen estämättä, mitä mainitun lain 2 §:n 1 momentissa säädetään.
+Kustannukset, jotka oikeudenkäynnistä hallintoasioissa annetun lain 76 ja 77 §:n mukaan korvataan valtion varoista, korvataan muutoksenhakulautakunnan varoista lukuun ottamatta valtion nimeämälle todistajalle korvattavia kustannuksia.
 
-Kustannukset, jotka hallintolainkäyttölain 49 ja 50 §:n mukaan korvataan valtion varoista, korvataan muutoksenhakulautakunnan varoista lukuun ottamatta valtion nimeämälle todistajalle korvattavia kustannuksia.
-
-Muutoksenhakulautakunnan toimivaltaan kuuluvassa asiassa ei noudateta hallintolainkäyttölain 11 luvun säännöksiä ylimääräisestä muutoksenhausta.
+Muutoksenhakulautakunnan toimivaltaan kuuluvassa asiassa ei noudateta oikeudenkäynnistä hallintoasioissa annetun lain 13 luvun säännöksiä ylimääräisestä muutoksenhausta.
 
 Muutoksenhakulautakunta voi poistaa vakuutuslaitoksen lainvoimaisen päätöksen ja määrätä asian uudelleen käsiteltäväksi siten kuin siitä erikseen lailla säädetään.
 
