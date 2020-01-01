@@ -1,5 +1,5 @@
 # 4 § Asianosaisten kuuleminen siirtoehdotuksen johdosta
 
-Luettelo karttoineen on maanmittaustoimiston toimesta pidettävä julkisesti nähtävillä asianomaisten kuntien ilmoitustauluilla vähintään 30 päivän ajan sen jälkeen, kun nähtäville asettamisesta on ilmoitettu yhdessä tai kahdessa paikkakunnalla yleisesti leviävässä sanomalehdessä. Nähtäville asettamisesta maanmittaustoimiston on ilmoitettava lisäksi kirjeellä asianomaisille kunnille ja niille alueiden omistajille, jotka osoitetietoineen kohtuudella saadaan selville.
+Maanmittauslaitos antaa 3 §:ssä tarkoitetun luettelon karttoineen tiedoksi julkisella kuulutuksella. Julkisesta kuulutuksesta säädetään hallintolain (434/2003) 62 a §:ssä. Kuulutus on julkaistava kunnassa myös kuntalain (410/2015) 108 §:n mukaisesti. Maanmittauslaitoksen on lisäksi ilmoitettava kuulutuksesta kirjeellä asianomaisille kunnille ja niille alueiden omistajille, jotka osoitetietoineen kohtuudella saadaan selville.
 
-Asianomaisella kunnalla ja alueen omistajalla on oikeus tehdä huomautuksia siirtoehdotusta vastaan. Huomautukset on toimitettava maanmittaustoimistoon 30 päivän kuluessa nähtävilläoloajan päättymisestä.
+Asianomaisella kunnalla ja alueen omistajalla on oikeus tehdä huomautuksia siirtoehdotusta vastaan. Huomautukset on toimitettava Maanmittauslaitokseen 30 päivän kuluessa julkisen kuulutuksen tiedoksisaannista.
