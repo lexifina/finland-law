@@ -1,0 +1,2 @@
+Laki katsastustoiminnan valvontamaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
