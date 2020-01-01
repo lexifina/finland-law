@@ -1,0 +1,2 @@
+Lahjanlupauslaki
+Eduskunnan päätöksen mukaisesti säädetään:
