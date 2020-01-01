@@ -1,4 +1,4 @@
-# 15 § Muutoksenhaku hallinto-oikeuteen
+# 15 § Muutoksenhaku hallintotuomioistuimeen
 Luku: 3 luku Muutoksenhaku
 
-Maksuvelvollinen saa hakea muutosta oikaisuvaatimukseen annettuun päätökseen sekä Liikenne- ja viestintäviraston muutoin tekemään oikaisupäätökseen valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
