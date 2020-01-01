@@ -1,0 +1,7 @@
+# 11 § Korvaus siirtokustannuksista ja korvauspäätös
+
+Ajoneuvon omistaja tai haltija on velvollinen korvaamaan viranomaiselle ajoneuvon siirtojärjestelyistä, siirtämisestä, säilyttämisestä ja hallinnoinnista sekä hylätyn ajoneuvon tai romuajoneuvon jätehuollosta aiheutuneet kustannukset. Varastosiirrossa säilytyskustannukset peritään varastoon siirtämisen päivämäärästä. Korvaus määrätään kunnan osalta kunnallisen viranomaisen hyväksymän taksan ja valtion viranomaisen osalta valtion maksuperustelain (150/1992) mukaisesti. Korvausta ei kuitenkaan saada periä, jos ajoneuvo on siirretty tiealueella tehtävästä työstä ennakkoon ilmoittamatta 6 §:n 2 momentissa tarkoitetussa poikkeuksellisessa tilanteessa.
+
+Jos ajoneuvo on ollut luvattomasti kuljettajan käytössä, korvaus peritään ajoneuvon kuljettajalta. Yksityistienpitäjä tai yksityisen alueen omistaja taikka poliisi on velvollinen korvaamaan pyynnöstään siirretyn ajoneuvon siirtokustannukset, jollei niitä saada perittyä ajoneuvon omistajalta. Tiellä tai tiealueella järjestetyn tapahtuman vuoksi siirrettyjen ajoneuvojen siirtokustannukset voidaan periä tapahtuman järjestäjältä.
+
+Siirron toimittavan viranomaisen on korvauspäätöksellään vahvistettava korvauksen määrä. Päätös on annettava tiedoksi 1 momentissa tarkoitetulle omistajalle, haltijalle tai kuljettajalle tavallisella tiedoksiannolla. Tavallisesta tiedoksiannosta säädetään hallintolaissa.

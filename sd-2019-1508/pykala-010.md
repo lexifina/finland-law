@@ -1,0 +1,7 @@
+# 10 § Ajoneuvon siirrosta ilmoittaminen ja siirtopäätös
+
+Viranomaisen on ilmoitettava lähisiirrosta ajoneuvon omistajalle tai haltijalle suullisesti tai kirjallisesti taikka jätettävä sitä koskeva ilmoitus näkyvälle paikalle ajoneuvoon. Viranomaisen on laadittava ajoneuvon lähisiirrosta pöytäkirja tai tehtävä muu kirjallinen merkintä siirtoon liittyvään asiakirjaan.
+
+Viranomaisen on annettava varastosiirrosta kirjallinen päätös, joka on annettava tiedoksi liikenneasioiden rekisteriin merkitylle viimeiselle omistajalle tai muulle tiedossa olevalle omistajalle ja haltijalle tavallisella tiedoksiannolla. Tavallisesta tiedoksiannosta säädetään hallintolaissa (434/2003). Jäljennös päätöksestä tai siirrettyjen ajoneuvojen tunnistamisen kannalta olennaiset tiedot sisältävä luettelo on lähetettävä myös poliisille. Jos ajoneuvon omistaja tai tämän osoite ei ole tiedossa, tiedoksiantoon sovelletaan hallintolain yleistiedoksiantoa koskevia säännöksiä. Päätös on annettava viipymättä siirron jälkeen. Päätöksessä on kehotettava noutamaan ajoneuvo 30 päivän kuluessa tiedonsaannista uhalla, että ajoneuvo siirtyy kunnan omistukseen siten kuin tämän lain 13 §:ssä säädetään.
+
+Edellä 2 momentissa tarkoitetun päätöksen antaa ajoneuvon siirtänyt viranomainen. Päätöksessä on mainittava siirron syy, siirretty ajoneuvo, paikka, josta se on siirretty, ja paikka, jonne se on siirretty, sekä siirtäjä ja siirtäjän yhteystiedot.
