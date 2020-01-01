@@ -1,0 +1,2 @@
+Laki muuntogeenisen organismin viljelyn rajoittamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
