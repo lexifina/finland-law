@@ -4,7 +4,7 @@ Luku: 3 luku Eläke- ja kuntoutusetuudet
 
 Vanhuuseläke alkaa sitä seuraavan kalenterikuukauden alusta, jona työntekijä on täyttänyt vanhuuseläkkeen saamiseen oikeuttavan iän ja lopettanut työn, jonka perusteella hän hakee vanhuuseläkettä. Vanhuuseläke voidaan myöntää takautuvasti, ei kuitenkaan ilman pätevää syytä pidemmältä ajalta kuin eläkkeen hakemiskuukautta edeltäneiltä kolmelta kuukaudelta.
 
-Jos työntekijä jatkaa työntekoa vakuuttamisvelvollisuuden yläikärajan täytettyään, vanhuuseläke myönnetään eläkkeen hakemista seuraavan kalenterikuukauden alusta lukien.
+Jos työntekijä jatkaa työntekoa vakuuttamisvelvollisuuden yläikärajan täytettyään, vanhuuseläke myönnetään eläkkeen hakemista seuraavan kalenterikuukauden alusta. Vanhuuseläke voidaan tällöin myöntää myös takautuvasti, ei kuitenkaan ilman pätevää syytä pidemmältä ajalta kuin eläkkeen hakemiskuukautta edeltäneiltä kolmelta kuukaudelta vakuuttamisvelvollisuuden yläikärajan täyttämisen jälkeen.
 
 Vanhuuseläkkeen aikana alkaneen työsuhteen työansioista sekä muissa kuin 12 §:n 2 momentin mukaisissa tilanteissa vanhuuseläkkeen aikana maksetuista työansioista karttunut eläke myönnetään hakemuksesta aikaisintaan työntekijän vakuuttamisvelvollisuuden yläikärajan täyttämistä seuraavan kalenterikuukauden alusta.
 

@@ -6,7 +6,7 @@ Väliotsikko: Työeläkekuntoutus
 Työntekijällä, joka ei ole täyttänyt alinta vanhuuseläkeikäänsä, on oikeus saada työkyvyttömyyden estämiseksi tai työ- ja ansiokyvyn parantamiseksi tarkoituksenmukaista ammatillista kuntoutusta, jos:
 1) asianmukaisesti todettu sairaus, vika tai vamma todennäköisesti aiheuttaa sellaisen uhkan, että hän tulee työkyvyttömäksi 35 §:n 1 momentissa tarkoitetulla tavalla;
 2) työntekijällä on työskentelystä saatuja vakuutettuja työansioita 76 §:ssä tarkoitettuna tulevan ajan tarkasteluaikana vähintään 25 133,40 euroa; ja
-3) työntekijällä ei ole oikeutta kuntoutukseen tapaturmavakuutuksen tai liikennevakuutuksen kuntoutusta koskevien säännösten perusteella.
+3) työntekijällä ei ole oikeutta kuntoutukseen tapaturmavakuutuksen, liikennevakuutuksen tai potilasvakuutuksen kuntoutusta koskevien säännösten perusteella.
 
 Kuntoutuksen tarkoituksenmukaisuutta arvioitaessa otetaan huomioon työntekijän ikä, ammatti, aikaisempi toiminta, koulutus, vakiintuminen työelämään sekä se, johtaako haettu ammatillinen kuntoutus todennäköisesti työntekijän terveydentilalle sopivassa työssä jatkamiseen tai työhön palaamiseen. Lisäksi tarkoituksenmukaisuutta arvioitaessa otetaan huomioon, lykkääkö ammatillinen kuntoutus työntekijän eläkkeelle jäämistä.
 

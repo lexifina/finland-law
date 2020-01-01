@@ -5,24 +5,25 @@ Väliotsikko: Eläkkeeseen oikeuttavat työansiot ja etuudet
 
 Eläkkeen perusteena olevaa työansiota määrättäessä otetaan huomioon palkka, tulospalkkio tai muu vastike, joka on maksettu tai sovittu maksettavaksi korvauksena työstä. Tällainen vastike katsotaan eläkettä kartuttavaksi työansioksi myös silloin, kun sen maksaa työntekijälle työnantajan sijasta konkurssipesä, palkkaturvalaissa (866/1998) tarkoitettu palkkaturvasta huolehtiva viranomainen tai muu maksaja (sijaismaksaja).
 
-Eläkkeen perusteena olevaan työansioon luetaan myös työstä maksettava vastike, joka on sovittu osaksi tai kokonaan hyvitettäväksi:
+Eläkkeen perusteena olevaan työansioon luetaan myös työstä maksettava vastike, joka on osaksi tai kokonaan sovittu hyvitettäväksi:
 1) yleisöltä saatavilla palvelu- tai lahjarahoilla ja ne otetaan huomioon samansuuruisina kuin viimeksi toimitetussa verotuksessa, jos muuta luotettavaa selvitystä niiden määrästä ei esitetä;
-2) vakuutuskassalaissa tarkoitetun sairauskassan maksamalla päivärahalla, jota työntekijä saa laissa säädetyn tai työehto- tai muussa sopimuksessa sovitun palkan sijasta; tai
-3) lasten kotihoidon ja yksityisen hoidon tuesta annetun lain (1128/1996) mukaisella yksityisen hoidon tuella tai vastaavalla muulla valtion tai kunnan maksamalla tuella.
+2) vakuutuskassalaissa tarkoitetun sairauskassan maksamalla päivärahalla, jota työntekijä saa laissa säädetyn tai työehto- tai muussa sopimuksessa sovitun palkan sijasta;
+3) lasten kotihoidon ja yksityisen hoidon tuesta annetun lain (1128/1996) mukaisella yksityisen hoidon tuella tai vastaavalla muulla valtion tai kunnan maksamalla tuella;
+4) tuloverolain (1535/1992) 33 b §:n 3 momentissa tarkoitettuna työpanokseen perustuvana osinkona.
 
 Edellä 1 momentissa tarkoitettuna vastikkeena työstä ei pidetä muun muassa:
 1) työnantajalta saatua henkilökuntaetua;
 2) korkoetua työsuhteen perusteella saadusta lainasta;
 3) etua työsuhteeseen perustuvasta oikeudesta merkitä yhteisön osakkeita tai osuuksia käypää alempaan hintaan, jos etu on henkilöstön enemmistön käytettävissä;
-4) tuloverolain (1535/1992) 66 §:ssä tarkoitettua työsuhdeoption käyttämisestä syntyvää etua tai sellaista työsuhteeseen perustuvaa suoritusta, joka määräytyy yhtiön osakkeen arvon muutoksen perusteella;
-5) palkkiota, joka annetaan työnantajayhtiön tai sen kanssa samaan konserniin tai muuhun vastaavaan taloudelliseen yhteenliittymään kuuluvan yhtiön viranomaisen valvonnan alaisessa arvopaperipörssissä noteerattuina osakkeina, sijoitustalletuksena tai muulla vastaavalla tavalla, taikka osakkeiden sijasta osin tai kokonaan rahana, edellyttäen, että tällaisen palkkiona saatavan edun arvo riippuu kyseisten osakkeiden arvon kehityksestä palkkion lupaamisen jälkeisenä, vähintään vuoden mittaisena aikana;
+4) tuloverolain 66 §:n 3 momentissa tarkoitettua työsuhdeoption käyttämisestä syntyvää etua tai sellaista työsuhteeseen perustuvaa suoritusta, joka määräytyy yhtiön osakkeen arvon muutoksen perusteella, ellei työsuhdeoptiolla merkittävän osakkeen sovittu merkintähinta olennaisesti alita osakkeen käypää arvoa työsuhdeoption antamishetkellä ja tällaista työsuhdeoptiota käytetä vuoden kuluessa työsuhdeoption antamisesta, tai ellei kyse ole sellaisesta palkkiosta, jota 5 kohdan perusteella pidetään vastikkeena työstä;
+5) palkkiota, joka annetaan työnantajayhtiön tai sen kanssa samaan konserniin tai muuhun vastaavaan taloudelliseen yhteenliittymään kuuluvan yhtiön viranomaisen valvonnan alaisella säännellyllä markkinalla tai viranomaisen valvonnan alaisessa monenkeskisessä kaupankäyntijärjestelmässä noteerattuina osakkeina, sijoitustalletuksena tai muulla vastaavalla tavalla, taikka osakkeiden sijasta osin tai kokonaan rahana, jos tällaisen palkkiona saatavan edun arvo riippuu kyseisten osakkeiden arvon kehityksestä vähintään vuoden ajan palkkion lupaamisen ja antamisen välisenä aikana;
 6) työmatkasta saatua päivärahaa tai muuta kustannusten korvausta;
 7) työsopimuslain 2 luvun 14 §:n 1 momentissa tarkoitettua odotusajan palkkaa;
 8) työsopimuksen päättämisestä maksettavaa korvausta tai muuta vahingonkorvausta;
 9) henkilöstörahastolaissa (934/2010) tarkoitettuja henkilöstörahastoeriä ja niiden lisäosia, jotka on siirretty henkilöstörahastoon tai henkilöstörahastosta nostettua rahasto-osuutta;
 10) henkilöstörahastolaissa tarkoitettuja henkilöstörahastoeriä ja niiden lisäosia, jotka on nostettu henkilöstörahastolain 37 §:n perusteella käteisenä rahaston sääntöjen mukaan määräytyvänä palkkiona edellyttäen, että erä on määräytynyt yrityksen kannattavuutta ja muita toiminnan tehokkuutta mittaavien tekijöiden perusteella;
 11) eriä, jotka maksetaan työntekijälle yhtiökokouksen päätöksen perusteella voitonjakona tai käteisenä voittopalkkiona edellyttäen, että käteinen voittopalkkio maksetaan koko henkilöstölle eikä sillä pyritä korvaamaan työehtosopimuksen tai työsopimuksen edellyttämää palkkausjärjestelmää ja että käteisen palkkion määräytymisperusteet ovat 10 kohdan ja henkilöstörahastolain 2 §:n 2 ja 3 kohdan mukaiset ja että yhtiön vapaan pääoman määrä on suurempi kuin yhtiökokouksessa päätettävän käteisen voittopalkkion ja osakkeenomistajille maksettavien osinkojen yhteismäärä;
-12) yhtiön osakkaan nostamaa voitto-osuutta tai osinkoa.
+12) yhtiön osakkaan nostamaa voitto-osuutta tai osinkoa, ellei 2 momentin 4 kohdasta muuta johdu.
 
 Edellä 3 momentin 11 kohdassa tarkoitetussa tilanteessa edellytetään lisäksi, että voittopalkkion maksamisesta ei ole tehty työnantajaa velvoittavaa sopimusta, että omistajat tekevät sitovan päätöksen käteisen voittopalkkion maksamisesta yhtiökokouksessa tilikauden päätyttyä ja että voittopalkkiot maksetaan tämän jälkeen. Lisäksi edellytyksenä on, että asia käsitellään yhteistoiminnasta yrityksissä annetun lain (334/2007) mukaisella tai muulla vastaavalla tavalla.
 
