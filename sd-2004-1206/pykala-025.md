@@ -1,9 +1,7 @@
 # 25 § Muutoksenhaku
 
-Arviointilaitoksen päätökseen olla myöntämättä terminaalinhoitajan laadunhallintajärjestelmälle sertifikaattia saa vaatia oikaisua siten kuin hallintolaissa säädetään.
+Arviointilaitoksen päätökseen olla myöntämättä terminaalinhoitajan laadunhallintajärjestelmälle sertifikaattia saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa.
 
-Muuhun tämän lain nojalla tehtyyn päätökseen sekä oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
-
-Hallinto-oikeuden päätökseen arviointilaitoksen nimeämisen peruuttamista koskevassa asiassa saa hakea muutosta valittamalla siten kuin hallintolainkäyttölaissa säädetään. Hallinto-oikeuden muuhun päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
 
 Arviointilaitoksen päätöstä laadunhallintajärjestelmän sertifioimatta jättämisestä ja Liikenne- ja viestintäviraston tämän lain nojalla tekemää päätöstä noudatetaan muutoksenhausta huolimatta, jollei muutoksenhakuviranomainen toisin määrää.
