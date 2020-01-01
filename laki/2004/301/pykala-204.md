@@ -5,6 +5,4 @@ Tämän lain nojalla tehtyjen päätösten tiedoksianto toimitetaan tavallisena 
 
 Hallintotuomioistuinten päätösten tiedoksiantoon sovelletaan oikeudenkäynnistä hallintoasioissa annetun lain 9 lukua, jollei tässä laissa toisin säädetä.
 
-Hallintotuomioistuinten päätösten tiedoksiantoon sovelletaan hallintolainkäyttölain 55 §:ää, jollei tässä laissa toisin säädetä.
-
 Viranomaisten ja tuomioistuinten päätösten ja muiden asiakirjojen sähköiseen tiedoksiantoon sovelletaan sähköisestä asioinnista viranomaistoiminnassa annettua lakia (13/2003).
