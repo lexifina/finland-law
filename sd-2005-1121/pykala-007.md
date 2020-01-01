@@ -1,0 +1,7 @@
+# 7 § Jääluokan määräytyminen ja vahvistaminen
+
+Aluksen jääluokka määräytyy hyväksytyn luokituslaitoksen alukselle antaman luokitusmerkinnän ja Liikenne- ja viestintäviraston 4 §:n 2 momentin nojalla vahvistaman vastaavuusluettelon perusteella. Virasto tekee laivanisännän ilmoituksesta merkinnän aluksen jääluokasta ylläpitämäänsä jääluokkaluetteloon.
+
+Jos aluksella ei ole hyväksytyn luokituslaitoksen antamaa luokitusmerkintää, Liikenne- ja viestintävirasto vahvistaa laivanisännän hakemuksesta aluksen jääluokan 4 §:n 1 momentissa tai 5 §:ssä tarkoitetulla menetelmällä taikka 6 §:ssä tarkoitetun valtion jääluokkamääräysten mukaisesti. Laivanisännän on annettava virastolle jääluokan vahvistamista varten tarvittavat tiedot ja selvitykset. Virasto antaa tarkemmat määräykset siitä, mitä tietoja ja selvityksiä tarvitaan. Virasto tekee merkinnän jääluokasta ylläpitämäänsä jääluokkaluetteloon.
+
+Merkintä jääluokkaluettelossa on voimassa niin kauan kuin aluksen luokitusmerkintä tai jääluokan vahvistamisen perusteena olevat seikat eivät muutu. Jos aluksen luokitusmerkintä tai aluksen jääluokan vahvistamisen perusteena oleva seikka muuttuu, laivanisännän on ilmoitettava siitä Liikenne- ja viestintävirastolle, joka tekee merkinnän aluksen uudesta jääluokasta jääluokkaluetteloon tai vahvistaa alukselle tarvittaessa uuden jääluokan 2 momentin nojalla ja tekee siitä merkinnän jääluokkaluetteloon.
