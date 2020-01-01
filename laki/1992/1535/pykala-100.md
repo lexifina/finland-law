@@ -5,7 +5,7 @@ Väliotsikko: Puhtaasta ansiotulosta valtionverotuksessa tehtävät vähennykset
 
 Verovelvollisen puhtaasta ansiotulosta vähennetään valtionverotuksessa eläketulovähennys.
 
-Täyden eläketulovähennyksen määrä lasketaan siten, että luvulla 3,867 kerrotun täyden kansaneläkkeen määrästä vähennetään progressiivisen tuloveroasteikon alimman verotettavan tulon määrä ja jäännös pyöristetään seuraavaan täyteen kymmenen euron määrään.
+Täyden eläketulovähennyksen määrä lasketaan siten, että luvulla 3,726 kerrotun täyden kansaneläkkeen määrästä vähennetään progressiivisen tuloveroasteikon alimman verotettavan tulon määrä ja jäännös pyöristetään seuraavaan täyteen kymmenen euron määrään.
 
 Eläketulovähennys ei kuitenkaan voi olla eläketulon määrää suurempi. Jos verovelvollisen puhdas ansiotulo on suurempi kuin täyden eläketulovähennyksen määrä, eläketulovähennystä pienennetään 38 prosentilla määrästä, jolla puhdas ansiotulo ylittää täyden eläketulovähennyksen määrän.
 

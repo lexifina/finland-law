@@ -2,7 +2,7 @@
 Osa: VI OSA VERO
 Luku: 1 luku Valtionvero ja yhteisön tulovero
 
-Verovelvollinen saa vähentää verosta osan käyttämässään asunnossa tai vapaa-ajan asunnossa tehdystä työstä maksamistaan määristä (kotitalousvähennys). Vähennykseen oikeuttaa tavanomainen kotitalous-, hoiva- tai hoitotyö sekä asunnon tai vapaa-ajan asunnon kunnossapito- tai perusparannustyö. Vähennys on enintään 2 400 euroa vuodessa, ja se myönnetään vain siltä osin kuin 127 b §:ssä tarkoitettu vähennettävä osa kustannuksista ylittää 100 euroa.
+Verovelvollinen saa vähentää verosta osan käyttämässään asunnossa tai vapaa-ajan asunnossa tehdystä työstä maksamistaan määristä (kotitalousvähennys). Vähennykseen oikeuttaa tavanomainen kotitalous-, hoiva- tai hoitotyö sekä asunnon tai vapaa-ajan asunnon kunnossapito- tai perusparannustyö. Vähennys on enintään 2 250 euroa vuodessa, ja se myönnetään vain siltä osin kuin 127 b §:ssä tarkoitettu vähennettävä osa kustannuksista ylittää 100 euroa.
 
 Tavanomaisena hoiva- ja hoitotyönä ei pidetä sellaisia terveyden- ja sairaudenhoitopalveluja, joiden myynti säädetään arvonlisäverolain (1501/1993) 34–36 §:ssä verovapaaksi. Asunnon kunnossapitotyönä ei pidetä kodin koneiden ja laitteiden korjaus- tai asennustyötä. Tieto- ja viestintätekniikan laitteiden, ohjelmistojen, tietoturvan ja tietoliikenneyhteyksien asennus-, kunnossapito- ja opastustyöhön sovelletaan kuitenkin, mitä asunnon kunnossapito- ja perusparannustyöstä 1 momentissa säädetään.
 
