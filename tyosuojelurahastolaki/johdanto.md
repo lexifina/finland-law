@@ -1,0 +1,2 @@
+Työsuojelurahastolaki
+Eduskunnan päätöksen mukaisesti säädetään:
