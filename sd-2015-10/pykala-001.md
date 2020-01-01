@@ -9,4 +9,4 @@ Mitä tässä laissa säädetään turvallisuusverkosta ja sen palvelujen käyt�
 
 Jollei tässä laissa toisin säädetä, turvallisuusverkkoon sovelletaan sähköisen viestinnän palveluista annetun lain viranomaisverkkoa koskevia säännöksiä ja viranomaisten aikakriittisen laajakaistaisen matkaviestinnän tieto- ja viestintäteknisiin palveluihin sovelletaan sähköisen viestinnän palveluista annetun lain viranomaisviestintään liittyvää viestintäpalvelua koskevia säännöksiä.
 
-Jollei tässä laissa toisin säädetä, turvallisuusverkkotoimintaan sovelletaan valtion yhteisten tieto- ja viestintäteknisten palvelujen järjestämisestä annetun lain (1226/2013) säännöksiä ja julkisen hallinnon tietohallinnon ohjauksesta annetun lain (634/2011) säännöksiä.
+Jollei tässä laissa toisin säädetä, turvallisuusverkkotoimintaan sovelletaan valtion yhteisten tieto- ja viestintäteknisten palvelujen järjestämisestä annetun lain (1226/2013) säännöksiä ja julkisen hallinnon tiedonhallinnasta annetun lain (906/2019) säännöksiä.
