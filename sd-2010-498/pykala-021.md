@@ -5,4 +5,4 @@ Muutosta elinkeino-, liikenne- ja ympäristökeskuksen rakennuksen suojelua kosk
 
 Elinkeino-, liikenne- ja ympäristökeskuksen vaarantamiskieltoa koskevaan päätökseen haetaan muutosta valittamalla hallinto-oikeuteen. Toimivaltainen hallinto-oikeus on se, jonka tuomiopiirissä rakennus sijaitsee.
 
-Muilta osin muutoksenhausta säädetään hallintolainkäyttölaissa (586/1996).
+Muilta osin muutoksenhaussa noudatetaan, mitä oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019) säädetään.
