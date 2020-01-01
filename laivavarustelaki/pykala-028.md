@@ -1,12 +1,10 @@
 # 28 § Muutoksenhaku valvontaviranomaisen päätökseen
 Luku: 7 luku Muutoksenhaku
 
-Ilmoitettua laitosta koskevan nimeämisen rajoittamista tai peruuttamista koskevaan päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
+Muuhun Liikenne- ja viestintäviraston päätökseen kuin ilmoitettua laitosta koskevan nimeämisen rajoittamista tai peruuttamista koskevaan päätökseen saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa.
 
-Muuhun Liikenne- ja viestintäviraston päätökseen saa vaatia oikaisua siten kuin hallintolaissa säädetään. Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään.
-
-Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
 
 Päätöstä on noudatettava muutoksenhausta huolimatta, jollei muutoksenhakuviranomainen toisin määrää.
 
-Uhkasakon asettamista ja maksettavaksi tuomitsemista sekä teettämis- tai keskeyttämisuhan asettamista ja täytäntöön pantavaksi määräämistä koskevaan päätökseen saa kuitenkin hakea muutosta siten kuin uhkasakkolaissa säädetään.
+Muutoksenhausta uhkasakon asettamista ja maksettavaksi tuomitsemista sekä teettämis- tai keskeyttämisuhan asettamista ja täytäntöön pantavaksi määräämistä koskevaan päätökseen säädetään kuitenkin uhkasakkolaissa.
