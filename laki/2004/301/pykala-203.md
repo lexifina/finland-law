@@ -8,7 +8,7 @@ Viranomaisen on huolehdittava tulkitsemisesta tai kääntämisestä, jos ulkomaa
 
 Viranomainen voi asian selvittämiseksi tai asianosaisen oikeuksien turvaamiseksi huolehtia tulkitsemisesta tai kääntämisestä muussakin kuin 1 momentissa tarkoitetussa asiassa.
 
-Hallintotuomioistuimen velvollisuudesta huolehtia tulkitsemisesta tai kääntämisestä säädetään hallintolainkäyttölaissa.
+Hallintotuomioistuimen velvollisuudesta huolehtia tulkitsemisesta tai kääntämisestä säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa.
 
 Viranomaisen tai tuomioistuimen velvollisuus huolehtia kääntämisestä tai tulkitsemisesta ei koske aineistoa, joka ei vaikuta asian käsittelyyn.
 

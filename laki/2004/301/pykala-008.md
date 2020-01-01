@@ -5,6 +5,6 @@ Tämän lain mukainen hallintoasia on pantava vireille henkilökohtaisesti, joll
 
 Hallintoasian vireillepanossa ja käsittelyssä asianosainen saa käyttää avustajaa. Hallintoasian vireillepanossa ja käsittelyssä saa käyttää myös asiamiestä, jos ulkomaalaisen henkilökohtainen kuuleminen tai paikalle saapuminen ei ole tarpeen asian selvittämiseksi tai hänen henkilöllisyytensä varmistamiseksi.
 
-Tämän lain mukaisen muutoksenhakuasian vireillepanossa tai käsittelyssä asianosainen saa käyttää avustajaa tai asiamiestä. Ulkomaalainen voidaan velvoittaa saapumaan henkilökohtaisesti tuomioistuimeen siten kuin hallintolainkäyttölaissa säädetään.
+Tämän lain mukaisen muutoksenhakuasian vireillepanossa tai käsittelyssä asianosainen saa käyttää avustajaa tai asiamiestä. Ulkomaalainen voidaan velvoittaa saapumaan henkilökohtaisesti tuomioistuimeen siten kuin oikeudenkäynnistä hallintoasioissa annetussa laissa säädetään.
 
 Avustajan ja asiamiehen kelpoisuudesta sekä salassapitovelvollisuudesta säädetään erikseen.
