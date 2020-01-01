@@ -2,10 +2,6 @@
 Luku: 6 luku Edunvalvojan toiminnan valvonta
 Väliotsikko: Valvova viranomainen
 
-Holhousviranomaisen tulee valvoa edunvalvojan toimintaa. Valvonta kuuluu sille holhousviranomaiselle, jonka toimialueella edunvalvonnassa olevalla on kotikuntalaissa (201/1994) tarkoitettu kotikunta.
+Edunvalvojan toimintaa valvoo holhousviranomainen.
 
-Jos edunvalvonnassa olevalla ei ole kotikuntaa Suomessa, valvonta kuuluu sille holhousviranomaiselle, jonka toimialueella hän pääasiallisesti oleskelee.
-
-Jos edunvalvonta koskee poissa olevan tai tulevan omistajan oikeutta kuolinpesässä, valvonta kuuluu holhousviranomaiselle, joka 1 momentin mukaan olisi ollut toimivaltainen valvomaan perittävälle määrätyn edunvalvojan toimintaa. Jos jonkun etua on muutoin valvottava 10 §:n nojalla, toimivaltainen on se holhousviranomainen, jonka toimialueella edunvalvonnan tarve ilmenee.
-
-Valtiovarainministeriön asetuksella säädetään, mille maistraatille valvonta kuuluu tilanteissa, joissa 1–3 momentin mukaista holhousviranomaista ei ole.
+Holhousviranomaisen velvollisuutta valvoa edunvalvojan toimintaa sovelletaan myös, jos se, jolle on vieraassa valtiossa määrätty edunvalvoja, saa asuinpaikan Suomessa. Holhousviranomainen voi kuitenkin omasta aloitteestaan tai edunvalvojan hakemuksesta päättää, ettei valvontaa järjestetä Suomessa tai että valvonta järjestetään vain tiettyjen edunvalvojan tehtävien osalta, jos edunvalvojan toimintaa valvotaan vieraassa valtiossa eikä päämiehen etu edellytä valvonnan järjestämistä Suomessa.

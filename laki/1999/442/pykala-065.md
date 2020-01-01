@@ -11,6 +11,4 @@ Edunvalvonta tai toimintakelpoisuuden rajoitus on merkittävä holhousasioiden r
 
 Edunvalvontaa ei kuitenkaan merkitä holhousasioiden rekisteriin, jos edunvalvojan tehtävä ei käsitä omaisuuden hoitamista eikä oikeuden valvomista jakamattomassa pesässä.
 
-Kun tuomioistuin tekee päätöksen, jonka vuoksi edunvalvonta on merkittävä holhousasioiden rekisteriin, tai kun sen päätöksellä muutetaan asiantilaa, josta on tehty merkintä holhousasioiden rekisteriin, sen on ilmoitettava asiasta edunvalvojan toimintaa valvovalle holhousviranomaiselle. Jos päätöstä on noudatettava vasta lainvoimaisena, ilmoitus tehdään kuitenkin vasta päätöksen saatua lainvoiman. Ilmoituksen tekee viimeksi mainitussa tapauksessa se tuomioistuin, jossa asia on viimeksi ollut vireillä.
-
-Oikeusministeriön asetuksella voidaan säätää tarkemmin ilmoituksen sisällöstä ja ilmoituksen tekemisestä.
+Kun tuomioistuin tekee päätöksen, jonka vuoksi edunvalvonta on merkittävä holhousasioiden rekisteriin, tai kun sen päätöksellä muutetaan asiantilaa, josta on tehty merkintä holhousasioiden rekisteriin, sen on ilmoitettava asiasta holhousviranomaiselle. Jos päätöstä on noudatettava vasta lainvoimaisena, ilmoitus tehdään kuitenkin vasta päätöksen saatua lainvoiman. Ilmoituksen tekee viimeksi mainitussa tapauksessa se tuomioistuin, jossa asia on viimeksi ollut vireillä.
