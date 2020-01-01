@@ -5,4 +5,4 @@ Suomen Pankin oikeuteen saada maksutta salassapitosäännösten ja muiden tiedon
 
 Eläkkeenhakijan ja -saajan velvollisuudesta antaa Suomen Pankille eläkeasian käsittelemistä ja ratkaisemista varten tarvittavat tiedot on soveltuvin osin voimassa, mitä valtion eläkelain 26 a §:ssä säädetään.
 
-Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään, Suomen Pankin oikeuteen antaa salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä 58 §:ssä tarkoitetun eläketurvan toimeenpanoon perustuvia tietoja ja avata tekninen käyttöyhteys, sovelletaan vastaavasti, mitä valtion eläkelain 26 d ja 26 e §:ssä säädetään.
+Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään, Suomen Pankin oikeuteen antaa salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä 58 §:ssä tarkoitetun eläketurvan toimeenpanoon perustuvia tietoja, sovelletaan, mitä julkisten alojen eläkelain (81/2016) 157 ja 161–163 §:ssä säädetään.
