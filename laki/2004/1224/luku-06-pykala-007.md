@@ -12,3 +12,5 @@ Lääkevalmisteelle ehdotetun korvausperusteeksi hyväksyttävän tukkuhinnan ko
 Lääkevalmisteen valmistus-, tutkimus- ja tuotekehityskustannukset voidaan ottaa huomioon lääkevalmisteelle ehdotetun tukkuhinnan kohtuullisuutta arvioitaessa, jos kustannuksista on esitetty riittävän yksilöityjä, vertailukelpoisia ja luotettavia lääkevalmistekohtaisia tietoja.
 
 Lääkkeiden hintalautakunta voi hyväksyä aiemmin vahvistettua tukkuhintaa korkeamman tukkuhinnan ainoastaan perustellusta syystä ja edellyttäen, että ehdotettua tukkuhintaa voidaan edelleen pitää kohtuullisena ottaen huomioon mitä 1 ja 2 momentissa säädetään.
+
+Edellä 1 momentin 1 kohdassa tarkoitetussa arvioinnissa ei oteta huomioon sellaisten lääkevalmisteiden hintoja, joille on hyväksytty ehdollinen korvattavuus 6 a §:n perusteella.
