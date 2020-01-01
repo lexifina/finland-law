@@ -3,7 +3,7 @@ Osa: VI OSA MUUT SÄÄNNÖKSET
 Luku: 13 luku Tietojen saaminen, luovuttaminen ja salassapito
 
 Kansaneläkelaitoksella on oikeus saada sen toimeenpantaviksi säädettyjen etuuksien hoitamista varten salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä:
-1) väestörekisteriviranomaisilta väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain (661/2009) 13 §:n 1 momentin 1–17 ja 20–22 kohdassa mainitut välttämättömät tiedot ja niissä tapahtuneet muutokset;
+1) Digi- ja väestötietovirastolta ja Ahvenanmaan maakunnassa Ahvenanmaan valtionvirastolta väestötietojärjestelmästä ja Digi- ja väestötietoviraston varmennepalveluista annetun lain (661/2009) 13 §:n 1 momentin 1–17 ja 20–22 kohdassa mainitut välttämättömät tiedot ja niissä tapahtuneet muutokset;
 2) Maahanmuuttovirastolta sen rekisterissä olevien Suomeen muuttaneiden ulkomaalaisten ja heidän perheenjäsentensä tunnistetiedot sekä perheoikeudellista asemaa ja oleskelulupaa koskevat tiedot sekä mainituissa tiedoissa tapahtuneet muutokset;
 3) Eläketurvakeskukselta, eläkelaitokselta, vakuutuslaitokselta sekä muulta eläkkeen tai muun korvauksen myöntäjältä tai maksajalta tiedot eläke- ja korvauspäätöksistä ja eläkkeen tai korvauksen määrän muuttumisesta sekä tiedon työeläkkeen määrästä, joka ei sisällä 23 §:ssä mainittuja karttumia ja korotuksia eikä työeläkkeen varhennusvähennystä;
 4) Eläketurvakeskukselta tiedot henkilön kuulumisesta Suomea sitovan valtioiden välisen sopimuksen perusteella Suomen asumisperusteisen sosiaaliturvan piiriin;
