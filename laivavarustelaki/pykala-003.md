@@ -9,6 +9,6 @@ Alusturvallisuutta koskevien säännösten ja määräysten noudattamisen valvon
 
 Radiolaitteen, jonka vaatimustenmukaisuutta ei varmisteta laivavarusteena, vaatimustenmukaisuuden varmistamisesta ja markkinoille saattamisesta säädetään tietoyhteiskuntakaaressa (917/2014).
 
-Suomen vesialueella ja Saimaan kanavan vuokra-alueella käytettävän vesikulkuneuvon rakenteesta, varusteista ja kunnosta säädetään vesiliikennelaissa (463/1996).
+Suomen vesialueella ja Saimaan kanavan vuokra-alueella käytettävän vesikulkuneuvon rakenteesta, varusteista ja kunnosta säädetään vesiliikennelaissa (782/2019).
 
 Alukseen asennettavista painelaitteista ja niille suoritettavista tarkastuksista säädetään painelaitelaissa (869/1999).
