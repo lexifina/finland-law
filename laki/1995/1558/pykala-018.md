@@ -1,7 +1,7 @@
 # 18 § Viranomaisen yleinen tiedonantovelvollisuus
 Luku: 3 luku Sivullisen tiedonantovelvollisuus
 
-Rekisterihallintolaissa (166/1996) tarkoitettujen viranomaisten on toimitettava Verohallinnolle verotusta varten tarpeelliset väestötietojärjestelmään sisältyvät tiedot.
+Digi- ja väestötietoviraston sekä Ahvenanmaan maakunnassa Ahvenanmaan valtionviraston on toimitettava Verohallinnolle verotusta varten tarpeelliset väestötietojärjestelmään sisältyvät tiedot.
 
 Kaupparekisterilaissa (129/1979) tarkoitetun rekisteriviranomaisen tai paikallisviranomaisen on toimitettava Verohallinnolle verotusta varten tarpeelliset kaupparekisteriin sisältyvät tiedot.
 

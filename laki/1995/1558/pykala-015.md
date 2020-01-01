@@ -13,4 +13,6 @@ Arvo-osuusjärjestelmästä ja selvitystoiminnasta annetussa laissa (348/2017) t
 
 Poroisännän on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot poronomistajien omistamista poroista.
 
+Poiketen siitä, mitä 1 momentissa säädetään, enintään 100 euron arvoiset kilpailupalkinnot on ilmoitettava vain, jos palkinnon antaminen liittyy työ- tai palvelussuhteeseen.
+
 Verohallinto voi antaa tarkempia määräyksiä annettavista tiedoista, tietojen antamisen ajankohdasta ja tavasta tai rajoittaa tiedonantovelvollisuutta.
