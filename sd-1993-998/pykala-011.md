@@ -8,4 +8,4 @@ Tarkastusta ei kuitenkaan vaadita, jos:
 2) työsuhde on tarkoitettu kestämään tai kestää enintään kolme kuukautta; tai
 3) työntekijä esittää viimeisten 12 kuukauden aikana annetun lääkärintodistuksen, joka riittävästi selvittää hänen soveltuvuutensa työhön.
 
-Erityisen sairastumisen vaaran aiheuttavassa työssä on terveystarkastusten järjestämisessä lisäksi noudatettava, mitä työterveyshuoltolaissa (743/78) tai sen nojalla säädetään tai määrätään.
+Erityisen sairastumisen vaaran aiheuttavassa työssä on terveystarkastusten järjestämisessä lisäksi noudatettava, mitä työterveyshuoltolaissa (1383/2001) tai sen nojalla säädetään tai määrätään.
