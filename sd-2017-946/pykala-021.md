@@ -1,7 +1,7 @@
 # 21 § Nimiviranomaiset
 Luku: 3 luku Nimiviranomaiset ja menettelysäännökset
 
-Etu- ja sukunimeä koskevat asiat ratkaisee se maistraatti, jonka toimialueella on hakijan kotikunta tai väestökirjanpitokunta. Ilmoitus tai hakemus voidaan toimittaa mille tahansa maistraatille. Mitä tässä laissa säädetään maistraatista, koskee Ahvenanmaan maakunnassa Ahvenanmaan valtionvirastoa. Valtiovarainministeriön asetuksella voidaan säätää edellä säädetystä poikkeavasta toimivallan jakautumisesta maistraattien kesken.
+Etu- ja sukunimeä koskevat asiat ratkaisee Digi- ja väestötietovirasto. Mitä tässä laissa säädetään Digi- ja väestötietovirastosta, koskee Ahvenanmaan maakunnassa Ahvenanmaan valtionvirastoa. Valtioneuvoston asetuksella voidaan säätää edellä säädetystä poikkeavasta toimivallan jakautumisesta Digi- ja väestötietoviraston ja Ahvenanmaan valtionviraston kesken.
 
 Tuomioistuin voi adoption vahvistamisen yhteydessä antaa päätöksen alaikäisen adoptiolapsen sukunimestä.
 
