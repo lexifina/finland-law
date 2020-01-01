@@ -1,0 +1,2 @@
+Laki meritse kuljetettavien vaarallisten ja haitallisten aineiden vastaanottamista koskevasta raportointivelvollisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
