@@ -1,4 +1,4 @@
 # 13 § Vireilletulo
-Luku: 3 luku Kuolleeksi julistaminen maistraatin päätöksellä
+Luku: 3 luku Kuolleeksi julistaminen Digi- ja väestötietoviraston päätöksellä
 
-Maistraatin on vuosittain omasta aloitteestaan selvitettävä, onko väestötietojärjestelmän tietojen mukaan elossa sellaisia henkilöitä, joiden kuolleeksi julistamiseen on 12 §:n mukaiset edellytykset.
+Digi- ja väestötietoviraston on vuosittain omasta aloitteestaan selvitettävä, onko väestötietojärjestelmän tietojen mukaan elossa sellaisia henkilöitä, joiden kuolleeksi julistamiseen on 12 §:n mukaiset edellytykset.
