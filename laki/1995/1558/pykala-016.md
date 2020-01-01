@@ -3,7 +3,7 @@ Luku: 3 luku Sivullisen tiedonantovelvollisuus
 
 Työmarkkinajärjestön ja työttömyyskassan on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot verotuksessa vähennyskelpoisista jäsenmaksuista ja työttömyyskassamaksuista.
 
-Vakuutuslaitoksen, eläkesäätiön ja muun eläkelaitoksen, ulkomaisen vakuutus- tai eläkelaitoksen Suomessa olevan edustajan tai välittäjän sekä talletuspankin, rahastoyhtiön ja sijoituspalveluyrityksen on toimitettava Verohallinnolle tiedot verovelvollisen maksamista eläkevakuutuksen ja pitkäaikaissäästämissopimuksen maksuista sekä selvitys maksujen vähennyskelpoisuudesta. Lisäksi vakuutuslaitoksen ja ulkomaisen vakuutuslaitoksen Suomessa olevan edustajan tai välittäjän on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot maatalousyrittäjän eläkelain (1280/2006) 1 a §:ssä tarkoitetun apurahansaajan maksamasta pakollisesta ryhmähenkivakuutusmaksusta sekä maatalousyrittäjien tapaturmavakuutuslain (1026/1981) mukaisesta tapaturmavakuutusmaksusta. Vastaava selvitys on annettava myös verovelvolliselle.
+Vakuutuslaitoksen, eläkesäätiön ja muun eläkelaitoksen, ulkomaisen vakuutus- tai eläkelaitoksen Suomessa olevan edustajan tai välittäjän sekä talletuspankin, rahastoyhtiön ja sijoituspalveluyrityksen on toimitettava Verohallinnolle tiedot verovelvollisen maksamista eläkevakuutuksen ja pitkäaikaissäästämissopimuksen maksuista sekä selvitys maksujen vähennyskelpoisuudesta. Lisäksi vakuutuslaitoksen ja ulkomaisen vakuutuslaitoksen Suomessa olevan edustajan tai välittäjän on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot maatalousyrittäjän eläkelain (1280/2006) 1 a §:ssä tarkoitetun apurahansaajan maksamasta pakollisesta ryhmähenkivakuutusmaksusta sekä maatalousyrittäjien tapaturmavakuutuslain (1026/1981) ja maatalousyrittäjän työtapaturma- ja ammattitautilain (873/2015) mukaisesta tapaturmavakuutusmaksusta. Vastaava selvitys on annettava myös verovelvolliselle.
 
 Työnantajan tai muun suorituksenmaksajan on toimitettava Verohallinnolle tiedot perimistään työntekijän eläkemaksuista, työttömyysvakuutusmaksusta samoin kuin tuloverolain 96 ja 96 a §:ssä tarkoitetuista maksuista.
 
@@ -26,5 +26,7 @@ Kunnan ja kuntayhtymän, joka perii maksamistaan palkkioista tuloverolain 31 §:
 Sijoitustoiminnan verohuojennuksesta verovuosina 2013–2015 annetun lain (993/2012) mukaisen sijoituksen vastaanottaneen kohdeyhtiön on annettava sijoituksesta Verohallinnolle vuosi-ilmoitus. Verohallinto antaa tarkemmat määräykset annettavista tiedoista, tietojen antamisen ajankohdasta ja tavasta.
 
 Yliopiston ja korkeakoulun on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot verovelvollisen tekemästä tuloverolain (1535/1992) 98 a §:ssä tarkoitetusta vähennyskelpoisesta lahjoituksesta.
+
+Vakuutuslaitoksen sekä ulkomaisen vakuutuslaitoksen edustajan tai välittäjän on toimitettava Verohallinnolle tarpeelliset tiedot tuloverolain 35 ja 35 b §:ssä tarkoitetusta säästöhenkivakuutuksen, kapitalisaatiosopimuksen ja määräaikaisen eläkevakuutuksen tappiosta.
 
 Verohallinto voi antaa tarkempia määräyksiä annettavista tiedoista, tietojen antamisen ajankohdasta ja tavasta tai rajoittaa tiedonantovelvollisuutta.
