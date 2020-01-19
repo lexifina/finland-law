@@ -1,0 +1,2 @@
+Laki Yhdistyneiden kansakuntien hankepalveluiden toimiston Suomen-toimistosta Yhdistyneiden kansakuntien kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
