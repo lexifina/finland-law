@@ -4,7 +4,7 @@ Luku: 5 luku Tilastokeskuksen tilastotointa koskevat säännökset
 Tilastokeskus ylläpitää tilastojen laadintaa varten hallussaan olevien tietojen pohjalta yritys- ja toimipaikkarekisteriä, jonka sisältämät tiedot ovat julkisia seuraavasti.
 
 Elinkeinon- ja ammatinharjoittajien, yhteisöjen ja säätiöiden osalta julkisia ovat tiedot:
-1) yritys- ja yhteisötunnuksesta ja sen voimassaoloajasta, oikeudellisesta muodosta, nimestä, toimialasta, kielitunnuksesta, kotikunnasta sekä osoitteesta ja muista yhteystiedoista;
+1) yritys- ja yhteisötunnuksesta ja sen voimassaoloajasta, kansainvälisestä yhteisötunnuksesta (Legal Entity Identifier), yritysyksiköstä, kasvuyritystiedosta, sektoriluokituksesta, oikeudellisesta muodosta, nimestä, toimialasta, kielitunnuksesta, kotikunnasta sekä osoitteesta ja muista yhteystiedoista;
 2) omistajatyypistä;
 3) toiminnan sijainnista ja toimipaikoista;
 4) liikevaihdon suuruusluokasta ja yritystoiminnan tyyppiluokittelusta;
