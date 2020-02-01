@@ -1,0 +1,2 @@
+Laki eräiden terveyden- ja sairaanhoidon henkilöstöryhmien sekä eläinlääkäreiden yhteisistä pohjoismaisista työmarkkinoista Pohjoismaiden välillä tehdyn sopimuksen muuttamisesta tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
