@@ -10,9 +10,6 @@ Työnteko-oikeus on lisäksi ulkomaalaisella:
 1) jolle on myönnetty pysyvä oleskelulupa, 56 a §:n mukainen pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa tai jatkuva oleskelulupa muulla kuin työnteon perusteella;
 2) jolle on myönnetty oleskelulupa perhesiteen perusteella;
 3) jolle on myönnetty tilapäinen oleskelulupa tilapäisen suojelun tai muun humanitaarisen maahanmuuton perusteella;
-a) työ on tutkintoon sisältyvää työharjoittelua tai opintoihin sisältyvän lopputyön tekemistä ansiotyönä;
-b) työn määrä tasoittuu keskimäärin 25 tuntiin viikossa aikana, jolloin oppilaitoksessa järjestetään varsinaista opetusta; tai
-c) kokoaikainen työ sijoittuu aikaan, jolloin oppilaitoksessa ei järjestetä varsinaista opetusta;
 5) jolle on myönnetty tilapäinen oleskelulupa 52 a tai 52 d §:n perusteella;
 6) jonka oleskelulupa on myönnetty maasta poistumisen estymisen vuoksi 51 §:n perusteella;
 7) jolle ulkoministeriö on myöntänyt oleskeluluvan edustuston rakennus-, korjaus- tai huoltotyön tekemistä varten.
