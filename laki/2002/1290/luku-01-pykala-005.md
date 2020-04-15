@@ -8,7 +8,7 @@ Tässä laissa tarkoitetaan:
 3) työsuhteella työtä, jota tehdään työsopimuslain (55/2001) 1 luvun 1 §:ssä tai merityösopimuslain (756/2011) 1 luvun 1 §:ssä tarkoitetun työsopimuksen taikka ammatillisesta koulutuksesta annetussa laissa (531/2017) tarkoitetun oppisopimuksen perusteella ja jota ei tehdä 6 §:ssä tarkoitettuna yrittäjänä;
 4) kokoaikatyöllä työsuhteessa tehtyä työtä, jossa työaika on enemmän kuin 80 prosenttia alalla sovellettavasta kokoaikaisen työntekijän enimmäistyöajasta;
 5) osa-aikatyöllä työsuhteessa tehtyä työtä, jossa työaika on enintään 80 prosenttia alalla sovellettavasta kokoaikaisen työntekijän enimmäistyöajasta;
-6) lomautuksella työnantajan suorittamaa lomautusta tuotannollisilla ja taloudellisilla syillä;
+6) lomautuksella työsopimuslain 5 luvussa tarkoitettua tuotannollisiin ja taloudellisiin syihin perustuvaa työnantajan päätökseen perustuvaa lomautusta ja työnantajan aloitteesta tapahtuvaa työnantajan ja työntekijän keskinäiseen sopimukseen perustuvaa lomautusta;
 7) työssäoloehdolla sekä palkansaajan että yrittäjän ansiopäivärahan ja peruspäivärahan saamisen edellytyksenä olevaa työssäoloehtoa;
 8) korvauksettomalla määräajalla aikaa, jolta työttömyysetuutta ei makseta työstä eroamisen tai kieltäytymisen taikka muun 2 a luvussa säädetyn menettelyn johdosta;
 9) työssäolovelvoitteella työssäoloa, työllistymistä edistävään palveluun osallistumista, opiskelua tai yritystoiminnassa taikka omassa työssä työllistymistä, joka edellytetään ennen kuin työttömyysetuutta voidaan maksaa työttömyysajalta toistuvan 8 kohdassa tarkoitetun menettelyn jälkeen;
