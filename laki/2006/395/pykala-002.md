@@ -11,10 +11,11 @@ Tässä laissa tarkoitetaan:
 6) ensisijaisella etuudella 92 ja 93 §:ssä tarkoitettua etuutta, joka maksetaan työeläkkeen määrästä riippumatta täysimääräisesti ja vähennetään tämän lain mukaisesta etuudesta;
 7) EU:n sosiaaliturvan perusasetuksella sosiaaliturvajärjestelmien yhteensovittamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 883/2004 ja EU:n sosiaaliturvan täytäntöönpanoasetuksella sosiaaliturvajärjestelmien yhteensovittamisesta annetun asetuksen (EY) N:o 883/2004 täytäntöönpanomenettelystä annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 987/2009;
 8) EU- ja ETA-maalla maata, jossa sovelletaan EU:n sosiaaliturvan perusasetusta tai sosiaaliturvajärjestelmien soveltamisesta yhteisön alueella liikkuviin palkattuihin työntekijöihin, itsenäisiin ammatinharjoittajiin ja heidän perheenjäseniinsä annettua neuvoston asetusta (ETY) N:o 1408/71;
-9) kolmannella valtiolla muuta kuin EU- tai ETA-maata, Sveitsiä tai valtiota, jonka kanssa Suomi on solminut kahdenvälisen sosiaaliturvasopimuksen;
-10) sosiaaliturvasopimuksella Suomea sitovaa kansainvälistä, sosiaaliturvaa koskevaa sopimusta;
-11) teoreettisella eläkkeellä laskennallista eläkettä, jota määrättäessä työeläkelakien alainen ja EU- ja ETA-maassa työskentelyaika luetaan tämän lain mukaiseksi työskentelyajaksi;
-12) alimmalla vanhuuseläkeiällä 11 §:n 2 ja 3 momentissa tarkoitettua työntekijän syntymävuoden perusteella määräytyvää vanhuuseläkeikää.
+9) tietosuoja-asetuksella luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2016/679 (yleinen tietosuoja-asetus);
+10) kolmannella valtiolla muuta kuin EU- tai ETA-maata, Sveitsiä tai valtiota, jonka kanssa Suomi on solminut kahdenvälisen sosiaaliturvasopimuksen;
+11) sosiaaliturvasopimuksella Suomea sitovaa kansainvälistä, sosiaaliturvaa koskevaa sopimusta;
+12) teoreettisella eläkkeellä laskennallista eläkettä, jota määrättäessä työeläkelakien alainen ja EU- ja ETA-maassa työskentelyaika luetaan tämän lain mukaiseksi työskentelyajaksi;
+13) alimmalla vanhuuseläkeiällä 11 §:n 2 ja 3 momentissa tarkoitettua työntekijän syntymävuoden perusteella määräytyvää vanhuuseläkeikää.
 
 Tässä laissa eläketapahtumalla tarkoitetaan:
 1) vanhuuseläkkeen alkamista edeltävän kalenterikuukauden viimeistä päivää;
