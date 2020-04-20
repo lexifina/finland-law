@@ -14,6 +14,4 @@ Rekisteriin saadaan kerätä ja tallentaa työttömyysetuuksien maksatusjärjest
 3) tiedot maksetuista työttömyysetuuksista ja niiden ajallisesta kohdentumisesta sekä tiedot etuuksien määräytymiseen vaikuttavista seikoista; sekä
 4) tiedot työttömyyskassassa annetuista päätöksistä ja työttömyysetuushakemusten käsittelystä.
 
-Henkilötietojen säilytysaika ja rekisteröityjen oikeusturva määräytyvät henkilötietolain (523/1999) nojalla.
-
 Finanssivalvonnan oikeudesta saada ja luovuttaa tietoja säädetään Finanssivalvonnasta annetussa laissa (878/2008) ja työttömyyskassalaissa.
