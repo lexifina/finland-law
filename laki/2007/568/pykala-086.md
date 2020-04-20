@@ -9,7 +9,7 @@ Kansaneläkelaitoksella ja tämän lain mukaisella muutoksenhakuelimellä on oik
 4) työnantajalta ja työttömyyskassalta;
 5) oppilaitoksilta 40 §:n 1 momentissa tarkoitetuissa tapauksissa lapseneläkettä saavan lapsen päätoimisesta opiskelusta;
 6) työpaikkakassoilta; sekä
-7) rahalaitoksilta koskien leskeneläkkeenhakijaa tai -saajaa, jollei riittäviä tietoja ja selvityksiä muutoin saada ja on perusteltua syytä epäillä etuuden hakijan tai saajan antamien tietojen riittävyyttä tai luotettavuutta eikä tämä ole antanut suostumustaan tietojen saamiseen; pyyntö tietojen saamiseksi tulee esittää kirjallisena ja ennen pyynnön esittämistä hakijalle tai saajalle on annettava siitä tieto.
+7) rahalaitoksilta koskien leskeneläkkeenhakijaa tai -saajaa, jollei riittäviä tietoja ja selvityksiä muutoin saada ja on perusteltua syytä epäillä etuuden hakijan tai saajan antamien tietojen riittävyyttä tai luotettavuutta; pyyntö tietojen saamiseksi tulee esittää kirjallisena ja ennen pyynnön esittämistä hakijalle tai saajalle on annettava siitä tieto.
 
 Kansaneläkelaitoksella ja tämän lain mukaisella muutoksenhakuelimellä on lisäksi oikeus pyynnöstä saada työkyvyttömyyseläkkeen ratkaisemista varten
 1) lääkäriltä tai muulta terveydenhuollon ammattihenkilöistä annetussa laissa (559/1994) tarkoitetulta ammattihenkilöltä,
