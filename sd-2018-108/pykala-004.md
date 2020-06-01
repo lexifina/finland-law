@@ -9,7 +9,7 @@ Rajavartiolaitoksen tehtävänä on estää, paljastaa ja selvittää seuraavia 
 5) rikoslain 17 luvun 7 b §:ssä tarkoitettu alueloukkaus ja muu Suomen alueellisen koskemattomuuden loukkaaminen;
 6) rikoslain 48 a luvun 1 §:ssä tarkoitettu metsästysrikos, 1 a §:ssä tarkoitettu törkeä metsästysrikos, 4 §:ssä tarkoitettu laittoman saaliin kätkeminen ja 4 a §:ssä tarkoitettu törkeä laittoman saaliin kätkeminen;
 7) Rajavartiolaitoksen valvottavaksi säädetyn säännöksen noudattamatta jättäminen;
-8) merilain (674/1994) 20 luvussa ja vesiliikennelaissa (463/1996) rangaistavaksi säädetyt teot sekä vesiliikenteessä tapahtunut rikoslain 23 luvun 1 §:ssä tarkoitettu liikenneturvallisuuden vaarantaminen, 2 §:ssä tarkoitettu törkeä liikenneturvallisuuden vaarantaminen, 5 §:ssä tarkoitettu vesiliikennejuopumus, 8 §:ssä tarkoitettu kulkuneuvon luovuttaminen juopuneelle, 10 §:ssä tarkoitettu kulkuneuvon kuljettaminen oikeudetta ja 11 a §:ssä tarkoitettu liikenteen häirintä;
+8) merilain (674/1994) 20 luvussa ja vesiliikennelaissa (782/2019) rangaistavaksi säädetyt teot sekä vesiliikenteessä tapahtunut rikoslain 23 luvun 1 §:ssä tarkoitettu liikenneturvallisuuden vaarantaminen, 2 §:ssä tarkoitettu törkeä liikenneturvallisuuden vaarantaminen, 5 §:ssä tarkoitettu vesiliikennejuopumus, 8 §:ssä tarkoitettu kulkuneuvon luovuttaminen juopuneelle, 10 §:ssä tarkoitettu kulkuneuvon kuljettaminen oikeudetta ja 11 a §:ssä tarkoitettu liikenteen häirintä;
 9) rajavartioviranomaiseen tai Rajavartiolaitoksen ylläpidettäviin rajamerkkeihin ja rajalaitteisiin kohdistuva rikos;
 10) rajavartiolain 72 §:ssä tarkoitettu rajavyöhykerikkomus;
 11) rajatarkastuksen yhteydessä rikoslain 32 luvun 1–5 §:ssä tarkoitettu kätkemisrikos ja -rikkomus;
