@@ -1,6 +1,6 @@
-# 28 § Rekisteröidyn tarkastusoikeus
+# 28 § Rajoitukset rekisteröidyn oikeuteen tutustua hänestä kerättyihin tietoihin
 Luku: 1 luku Yleiset säännökset
 
-Jos henkilötietolain mukainen rekisteröidyn tarkastusoikeus tuntuvasti vaikeuttaisi täytäntöönpanoa, tarkastusoikeutta voidaan tarpeellisin osin lykätä, kunnes tarvittavat ulosmittaukset tai muut täytäntöönpanotoimet on suoritettu ja omaisuus on otettu ulosottomiehen haltuun, enintään kuitenkin kuusi kuukautta tarkastusoikeutta koskevan pyynnön esittämisestä.
+Tietosuoja-asetuksen 15 artiklassa tarkoitettua rekisteröidyn oikeutta tutustua hänestä kerättyihin tietoihin voidaan lykätä, jos tietoihin tutustuminen voisi tuntuvasti vaikeuttaa täytäntöönpanoa. Tutustumisoikeutta voidaan lykätä tarpeellisin osin täytäntöönpanon turvaamiseksi siihen saakka, kunnes tarvittavat ulosmittaukset tai muut täytäntöönpanotoimet on suoritettu ja omaisuus on otettu ulosottomiehen haltuun, enintään kuitenkin kuusi kuukautta tietoihin pääsyä koskevan pyynnön esittämisestä.
 
-Jos tarkastusoikeutta on lykätty, tietosuojavaltuutettu voi sen lisäksi, mitä muualla säädetään, rekisteröidyn pyynnöstä tarkastaa rekisterissä olevien rekisteröityä koskevien tietojen lainmukaisuuden.
+Jos tietosuoja-asetuksen 15 artiklassa tarkoitettua oikeutta lykätään vain osittain, rekisteröidyllä on oikeus saada tietää muut häntä koskevat tiedot. Lykättäessä 1 momentin mukaisesti rekisteröidyn oikeutta tutustua hänestä kerättyihin tietoihin on muutoin noudatettava, mitä tietosuojalain 34 §:n 3 ja 4 momentissa säädetään.

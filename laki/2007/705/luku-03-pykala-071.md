@@ -1,7 +1,7 @@
 # 71 § Veroviranomaiset ja julkisia tukia myöntävät
 Luku: 3 luku Yleiset menettelysäännökset
 
-Ulosottoviranomainen saa yksittäistapauksessa antaa pyydettäessä ulosottoviranomaisen asiakirjasta vastaajan tunniste- ja yhteystietoja sekä vastaajan taloudellista asemaa ja toimintaa koskevia tietoja, jos tiedot ovat tarpeen:
+Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa tai muussa laissa säädetään, ulosottoviranomainen saa salassapitosäännösten estämättä yksittäistapauksessa antaa pyydettäessä ulosottoviranomaisen asiakirjasta vastaajan tunniste- ja yhteystietoja sekä vastaajan taloudellista asemaa ja toimintaa koskevia tietoja, jos tiedot ovat välttämättömiä:
 1) veroviranomaiselle verotusta koskevan asian käsittelyä varten; taikka
 2) työttömyyspäivärahaa tai muita julkisia avustuksia, tukia tai muita etuuksia myöntävälle tai valvovalle viranomaiselle taikka julkisyhteisölle tai muulle yhteisölle tai säätiölle sellaisen asian käsittelyä varten.
 
