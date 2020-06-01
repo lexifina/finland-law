@@ -1,10 +1,10 @@
-# 1 § Säätiörekisteri ja rekisteriviranomainen
+# 1 § Säätiörekisteri ja rekisterinpitäjä
 Osa: V OSA VALVONTA JA SÄÄTIÖREKISTERI
 Luku: 13 luku Säätiörekisteri
 
 Säätiörekisteriin merkitään säätiöitä koskevat ilmoitukset ja tiedonannot sen mukaan kuin tässä laissa ja valtioneuvoston asetuksella säädetään sekä rekisteriviranomaisen päätöksellä tarkemmin määrätään.
 
-Säätiörekisteriä pitää Patentti- ja rekisterihallitus, jota tässä laissa sanotaan rekisteriviranomaiseksi.
+Säätiörekisterin rekisterinpitäjä on Patentti- ja rekisterihallitus, josta tässä laissa käytetään myös ilmaisua rekisteriviranomainen.
 
 Jokaisella on oikeus saada säätiörekisterin merkinnöistä tietoja, otteita ja todistuksia, jollei tässä laissa toisin säädetä. Säätiörekisteristä voidaan viranomaisten toiminnan julkisuudesta annetun lain 16 §:n 3 momentin estämättä luovuttaa tietoja sähköisessä muodossa.
 
