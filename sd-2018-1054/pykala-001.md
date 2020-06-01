@@ -9,8 +9,8 @@ Tätä lakia sovelletaan toimivaltaisten viranomaisten käsitellessä henkilöti
 5) yleiseen turvallisuuteen kohdistuvilta uhkilta suojelemisesta tai tällaisten uhkien ehkäisemisestä 1–4 kohdassa tarkoitetun toiminnan yhteydessä.
 
 Sen lisäksi, mitä 1 momentissa säädetään, tätä lakia sovelletaan:
-1) Puolustusvoimien suorittamaan ja Puolustusvoimien lukuun suoritettavaan henkilötietojen käsittelyyn, kun tietoja käsitellään puolustusvoimista annetun lain (551/2007) 2 §:n 1 momentin 1 kohdassa, 2 kohdan a alakohdassa sekä 3 ja 4 kohdassa säädettyjen tehtävien hoitamiseksi;
-2) poliisin suorittamaan henkilötietojen käsittelyyn, kun tietoja käsitellään sellaisessa poliisilain (872/2011) 1 luvun 1 §:n 1 momentissa tarkoitetussa tehtävässä, joka liittyy kansallisen turvallisuuden suojaamiseen;
+1) Puolustusvoimien suorittamaan ja Puolustusvoimien lukuun suoritettavaan henkilötietojen käsittelyyn, kun tietoja käsitellään puolustusvoimista annetun lain (551/2007) 2 §:n 1 momentin 1 kohdassa, 2 kohdan a alakohdassa tai 3 ja 4 kohdassa säädettyjen tehtävien hoitamiseksi, sekä Puolustusvoimien pääesikunnan suorittamaan henkilötietojen käsittelyyn turvallisuusselvityslain (726/2014) 9 §:n 3 momentissa tarkoitettujen tehtävien hoitamiseksi;
+2) poliisin suorittamaan henkilötietojen käsittelyyn, kun tietoja käsitellään sellaisessa poliisilain (872/2011) 1 luvun 1 §:n 1 momentissa tarkoitetussa tehtävässä, joka liittyy kansallisen turvallisuuden suojaamiseen, sekä turvallisuusselvityslain 9 §:n 1 momentissa tarkoitetuissa tehtävissä;
 3) Rajavartiolaitoksen suorittamaan henkilötietojen käsittelyyn, kun tietoja käsitellään sellaisessa rajavartiolain (578/2005) 3 §:n 2 ja 3 momentissa tarkoitetussa tehtävässä, joka liittyy kansallisen turvallisuuden suojaamiseen.
 
 Edellä 2 momentissa tarkoitettuun henkilötietojen käsittelyyn ei kuitenkaan sovelleta 10 §:n 2 momenttia henkilötietojen siirtämisestä Euroopan unionissa sijaitsevalle vastaanottajalle, 54 §:ää keskinäisestä avunannosta toisen EU:n jäsenvaltion kanssa eikä 7 lukua henkilötietojen siirrosta kolmansiin maihin ja kansainvälisille järjestöille.
