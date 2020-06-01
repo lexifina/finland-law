@@ -1,3 +1,3 @@
 # 10 § Suhde muuhun lainsäädäntöön
 
-Jollei tässä laissa toisin säädetä, henkilötietojen salassapitoon ja luovuttamiseen sovelletaan viranomaisten toiminnan julkisuudesta annettua lakia ja muuhun henkilötietojen käsittelyyn henkilötietolakia.
+Jollei tässä laissa toisin säädetä, henkilötietojen salassapitoon ja luovuttamiseen sovelletaan viranomaisten toiminnan julkisuudesta annettua lakia.

@@ -6,5 +6,3 @@ Rekisteristä poistetaan rekisteröityä ja velkajärjestelyä koskevat tiedot s
 3) on kulunut kaksi vuotta siitä, kun hakemus on hylätty tai maksuohjelma on määrätty raukeamaan.
 
 Edellä 1 momentin 2 ja 3 kohdassa tarkoitetut määräajat lasketaan päivästä, jona tuomioistuin on ratkaissut asian. Jos asia määräajan päättyessä on vireillä muutoksenhakutuomioistuimessa, tietoa alemman tuomioistuimen ratkaisusta ei kuitenkaan poisteta ennen kuin muutoksenhakutuomioistuin on ratkaissut asian.
-
-Virheen oikaisusta säädetään henkilötietolain (523/1999) 29 §:ssä.
