@@ -8,3 +8,5 @@ Tämän luvun 15 ja 16 §:ää ei sovelleta hyödykesidonnaiseen kertaluottoon.
 Tämän luvun 18 ja 39 §:ää sovelletaan ainoastaan hyödykesidonnaiseen luottoon ja 36–38 §:ää ainoastaan tavaran hankkimiseksi myönnettävään hyödykesidonnaiseen luottoon.
 
 Tämän luvun 17 a §:ää ei sovelleta osamaksukauppaan, jossa kaupan kohteena on liikenteen palveluista annetussa laissa (320/2017) tarkoitettuun liikenneasioiden rekisteriin rekisteröitävä liikenneväline siihen mahdollisesti liittyvine lisävarusteineen. Jos kuluttajalla on sopimuksen perusteella oikeus nostaa myös rahavaroja, mainittua pykälää kuitenkin sovelletaan.
+
+Tämän luvun 8 §:n 4 momenttia sekä 17 c ja 24 a §:ää ei sovelleta hyödykesidonnaiseen luottoon.
