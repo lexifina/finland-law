@@ -11,4 +11,4 @@ Enimmäisaikaan luetaan myös sellaiset työttömyyspäivät, joilta henkilölle
 
 Laskettaessa 1 momentin mukaista enimmäisaikaa otetaan soviteltuna työttömyyspäivärahana maksettu määrä huomioon muunnettuna täysiksi työttömyyspäivärahapäiviksi.
 
-Lomautuksen ajalta maksettua työttömyyspäivärahaa ei oteta huomioon laskettaessa 1 momentin mukaista enimmäisaikaa.
+Työttömyyspäiväraha, jota maksetaan 1 päivältä heinäkuuta 2020 tai sen jälkeen, ei kerrytä 1 momentin mukaista enimmäisaikaa.
