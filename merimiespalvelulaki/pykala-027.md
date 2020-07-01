@@ -1,8 +1,8 @@
 # 27 § Muutoksenhaku
 Luku: 4 luku Erinäiset säännökset
 
-Merimiespalvelutoimiston päätökseen 9 §:ssä tarkoitetussa asiassa saa vaatia oikaisua kuuden kuukauden kuluessa päätöksen tiedoksisaannista siten kuin hallintolaissa (434/2003) säädetään.
+Merimiespalvelutoimiston päätökseen 9 §:ssä tarkoitetussa asiassa saa vaatia oikaisua kuuden kuukauden kuluessa päätöksen tiedoksisaannista. Oikaisuvaatimuksesta säädetään hallintolaissa (434/2003).
 
-Muuhun merimiespalvelutoimiston päätökseen sekä merimiespalvelutoimiston oikaisuvaatimukseen antamaan päätökseen saa hakea muutosta valittamalla Helsingin hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
 
-Valitus on tehtävä kuuden kuukauden kuluessa päätöksen tiedoksisaannista.
+Valitus on tehtävä Helsingin hallinto-oikeuteen kuuden kuukauden kuluessa päätöksen tiedoksisaannista.
