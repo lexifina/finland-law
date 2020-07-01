@@ -1,0 +1,2 @@
+Laki Yhdistyneiden kansakuntien teknologiainnovaatioiden laboratorion asemasta Yhdistyneiden kansakuntien kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
