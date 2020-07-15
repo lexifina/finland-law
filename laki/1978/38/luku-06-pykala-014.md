@@ -6,3 +6,5 @@ Kuluttajalla on oikeus peruuttaa koti- tai etämyyntisopimus ilmoittamalla siit�
 Jos elinkeinonharjoittaja on laiminlyönyt antaa kuluttajalle 9 §:n 1 momentin 10 kohdassa tarkoitetut tiedot, peruuttamisaika päättyy 12 kuukauden kuluttua tämän pykälän 1 momentissa tarkoitetun määräajan päättymisestä taikka, jos elinkeinonharjoittaja korjaa puutteen tänä aikana, 14 päivän kuluttua päivästä, jona kuluttaja sai nämä tiedot.
 
 Jos elinkeinonharjoittaja tarjoaa kuluttajalle mahdollisuuden ilmoittaa peruutuksesta verkkosivustonsa kautta, elinkeinonharjoittajan on ilmoitettava tällä tavoin toimitetun peruuttamisilmoituksen saapumisesta kuluttajalle viipymättä pysyvällä tavalla.
+
+Kuluttajalla on todistustaakka siitä, että sopimus on peruutettu tässä pykälässä edellytetyllä tavalla.

@@ -13,3 +13,5 @@ Jollei toisin sovita, kuluttajalla ei ole 14 §:ssä säädettyä peruuttamisoik
 9) sopimus koskee yksittäisen sanoma- tai aikakauslehden tai aikakausjulkaisun toimittamista;
 10) sopimus on tehty huutokaupassa, johon kuluttaja voi osallistua muutenkin kuin etäviestimellä;
 11) sopimus koskee majoituksen tarjoamista muuhun kuin asumistarkoitukseen, tavaroiden kuljetusta, autonvuokrauspalvelua, ravintolapalvelua tai vapaa-ajanpalvelua ja sopimuksessa edellytetään suoritusta määrättynä ajankohtana tai määrätyn ajan kuluessa.
+
+Sen estämättä, mitä 1 momentin 7 kohdassa säädetään, kuluttajalla on 14 §:ssä säädetty peruuttamisoikeus siltä osin kuin elinkeinonharjoittaja suorittaa mainitussa kohdassa tarkoitetun käynnin yhteydessä muita kuin kuluttajan nimenomaisesti pyytämiä palveluja tai toimittaa muita tavaroita kuin korjaus- tai huoltotöiden suorittamiseksi välttämättömiä varaosia.
