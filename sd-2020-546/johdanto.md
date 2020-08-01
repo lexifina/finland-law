@@ -1,0 +1,2 @@
+Laki Kansainvälisen rokoteinstituutin perustamisesta tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
