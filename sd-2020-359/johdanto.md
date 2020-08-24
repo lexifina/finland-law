@@ -1,0 +1,2 @@
+Laki mannerjalustalla sijaitsevien kiinteiden lauttojen turvallisuuteen kohdistuvien laittomien tekojen ehkäisemistä koskevaan pöytäkirjaan liittyvästä vuoden 2005 pöytäkirjasta
+Eduskunnan päätöksen mukaisesti säädetään:
