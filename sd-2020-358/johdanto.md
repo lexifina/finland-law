@@ -1,0 +1,2 @@
+Laki merenkulun turvallisuuteen kohdistuvien laittomien tekojen ehkäisemistä koskevaan yleissopimukseen liittyvästä vuoden 2005 pöytäkirjasta
+Eduskunnan päätöksen mukaisesti säädetään:
