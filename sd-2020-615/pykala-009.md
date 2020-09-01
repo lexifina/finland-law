@@ -1,0 +1,5 @@
+# 9 § Muukalaispassi- ja pakolaisen matkustusasiakirjahakemusta varten otettujen sormenjälkitietojen käsittely
+
+Muukalaispassin ja pakolaisen matkustusasiakirjan hakijalta otetut sormenjäljet tallennetaan ulkomaalaisasioiden asiankäsittelyjärjestelmään. Sormenjälkiä saavat käyttää Maahanmuuttovirasto, poliisi, Rajavartiolaitos, Tulli silloin, kun se hoitaa rajatarkastusviranomaisen tehtäviä, sekä ulkoministeriö ja edustusto.
+
+Oikeus sormenjälkitietojen käyttöön on vain sillä, jonka työtehtävien hoitaminen sitä välttämättä edellyttää. Sormenjälkiä saa käyttää vain henkilöllisyyden varmistamiseksi ja muukalaispassin tai pakolaisen matkustusasiakirjan valmistamiseksi. Poliisilla on lisäksi oikeus käyttää sormenjälkitietoja noudattaen henkilötietojen käsittelystä poliisitoimessa annetun lain 15 §:n 2 momenttia. Tietojen käyttöön oikeutetulla on oikeus ottaa rekisteröidyltä sormenjäljet ja verrata niitä rekisteröityihin sormenjälkiin. Vertailua varten otettuja tietoja saadaan käyttää vain vertaamisen ajan, ja ne on hävitettävä välittömästi vertailun jälkeen.

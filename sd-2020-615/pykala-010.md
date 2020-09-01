@@ -1,0 +1,11 @@
+# 10 § Oleskelulupahakemusta, oleskelulupakorttihakemusta ja unionin kansalaisen perheenjäsenen oleskelukorttihakemusta varten otettujen sormenjälkitietojen käsittely
+
+Oleskeluluvan, oleskelulupakortin ja unionin kansalaisen perheenjäsenen oleskelukortin hakijalta otetut sormenjäljet tallennetaan ulkomaalaisasioiden asiankäsittelyjärjestelmään. Sormenjälkiä saavat käyttää Maahanmuuttovirasto, poliisi, suojelupoliisi, Rajavartiolaitos, Tulli silloin, kun se hoitaa rajatarkastusviranomaisen tehtäviä, sekä edustusto.
+
+Sormenjälkiä saa käyttää ainoastaan 1 §:n 1 momentin 1 kohdassa säädettyyn tarkoitukseen liittyvien sekä turvallisuusselvityslaissa (726/2014) tarkoitetun turvallisuusselvityksen tekemiseksi säädettyyn tarkoitukseen liittyvien toimivaltuuksien rajoissa oleskelulupakortin aitouden toteamiseksi ja oleskeluluvan haltijan henkilöllisyyden todentamiseksi, ulkomaalaisten maahantuloa ja maastalähtöä sekä oleskelua ja työntekoa koskevien asioiden käsittelyä ja niitä koskevaa päätöksentekoa ja valvontaa varten sekä kansallisen turvallisuuden suojaamiseksi. Tietojen käyttöön oikeutetulla viranomaisella on oikeus verrata tietoja tässä pykälässä tarkoitettuihin jo tallennettuihin sormenjälkiin sekä muukalaispassi- ja pakolaisen matkustusasiakirjahakemusta varten otettuihin sormenjälkiin ja poliisin rekisteriin ulkomaalaislain 131 §:n perusteella tallennettuihin sormenjälkiin. Lisäksi tietoja saa maahantulon edellytysten selvittämiseksi verrata henkilötietojen käsittelystä poliisitoimessa annetun lain 6 §:ssä tarkoitettuihin pakkokeinolain (806/2011) mukaisiin henkilötuntomerkkeihin kuuluviin sormenjälkiin niiltä osin kuin jo rekisteröidyt sormenjälkitiedot liittyvät rikokseen, josta ankarin säädetty rangaistus on vähintään vuosi vankeutta.
+
+Poliisilla on lisäksi oikeus käyttää tässä pykälässä tarkoitettuja jo tallennettuja sormenjälkitietoja noudattaen henkilötietojen käsittelystä poliisitoimessa annetun lain 15 §:n 2 momenttia.
+
+Vertailua varten otettuja tietoja saadaan käyttää vain vertailun ajan, jonka jälkeen ne on välittömästi hävitettävä.
+
+Maahanmuuttovirastolla on lisäksi oikeus käyttää tässä pykälässä tarkoitettuja jo tallennettuja sormenjälkitietoja asianomaisen henkilön suostumuksella oleskelulupakortin sekä unionin kansalaisen perheenjäsenen oleskelukortin valmistamista varten.

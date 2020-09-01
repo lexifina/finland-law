@@ -1,0 +1,2 @@
+Laki henkilötietojen käsittelystä maahanmuuttohallinnossa
+Eduskunnan päätöksen mukaisesti säädetään:
