@@ -3,7 +3,7 @@
 Yhtiön asiakkaita ovat valtionhallinnon virastot ja laitokset, valtion liikelaitokset sekä valtion talousarvion ulkopuoliset rahastot. Yhtiön asiakkaita ovat myös eduskunta sekä sen alaisuudessa, valvonnassa ja yhteydessä toimivat yksiköt. Yhtiön asiakkaita voivat olla lisäksi kunnat, kuntayhtymät, evankelis-luterilainen kirkko ja ortodoksinen kirkko sekä näiden seurakunnat.
 
 Yhtiön asiakas voi lisäksi olla:
-1) julkisista hankinnoista ja käyttöoikeussopimuksista annetun lain 5 §:n 1 momentin 4 kohdassa tarkoitettu julkisoikeudellinen laitos, jos tämän pykälän 1 momentissa tarkoitettu hankintayksikkö:
+1) hankintalain 5 §:n 1 momentin 4 kohdassa tarkoitettu julkisoikeudellinen laitos, jos tämän pykälän 1 momentissa tarkoitettu hankintayksikkö:
 a) rahoittaa sitä pääasiallisesti;
 b) nimeää sen johdon; taikka
 c) nimeää yli puolet sen hallinto-, johto- tai valvontaelimen jäsenistä;
