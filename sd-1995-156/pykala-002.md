@@ -1,6 +1,6 @@
 # 2 § Tehtävät
 
-Maahanmuuttovirasto käsittelee ja ratkaisee ne ulkomaalaisia ja Suomen kansalaisuutta koskevat asiat, jotka lailla tai valtioneuvoston asetuksella on säädetty sen tehtäviksi.
+Maahanmuuttovirasto käsittelee ja ratkaisee ne ulkomaalaisia ja Suomen kansalaisuutta koskevat asiat, jotka laissa tai sen nojalla säädetään sen tehtäviksi.
 
 Maahanmuuttovirasto vastaa:
 1) kansainvälistä suojelua hakevien ja tilapäistä suojelua saavien vastaanoton käytännön toiminnan ohjauksesta, suunnittelusta ja valvonnasta;
@@ -8,4 +8,4 @@ Maahanmuuttovirasto vastaa:
 3) valtion vastaanotto- ja järjestelykeskusten sekä valtion säilöönottoyksiköiden ylläpidosta;
 4) ihmiskaupan uhrien auttamisen toimeenpanon ohjauksesta.
 
-Maahanmuuttovirasto pitää ulkomaalaisrekisteriä, vastaanoton asiakasrekisteriä ja edustajarekisteriä. Maahanmuuttovirasto tuottaa toimialaansa koskevissa asioissa tietopalveluita ministeriölle ja muille viranomaisille sekä kansainvälisille järjestöille.
+Maahanmuuttovirastolla on ulkomaalaisasioiden asiankäsittelyjärjestelmän ylläpito- ja kehitysvastuu. Maahanmuuttovirasto tuottaa toimialaansa koskevissa asioissa tietopalveluita sisäministeriölle ja muille viranomaisille sekä kansainvälisille järjestöille.

@@ -1,3 +1,3 @@
-# 1 § Asema
+# 1 § Maahanmuuttovirasto
 
-Sisäasiainministeriön alaisena on Maahanmuuttovirasto.
+Sisäministeriön hallinnonalalla toimii Maahanmuuttovirasto.
