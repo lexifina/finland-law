@@ -13,7 +13,7 @@ Matkustajatietoyksikkö voi verrata matkustajarekisteritietoja automatisoidusti 
 3) henkilötietojen käsittelystä poliisitoimessa annetun lain 3 §:n 2 kohdassa tarkoitettu Schengenin tietojärjestelmä;
 4) henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 7–11 §:ssä tarkoitetut tiedot sekä 15 §:ssä tarkoitetut Rajavartiolaitoksen valvontatehtävien suorittamiseksi käsiteltävät tiedot;
 5) henkilötietojen käsittelystä Tullissa annetun lain 7–10, 12 ja 14 §:ssä tarkoitetut tiedot;
-6) ulkomaalaisrekisteristä annetun lain (1270/1997) 1 §:ssä tarkoitettu ulkomaalaisrekisteri;
+6) henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain (615/2020) 1 §:n 1 momentin 1 ja 2 kohdan mukaisessa tarkoituksessa tallennetut tiedot;
 7) liikenteen palveluista annetun lain (320/2017) 216 §:ssä tarkoitettuun liikenneasioiden rekisteriin rekisteröityjen ajoneuvojen, vesikulkuneuvojen ja henkilölupien tiedot;
 8) väestötietojärjestelmästä ja Väestörekisterikeskuksen varmennepalveluista annetun lain (661/2009) 3 §:ssä tarkoitettu väestötietojärjestelmä;
 9) kansainvälisen rikospoliisijärjestön (I.P.C.O.-Interpol) tietokannat; sekä
