@@ -1,0 +1,8 @@
+# 17 § Puhelimen ja muiden sähköisten viestintä- ja tallennelaitteiden käytön rajoitukset
+Luku: 4 luku Rajoitukset ja tarkastukset
+
+Puhelimen ja muiden sähköisten viestintä- ja tallennelaitteiden käyttöä voidaan rajoittaa, jos sen käytöstä aiheutuu kohtuutonta haittaa säilöönottoyksikön toiminnalle tai muulle viranomaistoiminnalle.
+
+Puhelimen ja muiden sähköisten viestintä- ja tallennelaitteiden käyttö voidaan kieltää, jos sen perustellusta syystä arvioidaan vaarantavan ulkomaalaisen maahantulon tai maassa oleskelun edellytysten taikka henkilöllisyyden selvittämisen tai jos voidaan perustellusta syystä olettaa, että puhelimen käyttö myötävaikuttaa rikoksen tekemiseen.
+
+Valokuvaaminen sekä liikkuvan kuvan ja äänen tallentaminen säilöönottoyksikössä on kielletty. Säilöönottoyksikön johtaja voi kuitenkin antaa luvan valokuvaamiseen tai liikkuvan kuvan ja äänen tallentamiseen. Valokuvaamiseen taikka liikkuvan kuvan tai äänen tallentamiseen soveltuvan laitteen hallussapito voidaan kieltää tai sen käyttöä voidaan rajoittaa, jos valokuvaamista taikka liikkuvan kuvan tai äänen tallentamista koskevaa kieltoa on laitetta käyttäen rikottu tai jos on perusteltua syytä olettaa, että laitetta voidaan käyttää pakenemisen tai säilöönottoyksikköön tunkeutumisen valmisteluun taikka sen käytöllä on toisten asiakkaiden turvallisuuden ja hyvinvoinnin kannalta vahingollisia vaikutuksia, joita ei ole käyttöä koskevalla ohjauksella voitu ratkaista. Asiakkaan suostumuksella on hänen käyttöönsä annettava kielletyn laitteen tilalle veloituksetta laite, josta kiellon aiheuttaneet ominaisuudet puuttuvat.
