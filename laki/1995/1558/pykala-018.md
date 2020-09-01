@@ -13,7 +13,7 @@ Valtion ja kunnan viranomaisen on toimitettava Verohallinnolle verotusta varten 
 
 Valtion ja kunnan viranomaisen sekä muun julkisyhteisön on toimitettava Verohallinnolle verotusta varten tarpeelliset, hallussaan olevat tiedot myöntämistään elinkeino-, työllistämis- ja niihin verrattavista tuista ja avustuksista sekä niiden saajista ja maksetuista määristä. Tiedonantovelvollisuus koskee myös muuta yhteisöä, jonka myöntämien edellä tarkoitettujen tukien ja avustusten rahoitus tapahtuu kokonaan tai osaksi julkisista varoista.
 
-Ulkomaalaisrekisteristä annetussa laissa (1270/1997) tarkoitetun rekisterinpitäjän on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot ulkomaalaisrekisterissä olevan ulkomaalaisen Suomessa oleskelusta, työnantajasta ja palvelussuhteesta sekä elinkeinotoiminnasta.
+Henkilötietojen käsittelystä maahanmuuttohallinnossa annetussa laissa (615/2020) tarkoitetun rekisterinpitäjän on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot ulkomaalaisen Suomessa oleskelusta, työnantajasta ja palvelussuhteesta sekä elinkeinotoiminnasta.
 
 Kansaneläkelaitoksen on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot myöntämistään eläkkeistä ja etuuksista. Tiedot on annettava hakemusten vireilläolosta, päätöksistä ja maksatuksesta. Lisäksi Kansaneläkelaitoksen on toimitettava hallussaan olevat tiedot myönnetyn työeläkkeen määrästä ja eläkkeen alkamisajasta.
 
