@@ -1,0 +1,5 @@
+# 1 a § Talous- ja henkilöstöhallinnon tietojen yhteisrekisterinpitäjät ja niiden vastuiden jako
+
+Palvelukeskus on yhteisrekisterinpitäjä valtion viraston tai laitoksen, tasavallan presidentin kanslian, eduskunnan tai eduskunnan yhteydessä toimivan viraston kanssa. Yhteisrekisterinpitäjyys koskee valtion talous- ja henkilöstöhallinnon tehtävien ja palvelujen sekä muiden vastaavien hallinnon tuki- ja asiantuntijapalvelujen tuottamisessa tarvittavia, palvelukeskuksen omistamissa tietojärjestelmissä olevia tietoja.
+
+Palvelukeskus vastaa tehtävien ja palvelujen tuottamisessa tarvittavien tietojärjestelmien teknisestä toiminnasta sekä teknisestä rajapinnasta tietojen tallentamista, käsittelyä ja luovutusta varten. Palvelukeskus vastaa myös tietojärjestelmien käytettävyydestä sekä tietojen eheydestä, muuttumattomuudesta, suojaamisesta ja säilyttämisestä. Muut yhteisrekisterinpitäjät vastaavat osaltaan muista rekisterinpitäjän tehtävistä ja toimivat rekisteröidyn yhteyspisteenä. Rekistereissä olevat tallenteet ovat palvelukeskuksen asiakkaiden asiakirjoja.
