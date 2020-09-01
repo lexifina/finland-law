@@ -10,4 +10,4 @@ Oleskelulupakortin voimassaolo päättyy, sen lisäksi mitä 33 a §:n 2 momenti
 6) oleskelulupakortin tekniseen osaan sisältyvän varmenteen luonut viranomainen on peruuttanut varmenteen; tai
 7) oleskelulupa on rauennut 59 §:n perusteella.
 
-Kun oleskelulupakortin voimassaolo on päättynyt, Maahanmuuttovirasto, paikallispoliisi, rajatarkastusviranomainen taikka Suomen edustusto ottaa oleskelulupakortin haltuunsa ja tekee ulkomaalaisrekisteriin merkinnän kortin voimassaolon päättymisestä. Viranomaisen haltuun otettu kortti tuhotaan.
+Kun oleskelulupakortin voimassaolo on päättynyt, Maahanmuuttovirasto, paikallispoliisi, rajatarkastusviranomainen tai Suomen edustusto ottaa oleskelulupakortin haltuunsa ja tekee ulkomaalaisasioiden asiankäsittelyjärjestelmään merkinnän kortin voimassaolon päättymisestä. Viranomaisen haltuun otettu kortti tuhotaan.
