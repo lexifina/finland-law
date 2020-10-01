@@ -1,0 +1,2 @@
+Laki Ison-Britannian ja Pohjois-Irlannin yhdistyneen kuningaskunnan eroamisesta Euroopan unionista ja Euroopan atomienergiayhteisöstä tehdyn sopimuksen oleskeluoikeuksia koskevien eräiden määräysten täytäntöönpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
