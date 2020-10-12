@@ -21,6 +21,7 @@ Veronalaista tuloa eivät ole:
 16) luonnollisen henkilön valtion ja kuntien varoista asunnonkorjaukseen saama avustus sekä kolttalain (253/1995) nojalla asunnon tai muun yksityistaloudessa tarvittavan rakennuksen tai rakennelman rakentamiseen, laajentamiseen tai peruskorjaukseen saama avustus ja valtionlainaan liittyvä tuki;
 17) vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetussa laissa (380/87) tarkoitetut edut;
 19) Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetussa laissa (566/2005) tarkoitetut kuntoutusetuudet sekä mainitun lain 31 §:ssä tarkoitettu ylläpitokorvaus;
+20) väliaikaisesta epidemiakorvauksesta annetussa laissa (687/2020) tarkoitettu tuki;
 21) rangaistusta suorittavan vangin tai tutkintavangin saama toiminta- tai käyttöraha;
 22) toimeentulotuesta annetun lain (1412/1997) mukainen toimeentulotuki;
 23) kunnan, sosiaali- tai terveydenhuoltoa harjoittavan muun julkisyhteisön tai yleishyödyllisen yhteisön kehitysvammaiselle, mielenterveyspotilaalle, päihdehuollon asiakkaalle taikka muulle sosiaalihuollon asiakkaalle järjestämästä työ- tai päivätoiminnasta maksettu keskimäärin päivää kohden enintään 12 euron suuruinen toiminta- tai muun niminen avustus, jolla tuetaan asiakkaan hoitoa, kuntoutumista tai yhteiskuntaan sopeutumista;
