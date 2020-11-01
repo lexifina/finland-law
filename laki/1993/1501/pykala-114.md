@@ -11,6 +11,6 @@ Vähennystä ei saa tehdä, kun hankinta koskee seuraavia tavaroita ja palveluja
 
 Edellä 1 momentin 5 kohdassa tarkoitettu vähennysoikeuden rajoitus ei koske ajoneuvoa ja alusta, joka on hankittu myytäväksi, vuokrattavaksi taikka käytettäväksi ammattimaiseen henkilökuljetukseen tai ajo-opetukseen, eikä henkilöautoa, joka on hankittu yksinomaan vähennykseen oikeuttavaan käyttöön.
 
-Mitä edellä 1 momentin 5 kohdassa ja 2 momentissa säädetään henkilöautosta, sovelletaan myös kaksikäyttöautoon ja ajoneuvolain (1090/2002) 14 b §:ssä tarkoitettuun M 1 -luokan ajoneuvosta muutettuun kevytautoon.
+Mitä edellä 1 momentin 5 kohdassa ja 2 momentissa säädetään henkilöautosta, sovelletaan myös kaksikäyttöautoon.
 
 Kaksikäyttöautona pidetään N 1 -luokkaan kuuluvaa ajoneuvoa, joka on varustettu kuljettajan istuimen ja tämän vieressä olevien istuinten lisäksi muilla istuimilla tai niiden kiinnitykseen tarkoitetuilla laitteilla, lukuun ottamatta ennen 1 päivää huhtikuuta 2009 voimassa olleen autoverolain (1482/1994) 24 §:n mukaisia tilapäiseen käyttöön tarkoitettuja istuimia tai ennen 30 päivää syyskuuta 1998 voimassa olleiden tieliikennesäännösten mukaisesti pakettiautoon hyväksyttyjä istuimia.
