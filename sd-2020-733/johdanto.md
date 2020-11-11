@@ -1,0 +1,2 @@
+Laki rakennusten varustamisesta sähköajoneuvojen latauspisteillä ja latauspistevalmiuksilla sekä automaatio- ja ohjausjärjestelmillä
+Eduskunnan päätöksen mukaisesti säädetään:
