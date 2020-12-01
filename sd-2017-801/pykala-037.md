@@ -1,6 +1,6 @@
-# 37 § Valitus hallinto-oikeuteen
+# 37 § Valitus hallintotuomioistuimeen
 Luku: 6 luku Erinäiset säännökset
 
-Oikaisuvaatimuksen johdosta annettuun aluejohtajan tai täytäntöönpanojohtajan päätökseen taikka muuhun täytäntöönpanojohtajan päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään. Valitus tehdään siihen hallinto-oikeuteen, jonka tuomiopiirissä aluejohtajan oikaisuvaatimuksen johdosta annettu päätös on tehty. Täytäntöönpanojohtajan päätöksestä valitus tehdään Helsingin hallinto-oikeuteen.
+Valitus hallinto-oikeuteen on tehtävä 14 päivän kuluessa päätöksen tiedoksisaannista. Valitus aluejohtajan oikaisuvaatimuksen johdosta antamasta päätöksestä tehdään siihen hallinto-oikeuteen, jonka tuomiopiirissä päätös on tehty. Täytäntöönpanojohtajan päätöksestä valitus tehdään Helsingin hallinto-oikeuteen.
 
-Valitus on tehtävä 14 päivän kuluessa päätöksen tiedoksisaannista. Muutoin valituksen käsittelyyn sovelletaan, mitä yhdyskuntaseuraamusten täytäntöönpanosta annetun lain 89–92 §:ssä säädetään.
+Valituksen käsittelyyn sovelletaan, mitä yhdyskuntaseuraamusten täytäntöönpanosta annetun lain 89, 91 ja 92 §:ssä säädetään. Muutoin muutoksenhaussa hallintotuomioistuimeen sovelletaan, mitä oikeudenkäynnistä hallintoasioissa annetussa laissa säädetään.
