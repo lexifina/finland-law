@@ -7,4 +7,4 @@ Tutkintosuoritusten vastaanottajan päätökseen ei saa hakea muutosta valittama
 
 Tutkintosuoritusten vastaanottajan suorittamaan tutkintosuorituksen arviointiin tyytymätön voi kuitenkin seitsemän päivän kuluessa päätöksestä tiedon saatuaan ilmoittautua suorittamaan tutkinnon kielitutkintolautakunnalle. Tällöin uusintasuoritus lautakunnalle on maksuton.
 
-Kielitutkintolautakunnan päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+Muutoin muutoksenhaussa hallintotuomioistuimeen sovelletaan, mitä oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019) säädetään.
