@@ -1,4 +1,4 @@
-# 41 § Muutoksenhaku
+# 41 § Muutoksenhaku tietosuojavaltuutetun päätökseen
 Luku: 9 luku Erinäiset säännökset
 
-Tietosuojavaltuutetun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
