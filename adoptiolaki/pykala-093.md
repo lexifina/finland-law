@@ -9,4 +9,4 @@ Jos aikaisemman vanhemman henkilöllisyys tiedetään, tieto siitä on 2 momenti
 1) 12 vuotta täyttäneelle adoptiolapselle ja adoptiolapsen kuoltua tämän 12 vuotta täyttäneelle jälkeläiselle; sekä
 2) alaikäisen adoptiolapsen huoltajalle ja adoptiolapsen kuoltua tämän alaikäisen jälkeläisen huoltajalle.
 
-Tietojensaantioikeutta koskevaan päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa säädetään. Hallinto-oikeuden asiassa antamaan päätökseen saa hakea muutosta, jos korkein hallinto-oikeus myöntää valitusluvan.
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa.
