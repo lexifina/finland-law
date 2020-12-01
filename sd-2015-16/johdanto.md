@@ -1,0 +1,2 @@
+Laki viranomaisten asiakirjojen julkisuudesta tehdyn Euroopan neuvoston yleissopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
