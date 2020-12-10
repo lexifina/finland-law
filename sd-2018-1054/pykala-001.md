@@ -13,7 +13,7 @@ Sen lisäksi, mitä 1 momentissa säädetään, tätä lakia sovelletaan:
 2) poliisin suorittamaan henkilötietojen käsittelyyn, kun tietoja käsitellään sellaisessa poliisilain (872/2011) 1 luvun 1 §:n 1 momentissa tarkoitetussa tehtävässä, joka liittyy kansallisen turvallisuuden suojaamiseen, sekä turvallisuusselvityslain 9 §:n 1 momentissa tarkoitetuissa tehtävissä;
 3) Rajavartiolaitoksen suorittamaan henkilötietojen käsittelyyn, kun tietoja käsitellään sellaisessa rajavartiolain (578/2005) 3 §:n 2 ja 3 momentissa tarkoitetussa tehtävässä, joka liittyy kansallisen turvallisuuden suojaamiseen.
 
-Edellä 2 momentissa tarkoitettuun henkilötietojen käsittelyyn ei kuitenkaan sovelleta 10 §:n 2 momenttia henkilötietojen siirtämisestä Euroopan unionissa sijaitsevalle vastaanottajalle, 54 §:ää keskinäisestä avunannosta toisen EU:n jäsenvaltion kanssa eikä 7 lukua henkilötietojen siirrosta kolmansiin maihin ja kansainvälisille järjestöille.
+Edellä 2 momentissa tarkoitettuun henkilötietojen käsittelyyn ei kuitenkaan sovelleta 54 §:ää keskinäisestä avunannosta toisen EU:n jäsenvaltion kanssa.
 
 Tätä lakia sovelletaan kuitenkin vain sellaiseen 1 ja 2 momentissa tarkoitettuun henkilötietojen käsittelyyn, joka on kokonaan tai osittain automaattista tai jossa käsiteltävät tiedot muodostavat tai niiden on tarkoitus muodostaa rekisteri tai sen osa.
 
