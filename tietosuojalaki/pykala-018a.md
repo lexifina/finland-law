@@ -1,0 +1,4 @@
+# 18 a § Yhteistyö kolmansien maiden valvontaviranomaisten kanssa
+Luku: 3 luku Valvontaviranomainen
+
+Sen lisäksi, mitä tietosuoja-asetuksen 61 artiklassa säädetään Euroopan unionin jäsenvaltioiden valvontaviranomaisten keskinäisestä avunannosta, tietosuojavaltuutetulla on oikeus ryhtyä tarvittaviin toimenpiteisiin tehokkaan yhteistyön varmistamiseksi yksilöiden suojelusta henkilötietojen automaattisessa tietojenkäsittelyssä tehdyn yleissopimuksen määräysten noudattamista valvovien viranomaisten kanssa. Tietosuojavaltuutetulla on oikeus luovuttaa salassapitosäännösten estämättä kyseisille valvontaviranomaisille henkilötietoja tai muita tietoja valvontatehtävän suorittamiseksi, jos ne ovat välttämättömiä rekisteröidyn oikeuksien turvaamiseksi tai jos rekisteröity on antanut henkilötietojen luovuttamiseen nimenomaisen suostumuksen.
