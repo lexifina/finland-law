@@ -1,0 +1,2 @@
+Laki jäädyttämistä ja menetetyksi tuomitsemista koskevien päätösten vastavuoroista tunnustamista Euroopan unionissa koskevan asetuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
