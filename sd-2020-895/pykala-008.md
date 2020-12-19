@@ -1,0 +1,4 @@
+# 8 § Vastaanotetusta jäädyttämispäätöksestä ilmoittaminen
+Luku: 2 luku Jäädyttämispäätöksen täytäntöönpano ja antaminen
+
+Toimivaltaisen syyttäjän on ennen jäädyttämispäätöksen tunnustamista ja täytäntöönpanoa koskevan päätöksen tekemistä ilmoitettava vastaanottamastaan jäädyttämispäätöksestä keskusrikospoliisille, Tullille ja Rajavartiolaitokselle, joiden on ilman aiheetonta viivytystä ilmoitettava syyttäjälle tiedossaan olevasta perusteesta täytäntöönpanosta kieltäytymiseksi tai täytäntöönpanon lykkäämiseksi. Lisäksi toimivaltaisen syyttäjän on ilmoitettava Oikeusrekisterikeskukselle täytäntöönpannusta jäädyttämispäätöksestä.
