@@ -1,0 +1,4 @@
+# 23 a § Jäädyttämispäätöksen lähettämistä koskeva ilmoitus
+Luku: 4 luku Suomessa tehdyn jäädyttämispäätöksen lähettäminen toiseen jäsenvaltioon täytäntöönpantavaksi
+
+Toimivaltaisen syyttäjän on ilmoitettava Oikeusrekisterikeskukselle toiseen jäsenvaltioon lähettämästään menetetyksi tuomitsemisen turvaamiseksi tehdystä jäädyttämispäätöksestä, kun jäädyttämispäätöksen vastaanottanut toisen jäsenvaltion täytäntöönpanoviranomainen on ilmoittanut jäädyttämispäätöksen täytäntöönpanosta.

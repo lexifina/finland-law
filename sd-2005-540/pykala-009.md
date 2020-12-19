@@ -5,4 +5,4 @@ Toimivaltainen syyttäjä päättää, voidaanko jäädyttämispäätös panna t
 
 Syyttäjän tulee ilmoittaa 1 momentissa tarkoitetusta päätöksestään jäädyttämispäätöksen lähettäneelle oikeusviranomaiselle viipymättä ja mikäli mahdollista 24 tunnin kuluessa jäädyttämispäätöksen vastaanottamisesta. Ilmoitus voidaan tehdä kirjallisesti, sähköisenä viestinä tai muuten sellaisella tavalla, että siitä voidaan esittää kirjallinen todiste.
 
-Syyttäjän on ennen päätöksen tekemistä ilmoitettava keskusrikospoliisille ja Tullihallitukselle vastaanottamastaan jäädyttämispäätöksestä. Mainittujen viranomaisten on ilman aiheetonta viivytystä ilmoitettava syyttäjälle tiedossaan olevasta täytäntöönpanon lykkäämisperusteesta.
+Syyttäjän on ennen päätöksen tekemistä ilmoitettava keskusrikospoliisille, Tullille ja Rajavartiolaitokselle vastaanottamastaan jäädyttämispäätöksestä. Mainittujen viranomaisten on ilman aiheetonta viivytystä ilmoitettava syyttäjälle tiedossaan olevasta perusteesta täytäntöönpanosta kieltäytymiseksi tai täytäntöönpanon lykkäämiseksi.
