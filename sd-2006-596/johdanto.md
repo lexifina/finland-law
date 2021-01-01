@@ -1,0 +1,2 @@
+Laki ulkomaanedustuksen korvauksista
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,8 @@
+# 7 § Muuttokorvaus
+Luku: 2 luku Korvaukset
+
+Toimikauden alkamisen ja päättymisen yhteydessä virkamiehellä on oikeus saada korvaus asemapaikalle ja asemapaikalta pois siirtymisen johdosta tapahtuvasta virkamiehen ja mukana seuraavien perheenjäsenten asuinpaikan muuttamisesta aiheutuvista kustannuksista (muuttokorvaus). Virkamiehen ja mukana seuraavan perheenjäsenen muuttoon kohdistuva osuus muuttokorvauksesta voidaan hakemuksesta myöntää erikseen. Jos virkamies toimikauden päättyessä jää virkavapaalle ja asuu edelleen asemapaikalla, muuttokorvaus voidaan myöntää virkavapauden päättyessä.
+
+Korvauksen perusteena ovat arvioidut henkilökohtaisen matkatavaran ja muutossa kuljetettavan irtaimiston pakkaamis-, kuljetus-, purkamis-, välivarastointi- ja vakuutuskustannukset. Korvauksen suuruus määräytyy muuttoreitin, laskennallisten muuttokuutioiden ja mahdollisten erillisten kuluerien perusteella. Laskennalliset muuttokuutiot määritellään virkamiehen virkanimikkeen tai tehtävän vaatimusten sekä virkamiehen mukana seuraavien perheenjäsenten perusteella. Lisäksi muuttokuutioiden määrään voivat vaikuttaa toimikauden pituus ja asunnon mahdollinen kalustus. Tarkemmat säännökset laskennallisista muuttokuutioista ja muuttokorvauksen suuruudesta annetaan ulkoasiainministeriön asetuksella.
+
+Jos asemapaikalle muutetaan muualta kuin Helsingistä tai virkamiehen edellisestä asemapaikasta taikka asemapaikalta muutetaan muualle kuin Helsinkiin tai toiseen asemapaikkaan, muuttokorvaus maksetaan lähinnä vastaavan muuttoreitin mukaisesti, kuitenkin enintään Helsingin ja asemapaikan välisestä muutosta suoritettavan muuttokorvauksen suuruisena.
