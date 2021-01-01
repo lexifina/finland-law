@@ -26,7 +26,7 @@ Edellä 7 §:ssä tarkoitettuja vähennyskelpoisia menoja ovat muun ohessa:
 16) metsän uudistamiseen sekä puun kasvatukseen ja korjuuseen liittyvät menot;
 17) vakuutusyhtiölain 8 luvun 19 §:ssä tarkoitettujen sijoitussidonnaisten vakuutusten katteena olevien sijoitusten tuloslaskelmaan kuluksi merkityt arvonlaskut;
 18) edellä 2 a–2 c kohdassa tarkoitetuista rahoitusvälineistä sekä käyvän arvon suojauksesta käypään arvoon arvostamiseen siirryttäessä tilinpäätöksessä omaan pääomaan merkitty arvonlasku;
-19) yleisradioverosta annetun lain (484/2012) nojalla suoritettava yhteisön yleisradiovero;
+19) yleisradioverosta annetun lain (484/2012) nojalla suoritettava yhteisön yleisradiovero sekä mediamaksua koskevan maakuntalain (landskapslag om medieavgift, Ålands författningssamling 2019:103) nojalla suoritettava yhteisön mediamaksu;
 20) apteekkiverolain (770/2016) nojalla suoritettava apteekkiveron sekä Landskapslagen (1947:6) om apoteksavgift i landskapet Åland nojalla suoritettava apteekkimaksu;
 21) muun kuin laskuperustekorkoisen säästöhenkivakuutuksen ja kapitalisaatiosopimuksen tuottamat tuloverolain 35 §:n 3 momentissa säädetyllä tavalla lasketut tappiot;
 22) tuloverolain 35 b §:ssä tarkoitetun säästöhenkivakuutuksen, kapitalisaatiosopimuksen ja eläkevakuutuksen tuottamat tuloverolain 35 b §:n 5 momentissa säädetyllä tavalla lasketut tappiot.
