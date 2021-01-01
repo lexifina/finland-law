@@ -12,7 +12,7 @@ Vakuutettujen työansioiden määrästä riippumatta viimeinen eläkelaitos on v
 1) työntekijän virka- tai työsuhteeseen perustuva eläketurva on eläkehakemuksen vireille tullessa järjestetty vain julkisten alojen eläkelain mukaan tai työntekijä on säilyttänyt oikeutensa julkisten alojen eläkelain voimaanpanolain (82/2016) 1 §:n 5 momentissa tarkoitettujen lakien mukaiseen lisäeläkeosuuteen taikka julkisten alojen eläkelain voimaanpanolain mukaiseen henkilökohtaiseen tai ammatilliseen eläkeikään; tai
 2) edunjättäjän virka- tai työsuhteeseen perustuva eläketurva oli eläketapahtumahetkellä järjestetty vain julkisten alojen eläkelain mukaan tai edunjättäjä oli säilyttänyt oikeutensa edellä 1 kohdassa tarkoitettuun lisäeläkeosuuteen taikka henkilökohtaiseen tai ammatilliseen eläkeikään.
 
-Vakuutettujen työansioiden määrästä riippumatta viimeinen eläkelaitos on työkyvyttömyys-eläkeasiaa käsiteltäessä Keva, jos:
+Vakuutettujen työansioiden määrästä riippumatta viimeinen eläkelaitos on työkyvyttömyyseläkeasiaa käsiteltäessä Keva, jos:
 1) Keva arvioi työntekijän oikeuden työkyvyttömyyseläkkeeseen julkisten alojen työ- ja virkasuhteen jatkuessa alkaneen työkyvyttömyyden perusteella julkisten alojen eläkelain 33 §:n 1 momentin 1 kohdan nojalla;
 2) työntekijä on säilyttänyt oikeutensa edellä 4 momentin 1 kohdassa tarkoitettuun lisäeläkeosuuteen tai henkilökohtaiseen tai ammatilliseen eläkeikään; tai
 3) kysymys on osatyökyvyttömyyseläkkeestä ja virka- tai työsuhteessa olevan työntekijän työeläketurva on eläketapahtumahetkellä järjestetty julkisten alojen eläkelain mukaan.

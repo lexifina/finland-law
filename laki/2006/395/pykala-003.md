@@ -10,5 +10,4 @@ Työeläkelakeja ovat yksityisten ja julkisten alojen työeläkelait. Yksityiste
 Julkisten alojen työeläkelakeja ovat:
 1) julkisten alojen eläkelaki (81/2016);
 2) ortodoksisesta kirkosta annettu laki (985/2006);
-3) Suomen Pankista annetun lain (214/1998) 11 §:n 2 momentin 6 kohdan nojalla annettu eläkesääntö;
 4) eräiden valtakunnassa voimassa olevien valtion eläkkeitä koskevien säännösten soveltamisesta Ahvenanmaan maakunnassa annettu maakuntalaki (ÅFS 54/2007).

@@ -2,4 +2,4 @@
 Osa: II OSA ELÄKKEITÄ JA KUNTOUTUSTA SEKÄ NIIDEN TOIMEENPANOA KOSKEVAT SÄÄNNÖKSET
 Luku: 7 luku Eläkkeen hakeminen ja päätökset
 
-Määriteltäessä 106 §:n mukaista yksityisten alojen ratkaisevaa eläkelaitosta ja 107 a §:n mukaista viimeistä eläkelaitosta yksityisten alojen työeläkelakien mukaan vakuutettuihin työansioihin luetaan myös yrittäjän eläkelain ja maatalousyrittäjän eläkelain mukainen työtulo.
+Määriteltäessä 106 §:n mukaista yksityisten alojen ratkaisevaa eläkelaitosta ja 107 a §:n mukaista viimeistä eläkelaitosta yksityisten alojen työeläkelakien mukaan vakuutettuihin työansioihin luetaan myös yrittäjän eläkelain ja maatalousyrittäjän eläkelain mukainen työtulo. Suomen Pankin palveluksesta ansaittuja työansioita ei oteta huomioon julkisten alojen eläkelain piiriin kuuluvina työansioina 107 ja 107 a §:ää sovellettaessa.
