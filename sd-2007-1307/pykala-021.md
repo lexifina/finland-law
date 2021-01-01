@@ -4,6 +4,6 @@ Oikaisuvaatimuksen johdosta tehtyyn päätökseen ja ennakkoratkaisuun haetaan m
 
 Valtion puolesta valitusoikeus Verohallinnon tekemään päätökseen on Veronsaajien oikeudenvalvontayksiköllä.
 
-Valitusaika oikaisuvaatimuksen johdosta tehtyyn päätökseen on kolme vuotta sen vuoden päättymisestä, jona maksuunpano on tehty tai jota maksun palautuspäätös koskee, kuitenkin vähintään 60 päivää päätöksen tiedoksisaannista. Muussa asiassa valitusaika on 60 päivää päätöksen tiedoksisaannista. Veronsaajien oikeudenvalvontayksikön valitusaika on 60 päivää päätöksen tekemisestä. Ennakkoratkaisua koskeva valitusaika on kuitenkin 30 päivää päätöksen tiedoksisaannista tai sen tekemisestä.
+Valitus on tehtävä 60 päivän kuluessa oikaisuvaatimukseen annetun päätöksen tiedoksisaannista. Ennakkoratkaisua koskeva valitus on kuitenkin tehtävä 30 päivän kuluessa päätöksen tiedoksisaannista. Veronsaajien oikeudenvalvontayksikön valitusaika lasketaan päätöksen tekemisestä.
 
 Tässä laissa tarkoitettuihin asioihin ei sovelleta verojen ja maksujen täytäntöönpanosta annetun lain perustevalitusta koskevia säännöksiä.

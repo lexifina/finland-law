@@ -1,6 +1,6 @@
 # 20 § Oikaisuvaatimus
 
-Tämän lain nojalla annettuun päätökseen haetaan muutosta Verohallinnolta kirjallisella oikaisuvaatimuksella, jollei asiaa ole valitukseen annetulla päätöksellä ratkaistu.
+Tämän lain nojalla annettuun päätökseen haetaan muutosta verotuksen oikaisulautakunnalta kirjallisella oikaisuvaatimuksella, jollei asiaa ole valitukseen annetulla päätöksellä ratkaistu. Verohallinto voi kuitenkin ratkaista oikaisuvaatimuksen siltä osin kuin esitetty vaatimus hyväksytään, jos muutoksenhakijana on muu kuin Veronsaajien oikeudenvalvontayksikkö.
 
 Valtion puolesta oikeus hakea muutosta on Veronsaajien oikeudenvalvontayksiköllä.
 
