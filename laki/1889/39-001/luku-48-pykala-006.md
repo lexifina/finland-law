@@ -1,7 +1,7 @@
 # 6 § Rakennussuojelurikos
 Luku: 48 luku Ympäristörikoksista
 
-Joka tahallaan tai törkeästä huolimattomuudesta ilman laissa edellytettyä lupaa purkaa, hävittää, turmelee tai peittää rakennettuun ympäristöön kuuluvan kohteen, joka on
+Joka tahallaan tai törkeästä huolimattomuudesta ilman laissa edellytettyä lupaa taikka lupaehtojen tai muiden suojelua koskevien määräysten vastaisesti purkaa, hävittää, turmelee tai peittää rakennettuun ympäristöön kuuluvan kohteen, joka on
 1) maankäyttö- ja rakennuslaissa tai sen nojalla annetulla määräyksellä suojeltu tai
 2) rakennusperinnön suojelemisesta annetun lain (498/2010) nojalla suojeltu tai päätetty asettaa vaarantamiskieltoon,
 on tuomittava rakennussuojelurikoksesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
