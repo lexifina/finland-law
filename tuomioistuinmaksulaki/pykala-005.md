@@ -1,7 +1,7 @@
 # 5 § Maksuttomat suoritteet
 
 Tämän lain mukaista maksua ei peritä:
-1) yksityishenkilön vireille panemissa sosiaalihuoltolaissa (1301/2014) eikä terveydenhuoltolaissa (1326/2010) tarkoitettua palvelua tai etuutta koskevissa asioissa;
+1) yksityishenkilön vireille panemissa sosiaalihuoltolaissa (1301/2014) eikä terveydenhuoltolaissa (1326/2010) tarkoitettua palvelua tai etuutta koskevissa asioissa eikä yksityishenkilön vireille panemissa asioissa, jotka koskevat sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain (734/1992) mukaan määrättyjä asiakasmaksuja;
 2) yksityishenkilön vakuutusoikeudessa vireille panemissa valitusasioissa, jotka koskevat oikeutta etuuteen, etuuden suuruutta tai etuuden takaisinperintää;
 3) lastensuojelulain (417/2007) mukaisissa asioissa, lukuun ottamatta mainitun lain 16 c §:ssä tarkoitettuja, kuntien keskinäisiä korvauksia koskevia asioita;
 4) yksityishenkilön vireille panemissa ulkomaalaislain (301/2004) mukaisissa kansainvälistä suojelua koskevissa asioissa;
