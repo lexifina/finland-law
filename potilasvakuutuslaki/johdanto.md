@@ -1,0 +1,2 @@
+Potilasvakuutuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
