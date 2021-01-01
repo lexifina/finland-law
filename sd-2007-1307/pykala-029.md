@@ -1,5 +1,5 @@
-# 29 § Rangaistussäännökset
+# 29 § Laiminlyöntimaksu
 
-Joka kuljettaa alusta, josta on erääntynyttä polttoainemaksua suorittamatta, on tuomittava polttoainemaksurikkomuksesta sakkoon.
+Verohallinto määrää enintään 5 000 euron suuruisen laiminlyöntimaksun sille, joka kuljettaa alusta, josta on erääntynyttä polttoainemaksua suorittamatta.
 
-Polttoainemaksun lainvastaiseen välttämiseen ja sen yrittämiseen ei sovelleta rikoslain (39/1889) 29 luvun 1—3 §:ää, jos rikosoikeudellinen seuraamus tulisi määrättäväksi samalle henkilölle, jolle hallinnollinen rangaistusluonteinen seuraamus on määrätty tai voitaisiin määrätä taikka josta tämä voi joutua vastuuseen verovastuuta koskevien säännösten nojalla.
+Laiminlyöntimaksu jätetään määräämättä, jos laiminlyönti on vähäinen tai laiminlyönnille on pätevä syy.
