@@ -5,4 +5,6 @@ Jos Suomessa asunut henkilö, Suomessa asuneen henkilön kuolinpesä tai kotimai
 
 Valtiovarainministeriö voi ottaa 1 momentissa tarkoitetun periaatteellisesti tärkeän asian ratkaistavakseen.
 
+3–5 momentit on kumottu L:lla 12.4.2019/531.
+
 Tämän pykälän nojalla annettuun päätökseen ei saa valittamalla hakea muutosta.
