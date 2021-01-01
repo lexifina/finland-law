@@ -1,5 +1,5 @@
 # 5 § Nimittäminen
 
-Johtajan nimittää valtioneuvosto.
+Ylijohtajan nimittää valtioneuvosto.
 
-Johtaja nimittää muut virkamiehet ja ottaa palvelukseen työsopimussuhteisen henkilöstön.
+Ylijohtaja nimittää muut virkamiehet ja ottaa palvelukseen työsopimussuhteisen henkilöstön.
