@@ -1,0 +1,2 @@
+Laki konserniavustuksesta verotuksessa
+Eduskunnan päätöksen mukaisesti säädetään:
