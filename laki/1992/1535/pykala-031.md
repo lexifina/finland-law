@@ -21,4 +21,4 @@ Osingon määrää vastaava korvaus, jonka verovelvollinen on suorittanut osingo
 
 Verovelvollisella on oikeus vähentää 71 §:ssä tarkoitetulle toissijaiselle työpaikalle tehdyistä matkoista aiheutuneet matkustamiskustannukset ja kohtuulliset majoittumiskustannukset tulon hankkimisesta aiheutuneina menoina siltä osin kuin työnantaja ei ole niitä korvannut. Jos matka tehdään muuta kuin julkista kulkuneuvoa käyttäen, vähennys lasketaan sen mukaan kuin 93 §:n 2 momentissa säädetään. Asunnon ja työpaikan välisiä matkakustannuksia koskevia vähennyskelpoisuuden rajoituksia sovelletaan näihin matkoihin vain siltä osin kuin on kysymys toissijaisen työpaikan sijainnin vuoksi tarpeellisen erillisen majoittumispaikan ja toissijaisen työpaikan välisistä matkoista.
 
-Yleisradioverosta annetussa laissa (484/2012) tarkoitettu henkilön yleisradiovero ei ole vähennyskelpoinen meno.
+Yleisradioverosta annetussa laissa (484/2012) tarkoitettu henkilön yleisradiovero tai mediamaksua koskevassa maakuntalaissa (landskapslag om medieavgift, Ålands författningssamling 2019:103) tarkoitettu henkilön mediamaksu ei ole vähennyskelpoinen meno.
