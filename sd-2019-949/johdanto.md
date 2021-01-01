@@ -1,0 +1,2 @@
+Laki Potilasvakuutuskeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
