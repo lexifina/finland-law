@@ -1,0 +1,11 @@
+# 5 § Metsitystukeen hyväksyttävä alue
+
+Metsitystukeen hyväksyttävää aluetta on muu kuin maatalousmaa ja muu kuin metsämaa.
+
+Maatalousmaalla tarkoitetaan tässä laissa yhteisen maatalouspolitiikan tukijärjestelmissä viljelijöille myönnettäviä suoria tukia koskevista säännöistä ja neuvoston asetuksen (EY) N:o 637/2008 ja neuvoston asetuksen (EY) N:o 73/2009 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1307/2013 4 artiklan 1 kohdan e alakohdassa määriteltyä maatalousmaata sekä aluetta, jonka osalta maksetaan tukea vain maa- ja puutarhatalouden kansallisista tuista annetun lain (1559/2001) nojalla.
+
+Maatalousmaalla tarkoitetaan myös eräistä ohjelmaperusteisista viljelijäkorvauksista annetun lain (1360/2014) 5 §:n nojalla ympäristökorvauksesta annetuissa säännöksissä määriteltyä tai mainittua lakia edeltävän lainsäädännön nojalla annetuissa säännöksissä tarkoitettua ympäristösopimusalaa, joka on tehty suojavyöhykkeestä, maisemasta ja luonnon monimuotoisuuden edistämisestä, perinnebiotoopista tai kosteikosta, sekä viimeksi mainitun lain 6 §:n nojalla luonnonhaittakorvauksesta annettujen säännösten mukaista luonnonlaidunta, jonka osalta maksetaan luonnonhaittakorvausta.
+
+Maatalousmaalla ei kuitenkaan tarkoiteta viljelykäytöstä poistettua aluetta, joka ei ole ollut Euroopan unionin kokonaan tai osittain rahoittamien tukijärjestelmien hakemuksen kohteena vuoden 2019 jälkeen. Maatalousmaalla ei myöskään tarkoiteta ennen metsitystuen hakemista viljelykäytöstä poistettua aluetta, joka on ollut edellä tarkoitetun tukihakemuksen kohteena vuoden 2019 jälkeen, jos alueen viljelykunto on heikko, koko on enintään yksi hehtaari rajoittuen kokonaisuudessaan tai pääosin metsämaahan ja alueella on puuvartisten kasvien taimia, suokasvillisuutta tai muuta vastaavaa kasvillisuutta mutta alue ei kuitenkaan ole tässä laissa määriteltyä metsämaata.
+
+Metsämaalla tarkoitetaan tässä laissa aluetta, joka on Tilastokeskuksen käyttämän kansallisen maankäyttöluokituksen määritelmän mukaista metsämaata (F11) sekä aluetta, jonka osalta ei metsälain (1093/1996) 5 a §:n 2 momentin nojalla tarvitse täyttää uudistamisvelvoitetta alueen puuntuotannollisen vähätuottoisuuden vuoksi.
