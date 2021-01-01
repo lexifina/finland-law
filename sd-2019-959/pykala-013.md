@@ -1,0 +1,9 @@
+# 13 § Toiminnan rahoitus
+
+Lautakunnan toiminta rahoitetaan liikennevahinkoasioiden osalta Liikennevakuutuskeskukselta ja potilasvahinkoasioiden osalta Potilasvakuutuskeskukselta perittävällä maksulla. Maksu vastaa niitä kustannuksia, jotka aiheutuvat lautakunnalle säädettyjen tehtävien hoitamisesta. Liikennevakuutuskeskuksen kustannusten jakamisesta liikennevakuutuslain mukaista vakuutustoimintaa harjoittavien vakuutusyhtiöiden ja Valtiokonttorin kesken säädetään Liikennevakuutuskeskuksesta annetussa laissa (461/2016). Potilasvakuutuskeskuksen kustannusten jakamisesta potilasvakuutustoimintaa harjoittavien vakuutusyhtiöiden kesken säädetään Potilasvakuutuskeskuksesta annetussa laissa (949/2019).
+
+Finanssivalvonta vahvistaa vuosittain lautakunnan talousarvion lautakunnan esityksestä. Finanssivalvonta voi erityisestä syystä vahvistaa tilikauden aikana lisätalousarvion.
+
+Finanssivalvonta vahvistaa Liikennevakuutuskeskukselta ja Potilasvakuutuskeskukselta perittävien maksujen suuruuden.
+
+Maksun perimisestä ja tilittämisestä lautakunnalle voidaan antaa tarkempia säännöksiä sosiaali- ja terveysministeriön asetuksella.
