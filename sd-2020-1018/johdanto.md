@@ -1,0 +1,2 @@
+Laki Senaatti-kiinteistöistä ja Puolustuskiinteistöistä
+Eduskunnan päätöksen mukaisesti säädetään:
