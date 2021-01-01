@@ -5,4 +5,4 @@ Rakennusperinnön säilyttämisen yleinen kehittäminen ja ohjaus kuuluu ympäri
 
 Rakennusperinnön säilyttämistä tämän lain nojalla edistävät ja valvovat elinkeino-, liikenne- ja ympäristökeskukset ja Museovirasto.
 
-Museovirasto toimii asiantuntijana rakennusperinnön säilyttämiseen liittyvissä kysymyksissä. Saamelaista rakennusperintöä koskevissa asioissa asiantuntijana toimii yhteistyössä Museoviraston kanssa saamelais-museo Siida.
+Museovirasto toimii asiantuntijana rakennusperinnön säilyttämiseen liittyvissä kysymyksissä. Saamelaista rakennusperintöä koskevissa asioissa asiantuntijana toimii yhteistyössä Museoviraston kanssa Saamelaismuseo Siida. Lisäksi alueellinen vastuumuseo voi tarvittaessa toimia asiantuntijana yhteistyössä Museoviraston kanssa.
