@@ -1,0 +1,2 @@
+Laki Euroopan talousalueella sijaitsevan tytäryhtiön lopullisen tappion konsernivähennyksestä
+Eduskunnan päätöksen mukaisesti säädetään:
