@@ -1,0 +1,7 @@
+# 3 § Potilasvakuutuskeskuksen kustannuksista vastaaminen
+
+Potilasvakuutuskeskuksen jäsenet vastaavat Potilasvakuutuskeskuksen toiminnasta aiheutuvista kustannuksista.
+
+Kukin Potilasvakuutuskeskuksen jäsen on velvollinen maksamaan Potilasvakuutuskeskukselle osuutensa niistä Potilasvakuutuskeskuksen potilasvakuutuslain perusteella korvaamista vahingoista, joista jäsen on tekemänsä vakuutussopimuksen perusteella vastuussa. Potilasvakuutuskeskuksen jäsenet ovat velvollisia suorittamaan vuosittain keskukselle maksun sen muiden kustannusten kattamiseksi tuloslaskelman mukaisen potilasvakuutuksen maksutulon mukaisessa suhteessa.
+
+Potilasvakuutustoiminnan lopettanut ja Potilasvakuutuskeskuksesta eronnut vakuutusyhtiö on velvollinen suorittamaan Potilasvakuutuskeskukselle 2 momentissa tarkoitetut maksut eroamispäivään asti. Jos vakuutusyhtiö on suorittanut ennakkona enemmän kuin lopullisen maksuosuutensa, Potilasvakuutuskeskuksen on viipymättä palautettava eronneelle vakuutusyhtiölle liikaa maksettu osuus.
