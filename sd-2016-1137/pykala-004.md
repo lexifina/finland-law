@@ -6,3 +6,5 @@ Turvallisuus- ja kemikaalivirasto on tässä laissa tarkoitettu markkinavalvonta
 Tulli toimii NLF-asetuksen 27–29 artiklassa tarkoitettuna ulkorajatarkastuksista vastaavana viranomaisena sekä valvoo 23 §:ssä tarkoitetun maastavientikiellon ja 25 §:ssä tarkoitetun hävittämismääräyksen noudattamista ulkorajalla.
 
 Säteilyturvakeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen säteilylaissa tarkoitettujen tuotteiden osalta.
+
+Liikenne- ja viestintävirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen ilmailulaissa tarkoitettujen tuotteiden osalta.
