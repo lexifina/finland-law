@@ -1,0 +1,3 @@
+# 14 a § Henkilötietojen luovuttaminen Euroopan raja- ja merivartiovirastolle
+
+Maahanmuuttovirasto saa salassapitosäännösten estämättä luovuttaa Euroopan raja- ja merivartiovirastolle vapaaehtoisen paluun toteuttamiseksi välttämättömät vapaaehtoisen paluun tukihakemuksella kerätyt 7 §:n 1 momentissa tarkoitetut henkilötiedot ja 8 §:ssä tarkoitetuista erityisistä henkilötietoryhmistä terveystiedot noudattaen, mitä eurooppalaisesta raja- ja merivartiostosta sekä asetusten (EU) N:o 1052/2013 ja (EU) 2016/1624 kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2019/1896 säädetään.
