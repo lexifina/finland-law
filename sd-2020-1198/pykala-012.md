@@ -1,0 +1,5 @@
+# 12 § Jälkikäteiset muutokset tytäryhtiön verotuksessa
+
+Jos tytäryhtiön verotusta jälkikäteen muutetaan lainvoimaisella päätöksellä tytäryhtiön kotivaltiossa siten, että lopullisten tappioiden määrä pienenee, emoyhtiön verotettavan tulon määrään lisätään lopullisten tappioiden määrän muuttumista vastaava määrä konsernivähennyksen muutoksena sinä verovuonna, jona muutos tytäryhtiön kotivaltiossa todettiin lainvoimaisella päätöksellä.
+
+Jos tytäryhtiön verotusta jälkikäteen muutetaan lainvoimaisella päätöksellä tytäryhtiön kotivaltiossa siten, että lopullisen tappion määrä suurenee, emoyhtiön vaatimuksesta sen verotettavasta tulosta vähennetään lopullisen tappion määrän muuttumista vastaava määrä konsernivähennyksen muutoksena sinä verovuonna, jona muutos tytäryhtiön kotivaltiossa todettiin lainvoimaisella päätöksellä. Edellä 9 §:n mukaisesti vähennetyn konsernivähennyksen ja konsernivähennyksen muutoksen yhteismäärä ei saa ylittää emoyhtiön veronalaisen elinkeinotoiminnan tuloksen määrää mainitussa pykälässä tarkoitettuna verovuotena.
