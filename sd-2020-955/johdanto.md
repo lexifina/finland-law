@@ -1,0 +1,2 @@
+Laki oikeushallinnon valtakunnallisesta tietovarannosta
+Eduskunnan päätöksen mukaisesti säädetään:

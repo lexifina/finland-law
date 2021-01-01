@@ -1,0 +1,6 @@
+# 10 § Tietovarantoon tallennettavat henkilötiedot
+Luku: 3 luku Tietovarannon käyttötarkoitus ja tietosisältö
+
+Asianosaisesta luonnollisesta henkilöstä saa tietovarantoon perustietoina tallentaa henkilön nimen, henkilötunnuksen tai, jos sitä ei ole käytettävissä, tiedot syntymäajasta ja -paikasta, tiedot osoitteesta ja puhelinnumerosta tai muista yhteystiedoista sekä muut tietovarannon käyttötarkoituksen kannalta tarpeelliset tiedot. Muusta asiaan osallisesta saa tallentaa ne tiedot, jotka ovat tarpeen tietovarannon käyttötarkoituksen kannalta.
+
+Asiaan osallisesta luonnollisesta henkilöstä saa ratkaisu- ja päätösilmoitusjärjestelmään tallentaa kuitenkin vain sellaisia tietosuoja-asetuksen 9 artiklassa ja henkilötietojen käsittelystä rikosasioissa ja kansallisen turvallisuuden ylläpitämisen yhteydessä annetun lain 11 §:ssä tarkoitettuja erityisiin henkilötietoryhmiin kuuluvia tietoja, jotka on tallennettava tuomioistuimen diaari- tai muuhun asiakirjarekisteriin tai jotka ilmenevät oikeushallinnon viranomaisen ratkaisusta ja jotka ovat tarpeellisia tuomion täytäntöön panemiseksi, merkinnän tekemiseksi viranomaisen rekisteriin tai muiden oikeushallinnon viranomaisten laissa säädettyjen tehtävien hoitamiseksi.
