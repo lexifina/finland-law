@@ -1,7 +1,7 @@
-# 7 § Vaaratiedotteen lähettäminen ja välittäminen
+# 7 § Vaaratiedottamisprosessin kulku
 
-Edellä 5 §:ssä tarkoitettu viranomainen lähettää vaaratiedotteen Hätäkeskuslaitokseen.
+Toimivaltainen viranomainen lähettää vaaratiedotteen Hätäkeskuslaitokseen.
 
-Hätäkeskuslaitoksen tulee viipymättä välittää vaaratiedote edelleen Yleisradio Oy:öön.
+Hätäkeskuslaitos välittää vaaratiedotteen telepäätelaitesovellukseen sekä radiossa ja televisiossa jakelua varten Yleisradio Oy:öön.
 
-Vaaratiedotteen lähettämisestä Hätäkeskuslaitokseen ja vaaratiedotteen välittämisestä Yleisradio Oy:öön voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.
+Vaaratiedotteen lähettämisestä Hätäkeskuslaitokseen ja vaaratiedotteen välittämisestä Yleisradio Oy:öön sekä telepäätelaitesovellukseen voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.

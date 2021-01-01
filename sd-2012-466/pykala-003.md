@@ -1,7 +1,18 @@
-# 3 § Vaaratiedotteen antaminen
+# 3 § Toimivaltaiset viranomaiset
 
-Vaaratiedote voidaan antaa, jos se on välttämätöntä väestön varoittamiseksi, silloin kun vaarallisen tapahtuman seurauksena voi aiheutua ihmisille hengen- tai terveysvaara taikka vaara merkittävälle omaisuuden vaurioitumiselle tai tuhoutumiselle.
-
-Vaaratiedote voidaan lisäksi antaa, kun vaaratilanne, jonka perusteella vaaratiedote on annettu, on ohi.
-
-Vaaratiedotteen sisällöstä ja antamisesta voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.
+Vaaratiedotteen saa antaa:
+1) pelastuslain (379/2011) 26 §:ssä tarkoitettu pelastusviranomainen;
+2) poliisilaitos;
+3) rajavartiolaitoksen hallinnosta annetun lain (577/2005) 4 §:ssä tarkoitettu rajavartioviranomainen;
+4) Hätäkeskuslaitos;
+5) Poliisihallitus;
+6) poliisin hallinnosta annetun lain (110/1992) 1 §:n 2 momentissa tarkoitettu Poliisihallituksen alainen valtakunnallinen yksikkö;
+7) Säteilyturvakeskus;
+8) Ilmatieteen laitos;
+9) Väylävirasto;
+10) Liikenne- ja viestintävirasto;
+11) Ruokavirasto;
+12) Sosiaali- ja terveysalan lupa- ja valvontavirasto;
+13) Lääkealan turvallisuus- ja kehittämiskeskus;
+14) ministeriö;
+15) Ahvenanmaan valtionvirasto.

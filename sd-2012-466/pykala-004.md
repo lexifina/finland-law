@@ -1,9 +1,9 @@
-# 4 § Vaaratiedotteen välittäminen väestölle tiedoksi
+# 4 § Vaaratiedotteen antaminen
 
-Vaaratiedote välitetään väestölle tiedoksi radiossa.
+Vaaratiedote voidaan antaa, jos se on välttämätöntä väestön varoittamiseksi silloin, kun vaarallisen tapahtuman seurauksena voi aiheutua ihmisille hengen- tai terveysvaara taikka vaara merkittävälle omaisuuden vaurioitumiselle tai tuhoutumiselle.
 
-Vaaratiedote voidaan lisäksi välittää väestölle tiedoksi televisiossa, jos vaaratiedotteen antava viranomainen niin päättää.
+Toimivaltaisen viranomaisen on vaaratiedotetta antaessaan päätettävä sen maantieteellisestä kohdentamisesta joko valtakunnalliseksi tai alueelliseksi vaaran laadun ja muiden vaarasta varoittamisen kannalta oleellisten seikkojen perusteella.
 
-Vaaratiedote tulee välittää väestölle tiedoksi välittömästi.
+Vaaratiedote voidaan lisäksi antaa, kun vaaratilanne, jonka perusteella vaaratiedote on annettu, on ohi.
 
-Televisio- ja radiotoiminnan harjoittajan velvollisuudesta välittää viranomaistiedotuksia säädetään televisio- ja radiotoiminnasta annetun lain (744/1998) 15 a §:ssä sekä Yleisradio Oy:stä annetun lain (1380/1993) 7 §:n 2 momentin 7 kohdassa.
+Vaaratiedotteen sisällöstä ja antamisesta voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.
