@@ -8,7 +8,6 @@ Tässä laissa työeläkkeellä tarkoitetaan seuraavien säädösten mukaisia ty
 3) maatalousyrittäjän eläkelaki (1280/2006);
 4) yrittäjän eläkelaki (1272/2006);
 5) merimieseläkelaki (1290/2006);
-6) Suomen Pankin eläkesääntö;
 7) ortodoksisesta kirkosta annettu laki (985/2006);
 8) kansanedustajan eläkkeestä ja sopeutumisrahasta annettu laki (329/1967) ja kansanedustajan perhe-eläkkeestä annettu laki (107/1990);
 9) valtioneuvoston jäsenten oikeudesta eläkkeeseen ja hänen jälkeensä suoritettavasta perhe-eläkkeestä annettu laki (870/1977).
