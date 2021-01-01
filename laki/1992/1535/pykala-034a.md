@@ -10,6 +10,8 @@ Eläke tai suoritus luetaan saajan pääomatuloksi 20 prosentilla korotettuna, j
 
 Edellä 2 momentissa tarkoitettua korotusta ei kuitenkaan määrätä siltä osin kuin osoitetaan, että maksuja ei ole vähennetty Suomen verotuksessa.
 
+4–5 momentit on kumottu L:lla 7.6.2019/732.
+
 Pitkäaikaissäästämissopimuksen mukaisesti sijoitetuille varoille kertyneiden osinkotulojen, korkotulojen, luovutusvoittojen ja muiden tulojen yhteismäärä vähennettynä sijoitettuihin varoihin kohdistuvilla kuluilla, luovutustappioilla ja muilla tappioilla katsotaan 1 momentissa tarkoitettuna tulona sen verovuoden tuloksi, jona sopimukseen perustuva suoritus on saatu.
 
 Säästäjän tai muun varoihin oikeutetun kuoltua säästövarat luetaan kuolinpesän tai testamentinsaajan veronalaiseksi pääomatuloksi kuolinpäivän mukaisesta arvosta.

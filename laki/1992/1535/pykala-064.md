@@ -7,4 +7,8 @@ Työnantajalta saatu luontoisetu on veronalaista ansiotuloa ja arvioidaan käyp�
 
 Luontoisetu katsotaan sen verovuoden tuloksi, jonka aikana se on saatu vallintaan. Jos luontoisetu on kuitenkin tulotietojärjestelmästä annetun lain (53/2018) 12 §:n 4 momentissa tarkoitetulla tavalla ilmoitettu sen kertymiskuukautta seuraavan kuukauden tuloksi seuraavalle verovuodelle, katsotaan luontoisetu tämän seuraavan verovuoden tuloksi.
 
-Työnantajan työntekijälleen antama enintään 300 euron arvoinen joukkoliikenteen henkilökohtainen matkalippu asunnon ja työpaikan välistä matkaa varten on verovapaata tuloa. Lisäksi matkalippu on verovapaata tuloa 750 euroa ylittävältä osalta 3 400 euroon asti.
+Työnantajan työntekijälleen antama joukkoliikenteen henkilökohtainen matkalippu asunnon ja työpaikan välistä matkaa varten on verovapaata tuloa 3 400 euroon asti. Joukkoliikenteen osuus liikkumispalvelupaketista rinnastetaan henkilökohtaiseen joukkoliikenteen matkalippuun.
+
+Työnantajan työntekijälleen antama polkupyöräetu on verovapaata tuloa 1 200 euroon asti. Polkupyöräedun ja 3 momentissa tarkoitetun joukkoliikenteen matkalipun verovapaa enimmäismäärä on kuitenkin yhteensä 3 400 euroa.
+
+Sähköauton latauslaite katsotaan auton lisävarusteeksi autoedun verotusarvoa laskettaessa.
