@@ -9,3 +9,5 @@ Menojäännös on verovuoden aikana käyttöönotetun irtaimen käyttöomaisuude
 Verovuoden poiston suuruus saa olla enintään 25 prosenttia menojäännöksestä.
 
 Menojäännöstä laskettaessa vähentämättä jäänyt osa irtaimesta käyttöomaisuudesta verovuoden aikana saaduista luovutushinnoista ja muista vastikkeista katsotaan verovuoden veronalaiseksi tuotoksi. Tulipalon tai muun vahinkotapahtuman johdosta saatuun vakuutuskorvaukseen tai muuhun vastikkeeseen sovelletaan kuitenkin, mitä 43 §:ssä säädetään.
+
+Enintään 1 200 euron suuruinen menojäännös saadaan poistaa kerralla.
