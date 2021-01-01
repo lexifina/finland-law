@@ -1,0 +1,2 @@
+Laki Terveyden ja hyvinvoinnin laitoksen kaupallisten rokotetutkimuspalvelujen yhtiöittämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
