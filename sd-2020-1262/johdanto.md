@@ -1,0 +1,2 @@
+Laki laajakaistarakentamisen tuesta
+Eduskunnan päätöksen mukaisesti säädetään:
