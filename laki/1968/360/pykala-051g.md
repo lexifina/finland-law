@@ -1,0 +1,4 @@
+# 51 g §
+Osa: IV OSA Erityisiä säännöksiä
+
+Tuloverolain 9 §:n 1 momentin 1 kohdassa ja 8 momentissa tarkoitettua ulkomaista yhteisöä ja sen ennen yleisen verovelvollisuuden alkua Suomessa sijainnutta tuloverolain 13 a §:ssä tarkoitettua kiinteää toimipaikkaa verotetaan yhtenä verovelvollisena ulkomaisen yhteisön yleisen verovelvollisuuden alkamishetkestä. Kiinteän toimipaikan tulos luetaan ulkomaisen yhteisön tämän lain 1 §:n 1 momentin mukaisesti laskettavaan tulokseen yleisen verovelvollisuuden alkaessa. Mainitun yhteisön Suomessa sijainneen kiinteän toimipaikan verotuksessa vähentämättä olevat hankintamenot ja muut menot vähennetään ulkomaisen yhteisön verotuksessa samalla tavalla kuin ne olisi vähennetty kiinteän toimipaikan verotuksessa. Kiinteään toimipaikkaan kohdistuvat varaukset ja oikaisuerät luetaan ulkomaisen yhteisön veronalaiseksi tuloksi samalla tavalla kuin ne olisi luettu kiinteän toimipaikan veronalaiseksi tuloksi.
