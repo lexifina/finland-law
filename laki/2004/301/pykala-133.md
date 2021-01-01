@@ -8,3 +8,5 @@ Valtioneuvoston päätös tehdään määräajaksi, enintään kuitenkin kolmeks
 Poliisi tai rajatarkastusviranomainen taikka niiden valvonnassa sisäasiainministeriön tehtävään määräämä virkamies saa rekisteröinnin yhteydessä ottaa maahantulijasta 131 §:n 1 momentissa tarkoitetut henkilötuntomerkit. Maahantulija on rekisteröinnin ajan velvollinen oleskelemaan järjestelykeskuksessa, jollei hänen terveydentilaansa liittyvä tai muu tärkeä henkilökohtainen syy muuta edellytä.
 
 Rekisteröinti on suoritettava viipymättä.
+
+Raja- ja merivartiostoasetuksen mukaisen eurooppalaisen raja- ja merivartioston pysyvästä joukosta lähetetyn ryhmän jäsenenä Suomessa oleva vieraan valtion toimivaltainen virkamies voi avustaa poliisia ja rajatarkastusviranomaista 3 momentissa mainituissa tehtävissä ja 131 §:n 1 momentissa tarkoitettujen henkilötuntomerkkien ottamisessa poliisimiehen tai rajatarkastusviranomaisen virkamiehen ohjauksessa.
