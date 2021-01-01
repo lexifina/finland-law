@@ -4,4 +4,6 @@ Luku: 14 luku Erinäisiä säännöksiä
 
 Palkansaajan ansiopäivärahan rahoituksesta säädetään työttömyysetuuksien rahoituksesta annetussa laissa ja yrittäjän ansiopäivärahan rahoituksesta työttömyyskassalaissa.
 
-Peruspäiväraha ja siihen liittyvä lapsikorotus sekä korotusosa rahoitetaan valtion varoista ja palkansaajan työttömyysvakuutusmaksun tuotosta.
+Peruspäiväraha ja siihen liittyvä lapsikorotus sekä korotusosa rahoitetaan työttömyysvakuutusmaksun tuotoilla ja valtion rahoitusosuudella siten kuin työttömyysetuuksien rahoituksesta annetun lain 8 ja 23 §:ssä säädetään.
+
+Sosiaaliturva-asetuksen 69 ja 70 artiklan mukaiset kustannukset rahoitetaan valtion varoista. Kansaneläkelaitoksen perusasetuksen 65 artiklan 6 ja 7 kohdan mukaisesti asuinvaltiolle maksamat korvaukset rahoitetaan valtion varoista.
