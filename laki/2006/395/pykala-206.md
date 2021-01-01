@@ -10,6 +10,7 @@ Eläkelaitoksella ja Eläketurvakeskuksella on oikeus sen lisäksi, mitä julkis
 5) Työllisyysrahastolle tiedot, jotka ovat sille välttämättömiä työttömyysetuuksien rahoituksesta annetussa laissa tarkoitetun valvontavelvollisuuden täyttämiseksi, jos on aihetta epäillä, että työnantaja on laiminlyönyt velvollisuuttaan maksaa työttömyysvakuutusmaksuja;
 6) Tapaturmavakuutuskeskukselle ja lakisääteistä tapaturmavakuutusta toimeenpanevalle vakuutusyhtiölle näille laissa säädetyn valvontaan liittyvän tehtävän täyttämiseksi työnantajaa ja vakuutusta koskevat välttämättömät tiedot, jos on syytä epäillä, ettei työnantaja ole täyttänyt lakiin perustuvaa maksu- tai vakuuttamisvelvollisuuttaan;
 7) Valtiokonttorille välttämättömät tiedot tämän lain mukaisen laiminlyöntimaksun määräämistä koskevan asian ratkaisemiseksi;
-8) raideliikennevastuulain mukaiselle korvausvelvolliselle tiedot, jotka ovat välttämättömiä tämän lain 95 §:n 2 ja 3 momentissa tarkoitetun takautumisoikeuden sisällön yksilöimiseksi.
+8) raideliikennevastuulain mukaiselle korvausvelvolliselle tiedot, jotka ovat välttämättömiä tämän lain 95 §:n 2 ja 3 momentissa tarkoitetun takautumisoikeuden sisällön yksilöimiseksi;
+9) Potilasvakuutuskeskukselle tiedot, jotka ovat välttämättömiä 95 §:n 4 ja 5 momentissa tarkoitetun takautumisoikeuden sisällön yksilöimiseksi.
 
 Edellä 1 momentin 1, 2 ja 4–6 kohdan nojalla saatuja salassa pidettäviä tietoja voidaan antaa edelleen rikosten selvittämistä ja syytteeseenpanoa varten. Tiedot tulee hävittää heti, kun niitä ei tarvita.
