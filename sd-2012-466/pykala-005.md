@@ -1,17 +1,11 @@
-# 5 § Toimivaltaiset viranomaiset
+# 5 § Vaaratiedotteen välittäminen väestölle
 
-Vaaratiedotteen saa antaa:
-1) pelastuslain (379/2011) 26 §:ssä tarkoitettu pelastusviranomainen;
-2) poliisilaitos;
-3) rajavartiolaitoksen hallinnosta annetun lain (577/2005) 4 §:ssä tarkoitettu rajavartioviranomainen;
-4) Hätäkeskuslaitos;
-5) Poliisihallitus;
-6) poliisin hallinnosta annetun lain (110/1992) 1 §:n 2 momentissa tarkoitettu Poliisihallituksen alainen valtakunnallinen yksikkö;
-7) Säteilyturvakeskus;
-8) Ilmatieteen laitos;
-9) Väylävirasto;
-10) Liikenne- ja viestintävirasto;
-11) Elintarviketurvallisuusvirasto;
-12) Sosiaali- ja terveysalan lupa- ja valvontavirasto;
-13) Lääkealan turvallisuus- ja kehittämiskeskus;
-14) ministeriö.
+Vaaratiedote välitetään väestölle radiossa ja Hätäkeskuslaitoksen tarjoamaan telepäätelaitesovellukseen.
+
+Vaaratiedote voidaan lisäksi välittää väestölle televisiossa, jos vaaratiedotteen antava viranomainen niin päättää.
+
+Vaaratiedote tulee välittää väestölle välittömästi.
+
+Vaaratiedotteen sisältöä ei saa muuttaa sitä välitettäessä.
+
+Teleyrityksen sekä televisio- ja radiotoiminnan harjoittajan velvollisuudesta välittää viranomaistiedotuksia säädetään sähköisen viestinnän palveluista annetun lain 243 §:n 1 momentin 15 kohdassa ja 279 §:ssä sekä Yleisradio Oy:stä annetun lain (1380/1993) 7 §:n 2 momentin 7 kohdassa.
