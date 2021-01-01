@@ -1,8 +1,6 @@
 # 13 b § Suoramarkkinoinnin kielto
 Luku: 7 luku Kuluttajaluotot
 
-Kuluttajaluoton suoramarkkinointi on kielletty.
+Kuluttajaluoton ja luotonvälityspalvelun suoramarkkinointi on kielletty.
 
-Edellä 1 momentissa tarkoitettuna kiellettynä suoramarkkinointina ei pidetä luottomahdollisuudesta kertomista tavaran tai muun kulutushyödykkeen oston yhteydessä.
-
-Mitä tässä pykälässä säädetään, sovelletaan luotonvälittäjään myös tämän markkinoidessa omia palvelujaan.
+Mitä 1 momentissa säädetään, ei kuitenkaan estä kertomasta kuluttajalle tavaraa tai muuta kulutushyödykettä markkinoitaessa tai hyödykkeen oston yhteydessä mahdollisuudesta rahoittaa kyseinen hyödyke luotolla.

@@ -13,4 +13,4 @@ Todellinen vuosikorko ja muut 1 momentissa mainitut tiedot on ilmoitettava maino
 
 Jos luoton saamisen edellytyksenä mainostetuin ehdoin on, että kuluttaja tekee vakuutusta tai muuta lisäpalvelua koskevan sopimuksen, eikä tällaisesta lisäpalvelusta aiheutuvia kustannuksia voida ennakolta määrittää, mainonnassa on ilmoitettava tällaisesta edellytyksestä yhdessä luoton todellisen vuosikoron kanssa.
 
-Jos 1 momentin mukaan ilmoitettava luoton korko on 17 c §:n 1 momentin mukaista enimmäiskorkoa suurempi, mainonnassa on ilmoitettava tämän pykälän 1 momentin mukaan ilmoitettava luoton korko vähintään yhtä näkyvästi kuin 17 c §:n 1 momentin mukainen korko sekä varoitettava koron nousemisesta 17 c §:n voimassaolon päättymisen jälkeen.
+Jos 1 momentin mukaan ilmoitettava luoton korko on 17 c §:n 1 momentin mukaista enimmäiskorkoa suurempi, mainonnassa on ilmoitettava tämän pykälän 1 momentin mukaan ilmoitettava luoton korko vähintään yhtä näkyvästi kuin 17 c §:n 1 momentin mukainen korko.
