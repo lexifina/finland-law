@@ -1,4 +1,9 @@
-# 2 § Liikelaitos
+# 2 § Asema ja tehtävät
 Luku: 1 luku Yleiset säännökset
 
-Tämän lain mukaisena valtion liikelaitoksena toimii valtiovarainministeriön hallinnonalalla Senaatti-kiinteistöt, jonka tehtävänä on tuottaa tilapalveluja ja niihin välittömästi liittyviä muita palveluja 1 §:ssä tarkoitetuilla virastoille, laitoksille ja yksiköille sekä huolehtia hallinnassaan olevasta valtion kiinteistövarallisuudesta. Senaatti-kiinteistöt varautuu hoitamaan tehtäviään myös valmiuslain (1080/1991) 2 §:ssä tarkoitetuissa poikkeusoloissa sen mukaan kuin valtiovarainministeriö ja puolustuskiinteistöjen osalta puolustusministeriö määräävät.
+Liikelaitos tuottaa palveluita palvelusopimusten perusteella valtion virastoille ja laitoksille, valtion talousarvion ulkopuolisille valtion rahastoille ja muille valtion liikelaitoksille samoin kuin eduskunnalle sekä sen alaisuudessa, valvonnassa tai yhteydessä toimiville yksiköille.
+
+Liikelaitos voi tuottaa palveluita palvelusopimusten perusteella myös:
+1) valtion määräysvallassa oleville yhteisöille ja säätiöille, joiden laissa tai sen nojalla säädettynä tai määrättynä tehtävänä on muun kuin taloudellisen toiminnan harjoittaminen;
+2) yhteisölle, joka tuottaa palveluita valtiolle julkisista hankinnoista ja käyttöoikeussopimuksista annetussa laissa (1397/2016) tarkoitetussa sidosyksikköasemassa;
+3) yhteisöille ja säätiöille, joiden toiminta rahoitetaan pääosin valtion talousarvioon otetulla määrärahalla ja jotka eivät kuulu kohdan 1 asiakkaisiin.

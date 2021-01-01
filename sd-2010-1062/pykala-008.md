@@ -4,7 +4,7 @@ Luku: 4 luku Liikelaitoksen hallinto
 Hallitus ohjaa ja valvoo liikelaitoksen toimintaa. Hallitus huolehtii liikelaitoksen hallinnosta ja toiminnan asianmukaisesta järjestämisestä sekä erityisesti siitä, että liikelaitos toimii eduskunnan ja muiden viranomaisten päätösten ja määräysten mukaisesti ja että liikelaitoksen kirjanpidon ja varainhoidon valvonta on asianmukaisesti järjestetty.
 
 Hallituksen tehtävänä on erityisesti:
-1) tehdä esitys liikelaitosta koskevaksi talousarvioehdotukseksi;
+1) tehdä esitys liikelaitosta koskevaksi talousarvioehdotukseksi sekä siihen liittyvä esitys liikelaitoksen seuraavan vuoden palvelutavoitteiksi ja muiksi toimintatavoitteiksi;
 2) tehdä esitys tulostavoitteiksi ja tuloutustavoitteeksi;
 3) päättää liikelaitoksen toiminnan kehittämisestä asianomaisen ministeriön asettamien taloudellisten tavoitteiden rajoissa sekä seurata ja raportoida tavoitteiden saavuttamista;
 4) valita ja erottaa toimitusjohtaja;
@@ -14,7 +14,6 @@ Hallituksen tehtävänä on erityisesti:
 8) laatia liikelaitoksen tilinpäätös ja siihen sisältyvä toimintakertomus ja niihin liittyen tehdä esitys liikelaitoksen voittoa tai tappiota koskeviksi toimenpiteiksi sekä toimittaa tilinpäätös, toimintakertomus ja mainittu esitys valtioneuvoston vahvistettaviksi;
 9) päättää liikelaitoksen edustamisesta ja nimen kirjoittamiseen oikeutetuista;
 10) päättää ministeriön 6 §:n perusteella tekemien päätösten rajoissa liikelaitoksen henkilöstörahastolaissa (934/2010) tarkoitetusta voittopalkkiojärjestelmästä ja sen soveltamisesta;
-11) päättää liikelaitoksen kiinteistövarallisuuden hankkimisesta sekä, sen mukaan kuin oikeudesta luovuttaa valtion kiinteistövarallisuutta annetussa laissa (973/2002) säädetään, valtion kiinteistövarallisuuden luovuttamisesta ja valtion maaomaisuuden vuokraamisesta;
 12) käsitellä ja ratkaista muut asiat, joilla on laajakantoinen tai tärkeä merkitys.
 
 Tarkempia säännöksiä hallituksen tehtävistä voidaan antaa valtioneuvoston asetuksella, joka säädetään laitoskohtaisesti.
