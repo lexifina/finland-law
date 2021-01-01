@@ -7,4 +7,6 @@ Verotarkastuksen aloittamisajankohdasta ja tarkastuspaikasta on ilmoitettava ver
 
 Suoritetusta verotarkastuksesta on laadittava verotarkastuskertomus, jollei erityisistä syistä muuta johdu.
 
+Toisen viranomaisen edustaja voi avustaa asiantuntijana verotarkastuksessa.
+
 Verotarkastuksessa noudatettavasta menettelystä sekä esitettävästä aineistosta ja omaisuudesta säädetään tarkemmin valtioneuvoston asetuksella.
