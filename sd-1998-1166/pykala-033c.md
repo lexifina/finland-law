@@ -8,4 +8,4 @@ Viranhakija saa hakea virkaan tai virkasuhteeseen nimittämistä koskevaan pää
 
 Valitus virkaan tai virkasuhteeseen nimittämistä koskevasta päätöksestä tehdään Helsingin hallinto-oikeudelle. Päätös voidaan panna täytäntöön ennen kuin se on saanut lainvoiman.
 
-Suomen Pankin antamaan virkamiestä koskevaan muuhun kuin 1 momentissa ja 33 ja 33 a §:ssä tarkoitettuun päätökseen ei saa hakea muutosta valittamalla.
+Suomen Pankin antamaan virkamiestä koskevaan muuhun kuin 1 momentissa ja 33 §:ssä tarkoitettuun päätökseen ei saa hakea muutosta valittamalla.
