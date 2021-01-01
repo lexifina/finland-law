@@ -1,8 +1,19 @@
 # 21 § Muutoksenhaku
 Luku: 5 luku Erinäiset säännökset
 
-Muutosta elinkeino-, liikenne- ja ympäristökeskuksen rakennuksen suojelua koskevaan päätökseen haetaan ympäristöministeriöltä.
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019). Toimivaltainen hallintotuomioistuin on se, jonka tuomiopiirissä rakennus sijaitsee.
 
-Elinkeino-, liikenne- ja ympäristökeskuksen vaarantamiskieltoa koskevaan päätökseen haetaan muutosta valittamalla hallinto-oikeuteen. Toimivaltainen hallinto-oikeus on se, jonka tuomiopiirissä rakennus sijaitsee.
+Valitusoikeus suojelua koskevasta päätöksestä ja suojelupäätöksestä poikkeamista koskevasta päätöksestä on:
+1) asianosaisella;
+2) suojeluesityksen tekijällä;
+3) rakennuksen sijaintikunnalla;
+4) Museovirastolla;
+5) asiassa yleistä etua valvovalla viranomaisella;
+6) saamelaiskäräjillä, jos päätös koskee saamelaisten kotiseutualuetta tai saamelaista rakennusperintöä;
+7) kolttien kyläkokouksella, jos päätös koskee koltta-aluetta tai kolttasaamelaista rakennusperintöä.
 
-Muilta osin muutoksenhaussa noudatetaan, mitä oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019) säädetään.
+Suojelupäätöstä on noudatettava muutoksenhausta huolimatta, jollei muutoksenhakutuomioistuin toisin määrää.
+
+Muutoksenhakuun 16 §:ssä tarkoitettuja avustuksia koskevissa asioissa sovelletaan lisäksi valtionavustuslakia.
+
+Muutoksenhakuun 15 §:n 2 momentissa tarkoitettua korvauksen määräämistä koskevissa asioissa sovelletaan lunastuslakia.

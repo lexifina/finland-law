@@ -1,6 +1,8 @@
-# 9 § Suojelupäätös
+# 9 § Suojelua koskeva päätös
 Luku: 2 luku Suojelusta päättäminen
 
-Rakennuksen suojelemisesta päättää elinkeino-, liikenne- ja ympäristökeskus. Suojeltavaksi määräämistä koskeva päätös toimitetaan ympäristöministeriön vahvistettavaksi.
+Rakennuksen suojelusta päättää elinkeino-, liikenne- ja ympäristökeskus.
 
-Suojelupäätöksen muuttamiseen tai kumoamiseen sovelletaan, mitä suojelu-esityksen tekemisestä ja suojelusta päättämisestä säädetään.
+Suojelupäätöksen muuttamiseen ja kumoamiseen sovelletaan, mitä suojeluesityksen tekemisestä ja suojelusta päättämisestä säädetään.
+
+Elinkeino-, liikenne- ja ympäristökeskuksen on toimitettava suojelua koskeva päätös tiedoksi ympäristöministeriölle.
