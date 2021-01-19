@@ -1,6 +1,6 @@
-# 45 § Muutoksenhaku Eviran päätökseen
+# 45 § Muutoksenhaku Ruokaviraston päätökseen
 Luku: 10 luku Erinäiset säännökset
 
-Tämän lain nojalla annettuun Eviran päätökseen haetaan muutosta valittamalla markkinaoikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
+Ruokaviraston päätökseen haetaan muutosta valittamalla markkinaoikeuteen siten kuin oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019) säädetään.
 
-Edellä 1 momentissa tarkoitetun valituksen käsittelystä markkinaoikeudessa säädetään oikeudenkäynnistä markkinaoikeudessa annetussa laissa (100/2013).
+Valituksen käsittelystä markkinaoikeudessa ja muutoksenhausta markkinaoikeuden päätökseen säädetään oikeudenkäynnistä markkinaoikeudessa annetussa laissa (100/2013).
