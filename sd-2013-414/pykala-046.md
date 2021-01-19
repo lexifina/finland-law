@@ -1,7 +1,7 @@
 # 46 § Muutoksenhaku virallisen mittaajan päätökseen
 Luku: 8 luku Muutoksenhaku ja eräät menettelyt
 
-Virallisen mittaajan päätökseen saa mittausosapuoli hakea muutosta valittamalla mittauslautakuntaan. Muutoksenhakuun sovelletaan, mitä hallintolainkäyttölaissa (586/1996) säädetään, jollei jäljempänä toisin säädetä.
+Virallisen mittaajan päätökseen saa mittausosapuoli hakea muutosta valittamalla mittauslautakuntaan. Muutoksenhakuun sovelletaan, mitä oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019) säädetään, jollei jäljempänä toisin säädetä.
 
 Muutosta on haettava 14 päivän kuluessa päätöksen tiedoksisaannista.
 
