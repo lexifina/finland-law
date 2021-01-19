@@ -1,0 +1,2 @@
+Laki Euroopan yhteisön yhteisen maatalouspolitiikan tunnistamis- ja tiedonantojärjestelmän täytäntöönpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
