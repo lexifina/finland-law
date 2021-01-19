@@ -2,6 +2,6 @@
 
 Maa- ja metsätalousministeriö hyväksyy vesistöalueiden ja merenrannikon tulvariskien hallintasuunnitelmat.
 
-Päätös tulvariskien hallintasuunnitelmasta annetaan julkipanon jälkeen, ja sen katsotaan tulleen asianomaisten tietoon, kun se on annettu.
+Maa- ja metsätalousministeriö toimittaa päätöksen hallintasuunnitelmien hyväksymisestä sähköisesti suunnitelmassa tarkoitetun vesistöalueen ja merenrannikon elinkeino-, liikenne- ja ympäristökeskukselle.
 
-Tulvariskien hallintasuunnitelmien hyväksymisestä toimitetaan tieto suunnitelmassa tarkoitetun vesistöalueen ja merenrannikon elinkeino-, liikenne- ja ympäristökeskukselle, joka kuuluttaa hyväksymisestä toimialueensa kunnissa sekä ilmoittaa hyväksymisestä riittävällä tavalla sanomalehdissä. Elinkeino-, liikenne- ja ympäristökeskus toimittaa tiedon suunnitelman hyväksymisestä kunnille ja niille viranomaisille, joita asian käsittelyn aikaisemmissa vaiheissa on kuultu. Kunnan aluetta koskeva hyväksytty vesistöalueen ja merenrannikon tulvariskien hallintasuunnitelma pidetään nähtävillä kunnassa.
+Elinkeino-, liikenne- ja ympäristökeskus antaa maa- ja metsätalousministeriön päätöksen tiedoksi julkisella kuulutuksella. Julkisesta kuulutuksesta säädetään hallintolaissa. Tieto kuulutuksesta on julkaistava elinkeino-, liikenne- ja ympäristökeskuksen toimialueen asianomaisissa kunnissa. Kunnan ilmoituksista säädetään kuntalain 108 §:ssä. Elinkeino-, liikenne- ja ympäristökeskus toimittaa lisäksi päätöksen sähköisesti niille viranomaisille, joita asian käsittelyn aikaisemmissa vaiheissa on kuultu.

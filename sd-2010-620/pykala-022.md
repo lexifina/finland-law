@@ -1,6 +1,6 @@
 # 22 § Muutoksenhaku
 
-Tulvariskien hallintasuunnitelman hyväksymistä koskevaan maa- ja metsätalousministeriön päätökseen saa hakea muutosta valittamalla korkeimpaan hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Valituksen saa tehdä sillä perusteella, että päätös on lainvastainen. Ministeriön päätös voidaan panna täytäntöön muutoksenhausta huolimatta.
+Tulvariskien hallintasuunnitelman hyväksymistä koskevaan maa- ja metsätalousministeriön päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen. Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019). Ministeriön päätös voidaan panna täytäntöön muutoksenhausta huolimatta.
 
 Valitusoikeus on:
 1) sillä, jonka oikeuteen, velvollisuuteen tai etuun päätös saattaa vaikuttaa;
