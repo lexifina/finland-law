@@ -2,7 +2,7 @@
 Osa: III OSA TYÖMARKKINATUKI
 Luku: 7 luku Työmarkkinatukea koskevat yleiset säännökset
 
-Omavastuuaika on viisi arkipäivää, joina henkilö on ollut työttömänä työnhakijana työ- ja elinkeinotoimistossa.
+Työmarkkinatukea maksetaan sen jälkeen, kun henkilö on ollut työttömänä työnhakijana työ- ja elinkeinotoimistossa yhteensä viittä täyttä työpäivää vastaavan ajan enintään kahdeksan peräkkäisen kalenteriviikon aikana.
 
 Omavastuupäiviksi ei lueta niitä päiviä:
 1) joina henkilö ei täytä työttömyysetuuden saamiselle 2 luvussa säädettyjä edellytyksiä;
@@ -16,5 +16,3 @@ Omavastuuaikaan luetaan kuitenkin 3 luvun 3 §:n 4 momentissa tarkoitettu sairau
 Omavastuuaikaa ei kuitenkaan edellytetä, jos henkilö muutoin täyttää työmarkkinatuen saamisen edellytykset ja:
 1) hänen oikeutensa työmarkkinatukeen alkaa välittömästi 6 luvun 7 tai 9 §:ssä tarkoitetun työttömyyspäivärahan enimmäisajan täytyttyä; tai
 2) hänen työntekonsa estyy sellaisen työtaistelutoimenpiteen takia, jolla ei ole riippuvuussuhdetta hänen työehtoihinsa tai työoloihinsa.
-
-Omavastuuajalta maksetaan työmarkkinatukea. Omavastuuajasta, jolta maksetaan työmarkkinatukea, ei anneta päätöstä.

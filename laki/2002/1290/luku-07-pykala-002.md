@@ -13,7 +13,7 @@ Odotusaikaa ei aseteta, jos:
 1) henkilö on suorittanut peruskoulun tai lukion jälkeisen tutkintoon johtavan, ammatillisia valmiuksia antavan koulutuksen;
 2) päätoimiset opinnot päättyvät ja opintojen ajalta on maksettu työttömyysetuutta 2 luvun 10 a §:n perusteella;
 3) työnhakijan oikeus työmarkkinatukeen alkaa välittömästi 6 luvun 7 tai 9 §:ssä tarkoitetun työttömyyspäivärahan enimmäisajan täytyttyä; tai
-4) henkilö on saanut vammaisuuden, sairauden, kehityksessä viivästymisen, tunne-elämän häiriön tai muun syyn vuoksi ammatillisesta koulutuksesta annetun lain 20 §:ssä tarkoitettuja erityisiä opetus- tai opiskelijahuollon palveluja ja suorittanut hänelle laaditun henkilökohtaisen opetuksen järjestämistä koskevan suunnitelman mukaiset opinnot.
+4) henkilöllä ei sairauden tai vamman vuoksi ole valmiuksia ammatillisen tutkinnon suorittamiseen ja hän on suorittanut ammatillisesta koulutuksesta annetun lain 7 §:n 3 momentissa tarkoitetun työhön ja itsenäiseen elämään valmentavan koulutuksen tai saavuttanut henkilökohtaisessa osaamisen kehittämissuunnitelmassa sovitut tavoitteet.
 
 Odotusajasta vähennetään täydet kalenteriviikot, joina henkilö on:
 1) ollut työssä, joka luetaan hänen työssäoloehtoonsa;
