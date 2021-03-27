@@ -1,9 +1,0 @@
-# 13 § Korvauksen määräytyminen
-Osa: IV OSA TYÖTERVEYSHUOLTO, VUOSILOMAKUSTANNUSKORVAUS JA KORVAUS VANHEMMUUDESTA AIHEUTUVISTA PERHEVAPAAKUSTANNUKSISTA
-Luku: 13 luku Työterveyshuoltoa koskevat korvaukset
-
-Korvausta suoritetaan toiminnan toteuttamiseksi tarpeellisten voimavarojen käytöstä aiheutuneista kustannuksista opiskelijakohtaisen laskennallisen enimmäismäärän perusteella.
-
-Kansaneläkelaitos vahvistaa opiskelijakohtaisen laskennallisen enimmäismäärän terveydenhoidon toteuttamiseksi tarpeellisten voimavaratekijöiden perusteella siten kuin valtioneuvoston asetuksella tarkemmin säädetään.
-
-Lopullinen kokonaiskorvaus on opiskelijakohtainen laskennallinen enimmäismäärä opiskelijamäärällä kerrottuna, kuitenkin enintään 63 prosenttia säätiön tili- ja toimintakauden kokonaisrahoituksesta. Lopullista kokonaiskorvausta laskettaessa opiskelijamäärällä tarkoitetaan tilikauden ennakkokorvaushakemuksessa käytettyä terveydenhoitomaksun maksaneiden opiskelijoiden määrää.

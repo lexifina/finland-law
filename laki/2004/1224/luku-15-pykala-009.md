@@ -8,4 +8,4 @@ Jos yrittäjä tai muu omaa työtään tekevä on ostanut 13 luvun mukaisesti ko
 
 Jos tämän lain mukainen korvaus maksetaan apteekille tai palvelujen tuottajalle 1 tai 2 momentin mukaisesti, korvauksen maksamisesta ei anneta vakuutetulle kirjallista päätöstä. Päätös on kuitenkin annettava, jos vakuutettu sitä vaatii. Vaatimus on esitettävä kuuden kuukauden kuluessa lääkkeen ostamisesta tai palvelun saamisesta.
 
-Sen estämättä mitä 1 momentissa säädetään, jos palvelujen tuottaja on perinyt vakuutetun työnantajalta palkkiona 3 luvun 7 §:ssä tarkoitetun korvauksen määrällä vähennetyn hinnan, korvaus voidaan maksaa palvelujen tuottajalle sen tekemän tilityksen perusteella erikseen sovittavalla tavalla. Päätöksen antamisessa vakuutetulle noudatetaan mitä 3 momentissa säädetään.
+Sen estämättä mitä 1 momentissa säädetään, jos palvelujen tuottaja on perinyt vakuutetun työnantajalta palkkiona 3 luvun 7 tai 8 §:ssä tarkoitetun korvauksen määrällä vähennetyn hinnan, korvaus voidaan maksaa palvelujen tuottajalle sen tekemän tilityksen perusteella erikseen sovittavalla tavalla. Päätöksen antamisessa vakuutetulle noudatetaan, mitä tämän pykälän 3 momentissa säädetään.
