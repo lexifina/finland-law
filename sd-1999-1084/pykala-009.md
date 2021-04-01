@@ -1,0 +1,5 @@
+# 9 § Selvitysjärjestelmän osapuolen maksukyvyttömyysmenettelyn alkamisesta ilmoittaminen
+
+Selvitysjärjestelmän osapuolen maksukyvyttömyysmenettelyn alkamisesta päättäneen tuomioistuimen tai muun viranomaisen on välittömästi ilmoitettava päätöksestään valtiovarainministeriölle, Finanssivalvonnalle ja Suomen Pankille. Finanssivalvonnan on viipymättä ilmoitettava päätöksestä kyseisen selvitysjärjestelmän ylläpitäjälle, Euroopan järjestelmäriskikomitealle, Euroopan arvopaperimarkkinaviranomaiselle ja muiden Euroopan talousalueeseen kuuluvien valtioiden Euroopan arvopaperimarkkinaviranomaiselle ilmoittamille asianomaisille viranomaisille.
+
+Finanssivalvonnan on saatuaan tiedon Euroopan talousalueeseen kuuluvassa valtiossa sijaitsevan selvitysjärjestelmän osapuolen maksukyvyttömyysmenettelyn alkamisesta ilmoitettava siitä viipymättä niille Finanssivalvonnasta annetun lain (878/2008) 4 ja 5 §:ssä tarkoitetuille, joiden etuun tai oikeuteen tiedolla voi olla merkitystä, sekä tarvittaessa valtiovarainministeriölle ja Suomen Pankille.
