@@ -1,6 +1,7 @@
 # 3 § Määritelmät
 
 Tässä laissa tarkoitetaan:
-1) yrityksellä yritys- ja yhteisötietolain (244/2001) mukaisesti yritys- ja yhteisötietojärjestelmään rekisteröityä yritystä ja yhteisöä sekä sitä vastaavaa ulkomaista yritystä ja yhteisöä;
-2) yrityspalvelulla valtion, kunnan, valtion erityisrahoitusyhtiön, Business Finland Oy:n ja alueiden kehittämisen ja rakennerahastohankkeiden rahoittamisesta annetun lain 2 §:n 13 kohdassa tarkoitetun välittävän toimielimen tarjoamaa, myöntämää ja niiden varoista maksettavaa tukea, rahoitusta sekä kehittämis- ja neuvontapalvelua sekä julkisesta työvoima- ja yrityspalvelusta annetussa laissa (916/2012) tarkoitettua julkista työvoima- ja yrityspalvelua;
-3) asiakastiedoilla 7 §:ssä tarkoitettuja tietoja.
+1) yrityksellä taloudellista toimintaa harjoittavia yksiköitä riippumatta niiden oikeudellisesta muodosta ja rahoitustavasta;
+2) yrityspalvelulla valtion, kunnan, valtion erityisrahoitusyhtiön, Business Finland Oy:n, alueiden kehittämisen ja rakennerahastohankkeiden rahoittamisesta annetun lain 2 §:n 13 kohdassa tarkoitetun välittävän toimielimen ja taloudelliseen toimintaan myönnettävän tuen yleisistä edellytyksistä annetun lain (429/2016) 2 §:n 3 kohdassa tarkoitetun tukiviranomaisen tarjoamaa, myöntämää ja niiden varoista maksettavaa tukea, rahoitusta ja kehittämis- ja neuvontapalvelua sekä julkisesta työvoima- ja yrityspalvelusta annetussa laissa (916/2012) tarkoitettua julkista työvoima- ja yrityspalvelua;
+3) asiakastiedoilla 7 ja 7 a §:ssä tarkoitettuja tietoja;
+4) julkaisu- ja avoimuusvelvoitteella Euroopan yhteisön perustamissopimuksen 92 ja 93 artiklan soveltamisesta tiettyihin valtion monialaisen tuen muotoihin annetun neuvoston asetuksen (EY) N:o 994/98 1 artiklan ja Euroopan unionin toiminnasta tehdyn sopimuksen 107 ja 108 artiklan soveltamisesta tiettyihin valtion monialaisen tuen muotoihin annetun neuvoston asetuksen (EU) 2015/1588 1 artiklan perusteella annettujen komission ryhmäpoikkeusasetusten sekä Euroopan unionin toiminnasta tehdyn sopimuksen 108 artiklan 3 kohdan mukaisessa ilmoitusmenettelyssä tehtyjen Euroopan komission päätösten mukaisia julkaisu- ja avoimuusvelvoitteita.

@@ -1,0 +1,5 @@
+# 7 a § Asiakastietojärjestelmään Euroopan unionin toiminnasta tehdyn sopimuksen 107 artiklan 1 kohdassa tarkoitetuista valtiontuista talletettavat tiedot
+
+Sen lisäksi, mitä 7 §:ssä säädetään, taloudelliseen toimintaan myönnettävän tuen yleisistä edellytyksistä annetun lain 2 §:n 3 kohdassa tarkoitetun tukiviranomaisen on talletettava asiakastietojärjestelmään sellaisen tuen myöntämistä ja maksamista koskevat tiedot, joka täyttää Euroopan unionin toiminnasta tehdyn sopimuksen 107 artiklan 1 kohdassa tarkoitetut valtiontuen edellytykset. Tallettamisvelvollisuus ei kuitenkaan koske sellaisia verotukia, joita koskevia tietoja julkaisu- ja avoimuusvelvoite ei koske, eikä maa- ja metsätalouden alkutuotantoa eikä kalataloutta koskevaa tukea.
+
+Tuen myöntämistä koskevat tiedot on talletettava 14 vuorokauden kuluessa tuen myöntämisestä. Maksamista koskevat tiedot on talletettava maksamisvuotta seuraavan kalenterivuoden tammikuun loppuun mennessä. Verotukien maksamista koskevat tiedot on kuitenkin talletettava vuoden kuluessa veroilmoituksen jättöpäivästä.
