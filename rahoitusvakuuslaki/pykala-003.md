@@ -1,0 +1,16 @@
+# 3 § Määritelmiä
+
+Tässä laissa tarkoitetaan:
+1) arvopaperilla arvopaperimarkkinalain (746/2012) 2 luvun 1 §:n mukaan kyseisen lain soveltamisalan piiriin kuuluvia arvopapereita ja johdannaissopimuksia sekä muita niihin rinnastettavia arvopapereita ja johdannaissopimuksia, joilla tavallisesti käydään kauppaa rahoitusmarkkinoilla;
+2) tilirahalla talletusta taikka muuta Suomen rahan tai ulkomaan valuutan määräistä rahasaatavaa, joka on merkitty yksilöidylle tilille;
+2 a) lainasaamisella luottolaitostoiminnasta annetun lain (610/2014) 1 luvun 7 §:ssä tarkoitetun luottolaitoksen tai ulkomaisen luottolaitoksen taikka muun rahoitusvakuusjärjestelyistä annetun Euroopan parlamentin ja neuvoston direktiivin 2002/47/EY 2 artiklan 1 kohdan o alakohdassa tarkoitetun laitoksen myöntämään rahalainaan perustuvaa saatavaa;
+3) vastaavalla omaisuudella vakuudeksi luovutettua määrää saman liikkeeseenlaskijan ehdoiltaan ja kuvaukseltaan samanlaisia arvopapereita tai saman valuutan määräistä tilirahaa taikka niiden sijaan annettavia muita arvopapereita tai tilirahaa, joista on sovittu osapuolten kesken;
+4) maksukyvyttömyysmenettelyn alkamisella konkurssin tai yrityksen saneerausmenettelyn aloittamista sekä muuta päätöstä ryhtyä näihin verrattavaan täytäntöönpanoon, joka edellyttää viranomaisen osallistumista ja joka rajoittaa velallisen määräysvaltaa; ja
+5) nettoutuksella menettelyä, jossa vakuuden antajan ja vakuuden saajan vastakkaiset velvoitteet erääntyvät ja kyseiset velvoitteet tai niiden arvot yhdistetään osapuolten sopimalla tavalla yhdeksi velvoitteeksi.
+
+Tässä laissa tarkoitetaan laitoksella :
+1) julkisoikeudellista yhteisöä, itsenäistä julkisoikeudellista laitosta ja valtion liikelaitosta;
+2) Suomen Pankkia, Euroopan keskuspankkia, Kansainvälistä järjestelypankkia, Kansainvälistä Valuuttarahastoa ja Euroopan investointipankkia sekä Pohjoismaiden Investointipankkia ja muuta monenkeskistä kehityspankkia;
+3) luottolaitostoiminnasta annetun lain 1 luvun 7 §:ssä tarkoitettua luottolaitosta ja 1 luvun 11 §:ssä tarkoitettua rahoituslaitosta, sijoituspalvelulain (747/2012) 1 luvun 13 §:n 1 momentin 1 kohdassa tarkoitettua sijoituspalveluyritystä, sijoitusrahastolain (213/2019) 1 luvun 2 §:n 1 momentin 6 kohdassa tarkoitettua rahastoyhtiötä ja 10 kohdassa tarkoitettua säilytysyhteisöä, vaihtoehtorahastojen hoitajista annetun lain (162/2014) 2 luvun 2 §:ssä tarkoitettua vaihtoehtorahastojen hoitajaa, 14 luvun 1 §:ssä tarkoitettua säilytysyhteisöä ja 3 §:ssä tarkoitettua erityistä säilytysyhteisöä, vakuutusyhtiölain (521/2008) 1 luvun 1 §:ssä tarkoitettua vakuutusyhtiötä, työeläkevakuutusyhtiöistä annetun lain (354/1997) 1 §:ssä tarkoitettua työeläkevakuutusyhtiötä ja vakuutusyhdistyslain (1250/1987) 1 luvun 1 §:n 2 momentissa tarkoitettua vakuutusyhdistystä;
+4) arvo-osuusjärjestelmästä ja selvitystoiminnasta annetun lain (348/2017) 1 luvun 3 §:n 5 kohdassa tarkoitettua arvopaperikeskusta, 7 kohdassa tarkoitettua keskusvastapuolta ja 8 kohdassa tarkoitettua selvitysosapuolta;
+5) muuta kotimaista ja ulkomaista oikeushenkilöä, joka harjoittaa vastaavaa toimintaa kuin edellä mainitut, tai sellaista tahoa, joka on rahoitusvakuusjärjestelyistä annetun Euroopan parlamentin ja neuvoston direktiivin 2002/47/EY 1 artiklan 2 kohdan a–d alakohdassa määritelty laitos.

@@ -1,0 +1,5 @@
+# 4 § Omistusoikeuden siirtoon perustuva vakuus
+
+Osapuolet voivat sopia arvopapereiden tai tilirahan kaupasta takaisinostoehdoin taikka muusta sellaisesta järjestelystä, jossa vakuuden antaja luovuttaa arvopapereita tai tilirahaa velan vakuudeksi niin, että vakuuden saaja saa niihin omistusoikeuden. Vakuuden saajan on palautettava vastaava omaisuus vakuuden antajalle sovittujen ehtojen mukaisesti viimeistään eräpäivänä, jollei ole sovittu, että palauttamatta jäävien arvopapereiden tai tilirahan arvo kuitataan velkaa vastaan. Mitä edellä tässä momentissa säädetään, on soveltuvin osin voimassa myös järjestelystä, jossa vakuuden antaja luovuttaa lainasaamisia velan vakuudeksi niin, että lainasaamiset siirtyvät vakuuden saajalle.
+
+Edellä 1 momentissa tarkoitettu luovutus on sitova, kun arvopaperit on luovutettu vakuuden saajan hallintaan tai kun arvopapereiden, tilirahan tai lainasaamisten siirto on muutoin toteutettu niin kuin omistusoikeuden luovutuksesta ja saatavan siirrosta säädetään.
