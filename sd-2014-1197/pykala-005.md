@@ -13,6 +13,6 @@ ulkomaisen ETA-luottolaitoksen sivuliike, luokka B | 1 000
 kolmannen maan luottolaitoksen sivuliike | 1 000
 luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetussa laissa tarkoitettu sijoituspalveluyritys | 1 000
 luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetussa laissa tarkoitettu kolmannen maan sijoituspalveluyritys | 1 000
-arvopaperikeskus | 300
+arvopaperikeskus | 25 000
 
 Jos luottolaitoksen omistusyhteisö on samalla toisen konsernin tytäryhteisö, sen emoyhteisöltä ei peritä maksua samalla perusteella.
