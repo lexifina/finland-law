@@ -10,16 +10,16 @@ Esitutkintaviranomaiselle voidaan antaa lupa kohdistaa telekuuntelua rikoksesta 
 3) valtiopetoksesta, törkeästä valtiopetoksesta tai valtiopetoksen valmistelusta;
 4) törkeästä sukupuolisiveellisyyttä loukkaavan lasta esittävän kuvan levittämisestä;
 5) lapsen seksuaalisesta hyväksikäytöstä, törkeästä lapsen seksuaalisesta hyväksikäytöstä tai törkeästä lapsenraiskauksesta;
-6) taposta, murhasta, surmasta tai rikoslain 21 luvun 6 a §:ssä tarkoitetusta kyseisen luvun 1, 2 tai 3 §:n mukaisesta törkeän henkeen tai terveyteen kohdistuvan rikoksen valmistelusta;
+6) taposta, murhasta, surmasta tai rikoslain 21 luvun 6 a §:ssä tarkoitetusta mainitun luvun 1, 2 tai 3 §:n mukaisesta törkeän henkeen tai terveyteen kohdistuvan rikoksen valmistelusta;
 7) törkeästä laittoman maahantulon järjestämisestä, törkeästä vapaudenriistosta, ihmiskaupasta, törkeästä ihmiskaupasta, panttivangin ottamisesta tai panttivangin ottamisen valmistelusta;
 8) törkeästä ryöstöstä, törkeän ryöstön valmistelusta tai törkeästä kiristyksestä;
 9) törkeästä kätkemisrikoksesta, ammattimaisesta kätkemisrikoksesta tai törkeästä rahanpesusta;
 10) tuhotyöstä, liikennetuhotyöstä, törkeästä tuhotyöstä, törkeästä terveyden vaarantamisesta, ydinräjähderikoksesta tai kaappauksesta;
-11) rikoslain 34 a luvun 1 §:n 1 momentin 2–8 kohdassa tai 2 momentissa tarkoitetusta terroristisessa tarkoituksessa tehdystä rikoksesta, terroristisessa tarkoituksessa tehdystä radiologista asetta koskevasta rikoksesta, terroristisessa tarkoituksessa tehtävän rikoksen valmistelusta, terroristiryhmän johtamisesta, terroristiryhmän toiminnan edistämisestä, koulutuksen antamisesta terrorismirikoksen tekemistä varten, kouluttautumisesta terrorismirikoksen tekemistä varten, jos teon vakavuus edellyttäisi vankeusrangaistusta, värväyksestä terrorismirikoksen tekemiseen, terrorismin rahoittamisesta, terroristiryhmän rahoittamisesta, jos teon vakavuus edellyttäisi vankeusrangaistusta, tai matkustamisesta terrorismirikoksen tekemistä varten, jos teon vakavuus edellyttäisi vankeusrangaistusta;
+11) rikoslain 34 a luvun 1 §:n 1 momentin 2–8 kohdassa tai 2 momentissa tarkoitetusta terroristisessa tarkoituksessa tehdystä rikoksesta, terroristisessa tarkoituksessa tehdystä radiologista asetta koskevasta rikoksesta, terroristisessa tarkoituksessa tehtävän rikoksen valmistelusta, terroristiryhmän johtamisesta, terroristiryhmän toiminnan edistämisestä, koulutuksen antamisesta terrorismirikoksen tekemistä varten, kouluttautumisesta terrorismirikoksen tekemistä varten, jos teon vakavuus edellyttäisi vankeusrangaistusta, värväyksestä terrorismirikoksen tekemiseen, terrorismirikoksen rahoittamisesta, terroristin rahoittamisesta, terroristiryhmän rahoittamisesta tai matkustamisesta terrorismirikoksen tekemistä varten, jos teon vakavuus edellyttäisi vankeusrangaistusta;
 12) törkeästä vahingonteosta tai törkeästä datavahingonteosta;
 13) törkeästä petoksesta tai törkeästä kiskonnasta;
 14) törkeästä rahanväärennyksestä;
-15) törkeästä ympäristön turmelemisesta; tai
+15) törkeästä ympäristön turmelemisesta; taikka
 16) törkeästä huumausainerikoksesta.
 
 Lupa telekuunteluun voidaan antaa myös, kun jotakuta on syytä epäillä liike- tai ammattitoimintaan liittyvästä:
