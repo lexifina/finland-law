@@ -1,6 +1,6 @@
-# 5 c § Terrorismirikoksen tekemistä varten tapahtuvan matkustamisen edistäminen
+# 5 c § Matkustaminen terrorismirikoksen tekemistä varten
 Luku: 34 a luku Terrorismirikoksista
 
-Joka edistääkseen 5 b §:n 1 momentissa tarkoitetun rikoksen tekemistä neuvoin, toimin tai muilla tavoin auttaa toista, on tuomittava terrorismirikoksen tekemistä varten tapahtuvan matkustamisen edistämisestä sakkoon tai vankeuteen enintään yhdeksi vuodeksi.
+Joka matkustaa toiseen valtioon tehdäkseen siellä 1, 1 a, 2–4, 4 a–4 c, 5, 5 a tai 5 b §:ssä tarkoitetun rikoksen, on tuomittava, jollei teko ole jonkin mainitun pykälän mukaan rangaistava, matkustamisesta terrorismirikoksen tekemistä varten sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
-Edellä 1 momentissa tarkoitettuun tekoon ei sovelleta 5 luvun 6 §:n säännöksiä avunannosta.
+Yritys on rangaistava.

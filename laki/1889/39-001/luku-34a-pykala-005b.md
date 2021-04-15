@@ -1,6 +1,8 @@
-# 5 b § Matkustaminen terrorismirikoksen tekemistä varten
+# 5 b § Terroristiryhmän rahoittaminen
 Luku: 34 a luku Terrorismirikoksista
 
-Joka matkustaa toiseen valtioon tehdäkseen siellä 1, 1 a, 2–4, 4 a–4 c, 5 tai 5 a §:ssä tarkoitetun rikoksen, on tuomittava, jollei teko ole jonkin mainitun pykälän mukaan rangaistava, matkustamisesta terrorismirikoksen tekemistä varten sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+Joka suoraan tai välillisesti antaa tai kerää varoja rahoittaakseen tai tietoisena siitä, että niillä rahoitetaan 6 §:n 2 momentissa tarkoitettua terroristiryhmää, on tuomittava terroristiryhmän rahoittamisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kuudeksi vuodeksi.
 
 Yritys on rangaistava.
+
+Mitä edellä tässä pykälässä säädetään, ei sovelleta, jos teko on rangaistava 5 §:n mukaan tai teosta säädetään muualla laissa yhtä ankara tai ankarampi rangaistus.
