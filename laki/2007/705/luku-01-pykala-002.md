@@ -9,3 +9,5 @@ Tämän lain mukaista menettelyä noudatetaan siltä osin kuin siitä määrät�
 5) Euroopan unionin eräiden toimielinten tuomiota tai päätöstä;
 6) osamaksukaupalla myytyä irtainta esinettä;
 7) muuta kuin oikeudenkäymiskaaren 7 luvussa tarkoitettua turvaamistointa.
+
+Sen lisäksi, mitä tässä laissa säädetään, henkilötietojen käsittelystä ulosottoasian yhteydessä säädetään luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2016/679 (yleinen tietosuoja-asetus), jäljempänä tietosuoja-asetus, ja tietosuojalaissa (1050/2018).
