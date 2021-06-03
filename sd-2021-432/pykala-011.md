@@ -1,0 +1,3 @@
+# 11 § Tietojen luovuttaminen rikosten ennalta estämiseksi, paljastamiseksi ja selvittämiseksi
+
+Käteisvaroja koskevien ilmoitusten tietoja voidaan luovuttaa asetuksen 9–11 artiklassa säädetyn lisäksi ainoastaan rikoslain 34 a luvussa tarkoitetun terrorismirikoksen, huumausainerikoksen, lahjuksen antamisen tai ottamisen, lahjomisen tai lahjuksen ottamisen elinkeinotoiminnassa taikka muun rikoksen, josta voi enimmillään seurata yli yhden vuoden vankeusrangaistus, tai osana järjestäytyneen rikollisryhmän toimintaa tehdyn tai tehtävän rikoksen ennalta estämiseksi, paljastamiseksi ja selvittämiseksi.
