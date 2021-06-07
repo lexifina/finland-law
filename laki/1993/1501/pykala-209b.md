@@ -8,7 +8,7 @@ Myyjän on annettava ostajalle lasku, jos ostajana on elinkeinonharjoittaja tai 
 3) sellaisesta myynnistä toisessa jäsenvaltiossa, joka olisi 4, 5, 27, 34, 36, 37, 39 ja 45 §:n, 59 §:n 1–3 ja 5–6 kohdan sekä 60 ja 61 §:n nojalla veroton, jos se olisi tapahtunut Suomessa.
 
 Lasku on annettava myös:
-1) 63 a §:ssä ja 72 b §:n 4 momentissa tarkoitetusta myynnistä, kun ostaja on yksityishenkilö;
+1) 19 a §:ssä ja 72 b §:n 4 momentissa tarkoitetusta myynnistä, jos ostaja on yksityishenkilö;
 2) 130 a §:n 1 momentissa tarkoitetun tavaran tai palvelun myynnistä kunnalle.
 
 Myyjän on annettava lasku myös 1 ja 2 momentissa tarkoitettuja myyntejä koskevista:
@@ -16,3 +16,5 @@ Myyjän on annettava lasku myös 1 ja 2 momentissa tarkoitettuja myyntejä koske
 2) 78 §:n 1 momentin 1, 2 ja 4 kohdassa sekä 78 a §:ssä tarkoitetuista oikaisueristä ja korvauksista, jollei niitä ole huomioitu aiemmin annetuissa laskuissa.
 
 Ostajan laatima lasku katsotaan myyjän antamaksi, jos myyjä ja ostaja ovat sopineet asiasta ja jos on olemassa järjestely, jonka mukaan myyjä hyväksyy laskun.
+
+Poiketen siitä, mitä 1 momentissa ja 2 momentin 1 kohdassa säädetään, laskua ei tarvitse antaa myynneistä, jotka on ilmoitettava 133 k §:ssä tarkoitetussa erityisjärjestelmässä.

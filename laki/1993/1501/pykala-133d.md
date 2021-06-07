@@ -1,6 +1,6 @@
 # 133 d §
 Osa: I OSA
-Luku: 12 a luku Radio- ja televisiolähetyspalveluja, sähköisiä palveluja sekä telepalveluja koskevat erityisjärjestelmät
-Väliotsikko: Yhteisöön sijoittautumattomiin verovelvollisiin sovellettava erityisjärjestelmä
+Luku: 12 a luku Palvelujen myyntiä, tavaroiden etämyyntiä sekä eräitä sähköistä rajapintaa käyttämällä tehtäviä tavaroiden myyntejä koskevat erityisjärjestelmät
+Väliotsikko: Yhteisöön sijoittautumattomia palvelujen myyjiä koskeva erityisjärjestelmä
 
-Yhteisöön sijoittautumattomalla verovelvollisella on oikeus käyttää tässä pykälässä ja 133 e–133 j §:ssä tarkoitettua erityisjärjestelmää, jos verovelvollinen myy radio- ja televisiolähetyspalvelun, sähköisen palvelun tai telepalvelun muulle kuin elinkeinonharjoittajalle, joka on sijoittautunut Yhteisöön tai jonka kotipaikka tai vakinainen asuinpaikka on Yhteisössä.
+Tämän lain 133 e §:n 1 momentissa tarkoitetulla Yhteisöön sijoittautumattomalla verovelvollisella on oikeus käyttää tässä pykälässä ja 133 f–133 j §:ssä tarkoitettua erityisjärjestelmää, jos verovelvollinen myy palveluja muulle kuin elinkeinonharjoittajalle Yhteisössä.

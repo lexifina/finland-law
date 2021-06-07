@@ -1,9 +1,9 @@
 # 133 e §
 Osa: I OSA
-Luku: 12 a luku Radio- ja televisiolähetyspalveluja, sähköisiä palveluja sekä telepalveluja koskevat erityisjärjestelmät
+Luku: 12 a luku Palvelujen myyntiä, tavaroiden etämyyntiä sekä eräitä sähköistä rajapintaa käyttämällä tehtäviä tavaroiden myyntejä koskevat erityisjärjestelmät
 
 Yhteisöön sijoittautumattomalla verovelvollisella tarkoitetaan tätä lukua sovellettaessa elinkeinonharjoittajaa, jolla ei ole Yhteisössä liiketoiminnan kotipaikkaa eikä kiinteää toimipaikkaa.
 
-Tunnistamisjäsenvaltiona pidetään 133 d §:ssä tarkoitettua erityisjärjestelmää sovellettaessa jäsenvaltiota, johon Yhteisöön sijoittautumaton verovelvollinen ottaa yhteyttä ilmoittaakseen 133 d §:ssä tarkoitetun toiminnan alkamisesta.
-
-Kulutusjäsenvaltiolla tarkoitetaan jäsenvaltiota, jossa radio- ja televisiolähetyspalvelu, sähköinen palvelu tai telepalvelu arvonlisäverodirektiivin 58 artiklan mukaan suoritetaan.
+Edellä 133 d §:ssä tarkoitettua erityisjärjestelmää koskevia säännöksiä sovellettaessa:
+1) tunnistamisjäsenvaltiolla tarkoitetaan jäsenvaltiota, jossa verovelvollinen ilmoittaa käyttävänsä tätä erityisjärjestelmää;
+2) kulutusjäsenvaltiolla tarkoitetaan jäsenvaltiota, jossa palvelu arvonlisäverodirektiivin V osaston 3 luvun mukaan suoritetaan.

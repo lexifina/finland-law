@@ -22,7 +22,7 @@ Edellä 209 b §:ssä tarkoitetussa laskussa on oltava seuraavat tiedot millä t
 17) jos sijoituskullan myyjä valitsee myynnin verollisuuden 43 c §:ssä tarkoitetulla tavalla, myynnin verollisuutta osoittava merkintä;
 18) jos laskulla muutetaan aikaisemmin annettua laskua, yksiselitteinen viittaus tähän laskuun.
 
-Jos osa 1 momentissa tarkoitetuista tiedoista sisältyy ostajalle aiemmin annettuun tai ostajalla olevaan asiakirjaan, näiden asiakirjojen katsotaan yhdessä muodostavan laskun. Edellytyksenä on kuitenkin, että jälkimmäinen asiakirja sisältää yksiselitteisen viittauksen aikaisempaan asiakirjaan. Mitä tässä momentissa säädetään, ei kuitenkaan sovelleta 63 a §:ssä tarkoitettuun tavaran kaukomyyntiin, 72 b §:ssä tarkoitettuun tavaran yhteisömyyntiin taikka sellaiseen toisessa jäsenvaltiossa tapahtuvaan tavaran tai palvelun myyntiin, josta ostaja on 2 a tai 9 §:ää vastaavan säännöksen perusteella verovelvollinen.
+Jos osa 1 momentissa tarkoitetuista tiedoista sisältyy ostajalle aiemmin annettuun tai ostajalla olevaan asiakirjaan, näiden asiakirjojen katsotaan yhdessä muodostavan laskun. Edellytyksenä on kuitenkin, että jälkimmäinen asiakirja sisältää yksiselitteisen viittauksen aikaisempaan asiakirjaan. Mitä tässä momentissa säädetään, ei kuitenkaan sovelleta 19 a §:ssä tarkoitettuun tavaroiden etämyyntiin, 72 b §:ssä tarkoitettuun tavaran yhteisömyyntiin eikä sellaiseen toisessa jäsenvaltiossa tapahtuvaan tavaran tai palvelun myyntiin, josta ostaja on 2 a tai 9 §:ää vastaavan säännöksen perusteella verovelvollinen.
 
 Kun samalle vastaanottajalle lähetetään useita sähköisiä laskuja sisältävä erä, yksittäisiin laskuihin liittyvät yhteiset tiedot tarvitsee mainita ainoastaan kerran, jos tiedot kunkin laskun osalta ovat saatavissa kokonaisuudessaan.
 

@@ -1,6 +1,6 @@
 # 133 f §
 Osa: I OSA
-Luku: 12 a luku Radio- ja televisiolähetyspalveluja, sähköisiä palveluja sekä telepalveluja koskevat erityisjärjestelmät
+Luku: 12 a luku Palvelujen myyntiä, tavaroiden etämyyntiä sekä eräitä sähköistä rajapintaa käyttämällä tehtäviä tavaroiden myyntejä koskevat erityisjärjestelmät
 
 Yhteisöön sijoittautumattoman verovelvollisen, joka valitsee tunnistamisjäsenvaltioksi Suomen, on tehtävä sähköisesti ilmoitus 133 d §:ssä tarkoitetun toiminnan aloittamisesta Verohallinnolle.
 

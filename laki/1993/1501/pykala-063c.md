@@ -8,3 +8,5 @@ Jos samat tavarat myydään useamman kerran peräkkäin ja ne kuljetetaan Suomes
 Jos väliportaan myyjä on kuitenkin ilmoittanut edelliselle myyjälle kuljetuksen alkamisjäsenvaltiossa annetun arvonlisäverotunnisteensa, ainoastaan väliportaan myyjän tekemä myynti katsotaan kuljetettavien tavaroiden myynniksi.
 
 Väliportaan myyjällä tarkoitetaan sellaista ketjuun kuuluvaa muuta kuin ketjun ensimmäistä myyjää, joka tai jonka puolesta kolmas osapuoli kuljettaa tavarat.
+
+Pykälää ei sovelleta 19 b §:n mukaisiin tavaroiden myynteihin.
