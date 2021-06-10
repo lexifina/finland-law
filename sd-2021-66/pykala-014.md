@@ -1,0 +1,3 @@
+# 14 § Euroopan syyttäjän ja valtuutetun Euroopan syyttäjän tiedonsaantioikeus
+
+Mitä syyttäjän tiedonsaantioikeudesta säädetään Syyttäjälaitoksesta annetun lain 22 §:ssä, sovelletaan myös Euroopan syyttäjään ja valtuutettuun Euroopan syyttäjään näiden hoitaessa EPPO-asetuksen mukaisia tehtäviään. Mitä tietojen luovuttamisesta syyttäjälle säädetään henkilötietojen käsittelystä poliisitoimessa annetussa laissa (616/2019), henkilötietojen käsittelystä Rajavartiolaitoksessa annetussa laissa (639/2019), henkilötietojen käsittelystä Tullissa annetussa laissa (650/2019) ja muussa laissa, sovelletaan myös tietojen luovuttamiseen Euroopan syyttäjälle ja valtuutetulle Euroopan syyttäjälle näiden hoitaessa EPPO-asetuksen mukaisia tehtäviään.
