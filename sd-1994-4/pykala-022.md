@@ -1,0 +1,4 @@
+# 22 § Todistajan, asiantuntijan ja esitutkinnassa kuultavan kieltäytymisoikeus
+Luku: 3 luku Erinäiset säännökset oikeusavun antamisesta
+
+Sillä, jota kuullaan vieraan valtion viranomaisen tekemän oikeusapupyynnön nojalla todistajana tai asiantuntijana Suomen tuomioistuimessa tai joka saapuu kuultavaksi esitutkintaan, on oikeus kieltäytyä todistamasta tai antamasta lausuntoa, jos hänellä on tähän oikeus tai velvollisuus Suomen tai pyynnön esittäneen valtion lain mukaan. Vieraan valtion laki otetaan huomioon, jos oikeus tai velvollisuus kieltäytyä todistamasta on todettu vieraan valtion tekemässä oikeusapupyynnössä tai jos pyynnön tehnyt vieraan valtion viranomainen tämän vahvistaa Suomen tuomioistuimen tai esitutkintaviranomaisen pyynnöstä taikka jos kieltäytymisperuste muutoin on tuomioistuimen tai esitutkintaviranomaisen tiedossa.

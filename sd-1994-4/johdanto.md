@@ -1,0 +1,2 @@
+Laki kansainvälisestä oikeusavusta rikosasioissa
+Eduskunnan päätöksen mukaisesti säädetään:

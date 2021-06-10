@@ -1,0 +1,6 @@
+# 28 § Todistajan, asiantuntijan ja esitutkinnassa kuultavan kieltäytymisoikeus
+Luku: 4 luku Erinäiset säännökset oikeusavun pyytämisestä vieraalta valtiolta
+
+Sillä, joka Suomen viranomaisen tekemän oikeusapupyynnön mukaisesti tiedoksi annetusta kutsusta saapuu vieraasta valtiosta kuultavaksi todistajana tai asiantuntijana Suomen tuomioistuimessa taikka kuulusteltavaksi esitutkinnassa, on oikeus kieltäytyä todistamasta tai antamasta lausuntoa, jos hänellä on tähän oikeus tai velvollisuus Suomen tai pyynnön vastaanottaneen vieraan valtion lain mukaan. Vieraan valtion laki otetaan huomioon, jos oikeus tai velvollisuus kieltäytyä todistamasta on todettu Suomen viranomaisen tekemään oikeusapupyyntöön annetussa vieraan valtion viranomaisen vastauksessa tai jos pyynnön vastaanottanut vieraan valtion viranomainen tämän vahvistaa Suomen tuomioistuimen tai esitutkintaviranomaisen pyynnöstä taikka jos kieltäytymisperuste muutoin on tuomioistuimen tai esitutkintaviranomaisen tiedossa.
+
+Suomen viranomaisen kutsusta vieraasta valtiosta saapuneen todistajan, asiantuntijan, asianomistajan tai muun rikosasian selvittämiseksi kuultavan sekä rikosasian vastaajan ja rikoksesta epäillyn koskemattomuudesta säädetään oikeudenkäyntiin ja esitutkintaan osallistuvien henkilöiden koskemattomuudesta eräissä tapauksissa annetussa laissa (11/94).
