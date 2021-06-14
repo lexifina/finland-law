@@ -1,0 +1,2 @@
+Laki luonnontuotteita keräävien ulkomaalaisten oikeudellisesta asemasta
+Eduskunnan päätöksen mukaisesti säädetään:
