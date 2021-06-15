@@ -7,6 +7,8 @@ Metsäkeskuksen on pidettävä toimialueellaan olevista yhteismetsistä julkista
 3) yhteismetsän toiminimen kirjoittamiseen oikeutetut henkilöt sekä heidän kotipaikkansa ja osoitteensa; sekä
 4) tieto 50 §:ssä tarkoitetusta ulosmittauksesta sekä ulosmittauksen raukeamisesta ja lakkaamisesta.
 
-Yhteismetsän osakaskunnan on viivytyksettä ilmoitettava metsäkeskukselle rekisteriin merkittäväksi 1 momentin 2 ja 3 kohdassa tarkoitetut tiedot.
+Yhteismetsän osakaskunnan on viivytyksettä ilmoitettava metsäkeskukselle rekisteriin merkittäväksi 1 momentin 2 ja 3 kohdassa tarkoitetut tiedot. Lisäksi rekisteriin voidaan merkitä 1 momentin 2 ja 3 kohdassa mainittujen henkilöiden muut yhteystiedot.
 
-Mitä 1 momentissa mainittuun rekisteriin on merkitty, katsotaan tulleen sivullisen tietoon.
+Rekisteri on osa Suomen metsäkeskuksen metsätietojärjestelmästä annetussa laissa (419/2011) tarkoitettua metsäkeskuksen metsätietojärjestelmää. Sen estämättä, mitä mainitun lain ja viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 16 §:n 3 momentissa säädetään tietojen luovuttamisesta, jokaisella on oikeus saada 1 momentin 2 ja 3 kohdassa tarkoitetut tiedot osoitteita lukuun ottamatta. Mitä rekisteriin on merkitty, katsotaan tulleen sivullisen tietoon.
+
+Edellä 1 momentissa mainitut tiedot osoitteita lukuun ottamatta voidaan julkaista metsäkeskuksen verkkosivulla tietopalveluna. Tietopalvelusta voidaan hakea tietoja rajattuna hakuna käyttäen hakuperusteena yhteismetsän osakaskunnan nimeä tai muuta yhteismetsän yksilöivää tietoa. Luonnollisen henkilön nimeä, osoitetta tai muuta yhteystietoa ei saa käyttää hakuperusteena.
