@@ -1,3 +1,3 @@
 # 8 § Raportointi
 
-Maaseutuvirasto laatii FLEGT-lupa-asetuksen 8 artiklan 1 kohdassa tarkoitetun kertomuksen ja toimittaa sen Euroopan komissiolle.
+Ruokaviraston on asetettava yleisön ja komission saataville tiedot FLEGT-lupa-asetuksen soveltamisesta kyseisen asetuksen 8 artiklassa edellytetyllä tavalla.
