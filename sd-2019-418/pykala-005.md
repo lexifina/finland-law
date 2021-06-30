@@ -10,6 +10,8 @@ Jakelija on velvollinen toimittamaan biopolttoöljyä kulutukseen. Biopolttoölj
 7) 9,0 prosenttia vuonna 2027;
 8) 10,0 prosenttia vuonna 2028 ja sen jälkeen.
 
-Jakelijan on osoitettava biopolttoaineista ja bionesteistä annetun lain (393/2013) mukaisesti, että 1 momentissa tarkoitetut biopolttoöljyt täyttävät mainitussa laissa bionesteille säädetyt kestävyyskriteerit.
+Jakelijan on osoitettava biopolttoaineista, bionesteistä ja biomassapolttoaineista annetun lain (393/2013) mukaisesti, että 1 momentissa tarkoitetut biopolttoöljyt täyttävät mainitussa laissa bionesteille säädetyt kestävyyskriteerit.
 
-Jakeluvelvoitteesta saa enintään 7 prosenttiyksikköä täyttää biopolttoöljyillä, jotka on tuotettu jakeluvelvoitelain 5 §:n 5 momentissa tarkoitetuista raaka-aineista. Rajoitusta ei kuitenkaan sovelleta, jos kyse on jakeluvelvoitelain liitteessä tarkoitetusta raaka-aineesta. Jos jakelijalla on jakeluvelvoite myös jakeluvelvoitelain nojalla, enimmäisosuus saa kuitenkin olla yhteensä enintään 7 prosenttiyksikköä jakeluvelvoitelain 5 §:n 1 momentissa tarkoitetusta energiasisällön kokonaismäärästä.
+Ravinto- ja rehukasveista tuotettujen biopolttoöljyjen osuus saa olla enintään Energiaviraston uusiutuvien polttoaineiden käytön edistämisestä liikenteessä annetun lain (446/2007), jäljempänä jakeluvelvoitelaki, 5 §:n 7 momentin nojalla vahvistaman enimmäisosuuden verran jakeluvelvoitteesta. Jos jakelijalla on jakeluvelvoite myös jakeluvelvoitelain nojalla, enimmäisosuus saa kuitenkin olla yhteensä enintään Energiaviraston vahvistaman enimmäisosuuden verran jakeluvelvoitelain 5 §:n 1 momentissa tarkoitetusta energiasisällön kokonaismäärästä.
+
+Sellaisten ravinto- ja rehukasveista tuotettujen bionesteiden, joihin liittyy suuria epäsuoran maankäytön muutoksen riskejä, osuus jakeluvelvoitteesta ei saa ylittää tällaisten polttoaineiden osuutta vuonna 2019 kulutetun biopolttoöljyn energiasisällön kokonaismäärästä. Rajoitusta ei kuitenkaan sovelleta, jos kyseinen bioneste-erä on sertifioitu sellaisena bionesteenä, josta todennäköisesti ei aiheudu epäsuoria maankäytön muutoksia.
