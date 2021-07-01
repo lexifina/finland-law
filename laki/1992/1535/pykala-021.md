@@ -4,12 +4,12 @@ Luku: 3 luku Kokonaan tai osittain verovapaat yhteisöt
 
 Tulon perusteella suorittavat veroa kunnalle 124 §:n 3 momentissa tarkoitetun tuloveroprosentin mukaan:
 1) valtio ja sen laitokset;
-3) kunta, kuntayhtymä, maakunta sekä näiden palveluksessa olevia varten perustettu eläkelaitos, eläkesäätiö tai -kassa tai muu vastaava eläkelaitos, -säätiö tai -kassa, joka saa avustusta yhteiskunnan varoista.
+2) kunta, kuntayhtymä, hyvinvointialue, hyvinvointiyhtymä, Ahvenanmaan maakunta sekä näiden palveluksessa olevia varten perustettu eläkelaitos, eläkesäätiö tai -kassa tai muu vastaava eläkelaitos, -säätiö tai -kassa, joka saa avustusta yhteiskunnan varoista.
 
 Evankelis-luterilainen kirkko, ortodoksinen kirkkokunta sekä muu uskonnollinen yhdyskunta ja niiden seurakunnat samoin kuin niiden palveluksessa olevia varten perustettu eläkelaitos, eläkesäätiö ja eläkekassa suorittavat veroa kunnalle 124 §:n 3 momentissa tarkoitetun tuloveroprosentin mukaan.
 
 Valtio ja sen laitokset suorittavat veroa vain maatilojensa ja niihin verrattavien muiden kiinteistöjensä tuottamista tuloista, sellaisten muiden kiinteistöjensä tuloista, joita ei käytetä yleisiin tarkoituksiin, sekä yksityisyrityksiin verrattavien teollisuus- ja muiden liikkeidensä tuloista. Valtio ei kuitenkaan ole verovelvollinen tulosta, jonka se saa pääasiallisesti valtion laitosten tarpeiden tyydyttämiseksi toimivasta liike- tai tuotantolaitoksesta, laiva-, lento- tai autoliikenteestä, rautateistä, kanavista, satamista taikka posti-, tele- ja radiolaitoksista. Valtiovarainministeriö määrää, miten valtion tulonhankkimistoiminta jakautuu verotusyksikköihin.
 
-Maakunta, kunta ja kuntayhtymä, evankelisluterilainen kirkko ja ortodoksinen kirkkokunta sekä niiden seurakunta ja muu uskonnollinen yhdyskunta ovat verovelvollisia 1 ja 2 momentissa tarkoitetulla tavalla ainoastaan elinkeinotulosta ja muuhun kuin yleiseen tai yleishyödylliseen tarkoitukseen käytetyn kiinteistön tai kiinteistön osan tuottamasta tulosta. Kunta ei ole verovelvollinen omalla alueellaan harjoittamansa elinkeinotoiminnan tuottamasta tulosta eikä omalla alueellaan sijaitsevan kiinteistön tuottamasta tulosta.
+Hyvinvointialue, hyvinvointiyhtymä, Ahvenanmaan maakunta, kunta ja kuntayhtymä, evankelisluterilainen kirkko ja ortodoksinen kirkko sekä niiden seurakunta ja muu uskonnollinen yhdyskunta ovat verovelvollisia 1 ja 2 momentissa tarkoitetulla tavalla ainoastaan elinkeinotulosta ja muuhun kuin yleiseen tai yleishyödylliseen tarkoitukseen käytetyn kiinteistön tai kiinteistön osan tuottamasta tulosta. Kunta ei ole verovelvollinen omalla alueellaan harjoittamansa elinkeinotoiminnan tuottamasta tulosta eikä omalla alueellaan sijaitsevan kiinteistön tuottamasta tulosta.
 
 Kiinteistön tuottamana tulona pidetään myös metsätalouden pääomatuloa.

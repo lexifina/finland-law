@@ -8,7 +8,7 @@ Veronalaista tuloa ei ole:
 3) asumisoikeustalon omistajan saama asumisoikeusmaksu, jonka asumisoikeusasunnoista annetussa laissa (650/90) tarkoitettu asumisoikeuden saaja suorittaa asumisoikeutta perustettaessa;
 4) Pohjoismaiden Investointipankin jäsenmaan saama osuus pankin jakamasta ylijäämästä;
 5) Pohjoismaiden ympäristörahoitusyhtiön jäsenvaltion osuus yhtiön voitosta;
-6) valtiolta, kunnalta tai muulta julkisyhteisöltä käypää alempana korkona saatu korkotuki;
+6) valtiolta, hyvinvointialueelta, kunnalta tai muulta julkisyhteisöltä käypää alempana korkona saatu korkotuki;
 7) kestävän metsätalouden rahoituslain (544/2007) nojalla saatu etuus;
 8) luonnolliselle henkilölle tai kuolinpesälle muuhun kuin tulonhankkimistoimintaan liittyvien valuuttakurssivoittojen yhteismäärä enintään 500 euroon asti vuodessa;
 9) luonnollisen henkilön osuuskunnasta jäsenyyden perusteella elantomenojen vähentymisenä saama etu, joka muodostuu ostoista käypää hintaa alempaan hintaan, joka ei alita osuuskunnalle hyödykkeiden tai palveluiden tuottamisesta aiheutuneita kustannuksia;

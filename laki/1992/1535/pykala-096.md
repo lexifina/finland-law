@@ -7,7 +7,7 @@ Verovelvollisella on oikeus vähentää puhtaasta ansiotulostaan lakisääteinen
 
 Verovelvollisen oman tai hänen puolisonsa eläkevakuutuksen maksujen vähennyskelpoisuuden edellytyksenä on lisäksi, ettei saman vakuutuksen maksuja ole vähennetty elinkeinotulosta tai maatalouden tulosta.
 
-Pakollisen eläkevakuutuksen maksut vähennetään sen puolison ansiotuloista, joka on vaatinut vähennystä. Vaatimus on esitettävä ennen vähennysvuodelta toimitettavan verotuksen päättymistä. Jollei vähennystä voida tehdä siten kuin puolisot ovat sitä vaatineet, se tehdään ensisijaisesti sen puolison tuloista, jonka valtionverotuksen puhtaan ansiotulon määrä on suurempi.
+Pakollisen eläkevakuutuksen maksut vähennetään sen puolison ansiotuloista, joka on vaatinut vähennystä. Vaatimus on esitettävä ennen vähennysvuodelta toimitettavan verotuksen päättymistä. Jollei vähennystä voida tehdä siten kuin puolisot ovat sitä vaatineet, se tehdään ensisijaisesti sen puolison tuloista, jonka puhtaan ansiotulon määrä on suurempi.
 
 Mitä edellä tässä pykälässä säädetään pakollisesta eläkevakuutuksesta, sovelletaan vastaavasti yrittäjien eläkelain (468/1969) ja maatalousyrittäjien eläkelain (467/1969) mukaiseen eläkevakuutukseen, jonka ottaminen ei työtulon vähäisyyden tai viljelmän koon johdosta ole pakollista. Sama koskee vastaavaa ulkomaista eläkevakuutusta.
 

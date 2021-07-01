@@ -7,7 +7,7 @@ Tulon hankkimisesta johtuneita menoja ovat muun ohessa:
 2) yhtymän, yhteisetuuden ja kuolinpesän tulonhankinnassaan työskennelleelle osakkaalleen maksama kohtuulliseksi katsottava palkka;
 3) verovelvollisen tulonhankinnassa työskennelleille palkansaajille huoltoapulain 5 §:n nojalla annettu elatus sekä heidän ja heidän omaistensa eläkkeet;
 4) ammattikirjallisuuden sekä tutkimusvälineiden ja tieteellisen kirjallisuuden hankkimisesta sekä tieteellisestä työstä ja taiteen harjoittamisesta muutoin johtuneet menot, jos niitä ei ole suoritettu 82 §:n 1 momentin 1 kohdassa tarkoitetulla stipendillä tai apurahalla;
-5) valtiollisen luottamustehtävän hoitamisesta välittömästi aiheutuneet kohtuulliset kustannukset ja kunnallisista luottamustoimista maksetuista kokouspalkkioista peritty luottamushenkilömaksu;
+5) valtiollisen luottamustehtävän hoitamisesta välittömästi aiheutuneet kohtuulliset kustannukset sekä kunnallisista tai hyvinvointialueen tai hyvinvointiyhtymän luottamustoimista maksetuista kokouspalkkioista peritty luottamushenkilömaksu;
 6) työmarkkinajärjestöjen jäsenmaksut ja työttömyyskassamaksut;
 7) maatalousyrittäjien eläkelaitokselle maksetut pakolliset eläkevakuutusmaksut, tapaturmavakuutusmaksut sekä ryhmähenkivakuutuksen maksut siltä osin kuin ne kohdistuvat metsätalouden pääomatuloon tai porotalouden tuloon.
 
