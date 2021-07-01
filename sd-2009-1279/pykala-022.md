@@ -1,7 +1,7 @@
 # 22 § Kasvinjalostajanoikeusrekisteri
 Luku: 4 luku Kasvinjalostajanoikeuden hyväksyminen
 
-Eviran pitämään kasvinjalostajanoikeusrekisteriin merkitään hyväksytyistä kasvinjalostajanoikeuksista seuraavat tiedot:
+Ruokaviraston pitämään kasvinjalostajanoikeusrekisteriin merkitään hyväksytyistä kasvinjalostajanoikeuksista seuraavat tiedot:
 1) kasvinjalostajanoikeuden rekisterinumero;
 2) kasvinjalostajanoikeuden haltijan ja mahdollisen asiamiehen nimi ja yhteystiedot, yritys- ja yhteisötunnus, kotipaikka, ilmoitus asiamiehen vaihtumisesta sekä jalostajan nimi ja yhteystiedot;
 3) mihin kasvisukuun ja -lajiin lajike kuuluu sekä lajikekuvauksen tunnistetiedot;
@@ -11,11 +11,11 @@ Eviran pitämään kasvinjalostajanoikeusrekisteriin merkitään hyväksytyistä
 7) vuosimaksun maksaminen;
 8) myönnetty pakkolupa tai vastavuoroinen pakkolupa ja käyttölupa;
 9) panttioikeus;
-10) Eviran lainvoimaa vailla olevat päätökset, muutoksenhaut, ulosmittaukset, takavarikkoon asettamiset ja tuomioistuinten asiassa tekemät päätökset;
+10) Ruokaviraston lainvoimaa vailla olevat päätökset, muutoksenhaut, ulosmittaukset, takavarikkoon asettamiset ja tuomioistuinten asiassa tekemät päätökset;
 11) kasvinjalostajanoikeuden päättymispäivä.
 
-Jos merkinnän tekemistä rekisteriin ei voida välittömästi ratkaista, tulee rekisteriin merkitä, että merkinnän tekemistä on pyydetty.
+Jos merkinnän tekemistä rekisteriin ei voida välittömästi ratkaista, rekisteriin tulee merkitä, että merkinnän tekemistä on pyydetty.
 
-Kasvinjalostajanoikeusrekisteriin ja rekisterin asiakirjoihin sovelletaan muilta osin maaseutuelinkeinohallinnon tietojärjestelmästä annettua lakia.
+Kasvinjalostajanoikeusrekisteriin ja rekisterin asiakirjoihin sovelletaan muilta osin ruokahallinnon tietovarannosta annettua lakia.
 
 Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä rekisteriin tehtävien 1 momentin mukaisten merkintöjen sisällöstä.

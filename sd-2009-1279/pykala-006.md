@@ -7,4 +7,4 @@ Korvauksen on oltava selvästi pienempi kuin lajikkeen lisäysaineiston markkino
 
 Viljelijällä, jonka hallinnassa oleva peltopinta-ala on alle 10 hehtaaria, on oikeus korvausta maksamatta käyttää suojatun lajikkeen lisäysaineistoa 1 momentissa tarkoitetulla tavalla. Suojatun perunalajikkeen viljelystä on tällaisessa tapauksessa kuitenkin maksettava korvaus, jos lajikkeen viljelyala on suurempi kuin kaksi hehtaaria tai varhaisperunan katteenalaisessa viljelyssä suurempi kuin yksi hehtaari.
 
-Viljelijä on velvollinen antamaan pyydettäessä viranomaiselle ja kasvinjalostajanoikeuden haltijalle maksuvelvollisuuden toteamiseksi tarvittavan tiedon.
+Viljelijä on velvollinen antamaan pyydettäessä viranomaiselle ja kasvinjalostajanoikeuden haltijalle maksuvelvollisuuden toteamiseksi tarvittavat tiedot. Viranomaisille annettuihin tietoihin sovelletaan ruokahallinnon tietovarannosta annettua lakia (560/2021).

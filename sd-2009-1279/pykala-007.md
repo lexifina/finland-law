@@ -1,7 +1,7 @@
 # 7 § Oikeus saada suojattua lajiketta koskevia viljelytietoja
 Luku: 2 luku Kasvinjalostajanoikeus
 
-Kasvinjalostajanoikeuden haltijalla on oikeus saada 6 §:ssä säädetyn viljelijän maksuvelvollisuuden toteuttamiseksi tarvittavat seuraavat tiedot maaseutuelinkeinohallinnon tietojärjestelmästä annetussa laissa (284/2008) tarkoitetusta tietojärjestelmästä:
+Kasvinjalostajanoikeuden haltijalla on oikeus saada 6 §:ssä säädetyn viljelijän maksuvelvollisuuden toteuttamiseksi tarvittavat seuraavat tiedot ruokahallinnon tietovarannosta annetussa laissa tarkoitetusta ruokahallinnon tietovarannosta:
 1) viljelijän nimi ja yhteystiedot;
 2) tilatunnus;
 3) viljelijän hallinnassa oleva peltopinta-ala, jos se on suojatun perunalajikkeen osalta yli kaksi hehtaaria, varhaisperunan katteenalaisen viljelyn osalta yli hehtaari tai muiden lajikkeiden osalta yli 10 hehtaaria;
