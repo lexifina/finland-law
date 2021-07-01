@@ -1,7 +1,7 @@
 # 1 § Soveltamisala
 Luku: 1 luku Yleisiä säännöksiä
 
-Tässä laissa säädetään laivavarusteista ja neuvoston direktiivin 96/98/EY kumoamisesta annetussa Euroopan parlamentin ja neuvoston direktiivissä 2014/90/EU, jäljempänä laivavarustedirektiivi, tarkoitetuista varusteista.
+Tätä lakia sovelletaan laivavarusteista ja neuvoston direktiivin 96/98/EY kumoamisesta annetussa Euroopan parlamentin ja neuvoston direktiivissä 2014/90/EU, jäljempänä laivavarustedirektiivi, tarkoitettuihin varusteisiin.
 
 Tätä lakia sovelletaan suomalaiseen alukseen, jolle myönnetään turvallisuuskirjat jonkin seuraavista kansainvälisistä yleissopimuksista mukaisesti:
 1) ihmishengen turvallisuudesta merellä vuonna 1974 tehty kansainvälinen yleissopimus (SopS 11/1981), jäljempänä SOLAS-yleissopimus;
