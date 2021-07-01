@@ -3,4 +3,4 @@ Luku: 23 luku Liikennerikoksista
 
 Joka huomattavasti haittaa yleisen ilma-, raide- tai vesiliikenteen kulkua, on tuomittava liikenteen häirinnästä sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
 
-Tieliikenteen ja raitiovaunuliikenteen häirinnästä säädetään tieliikennelaissa.
+Yritys on rangaistava.

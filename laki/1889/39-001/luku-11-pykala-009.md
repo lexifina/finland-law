@@ -8,3 +8,5 @@ Joka
 on tuomittava, jollei teosta muualla laissa säädetä yhtä ankaraa tai ankarampaa rangaistusta, biologisen aseen kiellon rikkomisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kuudeksi vuodeksi.
 
 Biologisen aseen kiellon rikkomisesta tuomitaan myös se, joka harjoittaa tutkimustoimintaa 1 momentin 2 kohdassa tarkoitettua biologisen aseen valmistamista tai 3 kohdassa tarkoitettua sellaisen aseen tuottamista varten.
+
+Yritys on rangaistava.

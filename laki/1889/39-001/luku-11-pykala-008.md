@@ -8,3 +8,5 @@ Joka kemiallisten aseiden kehittämisen, tuotannon, varastoinnin ja käytön kie
 on tuomittava kemiallisen aseen kiellon rikkomisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kuudeksi vuodeksi.
 
 Kemiallisen aseen kiellon rikkomisesta tuomitaan myös se, joka toimittaa 1 momentissa tarkoitetun kemiallisen aseen tai harjoittaa tutkimustoimintaa sen tuottamista varten.
+
+Yritys on rangaistava.
