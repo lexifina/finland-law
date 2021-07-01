@@ -1,0 +1,2 @@
+Laki kuntien ja hyvinvointialueiden työnantajaedunvalvonnan järjestämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
