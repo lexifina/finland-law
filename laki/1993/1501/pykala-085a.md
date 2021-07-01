@@ -7,7 +7,7 @@ Seuraavien palvelujen myynnistä sekä seuraavien tavaroiden myynnistä, yhteis�
 2) majoitustilan tai käyntisataman käyttöoikeuden luovuttaminen;
 3) palvelu, jolla annetaan mahdollisuus liikunnan harjoittamiseen;
 4) teatteri-, sirkus-, musiikki- ja tanssiesitysten, elokuvanäytösten, näyttelyjen, urheilutapahtumien, huvipuistojen, eläintarhojen, museoiden sekä muiden vastaavien kulttuuri- ja viihdetilaisuuksien ja laitosten pääsymaksut;
-5) Yleisradio Oy:n valtion televisio- ja radiorahastosta saama määrä ja Ålands Radio och TV Ab:n saama korvaus Ahvenanmaan maakunnan hallituksen kantamista televisiomaksutuloista;
+5) Yleisradio Oy:n valtion televisio- ja radiorahastosta saama määrä ja Ålands Radio och TV Ab:n saama korvaus Ahvenanmaan maakunnan kantamista mediamaksutuloista;
 6) lääkelaissa (395/1987) tarkoitettu lääke, lääkelain 22 ja 22 a §:ssä tarkoitetut valmisteet, joita mainituissa lainkohdissa tarkoitettuun rekisteröintiin liitetyn ehdon mukaan saadaan myydä ainoastaan apteekkiliikkeestä, sekä kliininen ravintovalmiste ja niitä vastaava tuote sekä perusvoide silloin, kun ne oikeuttavat korvaukseen sairausvakuutuslain (1224/2004) perusteella;
 7) fyysisellä alustalla oleva tai sähköisesti luovutettava kirja;
 8) fyysisellä alustalla olevat tai sähköisesti luovutettavat sanoma- ja aikakauslehdet;

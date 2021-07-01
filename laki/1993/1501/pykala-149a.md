@@ -12,7 +12,7 @@ Mitä 1 ja 2 momentissa säädetään, ei sovelleta, jos:
 1) 1 momentissa tarkoitetun laskukaavan mukainen huojennus on negatiivinen;
 2) tilikaudelta tilitettävä vero on negatiivinen;
 3) verovelvollinen on ulkomaalainen, jolla ei ole Suomessa kiinteää toimipaikkaa; tai
-4) verovelvollinen on kunta.
+4) verovelvollinen on hyvinvointialue tai kunta.
 
 Huojennusta ei saada:
 1) metsätaloudesta tilitettävästä verosta;

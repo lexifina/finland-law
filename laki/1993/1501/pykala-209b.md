@@ -9,7 +9,7 @@ Myyjän on annettava ostajalle lasku, jos ostajana on elinkeinonharjoittaja tai 
 
 Lasku on annettava myös:
 1) 19 a §:ssä ja 72 b §:n 4 momentissa tarkoitetusta myynnistä, jos ostaja on yksityishenkilö;
-2) 130 a §:n 1 momentissa tarkoitetun tavaran tai palvelun myynnistä kunnalle.
+2) 130 a §:n 1 tai 2 momentissa tarkoitetun tavaran tai palvelun myynnistä kunnalle tai hyvinvointialueelle.
 
 Myyjän on annettava lasku myös 1 ja 2 momentissa tarkoitettuja myyntejä koskevista:
 1) ennakkomaksuista, ei kuitenkaan silloin, kun ne koskevat tavaroiden yhteisömyyntiä;

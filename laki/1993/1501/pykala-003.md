@@ -10,5 +10,6 @@ Edellä 1 momentissa tarkoitettuun liikevaihtoon luetaan verollisten myyntien, 5
 Jos myyjän tilikausi on lyhyempi tai pitempi kuin 12 kuukautta, 1 momentissa tarkoitettuna tilikauden liikevaihtona pidetään määrää, joka saadaan, kun myyjän tilikauden liikevaihto kerrotaan luvulla 12 ja jaetaan tilikauden kuukausien lukumäärällä. Kuukausiksi lasketaan täydet kalenterikuukaudet.
 
 Mitä 1 momentissa säädetään, ei sovelleta:
-1) ulkomaalaiseen, jolla ei ole Suomessa kiinteää toimipaikkaa; eikä
-2) kuntaan.
+1) ulkomaalaiseen, jolla ei ole Suomessa kiinteää toimipaikkaa;
+2) hyvinvointialueeseen; eikä
+3) kuntaan.
