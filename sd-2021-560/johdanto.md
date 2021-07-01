@@ -1,0 +1,2 @@
+Laki ruokahallinnon tietovarannosta
+Eduskunnan päätöksen mukaisesti säädetään:

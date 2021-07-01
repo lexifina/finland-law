@@ -1,0 +1,3 @@
+# 12 § Tietojen poistaminen rekisteristä
+
+Jollei laissa toisin säädetä, henkilötiedot poistetaan ruokahallinnon tietovarantoon sisältyvästä rekisteristä viimeistään kymmenen vuoden kuluttua siitä, kun asiakasta koskevia tietoja on viimeksi käsitelty. Tietoa ei kuitenkaan poisteta, jos tiedon säilyttäminen on välttämätöntä lakiin perustuvan tehtävän hoitamiseksi, vireillä olevan asian takia tai Euroopan unionin tai muun lainsäädännön mukaisen tarkastuksen suorittamiseksi taikka jos Euroopan unionin lainsäädännössä edellytetään tiedon säilyttämistä. Tieto on poistettava rekisteristä välittömästi sen jälkeen, kun käsittelylle ei ole laissa säädettyä perustetta.
