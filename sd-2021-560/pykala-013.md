@@ -1,0 +1,3 @@
+# 13 § Vastuu tietoaineistojen arkistoon siirtämistä koskevasta suunnittelusta ja tuhoamisesta
+
+Ruokavirasto huolehtii tietoaineistojen arkistointia tai tuhoamista koskevasta suunnittelusta sekä tietoaineistojen säilytysaikojen määrittämisestä ja tuhoamisesta niiden rekistereiden osalta, joita pidetään Ruokavirastosta annetun lain (371/2018) 2 §:n 1 momentin 1 kohdassa tarkoitettujen maksajavirastotehtävien hoitamista varten. Muilta osin tehtävistä huolehtii se rekisterinpitäjä, jonka käsittelyvastuulle tiedot kuuluvat, jollei rekisterinpitäjien kesken erikseen sovita, että Ruokavirasto huolehtii tehtävistä muun rekisterinpitäjän puolesta.
