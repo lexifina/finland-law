@@ -1,7 +1,7 @@
 # 4 § Määritelmät
 Luku: 1 luku Yleiset säännökset
 
-Viranomaisella tarkoitetaan tässä laissa valtion viranomaisia, kunnallisia viranomaisia, itsenäisiä julkisoikeudellisia laitoksia ja eduskunnan virastoja sekä Ahvenanmaan maakunnan viranomaisia niiden soveltaessa valtakunnan lainsäädäntöön kuuluvia säädöksiä. Mitä viranomaisesta säädetään, sovelletaan myös muuhun julkista hallintotehtävää hoitavaan.
+Viranomaisella tarkoitetaan tässä laissa valtion viranomaisia, hyvinvointialueiden ja hyvinvointiyhtymien viranomaisia, kunnallisia viranomaisia, itsenäisiä julkisoikeudellisia laitoksia ja eduskunnan virastoja sekä Ahvenanmaan maakunnan viranomaisia niiden soveltaessa valtakunnan lainsäädäntöön kuuluvia säädöksiä. Mitä viranomaisesta säädetään, sovelletaan myös muuhun julkista hallintotehtävää hoitavaan.
 
 Koulutuksen järjestäjällä tarkoitetaan tässä laissa sitä, joka järjestää lakiin perustuvaa opetusta tai koulutusta.
 
