@@ -9,9 +9,9 @@ Maaseutuelinkeinohallinnon tietojärjestelmästä annetussa laissa (284/2008) ta
 
 Liikenteen palveluista annetun lain (320/2017) 216 §:ssä tarkoitetun rekisterinpitäjän on toimitettava Verohallinnolle verotusta varten tarpeelliset tieliikenteeseen liittyvät liikenneasioiden rekisteriin tallennetut tiedot.
 
-Valtion ja kunnan viranomaisen on toimitettava Verohallinnolle verotusta varten tarpeelliset, hallussaan olevat tiedot kiinteistöistä, niillä olevista rakennuksista, maapohjan ja rakennusten ominaisuuksista, kaavoituksesta ja omistajista.
+Valtion, hyvinvointialueen ja kunnan viranomaisen on toimitettava Verohallinnolle verotusta varten tarpeelliset, hallussaan olevat tiedot kiinteistöistä, niillä olevista rakennuksista, maapohjan ja rakennusten ominaisuuksista, kaavoituksesta ja omistajista.
 
-Valtion ja kunnan viranomaisen sekä muun julkisyhteisön on toimitettava Verohallinnolle verotusta varten tarpeelliset, hallussaan olevat tiedot myöntämistään elinkeino-, työllistämis- ja niihin verrattavista tuista ja avustuksista sekä niiden saajista ja maksetuista määristä. Tiedonantovelvollisuus koskee myös muuta yhteisöä, jonka myöntämien edellä tarkoitettujen tukien ja avustusten rahoitus tapahtuu kokonaan tai osaksi julkisista varoista.
+Valtion, hyvinvointialueen ja kunnan viranomaisen sekä muun julkisyhteisön on toimitettava Verohallinnolle verotusta varten tarpeelliset, hallussaan olevat tiedot myöntämistään elinkeino-, työllistämis- ja niihin verrattavista tuista ja avustuksista sekä niiden saajista ja maksetuista määristä. Tiedonantovelvollisuus koskee myös muuta yhteisöä, jonka myöntämien edellä tarkoitettujen tukien ja avustusten rahoitus tapahtuu kokonaan tai osaksi julkisista varoista.
 
 Henkilötietojen käsittelystä maahanmuuttohallinnossa annetussa laissa (615/2020) tarkoitetun rekisterinpitäjän on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot ulkomaalaisen Suomessa oleskelusta, työnantajasta ja palvelussuhteesta sekä elinkeinotoiminnasta.
 

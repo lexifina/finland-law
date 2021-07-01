@@ -9,7 +9,7 @@ Työnantajan tai muun suorituksenmaksajan on toimitettava Verohallinnolle tiedot
 
 Työkyvyttömyyseläkkeen maksajan on toimitettava Verohallinnolle invalidivähennyksen myöntämistä varten tarpeelliset eläkkeensaajia ja eläkettä koskevat tiedot.
 
-Luotto- ja rahoituslaitoksen, valtion, kunnan, vakuutus- ja eläkelaitoksen, huoltokonttorin ja työnantajan on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot verovelvolliselle annetusta lainasta, sen käyttötarkoituksesta, pääomasta sekä lainasta maksetusta korosta.
+Luotto- ja rahoituslaitoksen, valtion, hyvinvointialueen, kunnan, vakuutus- ja eläkelaitoksen, huoltokonttorin ja työnantajan on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot verovelvolliselle annetusta lainasta, sen käyttötarkoituksesta, pääomasta sekä lainasta maksetusta korosta.
 
 Luotto- ja rahoituslaitoksen, Valtiokonttorin sekä muun arvopaperikauppaa tai arvopapereiden välitystoimintaa harjoittavan on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot verovelvollisen suorittamasta jälkimarkkinahyvityksestä.
 
@@ -21,7 +21,7 @@ Sijoituspalvelulaissa tarkoitetun sijoituspalveluyrityksen ja ulkomaisen sijoitu
 
 Kansaneläkelaitoksen on toimitettava Verohallinnolle opintolainavähennyksen myöntämistä varten tarpeelliset tiedot opintolainavähennykseen oikeutetuista verovelvollisista, vähennykseen oikeuttavan tutkinnon suorittamisvuodesta, opintolainavähennyksen enimmäismäärästä sekä vähennykseen oikeutettujen verovelvollisten opintolainan lyhennyksistä.
 
-Kunnan ja kuntayhtymän, joka perii maksamistaan palkkioista tuloverolain 31 §:n 1 momentin 5 kohdassa tarkoitettuja luottamushenkilömaksuja, on toimitettava Verohallinnolle tarpeelliset tiedot perimistään luottamushenkilömaksuista. Luottamushenkilömaksun saajan on toimitettava Verohallinnolle tarpeelliset tiedot niistä luottamushenkilömaksuista, jotka verovelvollinen on itse suoraan maksanut luottamushenkilömaksun saajalle.
+Kunnan, kuntayhtymän, hyvinvointialueen ja hyvinvointiyhtymän, joka perii maksamistaan palkkioista tuloverolain 31 §:n 1 momentin 5 kohdassa tarkoitettuja luottamushenkilömaksuja, on toimitettava Verohallinnolle tarpeelliset tiedot perimistään luottamushenkilömaksuista. Luottamushenkilömaksun saajan on toimitettava Verohallinnolle tarpeelliset tiedot niistä luottamushenkilömaksuista, jotka verovelvollinen on itse suoraan maksanut luottamushenkilömaksun saajalle.
 
 Sijoitustoiminnan verohuojennuksesta verovuosina 2013–2015 annetun lain (993/2012) mukaisen sijoituksen vastaanottaneen kohdeyhtiön on annettava sijoituksesta Verohallinnolle vuosi-ilmoitus. Verohallinto antaa tarkemmat määräykset annettavista tiedoista, tietojen antamisen ajankohdasta ja tavasta.
 
