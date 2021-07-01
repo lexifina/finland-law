@@ -1,11 +1,14 @@
-# 12 § Määritelmät
+# 12 § Maksuvälinerikos
 Luku: 37 luku Maksuvälinerikoksista
 
-Tässä luvussa tarkoitetaan:
-1) rahalla seteleitä ja metallirahoja, jotka Suomessa tai muussa maassa ovat virallisesti käypiä maksuvälineitä;
-2) maksuvälineellä pankki-, maksu- tai luottokorttia, shekkiä tai muuta välinettä taikka tallennetta, jolla voidaan suorittaa maksuja, tilinostoja tai tilisiirtoja tai jonka käyttäminen on välttämätön edellytys mainittujen suoritusten tekemiseksi; sekä
-3) maksuvälinelomakkeella painettua maksuvälineeksi täydennettävää lomaketta, jota ei pidetä yleisön vapaasti saatavissa, taikka sellaista korttia tai korttiaihiota, joka erityisesti soveltuu maksuvälineen valmistamiseen.
+Joka
+1) anastaa maksuvälineen,
+2) valmistaa väärän maksuvälineen tai väärentää sellaisen tehdäkseen maksuvälinepetoksen tai tietäen, että maksuvälinettä käytettäisiin maksuvälinepetoksen tekemiseen, tai
+3) hankkii, ostaa, tuo maahan, pitää hallussa, myy, levittää, siirtää, kuljettaa, luovuttaa tai vie maasta laittomasti hankitun, väärän tai väärennetyn maksuvälineen tehdäkseen maksuvälinepetoksen tai tietäen, että maksuvälinettä käytettäisiin maksuvälinepetoksen tekemiseen,
+on tuomittava maksuvälinerikoksesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
-Mitä tässä luvussa säädetään maksuvälineestä, sovelletaan myös julkisen valvonnan alaisen luottolaitoksen talletuksesta antamaan vastakirjaan ja muuhun saamistodisteeseen.
+Maksuvälinerikoksesta tuomitaan myös se, joka hankkiakseen itselle tai toiselle oikeudetonta taloudellista hyötyä luovuttaa maksuvälineen toiselle tietäen, että maksuvälinettä käytettäisiin maksuvälinepetoksen tekemiseen.
 
-Mitä tässä luvussa säädetään rahasta, sovelletaan seteleihin ja metallirahoihin myös ennen niiden liikkeelle laskua.
+Tätä pykälää sovelletaan, jollei teko ole rangaistava 8 tai 9 §:ssä tarkoitettuna rikoksena tai osallisuutena sellaiseen.
+
+Edellä 1 momentin 1 ja 2 kohdassa tarkoitetun rikoksen yritys on rangaistava.
