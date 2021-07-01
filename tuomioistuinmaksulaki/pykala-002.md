@@ -17,7 +17,7 @@ työtuomioistuin | 2 000
 markkinaoikeus | 2 000
 vakuutusoikeus | 500
 
-Jos markkinaoikeudessa käsiteltävässä julkisia hankintoja koskevassa asiassa hankinnan arvo on vähintään 1 miljoona euroa, käsittelymaksu on 4 000 euroa. Jos hankinnan arvo on vähintään 10 miljoonaa euroa, käsittelymaksu on 6 000 euroa.
+Jos markkinaoikeudessa käsiteltävässä julkisia hankintoja koskevassa asiassa hankinnan arvo on vähintään 1 miljoonaa euroa, käsittelymaksu on 4 000 euroa. Jos hankinnan arvo on vähintään 10 miljoonaa euroa, käsittelymaksu on 6 000 euroa. Sosiaali- ja terveydenhuoltoa ja pelastustoimea koskevan uudistuksen toimeenpanosta ja sitä koskevan lainsäädännön voimaanpanosta annetun lain (616/2021) 67 §:n 2 momentissa tarkoitetuissa hankinta-asioina käsiteltävissä hallintoriita-asioissa oikeudenkäyntimaksu on 260 euroa.
 
 Yksityishenkilön oikeudenkäyntimaksu markkinaoikeudessa ja työtuomioistuimessa on 500 euroa ja vakuutusoikeudessa 250 euroa.
 
