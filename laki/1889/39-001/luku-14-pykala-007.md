@@ -1,6 +1,6 @@
 # 7 § Määritelmäsäännös
 Luku: 14 luku Rikoksista poliittisia oikeuksia vastaan
 
-Yleisillä vaaleilla tarkoitetaan tässä luvussa valtiollisia vaaleja, maakuntapäivävaaleja, kunnallisia vaaleja ja Euroopan parlamentin edustajien vaaleja sekä yleisiä kirkollisia vaaleja.
+Yleisillä vaaleilla tarkoitetaan tässä luvussa eduskuntavaaleja, presidentinvaalia, aluevaaleja, kuntavaaleja ja europarlamenttivaaleja sekä yleisiä kirkollisia vaaleja.
 
-Yleisellä äänestyksellä tarkoitetaan tässä luvussa valtiollista tai kunnallista kansanäänestystä.
+Yleisellä äänestyksellä tarkoitetaan tässä luvussa valtiollista kansanäänestystä sekä hyvinvointialueen ja kunnan kansanäänestystä.
