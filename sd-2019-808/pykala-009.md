@@ -1,7 +1,9 @@
-# 9 § Valitus kunnallisen viranomaisen, Ahvenanmaan maakunnan viranomaisen ja kirkollisen viranomaisen päätöksestä
+# 9 § Valitus kunnallisen viranomaisen, hyvinvointialueen ja hyvinvointiyhtymän viranomaisen, Ahvenanmaan maakunnan viranomaisen ja kirkollisen viranomaisen päätöksestä
 Luku: 2 luku Valitus hallintopäätöksestä
 
 Valituksesta kunnallisen viranomaisen päätökseen säädetään kuntalaissa (410/2015).
+
+Valituksesta hyvinvointialueen ja hyvinvointiyhtymän viranomaisen päätökseen säädetään hyvinvointialueesta annetussa laissa (611/2021).
 
 Valituksesta Ahvenanmaan maakunnan hallituksen ja sen alaisen viranomaisen sekä Ahvenanmaan kunnallisen viranomaisen päätökseen säädetään Ahvenanmaan itsehallintolaissa (1144/1991).
 
