@@ -1,7 +1,7 @@
 # 3 § Lain soveltamisala
 Luku: 1 luku Yleiset säännökset
 
-Tätä lakia sovelletaan tuomioistuimissa ja muissa valtion viranomaisissa, kunnallisissa viranomaisissa, itsenäisissä julkisoikeudellisissa laitoksissa sekä eduskunnan virastoissa ja tasavallan presidentin kansliassa (viranomainen), jollei erikseen toisin säädetä.
+Tätä lakia sovelletaan tuomioistuimissa, muissa valtion viranomaisissa, hyvinvointialueen ja hyvinvointiyhtymän viranomaisissa, kunnallisissa viranomaisissa, itsenäisissä julkisoikeudellisissa laitoksissa sekä eduskunnan virastoissa ja tasavallan presidentin kansliassa (viranomainen), jollei erikseen toisin säädetä.
 
 Eduskuntatyössä käytettävistä kielistä säädetään perustuslaissa ja eduskunnan työjärjestyksessä (40/2000).
 
