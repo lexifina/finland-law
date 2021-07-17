@@ -1,0 +1,7 @@
+# 9 § Yksinoikeusjärjestelyt
+
+Yrityksen ja kolmansien osapuolten väliset sopimukset tai muut järjestelyt eivät saa sisältää asiakirjojen uudelleen käyttöä rajoittavia yksinoikeuksia, ellei tämä ole välttämätöntä yleistä etua koskevan palvelun tarjoamiseksi. Yksinoikeuden myöntämisperustetta on tarkasteltava uudelleen säännöllisesti vähintään joka kolmas vuosi.
+
+Edellä 1 momentissa tarkoitetut yksinoikeusjärjestelyt on asetettava julkisesti saataville yleiseen tietoverkkoon vähintään kaksi kuukautta ennen niiden voimaantuloa. Näiden sopimusten tai muiden järjestelyjen lopulliset ehdot on asetettava julkisesti saataville yleiseen tietoverkkoon.
+
+Yrityksen on asetettava yleiseen tietoverkkoon saataville sellaiset oikeudelliset tai käytännön järjestelyt, joissa ei myönnetä yksinoikeutta, mutta joiden tarkoituksena on rajoittaa tai joiden voidaan olettaa rajoittavan asiakirjojen saatavuutta uudelleenkäyttöä varten muille kuin järjestelyyn osallistuville osapuolille. Nämä oikeudelliset tai käytännön järjestelyt on asetettava tietoverkkoon saataville vähintään kaksi kuukautta ennen niiden voimaantuloa. Yrityksen on tarkasteltava tällaisten oikeudellisten tai käytännön järjestelyjen vaikutuksia tietojen saatavuuteen säännöllisesti ja joka tapauksessa joka kolmas vuosi. Tällaisten järjestelyjen lopullisten ehtojen on oltava julkisia ja yrityksen on asetettava ne julkisesti saataville tietoverkossa.

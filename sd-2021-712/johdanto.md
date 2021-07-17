@@ -1,0 +1,2 @@
+Laki eräitä yleishyödyllisiä palveluita tuottavien yritysten tiedon uudelleenkäytöstä
+Eduskunnan päätöksen mukaisesti säädetään:
