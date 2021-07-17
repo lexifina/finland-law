@@ -1,0 +1,2 @@
+Laki julkisin varoin tuotettujen tutkimusaineistojen uudelleenkäytöstä
+Eduskunnan päätöksen mukaisesti säädetään:

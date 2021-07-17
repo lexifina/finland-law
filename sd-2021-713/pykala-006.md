@@ -1,0 +1,7 @@
+# 6 § Yksinoikeusjärjestelyjen kielto
+
+Tutkimusaineiston julkaisijan ja kolmansien osapuolten väliset tutkimusaineistoa koskevat sopimukset tai muut järjestelyt eivät saa sisältää tutkimusaineiston uudelleenkäyttöä rajoittavia yksinoikeuksia, ellei tämä ole välttämätöntä yleistä etua koskevan palvelun tarjoamiseksi. Yksinoikeuden myöntämisperustetta on tarkasteltava uudelleen säännöllisesti vähintään joka kolmas vuosi.
+
+Edellä 1 momentissa tarkoitetut yksinoikeusjärjestelyt on asetettava julkisesti saataville yleiseen tietoverkkoon vähintään kaksi kuukautta ennen niiden voimaantuloa. Näiden sopimusten tai muiden järjestelyjen lopulliset ehdot on asetettava julkisesti saataville yleiseen tietoverkkoon.
+
+Tutkimusaineiston julkaisijan on asetettava yleiseen tietoverkkoon saataville sellaiset oikeudelliset tai käytännön järjestelyt, joissa ei myönnetä yksinoikeutta, mutta joiden tarkoituksena on rajoittaa tai joiden voidaan olettaa rajoittavan tutkimusaineiston saatavuutta uudelleenkäyttöä varten muille kuin järjestelyyn osallistuville osapuolille. Nämä oikeudelliset tai käytännön järjestelyt on asetettava tietoverkkoon saataville vähintään kaksi kuukautta ennen niiden voimaantuloa. Tällaisten oikeudellisten tai käytännön järjestelyjen vaikutuksia tietojen saatavuuteen on tarkasteltava säännöllisesti ja joka tapauksessa joka kolmas vuosi. Tällaisten järjestelyjen lopullisten ehtojen on oltava julkisia ja ne on asetettava julkisesti saataville tietoverkossa.
