@@ -2,7 +2,7 @@
 Luku: 13 luku Valtiopetosrikoksista
 
 Joka tehdäkseen valtiopetoksen
-1 ryhtyy yhteydenpitoon vieraan valtion tai sen asiamiehen kanssa,
+1) ryhtyy yhteydenpitoon vieraan valtion tai sen asiamiehen kanssa,
 2) valmistaa, hankkii, kokoaa tai varastoi aseita, ampumatarvikkeita tai muita niihin rinnastettavia väkivallan käyttöön soveltuvia välineitä,
 3) antaa koulutusta aseiden tai muiden väkivallan käyttöön soveltuvien välineiden käyttämisessä tai
 4) värvää tai kokoaa väkeä tai varustaa sitä aseilla,

@@ -12,8 +12,8 @@ e) biosidiasetusta,
 f) kasvinsuojeluaineasetusta,
 g) a–f alakohdassa mainitun säädöksen tai ympäristönsuojelulain (527/2014) nojalla annettua säännöstä,
 h) otsonikerrosta heikentävistä aineista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1005/2009,
-i) tietyistä fluoratuista kasvihuonekaasuista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 842/2006,
-j) pysyvistä orgaanisista yhdisteistä sekä direktiivin 79/117/ETY muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 850/2004,
+i) fluoratuista kasvihuonekaasuista ja asetuksen (EY) N:o 842/2006 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) N:o 517/2014,
+j) pysyvistä orgaanisista yhdisteistä annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2019/1021,
 k) pesuaineista annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 648/2004 3, 4 tai 4 a artiklaa,
 l) jätelain (646/2011) 147 §:n 2 momentissa mainittua säännöstä,
 m) jätelain nojalla annettua säännöstä, yksittäistapausta koskevaa määräystä tai kieltoa taikka
@@ -26,9 +26,9 @@ c) elohopeasta ja asetuksen (EY) N:o 1102/2008 kumoamisesta annettua Euroopan pa
 5) tuo maahan tai vie maasta ainetta, valmistetta tai tuotetta vastoin
 a) ympäristönsuojelulain nojalla annettua asetusta,
 b) otsonikerrosta heikentävistä aineista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1005/2009,
-c) tietyistä fluoratuista kasvihuonekaasuista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 842/2006,
+c) fluoratuista kasvihuonekaasuista ja asetuksen (EY) N:o 842/2006 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) N:o 517/2014,
 d) vaarallisten kemikaalien viennistä ja tuonnista annettua Euroopan parlamentin ja neuvoston asetusta (EU) N:o 649/2012,
-e) pysyvistä orgaanisista yhdisteistä sekä direktiivin 79/117/ETY muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 850/2004 tai
+e) pysyvistä orgaanisista yhdisteistä annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2019/1021 tai
 f) elohopeasta ja asetuksen (EY) N:o 1102/2008 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2017/852,
 6) vie maasta muuntogeenisiä organismeja, niitä sisältäviä elintarvikkeita tai rehuja vastoin muuntogeenisten organismien valtioiden rajat ylittävistä siirroista annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1946/2003 taikka
 7) aluskierrätyksestä sekä asetuksen (EY) N:o 1013/2006 ja direktiivin 2009/16/EY muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1257/2013 vastaisesti laiminlyö huolehtia siitä, että asetuksen 5 artiklassa tarkoitettu vaarallisten materiaalien luettelo on ajan tasalla silloin kun alus toimitetaan aluspurkamoon, tai siirtää aluksen purettavaksi muualle kuin asetuksen 16 artiklassa tarkoitetussa eurooppalaisessa luettelossa mainittuun aluspurkamoon
