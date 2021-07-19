@@ -4,7 +4,7 @@ Keskuksen tehtävänä on:
 1) huolehtia lääkkeiden ennakko- ja jälkivalvonnasta, ohjata ja valvoa lääkkeiden valmistusta, maahantuontia, jakelua, markkinointia ja kulutukseen luovuttamista sekä antaa tieteellistä neuvontaa;
 2) toimia lääkkeiden ja kemikaalien ei-kliinisiä turvallisuustutkimuksia sekä kliinisiä lääketutkimuksia, kliinisiä laitetutkimuksia ja laitteiden suorituskykytutkimuksia valvovana viranomaisena;
 3) vahvistaa kulloinkin noudatettava farmakopea ja osallistua lääkealan standardointityöhön;
-4) huolehtia terveydenhuollon laitteita ja tarvikkeita koskevassa lainsäädännössä sille säädetyistä ohjaus-, lupa- ja valvontatehtävistä;
+4) huolehtia lääkinnällisiä laitteita koskevassa lainsäädännössä sille säädetyistä ohjaus-, lupa- ja valvontatehtävistä;
 5) huolehtia ihmisessä käytettäväksi tarkoitetun ihmisveren ja sen osien laadun ja turvallisuuden sekä veripalvelulaitosten valvonnasta;
 6) huolehtia ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetussa laissa (101/2001) sille säädetyistä lupa-, ohjaus- ja valvontatehtävistä;
 7) huolehtia alkiotutkimustoiminnan valvonnasta;
