@@ -1,7 +1,7 @@
 # 2 § Työhön ottaminen
 Luku: 1 luku Yleiset säännökset
 
-Työhön saadaan ottaa henkilö, joka on täyttänyt 15 vuotta ja joka on suorittanut oppivelvollisuutensa.
+Työhön saadaan ottaa henkilö, joka on täyttänyt 15 vuotta ja jonka osalta perusopetuksen suorittaminen on perusopetuslain (628/1998) 26 §:n 1 momentissa säädetyllä tavalla päättynyt.
 
 Lisäksi saadaan 14 vuotta täyttänyt tai saman kalenterivuoden aikana sanotun iän täyttävä henkilö ottaa sellaiseen kevyeen työhön, joka ei vahingoita hänen terveyttään tai kehitystään eikä aiheuta haittaa hänen koulunkäynnilleen:
 1) enintään puoleksi hänelle kulloinkin koulusta annettavasta loma-ajasta; sekä
