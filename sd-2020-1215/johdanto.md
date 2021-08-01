@@ -1,0 +1,2 @@
+Laki tutkintokoulutukseen valmentavasta koulutuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
