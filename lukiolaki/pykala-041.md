@@ -1,7 +1,7 @@
 # 41 § Kurinpito
 Luku: 7 luku Turvallinen opiskeluympäristö
 
-Opiskelijalle, joka häiritsee opetusta tai muuten rikkoo järjestystä taikka menettelee vilpillisesti, voidaan antaa kirjallinen varoitus. Jos rikkomus on vakava tai jos opiskelija jatkaa edellä tarkoitettua epäasiallista käyttäytymistä kirjallisen varoituksen saatuaan, hänet voidaan erottaa oppilaitoksesta määräajaksi, enintään yhdeksi vuodeksi, sekä erottaa asuntolasta määräajaksi tai opintojen jäljellä olevaksi ajaksi. Edellä mainitut toimenpiteet ovat kurinpitorangaistuksia.
+Opiskelijalle, joka häiritsee opetusta tai muuten rikkoo järjestystä taikka menettelee vilpillisesti, voidaan antaa kirjallinen varoitus. Jos rikkomus on vakava tai jos opiskelija jatkaa edellä tarkoitettua epäasiallista käyttäytymistä kirjallisen varoituksen saatuaan, hänet voidaan erottaa oppilaitoksesta määräajaksi, enintään yhdeksi vuodeksi, sekä erottaa asuntolasta määräajaksi tai opintojen jäljellä olevaksi ajaksi. Edellä mainitut toimenpiteet ovat kurinpitorangaistuksia. Oppivelvollinen voidaan kuitenkin erottaa oppilaitoksesta enintään kolmeksi kuukaudeksi. Oppivelvollisuuden suorittamisesta määräaikaisen erottamisen aikana säädetään oppivelvollisuuslain 8 §:ssä.
 
 Opetusta häiritsevä opiskelija voidaan määrätä poistumaan jäljellä olevan oppitunnin ajaksi luokkahuoneesta tai muusta tilasta, jossa opetusta annetaan, taikka oppilaitoksen järjestämästä tilaisuudesta.
 

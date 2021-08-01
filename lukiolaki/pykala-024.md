@@ -6,3 +6,5 @@ Opiskelija, joka ei ole suorittanut opintojaan 23 §:n 2 momentissa säädetyss�
 Jos opiskelija itse ilmoittaa koulutuksen järjestäjälle kirjallisesti eroamisestaan, hänen opiskeluoikeutensa päättyy siitä päivästä, jona ilmoitus saapuu koulutuksen järjestäjälle, tai opiskelijan ilmoittamana myöhempänä ajankohtana.
 
 Koulutuksen järjestäjä antaa opiskeluoikeuden päättymisestä erillisen päätöksen.
+
+Oppivelvollisen katsotaan menettäneen opiskeluoikeutensa 1 momentissa tarkoitetulla tavalla viimeistään kuukauden kuluessa siitä, kun hän on viimeisen kerran osallistunut opetukseen. Ennen oppivelvollisen eronneeksi katsomista koulutuksen järjestäjän tulee ilmoittaa oppivelvolliselle sekä hänen huoltajalleen ja muulle lailliselle edustajalleen, että oppivelvollinen voidaan katsoa eronneeksi, mikäli hän ei osallistu opetukseen. Oppivelvollisen opiskeluoikeuden menettämisessä ja eronneeksi katsomisessa noudatettavista menettelyistä säädetään lisäksi oppivelvollisuuslain 13 §:ssä.

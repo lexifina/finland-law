@@ -5,8 +5,6 @@ Lukiokoulutuksen oppimäärä sisältää äidinkielen ja kirjallisuuden, toisen
 
 Lukiokoulutuksen oppimäärä voi sisältää laaja-alaista osaamista kehittäviä temaattisia opintoja. Lukiokoulutuksen oppimäärä voi sisältää myös eri oppiaineryhmissä tai oppiaineissa suoritettavia erityistä osaamista ja harrastuneisuutta osoittavan näytön sisältäviä opintokokonaisuuksia (lukiodiplomi).
 
-Lukiokoulutukseen valmistavan koulutuksen oppimäärä sisältää suomen tai ruotsin kielen ja tarvittaessa muiden kielten opintoja, muita lukiokoulutuksessa tarvittavia valmiuksia tuottavia opintoja sekä opinto-ohjausta. Oppimäärä voi sisältää myös lukiokoulutuksen oppimäärään sisältyviä opintoja.
+Valtioneuvoston asetuksella säädetään tässä laissa tarkoitetun koulutuksen yleisistä valtakunnallisista tavoitteista, oppiaineryhmiin kuuluvista oppiaineista, opintojen rakenteesta sekä 1 ja 2 momentissa tarkoitettujen opintojen laajuuksista.
 
-Valtioneuvoston asetuksella säädetään tässä laissa tarkoitetun koulutuksen yleisistä valtakunnallisista tavoitteista, oppiaineryhmiin kuuluvista oppiaineista, opintojen rakenteesta sekä 1–3 momentissa tarkoitettujen opintojen laajuuksista.
-
-Lukiokoulutuksen ja lukiokoulutukseen valmistavan koulutuksen oppimäärä voi sisältää myös muita kuin valtioneuvoston asetuksella säädettyjä lukion tehtävään soveltuvia opintoja sen mukaan kuin koulutuksen järjestäjän opetussuunnitelmassa päätetään. Opinnot ovat opiskelijalle valinnaisia.
+Lukiokoulutuksen oppimäärä voi sisältää myös muita kuin valtioneuvoston asetuksella säädettyjä lukion tehtävään soveltuvia opintoja sen mukaan kuin koulutuksen järjestäjän opetussuunnitelmassa päätetään. Opinnot ovat opiskelijalle valinnaisia.
