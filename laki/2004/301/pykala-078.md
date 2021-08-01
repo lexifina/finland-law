@@ -14,4 +14,8 @@ Työnteko-oikeus on lisäksi ulkomaalaisella:
 6) jonka oleskelulupa on myönnetty maasta poistumisen estymisen vuoksi 51 §:n perusteella;
 7) jolle ulkoministeriö on myöntänyt oleskeluluvan edustuston rakennus-, korjaus- tai huoltotyön tekemistä varten.
 
+Ulkomaalaiselle, joka työskentelee oleskeluluvan nojalla, myönnetään hakemuksesta oikeus työntekoon ilman ammattialarajoitusta tai muuta rajoitusta, jos on perusteltua aihetta epäillä, että hänen työnantajansa on merkittävällä tavalla laiminlyönyt velvollisuuksiaan työnantajana tai muulla tavalla hyväksikäyttänyt häntä ja jos ulkomaalaisen uusi työnantaja liittää hakemukseen 72 §:n 1 ja 2 kohdassa ja Maahanmuuttoviraston vaatiessa 3 kohdassa tarkoitetut liitteet.
+
+Ulkomaalainen, jolle on myönnetty 54 b §:ssä tarkoitettu oleskelulupa, saa työpaikan löydettyään aloittaa työnteon tai yritystoiminnan.
+
 Tähän pykälään perustuvasta työnteko-oikeudesta on 3 momentin 7 kohdassa tarkoitettua oleskelulupaa lukuun ottamatta tehtävä merkintä ulkomaalaisen oleskeluluvan yhteyteen.
