@@ -1,0 +1,2 @@
+Laki ihmisoikeuksien ja perusvapauksien suojaamiseksi tehdyn yleissopimuksen muuttamisesta tehdyn viidennentoista pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
