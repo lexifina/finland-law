@@ -1,0 +1,2 @@
+Laki kansainväliseen siviili-ilmailuun liittyvien laittomien tekojen ehkäisemisestä tehdystä yleissopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
