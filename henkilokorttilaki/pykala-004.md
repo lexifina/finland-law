@@ -1,7 +1,7 @@
 # 4 § Henkilökortin sisältö
 Luku: 1 luku Yleiset säännökset
 
-Henkilökorttiin merkitään kortinhaltijan sukunimi, etunimet, sukupuoli ja henkilötunnus, henkilökortin myöntämispäivä ja viimeinen voimassaolopäivä, henkilökortin myöntänyt viranomainen, kortin numero ja Suomen kansalaisten osalta tieto kansalaisuudesta. Henkilökortissa on lisäksi kortinhaltijan valokuva ja nimikirjoitus.
+Henkilökorttiin merkitään kortinhaltijan sukunimi, etunimet, sukupuoli, syntymäaika ja henkilötunnus, henkilökortin myöntämispäivä ja viimeinen voimassaolopäivä, henkilökortin myöntänyt viranomainen, kortin numero ja Suomen kansalaisten osalta tieto kansalaisuudesta. Henkilökortissa on lisäksi kortinhaltijan valokuva ja nimikirjoitus.
 
 Jos henkilökorttiin sisältyy kansalaisvarmenne, korttiin merkitään tieto varmenteen myöntäjästä.
 
