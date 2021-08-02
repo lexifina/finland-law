@@ -7,7 +7,7 @@ Ulkomaalaisen henkilökortti peruutetaan, jos:
 3) kortinhaltija sitä pyytää;
 4) se katoaa ennen hakijalle luovuttamista tai kortinhaltija ilmoittaa sen kadonneeksi tai anastetuksi;
 5) alaikäiselle hakijalle myönnetyn henkilökortin edellytyksenä on ollut huoltajien suostumus ja huoltaja peruuttaa suostumuksensa; tai
-6) alaikäinen on otettu huostaan ja sosiaalilautakunta peruuttaa suostumuksensa tai vaatii henkilökortin peruuttamista.
+6) alaikäinen on otettu huostaan ja sosiaalihuollosta vastaava toimielin peruuttaa suostumuksensa tai vaatii henkilökortin peruuttamista.
 
 Ulkomaalaisen henkilökortti voidaan peruuttaa, jos:
 1) siinä on ilmeinen virheellisyys;

@@ -6,7 +6,7 @@ Henkilökortti peruutetaan, jos:
 2) kortinhaltija sitä pyytää;
 3) se katoaa ennen hakijalle luovuttamista tai kortinhaltija ilmoittaa sen kadonneeksi tai anastetuksi;
 4) alaikäiselle hakijalle myönnetyn henkilökortin edellytyksenä on ollut huoltajien suostumus ja huoltaja peruuttaa suostumuksensa; tai
-5) alaikäinen on otettu huostaan ja sosiaalilautakunta peruuttaa suostumuksensa tai vaatii henkilökortin peruuttamista.
+5) alaikäinen on otettu huostaan ja sosiaalihuollosta vastaava toimielin peruuttaa suostumuksensa tai vaatii henkilökortin peruuttamista.
 
 Henkilökortti voidaan peruuttaa, jos:
 1) siinä on ilmeinen virheellisyys;
