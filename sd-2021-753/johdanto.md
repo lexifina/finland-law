@@ -1,0 +1,2 @@
+Laki vanhusasiavaltuutetusta
+Eduskunnan päätöksen mukaisesti säädetään:

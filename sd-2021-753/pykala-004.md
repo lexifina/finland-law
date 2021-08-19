@@ -1,0 +1,3 @@
+# 4 § Oikeus saada tietoja
+
+Vanhusasiavaltuutetulla on oikeus saada muilta viranomaisilta maksutta tehtäviensä hoidon kannalta tarpeellisia tietoja, jollei salassapitosäännöksistä muuta johdu.
