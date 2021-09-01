@@ -1,0 +1,10 @@
+# 40 § Työ- ja elinkeinoministeriön suhde kansallista vastinrahoitusta hallinnoivaan maakunnan liittoon ja hallintoviranomaiseen
+Luku: 4 luku Interreg-ohjelmien ja Interreg-ulkorajaohjelmien hallinnointi
+
+Työ- ja elinkeinoministeriö voi kansallisen vastinrahoituksen osalta:
+1) asettaa varojen osoittamispäätöksessä maakunnan liitolle Interreg-ohjelmien ja hallintoviranomaiselle Interreg-ulkorajaohjelmien kansallisen vastinrahoituksen myöntämistä, maksamista, seurantaa, valvontaa ja jatkotoimenpiteitä koskevia sitovia ehtoja;
+2) jättää osoittamatta 38 §:n 2 momentissa tarkoitetun maakunnan liiton tai hallintoviranomaisen määrärahan, jos maakunnan liitto tai hallintoviranomainen ei hoida asianmukaisesti 39 §:ssä tarkoitettuja tehtäviä tai täytä tässä laissa tai sen nojalla annetussa asetuksessa säädettyjä vaatimuksia;
+3) määrätä maakunnan liitolle tai hallintoviranomaiselle osoitetun kansallisen vastinrahoituksen kokonaan tai osittain takaisin perittäväksi, jos maakunnan liitto tai hallintoviranomainen on käyttänyt varoja muuhun tarkoitukseen kuin ne on osoitettu tai on varoja käyttäessään olennaisesti rikkonut lakia tai varojen käytön ehtoja;
+4) siirtää maakunnan liiton tai hallintoviranomaisen kansallisen vastinrahoituksen hallinnointiin liittyvät tehtävät toiselle maakunnan liitolle tai hallintoviranomaiselle, jos maakunnan liitto tai hallintoviranomainen ei hoida asianmukaisesti 39 §:ssä tarkoitettuja tehtäviä tai tässä laissa tai sen nojalla annetussa asetuksessa säädettyjä edellytyksiä toimia ei enää ole.
+
+Ennen edellä 1 momentin 2 ja 4 kohdassa tarkoitettuja toimenpiteitä työ- ja elinkeinoministeriön on neuvoteltava maakunnan liiton tai hallintoviranomaisen kanssa puutteiden korjaamisesta ja annettava sille kohtuullinen määräaika puutteiden korjaamiseksi. Työ- ja elinkeinoministeriö voi kuitenkin ryhtyä mainittuihin toimenpiteisiin välittömästi ilman neuvottelua, jos maakunnan liiton tai hallintoviranomaisen toiminnassa on havaittu vakavia puutteita tai laiminlyöntejä.
