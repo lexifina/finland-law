@@ -1,0 +1,6 @@
+# 69 § Interreg-ohjelmien ja Interreg-ulkorajaohjelmien kansallista vastinrahoitusta koskevan aineiston säilyttäminen
+Luku: 4 luku Interreg-ohjelmien ja Interreg-ulkorajaohjelmien kansallisen vastinrahoituksen toimeenpanoa koskevat erityissäännökset
+
+Toimivaltainen maakunnan liitto on velvollinen säilyttämään kaiken Interreg-ohjelman ja Interreg-ulkorajaohjelman hallintoviranomainen on velvollinen säilyttämään kaiken Interreg-ulkorajaohjelman kansalliseen vastinrahoitukseen liittyvän kirjanpitoaineiston ja muun aineiston kansallisen vastinrahoituksen osoittamispäätöksen ehtojen mukaisesti niin, että kansallisen vastinrahoituksen käytön valvonta on mahdollista.
+
+Sen lisäksi mitä 25 §:n 3 momentissa säädetään, Interreg-ohjelman tai Interreg-ulkorajaohjelman kansallista vastinrahoitusta saavan tuen saajan on säilytettävä kirjanpitoaineisto ja hankkeen muu aineisto vähintään viiden vuoden ajan laskettuna sen vuoden päättymistä seuraavan vuoden alusta, jona kansallisen vastinrahoituksen viimeinen maksuerä on maksettu tuen saajalle, jollei kansallisessa lainsäädännössä taikka vähämerkityksistä tukea tai valtiontukea koskevassa Euroopan unionin lainsäädännössä edellytetään pidempää säilyttämisaikaa.

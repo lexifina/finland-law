@@ -1,0 +1,8 @@
+# 53 § Euroopan unionin alue- ja rakennepolitiikan ohjelman tietojärjestelmän tietojen saanti ja luovuttaminen teknisen rajapinnan avulla
+Luku: 3 luku Euroopan unionin alue- ja rakennepolitiikan ohjelman toimeenpanoa koskevat erityissäännökset
+
+Jos 50 §:ssä tarkoitettuun tietojärjestelmään siirretään tietoja teknisen rajapinnan avulla muusta järjestelmästä, kyseisen järjestelmän (liitännäisjärjestelmä) omistajan on noudatettava Euroopan unionin alue- ja rakennepolitiikan ohjelman tietojärjestelmän sisältövaatimuksia ja tiedonohjaussuunnitelmaa hallintoviranomaisen edellyttämällä tavalla. Liitännäisjärjestelmän omistajan on avattava tekninen rajapinta hallintoviranomaiselle, kirjanpitotoimintoa hoitavalle viranomaiselle ja tarkastusviranomaiselle sekä 48 §:ssä tarkoitetulle valtuutetulle viranomaiselle ja tilintarkastajalle liitännäisjärjestelmän sellaisiin tietoihin, joihin mainituilla viranomaisilla on tämän lain, toimeenpanolain tai 2 §:ssä mainittujen asetusten nojalla oikeus lakisääteisten tehtäviensä hoitamiseksi.
+
+Edellä 50 §:ssä tarkoitetusta tietojärjestelmästä saadaan luovuttaa tietoja teknisen rajapinnan avulla muulle kuin tässä laissa tarkoitetulle viranomaiselle, muulle julkiselle yhteisölle ja Euroopan unionin toimielimelle, jos niillä on lakiin perustuva oikeus saada tiedot. Tietojärjestelmästä voidaan luovuttaa tietoja soveltaen, mitä yleisasetuksessa ja Euroopan unionin varainhoitoa koskevissa säännöksissä säädetään sähköisestä järjestelmästä ja sen sisältövaatimuksista.
+
+Valtioneuvoston asetuksella voidaan antaa säännöksiä liitännäisjärjestelmän sisältöä koskevista vaatimuksista.

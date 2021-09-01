@@ -1,0 +1,6 @@
+# 54 § Euroopan unionin alue- ja rakennepolitiikan ohjelman tietojärjestelmään tallennettujen tietojen julkisuus ja julkaiseminen
+Luku: 3 luku Euroopan unionin alue- ja rakennepolitiikan ohjelman toimeenpanoa koskevat erityissäännökset
+
+Edellä 50 §:ssä tarkoitettuun tietojärjestelmään tallennettujen tietojen julkisuudesta säädetään viranomaisten toiminnan julkisuudesta annetussa laissa, ja siihen tallennettujen henkilötietojen suojasta luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2016/679, jäljempänä tietosuoja-asetus, ja tietosuojalaissa (1050/2018).
+
+Hallintoviranomaisen on julkaistava yleisasetuksen 49 artiklan 1 kohdassa tarkoitetulla verkkosivustolla mainitun asetuksen 42 artiklassa tarkoitetut ohjelman toteutumiseen liittyvät Euroopan komissiolle siirretyt tiedot sekä 49 artiklan 3 kohdassa tarkoitetut hankkeita, tuen saajia, julkisten hankintojen toimittajia ja tuen määrää koskevat tiedot. Lisäksi verkkosivustolla julkaistaan 5 §:n 1 momentin 4 kohdan mukaiset kehittämishankkeiden yleisesti hyödynnettävissä olevat tukihakemuksessa suunnitellut ja hankkeen loppuraportissa raportoidut tulokset.
