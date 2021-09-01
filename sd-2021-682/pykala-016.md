@@ -1,0 +1,4 @@
+# 16 § Muutoksenhaku muussa kuin säännellyssä koulutuksessa
+Luku: 3 luku Palvelukeskuksen rahoittaman koulutuksen järjestämistä koskevat säännökset
+
+Edellä 13 §:n 2 momentissa tarkoitetun opiskelijaksi ottamista koskevan päätöksen muutoksenhakuun sovelletaan, mitä ammatillisesta koulutuksesta annetussa laissa säädetään muutoksenhausta opiskelijaksi ottamista koskevaan päätökseen. Edellä 14 §:n 1 momentissa tarkoitetun osallistumisoikeuden päättymistä koskevan päätöksen muutoksenhakuun sovelletaan, mitä ammatillisesta koulutuksesta annetussa laissa säädetään muutoksenhausta opiskelijan katsomista eronneeksi koskevaan päätökseen. Alueellisesti toimivaltainen on se aluehallintovirasto, jonka aluehallintovirastoista annetun lain (896/2009) 5 §:n 1 momentin nojalla säädetyllä toimialueella koulutuksen järjestäjän päätoimipaikka sijaitsee.
