@@ -17,4 +17,6 @@ Edellä 1 momentin 9 kohdassa säädettyjen tietohallinnon palvelujen lisäksi R
 
 Lisäksi Ruokavirasto hoitaa ne metsätaloutta, kalataloutta ja riistataloutta koskevat tehtävät, jotka sille on erikseen säädetty tai jotka maa- ja metsätalousministeriö sille erikseen määrää. Ruokavirasto hoitaa myös vähävaraisimmille suunnatun eurooppalaisen avun rahastosta annetun Euroopan parlamentin ja neuvoston asetuksessa (EU) N:o 223/2014 säädetyn rahaston hallintoviranomais- ja toimeenpanotehtävät.
 
+Ruokaviraston Euroopan unionin alue- ja rakennepolitiikan ohjelman välittävän toimielimen tehtävistä säädetään alueiden kehittämisestä ja Euroopan unionin alue- ja rakennepolitiikan toimeenpanosta annetussa laissa (756/2021) ja alueiden kehittämisen ja Euroopan unionin alue- ja rakennepolitiikan hankkeiden rahoittamisesta annetussa laissa (757/2021).
+
 Viraston tehtävistä voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.
