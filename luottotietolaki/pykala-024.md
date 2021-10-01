@@ -8,7 +8,7 @@ Yrityksen maksuhäiriötietoina saa luottotietorekisteriin tallettaa:
 4) julkisesta haasteesta annetun lain 10 §:ssä tarkoitettuun kuulutusrekisteriin rekisteröidystä talletetut tiedot;
 5) veroviranomaisen julkistama tieto sellaisesta verosaatavasta tai vakuutuslaitoksen ilmoittama tieto sellaisen lakisääteiseen vakuutukseen perustuvan saatavan laiminlyönnistä, joka voidaan ulosmitata ilman tuomiota tai päätöstä verojen ja maksujen perimisestä ulosottotoimin annetun lain (367/1961) mukaan;
 6) tiedon rekisteröidyn velkojalle antamasta kirjallisesta ilmoituksesta, jolla hän tunnustaa lyöneensä maksun laimin;
-7) tiedon velkojan erääntyneen ja riidattoman saatavan johdosta antamasta maksukehotuksesta; tiedon saa tallettaa kymmenen päivän kuluttua siitä, kun velalliselle on lähetetty maksukehotus, jossa on ilmoitettu maksukehotuksen julkaisemisesta tai merkitsemisestä rekisteriin.
+7) tiedon velkojan erääntyneen ja riidattoman saatavan johdosta antamasta maksukehotuksesta; tiedon saa tallettaa 21 päivän kuluttua siitä, kun velalliselle on lähetetty maksukehotus, jossa on ilmoitettu maksukehotuksen julkaisemisesta tai merkitsemisestä rekisteriin.
 
 Edellytyksenä 1 momentin 5 kohdassa tarkoitetun tiedon tallettamiselle on, että velkoja on viimeistään kymmenen päivää ennen tiedon julkistamista tai ilmoittamista lähettänyt velalliselle maksukehotuksen, jossa on ilmoitettu laiminlyönnin ilmoittamisesta rekisteriin merkitsemistä varten.
 
