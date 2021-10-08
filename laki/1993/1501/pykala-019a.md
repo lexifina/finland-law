@@ -1,7 +1,7 @@
 # 19 a §
 Osa: I OSA
 Luku: 3 luku Verollinen myynti
-Väliotsikko: Väliotsikko on kumottu L:lla 7.5.2021/387, joka tulee voimaan 1.7.2021. Aiempi sanamuoto kuuluu: Liikkeen tai sen osan luovutus
+Väliotsikko: Väliotsikko on kumottu L:lla 7.5.2021/387, joka tuli voimaan 1.7.2021. Aiempi sanamuoto kuuluu: Liikkeen tai sen osan luovutus
 
 Yhteisön sisäisellä tavaroiden etämyynnillä tarkoitetaan myyntiä, jossa myyjä tai joku muu myyjän puolesta kuljettaa tavaran ostajalle jäsenvaltiosta toiseen.
 

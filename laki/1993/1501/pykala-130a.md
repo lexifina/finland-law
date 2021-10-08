@@ -6,7 +6,7 @@ Hyvinvointialueella ja kunnalla on oikeus saada palautuksena laskennallinen vero
 1) 34 §:ssä tarkoitettu terveyden- ja sairaanhoitopalvelu sekä mainitussa lainkohdassa tarkoitettu hoitoon liittyvä palvelu ja tavara samoin kuin 36 §:n 1–4 kohdassa tarkoitetut palvelut ja tavarat;
 2) 37 §:ssä tarkoitettu sosiaalihuoltoon liittyvä palvelu tai tavara.
 
-Kunnalla sekä Ahvenanmaan maakunnalla ja Ahvenanmaan maakuntaan kuuluvalla kunnalla on oikeus laskennallisen veron palautukseen verottomina hankkimistaan 38 a §:ssä tarkoitetuista sosiaalihuoltoon liittyvistä palveluista ja tavaroista.
+Kunnalla on oikeus laskennallisen veron palautukseen verottomina hankkimistaan 38 a §:ssä tarkoitetuista sosiaalihuoltoon liittyvistä palveluista ja tavaroista.
 
 Edellä 1 tai 2 momentissa tarkoitetulla palautuksensaajalla on oikeus saada palautus myös 1 tai 2 momentissa tarkoitetun toiminnan harjoittajalle toimintaa varten antamastaan tuesta tai avustuksesta.
 
