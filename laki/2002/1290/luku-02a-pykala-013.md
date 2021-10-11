@@ -12,3 +12,5 @@ Henkilöllä on pätevä syy kieltäytyä 12 §:n 1 tai 2 momentissa tarkoitetus
 Henkilöllä on pätevä syy kieltäytyä työvoimakoulutuksesta ja keskeyttää koulutus myös, jos kyseisen ammattialan työ ei ole hänen terveydentilansa ja työkykynsä huomioon ottaen hänelle sopivaa tai henkilön ja hänen huollettaviensa toimeentulo ei ole kohtuullisesti turvattu koulutuksen aikana. Henkilön ja hänen huollettaviensa toimeentulo on kohtuullisesti turvattu, jos työnhakijalla on oikeus työttömyysetuuden tasoisiin etuuksiin.
 
 Henkilöllä on pätevä syy kieltäytyä 12 §:n 1 tai 2 momentissa tarkoitetusta palvelusta tai keskeyttää palvelu myös muusta kuin tämän pykälän 1 momentissa tarkoitetusta syystä, jos se on näihin rinnastettava.
+
+4 momentti oli väliaikaisesti voimassa 11.5.2020–31.12.2020 L:lla 296/2020.

@@ -10,3 +10,5 @@ Peruspäivärahaa ja ansiopäivärahaa maksetaan yhteensä enintään:
 Enimmäisaikaan luetaan myös sellaiset työttömyyspäivät, joilta henkilölle on maksettu työttömyysetuutta sellaisessa valtiossa, jossa sovelletaan sosiaaliturva-asetusta tai perusasetusta tai jonka kanssa Suomella on työttömyysturvaa koskeva sopimus.
 
 Laskettaessa 1 momentin mukaista enimmäisaikaa otetaan soviteltuna työttömyyspäivärahana maksettu määrä huomioon muunnettuna täysiksi työttömyyspäivärahapäiviksi.
+
+4 momentti oli väliaikaisesti voimassa 15.4.2020-31.12.2020 L:lla 214/2020.
