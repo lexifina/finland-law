@@ -1,0 +1,2 @@
+Laki yhdistetyn patenttituomioistuimen erioikeuksista ja vapauksista tehdystä pöytäkirjasta
+Eduskunnan päätöksen mukaisesti säädetään:
