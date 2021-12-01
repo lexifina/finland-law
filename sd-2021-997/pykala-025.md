@@ -1,0 +1,6 @@
+# 25 § Tietojensaantioikeus ja tietojen luovuttaminen
+Luku: 7 luku Erinäiset säännökset
+
+Maa- ja metsätalousministeriöllä, elinkeino-, liikenne- ja ympäristökeskuksilla, kehittämis- ja hallintokeskuksella ja 28 §:n 2 momentin nojalla tarkastuksia tekevällä on salassapitosäännösten estämättä oikeus saada muulta viranomaiselta, julkista tehtävää hoitavalta taholta ja kalatalouden paikalliselta toimintaryhmältä hakijaa ja tuensaajaa, tämän taloudellista asemaa ja liike- tai ammattitoimintaa, julkisista varoista myönnettyä rahoitusta tai muuta tuen kannalta merkityksellistä olosuhdetta koskevia tietoja, jotka ovat välttämättömiä tukea koskevan asian käsittelemiseksi.
+
+Maa- ja metsätalousministeriöllä, elinkeino-, liikenne- ja ympäristökeskuksella ja kehittämis- ja hallintokeskuksella on salassapitosäännösten estämättä oikeus luovuttaa muulle viranomaiselle tai julkista tehtävää hoitavalle taikka Euroopan unionin toimielimelle tässä laissa säädettyä tehtävää hoidettaessa saatuja, tuen saajaa koskevia tietoja, jotka ovat välttämättömiä viranomaiselle, julkista tehtävää hoitavalle tai toimielimelle säädetyn tarkastustehtävän suorittamiseksi tai sen valvomiseksi, että Euroopan unionin lainsäädäntöä on noudatettu.
