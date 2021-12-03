@@ -1,0 +1,10 @@
+# 10 § Velvollisuus varmentaa lämmön ja jäähdytyksen alkuperä alkuperätakuulla
+Luku: 2 luku Energian alkuperän varmentaminen
+
+Lämmön ja jäähdytyksen myyjän, joka myy lämmön ja jäähdytyksen käyttäjälle uusiutuvilla energialähteillä tuotettua lämpöä tai jäähdytystä taikka hukkalämpöä tai -kylmää, on varmennettava energian alkuperä. Uusiutuvilla energialähteillä tuotetun lämmön ja jäähdytyksen sekä hukkalämmön ja -kylmän määrä tai osuus myydystä lämmöstä ja jäähdytyksestä varmennetaan viimeistään valvontaviranomaisen määräämänä ajankohtana vastaavalla määrällä 12 §:ssä säädetyn mukaisesti peruutettuja alkuperätakuita.
+
+Uusiutuvilla energialähteillä tuotettuna tai hukkalämpönä tai -kylmänä myydyn energian alkuperää ei kuitenkaan tarvitse varmentaa alkuperätakuilla, jos lämmön tai jäähdytyksen siirtäminen käyttöön tapahtuu teknisesti siten, että lämmön tai jäähdytyksen alkuperästä ei ole epäselvyyttä, ja lämmölle ja jäähdytykselle ei ole haettu alkuperätakuita. Lisäksi edellytyksenä on, että uusiutuvia energialähteitä käyttävän tuotantolaitoksen huolto- ja käynnistystilanteissa käyttämien fossiilisten polttoaineiden energiasisältö on kalenterivuoden aikana enintään 4 prosenttia laitoksessa käytettyjen polttoaineiden energiasisältöjen summasta.
+
+Lämmön ja jäähdytyksen tuottajan, joka muussa kuin lämmön ja jäähdytyksen myyntiin liittyvässä liiketoiminnassaan ilmoittaa asiakkailleen tietoja käyttämänsä lämmön tai jäähdytyksen alkuperästä, on varmennettava uusiutuvista energialähteistä peräisin olevan energian sekä hukkalämmön ja -kylmän alkuperä 1 momentin mukaisesti.
+
+Lämmön ja jäähdytyksen käyttäjän, joka markkinoinnissaan ilmoittaa käyttämänsä lämmön tai jäähdytyksen olevan tuotettu uusiutuvilla energialähteillä taikka hukkalämpöä tai -kylmää, on varmennettava uusiutuvista energialähteistä peräisin olevan energian sekä hukkalämmön ja -kylmän alkuperä 1 momentin mukaisesti tai pystyttävä muuten osoittamaan, että se on käyttänyt 1 momentin mukaisesti varmennettua lämpöä tai jäähdytystä.

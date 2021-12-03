@@ -1,0 +1,8 @@
+# 7 § Velvollisuus varmentaa sähkön alkuperä alkuperätakuulla
+Luku: 2 luku Energian alkuperän varmentaminen
+
+Sähkönmyyjän, joka myy sähkönkäyttäjälle uusiutuvilla energialähteillä tai ydinvoimalla tuotettua sähköä, on varmennettava myymänsä uusiutuvilla energialähteillä ja ydinvoimalla tuotetun sähkön alkuperä. Uusiutuvilla energialähteillä ja ydinvoimalla tuotetun sähkön määrä tai osuus myydystä sähköstä varmennetaan viimeistään valvontaviranomaisen määräämänä ajankohtana vastaavalla määrällä 12 §:ssä säädetyn mukaisesti peruutettuja alkuperätakuita.
+
+Sähköntuottajan, joka muussa kuin sähkön myyntiin liittyvässä liiketoiminnassaan ilmoittaa asiakkailleen tietoja käyttämänsä sähkön alkuperästä, on varmennettava uusiutuvilla energialähteillä ja ydinvoimalla tuotetun sähkön alkuperä 1 momentin mukaisesti.
+
+Sähkönkäyttäjän, joka markkinoinnissaan ilmoittaa käyttämänsä sähkön olevan uusiutuvilla energialähteillä tai ydinvoimalla tuotettua, on varmennettava sähkön alkuperä 1 momentin mukaisesti tai pystyttävä muuten osoittamaan, että se on käyttänyt 1 momentin mukaisesti varmennettua sähköä. Sähkönkäyttäjän, joka tuottaa omaan käyttöönsä sähköä uusiutuvilla energialähteillä nimellisteholtaan alle yhden megavolttiampeerin sähköntuotantolaitteistossa tai usean tuotantolaitteiston muodostamassa voimalaitoksessa ja joka ilmoittaa markkinoinnissaan käyttämänsä sähkön olevan uusiutuvilla energialähteillä tuotettua, ei tarvitse varmentaa itse käyttämänsä ja tuottamansa sähkön alkuperää vastaavalla määrällä peruutettuja alkuperätakuita, jos kyseiselle sähkölle ei ole haettu alkuperätakuita.
