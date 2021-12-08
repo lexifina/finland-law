@@ -8,4 +8,4 @@ Porotaloudesta saatuna tulona pidetään sitä puhdasta tuottoa, jonka porotalou
 
 Jos porotaloudesta saatu tulo jotakin porokarjaa kohdanneen vahingon johdosta on vähentynyt huomattavasti enemmän kuin paikkakunnalla yleensä, on tämä kohtuullisessa määrässä otettava huomioon tuloa arvioitaessa.
 
-Valtioneuvosto vahvistaa Verohallintoa kuultuaan 2 momentissa tarkoitetut tuottoperusteet ennen kunkin vuoden joulukuun 10 päivää. Paliskuntain yhdistyksen on ennen lokakuun 31 päivää tehtävä valtioneuvostolle ehdotus porotalouden tuottoperusteista.
+Valtioneuvoston asetuksella vahvistetaan 2 momentissa tarkoitetut tuottoperusteet viimeistään kunkin vuoden joulukuun 10 päivänä. Ennen tuottoperusteiden vahvistamista valtioneuvoston on kuultava Verohallintoa. Paliskuntain yhdistyksen on viimeistään kunkin vuoden lokakuun 31 päivänä tehtävä valtioneuvostolle ehdotus porotalouden tuottoperusteista.
