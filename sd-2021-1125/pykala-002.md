@@ -1,0 +1,26 @@
+# 2 § Määritelmät
+Luku: 1 luku Yleiset säännökset
+
+Tässä laissa tarkoitetaan:
+1) sisäasioiden rahastoilla turvapaikka-, maahanmuutto- ja kotouttamisrahaston perustamisesta annetulla Euroopan parlamentin ja neuvoston asetuksella (EU) 2021/1147, jäljempänä turvapaikka-, maahanmuutto- ja kotouttamisrahastoasetus, perustettua turvapaikka-, maahanmuutto- ja kotouttamisrahastoa, sisäisen turvallisuuden rahaston perustamisesta annetulla Euroopan parlamentin ja neuvoston asetuksella (EU) 2021/1149, jäljempänä sisäisen turvallisuuden rahastoasetus, perustettua sisäisen turvallisuuden rahastoa sekä rajaturvallisuuden ja viisumipolitiikan rahoitustukivälineen perustamisesta yhdennetyn rajaturvallisuuden rahaston osaksi annetulla Euroopan parlamentin ja neuvoston asetuksella (EU) 2021/1148, jäljempänä rajaturvallisuuden ja viisumipolitiikan rahoitustukivälineasetus, perustettua rajaturvallisuuden ja viisumipolitiikan rahoitustukivälinettä;
+2) sisäasioiden rahastojen varoilla Euroopan komission Euroopan unionin talousarviosta Suomelle myöntämiä sisäasioiden rahastojen varoja ohjelmakaudella 2021–2027;
+3) yleisasetuksella Euroopan aluekehitysrahastoa, Euroopan sosiaalirahasto plussaa, koheesiorahastoa, oikeudenmukaisen siirtymän rahastoa ja Euroopan meri-, kalatalous- ja vesiviljelyrahastoa koskevista yhteisistä säännöksistä ja varainhoitosäännöistä sekä turvapaikka-, maahanmuutto- ja kotouttamisrahastoa, sisäisen turvallisuuden rahastoa ja rajaturvallisuuden ja viisumipolitiikan rahoitusvälinettä koskevista varainhoitosäännöistä annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2021/1060;
+4) ohjelmalla yleisasetuksen 21 artiklan mukaista turvapaikka-, maahanmuutto- ja kotouttamisrahastoasetukseen perustuvaa turvapaikka-, maahanmuutto- ja kotouttamisrahastoa koskevaa ohjelmaa ja sisäisen turvallisuuden rahastoasetuksen mukaista sisäisen turvallisuuden rahastoa koskevaa ohjelmaa sekä rajaturvallisuuden ja viisumipolitiikan rahoitustukivälineasetukseen perustuvaa rajaturvallisuuden ja viisumipolitiikan rahoitustukivälinettä koskevaa ohjelmaa;
+5) erityistavoitteella turvapaikka-, maahanmuutto- ja kotouttamisrahastoasetuksen 3 artiklassa, sisäisen turvallisuuden rahastoasetuksen 3 artiklassa sekä rajaturvallisuuden ja viisumipolitiikan rahoitustukivälineasetuksen 3 artiklassa tarkoitettua tavoitetta;
+6) operatiivisella tuella turvapaikka-, maahanmuutto- ja kotouttamisrahastoasetuksen 21 artiklassa, sisäisen turvallisuuden rahastoasetuksen 16 artiklassa sekä rajaturvallisuuden ja viisumipolitiikan rahoitustukivälineasetuksen 16 artiklassa tarkoitettua tukea;
+7) temaattisella välineellä turvapaikka-, maahanmuutto- ja kotouttamisrahastoasetuksen 11 artiklan, sisäisen turvallisuuden rahastoasetuksen 8 artiklan sekä rajaturvallisuuden ja viisumipolitiikan rahoitustukivälineasetuksen 8 artiklan mukaisia määrärahoja;
+8) hätäavulla turvapaikka-, maahanmuutto- ja kotouttamisrahastoasetuksen 31 artiklan, sisäisen turvallisuuden rahastoasetuksen 25 artiklan sekä rajaturvallisuuden ja viisumipolitiikan rahoitustukivälineasetuksen 25 artiklan mukaista tukea;
+9) omarahoituksella avustuksen hakijan tai siirron saajan osuutta hankkeen tai toiminnan rahoituksesta, josta se vastaa itse;
+10) muulla julkisella rahoituksella ulkopuolista rahoitusta, jonka valtio, kunta tai muu julkisyhteisö osoittaa avustettavaan hankkeeseen tai toimintaan ilman välittömän vastikkeen saamista ja joka suoritetaan rahana avustuksen hakijalle;
+11) muulla yksityisellä rahoituksella ulkopuolista rahoitusta, jonka yksityisoikeudellinen yhteisö tai luonnollinen henkilö osoittaa avustettavaan hankkeeseen tai toimintaan ilman välittömän vastikkeen saamista ja joka suoritetaan rahana avustuksen hakijalle;
+12) tuotolla hankkeeseen tai toimintaan kohdistuvia sekä siitä välittömästi aiheutuvia tuloja myynnistä, vuokrauksesta, palveluista, maksuista ja muista vastaavista lähteistä;
+13) mahdollistavilla edellytyksillä yleisasetuksen artiklan 15 mukaisia edellytyksiä;
+14) tuloskehyksellä yleisasetuksen artiklan 16 mukaista kehystä;
+15) erityistoimella turvapaikka-, maahanmuutto- ja kotouttamisrahastoasetuksen 18 artiklassa, sisäisen turvallisuuden rahastoasetuksen 15 artiklassa sekä rajaturvallisuuden ja viisumipolitiikan rahoitustukivälineasetuksen 15 artiklassa tarkoitettua toimenpidettä;
+16) yhteisellä erityistoimella useamman kuin yhden valtion hanketta, johon yksi tai useampi jäsenvaltio voi saada erityistoimeen tarkoitettua rahoitusta ohjelmaansa;
+17) toimintaa ohjaavalla valtiolla sitä valtiota, jonka ohjelmaan vastuu yhteisen erityistoimen toteuttamisesta on kirjattu ja jolle on osoitettu unionin talousarviosta ohjelmaan määräraha erityistoimen toteuttamista varten;
+18) osallistuvalla valtiolla sitä valtiota, jonka ohjelmaan osallistuminen yhteisen erityistoimen toteuttamiseen on kirjattu;
+19) päätoteuttajalla yhteisen erityistoimen käynnistämisestä ja täytäntöönpanosta vastaavaa julkisyhteisöä tai yksityisoikeudellista oikeushenkilöä;
+20) osatoteuttajalla yhteisen erityistoimen täytäntöönpanoon osallistuvaa julkisyhteisöä tai yksityisoikeudellista oikeushenkilöä;
+21) kirjanpitotoiminnolla yleisasetuksen 76 artiklan mukaista toimintoa;
+22) siirron saajalla toimijaa, jolle avustuksen saaja siirtää edelleen osan hankkeen tai toiminnan avustuksesta.
