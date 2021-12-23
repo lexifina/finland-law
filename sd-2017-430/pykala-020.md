@@ -7,8 +7,6 @@ Tutkintamääräyksen tunnustamisesta ja täytäntöönpanosta Suomessa tehdyst�
 
 Muutoin kuin mitä 1 momentissa säädetään, tutkintamääräyksen tunnustamisesta ja täytäntöönpanosta Suomessa tehtyyn päätökseen ei saa hakea muutosta.
 
-Suomessa annettuun tutkintamääräykseen ei saa hakea muutosta valittamalla.
-
 Siirrettävä henkilö saa hakea muutosta 12 §:ssä ja 23 §:n 3 momentissa tarkoitettuun päätökseen valittamalla noudattaen, mitä muutoksenhausta käräjäoikeuden ratkaisuun säädetään. Asia on käsiteltävä kiireellisenä.
 
 Muutoksenhaku ei estä toimenpiteen tai päätöksen täytäntöönpanoa, ellei asiaa käsittelevä tuomioistuin toisin määrää.
