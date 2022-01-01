@@ -1,0 +1,8 @@
+# 5 § Kuulutus velkojille
+Luku: 10 luku Sulautuminen
+
+Niillä sulautuvan eläkelaitoksen velkojilla, joiden saatava on syntynyt ennen sulautumissuunnitelman rekisteröimistä, on oikeus vastustaa sulautumista. Sama oikeus on myös velkojalla, jonka saatava on verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007) tarkoitetulla tavalla ulosottokelpoinen, jos saatava on syntynyt viimeistään 2 momentissa tarkoitettuna määräpäivänä.
+
+Jollei Finanssivalvonta katso, että hakemus on enemmittä selvityksittä hylättävä, sen on kuulutettava sulautumista koskevasta hakemuksesta sulautuvan eläkelaitoksen kustannuksella Virallisessa lehdessä sekä merkittävä kuulutus eläkesäätiö- ja vakuutuskassarekisteriin. Kuulutuksessa on mainittava velkojan oikeudesta vastustaa sulautumista ilmoittamalla siitä kirjallisesti Finanssivalvonnalle viimeistään sen määräämässä ajassa, jonka tulee olla vähintään kuukausi ja enintään kaksi kuukautta kuulutuksen julkaisemisesta. Jos velkoja on vastustanut sulautumista, Finanssivalvonnan on ilmoitettava tästä eläkelaitokselle viipymättä määräpäivän jälkeen. Jos velkoja vastustaa sulautumista, sulautuminen raukeaa kuukauden kuluttua määräpäivästä. Finanssivalvonnan on kuitenkin lykättävä asian käsittelyä, jos eläkelaitos osoittaa kuukauden kuluessa määräpäivästä panneensa vireille kanteen sen vahvistamiseksi, että velkoja on saanut maksun tai turvaavan vakuuden saatavastaan, taikka jos eläkelaitos ja velkoja yhdessä pyytävät asian käsittelyn lykkäämistä.
+
+Mitä 1 ja 2 momentissa säädetään, ei sovelleta vakuutettuihin, eläkkeen- tai muun etuuden saajaan eikä edunsaajaan.

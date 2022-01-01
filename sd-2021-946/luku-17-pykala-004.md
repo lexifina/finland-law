@@ -1,0 +1,4 @@
+# 4 § Salassapitovelvollisuus
+Luku: 17 luku Erinäiset säännökset
+
+Joka eläkelaitoksen tai sen toimintaan liittyviä palveluita tuottavan yhteisön palveluksessa tai sen toimielimen jäsenenä tai varajäsenenä tai eläkelaitoksen antaman toimeksiannon perusteella tehtävää suorittaessaan taikka vakuutusalan lautakunnan tai vastaavan toimielimen palveluksessa tai jäsenenä tai asiantuntijana toimeksiannon perusteella taikka 5 tai 6 §:n nojalla on saanut tietää eläkelaitoksen, osakkaan, edunsaajan tai jonkun muun taloudellisesta asemasta tai liikesalaisuudesta taikka jonkun terveydentilaa tai muita henkilökohtaisia oloja koskevan seikan, ei saa tätä ilmaista sivulliselle, jollei se, jonka hyväksi vaitiolovelvollisuus on säädetty, anna suostumustaan tiedon ilmaisemiseen tai jollei laissa muuta säädetä.
