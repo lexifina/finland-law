@@ -7,4 +7,6 @@ Tulli toimii NLF-asetuksen 27–29 artiklassa tarkoitettuna ulkorajatarkastuksis
 
 Säteilyturvakeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen säteilylaissa tarkoitettujen tuotteiden osalta.
 
-Liikenne- ja viestintävirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen ilmailulaissa tarkoitettujen ja ajoneuvolaissa tarkoitettujen tuotteiden osalta.
+Liikenne- ja viestintävirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen ilmailulaissa tarkoitettujen, ajoneuvolaissa tarkoitettujen ja ympäristönsuojelulain 24 a §:n 3 momentissa tarkoitettujen tuotteiden osalta.
+
+Poiketen siitä, mitä 1 momentissa säädetään, Suomen ympäristökeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen ympäristönsuojelulain 24 a §:n 2 momentissa tarkoitettujen tuotteiden ja EU-ympäristömerkistä annetussa laissa tarkoitettujen tuotteiden osalta.
