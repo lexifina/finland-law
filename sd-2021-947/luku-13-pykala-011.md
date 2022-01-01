@@ -1,0 +1,4 @@
+# 11 § Sosiaali- ja työoikeuden sekä tietojen toimittamista koskevien vaatimusten noudattamisen valvonta
+Luku: 13 luku Rajat ylittävä toiminta
+
+Finanssivalvonta valvoo, että ulkomainen ETA-lisäeläkelaitos noudattaa 9 §:n 1 momentissa tarkoitettuja vaatimuksia. Finanssivalvonnan on ilmoitettava valvonnassa havaitsemistaan rikkomuksista ulkomaisen ETA-lisäeläkelaitoksen kotivaltion toimivaltaiselle viranomaiselle. Jos rikkomus jatkuu toimivaltaisen viranomaisen toimenpiteistä huolimatta tai toimenpiteiden puuttuessa, Finanssivalvonta voi rajoittaa ulkomaisen ETA-lisäeläkelaitoksen toimintaa tai, jos se on välttämätöntä rikkomuksen lopettamiseksi, kieltää toiminnan Suomessa noudattaen, mitä Finanssivalvonnasta annetun lain 61 §:n 3 momentissa säädetään ulkomaisen ETA-sivuliikkeen toiminnan rajoittamisesta ja kieltämisestä.

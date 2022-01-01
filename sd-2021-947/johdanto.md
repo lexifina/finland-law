@@ -1,0 +1,2 @@
+Laki lisäeläkesäätiöistä ja lisäeläkekassoista
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,6 @@
+# 10 § Eläkesäätiöistä ja eläkekassoista annetun lain soveltaminen
+Luku: 1 luku Lain soveltaminen ja toiminnan keskeiset periaatteet
+
+Lisäeläkelaitokseen sovelletaan, mitä eläkesäätiöistä ja eläkekassoista annetussa laissa (946/2021), jäljempänä eläkesäätiö- ja eläkekassalaki, säädetään eläkelaitoksesta. Lisäeläkesäätiöön sovelletaan, mitä eläkesäätiö- ja eläkekassalaissa säädetään eläkesäätiöstä. Lisäeläkekassaan sovelletaan, mitä eläkesäätiö- ja eläkekassalaissa säädetään eläkekassasta. Lisäeläkelaitokseen, lisäeläkesäätiöön tai lisäeläkekassaan ei kuitenkaan sovelleta eläkesäätiö- ja eläkekassalain 1 luvun 1–5 §:ää, 2 luvun 4, 8 ja 9 §:ää, 4 luvun 4, 8, 15 ja 26 §:ää, 5 luvun 2–4, 8 ja 9 §:ää, 6 luvun 3 ja 6 §:ää, 7 ja 8 lukua, 10 luvun 1, 3, 7, 13 ja 14 §:ää, 11 luvun 3, 4 ja 15 §:ää, 12 luvun 1–6, 10–12, 15–18, 20, 22, 23 ja 27 §:ää, 13 luvun 1, 2, 4–6, 12, 14, 17–26, 28–30 ja 39 §:ää, 14 luvun 2–8 §:ää, 16 luvun 1–3 §:ää eikä 17 luvun 2 §:ää.
+
+Sen lisäksi, mitä 1 momentissa säädetään, lisäeläkelaitokseen, jossa on vähintään 100 vakuutettua, ei sovelleta eläkesäätiö- ja eläkekassalain 4 luvun 22–25 §:ää. Sen lisäksi, mitä 1 momentissa säädetään, lisäeläkelaitoksiin, joissa on vähemmän kuin 100 vakuutettua, ei sovelleta eläkesäätiö- ja eläkekassalain 4 luvun 22 §:n 3 momenttia eikä 24 §:n 2 momenttia.

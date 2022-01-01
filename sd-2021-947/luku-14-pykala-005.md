@@ -1,0 +1,4 @@
+# 5 § Finanssivalvonnan valvontatehtävät
+Luku: 14 luku Rajat ylittävät siirrot
+
+Jos Finanssivalvonta on 4 §:ssä tarkoitetussa tilanteessa vastaanottavan valtion toimivaltainen viranomainen, Finanssivalvonta valvoo, että vastaanottava lisäeläkelaitos noudattaa mainitun pykälän 1 ja 2 momentissa tarkoitettuja vaatimuksia. Finanssivalvonnan on ilmoitettava valvonnassa havaitsemistaan rikkomuksista vastaanottavan lisäeläkelaitoksen kotivaltion toimivaltaiselle viranomaiselle. Jos rikkomus jatkuu edellä tarkoitetun toimivaltaisen viranomaisen toimenpiteistä huolimatta tai toimenpiteiden puuttuessa, Finanssivalvonta voi rajoittaa vastaanottavan lisäeläkelaitoksen toimintaa tai kieltää toiminnan Suomessa noudattaen, mitä Finanssivalvonnasta annetun lain 61 §:n 3 momentissa säädetään ulkomaisen ETA-sivuliikkeen toiminnan rajoittamisesta ja kieltämisestä.

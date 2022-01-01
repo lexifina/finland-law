@@ -1,0 +1,10 @@
+# 10 § Tietojenvaihto ja yhteistyö
+Luku: 15 luku Lisäeläkelaitoksen ja ulkomaisen ETA-lisäeläkelaitoksen valvonta sekä tietojen antaminen
+
+Finanssivalvonnan on edistettävä tietojenvaihtoa ETA-valtioiden toimivaltaisten viranomaisten välillä ammatillisia lisäeläkkeitä tarjoavien laitosten valvontaa koskevien parhaiden käytäntöjen ja yhteistyön kehittämiseksi, kilpailun vääristymisen estämiseksi sekä rajat ylittävän toiminnan ja rajat ylittävien siirtojen edellytysten turvaamiseksi. Finanssivalvonnan on tietojenvaihtoa edistäessään toimittava tarkoituksenmukaisessa yhteistyössä työmarkkinajärjestöjen kanssa.
+
+Finanssivalvonnan on toimittava yhteistyössä Euroopan komission kanssa ammatillisia lisäeläkkeitä tarjoavien laitosten valvonnan helpottamiseksi.
+
+Finanssivalvonnan on valvoessaan ammatillisia lisäeläkkeitä tarjoavien laitosten toiminnasta ja valvonnasta annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2016/2341 soveltamisalaan kuuluvaa toimintaa toimittava yhteistyössä Euroopan vakuutus- ja lisäeläkeviranomaisen kanssa Euroopan valvontaviranomaisen (Euroopan vakuutus- ja lisäeläkeviranomainen) perustamisesta sekä päätöksen N:o 716/2009/EY muuttamisesta ja komission päätöksen 2009/79/EY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1094/2010 mukaisesti sekä toimitettava ilman aiheetonta viivytystä mainitun asetuksen 35 artiklan mukaisesti Euroopan vakuutus- ja lisäeläkeviranomaiselle kaikki tiedot, joita tämä tarvitsee mainitun direktiivin ja mainitun asetuksen mukaisten tehtäviensä suorittamiseksi.
+
+Finanssivalvonnan on ilmoitettava Euroopan komissiolle ja Euroopan vakuutus- ja lisäeläkeviranomaiselle ammatillisia lisäeläkkeitä tarjoavien laitosten toiminnasta ja valvonnasta annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2016/2341 soveltamiseen liittyvistä merkittävistä vaikeuksista ja pyrittävä yhteistyössä Euroopan komission, Euroopan vakuutus- ja lisäeläkeviranomaisen ja muun ETA-valtion toimivaltaisten viranomaisten kanssa ratkaisemaan edellä tarkoitetut vaikeudet viipymättä.
