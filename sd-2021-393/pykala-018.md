@@ -1,0 +1,5 @@
+# 18 § Asuvan asukkaan etusija asumisoikeuden haltijaksi
+Osa: I OSA YLEISET SÄÄNNÖKSET
+Luku: 2 luku Valtion tukemien asumisoikeusasuntojen asukasvalinta
+
+Jos muussa käytössä kuin asumisoikeuskäytössä oleva talo muutetaan asumisoikeustaloksi, voidaan osakeomistuksen tai huoneenvuokrasopimuksen perusteella huoneistoa tällöin hallitseva 18 vuotta täyttänyt henkilö tai häneltä oikeutensa johtava huoneistossa asuva perheenjäsen hyväksyä asumisoikeuden haltijaksi 12–17 §:ssä säädetyn estämättä. Hän voi halutessaan myös jatkaa huoneiston hallintaa vuokralaisena tai huoneiston hallintaan oikeuttavien osakkeiden omistajana tai osa-omistajana, ja hänet voidaan 12–17 §:ssä säädetyn estämättä myöhemmin hyväksyä asumisoikeuden haltijaksi asuntoon, jota hän tai hänen perheensä on hallinnut jo ennen talon muuttamista asumisoikeustaloksi. Jos edellä tarkoitettu asunto vapautuu sitä asumisoikeustaloksi muutettaessa hallinneelta tai häneltä oikeutensa johtaneelta, valitaan asumisoikeuden haltija siten kuin 12–17 §:ssä säädetään.
