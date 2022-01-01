@@ -6,7 +6,7 @@ Väliotsikko: Poikkeukset maahantuonnin verollisuudesta
 Verotonta on seuraavien tavaroiden maahantuonti:
 1) äidinmaito, ihmisveri sekä ihmiselimet ja ihmiskudokset;
 2) sähkö, maakaasuverkon tai siihen yhdistetyn verkon kautta toimitettava kaasu, kaasusäiliöaluksesta maakaasuverkkoon tai tuotantovaiheen kaasuputkistoon syötettävä kaasu sekä lämpö- ja jäähdytysverkon kautta toimitettava lämpö- ja jäähdytysenergia;
-3–4 kohdat on kumottu L:lla 16.12.1994/1218.
+3) 38 e §:ssä tarkoitetut lääkinnälliset laitteet;
 5) 43 b §:ssä tarkoitettu sijoituskulta;
 7) 56 §:ssä tarkoitetut sanoma- ja aikakauslehden painokset;
 8) kulta, kun maahantuojana on keskuspankki;

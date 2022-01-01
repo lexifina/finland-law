@@ -5,6 +5,7 @@ Luku: 22 luku Laskut ja muut tositteet
 Myyjän on annettava ostajalle lasku, jos ostajana on elinkeinonharjoittaja tai oikeushenkilö, joka ei ole elinkeinonharjoittaja:
 1) verollisesta tavaran tai palvelun myynnistä;
 2) myynnistä, joka on veroton 38 d, 43 a, 56 ja 58 §:n, 59 §:n 4 kohdan, 70, 70 b, 71, 72, 72 a–72 e ja 72 h §:n nojalla;
+2 a) myynnistä, joka on veroton 38 e §:n nojalla;
 3) sellaisesta myynnistä toisessa jäsenvaltiossa, joka olisi 4, 5, 27, 34, 36, 37, 39 ja 45 §:n, 59 §:n 1–3 ja 5–6 kohdan sekä 60 ja 61 §:n nojalla veroton, jos se olisi tapahtunut Suomessa.
 
 Lasku on annettava myös:
