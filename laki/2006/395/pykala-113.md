@@ -6,4 +6,6 @@ Eläkettä aletaan maksaa sitä seuraavan kalenterikuukauden alusta, jona oikeus
 
 Jos eläkelaitoksella on syytä epäillä, että eläkkeensaaja ei enää täytä eläkkeen saamisen edellytyksiä, eläkelaitos voi keskeyttää eläkkeen maksamisen. Edellytyksenä on, että eläkelaitos on pyytänyt eläkkeensaajalta selvityksen eläkkeen määrään tai eläkeoikeuteen liittyvistä seikoista, mutta eläkkeensaaja ei tällaista selvitystä eläkelaitoksen ilmoittamassa kohtuullisessa ajassa esitä.
 
-Jos eläkkeensaajan kuolemasta ei voida esittää selvitystä, mutta on todennäköistä, että hän on kuollut hukkumisen, muun onnettomuuden tai muun niihin rinnastettavan syyn vuoksi, eläkelaitos voi lakkauttaa eläkkeen eläkkeensaajan katoamispäivään.
+Jos eläkkeensaajan kuolemasta ei voida esittää selvitystä, mutta on todennäköistä, että hän on kuollut hukkumisen, muun onnettomuuden tai muun niihin rinnastettavan syyn vuoksi, eläkelaitos lakkauttaa eläkkeen poliisille tehdyn katoamisilmoituksen tai muun vastaavan selvityksen perusteella arvioimaansa eläkkeensaajan todennäköistä kuolinpäivää seuraavan kuukauden alusta.
+
+Jos perhe-eläke on myönnetty tämän lain perusteella ja myöhemmin ilmenee, että edunjättäjä on elossa, perhe-eläke lakkautetaan selvityksen saamista seuraavan kuukauden alusta.

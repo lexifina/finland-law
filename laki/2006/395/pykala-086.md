@@ -9,3 +9,5 @@ Lapseneläkkeiden yhteismäärä on perhe-eläkkeen perusteesta, jollei 92 tai 9
 4) 10/12, jos lapsia on neljä tai useampia.
 
 Lapseneläkkeen yhteismäärä jaetaan tasan edunsaajina olevien lasten kesken.
+
+Lapseneläkkeenä maksettava 56 §:n 3 momentissa tarkoitettu osuus perhe-eläkkeestä jaetaan tasan edunsaajina olevien lasten kesken.
