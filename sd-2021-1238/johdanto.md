@@ -1,0 +1,2 @@
+Laki tutkimustietovarannosta
+Eduskunnan päätöksen mukaisesti säädetään:
