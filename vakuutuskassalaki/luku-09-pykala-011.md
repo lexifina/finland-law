@@ -1,0 +1,6 @@
+# 11 § Velkojen maksaminen ja omaisuuden jakaminen
+Luku: 9 luku Lakisääteinen selvitystila ja purkaminen
+
+Vakuutuskassan velkojille haetun 10 §:ssä tarkoitetun julkisen haasteen määräpäivän jälkeen ja sen jälkeen, kun vakuutuskassan vakuutukset ovat lakanneet olemasta voimassa, selvitysmiehen on maksettava kaikki tiedossa olevat velat vakuutuskassan jäljellä olevilla varoilla. Ensin maksetaan selvitysmenettelystä johtuvat ja 9 §:ssä tarkoitetut etuoikeutetut velat ja näiden jälkeen muut velat. Jos velka on riitainen tai erääntymätön tai jos sitä ei muusta syystä voida maksaa, tarpeelliset varat on pantava erilleen. Jos vakuutuskassalle jää varoja sen jälkeen, kun se on suorittanut velkansa ja täyttänyt kaikki muutkin sitoumuksensa, ne käytetään vakuutuskassan säännöissä määrätyllä tavalla.
+
+Jollei varoja kahden vuoden kuluessa ole saatu jaetuksi, Finanssivalvonnan tulee määrätä ajankohta, jolloin varat on jaettava säännöissä määrätyllä tavalla. Jos jakamatta jäänyt jako-osuus on vähäinen jaettuun omaisuuteen verrattuna, Finanssivalvonta voi selvitysmiesten ilmoituksesta määrätä sen lankeavaksi valtiolle tai käytettäväksi johonkin kassan toimintaan läheisesti liittyvään käyttötarkoitukseen.

@@ -1,0 +1,2 @@
+Vakuutuskassalaki
+Eduskunnan päätöksen mukaisesti säädetään:
