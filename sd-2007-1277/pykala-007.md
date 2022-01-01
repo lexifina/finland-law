@@ -1,0 +1,4 @@
+# 7 § Ulkomaisen työntekijöiden yhdistyksen asema
+Luku: 3 luku Kauppa-alusluetteloon merkityllä aluksella sovellettavat työoikeudelliset säännökset
+
+Poiketen siitä, mitä työehtosopimuslain (436/1946) 1 §:n 1 momentissa säädetään, kauppa-alusluetteloon merkityn aluksen työsuhteissa noudatettavan työehtosopimuksen voi tehdä, jolleivät asianomaiset suomalaiset työmarkkinaosapuolet ole tehneet samaa työtä koskevaa työehtosopimusta, myös sellainen ulkomainen työntekijöiden yhdistys, joka täyttää ammatillista järjestäytymisvapautta ja ammatillisen järjestäytymisoikeuden suojelua koskevassa Kansainvälisen työjärjestön sopimuksessa (SopS 45/1949) sekä järjestäytymisoikeuden ja kollektiivisen neuvotteluoikeuden periaatteiden soveltamista koskevassa Kansainvälisen työjärjestön sopimuksessa (SopS 32/1951) asetetut edellytykset.

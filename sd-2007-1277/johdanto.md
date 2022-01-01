@@ -1,0 +1,2 @@
+Laki meriliikenteessä käytettävien alusten kilpailukyvyn parantamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
