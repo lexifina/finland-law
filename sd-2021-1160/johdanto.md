@@ -1,0 +1,2 @@
+Laki Punkaharjun luonnonsuojelualueen rajauksen muuttamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
