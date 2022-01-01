@@ -8,7 +8,7 @@ Eläkelaitokset, mukaan lukien Merimieseläkekassa, vastaavat yhteisesti seuraav
 3) perhe-eläke;
 4) osittainen varhennettu vanhuuseläke;
 5) kuntoutuskorotus;
-6) 170 §:ssä tarkoitetut vastuuvelan ja eläkevastuun laskuperusteiden muuttamisesta aiheutuvat kustannukset;
+6) 170 §:ssä tarkoitetut vastuuvelan laskuperusteiden muuttamisesta aiheutuvat kustannukset;
 7) 174 §:n 2 ja 3 kohdassa tarkoitetuista siirroista aiheutuvat kustannukset;
 8) vajaus, joka syntyy sen vuoksi, että työnantaja on 155 §:n perusteella vapautettu vakuutusmaksusta;
 9) merimieseläkelain 159 §:n 1 momentin 1–7 ja 9 kohdassa tarkoitetut, mainittuun lakiin perustuvan eläketurvan aiheuttamien kulujen osuudet; ja

@@ -7,7 +7,7 @@ Työnantajan on järjestettävä 4, 5 ja 7 §:ssä tarkoitetulle työntekijälle
 
 Työnantajan on järjestettävä työntekijänsä eläketurva:
 1) työeläkevakuutusyhtiössä;
-2) eläkekassassa perustamalla vakuutuskassalaissa tarkoitetulla tavalla eläkekassa tai liittymällä sellaisen eläkekassan osakkaaksi, jonka toimintapiiriin työnantaja kuuluu; tai
-3) eläkesäätiössä perustamalla eläkesäätiölaissa tarkoitetulla tavalla eläkesäätiö tai liittymällä sellaiseen yhteiseläkesäätiöön, johon työnantaja eläkesäätiölain mukaan voi kuulua.
+2) eläkekassassa perustamalla eläkesäätiöistä ja eläkekassoista annetussa laissa tarkoitetulla tavalla eläkekassa tai liittymällä sellaisen eläkekassan osakkaaksi, jonka toimintapiiriin työnantaja kuuluu; taikka
+3) eläkesäätiössä perustamalla eläkesäätiöistä ja eläkekassoista annetussa laissa tarkoitetulla tavalla eläkesäätiö tai liittymällä sellaisen eläkesäätiön osakkaaksi, jonka toimintapiiriin työnantaja kuuluu.
 
 Työnantaja voi järjestää työntekijöidensä eläketurvan kahdessa tai useammassa eläkelaitoksessa edellyttäen, että kuhunkin järjestelyyn kuuluvat työntekijäryhmät on riittävän selkeästi määritelty.

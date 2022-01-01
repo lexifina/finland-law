@@ -13,4 +13,4 @@ Myös silloin, kun kysymys ei ole julkisuuslain 4 §:n 2 momentissa tarkoitetun 
 
 Sovellettaessa 2 momenttia tietojen luovuttamisesta on voimassa, mitä salassapidosta poikkeamisesta ja sen lakkaamisesta säädetään julkisuuslain 7 luvussa.
 
-Tätä lakia toimeenpantaessa ei sovelleta, mitä vakuutusyhtiölain (521/2008) 30 luvun 1, 3 ja 4 §:ssä, eläkesäätiölain 132, 132 a ja 132 c §:ssä tai vakuutuskassalain 165, 165 a ja 165 c §:ssä säädetään vaitiolovelvollisuudesta ja tietojen luovuttamisesta.
+Tätä lakia toimeenpantaessa ei sovelleta, mitä vakuutusyhtiölain (521/2008) 30 luvun 1, 3 ja 4 §:ssä sekä eläkesäätiöistä ja eläkekassoista annetun lain 16 luvun 4 §:ssä ja 17 luvun 4 ja 5 §:ssä säädetään vaitiolovelvollisuudesta ja tietojen luovuttamisesta.

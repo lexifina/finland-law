@@ -7,7 +7,7 @@ Eläkkeen perusteena olevaa työansiota määrättäessä otetaan huomioon palkk
 
 Eläkkeen perusteena olevaan työansioon luetaan myös työstä maksettava vastike, joka on osaksi tai kokonaan sovittu hyvitettäväksi:
 1) yleisöltä saatavilla palvelu- tai lahjarahoilla ja ne otetaan huomioon samansuuruisina kuin viimeksi toimitetussa verotuksessa, jos muuta luotettavaa selvitystä niiden määrästä ei esitetä;
-2) vakuutuskassalaissa tarkoitetun sairauskassan maksamalla päivärahalla, jota työntekijä saa laissa säädetyn tai työehto- tai muussa sopimuksessa sovitun palkan sijasta;
+2) vakuutuskassalaissa (948/2021) tarkoitetun sairauskassan maksamalla päivärahalla, jota työntekijä saa laissa säädetyn tai työehtosopimuksessa tai muussa sopimuksessa sovitun palkan sijasta;
 3) lasten kotihoidon ja yksityisen hoidon tuesta annetun lain (1128/1996) mukaisella yksityisen hoidon tuella tai vastaavalla muulla valtion tai kunnan maksamalla tuella;
 4) tuloverolain (1535/1992) 33 b §:n 3 momentissa tarkoitettuna työpanokseen perustuvana osinkona.
 
