@@ -1,0 +1,5 @@
+# 11 §
+
+Valtioneuvostolla tai sen määräämällä viranomaisella on oikeus sellaisen rahdinkuljettajan hakemuksesta, joka suorittaa 7 tai 8 §:ssä tarkoitettua ydinaineen kuljetusta, määrätä, että rahdinkuljettaja on Suomessa olevan ydinlaitoksen haltijan asemesta vastuussa kuljetuksen aikana tai sen yhteydessä sattuneesta ydintapahtumasta johtuneesta ydinvahingosta. Tällainen määräys saadaan antaa vain, jos laitoksenhaltija on antanut tähän suostumuksensa ja jos rahdinkuljettaja on osoittanut että 23–27 §:ssä säädetty vakuutus on otettu tai 28 §:n 2 momentin mukainen taloudellinen takuu annettu. Määräyksen antamisen jälkeen sovelletaan tämän lain laitoksenhaltijaa koskevia säännöksiä rahdinkuljettajaan laitoksen haltijan asemesta kuljetuksen aikana tai sen yhteydessä sattuneen ydintapahtuman osalta.
+
+Jos vastaavanlainen määräys on annettu toisen sopimusvaltion lainsäädännön mukaan sellaisen ydinvahingon osalta, josta siinä valtiossa sijaitsevan laitoksen haltija olisi vastuussa, on tällaisella määräyksellä tämän lain mukaan sama vaikutus kuin 1 momentin mukaisella määräyksellä.

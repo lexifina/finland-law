@@ -1,0 +1,5 @@
+# 33 §
+
+Jos ydintapahtuma, jonka vahinkovaikutuksista Suomessa olevan ydinlaitoksen haltija on vastuussa, on aiheuttanut henkilövahingon Suomessa tai henkilövahingon Suomen kansalaiselle tämän oleskellessa muualla ja sellainen ydinvahinko on ilmennyt ennen kuin laitoksenhaltijan vastuu on 22 §:n tai muun sopimusvaltion lain vastaavan säännöksen nojalla lakannut, suoritetaan korvaus valtion varoista, vaikka siihen oikeutettu ei ole nostanut kannetta säädetyssä ajassa tai muutoin ryhtynyt toimenpiteisiin vanhentumisajan keskeyttämiseksi, jos hänellä on ollut siihen hyväksyttävä syy.
+
+Jos muiden vahingonkärsijöiden osalta on määrätty korvausten alentamisesta 20 §:n 1 momentin nojalla tai valtion varoista suoritettavan korvauksen alentamisesta 32 §:n 2 momentin nojalla taikka muun sopimusvaltion lain vastaavien säännösten perusteella, on valtion varoista 1 momentin mukaan suoritettavaa korvausta alennettava samassa määrin. Vahingonkorvausvelvollisuus määräytyy muutoin samalla tavoin kuin, jos laitoksenhaltija olisi vastannut vahingosta. Korvausvaade on ilmoitettava 22 §:n 1 momentissa säädetyssä ajassa Valtiokonttorille.
