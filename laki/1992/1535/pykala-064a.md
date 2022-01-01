@@ -5,3 +5,5 @@ Luku: 4 luku Ansiotulon veronalaisuus
 Autoedun verotusarvosta vähennetään 170 euroa jokaiselta sellaiselta kuukaudelta, jona etu on muodostunut sellaisen auton käyttämisestä, jonka autoverolain (777/2020) 10 §:n 1 momentissa tarkoitettu ajonaikainen hiilidioksidipäästö on 0 grammaa kilometriä kohden. Säännöstä sovelletaan vuonna 2020 tai sen jälkeen Suomeen ensirekisteröityihin autoihin.
 
 Veronalaista tuloa ei synny työnantajan kustantaessa työntekijän oman auton tai auton käyttöedun perusteena olevan auton lataamisen työpaikalla tai julkisessa latauspisteessä.
+
+Verovuosina 2022–2025 autoedun verotusarvosta vähennetään 85 euroa jokaiselta sellaiselta kuukaudelta, jona etu on muodostunut sellaisen auton käyttämisestä, jonka autoverolain 10 §:n 1 momentissa tarkoitettu ajonaikainen hiilidioksidipäästö on vähintään 1 ja enintään 100 grammaa kilometriä kohden. Säännöstä sovelletaan vuonna 2021 tai sen jälkeen Suomeen ensirekisteröityihin autoihin.

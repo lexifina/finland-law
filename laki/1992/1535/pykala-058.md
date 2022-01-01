@@ -2,7 +2,7 @@
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
 Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
-Verovelvollisella on oikeus vähentää pääomatuloistaan velkojensa korot, jos velka kohdistuu veronalaisen tulon hankkimiseen, jollaisena pidetään myös osinkotuloa sen estämättä, että osinkotulo on 33 a–33 d §:n nojalla verovapaata tuloa (tulonhankkimisvelka). Veronalaisena tulona ei kuitenkaan pidetä verovelvollisen tuloksi 53 a §:n nojalla luettua osakaslainaa.
+Verovelvollisella on oikeus vähentää pääomatuloistaan velkojensa korot, jos velka kohdistuu veronalaisen tulon hankkimiseen, jollaisena pidetään myös osinkotuloa sen estämättä, että osinkotulo on 33 a–33 d §:n nojalla verovapaata tuloa (tulonhankkimisvelka). Veronalaisena tulona ei kuitenkaan pidetä verovelvollisen tuloksi 53 a §:n nojalla luettua osakaslainaa. Tulonhankkimisvelkana pidetään myös tulonhankkimiskäytössä olevan yhteisetuuden osuuden hankintaan kohdistuvaa velkaa.
 
 Korko, joka on maksettu ennen aikaa, jolta se on laskettu, on vähennyskelpoinen vain siltä osin kuin se kohdistuu verovuoteen ja sitä seuraavaan vuoteen.
 
