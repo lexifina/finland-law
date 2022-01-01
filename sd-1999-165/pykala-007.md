@@ -1,4 +1,4 @@
 # 7 § Laskelma eläkeoikeudesta
-Luku: 2 luku Eläkeoikeuden siirto Euroopan yhteisöihin
+Luku: 2 luku Eläkeoikeuden siirto Euroopan unioniin
 
-Saatuaan Euroopan yhteisöjen hallinnolta ilmoituksen eläkeoikeuden siirtohakemuksesta eläketurvakeskus pyytää toimivaltaisilta eläkelaitoksilta päätökset hakijan 4 §:n mukaisesti määrätyistä eläkeoikeuksista sekä antaa näistä hakijalle yhteenvedon ja ennakkolaskelman siirtomäärästä. Eläketurvakeskus lähettää ennakkolaskelman tiedoksi Euroopan yhteisöjen hallinnolle.
+Saatuaan Euroopan unionin hallinnolta ilmoituksen eläkeoikeuden siirtohakemuksesta Eläketurvakeskus pyytää toimivaltaisilta eläkelaitoksilta päätökset hakijan 4 §:n mukaisesti määrätyistä eläkeoikeuksista sekä antaa näistä hakijalle yhteenvedon ja ennakkolaskelman siirtomäärästä. Eläketurvakeskus lähettää ennakkolaskelman tiedoksi Euroopan unionin hallinnolle.
