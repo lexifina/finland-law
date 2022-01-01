@@ -1,4 +1,4 @@
-# 24 a § Maksujen muutosten rajoittaminen
+# 24 a §
 Luku: 7 luku Kuluttajaluotot
 
-Poiketen siitä, mitä 24 §:n 4 momentissa säädetään, luottosopimuksen johdosta perittäviä maksuja ei saa korottaa.
+24 a § oli väliaikaisesti voimassa 1.7.2020–31.12.2020 L:lla 512/2020 ja 1.1.2021–30.9.2021 L:lla 1194/2020.

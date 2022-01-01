@@ -1,5 +1,5 @@
 # 4 § Luovutuksen ajankohta
-Luku: 5 luku Kuluttajankauppa
+Luku: 5 luku Tavarankauppa
 
 Jollei ole sovittu, että tavara on luovutettava määrättynä ajankohtana taikka vaadittaessa tai viipymättä, se on luovutettava ilman aiheetonta viivytystä ja viimeistään 30 päivän kuluttua sopimuksen tekemisestä.
 

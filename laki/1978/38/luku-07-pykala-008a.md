@@ -1,4 +1,4 @@
-# 8 a § Mainonnassa annettava varoitus koron nousemisesta
+# 8 a §
 Luku: 7 luku Kuluttajaluotot
 
-Jos kuluttajaluoton tai luotonvälityspalvelun mainonnassa viitataan 17 c §:n 1 momentissa tarkoitettuun korkokattoon ja mainostettavan luoton korko voi luottosopimuksen ehtojen mukaan nousta korkokaton voimassaolon päätyttyä, mainonnassa on samassa yhteydessä varoitettava kuluttajia mahdollisesta koron nousemisesta korkokaton voimassaolon päättymisen jälkeen.
+8 a § oli väliaikaisesti voimassa 1.1.2021–30.9.2021 L:lla 1194/2020.

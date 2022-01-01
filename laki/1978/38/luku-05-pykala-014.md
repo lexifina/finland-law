@@ -1,7 +1,6 @@
-# 14 § Sellaisena kuin se on -ehto
-Luku: 5 luku Kuluttajankauppa
+# 14 § Oikeudellinen virhe
+Luku: 5 luku Tavarankauppa
 
-Jos tavara on myyty ""sellaisena kuin se on"" tai samankaltaista yleistä varaumaa käyttäen, siinä katsotaan kuitenkin olevan virhe, jos:
-1) tavara ei vastaa niitä tietoja, jotka myyjä on ennen kaupantekoa antanut sen ominaisuuksista tai käytöstä ja joiden voidaan olettaa vaikuttaneen kauppaan;
-2) myyjä on ennen kaupantekoa laiminlyönyt antaa ostajalle tiedon sellaisesta tavaran ominaisuuksia tai käyttöä koskevasta olennaisesta seikasta, josta hänen täytyy olettaa tienneen ja josta ostaja perustellusti saattoi olettaa saavansa tiedon, ja laiminlyönnin voidaan olettaa vaikuttaneen kauppaan; tai
-3) tavara on huonommassa kunnossa kuin ostajalla sen hinta ja muut olosuhteet huomioon ottaen on ollut perusteltua aihetta edellyttää.
+Tavarassa on myös virhe, jos sivullisella on omistus-, pantti- tai muu oikeus tavaraan (oikeudellinen virhe), eikä sopimuksesta seuraa, että ostajan on vastaanotettava tavara sivullisen oikeudesta johtuvin rajoituksin.
+
+Ostaja saa vaatia oikeudellisesta virheestä johtuvia seuraamuksia myös silloin, kun sivullinen väittää, että hänellä on 1 momentissa tarkoitettu oikeus, ja väitteelle on todennäköisiä perusteita.

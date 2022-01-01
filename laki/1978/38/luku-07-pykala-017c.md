@@ -1,6 +1,4 @@
-# 17 c § Perittävän koron enimmäismäärä
+# 17 c §
 Luku: 7 luku Kuluttajaluotot
 
-Kuluttajan nostamalle luotolle ei saa periä 10:tä prosenttia suurempaa korkoa, vaikka luoton korko olisi sovittu tätä suuremmaksi.
-
-Mitä 24 §:n 2 momentissa säädetään luotonantajan velvollisuudesta ilmoittaa koron muutoksesta ennen sen voimaantuloa, ei koske 1 momentista johtuvaa koron alenemista.
+17 c § oli väliaikaisesti voimassa 1.7.2020–31.12.2020 L:lla 512/2020 ja 1.1.2021–30.9.2021 L:lla 1194/2020.

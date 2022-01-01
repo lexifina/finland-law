@@ -1,5 +1,5 @@
 # 8 § Oikeus vaatia sopimuksen täyttämistä
-Luku: 5 luku Kuluttajankauppa
+Luku: 5 luku Tavarankauppa
 
 Tavaran luovutuksen viivästyessä ostajalla on oikeus vaatia myyjältä sopimuksen täyttämistä. Myyjä ei kuitenkaan ole velvollinen täyttämään sopimusta, jos sille on olemassa este, jota myyjä ei voi voittaa, tai jos sopimuksen täyttäminen edellyttäisi uhrauksia, jotka ovat kohtuuttomia verrattuna sopimuksen täyttämisen merkitykseen ostajalle.
 

@@ -1,5 +1,5 @@
 # 30 § Vahingon rajoittaminen ja vahingonkorvauksen sovittelu
-Luku: 5 luku Kuluttajankauppa
+Luku: 5 luku Tavarankauppa
 
 Vahinkoa kärsivän sopijapuolen on ryhdyttävä kohtuullisiin toimenpiteisiin vahinkonsa rajoittamiseksi. Jos hän laiminlyö tämän, hän saa itse kärsiä vastaavan osan vahingosta.
 

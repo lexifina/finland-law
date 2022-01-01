@@ -1,10 +1,13 @@
-# 15 b § Tiedot takuusta
-Luku: 5 luku Kuluttajankauppa
+# 15 b § Takuun sisältö ja toimitus
+Luku: 5 luku Tavarankauppa
 
-Takuusta on selkeästi käytävä ilmi:
-1) takuun sisältö sekä se, että ostajalla on lain mukaiset oikeudet, ja että takuulla ei rajoiteta näitä oikeuksia; sekä
-2) takuun antaja, voimassaoloaika ja -alue sekä muut takuuseen perustuvien vaatimusten esittämisen kannalta tarpeelliset tiedot.
+Takuusta on laadittava selkeä ja ymmärrettävä todistus, joka on toimitettava ostajalle viimeistään tavaran luovutushetkellä henkilökohtaisesti kirjallisesti tai sähköisesti siten, että ostaja voi tallentaa ja toisintaa sen muuttumattomana (takuutodistus).
 
-Ostajan pyynnöstä takuu on annettava kirjallisesti tai sähköisesti siten, että tietoja ei voida yksipuolisesti muuttaa ja että ne säilyvät ostajan saatavilla.
+Takuutodistuksesta on käytävä ilmi seuraavat seikat:
+1) takuun antajan nimi ja osoite;
+2) tavara, jota takuu koskee;
+3) takuuehdot;
+4) menettely, jota ostajan on noudatettava takuun käyttämiseksi;
+5) selkeä ilmoitus siitä, että ostajalla on lain mukaiset oikeudet ja että takuulla ei rajoiteta näitä oikeuksia.
 
 Ostajalla on oikeus vedota takuuseen, vaikka se ei täyttäisi tässä pykälässä säädettyjä vaatimuksia.

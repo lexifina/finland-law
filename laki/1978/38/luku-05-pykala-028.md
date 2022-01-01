@@ -1,5 +1,5 @@
 # 28 § Myyjän oikeus vahingonkorvaukseen
-Luku: 5 luku Kuluttajankauppa
+Luku: 5 luku Tavarankauppa
 
 Jos myyjä purkaa kaupan ostajan maksuviivästyksen vuoksi ennen kuin ostaja on saanut tavaran hallintaansa tai jos ostaja peruuttaa tavaran tilauksen 25 §:n mukaisesti, myyjällä on oikeus korvaukseen niistä erityisistä kustannuksista, joita hänelle on aiheutunut sopimuksen tekemisestä ja täyttämisestä ja jotka todennäköisesti jäävät hyödyttömiksi, sekä kaupan purkamisen tai peruutuksen vuoksi aiheutuvista erityisistä kustannuksista.
 

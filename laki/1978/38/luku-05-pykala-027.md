@@ -1,10 +1,14 @@
-# 27 § Myyjän oikeus purkaa kauppa
-Luku: 5 luku Kuluttajankauppa
+# 27 § Myyjän oikeus purkaa kauppa myötävaikutusvelvollisuuden laiminlyönnin vuoksi
+Luku: 5 luku Tavarankauppa
 
-Jos ostaja viivästyy kauppahinnan maksamisessa, myyjä saa purkaa kaupan, jos sopimusrikkomus on olennainen.
+Myyjä saa purkaa kaupan, jos ostaja ei myötävaikuta kauppaan 24 a §:n 1 kohdan mukaisesti, kun sopimusrikkomuksella on myyjälle olennainen merkitys ja ostaja käsitti tämän tai hänen olisi pitänyt se käsittää. Myyjä saa samoin edellytyksin purkaa kaupan, jos ostaja ei nouda tai vastaanota tavaraa oikeaan aikaan ja sopimuksesta tai olosuhteista käy ilmi, että myyjälle on erityistä merkitystä sillä, että tavara toimitetaan pois.
 
-Jos myyjä on asettanut kauppahinnan maksamiselle määrätyn lisäajan, joka ei ole kohtuuttoman lyhyt, eikä ostaja suorita maksua lisäajan kuluessa, myyjä saa niin ikään purkaa kaupan. Asetetun lisäajan kuluessa myyjä saa purkaa kaupan vain, jos ostaja ilmoittaa, ettei hän suorita maksua tämän ajan kuluessa.
+Myyjä saa niin ikään purkaa kaupan, jos ostaja ei myyjän asettamassa määrätyssä lisäajassa, joka ei ole kohtuuttoman lyhyt:
+1) myötävaikuta kauppaan 24 a §:n 1 kohdan mukaisesti; tai
+2) nouda tai vastaanota tavaraa, kun sopimuksesta tai olosuhteista ilmenee, että myyjälle on erityistä merkitystä sillä, että tavara toimitetaan pois.
 
-Jos ostaja on saanut tavaran hallintaansa, myyjä saa purkaa kaupan vain, jos hän on pidättänyt itselleen oikeuden siihen tai jos ostaja torjuu tavaran. Myyjän oikeudesta vedota tavaran takaisin ottamista koskevaan ehtoon silloin, kun ostaja on saanut luottoa, säädetään 7 luvussa.
+Lisäajan kuluessa myyjä saa purkaa kaupan vain, jos ostaja ilmoittaa, ettei hän tule täyttämään velvollisuuksiaan tämän ajan kuluessa.
 
-Myyjä ei saa purkaa kauppaa ostajan maksuviivästyksen vuoksi sen jälkeen, kun viivästynyt maksu on suoritettu.
+Myyjä ei saa purkaa kauppaa sen vuoksi, ettei ostaja ole noutanut tai vastaanottanut tavaraa, ellei hän ilmoita ostajalle purkamisesta ennen kuin tämä on täyttänyt velvollisuutensa.
+
+Jos ostaja on myötävaikuttanut kauppaan 24 a §:n 1 kohdassa tarkoitetulla tavalla, mutta on tehnyt sen liian myöhään, myyjä ei saa viivästyksen vuoksi purkaa kauppaa, ellei hän ilmoita ostajalle vaatimuksestaan kohtuullisessa ajassa siitä, kun hän sai tietää myötävaikutusvelvollisuuden täyttämisestä.

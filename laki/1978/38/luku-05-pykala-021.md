@@ -1,5 +1,5 @@
 # 21 § Tuotevahingot
-Luku: 5 luku Kuluttajankauppa
+Luku: 5 luku Tavarankauppa
 
 Jos tavaran virheestä aiheutuu vahinkoa muulle omaisuudelle kuin myydylle tavaralle, myyjän korvausvelvollisuuteen sovelletaan 20 §:n säännöksiä vain, mikäli vahinko kohdistuu omaisuuteen, jolla on välitön käyttöyhteys myytyyn tavaraan.
 
