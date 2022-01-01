@@ -11,7 +11,7 @@ Suomesta saatua tuloa on muun ohessa:
 4 b) tulo, joka on saatu taiteilijan tai urheilijan Suomessa tai suomalaisessa aluksessa harjoittamasta henkilökohtaisesta toiminnasta;
 4 c) palkkatulo, joka on saatu ulkomaiselta työnantajalta Suomessa tehdystä työstä silloin, kun ulkomainen vuokranantaja on vuokrannut työntekijän Suomessa olevalle työn teettäjälle;
 5) eläketulo, joka on saatu Suomen valtiolta, hyvinvointialueelta, kunnalta tai muulta julkisoikeudelliselta yhteisöltä, tai joka välittömästi tai välillisesti perustuu edellisessä kohdassa tarkoitettuun työhön, tehtävään tai palvelukseen, taikka Suomesta otettuun liikenne- tai eläkevakuutukseen;
-6) osinko, osuuskunnasta saatu ylijäämä ja muu niihin rinnastettava tulo, joka on saatu suomalaiselta osakeyhtiöltä, osuuskunnalta tai muulta yhteisöltä, sekä osuus suomalaisen yhtymän tuloon;
+6) osinko, osuuskunnasta saatu ylijäämä ja muu niihin rinnastettava tulo, joka on saatu suomalaiselta osakeyhtiöltä, osuuskunnalta tai muulta yhteisöltä, osuus suomalaisen yhtymän tuloon sekä eräiden rajat ylittävien hybridijärjestelyjen verotuksesta annetun lain 8 a §:ssä tarkoitetusta elinkeinoyhtymästä saatu tulo-osuus;
 7) korkotulo, jos velallinen on Suomessa asuva henkilö taikka suomalainen yhteisö, yhtymä, yhteisetuus tai kuolinpesä;
 8) rojalti, lisenssimaksu ja muu niihin rinnastettava hyvitys, jos hyvityksen perusteena olevaa omaisuutta tai oikeutta käytetään elinkeinotoiminnassa täällä tai jos hyvityksen maksamiseen velvollinen on Suomessa asuva henkilö tai suomalainen yhteisö, yhtymä, yhteisetuus tai kuolinpesä;
 9) suomalaisen sijoitusrahaston voitto-osuus sekä suomalaisesta henkilöstörahastosta saatu rahasto-osuus ja ylijäämä;
