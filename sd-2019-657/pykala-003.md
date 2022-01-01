@@ -6,7 +6,7 @@ Tässä laissa tarkoitetaan:
 3) Euroopan unionin sisäisellä lennolla mitä tahansa lentoliikenteen harjoittajan reitti- tai tilauslentoa, joka lennetään jäsenvaltion alueelta ja jonka on määrä laskeutua yhden tai useamman muun jäsenvaltion alueelle ilman välilaskuja jonkin kolmannen maan alueelle;
 4) matkustajalla henkilöä, mukaan lukien vaihto- tai kauttakulkumatkustajat, lukuun ottamatta miehistön jäseniä, jota kuljetetaan tai on tarkoitus kuljettaa ilma-aluksella lentoliikenteenharjoittajan suostumuksella, joka käy ilmi henkilön kirjaamisesta matkustajaluetteloon;
 5) matkustajarekisteritiedoilla kunkin matkustajan matkustustiedot sisältävää rekisteriä, joka sisältää tiedot, joita lippuvarauksia tekevät sekä kuljetukseen osallistuvat lentoliikenteen harjoittajat tarvitsevat varausten käsittelyä ja valvontaa varten kunkin matkan osalta, jonka henkilö on varannut tai joka on varattu hänen puolestaan, riippumatta siitä, sisältyykö rekisteri varausjärjestelmään, lähtöselvitysjärjestelmään, jota käytetään lentomatkustajien lähtöselvityksen tekemiseksi, tai muuhun vastaavaan järjestelmään;
-6) terrorismirikoksella rikoslain (39/1889) 34 a luvun 1, 1 a, 2–4, 4 a–4 c, 5 ja 5 a–5 d §:ssä tarkoitettuja rikoksia;
+6) terrorismirikoksella rikoslain (39/1889) 34 a luvun 1, 1 a, 2–4, 4 a–4 c, 5 ja 5 a–5 e §:ssä tarkoitettuja rikoksia;
 7) vakavalla rikollisuudella sellaisia matkustajarekisteridirektiivin liitteessä II tarkoitettuja rikosten muotoja, joista enimmäisrangaistukseksi on säädetty vähintään kolme vuotta vankeutta;
 8) häivyttämisellä tietojen osien, joiden avulla voisi olla mahdollista tunnistaa välittömästi matkustaja, saattamista käyttäjälle näkymättömiksi;
 9) toimivaltaisilla viranomaisilla poliisia, Tullia ja Rajavartiolaitosta; sekä
