@@ -1,0 +1,3 @@
+# 11 § Hallituksen jäsenet
+
+Uusien eläkelaitoslakien ja uuden vakuutuskassalain voimaan tullessa nimitettyinä olevat eläkesäätiöiden ja eläkekassojen, lisäeläkesäätiöiden ja lisäeläkekassojen sekä vakuutuskassojen hallitusten jäsenet voivat jatkaa tehtävässään sen estämättä, mitä eläkesäätiöistä ja eläkekassoista annetun lain 4 luvussa, lisäeläkesäätiöistä ja lisäeläkekassoista annetun lain 3 luvussa ja uuden vakuutuskassalain 3 luvussa säädetään hallituksen jäsenistä, varajäsenistä ja puheenjohtajasta, sen toimikauden loppuun, joka ensimmäisenä päättyy uusien eläkelaitoslakien tai uuden vakuutuskassalain tultua voimaan.
