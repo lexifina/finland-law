@@ -1,0 +1,7 @@
+# 3 § AB-eläkesäätiö
+
+Eläkesäätiölain tämän lain voimaan tullessa voimassa olleen 2 §:n 3 kohdassa tarkoitettu AB-eläkesäätiö, jonka rekisteröinti on voimassa uusien eläkelaitoslakien voimaan tullessa, saa jatkaa toimintaansa ja sulautua toiseen edellä tarkoitettuun AB-eläkesäätiöön. Ellei tässä laissa toisin säädetä, AB-eläkesäätiön A-osastoon sovelletaan, mitä lisäeläkesäätiöstä ja lisäeläkekassoista annetussa laissa tai muualla lainsäädännössä lisäeläkesäätiöstä ja lisäeläkelaitoksesta säädetään, ja AB-eläkesäätiön B-osastoon, mitä eläkesäätiöistä ja eläkekassoista annetussa laissa tai muualla lainsäädännössä lakisääteistä eläkevakuuttamista harjoittavasta eläkesäätiöstä tai eläkelaitoksesta säädetään.
+
+Edellä 1 momentissa tarkoitettuun AB-eläkesäätiöön sovelletaan eläkesäätiölain tämän lain voimaan tullessa voimassa ollutta 6 §:n 1–5 ja 7 momenttia ja 120 §:n 1 momenttia. AB-eläkesäätiö voi siirtää B-osaston lisävakuutusvastuuseen ylikatetta A-osastolta. AB-eläkesäätiön säännöissä on määrättävä, miten työnantajien osuus ylikatteesta ja ylitteestä lasketaan tasaavaa järjestelmää noudattavassa osastossa ja miten ylikatetta ja ylitettä siirretään osastojen välillä, jos niissä on eri työnantajat. Edellä 1 momentissa tarkoitetun AB-eläkesäätiön tilintarkastukseen sovelletaan, mitä eläkesäätiöistä ja eläkekassoista annetussa laissa tilintarkastuksesta säädetään.
+
+Edellä 1 momentissa tarkoitettuun AB-eläkesäätiöön voidaan uusien eläkelaitoslakien tultua voimaan siirtää vakuutuskantaa.
