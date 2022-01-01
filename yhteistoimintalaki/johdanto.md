@@ -1,0 +1,2 @@
+Yhteistoimintalaki
+Eduskunnan päätöksen mukaisesti säädetään:
