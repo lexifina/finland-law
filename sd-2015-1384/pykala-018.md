@@ -1,0 +1,10 @@
+# 18 § Suomessa ammattipätevyyden hankkineen ja Suomeen ammatillisesti sijoittautuneen eurooppalainen ammattikortti palvelujen väliaikaista ja satunnaista tarjoamista varten toisessa Euroopan unionin jäsenvaltiossa
+Luku: 4 luku Eurooppalainen ammattikortti
+
+Toimivaltaisen viranomaisen on tarkastettava hakemus ja hakemuksen tueksi esitetyt asiakirjat ja päätettävä eurooppalaisen ammattikortin myöntämisestä palvelujen väliaikaista ja satunnaista tarjoamista varten kolmen viikon kuluessa. Määräaika alkaa puuttuvien asiakirjojen vastaanottamisesta tai, jos täydentäviä asiakirjoja ei ole pyydetty, viikon kuluttua hakemuksen vastaanottamisesta. Toimivaltaisen viranomaisen on ammattikortin myöntämisen jälkeen toimitettava ammattikortti viipymättä niiden jäsenvaltioiden toimivaltaiselle viranomaiselle, johon hakija on ilmoittanut siirtyvänsä. Toimivaltaisen viranomaisen on samalla ilmoitettava asian käsittelyvaiheesta hakijalle.
+
+Jos eurooppalaisen ammattikortin haltija haluaa tarjota palvelua muissa kuin alkuperäisessä hakemuksessa ilmoitetussa jäsenvaltioissa, hän voi hakea ammattikortin laajentamista. Jos ammattikortin haltija haluaa jatkaa palvelujen tarjoamista 18 kuukauden ajanjaksoa pitempään, hänen on ilmoitettava asiasta toimivaltaiselle viranomaiselle. Ammattikortin haltijan on tässä momentissa tarkoitetuissa tilanteissa toimitettava tiedot IMI-tiedostoon sisältyvien tietojen merkittävistä muutoksista, joita toimivaltaiset viranomaiset voivat vaatia ammattipätevyysdirektiivin 4 a artiklan 7 kohdassa tarkoitettujen komission täytäntöönpanosäädösten nojalla. Toimivaltaisen viranomaisen on välitettävä ajantasaistettu eurooppalainen ammattikortti asianomaisille jäsenvaltioille.
+
+Ammattikortin myöntämistä ja laajentamista koskevaan päätökseen saa hakea muutosta noudattaen 24 §:ää.
+
+Hakemukseen, joka koskee palveluja, joiden väliaikaisella ja satunnaisella tarjoamisella on vaikutusta kansanterveyteen tai yleiseen turvallisuuteen ja joihin ei sovelleta mitään automaattiseen tunnustamiseen perustuvaa järjestelmää, sovelletaan tämän pykälän sijaan 20 §:ää.

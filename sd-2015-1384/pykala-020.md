@@ -1,0 +1,4 @@
+# 20 § Suomessa ammattipätevyyden hankkineen ja Suomeen ammatillisesti sijoittautuneen eurooppalainen ammattikortti toiseen Euroopan unionin jäsenmaahan sijoittautumista varten
+Luku: 4 luku Eurooppalainen ammattikortti
+
+Toimivaltaisen viranomaisen on kuukauden kuluessa tarkistettava IMI-tiedostoon sisältyvien, hakemuksen tueksi esitettyjen asiakirjojen aitous ja voimassaolo eurooppalaisen ammattikortin myöntämiseksi sijoittautumista varten. Määräaika alkaa puuttuvien asiakirjojen vastaanottamisesta tai, jos täydentäviä asiakirjoja ei ole pyydetty, viikon kuluttua hakemuksen vastaanottamisesta. Toimivaltaisen viranomaisen on sen jälkeen toimitettava hakemus viipymättä sen jäsenvaltion toimivaltaiselle viranomaiselle, johon hakija on ilmoittanut siirtyvänsä. Toimivaltaisen viranomaisen on samalla ilmoitettava hakijalle hakemuksen käsittelyvaiheesta.

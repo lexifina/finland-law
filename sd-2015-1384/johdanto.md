@@ -1,0 +1,2 @@
+Laki ammattipätevyyden tunnustamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
