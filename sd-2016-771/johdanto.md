@@ -1,0 +1,2 @@
+Laki työnantajan sairausvakuutusmaksusta
+Eduskunnan päätöksen mukaisesti säädetään:

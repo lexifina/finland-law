@@ -1,0 +1,3 @@
+# 2 § Muiden lakien soveltaminen
+
+Sen lisäksi, mitä tässä laissa säädetään, työnantajan sairausvakuutusmaksun verotusmenettelystä ja muutoksenhausta säädetään oma-aloitteisten verojen verotusmenettelystä annetussa laissa (768/2016) ja veronkannosta veronkantolaissa (11/2018).
