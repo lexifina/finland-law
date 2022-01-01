@@ -10,8 +10,8 @@ Yhteisöhankinnasta ei kuitenkaan ole kyse siltä osin kuin hankintojen arvo ilm
 1) yhteisöhankintojen määrä edellisenä kalenterivuotena oli enintään 10 000 euroa; ja
 2) ostajana on elinkeinonharjoittaja, jonka toiminta ei miltään osin oikeuta vähennykseen, tai oikeushenkilö, joka ei ole elinkeinonharjoittaja, eikä ostaja ole saanut 26 f §:ssä tarkoitettua päätöstä.
 
-Yhteisöhankinnasta ei myöskään ole kyse, jos
-1) tavaran myynnistä ei olisi 58 §:n taikka 70 §:n 1 momentin 6–8 kohdan nojalla suoritettava veroa, jos myynti tapahtuisi Suomessa;
+Yhteisöhankinnasta ei myöskään ole kyse, jos:
+1) tavaran myynnistä ei olisi 38 d tai 58 §:n taikka 70 §:n 1 momentin 6–8 kohdan nojalla suoritettava veroa, jos myynti tapahtuisi Suomessa;
 2) tavaran hankinta oikeuttaisi 127 §:ssä tarkoitettuun palautukseen, jos myynti tapahtuisi Suomessa; tai
 3) hankkijana on kansainvälinen järjestö tai sen henkilökunta, joka olisi perustamis- tai isäntämaasopimuksen mukaan oikeutettu hankintaan sisältyvän veron palautukseen, jos myynti tapahtuisi Suomessa.
 

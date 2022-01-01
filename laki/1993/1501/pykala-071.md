@@ -12,4 +12,4 @@ Veroa ei suoriteta seuraavista myynneistä:
 9) jäljempänä 80 §:ssä tarkoitetun matkatoimistopalvelun myynti siltä osin kuin kysymys on toisten elinkeinonharjoittajien Yhteisön ulkopuolella välittömästi matkustajan hyväksi luovuttamista palveluista ja tavaroista;
 10) 69 a §:ssä tarkoitetun yhteisökuljetuksen myynti, joka liittyy tavaroiden kuljetukseen Azoreille tai Madeiralle;
 11) henkilökuljetuspalvelu, joka tapahtuu suoraan ulkomaille tai ulkomailta;
-12) verotta 58 §:n, 59 §:n 4 kohdan, 70, 70 b, 71 tai 72 d §:n nojalla myytävien tavaroiden ja palvelujen välitys.
+12) verotta 38 d tai 58 §:n, 59 §:n 4 kohdan, 70, 70 b, 71 tai 72 d §:n nojalla myytävien tavaroiden ja palvelujen välitys.

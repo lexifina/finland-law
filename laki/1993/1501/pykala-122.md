@@ -5,7 +5,7 @@ Väliotsikko: Ulkomaiset elinkeinonharjoittajat
 
 Ulkomaisella elinkeinonharjoittajalla on oikeus saada palautuksena tavaran tai palvelun hankintaan sisältyvä arvonlisävero, jos hänellä ei ole Suomessa kiinteää toimipaikkaa, josta hän suorittaa liiketoimia, ja jos hän ei harjoita Suomessa liiketoiminnan muodossa muuta tavaroiden ja palvelujen myyntiä kuin:
 1) myyntiä, josta ostaja on 8 a–8 d tai 9 §:n nojalla verovelvollinen tai jossa ostajana on valtio; ja
-2) kuljetuspalvelujen ja niiden liitännäispalvelujen myyntiä, joka on 71, 72 d tai 72 h §:n nojalla verotonta.
+2) kuljetuspalvelujen ja niiden liitännäispalvelujen myyntiä, joka on 38 d, 71, 72 d tai 72 h §:n nojalla verotonta.
 
 Vero palautetaan siltä osin kuin hankinta liittyy ulkomaalaisen:
 1) ulkomailla harjoittamaan toimintaan, joka olisi aiheuttanut verovelvollisuuden tai oikeuttanut 131 §:ssä tarkoitettuun palautukseen, jos toimintaa olisi harjoitettu Suomessa; tai

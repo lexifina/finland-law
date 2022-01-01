@@ -7,6 +7,6 @@ Tavaraa ei katsota hankitun 26 a §:n 2 momentissa tarkoitetulla tavalla, jos el
 2) väliaikaisesti hänen myymäänsä palvelua varten;
 3) väliaikaisesti sellaista tarkoitusta varten, joka oikeuttaisi täysin tullittoman väliaikaisen maahantuontimenettelyn soveltamiseen, jos kyseessä olisi tuonti Yhteisön ulkopuolelta;
 4) 63 d §:ssä tarkoitettua myyntiä varten; tai
-5) 70, 72 a tai 72 d §:ssä tarkoitetun myynnin toteuttamiseksi.
+5) 38 d, 70, 72 a tai 72 d §:ssä tarkoitetun myynnin toteuttamiseksi.
 
 Kun jokin 1 momentissa tarkoitetuista edellytyksistä lakkaa, tavara katsotaan siirretyn Suomeen 26 a §:n 2 momentin 1 tai 2 kohdassa tarkoitetulla tavalla.
