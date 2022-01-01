@@ -1,0 +1,2 @@
+Laki asumisoikeusasunnoista
+Eduskunnan päätöksen mukaisesti säädetään:

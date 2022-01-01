@@ -1,0 +1,9 @@
+# 24 § Korjaus- ja muutostyöt sekä hoitotoimenpiteet
+Osa: II OSA ASUMISOIKEUDEN HALTIJAN JA ASUMISOIKEUSYHTEISÖN OIKEUDET JA VELVOLLISUUDET
+Luku: 3 luku Asuntojen käyttö, kunto ja kunnossapito sekä hallinnan luovutus
+
+Jos asumisoikeusyhteisö haluaa suorittaa huoneistossa korjaus- tai muutostyön, sen on ilmoitettava siitä asumisoikeuden haltijalle vähintään kuusi kuukautta ennen työn aloittamista. Jos asumisoikeuden haltija ilmoituksen tekemisen jälkeen vaihtuu, myös uudelle asumisoikeuden hakijalle on ilmoitettava korjaus- tai muutostyöstä. Asumisoikeuden haltijan vaihtuminen ei kuitenkaan vaikuta tässä momentissa tarkoitettuun määräaikaan.
+
+Edellä 1 momentissa säädetystä poiketen asumisoikeusyhteisöllä on oikeus suorittaa välittömästi hoitotoimenpide tai korjaus- tai muutostyö, jota ei voi vahinkoa aiheuttamatta siirtää. Myös hoitotoimenpide tai korjaus- tai muutostyö, joka ei aiheuta olennaista haittaa tai häiriötä asumisoikeuden käyttämiselle, saadaan suorittaa edellyttäen, että asumisoikeusyhteisö ilmoittaa siitä asumisoikeuden haltijalle vähintään 14 päivää ennen työn aloittamista.
+
+Asumisoikeusyhteisön on huolehdittava siitä, ettei sen suorittamista hoitotoimenpiteistä eikä korjaus- tai muutostöistä aiheudu asumisoikeuden haltijalle suurempaa haittaa tai häiriötä kuin toimenpiteen suorittamiseksi on välttämätöntä. Asumisoikeuden haltijalla on oikeus saada vapautus käyttövastikkeen maksamisesta tai käyttövastike kohtuullisesti alennetuksi siltä ajalta, jolta huoneistoa ei ole voitu käyttää tai jolta huoneisto ei ole ollut vaadittavassa tai sovitussa kunnossa sekä korvaus toimenpiteen aiheuttamasta haitasta tai vahingosta. Asumisoikeuden haltijalla ei kuitenkaan ole tällaista oikeutta, jos kunnon puutteellisuus johtuu hänen vastuulleen kuuluvasta seikasta. Oikeutta korvaukseen ei myöskään ole, jos asumisoikeusyhteisö osoittaa, ettei haitta tai vahinko johdu laiminlyönnistä tai muusta huolimattomuudesta sen puolella.
