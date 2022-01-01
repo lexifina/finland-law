@@ -9,7 +9,7 @@ Esitutkintaviranomaiselle voidaan antaa lupa kohdistaa televalvontaa rikoksesta 
 3) teleosoitetta tai telepäätelaitetta käyttäen tehdystä, automaattiseen tietojenkäsittelyjärjestelmään kohdistuneesta luvattomasta käytöstä;
 4) seksikaupan kohteena olevan henkilön hyväksikäytöstä, lapsen houkuttelemisesta seksuaalisiin tarkoituksiin tai parituksesta;
 5) huumausainerikoksesta;
-6) terroristisessa tarkoituksessa tehtävän rikoksen valmistelusta, kouluttautumisesta terrorismirikoksen tekemistä varten, matkustamisesta terrorismirikoksen tekemistä varten tai terrorismirikoksen tekemistä varten tapahtuvan matkustamisen edistämisestä;
+6) terroristisessa tarkoituksessa tehtävän rikoksen valmistelusta, kouluttautumisesta terrorismirikoksen tekemistä varten, matkustamisesta terrorismirikoksen tekemistä varten, terrorismirikoksen tekemistä varten tapahtuvan matkustamisen edistämisestä tai terrorismirikoksiin liittyvästä julkisesta kehottamisesta;
 7) törkeästä tulliselvitysrikoksesta;
 8) törkeästä laittoman saaliin kätkemisestä;
 9) panttivangin ottamisen valmistelusta; taikka

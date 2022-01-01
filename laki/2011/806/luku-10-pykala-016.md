@@ -8,7 +8,7 @@ Esitutkintaviranomainen saa kohdistaa teknistä kuuntelua vakituiseen asumiseen 
 Teknisen kuuntelun edellytyksenä on lisäksi, että kuuntelun kohteena olevaa henkilöä on syytä epäillä:
 1) rikoksesta, josta säädetty ankarin rangaistus on vähintään neljä vuotta vankeutta;
 2) huumausainerikoksesta;
-3) terroristisessa tarkoituksessa tehtävän rikoksen valmistelusta taikka kouluttautumisesta terrorismirikoksen tekemistä varten tai matkustamisesta terrorismirikoksen tekemistä varten, jos teon vakavuus edellyttäisi vankeusrangaistusta;
+3) terroristisessa tarkoituksessa tehtävän rikoksen valmistelusta taikka kouluttautumisesta terrorismirikoksen tekemistä varten, matkustamisesta terrorismirikoksen tekemistä varten tai terrorismirikoksiin liittyvästä julkisesta kehottamisesta, jos teon vakavuus edellyttäisi vankeusrangaistusta;
 4) törkeästä tulliselvitysrikoksesta;
 5) panttivangin ottamisen valmistelusta; taikka
 6) törkeän ryöstön valmistelusta.
