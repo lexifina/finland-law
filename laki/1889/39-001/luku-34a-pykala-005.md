@@ -1,7 +1,7 @@
 # 5 § Terrorismirikoksen rahoittaminen
 Luku: 34 a luku Terrorismirikoksista
 
-Joka suoraan tai välillisesti antaa tai kerää varoja rahoittaakseen tai tietoisena siitä, että niillä rahoitetaan jotakin 1, 1 a, 2–4, 4 a–4 c, 5 c tai 5 d §:ssä tarkoitettua rikosta, on tuomittava terrorismirikoksen rahoittamisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kahdeksaksi vuodeksi.
+Joka suoraan tai välillisesti antaa tai kerää varoja rahoittaakseen tai tietoisena siitä, että niillä rahoitetaan jotakin 1, 1 a, 2–4, 4 a–4 c tai 5 c–5 e §:ssä tarkoitettua rikosta, on tuomittava terrorismirikoksen rahoittamisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kahdeksaksi vuodeksi.
 
 Terrorismirikoksen rahoittamisesta tuomitaan myös se, joka suoraan tai välillisesti antaa tai kerää varoja rahoittaakseen tai tietoisena siitä, että niillä rahoitetaan jotakin seuraavista rikoksista:
 1) panttivangin ottaminen tai kaappaus,
