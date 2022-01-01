@@ -8,7 +8,7 @@ Edellä 4 §:ssä tarkoitettuja veronalaisia elinkeinotuloja ovat muun ohessa:
 3) elinkeinoon kuuluvan omaisuuden tuottamat osingot, korot ja muut tulot siten kuin 6 a §:ssä säädetään;
 4) liikkeen tai ammatin taikka siihen kuuluvan omaisuuden, oikeuden tai etuuden vuokraamisesta saadut korvaukset;
 5) rahoitusomaisuudesta ja muusta omaisuudesta saadut voitot;
-6) vakuutusyhtiöiden, vakuutusyhdistysten, vakuutuskassojen ja muiden niihin rinnastettavien vakuutuslaitosten sekä eläkesäätiöiden kirjanpidossaan tekemä sijoitusomaisuuden arvonkorotus;
+6) vakuutusyhtiöiden, vakuutusyhdistysten, vakuutuskassojen ja muiden niihin rinnastettavien vakuutuslaitosten sekä eläkesäätiöiden, eläkekassojen, lisäeläkesäätiöiden, lisäeläkekassojen, ETA-lisäeläkesäätiöiden ja ETA-lisäeläkekassojen kirjanpidossaan tekemä sijoitusomaisuuden arvonkorotus;
 7) puutavaran sekä runkopuun hakkuuoikeuden luovutuksesta saatu tulo;
 8) kaupankäyntitarkoituksessa pidettävistä rahoitusvälineistä kirjanpitolain (1336/1997) 5 luvun 2 a §:n tai mainitun lain 7 a luvun 1 §:ssä tarkoitettujen kansainvälisten tilinpäätösstandardien nojalla tuloslaskelmaan tuotoksi merkityt arvonnousut;
 9) luottolaitostoiminnasta annetussa laissa (610/2014) tarkoitetun luottolaitoksen, sijoituspalveluyrityksen sekä sellaisen rahoituslaitoksen, johon sovelletaan luottolaitoksen tilinpäätöstä koskevaa lainsäädäntöä, käypään arvoon tulosvaikutteisesti kirjattavista rahoitusvälineistä ja käyvän arvon suojauksesta luottolaitostoiminnasta annetun lain 12 luvun 6 §:n tai kirjanpitolain 7 a luvun 1 §:ssä tarkoitettujen kansainvälisten tilinpäätösstandardien nojalla tuloslaskelmaan tuotoksi merkityt arvonnousut;

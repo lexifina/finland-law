@@ -7,7 +7,7 @@ Vähennyskelpoisia ovat myös:
 2) elinkeinotoiminnasta johtuneen velan korko, myös silloin, kun korko riippuu liikkeen tuloksesta,
 3) elinkeinotoiminnasta johtuneesta velasta tai saamisesta aiheutuneet indeksi- ja kurssitappiot sekä velkaa tai saamista valuuttakurssimuutoksilta suojaavan termiinisopimuksen tai vastaavan suojausinstrumentin arvonlaskut;
 4) talletuspankkien toiminnasta annetun lain (1268/1990) 24 a §:ssä tarkoitetun pääomasijoituksen korko, joka on maksettu valtiolle tai valtion vakuusrahastolle,
-5) eläkesäätiön maksama eläkesäätiölain (1774/1995) 45 §:ssä tarkoitettu palautus ja eläkekassan maksama vakuutuskassalain (1164/1992) 83 a §:ssä tarkoitettu palautus.
+5) eläkesäätiön ja eläkekassan maksama eläkesäätiöistä ja eläkekassoista annetun lain 7 luvun 10 §:ssä ja lisäeläkesäätiön ja lisäeläkekassan maksama lisäeläkesäätiöistä ja lisäeläkekassoista annetun lain (947/2021) 5 luvun 15 §:ssä tarkoitettu palautus.
 
 Elinkeinotoiminnasta johtuneena ei kuitenkaan pidetä sitä osaa koroista, joka vastaa yksityisestä liikkeestä tai ammatista taikka elinkeinoyhtymästä eri vuosina nostettujen yksityisottojen johdosta syntynyttä negatiivista oman pääoman jäännöstä kerrottuna korkoprosentilla, jonka suuruus on Suomen Pankin peruskorko lisättynä yhdellä prosenttiyksiköllä. Negatiivinen jäännös lasketaan siten, että verovuoden taseen osoittamasta negatiivisen oman pääoman määrästä vähennetään syntyneet tappiot, joiden kattamiseen ei ole kertynyt voittovaroja, ja siihen lisätään tehdyt arvonkorotukset sekä kommandiittiyhtiöissä äänettömien yhtiömiesten pääomapanokset.
 

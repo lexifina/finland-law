@@ -22,8 +22,7 @@ Rahoitusalan yrityksellä tarkoitetaan 1 momentin 2 kohdassa:
 4) sijoitusrahastolaissa (48/1999) tarkoitettua rahastoyhtiötä;
 5) vakuutusyhtiölaissa tarkoitettua toimiluvan saanutta vakuutusyhtiötä tai jälleenvakuutusyhtiötä;
 6) vakuutusyhdistyslaissa (1250/1987) tarkoitettua vakuutusyhdistystä;
-7) vakuutuskassalaissa tarkoitettua eläkekassaa, joka harjoittaa lisäeläketoimintaa ja kuuluu ammatillisia lisäeläkkeitä tarjoavien laitosten toiminnasta ja valvonnasta annetun Euroopan parlamentin ja neuvoston direktiivin 2003/41/EY soveltamisalan piiriin sekä vakuutuskassalaissa tarkoitettua omaisuudenhoitajaa;
-8) eläkesäätiölaissa tarkoitettua eläkesäätiötä, joka harjoittaa lisäeläketoimintaa ja kuuluu 7 kohdassa mainitun direktiivin soveltamisalan piiriin sekä eläkesäätiölaissa tarkoitettua omaisuudenhoitajaa;
+7) lisäeläkesäätiöistä ja lisäeläkekassoista annetussa laissa tarkoitettua lisäeläkesäätiötä ja lisäeläkekassaa, joka kuuluu ammatillisia lisäeläkkeitä tarjoavien laitosten toiminnasta ja valvonnasta annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2016/2341 soveltamisalan piiriin sekä lisäeläkesäätiöistä ja lisäeläkekassoista annetussa laissa tarkoitettua omaisuudenhoitajaa;
 9) työeläkelakien mukaista työeläkelaitosta sekä sellaista oikeushenkilöä, jotka on perustettu tällaisten järjestelmien sijoituksia varten;
 10) vaihtoehtorahastojen hoitajista annetussa laissa tarkoitettua vaihtoehtorahastoa, jonka hoidosta vastaa samassa laissa tarkoitettu vaihtoehtorahaston hoitaja;
 11) sijoitusrahastolaissa tarkoitettua sijoitusrahastoa;
