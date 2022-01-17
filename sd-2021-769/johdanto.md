@@ -1,0 +1,2 @@
+Laki pyörillä varustettujen ajoneuvojen määräajoin toistettavien katsastusten yhdenmukaisten ehtojen hyväksymisestä sekä näiden katsastusten vastavuoroisesta tunnustamisesta tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
