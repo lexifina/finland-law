@@ -8,3 +8,5 @@ Rehualan toimijalla on oltava rehujen tuotanto-, valmistus- ja jakeluvaiheissa a
 Vietäessä rehuja Euroopan unionin ulkopuoliseen valtioon rehualan toimija vastaa vastaanottajavaltion viranomaisten asettamien tuontivaatimusten ja mahdollisten kauttakuljetukseen liittyvien vaatimusten selvittämisestä ja täyttämisestä.
 
 Tarkempia säännöksiä rehujen käsittely-, käyttö-, kuljetus- ja varastointivaatimuksista, toimijoiden omavalvonnasta ja laadunvarmistuksessa tehtävistä tutkimuksista sekä toimenpiteistä havaittaessa määräysten vastaista rehua annetaan maa- ja metsätalousministeriön asetuksella.
+
+Lääkerehujen sisämarkkinakaupasta ja tuonnista säädetään lääkerehuasetuksen 12 artiklassa.

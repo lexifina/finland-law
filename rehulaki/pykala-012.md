@@ -1,12 +1,12 @@
 # 12 § Lääkerehut
 Luku: 2 luku Rehuja koskevat vaatimukset
 
-Lääkerehun valmistukseen saa käyttää vain lääkettä, joka on hyväksytty Euroopan unionin keskitetyllä menettelyllä tai jolle Lääkealan turvallisuus- ja kehittämiskeskus on lääkelain nojalla myöntänyt myyntiluvan tai muun kulutukseen luovuttamisluvan.
+Lääkerehun valmistukseen saa käyttää vain lääkettä, jota tarkoitetaan lääkerehuasetuksen 5 artiklan 1 kohdassa tai jolle on lääkelain nojalla myönnetty myyntilupa tai muu markkinoille saattamista koskeva lupa.
 
-Lääkerehuja valmistavan ja markkinoille saattavan on pidettävä lääkerehun valmistukseen ja luovutukseen liittyvistä tiedoista tiedostoa. Lääkerehut on varastoitava, pakattava ja kuljetettava asianmukaisesti.
+Lääkerehua saa luovuttaa eläimen omistajalle tai haltijalle vain eläinlääkärin antaman lääkerehumääräyksen perusteella. Tilasekoittajalla, tilarehustamolla ja rahtisekoittajalla tulee olla lääkerehumääräys hallussaan ennen lääkerehun valmistuksen aloittamista.
 
-Valmistaja ja jälleenmyyjä saavat luovuttaa lääkerehua vain eläinlääkärin kirjoittaman lääkerehumääräyksen perusteella eläimen omistajalle tai haltijalle.
+Käyttämätön tai vanhentunut lääkerehu on kerättävä ja hävitettävä asianmukaisesti.
 
-Sen lisäksi, mitä 1–3 momentissa säädetään, lääkerehuihin sovelletaan rehuseoksia koskevia säännöksiä.
+Sen lisäksi, mitä 1–3 momentissa säädetään, lääkerehuihin sovelletaan rehuaineita ja rehuseoksia koskevia säännöksiä.
 
-Tarkempia säännöksiä lääkerehun valmistusta koskevista vaatimuksista, valmistusta ja luovutusta koskevasta kirjanpidosta, toiminnan järjestämisestä, lääkerehun määräämisestä ja luovutuksesta sekä tuonnista annetaan maa- ja metsätalousministeriön asetuksella.
+Tarkempia säännöksiä lääkerehun valmistusta koskevista vaatimuksista voidaan antaa maa- ja metsätalousministeriön asetuksella.

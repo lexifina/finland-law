@@ -16,5 +16,6 @@ Jollei muussa laissa säädetä toisin, tätä lakia sovelletaan myös seuraavie
 12) rehun markkinoille saattamisesta ja käytöstä, Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1831/2003 muuttamisesta sekä neuvoston direktiivin 79/373/ETY, komission direktiivin 80/511/ETY, neuvoston direktiivien 82/471/ETY, 83/228/ETY, 93/74/ETY, 93/113/EY ja 96/25/EY ja komission päätöksen 2004/217/EY kumoamisesta annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 767/2009, jäljempänä markkinoille saattamista ja käyttöä koskeva asetus;
 13) elintarvikehygieniasta annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 852/2004;
 14) rehuaineluettelosta annettu komission asetus (EU) N:o 68/2013;
-15) luonnonmukaisesta tuotannosta ja luonnonmukaisesti tuotettujen tuotteiden merkinnöistä sekä asetuksen (ETY) N:o 2092/91 kumoamisesta annettu neuvoston asetus (EY) N:o 834/2007;
-16) erityisravinnoksi tarkoitettujen rehujen käyttötarkoitusluettelosta ja direktiivin 2008/38/EY kumoamisesta annettu komission asetus (EU) 2020/354, jäljempänä erityisravintoasetus.
+15) luonnonmukaisesta tuotannosta ja luonnonmukaisesti tuotettujen tuotteiden merkinnöistä ja neuvoston asetuksen (EY) N:o 834/2007 kumoamisesta annettu Euroopan parlamentin ja neuvoston asetus (EU) 2018/848;
+16) erityisravinnoksi tarkoitettujen rehujen käyttötarkoitusluettelosta ja direktiivin 2008/38/EY kumoamisesta annettu komission asetus (EU) 2020/354, jäljempänä erityisravintoasetus;
+17) lääkerehun valmistuksesta, markkinoille saattamisesta ja käytöstä sekä Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 183/2005 muuttamisesta ja neuvoston direktiivin 90/167/ETY kumoamisesta annettu Euroopan parlamentin ja neuvoston asetus (EU) 2019/4, jäljempänä lääkerehuasetus.
