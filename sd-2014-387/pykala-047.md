@@ -5,8 +5,8 @@ Jos tuotantoeläimestä tai siitä saadusta tuotteesta otetusta näytteestä tod
 
 Jos eläin on määrätty lopetettavaksi ja hävitettäväksi 41 §:n nojalla, eläimen omistaja tai haltija vastaa eläimen lopettamisesta ja hävittämisestä aiheutuvista kustannuksista.
 
-Jos valvonnassa havaitaan, että lääkkeitä tai muita eläinten käsittelyssä käytettäviä aineita on hankittu, käytetty tai luovutettu tämän lain tai sen nojalla annettujen säännösten vastaisesti, voidaan rikkomuksesta epäillyltä eläimen omistajalta tai haltijalta taikka eläinlääkäriltä periä asian selvittämiseksi tehdyistä lisäselvityksistä aiheutuvat kustannukset sekä todettua rikkomusta seuraavan väliaikaisen tehostetun valvonnan kustannukset.
+Jos valvonnassa havaitaan, että lääkkeitä tai muita eläinten käsittelyssä käytettäviä aineita on hankittu, käytetty tai luovutettu tämän lain vastaisesti, voidaan rikkomuksesta epäillyltä eläimen omistajalta tai haltijalta taikka eläinlääkäriltä periä asian selvittämiseksi tehdyistä lisäselvityksistä aiheutuvat kustannukset sekä todettua rikkomusta seuraavan väliaikaisen tehostetun valvonnan kustannukset.
 
-Tarkemmat säännökset valvonta-asetuksen 27 ja 28 artiklassa edellytetyistä kansallisista järjestelyistä ja maksujen suuruuden määräytymisestä sekä kansalliseen vierasainevalvontaohjelmaan liittyvistä maksuista annetaan maa- ja metsätalousministeriön asetuksella. Maksujen perusteissa otetaan huomioon valvonta-asetuksen säännökset.
+Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä valvonta-asetuksen 79–82 artiklan mukaisista kansallisista järjestelyistä ja maksujen suuruuden määräämisestä sekä kansalliseen vierasainevalvontaohjelmaan liittyvistä maksuista.
 
 Edellä 1 ja 2 momentissa tarkoitetut maksut ovat suoraan ulosottokelpoisia. Niiden perimisestä säädetään verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007).

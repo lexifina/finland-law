@@ -5,4 +5,4 @@ Sen lisäksi, mitä eläimistä saatavien elintarvikkeiden hygienia-asetuksen li
 
 Eläimen omistajan tai haltijan on myös annettava kirjallinen selvitys 12 §:n 3 momentissa tarkoitetun tutkimuksen tuloksista lääkkeen varoaikana elintarvikkeena käytettäväksi luovutettavasta eläimestä tai eläimestä saadusta tuotteesta.
 
-Jos tuotantoeläin myydään tai muutoin luovutetaan lääkehoidon tai varoajan kuluessa, eläimen omistajan tai haltijan on ilmoitettava eläimen ostajalle tai uudelle haltijalle eläimelle annetusta lääkkeestä sekä siitä, milloin lääkettä on annettu, ja varoajasta. Teurastettavien tuotantoeläinten osalta tiedot on ilmoitettava elintarvikelaissa (23/2006) tai sen nojalla säädetyltä ajalta.
+Jos tuotantoeläin myydään tai muutoin luovutetaan lääkehoidon tai varoajan kuluessa, eläimen omistajan tai haltijan on ilmoitettava eläimen ostajalle tai uudelle haltijalle eläimelle annetusta lääkkeestä sekä siitä, milloin lääkettä on annettu, ja varoajasta. Teurastettavien tuotantoeläinten osalta tiedot on ilmoitettava elintarvikelaissa (297/2021) säädetyltä ajalta.

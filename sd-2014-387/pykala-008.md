@@ -1,5 +1,5 @@
 # 8 § Lääkkeiden käytön kieltäminen
-Luku: 2 luku Lääkkeiden käyttö eläimille ja käytön rajoittaminen
+Luku: 2 luku Eläinlääke- ja lääkerehumääräyksen antaminen sekä lääkkeiden käyttö eläimille ja käytön rajoittaminen
 
 Valtioneuvoston asetuksella voidaan kieltää lääkeaineen tai muun eläinten käsittelyssä käytettävän aineen taikka eläinlääkinnässä käytettävän laitteen tai tarvikkeen käyttö määrätylle eläinlajille tai eläinryhmälle, jos sen käyttö voi vaarantaa eläimistä saatavien elintarvikkeiden turvallisuuden tai laadun tai jos sen käyttö voi aiheuttaa muuta merkittävää haittaa eläimille, ihmisille tai ympäristölle taikka jos sitä käytetään eläinten kasvun tai tuotannon edistämiseen.
 

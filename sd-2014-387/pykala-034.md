@@ -1,4 +1,4 @@
-# 34 § Oikeus saada tietoja eläinten terveyden- huollon seurantajärjestelmästä
+# 34 § Oikeus saada tietoja eläinten terveydenhuollon seurantajärjestelmästä
 Luku: 8 luku Valvonta
 
-Elintarviketurvallisuusvirastolla on oikeus sille tässä laissa säädettyjen tehtävien suorittamiseksi, saada sovitulla tavalla terveydenhuollon seurantajärjestelmistä yhteenvetotietoa lääkkeiden käytöstä.
+Ruokavirastolla on oikeus saada terveydenhuollon seurantajärjestelmistä yhteenvetotietoa lääkkeiden käytöstä ja käyttötarkoituksista eri eläinlajeilla tässä laissa ja 4 §:ssä tarkoitetuissa Euroopan unionin säädöksissä säädettyjen tehtävien suorittamiseksi.
