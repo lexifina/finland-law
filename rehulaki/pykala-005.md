@@ -8,7 +8,7 @@ Tässä laissa tarkoitetaan:
 4) rehuerällä markkinoille saattamista ja käyttöä koskevan asetuksen 3 artiklan 2 kohdan r alakohdassa tarkoitettua erää;
 5) rehun lisäaineella lisäaineasetuksen 2 artiklan 2 kohdan a alakohdassa tarkoitettua rehun lisäainetta;
 6) muuntogeenisellä rehulla gm-elintarvike- ja rehuasetuksen 2 artiklan 7 kohdassa tarkoitettua rehua;
-7) lääkerehulla eläinlääkkeen tai eläinlääkkeiden ja rehun sekoitusta, joka on valmistettu markkinoille saattamista varten valmiiksi ja tarkoitettu sellaisenaan eläimille syötettäväksi sairautta parantavien tai ehkäisevien tai muiden lääkkeellisten ominaisuuksiensa vuoksi;
+7) lääkerehulla lääkerehuasetuksen 3 artiklan 2 kohdan a alakohdassa tarkoitettua rehua;
 8) erityisravinnoksi tarkoitetulla rehulla markkinoille saattamista ja käyttöä koskevan asetuksen 3 artiklan 2 kohdan o alakohdassa tarkoitettua erityisravinnoksi tarkoitettua rehua;
 9) haitallisella aineella, tuotteella ja eliöllä sellaista rehussa olevaa ainetta, tuotetta ja eliötä, joka voi aiheuttaa terveydellistä vaaraa eläimille tai eläimistä saatavien tuotteiden kautta ihmisille taikka vaaraa ympäristölle;
 10) etiketillä markkinoille saattamista ja käyttöä koskevan asetuksen 3 artiklan 2 kohdan t alakohdassa tarkoitettua etikettiä;
@@ -30,6 +30,10 @@ d) lemmikkieläinten ruoan vähittäiskauppaa;
 22) sisämarkkinakaupalla tuontia muusta Euroopan unionin jäsenvaltiosta Suomeen sekä vientiä Suomesta toiseen Euroopan unionin jäsenvaltioon;
 23) salmonellabakteerilla kaikkia Salmonella-sukuun kuuluvia bakteereita;
 24) tuotantoeläimellä sivutuoteasetuksen 3 artiklan 6 kohdassa tarkoitettua eläintä;
-25) erityisen riskialttiilla rehulla rehua, johon yleisen elintarvikeasetuksen 50 artiklassa tarkoitetun elintarvikkeiden ja rehujen nopean hälytysjärjestelmän mukaisten ilmoitusten tai tieteellisten riskinarviointien perusteella sisältyy muita rehuja suurempi salmonellariski.
+25) erityisen riskialttiilla rehulla rehua, johon yleisen elintarvikeasetuksen 50 artiklassa tarkoitetun elintarvikkeiden ja rehujen nopean hälytysjärjestelmän mukaisten ilmoitusten tai tieteellisten riskinarviointien perusteella sisältyy muita rehuja suurempi salmonellavaara;
+26) eläinlääkkeellä eläinlääkkeistä ja direktiivin 2001/82/EY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2019/6, jäljempänä eläinlääkeasetus, 4 artiklan 1 kohdassa tarkoitettua eläinlääkettä;
+27) rahtisekoittajalla rehualan toimijaa, joka valmistaa rehua siirrettävällä mylly- ja sekoituslaitteistolla;
+28) tilasekoittajalla rehualan toimijaa, joka valmistaa rehua yksinomaan omalla tilallaan tapahtuvaan käyttöön elintarviketuotantoeläimille;
+29) tilarehustamolla eläimistä saatavista sivutuotteista annetun lain (517/2015) 3 §:n 7 kohdassa tarkoitettua tilarehustamoa, jonka kunnaneläinlääkäri on rekisteröinyt ja joka valmistaa lääkerehuja sekoituslaitteistolla yksinomaan omalla tilallaan tapahtuvaan käyttöön turkiseläimille.
 
 Mitä tässä laissa säädetään Euroopan unionista tai Euroopan unionin jäsenvaltioista, koskee myös Euroopan talousaluetta ja siihen kuuluvia valtioita.

@@ -1,7 +1,7 @@
 # 14 § Rehujen merkintävaatimukset
 Luku: 2 luku Rehuja koskevat vaatimukset
 
-Rehuaineiden ja rehuseosten pakollisista merkinnöistä ja niiden esittämisestä säädetään markkinoille saattamista ja käyttöä koskevassa asetuksessa, TSE-asetuksessa, gm-elintarvike- ja rehuasetuksessa, gmo-jäljitettävyysasetuksessa sekä sivutuoteasetuksessa. Rehuaineista ja rehuseoksista voidaan antaa myös muita tietoja, jos noudatetaan markkinoille saattamista ja käyttöä koskevan asetuksen yleisiä periaatteita ja tiedot ovat yksiselitteisiä sekä mitattavissa ja perusteltavissa. Rehun lisäaineiden ja esiseosten merkintävaatimuksista säädetään lisäaineasetuksessa.
+Rehujen pakollisista merkinnöistä ja niiden esittämisestä säädetään markkinoille saattamista ja käyttöä koskevassa asetuksessa, TSE-asetuksessa, gm-elintarvike- ja rehuasetuksessa, gmo-jäljitettävyysasetuksessa, sivutuoteasetuksessa sekä lääkerehuasetuksessa. Rehuaineista ja rehuseoksista voidaan antaa myös muita tietoja, jos noudatetaan markkinoille saattamista ja käyttöä koskevan asetuksen yleisiä periaatteita ja tiedot ovat yksiselitteisiä sekä mitattavissa ja perusteltavissa. Rehun lisäaineiden ja esiseosten merkintävaatimuksista säädetään lisäaineasetuksessa.
 
 Lemmikkieläinten rehuseoksissa voidaan rehuaineen erityisnimen sijaan käyttää sen ryhmän nimeä, johon rehuaine kuuluu markkinoille saattamista ja käyttöä koskevan asetuksen 17 artiklan mukaisesti.
 

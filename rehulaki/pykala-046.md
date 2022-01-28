@@ -6,7 +6,7 @@ Rehualan toimijasta valvontarekisteriin merkitään:
 2) toimipaikkojen osoitteet ja yhteystiedot;
 3) rehualan toimijan yritys- ja yhteisötunnus tai, jos sitä ei ole, henkilötunnus tai tilatunnus;
 4) toiminnan kuvaus;
-5) hyväksyntänumero, jos kyseessä on rehuhygienia-asetuksen mukainen hyväksyntä;
+5) hyväksyntänumero, jos kyseessä on rehuhygienia-asetuksen tai lääkerehuasetuksen mukainen hyväksyntä;
 6) tieto toimijalle 50–55 tai 57–60 §:n taikka rehuhygienia-asetuksen 14–16 artiklan nojalla annetusta määräyksestä, kiellosta, rangaistuksesta ja muusta seurauksesta;
 7) suoritetut valvontatoimenpiteet sekä vastaavat muut tämän lain mukaiset valvonnan kannalta tarpeelliset tiedot.
 
