@@ -1,16 +1,9 @@
-# 13 § Pätevä syy palvelusta kieltäytymiseen ja palvelun keskeyttämiseen
+# 13 § Pätevä syy jättää hakematta työ- ja elinkeinotoimiston tarjoamaa työtä
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 2 a luku Työvoimapoliittisesti moitittava menettely
 
-Henkilöllä on pätevä syy kieltäytyä 12 §:n 1 tai 2 momentissa tarkoitetusta palvelusta ja keskeyttää palvelu, jos:
-1) palvelu ei ole hänen terveydentilansa tai työ- ja toimintakykynsä huomioon ottaen hänelle sopivaa;
-2) päivittäinen matka palvelun järjestämispaikalle ylittää keskimäärin kolme tuntia;
-3) palvelunjärjestäjä olennaisesti laiminlyö vastuutaan palveluun osallistuvan työturvallisuudesta;
-4) palvelun järjestäjä olennaisesti laiminlyö noudattaa palvelun järjestämistä koskevaa lainsäädäntöä tai palvelusta tehdyn sopimuksen ehtoja;
-5) palvelu olennaisesti poikkeaa työllistymissuunnitelmassa tai sitä korvaavassa suunnitelmassa sovitusta.
-
-Henkilöllä on pätevä syy kieltäytyä työvoimakoulutuksesta ja keskeyttää koulutus myös, jos kyseisen ammattialan työ ei ole hänen terveydentilansa ja työkykynsä huomioon ottaen hänelle sopivaa tai henkilön ja hänen huollettaviensa toimeentulo ei ole kohtuullisesti turvattu koulutuksen aikana. Henkilön ja hänen huollettaviensa toimeentulo on kohtuullisesti turvattu, jos työnhakijalla on oikeus työttömyysetuuden tasoisiin etuuksiin.
-
-Henkilöllä on pätevä syy kieltäytyä 12 §:n 1 tai 2 momentissa tarkoitetusta palvelusta tai keskeyttää palvelu myös muusta kuin tämän pykälän 1 momentissa tarkoitetusta syystä, jos se on näihin rinnastettava.
-
-4 momentti oli väliaikaisesti voimassa 11.5.2020–31.12.2020 L:lla 296/2020.
+Työnhakijalla on pätevä syy jättää hakematta työ- ja elinkeinotoimiston tarjoamaa työtä:
+1) 5–8 §:ssä tarkoitetusta syystä;
+2) jos hän on vähintään kaksi viikkoa kestävässä osa-aikatyössä;
+3) jos hän on julkisesta työvoima- ja yrityspalvelusta annetun lain 2 luvussa tarkoitetulla työnhakuvelvollisuuden tarkastelujaksolla hakenut työmahdollisuuksia häneltä edellytetyllä tavalla ja ilmoittanut työnhakuvelvollisuuden täyttymisestä työ- ja elinkeinotoimistolle ennen työtarjouksen tekemistä taikka osoittaa työmahdollisuuksien hakemisen ennen työtarjouksen tekemistä luotettavana pidettävällä tavalla;
+4) kun tarjotun työn vastaanottaminen johtaisi hänestä itsestään riippumattomista syistä työvoimakoulutuksen taikka julkisesta työvoimapalvelusta annetun lain 6 luvussa tarkoitettujen tai kotoutumisen edistämisestä annetun lain 22–24 §:ssä tarkoitettujen työttömyysetuudella tuettujen omaehtoisten opintojen keskeytymiseen.

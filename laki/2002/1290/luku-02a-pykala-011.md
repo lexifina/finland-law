@@ -1,7 +1,10 @@
-# 11 § Työllistymissuunnitelman toteuttamisen laiminlyönti
+# 11 § Pätevä syy olla osallistumatta työnhakijan palveluprosessiin liittyviin toimiin
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 2 a luku Työvoimapoliittisesti moitittava menettely
 
-Työnhakijalla, joka ilman pätevää syytä laiminlyö hakea työtä ja parantaa työllistymisedellytyksiään työllistymissuunnitelmassa tai sitä korvaavassa suunnitelmassa sovitulla tavalla, ei ole oikeutta työttömyysetuuteen 60 päivän ajalta. Aika lasketaan siitä päivästä, jona työ- ja elinkeinotoimisto on todennut laiminlyönnin.
+Työnhakijalla on pätevä syy jättää saapumatta julkisesta työvoima- ja yrityspalvelusta annetun lain 2 luvun 5 ja 6 §:ssä tarkoitettuun alkuhaastatteluun, työnhakukeskusteluun, täydentävään työnhakukeskusteluun, kotoutumisen edistämisestä annetun lain 9 §:ssä tarkoitettuun alkukartoitukseen sekä työllistymissuunnitelmaa korvaavan suunnitelman laatimis- ja tarkistamistilaisuuteen, jos:
+1) saapumatta jääminen johtuu sairaudesta tai tapaturmasta taikka henkilöstä itsestään riippumattomasta syystä;
+2) saapumatta jäämiselle on muu hyväksyttävä syy; tai
+3) työnhakija on etukäteen ilmoittanut työ- ja elinkeinotoimistolle olevansa estynyt saapumasta ja työ- ja elinkeinotoimisto hyväksyy työnhakijan esittämän syyn alkuhaastattelun, työnhakukeskustelun, täydentävän työnhakukeskustelun tai alkukartoituksen järjestämiseksi myöhemmin.
 
-Työnhakijan ei katsota laiminlyöneen aktiivista työnhakua ja työllistymisedellytyksiensä parantamista, jos hän osoittaa työ- ja elinkeinotoimistolle hakeneensa työtä ja parantaneensa työllistymisedellytyksiään suunnitelmassa sovittua vastaavalla tavalla.
+Työnhakijan ei katsota menetelleen 9 §:n 1 momentin 3 tai 4 kohdassa tarkoitetulla tavalla sillä perusteella, ettei häntä ole tavoitettu puhelimitse alkuhaastattelua, työnhakukeskustelua, täydentävää työnhakukeskustelua, alkukartoitusta taikka työllistymissuunnitelmaa korvaavan suunnitelman laatimista tai tarkistamista varten.

@@ -1,15 +1,14 @@
-# 14 § Toistuva työvoimapoliittisesti moitittava menettely
+# 14 § Pätevä syy palvelusta kieltäytymiseen ja palvelun keskeyttämiseen
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 2 a luku Työvoimapoliittisesti moitittava menettely
 
-Jos työnhakija kuuden kuukauden tarkastelujakson kuluessa toistuvasti menettelee 1 tai 4 §:ssä taikka 9–12 a §:ssä tarkoitetulla tavalla työvoimapoliittisesti arvioituna moitittavasti, hänelle asetetaan työssäolovelvoite toistuvasta menettelystä lukien.
+Henkilöllä on pätevä syy kieltäytyä 9 §:ssä tarkoitetusta palvelusta ja keskeyttää palvelu, jos:
+1) palvelu ei ole hänen terveydentilansa tai työ- ja toimintakykynsä huomioon ottaen hänelle sopivaa;
+2) päivittäinen matka palvelun järjestämispaikalle ylittää keskimäärin kolme tuntia;
+3) palvelunjärjestäjä olennaisesti laiminlyö vastuutaan palveluun osallistuvan työturvallisuudesta tai palvelua ei muusta syystä voida järjestää turvallisesti;
+4) palvelun järjestäjä olennaisesti laiminlyö noudattaa palvelun järjestämistä koskevaa lainsäädäntöä tai palvelusta tehdyn sopimuksen ehtoja;
+5) palvelu olennaisesti poikkeaa työllistymissuunnitelmassa tai sitä korvaavassa suunnitelmassa sovitusta.
 
-Oikeus työttömyysetuuteen palautuu, kun henkilö on yhteensä vähintään 12 kalenteriviikkoa:
-1) ollut työssäoloehtoon luettavassa työssä;
-2) osallistunut muuhun työllistymistä edistävään palveluun kuin työttömyysetuudella tuettuun omaehtoiseen opiskeluun tai kotoutumisen edistämisestä annetun lain 22–24 §:ssä tarkoitettuun omaehtoiseen opiskeluun;
-3) opiskellut omaehtoisesti 2 luvun 10 §:n 2 momentissa tarkoitettuja päätoimisia opintoja; tai
-4) työllistynyt päätoimisesti yritystoiminnassa tai omassa työssä.
+Henkilöllä on pätevä syy kieltäytyä työvoimakoulutuksesta ja keskeyttää koulutus myös, jos kyseisen ammattialan työ ei ole hänen terveydentilansa ja työkykynsä huomioon ottaen hänelle sopivaa tai henkilön ja hänen huollettaviensa toimeentulo ei ole kohtuullisesti turvattu koulutuksen aikana. Henkilön ja hänen huollettaviensa toimeentulo on kohtuullisesti turvattu, jos työnhakijalla on oikeus työttömyysetuuden tasoisiin etuuksiin.
 
-Oikeus työttömyysetuuteen palautuu myös, kun 1 momentin mukaisen työssäolovelvoitteen asettamiseen johtaneesta menettelystä on kulunut vähintään viisi vuotta.
-
-Mitä 1–13 §:ssä sekä 2 luvun 13 §:n 2 momentissa sekä 14 §:n 3 momentissa säädetään, ei sovelleta 1 momentin mukaisen työssäolovelvoitteen aikana.
+Jos henkilö on hakenut oikaisua tai valittamalla muutosta palvelun keskeyttämistä koskevaan päätökseen eikä oikaisuvaatimusta tai valitusta ole pidettävä ilmeisen aiheettomana, ei ennen asiassa annettua lopullista ratkaisua voida katsoa, että hän olisi joutunut omasta syystään keskeyttämään palvelun.

@@ -9,7 +9,7 @@ Työttömänä pidetään henkilöä, joka ei ole työsuhteessa eikä työllisty
 2) 1 kohdassa tarkoitettu työ päättyy eikä työn päättyminen ole 2 a luvun 1 §:n 1 momentissa tarkoitetulla tavalla hänen syytään tai hänet lomautetaan; ja
 3) työvapaan keskeyttäminen ei ole mahdollista hänestä riippumattomasta syystä.
 
-Työnhakijana pidetään henkilöä, joka ilmoittaa työ- ja elinkeinotoimistolle työtarjouksia ja muita yhteydenottoja varten postiosoitteensa ja mahdolliset muut yhteystietonsa, joiden avulla hänet voidaan viivytyksettä tavoittaa, ja joka julkisesta työvoima- ja yrityspalvelusta annetussa laissa säädetyllä tavalla:
+Työnhakijana pidetään henkilöä, joka julkisesta työvoima- ja yrityspalvelusta annetussa laissa säädetyllä tavalla:
 1) on rekisteröity työnhakijaksi työ- ja elinkeinotoimiston asiakastietojärjestelmään;
 2) on pitänyt työnhakunsa työ- ja elinkeinotoimistossa voimassa;
 3) asioi työ- ja elinkeinotoimistossa toimiston edellyttämällä tavalla.

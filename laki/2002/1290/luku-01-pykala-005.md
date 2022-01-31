@@ -11,7 +11,6 @@ Tässä laissa tarkoitetaan:
 6) lomautuksella työnantajan suorittamaa lomautusta tuotannollisilla ja taloudellisilla syillä;
 7) työssäoloehdolla sekä palkansaajan että yrittäjän ansiopäivärahan ja peruspäivärahan saamisen edellytyksenä olevaa työssäoloehtoa;
 8) korvauksettomalla määräajalla aikaa, jolta työttömyysetuutta ei makseta työstä eroamisen tai kieltäytymisen taikka muun 2 a luvussa säädetyn menettelyn johdosta;
-9) työssäolovelvoitteella työssäoloa, työllistymistä edistävään palveluun osallistumista, opiskelua tai yritystoiminnassa taikka omassa työssä työllistymistä, joka edellytetään ennen kuin työttömyysetuutta voidaan maksaa työttömyysajalta toistuvan 8 kohdassa tarkoitetun menettelyn jälkeen;
 10) työllistymissuunnitelmalla julkisesta työvoima- ja yrityspalvelusta annetun lain mukaista työ- ja elinkeinotoimiston yhdessä työnhakijan kanssa laatimaa suunnitelmaa ja työllistymistä edistävästä monialaisesta yhteispalvelusta annetun lain (1369/2014) mukaista monialaista työllistymissuunnitelmaa;
 10 a) työllistymissuunnitelmaa korvaavalla suunnitelmalla kuntouttavasta työtoiminnasta annetussa laissa (189/2001) tarkoitettua aktivointisuunnitelmaa ja kotoutumisen edistämisestä annetussa laissa (1386/2010) tarkoitettua kotoutumissuunnitelmaa;
 11) korkeimmalla korotetulla palkkatuella julkisesta työvoima- ja yrityspalvelusta annetun lain 7 luvun 7 §:n 1 momentissa tarkoitettua tukea;

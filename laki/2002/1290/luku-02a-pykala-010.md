@@ -1,9 +1,19 @@
-# 10 § Työllistymissuunnitelman laatimisesta kieltäytyminen
+# 10 § Jatkuva työnhakuun ja työvoimapalveluihin liittyvä menettely
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 2 a luku Työvoimapoliittisesti moitittava menettely
 
-Jos työnhakija ilman pätevää syytä kieltäytyy työllistymissuunnitelman tai sitä korvaavan suunnitelman laatimisesta tai tarkistamisesta taikka muulla kuin 9 §:ssä tarkoitetulla menettelyllään aiheuttaa, ettei suunnitelmaa voida laatia tai tarkistaa, hänellä ei ole oikeutta työttömyysetuuteen 30 päivän ajalta kieltäytymisen jälkeen. Oikeus etuuteen palautuu kuitenkin aikaisintaan siitä päivästä, jona työllistymissuunnitelma tai sitä korvaava suunnitelma on laadittu tai tarkistettu, jollei suunnitelman laatimisen tai tarkistamisen viivästyminen johdu suunnitelman laatimiseen tai tarkistamiseen osallistuvasta viranomaisesta.
+Työnhakijalla, joka työttömänä tai palkkatuetussa työssä ollessaan taikka saadessaan työttömyysetuutta 3 luvun 3 §:n 3 momentin perusteella ilman 11–14 §:ssä tarkoitettua tai näihin pätevyydeltään rinnastettavaa syytä menettelee 9 §:n 1 momentin 1–12 kohdassa tarkoitetulla tavalla 12 kuukauden kuluessa:
+1) kolmannen kerran, ei ole oikeutta työttömyysetuuteen 14 päivän ajalta mainitussa lainkohdassa tarkoitetun menettelyn jälkeen;
+2) neljännen kerran tai tätä useammin, ei ole oikeutta työttömyysetuuteen toistaiseksi mainitussa lainkohdassa tarkoitetun menettelyn jälkeen, ennen kuin etuusoikeus palautuu 2 tai 3 momentissa tarkoitetulla tavalla (työssäolovelvoite).
 
-Työnhakijan ei katsota menetelleen 1 momentissa tarkoitetulla tavalla sillä perusteella, ettei häntä ole tavoitettu puhelimitse suunnitelman laatimista tai tarkistamista varten.
+Oikeus työttömyysetuuteen palautuu työssäolovelvoitteen asettamiseen johtaneen menettelyn jälkeen, kun henkilö on yhteensä vähintään 12 kalenteriviikkoa:
+1) ollut työssäoloehtoon luettavassa työssä;
+2) osallistunut muuhun työllistymistä edistävään palveluun kuin työttömyysetuudella tuettuun omaehtoiseen opiskeluun tai kotoutumisen edistämisestä annetun lain 22–24 §:ssä tarkoitettuun omaehtoiseen opiskeluun;
+3) opiskellut omaehtoisesti 2 luvun 10 §:n 2 momentissa tarkoitettuja päätoimisia opintoja; tai
+4) työllistynyt päätoimisesti yritystoiminnassa tai omassa työssä.
 
-Mitä 1 ja 2 momentissa säädetään työllistymissuunnitelman tai sitä korvaavan suunnitelman laatimisesta tai tarkistamisesta, sovelletaan myös kotoutumisen edistämisestä annetun lain 9 §:ssä tarkoitetusta alkukartoituksesta kieltäytymiseen.
+Oikeus työttömyysetuuteen palautuu työssäolovelvoitteen asettamiseen johtaneen menettelyn jälkeen myös kun:
+1) työnhakija korjaa 9 §:n 1 momentin 1–12 kohdassa tarkoitetun työssäolovelvoitteen asettamiseen johtaneen menettelynsä kolmen kuukauden kuluessa julkisesta työvoima- ja yrityspalvelusta annetun lain 2 luvun 5 §:ssä tarkoitetusta alkuhaastattelusta; työssäolovelvoite on tällöin kuitenkin aina voimassa vähintään 14 päivää; tai
+2) työssäolovelvoitteen alkamisesta on kulunut vähintään viisi vuotta.
+
+Mitä 1 momentissa ja 9 §:ssä säädetään, ei sovelleta aikana, jolta työnhakijalla ei ole oikeutta työttömyysetuuteen 1 momentin tai 9 §:n perusteella. Mitä 1–9 §:ssä sekä 2 luvun 13 §:n 2 momentissa sekä 14 §:n 3 momentissa säädetään, ei sovelleta työssäolovelvoitteen aikana.

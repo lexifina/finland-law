@@ -2,13 +2,10 @@
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 2 a luku Työvoimapoliittisesti moitittava menettely
 
-Työnhakijan oikeus työttömyysetuuteen keskeytyy 30 päivän kuluttua työstä kieltäytymisestä lukien:
-1) 90 päivän ajaksi, jos hän ilman pätevää syytä kieltäytyy työstä, johon hänet on valittu;
-2) 60 päivän ajaksi, jos hän ilman pätevää syytä kieltäytyy muusta kuin 1 kohdassa tarkoitetusta työ- ja elinkeinotoimiston tarjoamasta tai hänelle muuten yksilöidysti tarjotusta työstä;
-3) 30 päivän ajaksi, jos 1 tai 2 kohdassa tarkoitettu työ olisi kestänyt enintään kaksi viikkoa.
+Työnhakijalla ei ole oikeutta työttömyysetuuteen 45 päivän ajalta 30 päivän kuluttua työstä kieltäytymisestä lukien, jos hän työttömänä ollessaan ilman pätevää syytä kieltäytyy työnantajan hänelle yksilöidysti tarjoamasta työstä tai hakemastaan työstä, johon hänet on valittu.
 
-Lomautetun ja työttömyysetuutta lomautukseen rinnastettavan syyn perusteella saavan työnhakijan oikeus työttömyysetuuteen keskeytyy 1 momentissa säädetyllä tavalla työstä kieltäytymisestä lukien.
+Jos työ olisi kestänyt enintään kaksi viikkoa, oikeutta työttömyysetuuteen ei kuitenkaan ole 30 päivän ajalta. Jos henkilö on omalla menettelyllään aiheuttanut sen, ettei työsuhdetta ole syntynyt, hänen katsotaan kieltäytyneen työstä.
 
-Jos henkilö on omalla menettelyllään aiheuttanut sen, ettei työsuhdetta ole syntynyt, hänen katsotaan kieltäytyneen työstä.
+Pätevänä syynä kieltäytyä työstä pidetään 5–8 §:ssä tarkoitettua tai näihin rinnastettavaa syytä. Jos työnhakija kieltäytyy hakemastaan työstä, edellyttää pätevän syyn olemassaolo lisäksi, ettei työnhakija tiennyt 5–8 §:ssä tarkoitetuista tai niihin rinnastettavista seikoista työtä hakiessaan.
 
-Ellei muuhun arvioon ole aihetta, työnhakijan katsotaan kieltäytyneen työstä sinä päivänä, jona työ- ja elinkeinotoimisto tai työ- ja elinkeinohallinnon asiakaspalvelukeskus saa tiedon kieltäytymisestä tai henkilön 3 momentissa tarkoitetusta menettelystä taikka henkilö menettelee 1 tai 3 momentissa tarkoitetulla tavalla. Valtioneuvoston asetuksella säädetään tarkemmin ajankohdasta, jona työnhakijan katsotaan kieltäytyneen työstä.
+Ellei muuhun arvioon ole aihetta, työnhakijan katsotaan kieltäytyneen työstä sinä päivänä, jona työ- ja elinkeinotoimisto tai työ- ja elinkeinohallinnon asiakaspalvelukeskus saa tiedon työnhakijan 1 tai 2 momentissa tarkoitetusta menettelystä taikka työnhakija menettelee 1 tai 2 momentissa tarkoitetulla tavalla. Valtioneuvoston asetuksella säädetään tarkemmin ajankohdasta, jona työnhakijan katsotaan kieltäytyneen työstä.

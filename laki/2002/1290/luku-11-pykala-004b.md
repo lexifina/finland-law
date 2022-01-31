@@ -1,5 +1,5 @@
-# 4 b § Lain väliaikainen soveltaminen lomautettuihin
+# 4 b §
 Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 11 luku Toimeenpanoa koskevat säännökset
 
-Työnhakijan oikeuteen saada työttömyysetuutta lomautusajalta ei sovelleta 2 luvun 10 ja 11 §:ää, jos lomautus on alkanut 16 päivänä maaliskuuta 2020 tai sen jälkeen.
+4 b § oli väliaikaisesti voimassa 31.1.2022–28.2.2022 L:lla 86/2022.

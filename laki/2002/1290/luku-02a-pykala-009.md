@@ -1,9 +1,23 @@
-# 9 § Työllistymissuunnitelman laatimistilaisuuteen saapumatta jääminen
+# 9 § Työnhakuun ja työvoimapalveluihin liittyvä menettely
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 2 a luku Työvoimapoliittisesti moitittava menettely
 
-Työnhakijalla, joka jättää saapumatta työllistymissuunnitelman tai sitä korvaavan suunnitelman laatimis- tai tarkistamistilaisuuteen, ei ole oikeutta työttömyysetuuteen 15 päivän ajalta saapumatta jäämisen jälkeen. Oikeus etuuteen palautuu kuitenkin aikaisintaan siitä päivästä, jona työllistymissuunnitelma tai sitä korvaava suunnitelma on laadittu tai tarkistettu, jollei suunnitelman laatimisen tai tarkistamisen viivästyminen johdu suunnitelman laatimiseen tai tarkistamiseen osallistuvasta viranomaisesta.
+Työnhakijalla ei ole oikeutta työttömyysetuuteen seitsemän päivän ajalta laiminlyönnin tai muun menettelyn jälkeen, jos hän työttömänä tai palkkatuetussa työssä ollessaan taikka saadessaan työttömyysetuutta 3 luvun 3 §:n 3 momentin perusteella ilman 11–14 §:ssä tarkoitettua taikka näihin pätevyydeltään rinnastettavaa syytä 12 kuukauden aikana toisen kerran:
+1) jättää saapumatta julkisesta työvoima- ja yrityspalvelusta annetun lain 2 luvun 5 §:ssä tai 6 §:n 2 momentissa tarkoitettuun alkuhaastatteluun tai työnhakukeskusteluun;
+2) jättää saapumatta kotoutumisen edistämisestä annetun lain 9 §:ssä tarkoitettuun alkukartoitukseen;
+3) kieltäytyy työllistymissuunnitelman tai sitä korvaavan suunnitelman laatimisesta tai tarkistamisesta taikka muulla kuin 1 tai 2 kohdassa tarkoitetulla menettelyllään aiheuttaa, ettei suunnitelmaa voida laatia tai tarkistaa;
+4) kieltäytyy kotoutumisen edistämisestä annetun lain 9 §:ssä tarkoitetusta alkukartoituksesta taikka muulla kuin 2 kohdassa tarkoitetulla menettelyllään aiheuttaa sen, ettei alkukartoitusta voida tehdä;
+5) laiminlyö hakea työtä työllistymissuunnitelmassa tai sitä korvaavassa suunnitelmassa edellytetyllä tavalla, tai omalla menettelyllään aiheuttaa sen, ettei työnhaku johda työllistymiseen;
+6) jättää hakematta työ- ja elinkeinotoimiston tarjoamaa työtä tai omalla menettelyllään aiheuttaa sen, ettei työnhaku johda työllistymiseen, jos hänelle viimeksi järjestetystä julkisesta työvoima- ja yrityspalvelusta annetun lain 2 luvun 5 §:ssä tarkoitetusta alkuhaastattelusta on kulunut vähintään kuusi kuukautta;
+7) kieltäytyy seuraavasta palvelusta tai omalla menettelyllään aiheuttaa sen, ettei hänelle voida järjestää seuraavaa palvelua:
+a) julkisesta työvoima- ja yrityspalvelusta annetussa laissa tarkoitettu työnhakuvalmennus, uravalmennus, työvoimakoulutus, koulutuskokeilu tai työkokeilu;
+b) ammatillisesta koulutuksesta annetussa laissa tarkoitettu työvoimakoulutus;
+c) kotoutumisen edistämisestä annetun lain 22–24 §:ssä tarkoitettu omaehtoinen opiskelu; tai
+d) kuntouttavasta työtoiminnasta annetussa laissa tarkoitettu kuntouttava työtoiminta;
+8) keskeyttää tai joutuu omasta syystään keskeyttämään 7 kohdassa tarkoitetun palvelun;
+9) kieltäytyy työllistymissuunnitelmassa tai sitä korvaavassa suunnitelmassa sovitusta työ- ja elinkeinoviranomaisen, kunnan tai palveluntuottajan järjestämästä työnhakua tai työllistymistä tukevasta muusta kuin 7 kohdassa tarkoitetusta palvelusta tai omalla menettelyllään aiheuttaa sen, ettei hänelle voida järjestää tällaista palvelua;
+10) keskeyttää tai joutuu omasta syystään keskeyttämään 9 kohdassa tarkoitetun palvelun;
+11) kieltäytyy palvelutarpeen arvioimiseksi välttämättömästä työkyvyn tutkimuksesta tai arvioinnista tai omalla menettelyllään aiheuttaa sen, ettei hänelle voida järjestää tällaista palvelua; tai
+12) laiminlyö noudattaa, mitä monialaisessa työllistymissuunnitelmassa on sovittu työnhaun ja työllistymisen yleisten edellytysten parantamisesta, jos hänelle ei ole asetettu työnhakuvelvollisuutta julkisesta työvoima- ja yrityspalvelusta annetun lain 3 luvun 7 §:n perusteella.
 
-Mitä 1 momentissa säädetään, ei sovelleta, jos työnhakijan saapumatta jääminen johtuu sairaudesta, tapaturmasta tai henkilöstä itsestään riippumattomasta syystä taikka jos saapumatta jäämiselle on muu hyväksyttävä syy. Korvauksetonta määräaikaa ei aseteta myöskään silloin, kun työnhakija on etukäteen ilmoittanut työ- ja elinkeinotoimistolle olevansa estynyt saapumasta työllistymissuunnitelman tai sitä korvaavan suunnitelman laatimis- tai tarkistamistilaisuuteen ja työ- ja elinkeinotoimisto hyväksyy työnhakijan esittämän syyn tilaisuuden järjestämiseksi myöhemmin.
-
-Mitä 1 ja 2 momentissa säädetään työllistymissuunnitelman tai sitä korvaavan suunnitelman laatimis- tai tarkistamistilaisuuteen saapumatta jäämisestä, sovelletaan myös kotoutumisen edistämisestä annetun lain 9 §:ssä tarkoitettuun alkukartoitukseen saapumatta jäämiseen.
+Edellä 1 momentin 5 ja 6 kohdassa tarkoitettua menettelyä arvioidaan kokonaisuutena kullakin julkisesta työvoima- ja yrityspalvelusta annetun lain 3 luvussa säädetyllä työnhakuvelvollisuuden tarkastelujaksolla.
