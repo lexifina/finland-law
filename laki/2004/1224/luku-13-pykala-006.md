@@ -10,6 +10,6 @@ Hyvän työterveyshuoltokäytännön toteuttamiseksi tarpeellisia voimavaratekij
 3) laboratoriotutkimukset ja radiologiset tutkimukset;
 4) työterveysaseman perustamista ja ylläpitoa koskevat muut voimavarat.
 
-Kansaneläkelaitos vahvistaa vuosittain korvauksen perusteena olevat laskennalliset enimmäismäärät edellä tarkoitettujen voimavaratekijöiden perusteella yleistä kustannuskehitystä vastaavasti. Vuosina 2018–2020 enimmäismääriä ei kuitenkaan vahvisteta, vaan käytetään vuonna 2017 vahvistettuja enimmäismääriä. Vuoden 2021 lopussa enimmäismäärät vahvistetaan ottaen huomioon ainoastaan kyseisen vuoden aikana tapahtunut kustannuskehitys.
+Kansaneläkelaitos vahvistaa vuosittain korvauksen perusteena olevat laskennalliset enimmäismäärät edellä tarkoitettujen voimavaratekijöiden perusteella yleistä kustannuskehitystä vastaavasti.
 
 Korvauksen enimmäismäärässä voidaan ottaa korottavana tekijänä huomioon työpaikan kokoon sekä työterveyshuoltotoiminnan aloittamiseen, työterveysaseman perustamiseen tai työterveyshuollon sisällön muuttamiseen liittyvä erityinen syy. Valtioneuvoston asetuksella voidaan tarkemmin säätää korvauksen enimmäismäärää korottavista tekijöistä.

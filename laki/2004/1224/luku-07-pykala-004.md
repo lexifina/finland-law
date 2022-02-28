@@ -2,7 +2,7 @@
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 7 luku Päivärahaetuuksien saamisen yleiset edellytykset
 
-Työnantajalle maksetaan päivärahaetuus siltä osin kuin vakuutetulla on työsuhteen perusteella oikeus palkan tai sitä vastaavan korvauksen saamiseen sairauspoissaolon, äitiys-, isyys-, vanhempainvapaan tai osittaisen vanhempainvapaan ajalta ja kun työsuhteen ehdoissa on sovittu päivärahaetuuden taikka sen osan suorittamisesta vakuutetun sijasta työnantajalle. Päivärahaetuutta ei makseta vakuutetulle samalta ajalta palkkaa vastaavalta osalta.
+Työnantajalle maksetaan päivärahaetuus siltä osin kuin vakuutetulla on työsuhteen perusteella oikeus palkan tai sitä vastaavan korvauksen saamiseen sairauspoissaolon taikka raskaus-, erityisraskaus- tai vanhempainvapaan ajalta ja kun työsuhteen ehdoissa on sovittu päivärahaetuuden taikka sen osan suorittamisesta vakuutetun sijasta työnantajalle. Päivärahaetuutta ei makseta vakuutetulle samalta ajalta palkkaa vastaavalta osalta.
 
 Työnantajalle maksetaan päivärahaetuus siltä osin kuin työnantaja on maksanut vakuutetulle palkkaa työkyvyttömyysajalta työsuhteen perusteella ja työkyvyttömyys johtuu ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun lain (101/2001) mukaisesta elin-, kudos- tai solusiirtoa varten tehdystä luovutuksesta. Päivärahaetuutta ei makseta vakuutetulle samalta ajalta palkkaa vastaavalta osalta.
 

@@ -8,7 +8,7 @@ Jos Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun
 
 Lisäksi valtio rahoittaa viisi prosenttia päivärahaetuus- ja kuntoutusrahakuluista, jotka muutoin rahoitettaisiin työnantajan sairausvakuutusmaksulla ja vakuutetun päivärahamaksulla.
 
-Jos sairauspäivärahan määrää vähennetään 12 luvussa säädetyn yhteensovituksen vuoksi tai kuntoutusrahaa Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 36 §:n 1 momentissa tai 37 taikka 39 §:n säädetyn yhteensovituksen vuoksi, pienentää tämä vähennys ensisijaisesti vakuutusmaksuilla rahoitettavaa osuutta. Vastaavasti menetellään, kun vanhempainpäiväraha maksetaan 11 luvun 11 tai 12 §:n perusteella vähimmäismääräisenä.
+Jos sairauspäivärahan tai vanhempainpäivärahan määrää vähennetään 12 luvussa säädetyn yhteensovituksen vuoksi tai kuntoutusrahaa Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 36 §:n 1 momentissa tai 37 taikka 39 §:n säädetyn yhteensovituksen vuoksi, tämä vähennys pienentää ensisijaisesti vakuutusmaksuilla rahoitettavaa osuutta.
 
 Lisäksi valtion varoista rahoitetaan:
 1) kulut, jotka aiheutuvat 13 luvun 2 §:n 2 momentissa tarkoitetun sairaanhoidon ja muun terveydenhuollon korvaamisesta yrittäjälle ja muulle omaa työtään tekevälle; sekä

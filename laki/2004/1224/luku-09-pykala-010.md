@@ -1,13 +1,7 @@
-# 10 § Vanhempainrahakausi
+# 10 § Vanhempainpäivärahan saamisen esteet
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 9 luku Vanhempainpäivärahat
 
-Vanhempainrahaa maksetaan enintään 158 arkipäivältä välittömästi äitiysrahakauden päättymisestä lukien, jollei 2 tai 3 momentista muuta johdu. Äitiysrahakauden katsotaan päättyvän 75 arkipäivän kuluttua lapsen todellisesta syntymäpäivästä, jos äidille ei ole maksettu äitiysrahaa. Jos äidillä ei ole vanhempainpäivärahaoikeutta 1 §:n 1 momentissa säädetyn vakuuttamisedellytyksen puuttumisen vuoksi, isän vanhempainrahakausi alkaa 75 arkipäivän kuluttua lapsen todellisesta syntymäpäivästä.
+Vanhempainpäivärahaan ei ole oikeutta siltä ajalta, kun vakuutettu on ansiotyössä tai muussa omassa työssä lukuun ottamatta omassa kotitaloudessa tehtävää työtä tai päätoimista opiskelua. Vanhempainpäivärahaan ei ole oikeutta lakisääteisen vuosiloman tai muiden palkallisten vapaapäivien ajalta lukuun ottamatta työsopimuslain mukaista raskaus-, erityisraskaus- tai vanhempainvapaata, jonka ajalta työantajalla on 7 luvun 4 §:n mukainen oikeus etuuteen. Ansiotyössä olemisena ei pidetä vanhemman toimimista kuntalain 69 §:ssä tarkoitettuna luottamushenkilönä lukuun ottamatta mainitun lain 80 §:ssä tarkoitettuja päätoimisia ja osa-aikaisia luottamushenkilöitä. Ansiotyössä olemisena ei myöskään pidetä omaishoidon tuesta annetun lain (937/2005) mukaisena omaishoitajana tai perhehoitolaissa (263/2015) tarkoitettuna toimeksiantosopimuksen kunnan kanssa tehneenä perhehoitajana toimimista.
 
-Jos äitiysrahakausi on lapsen ennenaikaisen syntymisen vuoksi alkanut aikaisemmin kuin 30 arkipäivää ennen laskettua synnytysaikaa, vanhempainrahakautta pidennetään niin monella arkipäivällä kuin äitiysrahakausi on alkanut 30 arkipäivää aikaisemmalta ajalta.
-
-Vanhempainrahakautta pidennetään 60 arkipäivällä kutakin yhtä useampaa lasta kohti, jos samalla kertaa syntyy useampia lapsia. Lapsen äiti tai isä voi pitää tässä momentissa tarkoitetun vanhempainrahakauden pidennyksen myös kokonaan tai osittain jo äitiys- tai vanhempainrahakauden aikana.
-
-Jos lapsen isällä on 8 §:n 2 momentin nojalla oikeus vanhempainrahaan jo äitiysrahakaudella, vanhempainrahakautta pidennetään niin monella arkipäivällä kuin lapsen hoitoon ottamisesta on äitiysrahakauden päättymiseen.
-
-Äidin vanhempainrahakautta pidennetään hakemuksesta 54 arkipäivällä, jos 1–3 momentissa säädetyn vanhempainrahakauden päättyessä ei ole 1 §:n 2 momentissa tai 6 §:n 2 momentissa tarkoitettua vakuutettua, johon sovelletaan isyysrahaa koskevia säännöksiä. Kuitenkin, jos isyysrahaan oikeutetulle vakuutetulle on jo maksettu isyysrahaa, on äidillä oikeus tässä momentissa tarkoitettuihin vanhempainrahapäiviin vain siltä osin kuin isyysrahapäiviä olisi jäljellä. Äidin oikeus tässä momentissa tarkoitettuihin vanhempainrahapäiviin päättyy, jos 1 §:n 2 momentissa tai 6 §:n 2 momentissa tarkoitettu vakuutettu tulee oikeutetuksi isyysrahapäiviin. Jos samalla kertaa syntyy tai adoptoidaan yhtä useampi lapsi, pidennetään äidin vanhempainrahakautta vastaavasti siten kuin 7 §:n 2 momentissa säädetään isyysrahakauden pidentämisestä.
+Vanhempainpäivärahaan ei ole oikeutta siltä ajalta, jona vakuutettu on suorittamassa hänelle tuomittua vankeusrangaistusta vankeuslain 4 luvun 1 §:ssä tarkoitetussa vankilassa lukuun ottamatta sakon muuntorangaistusta.

@@ -1,11 +1,11 @@
-# 11 § Adoptiovanhemman vanhempain- ja isyysraha
+# 11 § Vanhempainrahan maksaminen osittaisena
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 9 luku Vanhempainpäivärahat
 
-Adoptiovanhemman vanhempainrahaan ja osittaiseen vanhempainrahaan on oikeus vakuutetulla, joka on ottanut hoitoonsa lapsen adoptiotarkoituksessa. Adoptiovanhemman vanhempainrahaan on oikeus sopimuksen mukaan joko adoptiovanhemmalla tai vakuutetulla, joka on avioliitossa adoptiovanhemman kanssa eikä asu välien rikkoutumisen vuoksi hänestä erillään. Oikeutta adoptiovanhemman vanhempainrahaan ei kuitenkaan ole vakuutetulla, joka on ottanut lapsen adoptiolapsekseen ja on avioliitossa adoptiolapsen vanhemman tai adoptiovanhemman kanssa.
+Sen estämättä, mitä 10 §:n 1 momentissa säädetään, vanhempainraha voidaan maksaa osittaisena, jos vanhempi hoitaa lasta osapäiväisesti tehden samaan aikaan osa-aikatyötä. Vanhempainrahan osittaisen maksamisen edellytyksenä on, että vanhempi on sopinut työnantajansa kanssa osa-aikatyöstä. Vanhempainraha maksetaan osittaisena, jos päivittäinen työaika on enintään viisi tuntia.
 
-Adoptiovanhemman vanhempainrahaan oikeutetulla adoptioisällä on oikeus isyysrahaan siten kuin 6 ja 7 §:ssä säädetään.
+Yrittäjälle vanhempainraha voidaan maksaa osittaisena, jos hän hoitaa lasta osapäiväisesti ja hänen päivittäinen työaikansa on enintään viisi tuntia.
 
-Jos kaksi adoptiovanhemman vanhempainrahaan oikeutettua adoptioisää tai adoptioäitiä ovat yhdessä ottaneet lapsen adoptiolapsekseen, oikeus isyysrahaan on 2 momentista poiketen toisella adoptiovanhemmista vanhempien sopimuksen mukaan. Jos kaksi adoptioisää tai kaksi adoptioäitiä eivät enää ole avioliitossa tai asuvat välien rikkoutumisen vuoksi erillään, oikeus adoptiovanhemman vanhempainrahaan on sillä adoptiovanhemmalla, joka vastaa lapsen hoidosta. Mitä 6 ja 7 §:ssä sekä 11 luvun 9 §:ssä säädetään isästä, sovelletaan myös isyysrahaan oikeutettuun adoptioäitiin.
+Jos vanhempi työskentelee useassa työsuhteessa taikka palkkatyössä ja yrittäjänä, vanhempainrahan maksaminen osittaisena edellyttää, että päivittäinen työaika on yhteensä enintään viisi tuntia.
 
-Adoptiovanhemman vanhempainrahan tai osittaisen vanhempainrahan edellytyksenä on, että adoptiovanhempi esittää lapsen hoitoon ottamisesta adoptiolaissa (22/2012) tarkoitetun adoptioneuvonnan tai kansainvälisen adoptiopalvelun antajan todistuksen. Jos lapsi adoptoidaan vieraasta valtiosta Suomeen ilman palvelunantajaa, adoptiovanhemman vanhempainrahan tai osittaisen vanhempainrahan edellytyksenä on, että hakijalle on myönnetty adoptiolupa adoptiolain 42 §:n mukaisesti ja hakija esittää selvityksen lapsen adoptiosta ja hoitoon ottamisesta.
+Sen estämättä, mitä 8 §:n 3 momentissa säädetään vanhempainrahan maksamisesta samalta ajalta, vanhempainraha voidaan maksaa vakuutetuille osittaisena samalta päivältä saman lapsen perusteella. Mitä 6 §:ssä säädetään vanhempainrahapäivien lukumäärästä, sovelletaan tämän pykälän mukaisesti maksettuun vanhempainrahaan siten, että osittaisena maksettu vanhempainrahapäivä vastaa puolikasta vanhempainrahapäivää.

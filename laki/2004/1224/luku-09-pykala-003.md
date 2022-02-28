@@ -1,7 +1,7 @@
-# 3 § Äitiysrahakausi
+# 3 § Oikeus erityisraskausrahaan
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 9 luku Vanhempainpäivärahat
 
-Äitiysrahaa maksetaan 105 arkipäivältä. Oikeus äitiysrahaan alkaa aikaisintaan 50 arkipäivää ja viimeistään 30 arkipäivää ennen laskettua synnytysaikaa. Jos raskaus on päättynyt aikaisemmin kuin 30 arkipäivää ennen laskettua synnytysaikaa, oikeus äitiysrahaan alkaa raskauden päättymistä seuraavana arkipäivänä ja päättyy, kun etuutta on maksettu 105 arkipäivältä.
+Raskaana olevalla vakuutetulla, joka on ansiotyössä tai omassa työssä lukuun ottamatta omassa kotitaloudessa tehtävää työtä, on oikeus erityisraskausrahaan, jos hänen työtehtäviinsä tai työoloihinsa liittyvä kemiallinen aine, säteily tai tarttuva tauti taikka muu vastaava seikka vaarantaa hänen tai sikiön terveyden. Valtioneuvoston asetuksella säädetään, milloin vakuutetun työtehtävien tai työpaikan olosuhteiden voidaan arvioida vaarantavan vakuutetun tai sikiön terveyden edellä mainituissa tilanteissa, sekä siitä, mitä selvityksiä vakuutetun on esitettävä haettaessa erityisraskausrahaa.
 
-Äitiysrahan maksaminen varhennettuna 31–50 arkipäivältä ennen laskettua synnytysaikaa edellyttää, ettei vakuutettu ole tuona aikana ansiotyössä tai muussa omassa työssä lukuun ottamatta omassa kotitaloudessa tehtävää työtä. Ansiotyössä olemisena ei pidetä vanhemman toimimista kuntalain 69 §:ssä tarkoitettuna luottamushenkilönä lukuun ottamatta mainitun lain 80 §:ssä tarkoitettuja päätoimisia ja osa-aikaisia luottamushenkilöitä.
+Erityisraskausrahan maksamisen edellytyksenä on, että vakuutettu on työkykyinen ja ettei hänelle voida järjestää muuta työtä työsopimuslain (55/2001) 2 luvun 3 §:n 2 momentin tai merityösopimuslain (756/2011) 2 luvun 3 §:n 2 momentin mukaisesti ja vakuutettu joutuu tämän vuoksi olemaan poissa työstä. Lisäksi edellytyksenä on, että vakuutettu ei ole muussakaan ansiotyössä eikä omassa työssä lukuun ottamatta omassa kotitaloudessa suoritettavaa työtä.

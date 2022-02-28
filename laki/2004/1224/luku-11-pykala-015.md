@@ -7,3 +7,5 @@ Tartuntatautipäiväraha määräytyy sen työ- tai virkasuhteen palkan perustee
 Yrittäjän tartuntatautipäiväraha on etuuden alkamishetkellä voimassa olevan yrittäjän eläkelain tai maatalousyrittäjän eläkelain mukaisesti vahvistetun vuosityötulon kolmassadasosa.
 
 Jos vakuutettu tekee työstä pidättämisen aikana muuta työtä, tartuntatautipäivärahaa maksetaan vain ansionmenetystä vastaavalta osalta.
+
+Mitä 1–3 momentissa säädetään, sovelletaan myös 8 luvun 1 a §:n 4 momentin mukaiseen tartuntatautipäivärahaan.

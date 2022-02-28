@@ -11,6 +11,4 @@ Sairauspäivärahaan ei ole oikeutta vakuutetulla, joka saa:
 6) takuueläkkeestä annetun lain (703/2010) 7 §:n 1 momentin 1 kohdan tai 2 momentin 1 kohdan mukaista takuueläkettä;
 7) kansanedustajan eläkkeestä ja sopeutumisrahasta annetun lain mukaista sopeutumiseläkettä tai sopeutumisrahaa.
 
-Jos vakuutetun äitiysrahakausi on alkanut aikaisemmin kuin 30 arkipäivää ennen laskettua synnytysaikaa, hänellä ei ole oikeutta sairauspäivärahaan kyseiseltä ajalta.
-
 Edellä 1 momentin 4–7 kohdassa tarkoitettua eläkettä, kansaneläkelain 12 §:n 1 momentin nojalla myönnettyä työkyvyttömyyseläkettä, työeläkelakien mukaista täyttä työkyvyttömyyseläkettä, työuraeläkettä tai osittaista varhennettua vanhuuseläkettä saavalla 68 vuotta nuoremmalla vakuutetulla on kuitenkin oikeus sairauspäivärahaan, jos hän eläkkeelle siirtymisensä jälkeen on työssä ja tulee työkyvyttömäksi työhön, jota hän eläkkeellä ollessaan välittömästi ennen työkyvyttömyyden alkamista on tehnyt. Sairauspäivärahan määrä lasketaan tällöin eläkkeellä oloajan palkka- ja yrittäjätulon perusteella siten kuin 11 luvussa säädetään ottaen huomioon 12 luvun 2 §:n säännökset.

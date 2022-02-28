@@ -1,11 +1,9 @@
-# 7 § Isyysrahakausi
+# 7 § Vanhempainrahapäivien luovuttaminen
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 9 luku Vanhempainpäivärahat
 
-Isyysrahaa maksetaan yhteensä enintään 54 arkipäivältä, kuitenkin siten, että äitiys- ja vanhempainrahakaudella isyysrahaa maksetaan yhteensä enintään 18 arkipäivältä. Äitiys- ja vanhempainrahakaudella maksettava isyysraha voidaan jakaa enintään neljään jaksoon. Äitiys- ja vanhempainrahakauden ulkopuolella maksettava isyysraha voidaan jakaa enintään kahteen jaksoon. Oikeus isyysrahaan jatkuu, kunnes lapsi täyttää kaksi vuotta tai adoptiolapsen hoitoon ottamisesta on kulunut kaksi vuotta.
+Vanhempainrahaan oikeutettu vanhempi voi luovuttaa yhteensä enintään 63 vanhempainrahapäivää vakuutetulle, joka on lapsen toinen vanhempi, lapsen huoltaja taikka luovuttavan vanhemman tai toisen vanhemman aviopuoliso. Aviopuolisoon rinnastetaan vakuutettu, joka jatkuvasti elää vanhemman kanssa yhteisessä taloudessa avioliitonomaisissa olosuhteissa.
 
-Jos samalla kertaa syntyy tai adoptoidaan yhtä useampi lapsi, pidennetään isyysrahakautta 18 arkipäivällä kutakin yhtä useampaa lasta kohti. Isyysrahaa maksetaan kuitenkin yhteensä enintään 105 arkipäivältä. Tässä momentissa tarkoitetut isyysrahapäivät voi käyttää äitiys- ja vanhempainrahakaudella ottaen kuitenkin huomioon, mitä 1 momentissa on säädetty isyysrahajaksojen määrästä.
+Edellä 6 §:n 2 momentissa tarkoitetut vanhempainrahan lisäpäivät voi luovuttaa kokonaisuudessaan 1 momentissa tarkoitetulle vakuutetulle. Jos vanhempainrahapäivien lukumäärä perustuu 6 §:n 3 momenttiin, vanhempainrahapäiviä voi luovuttaa 1 momentissa tarkoitetulle vakuutetulle yhteensä enintään 32. Jos vanhemmalla on 6 §:n 4 momentin mukaisesti oikeus käyttää myös toiselle vanhemmalle kiintiöidyt vanhempainrahapäivät, näistä vanhempainrahapäivistä voi luovuttaa 1 momentissa tarkoitetulle vakuutetulle enintään 63.
 
-Isyysrahaa maksetaan uuden lapsen syntymään tai adoptioon perustuvalla äitiys- ja vanhempainrahakaudella aikaisemman tai aikaisempien lasten perusteella enintään 24 arkipäivältä. Tällöin aikaisemman lapsen tai aikaisempien lasten syntymään tai adoptioon perustuvat isyysrahapäivät on pidettävä yhdessä jaksossa.
-
-Jos lapsen äidille on maksettu vanhempainrahaa 10 §:n 5 momentin perusteella, on isyysrahaan oikeus vain siltä osin kuin 10 §:n 5 momentin mukaisia vanhempainrahapäiviä on jäljellä. Kuitenkin, jos vakuutettu on tullut oikeutetuksi isyysrahaan isyyden vahvistamisen tai adoption perusteella sen jälkeen, kun äidille on jo maksettu vanhempainrahaa 10 §:n 5 momentin perusteella, on vakuutetulla oikeus isyysrahapäiviin tämän pykälän mukaisesti.
+Vanhempainrahapäivien luovuttamisesta ilmoitetaan Kansaneläkelaitokselle. Ilmoituksen vanhempainrahapäivien luovuttamisesta voi perua siihen saakka, kunnes luovutetut päivät on käytetty. Luovutettuihin vanhempainrahapäiviin sovelletaan, mitä muualla tässä laissa säädetään vanhempainrahasta.
