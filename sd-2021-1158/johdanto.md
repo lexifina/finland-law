@@ -1,0 +1,2 @@
+Laki turvallisuutta, turvatoimia ja palveluja koskevasta yhdennetystä lähestymistavasta jalkapallo-otteluissa ja muissa urheilutilaisuuksissa tehdystä Euroopan neuvoston yleissopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
