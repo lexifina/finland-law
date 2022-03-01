@@ -6,3 +6,5 @@ Poliisi voi tarvittaessa antaa yleisen kokouksen tai yleisötilaisuuden järjest
 2) terveyden, omaisuuden tai ympäristön vahingoittumisen estämiseksi taikka ympäristölle aiheutuvan haitan rajoittamiseksi;
 3) sivullisten oikeuksien turvaamiseksi; sekä
 4) liikenteen sujuvuuden turvaamiseksi.
+
+Poliisi voi lisäksi antaa ohjeita ja määräyksiä 12 §:n 2 momentissa tarkoitettujen harjoitusten käynnistämisestä, valvonnasta ja hyväksymisestä.
