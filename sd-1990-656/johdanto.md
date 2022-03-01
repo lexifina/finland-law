@@ -1,2 +1,2 @@
-Laki neuvoa-antavissa kunnallisissa kansanäänestyksissä noudatettavasta menettelystä
+Laki hyvinvointialueilla ja kunnissa toimitettavissa neuvoa-antavissa kansanäänestyksissä noudatettavasta menettelystä
 Eduskunnan päätöksen mukaisesti säädetään:

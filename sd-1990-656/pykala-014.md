@@ -1,3 +1,3 @@
-# 14 §
+# 14 § Tuloksesta tiedottaminen
 
-Kunnan keskusvaalilautakunnan on saatettava kansanäänestyksen tulos tiedoksi sillä tavalla, kuin kunnalliset ilmoitukset kunnassa julkaistaan.
+Aluevaalilautakunnan tai kunnan keskusvaalilautakunnan on saatettava kansanäänestyksen tulos tiedoksi sillä tavalla, kuin ilmoitukset hyvinvointialueella tai kunnassa julkaistaan.

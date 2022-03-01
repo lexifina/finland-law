@@ -1,3 +1,3 @@
-# 19 §
+# 19 § Tarkemmat säännökset
 
-Oikeusministeriö antaa tarvittaessa tarkempia määräyksiä ja ohjeita tämän lain soveltamisesta.
+Tarkempia säännöksiä tässä laissa tarkoitettujen viranomaisten tehtävistä voidaan antaa oikeusministeriön asetuksella.

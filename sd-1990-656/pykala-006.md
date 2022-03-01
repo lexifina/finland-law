@@ -1,3 +1,5 @@
-# 6 §
+# 6 § Äänestysviranomaisen kokoukset
 
-Kunnan keskusvaalilautakunta kokoontuu puheenjohtajan kutsusta viimeistään kuukautta ennen äänestyspäivää, 20. päivänä ennen äänestyspäivää, äänestyspäivää edeltävänä perjantaina, äänestyspäivänä ja äänestyspäivän jälkeisenä päivänä sekä muulloinkin, milloin asian käsittely sitä vaatii.
+Hyvinvointialueen kansanäänestyksessä aluevaalilautakunta ja kunnan keskusvaalilautakunta kokoontuvat ensimmäisen kerran viimeistään kuukautta ennen äänestyspäivää ja sen jälkeen, milloin asian käsittely sitä vaatii.
+
+Kunnan kansanäänestyksessä kunnan keskusvaalilautakunta kokoontuu ensimmäisen kerran viimeistään kuukautta ennen äänestyspäivää ja sen jälkeen, milloin asian käsittely sitä vaatii.

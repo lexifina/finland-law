@@ -1,3 +1,5 @@
-# 17 §
+# 17 § Kustannukset
 
-Kunnallisesta kansanäänestyksestä aiheutuneet kustannukset suoritetaan kunnan varoista.
+Hyvinvointialueen kansanäänestyksestä aiheutuneet kustannukset suoritetaan hyvinvointialueen varoista. Hyvinvointialue korvaa kunnille aiheutuneet kustannukset.
+
+Kunnan kansanäänestyksestä aiheutuneet kustannukset suoritetaan kunnan varoista.
