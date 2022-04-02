@@ -1,0 +1,2 @@
+Laki joukkorahoituspalvelun tarjoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
