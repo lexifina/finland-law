@@ -14,7 +14,7 @@ Rangaistusajan suunnitelmaan on merkittävä valvonta-ajan alkamisen ja päätty
 8) valvonnan asianmukaista täytäntöönpanoa edistävistä tukitoimista;
 9) muista yhdistelmärangaistuksen täytäntöönpanon kannalta välttämättömistä valvotun velvollisuuksista.
 
-Rikosseuraamuslaitos laatii lisäksi viikoittaisen aikataulun valvonta-ajan suorittamiseksi.
+Rangaistusajan suunnitelma sisältää myös valvonta-ajan suorittamisen aikataulun.
 
 Rangaistusajan suunnitelmaa valmisteltaessa on tarpeellisessa määrin oltava yhteistyössä vangin koti- tai asuinkunnan sosiaali-, terveys-, asunto- ja työvoimaviranomaisten, muiden viranomaisten sekä yksityisten yhteisöjen ja henkilöiden kanssa.
 
