@@ -12,10 +12,8 @@ Koevapauden rangaistusajan suunnitelmaan on merkittävä koevapauden alkamisen j
 8) koevapauteen sijoitetun henkilökohtaisten asioiden hoitamiseen varattavasta ajasta;
 9) muista vastaavista valvotun koevapauden täytäntöönpanolle välttämättömistä ehdoista.
 
-Rangaistusajan suunnitelmassa on oltava tiedot koevapauteen sijoitetun taloudellisesta toimeentulosta koevapauden aikana.
-
 Jos 4 §:ssä tarkoitettu lääkehoito ja mahdollisesti muu hoito ja tuki on asetettu valvotun koevapauden ehdoksi, rangaistusajan suunnitelma sisältää lisäksi hoitoa ja tukea sekä ehtojen noudattamisen valvontaa koskevat välttämättömät määräykset.
 
-Rangaistusajan suunnitelmaan on liitettävä 3 §:ssä tarkoitettu samassa asunnossa asuvien täysi-ikäisten henkilöiden kirjallinen suostumus koevapauden täytäntöönpanoon ja siihen liittyviin valvontakäynteihin asunnossa.
+Rangaistusajan suunnitelmaan on liitettävä 3 §:ssä tarkoitetut suostumukset.
 
-Rikosseuraamuslaitos laatii erikseen valvotun koevapauden suorittamisen viikoittaisen aikataulun.
+Rangaistusajan suunnitelma sisältää myös valvotun koevapauden suorittamisen aikataulun.
