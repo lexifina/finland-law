@@ -1,24 +1,20 @@
 # 29 § Päätösvalta
 Luku: 5 luku Päätösvaltaa koskevat säännökset
 
-Rikosseuraamuslaitoksen arviointikeskus vahvistaa 8 §:ssä tarkoitetun rangaistusajan suunnitelman ja päättää 15 §:ssä tarkoitetusta rangaistusajan suunnitelman muuttamisesta.
+Rikosseuraamuslaitoksen arviointikeskus päättää 8 §:ssä tarkoitetusta rangaistusajan suunnitelmasta ja 15 §:ssä tarkoitetusta rangaistusajan suunnitelman muuttamisesta.
 
-Täytäntöönpanojohtaja, täytäntöönpanopäällikkö tai työjärjestyksessä määrätty muu virkamies vastaa rangaistusajan laskemisesta ja 22 §:ssä tarkoitetusta rangaistusajaksi lukemisesta.
+Täytäntöönpanojohtaja, täytäntöönpanopäällikkö tai työjärjestyksessä määrätty muu virkamies päättää rangaistusajan laskemisesta ja 22 §:ssä tarkoitetusta rangaistusajaksi lukemisesta. Täytäntöönpanosta vastaava virkamies tai muu työjärjestyksessä määrätty täytäntöönpanoyksikön virkamies päättää 34 §:ssä tarkoitetun etsintäkuulutuksen antamisesta ja peruuttamisesta.
 
 Vankilan johtaja, työjärjestyksessä määrätty toiminnoista tai turvallisuudesta vastaava virkamies taikka yhdyskuntaseuraamustoimiston johtaja tai työjärjestyksessä määrätty apulaisjohtaja päättää:
 1) 13 §:n 2 momentissa tarkoitetun verinäytteen ottamisesta;
 2) 14 §:n 1 momentissa tarkoitetusta luvasta olla tilapäisesti noudattamatta rangaistusajan suunnitelmaa;
-3) 14 §:n 2 momentissa tarkoitetusta ilmoituksen johdosta tehtävästä päätöksestä;
-4) 16 §:ssä tarkoitetusta selvityksestä ja esityksestä syyttäjälle;
-5) 18 §:n 1 momentissa kirjallisesta varoituksesta;
-6) 19 §:ssä tarkoitetusta selvityksestä ja sen toimittamisesta syyttäjälle;
-7) 24 §:n 2 momentissa tarkoitetun ilmoituksen tekemisestä käräjäoikeudelle;
-8) 33 §:ssä tarkoitettujen matkakustannusten korvaamisesta.
+3) 16 §:ssä tarkoitetusta selvityksestä ja esityksestä syyttäjälle;
+4) 17 a §:n 1 momentissa tarkoitetusta huomautuksesta ja varoituksesta;
+5) 19 §:n 2 momentissa tarkoitetusta törkeän velvollisuuksien rikkomista koskevan selvityksen toimittamisesta syyttäjälle;
+6) 24 §:n 2 momentissa tarkoitetun ilmoituksen tekemisestä käräjäoikeudelle.
 
-Yhdyskuntaseuraamustoimiston johtaja tai työjärjestyksessä määrätty apulaisjohtaja päättää 34 §:ssä tarkoitetusta etsintäkuulutuksesta.
+Rikosseuraamuslaitoksen virkamies päättää muusta 13 §:ssä tarkoitetusta päihteettömyyden valvonnasta kuin verinäytteen ottamisesta, 14 §:n 2 momentissa tarkoitetusta luvasta olla noudattamatta rangaistusajan suunnitelmaa, 17 §:ssä tarkoitetusta turvatarkastuksesta sekä turvatarkastuksessa löydettyjen esineiden ja aineiden poisottamisesta, 18 §:n 1 momentissa tarkoitetusta selvityksestä, 21 b §:ssä tarkoitetusta sitomisesta ja 33 §:ssä tarkoitettujen matkakustannusten korvaamisesta.
 
-Rikosseuraamuslaitoksen virkamies päättää muusta 13 §:ssä tarkoitetusta päihteettömyyden valvonnasta kuin verinäytteen ottamisesta ja 17 §:ssä tarkoitetusta turvatarkastuksesta sekä turvatarkastuksessa löydettyjen esineiden ja aineiden poisottamisesta ja 18 §:n 2 momentissa tarkoitusta selvityksestä.
-
-Pakkokeinolain 2 luvun 9 §:ssä tarkoitettu pidättämiseen oikeutettu virkamies päättää 20 §:ssä tarkoitetusta noudosta Rikosseuraamuslaitoksen pyynnöstä sekä 16 ja 19 §:ssä tarkoitetusta valvottavan säilöönotosta.
+Pakkokeinolain 2 luvun 9 §:ssä tarkoitettu pidättämiseen oikeutettu virkamies päättää tämän lain 20 §:ssä tarkoitetusta noudosta Rikosseuraamuslaitoksen pyynnöstä sekä 16 ja 18 §:ssä tarkoitetusta valvottavan säilöönotosta.
 
 Rikosseuraamuslaitoksen keskushallintoyksikkö päättää vankilan johtajan esityksestä 28 §:ssä tarkoitetusta tuomitun sijoittamisesta suorittamaan jäljellä olevaa valvonta-aikaa.

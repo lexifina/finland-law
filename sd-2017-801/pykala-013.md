@@ -1,8 +1,8 @@
 # 13 § Päihteettömyyden valvonta
 Luku: 3 luku Valvottavan velvollisuudet ja niiden noudattamisen valvonta
 
-Valvottava on velvollinen päihteettömyytensä valvomiseksi vaadittaessa suorittamaan puhalluskokeen ja antamaan sylki- tai virtsanäytteen. Tällöin hänet voidaan myös velvoittaa menemään soveltuvaan Rikosseuraamuslaitoksen yksikköön, Vankiterveydenhuollon yksikköön, terveyskeskukseen tai päihdehuoltolaissa (41/1986) tarkoitettuun yksikköön virtsanäytteen antamista varten.
+Valvottava voidaan velvoittaa suorittamaan puhalluskoe taikka antamaan sylki- tai virtsanäyte sen varmistamiseksi, ettei hän ole alkoholin tai muun päihdyttävän aineen vaikutuksen alainen 5 §:ssä tarkoitetulla tavalla.
 
-Jos valvottava on 5 §:ssä tarkoitetussa valvontatapaamisessa, toimintapaikassa tai valvonta-ajan täytäntöönpanon edellyttämässä tilaisuudessa ulkoisista merkeistä päätellen todennäköisesti alkoholin tai muun päihdyttävän aineen vaikutuksen alainen, Rikosseuraamuslaitoksen virkamiehen on kirjattava päihtymystilaa koskevat havainnot. Jos päihtymystila on ulkoisista merkeistä päätellen ilmeinen, 1 momentissa tarkoitettua koetta ei tarvitse tehdä eikä näytettä ottaa, ellei tuomittu sitä vaadi. Valvottavalta, joka ilman pätevää syytä kieltäytyy puhalluskokeesta taikka sylki- tai virtsanäytteen antamisesta, voidaan määrätä otettavaksi verinäyte.
+Valvottavalta voidaan määrätä otettavaksi verinäyte, jos se on tarpeen 1 momentissa tarkoitetusta kokeesta tai näytteen antamisesta kieltäytymisen, päihteettömyyden valvonnan turvaamisen tai luotettavan koetuloksen saamisen vuoksi.
 
-Jos valvottavan todetaan sylki- tai virtsanäytteen perusteella käyttäneen päihdyttävää ainetta, tulos on varmistettava laboratoriossa, joka täyttää huumausainetestien tekemisestä säädetyt laatuvaatimukset. Samoin on meneteltävä, vaikka pikatestin tulos on negatiivinen, jos on syytä epäillä, että tulos on virheellinen.
+Jos päihtymystila on ulkonaisista merkeistä päätellen ilmeinen, puhalluskoetta, sylki-, virtsa- tai verinäytettä ei tarvitse ottaa, ellei valvottava sitä vaadi.

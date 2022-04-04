@@ -1,8 +1,8 @@
-# 18 § Velvollisuuksien rikkominen
+# 18 § Velvollisuuksien rikkomisen selvittäminen
 Luku: 3 luku Valvottavan velvollisuudet ja niiden noudattamisen valvonta
 
-Jos valvottava rikkoo 12 tai 13 §:ssä säädettyjä velvollisuuksiaan, Rikosseuraamuslaitoksen on annettava hänelle kirjallinen varoitus. Varoituksen antamisen yhteydessä valvottavalle on ilmoitettava, mitä velvollisuuksien rikkomisen jatkamisesta voi seurata. Jos velvollisuuksien rikkomisen todetaan olevan vähäistä eikä se ole toistuvaa, valvottavalle voidaan kirjallisen varoituksen sijasta antaa huomautus.
+Jos valvottavan epäillään rikkoneen velvollisuuksiaan 17 a §:ssä tarkoitetulla tavalla, Rikosseuraamuslaitoksen on selvitettävä velvollisuuksien rikkominen sen laadun ja vakavuusasteen edellyttämällä tavalla.
 
-Velvollisuuksien rikkomista epäiltäessä Rikosseuraamuslaitoksen on tehtävä asiasta selvitys.
+Valvonta-ajan täytäntöönpanoon liittyvät viranomaiset ja yksityiset yhteisöt saavat salassapitoa koskevien säännösten estämättä ilmoittaa Rikosseuraamuslaitokselle siitä, että valvottava on rikkonut rangaistusajan suunnitelman määräyksiä.
 
-Valvonta-ajan täytäntöönpanoon liittyvät viranomaiset ja yksityiset yhteisöt saavat salassapitoa koskevien säännösten estämättä ilmoittaa Rikosseuraamuslaitokselle siitä, että valvottava on rikkonut rangaistusajan suunnitelmassa tarkoitettuja määräyksiä.
+Jos valvottavan epäillään rikkoneen velvollisuuksiaan törkeästi, hänet voidaan ottaa säilöön 24 §:n mukaisesti.

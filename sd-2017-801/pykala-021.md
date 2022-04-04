@@ -7,4 +7,6 @@ Voimakeinojen on oltava tarpeellisia ja olosuhteisiin nähden puolustettavia. Pu
 
 Voimankäyttövälineitä saa käyttää ainoastaan asianmukaisen koulutuksen saanut virkamies.
 
-Voimakeinojen käytön liioittelusta säädetään rikoslain 4 luvun 6 §:n 3 momentissa ja 7 §:ssä.
+Rikosseuraamuslaitoksen virkamiehellä on virantoimituksessa lisäksi oikeus hätävarjeluun rikoslain 4 luvun 4 §:n mukaisesti. Arvioitaessa hätävarjelun puolustettavuutta on otettava huomioon virkamiehelle koulutuksensa ja kokemuksensa perusteella asetettavat vaatimukset.
+
+Voimakeinojen käytön liioittelusta säädetään rikoslain 4 luvun 6 §:n 3 momentissa ja 7 §:ssä sekä hätävarjelun liioittelusta 4 luvun 4 §:n 2 momentissa ja 7 §:ssä.
