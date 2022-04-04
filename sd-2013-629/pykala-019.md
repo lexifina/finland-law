@@ -1,8 +1,10 @@
 # 19 § Päihteettömyyden valvonta
 Luku: 3 luku Koevapauteen sijoitetun velvollisuudet ja niiden noudattamisen valvonta
 
-Koevapauteen sijoitettu on velvollinen päihteettömyytensä valvomiseksi vaadittaessa antamaan virtsa- tai sylkinäytteen taikka suorittamaan puhalluskokeen. Koevapauteen sijoitettu voidaan myös velvoittaa saapumaan Rikosseuraamuslaitoksen yksikköön, terveyskeskukseen tai päihdehuoltolain (41/1986) mukaiseen yksikköön virtsanäytteen antamista varten.
+Koevapauteen sijoitettu voidaan velvoittaa suorittamaan puhalluskoe taikka antamaan sylki- tai virtsanäyte 18 §:ssä tarkoitetun päihteettömyyden valvomiseksi.
 
-Jos koevapauteen sijoitettu on valvontakäynnin tai muun valvontaan liittyvän tilaisuuden yhteydessä taikka 5 §:ssä tarkoitettuun toimintaan liittyvässä tilaisuudessa ulkoisista merkeistä päätellen todennäköisesti alkoholin tai muun päihdyttävän aineen vaikutuksen alainen, Rikosseuraamuslaitoksen virkamiehen on kirjattava päihtymystilaa koskevat havainnot. Jos päihtymystila on ulkoisista merkeistä päätellen ilmeinen, koetta tai näytettä ei tarvitse ottaa, ellei koevapauteen sijoitettu sitä vaadi. Koevapauteen sijoitetulta, joka ilman pätevää syytä kieltäytyy puhalluskokeesta taikka virtsa- tai sylkinäytteen antamisesta, voidaan määrätä otettavaksi verinäyte.
+Koevapauteen sijoitetulta voidaan määrätä otettavaksi verinäyte, jos se on tarpeen 1 momentissa tarkoitetusta kokeesta tai näytteen antamisesta kieltäytymisen, päihteettömyyden valvonnan turvaamisen tai luotettavan koetuloksen saamisen vuoksi.
 
-Jos koevapauteen sijoitetun todetaan puhalluskokeen perusteella olevan alkoholin vaikutuksen alainen, Rikosseuraamuslaitoksen on ryhdyttävä 26 tai 27 §:ssä tarkoitettuihin toimenpiteisiin. Jos koevapauteen sijoitetun todetaan virtsa- tai sylkinäytteen perusteella käyttäneen päihdyttävää ainetta, tulos on varmistettava laboratoriossa, joka täyttää huumausainetestien tekemisestä säädetyt laatuvaatimukset. Samoin on meneteltävä, vaikka pikatestin tulos on negatiivinen, jos on perusteltua syytä epäillä päihtymystilaa. Jos varmistettu tulos osoittaa koevapauteen sijoitetun käyttäneen huumausainelain 3 §:ssä tarkoitettua huumausainetta taikka lääkettä, jonka käyttämiseen hänellä ei ole oikeutta, Rikosseuraamuslaitoksen on ryhdyttävä tämän lain 26 §:ssä tarkoitettuihin toimenpiteisiin.
+Jos päihtymystila on ulkonaisista merkeistä päätellen ilmeinen, puhalluskoetta, sylki-, virtsa- tai verinäytettä ei tarvitse ottaa, ellei koevapauteen sijoitettu sitä vaadi.
+
+Päihteettömyyden valvonnassa todetun päihteettömyysvelvollisuuden rikkomisen käsittelystä säädetään 25 a, 26 ja 27 §:ssä.
