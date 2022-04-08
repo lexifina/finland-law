@@ -1,6 +1,6 @@
 # 8 § Valtion eläkerahaston tilinpäätös ja tilintarkastus
 
-Valtion eläkerahaston taseessa tai sen liitetiedoissa on ilmoitettava 1 §:ssä tarkoitettuun palvelukseen perustuvista eläkkeistä aiheutuva eläkevastuu sekä eläkevastuun kattamaton osa.
+Valtion eläkerahaston taseessa tai sen liitetiedoissa on ilmoitettava 1 §:ssä tarkoitettuun palvelukseen perustuvista eläkkeistä aiheutuva eläkevastuu sekä eläkevastuun katettu osa euromääräisenä ja suhteessa eläkevastuuseen yhden prosentin kymmenesosan tarkkuudella sekä päättyneeltä tilikaudelta että sitä edeltäneeltä tilikaudelta.
 
 Valtiovarainministeriö asettaa vuosittain rahaston hallintoa, taloutta ja tilejä tarkastamaan kaksi tilintarkastajaa, joiden molempien tulee olla joko KHT- tai JHT-tilintarkastajia.
 
