@@ -1,8 +1,8 @@
 # 85 § Muutoksenhaku hissiturvallisuusviranomaisen päätökseen
 Luku: 9 luku Erinäiset säännökset
 
-Tämän lain mukaiseen hissiturvallisuusviranomaisen tekemään hallintopäätökseen haetaan muutosta siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
 
-Hissiturvallisuusviranomaisen päätöstä on muutoksenhausta huolimatta noudatettava, jollei muutoksenhakuviranomainen toisin määrää.
+Hissiturvallisuusviranomaisen päätös voidaan kuitenkin panna täytäntöön valituksesta huolimatta .
 
-Uhkasakon asettamista ja maksettavaksi tuomitsemista sekä teettämis- tai keskeyttämisuhan asettamista ja täytäntöön pantavaksi määräämistä koskevaan päätökseen saa kuitenkin hakea muutosta siten kuin uhkasakkolaissa säädetään.
+Muutoksenhaussa uhkasakon asettamista ja maksettavaksi tuomitsemista sekä teettä-misuhan asettamista ja täytäntöönpantavaksi määräämistä koskevaan päätökseen sovelletaan kuitenkin, mitä uhkasakkolaissa säädetään.
