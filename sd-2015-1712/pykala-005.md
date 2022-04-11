@@ -26,7 +26,7 @@ c) joka muuttaa vesikulkuneuvoa siinä määrin, että se ei mahdollisesti täyt
 12) työntövoimalla menetelmää, jonka avulla vesikulkuneuvo liikkuu;
 13) moottoriryhmällä valmistajan sellaisten moottorien ryhmää, joilla on rakenteensa vuoksi samankaltaiset pakokaasu- tai melupäästöjen ominaisuudet;
 14) rungon pituudella yhdenmukaistetun standardin mukaisesti mitattua rungon pituutta;
-15) asettamisella saataville markkinoilla tuotteen toimittamista liiketoiminnan yhteydessä Euroopan unionin tai Euroopan talousalueen markkinoille jakelua, kulutusta tai käyttöä varten joko maksua vastaan tai maksutta;
+15) asettamisella saataville markkinoilla tuotteen toimittamista Euroopan unionin markkinoille liiketoiminnan yhteydessä jakelua, kulutusta tai käyttöä varten joko maksua vastaan tai maksutta;
 16) markkinoille saattamisella tuotteen asettamista ensimmäistä kertaa saataville Euroopan unionin tai Euroopan talousalueen markkinoilla;
 17) käyttöönotolla tämän lain soveltamisalaan kuuluvan tuotteen ensimmäistä käyttöä, jonka loppukäyttäjä tekee Euroopan unionissa tai Euroopan talousalueella;
 18) valmistajalla luonnollista henkilöä tai oikeushenkilöä, joka valmistaa taikka suunnitteluttaa tai valmistuttaa tuotteen ja markkinoi sitä omalla nimellään tai tavaramerkillään;
@@ -40,10 +40,11 @@ c) joka muuttaa vesikulkuneuvoa siinä määrin, että se ei mahdollisesti täyt
 26) kansallisella akkreditointielimellä jäsenvaltion ainoaa elintä, joka suorittaa akkreditointia käyttäen valtiolle kuuluvaa julkista valtaa;
 27) vaatimustenmukaisuuden arvioinnilla menettelyä, jossa arvioidaan, täyttyvätkö tämän lain ja sen nojalla säädetyt tuotetta koskevat vaatimukset;
 28) rakentamisen jälkeisellä arvioinnilla menettelyä, jossa arvioidaan sellaisen tuotteen vaatimustenmukaisuus, jonka osalta valmistaja ei ole ottanut vastuuta siitä, että tuote on säädettyjen vaatimusten mukainen;
-29) ilmoitetulla laitoksella laitosta, joka suorittaa kalibrointia, testausta, sertifiointia ja tarkastuksia tai muita vaatimustenmukaisuuden arviointitoimia;
+29) ilmoitetulla laitoksella Euroopan unionin jäsenvaltion nimeämää ja Euroopan komissiolle ilmoitettua laitosta, jolla on oikeus tehdä vaatimustenmukaisuuden arviointeja;
 30) palautusmenettelyllä kaikkia toimenpiteitä, joiden tarkoituksena on saada loppukäyttäjien saataville jo asetetut tuotteet takaisin;
 31) markkinoilta poistamisella kaikkia toimenpiteitä, joiden tarkoituksena on estää toimitusketjussa olevan tuotteen asettaminen saataville markkinoilla;
-32) markkinavalvonnalla viranomaisten toimintaa ja niiden toteuttamia toimenpiteitä sen varmistamiseksi, että tuotteet ovat unionin yhdenmukaistamislainsäädännössä asetettujen vaatimusten mukaisia eivätkä vaaranna terveyttä, turvallisuutta tai muita yleisten etujen suojeluun liittyviä seikkoja;
+32) markkinavalvonnalla markkinavalvontaviranomaisten toimintaa ja niiden toteuttamia toimenpiteitä sen varmistamiseksi, että tuotteet ovat sovellettavassa lainsäädännössä säädettyjen vaatimusten mukaisia, ja kyseisen lainsäädännön soveltamisalaan kuuluvien yleisten etujen suojelun varmistamiseksi;
 33) CE-merkinnällä merkintää, jolla valmistaja osoittaa tuotteen olevan merkinnän kiinnittämistä koskevassa unionin yhdenmukaistamislainsäädännössä asetettujen vaatimusten mukainen;
 34) unionin yhdenmukaistamislainsäädännöllä mitä tahansa unionin lainsäädäntöä, jolla yhdenmukaistetaan tuotteiden kaupan pitämisen ehtoja;
-35) akkreditointi- ja markkinavalvonta-asetuksella tuotteiden kaupan pitämiseen liittyvää akkreditointia ja markkinavalvontaa koskevista vaatimuksista ja neuvoston asetuksen (ETY) N:o 339/93 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 765/2008.
+35) akkreditointi- ja markkinavalvonta-asetuksella tuotteiden kaupan pitämiseen liittyvää akkreditointia ja markkinavalvontaa koskevista vaatimuksista ja neuvoston asetuksen (ETY) N:o 339/93 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 765/2008;
+36) markkinavalvonta-asetuksella markkinavalvonnasta ja tuotteiden vaatimustenmukaisuudesta sekä direktiivin 2004/42/EY ja asetusten (EY) N:o 765/2008 ja (EU) N:o 305/2011 muuttamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2019/1020.
