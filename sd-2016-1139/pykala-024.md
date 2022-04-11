@@ -15,8 +15,16 @@ Joka tahallaan tai huolimattomuudesta rikkoo
 11) 15 §:n 2 momentissa säädettyä jakelijan velvollisuutta ilmoittaa vaarasta valmistajalle tai maahantuojalle ja Turvallisuus- ja kemikaalivirastolle,
 12) 17 §:n 1 momentissa säädettyä valmistajan ja maahantuojan velvollisuutta ryhtyä korjaaviin toimenpiteisiin,
 13) 17 §:n 2 momentissa säädettyä talouden toimijan velvollisuutta tehdä ilmoitus,
+14) markkinavalvonta-asetuksen 4 artiklan 3 kohdan a alakohdassa säädettyä valmistajan tai maahantuojan velvollisuutta pitää vaatimustenmukaisuusvakuutus ja tekniset asiakirjat markkinavalvontaviranomaisen saatavilla kymmenen vuoden ajan ja varmistaa, että tekniset asiakirjat voidaan antaa pyynnöstä markkinavalvontaviranomaisen saataville,
+15) markkinavalvonta-asetuksen 4 artiklan 3 kohdan b alakohdassa säädettyä tietojen ja asiakirjojen toimittamista koskevaa valmistajan tai maahantuojan velvollisuutta,
 on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta, räjähdysvaarallisissa tiloissa käytettäväksi tarkoitettuja laitteita ja suojausjärjestelmiä koskevien säännösten rikkomisesta sakkoon.
 
-Sitä, joka rikkoo tämän lain nojalla määrättyä, uhkasakolla tehostettua kieltoa tai velvoitetta, ei voida tuomita 1 momentin nojalla rangaistukseen samasta teosta.
+Jollei teosta muualla laissa säädetä ankarampaa rangaistusta, räjähdysvaarallisissa tiloissa käytettäväksi tarkoitettuja laitteita ja suojausjärjestelmiä koskevien säännösten rikkomisesta tuomitaan myös se, joka tahallaan tai törkeästä huolimattomuudesta rikkoo
+1) markkinavalvonta-asetuksen 4 artiklan 3 kohdan a alakohdassa säädettyä EU-vaatimustenmukaisuusvakuutusta tai teknisiä asiakirjoja koskevaa valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta,
+2) markkinavalvonta-asetuksen 4 artiklan 3 kohdan b alakohdassa säädettyä tietojen ja asiakirjojen toimittamista koskevaa valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta,
+3) markkinavalvonta-asetuksen 4 artiklan 3 kohdan c alakohdassa säädettyä valtuutetun edustajan tai jakelupalvelujen tarjoajan ilmoittamisvelvollisuutta,
+4) markkinavalvonta-asetuksen 4 artiklan 3 kohdan d alakohdassa säädettyä valtuutetun edustajan tai jakelupalvelujen tarjoajan korjaaviin toimiin ryhtymistä ja riskien vähentämistä koskevaa velvollisuutta.
+
+Sitä, joka rikkoo tämän lain nojalla määrättyä, uhkasakolla tehostettua kieltoa tai velvoitetta, ei voida tuomita 1 ja 2 momentin nojalla rangaistukseen samasta teosta.
 
 CE-merkintärikkomuksesta säädetään CE-merkintärikkomuksesta annetussa laissa (187/2010).

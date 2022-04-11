@@ -23,4 +23,5 @@ Tässä laissa tarkoitetaan:
 19) palautusmenettelyllä kaikkia toimenpiteitä, joiden tarkoituksena on saada loppukäyttäjien saataville jo asetetut tuotteet takaisin;
 20) markkinoilta poistamisella kaikkia toimenpiteitä, joiden tarkoituksena on estää toimitus-ketjussa olevan tuotteen asettaminen saataville markkinoilla;
 21) unionin yhdenmukaistamislainsäädännöllä mitä tahansa unionin lainsäädäntöä, jolla yhdenmukaistetaan tuotteiden kaupan pitämisen ehtoja;
-22) CE-merkinnällä merkintää, jolla valmistaja osoittaa tuotteen olevan merkinnän kiinnittämistä koskevassa unionin yhdenmukaistamislainsäädännössä asetettujen sovellettavien vaatimusten mukainen.
+22) CE-merkinnällä merkintää, jolla valmistaja osoittaa tuotteen olevan merkinnän kiinnittämistä koskevassa unionin yhdenmukaistamislainsäädännössä asetettujen sovellettavien vaatimusten mukainen;
+23) jakelupalvelujen tarjoajalla markkinavalvonnasta ja tuotteiden vaatimustenmukaisuudesta sekä direktiivin 2004/42/EY ja asetusten (EY) N:o 765/2008 ja (EU) N:o 305/2011 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2019/1020, jäljempänä markkinavalvonta-asetus, 3 artiklan 11 kohdassa tarkoitettua luonnollista henkilöä tai oikeushenkilöä.
