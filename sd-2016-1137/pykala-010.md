@@ -1,7 +1,7 @@
 # 10 § Oikeus ottaa tuotteita tutkittavaksi
 Luku: 3 luku Valvonnan toimenpiteet
 
-Markkinavalvontaviranomaisella ja Tullilla on oikeus ottaa tuotteita tutkittavaksi, jos se on tuotteen vaatimustenmukaisuuden valvonnan kannalta tarpeellista. Mitä tässä pykälässä säädetään tuotteista, sovelletaan myös tuotteista otettaviin näytteisiin ja niiden osiin.
+Markkinavalvontaviranomaisella on oikeus ottaa tuotteita tutkittavaksi, jos se on tuotteen vaatimustenmukaisuuden valvonnan kannalta tarpeellista. Mitä tässä pykälässä säädetään tuotteista, sovelletaan myös tuotteista otettaviin näytteisiin ja niiden osiin.
 
 Markkinavalvontaviranomaisen on talouden toimijan vaatimuksesta korvattava 1 momentissa tarkoitettu tuote käyvän hinnan mukaan, jollei havaita, että tuote on vaatimustenvastainen. Jos Tulli perii näytteen tutkittavaksi ottamisesta maksun sen mukaan kuin siitä erikseen säädetään, markkinavalvontaviranomaisen ei kuitenkaan tarvitse suorittaa korvausta näytteestä.
 
