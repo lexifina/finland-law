@@ -1,0 +1,2 @@
+Laki jalkineiden ja tekstiilituotteiden vaatimustenmukaisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
