@@ -1,0 +1,2 @@
+Laki tuotteiden ekologiselle suunnittelulle ja energiamerkinnälle asetettavista vaatimuksista
+Eduskunnan päätöksen mukaisesti säädetään:

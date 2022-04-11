@@ -1,0 +1,25 @@
+# 37 § Rangaistussäännökset
+Luku: 7 luku Pakkokeinot ja seuraamukset
+
+Joka tahallaan tai törkeästä huolimattomuudesta rikkoo
+1) 6 §:n 3 momentin nojalla säädettyä tuotteen suunnittelua koskevaa velvollisuutta,
+2) 7 §:n velvollisuutta huolehtia vaatimustenmukaisuuden arvioinnista,
+4) valmistajan tai tämän edustajan 12 §:ssä säädettyä tiedonantovelvollisuutta,
+5) 13 §:n 1 momentissa säädettyä saatavilla pitovelvollisuutta,
+6) 14 §:ssä tarkoitettua velvollisuutta pitää saatavilla tiedot energiaan liittyvän tuotteen kestävästä käytöstä, ekologisesta profiilista ja ekologisen suunnittelun eduista,
+7) 33 §:ssä säädettyä tarkastuslaitoksen tiedonantovelvollisuutta,
+8) energiamerkintäasetuksen 3 artiklan 1–5 kohdassa tarkoitettujen painettujen merkkien ja tuoteselosteen toimittamisvelvollisuutta tai velvollisuutta kiinnittää energiamerkki, varmistaa merkkien ja tuoteselosteiden paikkansapitävyys, mallin yksikön ollessa käytössä pyytää suostumusta kaikkiin muutoksiin, jotka heikentäisivät asiaan kuuluvan tuoteryhmäkohtaisen säädöksen mukaisia yksikön energiatehokkuusmerkinnän parametrejä taikka estää sellaisten tuotteiden markkinoille saattamisen, jotka on suunniteltu niin, että mallin suorituskyky muuttuu automaattisesti testausolosuhteissa,
+9) energiamerkintäasetuksen 5 artiklan 1 kohdan a alakohdassa säädettyä jälleenmyyjän esillepanovelvollisuutta,
+10) energiamerkintäasetuksen 6 artiklan 1 kohdan a alakohdassa säädettyä tavarantoimittajan tai jälleenmyyjän viittaamisvelvollisuutta, b alakohdassa säädettyä tilanteen korjaamisvelvollisuutta, c alakohdassa säädettyä kieltoa antaa tai esittää tuoteryhmäkohtaisten säädösten soveltamisalaan kuuluvien tuotteiden osalta muita merkintöjä, merkkejä, tunnuksia tai tekstejä, d alakohdan mukaista kieltoa antaa tai esittää tuoteryhmäkohtaisten säädösten soveltamisalaan kuulumattomien tuotteiden osalta jäljitteleviä merkkejä tai e alakohdassa tarkoitettua kieltoa antaa tai esittää muiden kuin energiaa liittyvien tuotteiden osalta jäljitteleviä merkkejä,
+11) 20 §:ssä säädetyn velvollisuuden käyttää suomen ja ruotsin kieltä,
+12) energiamerkintäasetuksen tuotetietokantaa koskevaa tavaratoimittajien velvoitetta sisältävän 4 artiklan 1 ja 2 kohdassa säädettyä velvoitetta ennen tuoteryhmäkohtaisen säädöksen soveltamisalaan kuuluvan uuden mallin yksikön saattamista markkinoille, syöttää uusi mallin yksikkö tuotetietokannan julkiseen ja vaatimusten noudattamista koskevaan osaan liitteen I mukaiset tiedot tai asettaa tekniset asiakirjat sähköisessä muodossa saataville tarkastusta varten 10 päivän kuluessa markkinavalvontaviranomaisen tai komission esittämän pyynnön vastaanottamisesta, 4 artiklan 4 kohdassa tarkoitettua tavarantoimittajan velvollisuutta ilmoittaa tietokannassa, milloin se ei enää saata markkinoille mallin yksiköitä, 4 artiklan 6 kohdan velvoitetta, kun mallin viimeinen yksikkö on saatettu markkinoille, säilyttää kyseistä mallia koskevat tiedot tuotetietokannan vaatimusten noudattamista koskevassa osassa 15 vuoden ajan tai muun säädetyn ajan ja säilyttää tiedot tietokannan julkisessa osassa taikka
+13) 34 §:ssä tarkoitettua rajoitusta, kieltoa tai määräystä,
+14) markkinavalvonta-asetuksen 4 artiklan 3 kohdan a alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta varmentaa, että EU-vaatimustenmukaisuusvakuutus ja tekniset asiakirjat on laadittu, pitää vaatimustenmukaisuusvakuutus ja tekniset asiakirjat Turvallisuus- ja kemikaaliviraston saatavilla kymmenen vuoden ajan ja varmistaa, että tekniset asiakirjat voidaan antaa pyynnöstä Turvallisuus- ja kemikaaliviraston saataville,
+15) markkinavalvonta-asetuksen 4 artiklan 3 kohdan b alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta toimittaa markkinavalvontaviranomaisen perustellusta pyynnöstä tälle kaikki tiedot ja asiakirjat, jotka ovat tarpeen tuotteen vaatimustenmukaisuuden osoittamiseksi,
+16) markkinavalvonta-asetuksen 4 artiklan 3 kohdan c alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta ilmoittaa riskin aiheuttavasta tuotteesta markkinavalvontaviranomaiselle,
+17) markkinavalvonta-asetuksen 4 artiklan 3 kohdan d alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta varmistaa, että ryhdytään viipymättä tarvittaviin korjaaviin toimiin, jos tuote ei vastaa sille säädettyjä vaatimuksia, tai jos tämä ei ole mahdollista, vähentää kyseisestä tuotteesta aiheutuvia riskejä,
+on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta, tuotteiden ekologista suunnittelua ja energiamerkinnälle asetettavista vaatimuksista koskevien säännösten rikkomisesta sakkoon.
+
+Joka rikkoo tämän lain nojalla määrättyä, uhkasakolla tehostettua kieltoa tai velvoitetta, ei voida tuomita 1 momentin nojalla rangaistukseen samasta teosta.
+
+CE-merkintärikkomuksesta säädetään CE-merkintärikkomuksesta annetussa laissa (187/2010).
