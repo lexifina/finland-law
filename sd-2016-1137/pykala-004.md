@@ -3,10 +3,14 @@ Luku: 2 luku Valvonnan järjestäminen
 
 Turvallisuus- ja kemikaalivirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen.
 
-Tulli toimii NLF-asetuksen 27–29 artiklassa tarkoitettuna ulkorajatarkastuksista vastaavana viranomaisena sekä valvoo 23 §:ssä tarkoitetun maastavientikiellon ja 25 §:ssä tarkoitetun hävittämismääräyksen noudattamista ulkorajalla.
+Tulli toimii markkinavalvonta-asetuksen 25 artiklan 1 kohdassa tarkoitettuna ulkorajatarkastuksista vastaavana viranomaisena sekä valvoo 23 §:ssä tarkoitetun maastavientikiellon ja 25 §:ssä tarkoitetun hävittämismääräyksen noudattamista ulkorajalla.
 
-Säteilyturvakeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen säteilylaissa tarkoitettujen tuotteiden osalta.
+Poiketen siitä, mitä 1 momentissa säädetään, Säteilyturvakeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen säteilylaissa tarkoitettujen tuotteiden osalta.
 
-Liikenne- ja viestintävirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen ilmailulaissa tarkoitettujen, ajoneuvolaissa tarkoitettujen ja ympäristönsuojelulain 24 a §:n 3 momentissa tarkoitettujen tuotteiden osalta.
+Poiketen siitä, mitä 1 momentissa säädetään, Liikenne- ja viestintävirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen ilmailulaissa, ajoneuvolaissa, ympäristönsuojelulain 24 a §:n 3 momentissa, huviveneiden turvallisuudesta ja päästövaatimuksista annetussa laissa, sähköisen viestinnän palveluista annetussa laissa ja laivavarustelaissa tarkoitettujen tuotteiden osalta.
 
 Poiketen siitä, mitä 1 momentissa säädetään, Suomen ympäristökeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen ympäristönsuojelulain 24 a §:n 2 momentissa tarkoitettujen tuotteiden ja EU-ympäristömerkistä annetussa laissa tarkoitettujen tuotteiden osalta.
+
+Sen lisäksi, mitä 1 momentissa säädetään, Lääkealan turvallisuus- ja kehittämiskeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen vaarallisten aineiden käytön rajoittamisesta sähkö- ja elektroniikkalaitteissa annetussa laissa tarkoitettujen tuotteiden osalta.
+
+Poiketen siitä, mitä 1 momentissa säädetään, Sosiaali- ja terveysalan lupa- ja valvontavirasto ja kunnat alueellaan ovat tässä laissa tarkoitettuja markkinavalvontaviranomaisia tupakkalain osalta.
