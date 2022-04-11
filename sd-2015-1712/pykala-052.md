@@ -1,9 +1,4 @@
-# 52 § Valvontaviranomaisten oikeus saada tietoja toiselta viranomaiselta ja salassa pidettävien tietojen luovuttaminen
+# 52 § Oikeus saada tietoja toisilta viranomaisilta ja käyttää toisen ottamia näytteitä
 Luku: 6 luku Erinäiset säännökset
 
-Liikenne- ja viestintävirastolla ja Tullilla on oikeus viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä saada tämän lain mukaista valvontaa varten tarpeellisia tietoja toisilta viranomaisilta.
-
-Viranomaisten toiminnan julkisuudesta annetussa laissa säädetyn salassapitovelvollisuuden estämättä saa tässä laissa tarkoitettuja tehtäviä hoidettaessa saatuja salassapitovelvollisuuden piiriin kuuluvia tietoja luovuttaa:
-1) syyttäjälle, poliisille, Rajavartiolaitokselle ja Tullille rikoksen ehkäisemiseksi tai selvittämiseksi;
-2) ympäristönsuojelu- ja kuluttajansuojaviranomaiselle sekä Onnettomuustutkintakeskukselle silloin, kun luovutettava asiakirja sisältää tälle viranomaiselle tarpeellisia tietoja sille kuuluvien tehtävien suorittamiseksi; sekä
-3) toimivaltaiselle toisen valtion viranomaiselle ja kansainväliselle toimielimelle Euroopan unionin säädökseen tai Suomea sitovaan kansainväliseen sopimukseen perustuvan velvoitteen toteuttamiseksi.
+Sen lisäksi, mitä markkinavalvontalain 11 ja 13 §:ssä säädetään, Liikenne- ja viestintävirasto ja Tulli saavat luovuttaa Onnettomuustutkintakeskukselle salassapitovelvollisuuden piiriin kuuluvia tietoja, jotka ovat välttämättömiä sille kuuluvien veneilyyn tai huviveneisiin liittyvien tehtävien hoitamiseksi.

@@ -1,10 +1,6 @@
 # 50 § Uhkasakko
 Luku: 5 luku Markkinavalvonta
 
-Liikenne- ja viestintäviraston 41–47 §:n nojalla määräämää kieltoa tai antamaa määräystä on tehostettava uhkasakolla, jollei se erityisistä syistä ole tarpeetonta.
+Sen lisäksi mitä markkinavalvontalain 28 §:ssä säädetään uhkasakosta ja teettämis-uhasta, Liikenne- ja viestintäviraston on tehostettava tämän lain 41–43 §:n tai markkinavalvontalain 17–25 §:n nojalla määräämäänsä kieltoa tai antamaansa määräystä uhkasakolla, jollei se erityisistä syistä ole tarpeetonta.
 
-Liikenne- ja viestintävirasto voi asettaa 26 §:ssä tarkoitettujen tietojen antamisvelvollisuuden, 6 §:n 6 momentissa tarkoitetun ilmoitusvelvollisuuden sekä 37 §:ssä tarkoitetun tiedonantovelvollisuuden noudattamisen tehosteeksi uhkasakon.
-
-Edellä 1 ja 2 momentissa tarkoitetun uhkasakon tuomitsee maksettavaksi hallinto-oikeus Liikenne- ja viestintäviraston hakemuksesta.
-
-Uhkasakkoon, teettämiseen ja keskeyttämiseen sovelletaan muutoin, mitä uhkasakkolaissa (1113/1990) säädetään.
+Liikenne- ja viestintävirasto voi asettaa 26 §:ssä tarkoitetun tietojen antamisvelvollisuuden, 6 §:n 6 momentissa tarkoitetun ilmoitusvelvollisuuden sekä 37 §:ssä tai markkinavalvontalain 8 §:ssä tarkoitetun tiedonantovelvollisuuden noudattamisen tehosteeksi uhkasakon.
