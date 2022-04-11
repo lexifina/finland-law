@@ -1,6 +1,6 @@
-# 20 § Tietojen luovuttaminen ja yhteistyö viranomaisen kanssa
+# 20 § Tietojen luovuttaminen
 Luku: 4 luku Ohjaus ja valvonta
 
-Elinkeinonharjoittajan on pyynnöstä luovutettava valvontaviranomaiselle tämän lain noudattamisen valvontaa ja täytäntöönpanoa varten tarpeelliset tiedot ja asiakirjat suomeksi tai ruotsiksi taikka muulla valvontaviranomaisen hyväksymällä kielellä sekä muutoinkin tehtävä valvontaviranomaisen kanssa yhteistyötä sähkö- ja elektroniikkalaitteen vaatimustenmukaisuuden varmistamiseksi.
+Markkinavalvontaviranomaisen oikeudesta saada valvontaa varten tiedot talouden toimijalta säädetään eräiden tuotteiden markkinavalvonnasta annetun lain 8 §:ssä. Tiedot ja asiakirjat on toimitettava suomeksi tai ruotsiksi taikka muulla markkinavalvontaviranomaisen hyväksymällä kielellä.
 
-Valvontaviranomaisella on kymmenen vuoden ajan sähkö- ja elektroniikkalaitteen markkinoille saattamisesta oikeus saada pyynnöstä elinkeinonharjoittajalta tiedot kaikista elinkeinonharjoittajista, jotka ovat toimittaneet sille sähkö- ja elektroniikkalaitteita tai joille tämä on toimittanut sähkö- ja elektroniikkalaitteita.
+Markkinavalvontaviranomaisella on kymmenen vuoden ajan sähkö- ja elektroniikkalaitteen markkinoille saattamisesta oikeus saada pyynnöstä valmistajalta, valtuutetulta edustajalta, maahantuojalta tai jakelijalta tiedot kaikista talouden toimijoista, jotka ovat toimittaneet sille sähkö- ja elektroniikkalaitteita tai joille tämä on toimittanut sähkö- ja elektroniikkalaitteita.
