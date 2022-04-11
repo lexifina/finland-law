@@ -14,4 +14,5 @@ b) yksikkökohtainen EY-tarkastus (moduuli G), jos varuste-eriä valmistetaan yk
 8) jakelijalla muuta laivavarusteen toimitusketjuun kuuluvaa luonnollista henkilöä tai oikeushenkilöä kuin valmistajaa tai tuojaa;
 9) vaatimustenmukaisuusvakuutuksella laivavarusteen valmistajan antamaa laivavarustedirektiivin liitteen II ja rakenteeltaan tuotteiden kaupan pitämiseen liittyvistä yhteisistä puitteista ja päätöksen 93/465/ETY kumoamisesta tehdyn Euroopan parlamentin ja neuvoston päätöksen N:o 768/2008/EY liitteessä III vahvistetun mallin mukaista vakuutusta laivavarusteelle asetettujen vaatimusten täyttymisestä;
 10) asettamisella saataville markkinoilla kaikkea laivavarusteen toimittamista unionin markkinoille liiketoiminnan yhteydessä joko maksua vastaan tai vastikkeetta;
-11) markkinoille saattamisella laivavarusteen ensimmäistä saataville asettamista Euroopan unionin markkinoilla.
+11) markkinoille saattamisella laivavarusteen ensimmäistä saataville asettamista Euroopan unionin markkinoille;
+12) markkinavalvonnalla markkinavalvontaviranomaisten toimintaa ja niiden toteuttamia toimenpiteitä sen varmistamiseksi, että tuotteet ovat sovellettavassa lainsäädännössä säädettyjen vaatimusten mukaisia, ja kyseisen lainsäädännön soveltamisalaan kuuluvien yleisten etujen suojelun varmistamiseksi.
