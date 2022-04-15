@@ -5,7 +5,7 @@ Muu oleskelulupa ansiotyötä varten myönnetään ulkomaalaiselle, joka:
 1) toimii yrityksen yli- tai keskijohdon taikka erityisosaamista vaativissa asiantuntijatehtävissä;
 2) toimii urheilijana, valmentajana tai urheilutuomarina, kun toiminta on ammattimaista;
 3) toimii uskonnollisen tai aatteellisen yhteisön palveluksessa;
-4) toimii ammattimaisesti tieteen, kulttuurin tai taiteen alalla tutkijoita ja ravintolamuusikoita lukuun ottamatta;
+4) toimii ammattimaisesti kulttuurin tai taiteen alalla ravintolamuusikoita lukuun ottamatta;
 5) toimii kansainvälisessä järjestössä tai valtioiden väliseen viralliseen yhteistyöhön liittyvissä tehtävissä;
 6) toimii ammattimaisesti joukkoviestinnän alalla, jollei hänen työn- eikä toimeksiantajallaan ole toimipaikkaa Suomessa;
 7) tutkii markkinoita, valmistelee yrityksen sijoittautumista Suomeen, neuvottelee tilauksista, hankkii tilauksia tai valvoo tehtyjen tilausten toimeenpanoa tai toimii muissa vastaavissa tehtävissä, jollei hänen työn- eikä toimeksiantajallaan ole toimipaikkaa Suomessa;

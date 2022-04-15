@@ -2,7 +2,7 @@
 Luku: 13 luku Oikeusturva
 
 Seuraaviin tämän lain nojalla tehtyihin päätöksiin ei saa hakea muutosta valittamalla:
-1) viisumisäännöstön mukaista viisumihakemuksen jättämiseen liittyvää velvollisuutta, Suomen edustuston toimivaltaa, viisumihakemuksen tutkittavaksi ottamista, hakemuksen käsittelyn keskeyttämistä, hakemuksen siirtämistä edustetun Schengen-valtion viranomaiselle ja viisumin jatkamista koskeva päätös sekä päätös, jolla viisumi on myönnetty;
+1) lyhytaikaiseen viisumiin liittyvää viisumisäännöstön mukaista viisumihakemuksen jättämiseen liittyvää velvollisuutta, Suomen edustuston toimivaltaa, viisumihakemuksen tutkittavaksi ottamista, hakemuksen käsittelyn keskeyttämistä, hakemuksen siirtämistä edustetun Schengen-valtion viranomaiselle ja viisumin jatkamista koskeva päätös sekä päätös, jolla viisumi on myönnetty;
 2) ulkoasiainministeriön päätös oleskeluluvan myöntämisestä Suomessa olevan ulkomaan edustuston henkilökuntaan kuuluvalle tai hänen perheenjäsenelleen taikka päätös hänelle myönnetyn oleskeluluvan peruuttamisesta;
 3) päätös oleskeluluvan myöntämisestä pakolaiskiintiössä Suomeen otettavalle ulkomaalaiselle;
 4) päätös oleskeluluvan myöntämisestä muun humanitaarisen maahanmuuton perusteella;

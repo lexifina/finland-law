@@ -1,7 +1,7 @@
-# 17 § Viisumiasioiden käsittelyssä sovellettavat säännökset
+# 17 § Lyhytaikaisiin viisumeihin sovellettavat säännökset
 Luku: 3 luku Viisumit
 
-Yhteisön viisumisäännöstön laatimisesta (viisumisäännöstö) annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 810/2009, jäljempänä viisumisäännöstö, sovelletaan hallintolain sijasta:
+Viisumisäännöstöä sovelletaan lyhytaikaisiin viisumeihin hallintolain sijasta seuraavasti:
 1) viisumihakemuksen jättämiseen;
 2) edustuston toimivallan tutkimiseen;
 3) hakemuksen tutkittavaksi ottamiseen; 4) hakemuksen käsittelyyn;

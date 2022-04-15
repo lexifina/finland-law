@@ -3,7 +3,7 @@ Luku: 13 luku Oikeusturva
 
 Tässä laissa tarkoitettuun hallinto-oikeuden päätökseen saa hakea muutosta valittamalla korkeimpaan hallinto-oikeuteen vain, jos korkein hallinto-oikeus myöntää valitusluvan.
 
-Hallinto-oikeuden päätökseen, joka koskee viisumin epäämistä, mitätöimistä tai kumoamista, ei kuitenkaan saa hakea muutosta valittamalla korkeimpaan hallinto-oikeuteen.
+Hallinto-oikeuden päätökseen, joka koskee lyhytaikaisen viisumin epäämistä, mitätöimistä tai kumoamista, ei kuitenkaan saa hakea muutosta valittamalla korkeimpaan hallinto-oikeuteen.
 
 Valituslupa voidaan myöntää, jos lain soveltamisen kannalta muissa samanlaisissa tapauksissa tai oikeuskäytännön yhtenäisyyden vuoksi on tärkeää saattaa asia korkeimman hallinto-oikeuden ratkaistavaksi tai jos luvan myöntämiseen on muu erityisen painava syy.
 

@@ -5,4 +5,4 @@ Tässä laissa tarkoitettuun Maahanmuuttoviraston, poliisin, rajatarkastusvirano
 
 Rajatarkastusviranomaisen, poliisin tai Maahanmuuttoviraston Schengenin rajasäännöstön perusteella tekemään päätökseen pääsyn epäämisestä saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin oikeudenkäynnistä hallintoasioissa annetussa laissa säädetään.
 
-Muutoksenhausta viisumiasioissa säädetään 190 a §:ssä.
+Muutoksenhausta lyhytaikaista viisumia koskevissa asioissa säädetään 190 a §:ssä.

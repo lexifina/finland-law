@@ -6,7 +6,10 @@ Tässä laissa tarkoitetaan:
 2) unionin kansalaisella ja häneen rinnastettavalla Euroopan unionin (EU) jäsenvaltion sekä Islannin, Liechtensteinin, Norjan ja Sveitsin kansalaista;
 2 a) kolmannen maan kansalaisella muun maan kansalaista kuin unionin kansalaista ja häneen rinnastettavaa;
 3) liikenteenharjoittajalla luonnollista henkilöä tai oikeushenkilöä, joka harjoittaa ammattimaisesti henkilöiden kuljetusta ilma-, maa-, rauta- tai vesiteitse;
-4) viisumilla lupaa, jonka perusteella ulkomaalaisen maahantulo ja lyhytaikainen oleskelu sallitaan muiden maahantulon edellytysten täyttyessä;
+4) viisumilla lupaa, jonka perusteella ulkomaalaisen maahantulo ja oleskelu sallitaan muiden maahantulon edellytysten täyttyessä;
+4 a) viisumisäännöstöllä yhteisön viisumisäännöstön laatimisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 810/2009;
+4 b) lyhytaikaisella viisumilla lupaa, jonka perusteella ulkomaalaisen maahantulo ja oleskelu korkeintaan 90 päivän ajan 180 päivän jaksolla sallitaan muiden maahantulon edellytysten täyttyessä;
+4 c) pitkäaikaisella viisumilla lupaa, jonka perusteella ulkomaalaisen maahantulo ja oleskelu, joka kestää pidempään kuin 90 päivää, mutta enintään yhden vuoden ajan, sallitaan muiden maahantulon edellytysten täyttyessä;
 5) oleskeluluvalla ulkomaalaiselle muuta kuin matkailua tai siihen verrattavaa lyhytaikaista oleskelua varten myönnettävää lupaa toistuvasti saapua maahan ja oleskella maassa;
 5 a) pitkään oleskelleen kolmannen maan kansalaisen EU-oleskeluluvalla Euroopan unionin jäsenvaltion kolmannen maan kansalaiselle myöntämää pitkään oleskelleiden kolmansien maiden kansalaisten asemasta annetussa neuvoston direktiivissä 2003/109/EY, siten kuin se on muutettuna direktiivillä 2011/51/EU, määriteltyä asemaa ja oleskelulupaa;
 6) työntekijän oleskeluluvalla ulkomaalaiselle ansiotyötä varten myönnettävää oleskelulupaa, joka myönnetään kaksivaiheisessa menettelyssä siten, että työ- ja elinkeinotoimisto tekee asiassa osapäätöksen ennen Maahanmuuttoviraston päätöstä;
