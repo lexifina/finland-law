@@ -1,0 +1,2 @@
+Laki yleiseurooppalaisen yksilöllisen eläketuotteen tarjoamista ja jakelua koskevan Euroopan unionin asetuksen täydentämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
