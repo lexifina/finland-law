@@ -1,0 +1,7 @@
+# 10 g § Kulukorvaukseen oikeuttavien perintätoimien enimmäismäärät muiden kuin kuluttajasaatavien perinnässä
+
+Perittäessä muuta kuin kuluttajasaatavaa saman saatavan perinnässä velalliselta saa vaatia perintäkuluja enintään kahdesta 5 b §:ssä tarkoitetusta maksuvaatimuksesta, enintään yhdestä tratasta ja enintään yhdestä 10 e §:n 1 momentin 8 kohdassa tarkoitetusta maksukehotuksesta. Velalliselta saa kuitenkin vaatia perintäkuluja vain yhdestä edellä tässä momentissa mainitusta maksuvaatimuksesta, jos velan perinnässä käytetään trattaa.
+
+Perittäessä muuta kuin kuluttajasaatavaa saman saatavan perinnässä velalliselta saa vaatia perintäkuluja enintään yhdestä 10 e §:n 1 momentin 6 kohdassa tarkoitetusta maksusuunnitelmasta. Velalliselta saa kuitenkin vaatia perintäkuluja enintään kahdesta maksusuunnitelmasta, jos perittävän saatavan pääoma on yli 500 euroa.
+
+Velalliselta saa vaatia perintäkuluja useammista maksuvaatimuksista, maksusuunnitelmista, tratoista ja 10 e §:n 1 momentin 8 kohdassa tarkoitetuista maksukehotuksista kuin 1 ja 2 momentissa säädetään, jos useampiin perintätoimiin on ollut erityistä aihetta eikä toteutettuja perintätoimia voida pitää suhteettomina ottaen huomioon erityisesti saatavan pääoma. Velalliselle on tällöin esitettävä erittely toteutetuista perintätoimista ja samalla ilmoitettava ne syyt, joiden vuoksi toteutettuihin perintätoimiin on ollut erityinen aihe.
