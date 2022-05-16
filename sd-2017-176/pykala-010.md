@@ -1,8 +1,8 @@
 # 10 § Kalastuslupien hinnoittelu
 
 Kalastussäännön 4 §:ssä tarkoitetuista kalastusluvista peritään seuraavat maksut:
-1) yleinen paikkakuntalaislupa 40 euroa/kalastuskausi;
-2) paikkakuntalaisen vapakalastuslupa 150 euroa/kalastuskausi, kuitenkin alle 18-vuotiaille 40 euroa/kalastuskausi;
+1) yleinen paikkakuntalaislupa 40 euroa/kalastuskausi, kuitenkin maksuton alle 18-vuotiaille;
+2) paikkakuntalaisen vapakalastuslupa 150 euroa/kalastuskausi, kuitenkin maksuton alle 18-vuotiaille;
 3) kalastussäännön 5 §:n 4 momentissa tarkoitettuun lupakiintiöön kuuluva kalastusoikeuden haltijan venekalastuslupa 10 euroa/kalastusvuorokausi ja rantakalastuslupa 5 euroa/kalastusvuorokausi, kuitenkin enintään yhteensä 150 euroa kalastuskautta kohti.
 
 Kalastussäännön 4 §:n 3 ja 4 kohdassa tarkoitettujen kalastuslupien hinta perustuu käypään hintaan, jonka määrittelemisessä otetaan huomioon vastaavantyyppisten kalastuslupien markkinatilanne. Hinta voidaan määrittää erilaiseksi lupavyöhykkeen, lupatyypin ja ajankohdan perusteella. Luvan hinta on:
