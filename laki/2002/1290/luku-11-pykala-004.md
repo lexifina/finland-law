@@ -10,11 +10,7 @@ Työ- ja elinkeinotoimisto antaa 1 luvun 4 §:n 3 momentissa tarkoitetun työvoi
 5) julkisesta työvoima- ja yrityspalvelusta annetun lain 6 luvun 3 §:n 2 momentissa tarkoitetusta opintojen todisteellisesta keskeytymisestä sekä 5–7 §:ssä säädetyistä työttömyysetuudella tuettuun työnhakijan omaehtoiseen opiskeluun liittyvistä edellytyksistä;
 6) kotoutumisen edistämisestä annetun lain 25 §:ssä tarkoitetusta opiskelun tukiajasta, maahanmuuttajan velvollisuuksista sekä opintojen seurannasta ja keskeytymisestä.
 
-Työ- ja elinkeinohallinnon asiakaspalvelukeskus voi:
-1) antaa 1 luvun 4 §:n 3 momentissa tarkoitetun työvoimapoliittisen lausunnon sellaisista 2 luvussa säädetyistä etuuden saamisen yleisistä työvoimapoliittisista edellytyksistä, joihin ei liity työvoimapoliittista harkintaa;
-2) muuttaa työ- ja elinkeinotoimiston antaman työvoimapoliittisen lausunnon koskemaan toista työttömyysetuuden lajia;
-3) siirtää työ- ja elinkeinotoimiston antaman työvoimapoliittisen lausunnon toiselle työttömyysetuutta maksavalle laitokselle;
-4) korjata työ- ja elinkeinotoimiston antamassa työvoimapoliittisessa lausunnossa olevan ilmeisen kirjoitus- tai laskuvirheen taikka muun niihin verrattavan selvän virheen.
+Työ- ja elinkeinohallinnon asiakaspalvelukeskus voi antaa 1 luvun 4 §:n 3 momentissa tarkoitetun työvoimapoliittisen lausunnon sellaisista 2 luvussa säädetyistä etuuden saamisen yleisistä työvoimapoliittisista edellytyksistä, joihin ei liity työvoimapoliittista harkintaa, sekä korjata työ- ja elinkeinotoimiston antamassa työvoimapoliittisessa lausunnossa olevan ilmeisen kirjoitus- tai laskuvirheen taikka muun niihin verrattavan selvän virheen.
 
 Työvoimapoliittinen lausunto annetaan Kansaneläkelaitoksen ja työttömyyskassan pyynnöstä. Lausuntoa on Kansaneläkelaitoksen ja työttömyyskassan pyynnöstä täydennettävä viipymättä. Jos työnhakija on ilmoittanut työvoimaviranomaiselle hakevansa työmarkkinatukea tai työttömyyspäivärahaa, työvoimapoliittinen lausunto voidaan antaa ja sitä voidaan täydentää ilman erillistä pyyntöä.
 
