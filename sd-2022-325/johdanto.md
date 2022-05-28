@@ -1,0 +1,2 @@
+Laki Yhdistyneiden kansakuntien lastenrahaston toimiston asemasta Yhdistyneiden kansakuntien lastenrahaston kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
