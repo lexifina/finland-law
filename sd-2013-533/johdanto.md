@@ -1,0 +1,2 @@
+Laki Amerikan yhdysvaltojen sekä Euroopan yhteisön ja sen jäsenvaltioiden välisen lentoliikennesopimuksen muuttamista koskevan pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja pöytäkirjan soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
