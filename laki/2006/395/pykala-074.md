@@ -7,7 +7,7 @@ Palkattomat ajat oikeuttavat eläkkeeseen, jos työntekijällä on ennen eläket
 Eläkkeeseen oikeuttaa työntekijän 17 vuoden iän täyttämistä seuraavan kalenterikuukauden alusta eläketapahtumaa edeltävän vuoden loppuun saakka palkattomalta ajalta saaman etuuden perusteena oleva tulo 3 momentissa tarkoitetulla tavalla. Vanhuuseläkettä laskettaessa työntekijän saaman etuuden perusteena oleva tulo otetaan kuitenkin huomioon vanhuuseläketapahtumakuukauden loppuun.
 
 Palkattoman ajan etuuksien perusteena olevat tulot katsotaan sen kalenterivuoden ansioiksi, johon etuusaika kohdentuu. Etuuksien perusteena olevat tulot oikeuttavat eläkkeeseen seuraavasti:
-1) 121 prosenttia äitiys-, erityisäitiys-, isyys- tai vanhempainrahan perusteena olevasta sairausvakuutuslaissa tarkoitetusta vuositulosta siltä ajalta, jolta etuus on maksettu työntekijälle, ja 21 prosenttia siltä ajalta, jolta etuus on maksettu työnantajalle;
+1) 121 prosenttia raskaus-, erityisraskaus- tai vanhempainrahan perusteena olevasta sairausvakuutuslaissa tarkoitetusta vuositulosta siltä ajalta, jolta etuus on maksettu työntekijälle, ja 21 prosenttia siltä ajalta, jolta etuus on maksettu työnantajalle;
 2) 55 prosenttia vuorotteluvapaalain mukaisen vuorottelukorvauksen perusteena olevasta ansiosta;
 3) 75 prosenttia työttömyysturvalain mukaisen ansioon suhteutetun päivärahan perusteena olevasta ansiosta siltä osin kuin päivärahaa on saatu alimman vanhuuseläkeiän täyttämiskuukauden loppuun mennessä;
 4) 65 prosenttia tartuntatautilain mukaisen tartuntatautipäivärahan perusteena olevasta palkasta siltä ajalta, jolta tartuntatautipäiväraha on maksettu työntekijälle;
