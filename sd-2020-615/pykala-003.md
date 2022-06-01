@@ -1,6 +1,6 @@
 # 3 § Ulkomaalaisasioiden asiankäsittelyjärjestelmän rekisterinpitäjät ja vastuunjako
 
-Ulkomaalaisasioiden asiankäsittelyjärjestelmään tallennetaan 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa käsiteltävät muut kuin viisumien käsittelyä ja päätöksentekoa koskevat tiedot sekä 1 §:n 1 momentin 2–5 kohdassa ja 2 momentissa tarkoitetussa käsittelykäyttötarkoituksessa käsiteltävät tiedot.
+Ulkomaalaisasioiden asiankäsittelyjärjestelmään tallennetaan 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa käsiteltävät muut kuin lyhytaikaisten viisumien käsittelyä ja päätöksentekoa koskevat tiedot sekä 1 §:n 1 momentin 2–5 kohdassa ja 2 momentissa tarkoitetussa käsittelykäyttötarkoituksessa käsiteltävät tiedot.
 
 Kukin viranomainen saa käsitellä tallentamiaan tietoja lakisääteisten tehtäviensä hoitamiseksi seuraavasti:
 1) Maahanmuuttovirasto 1 §:n 1 momentin 1–5 kohdan käsittelytarkoituksessa;

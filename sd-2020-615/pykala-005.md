@@ -1,6 +1,6 @@
 # 5 § Kansallisen viisumitietojärjestelmän rekisterinpitäjät ja vastuunjako
 
-Kansalliseen viisumitietojärjestelmään tallennetaan 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa käsiteltävät viisumien käsittelyä ja päätöksentekoa sekä 1 §:n 2 momentissa tarkoitetut kansallisen turvallisuuden suojaamista koskevat tiedot.
+Kansalliseen viisumitietojärjestelmään tallennetaan 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa käsiteltävät lyhytaikaisten ja pitkäaikaisten viisumien käsittelyä ja päätöksentekoa sekä 1 §:n 2 momentissa tarkoitetut kansallisen turvallisuuden suojaamista koskevat tiedot.
 
 Ulkoministeriö, edustusto, Maahanmuuttovirasto, poliisi, Rajavartiolaitos ja Tulli saavat käsitellä tallentamiaan tietoja lakisääteisten tehtäviensä hoitamiseksi 1 §:n 1 momentin 1 kohdan käsittelytarkoituksessa. Suojelupoliisi saa käsitellä tallentamiaan tietoja lakisääteisten tehtäviensä hoitamiseksi 1 §:n 2 momentin käsittelytarkoituksessa.
 
