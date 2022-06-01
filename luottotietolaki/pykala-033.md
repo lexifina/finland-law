@@ -1,4 +1,4 @@
 # 33 § Valvontaviranomainen
 Luku: 8 luku Valvonta
 
-Tämän lain yleinen valvonta kuuluu tietosuojavaltuutetulle.
+Tämän lain mukaisen luottotietotoiminnan harjoittamisen ja muun luottotietojen käsittelyn valvonta kuuluu tietosuojavaltuutetulle.

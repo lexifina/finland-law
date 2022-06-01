@@ -1,7 +1,7 @@
 # 27 § Yrityksen luottokelpoisuusarvioinnissa käytettävät tiedot
 Luku: 6 luku Luottotietorekisteriin talletettavat yritysluottotiedot ja henkilöluottotietojen käsittely yritysluottotietoina
 
-Luottotietorekisteriin talletettavaa tai sen avulla saatavaa yrityksen luottokelpoisuusluokkaa tai muuta luottokelpoisuutta osoittavaa arviointitietoa muodostettaessa saa yrityksestä käyttää yrityksen perustietojen sekä 21―25 §:ssä tarkoitettujen tietojen lisäksi vain yrityksen itse rekisterinpitäjälle toimittamia tietoja.
+Luottotietorekisteriin talletettavaa tai sen avulla saatavaa yrityksen luottokelpoisuusluokkaa tai muuta luottokelpoisuutta osoittavaa arviointitietoa muodostettaessa saa yrityksestä käyttää yrityksen perustietojen sekä 21–25 §:ssä tarkoitettujen tietojen lisäksi vain yrityksen itse luottotietotoiminnan harjoittajalle toimittamia tietoja.
 
 Yrityksen vastuuhenkilöä koskevia henkilöluottotietoja saa käyttää yrityksen luottokelpoisuusluokan tai muun yrityksen luottokelpoisuutta osoittavan tunnusluvun muodostamisessa:
 1) jos arviointi koskee elinkeinotoimintaa harjoittavaa luonnollista henkilöä, avointa yhtiötä tai kommandiittiyhtiötä taikka sellaista osakeyhtiötä, jolla tilintarkastuslainsäädännön mukaan ei ole velvollisuutta valita hyväksyttyä tilintarkastajaa;

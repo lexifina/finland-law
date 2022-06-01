@@ -1,6 +1,4 @@
-# 32 § Rekisterinpitäjän velvoitteet tarkastusoikeutta ja virheen oikaisua koskevaa asiaa käsiteltäessä
-Luku: 7 luku Rekisteröidyn oikeudet ja niiden toteuttaminen
+# 32 § Oikeus käyttää omaa kieltä
+Luku: 7 luku Oikeus saada tietoja ja virheen oikaisu
 
-Rekisteröidyllä on oikeus käyttää tarkastusoikeutta ja virheen oikaisua koskevassa asiassaan omaa kieltään, joko suomea tai ruotsia, sekä saada asiakirjat tällä kielellä.
-
-Rekisterinpitäjän on annettava kirjallinen ratkaisu, jos se kieltäytyy toteuttamasta rekisteröidyn tarkastusoikeutta tai muuttamasta rekisterissä olevaa tietoa. Ratkaisusta tulee käydä ilmi ne lainkohdat ja tosiseikat, joihin kieltäytyminen perustuu. Ratkaisun oheen tulee liittää tieto rekisteröidyn oikeudesta saattaa asia tietosuojavaltuutetun käsiteltäväksi.
+Luonnollisella henkilöllä, joka käyttää tietosuoja-asetuksen mukaisia rekisteröidyn oikeuksiaan tai tämän lain 31 §:n mukaista oikeuttaan, ja yrityksellä, joka käyttää 30 tai 31 §:n mukaista oikeuttaan, on oikeus käyttää asiassaan omaa kieltään, joko suomea tai ruotsia, sekä saada asiakirjat tällä kielellä.

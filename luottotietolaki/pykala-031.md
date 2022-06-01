@@ -1,4 +1,6 @@
 # 31 § Virheen oikaisu
-Luku: 7 luku Rekisteröidyn oikeudet ja niiden toteuttaminen
+Luku: 7 luku Oikeus saada tietoja ja virheen oikaisu
 
-Rekisterinpitäjän on ilman aiheetonta viivytystä oikaistava luottotietorekisterissä tai luottotietolausunnossa oleva virheellinen, puutteellinen, vanhentunut tai muutoin harhaanjohtava tieto. Rekisterinpitäjän on rekisteröidyn pyynnöstä ilmoitettava virheen oikaisusta sille, jolle virheellinen henkilöluottotieto on annettu. Rekisteröidyn pyynnöstä on yritysluottotiedossa olleen virheen oikaisusta ilmoitettava sille, jonka rekisteröity ilmoittaa saaneen virheellisen yritysluottotiedon.
+Luottotietotoiminnan harjoittajan on ilman aiheetonta viivytystä oikaistava luottotietorekisterissä tai luottokelpoisuuden osoittavassa arviointitiedossa oleva virheellinen, puutteellinen, vanhentunut tai muutoin harhaanjohtava tieto. Yrityksen, sen edustajan tai vastuuhenkilön pyynnöstä on yritysluottotiedossa olleen virheen oikaisusta ilmoitettava sille, joka on yrityksen tai sen edustajan tai vastuuhenkilön mukaan saanut virheellisen yritysluottotiedon.
+
+Virheellisen henkilötiedon oikaisemisesta säädetään tietosuoja-asetuksessa.

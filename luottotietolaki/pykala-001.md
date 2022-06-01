@@ -1,6 +1,4 @@
 # 1 § Lain soveltamisala
 Luku: 1 luku Yleiset säännökset
 
-Tätä lakia sovelletaan luottotietojen keräämiseen, tuottamiseen, tallettamiseen, luovuttamiseen, käyttöön ja muuhun käsittelyyn.
-
-Luonnollista henkilöä koskevien tietojen käsittelyyn sovelletaan henkilötietolakia (523/1999), jollei tässä laissa toisin säädetä.
+Tätä lakia sovelletaan luottotietotoiminnan harjoittajien suorittamaan luottotietojen keräämiseen, tuottamiseen, tallettamiseen, luovuttamiseen, käyttöön ja muuhun käsittelyyn. Tämän lain 2 luvun ja 19 §:n 5 ja 6 momentin säännöksiä sovelletaan luottotietotoiminnan harjoittajien lisäksi luottotietojen käyttäjiin ja luottotietoja muutoin käsitteleviin.
