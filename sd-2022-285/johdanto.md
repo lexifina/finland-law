@@ -1,0 +1,2 @@
+Laki naisten vapaaehtoisesta asepalveluksesta
+Eduskunnan päätöksen mukaisesti säädetään:
