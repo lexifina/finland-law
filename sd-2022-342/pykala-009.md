@@ -1,0 +1,4 @@
+# 9 § Vaativa virka-apu kansainvälistä erityissuojelua nauttivan henkilön vierailun suojaamiseksi
+Luku: 2 luku Virka-apu ja sitä koskeva päätöksenteko
+
+Sen lisäksi mitä 8 §:ssä säädetään, vaativaa virka-apua voidaan antaa valtiovierailulla tai muulla virallisella vierailulla Suomessa olevien valtionpäämiesten, ministereiden ja hallitustenvälisten kansainvälisten järjestöjen ja Euroopan unionin korkea-arvoisten edustajien suojaamiseksi ja heidän vierailujensa turvaamiseksi. Edellytyksenä on, että henkilöön arvioidaan hänen vierailullaan kohdistuvan hänen asemansa, edustamansa valtion tai järjestön kansainvälisen aseman tai muun vastaavan syyn perusteella 8 §:n 1 momentissa tarkoitetun henkeä tai terveyttä vakavasti vaarantavan rikoksen perusteltu uhka, jonka estämiseksi tai keskeyttämiseksi virka-apu on välttämätöntä.
