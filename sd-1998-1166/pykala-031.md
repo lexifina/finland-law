@@ -1,7 +1,7 @@
 # 31 §
 Luku: 8 luku Virantoimituksesta pidättäminen
 
-Jos virkamiehen irtisanomista koskeva päätös ei ole saanut lainvoimaa silloin, kun irtisanomisaika on kulunut loppuun, hänet on pidätettävä virantoimituksesta, jollei korkein hallinto-oikeus erityisestä syystä toisin määrää. Jos virkamies on pantu viralta tai virkasuhde on purettu, hänet on heti pidätettävä virantoimituksesta, vaikkei päätös ole saanut lainvoimaa.
+Jos virkamiehen irtisanomista koskeva päätös ei ole saanut lainvoimaa silloin, kun irtisanomisaika on kulunut loppuun, hänet on pidätettävä virantoimituksesta, jollei hallintotuomioistuin erityisestä syystä toisin määrää. Jos virkamies on pantu viralta tai virkasuhde on purettu, hänet on heti pidätettävä virantoimituksesta, vaikkei päätös ole saanut lainvoimaa.
 
 Virkamies voidaan lisäksi pidättää virantoimituksesta:
 1) rikossyytteen ja sen edellyttämien tutkimusten ajaksi, jos näillä voi olla vaikutusta virkamiehen edellytyksiin hoitaa tehtäväänsä;
