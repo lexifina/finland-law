@@ -1,3 +1,3 @@
 # 14 § Maksujen periminen
 
-Takauskeskuksen myöntämistä takauksista perittävät takausprovisiot ja jäsenyhteisöjen maksuosuudet saadaan ulosottaa ilman tuomiota ja päätöstä siinä järjestyksessä kuin verojen ja maksujen perimisestä ulosottotoimin annetussa laissa (367/1961) säädetään. Oikaisuvaatimuksesta ja muutoksenhausta jäsenyhteisön maksuosuutta koskevan päätökseen on kuitenkin voimassa, mitä 15 §:ssä säädetään.
+Takauskeskuksen myöntämistä takauksista perittävät takausprovisiot ja jäsenyhteisöjen maksuosuudet ovat verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007) tarkoitettuja suoraan ulosottokelpoisia saatavia. Haettaessa muutosta jäsenyhteisön maksuosuutta koskevaan päätökseen sovelletaan kuitenkin, mitä 15 §:ssä säädetään.

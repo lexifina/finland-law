@@ -1,5 +1,5 @@
-# 15 § Oikaisuvaatimus ja muutoksenhaku
+# 15 § Muutoksenhaku
 
-Jäsenyhteisö voi tehdä valtuuskunnalle oikaisuvaatimuksen jäsenyhteisön maksuosuutta koskevasta hallituksen päätöksestä. Oikaisuvaatimus on tehtävä 30 päivän kuluessa maksuosuutta koskevan päätöksen tiedoksisaamisesta.
+Jäsenyhteisö saa vaatia valtuuskunnalta oikaisua jäsenyhteisön maksuosuutta koskevasta hallituksen päätöksestä. Oikaisuvaatimuksesta säädetään hallintolaissa (434/2003).
 
-Maksuosuuden oikaisua koskevaan valtuuskunnan päätökseen jäsenyhteisö saa hakea muutosta valittamalla Helsingin hallinto-oikeuteen 30 päivän kuluessa päätöksen tiedoksisaamisesta. Valtuuskunnan päätös voidaan panna täytäntöön muutoksenhausta huolimatta. Muutoksenhaun johdosta annettuun päätökseen saa hakea muutosta valittamalla myös Kuntien takauskeskus. Muutoksenhakuun sovelletaan muilta osin hallintolainkäyttölakia (586/1996).
+Maksuosuuden oikaisua koskevaan valtuuskunnan päätökseen jäsenyhteisö saa hakea muutosta valittamalla Helsingin hallinto-oikeuteen. Valtuuskunnan päätös voidaan panna täytäntöön muutoksenhausta huolimatta. Muutoin muutoksenhaussa hallintotuomioistuimeen sovelletaan, mitä oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019) säädetään.
