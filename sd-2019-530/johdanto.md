@@ -1,0 +1,2 @@
+Laki kansainvälisten veroriitojen ratkaisumenettelystä
+Eduskunnan päätöksen mukaisesti säädetään:

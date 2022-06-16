@@ -1,0 +1,7 @@
+# 10 § Keskinäisen neuvottelumenettelyn johdosta annettu päätös
+
+Toimivaltaisen viranomaisen on viipymättä ilmoitettava 9 §:ssä tarkoitettua ratkaisua koskevasta päätöksestä asianomaiselle henkilölle. Päätös on sitova, jos asianomainen henkilö hyväksyy sen ja 60 päivän kuluessa siitä, kun toimivaltaisten viranomaisten ratkaisu on annettu tiedoksi, ilmoittaa luopuvansa oikeudesta kaikkiin muihin muutoksenhakuihin. Jos tällaisia muita muutoksenhakuja koskevat menettelyt on jo aloitettu, päätöksestä tulee sitova ja täytäntöönpanokelpoinen vasta, kun asianomainen henkilö on todistetusti 60 päivän kuluessa ilmoittanut toimivaltaisille viranomaisille ryhtyneensä toimiin kyseisten menettelyjen päättämiseksi. Samaa asiaa koskeva Veronsaajien oikeudenvalvontayksikön vireillä oleva muutoksenhaku raukeaa toimivaltaisen viranomaisen ilmoituksen johdosta.
+
+Jos toimivaltaisten viranomaisten päätös on 1 momentissa tarkoitetulla tavalla sitova, sen perusteella tehtävät muutokset verotukseen toteutetaan noudattaen, mitä verotuksen oikaisusta verotusmenettelystä annetun lain 55 ja 56 §:ssä tai oma-aloitteisten verojen verotusmenettelystä annetun lain 40 ja 41 §:ssä säädetään. Tässä momentissa tarkoitetut muutokset verotukseen tehdään, vaikka verotuksen oikaisun edellytykset puuttuvat.
+
+Jos 2 momentissa tarkoitettua muutosta verotukseen ei ole tehty kyseisessä momentissa säädettyjen edellytysten vallitessa ilman aiheetonta viivytystä, asianomainen henkilö voi hakemuksella saattaa asian hallinto-oikeuden ratkaistavaksi.
