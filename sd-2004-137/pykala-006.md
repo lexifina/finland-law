@@ -14,6 +14,9 @@ Tuomioistuimen on merkittävä rekisteriin yrityssaneerausasian käsittelystä:
 
 Kun yrityssaneerausmenettely on aloitettu, tuomioistuimen on merkittävä rekisteriin:
 1) selvittäjien nimet ja yhteystiedot sekä määräys tehtävien jakamisesta selvittäjien kesken;
+1 a) tieto siitä, onko menettely varhainen saneerausmenettely vai perusmuotoinen saneerausmenettely;
+1 b) varhaisessa saneerausmenettelyssä tieto siitä, onko maksu- ja vakuudenasettamiskielto, perintäkielto, ulosmittauksen kielto, muiden täytäntöönpanotoimenpiteiden kielto tai turvaamistoimenpiteiden kielto määrätty sekä kiellon päättymispäivä ja lakkaaminen;
+1 c) tieto varhaisen saneerausmenettelyn jatkamisesta perusmuotoisena saneerausmenettelynä;
 2) määräpäivä, johon mennessä velkojien on ilmoitettava selvittäjälle vaatimuksensa;
 3) määräpäivä, johon mennessä velallisen taloudellista tilaa koskeva selvitys on annettava tiedoksi asiaan osallisille;
 4) määräpäivä, johon mennessä ehdotus saneerausohjelmaksi on laadittava;
