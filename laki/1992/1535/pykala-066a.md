@@ -11,4 +11,5 @@ Tämän pykälän soveltamisen edellytyksenä osakemerkinnän verotukseen on lis
 2) yhtiö harjoittaa merkintähetkellä elinkeinotulon verottamisesta annetussa laissa tarkoitettua elinkeinotoimintaa;
 3) yhtiön omaisuus muodostuu pääosin muusta kuin elinkeinotulon verottamisesta annetun lain 12 a §:ssä tarkoitetusta omaisuudesta viimeksi vahvistetun tilinpäätöksen perusteella laskettuna; ja
 4) yhtiö on merkintähetkellä ennakkoperintälain 31 §:n 2 momentissa tarkoitettu säännöllisesti palkkaa maksava työnantaja, joka kuuluu mainitun lain 25 §:ssä tarkoitettuun ennakkoperintärekisteriin tai sellainen ulkomainen yhtiö, joka ei kuulu Suomen ennakkoperintärekisteriin ja joka osoittaa, ettei sillä ole mainitun lain 26 §:ssä tarkoitettuja laiminlyöntejä.
+
 Jos tässä pykälässä säädetyt edellytykset eivät täyty, tämän pykälän perusteella laskettu osakkeen arvo ylittää 90 prosenttia osakkeen käyvästä arvosta tai osakemerkintä perustuu 66 §:n 3 momentissa tarkoitettuun työsuhdeoptioon, osakemerkinnän verotukseen sovelletaan, mitä 66 §:ssä säädetään.
