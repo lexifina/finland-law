@@ -1,0 +1,2 @@
+Laki energiaintensiivisen teollisuuden sähköistämistuesta
+Eduskunnan päätöksen mukaisesti säädetään:
