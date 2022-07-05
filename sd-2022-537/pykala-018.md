@@ -1,0 +1,6 @@
+# 18 § Kirjanpito- ja muun aineiston säilyttäminen
+Luku: 5 luku Erinäiset säännökset
+
+Tuen saajan, valtionavustuslain 7 §:n 3 momentissa tarkoitetun muun kuin valtionavustuksen saajan, tukiviranomaisen, ministeriön, Valtiokonttorin, valtiovarainministeriön ja valtiovarain controller -toiminnon on säilytettävä kaikki tukeen liittyvä kirjanpitoaineisto ja muu aineisto vuoden 2032 loppuun saakka, jollei unionin yleiseen talousarvioon sovellettavista varainhoitosäännöistä, asetusten (EU) N:o 1296/2013, (EU) N:o 1301/2013, (EU) N:o 1303/2013, (EU) N:o 1304/2013, (EU) N:o 1309/2013, (EU) N:o 1316/2013, (EU) N:o 223/2014, (EU) N:o 283/2014 ja päätöksen N:o 541/2014/EU muuttamisesta sekä asetuksen (EU, Euratom) N:o 966/2012 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU, Euratom) 2018/1046 132 artiklan 2 kohdassa tai muussa Euroopan unionin lainsäädännössä taikka kansallisessa lainsäädännössä edellytetä pidempää sälytysaikaa.
+
+Tukiviranomaisen myöntämiä tukia koskevan kirjanpitoaineiston ja muun aineiston säilytysaikaa voidaan jatkaa tukiviranomaisen määräyksellä. Usean tukiviranomaisten myöntämiä tukia koskevan kirjanpitoaineiston ja muun aineiston säilytysaikaa voidaan jatkaa valtiovarainministeriön asetuksella.
