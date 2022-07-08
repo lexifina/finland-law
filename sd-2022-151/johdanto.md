@@ -1,0 +1,2 @@
+Laki kiinnitysluottopankeista ja katetuista joukkolainoista
+Eduskunnan päätöksen mukaisesti säädetään:

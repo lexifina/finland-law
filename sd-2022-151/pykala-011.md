@@ -1,0 +1,7 @@
+# 11 § Luottosaatavat
+Luku: 3 luku Katetun joukkolainan vakuudet
+
+Liikkeeseenlaskija saa käyttää katetun joukkolainan vakuutena seuraavia luottosaatavia edellyttäen, että ne täyttävät EU:n vakavaraisuusasetuksen 129 artiklassa säädetyt vaatimukset:
+1) luotto, jonka vakuutena on pääasiassa asumiskäyttöön tarkoitettuun maakaaren (540/1995) 16 luvun 1 §:n tai 19 luvun 1 §:n mukaan kiinnityskelpoiseen kohteeseen vahvistettu kiinnitys tai asunto-osakeyhtiölain (1599/2009) 1 luvun 2 §:ssä tarkoitetun asunto-osakeyhtiön osakkeet tai niihin rinnastettavat osakkeet, osuudet tai asumisoikeus, taikka edellä lueteltuihin vakuuksiin rinnastettava, Euroopan talousalueeseen kuuluvassa valtiossa sijaitseva vakuus (asuntoluotto);
+2) luotto, jonka vakuutena on liike- tai toimistokäyttöön tarkoitettuun maakaaren 16 luvun 1 §:n tai 19 luvun 1 §:n mukaan kiinnityskelpoiseen kohteeseen vahvistettu kiinnitys, liike- tai toimistotilojen hallintaan oikeuttava asunto-osakeyhtiön tai asunto-osakeyhtiölain 28 luvun 2 §:ssä tarkoitetun keskinäisen kiinteistöosakeyhtiön osake taikka edellä lueteltuihin vakuuksiin rinnastettava Euroopan talousalueeseen kuuluvassa valtiossa sijaitseva vakuus (liikekiinteistöluotto);
+3) luotto, joka on myönnetty EU:n vakavaraisuusasetuksen 129 artiklan 1 kohdan a tai b alakohdassa säädetyt edellytykset täyttävälle valtiolle, kunnalle, keskuspankille tai muulle julkisyhteisölle, sekä luotto, jonka täytenä vakuutena on tällaisen myöntämä omavelkainen takaus (julkisyhteisöluotto).

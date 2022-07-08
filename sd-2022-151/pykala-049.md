@@ -1,0 +1,10 @@
+# 49 § Sulautuminen, jakautuminen ja liiketoiminnan luovutus
+Luku: 11 luku Erinäiset säännökset
+
+Sen lisäksi, mitä liikepankeista ja muista osakeyhtiömuotoisista luottolaitoksista annetussa laissa (1501/2001), osuuspankeista ja muista osuuskuntamuotoisista luottolaitoksista annetussa laissa (423/2013), säästöpankkilaissa (1502/2001) ja hypoteekkiyhdistyksistä annetussa laissa (936/1978) on säädetty, kiinnitysluottopankin tai kiinnitysluottopankkitoimintaan luvan saaneen luottolaitoksen sulautumiseen ja kokonaisjakautumiseen sovelletaan sitä, mitä tässä pykälässä on säädetty. Tässä pykälässä säädettyä sovelletaan myös tällaisen luottolaitoksen osittaisjakautumiseen, jos jakautuminen koskee kiinnitysluottopankkitoimintaa, ja liiketoiminnan luovutukseen, jos luovutuksen kohteena on kiinnitysluottopankkitoiminta.
+
+Kiinnitysluottopankkitoiminnan vastaanottavan yhteisön on oltava, jollei 3 momentista muuta johdu, tämän lain 8 §:n mukaisesti kiinnitysluottopankkitoimintaan oikeuttavan luvan saanut luottolaitos tai luottolaitostoiminnasta annetun lain 1 luvun 7 §:n 3 momentissa tarkoitettu ulkomainen ETA-luottolaitos, jolla on oikeus laskea liikkeelle katettuja joukkolainoja katettujen joukkolainojen liikkeeseenlaskusta ja katettujen joukkolainojen julkisesta valvonnasta sekä direktiivien 2009/65/EY ja 2014/59/EU muuttamisesta annettuun Euroopan parlamentin ja neuvoston direktiiviin (EU) 2019/2162 perustuvan kansallisen lainsäädännön nojalla.
+
+Vastaanottavana luottolaitoksena voi 2 momentista poiketen olla myös muu kuin 2 momentissa tarkoitettu luottolaitos. Sulautumissuunnitelmaan, jakautumissuunnitelmaan ja luovutussuunnitelmaan on liitettävä tämän lain 8 §:ssä tarkoitettua lupaa koskeva hakemus. Sulautumista, jakautumista tai liiketoiminnan luovutusta ei tällöin saa rekisteröidä ennen luvan myöntämistä.
+
+Jakautumisen tai kombinaatiosulautumisen yhteydessä perustettavalle luottolaitokselle, joka aikoo harjoittaa kiinnitysluottopankkitoimintaa, on haettava tämän lain 8 §:ssä tarkoitettu lupa. Sulautumista tai jakautumista ei saa rekisteröidä ennen luvan myöntämistä.
