@@ -1,0 +1,2 @@
+Laki eräistä huoltovarmuuden turvaamisen järjestelyistä rahoitusalalla
+Eduskunnan päätöksen mukaisesti säädetään:
