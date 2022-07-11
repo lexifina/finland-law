@@ -1,0 +1,5 @@
+# 3 § Huoltovarmuustilijärjestelmä
+
+Rahoitusvakausvirasto ylläpitää huoltovarmuustilijärjestelmää ja toimii järjestelmän rekisterinpitäjänä.
+
+Huoltovarmuustilijärjestelmä muodostuu huoltovarmuustilipalvelusta ja korttimaksamisen huoltovarmuuspalvelusta. Huoltovarmuustilijärjestelmää käytetään huoltovarmuuden turvaamisen kannalta keskeisten maksupalveluiden toteuttamiseen normaaliolojen vakavan häiriötilanteen tai poikkeusolojen aikana.
