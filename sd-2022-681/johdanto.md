@@ -1,0 +1,2 @@
+Laki eräiden kansaneläkeindeksiin sidottujen etuuksien ylimääräisestä indeksitarkistuksesta vuonna 2022
+Eduskunnan päätöksen mukaisesti säädetään:
