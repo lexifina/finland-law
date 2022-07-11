@@ -15,7 +15,8 @@ Jos henkilö saa muuta kuin 3 luvun 4 §:ssä tarkoitettua lakisääteistä etuu
 10) sotilasavustuslain (781/1993) mukainen sotilasavustus;
 11) työtapaturma- ja ammattitautilain, maatalousyrittäjän työtapaturma- ja ammattitautilain sekä sotilasvammalain mukaiset kustannusten korvaukset;
 12) työeläkelakien mukainen osittainen varhennettu vanhuuseläke;
-13) liikkuvuusavustuksena maksettava työttömyysetuus.
+13) liikkuvuusavustuksena maksettava työttömyysetuus;
+14) 9 luvussa tarkoitettu muutosturvaraha.
 
 Työttömyysetuudesta ei vähennetä 1 momentissa mainittua vastaavaa toisen valtion lainsäädännön mukaan maksettavaa etuoikeutettua tuloa.
 

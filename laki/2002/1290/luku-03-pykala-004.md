@@ -2,7 +2,7 @@
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 3 luku Etuuden saamisen yleiset rajoitukset
 
-Samalta ajalta voidaan maksaa vain yhtä tämän lain mukaista työttömyysetuutta. Peruspäivärahaa ei makseta siltä ajalta, jolta työnhakijalle maksetaan ansiopäivärahaa. Liikkuvuusavustuksen maksaminen ei kuitenkaan estä ansiopäivärahan, peruspäivärahan tai työmarkkinatuen maksamista.
+Samalta ajalta voidaan maksaa vain yhtä tämän lain mukaista työttömyysetuutta. Peruspäivärahaa ei makseta siltä ajalta, jolta työnhakijalle maksetaan ansiopäivärahaa. Liikkuvuusavustuksen ja muutosturvarahan maksaminen eivät estä ansiopäivärahan, peruspäivärahan tai työmarkkinatuen maksamista.
 
 Työttömyysetuuteen ei ole oikeutta työnhakijalla:
 1) joka saa kansaneläkelain tai työeläkelakien mukaista vanhuuseläkettä tai varhennettua vanhuuseläkettä;
