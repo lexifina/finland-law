@@ -1,0 +1,4 @@
+# 12 a §
+Luku: 3 luku Hypoteekkiyhdistyksen hallinto
+
+Jos jäsen käyttää puhevaltaansa 12 §:n 4 momentin perusteella muuten kuin suullisesti hypoteekkiyhdistyksen kokouksen aikana, hypoteekkiyhdistyksen kokouksessa voidaan yhdistellä ja muokata tällaisia kysymyksiä ja muita puheenvuoroja ennen kuin ne ja vastaus saatetaan hypoteekkiyhdistyksen kokoukseen osallistuvien nähtäväksi tai kuultavaksi. Edellytyksenä on, että menettely on tarpeen hypoteekkiyhdistyksen kokouksen keston rajoittamiseksi kohtuullisella tavalla, menettely helpottaa kokouksen seuraamista, on omiaan turvaamaan kokouksen asianmukaisen kulun ja että se ei olennaisesti muuta puheenvuorojen sisältöä. Menettelyn periaatteista on päätettävä kokouksen alussa tai hypoteekkiyhdistyksen säännöissä. Alkuperäiset muuten kuin kokouksen aikana suullisesti pidetyt puheenvuorot on säilytettävä vähintään vuosi hypoteekkiyhdistyksen kokouksesta.

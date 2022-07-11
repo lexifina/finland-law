@@ -1,0 +1,16 @@
+# 12 §
+Luku: 3 luku Hypoteekkiyhdistyksen hallinto
+
+Hypoteekkiyhdistyksen jäsenten päättämisvaltaa käyttävät hypoteekkiyhdistyksen kokouksessa läsnä olevat jäsenet.
+
+Hallitus voi päättää, että 1 momentissa tarkoitettuun hypoteekkiyhdistyksen kokoukseen saa osallistua myös siten, että jäsen käyttää täysimääräisesti päättämisvaltaansa tietoliikenneyhteyden ja teknisen apuvälineen avulla kokouksen aikana, jollei 7 momentissa tarkoitetusta jäsenen äänioikeuden käyttöä koskevasta ilmoituksesta muuta johdu ja jollei hypoteekkiyhdistyksen säännöissä rajoiteta tai kielletä tällaisen kokouksen järjestämistä.
+
+Hallitus voi myös päättää, että hypoteekkiyhdistyksen kokous järjestetään ilman kokouspaikkaa siten, että jäsenet käyttävät täysimääräisesti päättämisvaltaa ajantasaisesti tietoliikenneyhteyden ja teknisen apuvälineen avulla kokouksen aikana, jollei 7 momentissa tarkoitetusta jäsenen äänioikeuden käyttöä koskevasta ilmoituksesta muuta johdu ja jollei hypoteekkiyhdistyksen säännöissä rajoiteta tai kielletä tällaisen kokouksen järjestämistä
+
+Hallitus voi päättää, että 1–3 momentissa tarkoitettuun hypoteekkiyhdistyksen kokoukseen saa osallistua lisäksi postin taikka tietoliikenneyhteyden ja teknisen apuvälineen avulla ennen hypoteekkiyhdistyksen kokousta tai kokouksen aikana, jollei hypoteekkiyhdistyksen säännöissä rajoiteta tai kielletä tällaisen osallistumiskeinon tarjoamista. Hallitus voi päättää, että tässä momentissa tarkoitetulla osallistumiskeinolla voi käyttää vain osaa jäsenen oikeuksista ja että oikeutta voi käyttää vain hallituksen päättämällä tavalla, jollei hypoteekkiyhdistyksen säännöissä toisin määrätä.
+
+Lisäedellytyksenä 2 ja 3 momentissa tarkoitetun kokouksen ja 4 momentissa tarkoitetun osallistumiskeinon järjestämiselle on, että osallistumisoikeus ja ääntenlaskennan oikeellisuus voidaan selvittää 1 momentissa tarkoitetussa hypoteekkiyhdistyksen kokouksessa noudatettaviin menettelyihin verrattavalla tavalla. Kokoukseen osallistuvina pidetään 2 ja 3 momentissa säädetyn mukaisesti osallistuvia sekä niitä, jotka ovat käyttäneet äänioikeuttaan ennen kokousta. Mahdollisesti ennakkoäänestyksen kohteena oleva päätösehdotus on otettava muuttamattomana päätöksenteon kohteeksi hypoteekkiyhdistyksen kokouksessa.
+
+Jos hypoteekkiyhdistyksen 2–4 momentissa tarkoitetutun tietoliikenneyhteyden tai hypoteekkiyhdistyksen kokouksen järjestämiseen käytetyn muun teknisen apuvälineen toimintahäiriö voi vaikuttaa kokouksen päätösten pätevyyteen ja on syytä olettaa häiriön korjaamisen viivästyttävän kokousta olennaisesti, hypoteekkiyhdistyksen kokouksen puheenjohtaja voi päättää kokouksen keskeyttämisestä ja jatkamisesta neljän viikon kuluessa kokouskutsun mukaisesta kokouksen aloitushetkestä. Edellytyksenä on, että keskeytys ja mahdollinen jatkamisen ajankohta ja osallistumiseen mahdollisesti tarvittava uusi tekninen toteutus saatetaan hyvissä ajoin ennen kokouksen jatkamista niiden jäsenten tietoon, joilla oli oikeus osallistua kokoukseen keskeytyshetkellä.
+
+Säännöissä voidaan määrätä, että jäsenen, joka haluaa käyttää kokouksessa äänioikeuttaan, tulee ilmoittaa tästä hypoteekkiyhdistykselle. Määräaika johon mennessä ilmoitus tulee tehdä, saa olla enintään kolme vuorokautta ennen kokousta.

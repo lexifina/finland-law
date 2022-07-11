@@ -1,0 +1,2 @@
+Laki hypoteekkiyhdistyksistä
+Eduskunnan päätöksen mukaisesti säädetään:
