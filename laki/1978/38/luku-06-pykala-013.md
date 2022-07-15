@@ -5,4 +5,4 @@ Kotimyynnissä elinkeinonharjoittajan on annettava kuluttajalle jäljennös sopi
 
 Etämyynnissä elinkeinonharjoittajan on toimitettava kuluttajalle vahvistus tehdystä sopimuksesta kohtuullisessa ajassa etämyyntisopimuksen tekemisestä ja viimeistään tavaroiden luovutusajankohtana tai ennen kuin palvelun suorittaminen aloitetaan. Vahvistus on toimitettava pysyvällä tavalla, ja siihen tulee sisältyä kaikki 9 §:ssä tarkoitetut tiedot sekä peruuttamislomake ja -ohje, jollei elinkeinonharjoittaja ole toimittanut näitä kuluttajalle pysyvällä tavalla jo aiemmin.
 
-Jos digitaalisen sisällön toimittaminen sähköisesti aloitetaan ennen peruuttamisajan päättymistä, vahvistuksen tulee sisältää myös 15 §:n 2 momentissa tarkoitettu ennakkosuostumus ja kuluttajalle toimitettu ilmoitus ennakkosuostumuksen vaikutuksesta peruuttamisoikeuteen.
+Jos digitaalisen sisällön toimittaminen sähköisesti aloitetaan ennen peruuttamisajan päättymistä, vahvistuksen tulee sisältää myös kuluttajan 15 §:n 2 momentissa tarkoitettu ennakkosuostumus ja hyväksyntä peruuttamisoikeuden menettämisestä.

@@ -12,4 +12,5 @@ Totuudenvastaiset tai harhaanjohtavat tiedot voivat koskea erityisesti:
 6) huollon, korjausten ja varaosien tarvetta ja saatavuutta;
 7) elinkeinonharjoittajan tai hänen edustajansa henkilöllisyyttä, yhteystietoja, ominaisuuksia ja asemaa markkinoilla sekä heidän saamiansa palkintoja ja tunnustuksia;
 8) elinkeinonharjoittajan oikeuksia ja velvollisuuksia, mukaan lukien sitoumusta noudattaa käytännesääntöihin sisältyviä velvoitteita;
-9) kuluttajan oikeuksia, velvollisuuksia ja riskejä.
+9) kuluttajan oikeuksia, velvollisuuksia ja riskejä;
+10) tavaran samanlaisuutta toisissa jäsenvaltioissa markkinoitavan tavaran kanssa, vaikka markkinoitava tavara on koostumukseltaan tai ominaisuuksiltaan merkittävästi erilainen, ellei tämä ole oikeutettujen syiden vuoksi perusteltua.
