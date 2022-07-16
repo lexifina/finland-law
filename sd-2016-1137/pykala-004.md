@@ -14,3 +14,5 @@ Poiketen siitä, mitä 1 momentissa säädetään, Suomen ympäristökeskus on t
 Sen lisäksi, mitä 1 momentissa säädetään, Lääkealan turvallisuus- ja kehittämiskeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen vaarallisten aineiden käytön rajoittamisesta sähkö- ja elektroniikkalaitteissa annetussa laissa tarkoitettujen tuotteiden osalta.
 
 Poiketen siitä, mitä 1 momentissa säädetään, Sosiaali- ja terveysalan lupa- ja valvontavirasto ja kunnat alueellaan ovat tässä laissa tarkoitettuja markkinavalvontaviranomaisia tupakkalain osalta.
+
+Poiketen siitä, mitä 1 momentissa säädetään, Ruokavirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen lannoitelaissa tarkoitettujen lannoitevalmisteiden osalta.
