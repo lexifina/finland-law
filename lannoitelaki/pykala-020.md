@@ -1,0 +1,8 @@
+# 20 § Ilmoitetun vaatimustenmukaisuuden arviointilaitoksen hyväksymistä koskeva hakemus
+Luku: 4 luku Vaatimustenmukaisuuden arviointilaitokset
+
+Suomeen sijoittautuneen vaatimustenmukaisuuden arviointilaitoksen on haettava ilmoitetuksi laitokseksi hyväksymistä ja nimeämistä Ruokavirastolta. Vaatimustenmukaisuuden arviointilaitoksia koskevista vaatimuksista säädetään lannoitevalmisteasetuksen 24 artiklassa.
+
+Hakemukseen on liitettävä tiedot ja todistukset vaatimustenmukaisuuden arviointilaitokselta edellytettävien arviointimenettelyjä koskevien vaatimusten täyttymisestä niiden EU-lannoitevalmistetyyppien tai tuoteluokkien osalta, joiden osalta laitos katsoo olevansa pätevä. Lisäksi hakemukseen on liitettävä Turvallisuus- ja kemikaaliviraston akkreditointiyksikön FINAS-akkreditointipalvelun antama akkreditointitodistus, siitä että vaatimustenmukaisuuden arviointilaitos täyttää lannoitevalmisteasetuksen vaatimukset.
+
+Ilmoitetun vaatimustenmukaisuuden arviointilaitoksen tai sen käyttämän tytäryhtiön tai alihankkijan henkilöstöön sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä lannoitevalmisteasetuksessa tarkoitettuja tehtäviä hoidettaessa. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).
