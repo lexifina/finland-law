@@ -6,5 +6,3 @@ Jokaiselle työpaikalle on laadittava työvuoroluettelo, josta käyvät ilmi ty�
 Työvuoroluettelo on saatettava kirjallisesti työntekijöiden tietoon hyvissä ajoin, viimeistään viikkoa ennen siinä tarkoitetun ajanjakson alkamista. Tämän jälkeen työvuoroluetteloa saa muuttaa vain, jos työntekijä siihen suostuu, tai töiden järjestelyihin liittyvästä painavasta syystä.
 
 Työssä, jossa säännöllisen työajan sijoittelu ei vaihtele, tai jossa sovelletaan liukuvaa tai joustotyöaikaa, työvuoroluettelo saadaan kuitenkin antaa toistaiseksi voimassa olevana. Liukuvaa työaikaa tai joustotyöaikaa koskeva sopimus korvaa työvuoroluettelon silloin, kun siitä ilmenevät työajan sijoitteluun sovellettavat periaatteet.
-
-Jos työnantaja haluaa antaa vaihtelevaa työaikaa noudattavalle työntekijälle työvuoroja, jotka ylittävät työsopimuksessa sovitun vähimmäistyöajan, työntekijälle on varattava tilaisuus ilmoittaa määräajassa, missä määrin ja millä edellytyksillä hän voi ottaa työtä vastaan. Määräaika ei saa olla aikaisemmin kuin viikkoa ennen työvuoroluettelon laatimista.
