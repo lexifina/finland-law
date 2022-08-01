@@ -1,0 +1,2 @@
+Laki yksityisoikeudellista vaatimusta koskevien pohjoismaisten tuomioiden tunnustamisesta ja täytäntöönpanosta
+Eduskunnan päätöksen mukaisesti säädetään:

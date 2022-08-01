@@ -1,0 +1,9 @@
+# 6 §
+
+Tässä laissa tarkoitettu tuomio ei ole voimassa Suomessa:
+1) jos tuomioistuimen toimivalta maksuvelvollisuutta koskevassa asiassa on perustunut yksinomaan siihen, että vastaajalla oli omaisuutta siinä valtiossa, missä tuomio on annettu, jollei asiassa ole ollut kysymys saatavasta, joka koskee tuota omaisuutta tai jonka maksamisen vakuudeksi se on asetettu, tahi vastaaja väitettä esittämättä ole ryhtynyt vastaamaan pääasiaan;
+2) jos tuomioistuimen toimivalta on perustunut yksinomaan siihen, että vastaaja haastetta tiedoksi annettaessa tilapäisesti oleskeli siinä valtiossa, missä tuomio on annettu, ellei vastaaja väitettä esittämättä ole ryhtynyt vastaamaan pääasiaan;
+3) jos tuomio on annettu vastaajaa vastaan, joka ei ole vastannut kanteeseen ensimmäisessä oikeusasteessa eikä ylemmässäkään tuomioistuimessa, eikä kehotusta vastaamaan kanteeseen ole annettu hänelle tiedoksi muulla tavoin kuin kuulutuksella, ellei se koske perintöön tai testamenttiin perustuvaa oikeutta, eloonjääneen puolison oikeutta, pesänselvitystä tai kuoleman johdosta toimitettua jakoa ja vainaja oli Islannin, Norjan, Suomen, Ruotsin tai Tanskan kansalainen ja hänellä oli kotipaikka jossakin näistä valtioista;
+4) jos samaa asiaa koskeva kanne on aikaisemmin pantu samojen asianosaisten välillä vireille Suomessa tai muussa pohjoismaassa, kuin siinä, missä tuomio on annettu, ja aikaisemmin vireille pantu kanne voi johtaa tuomioon, joka tämän lain mukaan on voimassa Suomessa;
+5) jos viranomainen, jolta pyydetään tuomion tunnustamista tai täytäntöönpanoa, asian laatuun nähden katsoo yksinomaisen toimivallan asian tutkimiseen kuuluvan muun kuin sen valtion tuomioistuimelle, missä tuomio on annettu; tai
+6) jos tuomion tunnustaminen tai täytäntöönpano ilmeisesti on vastoin Suomen oikeusjärjestyksen perusteita.

@@ -1,0 +1,9 @@
+# 8 §
+
+Islannin, Norjan, Ruotsin tai Tanskan tuomioistuimen tai hallintoviranomaisen antama väliaikainen tai lopullinen lapsen huoltoa tai tapaamisoikeutta taikka lapsen luovuttamista muussa tapauksessa koskeva päätös on, riippumatta siitä, onko se lainvoimainen vai ei, pyydettäessä pantava täytäntöön Suomessa, jos se voi olla täytäntöönpanon perusteena siinä valtiossa, missä päätös on annettu. Tuomioistuimen tai hallintoviranomaisen päätöksen veroiseksi katsotaan tuomioistuimen edessä tehty sovinto tai toimivaltaisen hallintoviranomaisen hyväksymä sopimus.
+
+Jos 1 momentissa tarkoitettu päätös on ristiriidassa Suomessa annetun päätöksen kanssa, täytäntöönpanoon ei kuitenkaan saa ryhtyä, ellei ensin mainittua päätöstä ole noudatettava sen mukaan kuin siitä erikseen on voimassa. Täytäntöönpanoon ei myöskään saa ryhtyä sellaisen seikan vallitessa, joka 6 §:n mukaan aiheuttaa, ettei tuomio ole voimassa Suomessa.
+
+Mitä 1 momentissa on säädetty, ei koske täytäntöönpanoviranomaisen antamaa päätöstä eikä sosiaalilautakunnan tai muun viranomaisen asianomaisen valtion julkista lasten ja nuorisonsuojelua tai siihen rinnastettavaa muuta huoltoa tai hoitoa koskevan lainsäädännön nojalla antamaa päätöstä.
+
+Mitä 1 momentissa säädetään, ei sovelleta, jos päätöksen täytäntöönpanoa koskevaan asiaan sovelletaan tuomioistuimen toimivallasta sekä tuomioiden tunnustamisesta ja täytäntöönpanosta avioliittoa ja vanhempainvastuuta koskevissa asioissa ja asetuksen (EY) N:o 1347/2000 kumoamisesta annettua neuvoston asetusta (EY) N:o 2201/2003 tai tuomioistuimen toimivallasta, päätösten tunnustamisesta ja täytäntöönpanosta avioliittoa ja vanhempainvastuuta koskevissa asioissa ja kansainvälisestä lapsikaappauksesta annettua neuvoston asetusta (EU) 2019/1111. Siitä kumpaa asetusta sovelletaan, säädetään viimeksi mainitun asetuksen 100 artiklassa.
