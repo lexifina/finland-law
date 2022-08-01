@@ -12,6 +12,6 @@ Irtisanominen on tehtävä tässä pykälässä tarkoitetulla perusteella kohtuu
 
 Suomen Pankin irtisanomisoikeutta voidaan lisäksi sopimuksella rajoittaa siten, että pankki saa käyttää sitä vain sopimuksessa mainituilla perusteilla.
 
-Suomen Pankki ei saa irtisanoa virkamiestä raskauden johdosta. Jos pankki irtisanoo raskaana olevan virkamiehen, katsotaan irtisanomisen johtuvan raskaudesta, jollei pankki muuta perustetta näytä. Pankki ei saa irtisanoa virkamiestä erityisäitiysloman, äitiysloman, isyysloman tai vanhempainloman taikka hoitovapaan aikana eikä myöskään saatuaan tietää virkamiehen olevan raskaana tai käyttävän edellä mainittua oikeuttaan, irtisanoa palvelussuhdetta päättymään sanotun loman taikka hoitovapaan alkaessa tai aikana.
+Suomen Pankki ei saa irtisanoa virkamiestä raskauden johdosta. Jos pankki irtisanoo raskaana olevan virkamiehen, katsotaan irtisanomisen johtuvan raskaudesta, jollei pankki muuta perustetta näytä. Pankki ei saa irtisanoa virkamiestä erityisraskausvapaan, raskausvapaan tai vanhempainvapaan taikka hoitovapaan aikana eikä myöskään saatuaan tietää virkamiehen olevan raskaana tai käyttävän edellä mainittua oikeuttaan, irtisanoa palvelussuhdetta päättymään sanotun vapaan alkaessa tai aikana.
 
 Määräajaksi nimitetyn virkamiehen virkasuhde päättyy ilman irtisanomista, kun määräaika on kulunut loppuun, jollei virkasuhde irtisanomisen johdosta ole päättynyt sitä ennen.
