@@ -15,4 +15,4 @@ Virallinen syyttäjä voi lisäksi Suomessa ajaa kannetta puolisoiden tuomitsemi
 
 Vaatimus yhteiselämän lopettamisesta voidaan tutkia Suomessa, jos puolisoilla on täällä yhteiseksi kodiksi tarkoitettu asunto.
 
-Mitä 1–3 momentissa säädetään, sovelletaan ainoastaan, jollei tuomioistuimen toimivallasta sekä tuomioiden tunnustamisesta ja täytäntöönpanosta avioliittoa ja vanhempainvastuuta koskevissa asioissa ja asetuksen (EY) N:o 1347/2000 kumoamisesta annetusta neuvoston asetuksesta (EY) N:o 2201/2003 tai Suomea sitovasta valtiosopimuksesta muuta johdu.
+Mitä 1–3 momentissa säädetään, sovelletaan ainoastaan, jollei tuomioistuimen toimivallasta, päätösten tunnustamisesta ja täytäntöönpanosta avioliittoa ja vanhempainvastuuta koskevissa asioissa ja kansainvälisestä lapsikaappauksesta annetusta neuvoston asetuksesta (EU) 2019/1111 tai Suomea sitovasta valtiosopimuksesta muuta johdu.
