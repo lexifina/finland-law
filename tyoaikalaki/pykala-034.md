@@ -21,7 +21,8 @@ Valtakunnalliset työnantajien ja työntekijöiden yhdistykset saavat työehtoso
 14) 27 §:ssä viikkolevosta;
 15) 28 §:n 1 momentissa viikkolevosta poikkeamisesta;
 16) 29 §:ssä työajan tasoittumissuunnitelmasta;
-17) 30 §:ssä työvuoroluettelosta.
+17) 30 §:ssä työvuoroluettelosta;
+18) 30 a §:ssä työntekijän suostumuksesta sekä työvuoron peruuttamisen yhteydessä maksettavasta korvauksesta ja peruutusajasta edellyttäen, että sopimus täyttää avoimista ja ennakoitavista työehdoista Euroopan unionissa annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2019/1152 14 artiklassa säädetyt vaatimukset.
 
 Kun kyse on 2 §:n 2 momentissa tarkoitetun moottoriajoneuvon kuljettajan työstä, edellä 2 momentin 2 ja 6 kohdista poiketen valtakunnallisessa työehtosopimuksessa voidaan sopia teknisistä tai työn järjestämistä koskevista syistä:
 1) 8 §:ssä säädetystä vuorokautisesta enimmäistyöajasta ja yötyöajan tasoittumisesta;
