@@ -12,3 +12,5 @@ Koulutuksen järjestäjän tulee hyväksyä järjestyssäännöt tai antaa muut 
 Edellä 4 momentissa tarkoitetuissa järjestyssäännöissä ja muissa järjestysmääräyksissä voidaan antaa oppilaitosyhteisön turvallisuuden ja viihtyisyyden kannalta tarpeellisia määräyksiä käytännön järjestelyistä ja asianmukaisesta käyttäytymisestä sekä tarkempia määräyksiä 2 momentissa tarkoitetuista esineistä ja aineista sekä niiden käytöstä ja säilytyksestä. Lisäksi määräyksiä voidaan antaa oppilaitoksen omaisuuden käsittelystä sekä oleskelusta ja liikkumisesta oppilaitoksen tiloissa ja sen alueella.
 
 Mitä 3 momentissa säädetään, ei koske aikuisten koulutukseen tarkoitettuja opetussuunnitelman perusteita eikä opetussuunnitelmia. Aikuisten koulutusta varten ei tarvitse myöskään hyväksyä järjestyssääntöjä eikä muita järjestysmääräyksiä.
+
+Opettajan tai rehtorin tulee ilmoittaa tietoonsa tulleesta oppimisympäristössä tai koulumatkalla tapahtuneesta häirinnästä, kiusaamisesta, syrjinnästä tai väkivallasta niistä epäillyn ja niiden kohteena olevan opiskelijan huoltajalle tai muulle lailliselle edustajalle.
