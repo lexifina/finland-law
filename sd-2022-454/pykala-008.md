@@ -1,0 +1,5 @@
+# 8 § Kieltäytymisperusteiden tutkiminen täytäntöönpanon yhteydessä
+
+Jos lapsen huollosta tai tapaamisoikeudesta, lapsen palauttamisesta taikka oikeudenkäyntikuluista tehdyn ratkaisun täytäntöönpanoa koskeva asia on vireillä tuomioistuimessa ja henkilö, jota vastaan täytäntöönpanoa haetaan, hakemuksella tai muutoin vaatii, että ratkaisun tunnustamisesta tai täytäntöönpanosta on neuvoston asetuksen 39, 50, 56 artiklan 6 kohdan taikka 68 artiklan 2 tai 3 kohdan nojalla kieltäydyttävä, tuomioistuin tutkii vaatimuksen täytäntöönpanoasian yhteydessä. Jos ratkaisun täytäntöönpanoa on tuomioistuimen asemesta haettu ulosottomieheltä, vaatimus kieltäytymisestä tehdään ulosottomiehelle. Ulosottomiehen on tällöin siirrettävä täytäntöönpanoasia ja kieltäytymistä koskeva vaatimus oikeudenkäymiskaaren 10 luvun 14 §:ssä tarkoitetun käräjäoikeuden ratkaistavaksi ja ilmoitettava siirrosta asiaan osallisille.
+
+Hakemus siitä, että muun kuin 1 momentissa tarkoitetun ratkaisun tunnustamisesta tai täytäntöönpanosta on kieltäydyttävä, tutkitaan käräjäoikeudessa noudattaen 7 §:ää.

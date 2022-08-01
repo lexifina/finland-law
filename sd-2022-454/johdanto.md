@@ -1,0 +1,2 @@
+Laki tuomioistuimen toimivallasta, päätösten tunnustamisesta ja täytäntöönpanosta avioliittoa ja vanhempainvastuuta koskevissa asioissa ja kansainvälisestä lapsikaappauksesta annetun neuvoston asetuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
