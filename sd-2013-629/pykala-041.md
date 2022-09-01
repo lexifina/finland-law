@@ -11,7 +11,7 @@ Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä:
 7) voimankäyttövälineistä, sitomiseen käytettävistä välineistä ja voimankäyttövälineiden käytön ja sitomisen kirjaamisesta;
 8) koevapauteen sijoitetulle aiheutuneiden matkakustannusten korvaamisesta.
 
-Rikosseuraamuslaitoksen keskushallintoyksikkö voi antaa tarkempia määräyksiä:
+Rikosseuraamuslaitos voi antaa tarkempia määräyksiä:
 1) valvotun koevapauden valmistelusta;
 2) menettelystä alaikäisen lapsen mielipiteen selvittämisessä;
 3) 9 §:ssä tarkoitetuista tilanteista, joissa valvottuun koevapauteen sijoittaminen on ilmeisen tarpeetonta;
