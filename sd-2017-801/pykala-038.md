@@ -11,7 +11,7 @@ Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä:
 7) valvottavalle aiheutuneiden matkakustannusten korvaamisesta;
 8) vapauttamisen ajankohdan määräytymisestä.
 
-Rikosseuraamuslaitoksen keskushallintoyksikkö voi antaa tarkempia määräyksiä:
+Rikosseuraamuslaitos voi antaa tarkempia määräyksiä:
 1) valvonta-ajan valmistelusta;
 2) valvonta-ajan suorittamisesta ja päihteettömyyden valvonnassa noudatettavasta menettelystä;
 3) toimintavelvollisuudesta poikkeamisen perusteista;

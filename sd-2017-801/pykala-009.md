@@ -7,4 +7,4 @@ Valvonta-ajan täytäntöönpanoa varten Rikosseuraamuslaitoksella on oikeus tar
 
 Yhdistelmärangaistukseen kuuluvan valvonta-ajan tukitoimenpiteitä yhteen sovitettaessa kunta vastaa kunnallisten peruspalveluiden kustannuksista. Rikosseuraamuslaitos vastaa yhdistelmärangaistuksen täytäntöönpanoon liittyvien toimintojen kustannuksista.
 
-Rikosseuraamuslaitoksen arviointikeskuksen on ennen rangaistusajan suunnitelman määräysten vahvistamista pyydettävä Vankiterveydenhuollon yksiköltä arvio valvontaan sijoitettavan vangin riskistä syyllistyä väkivaltarikokseen.
+Rikosseuraamuslaitoksen asiakasarvioinnin yksikön on ennen rangaistusajan suunnitelman määräysten vahvistamista pyydettävä Vankiterveydenhuollon yksiköltä arvio valvontaan sijoitettavan vangin riskistä syyllistyä väkivaltarikokseen.
