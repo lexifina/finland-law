@@ -1,0 +1,2 @@
+Laki kansallisesta vientilupaviranomaisesta
+Eduskunnan päätöksen mukaisesti säädetään:
