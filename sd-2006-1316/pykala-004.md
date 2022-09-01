@@ -1,8 +1,8 @@
-# 4 § Johtaja
+# 4 § Yksikönpäällikkö
 Luku: 2 luku Hallinto
 
-Koulutuskeskuksella on johtaja, jonka Rikosseuraamuslaitoksen pääjohtaja nimittää.
+Koulutuskeskuksella on yksikönpäällikkö, jonka Rikosseuraamuslaitoksen pääjohtaja nimittää.
 
-Johtajan tehtävänä on johtaa ja kehittää koulutuskeskuksen toimintaa sekä vastata toiminnan tuloksellisuudesta, laadusta ja tavoitteiden saavuttamisesta.
+Yksikönpäällikön tehtävänä on johtaa ja kehittää koulutuskeskuksen toimintaa sekä vastata toiminnan tuloksellisuudesta, laadusta ja tavoitteiden saavuttamisesta.
 
-Johtajan tehtävistä säädetään tarkemmin valtioneuvoston asetuksella.
+Yksikönpäällikön tehtävistä annetaan tarkemmat säännökset valtioneuvoston asetuksella.
