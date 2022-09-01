@@ -1,0 +1,2 @@
+Laki valvontatoimenpiteitä ja vaihtoehtoisia seuraamuksia Euroopan unionissa koskevan puitepäätöksen lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja puitepäätöksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
