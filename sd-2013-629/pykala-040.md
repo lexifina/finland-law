@@ -12,4 +12,4 @@ Valvottuun koevapauteen sijoitettu saa vaatia oikaisua tai valittaa Rikosseuraam
 8) 33 §:ssä tarkoitettujen matkakustannusten korvaamista;
 9) muuta kuin 1–8 kohdassa tarkoitettua tämän lain nojalla tehtyä oikeudenkäynnistä hallintoasioissa annetun lain (808/2019) 6 §:ssä tarkoitettua ratkaisua, jollei muutoksenhakua ole tämän lain 40 a §:n nojalla kielletty.
 
-Muutoin oikaisuvaatimuksen ja valituksen käsittelyssä noudatetaan vankeuslain 20 luvun 3–9 §:ää.
+Muutoin oikaisuvaatimuksen ja valituksen käsittelyssä noudatetaan, mitä vankeuslain 20 luvun 3–9 §:ssä säädetään. Rikosseuraamuslaitoksen pääjohtaja ratkaisee oikaisuvaatimuksen, jos kyse on asiakasprosessien vastuualueen johtajan 32 §:n 1 momentin nojalla tekemästä päätöksestä.
