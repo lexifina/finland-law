@@ -9,4 +9,4 @@ Koulutuskeskuksella on järjestyssääntö, jossa voidaan antaa koulutuskeskukse
 
 Koulutuskeskuksen opiskelijat ovat koulutuskeskuksessa, sen alueella taikka suorittaessaan koulutukseen liittyviä tehtäviä, harjoituksia ja tutustumiskäyntejä velvollisia noudattamaan järjestyssääntöä.
 
-Järjestyssäännön vahvistaa koulutuskeskuksen johtaja.
+Järjestyssäännön vahvistaa koulutuskeskuksen yksikönpäällikkö.
