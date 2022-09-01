@@ -2,3 +2,5 @@
 Luku: 17 luku Todistelusta
 
 Ennen kuin todistaja tai asiantuntija esittää kertomuksensa, tuomioistuimen puheenjohtajan on muistutettava häntä totuusvelvollisuudesta ja, jos vakuutus on annettu, sen tärkeydestä.
+
+Puheenjohtajan on ennen kuulustelua ilmoitettava todistajalle, asiantuntijalle sekä todistelutarkoituksessa kuultavalle asianosaiselle tai muulle henkilölle, että kuulustelu tallennetaan.

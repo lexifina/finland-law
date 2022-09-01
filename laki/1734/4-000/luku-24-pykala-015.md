@@ -6,7 +6,7 @@ Hovioikeuden tuomiossa ja lopullisessa päätöksessä on oltava:
 1) tuomioistuimen nimi sekä ratkaisun julistamis- tai antamispäivä;
 2) asianosaisten nimet;
 3) selostus käräjäoikeuden ratkaisusta tarpeellisilta osiltaan sekä selostus asianosaisten vaatimuksista ja vastauksista hovioikeudessa perusteineen;
-4) luettelo hovioikeudessa todistelutarkoituksessa kuulluista henkilöistä ja muista siellä esitetyistä todisteista;
+4) luettelo hovioikeudessa esitetyistä todisteista;
 5) perustelut;
 6) sovelletut lainkohdat ja oikeusohjeet;
 7) tuomio- tai päätöslauselma; sekä

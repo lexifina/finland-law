@@ -4,6 +4,6 @@ Väliotsikko: Asian ratkaiseminen kirjallisen oikeudenkäyntiaineiston perusteel
 
 Asia ratkaistaan esittelystä kirjallisen oikeudenkäyntiaineiston perusteella, jollei siinä 13–16 §:n nojalla toimiteta pääkäsittelyä.
 
-Jos asia ratkaistaan kirjallisen oikeudenkäyntiaineiston perusteella eikä valittajan vastapuoli ole käyttänyt hovioikeudessa puhevaltaa, asiaa ratkaistaessa otetaan kuitenkin huomioon hänen asiassa aikaisemmin esittämänsä oikeudenkäyntiaineisto.
+Jos asia ratkaistaan kirjallisen oikeudenkäyntiaineiston perusteella eikä valittajan vastapuoli ole käyttänyt hovioikeudessa puhevaltaa, asiaa ratkaistaessa otetaan kuitenkin huomioon hänen asiassa aikaisemmin esittämänsä kirjallinen oikeudenkäyntiaineisto.
 
-Tarvittaessa todistelutallenteelta on otettava selko käräjäoikeudessa vastaanotetun todistelun sisällöstä.
+Tarvittaessa kuva- ja äänitallenteelta on otettava selko käräjäoikeudessa vastaanotetun todistelun sisällöstä.

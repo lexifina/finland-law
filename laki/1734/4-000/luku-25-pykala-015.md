@@ -11,6 +11,6 @@ Valituskirjelmässä, joka osoitetaan asianomaiselle hovioikeudelle, on mainitta
 5) todisteet, joihin halutaan nojautua, ja mitä kullakin todisteella halutaan näyttää toteen; sekä
 6) mahdollinen pyyntö pääkäsittelyn toimittamisesta hovioikeudessa.
 
-Jos valittaja haluaa, että hovioikeudessa toimitetaan pääkäsittely, hänen on ilmoitettava yksilöity syy siihen. Valittajan on myös ilmoitettava käsityksensä siitä, onko pääkäsittelyssä kuultava asianosaisia henkilökohtaisesti, ja keiden todistajien, asiantuntijoiden ja muiden todistelutarkoituksessa kuultavien henkilöiden kuuleminen on tarpeellista.
+Jos valittaja haluaa, että hovioikeudessa toimitetaan pääkäsittely, hänen on perusteltava pyyntönsä. Hänen on myös ilmoitettava käsityksensä siitä, onko pääkäsittelyssä otettava vastaan suullista todistelua tai kuultava muussa tarkoituksessa asianosaista henkilökohtaisesti. Lisäksi hänen on ilmoitettava, keiden käräjäoikeudessa kuulusteltujen henkilöiden kertomukset on tarpeellista ottaa vastaan, ja miltä osin ne on tarpeellista ottaa vastaan. Jos valittaja haluaa kuulustella käräjäoikeudessa kuulusteltua henkilöä henkilökohtaisesti uudelleen tai lisäkysymysten esittämistä varten taikka esittää suullista todistelua pääkäsittelyssä viittaamalla siihen, hänen on perusteltava pyyntönsä.
 
 Jos valittaja riita-asiassa vetoaa seikkaan tai todisteeseen, jota ei ole esitetty käräjäoikeudessa, hänen on ilmoitettava, miksi siihen vetoaminen 17 § huomioon ottaen olisi sallittua hovioikeudessa.

@@ -1,7 +1,7 @@
 # 48 §
 Luku: 17 luku Todistelusta
 
-Riita-asiassa kuulustellaan ennen muun suullisen todistelun vastaanottamista asianosaisia ja rikosasiassa asianomistajaa ja vastaajaa, jollei tuomioistuin erityisestä syystä päätä toisin. Kuulustelu toimitetaan siten kuin jäljempänä tässä pykälässä säädetään. Tarvittaessa voidaan kuitenkin poiketa 2–4 momentissa säädetystä.
+Riita-asiassa kuulustellaan ennen muun suullisen todistelun vastaanottamista asianosaisia ja rikosasiassa asianomistajaa ja vastaajaa, jollei tuomioistuin erityisestä syystä päätä toisin. Kuulustelu toimitetaan siten kuin jäljempänä tässä pykälässä säädetään. Jos asian jäsennelty käsittely sitä edellyttää tai jos se on muuten tarpeen, 2–4 momentissa säädetystä voidaan kuitenkin poiketa.
 
 Riita-asiassa asianosaisen pääkuulustelun toimittaa hänen avustajansa. Rikosasiassa vastaajan pääkuulustelun toimittaa hänen avustajansa. Asianomistajan pääkuulustelun toimittaa hänen avustajansa tai syyttäjä. Jollei asianosaisella riita-asiassa tai vastaajalla rikosasiassa ole avustajaa, pääkuulustelun toimittaa tuomioistuin tai rikosasiassa myös syyttäjä. Pääkuulustelussa kuultavan tulee oma-aloitteisesti ja tarvittaessa hänelle esitettyjen kysymysten avulla esittää kertomuksensa yhtäjaksoisesti.
 

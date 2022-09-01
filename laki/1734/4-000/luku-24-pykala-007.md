@@ -5,7 +5,7 @@ Käräjäoikeuden tuomio laaditaan erilliseksi asiakirjaksi. Siinä on oltava:
 1) tuomioistuimen nimi sekä tuomion antamispäivä;
 2) asianosaisten nimet;
 3) selostus asianosaisten vaatimuksista ja vastauksista perusteineen;
-4) luettelo todistelutarkoituksessa kuulluista henkilöistä ja muista esitetyistä todisteista;
+4) luettelo esitetyistä todisteista;
 5) perustelut;
 6) sovelletut lainkohdat ja oikeusohjeet;
 7) tuomiolauselma; sekä

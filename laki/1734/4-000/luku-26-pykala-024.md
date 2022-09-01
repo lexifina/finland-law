@@ -8,4 +8,6 @@ Pääkäsittelyssä asia käsitellään seuraavassa järjestyksessä:
 3) tuomioistuimen on otettava vastaan todistelu; sekä
 4) valittajan ja vastaajan on esitettävä loppulausuntonsa.
 
-Edellä 1 momentissa säädetystä järjestyksestä saadaan kuitenkin tarvittaessa poiketa.
+Käräjäoikeudessa tehdyltä kuva- ja äänitallenteelta vastaanotettava suullinen todistelu otetaan vastaan ennen muuta suullista todistelua. Käräjäoikeudessa kuulusteltua henkilöä, jonka kertomus otetaan vastaan käräjäoikeudessa tehdyltä kuva- ja äänitallenteelta, kuulustellaan kuitenkin henkilökohtaisesti lisäkysymysten esittämistä varten heti, kun hänen kertomuksensa on otettu tarpeellisin osin vastaan.
+
+Edellä 1 ja 2 momentissa säädetystä järjestyksestä saadaan kuitenkin tarvittaessa poiketa.

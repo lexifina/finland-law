@@ -1,4 +1,4 @@
 # 10 §
 Luku: 22 luku Käräjäoikeuden pöytäkirja ja todistelun taltiointi
 
-Äänite on säilytettävä vähintään kuuden kuukauden ajan asian ratkaisemisesta. Jos asiassa on haettu muutosta, äänite on kuitenkin säilytettävä, kunnes asia on lainvoimaisesti ratkaistu.
+Kuva- ja äänitallenne säilytetään 30 päivää siitä, kun asia on lainvoimaisesti ratkaistu.
