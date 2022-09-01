@@ -11,7 +11,7 @@ Valtioneuvoston asetuksella voidaan antaa tarkemmat säännökset:
 7) tutkinta-arestiin määrätyn velvollisuuksien rikkomisen selvittämisestä ja kirjaamisesta;
 8) 2 luvun 12 i §:n 2 momentissa tarkoitetun syyttäjälle tehtävän ilmoituksen sisällöstä.
 
-Rikosseuraamuslaitoksen keskushallintoyksikkö antaa tarkemmat määräykset:
+Rikosseuraamuslaitos antaa tarkemmat määräykset:
 1) tutkinta-arestin valvonnan suorittamisesta;
 2) 2 luvun 12 h §:ssä tarkoitetusta poikkeusluvasta;
 3) tutkinta-arestin suorittamisajan laskemisesta ja kirjaamisesta.
