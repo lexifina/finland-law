@@ -9,6 +9,6 @@ Valvottava saa vaatia oikaisua ja valittaa Rikosseuraamuslaitoksen päätöksest
 5) 33 §:ssä tarkoitettujen matkakustannusten korvaamista;
 6) muuta kuin 1–5 kohdassa tarkoitettua tämän lain nojalla tehtyä oikeudenkäynnistä hallintoasioissa annetun lain (808/2019) 6 §:ssä tarkoitettua ratkaisua, jollei muutoksenhakua ole tämän lain 36 §:n nojalla kielletty.
 
-Rikosseuraamuslaitoksen aluejohtaja ratkaisee 1 momentin 1–4 ja 6 kohdassa tarkoitetun oikaisuvaatimuksen. Edellä 1 momentin 5 kohdassa tarkoitetun oikaisuvaatimuksen ratkaisee Rikosseuraamuslaitoksen täytäntöönpanojohtaja, jollei kysymys ole hänen tekemästään päätöksestä.
+Kehittämisen ja ohjauksen vastuualueen johtaja ratkaisee 1 momentissa tarkoitetun oikaisuvaatimuksen.
 
-Oikaisuvaatimus on tehtävä kirjallisesti seitsemän päivän kuluessa päätöksen tiedoksisaannista. Oikaisuvaatimus toimitetaan aluejohtajalle, yhdyskuntaseuraamustoimiston johtajalle tai vankilan johtajalle. Jos kysymys on 1 momentin 5 kohdassa tarkoitetusta päätöksestä, oikaisuvaatimus toimitetaan Rikosseuraamuslaitoksen täytäntöönpanojohtajalle. Oikaisuvaatimus on käsiteltävä kiireellisenä. Muutoin oikaisuvaatimuksen käsittelyyn sovelletaan, mitä yhdyskuntaseuraamusten täytäntöönpanosta annetun lain 91 ja 92 §:ssä säädetään.
+Oikaisuvaatimus on tehtävä kirjallisesti seitsemän päivän kuluessa päätöksen tiedoksisaannista. Oikaisuvaatimus toimitetaan kehittämisen ja ohjauksen vastuualueen johtajalle, yhdyskuntaseuraamustoimiston yksikönpäällikölle tai vankilan yksikönpäällikölle. Oikaisuvaatimus on käsiteltävä kiireellisenä. Muutoin oikaisuvaatimuksen käsittelyyn sovelletaan, mitä yhdyskuntaseuraamusten täytäntöönpanosta annetun lain 91 ja 92 §:ssä säädetään.
