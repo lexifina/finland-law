@@ -1,0 +1,2 @@
+Laki Rikosseuraamuslaitoksesta
+Eduskunnan päätöksen mukaisesti säädetään:
