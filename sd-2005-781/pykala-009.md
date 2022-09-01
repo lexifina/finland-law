@@ -1,3 +1,3 @@
 # 9 § Ehdonalaisen vapauttamisen täytäntöönpanokielto
 
-Kun Rikosseuraamuslaitoksen keskushallintoyksikkö saattaa ehdonalaista vapauttamista koskevan asian rikoslain 2 c luvun 10 §:n 3 momentissa tarkoitetulla tavalla Helsingin hovioikeuteen uudelleen käsiteltäväksi, hovioikeus voi kieltää ehdonalaista vapauttamista koskevan päätöksen täytäntöönpanon uuden käsittelyn ajaksi.
+Kun Rikosseuraamuslaitos saattaa ehdonalaista vapauttamista koskevan asian rikoslain 2 c luvun 10 §:n 3 momentissa tarkoitetulla tavalla Helsingin hovioikeuteen uudelleen käsiteltäväksi, hovioikeus voi kieltää ehdonalaista vapauttamista koskevan päätöksen täytäntöönpanon uuden käsittelyn ajaksi.
