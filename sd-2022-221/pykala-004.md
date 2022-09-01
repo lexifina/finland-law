@@ -1,0 +1,6 @@
+# 4 § Rikosseuraamuskeskuksen tehtävät
+Luku: 1 luku Rikosseuraamuslaitoksen tehtävät ja organisaatio
+
+Rikosseuraamuskeskus vastaa omalla toimialueellaan rangaistusten täytäntöönpanosta ja tutkintavankeuden toimeenpanosta sekä muista sille laissa säädetyistä ja Rikosseuraamuslaitoksen työjärjestyksessä määrätyistä tehtävistä. Rikosseuraamuskeskus vastaa toimintansa laillisuudesta, yhdenmukaisuudesta ja tuloksellisuudesta sekä rangaistusten täytäntöönpanon ja tutkintavankeuden toimeenpanon kehittämisestä Rikosseuraamuslaitoksen vastuualueiden ohjauksessa. Rikosseuraamuskeskus tekee toimialueellaan yhteistyötä muiden viranomaisten ja muiden toimijoiden kanssa.
+
+Sen lisäksi, mitä 1 momentissa säädetään, rikosseuraamuskeskuksen tehtävänä on suorittaa muut Rikosseuraamuslaitoksen vastuualueiden sille erikseen määräämät tehtävät. Rikosseuraamuslaitoksen vastuualueet voivat määrätä rikosseuraamuskeskuksen tehtäväksi toisen rikosseuraamuskeskuksen tehtäviä, jos se on tarpeen rangaistusten täytäntöönpanon tai tutkintavankeuden toimeenpanon tavoitteiden saavuttamisen, työn tasaamisen, erityisosaamisen tai muun erityisen syyn vuoksi.
