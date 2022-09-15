@@ -9,4 +9,4 @@ Poliisi tai rajatarkastusviranomainen taikka niiden valvonnassa sisäasiainminis
 
 Rekisteröinti on suoritettava viipymättä.
 
-Raja- ja merivartiostoasetuksen mukaisen eurooppalaisen raja- ja merivartioston pysyvästä joukosta lähetetyn ryhmän jäsenenä Suomessa oleva vieraan valtion toimivaltainen virkamies voi avustaa poliisia ja rajatarkastusviranomaista 3 momentissa mainituissa tehtävissä ja 131 §:n 1 momentissa tarkoitettujen henkilötuntomerkkien ottamisessa poliisimiehen tai rajatarkastusviranomaisen virkamiehen ohjauksessa.
+Raja- ja merivartiostoasetuksen mukaisen eurooppalaisen raja- ja merivartioston pysyvästä joukosta lähetetyn ryhmän jäsenenä Suomessa oleva vieraan valtion toimivaltainen virkamies sekä turvapaikkavirastoasetuksen mukainen Suomeen lähetetty turvapaikka-asioiden tukiryhmän jäsen voivat avustaa poliisia ja rajatarkastusviranomaista 3 momentissa tarkoitetuissa tehtävissä ja 131 §:n 1 momentissa tarkoitettujen henkilötuntomerkkien ottamisessa poliisimiehen tai rajatarkastusviranomaisen virkamiehen ohjauksessa.
