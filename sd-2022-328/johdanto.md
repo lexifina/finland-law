@@ -1,0 +1,2 @@
+Laki elokuvien yhteistuotannosta tehdystä eurooppalaisesta yleissopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
