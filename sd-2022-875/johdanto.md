@@ -1,0 +1,2 @@
+Laki Euroopan unionin tietojärjestelmien yhteentoimivuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
