@@ -1,0 +1,5 @@
+# 3 §
+
+Metallirahaa, joka on huomattavasti vahingoittunut, ei saa käyttää maksuvälineenä, eikä sitä tarvitse hyväksyä maksuksi.
+
+Suomen Pankki on velvollinen ottamaan vastaan ja hyvittämään vahingoittuneen eurometallirahan, jos se voidaan varmasti todeta oikeaksi. Suomen Pankki voi kuitenkin kieltäytyä hyvittämästä eurometallirahojen aitouden tarkistamisesta ja kiertoon kelpaamattomien eurometallirahojen käsittelystä annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1210/2010 8 artiklan 2 kohdassa tarkoitettuja kiertoon kelpaamattomia eurometallirahoja, joita on joko muutettu tarkoituksella tai jotka ovat muuttuneet prosessissa, jonka voidaan kohtuudella odottaa muuttavan niitä, sanotun kuitenkaan rajoittamatta hyväntekeväisyystarkoituksiin kerättyjen metallirahojen, kuten toivomuslähteisiin heitettyjen metallirahojen, hyvittämistä. Lisäksi Suomen Pankki voi kieltäytyä ottamasta vastaan edellä mainitun asetuksen 11 artiklan 3 kohdassa tarkoitettuja eurometallirahoja, joiden vastaanottamisesta tai käsittelystä aiheutuu terveysriski käsittelijöille tai jos palautettava erä ei ole pakkaus- ja merkintästandardien mukainen.
