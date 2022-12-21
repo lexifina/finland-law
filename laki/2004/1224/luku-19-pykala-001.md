@@ -3,7 +3,7 @@ Osa: VII OSA ERINÄISET SÄÄNNÖKSET
 Luku: 19 luku Tietojen saamista ja luovuttamista koskevat säännökset
 
 Kansaneläkelaitoksella ja tämän lain mukaisella muutoksenhakuelimellä on oikeus salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä saada käsiteltävänä olevan etuuden ratkaisemista varten välttämättömät tiedot tai sellaiset välttämättömät tiedot, jotka on muuten otettava huomioon tässä laissa taikka Suomea sitovassa sosiaaliturvasopimuksessa tai sosiaaliturvaa koskevassa muussa kansainvälisessä säädöksessä säädettyjen tehtävien toimeenpanemiseksi:
-1) valtion ja kunnan viranomaiselta sekä muulta julkisoikeudelliselta yhteisöltä;
+1) valtion, hyvinvointialueen ja kunnan viranomaiselta sekä muulta julkisoikeudelliselta yhteisöltä;
 2) Eläketurvakeskukselta, eläke- ja vakuutuslaitokselta sekä muulta eläkkeen tai muun korvauksen myöntäjältä tai maksajalta;
 3) Potilasvakuutus- ja Liikennevakuutuskeskukselta sekä lääkevahinkovakuutuspoolilta;
 4) työnantajalta, työttömyyskassalta ja työpaikkakassalta.

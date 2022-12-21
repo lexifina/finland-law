@@ -8,4 +8,4 @@ Vakuutettu ei ole ulkomaan kansalainen, joka Suomessa palvelee vieraan valtion d
 
 Oikeus tämän lain mukaisiin etuuksiin on henkilöllä, joka täyttää jäljempänä tässä laissa säädetyt etuuden saamisen edellytykset.
 
-Mitä tässä laissa säädetään vakuutetulle aiheutuvien sairaanhoidon tai raskauden taikka synnytyksen aiheuttamien kustannusten korvaamisesta ja korvattavuuden rajoituksista valtion, kunnan tai kuntayhtymän järjestämässä hoidossa, koskee vastaavasti myös Ahvenanmaan maakunnan järjestämää hoitoa.
+Mitä tässä laissa säädetään vakuutetulle aiheutuvien sairaanhoidon tai raskauden taikka synnytyksen aiheuttamien kustannusten korvaamisesta ja korvattavuuden rajoituksista valtion tai hyvinvointialueen järjestämässä hoidossa, koskee vastaavasti myös Ahvenanmaan maakunnan järjestämää hoitoa.
