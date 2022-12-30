@@ -1,0 +1,2 @@
+Laki Säteilyturvakeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
