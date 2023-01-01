@@ -5,6 +5,7 @@ Hyvinvointialueen järjestämisvastuulle kuuluvina sosiaalipalveluina on järjes
 1) sosiaalityötä;
 2) sosiaaliohjausta;
 3) sosiaalista kuntoutusta;
+3 a) palvelua taloudellisen toimintakyvyn edistämiseksi;
 4) perhetyötä;
 5) lapsiperheen kotipalvelua;
 6) tukipalveluja;

@@ -6,7 +6,7 @@ Sosiaalipalveluja on järjestettävä:
 2) asumiseen liittyvään tuen tarpeeseen;
 3) taloudellisen tuen tarpeeseen;
 4) sosiaalisen syrjäytymisen torjumiseksi ja osallisuuden edistämiseksi;
-5) lähisuhde- ja perheväkivallasta sekä muusta väkivallasta ja kaltoinkohtelusta aiheutuvaan tuen tarpeeseen;
+5) lähisuhde- ja perheväkivallasta sekä muusta väkivallasta, hyväksikäytöstä ja kaltoinkohtelusta aiheutuvaan tuen tarpeeseen;
 6) äkillisiin kriisitilanteisiin liittyvään tuen tarpeeseen;
 7) lapsen tasapainoisen kehityksen ja hyvinvoinnin tukemiseksi;
 8) päihteiden ongelmakäytöstä, muusta riippuvuuskäyttäytymisestä, mielenterveysongelmasta tai muusta sairaudesta, vammasta tai ikääntymisestä aiheutuvaan tuen tarpeeseen;
