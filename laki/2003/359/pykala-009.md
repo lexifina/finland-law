@@ -13,6 +13,6 @@ b) lapsi syntyy Suomessa ja miehen isyys lapseen vahvistetaan; tai
 
 Suomessa syntyvä lapsi saa syntymäpaikan perusteella Suomen kansalaisuuden, jos lapsen vanhemmilla on Suomessa pakolaisen asema tai jos heille muutoin on annettu suojelua kansalaisuusvaltionsa viranomaisia vastaan. Lisäksi edellytetään, että lapsi ei saa kummankaan vanhempansa kansalaisuutta muutoin kuin rekisteröimällä lapsen syntymä vanhemman kansalaisuusvaltion viranomaisessa tai muulla tämän valtion viranomaisen myötävaikutusta edellyttävällä tavalla. Jos edellä tarkoitettua suojelua on annettu vain toiselle vanhemmista, edellytetään myös, että lapsi ei saa syntyessään eikä hänellä syntymänsä perusteella ole edes toissijaisesti oikeutta saada toisen vanhempansa kansalaisuutta.
 
-Jos lapsella on äitiyslain (253/2018) nojalla kaksi äitiä:
-1) lapsen synnyttäneeseen äitiin sovelletaan, mitä 1 momentin 1 kohdassa säädetään äidistä; ja
-2) äitiyslain 3 §:n 1 momentissa tarkoitettuun äitiin sovelletaan, mitä 1 momentin 2 kohdan b alakohdassa ja 3 kohdan b alakohdassa säädetään isästä.
+Jos lapsella on vanhemmuuslain (775/2022) nojalla kaksi äitiä:
+1) lapsen synnyttäneeseen äitiin sovelletaan, mitä edellä 1 momentin 1 kohdassa säädetään äidistä; ja
+2) vanhemmuuslain 5 §:n 1 momentissa tarkoitettuun äitiin ja äitiyden vahvistamiseen sovelletaan, mitä edellä 1 momentin 2 kohdan b alakohdassa ja 3 kohdan b alakohdassa säädetään isästä ja isyyden vahvistamisesta.
