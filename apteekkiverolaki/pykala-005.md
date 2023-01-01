@@ -5,4 +5,5 @@ Verovuoden apteekkiveron määrää laskettaessa apteekin, sivuapteekin, apteeki
 Arvonlisäverottomasta liikevaihdosta vähennetään lisäksi seuraavat arvonlisäverottomat osuudet:
 1) lääkelain (395/1987) 12 §:n 2 momentissa tarkoitetun sopimusvalmistuksen myynnin arvo sekä sosiaali- ja terveydenhuollon laitoksille tapahtuva lääkemyynti;
 2) sellaisten nikotiinikorvaushoitoon tarkoitettujen lääkevalmisteiden myynnin arvo, joita lääkelain mukaan saa myydä myös muualla kuin apteekissa;
-3) muiden tuotteiden kuin lääkkeiden myynti, kuitenkin enintään 20 prosenttia liikevaihdosta, josta on tehty 1 ja 2 kohdan mukaiset vähennykset.
+3) muiden tuotteiden kuin lääkkeiden myynti, kuitenkin enintään 20 prosenttia liikevaihdosta, josta on tehty 1 ja 2 kohdan mukaiset vähennykset;
+4) tukkuhinnaltaan yli 1 500 euron hintaisten lääkevalmisteiden myynnin osuus siltä osin kuin kunkin tällaisen lääkevalmisteen arvonlisäveroton vähittäishinta ylittää 1 683,92 euroa.
