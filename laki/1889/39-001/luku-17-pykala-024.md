@@ -5,4 +5,4 @@ Järjestäytyneen rikollisryhmän toimintaan osallistumiseen, laittoman maahantu
 
 Mitä oikeushenkilön rangaistusvastuusta säädetään, sovelletaan myös 1 §:ssä tarkoitettuun julkiseen kehottamiseen rikokseen silloin, kun rikos, johon kehotetaan tai houkutellaan, on
 1) kiihottaminen kansanryhmää vastaan tai törkeä kiihottaminen kansanryhmää vastaan taikka
-2) törkeä kunnianloukkaus tai laiton uhkaus silloin, kun kehottamisen tai houkuttelemisen vaikuttimena on rotu, ihonväri, syntyperä, kansallinen tai etninen alkuperä, uskonto tai vakaumus, seksuaalinen suuntautuminen tai vammaisuus taikka niihin rinnastettava muu peruste.
+2) törkeä kunnianloukkaus tai laiton uhkaus silloin, kun kehottamisen tai houkuttelemisen vaikuttimena on rotu, ihonväri, syntyperä, kansallinen tai etninen alkuperä, uskonto tai vakaumus, sukupuoli, seksuaalinen suuntautuminen tai vammaisuus taikka niihin rinnastettava muu peruste.
