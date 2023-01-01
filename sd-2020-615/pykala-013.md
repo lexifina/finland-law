@@ -12,7 +12,7 @@ a) Oikeusrekisterikeskukselta sakkorekisteristä henkilön henkilötiedot, ratka
 b) Oikeusrekisterikeskukselta oikeushallinnon valtakunnallisesta tietojärjestelmästä ja sen osajärjestelmistä tiedot syyttäjäviranomaisessa tai tuomioistuimessa vireillä olevista tai olleista henkilön tekemiksi epäillyistä rikoksista;
 c) Oikeusrekisterikeskukselta rikosrekisteristä henkilön rikosrekisteriote;
 d) esitutkintaviranomaiselta tiedot henkilön tekemäksi epäillystä rikoksesta, häntä koskevasta rikosilmoituksesta ja esitutkinnasta;
-e) kunnan sosiaaliviranomaiselta tiedot henkilön saamista sosiaali- ja terveydenhuoltopalveluista sekä sosiaalietuuksista;
+e) hyvinvointialueen, Helsingin kaupungin ja kunnan viranomaiselta sekä Ahvenanmaan maakunnan terveys- ja sairaanhoitoviranomaiselta ja HUS-yhtymältä tiedot henkilön saamista sosiaali- ja terveydenhuoltopalveluista sekä sosiaalietuuksista;
 f) Verohallinnolta henkilön varallisuus- ja tulotiedot;
 g) Rikosseuraamuslaitokselta henkilön yhteystiedot, olinpaikka ja vapautumispäivä;
 2) Oikeusrekisterikeskukselta oikeushallinnon valtakunnallisesta tietojärjestelmästä ja sen osajärjestelmistä sekä rikosrekisteristä tiedot:
@@ -24,7 +24,6 @@ e) vireilletuloasiakirjoista, ratkaisun perusteena olleista asiakirjoista ja kä
 f) perheenkokoajan rikosrekisteriotteesta lapsen edun, yhteiselämän mahdollisuuksien tai toimeentuloedellytyksen arvioimiseksi tehtäessä kokonaisharkintaa oleskeluluvan ja oleskeluoikeuden edellytysten selvittämiseksi;
 3) esitutkintaviranomaiselta tiedot perheenkokoajan tekemäksi epäillystä rikoksesta, häntä koskevasta rikosilmoituksesta ja esitutkinnasta lapsen edun, yhteiselämän mahdollisuuksien tai toimeentuloedellytyksen arvioimiseksi tehtäessä kokonaisharkintaa oleskeluluvan ja oleskeluoikeuden edellytysten selvittämiseksi sekä tiedot esitutkinnasta ja vireillä olevista tai vireillä olleista rikosilmoituksista ihmiskaupan uhrien auttamisjärjestelmään ottamista koskevaa päätösharkintaa varten;
 4) Kansaneläkelaitokselta tulo-, etuus- ja perhesuhdetiedot ristiriitaisiksi epäiltyjen tietojen selvittämiseksi tai työ- ja perhesuhteiden aitouden selvittämiseksi;
-5) kunnan sosiaaliviranomaiselta tiedot ihmiskaupan uhrien auttamisjärjestelmään esitetyn henkilön taustoista ja tilanteesta, hänen saamistaan sosiaali- ja terveydenhuoltopalveluista sekä tiedot lastensuojelun tarpeen selvittämisestä ja lastensuojeluasiakkuudesta auttamistoimien tarpeen selvittämiseksi;
 6) Verohallinnolta varallisuus- ja tulotiedot ristiriitaisiksi epäiltyjen tietojen selvittämiseksi tai työ- ja perhesuhteiden aitouden selvittämiseksi;
 7) Opetushallitukselta tai koulutuksen järjestäjältä tiedot ulkomaalaisen opiskeluoikeuden alkamisesta, opiskeluoikeuden väliaikaisesta keskeyttämisestä, muusta opintojen väliaikaisesta keskeytymisestä, opiskeluoikeuden ja opintojen päättymisestä, lukuvuosimaksun suuruudesta ja suorittamisesta, koulutuksen järjestäjän antamista apurahoista, asuntoeduista ja ateriaeduista sekä opintosuorituksista, arvosanoista ja tutkinnoista tehtäessä kokonaisharkintaa oleskeluluvan, oleskeluoikeuden tai kansalaisuuden saamisen edellytysten selvittämiseksi;
 8) ulkoministeriöltä tai edustustolta tiedot kielteisestä asiakirjan laillistamispäätöksestä ulkomaisen asiakirjan luotettavuuden arvioimiseksi;
