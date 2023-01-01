@@ -5,4 +5,4 @@ Adoptioneuvonnan antajan ja palvelunantajan on säilytettävä adoptioneuvonnan 
 
 Palvelunantaja voi siirtää 1 momentissa tarkoitetut asiakirjat adoptioneuvonnan antajan säilytettäviksi, jos adoptioneuvonnan antaja siihen suostuu. Palvelunantajan on asiakirjoja siirrettäessä pidettävä luetteloa siitä, minne asiakirjat on siirretty.
 
-Jos adoptiotoimisto tai palvelunantaja lopettaa tässä laissa tarkoitetun toimintansa, 1 momentissa tarkoitetut asiakirjat on siirrettävä sen kunnan sosiaalihuollon toimielimen säilytettäviksi, jolle Sosiaali- ja terveysalan lupa- ja valvontavirasto antaa tehtäväksi ottaa vastaan asiakirjat.
+Jos adoptiotoimisto tai palvelunantaja lopettaa tässä laissa tarkoitetun toimintansa, 1 momentissa tarkoitetut asiakirjat on siirrettävä sen hyvinvointialueen säilytettäviksi, jolle Sosiaali- ja terveysalan lupa- ja valvontavirasto antaa tehtäväksi ottaa vastaan asiakirjat.
