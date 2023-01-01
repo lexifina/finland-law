@@ -1,0 +1,2 @@
+Laki valtion henkilöstölle etätyöstä johtuvissa olosuhteissa sattuneiden tapaturmien korvaamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
