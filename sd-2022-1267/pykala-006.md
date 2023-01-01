@@ -1,0 +1,8 @@
+# 6 § Myyjää ja vuokralle annettua asuin- tai liikehuoneistoa, pysäköintipaikkaa taikka kiinteää omaisuutta koskevien tietojen todentaminen
+Luku: 2 luku Huolellisuusvelvoitteet
+
+Suomeen raportoivan alustaoperaattorin on varmistettava keräämiensä 3 §:n 1 momentin 1–6 kohdassa tarkoitettujen tietojen ja mainitun pykälän 2 momentissa tarkoitetun syntymäpaikkatiedon sekä 4 ja 5 §:ssä tarkoitettujen tietojen luotettavuus käyttämällä kaikkia arkistotiedoissaan olevia tietoja ja asiakirjoja. Suomeen raportoivan alustaoperaattorin on verotunnisteen ja arvonlisäverotunnisteen voimassaolon varmistamiseksi lisäksi käytettävä Euroopan unionin jäsenvaltion tai Euroopan unionin maksutta saataville asettamia sähköisiä käyttöliittymiä.
+
+Sen estämättä, mitä 1 momentissa säädetään, Suomeen raportoiva alustaoperaattori voi 8 §:n 2 momentissa säädettyjä huolellisuusmenettelyjä suorittaessaan käyttää sähköisesti hakukelpoisissa arkistotiedoissaan olevia tietoja ja asiakirjoja varmistaakseen keräämiensä 3 §:n 1 momentin 1–6 kohdassa tarkoitettujen tietojen ja mainitun pykälän 2 momentissa tarkoitetun syntymäpaikkatiedon sekä 4 ja 5 §:ssä tarkoitettujen tietojen luotettavuuden.
+
+Sen estämättä, mitä 1 ja 2 momentissa säädetään, Suomeen raportoivan alustaoperaattorin on Verohallinnon kehotuksesta varmistettava myyjän 3 ja 5 §:ssä tarkoitettujen tietojen oikeellisuus. Jos Suomeen raportoiva alustaoperaattori ei voi itse varmistaa tietojen oikeellisuutta, sen on pyydettävä myyjältä tositteellinen selvitys siitä, että myyjää koskevat tiedot ovat oikeat, tai pyydettävä myyjää korjaamaan virheelliset tiedot ja tositteellisesti osoittamaan niiden oikeellisuus.

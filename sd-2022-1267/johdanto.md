@@ -1,0 +1,2 @@
+Laki digitaalisen alustatalouden toimijoiden tiedonantovelvollisuudesta verotuksen alalla
+Eduskunnan päätöksen mukaisesti säädetään:
