@@ -1,8 +1,4 @@
-# 28 § Tiedonsaanti ja virka-apu
+# 28 § Asianosaisen myötävaikutus- ja tietojenantovelvollisuus
 Luku: 7 luku Erinäiset säännökset
 
-Työnantaja on velvollinen antamaan lain täytäntöönpanoa varten tarpeelliset tiedot elinkeino-, liikenne- ja ympäristökeskukselle, jolla on oikeus tarkistaa tiedot työnantajan kirjanpidosta. Poliisiviranomainen on velvollinen antamaan tarpeellista virka-apua tietojen hankkimiseksi.
-
-Elinkeino-, liikenne- ja ympäristökeskuksella on oikeus saada maksutta salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä veroviranomaisilta, ulosottoviranomaisilta, työsuojeluviranomaisilta, Kansaneläkelaitokselta, Eläketurvakeskukselta, eläkelaitoksilta, työttömyyskassoilta ja työ- ja elinkeinotoimistoilta lain täytäntöönpanoa varten välttämättömät tiedot. Tiedot on oikeus saada myös teknisen käyttöyhteyden avulla tai muutoin sähköisesti.
-
-Elinkeino-, liikenne- ja ympäristökeskuksella on oikeus hankkia palkkaturva-asian käsittelyä varten tarpeellisia tietoja myös muun Euroopan unionin jäsenvaltion palkkaturva-asioita hoitavalta viranomaiselta tai yhteisöltä.
+Palkkaturva-asian asianosaisella on velvollisuus myötävaikuttaa palkkaturva-asian selvittämisessä ja antaa lain täytäntöönpanoa varten tarpeelliset tiedot palkkaturvaviranomaiselle.
