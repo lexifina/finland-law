@@ -16,6 +16,6 @@ Rangaistusajan suunnitelmaan on merkittävä valvonta-ajan alkamisen ja päätty
 
 Rangaistusajan suunnitelma sisältää myös valvonta-ajan suorittamisen aikataulun.
 
-Rangaistusajan suunnitelmaa valmisteltaessa on tarpeellisessa määrin oltava yhteistyössä vangin koti- tai asuinkunnan sosiaali-, terveys-, asunto- ja työvoimaviranomaisten, muiden viranomaisten sekä yksityisten yhteisöjen ja henkilöiden kanssa.
+Rangaistusajan suunnitelmaa valmisteltaessa on tarpeellisessa määrin oltava yhteistyössä niiden viranomaisten kanssa, jotka vangin koti- tai asuinkunnan perusteella vastaavat hänen sosiaali-, terveys-, asunto- ja työvoimapalveluistaan samoin kuin muiden viranomaisten sekä yksityisten yhteisöjen ja henkilöiden kanssa.
 
 Rangaistusajan suunnitelma annetaan vangille tiedoksi henkilökohtaisesti. Vangille on tarkoin selvitettävä yhdistelmärangaistuksen valvonta-aikaan liittyvien määräysten ja velvollisuuksien sisältö, seuraamukset niiden rikkomisesta sekä muut valvonta-ajan täytäntöönpanon kannalta välttämättömät seikat.
