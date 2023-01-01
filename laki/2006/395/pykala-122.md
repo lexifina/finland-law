@@ -6,8 +6,6 @@ Eläkelaitos voi eläkkeensaajan suostumuksella päättää, että tämän lain 
 
 Esityksen eläkkeen maksamisesta hyvinvointialueelle voi tehdä eläkkeensaaja, hänen puolisonsa, muu omaisensa tai henkilö, joka pääasiallisesti huolehtii hänestä, tai hyvinvointialue.
 
-Esityksen eläkkeen maksamisesta sosiaalihuoltolaissa tarkoitetulle toimielimelle voi tehdä eläkkeensaaja, hänen puolisonsa, muu omaisensa tai henkilö, joka pääasiallisesti huolehtii hänestä, tai kunnan asianomainen toimielin.
-
 Eläkettä ei saa käyttää vastoin eläkkeensaajan suostumusta muuhun kuin sen kuukauden aikana annettavaan huoltoon, jolta eläke on maksettu.
 
 Mitä tässä pykälässä säädetään hyvinvointialueesta, sovelletaan Ahvenanmaan maakunnan osalta Ahvenanmaan maakunnan kuntiin.
