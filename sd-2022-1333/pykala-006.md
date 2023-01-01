@@ -1,0 +1,11 @@
+# 6 § Luonnonmukaisen tuotannon korvaus
+
+Luonnonmukaisen tuotannon korvausta voidaan myöntää luonnonmukaisesta tuotannosta tai siihen siirtymisestä aktiiviviljelijälle, joka antaa viiden vuoden pituisen sitoumuksen luonnonmukaisesta kasvintuotannosta tai luonnonmukaisesta kotieläintuotannosta ja joka on ilmoittautunut luonnonmukaisen tuotannon valvontajärjestelmään ja joka noudattaa luonnonmukaisesta tuotannosta ja luonnonmukaisesti tuotettujen tuotteiden merkinnöistä ja neuvoston asetuksen (EY) N:o 834/2007 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2018/848 III luvussa tarkoitettuja tuotantosääntöjä.
+
+Luonnonmukaista kasvintuotantoa koskevan sitoumuksen perusteella maksettavan luonnonmukaisen tuotannon korvauksen myöntämisen edellytyksenä on, että viljelijällä on hallinnassaan koko sitoumuskauden ajan vähintään viisi hehtaaria sitoumukseen sisältyvää korvauskelpoista peltoalaa, tai, jos kyse on puutarhakasvien viljelyyn liittyvästä luonnonmukaisesta tuotannosta, vähintään yksi hehtaari sitoumukseen sisältyvää puutarhakasvien viljelyksessä olevaa korvauskelpoista peltoalaa.
+
+Luonnonmukaista kotieläintuotantoa koskevan sitoumuksen perusteella maksettavan luonnonmukaisen tuotannon korvauksen myöntämisen edellytyksenä on, että viljelijä antaa sitoumuksen myös luonnonmukaisesta kasvintuotannosta ja että viljelijällä on kunakin sitoumusvuonna hallinnassaan keskimäärin vähintään viisi eläinyksikköä luonnonmukaisessa kotieläintuotannossa.
+
+Toimeenpanolain 7 §:ssä tarkoitettu toimivaltainen viranomainen päättää luonnonmukaista kasvintuotantoa tai luonnonmukaista kotieläintuotantoa koskevan sitoumuksen hyväksymisestä. Edellä 1 momentissa tarkoitettua sitoumusta voidaan jatkaa viiden vuoden sitoumuskauden jälkeen enintään kahdella vuodella kerrallaan.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä luonnonmukaisen tuotannon korvauksen myöntämisen edellytyksistä, korvauskelpoisesta alasta ja sen siirtämisestä, rahoituksesta, korvauksen enimmäismäärästä ja yksikkökohtaisesta määrästä, korvauksen yksikkökohtaisen määrän korottamisesta ja alentamisesta, etusijajärjestyksestä sitoumuksia annettaessa, eläinyksiköistä, keskimääräisen eläintiheyden laskemisesta ja muista korvauksen ehdoista.
