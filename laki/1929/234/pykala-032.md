@@ -6,4 +6,4 @@ Avioeroa tai yhteiselämän lopettamista koskevassa asiassa tuomioistuimen on om
 
 Lapsen huoltoa ja tapaamisoikeutta käsitellessään tuomioistuimen on erityisesti kiinnitettävä asianosaisten huomiota siihen, että huollon ja tapaamisoikeuden tarkoituksena on turvata lapsen myönteiset ja läheiset suhteet kumpaankin vanhempaan.
 
-Lapsen vanhemman tai sosiaalilautakunnan vaatimuksesta tuomioistuimen tulee antaa päätös huollosta ja tapaamisoikeudesta siten kuin lapsen huollosta ja tapaamisoikeudesta annetussa laissa (361/83) säädetään.
+Lapsen vanhemman tai hyvinvointialueen vaatimuksesta tuomioistuimen tulee antaa päätös huollosta ja tapaamisoikeudesta siten kuin lapsen huollosta ja tapaamisoikeudesta annetussa laissa (361/1983) säädetään.
