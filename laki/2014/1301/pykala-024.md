@@ -1,13 +1,12 @@
-# 24 § Päihdetyö
+# 24 § Päihde- ja riippuvuustyö
 Luku: 3 luku Sosiaalipalvelut
 
-Päihdetyöllä vähennetään ja poistetaan päihteisiin liittyviä hyvinvointia ja turvallisuutta vaarantavia tekijöitä sekä tuetaan päihteettömyyttä.
+Sosiaalihuollon päihde- ja riippuvuustyöllä tarkoitetaan hyvinvointialueen toteuttamia sosiaalipalveluja ja muuta yksilöön ja yhteisöihin kohdentuvaa toimintaa, jolla vähennetään ja poistetaan päihteisiin ja riippuvuuskäyttäytymiseen liittyviä, hyvinvointia ja turvallisuutta vaarantavia tekijöitä, vastataan päihteiden ongelmakäytöstä tai muusta riippuvuuskäyttäytymisestä aiheutuvaan tuen tarpeeseen sekä tuetaan päihteettömyyttä ja riippuvuuskäyttäytymisestä irrottautumista.
 
-Tässä laissa tarkoitettuun sosiaalihuollon päihdetyöhön kuuluu:
-1) ohjaus ja neuvonta;
-2) päihteiden ongelmakäyttäjille, heidän omaisilleen ja muille läheisilleen suunnatut sosiaalihuollon erityispalvelut;
-3) muut 14 §:n mukaiset päihteettömyyttä tukevat tai päihteiden ongelmakäytön vuoksi tarvittavat sosiaalipalvelut.
+Sosiaalihuollon päihde- ja riippuvuustyöhön kuuluvat neuvonnan ja ohjauksen lisäksi 14 §:ssä tarkoitetut sosiaalipalvelut joko yleisinä sosiaalipalveluina tai päihde- ja riippuvuustyön erityisinä palveluina.
 
 Raskaana olevalla henkilöllä on oikeus saada välittömästi riittävät päihteettömyyttä tukevat sosiaalipalvelut.
 
-Sosiaalihuollossa tehtävä päihdetyö on suunniteltava ja toteutettava siten, että se muodostaa toimivan kokonaisuuden muun hyvinvointialueella tehtävän päihdetyön ja mielenterveystyön kanssa. Hyvinvointialueen vastuusta yhteen sovittaa asiakkaiden sosiaali- ja terveydenhuollon palvelut kokonaisuuksiksi säädetään sosiaali- ja terveydenhuollon järjestämisestä annetun lain (612/2021) 10 §:ssä.
+Palveluja on annettava henkilön, hänen perheensä ja muiden läheistensä 11 §:ssä tarkoitettujen tuen tarpeiden perusteella. Lapsen oikeudesta saada välttämättömät sosiaalipalvelut säädetään 13 §:ssä.
+
+Sosiaalihuollossa tehtävä päihde- ja riippuvuustyö on suunniteltava ja toteutettava siten, että se muodostaa toimivan kokonaisuuden muun sosiaali- ja terveydenhuollon kanssa sekä hyvinvointialueella ja kunnissa tehtävän ehkäisevän päihdetyön kanssa.
