@@ -7,6 +7,6 @@ Jos suostumusta ei voida saada ja potilas on ilmeisen kykenemätön vastaamaan o
 
 Kiireellisessä tilanteessa terveydenhuollon ammattihenkilön on otettava yhteyttä sosiaalipäivystykseen. Edellä 50 §:n 3 momentissa tarkoitetuissa laajoissa ympärivuorokautisissa päivystysyksiköissä ja 4 momentissa tarkoitetuissa perusterveydenhuollon ja erikoissairaanhoidon yhteispäivystyksissä sosiaalipäivystystä on toteutettava terveydenhuollon päivystyksen yhteydessä.
 
-Sosiaalipäivystyksessä potilaalle on tarvittaessa annettava sosiaalihuoltolain 29 §:ssä tarkoitettu kiireellinen ja välttämätön apu ja sosiaalipäivystyksen on tarvittaessa osallistuttava psykososiaalisen tuen antamiseen kiireellisissä tilanteissa.
+Terveydenhuolto toteuttaa psykososiaalista tukea kiireellisissä tilanteissa yhdessä sosiaalipäivystyksen kanssa. Sosiaalipäivystys vastaa kiireellisissä tilanteissa psykososiaalisen tuen ensivaiheen johtamisesta ja yhteen sovittamisesta.
 
-Jatkohoidon turvaamiseksi osana terveydenhuollon päivystystä ja sosiaalipäivystystä on järjestettävä mielenterveys- ja päihdetyön päivystys.
+Mielenterveys- tai päihde- ja riippuvuuspalveluja tarvitsevan potilaan hoidon ja palvelujen jatkuvuus on turvattava osana terveydenhuollon päivystystä ja sosiaalipäivystystä.

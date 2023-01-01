@@ -1,12 +1,12 @@
-# 28 § Päihdetyö
+# 28 § Päihde- ja riippuvuushoito
 Luku: 3 luku Sairaanhoito
 
-Hyvinvointialueen on järjestettävä alueensa asukkaiden terveyden ja hyvinvoinnin edistämiseksi tarpeellinen päihdetyö, jonka tarkoituksena on vahvistaa yksilön ja yhteisön päihteettömyyttä suojaavia tekijöitä sekä vähentää tai poistaa päihteisiin liittyviä terveyttä ja turvallisuutta vaarantavia tekijöitä.
+Hyvinvointialueen on järjestettävä alueensa asukkaiden päihde- ja riippuvuushoito, johon kuuluu:
+1) terveydenhuollon palveluihin sisältyvä ohjaus ja neuvonta, joka koskee päihteettömyyttä ja riippuvuuksilta suojaavia ja niitä vaarantavia tekijöitä sekä päihteisiin ja riippuvuuksiin liittyviä terveyttä ja turvallisuutta vaarantavia tekijöitä; sekä
+2) päihdehäiriöiden ja muiden riippuvuushäiriöiden ehkäiseminen, tutkimus, hoito ja kuntoutus monimuotoisina palveluina.
 
-Tässä laissa tarkoitettuun päihdetyöhön kuuluu:
-1) terveydenhuollon palveluihin sisältyvä ohjaus ja neuvonta, joka koskee päihteettömyyttä suojaavia ja sitä vaarantavia tekijöitä sekä päihteisiin liittyviä terveyttä ja turvallisuutta vaarantavia tekijöitä; sekä
-2) päihteiden aiheuttamien sairauksien tutkimus-, hoito- ja kuntoutuspalvelut.
+Hoitoa on annettava henkilön, hänen perheensä ja muiden läheistensä tuen, hoidon- ja kuntoutustarpeen perusteella.
 
-Terveydenhuollossa tehtävä päihdetyö on suunniteltava ja toteutettava siten, että se muodostaa toimivan kokonaisuuden muun hyvinvointialueella tehtävän päihdetyön ja mielenterveystyön kanssa. Hyvinvointialueen vastuusta sovittaa yhteen asiakkaiden sosiaali- ja terveydenhuollon palvelut kokonaisuuksiksi säädetään sosiaali- ja terveydenhuollon järjestämisestä annetun lain 10 §:ssä.
+Päihde- ja riippuvuushoitoa saavalle potilaalle on turvattava hänen tarvitsemansa terveyden- ja sairaanhoidon kokonaisuus. Päihde- ja riippuvuushoitoa on toteutettava myös perusterveydenhuollon ja erikoissairaanhoidon yhteistyönä. Potilaan siirtyessä hoitoa antavasta yksiköstä toiseen tai sosiaalihuollon laitos- tai asumispalveluihin on turvattava tarpeenmukaisen hoidon jatkuvuus.
 
-Päihdetyöstä säädetään lisäksi päihdehuoltolaissa (41/1986) ja sosiaalihuoltolaissa.
+Päihde- ja riippuvuushoito on suunniteltava ja toteutettava siten, että se muodostaa toimivan kokonaisuuden muun sosiaali- ja terveydenhuollon kanssa sekä hyvinvointialueella ja kunnissa tehtävän ehkäisevän päihdetyön kanssa.

@@ -1,7 +1,7 @@
 # 50 § Kiireellinen hoito
 Luku: 6 luku Hoitoon pääsy
 
-Kiireellinen sairaanhoito, mukaan lukien kiireellinen suun terveydenhuolto, mielenterveyshoito, päihdehoito ja psykososiaalinen tuki on annettava sitä tarvitsevalle potilaalle hänen asuinpaikastaan riippumatta. Kiireellisellä hoidolla tarkoitetaan äkillisen sairastumisen, vamman, pitkäaikaissairauden vaikeutumisen tai toimintakyvyn alenemisen edellyttämää välitöntä arviota ja hoitoa, jota ei voida siirtää ilman sairauden pahenemista tai vamman vaikeutumista.
+Kiireellinen sairaanhoito, mukaan lukien kiireellinen suun terveydenhuolto, mielenterveyden hoito, päihdehoito ja psykososiaalinen tuki on annettava sitä tarvitsevalle potilaalle hänen asuinpaikastaan riippumatta. Kiireellisellä hoidolla tarkoitetaan äkillisen sairastumisen, vamman, pitkäaikaissairauden vaikeutumisen tai toimintakyvyn alenemisen edellyttämää välitöntä arviota ja hoitoa, jota ei voida siirtää ilman sairauden pahenemista tai vamman vaikeutumista. Kiireellisellä hoidolla tarkoitetaan myös päihteiden käytöstä johtuvaa välitöntä vieroitushoidon tarvetta.
 
 Kiireellisen hoidon antamista varten hyvinvointialueen on järjestettävä vastaanottotoiminta siten, että potilas saa arkipäivisin ilmoitettuna aikana välittömästi terveydenhuollon ammattihenkilön arvion ja hoidon kiireellisissä tapauksissa lähellä asuinpaikkaansa, ellei potilasturvallisuuden ja palveluiden laadun turvaaminen edellytä arvion ja hoidon keskittämistä päivystysyksikköön. Hyvinvointialueen on järjestettävä terveydenhuollon ilta-ajan ja viikonlopun päiväaikainen perusterveydenhuollon kiireellinen vastaanottotoiminta silloin, kun palvelujen saavutettavuus sitä edellyttää.
 
