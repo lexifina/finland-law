@@ -1,9 +1,9 @@
 # 36 § Palvelutarpeen arviointi
 Luku: 4 luku Sosiaalihuollon toteuttaminen
 
-Kun kunnallisen sosiaalihuollon palveluksessa oleva on tehtävässään saanut tietää sosiaalihuollon tarpeessa olevasta henkilöstä, hänen on huolehdittava, että henkilön kiireellisen avun tarve arvioidaan välittömästi. Lisäksi henkilöllä on oikeus saada palvelutarpeen arviointi, jollei arvioinnin tekeminen ole ilmeisen tarpeetonta.
+Kun hyvinvointialueen sosiaalihuollon palveluksessa oleva on tehtävässään saanut tietää sosiaalihuollon tarpeessa olevasta henkilöstä, hänen on huolehdittava, että henkilön kiireellisen avun tarve arvioidaan välittömästi. Lisäksi henkilöllä on oikeus saada palvelutarpeen arviointi, jollei arvioinnin tekeminen ole ilmeisen tarpeetonta.
 
-Palvelutarpeen arviointi on aloitettava viipymättä ja saatettava loppuun ilman aiheetonta viivytystä. Arvioinnin tekeminen on aloitettava viimeistään seitsemäntenä arkipäivänä siitä, kun asiakas, asiakkaan omainen tai läheinen tai hänen laillinen edustajansa on ottanut yhteyttä sosiaalipalveluista vastaavaan kunnalliseen viranomaiseen palvelujen saamiseksi, jos:
+Palvelutarpeen arviointi on aloitettava viipymättä ja saatettava loppuun ilman aiheetonta viivytystä. Arvioinnin tekeminen on aloitettava viimeistään seitsemäntenä arkipäivänä siitä, kun asiakas, asiakkaan omainen tai läheinen tai hänen laillinen edustajansa on ottanut yhteyttä sosiaalipalveluista vastaavaan hyvinvointialueen viranomaiseen palvelujen saamiseksi, jos:
 1) henkilö on yli 75-vuotias;
 2) henkilö saa vammaisetuuksista annetun lain (570/2007) 9 §:n 3 momentin 3 kohdan mukaista ylintä hoitotukea.
 

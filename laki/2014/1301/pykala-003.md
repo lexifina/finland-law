@@ -2,7 +2,7 @@
 Luku: 1 luku Yleiset säännökset
 
 Tässä laissa tarkoitetaan:
-1) sosiaalipalveluilla kunnallisia sosiaalipalveluja ja niihin sisältyviä tukipalveluja sekä muita toimia, joilla sosiaalihuollon ammattihenkilöt ja muu asiakastyöhön osallistuva henkilöstö edistävät ja ylläpitävät yksilön, perheen ja yhteisön toimintakykyä, sosiaalista hyvinvointia, turvallisuutta ja osallisuutta;
+1) sosiaalipalveluilla hyvinvointialueen sosiaalipalveluja ja niihin sisältyviä tukipalveluja sekä muita toimia, joilla sosiaalihuollon ammattihenkilöt ja muu asiakastyöhön osallistuva henkilöstö edistävät ja ylläpitävät yksilön, perheen ja yhteisön toimintakykyä, sosiaalista hyvinvointia, turvallisuutta ja osallisuutta;
 2) asiakkaalla sosiaalihuoltoa hakevaa tai käyttävää taikka tahdostaan riippumatta sen kohteena olevaa henkilöä;
 3) erityistä tukea tarvitsevalla henkilöllä ja asiakkaalla henkilöä, jolla on erityisiä vaikeuksia hakea ja saada tarvitsemiaan sosiaali- ja terveyspalveluja kognitiivisen tai psyykkisen vamman tai sairauden, päihteiden ongelmakäytön, usean yhtäaikaisen tuen tarpeen tai muun vastaavan syyn vuoksi ja jonka tuen tarve ei liity korkeaan ikään siten kuin ikääntyneen väestön toimintakyvyn tukemisesta sekä iäkkäiden sosiaali- ja terveyspalveluista annetun lain (980/2012), jäljempänä vanhuspalvelulaki, 3 §:ssä säädetään;
 4) lapsella alle 18-vuotiasta henkilöä;

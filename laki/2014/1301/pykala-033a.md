@@ -7,4 +7,4 @@ Edellä 1 momentissa tarkoitettujen edellytysten täyttyessä voidaan koota yhte
 
 Valtioneuvoston asetuksella säädetään tarvittaessa valtakunnallisesti ja alueellisesti keskitettäviin palveluihin sisältyvistä toimenpiteistä. Valtioneuvoston asetuksella voidaan edellä tässä pykälässä tarkoitettua toiminnan yhteen sovittamista varten nimetä valtakunnallisia toimijoita.
 
-Erikoissairaanhoidon työnjaosta ja keskittämisestä säädetään terveydenhuoltolaissa.
+Erikoissairaanhoidon työnjaosta ja keskittämisestä säädetään terveydenhuoltolaissa. Palvelujen kokoamisesta suurempiin kokonaisuuksiin säädetään myös sosiaali- ja terveydenhuollon järjestämisestä annetun lain 9 §:ssä.

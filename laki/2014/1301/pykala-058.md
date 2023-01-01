@@ -1,6 +1,6 @@
 # 58 § Kiireellisen laitoshuollon järjestäminen
 Luku: 7 luku Erinäiset säännökset
 
-Kiireellisissä tapauksissa tai olosuhteiden muutoin niin vaatiessa kunnan on huolehdittava laitoshuollon ja muiden sosiaalipalveluiden järjestämisestä muullekin kunnassa oleskelevalle henkilölle kuin kunnan asukkaalle.
+Kiireellisissä tapauksissa tai olosuhteiden muutoin niin vaatiessa hyvinvointialueen on huolehdittava laitoshuollon ja muiden sosiaalipalveluiden järjestämisestä muullekin hyvinvointialueen alueella oleskelevalle henkilölle kuin hyvinvointialueen asukkaalle.
 
-Milloin laitoshuollon tarpeen arvioidaan kestävän yli 14 vuorokautta, sosiaalihuollosta vastaavan kunnallisen toimielimen on viipymättä ilmoitettava laitoshuollon järjestämisestä sen kunnan toimielimelle, jolle huollon järjestäminen olisi kuulunut.
+Milloin laitoshuollon tarpeen arvioidaan kestävän yli 14 vuorokautta, sosiaalihuollosta vastaavan hyvinvointialueen on viipymättä ilmoitettava laitoshuollon järjestämisestä sille hyvinvointialueelle, jolle huollon järjestäminen kuuluu.

@@ -10,4 +10,4 @@ Tässä laissa tarkoitettuun sosiaalihuollon päihdetyöhön kuuluu:
 
 Raskaana olevalla henkilöllä on oikeus saada välittömästi riittävät päihteettömyyttä tukevat sosiaalipalvelut.
 
-Sosiaalihuollossa tehtävä päihdetyö on suunniteltava ja toteutettava siten, että se muodostaa toimivan kokonaisuuden muun kunnassa tehtävän päihdetyön ja mielenterveystyön kanssa.
+Sosiaalihuollossa tehtävä päihdetyö on suunniteltava ja toteutettava siten, että se muodostaa toimivan kokonaisuuden muun hyvinvointialueella tehtävän päihdetyön ja mielenterveystyön kanssa. Hyvinvointialueen vastuusta yhteen sovittaa asiakkaiden sosiaali- ja terveydenhuollon palvelut kokonaisuuksiksi säädetään sosiaali- ja terveydenhuollon järjestämisestä annetun lain (612/2021) 10 §:ssä.
