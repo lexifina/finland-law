@@ -1,0 +1,8 @@
+# 5 §
+Luku: 2 luku Lääketieteellinen kuolemansyyn selvittäminen
+
+Sairaanhoitolaitoksessa tai terveyskeskuksessa kuolleen taikka sinne kuolleena tuodun henkilön lääketieteellisen ruumiinavauksen suorittamisesta päättää sairaanhoitolaitoksen tai terveyskeskuksen asianomainen ylilääkäri tai vastaava lääkäri. Toimenpiteeseen on saatava vainajan lähimmän omaisen tai vainajalle muuten läheisen henkilön suostumus. Jos suostumusta ei voida viivytyksettä saada, Terveyden ja hyvinvoinnin laitos voi lääkärin saatettua asian sen ratkaistavaksi antaa luvan ruumiinavauksen suorittamiseen.
+
+Lääketieteellisen ruumiinavauksen suorittamisesta 4 §:n 2 momentissa tarkoitetun hakemuksen johdosta muulle kuin 1 momentissa tarkoitetulle kuolleelle henkilölle päättää sen lääketieteellisiä ruumiinavauksia suorittavan sairaanhoitolaitoksen tai terveyskeskuksen asianomainen ylilääkäri tai vastaava lääkäri, jota ylläpitävän hyvinvointialueen tai HUS-yhtymän alueella henkilöllä oli kuollessaan kotikuntalaissa (201/1994) tarkoitettu kotikunta. Jos kuolleen henkilön asuinpaikkaa ei voida vaikeuksitta selvittää ja jos muut erityiset syyt niin vaativat, päättää asiasta kuolinpaikkaa lähinnä olevan lääketieteellisiä ruumiinavauksia suorittavan sairaanhoitolaitoksen tai terveyskeskuksen asianomainen ylilääkäri tai vastaava lääkäri.
+
+Jos 1 momentissa mainitun lääkärin päätös on kielteinen, mutta sairaanhoitolaitoksessa tai terveyskeskuksessa kuollutta henkilöä hoitanut lääkäri katsoo ruumiinavauksen suorittamisen tarpeelliseksi, on hoitaneella lääkärillä oikeus saattaa asia Terveyden ja hyvinvoinnin laitoksen ratkaistavaksi.
