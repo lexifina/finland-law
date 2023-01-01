@@ -1,0 +1,12 @@
+# 20 § Kudosnäytteiden muuttunut käyttötarkoitus
+Luku: 6 luku Toimintaa koskevat yleiset säännökset
+
+Hoidon tai taudinmäärityksen vuoksi otettuja kudosnäytteitä saa luovuttaa ja käyttää lääketieteelliseen tutkimukseen potilaan suostumuksella. Jos henkilö on alaikäinen tai vajaakykyinen, suostumus tulee saada hänen lailliselta edustajaltaan. Jos suostumusta henkilön kuoleman johdosta ei ole mahdollista hankkia, näytteitä voi käyttää lääketieteelliseen tutkimukseen tai siirtää biopankkilaissa tarkoitettuun biopankkiin lääketieteellisestä tutkimuksesta annetussa laissa tarkoitetun eettisen toimikunnan annettua asiasta myönteisen lausunnon. Jos eettisen toimikunnan lausunto on kielteinen, Lääkealan turvallisuus- ja kehittämiskeskus tekee hakemuksesta asiassa päätöksen. Jos on syytä olettaa, että henkilö eläessään olisi vastustanut näytteidensä tutkimuksellista käyttöä, näytettä ei saa siirtää biopankkiin. Näytteiden siirtämisen ja käsittelyn edellytyksistä säädetään lisäksi biopankkilaissa.
+
+Hoidon, taudinmäärityksen tai kuolemansyyn selvittämisen vuoksi otettuja näytteitä voidaan luovuttaa ja käyttää lääketieteelliseen tutkimukseen, menetelmäkehitykseen, laadunhallintaan ja opetukseen sen terveydenhuollon toimintayksikön tai muun yksikön luvalla, jonka toimintaa varten näyte on otettu, jos näytteitä luovutettaessa tai käytettäessä ei käsitellä henkilötietoja.
+
+Hoidon, taudinmäärityksen tai lääketieteellisen tutkimuksen vuoksi otettuja kudosnäytteitä saadaan luovuttaa ja käyttää toisen ihmisen todetun sairauden perinnöllisyyden selvittämiseen vain, jos se, josta näyte on otettu, antaa siihen suostumuksensa. Jos henkilö on alaikäinen tai vajaakykyinen, suostumus tulee saada hänen lailliselta edustajaltaan. Jos henkilö on kuollut tai kyse on kuolemansyyn selvittämisen vuoksi otetusta kudosnäytteestä, kudosnäytteen luovuttamisesta päättää se terveydenhuollon toimintayksikkö tai muu yksikkö, jonka toimintaa varten kudosnäyte on otettu, jollei vainaja ole tätä eläessään kieltänyt.
+
+Hoidon, taudinmäärityksen, kuolemansyyn selvittämisen tai lääketieteellisen tutkimuksen vuoksi otettuja näytteitä voidaan luovuttaa biologisten vanhempien selvittämistä varten tuomioistuimen tai muun viranomaisen määräämälle tutkimuslaitokselle tai kuolleen tunnistamista varten poliisiviranomaiselle.
+
+Hoidon, taudinmäärityksen tai kuolemansyyn selvittämisen vuoksi otettuja kudosnäytteitä ei saa luovuttaa tai käyttää muuhun tarkoitukseen kuin mihin ne on otettu, jos se haittaa kudosnäytteiden alkuperäisen käyttötarkoituksen toteuttamista.

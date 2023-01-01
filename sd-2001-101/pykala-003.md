@@ -1,0 +1,8 @@
+# 3 § Luovuttajan suostumus
+Luku: 2 luku Elimien, kudoksien ja solujen irrottaminen elävältä luovuttajalta elinsiirtotoimintaa varten
+
+Elimen, kudoksen tai solujen irrottamiselle tulee olla luovuttajan kirjallinen, tietoon perustuva suostumus. Luovuttajalla on oikeus syytä ilmoittamatta peruuttaa suostumuksensa milloin tahansa ennen elimen, kudoksen tai solujen irrottamista.
+
+Luovuttajalle on ennen hänen kirjallisen suostumuksensa antamista annettava selvitys irrotuksen merkityksestä ja riskeistä hänelle itselleen ja vastaanottajalle, mahdollisesti tehtävistä analyyttisista tutkimuksista ja niiden tuloksista, luovuttajan tietojen rekisteröinnistä ja tietosuojasta, luovuttajan suojaamiseksi sovellettavista turvatoimista sekä siitä, että luovuttaja voi peruuttaa suostumuksensa milloin tahansa ennen irrotusta. Luovuttajaa hoitavan lääkärin, joka osallistuu irrotuksesta päättämiseen, on annettava selvitys henkilökohtaisesti luovuttajalle.
+
+Jos luovuttaja on alaikäinen taikka sellainen täysi-ikäinen, joka ei sairauden, mielenterveyden häiriön tai muun syyn takia kykene päättämään hoidostaan (vajaakykyinen), irrottamiseen tulee olla hänen laillisen edustajansa kirjallinen suostumus. Elintä, kudosta tai soluja ei kuitenkaan saa irrottaa, jos henkilö itse sitä vastustaa. Luovuttajaa hoitavan lääkärin, joka osallistuu irrotuksesta päättämiseen, on annettava 2 momentissa säädetty selvitys henkilökohtaisesti luovuttajan lailliselle edustajalle. Lääkärin tulee selvittää myös alaikäisen tai vajaakykyisen luovuttajan mielipide siinä määrin kuin se on mahdollista luovuttajan ikä ja kehitystaso huomioon ottaen.

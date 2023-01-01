@@ -1,0 +1,8 @@
+# 18 § Korvaukset ja taloudellisen hyödyn tavoittelun kielto
+Luku: 6 luku Toimintaa koskevat yleiset säännökset
+
+Tässä laissa säädetystä elimen, kudoksen tai solujen irrottamisesta ja käytöstä sekä ruumiin luovuttamisesta ei saa luvata eikä suorittaa luovuttajalle tai hänen oikeudenomistajalleen palkkiota. Elinten tarvetta tai saatavuutta koskeva mainonta on kielletty, jos sen tarkoituksena on tarjota tai hankkia taloudellista hyötyä tai siihen verrattavaa etua.
+
+Elintärkeään siirrontarpeeseen perustuvan tässä laissa tarkoitetun elimen, kudoksen tai solujen luovuttajalla on elimen, kudoksen tai solujen irrottamisen ja siihen liittyvien välttämättömien tutkimusten aiheuttaman ansionmenetyksen korvaamiseksi oikeus saada päivärahaa siten kuin sairausvakuutuslaissa (1224/2004) säädetään. Päivärahaa suoritetaan sairausvakuutuslain 8 luvun 7 §:n estämättä kaikilta arkipäiviltä. Jos työnantaja maksaa palkan työkyvyttömyysajalta, siirtyy oikeus päivärahaan siten kuin sairausvakuutuslain 7 luvun 4 §:n 2 momentissa säädetään.
+
+Elimien, kudoksien tai solujen irrottamiseen, talteenottoon, varastointiin tai käyttöön osallistuva terveydenhuollon toimintayksikkö tai muu yksikkö taikka kudoslaitos ei saa tavoitella tässä laissa säädetystä toiminnasta taloudellista hyötyä. Terveydenhuollon toimintayksikkö tai muu yksikkö taikka kudoslaitos voi kuitenkin periä korvausta elimien, kudoksien tai solujen käsittelystä, kuljettamisesta, turvallisuuden varmistamiseksi tarpeellisten tutkimusten suorittamisesta ja varastoinnista toiselta terveydenhuollon yksiköltä tai kudoslaitokselta. Näistä perittävä maksu saa olla enintään palvelun tuottamisesta aiheutuvien kustannusten suuruinen.
