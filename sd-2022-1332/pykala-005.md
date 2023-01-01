@@ -1,0 +1,5 @@
+# 5 § Maataloustoiminta
+
+Maataloustoimintaan kuuluu sekä suunnitelma-asetuksen 4 artiklan 2 kohdan a alakohdassa tarkoitettu maataloustuotteiden tuottaminen että suunnitelma-asetuksen 4 artiklan 2 kohdan b alakohdassa tarkoitettu maatalousmaan säilyttäminen. Maataloustuotteiden tuottamisella tarkoitetaan kasvien kasvattamista alkutuotannossa pelto- tai puutarhaviljelyn menetelmin tai tuotantoeläinten pitoa. Maatalousmaan säilyttämisellä tarkoitetaan 2 §:n 10 kohdassa tarkoitetun maatalousmaan hoitamista siten, että se pysyy avoimena. Muu kuin maataloustuotteiden tuottamiseen käytettävä maatalousmaa on niitettävä vuosittain tai se on pidettävä avoimena laiduntamalla tai muulla vastaavalla tavalla.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä maataloustuotteiden tuottamisesta, maatalousmaasta ja sen säilyttämisestä, maatalousmaan käyttämisestä muuhun kuin maataloustoimintaan, maatalousmaata olevista pelloista, pysyvistä nurmista ja pysyvistä kasveista, maatalousmaalla olevista maisemapiirteistä, maatalousmaan perus- ja kasvulohkojen määrittelystä, yhdistämisestä ja vähimmäiskoosta.

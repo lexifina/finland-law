@@ -1,0 +1,5 @@
+# 9 § Suorien viljelijätukien maksamisen yleiset edellytykset
+
+Edellä 4 §:ssä tarkoitettuja tukia ei makseta, jos maksettavien tukien yhteismäärä tukivuonna on alle 500 euroa.
+
+Tuen maksamisen edellytyksenä on, että tiettyjen Euroopan unionin ja kansallisten maatalouden tukien toimeenpanosta annetun lain (1334/2022) 20 §:ssä tarkoitettu hallinnollinen tarkastus on tehty tarkastettavissa olevista tukiehdoista ennen yhteisen maatalouspolitiikan rahoituksesta, hallinnoinnista ja seurannasta sekä asetuksen (EU) N:o 1306/2013 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2021/2116 44 artiklan 2 kohdassa tarkoitetun ennakon tai ensimmäisen erän maksamista. Tuen maksamisen edellytyksenä on lisäksi, että mainitun lain 21 §:ssä tarkoitetun pinta-alamonitoroinnin alustavien tulosten tulee olla käytettävissä ennen ennakon maksamista ja valmiina ennen ensimmäisen erän maksamista. Jos maatilaan kohdistuu paikan päällä tehtävä valvonta, paikan päällä tehtävän valvonnan tulee olla maatilan osalta loppuun suoritettu ennen ensimmäisen erän maksua.
