@@ -1,0 +1,5 @@
+# 8 § Vuorokautinen ylityö
+
+Työntekijä on korvausta vastaan velvollinen tekemään ylityötä 4 §:n 1 momentissa säädetyn vuorokautisen säännöllisen työajan lisäksi enintään 16 tuntia viikossa. Työaika vuorokaudessa saa olla kuitenkin enintään 14 tuntia. Näistä enimmäisajoista työ- ja elinkeinoministeriö voi yksittäistapauksissa myöntää poikkeuksia varattuaan merimiesasiain neuvottelukunnalle tilaisuuden lausunnon antamiseen. Poikkeusluvan ehtoina on, että ylityö tehdään työntekijän suostumuksella ja että on sovittu aluksessa noudatettavasta 18 §:ssä tarkoitetusta vuorottelujärjestelmästä tai työaika tasoitetaan kolmen kuukauden aikana vastaamaan edellä säädettyjä enimmäismääriä.
+
+Milloin työ on järjestetty kahteen vuoroon, on työntekijä 1 momentissa säädetystä poiketen velvollinen tekemään vuorokautista ylityötä enintään 28 tuntia viikossa ja tämän lisäksi suostumuksensa mukaisesti enintään 7 tuntia viikossa, jos hänellä on oikeus säännöllisesti enintään 30 päivän välein toistuviin vapaa-aikajaksoihin. Vapaa-aikajakson on oltava vähintään 7 vuorokauden pituinen ja siihen tulee sisältyä kokonainen viikonloppu.
