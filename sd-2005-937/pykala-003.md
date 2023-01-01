@@ -1,6 +1,6 @@
 # 3 § Tuen myöntämisedellytykset
 
-Kunta voi myöntää omaishoidon tukea, jos:
+Hyvinvointialue voi myöntää omaishoidon tukea, jos:
 1) henkilö alentuneen toimintakyvyn, sairauden, vamman tai muun vastaavanlaisen syyn vuoksi tarvitsee kotioloissa hoitoa tai muuta huolenpitoa;
 2) hoidettavan omainen tai muu hoidettavalle läheinen henkilö on valmis vastaamaan hoidosta ja huolenpidosta tarpeellisten palveluiden avulla;
 3) hoitajan terveys ja toimintakyky vastaavat omaishoidon asettamia vaatimuksia;

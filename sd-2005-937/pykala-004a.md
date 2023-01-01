@@ -1,6 +1,6 @@
 # 4 a § Sijaishoito omaishoitajan vapaan ja muun poissaolon aikana
 
-Kunta voi järjestää omaishoitajan vapaan tai muun tilapäisen poissaolon ajaksi tarvittavan sijaishoidon tekemällä 3 §:n 3 kohdassa säädetyt edellytykset täyttävän henkilön kanssa toimeksiantosopimuksen, jolla tämä sitoutuu huolehtimaan sijaishoidosta. Sijaishoito voidaan järjestää edellä tarkoitetulla tavalla, jos omaishoitaja suostuu siihen. Lisäksi edellytyksenä on, että järjestely toteutetaan ottamalla huomioon hoidettavan henkilön mielipide ja että järjestely arvioidaan hoidettavan henkilön edun mukaiseksi.
+Hyvinvointialue voi järjestää omaishoitajan vapaan tai muun tilapäisen poissaolon ajaksi tarvittavan sijaishoidon tekemällä 3 §:n 3 kohdassa säädetyt edellytykset täyttävän henkilön kanssa toimeksiantosopimuksen, jolla tämä sitoutuu huolehtimaan sijaishoidosta. Sijaishoito voidaan järjestää edellä tarkoitetulla tavalla, jos omaishoitaja suostuu siihen. Lisäksi edellytyksenä on, että järjestely toteutetaan ottamalla huomioon hoidettavan henkilön mielipide ja että järjestely arvioidaan hoidettavan henkilön edun mukaiseksi.
 
 Sijaishoitajan kanssa tehtävässä toimeksiantosopimuksessa sovitaan:
 1) sijaishoitajalle maksettavan hoitopalkkion määrästä ja maksutavasta;

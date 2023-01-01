@@ -1,3 +1,3 @@
 # 11 § Palvelun järjestäjä
 
-Omaishoidon tuen järjestämisestä vastaa se kunta, joka sosiaalihuoltolain (710/1982) 3 luvun mukaan on velvollinen järjestämään hoidettavalle sosiaalipalveluja.
+Omaishoidon tuen järjestämisestä vastaa se hyvinvointialue, joka on sosiaali- ja terveydenhuollon järjestämisestä annetun lain (612/2021) 8 §:n mukaan velvollinen järjestämään hoidettavalle sosiaalipalveluja.

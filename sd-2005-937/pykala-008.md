@@ -1,6 +1,6 @@
 # 8 § Omaishoitosopimus
 
-Omaishoidon tuesta laaditaan omaishoitajan ja kunnan välillä sopimus, jonka liitteenä on oltava hoito- ja palvelusuunnitelma.
+Omaishoidon tuesta laaditaan omaishoitajan ja hyvinvointialueen välillä sopimus, jonka liitteenä on oltava hoito- ja palvelusuunnitelma.
 
 Omaishoitosopimuksen tulee sisältää tiedot ainakin:
 1) hoitopalkkion määrästä ja maksutavasta;
