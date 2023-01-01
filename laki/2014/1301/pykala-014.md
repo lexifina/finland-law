@@ -32,8 +32,7 @@ Hyvinvointialueen järjestämisvastuulle kuuluvina sosiaalipalveluina on huolehd
 10) adoptiolaissa (22/2012);
 11) avioliittolaissa (234/1929);
 12) laissa lapsen huollosta ja tapaamisoikeudesta (361/1983)
-13) isyyslaissa (11/2015);
-13 a) äitiyslaissa (253/2018);
+13) vanhemmuuslaissa (775/2022);
 14) lapsen elatuksesta annetussa laissa (704/1975)
 15) lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta annetussa laissa (619/1996);
 17) perhehoitolaissa (263/2015).
