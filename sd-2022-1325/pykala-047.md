@@ -1,0 +1,6 @@
+# 47 § Tarkastusoikeus
+Luku: 9 luku Tarkastus
+
+Maa- ja metsätalousministeriö ja Ruokavirasto voivat suorittaa tuen myöntämiseen, maksamiseen ja käyttöön liittyvien edellytysten ja ehtojen noudattamisen valvomiseksi toimeenpanosta vastaaviin viranomaisiin ja tuen saajiin kohdistuvia tarkastuksia. Vastaava oikeus on tuen saajien osalta elinkeino-, liikenne- ja ympäristökeskuksilla sekä hallinnointilain 12 §:ssä tarkoitetulla todentamisviranomaisella siltä osin kuin hallinnointilain 4 §:n 1 momentin 3 kohdassa tarkoitetussa horisontaaliasetuksessa tai sen nojalla säädetään. Jos tukea on tämän lain 24 §:ssä tarkoitetulla tavalla siirretty muulle taholle, on edellä mainituilla viranomaisilla ja todentamisviranomaisella oikeus tarkastaa myös tämän taloutta ja toimintaa tuen myöntämiseen, maksamiseen ja käyttöön liittyvien edellytysten ja ehtojen noudattamisen valvomiseksi. Jos tuen kohteena oleva toiminta tai tuetun investoinnin kohde on luovutettu ilman, että tukea on samalla siirtynyt, mainituilla viranomaisilla ja todentamisviranomaisella on oikeus tarkastaa luovutettu toiminta tai kohde luovutuksensaajan luona.
+
+Euroopan unionin varoista osaksi tai kokonaan taikka valtiontukena myönnettyä tukea koskeva tarkastusoikeus on myös Euroopan unionin toimielimellä siten kuin asiasta Euroopan unionin lainsäädännössä säädetään.
