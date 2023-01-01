@@ -1,0 +1,2 @@
+Laki valtion rahoituksesta kansallisille taidelaitoksille
+Eduskunnan päätöksen mukaisesti säädetään:
