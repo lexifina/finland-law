@@ -1,0 +1,2 @@
+Laki siviilihenkilöiden osallistumisesta kriisinhallintaan
+Eduskunnan päätöksen mukaisesti säädetään:

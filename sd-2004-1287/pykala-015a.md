@@ -1,0 +1,4 @@
+# 15 a § Asunto-, koulutus- ja päivähoitokorvausten toissijaisuus
+Luku: 2 luku Palvelussuhteessa olevan oikeudet ja velvollisuudet
+
+Palvelussuhteeseen otetulla on oikeus saada asunto-, koulutus- ja päivähoitokorvaukset vain siltä osin kuin puolisolla ei ole oikeutta vastaavien etuuksien saamiseen muulta työnantajalta. Jos palvelussuhteeseen otettu ja hänen puolisonsa ovat molemmat tässä laissa tarkoitetussa palvelussuhteessa ja heidät on määrätty samalle sihteeristön sijaintipaikalle, asunto-, koulutus- ja päivähoitokorvaukset maksetaan puolisoille puoliksi. Jos palvelussuhteeseen otetun puoliso on määrätty samalle sihteeristön sijaintipaikalle ulkomaanedustuksen korvauksista annetussa laissa (596/2006) tarkoitettuna ulkoasiainhallinnon virkamiehenä, asunto-, koulutus- ja päivähoitokorvaukset maksetaan sen puolison mukaan, jonka korvaus on suurempi.
