@@ -1,8 +1,8 @@
 # 1 § Lain soveltamisala ja suhde muuhun lainsäädäntöön
 
 Tätä lakia sovelletaan kiinteistön hankintaan Suomen valtion alueelta, jos luovutuksensaajana on:
-1) muualla kuin Euroopan unionin jäsenvaltion tai Euroopan talousalueeseen kuuluvan valtion alueella kotipaikkaansa pitävä yhteisö tai muun kuin Euroopan unionin jäsenvaltion tai Euroopan talousalueeseen kuuluvan valtion kansalainen;
-2) yhteisö, jolla on kotipaikka Euroopan unionin jäsenvaltion tai Euroopan talousalueeseen kuuluvan valtion alueella, mutta jossa 1 kohdassa tarkoitetulla luonnollisella henkilöllä tai yhteisöllä on vähintään yksi kymmenesosa osakeyhtiön kaikkien osakkeiden yhteenlasketusta äänimäärästä tai vastaava tosiasiallinen vaikutusvalta.
+1) muualla kuin Euroopan unionin jäsenvaltion tai Euroopan talousalueeseen kuuluvan valtion alueella kotipaikkaansa pitävä yhteisö tai muun kuin Euroopan unionin jäsenvaltion tai Euroopan talousalueeseen kuuluvan valtion kansalainen taikka henkilö, jolla ei ole kansalaisuutta, jonka kansalaisuus on tuntematon tai jonka kansalaisuutta ei ole luotettavasti todennettu;
+2) yhteisö, jolla on kotipaikka Euroopan unionin jäsenvaltion tai Euroopan talousalueeseen kuuluvan valtion alueella, mutta jossa 1 kohdassa tarkoitetulla luonnollisella henkilöllä tai yhteisöllä on vähintään yksi kymmenesosa osakeyhtiön kaikkien osakkeiden yhteenlasketusta äänimäärästä tai vastaava tosiasiallinen vaikutusvalta taikka sitä vastaava vaikutusvalta muussa yhteisössä tai liikkeessä.
 
 Laskettaessa 1 momentin 2 kohdassa tarkoitettua ääniosuutta osakeyhtiön osakkeiden yhteenlasketusta äänimäärästä otetaan huomioon myös osakkeet:
 1) jotka kuuluvat luovutuksensaajan kanssa samaan konserniin kuuluvalle yritykselle;
