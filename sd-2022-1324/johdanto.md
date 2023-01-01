@@ -1,0 +1,2 @@
+Laki yhteisen maatalouspolitiikan strategiasuunnitelman hallinnoinnista
+Eduskunnan päätöksen mukaisesti säädetään:
