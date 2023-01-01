@@ -1,0 +1,6 @@
+# 32 b § Valtionavustustoiminnan tietojen tallentaminen ja toimittaminen
+Luku: 6 a luku Valtionavustustoiminnan tietovaranto
+
+Valtionapuviranomaisen tai lain nojalla muun valtionavustuksia myöntävän, joka käyttää 32 a §:n 1 momentin 3 kohdassa tarkoitettua valtionavustusten käsittelyn ja hallinnoinnin palvelua, tulee tallentaa valtionavustustoiminnan tietovarantoon 32 a §:n 2 momentissa tarkoitetut tiedot. Muussa tapauksessa valtionapuviranomaisen tai lain nojalla muun valtionavustuksia myöntävän tulee toimittaa valtionavustustoiminnan vähimmäistiedot Valtiokonttorille valtionavustustoiminnan tietovarantoon tallennettaviksi.
+
+Tietovarantoon tallennettaviksi toimitettavia tietoja ovat valtionavustuksen hakijana ja saajana olevan luonnollisen henkilön nimi ja henkilötunnus sekä valtionavustuksen käyttötarkoitus ja valtionavustuksen käytön alueellinen kohdentuminen. Muista tietovarantoon tallennettaviksi toimitettavista valtionavustushakuja ja niiden osoitetietoja, valtionavustushakemusten ja -päätösten yksilöintiä, valtionavustusasiaa, valtionavustuksen hakijaa ja saajaa ja valtionavustuspäätöstä koskevista vähimmäistiedoista sekä niiden toimittamisajasta ja toimittamistavasta säädetään valtioneuvoston asetuksella.

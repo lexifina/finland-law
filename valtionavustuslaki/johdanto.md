@@ -1,0 +1,2 @@
+Valtionavustuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
