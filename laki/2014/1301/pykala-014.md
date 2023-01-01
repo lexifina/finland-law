@@ -6,18 +6,23 @@ Hyvinvointialueen järjestämisvastuulle kuuluvina sosiaalipalveluina on järjes
 2) sosiaaliohjausta;
 3) sosiaalista kuntoutusta;
 4) perhetyötä;
-5) kotipalvelua;
-6) kotihoitoa;
-7) asumispalveluja;
-8) laitospalveluja;
-9) liikkumista tukevia palveluja;
-10) päihdetyötä;
-11) mielenterveystyötä;
-12) kasvatus- ja perheneuvontaa;
-13) lapsen ja vanhemman välisten tapaamisten valvontaa;
-13 a) omaistaan ja läheistään hoitavan henkilön vapaata;
-13 b) opiskeluhuollon kuraattoripalveluja;
-14) muita 11 §:n mukaisiin tarpeisiin vastaavia asiakkaan hyvinvoinnille välttämättömiä sosiaalipalveluja.
+5) lapsiperheen kotipalvelua;
+6) tukipalveluja;
+7) kotihoitoa;
+8) tilapäistä asumista;
+9) tuettua asumista;
+10) yhteisöllistä asumista;
+11) ympärivuorokautista palveluasumista;
+12) laitospalveluja;
+13) liikkumista tukevia palveluja;
+14) päihdetyötä;
+15) mielenterveystyötä;
+16) kasvatus- ja perheneuvontaa;
+17) lapsen ja vanhemman välisten tapaamisten valvontaa;
+18) omaistaan ja läheistään hoitavan henkilön vapaata;
+19) opiskeluhuollon kuraattoripalveluja.
+
+Hyvinvointialue voi lisäksi järjestää muita kuin 1 momentissa tarkoitettuja 11 §:n mukaisiin tarpeisiin vastaavia sosiaalipalveluja.
 
 Hyvinvointialueen järjestämisvastuulle kuuluvina sosiaalipalveluina on huolehdittava myös kehitysvammaisten erityishuollosta, vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista, toimeentulotuen antamisesta hyvinvointialueella oleskelevalle henkilölle, sosiaalisen luoton myöntämisestä hyvinvointialueen asukkaille, kuntouttavasta työtoiminnasta, päihdyttävien aineiden väärinkäyttäjien huoltoon kuuluvista palveluista, omaishoidon tuen, perhehoidon, lasten ja nuorten huollon, lastensuojelun, adoptioneuvonnan, perheasioiden sovittelun, lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen vahvistamiseen ja ratkaisemiseen liittyvien tehtävien sekä päätösten täytäntöönpanossa toimitettavaan sovitteluun kuuluvien toimenpiteiden ja lapsen huoltoa ja tapaamisoikeutta koskevan asian tuomioistuinsovitteluun kuuluvien asiantuntijapalveluiden sekä isyyden ja äitiyden selvittämiseen ja vahvistamiseen liittyvien tehtävien järjestämisestä sen mukaan kuin niistä lisäksi erikseen säädetään:
 1) vammaisuuden perusteella järjestettävistä palveluista ja tukitoimista annetussa laissa (380/1987);

@@ -1,10 +1,13 @@
-# 19 § Kotipalvelu
+# 19 § Tukipalvelut
 Luku: 3 luku Sosiaalipalvelut
 
-Kotipalvelulla tarkoitetaan asumiseen, hoitoon ja huolenpitoon, toimintakyvyn ylläpitoon, lasten hoitoon ja kasvatukseen, asiointiin sekä muihin jokapäiväiseen elämään kuuluvien tehtävien ja toimintojen suorittamista tai niissä avustamista.
+Tukipalveluilla tarkoitetaan palveluja, joilla luodaan ja ylläpidetään henkilön kodissa sellaisia olosuhteita, että hän voi suoriutua jokapäiväiseen elämään kuuluvista toiminnoista mahdollisimman itsenäisesti, sekä palveluja, joiden avulla henkilö voi saada hyvinvointia tuottavaa sisältöä elämäänsä.
 
-Kotipalvelua annetaan sairauden, synnytyksen, vamman tai muun vastaavanlaisen toimintakykyä alentavan syyn tai erityisen perhe- tai elämäntilanteen perusteella niille henkilöille, jotka tarvitsevat apua selviytyäkseen 1 momentissa tarkoitetuista tehtävistä ja toiminnoista.
+Tukipalveluina järjestetään henkilön yksilöllisen tarpeen mukaan:
+1) ateriapalvelua;
+2) vaatehuoltopalvelua;
+3) siivouspalvelua;
+4) asiointipalvelua;
+5) osallisuutta ja sosiaalista kanssakäymistä edistävää tai tukevaa palvelua.
 
-Kotipalveluun sisältyvinä tukipalveluina annetaan ateria-, vaatehuolto- ja siivouspalveluja sekä sosiaalista kanssakäymistä edistäviä palveluja.
-
-Lapsiperheellä on oikeus saada perheen huolenpitotehtävän turvaamiseksi välttämätön kotipalvelu, jos lapsen hyvinvoinnin turvaaminen ei ole mahdollista 2 momentissa mainittujen syiden vuoksi.
+Tukipalveluja järjestetään henkilölle, joka tarvitsee niitä sillä perusteella, että hänen toimintakykynsä on alentunut korkean iän, sairauden, vamman tai muun vastaavan syyn vuoksi. Lisäksi tukipalveluja järjestetään henkilölle, joka tarvitsee niitä erityisen perhe- tai elämäntilanteen perusteella.
