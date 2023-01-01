@@ -1,0 +1,2 @@
+Meripelastuslaki
+Eduskunnan päätöksen mukaisesti säädetään:

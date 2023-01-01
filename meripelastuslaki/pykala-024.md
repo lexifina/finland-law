@@ -1,0 +1,3 @@
+# 24 § Merenkulun turvallisuusradioviestinnän vastuuviranomaiset
+
+Rajavartiolaitos vastaa 3 §:ssä säädettyjen tehtävien lisäksi meripelastustoimen vaaratilanteiden radioviestinnästä ja siihen liittyvän valmiuden ylläpitämisestä. Liikenne- ja viestintävirasto vastaa merenkulun turvallisuuteen liittyvistä varoitussanomista ja tiedotteista sekä Saimaan alueen hätäradioliikenteestä. Liikenne- ja viestintävirasto järjestää merenkulun turvallisuuteen liittyvien varoitussanomien ja tiedotteiden sekä Saimaan alueen hätäradioliikenteen operatiivisen ylläpidon itse tai hankkii sen alusliikennepalvelun tarjoajalta.
