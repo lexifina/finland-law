@@ -5,6 +5,6 @@ Jos työntekijä haluaa muista sosiaalisista tai terveydellisistä syistä kuin 
 
 Työnantajan ja työntekijän on tehtävä 1 momentissa tarkoitetusta osa-aikatyöstä määräaikainen enintään 26 viikkoa kerrallaan voimassa oleva sopimus, josta käy ilmi ainakin vuorokautisen ja viikoittaisen työajan pituus.
 
-Jos työntekijä siirtyäkseen osittaiselle varhennetulle vanhuuseläkkeelle tai osatyökyvyttömyyseläkkeelle haluaa tehdä säännöllistä työaikaa lyhyemmän ajan työtä, työnantajan on ensisijaisesti järjestettävä työt niin, että työntekijä voi tehdä osa-aikatyötä. Työajan lyhentäminen toteutetaan työnantajan ja työntekijän sopimalla tavalla ottaen huomioon työntekijän tarpeet sekä työnantajan tuotanto- ja palvelutoiminta.
+Työntekijän pyynnöstä työnantajan on ensisijaisesti järjestettävä työt niin, että työntekijä voi lyhentää säännöllistä työaikaansa siirtyäkseen osittaiselle varhennetulle vanhuuseläkkeelle tai osatyökyvyttömyyseläkkeelle taikka tehdäkseen osittaisen sairauspoissaolon aikana osa-aikatyötä. Vastaavasti työnantajan on järjestettävä työt osa-aikatyön mahdollistavalla tavalla silloin, kun 55 vuotta täyttänyt, työnantajan palveluksessa vähintään kolme vuotta ollut työntekijä haluaa lyhentää säännöllistä työaikaansa. Työajan lyhentäminen toteutetaan työnantajan ja työntekijän sopimalla tavalla ottaen huomioon työntekijän tarpeet sekä työnantajan tuotanto- ja palvelutoiminta.
 
 Työnantajan on kieltäytyessään 1 tai 3 momentin mukaisen osa-aikatyön järjestämisestä perusteltava kieltäytymisensä.
