@@ -2,7 +2,7 @@
 Luku: 5 luku Tietojen saaminen ja luovuttaminen
 
 Kansaneläkelaitoksella ja tämän lain mukaisella muutoksenhakuelimellä on oikeus salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä pyynnöstä saada maksutta tiedot, jotka ovat välttämättömiä tässä laissa säädettyjen tehtävien toimeenpanemiseksi:
-1) valtion ja kunnan viranomaiselta sekä muulta julkisoikeudelliselta yhteisöltä;
+1) valtion ja hyvinvointialueen viranomaiselta sekä muulta julkisoikeudelliselta yhteisöltä;
 2) tulkkauspalvelun välitystä Kansaneläkelaitoksen kanssa solmimansa sopimuksen perusteella suorittavalta palveluntuottajalta;
 3) oppilaitokselta tai koulutuksen järjestäjältä;
 4) työnantajalta;
