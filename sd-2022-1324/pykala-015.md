@@ -1,0 +1,8 @@
+# 15 § Paikallinen toimintaryhmä
+Luku: 3 luku Viranomaiset ja muut toimielimet
+
+Paikallisen toimintaryhmä toteuttaa yleisasetuksen 31 artiklan mukaista yhteisölähtöistä paikallista kehittämistä ja vastaa yleisasetuksen 33 artiklassa tarkoitettujen tehtävien hoitamisesta ja osallistuu suunnitelma-asetuksessa tarkoitettujen tehtävien hoitamiseen sen mukaan kuin siitä erikseen lailla säädetään.
+
+Paikallinen toimintaryhmän tulee olla rekisteröity oikeushenkilö, jolla on riittävät toiminnalliset, taloudelliset ja hallinnolliset edellytykset paikallisen toimintaryhmän tehtävien hoitamiseksi. Paikallisen toimintaryhmän jäsenistön on edustettava laaja-alaisesti sen toimialueen paikallisia toimijoita, ja sen toiminnan on oltava avointa kaikille. Paikallisessa toimintaryhmässä ovat edustettuina ainakin paikallisen maaseudun kehittämisen kannalta tärkeät viranomaiset, yhdistykset ja paikallisen kehittämisstrategian toteutusalueen asukkaat. Paikallisen toimintaryhmän hallituksessa on oltava tasapuolisesti edustettuina sen toimialueen kuntien, yksityisoikeudellisten yhteisöjen tai säätiöiden edustajat ja paikallisen väestön edustajat.
+
+Menettelystä, jota paikallinen toimintaryhmä noudattaa hoitaessaan sille säädettyjä tehtäviä, säädetään hallintolaissa, kielilaissa, saamen kielilaissa, viranomaisten toiminnan julkisuudesta annetussa laissa ja sähköisestä asioinnista viranomaistoiminnassa annetussa laissa. Paikallisen toimintaryhmän päätöksentekoon osallistuvien ja sen palveluksessa olevien henkilöiden toimintaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä heidän hoitaessaan paikalliselle toimintaryhmälle säädettyjä tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.

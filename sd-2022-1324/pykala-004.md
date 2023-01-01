@@ -1,0 +1,9 @@
+# 4 § Määritelmät
+Luku: 1 luku Yleiset säännökset
+
+Tässä laissa tarkoitetaan:
+1) suunnitelmalla suunnitelma-asetuksen 104 artiklassa tarkoitettua yhteisen maatalouspolitiikan strategiasuunnitelmaa, jonka toimenpiteet rahoitetaan joko Euroopan unionin ja kansallisista varoista taikka kokonaan kansallisista tai kokonaan Euroopan unionin varoista;
+2) suunnitelma-asetuksella jäsenvaltioiden yhteisen maatalouspolitiikan nojalla laadittavien, Euroopan maatalouden tukirahastosta (maataloustukirahasto) ja Euroopan maaseudun kehittämisen maatalousrahastosta (maaseuturahasto) rahoitettavien strategiasuunnitelmien (YMP:n strategiasuunnitelmat) tukea koskevista säännöistä sekä asetusten (EU) N:o 1305/2013 ja (EU) N:o 1307/2013 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2021/2115;
+3) horisontaaliasetuksella yhteisen maatalouspolitiikan rahoituksesta, hallinnoinnista ja seurannasta sekä asetuksen (EU) N:o 1306/2013 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2021/2116;
+4) välittävällä toimielimellä sellaista julkis- tai yksityisoikeudellista elintä, joka toimii kansallisen tai alueellisen hallintoviranomaisen alaisuudessa tai hoitaa tehtäviä tällaisen viranomaisen puolesta; ja
+5) paikallisella toimintaryhmällä Euroopan aluekehitysrahastoa, Euroopan sosiaalirahasto plussaa, koheesiorahastoa, oikeudenmukaisen siirtymän rahastoa ja Euroopan meri-, kalatalous- ja vesiviljelyrahastoa koskevista yhteisistä säännöksistä ja varainhoitosäännöistä sekä turvapaikka-, maahanmuutto- ja kotouttamisrahastoa, sisäisen turvallisuuden rahastoa ja rajaturvallisuuden ja viisumipolitiikan rahoitusvälinettä koskevista varainhoitosäännöistä annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2021/1060 (yleisasetus) 33 artiklassa tarkoitettua paikalliseen maaseudun kehittämiseen osallistuvista tahoista koostuvaa yhteisöä (Leader-ryhmä), jonka maa- ja metsätalousministeriö on hyväksynyt.
