@@ -1,7 +1,7 @@
 # 7 § Maakunnan liitto
 Luku: 2 luku Viranomaiset ja niiden tehtävät
 
-Jokaisessa maakuntajakolaissa tarkoitetussa maakunnassa on oltava maakunnan liitto. Alueen kuntien on oltava alueensa maakunnan liiton jäseniä.
+Jokaisessa hyvinvointialue- ja maakuntajakolaissa tarkoitetussa maakunnassa on oltava maakunnan liitto. Alueen kuntien on oltava alueensa maakunnan liiton jäseniä.
 
 Maakunnan liitto on kuntalain (410/2015) 55 §:ssä tarkoitettu kuntayhtymä. Mainitun pykälän 1 momentissa säädetystä poiketen maakunnan liiton nimessä ei tarvitse mainita sanaa kuntayhtymä.
 
