@@ -1,12 +1,8 @@
-# 9 § Paritus
+# 9 § Korvauksen tarjoaminen nuoreen kohdistuvasta seksuaalisesta teosta
 Luku: 20 luku Seksuaalirikoksista
 
-Joka hankkiakseen itselleen tai toiselle taloudellista hyötyä
-1) järjestää huoneen tai muun tilan korvausta vastaan tapahtuvaa sukupuoliyhteyttä tai siihen rinnastettavaa seksuaalista tekoa varten tai kahdeksaatoista vuotta nuoremman lapsen tekemää, ilmeisellä tavalla sukupuolisiveellisyyttä loukkaavaa tekoa varten,
-2) vakiintuneena osana liiketoimintaansa majoittaa sellaiseen tekoon ryhtyvää ja siten olennaisesti edistää tekoa,
-3) yhteystietoja välittämällä tai muuten markkinoi jonkun sellaiseen tekoon ryhtymistä tietäen, että hänen toimintansa olennaisesti edistää teon toteutumista,
-4) muuten käyttää hyväkseen jonkun ryhtymistä sellaiseen tekoon tai
-5) viettelee jonkun sellaiseen tekoon,
-on tuomittava parituksesta sakkoon tai vankeuteen enintään kolmeksi vuodeksi.
+Joka lupaamalla tai antamalla korvauksen saa kahdeksaatoista vuotta nuoremman henkilön ryhtymään sukupuoliyhteyteen tai muuhun seksuaaliseen tekoon, on tuomittava korvauksen tarjoamisesta nuoreen kohdistuvasta seksuaalisesta teosta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+
+Korvauksen tarjoamisesta nuoreen kohdistuvasta seksuaalisesta teosta tuomitaan myös se, joka on osapuolena kahdeksaatoista vuotta nuoremman henkilön kanssa sukupuoliyhteydessä tai muussa seksuaalisessa teossa, joista toinen on luvannut tai antanut korvauksen.
 
 Yritys on rangaistava.

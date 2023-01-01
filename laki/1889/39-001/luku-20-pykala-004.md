@@ -1,8 +1,10 @@
-# 4 § Pakottaminen seksuaaliseen tekoon
+# 4 § Törkeä seksuaalinen kajoaminen
 Luku: 20 luku Seksuaalirikoksista
 
-Joka väkivallalla tai uhkauksella pakottaa toisen ryhtymään muuhun kuin 1 §:ssä tarkoitettuun seksuaaliseen tekoon tai alistumaan sellaisen teon kohteeksi ja se olennaisesti loukkaa toisen seksuaalista itsemääräämisoikeutta, on tuomittava pakottamisesta seksuaaliseen tekoon sakkoon tai vankeuteen enintään kolmeksi vuodeksi.
-
-Pakottamisesta seksuaaliseen tekoon tuomitaan myös se, joka käyttämällä hyväkseen sitä, että toinen tiedottomuuden, sairauden, vammaisuuden, pelkotilan tai muun avuttoman tilan takia on kykenemätön puolustamaan itseään tai muodostamaan tai ilmaisemaan tahtoaan, saa hänet ryhtymään 1 momentissa tarkoitettuun seksuaaliseen tekoon tai alistumaan sellaisen teon kohteeksi ja se olennaisesti loukkaa hänen seksuaalista itsemääräämisoikeuttaan.
+Jos seksuaalisessa kajoamisessa
+1) käytetään tai uhataan käyttää vakavaa henkilöön kohdistuvaa väkivaltaa,
+2) rikoksentekijöiden lukumäärän tai muun syyn vuoksi rikoksella aiheutetaan erityisen tuntuvaa henkistä tai ruumiillista kärsimystä tai se tehdään erityisen nöyryyttävällä tavalla tai
+3) kohteena on kahdeksaatoista vuotta nuorempi lapsi
+ja seksuaalinen kajoaminen on myös kokonaisuutena arvostellen törkeä, rikoksentekijä on tuomittava törkeästä seksuaalisesta kajoamisesta vankeuteen vähintään yhdeksi ja enintään kuudeksi vuodeksi.
 
 Yritys on rangaistava.

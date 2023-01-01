@@ -1,8 +1,7 @@
-# 6 § Lapsen seksuaalinen hyväksikäyttö
+# 6 § Seksuaalinen ahdistelu
 Luku: 20 luku Seksuaalirikoksista
 
-Joka koskettelemalla tai muulla tavoin tekee kuuttatoista vuotta nuoremmalle lapselle seksuaalisen teon, joka on omiaan vahingoittamaan tämän kehitystä, tai saa tämän ryhtymään sellaiseen tekoon, on tuomittava lapsen seksuaalisesta hyväksikäytöstä vankeuteen vähintään neljäksi kuukaudeksi ja enintään kuudeksi vuodeksi.
-
-Lapsen seksuaalisesta hyväksikäytöstä tuomitaan myös se, joka on sukupuoliyhteydessä kuuttatoista vuotta nuoremman lapsen kanssa, jos rikos ei 7 §:n 1 momentissa tarkoitetulla tavalla ole kokonaisuutena arvostellen törkeä. Lisäksi lapsen seksuaalisesta hyväksikäytöstä tuomitaan se, joka menettelee 1 momentissa tai edellä tässä momentissa tarkoitetulla tavalla kuusitoista mutta ei kahdeksantoista vuotta täyttäneen lapsen kanssa, jos tekijä on lapsen vanhempi tai vanhempaan rinnastettavassa asemassa lapseen nähden sekä asuu lapsen kanssa samassa taloudessa.
-
-Yritys on rangaistava.
+Joka
+1) koskettelemalla tai
+2) kosketteluun voimakkuutensa tai toistuvuutensa vuoksi vakavuudeltaan rinnastettavalla tavalla sanallisesti, lähettämällä tai esittämällä viestin tai kuvan, ottamalla kuvan tai itseään paljastamalla, taikka muulla vastaavalla tavalla
+tekee toiselle seksuaalisen teon, joka on omiaan loukkaamaan tämän seksuaalista itsemääräämisoikeutta, on tuomittava, jollei teosta muualla tässä luvussa säädetä rangaistusta, seksuaalisesta ahdistelusta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
