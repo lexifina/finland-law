@@ -1,0 +1,2 @@
+Veripalvelulaki
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,4 @@
+# 11 § Luovuttajiin liittyvät tiedot
+Luku: 2 luku Veripalvelutoiminnan toteuttaminen ja -sisältö
+
+Veren ja sen osan luovuttajalle on ennen luovutusta annettava luovutukseen liittyvät tarpeelliset tiedot sekä henkilötietolain (523/1999) 24 §:n mukaiset tiedot ja luovuttajaa on informoitava tietojen salassapidosta. Luovuttajalta on pyydettävä hänen yksilöintiään koskevat tiedot, luovutuskelpoisuutta arvioitaessa hänen terveydentilaansa liittyvät ja välttämättömät luovuttajan luovutuskelpoisuutta koskevat tiedot sekä luovuttajan omakätinen allekirjoitus tai kehittynyt sähköinen allekirjoitus, josta säädetään sähköisestä tunnistamisesta ja sähköisiin transaktioihin liittyvistä luottamuspalveluista sisämarkkinoilla ja direktiivin 1999/93/EY kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) N:o 910/2014. Lääkealan turvallisuus- ja kehittämiskeskus voi antaa tarkempia määräyksiä luovuttajille annettavista ja heiltä pyydettävistä tiedoista.
