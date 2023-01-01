@@ -1,0 +1,2 @@
+Laki rintamaveteraanien kuntoutuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
