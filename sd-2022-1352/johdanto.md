@@ -1,0 +1,2 @@
+Laki brexit-mukautusvarauksen kansallisesta toimeenpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
