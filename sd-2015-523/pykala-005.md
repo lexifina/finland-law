@@ -1,12 +1,12 @@
 # 5 §
 
-Kunta huolehtii ehkäisevän päihdetyön tarpeen mukaisesta organisoinnista alueellaan ja nimeää ehkäisevän päihdetyön tehtävistä vastaavan toimielimen.
+Kunta huolehtii ehkäisevän päihdetyön tarpeen mukaisesta organisoinnista alueellaan ja nimeää ehkäisevän päihdetyön tehtävistä vastaavan toimielimen. Hyvinvointialue tukee alueensa kuntia ehkäisevän päihdetyön toteuttamisessa ja kehittämisessä ja huolehtii 2 momentissa tarkoitetuista ehkäisevän päihdetyön tehtävistä sosiaali- ja terveydenhuollon palveluissa.
 
-Toimielimen tehtävänä on:
-1) huolehtia kunnan päihdeolojen seurannasta ja niitä koskevasta tiedotuksesta;
+Kunnan toimielimen ja hyvinvointialueen tehtävänä on:
+1) huolehtia alueensa päihdeolojen seurannasta ja niitä koskevasta tiedotuksesta;
 2) huolehtia siitä, että päihdehaittoja ja niiden vähentämistä koskevaa tietoa tarjotaan yksityisille henkilöille ja koko väestölle;
-3) lisätä ja tukea päihdehaittoja ehkäisevien toimien osaamista kaikissa kunnan tehtävissä;
-4) esittää ja edistää ehkäisevän päihdetyön toimia kunnan hallinnossa, erityisesti sosiaali- ja terveydenhuollossa, sivistys-, liikunta- ja nuorisotoimessa sekä elinkeinotoimessa;
-5) huolehtia siitä, että 4 kohdassa tarkoitetut kunnan toimet sovitetaan yhteen poliisin, alkoholilain (1102/2017) ja tupakkalain (549/2016) noudattamisen valvonnan, elinkeinoelämän ja erityisesti ehkäisevään päihdetyöhön osallistuvien yleishyödyllisten yhteisöjen ehkäisevään päihdetyöhön kuuluvien ja sitä tukevien toimien kanssa.
+3) lisätä ja tukea päihdehaittoja ehkäisevien toimien osaamista kaikissa tehtävissään;
+4) esittää ja edistää ehkäisevän päihdetyön toimia hallinnossaan, kunnassa erityisesti sivistys-, liikunta- ja nuorisotoimessa sekä elinkeinotoimessa;
+5) huolehtia siitä, että 1–4 kohdassa tarkoitetut toimet sovitetaan yhteen kunnan ja hyvinvointialueen yhteistyössä sekä poliisin, alkoholilain (1102/2017) ja tupakkalain (549/2016) noudattamisen valvonnasta vastaavien viranomaisten, elinkeinoelämän ja erityisesti ehkäisevään päihdetyöhön osallistuvien yleishyödyllisten yhteisöjen ehkäisevään päihdetyöhön kuuluvien ja sitä tukevien toimien kanssa.
 
-Kunnan ehkäisevään päihdetyöhön sovelletaan lisäksi, mitä terveydenhuoltolain (1326/2010) 11 ja 12 §:ssä säädetään terveyden ja hyvinvoinnin edistämisestä sekä sitä koskevasta suunnittelusta ja raportoinnista.
+Kunnan ja hyvinvointialueen ehkäisevään päihdetyöhön sovelletaan lisäksi, mitä sosiaali- ja terveydenhuollon järjestämisestä annetun lain (612/2021) 6 ja 7 §:ssä säädetään terveyden ja hyvinvoinnin edistämisestä sekä sitä koskevasta suunnittelusta ja raportoinnista.
