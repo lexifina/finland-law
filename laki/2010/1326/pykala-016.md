@@ -1,9 +1,7 @@
 # 16 § Kouluterveydenhuolto
 Luku: 2 luku Terveyden ja hyvinvoinnin edistäminen
 
-Kunnan on järjestettävä kouluterveydenhuollon palvelut alueellaan sijaitsevien perusopetusta antavien oppilaitosten oppilaille. Kouluterveydenhuoltoon kuuluu myös oppilaan työelämään tutustuttamisen aikainen terveydenhuolto.
-
-Kouluterveydenhuollon palveluihin sisältyvät:
+Perusopetuksen oppilaiden kouluterveydenhuollon palveluihin sisältyvät:
 1) kouluympäristön terveellisyyden ja turvallisuuden sekä kouluyhteisön hyvinvoinnin edistäminen sekä seuranta kolmen vuoden välein;
 2) vuosiluokittain oppilaan kasvun ja kehityksen sekä terveyden ja hyvinvoinnin seuraaminen ja edistäminen;
 3) oppilaan vanhempien ja huoltajien kasvatustyön tukeminen;
@@ -11,10 +9,8 @@ Kouluterveydenhuollon palveluihin sisältyvät:
 5) oppilaan erityisen tuen tai tutkimusten tarpeen varhainen tunnistaminen ja tukeminen sekä pitkäaikaisesti sairaan lapsen omahoidon tukeminen yhteistyössä muiden oppilashuollon toimijoiden kanssa sekä tarvittaessa jatkotutkimuksiin ja -hoitoon ohjaaminen;
 6) oppilaan terveydentilan toteamista varten tarpeelliset erikoistutkimukset.
 
-Kunnan on kouluterveydenhuoltoa järjestäessään toimittava yhteistyössä vanhempien ja huoltajien kanssa sekä muun oppilashuolto- ja opetushenkilöstön ja muiden tarvittavien tahojen kanssa.
+Kouluterveydenhuoltoon kuuluu myös oppilaan työelämään tutustumisen aikainen terveydenhuolto.
 
-Kouluterveydenhuolto on osa oppilas- ja opiskelijahuoltolain (1287/2013) mukaisia opiskeluhuollon palveluja. Kunnan perusterveydenhuollosta vastaavan viranomaisen on osallistuttava perusopetuslain (628/1998) 15 §:n mukaisen opetussuunnitelman laatimiseen siltä osin kuin se koskee oppilashuoltoa sekä oppilaitoksen ja kodin välistä yhteistyötä.
+Se hyvinvointialue, jonka alueella oppilaan kotikuntalain (201/1994) 2 §:ssä tarkoitettu kotikunta sijaitsee, vastaa oppilaan ja tarpeellisen saattajan kouluterveydenhuoltoon liittyvästä matkasta aiheutuvista kohtuullisista kustannuksista, jos matkaa ei ole mahdollista yhdistää koulumatkaan.
 
-Kunta vastaa oppilaan ja tarpeellisen saattajan kouluterveydenhuoltoon liittyvästä matkasta aiheutuneista kohtuullisista kustannuksista, jos matkaa ei ole mahdollista yhdistää koulumatkaan.
-
-Jos erikoistutkimukset on hankittu kouluterveydenhuollon piiriin kuuluvalle oppilaalle, joka ei ole terveyskeskusta ylläpitävän kunnan asukas, oppilaan kotikunnan on suoritettava erikoistutkimuksen hankkineelle terveyskeskukselle korvaus tutkimuksesta sekä oppilaan ja tarpeellisen saattajan matkasta aiheutuneista kohtuullisista kustannuksista.
+Jos 1 momentin 6 kohdassa tarkoitetut erikoistutkimukset on hankittu kouluterveydenhuollon piiriin kuuluvalle oppilaalle, jonka kotikuntalain 2 §:ssä tarkoitettu kotikunta ei sijaitse sen hyvinvointialueen alueella, jossa hänen koulunsa sijaitsee, on hyvinvointialueen, jonka alueella oppilaan kotikunta sijaitsee, suoritettava erikoistutkimuksen hankkineelle hyvinvointialueelle korvaus tutkimuksesta sekä oppilaan ja tarpeellisen saattajan matkasta aiheutuneista kohtuullisista kustannuksista.
