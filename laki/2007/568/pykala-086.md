@@ -3,7 +3,7 @@ Osa: VI OSA MUUT SÄÄNNÖKSET
 Luku: 13 luku Tietojen saaminen, luovuttaminen ja salassapito
 
 Kansaneläkelaitoksella ja tämän lain mukaisella muutoksenhakuelimellä on oikeus salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä saada käsiteltävänä olevan tämän lain mukaisen eläkkeen tai etuuden ratkaisemista varten välttämättömät tiedot tai sellaiset välttämättömät tiedot, jotka on muuten otettava huomioon tässä laissa taikka Suomea sitovassa sosiaaliturvasopimuksessa tai sosiaaliturvaa koskevassa muussa kansainvälisessä säädöksessä säädettyjen tehtävien toimeenpanemiseksi:
-1) valtion ja kunnan viranomaiselta sekä muulta julkisoikeudelliselta yhteisöltä;
+1) valtion ja hyvinvointialueen viranomaiselta sekä muulta julkisoikeudelliselta yhteisöltä;
 2) Eläketurvakeskukselta, eläkelaitokselta, vakuutuslaitokselta sekä muulta eläkkeen tai muun korvauksen myöntäjältä tai maksajalta;
 3) potilasvakuutus- ja liikennevakuutuskeskukselta;
 4) työnantajalta ja työttömyyskassalta;
