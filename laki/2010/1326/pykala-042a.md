@@ -1,5 +1,5 @@
 # 42 a § Valmiuteen ja varautumiseen liittyvät tehtävät
-Luku: 5 luku Erityisvastuualue
+Luku: 5 luku Erikoissairaanhoidon työnjako
 
 Yliopistollista sairaalaa ylläpitävä sairaanhoitopiiri erityisvastuualueellaan:
 1) ohjaa sosiaali- ja terveydenhuollon toimijoiden valmiussuunnittelua valtakunnallisten yhtenäisten periaatteiden mukaisesti;

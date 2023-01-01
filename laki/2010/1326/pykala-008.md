@@ -3,7 +3,7 @@ Luku: 1 luku Yleiset säännökset
 
 Terveydenhuollon toiminnan on perustuttava näyttöön ja hyviin hoito- ja toimintakäytäntöihin. Terveydenhuollon toiminnan on oltava laadukasta, turvallista ja asianmukaisesti toteutettua.
 
-Kunnan perusterveydenhuollon on vastattava potilaan hoidon kokonaisuuden yhteensovittamisesta, jollei siitä muutoin erikseen sovita.
+Sosiaali- ja terveydenhuollon järjestämisestä annetun lain 10 §:ssä säädetään hyvinvointialueen vastuusta yhteen sovittaa asiakkaiden sosiaali- ja terveydenhuollon palvelut kokonaisuuksiksi.
 
 Terveydenhuollon toimintayksikön on laadittava suunnitelma laadunhallinnasta ja potilasturvallisuuden täytäntöönpanosta. Suunnitelmassa on otettava huomioon potilasturvallisuuden edistäminen yhteistyössä sosiaalihuollon palvelujen kanssa.
 

@@ -1,5 +1,5 @@
 # 42 § Erityisvastuualueen tehtävät
-Luku: 5 luku Erityisvastuualue
+Luku: 5 luku Erikoissairaanhoidon työnjako
 
 Erityisvastuualueen sairaanhoitopiirien on järjestettävä yhteistyössä alueensa erikoissairaanhoito. Sairaanhoitopiirin kuntayhtymän, jonka hallinnassa on yliopistollinen sairaala, on järjestettävä erityistason sairaanhoito erikoissairaanhoitolain 9 §:ssä tarkoitetulla vastuualueellaan.
 

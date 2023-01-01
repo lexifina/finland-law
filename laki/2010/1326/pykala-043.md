@@ -1,5 +1,5 @@
 # 43 § Erikoissairaanhoidon järjestämissopimus
-Luku: 5 luku Erityisvastuualue
+Luku: 5 luku Erikoissairaanhoidon työnjako
 
 Erikoissairaanhoidon yhteen sovittamiseksi erityisvastuualueen sairaanhoitopiirien kuntayhtymien on tehtävä erikoissairaanhoidon järjestämissopimus. Sopimus on laadittava kunnallisvaltuustokausittain. Sopimuksen toteutumista on arvioitava vuosittain yhteistyössä alueen kuntien ja sairaanhoitopiirien kesken sekä tehtävä siihen tarvittaessa muutokset.
 

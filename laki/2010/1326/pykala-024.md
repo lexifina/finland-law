@@ -1,7 +1,7 @@
 # 24 § Sairaanhoito
 Luku: 3 luku Sairaanhoito
 
-Kunnan on järjestettävä alueensa asukkaiden sairaanhoitopalvelut. Sairaanhoitopalveluihin sisältyvät:
+Hyvinvointialueen on järjestettävä alueensa asukkaiden sairaanhoitopalvelut. Sairaanhoitopalveluihin sisältyvät:
 1) sairauksien tutkimus, lääketieteellinen tai hammaslääketieteellinen taudinmääritys, hoito, hoitosuunnitelman mukaiset pitkäaikaisen sairauden hoitoon tarvittavat hoitotarvikkeet sekä tarpeellinen lääkinnällinen kuntoutus;
 2) sairauksien ehkäiseminen, parantaminen ja kärsimysten lievittäminen;
 3) ohjaus, jolla tuetaan potilaan hoitoon sitoutumista ja omahoitoa;

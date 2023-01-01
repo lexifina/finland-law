@@ -1,5 +1,5 @@
 # 46 § Ensihoitokeskus
-Luku: 5 luku Erityisvastuualue
+Luku: 5 luku Erikoissairaanhoidon työnjako
 
 Ensihoitokeskuksen tehtävänä on:
 1) valmistella ensihoidon palvelutasopäätökseen kuuluvat tavoitteet ajasta, jossa väestö sen yhteistyöalueella tavoitetaan, ottaen huomioon väestön ennakoitu palvelutarve, alueen sosiaali- ja terveystoimen päivystysrakenne ja yhteistyöalueen ensihoidon voimavarat;

@@ -1,5 +1,5 @@
 # 45 § Erikoissairaanhoidon työnjako ja eräiden tehtävien keskittäminen
-Luku: 5 luku Erityisvastuualue
+Luku: 5 luku Erikoissairaanhoidon työnjako
 
 Osa sellaisista tutkimuksista, toimenpiteistä ja hoidoista, jotka harvoin esiintyvinä tai vaativina edellyttävät toistettavuutta tai usean alan erityisosaamista riittävän taidon ja osaamisen saavuttamiseksi ja sen ylläpitämiseksi tai merkittäviä investointeja laitteistoihin ja välineisiin terveydenhuollon laadun ja potilasturvallisuuden, vaikuttavuuden, tuottavuuden ja tehokkuuden takaamiseksi, kootaan suurempiin yksiköihin. Valtakunnallisesti keskitettävä erikoissairaanhoito on koottava vähempään kuin viiteen yliopistolliseen sairaalaan. Valtioneuvoston asetuksella voidaan säätää, mitkä valtakunnallisen kokonaisuuden suunnittelua ja yhteen sovittamista koskevat tehtävät säädetään yhden tai useamman valtakunnallisen toimijan hoidettaviksi.
 
@@ -7,6 +7,6 @@ Alueellisesti keskitettävä erikoissairaanhoito kootaan viiteen yliopistollisee
 
 Leikkaustoiminta, joka edellyttää leikkaussaliolosuhteita ja anestesiaa, tulee kokonaisuudessaan koota niihin sairaaloihin, joissa on ympärivuorokautinen perusterveydenhuollon ja erikoissairaanhoidon yhteispäivystys.
 
-Sairaanhoitopiirien kuntayhtymien, joissa on yliopistollinen sairaala, on sovittava yhdessä valtakunnallisesti keskitettävää erikoissairaanhoitoa antavista yksiköistä. Jos kuntayhtymät, joissa on yliopistollinen sairaala, eivät pääse sopimukseen siitä, mihin sairaaloihin tai yksiköihin toiminto kootaan tai, jos sopimus ei täytä laadun ja potilasturvallisuuden, vaikuttavuuden, tuottavuuden ja tehokkuuden takaamiseksi tarkoitettuja edellytyksiä, valtioneuvosto voi määrätä sopimuksen sisällöstä. Alueellisesti keskitettävästä hoidosta ja toiminnan yhteen sovittamisesta määrätään 43 §:ssä tarkoitetussa erikoissairaanhoidon järjestämissopimuksessa.
+Hyvinvointialueiden, joissa on yliopistollinen sairaala, sekä HUS-yhtymän on sovittava yhdessä valtakunnallisesti keskitettävää erikoissairaanhoitoa antavista yksiköistä. Jos hyvinvointialueet ja HUS-yhtymä eivät pääse sopimukseen siitä, mihin sairaaloihin tai yksiköihin toiminto kootaan tai, jos sopimus ei täytä laadun ja potilasturvallisuuden, vaikuttavuuden, tuottavuuden ja tehokkuuden takaamiseksi tarkoitettuja edellytyksiä, valtioneuvosto voi määrätä sopimuksen sisällöstä. Alueellisesti keskitettävästä hoidosta ja toiminnan yhteen sovittamisesta määrätään sosiaali- ja terveydenhuollon järjestämisestä annetun lain 36 §:ssä säädetyssä yhteistyösopimuksessa.
 
 Valtioneuvoston asetuksella säädetään valtakunnallisesta ja alueellisesta sairaaloiden työnjaosta ja keskitettävistä tutkimuksista, toimenpiteistä ja hoidosta sekä tarvittaessa hoitoa antavista yksiköistä sekä keskitettävien tutkimusten, toimenpiteiden ja hoitojen määrällisistä ja muista edellytyksistä, joiden tulee täyttyä keskittämistä toteutettaessa.
