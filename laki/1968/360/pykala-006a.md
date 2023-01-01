@@ -16,7 +16,7 @@ Poiketen siitä, mitä edellä säädetään, osuuspankin saama osinko osuuspank
 
 Luonnollisen henkilön tai kuolinpesän muusta kuin julkisesti noteeratusta yhtiöstä saamasta osingosta 75 prosenttia on veronalaista tuloa. Luonnollisen henkilön tai kuolinpesän julkisesti noteeratusta yhtiöstä saamasta osingosta on 85 prosenttia veronalaista tuloa.
 
-Peitellystä osingosta on 75 prosenttia veronalaista tuloa.
+Peitelty osinko on veronalaista tuloa.
 
 Tuloverolain 33 a §:n 3 momentissa ja 33 b §:n 6 momentissa tarkoitettuun osinkona pidettävään vapaan oman pääoman rahastosta saatuun varojenjakoon sovelletaan tämän lain 6 c §:ssä säädetyin poikkeuksin, mitä tässä pykälässä säädetään.
 
