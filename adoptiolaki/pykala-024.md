@@ -15,6 +15,6 @@ Adoptioneuvonnassa on erityisesti:
 9) viivytyksettä lapsen sijoittamisen jälkeen ryhdyttävä toimenpiteisiin, joilla tuetaan ja seurataan sijoituksen onnistumista lapsen etua silmällä pitäen; sekä
 10) huolehdittava siitä, että hakijat viivytyksettä hakevat adoption vahvistamista, ja avustettava tarvittaessa hakemuksen tekemisessä.
 
-Jos adoptioneuvontaa antaa adoptiotoimisto, sen on hankittava lapsen ja hakijoiden kotikunnan sosiaalihuollon toimielimeltä lausunto heidän olosuhteistaan.
+Jos adoptioneuvontaa antaa adoptiotoimisto, sen on hankittava lausunto lapsen ja hakijoiden olosuhteista siltä hyvinvointialueelta, jonka alueella heidän kotikuntansa sijaitsee.
 
 Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä adoptioneuvonnan sisällöstä ja toteuttamisesta.
