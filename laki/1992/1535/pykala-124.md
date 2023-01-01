@@ -11,4 +11,4 @@ Edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja 18 §:
 
 Luonnollisen henkilön on suoritettava eläketulon lisäveroa 5,85 prosenttia siltä osin kuin eläketulo vähennettynä eläketulovähennyksen määrällä ylittää 47 000 euroa. Eläketulon lisäveroon sovelletaan, mitä ansiotulosta valtiolle suoritettavasta tuloverosta tässä tai muussa laissa säädetään.
 
-Kultakin vuodelta toimitettavassa ansiotulon verotuksessa sovellettavasta veroasteikoista säädetään erikseen. Asteikon veroprosentteja alennetaan 13,26 prosenttiyksiköllä laskettaessa veron määrää niille verovelvollisille, joiden verotusmenettelystä annetun lain 5 §:ssä tarkoitettu kotikunta sijaitsee Ahvenanmaan maakunnassa.
+Kultakin vuodelta toimitettavassa ansiotulon verotuksessa sovellettavasta veroasteikoista säädetään erikseen. Asteikon veroprosentteja alennetaan 12,64 prosenttiyksiköllä laskettaessa veron määrää niille verovelvollisille, joiden verotusmenettelystä annetun lain 5 §:ssä tarkoitettu kotikunta sijaitsee Ahvenanmaan maakunnassa.
