@@ -1,0 +1,2 @@
+Laki Yhdistyneiden Kansakuntien kanssa Yhdistyneiden Kansakuntien yhteydessä toimivan Helsingin kriminaalipoliittisen instituutin perustamisesta tehdyn sopimuksen ja sen muuttamisesta tehdyn pöytäkirjan eräiden määräysten hyväksymisestä sekä sopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
