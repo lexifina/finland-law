@@ -1,0 +1,3 @@
+# 1 b § Takaukset hyvinvointialueiden perustamisesta aiheutuviin muutoksiin
+
+Sen estämättä, mitä 1 ja 1 a §:ssä säädetään, takauskeskuksen myöntämät takaukset voivat kohdistua 1 §:ssä tarkoitettujen luottolaitosten varainhankintaan, jota on käytetty luottolaitoksen myöntämiin sosiaali- ja terveydenhuoltoa ja pelastustoimea koskevan uudistuksen toimeenpanosta ja sitä koskevan lainsäädännön voimaanpanosta annetun lain (616/2021) 21, 26 ja 27 §:ssä tarkoitettuihin siirtyviin velkoihin ja muihin sitoumuksiin sekä niihin liittyviin koron- ja valuutanvaihtosopimuksiin sekä muihin vastaaviin suojausjärjestelyihin.
