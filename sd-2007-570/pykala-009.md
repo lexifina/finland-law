@@ -19,4 +19,4 @@ Hoitotukena myönnetään:
 
 Sokealla tai liikuntakyvyttömällä henkilöllä on oikeus vähintään perushoitotukeen.
 
-Kansaneläkelaitoksen on tarvittaessa hankittava kunnan sosiaaliviranomaisen lausunto hoitotuen myöntämisedellytysten selvittämistä varten.
+Kansaneläkelaitoksen on tarvittaessa hankittava hyvinvointialueen lausunto hoitotuen myöntämisedellytysten selvittämistä varten.
