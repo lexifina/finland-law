@@ -1,3 +1,3 @@
 # 13 § Tiedonsaantioikeus
 
-Puolustusministeriöllä, sisäministeriöllä ja valtiovarainministeriöllä on oikeus saada tässä laissa säädettyjen tehtävien hoitamiseksi välttämättömät tiedot Maanmittauslaitokselta maksutta ja salassapitosäännösten estämättä.
+Puolustusministeriöllä, sisäministeriöllä ja valtiovarainministeriöllä on oikeus etuosto-oikeuden ja sen käytön tarpeellisuuden ja rajoitusten selvittämiseksi sekä muiden tässä laissa säädettyjen tehtävien hoitamiseksi saada maksutta välttämättömät tiedot salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä Maanmittauslaitokselta, Maahanmuuttovirastolta, keskusrikospoliisilta rahanpesun selvittelykeskuksesta annetun lain (445/2017) 3 §:ssä tarkoitetusta rahanpesurekisteristä, Patentti- ja rekisterihallitukselta, Huoltovarmuuskeskukselta, Rajavartiolaitokselta, Puolustusvoimilta ja Verohallinnolta sekä lisäksi kunnalta tiedot kiinteistöä koskevista kaavoista ja maankäytön muista suunnitelmista.
