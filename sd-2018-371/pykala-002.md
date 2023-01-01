@@ -2,7 +2,7 @@
 
 Ruokavirastolle kuuluvat:
 1) tehtävät, jotka liittyvät vastuuseen Euroopan maatalouden tukirahastosta ja Euroopan maaseudun kehittämisen maatalousrahastosta (maaseuturahasto) rahoitettavien tukien ja korvausten hallinnoinnista ja valvonnasta sekä niiden edellyttämistä tietojärjestelmistä ja niiden turvallisuudesta (maksajavirastotehtävät);
-2) muut 1 kohdassa mainituista rahastoista sekä kansallisista varoista maa-, puutarha- ja porotaloudelle, luontaiselinkeinoille, koltille sekä maaseudun kehittämistoimenpiteisiin myönnettävien tukien ja korvausten, maaseudun kehittämiseen liittyvien ohjelmien sekä maataloustuotteiden markkinajärjestelyn toimeenpanoon liittyvät tehtävät;
+2) muut 1 kohdassa mainituista rahastoista sekä kansallisista varoista maa-, puutarha- ja porotaloudelle, luontaiselinkeinoille, koltille sekä maaseudun kehittämistoimenpiteisiin myönnettävien tukien ja korvausten, yhteisen maatalouspolittikan strategiasuunnitelman sekä maataloustuotteiden markkinajärjestelyn toimeenpanoon liittyvät tehtävät;
 3) toimialansa valvonnan ja muiden viranomaistoimenpiteiden johtaminen, kehittäminen, ohjaaminen ja suorittaminen;
 4) valvonta- ja seurantanäytteiden laboratorioanalytiikka, eläintautien laboratoriodiagnostiikka sekä vertailulaboratoriotoiminta;
 5) toimialansa riskinarviointi, tieteellinen tutkimus sekä muut tutkimukset ja selvitykset;
