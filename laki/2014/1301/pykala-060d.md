@@ -1,0 +1,6 @@
+# 60 d § Sosiaali- ja terveysalan ammattikorkeakoulututkintoon sisältyvän ammattitaitoa edistävän harjoittelun korvaus
+Luku: 7 luku Erinäiset säännökset
+
+Hyvinvointialueelle, HUS-yhtymälle, Helsingin kaupungille, kunnalle ja kuntayhtymälle, Suomen evankelis-luterilaiselle kirkolle, kirkon seurakunnalle ja seurakuntayhtymälle, yksityiselle sosiaali- ja terveydenhuollon tai varhaiskasvatuksen palveluja tuottavalle yksikölle sekä Ahvenanmaan maakuntahallitukselle suoritetaan koulutuskorvausta valtion varoista laskennallisin perustein sosiaali- ja terveysalan ammattikorkeakoulututkintoon sisältyvästä ammattitaitoa edistävästä harjoittelusta aiheutuvista kustannuksista. Korvaus perustuu ammattikorkeakoulun kanssa tehdyn sopimuksen mukaisesti toteutuneisiin harjoitteluviikkoihin. Harjoittelijalle on nimettävä ohjaaja, jonka tehtävänä on varmistaa harjoittelun laatu siten kuin siitä on osapuolten kesken sovittu.
+
+Sosiaali- ja terveysalan ammattikorkeakoulututkintoon sisältyvästä ammattitaitoa edistävästä harjoittelusta suoritettavan korvauksen suuruudesta sekä korvauksen maksamisen perusteista ja muista korvauksen hakemiseen ja maksamiseen liittyvistä menettelyistä säädetään tarkemmin sosiaali- ja terveysministeriön asetuksella.
