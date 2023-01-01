@@ -6,8 +6,9 @@ Eläketurvakeskuksen tehtävänä on:
 3) edistää eläkelaitosten keskinäistä yhteistyötä eläkelaitosten yhteistoimintaa edellyttävissä tehtävissä ja hoitaa eläkelaitosten yhteistoimintaan liittyviä tehtäviä;
 4) edistää työeläkelaitosten yhteistyötä muiden laitosten ja viranomaisten välillä;
 5) huolehtia laissa sille määrättyjen tehtävien hoitamiseksi tarvittavista rekistereistä ja työeläkelaitosten työeläkelakien mukaista toimintaa varten tarvitsemien tietojen saatavuudesta;
-6) antaa eläkelaitoksille suosituksia yhdenmukaisen soveltamiskäytännön varmistamiseksi yksityisten alojen työeläkelakien, niiden nojalla annettujen asetusten ja muiden määräysten soveltamisesta; sekä
-7) tiedottaa ja antaa neuvontaa työeläkkeistä ottaen kuitenkin huomioon, mitä työntekijän eläkelain 211 §:ssä ja yrittäjän eläkelain (1272/2006) 153 §:ssä säädetään.
+6) antaa eläkelaitoksille suosituksia yhdenmukaisen soveltamiskäytännön varmistamiseksi yksityisten alojen työeläkelakien, niiden nojalla annettujen asetusten ja muiden määräysten soveltamisesta;
+7) tiedottaa ja antaa neuvontaa työeläkkeistä ottaen kuitenkin huomioon, mitä työntekijän eläkelain 211 §:ssä ja yrittäjän eläkelain (1272/2006) 153 §:ssä säädetään; sekä
+8) ylläpitää ja kehittää 6 kohdassa tarkoitettujen suositusten tukena yrittäjän eläkelain 112 §:n 2 momentissa tarkoitettua työtulon määrittämisessä tarvittavaa tietopohjaa.
 
 Eläketurvakeskuksen tehtävänä on lisäksi:
 1) valvoa työeläkelakien mukaisen vakuuttamisvelvollisuuden noudattamista ja ottaa tarvittaessa työnantajan kustannuksella eläkevakuutus siten kuin työntekijän eläkelain 186 ja 187 §:ssä sekä yrittäjän eläkelain 143 ja 144 §:ssä säädetään;
