@@ -1,0 +1,2 @@
+Päihdehuoltolaki
+Eduskunnan päätöksen mukaisesti säädetään:
