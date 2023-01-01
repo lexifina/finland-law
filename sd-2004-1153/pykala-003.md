@@ -1,0 +1,3 @@
+# 3 § Tuomion lähettäminen täytäntöönpanoa varten
+
+Kun tuomioistuin on asetuksen III luvun 2 jakson säännösten nojalla julistanut täytäntöönpanokelpoiseksi toisessa jäsenvaltiossa annetun lapsen huoltoa tai tapaamisoikeutta koskevan tuomion, sen on hakijan pyynnöstä lähetettävä tuomio ja täytäntöönpanoa koskeva hakemus toimivaltaiselle käräjäoikeudelle, jos tuomio voidaan asetuksen 47 artiklan 2 kohdan mukaan panna täytäntöön. Jos on kysymys lapsen huoltoa koskevasta tuomiosta, jonka antamisesta on kulunut vähemmän kuin kolme kuukautta, tuomio ja hakemus on kuitenkin lähetettävä toimivaltaiselle ulosottomiehelle. Tuomioistuimen on samalla kehotettava käräjäoikeutta tai ulosottomiestä kiireellisesti huolehtimaan täytäntöönpanosta.

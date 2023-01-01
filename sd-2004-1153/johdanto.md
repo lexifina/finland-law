@@ -1,0 +1,2 @@
+Laki tuomioistuimen toimivallasta sekä tuomioiden tunnustamisesta ja täytäntöönpanosta avioliittoa ja vanhempainvastuuta koskevissa asioissa annetun neuvoston asetuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
