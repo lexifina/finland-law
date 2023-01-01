@@ -5,4 +5,14 @@ Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/
 
 Edellä 1 momentissa tarkoitetuilla tiedon saantiin oikeutetuilla viranomaisilla on salassapitosäännösten estämättä oikeus luovuttaa toiselle viranomaiselle tai julkista tehtävää hoitavalle taikka Euroopan unionin toimielimelle sellaisia tässä laissa säädettyä tehtävää hoidettaessa saatuja avustuksen saajaa koskevia tietoja, jotka ovat välttämättömiä viranomaiselle tai julkista tehtävää hoitavalle tai toimielimelle säädetyn tarkastustehtävän hoitamiseksi tai sen valvomiseksi, että Euroopan unionin lainsäädäntöä on noudatettu.
 
-Edellä 1 ja 2 momentin perusteella saatuja tietoja ei saa käyttää muuhun kuin siihen tarkoitukseen, johon niitä on pyydetty.
+Hallintoviranomaisella on oikeus salassapitosäännösten estämättä luovuttaa tarkastusviranomaiselle tässä laissa ja Euroopan unionin lainsäädännössä tarkoitettujen tarkastustehtäviensä hoitamiseksi välttämättömiä tietoja.
+
+Hallintoviranomaisella on oikeus salassapitosäännösten estämättä luovuttaa yleisasetuksen 44 artiklan mukaisesti ohjelmaa arvioiville tahoille ohjelmien arvioimiseksi välttämättömiä tietoja.
+
+Edellä 1–4 momentin perusteella saatuja tietoja ei saa käyttää muuhun kuin siihen tarkoitukseen, johon niitä on pyydetty.
+
+Jos 1 tai 2 momentissa tarkoitettuja tietoja siirretään teknisen rajapinnan avulla 26 §:ssä tarkoitettuun tietojärjestelmään muusta järjestelmästä, kyseisen järjestelmän (liitännäisjärjestelmä) omistajan on noudatettava Euroopan unionin varainhoitoa koskevia säännöksiä sähköisestä järjestelmästä ja sen sisältövaatimuksista hallintoviranomaisen edellyttämällä tavalla.
+
+Jäljempänä 26 §:ssä tarkoitetusta tietojärjestelmästä saadaan luovuttaa tietoja teknisen rajapinnan avulla muulle kuin tässä laissa tarkoitetulle viranomaiselle ja Euroopan unionin toimielimelle, jos niillä on lakiin perustuva oikeus saada tiedot. Tietojärjestelmästä voidaan luovuttaa tietoja soveltaen, mitä yleisasetuksessa ja Euroopan unionin varainhoitoa koskevissa säännöksissä säädetään sähköisestä järjestelmästä ja sen sisältövaatimuksista.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä liitännäisjärjestelmän sisältöä koskevista vaatimuksista.

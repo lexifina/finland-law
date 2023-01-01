@@ -1,7 +1,7 @@
 # 18 § Maksamisen hakeminen ja raportointi
 Luku: 4 luku Avustusmenettely
 
-Avustuksen maksamista haetaan hallintoviranomaiselta hallintoviranomaisen hyväksymällä lomakkeella. Hakemukseen on liitettävä avustuksen maksamisen edellytysten arvioinnin kannalta välttämättömät asiakirjat ja selvitykset. Maksamisen hakemisen yhteydessä toimitetaan raportti hankkeen tai toiminnan etenemisestä.
+Avustuksen maksamista haetaan hallintoviranomaiselta 26 §:ssä tarkoitetussa tietojärjestelmässä tai hallintoviranomaisen erikseen salliessa hallintoviranomaisen hyväksymällä lomakkeella sähköisesti. Hakemukseen on liitettävä avustuksen maksamisen edellytysten arvioinnin kannalta välttämättömät asiakirjat ja selvitykset. Maksamisen hakemisen yhteydessä toimitetaan raportti hankkeen tai toiminnan etenemisestä.
 
 Maksamisen hakemiselle asetetaan määräaika.
 
