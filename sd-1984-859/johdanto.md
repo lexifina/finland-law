@@ -1,0 +1,2 @@
+Laki maatalousyrittäjien työterveyshuollon eräiden kustannusten korvaamisesta valtion varoista
+Eduskunnan päätöksen mukaisesti säädetään:
