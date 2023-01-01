@@ -1,6 +1,6 @@
 # 7 § Palvelusetelin arvon määräytyminen
 
-Kunnan tulee määrätä palvelusetelin arvo niin, että se on asiakkaan kannalta kohtuullinen. Kohtuullisuutta arvioitaessa on otettava huomioon kustannukset, jotka aiheutuvat kunnalle vastaavan palvelun tuottamisesta kunnan omana tuotantona tai hankkimisesta ostopalveluna sekä asiakkaan maksettavaksi jäävä arvioitu omavastuuosuus.
+Hyvinvointialueen tulee määrätä palvelusetelin arvo niin, että se on asiakkaan kannalta kohtuullinen. Kohtuullisuutta arvioitaessa on otettava huomioon kustannukset, jotka aiheutuvat hyvinvointialueelle vastaavan palvelun tuottamisesta hyvinvointialueen omana tuotantona tai hankkimisesta ostopalveluna sekä asiakkaan maksettavaksi jäävä arvioitu omavastuuosuus.
 
 Sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain 4 ja 5 §:ssä asiakkaalle maksuttomiksi säädettyjen sosiaali- ja terveyspalvelujen hankkimiseksi annettavan palvelusetelin arvo tulee määrätä niin, että asiakkaalle ei jää maksettavaksi omavastuuosuutta. Tästä poiketen lääkinnällisen kuntoutuksen apuvälineen hankkimiseksi annettavan palvelusetelin arvon tulee olla sellainen, että sillä voi hankkia asiakkaan yksilöllistä tarvetta vastaavan tavanomaisen apuvälineen. Asiakas saa kuitenkin halutessaan hankkia palvelusetelin arvoa kalliimman apuvälineen, jolloin hänen tulee itse maksaa valitsemansa apuvälineen hinnan ja palvelusetelin arvon välinen hinnanero.
 
