@@ -8,8 +8,8 @@ Esitutkintaviranomaiselle voidaan antaa lupa kohdistaa telekuuntelua rikoksesta 
 1) joukkotuhonnasta, joukkotuhonnan valmistelusta, rikoksesta ihmisyyttä vastaan, törkeästä rikoksesta ihmisyyttä vastaan, hyökkäysrikoksesta, hyökkäysrikoksen valmistelusta, sotarikoksesta, törkeästä sotarikoksesta, kidutuksesta, kemiallisen aseen kiellon rikkomisesta, biologisen aseen kiellon rikkomisesta tai jalkaväkimiinakiellon rikkomisesta;
 2) Suomen itsemääräämisoikeuden vaarantamisesta, sotaan yllyttämisestä, maanpetoksesta, törkeästä maanpetoksesta, vakoilusta, törkeästä vakoilusta, turvallisuussalaisuuden paljastamisesta tai luvattomasta tiedustelutoiminnasta;
 3) valtiopetoksesta, törkeästä valtiopetoksesta tai valtiopetoksen valmistelusta;
-4) törkeästä sukupuolisiveellisyyttä loukkaavan lasta esittävän kuvan levittämisestä;
-5) lapsen seksuaalisesta hyväksikäytöstä, törkeästä lapsen seksuaalisesta hyväksikäytöstä tai törkeästä lapsenraiskauksesta;
+4) törkeästä lasta seksuaalisesti esittävän kuvan levittämisestä;
+5) lapsenraiskauksesta, törkeästä lapsenraiskauksesta, seksuaalisesta kajoamisesta lapseen, törkeästä seksuaalisesta kajoamisesta lapseen tai lapsen seksuaalisesta hyväksikäytöstä;
 6) taposta, murhasta, surmasta tai rikoslain 21 luvun 6 a §:ssä tarkoitetusta mainitun luvun 1, 2 tai 3 §:n mukaisesta törkeän henkeen tai terveyteen kohdistuvan rikoksen valmistelusta;
 7) törkeästä laittoman maahantulon järjestämisestä, törkeästä vapaudenriistosta, ihmiskaupasta, törkeästä ihmiskaupasta, panttivangin ottamisesta tai panttivangin ottamisen valmistelusta;
 8) törkeästä ryöstöstä, törkeän ryöstön valmistelusta tai törkeästä kiristyksestä;
@@ -35,4 +35,4 @@ Lupa telekuunteluun voidaan antaa myös, kun jotakuta on syytä epäillä liike-
 
 Edellä 3 momentissa tarkoitetun luvan antamisen edellytyksenä on lisäksi, että rikoksella on tavoiteltu erityisen suurta hyötyä ja rikos on tehty erityisen suunnitelmallisesti.
 
-Lupa telekuunteluun voidaan antaa myös, kun on syytä epäillä jotakuta törkeästä parituksesta, jossa on tavoiteltu erityisen suurta hyötyä ja rikos on tehty erityisen suunnitelmallisesti tai jota tarkoitetaan rikoslain 20 luvun 9 a §:n 1 momentin 3 kohdassa.
+Lupa telekuunteluun voidaan antaa myös, kun on syytä epäillä jotakuta törkeästä parituksesta, jossa on tavoiteltu erityisen suurta hyötyä ja rikos on tehty erityisen suunnitelmallisesti tai jota tarkoitetaan rikoslain 20 luvun 11 §:n 1 momentin 3 kohdassa.

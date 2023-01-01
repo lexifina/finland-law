@@ -5,7 +5,7 @@ Esitutkintaviranomaiselle voidaan myöntää lupa kohdistaa teknistä kuuntelua 
 1) joukkotuhonnasta, joukkotuhonnan valmistelusta, rikoksesta ihmisyyttä vastaan, törkeästä rikoksesta ihmisyyttä vastaan, hyökkäysrikoksesta, hyökkäysrikoksen valmistelusta, sotarikoksesta, törkeästä sotarikoksesta, kidutuksesta, kemiallisen aseen kiellon rikkomisesta, biologisen aseen kiellon rikkomisesta tai jalkaväkimiinakiellon rikkomisesta;
 2) Suomen itsemääräämisoikeuden vaarantamisesta, sotaan yllyttämisestä, maanpetoksesta, törkeästä maanpetoksesta, vakoilusta tai törkeästä vakoilusta;
 3) valtiopetoksesta tai törkeästä valtiopetoksesta;
-4) törkeästä lapsen seksuaalisesta hyväksikäytöstä tai törkeästä lapsenraiskauksesta;
+4) lapsenraiskauksesta, törkeästä lapsenraiskauksesta tai törkeästä seksuaalisesta kajoamisesta lapseen;
 5) taposta, murhasta tai surmasta;
 6) törkeästä ihmiskaupasta;
 7) törkeästä ryöstöstä;
