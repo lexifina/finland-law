@@ -1,0 +1,2 @@
+Laki Athene-järjestelmälle myönnettävistä erioikeuksista ja vapauksista tehdyn neuvostossa kokoontuneiden Euroopan unionin jäsenvaltioiden hallitusten edustajien päätöksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
