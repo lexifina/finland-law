@@ -2,7 +2,7 @@
 Luku: 9 luku Maasta poistaminen
 Väliotsikko: Määritelmät
 
-Pääsyn epäämisellä tarkoitetaan tässä laissa kolmannen maan kansalaisen maahantulon estämistä ulkorajalla siten kuin siitä säädetään Schengenin rajasäännöstön 13 artiklassa.
+Pääsyn epäämisellä tarkoitetaan tässä laissa kolmannen maan kansalaisen maahantulon estämistä ulkorajalla siten kuin siitä säädetään Schengenin rajasäännöstön 14 artiklassa.
 
 Käännyttämisellä tarkoitetaan tässä laissa:
 1) unionin kansalaisen ja häneen rinnastettavan tai näiden perheenjäsenen maahantulon estämistä ulkorajalla, jos perheenjäsen kuuluu unionin vapaata liikkuvuutta koskevan oikeuden piiriin;

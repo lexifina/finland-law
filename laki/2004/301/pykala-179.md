@@ -11,4 +11,8 @@ Liikenteenharjoittajan seuraamusmaksua ei määrätä, jos:
 
 Edellä 2 momentin 1 kohtaa ei sovelleta määrättäessä maksua henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 25 ja 26 §:n rikkomisesta.
 
+Edellä 2 momentista poiketen matkustuslupaa koskevan seuraamusmaksun määräämättä jättämisestä säädetään ETIAS-asetuksen 45 artiklan 6 kohdassa ja 46 artiklan 2 kohdassa.
+
 Liikenteenharjoittajan seuraamusmaksua ei voida määrätä sille, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa. Seuraamusmaksua ei voida määrätä myöskään sille, jolle on samasta teosta annettu lainvoimainen tuomio.
+
+Liikenteenharjoittajan seuraamusmaksua henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 25 §:n rikkomisesta ei voida määrätä sille, jolle on samasta teosta määrätty lentoliikenteen matkustajarekisteritietojen käytöstä terrorismirikosten ja vakavan rikollisuuden torjunnassa annetun lain (657/2019) 13 §:n mukainen lentoliikenteen harjoittajan seuraamusmaksu.
