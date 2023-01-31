@@ -3,7 +3,7 @@ Luku: 1 luku Yleiset säännökset
 
 Työnantajan ja työntekijöiden välisestä yhteistoiminnasta yritysryhmissä säädetään yhteistoiminnasta suomalaisissa ja yhteisönlaajuisissa yritysryhmissä annetussa laissa (335/2007).
 
-Henkilöstön hallintoedustuksen järjestämisestä eurooppayhtiössä ja eurooppaosuuskunnassa sekä rajat ylittävässä yhtiöiden sulautumisessa tai jakautumisessa säädetään henkilöstöedustuksesta eurooppayhtiössä (SE) ja eurooppaosuuskunnassa (SCE) sekä rajat ylittävässä yhtiöiden sulautumisessa tai jakautumisessa annetussa laissa (758/2004).
+Henkilöstön hallintoedustuksen järjestämisestä eurooppayhtiössä ja eurooppaosuuskunnassa sekä rajat ylittävässä yhtiöiden sulautumisessa, jakautumisessa tai kotipaikan siirrossa säädetään henkilöstöedustuksesta eurooppayhtiössä ja eurooppaosuuskunnassa sekä työnantajavelvoitteista ja henkilöstöedustuksesta rajat ylittävissä yritysjärjestelyissä annetussa laissa (758/2004).
 
 Työsuojelun yhteistoiminnasta säädetään työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetussa laissa (44/2006).
 

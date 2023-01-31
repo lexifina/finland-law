@@ -5,4 +5,4 @@ Työnantajan toiminnan kehittämiseksi, työnantajan ja henkilöstön yhteistoim
 
 Henkilöstön hallintoedustuksesta on ensisijaisesti sovittava työnantajan ja henkilöstön välillä. Jos sopimukseen ei päästä, henkilöstön hallintoedustus toteutetaan henkilöstön vaatimuksesta 31 §:n mukaisesti. Yhteistoiminta-asiamies voi myöntää hakemuksesta luvan poiketa henkilöstön hallintoedustuksen toteutustavasta.
 
-Henkilöstön hallintoedustuksen järjestämisestä rajat ylittävässä yhtiöiden sulautumisessa tai jakautumisessa säädetään henkilöstöedustuksesta eurooppayhtiössä (SE) ja eurooppaosuuskunnassa (SCE) sekä rajat ylittävässä yhtiöiden sulautumisessa tai jakautumisessa annetussa laissa.
+Henkilöstön hallintoedustuksen järjestämisestä rajat ylittävässä yhtiöiden sulautumisessa, jakautumisessa tai kotipaikan siirrossa säädetään henkilöstöedustuksesta eurooppayhtiössä ja eurooppaosuuskunnassa sekä työnantajavelvoitteista ja henkilöstöedustuksesta rajat ylittävissä yritysjärjestelyissä annetussa laissa.
