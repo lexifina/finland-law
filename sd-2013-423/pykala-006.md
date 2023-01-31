@@ -1,7 +1,7 @@
 # 6 §
 Luku: 3 luku Sulautuminen
 
-Sulautumiseen osallistuvien luottolaitosten, tai jos kyseessä on tytäryhteisösulautuminen, emoyrityksenä olevan luottolaitoksen, on ilmoitettava sulautumisesta Finanssivalvonnalle. Ilmoitus, johon on liitettävä sulautumissuunnitelma ja osuuskuntalain 20 luvun 4 §:ssä tarkoitettu lausunto, on toimitettava Finanssivalvonnalle ennen osuuskuntalain 20 luvun 6 §:ssä tarkoitetun kuulutuksen hakemista. Finanssivalvonta voi ilmoituksen saatuaan vaatia myös muita tarpeelliseksi katsomiaan tietoja.
+Sulautumiseen osallistuvien luottolaitosten, tai jos kyseessä on tytäryhteisösulautuminen, emoyrityksenä olevan luottolaitoksen, on ilmoitettava sulautumisesta Finanssivalvonnalle. Ilmoitus, johon on liitettävä sulautumissuunnitelma ja osuuskuntalain 20 luvun 4 §:ssä tarkoitettu lausunto, on toimitettava Finanssivalvonnalle ennen osuuskuntalain 20 luvun 6 §:ssä tarkoitetun kuulutuksen hakemista. Osuuskuntalaissa tarkoitetulta tilintarkastajalta edellytetään luottolaitostoiminnasta annetun lain 12 luvun 14 §:n mukaista pätevyyttä. Finanssivalvonta voi ilmoituksen saatuaan vaatia myös muita tarpeelliseksi katsomiaan tietoja.
 
 Rekisteriviranomaisen on annettava osuuskuntalain 20 luvun 16 §:n 2 momentissa tarkoitettu velkojan vastustusta koskeva ilmoitus viivytyksettä tiedoksi Finanssivalvonnalle.
 
