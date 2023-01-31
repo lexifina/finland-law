@@ -1,7 +1,7 @@
 # 2 § Tehtävät
 
 Yhteistoiminta-asiamiehen tehtävänä on:
-1) valvoa 1 §:ssä mainittujen lakien noudattamista;
+1) valvoa 1 §:ssä mainittujen lakien noudattamista, lukuun ottamatta henkilöstöedustuksesta eurooppayhtiössä ja eurooppaosuuskunnassa sekä työnantajavelvoitteista ja henkilöstöedustuksesta rajat ylittävissä yritysjärjestelyissä annetun lain 30 h §:n noudattamista;
 2) aloittein ja ohjein edistää ja parantaa työnantajan ja työntekijöiden välistä yhteistoimintaa sekä muiden henkilöstön osallistumisjärjestelmien toteutumista;
 3) seurata 1 §:ssä mainittujen lakien tavoitteiden toteutumista;
 4) antaa neuvoja 1 §:ssä mainittujen lakien soveltamisesta;
