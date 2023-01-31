@@ -1,7 +1,7 @@
 # 3 § Muu lainsäädäntö työntekijöiden osallistumisoikeuksista
 Luku: 1 luku Yleiset säännökset
 
-Henkilöstöedustuksen järjestämisestä eurooppayhtiössä ja eurooppaosuuskunnassa säädetään henkilöstöedustuksesta eurooppayhtiössä (SE) ja eurooppaosuuskunnassa (SCE) sekä rajat ylittävässä yhtiöiden sulautumisessa tai jakautumisessa annetussa laissa (758/2004).
+Henkilöstöedustuksen järjestämisestä eurooppayhtiössä ja eurooppaosuuskunnassa säädetään henkilöstöedustuksesta eurooppayhtiössä ja eurooppaosuuskunnassa sekä työnantajavelvoitteista ja henkilöstöedustuksesta rajat ylittävissä yritysjärjestelyissä annetussa laissa (758/2004).
 
 Henkilöstön oikeudesta osallistua yritysten hallintoon säädetään yhteistoimintalaissa (1333/2021).
 
