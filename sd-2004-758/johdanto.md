@@ -1,0 +1,2 @@
+Laki henkilöstöedustuksesta eurooppayhtiössä ja eurooppaosuuskunnassa sekä työnantajavelvoitteista ja henkilöstöedustuksesta rajat ylittävissä yritysjärjestelyissä
+Eduskunnan päätöksen mukaisesti säädetään:

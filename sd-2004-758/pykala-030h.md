@@ -1,0 +1,6 @@
+# 30 h § Työnantajavelvoitteiden siirtyminen rajat ylittävien yritysjärjestelyjen yhteydessä
+Luku: 5 a luku Henkilöstön edustuksen järjestäminen, henkilöstölle tiedottaminen ja henkilöstön kuuleminen sekä työnantajavelvoitteiden jatkuminen rajat ylittävissä yritysjärjestelyissä
+
+Jos Euroopan talousalueella toteutettavaa rajat ylittävää yritysjärjestelyä on pidettävä työsopimuslain (55/2001) 1 luvun 10 §:n 1 momentissa tai merityösopimuslain (756/2011) 1 luvun 10 §:n 1 momentissa tarkoitettuna liikkeenluovutuksena, järjestelyyn osallistuvan yhtiön henkilöstön työsuhteisiin perustuviin oikeuksiin ja velvollisuuksiin sovelletaan työsopimuslain 1 luvun 10 §:n 1 ja 2 momentin tai merityösopimuslain 1 luvun 10 §:n säännöksiä.
+
+Siltä osin kuin työsopimuslain tai merityösopimuslain liikkeenluovutusta koskevat säännökset eivät tule sovellettaviksi, yhtiön rajat ylittävän sulautumisen, jakautumisen tai kotipaikan siirron voimaantuloajankohtana voimassa olevat henkilöstön työsuhteisiin perustuvat oikeudet ja velvollisuudet siirtyvät sulautumisen, kotipaikan siirron tai jakautumisen voimaantulopäivänä rajat ylittävän sulautumisen tai kotipaikan siirron tuloksena muodostettavan yhtiön vastattaviksi tai rajat ylittävää jakautumista koskevan suunnitelman mukaisesti vastaanottavan yhtiön tai yhtiöiden vastattaviksi.

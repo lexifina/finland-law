@@ -1,0 +1,4 @@
+# 30 e § Henkilöstön osallistumisoikeuksien suoja
+Luku: 5 a luku Henkilöstön edustuksen järjestäminen, henkilöstölle tiedottaminen ja henkilöstön kuuleminen sekä työnantajavelvoitteiden jatkuminen rajat ylittävissä yritysjärjestelyissä
+
+Jos rajat ylittävän sulautumisen, jakautumisen tai kotipaikan siirron tuloksena muodostetussa suomalaisessa yhtiössä sovelletaan henkilöstön osallistumisjärjestelmää, yhtiön on varmistettava, että henkilöstön osallistumisoikeudet turvataan mahdollisessa myöhemmässä rajat ylittävässä tai kotimaisessa sulautumisessa, jakautumisessa ja kotipaikan siirrossa ensin mainitun rajat ylittävän sulautumisen, jakautumisen tai kotipaikan siirron voimaantuloa seuraavien neljän vuoden ajan. Tällöin sovelletaan tämän luvun säännöksiä henkilöstön osallistumisoikeuksien järjestämisestä.

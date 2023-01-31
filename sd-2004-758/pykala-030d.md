@@ -1,0 +1,4 @@
+# 30 d § Henkilöstön osallistumisen rajoittaminen
+Luku: 5 a luku Henkilöstön edustuksen järjestäminen, henkilöstölle tiedottaminen ja henkilöstön kuuleminen sekä työnantajavelvoitteiden jatkuminen rajat ylittävissä yritysjärjestelyissä
+
+Jos henkilöstön kanssa käytyjen neuvottelujen jälkeen tulisivat sovellettaviksi henkilöstön osallistumista koskevat 28–30 §:n säännökset, henkilöstön edustajien osuutta kotipaikan siirron, rajat ylittävän sulautumisen tai jakautumisen tuloksena muodostettavassa yhtiössä tai yhtiöissä voidaan rajoittaa. Henkilöstön edustajien osuus sulautumisen tai kotipaikan siirron seurauksena syntyvän tai kussakin jakautumisen seurauksena syntyvän yhtiön hallintoelimessä ei kuitenkaan saa olla vähemmän kuin yksi kolmasosa, jos henkilöstön edustajien osuus on yhdessäkin sulautumiseen osallistuvassa tai kotipaikan siirtävässä tai jakautumisen kohteena olevassa yhtiössä vähintään yksi kolmasosa hallituksen tai muun hallintoelimen jäsenistä.

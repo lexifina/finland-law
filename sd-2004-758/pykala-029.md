@@ -1,0 +1,6 @@
+# 29 § Henkilöstöä edustavien jäsenten paikkojen jakautuminen
+Luku: 5 luku Toissijaiset säännökset henkilöstöedustuksen järjestämisestä
+
+Edustava elin päättää hallituksen tai hallintoneuvoston paikkojen jakautumisesta eri jäsenvaltioiden henkilöstöä edustavien jäsenten kesken tai siitä, miten eurooppayhtiön tai eurooppaosuuskunnan työntekijät voivat suositella tai vastustaa kyseisten elimien jäseniä suhteessa kussakin jäsenvaltiossa työskentelevän eurooppayhtiön tai eurooppaosuuskunnan henkilöstön määrään. Jos yhden tai useamman jäsenvaltion työntekijät eivät kuulu edellä tarkoitetun suhteellisuusperusteen piiriin, edustava elin nimeää yhden jäsenistä jostakin tällaisesta jäsenvaltiosta, ensisijaisesti eurooppayhtiön tai eurooppaosuuskunnan sääntömääräisen kotipaikan jäsenvaltiosta.
+
+Eurooppayhtiön tai eurooppaosuuskunnan Suomessa työskentelevällä henkilöstöllä on oikeus valita edustajansa hallitukseen tai hallintoneuvostoon sopimalla tai vaalilla. Jollei henkilöstö pääse sopimukseen noudatettavasta menettelytavasta, on työntekijöiden ja toimihenkilöiden suurinta määrää edustavien työsuojeluvaltuutettujen järjestettävä yhdessä vaali tai muu valintamenettely siten, että kaikilla henkilöstöön kuuluvilla on oikeus osallistua siihen.

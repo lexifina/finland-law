@@ -1,0 +1,4 @@
+# 2 a § Lain soveltaminen henkilöstöedustuksen järjestämiseen, henkilöstölle tiedottamiseen ja henkilöstön kuulemiseen sekä työnantajavelvoitteiden jatkumiseen rajat ylittävässä sulautumisessa, jakautumisessa tai kotipaikan siirrossa
+Luku: 1 luku Yleiset säännökset
+
+Henkilöstöedustuksen järjestämisestä, henkilöstölle tiedottamisesta ja henkilöstön kuulemisesta sekä työnantajavelvoitteiden jatkumisesta rajat ylittävässä yhtiöiden sulautumisessa, jakautumisessa ja kotipaikan siirrossa säädetään 5 a luvussa. Mainittua lukua sovelletaan sellaisissa yhtiöissä ja tilanteissa, joihin sovelletaan osakeyhtiölain (624/2006) säännöksiä rajat ylittävistä sulautumisista, jakautumisista tai kotipaikan siirroista. Mainittua lukua sovelletaan myös osuuskuntalain (421/2013) 20 ja 21 luvussa sekä säästöpankkilain (1502/2001) 4 luvussa tarkoitetuissa osuuskuntien ja säästöpankkien rajat ylittävissä yritysjärjestelyissä.

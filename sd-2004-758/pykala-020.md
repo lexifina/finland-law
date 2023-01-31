@@ -1,0 +1,12 @@
+# 20 § Edustavan elimen muodostaminen
+Luku: 5 luku Toissijaiset säännökset henkilöstöedustuksen järjestämisestä
+
+Edustava elin muodostetaan eurooppayhtiön tai eurooppaosuuskunnan sekä näiden tytäryhtiöiden ja toimipaikkojen työntekijöistä, jotka henkilöstön edustajat tai, jollei edustajia ole, kaikki työntekijät valitsevat tai nimeävät keskuudestaan.
+
+Edustavan elimen jäsenet valitaan tai nimetään suhteessa osallistuvien yhtiöiden sekä asianomaisten tytäryhtiöiden ja toimipaikkojen kussakin jäsenvaltiossa olevan henkilöstön määrään siten, että kullekin jäsenvaltiolle varataan yksi paikka siinä työskentelevän henkilöstön kutakin sellaista osaa kohti, joka edustaa alkavaa kymmentä prosenttia osallistuvien yhtiöiden sekä asianomaisten tytäryhtiöiden ja toimipaikkojen henkilöstön kokonaismäärästä, kaikki jäsenvaltiot yhteenlaskettuina.
+
+Jos suomalaisille osallistuville yhtiöille jaettuja edustavan elimen paikkoja on vähemmän tai yhtä monta kuin osallistuvia yhtiöitä, jaetaan nämä paikat suomalaisten yhtiöiden ja muiden oikeushenkilöiden kesken yksi kerrallaan alenevassa järjestyksessä niiden palveluksessa olevan henkilöstön määrän mukaan. Jos suomalaisille osallistuville yhtiöille jaettuja edustavan elimen paikkoja on enemmän kuin osallistuvia yhtiöitä, jaetaan kullekin suomalaiselle yhtiölle tai muulle oikeushenkilölle ensin yksi paikka ja tämän jälkeen jäljellä olevat paikat yhtiöiden kesken niiden palveluksessa olevan henkilöstön määrän mukaisessa suhteessa. Henkilöstö voi kuitenkin sopimalla poiketa edellä sanotusta. Mikäli mahdollista, sopimuksella on turvattava edustus kaikille suomalaisille osallistuville yhtiöille ja henkilöstöryhmille.
+
+Suomessa työskentelevällä henkilöstöllä on oikeus valita edustajansa edustavaan elimeen sopimalla tai vaalilla. Jollei henkilöstö pääse sopimukseen noudatettavasta menettelytavasta, on työntekijöiden ja toimihenkilöiden suurinta määrää edustavien työsuojeluvaltuutettujen järjestettävä yhdessä vaali tai muu valintamenettely siten, että kaikilla henkilöstöön kuuluvilla on oikeus osallistua siihen.
+
+Eurooppayhtiön tai eurooppaosuuskunnan toimivaltaiselle elimelle on annettava tieto edustavan elimen kokoonpanosta. Edustava elin vahvistaa työjärjestyksensä. Edustava elin voi valita keskuudestaan työvaliokunnan, jossa on enintään kolme jäsentä. Edustavaa elintä tai työvaliokuntaa voivat avustaa näiden valitsemat asiantuntijat.
