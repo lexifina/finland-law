@@ -1,0 +1,9 @@
+# 2 § Määritelmät
+
+Tässä laissa tarkoitetaan:
+1) maa-asemalla lähetintä, joka voi lähettää tietoa tai signaaleja avaruudessa sijaitsevaan järjestelmään, tai vastaanotinta, joka voi vastaanottaa tietoa tai signaaleja avaruudessa sijaitsevasta järjestelmästä, sekä tällaisen tiedon tai signaalien säilyttämiseen, prosessointiin ja siirtämiseen ja muuhun käsittelyyn tarkoitettua laitteistoa;
+2) maa-asematoiminnalla tiedon tai signaalien lähettämistä avaruuteen tai vastaanottamista avaruudesta maa-asemaa käyttäen sekä niiden käsittelyä;
+3) tutkalla lähetintä, joka lähettää radiosignaaleja tai laserpulsseja avaruudessa tai yläilmakehässä oleviin kohteisiin, ja lähettimen yhteydessä sijaitsevaa tai erillistä vastaanotinta, joka käsittelee kohteesta heijastuneita tutkakaikuja, sekä tällaisen tiedon tai signaalien säilyttämiseen, prosessointiin ja siirtämiseen ja muuhun käsittelyyn tarvittavaa laitteistoa;
+4) tutkatoiminnalla radiosignaalien tai laserpulssien lähettämistä avaruuteen tai yläilmakehään tai vastaanottamista avaruudesta tai yläilmakehästä tutkaa käyttäen sekä radiosignaalien tai laserpulssien käsittelyä;
+5) toiminnanharjoittajalla luonnollista henkilöä tai oikeushenkilöä, joka harjoittaa tai jonka on tarkoitus harjoittaa maa-asema- tai tutkatoimintaa tai joka tosiasiallisesti vastaa tällaisesta toiminnasta;
+6) maa-asemadatalla maa-aseman tai tutkan välittämiä tai vastaanottamia signaaleita ja tietoa sekä niistä johdettuja muita kuin sellaisia tuotteita, jotka eivät pääasiallisesti perustu laitteiston välittämiin signaaleihin tai tietoihin vaan on saatu loppupäätelminä eri tietojen yhdistelyn tai manipuloinnin taikka näihin perustuvien laskelmien kautta, signaalien ja taltioitujen tietojen käsittely- tai varastointivaiheesta taikka lähetys- tai esitystavasta riippumatta.
