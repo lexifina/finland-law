@@ -1,0 +1,2 @@
+Laki eräiden tuotteiden esteettömyysvaatimuksista
+Eduskunnan päätöksen mukaisesti säädetään:
