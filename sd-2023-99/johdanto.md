@@ -1,0 +1,2 @@
+Laki verkossa tapahtuvaan terroristisen sisällön levittämiseen puuttumisesta
+Eduskunnan päätöksen mukaisesti säädetään:
