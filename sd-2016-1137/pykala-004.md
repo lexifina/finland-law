@@ -7,7 +7,7 @@ Tulli toimii markkinavalvonta-asetuksen 25 artiklan 1 kohdassa tarkoitettuna ulk
 
 Poiketen siitä, mitä 1 momentissa säädetään, Säteilyturvakeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen säteilylaissa tarkoitettujen tuotteiden osalta.
 
-Poiketen siitä, mitä 1 momentissa säädetään, Liikenne- ja viestintävirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen ilmailulaissa, ajoneuvolaissa, ympäristönsuojelulain 24 a §:n 3 momentissa, huviveneiden turvallisuudesta ja päästövaatimuksista annetussa laissa, sähköisen viestinnän palveluista annetussa laissa ja laivavarustelaissa tarkoitettujen tuotteiden osalta.
+Poiketen siitä, mitä 1 momentissa säädetään, Liikenne- ja viestintävirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen ilmailulaissa, ajoneuvolaissa, ympäristönsuojelulain 24 a §:n 3 momentissa, huviveneiden turvallisuudesta ja päästövaatimuksista annetussa laissa, sähköisen viestinnän palveluista annetussa laissa, laivavarustelaissa ja eräiden tuotteiden esteettömyysvaatimuksista annetussa laissa tarkoitettujen tuotteiden osalta.
 
 Poiketen siitä, mitä 1 momentissa säädetään, Suomen ympäristökeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen ympäristönsuojelulain 24 a §:n 2 momentissa tarkoitettujen tuotteiden ja EU-ympäristömerkistä annetussa laissa tarkoitettujen tuotteiden osalta.
 
