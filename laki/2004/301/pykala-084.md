@@ -1,6 +1,10 @@
-# 84 § Toimivalta myöntää yrittäjän oleskelulupa
-Luku: 5 luku Työnteko
+# 84 § Käsittelyajat
+Luku: 5 luku Työnteko ja elinkeinon harjoittaminen
 
-Elinkeino-, liikenne- ja ympäristökeskus ratkaisee yrittäjän oleskeluluvan myöntämiselle 76 §:ssä säädettyjen edellytysten täyttymisen. Elinkeino-, liikenne- ja ympäristökeskus ratkaisee, onko yritystoiminta tilapäistä vai jatkuvaa.
+Tämän luvun mukaiseen hakemukseen on tehtävä päätös viimeistään kahden kuukauden kuluessa siitä, kun viranomainen on vastaanottanut asianmukaisesti täytetyn hakemuksen liitteineen. Käsittelyaika lasketaan siitä, kun hakija asioi henkilökohtaisesti viranomaisessa antaakseen 60 d §:n mukaiset biometriset tunnisteet sekä hakija ja työnantaja täyttävät 71 §:ssä säädetyt velvoitteet.
 
-Maahanmuuttovirasto myöntää elinkeino-, liikenne- ja ympäristökeskuksen 1 momentin mukaan tekemän myönteisen osapäätöksen jälkeen ulkomaalaiselle yrittäjän oleskeluluvan, jollei 36 §:stä muuta johdu. Maahanmuuttovirasto päättää, onko kyse 49 §:n 1 momentin 3 kohdassa tarkoitetusta perusteettomuudesta.
+Työ- ja elinkeinotoimiston ja elinkeino-, liikenne- ja ympäristökeskuksen on tehtävä osapäätös viimeistään kuukauden kuluessa 1 momentissa tarkoitetusta hakemuksen vastaanottamisesta. Innovaatiorahoituskeskus Business Finlandin on annettava kasvuyrittäjän jatkolupaa koskeva lausunto viimeistään kuukauden kuluessa Maahanmuuttoviraston 80 b §:n 2 momentin nojalla tekemästä pyynnöstä. Maahanmuuttoviraston on osapäätöksen tai lausunnon saatuaan tehtävä hakemukseen päätös viimeistään kuukauden kuluessa.
+
+Edellä 1 ja 2 momentissa säädettyä pidempi käsittelyaika on mahdollinen poikkeuksellisissa olosuhteissa, jotka liittyvät hakemuksen tutkinnan monimutkaisuuteen. Jos toimivaltainen viranomainen joutuu pyytämään tai hankkimaan asiassa lisäselvitystä, käsittelyajan kuluminen keskeytyy, kunnes tarvittavat selvitykset on saatu.
+
+Euroopan unionin sinistä korttia koskeva päätös on annettava hakijalle tiedoksi viimeistään 90 päivän kuluttua hakemuksen tekemisestä. Määräajan kuluminen keskeytyy hakemuksen täydentämisen ajaksi.

@@ -14,11 +14,8 @@ Tässä laissa tarkoitetaan:
 5) oleskeluluvalla ulkomaalaiselle muuta kuin matkailua tai siihen verrattavaa lyhytaikaista oleskelua varten myönnettävää lupaa toistuvasti saapua maahan ja oleskella maassa;
 5 a) pitkään oleskelleen kolmannen maan kansalaisen EU-oleskeluluvalla Euroopan unionin jäsenvaltion kolmannen maan kansalaiselle myöntämää pitkään oleskelleiden kolmansien maiden kansalaisten asemasta annetussa neuvoston direktiivissä 2003/109/EY, siten kuin se on muutettuna direktiivillä 2011/51/EU, määriteltyä asemaa ja oleskelulupaa;
 6) työntekijän oleskeluluvalla ulkomaalaiselle ansiotyötä varten myönnettävää oleskelulupaa, joka myönnetään kaksivaiheisessa menettelyssä siten, että työ- ja elinkeinotoimisto tekee asiassa osapäätöksen ennen Maahanmuuttoviraston päätöstä;
-6 a) muulla oleskeluluvalla ansiotyötä varten ulkomaalaiselle ansiotyötä varten myönnettävää oleskelulupaa, joka myönnetään ilman edeltävää työ- ja elinkeinotoimiston osapäätöstä;
 6 b) työnteko-oikeudella ulkomaalaisen tämän lain mukaista oikeutta tehdä Suomessa tai suomalaisessa aluksessa ansiotyötä oleskeluluvan, 10 luvun mukaisen oleskeluoikeuden, viisumin tai viisumivapauden nojalla taikka muulla tässä laissa säädetyllä perusteella;
-7) yrittäjän oleskeluluvalla ulkomaalaiselle, jonka tarkoituksena on yritystoiminnan harjoittaminen, myönnettävää oleskelulupaa, joka myönnetään kaksivaiheisessa menettelyssä siten, että elinkeino-, liikenne- ja ympäristökeskus tekee asiassa osapäätöksen ennen Maahanmuuttoviraston päätöstä;
 8) ansiotyöllä työskentelyä työ-, virka- tai muussa palvelussuhteessa, jossa työtä tehdään vastikkeellisesti;
-9) yrittäjällä henkilöä, joka johtavassa asemassa harjoittaa yritystoimintaa;
 10) pakolaissopimuksella pakolaisten oikeusasemaa koskevaa yleissopimusta (SopS 77/1968);
 11) pakolaisella ulkomaalaista, joka täyttää pakolaissopimuksen 1 artiklan vaatimukset;
 12) pakolaisasemalla asemaa, joka myönnetään pakolaiseksi tunnustetulle ulkomaalaiselle;

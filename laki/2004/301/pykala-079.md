@@ -1,17 +1,5 @@
-# 79 § Työnteko-oikeus ilman oleskelulupaa
-Luku: 5 luku Työnteko
+# 79 § Yrittäjän oleskelulupa
+Luku: 5 luku Työnteko ja elinkeinon harjoittaminen
+Väliotsikko: Oleskeluluvat yrittäjyyden perusteella
 
-Oikeus tehdä ansiotyötä ilman oleskelulupaa on ulkomaalaisella, joka:
-1) tulee kutsun tai sopimuksen nojalla tulkiksi, opettajaksi, asiantuntijaksi tai urheilutuomariksi enintään kolmeksi kuukaudeksi;
-2) tulee kutsun tai sopimuksen nojalla ammattitaiteilijaksi tai urheilijaksi, mukaan lukien avustava, huoltava ja valmentava henkilökunta, enintään kolmeksi kuukaudeksi;
-3) työskentelee merimiehenä joko kauppa-alusluetteloon merkityllä aluksella tai, tultuaan palvelukseen muualla kuin Suomessa, aluksella, joka pääasiassa liikennöi ulkomaisten satamien välillä;
-4) tulee suorittamaan toisessa Euroopan unionin tai Euroopan talousalueen valtiossa toimivan yrityksen vakituisena työntekijänä palvelujen tarjoamisvapauden piiriin kuuluvaa tilapäistä hankinta- tai alihankintatyötä, jos hänellä on mainitussa valtiossa oleskeluun ja työntekoon oikeuttavat luvat, jotka ovat voimassa työn päätyttyä Suomessa.
-
-Ulkomaalaisella, joka on hakenut kansainvälistä suojelua tai tehnyt 102 §:ssä tarkoitetun uusintahakemuksen, on oikeus tehdä ansiotyötä ilman oleskelulupaa:
-1) kun hän on esittänyt 11 §:n 1 momentin 1 kohdassa tarkoitetun asiakirjan ja hän on hakemuksen jättämisen jälkeen oleskellut maassa kolme kuukautta;
-2) kun hän on hakemuksen jättämisen jälkeen oleskellut maassa kuusi kuukautta.
-
-Kun työnantajalla tai toimeksiantajalla ei ole toimipaikkaa Suomessa, ulkomaalaisella on oikeus tehdä ansiotyötä ilman oleskelulupaa:
-1) tuote-esittelijänä tai elokuvatyöntekijänä enintään kolme kuukautta;
-2) ulkomaisessa omistuksessa tai hallinnassa olevan moottoriajoneuvon henkilökuntaan kuuluvana, kun ulkomaalainen kuljettaa ajoneuvoa, jonka rajan ylittävä kuljetus viedään määräpaikkaan tai haetaan lähtöpisteestä, taikka kun liikennöinti Suomessa liittyy säännölliseen reittiliikenteeseen paikkakuntien välillä, joista ainakin yksi sijaitsee ulkomailla, eikä ulkomaalaisella ole asuinpaikkaa Suomessa;
-3) ulkomailta Suomeen suuntautuvan seuramatkan matkanjohtajana.
+Ulkomaalaiselle, jonka tarkoituksena on johtavassa asemassa harjoittaa yritystoimintaa ja jonka hakemukseen elinkeino-, liikenne- ja ympäristökeskus on tehnyt myönteisen osapäätöksen, myönnetään hakemuksesta yrittäjän oleskelulupa.

@@ -1,14 +1,10 @@
-# 80 § Työnteko-oikeuden kesto
-Luku: 5 luku Työnteko
+# 80 § Kasvuyrittäjän oleskelulupa
+Luku: 5 luku Työnteko ja elinkeinon harjoittaminen
 
-Jos samaa työnantajaa tai ammattialaa koskeva työntekijän jatko-oleskelulupahakemus on tehty aikaisemman oleskeluluvan voimassa ollessa, ulkomaalainen saa jatkaa aiemman luvan mukaista työntekoa, kunnes uuden hakemuksen johdosta on myönnetty oleskelulupa tai kielteinen päätös on tullut lainvoimaiseksi. Muussa tapauksessa aikaisemman luvan mukainen työnteko-oikeus päättyy luvan voimassaolon päättyessä. Uuden oleskeluluvan mukainen työnteko-oikeus alkaa, kun lupa on myönnetty.
+Ulkomaalaiselle kasvuyrittäjälle myönnetään jatkuva kasvuyrittäjän oleskelulupa, jos se toimii tai sen tarkoituksena on toimia päätoimisesti vastuuasemassa sellaisessa Suomeen rekisteröidyssä tai rekisteröitävässä yrityksessä, jonka liiketoimintamalli ja yrityksessä toimivien henkilöiden henkilökohtainen osaaminen täyttävät Innovaatiorahoituskeskus Business Finlandin antaman lausunnon mukaan sen alkaville innovatiivisille nopean kasvun yrityksille myöntämää rahoitusta koskevat edellytykset.
 
-Jos ulkomaalaisen työnteko-oikeus perustuu muuhun oleskelulupaan kuin työntekijän oleskelulupaan ja jatko-oleskelulupahakemus on tehty aikaisemman oleskeluluvan voimassa ollessa, työnteko-oikeus jatkuu aikaisemman luvan mukaisena, kunnes uuden hakemuksen johdosta on myönnetty oleskelulupa tai kielteinen päätös on tullut lainvoimaiseksi.
+Oleskelulupahakemukseen on liitettävä 1 momentissa tarkoitettu lausunto, joka on annettu enintään neljä kuukautta ennen oleskelulupahakemuksen vireille panoa.
 
-Jos ulkomaalaisen oleskelulupa on myönnetty 77 §:n 1 momentin 9–11 kohdan nojalla, työnteko-oikeus päättyy luvan voimassaoloajan päättyessä.
+Oleskeluluvan myöntäminen edellyttää, että kasvuyrittäjän toimeentulo on turvattu 39 §:n mukaisesti.
 
-Jos ulkomaalaisen työnteko-oikeus perustuu viisumiin tai viisumivapauteen, oikeus kestää enintään 79 §:ssä säädetyn ajan. Oleskeluluvan hakeminen viisumin tai viisumivapauden voimassa ollessa ei pidennä työnteko-oikeuden kestoa. Työnteko-oikeus päättyy sen estämättä, mitä 79 §:ssä säädetään, kun henkilön käännyttämistä koskeva päätös on täytäntöönpanokelpoinen.
-
-Jos työnteko-oikeus perustuu oleskelulupaan ja henkilö karkotetaan, työnteko-oikeus päättyy, kun karkottamista koskeva päätös on täytäntöönpanokelpoinen.
-
-Jos työnteko-oikeus perustuu kansainvälisen suojelun hakemiseen, työnteko-oikeus päättyy, kun ulkomaalaisen maasta poistamista koskeva päätös on täytäntöönpanokelpoinen tai hänen kansainvälistä suojelua koskeva hakemuksensa on rauennut.
+Myös edellytykset täyttävän kasvuyrittäjän perheenjäsenelle myönnetään jatkuva oleskelulupa Suomessa tai ulkomailla haettuna.

@@ -1,12 +1,6 @@
-# 73 § Työ- ja elinkeinotoimiston osapäätös työntekijän oleskelulupahakemukseen
-Luku: 5 luku Työnteko
+# 73 § Erityisasiantuntijan oleskelulupa
+Luku: 5 luku Työnteko ja elinkeinon harjoittaminen
 
-Työntekijän oleskeluluvan myöntäminen perustuu harkintaan, jossa tulee:
-1) selvittää tarkoitettuun työhön sopivan, työmarkkinoilla käytettävissä olevan työvoiman saatavuus kohtuullisessa ajassa;
-2) huolehtia siitä, että työntekijän oleskeluluvan myöntäminen ei estä 1 kohdassa tarkoitetun henkilön työllistymistä;
-3) varmistaa se, että työntekijän oleskelulupa myönnetään vain edellytykset täyttävälle henkilölle, jos työssä vaaditaan erityistä pätevyyttä tai hyväksyttyä terveydentilaa;
-4) varmistaa, että työnantajan hakemukseen liittämät selvitykset ja vakuutus ovat 72 §:ssä säädetyn mukaiset.
+Ulkomaalaiselle myönnetään hakemuksesta erityisasiantuntijan oleskelulupa, jos hän toimii erityisosaamista vaativissa asiantuntijatehtävissä, josta hänelle maksettava palkka on vähintään keskimääräinen palkansaajan bruttopalkka.
 
-Harkittaessa työntekijän oleskeluluvan myöntämistä tulee ottaa huomioon 71 §:ssä tarkoitetut linjaukset.
-
-Ulkomaalaisen toimeentulon on oltava turvattu ansiotyöstä saatavalla tulolla oleskeluluvan voimassaolon ajan.
+Erityisasiantuntijan oleskelulupaan ei sovelleta 72, 72 a ja 72 b §:ää.

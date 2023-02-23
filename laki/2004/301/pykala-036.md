@@ -8,3 +8,5 @@ Oleskelulupa voidaan jättää myöntämättä, jos on perusteltua aihetta epäi
 Oleskelulupa perhesiteen perusteella voidaan jättää myöntämättä, jos on perusteltua aihetta epäillä perheenkokoajan saaneen oleskelulupansa maahantuloa tai maassa oleskelua koskevia säännöksiä kiertämällä antamalla vääriä tietoja henkilöllisyydestään tai perhesuhteistaan.
 
 Oleskelulupa voidaan jättää myöntämättä myös, jos on perusteltua aihetta epäillä työnantajan tai toimeksiantajan tarkoituksena olevan maahantuloa tai maassa oleskelua koskevien säännösten kiertäminen oleskelulupaa haettaessa.
+
+Jos 2 tai 4 momenttia sovelletaan tämän lain 5 luvussa tarkoitetun työntekoa koskevan hakemuksen edellytysten arvioinnissa, siinä otetaan huomioon lisäksi työnteon perusteella myönnettävän oleskeluluvan yleisten edellytysten sekä työntekijän ja työnantajan selvittämisvelvollisuuden täyttäminen.

@@ -5,7 +5,7 @@ Toimivaltainen käsittelemään 190 §:ssä tarkoitetun valituksen on se hallint
 
 Perhesiteen perusteella myönnettävää oleskelulupaa koskevassa asiassa toimivaltainen hallinto-oikeus on se, jonka tuomiopiirin alueella valittajana oleva perheenjäsen tai asiassa muutoin kuultava perheenjäsen asuu. Jos tällaisia perheenjäseniä asuu Suomessa eri tuomiopiireissä, toimivaltainen hallinto-oikeus on Helsingin hallinto-oikeus.
 
-Työntekijän ja elinkeinonharjoittajan oleskelulupaa koskevassa asiassa toimivaltainen hallinto-oikeus on se, jonka tuomiopiirin alueella hakija asuu. Jollei hakija asu Suomessa, elinkeinonharjoittajan oleskelulupaa koskevassa asiassa toimivaltainen hallinto-oikeus on Helsingin hallinto-oikeus ja työntekijän oleskelulupaa koskevassa asiassa hallinto-oikeus, jonka tuomiopiirissä hakemuksessa tarkoitetun työnantajan toimipaikka sijaitsee.
+Tämän lain 5 luvun mukaisessa oleskelulupaa koskevassa asiassa toimivaltainen hallinto-oikeus on se, jonka tuomiopiirin alueella hakija asuu, ja työnantajan sertifiointia koskevassa asiassa se, jonka tuomiopiirissä työnantajan toimipaikka sijaitsee. Jollei hakija asu Suomessa, yrittäjän ja kasvuyrittäjän oleskelulupaa koskevassa asiassa toimivaltainen hallinto-oikeus on Helsingin hallinto-oikeus ja työntekoa koskevassa asiassa hallinto-oikeus, jonka tuomiopiirissä hakemuksessa tarkoitetun työnantajan toimipaikka sijaitsee.
 
 Helsingin hallinto-oikeus on toimivaltainen käsittelemään ulkomailla asuvan henkilön valituksen, jollei asiaan 2 tai 3 momentissa tarkoitetulla tavalla liity Suomessa asuvaa henkilöä tai työnantajaa.
 

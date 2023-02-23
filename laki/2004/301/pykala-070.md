@@ -1,5 +1,5 @@
-# 70 § Työntekijän oleskelulupajärjestelmän tarkoitus
-Luku: 5 luku Työnteko
-Väliotsikko: Työntekijän ja yrittäjän oleskelulupa sekä muu oleskelulupa ansiotyötä varten
+# 70 § Luvun sääntelyn tarkoitus
+Luku: 5 luku Työnteko ja elinkeinon harjoittaminen
+Väliotsikko: Sääntelyn tarkoitus
 
-Työntekijän oleskelulupa -järjestelmän tarkoituksena on tukea työvoiman saatavuutta suunnitelmallisesti, nopeasti ja joustavasti ottaen huomioon työnantajien ja ulkomaalaisten työntekijöiden oikeusturva sekä työmarkkinoilla jo olevan työvoiman mahdollisuus työllistyä.
+Tämän luvun tarkoituksena on tukea työvoiman saatavuutta suunnitelmallisesti, nopeasti ja joustavasti ottaen huomioon työmarkkinoilla jo olevan työvoiman mahdollisuus työllistyä sekä edistää ulkomaalaisten elinkeinon harjoittamista.

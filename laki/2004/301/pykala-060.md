@@ -6,7 +6,7 @@ Ensimmäistä oleskelulupaa on haettava ennen Suomeen saapumista siinä maassa, 
 
 Jatkolupaa, pysyvää oleskelulupaa ja pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupaa haetaan Suomessa.
 
-Hakemus jätetään Suomessa Maahanmuuttovirastolle. Ensimmäistä oleskelulupaa koskeva hakemus jätetään ulkomailla Suomen edustustolle tai toisen Schengen-valtion edustustolle taikka ulkoiselle palveluntarjoajalle.
+Hakemus jätetään Suomessa Maahanmuuttovirastolle. Ensimmäistä oleskelulupaa koskeva hakemus jätetään ulkomailla Suomen edustustolle tai toisen Schengen-valtion edustustolle taikka ulkoiselle palveluntarjoajalle. Jäljempänä 5 luvussa tarkoitettuja oleskelulupia haetaan Maahanmuuttoviraston sähköisessä asiointipalvelussa. Jos sähköinen asiointi ei ole mahdollista, hakemus voidaan jättää paperisena.
 
 Jos ulkoministeriö on luvan myöntävä viranomainen, lupahakemus voidaan jättää ulkoministeriölle hakijan jo saavuttua maahan.
 

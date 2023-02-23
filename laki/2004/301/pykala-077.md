@@ -1,19 +1,6 @@
-# 77 § Muu oleskelulupa ansiotyötä varten
-Luku: 5 luku Työnteko
+# 77 § Työnantajan sertifioinnin vaikutus
+Luku: 5 luku Työnteko ja elinkeinon harjoittaminen
 
-Muu oleskelulupa ansiotyötä varten myönnetään ulkomaalaiselle, joka:
-1) toimii yrityksen yli- tai keskijohdon taikka erityisosaamista vaativissa asiantuntijatehtävissä;
-2) toimii urheilijana, valmentajana tai urheilutuomarina, kun toiminta on ammattimaista;
-3) toimii uskonnollisen tai aatteellisen yhteisön palveluksessa;
-4) toimii ammattimaisesti kulttuurin tai taiteen alalla ravintolamuusikoita lukuun ottamatta;
-5) toimii kansainvälisessä järjestössä tai valtioiden väliseen viralliseen yhteistyöhön liittyvissä tehtävissä;
-6) toimii ammattimaisesti joukkoviestinnän alalla, jollei hänen työn- eikä toimeksiantajallaan ole toimipaikkaa Suomessa;
-7) tutkii markkinoita, valmistelee yrityksen sijoittautumista Suomeen, neuvottelee tilauksista, hankkii tilauksia tai valvoo tehtyjen tilausten toimeenpanoa tai toimii muissa vastaavissa tehtävissä, jollei hänen työn- eikä toimeksiantajallaan ole toimipaikkaa Suomessa;
-8) on suorittanut Suomessa tutkinnon tai tutkimuksen loppuun ja maassa oleskelun pääasiallinen tarkoitus on työnteko;
-9) toimii kutsun tai sopimuksen nojalla vierailevana opettajana, luennoitsijana, kouluttajana tai konsulttina, jos työ kestää enintään vuoden;
-10) tekee yksittäisen ulkomailta maahan tuodun tai maasta ulkomaille vietävän koneen, laitteen, tuotantolinjan tai asiantuntijajärjestelmän toimitussopimukseen sisältyvän työn, jos työ kestää enintään kuusi kuukautta; tai
-11) tekee työn, joka sisältyy valtioiden väliseen sopimukseen tai kansalaisjärjestöjen vaihto-ohjelmaan, jos työ kestää enintään 18 kuukautta.
+Ulkomaalaisen oleskelulupahakemukseen, joka koskee tässä luvussa säädettyä oleskelulupaa ansiotyön tekemiseksi sertifioidun työnantajan palveluksessa, sovelletaan 71 a §:n 1 momentin 1 kohtaa ja 2 momenttia sekä 71 b §:n 1 momentin 1–5 kohtaa ja 2 momenttia.
 
-Jos työnteko kestää kauemmin kuin 1 momentin 9–11 kohdassa säädetään, ulkomaalaisen on haettava työntekijän oleskelulupaa.
-
-Ulkomaalaisen toimeentulon on oltava turvattu ansiotyöstä saatavalla tulolla oleskeluluvan voimassaolon ajan.
+Maahanmuuttovirasto pitää internetsivuillaan julkista luetteloa voimassa olevista työnantajan sertifioinneista. Luettelossa mainitaan työnantajan nimi, y-tunnus ja sertifioinnin voimassaoloaika.

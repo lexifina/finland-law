@@ -1,21 +1,19 @@
-# 78 § Työnteko-oikeus oleskeluluvan nojalla
-Luku: 5 luku Työnteko
-Väliotsikko: Työnteko-oikeus
+# 78 § Työnantajan sertifioinnin peruuttaminen
+Luku: 5 luku Työnteko ja elinkeinon harjoittaminen
 
-Ulkomaalaisella, jolle on myönnetty työntekijän oleskelulupa, on työnteko-oikeus 74 §:ssä määritellyin rajauksin.
+Työnantajan sertifiointi voidaan peruuttaa, jos:
+1) työnantaja ei enää täytä 76 §:n 1 momentissa säädettyjä ja 2 momentin nojalla valtioneuvoston asetuksessa säädettyjä sertifioinnin myöntämisen edellytyksiä;
+2) työnantaja tai tämän edustaja on tuomittu 186 §:ssä säädetystä työnantajan ulkomaalaisrikkomuksesta;
+3) työnantajalle tai tämän edustajalle on tehty 187 §:ssä säädetty pidättäytymispäätös;
+4) työnantajalle määrätään työsopimuslain (55/2001) 11 a luvun 3 §:ssä säädetty seuraamusmaksu;
+5) työnantaja tai tämän edustaja määrätään liiketoimintakiellosta annetussa laissa (1059/1985) säädettyyn liiketoimintakieltoon;
+6) työnantaja tuomitaan rikoslain 9 luvussa säädettyyn yhteisösakkoon; tai
+7) työnantaja tai työnantajan edustaja on syytettynä tai tuomittu sakko- tai vankeusrangaistukseen liiketoiminnan yhteydessä tehdystä rikoksesta, josta on säädetty enimmäisrangaistukseksi vankeutta.
 
-Ulkomaalaisella, jolle on myönnetty muu oleskelulupa ansiotyötä varten, on luvan perusteen mukainen työnteko-oikeus. Myös muulla perusteella myönnetyn oleskeluluvan haltijalla on oikeus tehdä 77 §:n 1 momentin 1–5 kohdassa tarkoitettua työtä.
+Seuraamuksen, päätöksen tai tuomion ei tarvitse olla lainvoimainen.
 
-Työnteko-oikeus on lisäksi ulkomaalaisella:
-1) jolle on myönnetty pysyvä oleskelulupa, 56 a §:n mukainen pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa tai jatkuva oleskelulupa muulla kuin työnteon perusteella;
-2) jolle on myönnetty oleskelulupa perhesiteen perusteella;
-3) jolle on myönnetty tilapäinen oleskelulupa tilapäisen suojelun tai muun humanitaarisen maahanmuuton perusteella;
-5) jolle on myönnetty tilapäinen oleskelulupa 52 a tai 52 d §:n perusteella;
-6) jonka oleskelulupa on myönnetty maasta poistumisen estymisen vuoksi 51 §:n perusteella;
-7) jolle ulkoministeriö on myöntänyt oleskeluluvan edustuston rakennus-, korjaus- tai huoltotyön tekemistä varten.
+Kun sertifioinnin peruuttamista koskeva asia on tullut vireille ja se on annettu tiedoksi työnantajalle, 77 §:ää ei sovelleta. Kun peruuttamista koskeva päätös on tehty, 77 §:ää ei sovelleta ennen kuin päätös on lainvoimainen.
 
-Ulkomaalaiselle, joka työskentelee oleskeluluvan nojalla, myönnetään hakemuksesta oikeus työntekoon ilman ammattialarajoitusta tai muuta rajoitusta, jos on perusteltua aihetta epäillä, että hänen työnantajansa on merkittävällä tavalla laiminlyönyt velvollisuuksiaan työnantajana tai muulla tavalla hyväksikäyttänyt häntä ja jos ulkomaalaisen uusi työnantaja liittää hakemukseen 72 §:n 1 ja 2 kohdassa ja Maahanmuuttoviraston vaatiessa 3 kohdassa tarkoitetut liitteet.
-
-Ulkomaalainen, jolle on myönnetty 54 b §:ssä tarkoitettu oleskelulupa, saa työpaikan löydettyään aloittaa työnteon tai yritystoiminnan.
-
-Tähän pykälään perustuvasta työnteko-oikeudesta on 3 momentin 7 kohdassa tarkoitettua oleskelulupaa lukuun ottamatta tehtävä merkintä ulkomaalaisen oleskeluluvan yhteyteen.
+Sertifiointi voidaan myöntää uudelleen aikaisintaan:
+1) kahden vuoden kuluttua peruuttamispäätöksestä, jos päätös perustuu 1 momentin 2 tai 3 kohtaan ja kun työnantajan ulkomaalaisrikkomuksesta tuomittu seuraamus on suoritettu tai pidättäytymispäätöksessä määrätty aika on kulunut;
+2) viiden vuoden kuluttua peruuttamispäätöksestä, jos päätös perustuu 1 momentin 4–7 kohtaan ja kun seuraamus on suoritettu, liiketoimintakielto on päättynyt tai rangaistus on suoritettu.

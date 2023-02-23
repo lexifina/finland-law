@@ -5,6 +5,8 @@ DNA-tutkimus tehdään Terveyden ja hyvinvoinnin laitoksessa. DNA-tutkimuksen te
 
 DNA-tutkimusta varten tarvittava näyte otetaan suun limakalvolta tai verinäytteenä. Suun limakalvolta näytteen ottaa asianosainen itse, Maahanmuuttoviraston tai ulkoasiainhallinnon virkamies taikka muu tarkoitukseen soveltuva henkilö. Verinäytteen ottaa terveydenhuollon ammattihenkilö. Maahanmuuttoviraston tai ulkoasiainhallinnon virkamies lähettää näytteen 1 momentissa mainitulle tutkimuksen tekijälle.
 
-Tutkimusnäytteen ottamista valvoo ja näytteenantajan henkilöllisyyden varmistaa Maahanmuuttoviraston tai ulkoasiainhallinnon virkamies. Virkamiehen on oltava läsnä henkilökohtaisesti koko näytteen ottamisen ajan.
+Tutkimusnäytteen ottamista valvoo ja näytteenantajan henkilöllisyyden varmistaa Maahanmuuttoviraston tai ulkoasiainhallinnon virkamies tai Suomen edustustoon työsuhteessa oleva edustuston päällikön määräämä henkilö, jolla on tehtävän edellyttämät taidot. Virkamiehen tai Suomen edustuston päällikön määräämän henkilön on oltava läsnä henkilökohtaisesti koko näytteen ottamisen ajan.
+
+Suomen edustustoon työsuhteessa olevaan edustuston päällikön määräämään henkilöön sovelletaan rikoslain 40 luvun 1–3, 5, 7, 8, 9 ja 10 §:n rikosoikeudellista virkavastuuta koskevia säännöksiä, viraltapanoseuraamusta lukuun ottamatta, hänen suorittaessaan tässä pykälässä tarkoitettua tehtävää. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.
 
 Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä DNA-tutkimuksen suorittamisesta.

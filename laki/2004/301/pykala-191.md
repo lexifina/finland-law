@@ -9,5 +9,4 @@ Seuraaviin tämän lain nojalla tehtyihin päätöksiin ei saa hakea muutosta va
 5) päätös oleskeluluvan myöntämisestä tilapäisen suojelun perusteella turvapaikkahakemuksen käsittelyn ollessa kesken;
 7) päätös, jossa turvapaikkahakemuksen käsittelyn on todettu raukeavan 111 §:n 2 momentin nojalla;
 8) päätös, jossa asian on todettu raukeavan sen johdosta, että hakija on peruuttanut hakemuksensa tai todennäköisesti muuttanut pois Suomesta;
-9) työ- ja elinkeinotoimiston 75 §:n nojalla antama ennakkotieto;
 10) päätös 52 b §:n mukaisesta harkinta-ajasta ja sen keskeyttämisestä.
