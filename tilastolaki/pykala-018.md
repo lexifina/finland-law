@@ -17,4 +17,4 @@ Toimipaikkojen osalta julkisia ovat tiedot toimipaikkatunnuksesta, toiminta-ajas
 
 Rekisteriin tehdyillä merkinnöillä ei ole oikeusvaikutuksia.
 
-Jokaisella on oikeus saada rekisteristä tietoja kopiona tai sähköisessä muodossa viranomaisten toiminnan julkisuudesta annetun lain 16 §:n 3 momentin estämättä. Henkilötietolain 3 §:n 5 kohdassa tarkoitetulla rekisteröidyllä on kuitenkin kyseisen lain 30 §:n mukainen oikeus kieltää itseään koskevien tietojen käsittely. Rekisteriin merkittyjen henkilötietojen käsittelyyn sovelletaan muutoinkin, mitä henkilötietolaissa säädetään.
+Jokaisella on oikeus saada rekisteristä tietoja kopiona tai sähköisessä muodossa viranomaisten toiminnan julkisuudesta annetun lain 16 §:n 3 momentissa säädetyn estämättä. Oikeudesta saada tieto ja muusta henkilötietojen luovuttamisesta viranomaisen rekisteristä säädetään tietosuojalain 28 §:ssä.

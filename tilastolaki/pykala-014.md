@@ -3,7 +3,7 @@ Luku: 5 luku Tilastokeskuksen tilastotointa koskevat säännökset
 
 Valtion viranomaiset ovat velvollisia antamaan salassapitosäännösten estämättä Tilastokeskukselle tilastojen laatimisen kannalta välttämättömät tiedot hallussaan olevista tietoaineistoista sekä tiedot omasta toiminnastaan, taloudestaan, hoitamistaan tehtävistä, henkilöstöstään ja muista toiminnan edellyttämistä voimavaroista.
 
-Kunnat ja kuntayhtymät ovat velvollisia antamaan salassapitosäännösten estämättä Tilastokeskukselle tilastojen laatimisen kannalta välttämättömät tiedot taloudestaan, hyödykkeistään, toiminnan sijainnista, henkilöstöstään ja muista toiminnan edellyttämistä voimavaroista.
+Kuntien, kuntayhtymien, hyvinvointialueiden ja hyvinvointiyhtymien viranomaiset ovat velvollisia antamaan salassapitosäännösten estämättä Tilastokeskukselle tilastojen laatimisen kannalta välttämättömät tiedot niiden taloudesta, hyödykkeistä, toiminnan sijainnista, henkilöstöstä ja muista toiminnan edellyttämistä voimavaroista.
 
 Elinkeinonharjoittajat, kuntien ja valtion liikelaitokset sekä voittoa tavoittelemattomat yhteisöt ja säätiöt ovat velvollisia antamaan salassapitosäännösten estämättä Tilastokeskukselle tilastojen laatimisen kannalta välttämättömät tiedot harjoittamansa toiminnan lajista, sijainnista, omistamisesta ja taloudesta, hyödykkeistään, henkilöstöstään ja muista toiminnan edellyttämistä voimavaroista.
 

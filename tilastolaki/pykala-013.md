@@ -14,6 +14,6 @@ Tilastoviranomainen ei saa luovuttaa 2 momentin 1 kohdassa tarkoitetuissa tilant
 
 Tilastoviranomainen päättää tietojen luovuttamisesta ja käyttöoikeuden antamisesta. Luovutettuja tai käyttöoikeuden kautta saatuja tietoja ei saa luovuttaa edelleen, jollei tilastoviranomainen anna tähän lupaa. Tietojen luovuttamisesta tai käyttöoikeuden antamisesta säädetään muutoin viranomaisten toiminnan julkisuudesta annetun lain 28 §:ssä.
 
-Mitä 1—4 momentissa säädetään, ei estä tietojen antamista takaisin sille viranomaiselle, joka on toimittanut tietoaineiston tilastoviranomaiselle.
+Mitä 1–4 momentissa säädetään, ei estä tietojen antamista takaisin alkuperäisessä tietosisällössä sille viranomaiselle tai muulle tiedonantajalle, joka on toimittanut tietoaineiston tilastoviranomaiselle.
 
 Tietojen, joita tilastoja laativa muu viranomainen on tilastoja varten erikseen kerännyt, luovuttamisesta säädetään viranomaisten toiminnan julkisuudesta annetun lain 28 §:ssä. Tilastoja laativa muu viranomainen päättää kuitenkin aina luvan antamisesta.
