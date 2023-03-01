@@ -5,10 +5,10 @@ Vakuutusoikeuden 2 §:ssä tarkoitettuun kokoonpanoon kuuluu lisäksi kaksi työ
 1) yksityisoikeudellisessa työsuhteessa olevien työeläkeasioista;
 2) tapaturmavakuutus-asioista;
 3) työttömyyspäivärahasta, työmarkkinatuesta, työvoimapoliittisesta koulutustuesta, koulutuspäivärahasta, aikuiskoulutustuesta, ylläpitokorvauksesta, vuorottelukorvauksesta, palkkaturvasta taikka siitä, että henkilön pääsy työttömyyskassan jäseneksi on evätty tai hänet on erotettu kassan jäsenyydestä;
-4) kunnan palveluksessa olevien ansioeläkeasioista;
+4) hyvinvointialueen tai kunnan palveluksessa olevien ansioeläkeasioista;
 5) valtion palveluksessa tai siihen rinnastettavassa palveluksessa olevien ansioeläkeasioista;
 6) yrittäjien ansioeläkeasioista;
 7) maatalousyrittäjien ja maatalousyrittäjien tehtäviin rinnastettavissa tehtävissä toimineiden ansioeläkeasioista tai tapaturmavakuutusasioista;
-8) sotilastapaturma-asioista.
+8) sotilas- ja kriisinhallintatapaturma-asioista.
 
 Edellä 1 momentin 1—5 ja 8 kohdassa tarkoitetuissa asioissa käsittelyyn osallistuvista, mainitussa momentissa tarkoitetuista jäsenistä toisen tulee edustaa työnantajatahoa ja toisen työntekijätahoa.
