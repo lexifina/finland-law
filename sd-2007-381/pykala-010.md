@@ -5,4 +5,4 @@ Jokaisella on oikeus olla läsnä asian suullisessa käsittelyssä, jollei täss
 
 Hallintotuomioistuimen on ilmoitettava suullisesta käsittelystä ja siinä käsiteltävistä asioista sekä käsittelykokoonpanosta viimeistään istunnon alkaessa.
 
-Hallintotuomioistuimen toimittamaan katselmukseen sovelletaan, mitä tässä laissa säädetään suullisesta käsittelystä.
+Hallintotuomioistuimen toimittamaan suulliseen valmisteluun, katselmukseen ja tarkastukseen sovelletaan, mitä tässä laissa säädetään suullisesta käsittelystä.
