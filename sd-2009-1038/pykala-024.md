@@ -6,5 +6,3 @@ Muuhun kuin 17 §:n nojalla tehtyyn päätökseen saa vaatia oikaisua. Oikaisuva
 Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
 
 Liikenne- ja viestintäviraston päätöstä on noudatettava muutoksenhausta huolimatta, jollei muutoksenhakuviranomainen toisin määrää.
-
-Muutoksenhausta Liikenne- ja viestintäviraston henkilöluettelointijärjestelmän hyväksymisestä perittävään maksuun säädetään valtion maksuperustelaissa.
