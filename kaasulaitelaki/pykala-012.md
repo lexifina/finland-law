@@ -18,6 +18,13 @@ Joka tahallaan tai huolimattomuudesta rikkoo
 14) 5 §:ssä säädettyä velvollisuutta toimittaa kaasulaitteeseen liittyvät asiakirjat, merkinnät, ohjeet ja turvallisuustiedot suomen ja ruotsin kielellä,
 on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta, kaasulaitteiden vaatimustenmukaisuutta koskevien säännösten rikkomisesta sakkoon.
 
-Se, joka rikkoo tämän lain tai eräiden tuotteiden markkinavalvonnasta annetun lain nojalla määrättyä, uhkasakolla tehostettua kieltoa tai määräystä, voidaan jättää tuomitsematta rangaistukseen samasta teosta.
+Jollei teko ole vähäinen tai teosta muualla laissa säädetä ankarampaa rangaistusta, kaasulaitteiden vaatimustenmukaisuutta koskevien säännösten rikkomisesta tuomitaan myös se, joka tahallaan rikkoo
+1) markkinavalvonnasta ja tuotteiden vaatimustenmukaisuudesta sekä direktiivin 2004/42/EY ja asetusten (EY) N:o 765/2008 ja (EU) N:o 305/2011 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2019/1020, jäljempänä markkinavalvonta-asetus, 4 artiklan 3 kohdan a alakohdassa säädettyä valmistajan tai maahantuojan velvollisuutta pitää vaatimustenmukaisuusvakuutus ja tekniset asiakirjat markkinavalvontaviranomaisen saatavilla kymmenen vuoden ajan ja varmistaa, että tekniset asiakirjat voidaan antaa pyynnöstä markkinavalvontaviranomaisen saataville,
+2) markkinavalvonta-asetuksen 4 artiklan 3 kohdan a alakohdassa säädettyä EU-vaatimustenmukaisuusvakuutusta tai teknisiä asiakirjoja koskevaa valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta,
+3) markkinavalvonta-asetuksen 4 artiklan 3 kohdan b alakohdassa säädettyä tietojen ja asiakirjojen toimittamista koskevaa valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta,
+4) markkinavalvonta-asetuksen 4 artiklan 3 kohdan c alakohdassa säädettyä valtuutetun edustajan tai jakelupalvelujen tarjoajan ilmoittamisvelvollisuutta,
+5) markkinavalvonta-asetuksen 4 artiklan 3 kohdan d alakohdassa säädettyä valtuutetun edustajan tai jakelupalvelujen tarjoajan korjaaviin toimiin ryhtymistä ja riskien vähentämistä koskevaa velvollisuutta.
+
+Kaasulaitteiden vaatimustenmukaisuutta koskevien säännösten rikkomisesta voidaan jättää syyte nostamatta tai rangaistus tuomitsematta, jos teon johdosta annetusta muusta viranomaisen päätöksestä aiheutuneita taloudellisia seurauksia on pidettävä tekijälle teon vakavuuteen nähden riittävinä.
 
 CE-merkintärikkomuksesta säädetään CE-merkintärikkomuksesta annetussa laissa (187/2010).
