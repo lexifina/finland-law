@@ -14,5 +14,7 @@ kolmannen maan luottolaitoksen sivuliike | 1 000
 luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetussa laissa tarkoitettu sijoituspalveluyritys | 1 000
 luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetussa laissa tarkoitettu kolmannen maan sijoituspalveluyritys | 1 000
 arvopaperikeskus | 25 000
+keskusvastapuolten elvytys- ja kriisinratkaisuasetuksen 2 artiklan 12 alakohdassa tarkoitettu määritysosapuoli, jonka keskusvastapuolen kriisinratkaisukollegiossa virasto on jäsenenä | 10 000
+arvo-osuusjärjestelmästä ja selvitystoiminnasta annetussa laissa tarkoitettu keskusvastapuoli | 100 000
 
 Jos luottolaitoksen omistusyhteisö on samalla toisen konsernin tytäryhteisö, sen emoyhteisöltä ei peritä maksua samalla perusteella.
