@@ -1,0 +1,2 @@
+Kuvaohjelmalaki
+Eduskunnan päätöksen mukaisesti säädetään:
