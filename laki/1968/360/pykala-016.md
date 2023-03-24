@@ -12,4 +12,5 @@ Tulon hankkimisesta tai säilyttämisestä johtuneita menoja eivät ole:
 7) edellä 6 §:n 1 momentin 1 kohdassa tarkoitetun yhteisön sellaiselta osakeyhtiöltä, josta verovelvollinen tai 6 b §:n 7 momentissa tarkoitetut konserniyhtiöt omistavat yksin tai yhdessä vähintään kymmenen prosenttia osakepääomasta, olevien muiden saamisten kuin myyntisaamisten menetykset ja arvonalenemiset, tällaiselle yhtiölle annettu konsernituki sekä muut vastaavat osakeyhtiön taloudellisen aseman parantamiseksi ilman vastasuoritusta suoritetut menot;
 8) lahjukset eivätkä lahjusten luonteiset edut;
 9) osakeyhtiön omista osakkeista suorittama määrä, ellei 18 §:n 3 momentissa toisin säädetä;
-10) muuhun omaisuuteen kuuluvan tuloverolain 53 a §:ssä tarkoitetun osakaslainan sekä muun, muussa kuin tulohankkimistarkoituksessa annetun saamisen menetys.
+10) muuhun omaisuuteen kuuluvan tuloverolain 53 a §:ssä tarkoitetun osakaslainan sekä muun, muussa kuin tulohankkimistarkoituksessa annetun saamisen menetys;
+11) sähköalan ja fossiilisten polttoaineiden alan väliaikaisista voittoveroista annetun lain (363/2023) nojalla suoritettavat verot.
