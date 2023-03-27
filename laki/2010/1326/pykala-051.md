@@ -1,6 +1,6 @@
-# 51 § Perusterveydenhuollon hoitoon pääsy
+# 51 § Yhteyden saaminen perusterveydenhuollon yksikköön ja arvio hoidon tarpeesta
 Luku: 6 luku Hoitoon pääsy
 
-Hyvinvointialueen on järjestettävä toimintansa siten, että potilas voi saada arkipäivisin virka-aikana välittömästi yhteyden terveyskeskukseen tai muuhun terveydenhuollon toimintayksikköön. Terveydenhuollon ammattihenkilön on tehtävä hoidon tarpeen arviointi viimeistään kolmantena arkipäivänä siitä, kun potilas otti yhteyden terveyskeskukseen, jollei arviota ole voitu tehdä ensimmäisen yhteydenoton aikana. Perusterveydenhuollon yhteydessä toteutettavassa erikoissairaanhoidossa hoidon tarpeen arviointi on aloitettava kolmen viikon kuluessa siitä, kun lähete on saapunut toimintayksikköön.
+Hyvinvointialueen on järjestettävä toimintansa siten, että potilas voi saada arkipäivisin virka-aikana saman päivän aikana yhteyden terveyskeskukseen tai muuhun perusterveydenhuollon toimintayksikköön ja saada yksilöllisen arvion tutkimustensa tai hoitonsa tarpeesta ja kiireellisyydestä sekä siitä, minkä terveydenhuollon ammattihenkilön tekemiä tutkimuksia tai antamaa hoitoa potilas tarvitsee.
 
-Hoidon tarpeen arvioinnin yhteydessä lääketieteellisesti tai hammaslääketieteellisesti tarpeelliseksi todettu hoito on järjestettävä potilaan terveydentila ja sairauden ennakoitavissa oleva kehitys huomioon ottaen kohtuullisessa ajassa, kuitenkin kolmessa kuukaudessa siitä, kun hoidon tarve on arvioitu. Tämä kolmen kuukauden enimmäisaika voidaan ylittää suun terveydenhuollossa ja perusterveydenhuollon yhteydessä toteutettavassa erikoissairaanhoidossa enintään kolmella kuukaudella, jos lääketieteellisistä, hoidollisista tai muista vastaavista perustelluista syistä hoidon antamista voidaan lykätä potilaan terveydentilan vaarantumatta.
+Arvion tekee laillistettu terveydenhuollon ammattihenkilö. Suun terveydenhuollossa arvion voi tehdä myös nimikesuojattu terveydenhuollon ammattihenkilö.
