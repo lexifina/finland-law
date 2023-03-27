@@ -1,7 +1,7 @@
 # 35 § Yhteydenotto sosiaalihuoltoon tuen tarpeen arvioimiseksi
 Luku: 4 luku Sosiaalihuollon toteuttaminen
 
-Jos terveydenhuollon ammattihenkilöistä annetussa laissa (559/1994) tarkoitettu terveydenhuollon ammattihenkilö, sosiaalikuraattori taikka sosiaalitoimen, opetustoimen, liikuntatoimen, lasten päivähoidon, pelastuslaitoksen, Hätäkeskuslaitoksen, Tullin, poliisin, Rikosseuraamuslaitoksen, työ- ja elinkeinoviranomaisen, Kansaneläkelaitoksen tai ulosottoviranomaisen palveluksessa oleva on tehtävässään saanut tietää henkilöstä, jonka sosiaalihuollon tarve on ilmeinen, hänen on ohjattava henkilö hakemaan sosiaalipalveluja tai henkilön antaessa suostumuksensa otettava yhteyttä hyvinvointialueen sosiaalihuollosta vastaavaan viranomaiseen, jotta tuen tarve arvioitaisiin.
+Jos terveydenhuollon ammattihenkilöistä annetussa laissa (559/1994) tarkoitettu terveydenhuollon ammattihenkilö, sosiaalikuraattori taikka sosiaalitoimen, opetustoimen, liikuntatoimen, lasten päivähoidon, pelastuslaitoksen, Hätäkeskuslaitoksen, Tullin, poliisin, Rikosseuraamuslaitoksen, työvoimaviranomaisen, Kansaneläkelaitoksen tai ulosottoviranomaisen palveluksessa oleva on tehtävässään saanut tietää henkilöstä, jonka sosiaalihuollon tarve on ilmeinen, hänen on ohjattava henkilö hakemaan sosiaalipalveluja tai henkilön antaessa suostumuksensa otettava yhteyttä hyvinvointialueen sosiaalihuollosta vastaavaan viranomaiseen, jotta tuen tarve arvioitaisiin.
 
 Jos suostumusta ei voida saada ja henkilö on ilmeisen kykenemätön vastaamaan omasta huolenpidostaan, terveydestään tai turvallisuudestaan, tai lapsen etu sitä välttämättä vaatii, 1 momentissa tarkoitettujen henkilöiden on tehtävä ilmoitus sosiaalihuollon tarpeesta salassapitosäännösten estämättä viipymättä.
 

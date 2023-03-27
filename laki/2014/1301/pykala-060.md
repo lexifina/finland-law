@@ -1,6 +1,0 @@
-# 60 § Toisen hyvinvointialueen sosiaalipalvelujen ja hoitopaikan hakeminen
-Luku: 7 luku Erinäiset säännökset
-
-Se, joka haluaa muuttaa toisen hyvinvointialueen asukkaaksi, mutta ei ikänsä, vammaisuutensa tai muun sellaisen syyn vuoksi kykene asumaan siellä itsenäisesti, voi hakea tämän hyvinvointialueen sosiaalipalveluja ja hoitopaikkaa samoin perustein kuin jos olisi kyseisen hyvinvointialueen asukas. Hyvinvointialueen tulee välittömästi ilmoittaa hakemuksesta ja sen käsiteltäväksi ottamisesta sille hyvinvointialueelle, jonka alueella hakijan kotikunta on. Hyvinvointialueen tulee käsitellä hakemus, arvioida hakijan palvelutarve yhteistyössä sen hyvinvointialueen kanssa, jonka alueella hakijan kotikunta on ja tehdä asiassa päätös. Hakemusta ei kuitenkaan käsitellä, jos hakija on jo tehnyt vastaavan hakemuksen toiselle hyvinvointialueelle ja asian käsittely on vielä kesken.
-
-Jos hyvinvointialue päättää 1 momentissa säädetyin tavoin palvelun myöntämisestä, hakijan on kahden viikon kuluessa päätöksen tiedoksi saamisesta ilmoitettava hyvinvointialueelle palvelun vastaanottamisesta. Hakijalla on oikeus kolmen kuukauden kuluessa päätöksen tiedoksi saamisesta muuttaa osoitettuun hoitopaikkaan. Jos hakija laiminlyö edellä säädettyjen määräaikojen noudattamisen, hänen oikeutensa päätöksen mukaisiin palveluihin raukeaa.
