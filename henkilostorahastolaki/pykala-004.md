@@ -1,6 +1,11 @@
-# 4 § Lain soveltaminen konsernissa
+# 4 § Yhteinen henkilöstörahasto
 Luku: 1 luku Yleiset säännökset
 
-Tätä lakia sovelletaan myös samaan konserniin kuuluvaan kahteen tai useampaan yritykseen ja niiden henkilöstöjen perustamaan yhteiseen henkilöstörahastoon. Konsernin henkilöstörahastoon voi kuulua myös samaan konserniin kuuluvan ulkomaisen yrityksen Suomessa rekisteröidyn sivuliikkeen henkilöstö ja ulkomaisen tytäryrityksen henkilöstö, jos sen emoyritys on suomalainen.
+Yhteinen henkilöstörahasto voidaan perustaa:
+1) samaan konserniin kuuluvien yritysten yhteyteen;
+2) kahden tai useamman yrityksen yhteyteen, jos yrityksillä on keskenään sellainen taloudellinen tai toiminnallinen yhteys, että järjestelyä voidaan pitää henkilöstörahaston hoitamisen ja henkilöstörahaston jäsenten kannalta tarkoituksenmukaisena;
+3) kahden tai useamman valtion viraston ja laitoksen yhteyteen;
+4) kahden tai useamman kunnan tai kuntayhtymän yhteyteen;
+5) kahden tai useamman hyvinvointialueen tai hyvinvointiyhtymän yhteyteen.
 
-Lakia sovelletaan lisäksi kahteen tai useampaan valtion virastoon ja laitokseen taikka kuntaan ja kuntayhtymään ja niiden henkilöstöjen perustamaan yhteiseen henkilöstörahastoon.
+Yhteiseen henkilöstörahastoon voi kuulua myös samaan konserniin kuuluvan ulkomaisen yrityksen Suomessa rekisteröidyn sivuliikkeen henkilöstö ja ulkomaisen tytäryrityksen henkilöstö, jos sen emoyritys on suomalainen.

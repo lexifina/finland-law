@@ -4,7 +4,7 @@ Luku: 4 luku Päätösvalta henkilöstörahastossa
 Henkilöstörahaston on pidettävä ylimääräinen kokous, jos:
 1) henkilöstörahaston kokous niin päättää;
 2) rahaston hallitus katsoo siihen olevan aihetta;
-3) vähintään kymmenen prosenttia rahaston jäsenistä tai henkilöstöryhmä, joka edustaa vähintään kymmentä prosenttia rahaston jäsenistä sitä kirjallisesti vaatii ilmoittamansa asian käsittelyä varten;
+3) vähintään kaksi jäsentä, jotka edustavat vähintään kymmentä prosenttia rahaston jäsenistä tai henkilöstöryhmän edustaja, joka edustaa vähintään kymmentä prosenttia rahaston jäsenistä sitä kirjallisesti vaatii ilmoittamansa asian käsittelyä varten;
 4) säännöissä niin määrätään;
 5) tilintarkastaja vaatii sitä.
 
