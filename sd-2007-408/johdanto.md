@@ -1,0 +1,2 @@
+Laki poikkeusolojen vakuutustakuusta
+Eduskunnan päätöksen mukaisesti säädetään:
