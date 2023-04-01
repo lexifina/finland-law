@@ -5,7 +5,7 @@ Henkilöstörahasto on purettava, jos:
 1) yritys purkautuu tai katsotaan purkautuneeksi;
 2) yritys asetetaan konkurssiin;
 3) virasto lakkautetaan;
-4) kunnan tai kuntayhtymän toiminta lakkaa;
+4) kunnan tai kuntayhtymän taikka hyvinvointialueen tai hyvinvointiyhtymän toiminta lakkaa;
 5) henkilöstörahasto ei täytä tässä laissa säädettyjä vaatimuksia eikä asiantilaa ole korjattu yhteistoiminta-asiamiehen asettamassa määräajassa, joka voi olla enintään kolme vuotta;
 6) henkilöstörahaston kokous muutoin päättää rahaston purkamisesta.
 
