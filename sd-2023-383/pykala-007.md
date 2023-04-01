@@ -1,0 +1,3 @@
+# 7 § Vireillä olevien asioiden siirtyminen
+
+Työ- ja elinkeinotoimistossa, elinkeino-, liikenne- ja ympäristökeskuksessa, kehittämis- ja hallintokeskuksessa tai työllisyyden edistämisen kuntakokeilusta annetussa laissa (1269/2020) tarkoitetussa kokeilukunnassa tämän lain 1 §:n 1 momentissa mainittujen lakien voimaan tullessa vireillä olevat asiat, jotka työvoimapalveluiden järjestämisestä annetun lain tai muun lain nojalla kuuluvat jatkossa työvoimaviranomaiselle, siirtyvät sille työvoimaviranomaiselle, jolle tehtävät järjestämisvastuun myötä siirtyvät, jollei muualla lainsäädännössä toisin säädetä.

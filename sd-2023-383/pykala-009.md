@@ -1,0 +1,3 @@
+# 9 § Omaisuuden siirtyminen
+
+Työvoimapalveluiden järjestämisestä annetussa laissa tarkoitettujen tehtävien hoitamiseen liittyvä irtaimisto, irtaimen omaisuuden omistusta, hallintaa ja käyttöä koskevat oikeudet sekä immateriaaliset oikeudet ja luvat siirtyvät korvauksetta työvoimaviranomaisille työ- ja elinkeinotoimistoilta, elinkeino-, liikenne- ja ympäristökeskuksilta sekä kehittämis- ja hallintokeskukselta 1 päivänä tammikuuta 2025. Jos työvoimapalveluiden järjestämisestä annetussa laissa tarkoitetut tehtävät siirtyvät useammalle kuin yhdelle työvoimaviranomaiselle, omaisuus siirtyy tehtävien siirtymistä vastaavassa suhteessa, elleivät valtio ja työvoimaviranomaiset toisin sovi.
