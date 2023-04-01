@@ -11,3 +11,5 @@ Joka tavaramerkkilain (544/2019), patenttilain (550/1967), mallioikeuslain (221/
 7) hyödyllisyysmallioikeutta tai
 8) kasvinjalostajanoikeutta,
 on tuomittava teollisoikeusrikoksesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+
+Teollisoikeusrikoksesta tuomitaan myös se, joka yhdistetystä patenttituomioistuimesta tehdyn sopimuksen määräysten vastaisesti ja siten, että teko on omiaan aiheuttamaan huomattavaa taloudellista vahinkoa loukatun oikeuden haltijalle, loukkaa sopimuksen soveltamisalaan kuuluvan eurooppapatentin tuottamaa oikeutta.

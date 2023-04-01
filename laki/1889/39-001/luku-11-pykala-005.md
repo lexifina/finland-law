@@ -18,6 +18,6 @@ Joka sodan taikka muun kansainvälisen tai valtionsisäisen aseellisen selkkauks
 14) käyttää myrkkyä tai myrkkyasetta, tukehduttavia tai myrkyllisiä kaasuja taikka muita vastaavia aineita, liiallisia vammoja tai tarpeetonta kärsimystä aiheuttavia aseita, ammuksia tai tarvikkeita taikka kemiallisia, biologisia tai muita kiellettyjä aseita tai taisteluvälineitä,
 on tuomittava sotarikoksesta vankeuteen vähintään yhdeksi vuodeksi tai elinkaudeksi.
 
-Sotarikoksesta tuomitaan myös se, joka tekee Kansainvälisen rikostuomioistuimen Rooman perussäännön (SopS 56/2002) 8 artiklassa sotarikokseksi määritellyn muun teon taikka muulla tavoin rikkoo Suomea velvoittavan sotaa, aseellista selkkausta tai miehitystä koskevan kansainvälisen sopimuksen määräyksiä taikka yleisesti tunnustettuja ja vakiintuneita kansainvälisen oikeuden mukaisia sodan lakeja ja tapoja.
+Sotarikoksesta tuomitaan myös se, joka tekee Kansainvälisen rikostuomioistuimen Rooman perussäännön 8 artiklassa sotarikokseksi määritellyn muun teon taikka muulla tavoin rikkoo Suomea velvoittavan sotaa, aseellista selkkausta tai miehitystä koskevan kansainvälisen sopimuksen määräyksiä taikka yleisesti tunnustettuja ja vakiintuneita kansainvälisen oikeuden mukaisia sodan lakeja ja tapoja.
 
 Yritys on rangaistava.
