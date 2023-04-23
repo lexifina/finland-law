@@ -1,0 +1,2 @@
+Laki kaikkien henkilöiden suojelemiseksi tahdonvastaiselta katoamiselta tehdystä kansainvälisestä yleissopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
