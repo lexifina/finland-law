@@ -5,7 +5,7 @@ Väliotsikko: Ulosottoasian vireillepano
 Ulosottoa haetaan:
 1) kirjallisella hakemuksella tai sähköisellä viestillä, joka toimitetaan ulosottoviranomaiselle;
 2) ulosoton sähköisessä asiointipalvelussa laaditulla hakemuksella;
-3) sähköisellä viestillä, joka toimitetaan teknisen käyttöyhteyden avulla ulosoton valtakunnalliseen tietojärjestelmään, jos Ulosottolaitos on myöntänyt hakijalle siihen luvan (tietojärjestelmähakija).
+3) sähköisellä viestillä, joka toimitetaan teknisen rajapinnan avulla ulosoton valtakunnalliseen tietojärjestelmään, jos Ulosottolaitos on myöntänyt hakijalle siihen luvan (tietojärjestelmähakija).
 
 Kirjallinen hakemus on hakijan tai, jollei hän itse ole sitä laatinut, sen laatijan allekirjoitettava.
 

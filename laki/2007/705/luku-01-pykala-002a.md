@@ -5,7 +5,7 @@ Täytäntöönpano jaetaan laajaan täytäntöönpanoon, perustäytäntöönpano
 
 Laajassa täytäntöönpanossa ja erityistäytäntöönpanossa voidaan panna täytäntöön kaikki 1 ja 2 §:ssä tarkoitetut velvoitteet ja turvaamistoimet.
 
-Perustäytäntöönpano on 24 §:ssä tarkoitettujen ulosottorekisterin ja ulosoton tietojärjestelmässä olevan teknisen käyttöyhteyden avulla tai muutoin sähköisin menetelmin toimitettava rahamääräisten maksuvelvoitteiden täytäntöönpano tapauksissa, joissa velallisen ulosottoasioiden käsittely ei edellytä hänen henkilökohtaista tapaamistaan. Perustäytäntöönpanossa velallisena voi olla muu luonnollinen henkilö kuin elinkeinonharjoittaja. Perustäytäntöönpanossa voidaan:
+Perustäytäntöönpano on 24 §:ssä tarkoitetun ulosottorekisterin ja mainitussa pykälässä tarkoitetussa ulosoton tietojärjestelmässä olevan teknisen rajapinnan avulla tai muutoin sähköisin menetelmin toimitettava rahamääräisten maksuvelvoitteiden täytäntöönpano tapauksissa, joissa velallisen ulosottoasioiden käsittely ei edellytä hänen henkilökohtaista tapaamistaan. Perustäytäntöönpanossa velallisena voi olla muu luonnollinen henkilö kuin elinkeinonharjoittaja. Perustäytäntöönpanossa voidaan:
 1) ulosmitata tuloa ja omaisuutta, jota ei tarvitse muuttaa rahaksi;
 2) suorittaa 3 luvun 18 ja 19 §:ssä tarkoitettu väliaikaistoimi;
 3) toimittaa yksinkertaisessa asiassa ulosottoselvitys siten kuin 3 luvun 60 §:n 3 momentissa säädetään;
