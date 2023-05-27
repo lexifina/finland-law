@@ -1,0 +1,3 @@
+# 1 §
+
+Tietojen vaihtamisesta veroasioissa, luonnollisten henkilöiden kaksinkertaisen verotuksen välttämiseksi, laivoja tai ilma-aluksia kansainvälisessä liikenteessä käyttävien yritysten kaksinkertaisen verotuksen välttämiseksi ja keskinäisestä sopimusmenettelystä etuyhteydessä keskenään olevien yritysten tulon oikaisemisen yhteydessä Suomen tasavallan ja Guernseyn alueen välillä tehtyjen sopimusten (SopS 21 ja 84/2009) muuttamisesta Helsingissä 12 päivänä maaliskuuta 2020 ja Guernseyssä 24 päivänä huhtikuuta 2020 tehtyjen pöytäkirjojen lainsäädännön alaan kuuluvat määräykset ovat lakina voimassa sellaisina kuin Suomi on niihin sitoutunut.
