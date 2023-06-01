@@ -7,3 +7,5 @@ Jos vanha asunto-osakeyhtiö on ilmoittanut yhtiöjärjestyksen tiedot kaupparek
 Yhtiön on viipymättä ilmoitettava osakkeenomistajille osakeluettelon ylläpidon siirtämisestä Maanmittauslaitokselle samalla tavalla kuin kutsu yhtiökokoukseen toimitetaan.
 
 Muutetun asunto-osakeyhtiölain 13 luvun 13 §:n 5 momenttia, 19 luvun 14 §:n 3 ja 4 momenttia sekä 20 luvun 14 §:n 2 ja 3 momenttia sovelletaan vasta sen jälkeen, kun yhtiö on siirtänyt osakeluettelon pidon Maanmittauslaitokselle.
+
+Ennen 7 §:ssä tarkoitettua osakkeenomistajan kirjaamista osakehuoneistorekisteriin Maanmittauslaitos merkitsee vanhan asunto-osakeyhtiölain 2 luvun 12 §:n 5 ja 6 kohdassa tarkoitetun tiedon tai rajoituksen osakeluetteloon asianosaisen hakemuksesta. Merkitsemisen edellytyksenä on osakeluetteloon merkityn osakkeenomistajan suostumus tai muu selvitys.
