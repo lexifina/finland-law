@@ -7,7 +7,7 @@ Hallituksen tehtävänä on erityisesti:
 1) tehdä esitys liikelaitosta koskevaksi talousarvioehdotukseksi sekä siihen liittyvä esitys liikelaitoksen seuraavan vuoden palvelutavoitteiksi ja muiksi toimintatavoitteiksi;
 2) tehdä esitys tulostavoitteiksi ja tuloutustavoitteeksi;
 3) päättää liikelaitoksen toiminnan kehittämisestä asianomaisen ministeriön asettamien taloudellisten tavoitteiden rajoissa sekä seurata ja raportoida tavoitteiden saavuttamista;
-4) valita ja erottaa toimitusjohtaja;
+4) valita ja erottaa toimitusjohtaja, päättää toimitusjohtajan palkkauksesta, luontois-eduista ja muista taloudellisista eduista; ennen toimitusjohtajan palkkauksen, luontois-etuihin ja muuhun taloudelliseen etuuteen liittyvän asian käsittelyä liikelaitoksen hallituksen on hankittava asiasta valtiovarainministeriön lausunto;
 5) päättää liikelaitoksen lainanotosta;
 6) päättää liikelaitoksen merkittävistä investoinneista ja muista pitkävaikutteisista menoista;
 7) päättää liikelaitoksen hallitsemien osakkeiden osalta osakkeenomistajalle kuuluvien oikeuksien käyttämisestä siten kuin valtion yhtiöomistuksesta ja omistajaohjauksesta annetun lain (1368/2007) 6 §:ssä virastoista ja laitoksista säädetään;
