@@ -1,0 +1,2 @@
+Laki yhdistetyn patenttituomioistuimen paikallisjaostosta Suomessa
+Eduskunnan päätöksen mukaisesti säädetään:
