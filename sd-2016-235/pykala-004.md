@@ -2,7 +2,7 @@
 
 Osakeyhtiö on valtion alueella, jolla sillä on oikeus harjoittaa metsätaloutta, oikeutettu edustamaan Metsähallitusta ja käyttämään valtiolle maanomistajana kuuluvaa puhevaltaa asiassa, joka koskee:
 1) lainsäädäntöön perustuvaa naapurin tai naapurikiinteistön omistajan kuulemista;
-2) muun alueen kuin luonnonsuojelulaissa (1096/1996) tarkoitetun luonnonsuojelualueen ja muinaismuistolaissa (295/1963) rauhoitetutuksi säädetyn muinaismuiston suoja-alueen rajankäyntiä;
+2) muun alueen kuin luonnonsuojelulaissa (9/2023) tarkoitetun luonnonsuojelualueen ja muinaismuistolaissa (295/1963) rauhoitetutuksi säädetyn muinaismuiston suoja-alueen rajankäyntiä;
 3) Metsähallituksen oikeutta edustaa yhteismetsälaissa (109/2003) tarkoitetun osakaskunnan kokouksessa;
 4) Metsähallituksen edustautumista yhteisaluelaissa (758/1989) tarkoitetun osakaskunnan, venevalkaman hallinnointia varten olevaa ja yhteisen vesialueen osakaskuntaa lukuun ottamatta, kokouksessa;
 5) Metsähallitusta yksityistielaissa (560/2018) tarkoitettuna tieosakkaana.
