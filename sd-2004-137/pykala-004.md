@@ -6,6 +6,7 @@ Tuomioistuimen on merkittävä rekisteriin konkurssiasian käsittelystä:
 3) pesänhoitajien nimet ja yhteystiedot sekä määräys tehtävien jakamisesta pesänhoitajien kesken;
 4) hakemuksen hylkääminen tai tutkimatta jättäminen sekä asian jääminen sillensä, siirtäminen tai palauttaminen toiseen tuomioistuimeen;
 5) konkurssin peruuntuminen tai raukeaminen;
+5 a) konkurssimenettelyn päättävän sovinnon vahvistaminen;
 6) julkisselvitykseen siirtyminen ja konkurssipesän hallinnon palauttaminen;
 7) jakoluettelon vahvistaminen;
 8) tuomioistuin, jossa konkurssiin asettamista koskevaan päätökseen voidaan hakea muutosta, ja muutoksenhaun määräajat;
