@@ -1,0 +1,5 @@
+# 2 b § Matkailupalvelujen turvaaminen
+
+Kolin matkailukeskuksen alueella saa rauhoitussäännösten estämättä ylläpitää kansallispuiston matkailua palvelevan hotellin majoitus-, ravintola- ja muita palvelutiloja sekä olemassa olevia laskettelurinteitä sekä kunnostaa ja rakentaa laskettelurakennelmia. Rakentaminen ei saa vaarantaa kansallispuiston perustamistarkoitusta tai suojeltujen luonnonarvojen säilymistä. Rakentamisen yhteydessä on myös varmistettava kansallispuiston maisemallisten sekä rakennetun ympäristön erityisarvojen säilyminen. Kansallispuistoa koskevien luonnonsuojelullisten erityisvaatimusten vuoksi edellä mainittujen matkailupalveluiden välittömät ja välilliset vaikutukset eivät saa olla laajuudeltaan tai nykyisestä tilasta niin poikkeavia, että ne muuttavat merkittävästi kansallispuiston luonnetta tai olosuhteita.
+
+Kansallispuistoaluetta koskevat vuokrasopimukset jäävät voimaan kussakin sopimuksessa määrätyksi ajaksi. Sopimusten voimassaoloaikaa voidaan sopijaosapuolten niin päättäessä jatkaa.
