@@ -3,7 +3,7 @@ Luku: 3 luku Sivullisen tiedonantovelvollisuus
 
 Digi- ja väestötietoviraston sekä Ahvenanmaan maakunnassa Ahvenanmaan valtionviraston on toimitettava Verohallinnolle verotusta varten tarpeelliset väestötietojärjestelmään sisältyvät tiedot.
 
-Kaupparekisterilaissa (129/1979) tarkoitetun rekisteriviranomaisen tai paikallisviranomaisen on toimitettava Verohallinnolle verotusta varten tarpeelliset kaupparekisteriin sisältyvät tiedot.
+Kaupparekisterilaissa (564/2023) tarkoitetun rekisteriviranomaisen on toimitettava Verohallinnolle verotusta varten tarpeelliset kaupparekisteriin sisältyvät tiedot.
 
 Maaseutuelinkeinohallinnon tietojärjestelmästä annetussa laissa (284/2008) tarkoitetun rekisteriviranomaisen on toimitettava Verohallinnolle verotusta varten tarpeelliset maaseutuelinkeinorekisteriin sisältyvät tiedot.
 
