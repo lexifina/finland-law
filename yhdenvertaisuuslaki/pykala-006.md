@@ -1,7 +1,7 @@
 # 6 § Koulutuksen järjestäjän velvollisuus edistää yhdenvertaisuutta
 Luku: 2 luku Yhdenvertaisuuden edistäminen
 
-Koulutuksen järjestäjän ja tämän ylläpitämän oppilaitoksen on arvioitava yhdenvertaisuuden toteutumista toiminnassaan ja ryhdyttävä tarvittaviin toimenpiteisiin yhdenvertaisuuden toteutumisen edistämiseksi. Edistämistoimenpiteiden on oltava oppilaitoksen toimintaympäristö, voimavarat ja muut olosuhteet huomioon ottaen tehokkaita, tarkoituksenmukaisia ja oikeasuhtaisia.
+Koulutuksen järjestäjän ja tämän ylläpitämän oppilaitoksen on arvioitava, miten sen toiminta vaikuttaa eri väestöryhmiin ja miten yhdenvertaisuus muutoin toteutuu sen toiminnassa, ja ryhdyttävä tarvittaviin toimenpiteisiin yhdenvertaisuuden toteutumisen edistämiseksi. Edistämistoimenpiteiden on oltava oppilaitoksen toimintaympäristö, voimavarat ja muut olosuhteet huomioon ottaen tehokkaita, tarkoituksenmukaisia ja oikeasuhtaisia.
 
 Koulutuksen järjestäjän on huolehdittava siitä, että oppilaitoksella on suunnitelma tarvittavista toimenpiteistä yhdenvertaisuuden edistämiseksi.
 

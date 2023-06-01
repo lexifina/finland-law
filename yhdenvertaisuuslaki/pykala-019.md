@@ -7,6 +7,6 @@ Yhdenvertaisuusvaltuutettu voi tämän lain soveltamisalalla:
 3) antaa yleisiä suosituksia syrjinnän ehkäisemiseksi ja yhdenvertaisuuden edistämiseksi;
 4) ryhtyä toimenpiteisiin sovinnon aikaansaamiseksi tämän lain noudattamista koskevassa asiassa.
 
-Valtuutettu voi antaa yksittäistapauksessa perustellun kannanoton tämän lain vastaisen menettelyn ennaltaehkäisemiseksi taikka sellaisen jatkamisen tai uusimisen estämiseksi, jollei kyse ole työsuojeluviranomaisen valvontatoimivaltaan kuuluvasta asiasta taikka työ- tai virkaehtosopimuksen tulkinnasta.
+Valtuutettu voi antaa yksittäistapauksessa perustellun kannanoton tämän lain vastaisen menettelyn ennaltaehkäisemiseksi taikka sellaisen jatkamisen tai uusimisen estämiseksi, jollei kyse ole työ- tai virkaehtosopimuksen tulkinnasta.
 
-Yhdenvertaisuusvaltuutetun muista yhdenvertaisuuden edistämiseen ja syrjinnän ehkäisemiseen liittyvistä tehtävistä säädetään yhdenvertaisuusvaltuutetusta annetussa laissa (1326/2014).
+Yhdenvertaisuusvaltuutetun muista yhdenvertaisuuden edistämiseen ja syrjinnän ehkäisemiseen liittyvistä tehtävistä säädetään yhdenvertaisuusvaltuutetusta annetussa laissa.
