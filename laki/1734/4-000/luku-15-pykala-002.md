@@ -12,4 +12,6 @@ Myös muu kuin 1 momentissa mainittu, rehellinen ja muutoin kyseiseen tehtävä�
 2) hakemusasiassa, joka ei ole riitainen;
 3) maaoikeusasiassa.
 
+Mitä 4 momentin 2 kohdassa säädetään, ei kuitenkaan sovelleta yrityksen saneerauksesta annetun lain (47/1993) mukaisessa saneerausmenettelyä koskevassa asiassa, joka on vireillä samanaikaisesti kuin samaa velallista koskeva konkurssihakemus.
+
 Mitä tässä laissa tai muualla laissa säädetään asianajajan oikeudesta toimia oikeudenkäyntiasiamiehenä tai -avustajana, sovelletaan myös henkilöön, joka saa harjoittaa asianajajan tointa jossakin Euroopan talousalueeseen kuuluvassa valtiossa tai muussa valtiossa, jonka kanssa Euroopan unioni ja sen jäsenvaltiot ovat tehneet sopimuksen asianajajan ammattipätevyyden vastavuoroisesta tunnustamisesta.

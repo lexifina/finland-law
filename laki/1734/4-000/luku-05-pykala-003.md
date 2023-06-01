@@ -13,4 +13,5 @@ Jos saaminen perustuu kuluttajansuojalain (38/1978) 7 tai 7 a luvussa tarkoitett
 3) luottosopimuksen mukainen luoton korko;
 4) luottokustannukset ja muut kulut yksilöityinä;
 5) luottosopimuksen mukainen luoton todellinen vuosikorko;
-6) onko luottosopimus tehty kuluttajansuojalain 7 luvun 17 §:ssä tai 7 a luvun 15 §:ssä edellytetyllä tavalla.
+6) onko luottosopimus tehty kuluttajansuojalain 7 luvun 17 §:ssä tai 7 a luvun 15 §:ssä edellytetyllä tavalla;
+7) onko kyse kertaluotosta vai jatkuvasta luotosta.

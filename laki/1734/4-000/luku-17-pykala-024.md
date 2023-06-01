@@ -13,5 +13,5 @@ Tuomioistuimessa ei saa käyttää todisteena esitutkintapöytäkirjaan tai muul
 Seuraavien esitutkinnassa videotallenteeseen tai siihen rinnastettavaan muuhun kuva- ja äänitallenteeseen tallennettua kuulustelua voidaan kuitenkin käyttää todisteena, jos syytetylle on varattu asianmukainen mahdollisuus esittää kuulusteltavalle kysymyksiä:
 1) henkilö, joka ei ole täyttänyt 15 vuotta tai jonka henkinen toiminta on häiriintynyt;
 2) 15–17-vuotias asianomistaja, joka on erityisen suojelun tarpeessa ottaen huomioon etenkin hänen henkilökohtaiset olosuhteensa ja rikoksen laatu;
-3) rikoslain 20 luvun 1–5 tai 12–16 §:ssä tarkoitetun seksuaalirikoksen 15–17-vuotias asianomistaja, joka ei halua tulla oikeudenkäyntiin kuultavaksi;
-4) rikoslain 20 luvun 1–5 tai 12–16 §:ssä tarkoitetun seksuaalirikoksen 18 vuotta täyttänyt asianomistaja, jos kuuleminen oikeudenkäynnissä vaarantaisi hänen terveytensä tai aiheuttaisi muuta vastaavaa merkittävää haittaa.
+3) rikoslain 20 luvun 1–5 tai 8–16 §:ssä tarkoitetun seksuaalirikoksen tai rikoslain 25 luvun 3 tai 3 a §:ssä tarkoitetun ihmiskaupan tai törkeän ihmiskaupan 15–17-vuotias asianomistaja, joka ei halua tulla oikeudenkäyntiin kuultavaksi;
+4) rikoslain 20 luvun 1–5 tai 8–16 §:ssä tarkoitetun seksuaalirikoksen tai rikoslain 25 luvun 3 tai 3 a §:ssä tarkoitetun ihmiskaupan tai törkeän ihmiskaupan 18 vuotta täyttänyt asianomistaja, jos kuuleminen oikeudenkäynnissä vaarantaisi hänen terveytensä tai aiheuttaisi muuta vastaavaa merkittävää haittaa.
