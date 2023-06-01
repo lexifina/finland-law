@@ -1,0 +1,4 @@
+# 25 §
+Luku: 13 luku Selvitystila ja konkurssi
+
+Vakuutusyhdistyksen selvitystilan aikana selvitysmies tai konkurssissa pesänhoitaja voivat maksaa muita kuin selvitystila- tai konkurssimenettelystä johtuvia saatavia ainoastaan 26 §:n 1 momentissa tarkoitetun suunnitelman mukaisesti tai Vakuutusvalvontaviraston yksittäistapauksessa antamalla luvalla ja valvonnassa. Selvitystilaa tai konkurssia edeltäneen 12 luvun 6 c §:ssä tarkoitetun omaisuuden luovutus- ja panttauskiellon valvontaa varten määrätyn asiamiehen palkkio sekä sille varojen tilittämiseen kertyvä korko ja muut toimenpiteen toteuttamisesta aiheutuneet kustannukset maksetaan vakuutussaatavien jälkeen parhaalla etuoikeudella edellyttäen, että selvitystilaan asettaminen tai konkurssin aloittaminen on tapahtunut omaisuuden luovutus- tai panttauskiellon aikana tai kolmen kuukauden kuluessa siitä, kun kielto on lakannut.

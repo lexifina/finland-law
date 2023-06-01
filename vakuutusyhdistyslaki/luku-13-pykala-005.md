@@ -1,0 +1,8 @@
+# 5 §
+Luku: 13 luku Selvitystila ja konkurssi
+
+Jos voidaan olettaa, että suuren vakuutusyhdistyksen toimintapääoma on pienempi kuin 10 a luvussa säädetty takuumäärä taikka vakuutusyhdistyksen oma pääoma ei täytä oman pääoman vähimmäisvaatimusta, hallituksen ja toimitusjohtajan on viivytyksettä laadittava tilinpäätös ja toimintakertomus siltä ajalta, jolta tilinpäätöstä ja toimintakertomusta ei vielä ole esitetty yhdistyskokouksessa, sekä annettava ne tilintarkastajille tarkastettaviksi. Tällöin on soveltuvin osin noudatettava, mitä edellä säädetään tilinpäätöksestä, toimintakertomuksesta ja tilintarkastuskertomuksesta. Jos tilinpäätöksen ja toimintakertomuksen aika käsittää myös edellisen tilikauden, on tältä tilikaudelta annettava erillinen tilinpäätös ja toimintakertomus.
+
+Jos 1 momentissa tarkoitettu tilinpäätös osoittaa, ettei vakuutusyhdistys täytä 1 momentin mukaisia toimintapääomalle tai omalle pääomalle asetettuja vaatimuksia, yhdistyskokous on pidettävä kahden kuukauden kuluessa tilinpäätöksen laatimisesta. Hallituksen on annettava Vakuutusvalvontavirastolle tieto kutsusta yhdistyskokoukseen.
+
+Jos hallitus ja toimitusjohtaja eivät ole 1 momentissa tarkoitetussa tapauksessa laatineet tilinpäätöstä ja toimintakertomusta, Vakuutusvalvontaviraston tulee kehottaa hallitusta ja toimitusjohtajaa viivytyksettä laatimaan tilinpäätös ja toimintakertomus ja antamaan ne tilintarkastajien tarkastettaviksi. Jollei kehotusta noudateta, virastolla on oikeus laadituttaa tilinpäätös ja toimintakertomus, antaa ne tilintarkastajien tarkastettaviksi ja 2 momentissa mainitussa tapauksessa kutsua yhdistyskokous koolle.

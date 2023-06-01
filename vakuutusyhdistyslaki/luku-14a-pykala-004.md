@@ -1,0 +1,4 @@
+# 4 §
+Luku: 14 a luku Vakuutuskannan luovuttaminen
+
+Yhden tai useamman riippumattomana asiantuntijana toimivan tilintarkastuslaissa tarkoitetun tilintarkastajan on annettava vakuutuskannan luovuttamista koskevasta suunnitelmasta lausunto sekä luovuttavalle että vastaanottavalle yhdistykselle. Lausunnossa on arvioitava, annetaanko suunnitelmassa oikeat ja riittävät tiedot seikoista, jotka ovat omiaan olennaisesti vaikuttamaan vakuutuskannan luovuttamisen syyn, vastaanottavalle yhdistykselle siirtyvän vakuutuskannan ja sen katteeksi siirrettäväksi sovitun varallisuuden sekä mahdollisen vastikkeen arvon arviointiin. Lausunnossa on erikseen mainittava, onko vakuutuskannan luovuttaminen omiaan vaarantamaan yhdistyksen velkojen maksun. Asiantuntijaan ja lausuntoon sovelletaan muutoin soveltuvin osin, mitä 14 luvun 5 §:ssä säädetään.

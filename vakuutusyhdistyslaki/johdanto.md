@@ -1,0 +1,2 @@
+Vakuutusyhdistyslaki
+Eduskunnan päätöksen mukaisesti säädetään:
