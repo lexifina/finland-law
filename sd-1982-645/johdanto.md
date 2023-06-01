@@ -1,0 +1,2 @@
+Laki Saaristomeren kansallispuistosta
+Eduskunnan päätöksen mukaisesti säädetään:
