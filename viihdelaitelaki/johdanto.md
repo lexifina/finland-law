@@ -1,0 +1,2 @@
+Viihdelaitelaki
+Eduskunnan päätöksen mukaisesti säädetään:
