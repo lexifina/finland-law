@@ -1,3 +1,3 @@
-# 3 § Viittaussäännös
+# 3 § Rauhoitussäännökset
 
-Leivonmäen kansallispuistosta on muilta osin voimassa, mitä luonnonsuojelulaissa säädetään kansallispuistosta lukuun ottamatta 14 §:n 1 momentin 6 ja 8 kohtaa sekä 15 §:n 5 ja 7 kohtaa.
+Leivonmäen kansallispuistossa kielletyistä toiminnoista säädetään luonnonsuojelulain (9/2023) 49 §:ssä ja rauhoitussäännöksiä koskevista poikkeuksista mainitun lain 50 §:ssä ja 51 §:n 1 ja 3–5 momentissa.
