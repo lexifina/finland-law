@@ -1,0 +1,5 @@
+# 22 §
+
+Jos luopuja on luopumisen tapahtuessa oikeutettu kansaneläkelain tai työntekijäin eläkelain 8 §:n 4 momentissa mainittujen lakien, säännösten tai määräysten mukaiseen määräajaksi myönnettyyn täyteen työkyvyttömyyseläkkeeseen, hänelle ei makseta luopumislisää ajalta, jona hän on oikeutettu mainittuun eläkkeeseen.
+
+Jos luopumiskorvauksen saajalle myönnetään kansaneläkelain (568/2007) tai kansaneläkelain voimaanpanosta annetun lain (569/2007) mukainen työkyvyttömyyseläke, yksilöllinen varhaiseläke, työttömyyseläke tai varhennettu vanhuuseläke, luopumislisä lakkautetaan. Mitä edellä säädetään, sovelletaan myös, jos luopumiskorvauksen saajalle myönnetään työntekijän eläkelain 3 §:ssä mainittujen työeläkelakien tai niiden voimaanpanosta annettujen lakien mukainen tai vuoden 1961 työntekijäin eläkelain 8 §:n 4 momentissa mainittujen lakien tai eläkesäännön mukainen täysi työkyvyttömyyseläke, yksilöllinen varhaiseläke, työttömyyseläke tai varhennettu vanhuuseläke. Jos luopumiskorvauksen saajalle myönnetty edellä tarkoitettu eläke lakkaa, täydennysosan maksaminen aloitetaan uudelleen eläkkeen lakkaamista seuraavan kuukauden alusta.

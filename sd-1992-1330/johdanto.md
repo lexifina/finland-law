@@ -1,0 +1,2 @@
+Laki maatalousyrittäjien luopumiskorvauksesta
+Eduskunnan päätöksen mukaisesti säädetään:
