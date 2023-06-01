@@ -1,3 +1,3 @@
 # 3 § Rauhoitussäännökset
 
-Selkämeren kansallispuistoon sovelletaan, mitä luonnonsuojelulain 13—15 §:ssä säädetään rauhoituksesta lukuun ottamatta 14 §:n 1 momentin 6 kohtaa ja 15 §:n 1 momentin 6 kohtaa.
+Selkämeren kansallispuistossa kielletyistä toiminnoista säädetään luonnonsuojelulain (9/2023) 49 §:ssä ja rauhoitussäännöksiä koskevista poikkeuksista mainitun lain 50 ja 51 §:ssä.
