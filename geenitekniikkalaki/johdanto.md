@@ -1,0 +1,2 @@
+Geenitekniikkalaki
+Eduskunnan päätöksen mukaisesti säädetään:

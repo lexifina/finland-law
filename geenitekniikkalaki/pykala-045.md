@@ -1,0 +1,6 @@
+# 45 § Voimaantulo
+Luku: 11 luku Voimaantulo- ja siirtymäsäännökset
+
+Tämä laki tulee voimaan 1 päivänä kesäkuuta 1995.
+
+Ennen tämän lain voimaantuloa voidaan ryhtyä lain täytäntöönpanon edellyttämiin toimiin.
