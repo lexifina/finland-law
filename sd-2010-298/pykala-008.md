@@ -1,7 +1,7 @@
 # 8 § Kaupparekisterimerkinnät
 Luku: 3 luku Muut säännökset
 
-Sivuliikkeestä on tehtävä ilmoitus kaupparekisteriin niin kuin siitä kaupparekisterilaissa (129/1979) säädetään.
+Sivuliikkeestä on tehtävä ilmoitus kaupparekisteriin. Ilmoituksesta säädetään kaupparekisterilaissa (564/2023).
 
 Sen estämättä, mitä muualla laissa säädetään toiminimestä, maksulaitos voi Suomessa harjoittaa toimintaansa samalla toiminimellä kuin sillä on kotivaltiossaan.
 
