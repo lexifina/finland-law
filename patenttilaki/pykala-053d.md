@@ -1,0 +1,6 @@
+# 53 d §
+Luku: 7 luku Patentin rajoittaminen ja lakkaaminen
+
+Jos patenttiviranomainen katsoo, että 53 a §:n 1 momentin mukaisen pyynnön hyväksymiselle on este, patentinhaltijalle tulee antaa mahdollisuus antaa lausumansa asiassa. Jos patenttiviranomainen lausumasta huolimatta edelleen katsoo, että pyyntöä ei voida hyväksyä, se on hylättävä ja patentti pysytetään voimassa muuttamattomassa muodossa. Patentinhaltijalla on oikeus hakea muutosta patenttiviranomaisen antamaan lopulliseen päätökseen, jos päätös on hänelle kielteinen.
+
+Jos patenttiviranomainen katsoo, ettei 53 a §:n 1 momentin mukaisen pyynnön hyväksymiselle ole estettä, patentti tulee rajoittaa pyynnön mukaisesti. Rajoittamisen hyväksymistä koskevasta päätöksestä on kuulutettava 55 §:n mukaisesti. Patenttiviranomaisen on pidettävä rajoitetun patentin kuulutuspäivästä lukien yleisön saatavana muutettu patenttijulkaisu, joka sisältää rajoitetun patentin selityksen, mahdolliset piirustukset ja rajoitetut patenttivaatimukset sekä ilmoituksen patentinhaltijasta. Patenttiviranomaisen on huolehdittava siitä, että rajoitetut patenttivaatimukset ovat tarvittaessa saatavilla suomen ja ruotsin kielellä. Hakijan on suoritettava vahvistettu käännösmaksu.
