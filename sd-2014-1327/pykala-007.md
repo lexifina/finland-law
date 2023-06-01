@@ -1,5 +1,5 @@
-# 7 § Täysistunto
+# 7 § Vahvennettu jaosto
 
-Lautakunnan täysistuntoon kuuluvat lautakunnan puheenjohtaja ja jäsenet.
+Vahvennettuun jaostoon kuuluvat vahvennetun jaoston puheenjohtajana toimiva lautakunnan puheenjohtaja tai varapuheenjohtaja sekä viisi muuta jäsentä, joista kahden on oltava lainoppineita.
 
-Täysistunnossa ratkaistaan periaatteellisesti merkittävät ja laajakantoiset asiat. Asian käsittelemisestä täysistunnossa päättää puheenjohtaja. Erityisestä syystä jaosto voi kuitenkin siirtää sen käsiteltävänä olevan asian täysistunnon ratkaistavaksi.
+Vahvennetussa jaostossa voidaan ratkaista periaatteellisesti merkittävät ja laajakantoiset asiat. Asian käsittelemisestä vahvennetussa jaostossa päättää puheenjohtaja. Erityisestä syystä jaosto voi kuitenkin siirtää sen käsiteltävänä olevan asian vahvennetussa jaostossa ratkaistavaksi.
