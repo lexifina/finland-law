@@ -1,0 +1,2 @@
+Laki Tiilikkajärven kansallispuiston laajentamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
