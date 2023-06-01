@@ -1,6 +1,6 @@
 # 8 § Päätösvaltaisuus, äänestäminen ja esittely
 
-Lautakunnan täysistunto on päätösvaltainen, kun läsnä ovat kokouksen puheenjohtaja sekä vähintään puolet muista jäsenistä. Lautakunnan jaosto on päätösvaltainen täysilukuisena.
+Lautakunnan jaosto ja vahvennettu jaosto ovat päätösvaltaiset täysilukuisina.
 
 Äänestykseen lautakunnassa sovelletaan, mitä oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019) säädetään äänestämisestä.
 
