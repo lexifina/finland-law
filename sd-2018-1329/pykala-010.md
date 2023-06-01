@@ -2,7 +2,7 @@
 
 Ennen 5 §:n 3 momentissa tarkoitettua vanhan asunto-osakeyhtiön osakekirjan tai väliaikaistodistuksen mitätöimistä sen luovutukseen ja panttaukseen sovelletaan vanhan asunto-osakeyhtiölain 2 luvun 11 §:ää.
 
-Vanhan asunto-osakeyhtiön osakekirjan antamiseen, sisältöön ja vaihtamiseen sovelletaan vanhan asunto-osakeyhtiölain 2 luvun 6, 7 ja 9 §:ää sekä 8 §:n 2 momenttia siihen saakka, kun osakkeenomistajan oikeus on kirjattu osakehuoneistorekisteriin 7 §:ssä tarkoitetulla tavalla.
+Vanhan asunto-osakeyhtiön osakekirjan antamiseen, sisältöön ja vaihtamiseen sovelletaan vanhan asunto-osakeyhtiölain 2 luvun 6, 7 ja 9 §:ää sekä 8 §:n 2 momenttia siihen saakka, kun osakkeenomistajan oikeus on kirjattu osakehuoneistorekisteriin tämän lain 7 §:ssä tarkoitetulla tavalla. Sama koskee vanhan asunto-osakeyhtiölain 2 luvun 10 §:n 1 momentin soveltamista vanhan asunto-osakeyhtiön väliaikaistodistuksen antamiseen.
 
 Vanhan asunto-osakeyhtiön osakekirjaan tehtäviin merkintöihin sovelletaan vanhan asunto-osakeyhtiölain 2 luvun 8 §:n 1 momenttia siihen saakka, kun osakekirja on mitätöity.
 
