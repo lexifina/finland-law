@@ -1,0 +1,2 @@
+Laki sähköntoimitussopimusten vertailuvälineestä
+Eduskunnan päätöksen mukaisesti säädetään:
