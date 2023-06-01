@@ -1,0 +1,2 @@
+Elinkeinotoimintalaki
+Eduskunnan päätöksen mukaisesti säädetään:
