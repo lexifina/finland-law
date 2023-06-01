@@ -1,0 +1,2 @@
+Laki turvallisuusluokitellun tiedon vastavuoroisesta suojaamisesta Ukrainan kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
