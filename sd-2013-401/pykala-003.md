@@ -1,3 +1,3 @@
 # 3 § Rauhoitussäännökset
 
-Koloveden kansallispuistossa kielletyistä toiminnoista säädetään luonnonsuojelulain 13 §:ssä ja rauhoitussäännöksiä koskevista poikkeuksista mainitun lain 14 ja 15 §:ssä.
+Koloveden kansallispuistossa kielletyistä toiminnoista säädetään luonnonsuojelulain (9/2023) 49 §:ssä ja rauhoitussäännöksiä koskevista poikkeuksista mainitun lain 50 ja 51 §:ssä.
