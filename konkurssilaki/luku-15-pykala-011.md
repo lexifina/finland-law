@@ -1,0 +1,6 @@
+# 11 § Velkojien päätöksen kumoaminen ja muuttaminen
+Luku: 15 luku Velkojien päätösvallan käyttäminen
+
+Tuomioistuin voi velallisen tai velkojan hakemuksesta kumota velkojien päätöksen tai, jos se on asian laadun vuoksi mahdollista, muuttaa sitä, jos päätös ei ole syntynyt oikeassa järjestyksessä ja menettelyn virheellisyys on voinut vaikuttaa lopputulokseen tai virhettä voidaan muuten pitää merkittävänä taikka jos päätös on 10 §:n vastainen.
+
+Sen, joka on ollut velkojainkokouksessa läsnä ja joka tahtoo hakea päätöksen kumoamista, on välittömästi ilmoitettava tyytymättömyytensä kokouksen puheenjohtajalle puhevallan menettämisen uhalla. Jos päätös on tehty muussa päätöksentekomenettelyssä, tyytymättömyys on ilmoitettava pesänhoitajalle viimeistään viikon kuluttua siitä, kun pesänhoitaja on ilmoittanut päätöksestä. Jollei määräajan viimeinen päivä ole arkipäivä, ilmoitus voidaan tehdä sitä seuraavana arkipäivänä. Päätökseen osallistunut velkoja voi vaatia päätöksen kumoamista vain, jos asiasta on päätetty velkojan kannan vastaisesti. Velkoja, joka ei ole ollut velkojainkokouksessa läsnä mutta joka on saanut siihen asianmukaisesti kutsun, ei voi vedota siihen, että päätös ei ole syntynyt oikeassa järjestyksessä. Sama koskee velkojaa, joka ei ole muussa päätöksentekomenettelyssä ilmaissut kantaansa, vaikka pesänhoitaja on varannut siihen tilaisuuden.

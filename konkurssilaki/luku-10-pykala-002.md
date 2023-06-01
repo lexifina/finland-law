@@ -1,0 +1,8 @@
+# 2 § Hakemus konkurssin raukeamisesta
+Luku: 10 luku Konkurssin raukeaminen
+
+Pesänhoitajan on ennen konkurssin raukeamista koskevan hakemuksen tekemistä varattava suurimmille velkojille tilaisuus tulla kuulluksi. Pesänhoitajan on toimitettava velkojille tiedoksi esityksensä konkurssin raukeamisesta kuukauden kuluessa pesäluettelon ja velallisselvityksen valmistumisesta ja, jos aihetta on, tiedusteltava velkojilta, ottavatko nämä vastattavakseen konkurssimenettelyn kustannuksista. Pesänhoitajan on toimitettava esityksensä myös konkurssiasiamiehelle ja velalliselle. Jos konkurssin raukeamisen edellytyksiä ei voida arvioida edellä tarkoitetussa määräajassa, pesänhoitajan on toimitettava esityksensä velkojille ilman aiheetonta viivytystä ja merkittävä viivästyksen syy konkurssi- ja yrityssaneerausasioiden asianhallintajärjestelmään.
+
+Pesänhoitajan on tehtävä hakemus konkurssin raukeamisesta tuomioistuimelle ilman aiheetonta viivytystä sen jälkeen, kun suurimpia velkojia on kuultu 1 momentin mukaisesti. Hakemuksen voi tehdä myös velkoja, velallinen tai konkurssiasiamies. Hakemusta ei voida tehdä ennen kuin pesäluettelo ja velallisselvitys on laadittu.
+
+Pesänhoitajan on liitettävä konkurssin raukeamista koskevaan hakemukseensa pesäluettelo ja velallisselvitys sekä arvionsa konkurssimenettelyn kustannuksista ja niihin käytettävissä olevista varoista. Jos hakemuksen on tehnyt velkoja, velallinen tai konkurssiasiamies, pesänhoitajan on tuomioistuimen pyynnöstä toimitettava asian käsittelyä varten pesäluettelo ja velallisselvitys sekä arvionsa konkurssimenettelyn kustannuksista ja niihin käytettävissä olevista varoista.

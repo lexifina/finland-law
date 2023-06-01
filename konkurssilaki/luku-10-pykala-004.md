@@ -1,0 +1,6 @@
+# 4 § Pesänhoitajan palkkio konkurssin rauetessa
+Luku: 10 luku Konkurssin raukeaminen
+
+Pesänhoitajalla on konkurssin rauetessa oikeus saada kohtuullinen palkkio ja korvaus hänelle aiheutuneista tehtävän kannalta tarpeellisista kustannuksista. Palkkio ja korvaus otetaan konkurssipesän varoista. Pesänhoitajalla on oikeus pidättää konkurssipesään kuuluvaa omaisuutta palkkion ja korvauksen maksamista varten sekä myydä omaisuus ja ottaa saatavansa myyntihinnasta.
+
+Tuomioistuin päättää palkkion ja korvauksen suuruudesta sekä siitä, miltä osin korvaus maksetaan valtion varoista. Pesänhoitajan on esitettävä tuomioistuimelle toimenpiteistään eritelty lasku ja, jos korvausta vaaditaan valtion varoista, selvitys korvauksen maksamiseen käytettävissä olevista velallisen varoista. Pesänhoitajan on toimitettava lasku suurimmille velkojille, velalliselle ja konkurssiasiamiehelle samalla, kun esitys konkurssin raukeamisesta toimitetaan niille tiedoksi 2 §:n 1 momentin nojalla. Tuomioistuimen on varattava harkintansa mukaan velalliselle, velkojille ja konkurssiasiamiehelle tilaisuus tulla asiassa kuulluksi. Konkurssiasiamiehellä on oikeus myös omasta aloitteestaan lausua pesänhoitajan palkkiovaatimuksesta ja hakea päätökseen muutosta.

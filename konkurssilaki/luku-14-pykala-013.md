@@ -1,0 +1,6 @@
+# 13 § Salassapitovelvollisuus
+Luku: 14 luku Konkurssipesän hallinto
+
+Pesänhoitaja, velkoja tai velkojatoimikunnan jäsen taikka hänen palveluksessaan oleva tai hänen käyttämänsä avustaja tai asiantuntija ei saa ilmaista sivulliselle eikä käyttää yksityiseksi hyödykseen menettelyn yhteydessä tietoonsa saamaa seikkaa, joka koskee velallisen taloudellista asemaa, terveydentilaa tai muita henkilökohtaisia oloja taikka velallisen tai konkurssipesän liikesalaisuutta, ellei se, jonka hyväksi vaitiolovelvollisuus on säädetty, anna suostumustaan tietojen ilmaisemiseen tai laissa muuta säädetä. Salassapitovelvollisuus ei estä konkurssipesän hallintoa käyttämästä tietoja siltä osin kuin se on tarpeen pesän hoitamiseksi ja selvittämiseksi tai omaisuuden muuttamiseksi rahaksi.
+
+Velallinen ei saa ilmaista sivulliselle eikä käyttää yksityiseksi hyödykseen menettelyn yhteydessä tietoonsa saamaa seikkaa, joka koskee konkurssipesän liikesalaisuutta, ellei se, jonka hyväksi vaitiolovelvollisuus on säädetty, anna suostumustaan tietojen ilmaisemiseen tai laissa muuta säädetä. Velallinen ei saa myöskään ilmaista tai käyttää sellaista konkurssin alkamista edeltäneeseen toimintaan liittyvää liikesalaisuutta, jos on ilmeistä, että sen ilmaiseminen tai käyttö voi alentaa pesään kuuluvan omaisuuden arvoa tai vaikeuttaa sen muuttamista rahaksi.
