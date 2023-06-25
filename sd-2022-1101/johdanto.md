@@ -1,0 +1,2 @@
+Laki kieltotoimenpiteitä koskevista edustajakanteista
+Eduskunnan päätöksen mukaisesti säädetään:
