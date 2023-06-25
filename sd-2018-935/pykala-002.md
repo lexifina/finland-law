@@ -24,3 +24,5 @@ Lisäksi virasto:
 3) tekee valtuuksiensa puitteissa kansainvälisiä teknisluonteisia sopimuksia, jotka eivät koske lainsäädännön alaa.
 
 Viraston on huolehdittava myös niistä muista toimialansa viranomaistehtävistä, jotka sille erikseen säädetään.
+
+Virasto voi panna vireille kieltotoimenpiteitä koskevista edustajakanteista annetussa laissa (1101/2022) tarkoitetun edustajakanteen.
