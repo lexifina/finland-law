@@ -23,3 +23,5 @@ Keskuksen tehtävänä on:
 Lisäksi keskus hoitaa sille erikseen säädetyt tai määrätyt muut tehtävät sekä ne tehtävät, jotka sosiaali- ja terveysministeriö sille määrää.
 
 Keskuksen on toimittava tehtävissään yhteistyössä viranomaisten, yliopistojen ja tutkimuslaitosten, sosiaali- ja terveydenhuollon toimintayksiköiden sekä muiden alan toimijoiden kanssa.
+
+Keskus voi panna vireille kieltotoimenpiteitä koskevista edustajakanteista annetussa laissa (1101/2022) tarkoitetun edustajakanteen.
