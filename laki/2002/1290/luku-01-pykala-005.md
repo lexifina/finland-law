@@ -13,7 +13,7 @@ Tässä laissa tarkoitetaan:
 8) korvauksettomalla määräajalla aikaa, jolta työttömyysetuutta ei makseta työstä eroamisen tai kieltäytymisen taikka muun 2 a luvussa säädetyn menettelyn johdosta;
 10) työllistymissuunnitelmalla julkisesta työvoima- ja yrityspalvelusta annetun lain mukaista työ- ja elinkeinotoimiston yhdessä työnhakijan kanssa laatimaa suunnitelmaa ja työllistymistä edistävästä monialaisesta yhteispalvelusta annetun lain (1369/2014) mukaista monialaista työllistymissuunnitelmaa;
 10 a) työllistymissuunnitelmaa korvaavalla suunnitelmalla kuntouttavasta työtoiminnasta annetussa laissa (189/2001) tarkoitettua aktivointisuunnitelmaa ja kotoutumisen edistämisestä annetussa laissa (1386/2010) tarkoitettua kotoutumissuunnitelmaa;
-11) korkeimmalla korotetulla palkkatuella julkisesta työvoima- ja yrityspalvelusta annetun lain 7 luvun 7 §:n 1 momentissa tarkoitettua tukea;
+11) palkkatuetulla työllä julkisesta työvoima- ja yrityspalvelusta annetun lain 1 luvun 3 §:n 1 momentin 11 kohdassa tarkoitettua työtä;
 12) sääesteellä työsuhteessa rakennus- ja metsäalalla tapahtuvan työn suorittamisen estymistä, joka johtuu yksinomaan ja välittömästi pakkasesta ja jonka johdosta työnantajalla ei ole työsopimuslain 2 luvun 12 §:n 2 momentin mukaista palkanmaksuvelvollisuutta;
 13) työaikapankilla yritys- tai työpaikkakohtaisesti kirjallisesti sovittua työntekijöiden työaikajärjestelyä, jolla voidaan säästää työaikaa, ansaittuja vapaita tai vapaa-ajaksi muutettuja rahamääräisiä korvauksia toisiinsa yhdistäen ja nostaa palkallista vapaa-aikaa tai rahakorvausta;
 14) lomautukseen rinnastettavalla syyllä:

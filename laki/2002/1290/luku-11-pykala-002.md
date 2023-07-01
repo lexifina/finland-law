@@ -32,6 +32,5 @@ Edellä 3 momentissa tarkoitettuja olosuhteiden muutoksia, joita koskevat tiedot
 Työmarkkinatuen saajan on lisäksi ilmoitettava työttömyysetuuden maksajalle seuraavat itseään ja perhettään koskevat tiedot ja niissä tapahtuneet muutokset:
 1) omat pääomatulot;
 3) vanhemman tai vanhempien 7 luvun 6 §:ssä tarkoitetut tulot, jos henkilö on 7 luvun 9 §:ssä tarkoitettu henkilö;
-4) sellaisen työsuhteen päättyminen, jonka ajalta henkilölle itselleen on maksettu työmarkkinatukea tai johon työnantajalle on maksettu korkeinta korotettua palkkatukea;
 6) muutokset perhesuhteissa ja asumisoloissa; sekä
 7) muu vastaava muutos olosuhteissa.
