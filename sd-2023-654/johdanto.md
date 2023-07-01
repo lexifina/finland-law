@@ -1,0 +1,2 @@
+Laki evankelis-luterilaisen kirkon työmarkkinalaitoksesta
+Eduskunnan päätöksen mukaisesti säädetään:
