@@ -1,0 +1,10 @@
+# 60 § Menetettyjen ansioiden korvaaminen
+Luku: 8 luku Virkasuhteen päättyminen
+
+Kun virkasuhteen päättämistä koskeva asia on 59 §:n 1 momentissa tarkoitetussa tapauksessa lainvoimaisesti ratkaistu ja työnantaja on saanut tämän pykälän 2 momentissa tarkoitetun selvityksen, viranhaltijalle maksetaan viipymättä virkasuhteen lainvastaisen päättämisen johdosta saamatta jäänyt säännöllisen työajan ansio. Ansiosta vähennetään samalta ajalta muissa palvelussuhteissa, ammatinharjoittajana tai yrittäjänä ansaittu vastaava ansio, jota viranhaltija ei olisi saanut virkaa hoitaessaan. Ansiosta vähennetään myös viranhaltijalle maksettu työttömyysturvalaissa (1290/2002) tarkoitettu ansiopäiväraha, peruspäiväraha ja työmarkkinatuki sekä vastaavalta ajalta hänelle maksettu sairausvakuutuslain (1224/2004) mukainen päivärahaetuus.
+
+Viranhaltija on velvollinen esittämään työnantajalle viipymättä luotettavan selvityksen saamistaan 1 momentissa tarkoitetuista muista ansiotuloista, ansiopäivärahasta, peruspäivärahasta, työmarkkinatuesta sekä sairausvakuutuskorvauksista.
+
+Työnantaja on velvollinen viipymättä maksamaan työllisyysrahastolle 75 prosenttia ja asianomaiselle työttömyyskassalle 25 prosenttia viranhaltijalle maksetusta ansiopäivärahasta ja Kansaneläkelaitokselle viranhaltijalle maksetun peruspäivärahan tai työmarkkinatuen. Viranhaltijan eläke-etuja määrättäessä katsotaan palkkatuloksi 1 momentissa tarkoitettu ansio, jossa on vähennyksenä otettu huomioon 1 momentissa tarkoitetussa muussa palvelussuhteessa, ammatinharjoittajana tai yrittäjänä ansaittu, eläkkeeseen oikeuttava tulo. Vähennyksenä ei oteta huomioon 1 momentissa tarkoitettuja päivärahoja tai työmarkkinatukea. Sen estämättä, mitä muualla laissa säädetään, viranhaltijan katsotaan eläkeoikeutta määrättäessä olleen jatkuvassa virkasuhteessa myös 1 momentissa mainittuna aikana, vaikka hänelle ei tältä ajalta jäisi maksuun lainkaan ansiota.
+
+Mitä tässä pykälässä säädetään ansiopäivärahasta, peruspäivärahasta ja työmarkkinatuesta, koskee myös työttömyysturvalain perusteella maksettua ansioon suhteutettua päivärahaa ja peruspäivärahaa sekä työmarkkinatukea.
