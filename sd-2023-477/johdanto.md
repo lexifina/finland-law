@@ -1,0 +1,2 @@
+Laki terrorismin ennaltaehkäisyä koskevan Euroopan neuvoston yleissopimuksen lisäpöytäkirjasta
+Eduskunnan päätöksen mukaisesti säädetään:
