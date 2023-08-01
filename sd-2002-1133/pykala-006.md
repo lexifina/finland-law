@@ -10,4 +10,6 @@ Sosiaalista luottoa koskevassa sopimuksessa on määriteltävä:
 
 Sosiaalisesta luotosta voidaan velalliselta periä luotosta kohtuullinen vuotuinen korko, joka kuitenkin voi olla enintään korkolain (633/1982) 12 §:ssä tarkoitettu viitekorko. Sopimuksen ehdoissa voidaan määrätä, että luotosta maksettava korko muuttuu korkolain 12 §:ssä tarkoitetun viitekoron muutoksia vastaavasti.
 
+Jos sosiaaliseen luottoon liittyvää luottosopimuksessa sovittua maksua ei ole suoritettu eräpäivänä, saadaan vuotuista viivästyskorkoa periä eräpäivästä lukien enintään korkolain 4 §:n mukaan.
+
 Sosiaalisesta luotosta ei voida periä muita luottokustannuksia.
