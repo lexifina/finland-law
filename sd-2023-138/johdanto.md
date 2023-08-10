@@ -1,0 +1,2 @@
+Laki eräiden Euroopan laajuisen liikenneverkon hankkeiden lupamenettelyistä ja muista hallinnollisista menettelyistä
+Eduskunnan päätöksen mukaisesti säädetään:
