@@ -1,0 +1,2 @@
+Laki tietoturvallisuudesta Pohjois-Atlantin sopimuksen osapuolten välillä tehdystä sopimuksesta ja turvallisuussäännöistä
+Eduskunnan päätöksen mukaisesti säädetään:
