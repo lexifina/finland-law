@@ -5,7 +5,7 @@ Turvallisuus- ja kemikaalivirasto on tässä laissa tarkoitettu markkinavalvonta
 
 Tulli toimii markkinavalvonta-asetuksen 25 artiklan 1 kohdassa tarkoitettuna ulkorajatarkastuksista vastaavana viranomaisena sekä valvoo 23 §:ssä tarkoitetun maastavientikiellon ja 25 §:ssä tarkoitetun hävittämismääräyksen noudattamista ulkorajalla.
 
-Poiketen siitä, mitä 1 momentissa säädetään, Säteilyturvakeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen säteilylaissa tarkoitettujen tuotteiden osalta.
+Poiketen siitä, mitä 1 momentissa säädetään, Säteilyturvakeskus on tässä laissa tarkoitettu markkinavalvontaviranomainen säteilylaissa tarkoitettujen tuotteiden ja vaarallisten aineiden kuljetuksesta annetussa laissa tarkoitettujen radioaktiivisten aineiden kuljetukseen käytettävien tuotteiden osalta.
 
 Poiketen siitä, mitä 1 momentissa säädetään, Liikenne- ja viestintävirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen ilmailulaissa, ajoneuvolaissa, ympäristönsuojelulain 24 a §:n 3 momentissa, huviveneiden turvallisuudesta ja päästövaatimuksista annetussa laissa, sähköisen viestinnän palveluista annetussa laissa, laivavarustelaissa ja eräiden tuotteiden esteettömyysvaatimuksista annetussa laissa tarkoitettujen tuotteiden osalta.
 
