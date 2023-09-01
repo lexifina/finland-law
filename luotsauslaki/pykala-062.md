@@ -1,0 +1,4 @@
+# 62 § Poikkeukset
+Luku: 10 luku Erinäiset säännökset
+
+Liikenne- ja viestintävirasto voi valmiuslaissa tarkoitettujen poikkeusolojen aikana tai normaaliolojen häiriötilanteissa poiketa tässä laissa säädetyistä, luotsin ohjauskirjan uusimista tai myöntämistä taikka PEC-lupakirjan uusimista tai myöntämistä koskevista edellytyksistä uusia luotsin lupakirjoja tai PEC-lupakirjoja myönnettäessä tai niitä uusittaessa. Luotsin ohjauskirja tai PEC-lupakirja voidaan myöntää tai uusia poikkeuksellisin menettelyin, jos normaali menettely on poikkeuksellisen ja laajavaikutteisen tilanteen vuoksi merkittävästi vaikeutunut ja poikkeuksellinen menettely on välttämätöntä merenkulun jatkuvuuden turvaamiseksi eikä se aiheuta vaaraa ihmishengelle, omaisuudelle tai ympäristölle. Poikkeuksellisin menettelyin myönnettävä tai uusittava luotsin ohjauskirja tai PEC-lupakirja on voimassa kerrallaan enintään kuusi kuukautta myöntämispäivästä.
