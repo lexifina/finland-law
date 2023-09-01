@@ -1,7 +1,7 @@
 # 23 § Hyvityksen maksaminen
 Luku: 3 luku Valtiontakaus
 
-Valtiokonttori suorittaa valtion varoista lainanmyöntäjälle 20 §:ssä tarkoitetun hyvityksen sitten, kun lopullinen menetys on velallisen ja mahdollisen takaajan maksukyvyttömyyden toteamisen ja vakuutena olevan omaisuuden myynnin jälkeen selvitetty. Vakuuden myyntiä ei kuitenkaan edellytetä, jos velallinen saa yrityksen saneerauksesta annetussa laissa (47/1993) tarkoitetussa saneerausmenettelyssä säilyttää vakuutena olevan omaisuuden.
+Valtiokonttori suorittaa valtion varoista lainanmyöntäjälle 20 §:n perusteella maksettavan hyvityksen sitten, kun menetys on velallisen ja mahdollisen takaajan maksukyvyttömyyden toteamisen ja vakuutena olevan omaisuuden myynnin jälkeen selvitetty. Vakuuden myyntiä ei kuitenkaan edellytetä, jos velallinen saa yrityksen saneerauksesta annetussa laissa (47/1993) tarkoitetussa saneerausmenettelyssä säilyttää vakuutena olevan omaisuuden.
 
 Jos lainanmyöntäjä saa hyvityksen maksamisen jälkeen perityksi lainansaajalta kertymättä jääneitä lyhennyksiä ja korkoja, lainanmyöntäjän tulee tilittää ne Valtiokonttorille.
 
