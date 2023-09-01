@@ -1,0 +1,4 @@
+# 3 § Lautakunnan toimivalta
+Luku: 1 luku Lautakunnan toimivalta ja tehtävät
+
+Lautakunnan tehtävänä on antaa ratkaisusuosituksia yksittäisiin erimielisyyksiin sähköalan yritysten ja loppuasiakkaiden välisiä sähkömarkkinalaissa (588/2013) säädettyjä oikeuksia ja velvollisuuksia koskevissa tai sähkömarkkinalain V osassa tarkoitettuja sähkösopimuksia koskevissa asioissa, joita muut loppuasiakkaat kuin kuluttajat saattavat lautakunnan käsiteltäviksi. Lautakunnalla ei kuitenkaan ole toimivaltaa käsitellä Energiaviraston toimivaltaan kuuluvia asioita, joista säädetään sähkö- ja maakaasumarkkinoiden valvonnasta annetun lain (590/2013) 6 a §:ssä.

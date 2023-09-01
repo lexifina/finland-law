@@ -1,0 +1,2 @@
+Laki energiamarkkinariitalautakunnasta
+Eduskunnan päätöksen mukaisesti säädetään:
