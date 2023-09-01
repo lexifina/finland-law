@@ -1,0 +1,2 @@
+Laki pyroteknisten tuotteiden vaatimustenmukaisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
