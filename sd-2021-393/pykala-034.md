@@ -5,7 +5,7 @@ Luku: 4 luku Käyttövastike ja sen maksaminen
 Valtion tukeman asumisoikeustalon omistajan menoja saadaan kattaa käyttövastikkeella vain, jos menot aiheutuvat:
 1) kiinteistön ja asuntojen rakentamisesta, hankinnasta tai perusparantamisesta;
 2) kiinteistön, rakennusten ja asuntojen ylläpidosta ja hoidosta;
-3) kohtuullisesta varautumisesta perusparannuksiin ja 2 kohdassa tarkoitettuihin toimenpiteisiin, jos laina on hyväksytty korkotukilainaksi 30 päivänä kesäkuuta 2018 tai sitä ennen;
+3) kohtuullisesta varautumisesta perusparannuksiin ja 2 kohdassa tarkoitettuihin toimenpiteisiin;
 4) asumisoikeustalon hallinnoinnista;
 5) asumisoikeustalon omistajalle lain mukaan kuuluvista velvoitteista, jotka eivät johdu siitä, että omistaja olisi toiminut lainvastaisesti;
 6) varautumisesta 5 kohdassa tarkoitettuihin velvoitteisiin;
