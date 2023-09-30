@@ -5,4 +5,4 @@ Jos asiakkaan tarpeisiin ei voida vastata vain sosiaalihuollon toimin, asiakkaan
 
 Edellä 1 momentissa tarkoitetun ilmoituksen vastaanottaneen viranomaisen tulee asiakkaan suostumuksella ilmoittaa siihen yhteyttä ottaneelle viranomaiselle ilman aiheetonta viivytystä, mihin toimiin se on ilmoituksen johdosta ryhtynyt. Ilmoittamista ei kuitenkaan tarvitse tehdä, jos se on ilmeisen tarpeetonta.
 
-Tietojen luovuttamisesta ilman asiakkaan suostumusta säädetään sosiaalihuollon asiakkaan asemasta ja oikeuksista annetussa laissa (812/2000). Asiakkaan ohjaamisesta toimivaltaiseen viranomaiseen säädetään hallintolaissa.
+Tietojen luovuttamisesta ilman asiakkaan lupaa tai suostumusta säädetään sosiaali- ja terveydenhuollon asiakastietojen käsittelystä annetussa laissa (703/2023), jäljempänä asiakastietolaki. Asiakkaan ohjaamisesta toimivaltaiseen viranomaiseen säädetään hallintolaissa.
