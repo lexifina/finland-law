@@ -1,4 +1,4 @@
 # 10 § Matkustuskiellon rikkomisen seuraamukset
 Luku: 5 luku Matkustuskielto
 
-Jos matkustuskieltoon määrätty rikkoo kieltoa taikka pakenee, ryhtyy valmistelemaan pakoa, vaikeuttaa asian selvittämistä tai jatkaa rikollista toimintaa, hänet saadaan pidättää ja vangita. Jos hänelle tuomittu ehdoton vankeusrangaistus on jo tullut täytäntöönpanokelpoiseksi, se saadaan panna heti täytäntöön.
+Jos matkustuskieltoon määrätty rikkoo matkustuskieltopäätöksessä määrättyjä velvoitteita, toimii vastoin 5 a §:n 1 momentissa tarkoitettua tuomioistuimen määräystä saapua teknisten välineiden kiinnitykseen, irrottaa tai tekee toimintakyvyttömäksi tehostetun matkustuskiellon valvomiseksi hänen ylleen kiinnitetyn tai haltuunsa annetun teknisen välineen taikka pakenee, ryhtyy valmistelemaan pakoa, vaikeuttaa asian selvittämistä tai jatkaa rikollista toimintaa, matkustuskieltopäätöksen 2 tai 2 a §:ssä tarkoitettua sisältöä saadaan muuttaa tai hänet saadaan matkustuskiellon sijasta pidättää tai vangita. Jos hänelle tuomittu ehdoton vankeusrangaistus on jo tullut täytäntöönpanokelpoiseksi, se saadaan panna heti täytäntöön.

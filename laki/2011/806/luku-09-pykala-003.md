@@ -1,7 +1,7 @@
 # 3 § Henkilötuntomerkkien ottaminen
 Luku: 9 luku Erityisiin tutkintakeinoihin liittyvät pakkokeinot
 
-Poliisimies saa ottaa rikoksesta epäillystä tunnistamista, rikoksen selvittämistä ja rikoksentekijöiden rekisteröintiä varten sormen-, käden- ja jalanjäljet, käsiala-, ääni- ja hajunäytteen, valokuvan sekä tuntomerkkitiedot (henkilötuntomerkit).
+Poliisimies saa ottaa rikoksesta epäillystä tunnistamista, rikoksen selvittämistä, toisen tässä laissa tarkoitetun pakkokeinon käyttämistä ja rikoksentekijöiden rekisteröintiä varten sormen-, käden- ja jalanjäljet, käsiala-, ääni- ja hajunäytteen, kasvo- ja valokuvan sekä tuntomerkkitiedot (henkilötuntomerkit).
 
 Painavista rikostutkinnallista syistä poliisimies saa ottaa tunnistamista ja rikoksen selvittämistä varten henkilötuntomerkit myös muusta kuin rikoksesta epäillystä, jos asia koskee rikosta, josta säädetty ankarin rangaistus on vähintään vuosi vankeutta. Näitä henkilötuntomerkkejä ei saa käyttää muun kuin tutkittavan rikoksen selvittämiseksi eikä säilyttää tai rekisteröidä muuta tarkoitusta varten.
 

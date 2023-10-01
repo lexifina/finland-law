@@ -1,4 +1,4 @@
-# 23 § Takavarikoidun esineen, omaisuuden tai asiakirjan palauttaminen
+# 23 § Takavarikoidun esineen, omaisuuden tai asiakirjan palauttamiseen liittyvät erityiset säännökset
 Luku: 7 luku Takavarikoiminen ja asiakirjan jäljentäminen
 
 Jos syyteasian tai menettämisseuraamusta koskevan vaatimuksen käsittelyn yhteydessä useat vaativat takavarikoitua palautettavaa esinettä, omaisuutta tai asiakirjaa itselleen, tuomioistuimen on määrättävä, että riita paremmasta oikeudesta käsitellään erikseen riita-asiain oikeudenkäynnistä säädetyssä järjestyksessä. Tuomioistuimen on samalla määrättävä, minkä ajan kuluessa kanne on nostettava. Tuomioistuin voi kuitenkin tutkia parempaa oikeutta koskevan kysymyksen syyteasian tai menettämisseuraamusta koskevan vaatimuksen käsittelyn yhteydessä, jollei tutkiminen viivytä asian käsittelyä.

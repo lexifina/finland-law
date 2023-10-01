@@ -1,7 +1,7 @@
 # 35 § Valeostosta päättäminen
 Luku: 10 luku Salaiset pakkokeinot
 
-Keskusrikospoliisin tai suojelupoliisin päällikkö päättää valeostosta. Yksinomaan yleisön saataville toimitetusta myyntitarjouksesta tehtävästä valeostosta saa päättää myös tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu virkamies.
+Keskusrikospoliisin päällikkö päättää valeostosta. Yksinomaan yleisön saataville toimitetusta myyntitarjouksesta tehtävästä valeostosta saa päättää myös tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu virkamies.
 
 Valeostoa koskeva päätös voidaan antaa enintään kahdeksi kuukaudeksi kerrallaan.
 

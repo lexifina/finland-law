@@ -1,7 +1,7 @@
 # 60 § Salaisen pakkokeinon käytöstä ilmoittaminen
 Luku: 10 luku Salaiset pakkokeinot
 
-Epäiltyyn kohdistetusta telekuuntelusta, tietojen hankkimisesta telekuuntelun sijasta, televalvonnasta, suunnitelmallisesta tarkkailusta, peitellystä tiedonhankinnasta, teknisestä tarkkailusta ja valvotusta läpilaskusta on viipymättä ilmoitettava hänelle kirjallisesti sen jälkeen, kun asia on saatettu syyttäjän harkittavaksi, taikka esitutkinta on muuten päätetty tai se on keskeytetty. Pakkokeinosta on kuitenkin ilmoitettava epäillylle viimeistään vuoden kuluttua sen käytön lopettamisesta.
+Epäiltyyn kohdistetusta telekuuntelusta, tietojen hankkimisesta telekuuntelun sijasta, televalvonnasta, sijaintitietojen hankkimisesta epäillyn tavoittamiseksi, suunnitelmallisesta tarkkailusta, peitellystä tiedonhankinnasta, teknisestä tarkkailusta ja valvotusta läpilaskusta on viipymättä ilmoitettava hänelle kirjallisesti sen jälkeen, kun asia on saatettu syyttäjän harkittavaksi, taikka esitutkinta on muuten päätetty tai se on keskeytetty. Pakkokeinosta on kuitenkin ilmoitettava epäillylle viimeistään vuoden kuluttua sen käytön lopettamisesta. Epäiltyyn kohdistettua telekuuntelua tai televalvontaa koskevassa ilmoituksessa on yksilöitävä toimenpiteen kohteena olleet teleosoitteet ja telepäätelaitteet.
 
 Epäiltyyn kohdistetusta peitetoiminnasta, valeostosta ja tietolähteen ohjatusta käytöstä on ilmoitettava hänelle ilman aiheetonta viivytystä kirjallisesti sen jälkeen, kun asia on saatettu syyttäjän harkittavaksi.
 

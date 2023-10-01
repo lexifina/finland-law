@@ -1,13 +1,13 @@
 # 14 § Peitelty tiedonhankinta ja sen edellytykset
 Luku: 10 luku Salaiset pakkokeinot
 
-Peitellyllä tiedonhankinnalla tarkoitetaan tiettyyn henkilöön kohdistuvaa lyhytkestoisessa vuorovaikutuksessa tapahtuvaa tiedonhankintaa, jossa poliisimiehen tai Tullin rikostorjunnan tullimiehen tehtävän salaamiseksi käytetään vääriä, harhauttavia tai peiteltyjä tietoja.
+Peitellyllä tiedonhankinnalla tarkoitetaan tiettyyn henkilöön kohdistuvaa lyhytkestoisessa vuorovaikutuksessa tapahtuvaa tiedonhankintaa, jossa poliisimiehen, Tullin rikostorjunnan tullimiehen tai rajavartiomiehen tehtävän salaamiseksi käytetään vääriä, harhauttavia tai peiteltyjä tietoja.
 
 Poliisi saa käyttää peiteltyä tiedonhankintaa, jos on syytä olettaa, että toimenpiteellä saadaan selvitystä:
 1) rikoksesta, josta säädetty ankarin rangaistus on vähintään neljä vuotta vankeutta;
 2) seksikaupan kohteena olevan henkilön hyväksikäytöstä tai parituksesta;
 3) huumausainerikoksesta;
-4) terroristisessa tarkoituksessa tehtävän rikoksen valmistelusta taikka kouluttautumisesta terrorismirikoksen tekemistä varten, matkustamisesta terrorismirikoksen tekemistä varten tai terrorismirikoksiin liittyvästä julkisesta kehottamisesta, jos teon vakavuus edellyttäisi vankeusrangaistusta;
+4) terroristisessa tarkoituksessa tehtävän rikoksen valmistelusta taikka kouluttautumisesta terrorismirikoksen tekemistä varten tai matkustamisesta terrorismirikoksen tekemistä varten, jos teon vakavuus edellyttäisi vankeusrangaistusta;
 5) törkeästä tulliselvitysrikoksesta;
 6) suunnitelmalliseen, järjestäytyneeseen, ammattimaiseen, jatkuvaan tai toistuvaan rikolliseen toimintaan liittyvästä varkaudesta tai kätkemisrikoksesta;
 7) panttivangin ottamisen valmistelusta; taikka
@@ -18,5 +18,7 @@ Tulli saa käyttää peiteltyä tiedonhankintaa, jos on syytä olettaa, että to
 2) tullirikokseksi katsottavasta huumausainerikoksesta;
 3) salakuljetuksesta; taikka
 4) törkeästä tulliselvitysrikoksesta.
+
+Poliisi, Tulli ja Rajavartiolaitos saavat kohdistaa epäiltyyn peiteltyä tiedonhankintaa tietoverkossa, jos tätä on syytä epäillä rikoksesta, josta säädetty ankarin rangaistus on vähintään kaksi vuotta vankeutta.
 
 Peitelty tiedonhankinta ei ole sallittua asunnossa edes asunnonhaltijan myötävaikutuksella.

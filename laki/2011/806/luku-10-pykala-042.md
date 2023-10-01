@@ -1,7 +1,7 @@
 # 42 § Valvotusta läpilaskusta päättäminen
 Luku: 10 luku Salaiset pakkokeinot
 
-Keskusrikospoliisin, suojelupoliisin tai poliisilaitoksen päällikkö taikka tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu virkamies päättää poliisin suorittamasta valvotusta läpilaskusta. Muiden viranomaisten valvottua läpilaskua koskevasta päätöksenteosta säädetään erikseen.
+Keskusrikospoliisin tai poliisilaitoksen päällikkö taikka tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu virkamies päättää poliisin suorittamasta valvotusta läpilaskusta. Muiden viranomaisten valvottua läpilaskua koskevasta päätöksenteosta säädetään erikseen.
 
 Valvottua läpilaskua koskeva päätös voidaan antaa enintään kuukaudeksi kerrallaan.
 

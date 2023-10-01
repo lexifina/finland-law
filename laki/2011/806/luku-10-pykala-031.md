@@ -1,7 +1,7 @@
 # 31 § Peitetoiminnasta päättäminen
 Luku: 10 luku Salaiset pakkokeinot
 
-Keskusrikospoliisin tai suojelupoliisin päällikkö päättää peitetoiminnasta. Yksinomaan tietoverkossa toteutettavasta peitetoiminnasta päättää keskusrikospoliisin, suojelupoliisin tai poliisilaitoksen päällikkö taikka tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu virkamies.
+Keskusrikospoliisin päällikkö päättää peitetoiminnasta. Yksinomaan tietoverkossa toteutettavasta peitetoiminnasta päättää keskusrikospoliisin tai poliisilaitoksen päällikkö taikka tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu virkamies.
 
 Peitetoimintaa koskeva päätös voidaan antaa enintään kuudeksi kuukaudeksi kerrallaan.
 

@@ -9,4 +9,6 @@ Esitutkintaviranomainen saa kohdistaa televalvontaa rikoksesta epäillyn, asiano
 5) terrorismirikoksen tekemistä varten tapahtuvan matkustamisen edistämistä; tai
 6) seksikaupan kohteena olevan henkilön hyväksikäyttöä.
 
-Jos esitutkinta koskee rikosta, jonka johdosta joku on saanut surmansa, hänen hallinnassaan olleeseen teleosoitteeseen tai telepäätelaitteeseen kohdistuva televalvonta ei edellytä surmansa saaneen oikeudenomistajien suostumusta.
+Jos esitutkinta koskee rikosta, jonka johdosta henkilö on saanut surmansa, hänen hallinnassaan olleeseen teleosoitteeseen tai telepäätelaitteeseen kohdistuva televalvonta ei edellytä henkilön oikeudenomistajien suostumusta.
+
+Jos esitutkinta koskee 6 §:n 2 momentissa tarkoitettua rikosta ja henkilön terveydentila on huonontunut niin, että hän on ilmeisen kykenemätön antamaan 1 momentissa tarkoitettua suostumusta, esitutkintaviranomainen saa kohdistaa televalvontaa henkilön hallinnassa olevaan teleosoitteeseen tai telepäätelaitteeseen ilman henkilön suostumusta. Edellytyksenä on lisäksi, että tätä on pidettävä välttämättömänä asian kiireellisyys ja muut asiaan vaikuttavat seikat huomioon ottaen.

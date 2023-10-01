@@ -4,12 +4,16 @@ Luku: 10 luku Salaiset pakkokeinot
 Ylimääräistä tietoa saa käyttää rikoksen selvittämisessä, jos tieto koskee sellaista rikosta, jonka tutkinnassa olisi saatu käyttää sitä pakkokeinoa, jolla tieto on saatu.
 
 Ylimääräistä tietoa saa käyttää myös, jos ylimääräisen tiedon käyttämisellä voidaan olettaa olevan erittäin tärkeä merkitys rikoksen selvittämiselle ja rikoksesta säädetty ankarin rangaistus on vähintään kolme vuotta vankeutta tai kyse on jostakin seuraavasta rikoksesta:
-1) järjestäytyneen rikollisryhmän toimintaan osallistuminen;
-2) pahoinpitely, kuolemantuottamus, törkeä vammantuottamus, tappeluun osallistuminen, vaaran aiheuttaminen tai heitteillepano;
-3) törkeä kotirauhan rikkominen;
-4) vapaudenriisto, lapsikaappaus, laiton uhkaus tai pakottaminen;
-5) kiristys; taikka
-6) yleisvaarallisen rikoksen valmistelu.
+1) lahjuksen antaminen;
+2) järjestäytyneen rikollisryhmän toimintaan osallistuminen;
+3) pahoinpitely, kuolemantuottamus, törkeä vammantuottamus, tappeluun osallistuminen, vaaran aiheuttaminen tai heitteillepano;
+4) törkeä kotirauhan rikkominen;
+5) vapaudenriisto, lapsikaappaus, laiton uhkaus tai pakottaminen;
+6) lahjominen elinkeinotoiminnassa tai lahjuksen ottaminen elinkeinotoiminnassa;
+7) kiristys;
+8) yleisvaarallisen rikoksen valmistelu;
+9) lahjuksen ottaminen, virkasalaisuuden rikkominen tai virka-aseman väärinkäyttäminen; taikka
+10) huumausainerikos.
 
 Ylimääräisen tiedon käyttämisestä näyttönä päättää tuomioistuin pääasian käsittelyn yhteydessä. Ylimääräisen tiedon käyttämisen kirjaamisesta esitutkintapöytäkirjaan säädetään esitutkintalain 9 luvun 6 §:n 2 momentissa ja ilmoittamisesta haastehakemuksessa oikeudenkäynnistä rikosasioissa annetun lain 5 luvun 3 §:n 1 momentin 8 kohdassa.
 
