@@ -1,7 +1,7 @@
 # 17 a § Luottokustannusten enimmäismäärä
 Luku: 7 luku Kuluttajaluotot
 
-Kuluttajan nostamalle luotolle perittävää luoton korkoa ei saa sopia 20:tä prosenttia suuremmaksi.
+Kuluttajan nostamalle luotolle perittävää luoton korkoa ei saa sopia suuremmaksi kuin korkolain 12 §:ssä tarkoitettu viitekorko lisättynä 15 prosenttiyksiköllä. Tällöinkään luoton korko ei saa sopimuksen mukaan ylittää 20:tä prosenttia.
 
 Jos kuluttajan on sopimuksen mukaan maksettava muita kuin 1 momentissa tarkoitettuja luottokustannuksia, näiden määrä ei saa ylittää päivää kohden 0,01:tä prosenttia luottosopimuksen mukaisesta luoton määrästä tai luottorajasta luottosopimuksen voimassaoloajalta.
 
