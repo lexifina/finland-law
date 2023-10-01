@@ -2,7 +2,7 @@
 Luku: 8 luku Hakemusasioiden käsittely
 
 Asian käsittelyä on jatkettava riita-asian käsittelyä koskevassa järjestyksessä, jos asia on riitainen ja kyseessä on:
-1) yhteiselämän lopettamista, avioeroa tai puolison elatusta koskeva asia;
+1) yhteiselämän lopettamista, avioeroa, avioliiton kumoamista tai puolison elatusta koskeva asia;
 2) lapsen huoltoa, tapaamisoikeutta tai lapsen elatusta koskeva asia;
 3) lapseksiottamista koskeva asia; tai
 4) holhoustoimesta annetussa laissa (442/1999) tarkoitettu asia.
