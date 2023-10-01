@@ -5,13 +5,13 @@ Tuomioistuin | euroa
 korkein oikeus | 500
 korkein hallinto-oikeus | 500
 hovioikeus | 500
-– rikosasia, lähestymiskieltoasia ja ulosottokaaren (705/2007) mukainen muutoksenhakuasia sekä asia, jossa sovinto ei ole sallittu | 250
+– rikosasia ja ulosottokaaren (705/2007) mukainen muutoksenhakuasia sekä asia, jossa sovinto ei ole sallittu | 250
 hallinto-oikeus | 250
 käräjäoikeus | 
 – riita-asia ja maaoikeusasia | 500
-– rikosasia, lähestymiskieltoasia ja ulosottokaaren mukainen muutoksenhakuasia sekä asia, jossa sovinto ei ole sallittu | 250
-– yksipuolisella tuomiolla tai myöntämisen perusteella tuomiolla ratkaistu tai sillensä jäänyt oikeudenkäymiskaaren 5 luvun 3 §:ssä tarkoitettu riita-asia, jota koskevat tiedot on toimitettu suoraan käräjäoikeuden tietojärjestelmään | 65
-– muu yksipuolisella tuomiolla tai myöntämisen perusteella tuomiolla ratkaistu tai sillensä jäänyt oikeudenkäymiskaaren 5 luvun 3 §:ssä tarkoitettu riita-asia | 86
+– rikosasia ja ulosottokaaren mukainen muutoksenhakuasia sekä asia, jossa sovinto ei ole sallittu | 250
+– yksipuolisella tuomiolla ratkaistu oikeudenkäymiskaaren 5 luvun 3 §:ssä tarkoitettu riita-asia, jota koskevat tiedot on toimitettu suoraan käräjäoikeuden tietojärjestelmään | 65
+– muu yksipuolisella tuomiolla ratkaistu oikeudenkäymiskaaren 5 luvun 3 §:ssä tarkoitettu riita-asia | 86
 – vastaajan riitauttama oikeudenkäymiskaaren 5 luvun 3 §:ssä tarkoitettu asia | 250
 työtuomioistuin | 2 000
 markkinaoikeus | 2 000
