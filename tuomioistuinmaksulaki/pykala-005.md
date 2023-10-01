@@ -15,4 +15,5 @@ Tämän lain mukaista maksua ei peritä:
 12) sotilaskurinpidosta ja rikostorjunnasta puolustusvoimissa annetun lain (255/2014) mukaisissa asioissa, jotka koskevat asevelvollisena palvelevan tai naisten vapaaehtoista asepalvelusta suorittavan tekemää kurinpitovalitusta;
 13) yleisiä vaaleja, kirkollisia vaaleja eikä saamelaiskäräjien vaaleja koskevissa asioissa;
 14) valmiuslain (1552/2011) eikä puolustustilalain (1083/1991) mukaisissa asioissa;
+14 a) lähestymiskiellosta annetun lain (898/1998), eurooppalaisesta suojelumääräyksestä annetun Euroopan parlamentin ja neuvoston direktiivin lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja direktiivin soveltamisesta annetun lain (226/2015) sekä yksityisoikeuden alalla määrättyjen suojelutoimenpiteiden vastavuoroisesta tunnustamisesta annetun Euroopan parlamentin ja neuvoston asetuksen soveltamisesta annetun lain (227/2015) mukaisessa asiassa;
 15) asioissa, joiden käsittely tuomioistuimessa on muualla laissa säädetty maksuttomaksi.
