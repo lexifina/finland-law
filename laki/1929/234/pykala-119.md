@@ -3,9 +3,9 @@ Osa: V OSA KANSAINVÄLISEN YKSITYISOIKEUDEN ALAAN KUULUVAT SÄÄNNÖKSET
 Luku: 3 luku Avioliiton purkaminen
 Väliotsikko: Suomen tuomioistuinten kansainvälinen toimivalta
 
-Avioeroa koskeva asia voidaan tutkia Suomessa, jos:
+Avioeroa tai avioliiton kumoamista koskeva asia voidaan tutkia Suomessa, jos:
 1) jommallakummalla puolisolla on kotipaikka Suomessa; tai
-2) hakijalla on ollut Suomessa kotipaikka tai muu läheinen yhteys Suomeen eikä hän voi saattaa avioeroa koskevaa asiaa tutkittavaksi siinä vieraassa valtiossa, jossa jommallakummalla puolisolla on kotipaikka, tai tämä aiheuttaisi hakijalle kohtuuttomia vaikeuksia, ja asian tutkimista Suomessa on olosuhteisiin katsoen pidettävä aiheellisena.
+2) hakijalla on ollut Suomessa kotipaikka tai muu läheinen yhteys Suomeen eikä hän voi saattaa avioeroa tai avioliiton kumoamista koskevaa asiaa tutkittavaksi siinä vieraassa valtiossa, jossa jommallakummalla puolisolla on kotipaikka, tai tämä aiheuttaisi hakijalle kohtuuttomia vaikeuksia, ja asian tutkimista Suomessa on olosuhteisiin katsoen pidettävä aiheellisena.
 
 Virallinen syyttäjä voi Suomessa ajaa kannetta puolisoiden tuomitsemisesta avioeroon 27 §:n 2 momentin nojalla, jos:
 1) avioliittoon vihkimisen on toimittanut Suomen vihkimisviranomainen; ja

@@ -1,6 +1,6 @@
 # 25 §
 Osa: I OSA AVIOLIITON SOLMIMINEN JA PURKAMINEN
-Luku: 6 luku Yhteiselämän lopettaminen ja avioero
+Luku: 6 luku Yhteiselämän lopettaminen ja avioliiton purkaminen
 Väliotsikko: Avioero
 
 Puolisoilla on oikeus saada avioero harkinta-ajan jälkeen.
