@@ -16,4 +16,5 @@ Tämän lain mukaista maksua ei peritä:
 13) yleisiä vaaleja, kirkollisia vaaleja eikä saamelaiskäräjien vaaleja koskevissa asioissa;
 14) valmiuslain (1552/2011) eikä puolustustilalain (1083/1991) mukaisissa asioissa;
 14 a) lähestymiskiellosta annetun lain (898/1998), eurooppalaisesta suojelumääräyksestä annetun Euroopan parlamentin ja neuvoston direktiivin lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja direktiivin soveltamisesta annetun lain (226/2015) sekä yksityisoikeuden alalla määrättyjen suojelutoimenpiteiden vastavuoroisesta tunnustamisesta annetun Euroopan parlamentin ja neuvoston asetuksen soveltamisesta annetun lain (227/2015) mukaisessa asiassa;
-15) asioissa, joiden käsittely tuomioistuimessa on muualla laissa säädetty maksuttomaksi.
+15) asioissa, joiden käsittely tuomioistuimessa on muualla laissa säädetty maksuttomaksi;
+16) avioliittolain (234/1929) mukaisissa avioliiton kumoamista koskevissa asioissa.
