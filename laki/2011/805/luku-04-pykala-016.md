@@ -7,7 +7,8 @@ Kun henkilölle ilmoitetaan, että häntä epäillään rikoksesta, hänelle on 
 3) oikeudesta maksuttomaan oikeusapuun ja avustajaan oikeusapulaissa (257/2002) säädetyillä edellytyksillä;
 4) oikeudesta saada tieto rikoksesta, josta häntä epäillään, sekä tieto rikosepäilyä koskevista muutoksista;
 5) oikeudesta tulkkaukseen sekä olennaisten asiakirjojen käännöksiin siten kuin 13 §:ssä, pakkokeinolain 2 luvun 16 §:ssä ja 3 luvun 21 §:ssä sekä oikeudenkäynnistä rikosasioissa annetun lain 6 a luvun 3 §:ssä säädetään;
-6) oikeudesta vaieta ja olla muutoinkin myötävaikuttamatta rikoksensa selvittämiseen.
+6) oikeudesta vaieta ja olla muutoinkin myötävaikuttamatta rikoksensa selvittämiseen;
+7) mahdollisuudesta sovitteluun rikosasioiden ja eräiden riita-asioiden sovittelusta annetussa laissa (1015/2005) säädetyillä edellytyksillä.
 
 Alle 18-vuotiaalle rikoksesta epäillylle on 1 momentissa säädetyn lisäksi viipymättä kerrottava mahdollisuuksien mukaan asian käsittelyn seuraavista vaiheista ja asian käsittelyyn osallistuvien viranomaisten roolista sekä ilmoitettava:
 1) siitä, että epäillyn oikeuksista ilmoitetaan myös hänen huoltajalleen, edunvalvojalleen tai muulle lailliselle edustajalleen;
