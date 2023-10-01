@@ -6,7 +6,7 @@ Salaisten pakkokeinojen käyttöön Rajavartiolaitoksen suorittamassa esitutkinn
 Rajavartiolaitoksen käytössä eivät ole peitetoiminta, valeosto ja tietolähteen ohjattu käyttö.
 
 Rajavartiolaitoksella on oikeus:
-1) telekuunteluun, tietojen hankkimiseen telekuuntelun sijasta ja peiteltyyn tiedonhankintaan vain selvitettäessä törkeää laittoman maahantulon järjestämistä taikka törkeää laittoman maahantulon järjestämistä ja siihen liittyvää ihmiskauppaa tai törkeää ihmiskauppaa;
+1) telekuunteluun, tietojen hankkimiseen telekuuntelun sijasta ja muuhun peiteltyyn tiedonhankintaan kuin pakkokeinolain 10 luvun 14 §:n 4 momentissa tarkoitettuun peiteltyyn tiedonhankintaan tietoverkossa vain selvitettäessä törkeää laittoman maahantulon järjestämistä taikka törkeää laittoman maahantulon järjestämistä ja siihen liittyvää ihmiskauppaa tai törkeää ihmiskauppaa;
 2) televalvontaan vain selvitettäessä törkeää laittoman maahantulon järjestämistä, törkeää laittoman maahantulon järjestämistä ja siihen liittyvää ihmiskauppaa tai törkeää ihmiskauppaa, törkeää kätkemisrikosta, ammattimaista kätkemisrikosta, törkeää väärennystä, törkeää metsästysrikosta tai törkeää laittoman saaliin kätkemistä;
 3) henkilön tekniseen seurantaan vain selvitettäessä törkeää laittoman maahantulon järjestämistä taikka törkeää laittoman maahantulon järjestämistä ja siihen liittyvää ihmiskauppaa tai törkeää ihmiskauppaa taikka törkeää metsästysrikosta.
 
