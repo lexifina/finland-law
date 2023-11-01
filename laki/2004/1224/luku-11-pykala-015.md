@@ -8,4 +8,4 @@ Yrittäjän tartuntatautipäiväraha on etuuden alkamishetkellä voimassa olevan
 
 Jos vakuutettu tekee työstä pidättämisen aikana muuta työtä, tartuntatautipäivärahaa maksetaan vain ansionmenetystä vastaavalta osalta.
 
-Mitä 1–3 momentissa säädetään, sovelletaan myös 8 luvun 1 a §:n 4 momentin mukaiseen tartuntatautipäivärahaan.
+4 momentti oli väliaikaisesti voimassa 28.2.2022–31.12.2022 L:lla 139/2022.

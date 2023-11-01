@@ -3,7 +3,7 @@ Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 15 luku Toimeenpanoa koskevat säännökset
 
 Päivärahaetuuksia on haettava seuraavasti:
-1) sairauspäivärahaa kahden kuukauden kuluessa työkyvyttömyyden alkamisesta sekä osasairauspäivärahaa ja luovutuspäivärahaa kahden kuukauden kuluessa ja tartuntatautipäivärahaa kuuden kuukauden kuluessa siitä päivästä, josta alkaen etuutta halutaan saada;
+1) sairauspäivärahaa kahden kuukauden kuluessa työkyvyttömyyden alkamisesta sekä osasairauspäivärahaa, tartuntatautipäivärahaa ja luovutuspäivärahaa kahden kuukauden kuluessa siitä päivästä, josta alkaen etuutta halutaan saada;
 2) erityishoitorahaa neljän kuukauden kuluessa siitä päivästä, josta alkaen etuutta halutaan saada;
 3) vanhempainpäivärahaa kahden kuukauden kuluessa siitä päivästä, josta alkaen etuutta halutaan saada.
 

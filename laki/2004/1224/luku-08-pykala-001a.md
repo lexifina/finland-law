@@ -8,6 +8,6 @@ Tartuntatautipäiväraha maksetaan työnantajalle siltä osin kuin työntekijäl
 
 Jos tartuntatautipäivärahasta ei muuta erikseen säädetä, siihen sovelletaan, mitä tässä laissa säädetään sairauspäivärahasta. Tartuntatautipäivärahaan ei kuitenkaan sovelleta sairauspäivärahaa koskevia 7 luvun 1 ja 3 §:n, tämän luvun 1, 2, 4, 4 a ja 5 a §:n, 6 §:n 2 momentin ja 7–10 §:n, 11 luvun 1, 2, 5–8, 10 ja 14 §:n sekä 12 luvun 2–4, 6–8 sekä 11 ja 12 §:n säännöksiä.
 
-Poiketen siitä, mitä 1 momentissa säädetään, tartuntatautipäivärahaa maksetaan ansionmenetyksen korvaamiseksi, jos vakuutetulla on luotettavasti todettu covid-19-tartunta ja ansiotyöhön osallistuminen ei ole suositeltavaa tartunnan leviämisen riskin takia. Tartuntatautipäivärahaa maksetaan myös lapsen huoltajalle, jos alle 16-vuotiaalla lapsella on luotettavasti todettu covid-19-tartunta ja lapsen varhaiskasvatukseen tai oppilaitokseen meneminen ei ole suositeltavaa tartunnan leviämisen riskin takia ja huoltaja on tämän vuoksi estynyt tekemästä ansiotyötään. Tartuntatautipäiväraha maksetaan työnantajalle siltä osin kuin työntekijällä on työsuhteen perusteella oikeus palkan tai sitä vastaavan korvauksen saamiseen mainitulta ansiotyöstä poissaoloajalta.
+4 momentti oli väliaikaisesti voimassa 28.2.2022–31.12.2022 L:lla 139/2022.
 
-Mitä tässä laissa säädetään tartuntatautilain mukaisesta tartuntatautipäivärahasta, sovelletaan myös 4 momentin mukaiseen tartuntatautipäivärahaan.
+5 momentti oli väliaikaisesti voimassa 28.2.2022–31.12.2022 L:lla 139/2022.

@@ -3,18 +3,15 @@ Osa: II OSA SAIRAANHOITOKORVAUKSET
 Luku: 2 luku Sairaanhoitokorvauksia koskevat yhteiset säännökset
 
 Tämän lain nojalla ei korvata:
-1) kunnallisista terveyspalveluista sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain (734/1992) nojalla perittyjä maksuja;
-2) kunnan tai kuntayhtymän sosiaali- ja terveydenhuollon suunnittelusta ja valtionavustuksesta annetun lain (733/1992) 4 §:ssä tarkoitetulla tavalla järjestämän sairaanhoidon kustannuksia;
-3) kunnallisen sairaanhoidon yhteydessä avovastaanotolla annetusta lääkehoidosta aiheutuneita kustannuksia;
-4) sairaanhoidon kustannuksia ajalta, jonka vakuutettu on julkisessa laitoshoidossa tai sitä vastaavassa hoidossa;
-5) sairaanhoidon kustannuksia, jos kustannukset korvataan vankeuslain (767/2005) 10 luvun 7 §:n perusteella;
-6) sairaanhoitoon liittyvien tai vakuutetun muutoin tarvitsemien hoitotarvikkeiden, apuvälineiden ja proteesien hankkimisesta aiheutuvia kustannuksia;
-7) yksityisistä terveydenhuoltopalveluista perittyjä hoitopäivä-, poliklinikka- ja toimistomaksuja sekä muita vastaavia maksuja;
-8) lääkärin antaman psykoterapian kustannuksia, jos kustannukset korvataan Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain (566/2005) 11 a tai 12 §:n perusteella;
-9) sairaanhoidon kustannuksia, jos kustannukset ovat syntyneet hoidosta, joka ei kuulu terveydenhuoltolain (1326/2010) 7 a §:ssä tarkoitettuun terveydenhuollon palveluvalikoimaan.
+1) hyvinvointialueen järjestämistä terveyspalveluista sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain (734/1992) nojalla perittyjä maksuja;
+2) hyvinvointialueen hyvinvointialueesta annetun lain (611/2021) 7 ja 9 §:ssä tarkoitetulla tavalla järjestämän sairaanhoidon kustannuksia;
+3) sairaanhoidon kustannuksia, kun yksityisen terveydenhuollon palvelut on järjestetty hyvinvointialueen järjestämän sosiaali- tai terveydenhuollon tiloissa;
+4) hyvinvointialueen järjestämän sairaanhoidon yhteydessä avovastaanotolla annetusta lääkehoidosta aiheutuneita kustannuksia;
+5) sairaanhoidon kustannuksia ajalta, jonka vakuutettu on julkisessa laitoshoidossa tai sitä vastaavassa hoidossa;
+6) sairaanhoidon kustannuksia, jos kustannukset korvataan vankeuslain (767/2005) 10 luvun 7 §:n perusteella;
+7) sairaanhoitoon liittyvien tai vakuutetun muutoin tarvitsemien hoitotarvikkeiden, apuvälineiden ja proteesien hankkimisesta aiheutuvia kustannuksia;
+8) yksityisistä terveydenhuoltopalveluista perittyjä hoitopäivä-, poliklinikka-, toimisto- ja muita vastaavia maksuja;
+9) lääkärin antaman psykoterapian kustannuksia, jos kustannukset korvataan Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain (566/2005) 11 a tai 12 §:n perusteella;
+10) sairaanhoidon kustannuksia, jos kustannukset ovat syntyneet hoidosta, joka ei kuulu terveydenhuoltolain 7 a §:ssä tarkoitettuun terveydenhuollon palveluvalikoimaan.
 
-Edellä 1 momentin 4 ja 5 kohdassa sairaanhoidon kustannuksilla tarkoitetaan myös lääkkeistä aiheutuvia kustannuksia.
-
-Kunnallisen sosiaali- ja terveydenhuollon tiloissa järjestetyn yksityisen terveydenhuollon palveluiden kustannusten korvaamisen edellytyksenä on, että tilojen vuokranantaja on ilmoittanut Kansaneläkelaitokselle vuokraussopimuksen tehneen palvelun antajan yksilöintitiedot sekä toimipaikkaa ja vuokrasopimuksen kestoa koskevat tiedot. Tilojen vuokranantajan on huolehdittava siitä, että tilojen vuokraaminen ei vaaranna kunnallisen sosiaali- ja terveydenhuollon lakisääteistä toimintaa.
-
-Osakeyhtiötä, jonka enemmistöomistajana on yksi tai useampi kunta tai kuntayhtymä, pidetään tässä pykälässä tarkoitettuna yksityisenä terveydenhuollon palveluiden antajana, jos muun kuin kunnan tai kuntayhtymän omistusosuus on yhteensä vähintään 25 prosenttia yhtiön osakepääomasta. Muun kuin kunnan tai kuntayhtymän omistusosuutta ei kuitenkaan edellytetä, jos yhtiöittäminen on tehty kuntalain (410/2015) 126 §:n 1 momentissa säädetyn yhtiöittämisvelvollisuuden täyttämiseksi.
+Edellä 5 ja 6 kohdassa sairaanhoidon kustannuksilla tarkoitetaan myös lääkkeistä aiheutuvia kustannuksia.
