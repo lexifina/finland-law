@@ -1,0 +1,2 @@
+Laki yhteisvastuutoimenpiteistä kaasun toimitusvarmuuden turvaamiseksi Viron kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
