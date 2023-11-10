@@ -5,7 +5,7 @@ Teknisellä kuuntelulla tarkoitetaan rikoslain 24 luvun 5 §:n estämättä tiet
 
 Teknistä kuuntelua ei saa kohdistaa vakituiseen asumiseen käytettävään tilaan.
 
-Rajavartiolaitoksella on oikeus sen tutkittavaksi kuuluvan rikoksen estämiseksi vakituiseen asumiseen käytettävän tilan ulkopuolella olevan henkilön tekniseen kuunteluun. Rajavartiolaitokselle voidaan antaa lupa myös viranomaisen tiloissa olevan rikoksen johdosta vapautensa menettäneen henkilön tekniseen kuunteluun. Kuuntelu voidaan toteuttaa kohdistamalla se tilaan tai muuhun paikkaan, jossa tiedonhankinnan kohteena olevan henkilön voidaan olettaa todennäköisesti oleskelevan tai käyvän.
+Rajavartiolaitoksella on oikeus tutkittavakseen kuuluvan rikoksen estämiseksi vakituiseen asumiseen käytettävän tilan ulkopuolella olevan henkilön tekniseen kuunteluun. Rajavartiolaitokselle voidaan antaa lupa myös viranomaisen tiloissa olevan rikoksen johdosta vapautensa menettäneen henkilön tekniseen kuunteluun. Kuuntelu voidaan toteuttaa kohdistamalla se tilaan tai muuhun paikkaan, jossa tiedonhankinnan kohteena olevan henkilön voidaan olettaa todennäköisesti oleskelevan tai käyvän. Rajavartiolaitos saa kohdistaa pelkästään tekniseen laitteeseen kohdistuvaa teknistä kuuntelua laitteen sijaintipaikasta riippumatta 2 momentissa säädetyn estämättä.
 
 Teknisen kuuntelun edellytyksenä on lisäksi, että henkilön lausumien, uhkausten tai käyttäytymisen perusteella taikka muutoin voidaan perustellusti olettaa hänen syyllistyvän Rajavartiolaitoksen tutkittavaksi kuuluvaan rikokseen, josta säädetty ankarin rangaistus on vähintään neljä vuotta vankeutta.
 
