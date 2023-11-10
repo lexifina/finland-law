@@ -1,7 +1,7 @@
 # 52 § Salaisen tiedonhankintakeinon käytöstä ilmoittaminen
 Luku: 3 luku Salainen tiedonhankinta
 
-Televalvonnasta, suunnitelmallisesta tarkkailusta, peitellystä tiedonhankinnasta, teknisestä tarkkailusta ja valvotusta läpilaskusta on viipymättä ilmoitettava tiedonhankinnan kohteelle kirjallisesti sen jälkeen, kun tiedonhankinnan tarkoitus on saavutettu. Salaisen tiedonhankintakeinon käytöstä on kuitenkin ilmoitettava tiedonhankinnan kohteelle viimeistään vuoden kuluttua sen käytön lopettamisesta.
+Televalvonnasta, suunnitelmallisesta tarkkailusta, peitellystä tiedonhankinnasta, teknisestä tarkkailusta ja valvotusta läpilaskusta on viipymättä ilmoitettava tiedonhankinnan kohteelle kirjallisesti sen jälkeen, kun tiedonhankinnan tarkoitus on saavutettu. Salaisen tiedonhankintakeinon käytöstä on kuitenkin ilmoitettava tiedonhankinnan kohteelle viimeistään vuoden kuluttua sen käytön lopettamisesta. Henkilöön kohdistettua televalvontaa koskevassa ilmoituksessa on yksilöitävä toimenpiteen kohteena olleet teleosoitteet ja telepäätelaitteet.
 
 Tuomioistuin voi pidättämiseen oikeutetun virkamiehen vaatimuksesta päättää, että 1 momentissa tarkoitettua ilmoitusta tiedonhankinnan kohteelle saadaan lykätä enintään kaksi vuotta kerrallaan, jos se on perusteltua käynnissä olevan tiedonhankinnan turvaamiseksi, valtion turvallisuuden varmistamiseksi taikka hengen tai terveyden suojaamiseksi. Ilmoitus saadaan tuomioistuimen päätöksellä jättää kokonaan tekemättä, jos se on välttämätöntä valtion turvallisuuden varmistamiseksi taikka hengen tai terveyden suojaamiseksi.
 

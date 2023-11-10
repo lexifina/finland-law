@@ -8,3 +8,5 @@ Rajavartiolaitos saa käyttää peiteltyä tiedonhankintaa Rajavartiolaitoksen t
 2) törkeään laittoman maahantulon järjestämiseen ja siihen liittyvään ihmiskaupparikokseen.
 
 Peitelty tiedonhankinta ei ole sallittua asunnossa edes asunnonhaltijan myötävaikutuksella.
+
+Rajavartiolaitos saa kohdistaa henkilöön peiteltyä tiedonhankintaa tietoverkossa tutkittavakseen kuuluvan rikoksen estämiseksi, jos henkilön lausumien tai muun käyttäytymisen perusteella voidaan perustellusti olettaa hänen syyllistyvän rikokseen, josta säädetty ankarin rangaistus on vähintään kaksi vuotta vankeutta.
