@@ -6,4 +6,4 @@ Työttömyysturvan toimeenpanoa johtaa, ohjaa ja kehittää ylimpänä viranomai
 
 Tämän lain mukaiset toimeenpanotehtävät hoitaa työmarkkinatuen ja peruspäivärahan osalta Kansaneläkelaitos ja ansiopäivärahan osalta työttömyyskassalaissa tarkoitetut työttömyyskassat. Lain 9 luvussa tarkoitetun muutosturvarahan toimeenpanotehtävät hoitaa työttömyyskassassa vakuutettuina olevien osalta työttömyyskassa ja muiden osalta Kansaneläkelaitos.
 
-Työ- ja elinkeinotoimisto tai työ- ja elinkeinohallinnon asiakaspalvelukeskus antaa työttömyysetuuden saamisen työvoimapoliittisista edellytyksistä Kansaneläkelaitosta ja työttömyyskassaa sitovan lausunnon siten kuin 11 luvun 4 §:ssä säädetään.
+Työvoimaviranomainen tai elinkeino-, liikenne- ja ympäristökeskusten kehittämis- ja hallintokeskus antaa työttömyysetuuden saamisen työvoimapoliittisista edellytyksistä Kansaneläkelaitosta ja työttömyyskassaa sitovan lausunnon siten kuin 11 luvussa säädetään.

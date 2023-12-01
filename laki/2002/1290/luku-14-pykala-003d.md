@@ -1,13 +1,12 @@
-# 3 d § Muita rahoitusta koskevia säännöksiä
+# 3 d § Kuntien rahoitusosuuden perintä
 Osa: VI OSA ERINÄISET SÄÄNNÖKSET
 Luku: 14 luku Erinäisiä säännöksiä
 
-Edellä 8 luvussa tarkoitettu liikkuvuusavustus ja siihen liittyvät korotukset sekä 10 luvun 6 §:ssä ja julkisesta työvoima- ja yrityspalvelusta annetun lain 9 luvun 1 §:ssä tarkoitetut kulukorvaukset rahoitetaan valtion varoista.
+Kansaneläkelaitos perii kunnilta kuukausittain jälkikäteen niiden työmarkkinatukeen, peruspäivärahaan ja ansiopäivärahaan kohdistuvan rahoitusosuuden. Kansaneläkelaitos käyttää työmarkkinatukeen ja peruspäivärahaan kohdistuvaa kuntien rahoitusosuutta osana maksamaansa työmarkkinatukea ja peruspäivärahaa, ja se tilittää ansiopäivärahaan kohdistuvan rahoitusosuuden edelleen Työllisyysrahastolle käytettäväksi osana ansiopäivärahan perusosan rahoitusta.
 
-Valtioneuvoston asetuksella säädetään tarkemmin Kansaneläkelaitoksen ja työttömyyskassojen ennakoita ja lopullista rahoitusta koskevasta menettelystä, 3 a §:ssä tarkoitetun kunnan rahoitusosuuden perimisestä Kansaneläkelaitokselle ja 3 b §:n mukaisesta työmarkkinatuen rahoituksen vähimmäismäärästä.
+Jos kunta ei ole maksanut rahoitusosuuttaan viimeistään asetuksessa säädettynä eräpäivänä, peritään viivästysajalta korkolain (633/1982) 4 §:n 1 momentissa tarkoitetun korkokannan mukainen viivästyskorko.
 
-Tämän lain mukaisesta toiminnasta Kansaneläkelaitokselle aiheutuvat hallintokulut luetaan sen hallintokustannuksiksi.
-
-Valtion tulee suorittaa Kansaneläkelaitokselle työttömyysetuuksien rahoituksen turvaamiseksi sellainen määrä varoja, että Kansaneläkelaitoksen maksuvalmius peruspäivärahan ja työmarkkinatuen maksamiseen on kunakin ajankohtana riittävästi turvattu (maksuvalmiussuoritus). Maksuvalmiussuoritus tulee palauttaa valtiolle, kun sitä ei enää tarvita peruspäivärahan tai työmarkkinatuen maksuvalmiuden turvaamiseen.
-
-Kansaneläkelaitoksen on vuosittain viimeistään 15 päivänä toukokuuta toimitettava sosiaali- ja terveysministeriölle arvio valtion seuraavana vuonna vastattavista työttömyysetuuksista. Arvio kuntien rahoitusosuudesta ja työmarkkinatuen rahoituksen vähimmäismäärästä toimitetaan mainitun arvion yhteydessä.
+Kotikuntana pidetään kuntaa, joka väestötietojärjestelmästä ja Digi- ja väestötietoviraston varmennepalveluista annetussa laissa (661/2009) tarkoitetussa väestötietojärjestelmässä on merkitty:
+1) työmarkkinatuen saajan kotikunnaksi tämän luvun 3 a §:n 1 ja 2 momentissa mainittuna työmarkkinatuen maksupäivänä;
+2) peruspäivärahan saajan kotikunnaksi tämän luvun 3 b §:n 1 ja 2 momentissa mainittuna työttömyyspäivärahan maksupäivänä; ja
+3) ansiopäivärahan saajan kotikunnaksi työttömyysetuuksien rahoituksesta annetun lain 4 §:n 2 momentissa tai työttömyyskassalain 25 §:n 1 momentissa mainittuna ansiopäivärahan maksupäivänä.

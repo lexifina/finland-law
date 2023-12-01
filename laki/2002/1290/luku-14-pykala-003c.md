@@ -1,7 +1,5 @@
-# 3 c § Kuntien rahoitusosuuden perintä
+# 3 c § Etuuksien kattamiseksi suoritettavat ennakot
 Osa: VI OSA ERINÄISET SÄÄNNÖKSET
 Luku: 14 luku Erinäisiä säännöksiä
 
-Kansaneläkelaitos perii kunnilta kuukausittain jälkikäteen niiden rahoitusosuuden, jota Kansaneläkelaitos käyttää osana maksamaansa työmarkkinatukea. Jos kunta ei ole maksanut rahoitusosuuttaan viimeistään asetuksessa säädettynä eräpäivänä, peritään viivästysajalta korkolain (633/1982) 4 §:n 1 momentissa tarkoitetun korkokannan mukainen viivästyskorko.
-
-Työmarkkinatuen saajan kotikuntana pidetään kuntaa, joka on 3 a §:n 1 momentissa mainittuna työmarkkinatuen maksupäivänä merkitty hänen kotikunnakseen väestötietojärjestelmästä ja Digi- ja väestötietoviraston varmennepalveluista annetussa laissa (661/2009) tarkoitetussa väestötietojärjestelmässä.
+Valtio suorittaa Kansaneläkelaitokselle peruspäivärahaa ja työmarkkinatukea varten kuukausittain ennakkoa siten, että ennakon määrä vastaa valtion seuraavana kuukautena vastattavaksi arvioitua määrää. Valtio suorittaa lisäksi ennakkona etuuksien rahoituksen turvaamiseksi peruspäivärahan ja työmarkkinatuen arvioidusta vuosikustannuksesta 12 prosenttia kuntien maksuosuuden viiveestä johtuvan tulojen ja menojen erotusta vastaavan rahoitustarpeen kattamiseen (peruspäivärahan ja työmarkkinatuen rahoituksen vähimmäismäärä).

@@ -2,9 +2,17 @@
 Osa: VI OSA ERINÄISET SÄÄNNÖKSET
 Luku: 14 luku Erinäisiä säännöksiä
 
-Työmarkkinatuki ja siihen liittyvä lapsikorotus rahoitetaan:
-1) valtion varoista sen maksukauden loppuun, jonka aikana henkilölle on tullut maksetuksi työttömyytensä perusteella työmarkkinatukea yhteensä 300 päivältä;
-2) puoliksi valtion ja työmarkkinatuen saajan kotikunnan varoista 1 kohdassa tarkoitetun maksukauden jälkeiseltä työttömyysajalta sen maksukauden loppuun, jonka aikana henkilölle on tullut maksetuksi työttömyytensä perusteella työmarkkinatukea yhteensä 1 000 päivältä; ja
-3) 2 kohdassa tarkoitetun maksukauden jälkeiseltä työttömyysajalta siten, että työmarkkinatuen saajan kotikunta vastaa 70 prosentilla ja valtio 30 prosentilla työttömän työnhakijan toimeentulon turvaamiseksi maksetun työmarkkinatuen rahoituksesta.
+Työmarkkinatuki yhteensä 100 työttömyysetuuden maksupäivän ajalta rahoitetaan valtion varoista. Tämän jälkeen valtion varoista rahoitetaan työmarkkinatuen ja 2 momentissa tarkoitetun työmarkkinatuen saajan kotikunnan rahoitusosuuden erotus.
 
-Työmarkkinatuen 300 maksupäivän laskeminen alkaa uudelleen alusta sen jälkeen, kun henkilö on tullut työssäoloehdon ja työttömyyspäivärahan enimmäisajan täyttymisen jälkeen uudelleen oikeutetuksi työmarkkinatukeen. Työllistymistä edistävien palvelujen ajalta maksettu työmarkkinatuki ja siihen liittyvä lapsikorotus sekä 7 luvun 4 §:ssä tarkoitettu korotusosa rahoitetaan kuitenkin aina valtion varoista, eikä niiden ajalta maksettua työmarkkinatukea lasketa mukaan työmarkkinatuen 300 maksupäivään.
+Edellä 1 momentissa tarkoitetun ajanjakson jälkeen työmarkkinatuen saajan kotikunta rahoittaa työmarkkinatuesta:
+1) 10 prosenttia siihen saakka, kunnes henkilölle on tullut maksetuksi työttömyysetuutta yhteensä 200 päivältä;
+2) 1 kohdassa tarkoitetun jälkeiseltä ajalta 20 prosenttia siihen saakka, kunnes henkilölle on tullut maksetuksi työttömyysetuutta yhteensä 300 päivältä;
+3) 2 kohdassa tarkoitetun jälkeiseltä ajalta 30 prosenttia siihen saakka, kunnes henkilölle on tullut maksetuksi työttömyysetuutta yhteensä 400 päivältä;
+4) 3 kohdassa tarkoitetun jälkeiseltä ajalta 40 prosenttia siihen saakka, kunnes henkilölle on tullut maksetuksi työttömyysetuutta yhteensä 700 päivältä; ja
+5) 4 kohdassa tarkoitetun jälkeiseltä ajalta 50 prosenttia.
+
+Työttömyysetuuspäiviä laskettaessa otetaan huomioon päivät, joilta tuen saaja on saanut työmarkkinatukea tai sitä edeltävää perus- tai ansiopäivärahaa.
+
+Työmarkkinatukeen liittyvä lapsikorotus ja korotusosa rahoitetaan valtion varoista. Työmarkkinatuki, joka maksetaan kotoutumisen edistämisestä annetun lain 2 §:n 1 momentissa tarkoitetulle henkilölle, rahoitetaan valtion varoista eikä henkilölle maksettua työttömyysetuutta lasketa mukaan työttömyysetuuspäiviin:
+1) kolmen vuoden ajalta ensimmäisestä kotikuntamerkinnästä lukien, jos kyse on mainitun lain 2 §:n 2 tai 3 momentissa tarkoitetusta henkilöstä;
+2) yhden vuoden ajalta ensimmäisestä kotikuntamerkinnästä lukien, jos kyse on muusta kuin 1 kohdassa tarkoitetusta henkilöstä.

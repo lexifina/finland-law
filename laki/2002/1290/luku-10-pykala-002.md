@@ -4,7 +4,7 @@ Luku: 10 luku Työllistymistä edistävien palvelujen ajalta maksettavaa etuutta
 
 Työllistymistä edistävien palvelujen ajalta maksetaan sitä työttömyysetuutta, johon työnhakijalla on oikeus työttömänä ollessaan.
 
-Työttömyysetuutta maksetaan vain siltä ajalta, jona henkilö on julkisesta työvoima- ja yrityspalvelusta annetussa laissa tarkoitettuna työnhakijana työ- ja elinkeinotoimistossa. Työttömyysetuuteen ei ole oikeutta henkilöllä, joka työllistyy kokoaikatyössä yli kahden viikon ajan.
+Työttömyysetuutta maksetaan vain siltä ajalta, jona henkilö on työvoimapalveluiden järjestämisestä annetussa laissa tarkoitettuna työnhakijana työvoimaviranomaisessa. Työttömyysetuuteen ei ole oikeutta henkilöllä, joka työllistyy kokoaikatyössä yli kahden viikon ajan.
 
 Työttömyysetuutta maksetaan työllistymistä edistävien palvelujen ajalta, vaikka työnhakijalla ei palvelun alkaessa ole oikeutta etuuteen, jos se johtuu:
 1) korvauksettomasta määräajasta;

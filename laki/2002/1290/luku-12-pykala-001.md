@@ -8,4 +8,4 @@ Valituskirjelmä on toimitettava Kansaneläkelaitokselle tai asianomaiselle työ
 
 Kansaneläkelaitoksen tai työttömyyskassan päätöstä on muutoksenhausta huolimatta noudatettava, kunnes asia on lainvoimaisella päätöksellä ratkaistu.
 
-Työvoimaviranomaisen antamasta sitovasta lausunnosta ei saa erikseen hakea muutosta valittamalla.
+Työvoimaviranomaisen ja elinkeino-, liikenne- ja ympäristökeskusten kehittämis- ja hallintokeskuksen antamasta sitovasta lausunnosta ei saa erikseen hakea muutosta valittamalla.

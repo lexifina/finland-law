@@ -1,7 +1,15 @@
-# 3 b § Etuuksien kattamiseksi suoritettavat ennakot
+# 3 b § Peruspäivärahan saajan kotikunnan rahoitusosuus
 Osa: VI OSA ERINÄISET SÄÄNNÖKSET
 Luku: 14 luku Erinäisiä säännöksiä
 
-Valtio suorittaa Kansaneläkelaitokselle peruspäivärahaa varten kuukausittain ennakkoa siten, että ennakon määrä vastaa valtion seuraavana kuukautena vastattavaksi arvioitua määrää ja että ennakot ovat riittävät menojen kattamiseen seuraavana kuukautena.
+Peruspäiväraha rahoitetaan työttömyysvakuutusmaksun tuotoilla ja valtion varoista siihen saakka, kunnes henkilölle on tullut maksetuksi työttömyyspäivärahaa yhteensä 100 päivältä.
 
-Valtio suorittaa Kansaneläkelaitokselle työmarkkinatukea varten kuukausittain ennakkoa siten, että ennakon määrä vastaa valtion seuraavana kuukautena vastattavaksi arvioitua määrää. Valtio suorittaa lisäksi ennakkona etuuksien rahoituksen turvaamiseksi työmarkkinatuen arvioidusta vuosikustannuksesta 12 prosenttia kuntien maksuosuuden viiveestä johtuvan tulojen ja menojen erotusta vastaavan rahoitustarpeen kattamiseen (työmarkkinatuen rahoituksen vähimmäismäärä).
+Edellä 1 momentissa tarkoitetun ajanjakson jälkeen peruspäivärahan saajan kotikunta rahoittaa peruspäivärahasta:
+1) 10 prosenttia siihen saakka, kunnes henkilölle on tullut maksetuksi työttömyyspäivärahaa yhteensä 200 päivältä;
+2) 1 kohdassa tarkoitetun jälkeiseltä ajalta 20 prosenttia siihen saakka, kunnes henkilölle on tullut maksetuksi työttömyyspäivärahaa yhteensä 300 päivältä;
+3) 2 kohdassa tarkoitetun jälkeiseltä ajalta 30 prosenttia siihen saakka, kunnes henkilölle on tullut maksetuksi työttömyyspäivärahaa yhteensä 400 päivältä;
+4) 3 kohdassa tarkoitetun jälkeiseltä ajalta 40 prosenttia.
+
+Peruspäivärahaan liittyvä lapsikorotus ja korotusosa rahoitetaan palkansaajan työttömyysvakuutusmaksun tuotoilla ja valtion varoista.
+
+Työttömyyspäivärahan 100 maksupäivän laskeminen alkaa uudelleen alusta sen jälkeen, kun henkilö on tullut työssäoloehdon täyttymisen jälkeen oikeutetuksi uuteen 6 luvun 7 §:ssä tarkoitettuun enimmäisaikaan.

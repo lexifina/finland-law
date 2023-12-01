@@ -1,5 +1,5 @@
-# 4 d §
+# 4 d § Valvonta
 Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 11 luku Toimeenpanoa koskevat säännökset
 
-4 d § oli väliaikaisesti voimassa 1.5.2020–31.12.2020 L:lla 296/2020.
+Tässä laissa työvoimaviranomaiselle ja elinkeino- liikenne- ja ympäristökeskusten kehittämis- ja hallintokeskukselle säädettyjen tehtävien valvontaan sovelletaan, mitä työvoimapalveluiden järjestämisestä annetun lain 25 ja 26 §:ssä säädetään.

@@ -2,7 +2,7 @@
 Osa: II OSA TYÖTTÖMYYSPÄIVÄRAHA
 Luku: 5 luku Työttömyyspäivärahan saamisen edellytykset
 
-Työttömyyspäivärahaa maksetaan sen jälkeen, kun henkilö on ollut työttömänä työnhakijana työ- ja elinkeinotoimistossa yhteensä viittä täyttä työpäivää vastaavan ajan enintään kahdeksan peräkkäisen kalenteriviikon aikana. Omavastuuaika asetetaan kerran 6 luvun 7 §:ssä säädettyä työttömyyspäivärahan enimmäisaikaa kohti.
+Työttömyyspäivärahaa maksetaan sen jälkeen, kun henkilö on ollut työttömänä työnhakijana työvoimaviranomaisessa yhteensä viittä täyttä työpäivää vastaavan ajan enintään kahdeksan peräkkäisen kalenteriviikon aikana. Omavastuuaika asetetaan kerran 6 luvun 7 §:ssä säädettyä työttömyyspäivärahan enimmäisaikaa kohti.
 
 Omavastuuaikaa ei kuitenkaan aseteta, jos päivärahakauden enimmäisaika alkaisi vuoden kuluessa edellisen enimmäisajan alkamisesta ja jos omavastuuaika on asetettu edellisen päivärahakauden enimmäisajan alkaessa.
 

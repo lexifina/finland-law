@@ -2,7 +2,7 @@
 Osa: III OSA TYÖMARKKINATUKI
 Luku: 7 luku Työmarkkinatukea koskevat yleiset säännökset
 
-Työmarkkinatukea maksetaan sen jälkeen, kun henkilö on ollut työttömänä työnhakijana työ- ja elinkeinotoimistossa yhteensä viittä täyttä työpäivää vastaavan ajan enintään kahdeksan peräkkäisen kalenteriviikon aikana.
+Työmarkkinatukea maksetaan sen jälkeen, kun henkilö on ollut työttömänä työnhakijana työvoimaviranomaisessa yhteensä viittä täyttä työpäivää vastaavan ajan enintään kahdeksan peräkkäisen kalenteriviikon aikana.
 
 Omavastuupäiviksi ei lueta niitä päiviä:
 1) joina henkilö ei täytä työttömyysetuuden saamiselle 2 luvussa säädettyjä edellytyksiä;
