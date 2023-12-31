@@ -1,0 +1,2 @@
+Laki talletuspankkien yhteenliittymästä
+Eduskunnan päätöksen mukaisesti säädetään:
