@@ -1,4 +1,4 @@
-# 2 § HT-, KHT- ja JHT-tilintarkastajan sekä JHTT-tilintarkastajan vuosimaksu
+# 2 § Tilintarkastajan ja kestävyysraportointitarkastajan vuosimaksu
 
 HT-, KHT- ja JHT-tilintarkastajan sekä JHTT-tilintarkastajan vuosimaksu koostuu perus- ja mahdollisesta lisävuosimaksusta.
 
@@ -7,3 +7,5 @@ HT-, KHT- ja JHT-tilintarkastajalta sekä JHTT-tilintarkastajalta peritään per
 KHT-tilintarkastajalta peritään perusvuosimaksun lisäksi lisävuosimaksua 240 euroa.
 
 JHT-tilintarkastajalta peritään perusvuosimaksun lisäksi lisävuosimaksua 240 euroa.
+
+Kestävyysraportointitarkastajalta peritään perusvuosimaksun lisäksi lisävuosimaksua 240 euroa.

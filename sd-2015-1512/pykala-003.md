@@ -2,4 +2,4 @@
 
 Tilintarkastusyhteisön ja JHTT-yhteisön vuosimaksu koostuu perus- ja lisävuosimaksusta.
 
-Tilintarkastusyhteisöltä ja JHTT-yhteisöltä peritään perusvuosimaksua 1 150 euroa, minkä lisäksi peritään lisävuosimaksua niiden yhteisössä tilikauden aikana toimivien luonnollisten henkilöiden, jotka ovat tilintarkastajia, keskimääräisen lukumäärän perusteella 260 euroa kutakin henkilöä kohden kaksi henkilöä ylittävältä määrältä.
+Tilintarkastusyhteisöltä ja JHTT-yhteisöltä peritään perusvuosimaksua 1 150 euroa, minkä lisäksi peritään lisävuosimaksua niiden yhteisössä tilikauden aikana toimivien luonnollisten henkilöiden, jotka ovat tilintarkastajia, keskimääräisen lukumäärän perusteella 260 euroa kutakin henkilöä kohden kaksi henkilöä ylittävältä määrältä. Sellaisesta tilintarkastajasta, jolla on kestävyysraportointitarkastajan erityispätevyys, peritään edellä tässä momentissa tarkoitettuna lisävuosimaksuna 520 euroa.
