@@ -6,7 +6,7 @@ Verovelvollinen saa vähentää verosta osan käyttämässään asunnossa tai va
 
 Tavanomaisena hoiva- ja hoitotyönä ei pidetä sellaisia terveyden- ja sairaudenhoitopalveluja, joiden myynti säädetään arvonlisäverolain (1501/1993) 34–36 §:ssä verovapaaksi. Asunnon kunnossapitotyönä ei pidetä kodin koneiden ja laitteiden korjaus- tai asennustyötä. Tieto- ja viestintätekniikan laitteiden, ohjelmistojen, tietoturvan ja tietoliikenneyhteyksien asennus-, kunnossapito- ja opastustyöhön sovelletaan kuitenkin, mitä asunnon kunnossapito- ja perusparannustyöstä 1 momentissa säädetään.
 
-Kotitalousvähennystä ei myönnetä, jos välittömästi samaa työsuoritusta varten on saatu omaishoidon tukea, kunnan myöntämä sosiaali- ja terveydenhuollon palveluseteli, lasten kotihoidon ja yksityisen hoidon tuesta annetussa laissa tarkoitettua tukea tai julkisesta työvoima- ja yrityspalvelusta annetun lain mukaista palkkatukea. Vähennystä ei myöskään myönnetä asunnon kunnossapito- tai perusparannustyön perusteella, jos asunnon korjaukseen on myönnetty valtion tai muun julkisyhteisön varoista korjausavustusta.
+Kotitalousvähennystä ei myönnetä, jos välittömästi samaa työsuoritusta varten on saatu omaishoidon tukea, kunnan myöntämä sosiaali- ja terveydenhuollon palveluseteli tai lasten kotihoidon ja yksityisen hoidon tuesta annetussa laissa tarkoitettua tukea. Vähennystä ei myöskään myönnetä asunnon kunnossapito- tai perusparannustyön perusteella, jos asunnon korjaukseen on myönnetty valtion tai muun julkisyhteisön varoista korjausavustusta.
 
 Kotitalousvähennystä ei myönnetä verovelvollisen itse tekemästä työstä eikä työstä, jonka on tehnyt vähennystä vaativan verovelvollisen kanssa samassa taloudessa asuva henkilö.
 
