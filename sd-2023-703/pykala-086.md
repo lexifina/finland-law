@@ -1,0 +1,9 @@
+# 86 § Yhteentoimivuuden testaaminen
+Osa: II OSA SOSIAALI- JA TERVEYDENHUOLLON TIETOJÄRJESTELMÄT
+Luku: 12 luku Tietojärjestelmien ja hyvinvointisovellusten olennaiset vaatimukset
+
+Luokkaan A kuuluvan tietojärjestelmän ja hyvinvointisovelluksen on oltava yhteentoimiva valtakunnallisten tietojärjestelmäpalvelujen ja siihen liitettyjen muiden tietojärjestelmien kanssa. Yhteentoimivuus on osoitettava Kansaneläkelaitoksen järjestämässä yhteentoimivuuden testauksessa. Ennen yhteentoimivuuden testausta tietojärjestelmäpalvelun tuottajan ja hyvinvointisovelluksen valmistajan on annettava Kansaneläkelaitokselle selvitys siitä, miten tietojärjestelmän tai hyvinvointisovelluksen toiminnallisuutta koskevat vaatimukset on toteutettu ja testattu. Yhteentoimivuuden testauksen ajankohdasta ja toteuttamisesta on sovittava Kansaneläkelaitoksen kanssa.
+
+Tuotantokäyttöön otetun luokkaan A kuuluvan tietojärjestelmän on oltava mukana valtakunnallisiin tietojärjestelmäpalveluihin liitettävien muiden tietojärjestelmien yhteistestauksissa tietojärjestelmien keskinäisen yhteentoimivuuden varmistamiseksi. Kansaneläkelaitos päättää niistä tietojärjestelmistä, joiden tulee osallistua yhteentoimivuuden testaukseen. Yhteentoimivuuden testaukseen osallistuvien tietojärjestelmien tietojärjestelmäpalvelun tuottajat vastaavat itse testauksen niille aiheuttamista kustannuksista. Kansaneläkelaitos antaa yhteentoimivuuden testaukseen perustuvan todistuksen yhteentoimivuutta koskevien vaatimusten täyttymisestä, kun ne on todennettu.
+
+Edellä 1 momentissa säädetystä poiketen Kansaneläkelaitoksen ylläpitämille valtakunnallisille tietojärjestelmäpalveluille sekä niille luokkaan A kuuluville tietojärjestelmille, joita ei liitetä valtakunnallisiin tietojärjestelmäpalveluihin, ei suoriteta erillistä yhteentoimivuuden testausta.

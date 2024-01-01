@@ -1,0 +1,9 @@
+# 55 § Sosiaalihuollon palvelunantajan oikeus saada sosiaalihuollon asiakastietoja
+Osa: I OSA LAIN SOVELTAMISALA JA ASIAKASTIETOJEN KÄSITTELY
+Luku: 8 luku Tiedonsaantioikeus ja tietojen luovuttaminen
+
+Sosiaalihuollon palvelunantajalla on oikeus saada ja käyttää muiden sosiaalihuollon palvelunantajien sosiaalihuollon asiakastietoja asiakkaan sosiaalipalvelun järjestämiseksi ja toteuttamiseksi. Tiedonsaantioikeuden edellytyksenä on asiakkaan antama luovutuslupa, jos kyse on muista kuin 56 §:n 1 momentissa tarkoitetuista tapauksista tai jollei muualla laissa ole säädetty tiedonsaantioikeudesta. Lupa koskee kaikkia sosiaalihuollon asiakkaan sosiaalihuollon asiakastietoja, ja sen laajuutta voi rajata kieltojen avulla.
+
+Jos sosiaalihuollon asiakkaalla ei ole muistisairauden, mielenterveyden häiriön, kehitysvammaisuuden tai vastaavan syyn takia edellytyksiä arvioida annettavan luovutusluvan merkitystä eikä hänellä ole laillista edustajaa, on palvelunantajalla salassapitosäännösten estämättä oikeus saada ja käyttää muiden sosiaalihuollon palvelunantajien välttämättömiä sosiaalihuollon asiakastietoja sosiaalihuollon asiakkaan välttämättömän sosiaalipalvelun järjestämiseksi tai toteuttamiseksi. Lisäksi sosiaalihuollon viranomaisella on oikeus saada muilta sosiaalihuollon palvelunantajilta sosiaalihuollon asiakassuhteeseen olennaisesti vaikuttavat tiedot ja selvitykset, jotka viranomaiselle laissa säädetyn tehtävän vuoksi ovat välttämättömiä asiakkaan sosiaalihuollon tarpeen selvittämiseksi, sosiaalihuollon järjestämiseksi ja siihen liittyvien toimenpiteiden toteuttamiseksi sekä palvelunantajalle annettujen tietojen tarkistamista varten.
+
+Tiedonsaantioikeus toteutetaan ensisijaisesti valtakunnallisten tietojärjestelmäpalvelujen välityksellä. Jos tiedonsaantia ei ole mahdollista toteuttaa valtakunnallisten tietojärjestelmäpalvelujen välityksellä, voidaan tiedonsaanti toteuttaa muulla tavoin.

@@ -1,0 +1,9 @@
+# 85 § Vaatimustenmukaisuuden osoittaminen
+Osa: II OSA SOSIAALI- JA TERVEYDENHUOLLON TIETOJÄRJESTELMÄT
+Luku: 12 luku Tietojärjestelmien ja hyvinvointisovellusten olennaiset vaatimukset
+
+Luokkaan A kuuluvan tietojärjestelmän ja hyvinvointisovelluksen vaatimustenmukaisuus on osoitettava sertifioinnilla eli tietojärjestelmäpalvelun tuottajan tai hyvinvointisovelluksen valmistajan antamalla selvityksellä siitä, että tietojärjestelmä tai hyvinvointisovellus täyttää käyttötarkoituksensa mukaiset toiminnallisuutta koskevat vaatimukset, sekä hyväksytyllä yhteentoimivuuden testauksella ja 87 §:n mukaisella tietoturvallisuuden arviointilaitoksen antamalla tietoturvallisuuden arviointia koskevalla todistuksella. Tietojärjestelmäpalvelun tuottaja tai hyvinvointisovelluksen valmistaja vastaa siitä, että tietojärjestelmä tai hyvinvointisovellus on sertifioitu.
+
+Luokkaan B kuuluvan tietojärjestelmän vaatimustenmukaisuus on osoitettava tietojärjestelmäpalvelun tuottajan antamalla kirjallisella selvityksellä siitä, että tietojärjestelmä asianmukaisesti asennettuna, ylläpidettynä ja käytettynä täyttää käyttötarkoituksensa mukaiset olennaiset vaatimukset. Tietojärjestelmäpalvelun tuottaja vastaa tietojärjestelmän olennaisten vaatimusten arvioinnista. Tietojärjestelmäpalvelun tuottajan tulee vakuuttaa osana vaatimuksista annettavaa selvitystä, että järjestelmässä on toteutettu ne toiminnot, jotka selvityksen mukaisesti kuuluvat järjestelmän käyttötarkoitukseen.
+
+Terveyden ja hyvinvoinnin laitos voi antaa määräyksiä vaatimustenmukaisuuden osoittamisessa noudatettavista menettelyistä ja annettavan selvityksen sisällöstä. Lisäksi Kansaneläkelaitos voi antaa määräyksiä tässä laissa tai lääkemääräyslaissa tarkoitettuihin valtakunnallisiin tietojärjestelmäpalveluihin liitettävien tietojärjestelmien yhteentoimivuuden todentamisessa noudatettavista menettelyistä.
