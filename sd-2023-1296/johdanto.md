@@ -1,0 +1,2 @@
+Laki eräiden kansaneläkeindeksiin ja elinkustannusindeksiin sidottujen etuuksien ja rahamäärien indeksitarkistuksista vuosina 2024–2027
+Eduskunnan päätöksen mukaisesti säädetään:
