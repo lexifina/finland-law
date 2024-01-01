@@ -7,4 +7,4 @@ Tässä laissa säädetään alle kolmivuotiaan lapsen hoidon ja opintojen ajalt
 4) maatalousyrittäjän eläkelaki (1280/ 2006);
 5) julkisten alojen eläkelaki (81/2016);
 6) ortodoksisesta kirkosta annettu laki (985/2006);
-7) eräiden valtakunnassa voimassa olevien valtion eläkkeitä koskevien säännösten soveltamisesta Ahvenanmaan maakunnassa annettu maakuntalaki (ÅFS 54/2007).
+7) eräiden valtakunnassa voimassa olevien julkisten alojen eläkkeitä koskevien säännösten soveltamisesta Ahvenanmaan maakunnassa annettu maakuntalaki (Ålands författningssamling 2016:76).
