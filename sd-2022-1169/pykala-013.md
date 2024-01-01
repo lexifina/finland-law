@@ -1,0 +1,5 @@
+# 13 § Tiedonsaantioikeus ja tiedottamisvelvollisuus
+
+Asukkaiden kokouksella ja asukastoimikunnalla on oikeus saada vuokrataloyhteisöltä tai tämän edustajalta 6 §:ssä tarkoitettujen oikeuksien käyttämiseen tarpeelliset vuokranmääritysyksikköä koskevat tiedot. Yhteistyöelimellä on oikeus saada 8 §:ssä tarkoitettujen oikeuksien käyttämiseen tarpeelliset vuokrataloyhteisöä koskevat tiedot. Tiedot on annettava tilintarkastajan oikeiksi varmentamina, jos asukkaiden kokous, asukastoimikunta tai yhteistyöelin ne erityisestä syystä sellaisina pyytää. Jos tiedot on pyydetty tilintarkastajan varmentamina ja tietojen oikeellisuutta ei voida varmentaa, on tilintarkastajan todettava tämä.
+
+Vuokrataloyhteisön on tiedotettava asukkaille ja muille huoneistojen haltijoille vuokranmääritysyksikköä koskevista ja yhteistyöelimelle vuokrataloyhteisöä koskevista sellaisista asioista, joilla voi olla merkitystä heille tai 1 momentissa mainituille toimielimille 6 ja 8 §:n tarkoitettujen oikeuksien käyttämiseksi.

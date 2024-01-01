@@ -1,0 +1,3 @@
+# 1 § Lain tarkoitus
+
+Tässä laissa säädetään valtion tukemien vuokratalojen asukkaiden osallistumis- ja vaikuttamismahdollisuuksista vuokrataloyhteisön hallintoon sekä asukkaiden ja vuokrataloyhteisön välisestä yhteistyöstä (yhteishallinto). Lain tarkoituksena on antaa asukkaille päätösvaltaa ja vaikutusmahdollisuus omaa asumistaan koskevissa asioissa sekä lisätä asumisviihtyvyyttä ja edistää vuokratalojen kunnossapitoa ja hoitoa, energiatehokkuutta sekä kestävää asumista. Lain tarkoituksena on lisäksi turvata riittävä ja oikea-aikainen tiedonkulku asukkaiden ja vuokrataloyhteisön välillä yhteishallinnossa.
