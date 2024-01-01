@@ -1,14 +1,24 @@
 # 4 § Eläketurvakeskuksen oikeus saada ja käyttää tietoja tilasto-, tutkimus- ja kehittämistoimintaan
 
-Eläketurvakeskuksella on salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä oikeus saada toimialaansa kuuluvaan tilasto-, tutkimus- ja kehittämistoimintaan tarvittavat henkilön yksilöintitiedot, tiedot työansioista ja työtuloista sekä muut tiedot tietojen antajan hoitamasta eläkevakuutuksesta ja eläke- ja muusta sosiaaliturvasta:
-1) työeläkelaitoksilta;
-2) Ahvenanmaan maakunnan hallitukselta;
-3) Kansaneläkelaitokselta;
-4) Tapaturmavakuutuskeskukselta;
-5) Liikennevakuutuskeskukselta;
-6) lakisääteistä tapaturma- ja liikennevakuutusta hoitavalta vakuutusyhtiöltä;
-7) Vakuutuskuntoutus VKK ry:ltä; sekä
-8) sosiaalivakuutuksen alalla toimivalta muulta viranomaiselta tai laitokselta näiden tahojen hoitamasta eläke- ja muusta sosiaaliturvasta.
+Eläketurvakeskuksella on salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä oikeus saada 2 §:n 1 momentin 1–3 ja 8 kohdassa tarkoitettua tilasto-, tutkimus- ja kehittämistoimintaa varten tietoja seuraavasti:
+1) työeläkelaitoksilta:
+a) tarpeelliset henkilön yksilöintitiedot, tiedot henkilön sukupuolesta, kansalaisuudesta, ammatista, äidinkielestä, siviilisäädystä, perhesuhteista, syntymä- ja asuinpaikasta, syntymä- ja kuolinajasta sekä muut näihin rinnastettavat tilasto-, tutkimus- tai kehittämistoiminnan kannalta välttämättömät tiedot;
+b) tarpeelliset tiedot henkilön eläke-, etuus- tai korvaushakemuksista ja niihin sisältyvistä tiedoista, henkilölle annetuista eläke-, etuus- ja korvauspäätöksistä, henkilölle myönnetyistä eläkkeistä, etuuksista ja korvauksista ja niiden maksamisesta, henkilön eläke- tai sosiaalivakuuttamista koskevista hakemuksista ja niihin sisältyvistä tiedoista, henkilön eläke- tai sosiaalivakuuttamista koskevista ratkaisuista sekä muut välttämättömät eläke- ja sosiaaliturvaa, eläke- ja sosiaalivakuuttamista sekä näiden toimeenpanoa koskevat tiedot;
+c) tarpeelliset tiedot työtulosuosituksen laskentapalvelun yrittäjälle antamasta työtulosuosituksesta ja eläkelaitoksen yrittäjälle vahvistamasta työtulosta;
+d) välttämättömät työntekijän eläkelain 198 §:n 1 momentin 2 kohdan a–c alakohdassa tarkoitetut työeläkelaitokselle eläke- tai etuusasian käsittelyä varten toimitetut henkilöä koskevat tiedot;
+2) Ahvenanmaan maakunnan hallitukselta, Kansaneläkelaitokselta, Tapaturmavakuutuskeskukselta, Liikennevakuutuskeskukselta, Potilasvakuutuskeskukselta, lakisääteistä tapaturma- ja liikennevakuutusta hoitavalta vakuutusyhtiöltä sekä sosiaalivakuutuksen alalla toimivalta muulta viranomaiselta tai laitokselta:
+a) tarpeelliset henkilön yksilöintitiedot, tiedot henkilön sukupuolesta, kansalaisuudesta, ammatista, äidinkielestä, siviilisäädystä, perhesuhteista, syntymä- ja asuinpaikasta, syntymä- ja kuolinajasta sekä muut näihin rinnastettavat tilasto-, tutkimus- tai kehittämistoiminnan kannalta välttämättömät tiedot;
+b) tarpeelliset tiedot henkilön eläke-, etuus- tai korvaushakemuksista ja niihin sisältyvistä tiedoista, henkilölle annetuista eläke-, etuus- ja korvauspäätöksistä, henkilölle myönnetyistä eläkkeistä, etuuksista ja korvauksista ja niiden maksamisesta, henkilön eläke- tai sosiaalivakuuttamista koskevista hakemuksista ja niihin sisältyvistä tiedoista, henkilön eläke- tai sosiaalivakuuttamista koskevista ratkaisuista sekä muut välttämättömät eläke- ja sosiaaliturvaa, eläke- ja sosiaalivakuuttamista sekä näiden toimeenpanoa koskevat tiedot;
+c) välttämättömät tiedot henkilön diagnoosin nimestä ja sairausluokituksen koodista;
+3) Verohallinnolta:
+a) tarpeelliset henkilön yksilöintitiedot, tiedot henkilön sukupuolesta, kansalaisuudesta, ammatista, äidinkielestä, siviilisäädystä, perhesuhteista, syntymä- ja asuinpaikasta, syntymä- ja kuolinajasta sekä muut näihin rinnastettavat tilasto-, tutkimus- tai kehittämistoiminnan kannalta välttämättömät tiedot;
+b) tarpeelliset tiedot henkilön työansioista ja työtuloista, työskentelyn ajankohdasta ja määrästä, työskentelyn koko- tai osa-aikaisuudesta sekä ajanjaksoista, jolloin henkilö on ollut poissa työstä;
+c) tarpeelliset tiedot henkilön omaan yrittäjätoimintaan perustuvasta ansio- ja pääomatulosta sekä yrittäjätoiminnan muodosta, liikevaihdosta ja muista yrittäjätoiminnan laajuutta kuvaavista seikoista;
+d) tarpeelliset tiedot henkilön eläkkeistä ja sosiaaliturvaetuuksista;
+4) Finanssivalvonnalta etuudensaajarekisteriin sisältyvät:
+a) tarpeelliset henkilön yksilöintitiedot, tiedot henkilön sukupuolesta, kansalaisuudesta, ammatista, äidinkielestä, siviilisäädystä, perhesuhteista, syntymä- ja asuinpaikasta, syntymä- ja kuolinajasta sekä muut näihin rinnastettavat tilasto-, tutkimus- ja kehittämistoiminnan kannalta välttämättömät tiedot;
+b) tarpeelliset työttömyysturvaa ja vuorottelukorvauksia koskevat tiedot; sekä
+5) Digi- ja väestötietovirastolta tarpeelliset henkilön yksilöintitiedot, tiedot henkilön sukupuolesta, kansalaisuudesta, äidinkielestä, siviilisäädystä, perhesuhteista, syntymä- ja asuinpaikasta, syntymä- ja kuolinajasta sekä muut näihin rinnastettavat tilasto-, tutkimus- tai kehittämistoiminnan kannalta välttämättömät tiedot.
 
 Eläketurvakeskuksella on oikeus saada 1 momentissa mainitut tiedot maksutta. Jos tiedot tarvitaan tietyssä muodossa ja siitä aiheutuu tietojen luovuttajalle olennaisia lisäkustannuksia, kustannukset on kuitenkin korvattava.
 
