@@ -1,0 +1,4 @@
+# 53 § Tarkkailumenetelmäsuunnitelman hyväksyminen
+Luku: 10 luku Toiminnanharjoittajille päästökauppakaudella 2021–2030 maksutta jaettavat päästöoikeudet
+
+Toiminnanharjoittajan on toimitettava tarkkailumenetelmäsuunnitelma Energiavirastolle hyväksyttäväksi. Tarkkailumenetelmäsuunnitelma on toimitettava Energiaviraston vahvistamalla lomakkeella. Energiavirasto tekee päätöksen tarkkailumenetelmäsuunnitelman hyväksymisestä. Tarkkailumenetelmäsuunnitelman toimittamisen aikataulusta ja hyväksymisen edellytyksistä säädetään ilmaisjakoasetuksessa.
