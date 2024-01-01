@@ -1,0 +1,2 @@
+Avoimuusrekisterilaki
+Eduskunnan päätöksen mukaisesti säädetään:

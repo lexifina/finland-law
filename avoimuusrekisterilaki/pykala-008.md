@@ -1,0 +1,21 @@
+# 8 § Toimintailmoitus
+
+Toimintailmoitus tehdään tammikuun alusta helmikuun loppuun kestävän ilmoituskauden aikana sekä heinäkuun alusta elokuun loppuun kestävän ilmoituskauden aikana. Toimintailmoitus tehdään ilmoituskautta edeltäneiden kuuden kuukauden (raportointijakso) ajalta. Ensimmäinen toimintailmoitus tehdään ensimmäisellä rekisteröinti-ilmoituksen tekemisen jälkeisellä seuraavalla ilmoituskaudella. Jos vaikuttamistoiminta sisältää kalenterivuoden ensimmäisen raportointijakson aikana enintään viisi 4 §:n 1 momentin 1 kohdassa tarkoitettua yhteydenottokertaa, ilmoitetaan vaikuttamistoiminta kuitenkin koko ilmoitettavalta kalenterivuodelta seuraavan kalenterivuoden ensimmäisellä ilmoituskaudella.
+
+Vaikuttamistoiminnan ja vaikuttamistoiminnan neuvonnan taloudelliset tiedot ilmoitetaan vain siinä toimintailmoituksessa, joka tehdään heinäkuussa alkavalla ilmoituskaudella. Ilmoitusvelvollisen ei tarvitse ilmoittaa vaikuttamistoiminnan ja vaikuttamistoiminnan neuvonnan taloudellisia tietoja, jos se ei ole harjoittanut vaikuttamistoimintaa, vaikuttamistoiminnan neuvontaa eikä 5 §:n 2 momentissa tarkoitettua yhteydenpitoa edellisen kalenterivuoden aikana.
+
+Ilmoitusvelvollisen on ilmoitettava toimintailmoituksessa liikesalaisuuden estämättä:
+1) vaikuttamistoiminnasta 6 §:n 2 momentin 1 kohdassa tarkoitetut tiedot yksilöitynä aiheen perusteella siten, että ilmoituksesta käy ilmi kunkin aiheen osalta yhteydenpidon kohteet ja pääasialliset yhteydenpitotavat;
+2) vaikuttamistoiminnan neuvonnasta 6 §:n 2 momentin 2 kohdassa tarkoitetut tiedot yksilöitynä asiakkaittain;
+3) vaikuttamistoiminnan neuvontaan liittyvästä 5 §:n 2 momentin mukaisesta yhteydenpidosta 6 §:n 2 momentin 3 kohdassa tarkoitetut tiedot yksilöitynä aiheen perusteella siten, että ilmoituksesta käy ilmi kunkin aiheen osalta yhteydenpidon kohteet ja pääasialliset yhteydenpitotavat;
+4) vaikuttamistoiminnan ja vaikuttamistoiminnan neuvonnan taloudelliset tiedot.
+
+Toimintailmoituksessa ilmoitetaan vaikuttamistoiminnan kohteet yksilöitynä siten, että henkilöittäin yksilöidään kansanedustajat, ministerit, ministereiden toimikaudeksi nimitetyt valtiosihteerit ja erityisavustajat, eduskunnan pääsihteeri ja apulaispääsihteeri, ministeriöiden kansliapäälliköt, alivaltiosihteerit ja osastopäälliköt sekä ministeriöiden asettamat selvityshenkilöt. Kansanedustajien avustajien ja eduskuntaryhmien henkilöstön osalta ilmoitetaan tieto eduskuntaryhmästä. Ministeriöiden muihin virkamiehiin kohdistuvan yhteydenpidon osalta ilmoitetaan tieto osastosta ja yksiköstä. Eduskunnan kanslian muihin virkamiehiin kohdistuvan yhteydenpidon osalta ilmoitetaan tieto valiokunnasta, osastosta ja yksiköstä taikka muusta vastaavasta organisaation osasta.
+
+Jos ilmoitusvelvollinen ei ole harjoittanut vaikuttamistoimintaa, vaikuttamistoiminnan neuvontaa eikä 5 §:n 2 momentissa tarkoitettua yhteydenpitoa ilmoituskautta edeltäneiden kuuden kuukauden aikana, tulee sen ilmoittaa tästä toimintailmoituksessa.
+
+Jos ilmoitusvelvollinen on tehnyt 7 §:n 3 momentissa tarkoitetun ilmoituksen vaikuttamistoiminnan ja vaikuttamistoiminnan neuvonnan lopettamisesta, tulee ilmoituksen antamisen ja meneillään olevan raportointijakson alkamisen välisenä aikana harjoitetusta vaikuttamistoiminnasta, vaikuttamistoiminnan neuvonnasta ja 5 §:n 2 momentissa tarkoitetusta yhteydenpidosta ilmoittaa lopettamisesta annetun ilmoituksen yhteydessä tehtävällä erillisellä toimintailmoituksella.
+
+Ilmoitusvelvollisen tekemän 7 §:n 3 momentissa tarkoitetun ilmoituksen yhteydessä on ilmoitusvelvollisen annettava tämän pykälän 2 momentissa tarkoitetussa tilanteessa erillisellä toimintailmoituksella vaikuttamistoiminnan ja vaikuttamistoiminnan neuvonnan taloudelliset tiedot edeltäneeltä kalenterivuodelta, jos ilmoitusvelvollinen ei vielä ole niitä ilmoittanut.
+
+Kun ilmoitusvelvollisen vaikuttamistoiminta ja vaikuttamistoiminnan neuvonta on loppunut pysyvästi tai vaikuttamistoiminta on muuttunut pienimuotoiseksi ja ilmoitusvelvollinen on tehnyt tästä 7 §:n 3 momentissa tarkoitetun ilmoituksen sekä hoitanut siihen liittyvät tämän pykälän 6 ja 7 momentissa tarkoitetut velvoitteet, 7 §:n 2 momentissa ja tässä pykälässä säädetyt ilmoitusvelvollisuudet päättyvät.
