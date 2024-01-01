@@ -9,4 +9,6 @@ Muutoksenhakulautakunnan jäsenen oikeudesta pysyä tehtävässään on voimassa
 
 Jos muutoksenhakulautakunnan jäsenen tehtävä vapautuu kesken toimikauden, määrätään seuraaja jäljellä olevaksi toimikaudeksi.
 
-Muutoksenhakulautakunnan jäsenten on ilmoitettava sidonnaisuuksistaan siten kuin tuomioistuinlain (673/2016) 17 luvun 17 §:ssä säädetään asiantuntijajäsenen velvollisuudesta ilmoittaa sidonnaisuuksistaan.
+Muutoksenhakulautakunnan jäseneksi esitettävän on ennen tehtävään nimittämistä annettava sosiaali- ja terveysministeriölle valtion virkamieslain (750/1994) 8 a §:n 1 momentissa tarkoitettu selvitys sidonnaisuuksistaan. Jäseneksi nimitetyn on lisäksi toimitettava ilmoitus tiedoksi muutoksenhakulautakunnalle. Tehtävän aikana tapahtuneista sidonnaisuuksia koskevista muutoksista jäsenen on viipymättä ilmoitettava sosiaali- ja terveysministeriölle ja muutoksenhakulautakunnalle. Jäsenen on myös muutoin annettava vastaava selvitys sosiaali- ja terveysministeriön tai muutoksenhakulautakunnan sitä pyytäessä.
+
+Sidonnaisuuksia koskevien tietojen rekisteröinnistä säädetään sidonnaisuus- ja sivutoimirekisteristä annetussa laissa (507/2023).
