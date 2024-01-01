@@ -1,20 +1,16 @@
-# 4 § Palkansaajan työssäoloehtoon luettava työ
+# 4 § Palkansaajan työssäoloehdon kertyminen
 Osa: II OSA TYÖTTÖMYYSPÄIVÄRAHA
 Luku: 5 luku Työttömyyspäivärahan saamisen edellytykset
 
-Palkansaajan työssäoloehtoon luetaan kalenteriviikot, joina henkilö on ollut vakuutuksenalaisessa työaikaa ja palkkaa koskevat edellytykset täyttävässä työssä. Kukin kalenteriviikko luetaan työssäoloehtoon vain kerran.
+Työssäoloehtokuukaudeksi luetaan sellainen kalenterikuukausi, jona henkilölle on maksettu vakuutuksenalaista vakiintunutta palkkaa vähintään 930 euroa. Työssäoloehtokuukaudeksi luetaan myös sellaiset kaksi erillistä kalenterikuukautta (puolikas työssäoloehtokuukausi), joiden kummankin aikana maksettu vakuutuksenalainen vakiintunut palkka on alle 930 euroa mutta vähintään 465 euroa.
 
-Työaikaa koskevat edellytykset täyttyvät, kun henkilön työaika yhdessä tai useammassa työssä on yhteensä vähintään 18 tuntia tai kun jaksotyössä työsopimuksen mukainen säännöllinen työaika on tasoittumisjakson aikana keskimäärin yhteensä vähintään 18 tuntia kalenteriviikossa. Työaikaan ei lueta sitä työaikaa, joka on säästetty työaikapankkiin.
+Palkan on oltava työehtosopimuksen mukainen. Jos alalla ei ole työehtosopimusta, kokoaikatyön palkan on oltava vähintään 1 134 euroa kuukaudessa.
 
-Palkkaa koskevat edellytykset täyttyvät, kun palkka on työehtosopimuksen mukainen. Jos alalla ei ole työehtosopimusta, kokoaikatyön palkan on oltava vähintään 1 134 euroa kuukaudessa.
+Työssäoloehtokuukauteen ei lueta:
+1) palkkaa työstä, jota henkilö on tehnyt osasairauspäivärahaa saadessaan;
+2) henkilölle maksettua työ- tai virkaehtosopimuksen perusteella alennettua sairausajan palkkaa;
+3) työaikapankkiin siirrettyyn työaikaan perustuvaa palkkaa tai korvausta.
 
-Työssäoloehtoon ei lueta työtä, jota henkilö on tehnyt osasairauspäivärahaa saadessaan. Työssäoloehtoon ei myöskään lueta aikaa, jolta henkilölle on maksettu työ- tai virkaehtosopimuksen perusteella alennettua sairausajan palkkaa.
+Kukin työssäoloehtokuukausi luetaan työssäoloehtoon vain kerran.
 
-Viikoittaisesta työaikaedellytyksestä voidaan valtioneuvoston asetuksella tarkemmin säädetyillä edellytyksillä poiketa:
-1) opettajien;
-2) kotityöntekijöiden;
-3) urheilijoiden;
-4) taiteilijoiden ja eräiden erityisryhmiin kuuluvien työntekijäin eläkelaissa (662/1985) tarkoitettujen luovaa tai esityksellistä työtä tekevien henkilöiden; ja
-5) muiden vastaavien työaikajärjestelyiltään epätavallisilla työaloilla työskentelevien osalta.
-
-Edellä 5 momentissa tarkoitettu työaikaedellytyksen täyttyminen määritellään siten, että työtulojen tai työajan perustella määritellään toiminnan olennaisuus työttömyysturvan kannalta.
+Valtioneuvoston asetuksella säädetään tarkemmin työssäoloehdossa huomioon otettavasta tulosta ja tulon kohdentamisesta.

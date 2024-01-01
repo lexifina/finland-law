@@ -2,9 +2,7 @@
 Osa: II OSA TYÖTTÖMYYSPÄIVÄRAHA
 Luku: 5 luku Työttömyyspäivärahan saamisen edellytykset
 
-Palkansaajan työssäoloehto täyttyy, kun henkilö on 28 lähinnä edellisen kuukauden aikana (tarkastelujakso) ollut vähintään 26 kalenteriviikkoa 4 §:ssä tarkoitetussa työssä.
-
-Edellä 2 §:n 2 momentissa tarkoitetun vakuutetun kohdalla palkansaajan työssäoloehto täyttyy kuitenkin, kun henkilö 28 edellisen kuukauden aikana (tarkastelujakso) on ollut vähintään 52 kalenteriviikkoa 4 §:ssä tarkoitetussa työssä.
+Palkansaajan työssäoloehto täyttyy, kun henkilö on 28 lähinnä edellisen kuukauden aikana (tarkastelujakso) kerryttänyt yhteensä vähintään 12 työssäoloehtokuukautta.
 
 Tarkastelujaksoa pidennetään ajalla, jonka henkilö on estynyt olemasta työmarkkinoilla, jos syynä tähän on:
 1) sairaus, laitoshoito tai kuntoutus;

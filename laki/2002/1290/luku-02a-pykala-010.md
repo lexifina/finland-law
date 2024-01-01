@@ -7,7 +7,7 @@ Työnhakijalla, joka työttömänä tai palkkatuetussa työssä ollessaan taikka
 2) neljännen kerran tai tätä useammin, ei ole oikeutta työttömyysetuuteen toistaiseksi mainitussa lainkohdassa tarkoitetun menettelyn jälkeen, ennen kuin etuusoikeus palautuu 2 tai 3 momentissa tarkoitetulla tavalla (työssäolovelvoite).
 
 Oikeus työttömyysetuuteen palautuu työssäolovelvoitteen asettamiseen johtaneen menettelyn jälkeen, kun henkilö on yhteensä vähintään 12 kalenteriviikkoa:
-1) ollut työssäoloehtoon luettavassa työssä;
+1) ollut työssäoloehtoon luettavassa työssä tai työssä, josta hän on ansainnut vakuutuksenalaista vakiintunutta palkkaa 5 luvun 4 §:n 1 momentissa tarkoitetulla tavalla; tehty työ ja siitä maksettu palkka otetaan huomioon vain kerran;
 2) osallistunut muuhun työllistymistä edistävään palveluun kuin työttömyysetuudella tuettuun omaehtoiseen opiskeluun tai kotoutumisen edistämisestä annetun lain 28–31 §:ssä tarkoitettuun omaehtoiseen opiskeluun;
 3) opiskellut omaehtoisesti 2 luvun 10 §:n 2 momentissa tarkoitettuja päätoimisia opintoja; tai
 4) työllistynyt päätoimisesti yritystoiminnassa tai omassa työssä.

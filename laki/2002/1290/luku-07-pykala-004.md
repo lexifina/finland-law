@@ -4,6 +4,4 @@ Luku: 7 luku Työmarkkinatukea koskevat yleiset säännökset
 
 Täysimääräinen työmarkkinatuki on 6 luvun 1 §:n 1 momentissa tarkoitetun peruspäivärahan suuruinen ja työmarkkinatuen korotusosa 6 luvun 1 §:n 2 momentissa tarkoitetun peruspäivärahan korotusosan suuruinen.
 
-Työmarkkinatuen saajalle maksetaan lapsikorotusta siten kuin 6 luvun 6 §:ssä säädetään.
-
 Työmarkkinatuen määrä lasketaan ottaen huomioon, mitä 4 luvussa säädetään.
