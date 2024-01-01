@@ -1,7 +1,7 @@
 # 24 § Hallinnollinen seuraamusmaksu
 Luku: 4 luku Oikeusturva ja seuraamukset
 
-Tietosuoja-asetuksen 83 artiklassa säädetyn hallinnollisen sakon (hallinnollinen seuraamusmaksu) määrää tietosuojavaltuutetun ja apulaistietosuojavaltuutettujen yhdessä muodostama seuraamuskollegio. Tietosuojavaltuutettu toimii kollegion puheenjohtajana. Apulaistietosuojavaltuutetun ollessa estynyt voi hänen sijaisenaan seuraamuskollegiossa toimia tietosuojavaltuutetun toimiston työjärjestyksessä määrätty esittelijä. Kollegio on päätösvaltainen kolmijäsenisenä.
+Tietosuoja-asetuksen 83 artiklassa säädetyn hallinnollisen seuraamusmaksun määrää tietosuojavaltuutetun ja apulaistietosuojavaltuutettujen yhdessä muodostama seuraamuskollegio. Tietosuojavaltuutettu toimii kollegion puheenjohtajana. Apulaistietosuojavaltuutetun ollessa estynyt voi hänen sijaisenaan seuraamuskollegiossa toimia tietosuojavaltuutetun toimiston työjärjestyksessä määrätty esittelijä. Kollegio on päätösvaltainen kolmijäsenisenä.
 
 Kollegion päätös tehdään esittelystä. Päätökseksi tulee se kanta, jota enemmistö on kannattanut. Äänten mennessä tasan päätökseksi tulee se kanta, joka on lievempi sille, johon seuraamus kohdistuu.
 
