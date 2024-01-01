@@ -1,0 +1,13 @@
+# 9 § Tietullioperaattorin velvollisuudet tietullijärjestelmän yhteentoimivuuden varmistamiseksi
+
+Tietullioperaattori vastaa tietullikohteen EETS-yhteentoimivuudesta. Sen on laadittava vastuullaan olevasta EETS-tietullikohteesta määritys ja ylläpidettävä kohdetta sen mukaisesti. EETS-tietullikohteen määrityksessä on oltava yksityiskohtainen suunnitelma yhteentoimivuuden osatekijöiden eritelmien mukaisuuden ja käyttöönsoveltuvuuden arviointia koskevasta prosessista.
+
+Järjestelmästä vastaisuudessa vastaavalla tietullioperaattorilla tarkoitetaan julkista tai yksityistä yksikköä, joka on nimetty toimimaan tietullioperaattorina tulevaisuudessa toimintansa aloittavassa EETS-tietullikohteessa. Sähköistä tietullijärjestelmää perustettaessa järjestelmästä vastaisuudessa vastaavan tietullioperaattorin on julkaistava verkkosivuillaan EETS-tietullikohteen määritys niin hyvissä ajoin ennen uuden EETS-tietullikohteen toiminnan käynnistämistä, että EETS-palveluntarjoajat voivat akkreditoitua viimeistään kuukautta ennen uuden järjestelmän toiminnan käynnistämistä.
+
+Yhteentoimivuuden teknisistä ja menettelyllisistä ehdoista sekä tietullikohteen määrityksen vähimmäissisällöstä säädetään EETS-täytäntöönpanoasetuksessa.
+
+Sen lisäksi, mitä 1 momentissa säädetään, ennen sähköisen tietullijärjestelmän olennaista muuttamista järjestelmästä vastaisuudessa vastaavan tietullioperaattorin täytyy laatia ja julkaista EETS-tietullikohteen määrityksessä yksityiskohtainen suunnitelma kohteeseen jo akkreditoituneiden EETS-palveluntarjoajien eritelmien mukaisuuden ja yhteentoimivuuden osatekijöiden käyttöönsoveltuvuuden uudelleenarvioinnista. Suunnitelman on mahdollistettava kyseisten EETS-palveluntarjoajien akkreditoituminen uudelleen vähintään kuukautta ennen muutetun järjestelmän toiminnan aloittamista. Tietullioperaattorin on noudatettava kyseistä suunnitelmaa. Sähköisen tietullijärjestelmän olennaisena muuttamisena pidetään uudelleenakkreditointia edellyttäviä muutoksia taustajärjestelmien rajapintojen uudelleenohjelmointiin tai mukauttamiseen ja muihin vastaaviin EETS-palveluntarjoajien toiminnassa oleviin yhteentoimivuuden osatekijöihin.
+
+Jos EETS-tietullikohde ei vastaa EETS:n yhteentoimivuudelle säädettyjä teknisiä ja menettelyllisiä ehtoja, vastuullisen tietullioperaattorin on toteutettava korjaavat toimenpiteet, jotta tietullijärjestelmän EETS-yhteentoimivuus säilyy.
+
+Tietullioperaattorin on toimittava yhteentoimivuuden osatekijöiden käyttöönsoveltuvuuden arvioinnissa syrjimättömästi ja yhteistyössä EETS-palveluntarjoajien, valmistajien ja ilmoitettujen laitosten kanssa.

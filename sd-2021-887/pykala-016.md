@@ -1,0 +1,7 @@
+# 16 § Yhteentoimivuuden osatekijät
+
+EETS-tietullikohteesta vastuussa olevan tietullioperaattorin tulee perustaa testiympäristö, jossa EETS-palveluntarjoaja tai sen valtuutettu edustaja voi tarkastaa, että sen ajoneuvolaitteet soveltuvat käytettäviksi tietullioperaattorin EETS-tietullikohteessa. Testien läpäisemisestä on annettava todistus. Tietullioperaattori voi perustaa yhden testiympäristön useampaa EETS-tietullikohdetta varten ja sallia yhden valtuutetun edustajan tarkastaa yhden ajoneuvolaitetyypin käyttöönsoveltuvuuden yhden tai useamman EETS-palveluntarjoajan puolesta. Tietullioperaattori voi vaatia EETS-palveluntarjoajia tai niiden valtuutettuja edustajia kattamaan kyseisistä testeistä koituvat kustannukset.
+
+EETS:n yhteentoimivuuden osatekijöitä koskevista vaatimuksista ja yleisistä infrastruktuurivaatimuksista säädetään delegoidussa EETS-asetuksessa. Sellaisten yhteentoimivuuden osatekijöiden, joissa on CE-merkintä tai vakuutus eritelmien mukaisuudesta taikka vakuutus käyttöönsoveltuvuudesta, katsotaan täyttävän yhteentoimivuuden osatekijöitä koskevat vaatimukset.
+
+Erityisistä infrastruktuurivaatimuksista, yhteentoimivuuden osatekijöiden eritelmien mukai-suuden ja käyttöönsoveltuvuuden arvioinnissa käytettävästä menettelystä sekä EY-vakuutusten sisällöstä ja muodosta, tietullioperaattoreiden, EETS-palveluntarjoajien ja EETS:n käyttäjien yhteentoimivuuden osatekijöiden välisten sähköisten rajapintojen eritelmistä säädetään EETS-täytäntöönpanoasetuksessa.
