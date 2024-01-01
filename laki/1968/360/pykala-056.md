@@ -4,7 +4,7 @@ Osa: IV OSA Erityisiä säännöksiä
 Työnantaja saa sen lisäksi, mitä 7 §:ssä säädetään, vähentää tämän pykälän 2–4 momentin mukaan määräytyvän koulutusvähennyksen yhteistoimintalain (1333/2021) 9 §:ssä tarkoitettuun kehittämissuunnitelmaan tai taloudellisesti tuetusta ammatillisen osaamisen kehittämisestä annetun lain (1136/2013) 3 §:ssä tarkoitettuun koulutussuunnitelmaan perustuvasta elinkeinotoiminnassa työskennelleen työntekijän koulutuksesta, jos:
 1) koulutus kestää yhtäjaksoisesti vähintään tunnin;
 2) työnantaja maksaa koulutuksen ajalta työntekijälle palkkaa; ja
-3) työntekijän palkkauskustannuksiin ei ole verovuonna myönnetty julkisesta työvoima- ja yrityspalvelusta annetun lain (916/2012) 7 luvun 1 §:ssä tarkoitettua palkkatukea tai 7 a luvussa tarkoitettua 55 vuotta täyttäneiden työllistämistukea.
+3) työntekijän palkkauskustannuksiin ei ole verovuonna myönnetty työvoimapalveluiden järjestämisestä annetussa laissa (380/2023) tarkoitettua palkkatukea tai 55 vuotta täyttäneiden työllistämistukea.
 
 Koulutusvähennyksen määrä lasketaan siten, että yrityksen työntekijöiden keskimääräinen päiväpalkka kerrotaan koulutusvähennykseen oikeuttavien koulutuspäivien määrällä, ja näin saatu tulo jaetaan luvulla 2.
 

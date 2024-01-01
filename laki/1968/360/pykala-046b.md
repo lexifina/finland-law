@@ -9,4 +9,3 @@ Verovuosi | Vähennyksen enimmäismäärä
 1985 | 240 ""
 1986 | 260 ""
 1987 | 250 ""
-Vähentäminen edellyttää lisäksi, että varaus on tehty myös verovelvollisen kirjanpidossa.

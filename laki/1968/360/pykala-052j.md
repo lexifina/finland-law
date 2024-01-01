@@ -1,0 +1,4 @@
+# 52 j § Hankintamenon määräytyminen eräissä kuntien rakennejärjestelyissä
+Osa: IV OSA Erityisiä säännöksiä
+
+Kunnan tai kuntayhtymän luovuttaessa vuoden 2030 loppuun mennessä omistamalleen osakeyhtiölle hyvinvointialueelle vuokraamansa kiinteistön tai kiinteistön omistamista ja hallintaa harjoittavan yhtiön osakkeita, jotka ovat olleet kunnan tai kuntayhtymän verovapaaksi katsotun toiminnan käytössä, kunnan tai kuntayhtymän saadessa vastikkeeksi vastaanottavan yhtiön osakkeita, käyttöomaisuuden ja muun omaisuuden verotuksessa vähentämättä olevaksi hankintamenoksi ja pitkävaikutteisten menojen verotuksessa vähentämättä olevaksi määräksi katsotaan varojen siirtoa edeltäneeltä viimeksi päättyneeltä tilikaudelta laaditun tilinpäätöksen mukainen omaisuuden ja pitkävaikutteisten menojen kirjanpitoarvo.
