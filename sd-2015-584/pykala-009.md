@@ -4,4 +4,4 @@ Alusluokkiin A, B ja C kuuluvien alusten laiva-apteekista on pidettävä lääke
 
 Lääkepäiväkirja on säilytettävä vähintään viisi vuotta siihen tehdystä viimeisestä merkinnästä. Lääkepäiväkirja on säilytettävä laiva-apteekin yhteydessä.
 
-Lääkepäiväkirjan sisältämien tietojen salassapitoon sovelletaan, mitä potilaan asemasta ja oikeuksista annetussa laissa (785/1992) säädetään potilasasiakirjoihin sisältyvien tietojen salassapidosta.
+Lääkepäiväkirjan sisältämien tietojen salassapitoon sovelletaan, mitä sosiaali- ja terveydenhuollon asiakastietojen käsittelystä annetussa laissa (703/2023) säädetään potilasasiakirjoihin sisältyvien tietojen salassapidosta.
