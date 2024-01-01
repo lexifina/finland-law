@@ -1,0 +1,3 @@
+# 5 § Potilasasiavastaavien ja sosiaaliasiavastaavien riippumattomuus ja puolueettomuus
+
+Potilasasiavastaavien ja sosiaaliasiavastaavien toiminnasta järjestämisvastuussa olevan on järjestettävä potilasasiavastaavien ja sosiaaliasiavastaavien toiminta siten, että heidän riippumattomuutensa ja puolueettomuutensa turvataan heidän hoitaessaan tehtäviään. Potilasasiavastaavan ja sosiaaliasiavastaavan on toimittava tehtävässään riippumattomasti ja puolueettomasti.

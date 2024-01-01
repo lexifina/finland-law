@@ -1,0 +1,7 @@
+# 9 § Rekisterinpitäjät
+
+Potilasasiavastaavien ja sosiaaliasiavastaavien toiminnan järjestämisestä vastaava hyvinvointialueen toimivaltainen viranomainen on luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2016/679 tarkoitettu järjestämisvastuulleen kuuluvan potilas-asiavastaavien ja sosiaaliasiavastaavien toiminnan asiakirjojen sekä sille kuntien ja kuntayhtymien hallinnasta siirtyneiden potilas- ja sosiaaliasiamiestoiminnan asiakirjojen rekisterinpitäjä.
+
+Potilasasiavastaavien toiminnan järjestämisestä vastaava HUS-yhtymän toimivaltainen viranomainen on 1 momentissa tarkoitettu järjestämisvastuulleen kuuluvan potilasasia-vastaavien toiminnan asiakirjojen sekä sille Helsingin ja Uudenmaan sairaanhoitopiirin hallinnasta siirtyneiden potilasasiamiestoiminnan asiakirjojen rekisterinpitäjä.
+
+Potilasasiavastaavien toiminnan järjestämisestä vastaavat valtion mielisairaalat, Vankiterveydenhuollon yksikkö ja Työterveyslaitos ovat 1 momentissa tarkoitettuja niiden järjestämisvastuulle kuuluvien potilasasiavastaavien toiminnan asiakirjojen rekisterinpitäjiä. Puolustusvoimien järjestämän potilasasiavastaavien toiminnan asiakirjojen rekisterinpitäjänä toimii Pääesikunta.

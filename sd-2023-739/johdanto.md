@@ -1,0 +1,2 @@
+Laki potilasasiavastaavista ja sosiaaliasiavastaavista
+Eduskunnan päätöksen mukaisesti säädetään:
