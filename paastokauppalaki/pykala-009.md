@@ -1,0 +1,6 @@
+# 9 § Lentoliikenne
+Luku: 2 luku Soveltamisala ja sen rajaukset
+
+Tätä lakia sovelletaan lentoliikenteen päästökaupan osalta vuosina 2024–2026 Euroopan talousalueella sijaitsevien lentopaikkojen välisten sekä näiltä lentopaikoilta Sveitsissä ja Yhdistyneessä kuningaskunnassa sijaitsevalle lentopaikalle suuntautuvien lentojen hiilidioksidipäästöihin. Vuodesta 2027 lähtien tätä lakia sovelletaan Euroopan talousalueella sijaitsevalta lentopaikalta lähtevien sekä tällaiselle lentopaikalle saapuvien lentojen hiilidioksidipäästöihin. Päästöjen tarkkailun, ilmoittamisen ja todentamisen osalta lakia sovelletaan vuodesta 2025 lähtien myös lentoliikenteen muiden päästöjen kuin hiilidioksidipäästöjen vaikutuksiin.
+
+Tätä lakia sovelletaan lentoliikenteen päästökaupan osalta ainoastaan niihin ilma-aluksen käyttäjiin, joilla on Liikenne- ja viestintäviraston tai muun toimivaltaisen Suomen viranomaisen myöntämä lentoliikenteen harjoittamisen yhteisistä säännöistä yhteisössä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1008/2008 mukainen voimassa oleva liikennelupa, sekä niihin ilma-alusten käyttäjiin, joiden hallinnoivaksi jäsenvaltioksi Euroopan komissio on päästökauppadirektiivin 18 a artiklan mukaisesti vahvistanut Suomen.

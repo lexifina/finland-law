@@ -1,0 +1,4 @@
+# 10 § Lentoliikenteen päästökaupan soveltamisalan rajaukset
+Luku: 2 luku Soveltamisala ja sen rajaukset
+
+Tätä lakia ei sovelleta 31 päivään joulukuuta 2030 Euroopan unionin toiminnasta tehdyssä sopimuksessa tarkoitetulla syrjäisimmällä alueella sijaitsevan lentopaikan ja samassa jäsenvaltiossa sijaitsevan lentopaikan välisten lentojen hiilidioksidipäästöihin. Tätä lakia ei sovelleta myöskään lentoihin, joiden määränpää tai lähtöpaikka on Yhdistyneiden kansakuntien määrittelemässä vähiten kehittyneessä valtiossa tai pienessä kehittyvässä saarivaltiossa sijaitseva lentopaikka päästökauppadirektiivin 25 a artiklan 6 kohdassa tarkoitetulla tavalla taikka joiden lähtöpaikka on Sveitsissä tai Yhdistyneessä kuningaskunnassa sijaitseva lentopaikka. Tätä lakia ei myöskään sovelleta liitteessä II tarkoitettuihin lentoihin tai ilma-aluksiin.

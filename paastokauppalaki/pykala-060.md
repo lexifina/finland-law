@@ -1,0 +1,6 @@
+# 60 § Muutetun päästöoikeusmäärän kirjaaminen
+Luku: 10 luku Toiminnanharjoittajille päästökauppakaudella 2021–2030 maksutta jaettavat päästöoikeudet
+
+Jos laitokselle maksutta jaettavien päästöoikeuksien määrä alenee 56 §:ssä tarkoitetun muutoksen seurauksena eikä mainitussa pykälässä tarkoitettua päätöstä alennetusta päästöoikeusmäärästä ole mahdollista tehdä kesäkuun loppuun mennessä, kirjaa Energiavirasto 59 §:ssä säädetyn estämättä kyseisenä vuonna laitokselle maksutta jaettavat päästöoikeudet kyseisen laitoksen tilille mahdollisimman pian sen jälkeen, kun päätös alentuneesta päästöoikeusmäärästä on tehty.
+
+Jos laitokselle maksutta jaettavien päästöoikeuksien määrä kasvaa 56 §:ssä tarkoitetun muutoksen seurauksena eikä mainitussa pykälässä tarkoitettua päätöstä kasvaneesta päästöoikeusmäärästä ole mahdollista tehdä kesäkuun loppuun mennessä, voi Energiavirasto, jos se komission ilmaisjaon mukautussäädöksen nojalla on mahdollista, kirjata laitoksen tilille voimassa olevan päätöksen mukaisen määrän maksutta jaettavia päästöoikeuksia kesäkuun loppuun mennessä ja tilille kirjatun ja kasvaneen päästöoikeusmäärän erotuksen mahdollisimman pian sen jälkeen, kun päätös lisääntyneestä päästöoikeusmäärästä on tehty.

@@ -1,0 +1,2 @@
+Päästökauppalaki
+Eduskunnan päätöksen mukaisesti säädetään:
