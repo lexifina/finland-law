@@ -1,0 +1,4 @@
+# 58 § Luonnonvaraisten eläinlajien tarhauksesta tehtävä ilmoitus
+Luku: 8 luku Luvan- ja ilmoituksenvarainen eläinten pito
+
+Sen lisäksi, mitä eläinten tunnistamisesta ja rekisteröinnistä annetussa laissa säädetään eläinten pitämisestä ja pitopaikasta ilmoittamisesta sekä tietojen tallettamisesta, riistanhoidollista tarhausta varten pidettävien eläinten pitäjän sekä tuotantoeläiminä pidettävien kuusipeurojen, biisonien, vesipuhveleiden, villisikojen, strutsien, emujen, viiriäisten, helmikanojen, fasaanien, peltopyiden ja heinäsorsien pitäjän on ilmoitettava aluehallintovirastolle eläintenpitäjä- ja pitopaikkarekisteriin talletettavaksi tiedot eläinten pitäjän pätevyydestä sekä selvitys siitä, kuinka eläinten hoito on tarkoitus järjestää. Riistanhoidollista tarhausta harjoittavan eläinten pitäjän on lisäksi ilmoitettava, mihin metsästyslain 3 §:ssä tarkoitettuun riistanhoidolliseen tarkoitukseen eläimiä pidetään.
