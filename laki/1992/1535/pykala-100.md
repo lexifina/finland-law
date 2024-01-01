@@ -1,7 +1,6 @@
 # 100 § Eläketulovähennys
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
 Luku: 5 luku Ansiotulosta tehtävät vähennykset
-Väliotsikko: Väliotsikko on kumottu L:lla 29.6.2021/619 ja tuli voimaan 1.1.2023. Aiempi sanamuoto kuuluu: Puhtaasta ansiotulosta valtionverotuksessa tehtävät vähennykset
 
 Eläketuloa saavan verovelvollisen puhtaasta ansiotulosta vähennetään eläketulovähennys.
 
