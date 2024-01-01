@@ -1,0 +1,9 @@
+# 99 § Maksut
+Osa: III OSA ERINÄISET SÄÄNNÖKSET JA VOIMAANTULO
+Luku: 14 luku Erinäiset säännökset
+
+Kansaneläkelaitoksen ja Digi- ja väestötietoviraston hoitamien 65 §:ssä tarkoitettujen valtakunnallisten tietojärjestelmäpalvelujen käyttö on palvelunantajille ja apteekeille maksullista sen jälkeen, kun palvelunantaja tai apteekki on velvoitettu liittymään valtakunnallisten tietojärjestelmäpalvelujen käyttäjäksi. Kansaneläkelaitoksen perimät maksut säädetään valtion maksuperustelain (150/1992) 10 §:ssä säädetyn estämättä sosiaali- ja terveysministeriön asetuksella sellaisiksi, että ne vastaavat palvelujen hoidosta aiheutuvien kustannusten määrää. Maksujen tulee lisäksi turvata Kansaneläkelaitoksen palvelurahaston maksuvalmius. Digi- ja väestötietoviraston suoritteista perittävistä maksuista säädetään valtion maksuperustelaissa ja sen nojalla.
+
+Kansaneläkelaitoksen ja Digi- ja väestötietoviraston tulee toimittaa vuosittain sosiaali- ja terveysministeriölle selvitys edellisen vuoden kustannuksista ja kustannuksiin vaikuttaneista tekijöistä sekä arvio seuraavan neljän vuoden maksujen perustana olevista kokonaiskustannuksista ja seuraavan neljän vuoden investointitarpeista ja niiden kustannuksista.
+
+Tietojärjestelmäpalvelun tuottaja vastaa sertifioinnin aiheuttamista kustannuksista. Kansaneläkelaitoksen 86 §:n tarkoitettuun yhteentoimivuuden testaukseen ilmoittautuminen on tietojärjestelmäpalvelun tuottajille maksullinen. Sosiaali- ja terveysalan lupa- ja valvontavirastolle 80 §:n mukaan tehtävän ilmoituksen rekisteröinti ja merkintä julkiseen rekisteriin on maksullinen. Maksuista säädetään sosiaali- ja terveysministeriön asetuksella ottaen huomioon, mitä valtion maksuperustelaissa ja sen nojalla maksuista säädetään. Tietoturvallisuuden arviointilaitoksen hyväksymisestä perittävistä maksuista säädetään tietoturvallisuuden arviointilaitoksista annetun lain 11 §:ssä.
