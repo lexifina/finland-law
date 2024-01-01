@@ -1,13 +1,9 @@
 # 4 § Suhteellinen hallintomaksu
 
-Suhteellisen hallintomaksun maksuperuste ja maksun määrä prosentteina maksuperusteesta sekä maksun suorittamiseen velvolliset määräytyvät seuraavasti:
-Maksuvelvollinen | Maksuperuste | Maksun määrä prosentteina maksuperusteesta
-luottolaitostoiminnasta annetussa laissa tarkoitettu talletuspankki | taseen loppusumma | 0,0008
-luottolaitostoiminnasta annetussa laissa tarkoitettu luottoyhteisö | taseen loppusumma | 0,0008
-ulkomaisen ETA-luottolaitoksen sivuliike, luokka A | laskennallisen taseen loppusumma | 0,0002
-ulkomaisen ETA-luottolaitoksen sivuliike, luokka B | laskennallisen taseen loppusumma | 0,0006
-kolmannen maan luottolaitoksen sivuliike | laskennallisen taseen loppusumma | 0,0006
-luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetussa laissa tarkoitettu sijoituspalveluyritys | liikevaihto | 0,03
-luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetussa laissa tarkoitettu kolmannen maan sijoituspalveluyritys | liikevaihto | 0,03
-
-Suhteellinen hallintomaksu peritään maksuvelvolliselta sen kalenterivuoden loppuun, jonka aikana maksuvelvollisen toimilupa on peruttu tai oikeus toiminnan harjoittamiseen on muutoin lakannut.
+Suhteellisen hallintomaksun määrä on:
+1) luottolaitostoiminnasta annetussa laissa tarkoitetun talletuspankin ja luottoyhteisön osalta 0,0015 prosenttia taseen loppusummasta;
+2) talletuspankkien yhteenliittymästä annetussa laissa (599/2010) tarkoitetun yhteenliittymän osalta 0,0015 prosenttia jäsenluottolaitosten yhteenlaskettujen taseiden loppusummasta;
+3) ulkomaisen ETA-luottolaitoksen luokkaan A kuuluvan sivuliikkeen osalta 0,0004 prosenttia laskennallisen taseen loppusummasta;
+4) ulkomaisen ETA-luottolaitoksen luokkaan B kuuluvan sivuliikkeen osalta 0,0011 prosenttia laskennallisen taseen loppusummasta;
+5) kolmannen maan luottolaitoksen sivuliikkeen osalta 0,0011 prosenttia laskennallisen taseen loppusummasta;
+6) luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetussa laissa tarkoitetun sijoituspalveluyrityksen tai kolmannen maan sijoituspalveluyrityksen osalta 0,056 prosenttia liikevaihdosta.
