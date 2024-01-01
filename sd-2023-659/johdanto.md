@@ -1,0 +1,2 @@
+Laki rajat ylittäviä maksuja koskevasta maksupalveluntarjoajien tiedonantovelvollisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
