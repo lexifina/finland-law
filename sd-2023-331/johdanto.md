@@ -1,0 +1,2 @@
+Laki hevoskasvatuksen ja hevosurheilun edistämiseen myönnettävistä avustuksista
+Eduskunnan päätöksen mukaisesti säädetään:
