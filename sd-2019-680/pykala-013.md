@@ -1,0 +1,5 @@
+# 13 § Säästäjän oikeus irtisanoa osakesäästötilisopimus ja palveluntarjoajan vaihtaminen
+
+Säästäjällä on oikeus irtisanoa osakesäästötilisopimus ja vaatia varojen siirtämistä sopimuksen päättymisestä lukien. Sopimuksen irtisanominen ei edellytä varojen realisointia, jos säästäjä on tehnyt toisen osakesäästötilisopimuksen, jolloin kertyneet säästövarat siirretään suoraan mainitun sopimuksen osapuolena olevalle palveluntarjoajalle.
+
+Osakesäästötilisopimus on irtisanottava kirjallisesti. Irtisanomisilmoituksessa on mainittava, mille palveluntarjoajalle varat siirretään. Varat ja tieto enimmäistalletuksen määrästä on siirrettävä 30 päivän kuluessa ilmoituksen vastaanottamisesta. Varat vastaanottaneen palveluntarjoajan on ilmoitettava säästäjälle viivytyksettä varojen vastaanottamisesta. Irtisanottu sopimus lakkaa, kun varat on siirretty irtisanomisilmoituksessa mainitulle palveluntarjoajalle. Jos saapumispäivästä ei voida esittää muuta selvitystä, postitse lähetetyn ilmoituksen katsotaan saapuneen palveluntarjoajalle seitsemäntenä päivänä sen lähettämisestä ja sähköisesti lähetetyn päivänä, jona se on lähetetty.
