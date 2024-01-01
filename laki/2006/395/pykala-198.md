@@ -10,5 +10,3 @@ b) B-lääkärinlausunnot, jotka on laadittu tietopyyntöä edeltäneiltä kahde
 c) muut kuin a ja b alakohdassa tarkoitetut tiedot eläkkeenhakijan potilasasiakirjoista, kuntoutuksesta, terveydentilasta, hoidosta sekä työkyvystä.
 
 Eläkelaitoksella ja Eläketurvakeskuksella on oikeus salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä saada 3 §:ssä mainittujen lakien mukaista eläketurvaa hoitavalta eläkelaitokselta työeläkeotetta ja työeläkeasioiden ennakkoneuvontaa varten välttämättömät tiedot työeläkelakien mukaisesta eläketurvasta. Eläkelaitoksella on oikeus saada vastaavat tiedot myös Eläketurvakeskukselta.
-
-Tässä pykälässä tarkoitettuja tietoja saa hakea teknisen käyttöyhteyden avulla ilman sen suostumusta, jonka etujen suojaamiseksi salassapitovelvollisuus on säädetty.

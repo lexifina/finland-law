@@ -10,4 +10,4 @@ Työeläkelakeja ovat yksityisten ja julkisten alojen työeläkelait. Yksityiste
 Julkisten alojen työeläkelakeja ovat:
 1) julkisten alojen eläkelaki (81/2016);
 2) ortodoksisesta kirkosta annettu laki (985/2006);
-4) eräiden valtakunnassa voimassa olevien valtion eläkkeitä koskevien säännösten soveltamisesta Ahvenanmaan maakunnassa annettu maakuntalaki (ÅFS 54/2007).
+4) eräiden valtakunnassa voimassa olevien julkisten alojen eläkkeitä koskevien säännösten soveltamisesta Ahvenanmaan maakunnassa annettu maakuntalaki (Ålands författningssamling 2016:76).

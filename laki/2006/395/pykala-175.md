@@ -4,7 +4,7 @@ Luku: 12 luku Kustannusten jako eläkelaitosten kesken
 
 Sellaisesta työkyvyttömyyseläkkeestä aiheutuvista kustannuksista, jossa vakuutetun tämän lain ja merimieseläkelain mukaisten työansioiden yhteismäärä tämän lain 76 §:n 1 momentissa tarkoitetun tarkasteluajan kahden viimeisen kalenterivuoden aikana on vähintään 12 566,70 euroa, vastaa kukin eläkelaitos, jonka toimintapiiriin vakuutettu kuului mainittujen kalenterivuosien aikana. Eläkelaitos vastaa kustannuksista samassa suhteessa kuin mikä on kyseisessä eläkelaitoksessa vakuutettujen tämän lain alaisten työansioiden osuus vastaavien 3 §:ssä mainittujen eläkelakien mukaisten työansioiden, päättyneen työkyvyttömyyseläkkeen tulevan ajan ansion sekä 74 §:ssä tarkoitettujen 76 §:n 2 momentin mukaisten työ- tai ansiotulojen ja mainitun pykälän 4–6 momentissa tarkoitettujen työ- tai ansiotulojen yhteismäärästä mainittuina kalenterivuosina.
 
-Eläkelaitos ei vastaa työkyvyttömyyseläkkeestä siltä osin kuin eläkelaitoksessa vakuutetut tämän lain alaiset työansiot tämän lain 147 §:ssä tarkoitetun tilapäisen työnantajan osalta tai muun työnantajan saman vakuutuksen osalta alittavat 2 094,45 euroa mainittuina kahtena kalenterivuonna.
+Eläkelaitos ei vastaa työkyvyttömyyseläkkeestä siltä osin kuin eläkelaitoksessa vakuutetut tämän lain alaiset työansiot 147 §:ssä tarkoitetun tilapäisen työnantajan osalta tai muun työnantajan saman vakuutuksen osalta alittavat 6 662,23 euroa tämän pykälän 1 momentissa mainittuina kahtena kalenterivuonna.
 
 Edellä 1 momentissa tarkoitettuun eläkkeeseen luetaan myös merimieseläkelain 153 §:n 2 ja 3 momentissa tarkoitettu, mainitun lain perusteella saatava eläkkeenosa.
 
