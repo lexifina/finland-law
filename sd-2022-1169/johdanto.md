@@ -1,0 +1,2 @@
+Laki yhteishallinnosta valtion tukemissa vuokrataloissa
+Eduskunnan päätöksen mukaisesti säädetään:

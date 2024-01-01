@@ -1,0 +1,7 @@
+# 10 § Asukkaiden oikeus valvoa vuokranmääritysyksikön ja vuokrataloyhteisön talouden ja hallinnon hoitoa
+
+Yhteistyöelimellä tai jos sitä ei ole, asukastoimikuntien puheenjohtajilla, on oikeus valita valvoja seuraamaan ja tarkastamaan vuokrataloyhteisön talouden ja hallinnon hoitoa. Asukkaiden kokouksella on oikeus valita valvoja seuraamaan ja tarkastamaan vuokranmääritysyksikön talouden ja hallinnon hoitoa. Valvojalla on oltava sellainen taloudellisten ja oikeudellisten asioiden tuntemus ja kokemus kuin tehtävän laatuun ja laajuuteen nähden on tarpeen tehtävän hoitamiseksi. Valvojan toimikausi on sama kuin vuokrataloyhteisön tilintarkastajan toimikausi. Valvojan on annettava kertomuksensa tehtävänsä suorittamisesta valitsijalleen. Kertomus on annettava tiedoksi myös vuokrataloyhteisölle.
+
+Valvojalla on sama oikeus saada tietoja valvomansa vuokrataloyhteisön tai vuokranmääritysyksikön taloudesta ja hallinnosta kuin vuokrataloyhteisön tilintarkastajalla. Valvojan salassapitovelvollisuuteen ja vahingonkorvausvastuuseen sovelletaan, mitä yhteisön tilintarkastajan salassapitovelvollisuudesta ja vahingonkorvausvastuusta säädetään.
+
+Jos vuokrataloyhteisön tilintarkastaja on valittu yhteishallinnossa asukkaiden toimesta tai tilintarkastaja on valittu yhteishallinnossa asukkaiden ehdottamista henkilöistä, hoitaa kyseinen tilintarkastaja myös 1 momentissa tarkoitetut valvojan tehtävät, jollei 1 momentissa tarkoitettua valvojaa ole valittu.
