@@ -1,0 +1,2 @@
+Laki rakennetun ympäristön tietojärjestelmästä
+Eduskunnan päätöksen mukaisesti säädetään:
