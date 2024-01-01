@@ -1,7 +1,7 @@
-# 7 § Rikostuomioihin ja rikkomuksiin liittyvä käsittely
+# 7 § Rikostuomioihin ja rikoksiin liittyvä käsittely
 Luku: 2 luku Käsittelyn oikeusperuste eräissä tapauksissa
 
-Tietosuoja-asetuksen 10 artiklassa tarkoitettuihin rikostuomioihin ja rikkomuksiin tai niihin liittyviin turvaamistoimiin liittyviä henkilötietoja saa käsitellä, jos:
+Tietosuoja-asetuksen 10 artiklassa tarkoitettuihin rikostuomioihin ja rikoksiin tai niihin liittyviin turvaamistoimiin liittyviä henkilötietoja saa käsitellä, jos:
 1) käsittely on tarpeen oikeusvaateen selvittämiseksi, laatimiseksi, esittämiseksi, puolustamiseksi tai ratkaisemiseksi; tai
 2) tietoja käsitellään 6 §:n 1 momentin 1, 2 tai 7 kohdassa säädetyssä tarkoituksessa.
 
