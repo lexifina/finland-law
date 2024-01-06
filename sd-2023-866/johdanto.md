@@ -1,0 +1,2 @@
+Laki korkeakoulututkintojen tunnustamisesta tehdystä maailmanlaajuisesta yleissopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
