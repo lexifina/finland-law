@@ -1,0 +1,2 @@
+Laki turvallisuusluokitellun tiedon vaihtamisesta ja vastavuoroisesta suojaamisesta Alankomaiden kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
