@@ -1,3 +1,5 @@
-# 3 § Suhde kaavajärjestelmään
+# 3 § Suhde muuhun lainsäädäntöön
 
-Jos hankkeen toteuttaminen perustuu kaikilta osin maankäyttö- ja rakennuslain (132/1999) mukaiseen oikeusvaikutteiseen kaavaan, jossa hankkeen sijainti ja suhde muuhun alueiden käyttöön on selvitetty, tämän lain mukaista menettelyä ei sovelleta.
+Hanketta ei saa toteuttaa ilman kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain (603/1977) mukaista lunastuslupaa. Lupaviranomaisen velvollisuuksista valtioiden rajat ylittäviä ympäristövaikutuksia aiheuttavissa hankkeissa säädetään ympäristövaikutusten arviointimenettelystä annetun lain 29 a §:ssä.
+
+Lunastuksen toimeenpanoon ja lunastukseen sovelletaan lisäksi, mitä niistä kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetussa laissa tai muussa laissa säädetään.
