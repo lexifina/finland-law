@@ -1,0 +1,10 @@
+# 21 §
+Luku: 3 luku Korvauksen hakeminen, määrääminen ja muutoksenhaku
+
+Kun 1 §:n momentissa mainitun henkilön saama ruumiinvamma tai sairaus ilmeisesti näyttää oikeuttavan tämän lain mukaiseen korvaukseen, on siitä asianomaisen viranomaisen toimesta ennen palvelus- tai työsuhteen päättymistä lähetettävä vahvistetun kaavan mukainen ilmoitus valtion tapaturmatoimistolle, jonka tulee sen perusteella ryhtyä asiaa käsittelemään. Jollei ilmoitusta tehdä, on vahingoittuneelle tai sairastuneelle annettava siitä tieto. Palvelus-tai työsuhteen aikana sattuneesta kuolemantapauksesta tai katoamisesta on kuitenkin aina viipymättä tehtävä ilmoitus valtion tapaturmatoimistolle.
+
+Jos 1 momentissa tarkoitettu ruumiinvamma tai sairaus on katsottu sellaiseksi, ettei se oikeuta korvaukseen, ja siitä on vahingoittuneelle tai sairastuneelle annettu tieto taikka jos sairaus on todettu tahi ruumiinvammasta tai sairaudesta aiheutunut työkyvyttömyys alkanut tahi kuolema sattunut palvelus- tai työsuhteen päättymisen jälkeen, on korvausta haettava kirjallisesti valtion tapaturmatoimistolta yhden vuoden kuluessa 22 §:ssä säädetystä ajankohdasta lukien, uhalla, että oikeus korvauksen saamiseen muutoin on menetetty.
+
+Ruumiinvammasta, joka on aiheutunut 1 §:n 2 momentissa tarkoitetusta tapaturmasta, on korvausta haettava, niinkuin edellä 2 momentissa on säädetty.
+
+Mitä 2 momentissa on korvauksen hakemisesta säädetty, olkoon noudatettavana myös sellaiseen korvauksen lajiin tai lisään nähden, joka on säädetty suoritettavaksi eri hakemuksesta. Vanhempain elättämisen perusteella 9 §:n 2 momentin mukaan ja sanotun pykälän 3 momentin mukaan suoritettavaa korotusta, 15 §:n 4 momentin mukaan suoritettavaa huoltoeläkettä sekä päivärahan tai elinkoron lisäysosaa, lisähuoltoeläkettä ja täydennyskorkoa voidaan kuitenkin hakea määräajasta riippumatta, niin myös vanhemman huoltoeläkettä, jos kysymys siitä, oikeuttaako ruumiinvamma, sairaus, kuolema tai katoaminen tämän lain mukaiseen korvaukseen, on hänen, muun hakijan tai viranomaisen toimesta tullut määräajassa tapaturmavirastossa vireille eikä tätä oikeutta ole evätty.
