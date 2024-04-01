@@ -5,6 +5,6 @@ Luonnollisen henkilön yksilöintitiedot ja toimintakelpoisuutta koskevat tiedot
 1) yksilöintitiedot heti, kun häntä koskevat muut merkinnät on poistettava rekisteristä;
 2) yrityskytkentätiedot vuoden kuluessa siitä, kun häntä koskeva merkintä toimimisesta kyseisen yrityksen vastuuhenkilönä on poistettu viranomaisen julkisesta rekisteristä;
 3) toimintakelpoisuutta koskevat tiedot kuukauden kuluessa siitä, kun ne on poistettu holhousasioiden rekisteristä;
-4) luonnollisen henkilön ilmoittama luottokielto heti, kun hän sitä pyytää.
+4) luonnollisen henkilön ilmoittama luottokielto heti, kun hän sitä pyytää, tai heti, kun tieto luottokiellon poistamisesta on välittynyt positiivisesta luottotietorekisteristä.
 
 Sen estämättä, mitä 1 momentin 2 kohdassa säädetään, yrityskytkentätieto saadaan säilyttää niin kauan, kun yritysluottotietorekisterissä on maksuhäiriömerkintä, joka on tehty vastuuhenkilön toimikauden aikana tai välittömästi sen jälkeen taikka joka muutoin selvästi johtuu vastuuhenkilön toimikauden aikana tehdyistä ratkaisuista ja toimenpiteistä.

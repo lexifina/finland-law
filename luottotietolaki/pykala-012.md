@@ -3,7 +3,7 @@ Luku: 4 luku Luottotietorekisteriin talletettavat henkilöluottotiedot ja niiden
 
 Luottotietorekisteriin saa luonnollisesta henkilöstä tallettaa välttämättömät yksilöintitiedot sekä:
 1) toimintakelpoisuutta koskevina tietoina ne tiedot, jotka jokaisella on oikeus saada holhousasioiden rekisteristä Digi- ja väestötietoviraston eräistä henkilörekistereistä annetun lain (1156/2019) 10 §:n 2 momentin mukaisesti;
-2) tiedon hänen itsensä ilmoittamasta luottokiellosta.
+2) tiedon luottokiellosta, jonka hän itse on ilmoittanut tai jonka luottotietotoiminnan harjoittaja on vastaanottanut positiivisesta luottotietorekisteristä.
 
 Luonnollisesta henkilöstä saa lisäksi tallettaa yrityskytkentätietoina tiedot siitä, missä yrityksissä hän toimii tai on toiminut vastuuhenkilönä.
 
