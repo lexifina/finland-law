@@ -12,7 +12,7 @@ Ylimääräistä tietoa saa käyttää myös, jos ylimääräisen tiedon käytt�
 6) lahjominen elinkeinotoiminnassa tai lahjuksen ottaminen elinkeinotoiminnassa;
 7) kiristys;
 8) yleisvaarallisen rikoksen valmistelu;
-9) lahjuksen ottaminen, virkasalaisuuden rikkominen tai virka-aseman väärinkäyttäminen; taikka
+9) lahjuksen ottaminen, virkasalaisuuden rikkominen, virka-aseman väärinkäyttäminen tai Euroopan unionin varojen väärinkäyttö; taikka
 10) huumausainerikos.
 
 Ylimääräisen tiedon käyttämisestä näyttönä päättää tuomioistuin pääasian käsittelyn yhteydessä. Ylimääräisen tiedon käyttämisen kirjaamisesta esitutkintapöytäkirjaan säädetään esitutkintalain 9 luvun 6 §:n 2 momentissa ja ilmoittamisesta haastehakemuksessa oikeudenkäynnistä rikosasioissa annetun lain 5 luvun 3 §:n 1 momentin 8 kohdassa.
