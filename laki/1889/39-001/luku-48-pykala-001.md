@@ -37,9 +37,10 @@ siten, että teko on omiaan aiheuttamaan ympäristön pilaantumista, muuta vasta
 Edellä 1 momentin 4–6 kohdassa tarkoitetun tahallisen rikoksen yritys on rangaistava.
 
 Ympäristön turmelemisesta tuomitaan myös se, joka tahallaan tai törkeästä huolimattomuudesta ryhtyy muuten kuin 1 momentissa tarkoitetulla tavalla muuttamaan ympäristöä vastoin
-1) maankäyttö- ja rakennuslakia (132/1999),
-2) vesilakia (587/2011),
-3) maa-aineslakia (555/1981),
-4) Saimaan ja Vuoksen juoksutussääntöä taikka
-5) näiden nojalla annettua säännöstä, yleistä tai yksittäistapausta koskevaa määräystä taikka kaavaa tai lupaa
+1) alueidenkäyttölakia (132/1999),
+2) rakentamislakia (751/2023),
+3) vesilakia (587/2011),
+4) maa-aineslakia (555/1981),
+5) Saimaan ja Vuoksen juoksutussääntöä taikka
+6) näiden nojalla annettua säännöstä, yleistä tai yksittäistapausta koskevaa määräystä taikka kaavaa tai lupaa
 siten, että teko on omiaan aiheuttamaan vakavuudeltaan ympäristön pilaantumiseen rinnastettavaa muuttumista.

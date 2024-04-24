@@ -14,7 +14,7 @@ Vaikka teosta ei säädetä rangaistusta tekopaikan laissa, siihen sovelletaan S
 9) 29 luvun 1, 2, 5–7 tai 7 a §:ssä, 32 luvun 6 tai 7 §:ssä taikka 36 luvun 1 tai 2 §:ssä, jos teko on unionin taloudellisiin etuihin kohdistuvien petosten torjunnasta rikosoikeudellisin keinoin annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2017/1371 3 artiklan 2 kohdassa tarkoitettu unionin taloudellisiin etuihin vaikuttava petos tai 4 artiklan 1–3 kohdassa tarkoitettu muu unionin taloudellisiin etuihin liittyvä rikos;
 10) 30 luvun 7, 7 a, 8 tai 8 a §:ssä ja vaikka lainkohtia sovelletaan mainitun luvun 14 §:n nojalla;
 11) 40 luvun 1–4 tai 4 a §:ssä, jos rikoksen tekijä on kansanedustaja, ulkomainen virkamies tai ulkomaisen parlamentin jäsen; taikka
-12) 40 luvun 7, 8, 8 a tai 8 b §:ssä, jos teko on unionin taloudellisiin etuihin kohdistuvien petosten torjunnasta rikosoikeudellisin keinoin annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2017/1371 4 artiklan 3 kohdassa tarkoitettu varojen väärinkäyttö ja jos rikoksen tekijä on kansanedustaja, ulkomainen virkamies tai ulkomaisen parlamentin jäsen.
+12) 40 luvun 8 a tai 8 b §:ssä, jos rikoksen tekijä on kansanedustaja, ulkomainen virkamies tai ulkomaisen parlamentin jäsen.
 
 Vaikka teosta ei säädetä rangaistusta tekopaikan laissa, sitä on pidettävä rahanpesun tai törkeän rahanpesun esirikoksena, jos teosta säädetään rangaistus:
 1) 16 luvun 13 tai 14 §:ssä;
