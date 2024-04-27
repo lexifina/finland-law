@@ -1,0 +1,2 @@
+Laki puolustukseen liittyvien, patentoitavaksi haettujen keksintöjen salassapidon vastavuoroiseksi turvaamiseksi tehdystä sopimuksesta ja sen täytäntöönpanomenettelyistä
+Eduskunnan päätöksen mukaisesti säädetään:
