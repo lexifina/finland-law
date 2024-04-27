@@ -1,0 +1,2 @@
+Laki teknisten tietojen välittämisestä puolustustarkoituksiin tehdystä Naton sopimuksesta ja sen täytäntöönpanomenettelyistä
+Eduskunnan päätöksen mukaisesti säädetään:
