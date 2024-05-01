@@ -1,0 +1,2 @@
+Rintamasotilaseläkelaki
+Eduskunnan päätöksen mukaisesti säädetään:
