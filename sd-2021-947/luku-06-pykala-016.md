@@ -3,11 +3,11 @@ Luku: 6 luku Varojen sijoittaminen ja vastuuvelan kattaminen
 
 Lisäeläkelaitoksen varat on sijoitettava pääasiallisesti säännellylle markkinalle. Sijoitukset säännellyn markkinan ulkopuolelle on pidettävä varovaisuuden edellyttämällä tasolla.
 
-Edellä 5 §:ssä tarkoitetusta vastuuvelasta voidaan kattaa yhteensä enintään 10 prosenttia seuraavalla omaisuudella, jos sillä ei käydä kauppaa säännellyllä markkinalla taikka monenkeskisessä tai organisoidussa kaupankäyntijärjestelmässä:
+Edellä 5 §:ssä tarkoitetusta vastuuvelasta voidaan kattaa yhteensä enintään 15 prosenttia seuraavalla omaisuudella, jollei sillä käydä kauppaa säännellyllä markkinalla taikka monenkeskisessä tai organisoidussa kaupankäyntijärjestelmässä:
 1) osakkeet, osuudet ja osakkeisiin rinnastettavat arvopaperit;
 2) sitoumukset, joilla on heikompi etuoikeus kuin velallisen muilla sitoumuksilla;
 3) joukkovelkakirjat;
-4) muut sijoitusvälineet, joilla on pitkän aikavälin sijoitushorisontti.
+4) muut kuin 1–3 kohdassa tarkoitetut sijoitusvälineet, joilla on pitkän aikavälin sijoitushorisontti.
 
 Mitä 2 momentissa säädetään, ei kuitenkaan sovelleta:
 1) joukkovelkakirjoihin, joista 8 §:n 1 momentin 1–3 kohdan mukaan vastaa valtio, kunta, vakuutusyhtiö, luottolaitos tai muu niihin rinnastettava yhteisö;

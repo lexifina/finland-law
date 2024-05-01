@@ -10,4 +10,5 @@ Mitä 1 momentissa säädetään, ei sovelleta:
 1) velkasitoumuksiin, joissa velallisena tai takaajana on ETA-valtio ja joissa velan, velallisen tai takaajan luottoluokitus kuuluu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 11 §:ssä tarkoitettuun luottoluokkaan 1;
 2) velkasitoumuksiin, joissa velallisena on Ahvenanmaan maakunta tai sellainen kansainvälinen yhteisö, jonka jäsenistä ainakin yksi on ETA-valtio, jonka luottoluokitus kuuluu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain 11 §:ssä tarkoitettuun luottoluokkaan 1;
 3) 12 §:n mukaisiin osuuksiin sijoitusrahastoissa tai vaihtoehtorahastoissa;
-4) 7 §:n 1 momentin 6–7 kohdassa tarkoitettuun omaisuuteen.
+4) 7 §:n 1 momentin 6 ja 7 kohdassa tarkoitettuun omaisuuteen;
+5) velkasitoumuksiin, joiden vakuudeksi on voimassa kiinnitys 7 §:n 1 momentin 5 kohdassa tarkoitettuun omaisuuteen tai joiden vakuutena on mainitun momentin 6 kohdassa tarkoitettuja kiinteistöyhteisön osakkeita ja osuuksia.

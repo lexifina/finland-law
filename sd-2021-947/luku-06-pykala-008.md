@@ -10,4 +10,4 @@ Edellä 5 §:ssä tarkoitettu vastuuvelka voidaan kattaa kokonaan:
 6) Euroopan investointipankin liikkeelle laskemilla tai takaamilla sijoituksilla Euroopan strategisten investointien rahastoon, eurooppalaiseen pitkäaikaissijoitusrahastoon, eurooppalaiseen yhteiskunnalliseen yrittäjyyteen erikoistuneeseen rahastoon tai eurooppalaiseen riskipääomarahastoon;
 7) velkasitoumuksilla, joiden panttivakuutena on 3 kohdassa tarkoitetun vakuutusyhtiön antamia henkivakuutuksia tai 1, 2 ja 5 kohdassa tarkoitettuja velkasitoumuksia.
 
-Mitä 1 momentissa säädetään, ei sovelleta, jos velan, velallisen tai takaajan luottoluokitus ei kuulu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain (315/2015) 11 §:ssä tarkoitettuun luottoluokkaan 1.
+Mitä 1 momentin 1–3 ja 5–7 kohdassa säädetään, ei sovelleta, ellei velan, velallisen tai takaajan luottoluokitus kuulu eläkelaitoksen vakavaraisuusrajan laskemisesta ja sijoitusten hajauttamisesta annetun lain (315/2015) 11 §:ssä tarkoitettuun luottoluokkaan 1. Mitä 1 momentin 4 kohdassa säädetään, ei sovelleta, ellei luottolaitos kuulu mainitun lain 11 §:ssä tarkoitettuun luottoluokkaan 1 tai 2.
