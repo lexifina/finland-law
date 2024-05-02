@@ -1,15 +1,20 @@
 # 10 § Kalastuslupien hinnoittelu
 
-Kalastussäännön 4 §:ssä tarkoitetuista kalastusluvista peritään seuraavat maksut:
-1) yleinen paikkakuntalaislupa 40 euroa/kalastuskausi, kuitenkin maksuton alle 18-vuotiaille;
-2) paikkakuntalaisen vapakalastuslupa 150 euroa/kalastuskausi, kuitenkin maksuton alle 18-vuotiaille;
-3) kalastussäännön 5 §:n 4 momentissa tarkoitettuun lupakiintiöön kuuluva kalastusoikeuden haltijan venekalastuslupa 10 euroa/kalastusvuorokausi ja rantakalastuslupa 5 euroa/kalastusvuorokausi, kuitenkin enintään yhteensä 150 euroa kalastuskautta kohti.
+Kalastussäännön 7 §:ssä tarkoitetuista kalastusluvista peritään seuraavat maksut:
+1) yleinen paikkakuntalaislupa 40 euroa kalastuskaudelta;
+2) paikkakuntalaisen vapakalastuslupa 150 euroa kalastuskaudelta;
+3) kalastussäännön 8 §:n 3 momentissa tarkoitettuun lupakiintiöön kuuluva kalastusoikeuden haltijan venekalastuslupa 10 euroa kalastusvuorokaudelta ja rantakalastuslupa 5 euroa kalastusvuorokaudelta sekä muiden lajien kalastuslupa 5 euroa kalastusvuorokaudelta, kuitenkin yhteensä enintään 40 euroa kalastuskautta kohden.
 
-Kalastussäännön 4 §:n 3 ja 4 kohdassa tarkoitettujen kalastuslupien hinta perustuu käypään hintaan, jonka määrittelemisessä otetaan huomioon vastaavantyyppisten kalastuslupien markkinatilanne. Hinta voidaan määrittää erilaiseksi lupavyöhykkeen, lupatyypin ja ajankohdan perusteella. Luvan hinta on:
-1) venekalastusluvasta enintään 150 euroa/kalastusvuorokausi;
-2) rantakalastusluvasta enintään 150 euroa/kalastusvuorokausi;
-3) Inarijoessa Matinkönkään yläpuolella ja Kietsimäjoessa veneestä ja rannalta kalastettaessa enintään 150 euroa/kalastusvuorokausi.
+Kalastussäännön 7 §:n 1 momentin 3–5 kohdassa tarkoitettujen kalastuslupien hinta perustuu käypään hintaan, jonka määrittelemisessä otetaan huomioon vastaavantyyppisten kalastuslupien markkinahinta. Hinta voidaan määrittää erisuuruiseksi lupavyöhykkeen, lupatyypin ja ajankohdan perusteella. Luvan hinta on:
+1) venekalastuslupa 0–150 euroa kalastusvuorokaudelta;
+2) rantakalastuslupa 0–150 euroa kalastusvuorokaudelta;
+3) kalastuslupa Inarijoessa Matinkönkään yläpuolella ja Kietsimäjoessa veneestä ja rannalta kalastettaessa 0–150 euroa kalastusvuorokaudelta;
+4) muiden lajien kalastuslupa 0–150 euroa.
+
+Alle 18-vuotiaalle myönnetään 1 momentin 1 ja 2 kohdassa tarkoitettu lupa maksutta.
 
 Alle 18-vuotiaalle voidaan myöntää 2 momentissa tarkoitettu lupa käypää hintaa alemmalla hinnalla tai maksutta.
 
-Maa- ja metsätalousministeriön asetuksella annetaan tarkemmat säännökset 2 momentissa tarkoitettujen kalastuslupien hinnoista. Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä 3 momentissa tarkoitettujen lupien myöntämisedellytyksistä.
+Muualla kuin Tenojoen vesistön jokilaaksoissa vakinaisesti asuva alle 18-vuotias on oikeutettu kalastussäännön 7 §:n 3 momentissa tarkoitettuun lapsilupaan.
+
+Maa- ja metsätalousministeriön asetuksella annetaan tarkemmat säännökset 2 ja 4 momentissa tarkoitettujen kalastuslupien hinnoista.
