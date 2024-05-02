@@ -4,7 +4,7 @@ Veneen omistajan on rekisteröitävä vene ennen kuin sitä saadaan käyttää k
 
 Tenojoen vesistön jokilaaksoissa vakinaisesti asuvalla kalastusoikeuden haltijalla on oikeus rekisteröidä kolme venettä. Mikäli henkilö tai tämän hallinnassa oleva yritys harjoittaa kalastusmatkailuliiketoimintaa, on henkilöllä tai tämän hallinnassa olevalla yrityksellä oikeus rekisteröidä viisitoista venettä.
 
-Muualla kuin Tenojoen vesistön jokilaaksoissa vakinaisesti asuvalla kalastusoikeuden haltijalla on oikeus rekisteröidä kiinteistöä kohti yksi vene edellyttäen, että kiinteistön osuusluku rajajokialueella sijaitsevasta yhteisestä vesialueesta on 0,5 tai kiinteistöön kuuluu sitä vastaavan kokoinen yksityinen vesialue.
+Muualla kuin Tenojoen vesistön jokilaaksoissa vakinaisesti asuvalla kalastusoikeuden haltijalla on oikeus rekisteröidä kiinteistöä kohti yksi vene edellyttäen, että kiinteistöön kuuluu osuus rajajokialueella sijaitsevasta yhteisestä vesialueesta tai sitä vastaava yksityinen vesialue.
 
 Tenojoen vesistön jokilaaksoissa vakinaisesti asuvalla henkilöllä on oikeus rekisteröidä yksi vene.
 
