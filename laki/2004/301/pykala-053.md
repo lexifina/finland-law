@@ -15,8 +15,6 @@ Ihmiskaupan uhrille ja 52 d §:ssä tarkoitetulle laittomasti maassa oleskelleel
 
 Oleskelulupa pakolaisuuden ja toissijaisen suojelun perusteella myönnetään neljäksi vuodeksi.
 
-Euroopan unionin sininen kortti myönnetään kahdeksi vuodeksi. Jos työsuhde on voimassa tätä lyhyemmän ajan, Euroopan unionin sininen kortti myönnetään työsuhteen voimassaoloajaksi lisättynä kolmella kuukaudella. Euroopan unionin sinisen kortin haltijan perheenjäsenelle myönnetään oleskelulupa vastaavaksi ajaksi.
-
 Ulkomaalaiselle, joka on todistajansuojeluohjelmasta annetun lain mukaisessa todistajansuojeluohjelmassa, ja ulkomaalaiselle, joka otetaan Suomeen tämän lain 93 §:n nojalla tehdyn valtioneuvoston päätöksen perusteella ja jolle päätetään myöntää jatkuva oleskelulupa 113 §:n 1 momentin perusteella, myönnetään määräaikainen oleskelulupa neljäksi vuodeksi.
 
 Ensimmäinen määräaikainen oleskelulupa voidaan myöntää kahdeksi vuodeksi, jos se myönnetään 73 §:n, 74 §:n 1 momentin 4 kohdan tai 80 §:n perusteella. Oleskelulupa voidaan myöntää kahdeksi vuodeksi myös, jos se myönnetään mainituissa lainkohdissa tarkoitetun ulkomaalaisen perheenjäsenelle.

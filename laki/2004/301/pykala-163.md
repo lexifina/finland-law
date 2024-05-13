@@ -8,7 +8,7 @@ Oikeus pysyvään oleskeluun ennen viiden vuoden yhtäjaksoista oleskelua, on ty
 
 Jos 1 momentin 2 kohdassa tarkoitettu työkyvyttömyys johtuu työtapaturmasta tai ammattitaudista, joka oikeuttaa unionin kansalaisen Suomessa lakisääteiseen eläkkeeseen, asumisen kestolla ei ole merkitystä pysyvän oleskeluoikeuden saamisen kannalta.
 
-Pysyvän oleskeluoikeuden saamiseksi 1 momentin 1 tai 2 kohdan nojalla hyväksi luetaan myös työssäolo toisen jäsenvaltion alueella. Omasta tahdosta riippumattomat työttömyysjaksot, jotka työvoimatoimisto on kirjannut, tai ammatinharjoittamisen katkaisseet jaksot, jotka ovat aiheutuneet hakijasta riippumattomista syistä, sekä sairaudesta tai tapaturmasta johtuvat poissaolojaksot katsotaan työssäolojaksoiksi.
+Pysyvän oleskeluoikeuden saamiseksi 1 momentin 1 tai 2 kohdan nojalla hyväksi luetaan myös työssäolo toisen jäsenvaltion alueella. Omasta tahdosta riippumattomat työttömyysjaksot, jotka työvoimaviranomainen on kirjannut, tai ammatinharjoittamisen katkaisseet jaksot, jotka ovat aiheutuneet hakijasta riippumattomista syistä, sekä sairaudesta tai tapaturmasta johtuvat poissaolojaksot katsotaan työssäolojaksoiksi.
 
 Asumisen ja työnteon kestolle 1 momentin 1 kohdassa ja asumisen kestolle 1 momentin 2 kohdassa säädettyjä edellytyksiä ei sovelleta, jos työntekijän tai itsenäisen ammatinharjoittajan aviopuoliso on Suomen kansalainen tai on menettänyt Suomen kansalaisuuden sen seurauksena, että hän on solminut avioliiton kyseisen työntekijän tai itsenäisen ammatinharjoittajan kanssa.
 

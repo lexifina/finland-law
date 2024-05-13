@@ -3,7 +3,7 @@ Luku: 3 luku Viisumit
 
 Pitkäaikainen viisumi myönnetään nopeutettua maahantuloa varten hakemuksesta kolmannen maan kansalaiselle, jolle on myönnetty:
 1) oleskelulupa erityisosaamista vaativaan asiantuntijatehtävään 73 §:n nojalla;
-2) 73 a §:ssä tarkoitettu Euroopan unionin sininen kortti;
+2) kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä korkeaa osaamistasoa vaativaa työtä varten annetun lain (224/2024), jäljempänä erityisosaajalaki, 5 §:ssä tarkoitettu EU:n sininen kortti;
 3) 80 §:ssä tarkoitettu kasvuyrittäjän oleskelulupa;
 4) kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä yrityksen sisäisen siirron yhteydessä annetun lain (908/2017) 7 §:n nojalla oleskelulupa mainitun lain 5 §:n 5 kohdassa tarkoitettuna johtajana tai 6 kohdassa tarkoitettuna asiantuntijana;
 5) kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä tutkimuksen, opiskelun, työharjoittelun ja vapaaehtoistoiminnan perusteella annetun lain (719/2018) 6 tai 6 a §:ssä tarkoitettu oleskelulupa tutkijalle taikka mainitun lain 7 tai 7 a §:ssä tarkoitettu oleskelulupa opiskelua varten;

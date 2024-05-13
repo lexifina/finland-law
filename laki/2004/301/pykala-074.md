@@ -18,4 +18,4 @@ Jos työnteko kestää kauemmin kuin 1 momentin 1–3 tai 11 kohdassa säädetä
 
 Oleskeluluvan myöntämisen edellytyksenä on, että ulkomaalaisen toimeentulo on turvattu oleskeluluvan voimassaolon ajan. Toimeentulon on oltava turvattu tulolla, joka pääosin saadaan siitä perusteesta, jota varten oleskelulupa myönnetään. Toimeentulo voi perustua ansiotyöstä ja elinkeinon harjoittamisesta saatavan tulon yhdistelmään, paitsi jos kyseessä on kokoaikainen työsuhde.
 
-Oleskeluluvan myöntämiseen ei sovelleta 72, 72 a ja 72 b §:ää.
+Oleskeluluvan myöntämiseen ei sovelleta 72 ja 72 b §:ää.

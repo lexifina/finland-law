@@ -5,4 +5,4 @@ Ulkomaalaiselle, joka on suorittanut Suomessa tutkinnon tai tutkimuksen loppuun 
 
 Oleskeluluvan myöntämisen edellytyksenä on, että ulkomaalaisen toimeentulo on turvattu 39 §:n mukaisesti oleskeluluvan voimassaolon ajan.
 
-Oleskeluluvan myöntämiseen ei sovelleta 72, 72 a ja 72 b §:ää.
+Oleskeluluvan myöntämiseen ei sovelleta 72 ja 72 b §:ää.
