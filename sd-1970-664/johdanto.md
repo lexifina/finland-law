@@ -1,0 +1,2 @@
+Valtion virkaehtosopimuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
