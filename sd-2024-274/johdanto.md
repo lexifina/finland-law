@@ -1,0 +1,2 @@
+Laki aikuiskoulutusetuuksista annetun lain kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
