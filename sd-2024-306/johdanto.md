@@ -1,0 +1,2 @@
+Laki ydinpuolustustietoja koskevasta yhteistyöstä Pohjois-Atlantin sopimuksen osapuolten välillä tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
