@@ -1,0 +1,2 @@
+Laki vaihtoehtoisella käyttövoimalla toimivan ajoneuvon hankinnan sekä ajoneuvon vaihtoehtoisella käyttövoimalla toimivaksi muuntamisen määräaikaisesta tukemisesta
+Eduskunnan päätöksen mukaisesti säädetään:
