@@ -1,0 +1,2 @@
+Rahankeräyslaki
+Eduskunnan päätöksen mukaisesti säädetään:
