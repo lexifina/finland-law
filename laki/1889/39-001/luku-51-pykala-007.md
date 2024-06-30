@@ -1,5 +1,5 @@
 # 7 § Rajoitussäännös
-Luku: 51 luku Arvopaperimarkkinarikoksista
+Luku: 51 luku Arvopaperi- ja kryptovaramarkkinarikoksista
 
 Tämän luvun 1, 2, 2 a, 3 ja 4 §:n säännöksiä ei sovelleta:
 1) kaupankäyntiin omilla osakkeilla takaisinosto-ohjelman mukaisesti, kun tällainen kaupankäynti tapahtuu markkinoiden väärinkäyttöasetuksen 5 artiklan 1–3 kohdan mukaisesti;

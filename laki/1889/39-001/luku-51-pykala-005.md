@@ -1,5 +1,5 @@
 # 5 § Arvopaperimarkkinoita koskeva tiedottamisrikos
-Luku: 51 luku Arvopaperimarkkinarikoksista
+Luku: 51 luku Arvopaperi- ja kryptovaramarkkinarikoksista
 
 Joka tahallaan tai törkeästä huolimattomuudesta
 1) rahoitusvälineen markkinoinnissa tai vaihdannassa elinkeinotoiminnassa antaa rahoitusvälineeseen liittyviä totuudenvastaisia tai harhaanjohtavia tietoja,

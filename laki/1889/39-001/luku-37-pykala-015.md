@@ -8,6 +8,6 @@ Tässä luvussa tarkoitetaan:
 
 Mitä tässä luvussa säädetään maksuvälineestä, sovelletaan myös julkisen valvonnan alaisen luottolaitoksen talletuksesta antamaan vastakirjaan ja muuhun saamistodisteeseen.
 
-Mitä tässä luvussa säädetään maksuvälineestä, sovelletaan myös maksulaitoslain (297/2010) 5 §:n 6 a kohdassa tarkoitettuun sähköiseen rahaan ja virtuaalivaluutan tarjoajista annetun lain (572/2019) 2 §:n 1 momentin 1 kohdassa tarkoitettuun virtuaalivaluuttaan.
+Mitä tässä luvussa säädetään maksuvälineestä, sovelletaan myös maksulaitoslain (297/2010) 5 §:n 6 a kohdassa tarkoitettuun sähköiseen rahaan ja EU:n kryptovaramarkkina-asetuksen 3 artiklan 1 kohdan 5 alakohdassa tarkoitettuun kryptovaraan.
 
 Mitä tässä luvussa säädetään rahasta, sovelletaan seteleihin ja metallirahoihin myös ennen niiden liikkeelle laskua.
