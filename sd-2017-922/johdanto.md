@@ -1,0 +1,2 @@
+Laki matkapalveluyhdistelmien tarjoajan valvonta- ja maksukyvyttömyyssuojamaksusta
+Eduskunnan päätöksen mukaisesti säädetään:
