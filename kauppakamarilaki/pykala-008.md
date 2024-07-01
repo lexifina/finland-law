@@ -1,7 +1,7 @@
 # 8 § Kirjanpito ja tilintarkastus
 
-Kauppakamari ja Keskuskauppakamari ovat kirjanpitovelvollisia. Niiden kirjanpidosta on voimassa, mitä kirjanpitolaissa (1336/1967) säädetään.
+Kauppakamariin ja Keskuskauppakamariin sovelletaan, mitä kirjanpitolaissa (1336/1997) säädetään kirjanpitovelvollisista.
 
 Keskuskauppakamarin tilinpäätöksestä on käytävä ilmi, että kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetun lain maksuja koskevaa säännöstä on noudatettu.
 
-Kauppakamarilla ja Keskuskauppakamarilla on oltava vähintään kaksi tilintarkastajaa ja kaksi varatilintarkastajaa, joiden on oltava Keskuskauppakamarin tai kauppakamarin hyväksymiä tilintarkastajia. Tilintarkastuksesta on muutoin voimassa, mitä tilintarkastuslaissa säädetään.
+Kauppakamarilla ja Keskuskauppakamarilla on oltava vähintään kaksi tilintarkastajaa ja kaksi varatilintarkastajaa. Muutoin Kauppakamarin ja Keskuskauppakamarin tilintarkastukseen sovelletaan, mitä tilintarkastuslaissa (1141/2015) säädetään.
