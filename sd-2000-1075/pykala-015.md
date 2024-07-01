@@ -1,7 +1,5 @@
 # 15 § Muutoksenhaku välittäjäkoelautakunnan päätökseen
 
-Välittäjäkoetta koskevaan päätökseen saa vaatia oikaisua siten kuin hallintolaissa (434/2003) säädetään.
+Välittäjäkoetta koskevaan päätökseen saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa (434/2003).
 
-Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla Helsingin hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
-
-Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+Oikaisuvaatimuksen johdosta annettuun päätökseen saa hakea muutosta valittamalla Helsingin hallinto-oikeuteen. Muutoin muutoksenhaussa hallintotuomioistuimeen sovelletaan, mitä oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019) säädetään.
