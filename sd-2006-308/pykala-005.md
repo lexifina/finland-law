@@ -1,0 +1,3 @@
+# 5 § Asiakasvalintaoikeus ja järjestyksen turvaaminen
+
+Majoitus- ja ravitsemistoiminnan harjoittajalla ja liikkeen henkilökunnalla on oikeus evätä asiakkaaksi pyrkivältä pääsy liikkeeseen, jos siihen on järjestyksenpidon tai liikkeen toiminta-ajatuksen vuoksi perusteltu syy. Toiminnanharjoittajalla ja liikkeen henkilökunnalla on myös oikeus kieltäytyä tarjoilemasta asiakkaalle ruokaa tai juomaa ja tarvittaessa poistaa asiakas liikkeestä, jos hän häiritsee muita asiakkaita tai muutoin aiheuttaa häiriötä liikkeessä tai ei täytä liikkeeseen asetettuja asiakkaaksi pääsyn edellytyksiä. Syrjinnän kiellosta säädetään yhdenvertaisuuslain (1325/2014) 8 §:ssä.
