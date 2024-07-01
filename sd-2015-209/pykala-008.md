@@ -8,4 +8,4 @@ Jos suorasta lisäeläkejärjestelystä on sovittu ja lisäeläkettä on alettu 
 
 Työsuojeluviranomainen voi asettaa 2 momentissa tarkoitetun vapautuksen myöntämiselle vakuusvaatimuksia, tiedonantovelvoitteita tai muita vastaavia lisäedellytyksiä. Vapautus voidaan myöntää myös osittaisena tai ehdollisena. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä vapautusta koskevien edellytysten arvioinnista sekä säätää vapautusta koskevasta menettelystä.
 
-Edellä 2 momentissa tarkoitetusta hakemuksesta annettuun päätökseen saa vaatia oikaisua työsuojeluviranomaiselta. Oikaisuvaatimusmenettelystä säädetään hallintolaissa (434/2003). Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+Edellä 2 momentissa tarkoitetusta hakemuksesta annettuun päätökseen saa vaatia oikaisua. Oikaisuvaatimusmenettelystä säädetään hallintolaissa (434/2003). Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
