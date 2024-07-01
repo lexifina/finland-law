@@ -1,0 +1,2 @@
+Laki ihmishengen turvallisuudesta merellä vuonna 1974 tehdyn kansainvälisen yleissopimuksen liitteeseen tehtyjen muutosten sekä yleissopimukseen liittyvän teollisuustyöntekijöitä kuljettavia aluksia koskevan kansainvälisen turvallisuussäännöstön lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
