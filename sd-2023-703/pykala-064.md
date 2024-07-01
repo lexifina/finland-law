@@ -1,4 +1,4 @@
-# 64 § Viranomaisen tiedonsaantioikeus
+# 64 § Sosiaali- ja terveydenhuollon viranomaisen tiedonsaantioikeus
 Osa: I OSA LAIN SOVELTAMISALA JA ASIAKASTIETOJEN KÄSITTELY
 Luku: 8 luku Tiedonsaantioikeus ja tietojen luovuttaminen
 Väliotsikko: Viranomaisen oikeus salassa pidettäviin tietoihin
@@ -8,3 +8,5 @@ Sosiaalihuollon viranomaisella on oikeus saada salassapitosäännösten estämä
 Mitä 1 momentissa säädetään velvollisuudesta antaa tietoja, koskee myös rahalaitosta, jos sosiaalihuollon viranomainen ei saa riittäviä tietoja ja selvityksiä 1 momentissa mainituilta tahoilta ja jos on perusteltua syytä epäillä asiakkaan tai hänen laillisen edustajansa antamien tietojen riittävyyttä tai luotettavuutta. Pyyntö tulee esittää kirjallisena rahalaitokselle. Pyynnön esittämistä koskevan päätöksen on oikeutettu tekemään sosiaalipalveluiden järjestämisestä vastaavan toimivaltaisen viranomaisen määräämä sosiaalihuollon viranhaltija. Ennen kuin pyyntö tehdään rahalaitokselle, on asiakkaalle annettava siitä tieto.
 
 Sosiaali- ja terveydenhuollon viranomaisella on oikeus saada pyynnöstä maksutta veroviranomaiselta ja Kansaneläkelaitokselta salassa pidettäviä henkilötietoja asiakkaan suostumuksesta riippumatta maksun määräämistä ja tietojen tarkistamista varten. Sosiaali- ja terveydenhuollon viranomaisen tulee etukäteen ilmoittaa asiakkaalle tietojen pyytämisestä.
+
+Terveydenhuollon viranomaisen palveluksessa toimivalla sosiaalihuollon ammattihenkilöllä on oikeus saada salassapitosäännösten estämättä maksutta Kansaneläkelaitokselta potilaan sosiaaliturvaetuuksia koskevat tiedot, jotka ovat välttämättömiä potilaan terveydentilaan liittyviä etuuksia koskevan neuvonnan ja ohjauksen varmistamiseksi. Potilaalle tulee etukäteen ilmoittaa tiedonsaantioikeuden käyttämisestä.

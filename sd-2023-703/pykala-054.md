@@ -9,3 +9,5 @@ Jos potilaalla ei ole muistisairauden, mielenterveyden häiriön, kehitysvammais
 Tiedonsaantioikeus toteutetaan ensisijaisesti valtakunnallisten tietojärjestelmäpalvelujen välityksellä. Jos tiedonsaantioikeutta ei ole mahdollista toteuttaa valtakunnallisten tietojärjestelmäpalvelujen välityksellä, voidaan se toteuttaa muulla tavoin.
 
 Palvelunantaja saa omasta aloitteestaan tai ulkomaalaisen terveydenhuollon palvelunantajan pyynnöstä luovuttaa välttämättömiä potilastietoja potilaan terveyspalvelun järjestämiseksi tai toteuttamiseksi, jos potilaalla ei ole muistisairauden, mielenterveyden häiriön, kehitysvammaisuuden tai vastaavan syyn takia edellytyksiä arvioida annettavan luovutusluvan merkitystä eikä hänellä ole laillista edustajaa taikka jos luovutuslupaa ei voida saada potilaan tajuttomuuden tai muun siihen verrattavan syyn vuoksi.
+
+Terveydenhuollon palvelunantaja saa luovuttaa potilaan tutkimuksen ja hoidon järjestämiseksi välttämättömiä potilastietoja sekä yhteenvedon annetusta hoidosta potilaan kanssa sovitulle terveydenhuollon palvelunantajalle.
