@@ -1,6 +1,8 @@
-# 4 § Valtion tukea koskevan Euroopan unionin lainsäädännön soveltaminen
-Luku: 2 luku Tuen myöntäminen
+# 4 § Uusjaon yhteydessä suoritettavan mukauttamistoimenpiteen rahoittaminen
+Luku: 2 luku Uusjaon tukeminen
 
-Hallinnollisten kustannusten tukea myönnettäessä sovelletaan tiettyjen maa- ja metsätalousalan ja maaseutualueiden tukimuotojen toteamisesta sisämarkkinoille soveltuviksi Euroopan unionin toiminnasta tehdyn sopimuksen 107 artiklan ja 108 artiklan mukaisesti annettua komission asetusta (EU) N:o 702/2014. Tukea ei myönnetä sellaiselle uusjaon osakkaalle, joka on mainitun asetuksen 1 artiklan 5 kohdan a alakohdassa tai 2 artiklan 14 kohdassa tarkoitettu yritys.
+Uusjaon yhteydessä suoritettava tieverkostoa tai vesienhallintaa koskeva mukauttamistoimenpide voidaan rahoittaa valtion varoin, jos mukauttamistoimenpide on tarkoituksenmukaisen kiinteistörakenteen vaatima ja välttämätön sekä esitetty suoritettavaksi uusjakotoimituksessa.
 
-Investointitukea ei voida myöntää toimenpiteeseen, jos tuki muodostuu Euroopan unionin toiminnasta tehdyn sopimuksen 107 artiklan 1 kohdassa tarkoitetuksi valtion tueksi.
+Valtion varoista voidaan rahoittaa vain tuettavan mukauttamistoimenpiteen toteuttamisesta aiheutuvat toimitusmiesten hyväksymän kustannusarvion mukaiset tarpeelliset ja kohtuulliset rakentamiskustannukset ja suunnittelukustannukset.
+
+Maanmittauslaitos päättää valtion varoin uusjaon yhteydessä rahoitettavat ja tuettavat tieverkostoa ja vesienhallintaa koskevat mukauttamistoimenpiteet toimitusmiesten esityksestä hyväksytyn ja lainvoimaisen uusjakosuunnitelman ja toimenpidekohtaisten suunnitelmien perusteella.

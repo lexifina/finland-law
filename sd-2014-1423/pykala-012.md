@@ -1,10 +1,12 @@
-# 12 § Perintäpäätös
-Luku: 3 luku Uusjakokustannusten maksaminen ja periminen
+# 12 § Maksupäätös
+Luku: 3 luku Uusjakokustannusten maksaminen ja tuen myöntäminen jako-osakkaalle
 
-Tuen saajalta peritään tämän osuus investointikustannuksesta vähennettynä 8 §:n 2 momentissa tarkoitetulla osuudella.
+Maanmittauslaitos päättää tuen myöntämisestä.
 
-Maanmittauslaitoksen on tehtävä tuen saajan maksettavaksi jäävän osuuden perinnästä päätös sen jälkeen, kun investointikustannusten suuruus ja osittelu on ratkaistu lainvoimaisesti. Päätöksestä on käytävä ilmi perittävän pääoman määrä, 13 §:n 1 momentissa säädetty korko, koron alkamishetki sekä osasuoritusten eräpäivä.
+Jako-osakkaalta peritään uusjaon kiinteistötoimitusmaksuna 25 prosenttia maksun täydestä määrästä. Päätöksestä on käytävä ilmi hallinnollisten kustannusten tukena perimättä jätettävän kiinteistötoimitusmaksuosuuden rahallinen arvo. Kiinteistötoimitusmaksun perimisestä säädetään kiinteistötoimitusmaksusta annetussa laissa (558/1995).
 
-Tuen saajan maksettavaksi jäävän kiinteistötoimitusmaksun perimisestä säädetään kiinteistötoimitusmaksusta annetussa laissa (558/1995).
+Jako-osakkaalta peritään investointikustannuksena 50 prosenttia tuettavan mukauttamistoimenpiteen osakaskohtaista kustannusosuutta vastaavasta täydestä määrästä. Päätös on tehtävä sen jälkeen, kun investointikustannusten suuruus ja osittelu on ratkaistu lainvoimaisesti. Päätöksestä on käytävä ilmi investointitukena perimättä jätettävän kustannusosuuden rahallinen arvo, perittävän pääoman määrä, 13 §:n 1 momentissa säädetty korko, koronmaksuvelvollisuuden alkamishetki sekä osasuoritusten eräpäivät.
 
-Maanmittauslaitoksen on toimitettava jäljennös päätöksestään toimitusinsinöörille ja Valtiokonttorille.
+Jos 3 momentissa tarkoitetun toimenpiteen suorittamista tuetaan valtion varoin muun kuin tämän lain nojalla, toimenpiteeseen ei myönnetä tässä laissa tarkoitettua investointitukea.
+
+Maanmittauslaitoksen on toimitettava jäljennös päätöksestä jako-osakkaalta investointikustannuksena perittävästä maksusta Valtiokonttorille.

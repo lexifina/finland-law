@@ -1,6 +1,6 @@
-# 8 § Tuen taso
-Luku: 2 luku Tuen myöntäminen
+# 8 § Tuki-intensiteetti
+Luku: 2 luku Uusjaon tukeminen
 
-Kiinteistötoimitusmaksusta jätetään valtion lopulliseksi menoksi 75 prosenttia hallinnollisten kustannusten tukena.
+Uusjakotoimituksen kiinteistötoimitusmaksusta jätetään valtion lopulliseksi menoksi 75 prosenttia hallinnollisten kustannusten tukena.
 
-Tuettavasta toimenpiteestä aiheutuvista kustannuksista jätetään valtion lopulliseksi menoksi 50 prosenttia investointitukena.
+Uusjakotoimituksen yhteydessä suoritetun tieverkostoa tai vesienhallintaa koskevan mukauttamistoimenpiteen kustannuksista jätetään valtion lopulliseksi menoksi 50 prosenttia investointitukena.
