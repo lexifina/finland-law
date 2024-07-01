@@ -1,10 +1,4 @@
-# 9 § Tuen myöntäminen uusjakohankkeelle
-Luku: 2 luku Tuen myöntäminen
+# 9 § Tuen saaja
+Luku: 2 luku Uusjaon tukeminen
 
-Tuki voidaan myöntää uusjakohankkeelle, jos jaolla voidaan oleellisesti kehittää alueen kiinteistörakennetta ja jaolla saavutettavat hyödyt ovat kustannuksia suuremmat.
-
-Maanmittauslaitos päättää uusjakohankkeen tukemisesta valtion varoin toimitusmiesten esityksestä, jos toimituksen hakija tai muu asianosainen sitä pyytää.
-
-Päätös tuen myöntämisestä on tehtävä ennen toimituksessa tehtävää päätöstä toimituksen edellytyksistä ja laajuudesta.
-
-Valtioneuvoston asetuksella säädetään toimitusmiesten esityksen sisällöstä.
+Tukea voidaan myöntää uusjaossa jako-osakkaana olevalle luonnolliselle henkilölle, yksityisoikeudelliselle tai julkisoikeudelliselle yhteisölle, säätiölle ja kuolinpesälle.

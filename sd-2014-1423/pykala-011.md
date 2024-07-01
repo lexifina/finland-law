@@ -1,4 +1,4 @@
 # 11 § Kustannusten maksaminen
-Luku: 3 luku Uusjakokustannusten maksaminen ja periminen
+Luku: 3 luku Uusjakokustannusten maksaminen ja tuen myöntäminen jako-osakkaalle
 
-Maanmittauslaitos maksaa tuettavasta toimenpiteestä aiheutuneet kustannukset valtion varoista toimenpiteen suorittajalle hyväksytysti tehtyä työtä vastaan.
+Maanmittauslaitos maksaa tuettavasta tieverkoston tai vesienhallinnan mukauttamistoimenpiteestä aiheutuvat kustannukset valtion varoista toimenpiteen suorittajalle hyväksytysti tehtyä työtä vastaan.

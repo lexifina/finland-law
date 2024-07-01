@@ -1,8 +1,13 @@
-# 10 § Investointitukipäätös
-Luku: 2 luku Tuen myöntäminen
+# 10 § Tuen hakeminen
+Luku: 2 luku Uusjaon tukeminen
 
-Maanmittauslaitos päättää uusjakohankkeelle myönnetyn tuen kohteena olevat tie- ja kuivatustyöt.
+Hallinnollisten kustannusten tukea ja investointitukea on haettava Maanmittauslaitokselta.
 
-Päätös tehdään hyväksytyn uusjakosuunnitelman ja siihen liittyvien suunnitelmien perusteella toimitusmiesten esityksestä.
+Investointitukea on haettava ennen tuettavien mukauttamistoimenpiteiden aloittamista.
 
-Jos toimitusmiesten uusjakosuunnitelmassa tehtäväksi esitettyä toimenpidettä koskevaan päätökseen on haettu muutosta, tukipäätöstä ei tältä osin saa tehdä, ennen kuin muutoksenhaku on lainvoimaisesti ratkaistu.
+Tukihakemuksen on sisällettävä tiedot:
+1) hakijasta;
+2) tukimuodosta ja
+3) mukauttamistoimenpiteestä, johon tukea haetaan.
+
+Maanmittauslaitos voi antaa tarkemmat määräykset tuen hakumenettelystä ja hakemukseen liitettävistä asiakirjoista.

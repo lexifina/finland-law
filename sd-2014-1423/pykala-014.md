@@ -1,5 +1,5 @@
-# 14 § Kertasuoritus ja ylimääräiset lyhennykset
-Luku: 3 luku Uusjakokustannusten maksaminen ja periminen
+# 14 § Osuuden kertasuoritus ja ylimääräiset lyhennykset
+Luku: 3 luku Uusjakokustannusten maksaminen ja tuen myöntäminen jako-osakkaalle
 
 Tuen saajan on maksettava pääomamäärältään enintään 1 000 euron määräinen osuus investointikustannuksista kertasuorituksena.
 

@@ -1,11 +1,11 @@
 # 13 § Tuen saajan osuuden perintä
-Luku: 3 luku Uusjakokustannusten maksaminen ja periminen
+Luku: 3 luku Uusjakokustannusten maksaminen ja tuen myöntäminen jako-osakkaalle
 
 Tuen saajan on suoritettava osuutensa 12 prosentin suuruisina osasuorituksina, joista luetaan koroksi neljä prosenttia kulloinkin suorittamatta olevalle pääomalle ja muu osa pääoman lyhennykseksi.
 
 Perittävälle pääomalle on suoritettava korkoa perintäpäätöksen antopäivästä.
 
-Tuen saajan maksuvelvollisuus alkaa toisena vuotena sen vuoden jälkeen, jolloin Maanmittauslaitoksen 12 §:n 2 momentissa tarkoitettu perintäpäätös annettiin.
+Tuen saajan maksuvelvollisuus alkaa toisena vuotena sen vuoden jälkeen, jona Maanmittauslaitoksen 12 §:n 3 momentissa tarkoitettu maksupäätös annettiin.
 
 Tuen saajan 1 momentissa tarkoitettujen osasuoritusten suorasta ulosottokelpoisuudesta ilman ulosottoperustetta säädetään verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007).
 

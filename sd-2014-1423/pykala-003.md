@@ -1,6 +1,10 @@
-# 3 § Tukimuodot
-Luku: 2 luku Tuen myöntäminen
+# 3 § Tuen myöntäminen uusjaolle
+Luku: 2 luku Uusjaon tukeminen
 
-Tukea voidaan myöntää:
-1) uusjakotoimituksesta aiheutuviin kiinteistötoimitusmaksuihin (hallinnollisten kustannusten tuki); ja
-2) kustannuksiin, jotka aiheutuvat uusjaossa suoritettavasta tien rakentamisesta tai kuivatustyöstä (investointituki).
+Uusjaon toteuttamista voidaan tukea valtion varoin, jos jaolla voidaan oleellisesti kehittää maa- ja metsätalouskäytössä olevan alueen kiinteistörakennetta ja jaolla saavutettavat hyödyt ovat kustannuksia suuremmat.
+
+Maanmittauslaitos päättää uusjaon tukemisesta valtion varoin toimitusmiesten esityksestä, jos toimituksen hakija tai toimituksessa jako-osakkaana oleva muu asianosainen sitä pyytää.
+
+Päätös tuen myöntämisestä uusjaolle on tehtävä ennen toimituksessa tehtävää päätöstä toimituksen edellytyksistä ja laajuudesta.
+
+Valtioneuvoston asetuksella säädetään toimitusmiesten esityksen sisällöstä.
