@@ -16,7 +16,7 @@ Täydennysmäärää laskettaessa vuositulona ei oteta huomioon lesken saamaa:
 11) kertakorotusta, joka maksetaan työeläkkeen työkyvyttömyyseläkkeeseen ja tällaisen eläkkeen jälkeen maksettavaan perhe-eläkkeeseen sekä lakisääteisen tapaturmavakuutuksen ja sotilastapaturmalain mukaiseen työkyvyttömyyseläkkeeseen;
 12) eräiden työeläkkeiden tarkistamisesta työeläkkeen ja kansaneläkkeen yhteensovittamisen johdosta annetun lain mukaista korotusta;
 13) Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain mukaista kuntoutusrahaa, työeläkelakien mukaista kuntoutusrahaa ja kuntoutuskorotusta tai muuta työ- tai ansiokyvyn palauttamiseksi tai parantamiseksi annettavan kuntoutuksen tai koulutuksen ajalta maksettavaa etuutta;
-14) kustannusten korvauksia ja julkisesta työvoima- ja yrityspalvelusta annetun lain (916/2012) mukaista kulukorvausta tai muuta vastaavaa korvausta;
+14) kustannusten korvauksia ja työvoimapalveluiden järjestämisestä annetun lain (380/2023) mukaista kulukorvausta tai muuta vastaavaa korvausta;
 15) työtapaturma- ja ammattitautilain tai maatalousyrittäjän työtapaturma- ja ammattitautilain mukaista haittarahaa tai muita haitan perusteella maksettavia korvauksia;
 16) sotilasvammalain mukaista täydennyskorkoa ja lisähuoltoeläkettä;
 17) toimeentulotuesta annetun lain (1412/1997) mukaista toimeentulotukea;
