@@ -2,7 +2,7 @@
 Osa: II OSA SOSIAALI- JA TERVEYDENHUOLLON TIETOJÄRJESTELMÄT
 Luku: 9 luku Valtakunnalliset tietojärjestelmäpalvelut
 
-Tahdonilmaisupalveluun on tallennettava tieto henkilölle annetusta tämän lain ja lääkemääräyslain mukaisista informoinneista sekä henkilön antamista asiakastietojen luovutusta koskevista luovutusluvista, suostumuksista ja kielloista.
+Tahdonilmaisupalveluun on tallennettava tieto tämän lain ja lääkemääräyslain mukaisista informoinneista, luovutusluvista, kielloista ja valtakunnallisia tietojärjestelmäpalveluja koskevista suostumuksista.
 
 Tahdonilmaisupalveluun voidaan tallentaa myös tieto muista kuin 1 momentissa tarkoitetuista henkilön:
 1) terveyden- ja sairaanhoitoon tai sosiaalipalveluihin liittyvistä tahdonilmauksista;
