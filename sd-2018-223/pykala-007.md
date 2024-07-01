@@ -1,3 +1,5 @@
 # 7 § Muutoksenhaku
 
-Työ- ja elinkeinoministeriön tämän lain nojalla tekemään päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
+Työ- ja elinkeinoministeriön tämän lain nojalla tekemään päätökseen saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa (434/2003).
+
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
