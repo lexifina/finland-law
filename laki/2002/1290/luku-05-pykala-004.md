@@ -9,7 +9,10 @@ Palkan on oltava työehtosopimuksen mukainen. Jos alalla ei ole työehtosopimust
 Työssäoloehtokuukauteen ei lueta:
 1) palkkaa työstä, jota henkilö on tehnyt osasairauspäivärahaa saadessaan;
 2) henkilölle maksettua työ- tai virkaehtosopimuksen perusteella alennettua sairausajan palkkaa;
-3) työaikapankkiin siirrettyyn työaikaan perustuvaa palkkaa tai korvausta.
+3) palkkatuetusta työstä saatua palkkaa;
+4) työaikapankkiin siirrettyyn työaikaan perustuvaa palkkaa tai korvausta.
+
+Palkkatuetun työsuhteen jatkuttua 10 kuukautta työssäoloehtoon luetaan kuitenkin tästä alkaen 75 prosenttia niistä työssä-oloehtokuukausista, joiden ajalle palkkatukea on myönnetty tai sen tukiaikaa on jatkettu työvoimapalveluiden järjestämisestä annetun lain 87 §:n 3 momentin tai 89 §:n nojalla. Edellytyksenä on lisäksi, että työsuhde jatkuu yhdenjaksoisesti. Mahdollinen pyöristys tehdään alaspäin lähimpään täyteen työssäoloehtokuukauteen.
 
 Kukin työssäoloehtokuukausi luetaan työssäoloehtoon vain kerran.
 

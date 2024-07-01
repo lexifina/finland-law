@@ -9,5 +9,3 @@ Palkansaajan peruspäivärahaa ja ansiopäivärahaa maksetaan 7 §:ssä säädet
 4) vuonna 1964 ja jos hän on täyttänyt 64 vuotta ennen enimmäisajan päättymistä.
 
 Edellytyksenä 1 momentin soveltamiselle on, että työnhakijalla on enimmäisajan täyttyessä 11 §:ssä tarkoitettua työssäoloaikaa vähintään viisi vuotta viimeisen 20 vuoden aikana.
-
-Palkansaajan peruspäivärahaa ja ansiopäivärahaa maksetaan 7 §:ssä säädetyn enimmäisajan estämättä työnhakijalle työllistymistä edistävän palvelun ajalta, jos työllistymistä edistävä palvelu on järjestetty työvoimapalveluiden järjestämisestä annetun lain 108 §:n 1 tai 2 momentin mukaisen velvoitteen perusteella.

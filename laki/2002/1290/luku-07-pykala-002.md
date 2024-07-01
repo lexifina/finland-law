@@ -16,7 +16,7 @@ Odotusaikaa ei aseteta, jos:
 4) henkilöllä ei sairauden tai vamman vuoksi ole valmiuksia ammatillisen tutkinnon suorittamiseen ja hän on suorittanut ammatillisesta koulutuksesta annetun lain 7 §:n 3 momentissa tarkoitetun työhön ja itsenäiseen elämään valmentavan koulutuksen tai saavuttanut henkilökohtaisessa osaamisen kehittämissuunnitelmassa sovitut tavoitteet.
 
 Odotusajasta vähennetään täydet kalenteriviikot, joina henkilö on:
-1) ollut työssä, joka luetaan hänen työssäoloehtoonsa;
+1) ollut työssä, joka luetaan hänen työssäoloehtoonsa tai muussa palkkatuetussa työssä;
 2) työllistynyt yrittäjänä, ja työskentely luetaan hänen työssäoloehtoonsa; tai
 3) odotusajan alkamista lähinnä edeltävän kahden vuoden aikana saanut työttömyysetuutta taikka joilta hänelle ei ole maksettu työmarkkinatukea odotusajan, 6 tai 7 §:ssä tarkoitetun tarveharkinnan tai 10 §:ssä säädetyn omavastuuajan takia.
 

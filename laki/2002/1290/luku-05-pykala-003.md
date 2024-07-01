@@ -12,6 +12,6 @@ Tarkastelujaksoa pidennetään ajalla, jonka henkilö on estynyt olemasta työma
 5) apurahakausi;
 6) muu näihin verrattava hyväksyttävä syy.
 
-Tarkastelujaksoa pidennetään myös ajalla, jota ei 4 §:n 4 momentin tai 4 a §:n 1 momentin perusteella lueta työssäoloehtoon tai jona henkilö on työllistymistä edistävässä palvelussa. Lisäksi tarkastelujaksoa pidennetään ajalla, jona henkilö on hoitanut kansanedustajan tai ministerin tehtävää.
+Tarkastelujaksoa pidennetään myös ajalla, jota ei 4 §:n 3 ja 4 momentin perusteella lueta työssäoloehtoon tai jona henkilö on työllistymistä edistävässä palvelussa. Lisäksi tarkastelujaksoa pidennetään ajalla, jona henkilö on hoitanut kansanedustajan tai ministerin tehtävää.
 
 Tarkastelujaksoa pidennetään enintään seitsemän vuotta.
