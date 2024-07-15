@@ -1,0 +1,6 @@
+# 11 § Linja-autohankintoja koskevat vähimmäisosuudet
+Luku: 3 luku Hankintayksikön velvollisuus hankkia ympäristöystävällisiä ja energiatehokkaita ajoneuvoja ajoneuvo- ja liikennepalveluhankinnoissa
+
+Hankintayksikön on varmistettava, että ajoneuvohankintoina hankittujen ja liikennepalveluhankintoina hankittujen palveluiden tuottamiseen käytettyjen M3-luokan linja-autojen kokonaislukumäärästä ensimmäisellä hankinta-ajanjaksolla vähintään 41 prosenttia ja toisella hankinta-ajanjaksolla vähintään 59 prosenttia on 8 §:ssä määriteltyjä ympäristöystävällisiä ja energiatehokkaita ajoneuvoja. Linja-autojen palveluhankinnoissa käytetyt ajoneuvolain 20 §:n 2 momentin 2 kohdan mukaiset M2-luokan ajoneuvot lasketaan osaksi M3-luokan linja-autoja koskevia vähimmäisosuuksia.
+
+Liitteessä 3 eriteltyjen liikenteen palveluista annetun lain 181 §:n mukaisten palvelusopimusasetuksessa tarkoitettujen tieliikenteen toimivaltaisten viranomaisten on lisäksi varmistettava, että ensimmäisellä ja toisella hankinta-ajanjaksolla vähintään liitteessä 3 mainittu osuus ajoneuvohankintoina hankittujen ja liikennepalveluhankintoina hankittujen palveluiden tuottamiseen käytettyjen ajoneuvojen osuudesta on 8 §:ssä määriteltyjä päästöttömiä M3-luokan linja-autoja.

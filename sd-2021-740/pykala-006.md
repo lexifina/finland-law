@@ -1,0 +1,6 @@
+# 6 § Henkilöautoja ja kevyitä hyötyajoneuvoja koskevat vaatimukset
+Luku: 2 luku Ajoneuvoja koskevat ympäristö- ja energiatehokkuusvaatimukset
+
+Ympäristöystävällisen ja energiatehokkaan henkilöauton ja kevyen hyötyajoneuvon hiilidioksidipäästöt saavat olla ensimmäisellä hankinta-ajanjaksolla enintään 50 grammaa hiilidioksidia kilometriltä määriteltyinä niiden tyyppihyväksyntävaatimusten mukaisesti, jotka olivat voimassa ensirekisteröinnin ajankohtana voimassa olleen Euroopan unionin lainsäädännön mukaisesti. Lisäksi ajoneuvon todellisissa ajo-olosuhteissa mitatut päästöt (RDE) saavat olla enintään 80 prosenttia sovellettavista päästörajoista, jotka säädetään moottoriajoneuvojen tyyppihyväksynnästä kevyiden henkilö- ja hyötyajoneuvojen päästöjen (Euro 5 ja Euro 6) osalta ja ajoneuvojen korjaamiseen ja huoltamiseen tarvittavien tietojen saatavuudesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EY) N:o 715/2007 tai sen seuraajasäädösten liitteessä I.
+
+Ympäristöystävällisen ja energiatehokkaan henkilöauton ja kevyen hyötyajoneuvon hiilidioksidipäästöt saavat olla toisella hankinta-ajanjaksolla nolla grammaa hiilidioksidia kilometriltä määriteltyinä niiden tyyppihyväksyntävaatimusten mukaisesti, jotka olivat voimassa ensirekisteröinnin ajankohtana voimassa olleen Euroopan unionin lainsäädännön mukaisesti.

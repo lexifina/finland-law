@@ -1,0 +1,6 @@
+# 12 § Hankintayksikön ilmoitusvelvollisuus
+Luku: 3 luku Hankintayksikön velvollisuus hankkia ympäristöystävällisiä ja energiatehokkaita ajoneuvoja ajoneuvo- ja liikennepalveluhankinnoissa
+
+Hankintayksikön on ilmoitettava tämän lain mukaisissa hankinnoissa hankintalain 58 §:n 1 momentin 6 kohdan ja erityisalojen hankintalain 62 §:n 1 momentin 7 kohdan mukaisessa jälki-ilmoituksessa ajoneuvohankintoina hankittujen ja liikennepalveluhankintoina hankittujen palveluiden toteuttamiseen käytettyjen ajoneuvojen kokonaislukumäärä sekä hankinnassa toteutunut osuus tämän lain 6–8 §:n mukaisia ympäristöystävällisiä ja energiatehokkaita ajoneuvoja kappalemäärittäin.
+
+Hankintayksikön tulee toimittaa hankintasopimuksia koskevat jälki-ilmoitukset julkaistavaksi hankintalain 58 §:n 5 momentin ja erityisalojen hankintalain 62 §:n 4 momentin mukaisesti. Hankintalain 42 §:ssä ja erityisalojen hankintalain 45 §:ssä tarkoitetun puitejärjestelyn tai hankintalain 49 §:ssä ja erityisalojen hankintalain 52 §:ssä tarkoitetun dynaamisen hankintajärjestelmän perusteella tehtävien yksittäisten hankintasopimusten osalta hankintayksikkö voi kuitenkin toimittaa jälki-ilmoitukset julkaistavaksi vaihtoehtoisesti myös yhteen koottuina 30 päivän kuluessa hankinta-ajanjakson päättymisestä.
