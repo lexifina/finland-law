@@ -1,0 +1,2 @@
+Laki liikenteessä käytettävien vaihtoehtoisten polttoaineiden jakeluinfrastruktuurista
+Eduskunnan päätöksen mukaisesti säädetään:
