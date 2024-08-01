@@ -1,0 +1,2 @@
+Laki vuorotteluvapaalain kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
