@@ -1,0 +1,2 @@
+Laki kansainvälisen merenkulun turvalaitejärjestöstä tehdystä yleissopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
