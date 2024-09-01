@@ -6,7 +6,8 @@ Jos 118–120 §:ssä tarkoitetut turvaamistoimet eivät ole riittäviä, ulkoma
 2) säilöönotto on tarpeellinen ulkomaalaisen henkilöllisyyden selvittämiseksi;
 3) ulkomaalainen on syyllistynyt tai hänen epäillään syyllistyneen rikokseen ja säilöönotto on tarpeellinen maastapoistamispäätöksen valmistelun tai täytäntöönpanon turvaamiseksi;
 4) ulkomaalainen on säilöönotettuna tehnyt uuden kansainvälistä suojelua koskevan hakemuksen lähinnä maastapoistamispäätöksen täytäntöönpanon viivyttämiseksi tai häiritsemiseksi;
-5) säilöönotto perustuu vastuuvaltion määrittämisestä annetun neuvoston asetuksen 28 artiklaan; taikka
-6) ulkomaalaisen henkilökohtaiset ja muut olosuhteet huomioon ottaen on perusteltua aihetta olettaa, että hän muodostaa uhkan kansalliselle turvallisuudelle.
+5) säilöönotto perustuu vastuuvaltion määrittämisestä annetun asetuksen 28 artiklaan;
+6) ulkomaalaisen henkilökohtaiset ja muut olosuhteet huomioon ottaen on perusteltua aihetta olettaa, että hän muodostaa uhkan kansalliselle turvallisuudelle; taikka
+7) säilöönotto on tarpeen 104 a §:ssä säädetyn rajamenettelyn soveltamiseksi, jotta menettelyn yhteydessä voidaan tehdä päätös hakijan oikeudesta tulla Suomen alueelle.
 
 Lapsen säilöön ottamisen edellytyksistä säädetään 122 §:ssä.
