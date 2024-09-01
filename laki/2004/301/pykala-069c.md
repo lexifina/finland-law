@@ -5,7 +5,7 @@ Toisen Schengen-valtion edustustolle ja ulkoiselle palveluntarjoajalle voidaan a
 1) oleskeluluvan hakemiseen liittyvien yleisten tietojen antaminen;
 2) tietojen antaminen hakijalle vaadituista asiakirjoista tarkistusluettelon perusteella;
 3) tietojen, hakemuksen ja käsittelymaksun vastaanottaminen sekä toimittaminen Suomen edustustolle;
-4) hakijan henkilöllisyyden tarkistaminen;
+4) hakijan henkilöllisyyden todentaminen;
 5) biometristen tunnisteiden ottaminen ja tallentaminen;
 6) ajanvarausten hoitaminen henkilökohtaista käyntiä varten Suomen edustustossa tai ulkoisen palveluntarjoajan luona;
 7) oleskeluluvan hakijan kuulemiseen liittyvien järjestelyiden hoitaminen;

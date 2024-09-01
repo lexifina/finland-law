@@ -1,7 +1,10 @@
 # 134 § Muukalaispassin myöntäminen
 Luku: 8 luku Ulkomaalaisille Suomessa myönnettävät matkustusasiakirjat
 
-Muukalaispassi voidaan myöntää Suomessa olevalle ulkomaalaiselle, jos hän ei voi saada passia kotimaansa viranomaiselta taikka jos hän on kansalaisuudeton tai jos muukalaispassin myöntämiseen on muu erityinen syy.
+Muukalaispassi voidaan myöntää Suomessa olevalle ulkomaalaiselle, jolle on myönnetty oleskelulupa, jos:
+1) hän ei voi saada kansallista matkustusasiakirjaa;
+2) hän on kansalaisuudeton; tai
+3) muukalaispassin myöntämiseen on muu kuin 1 tai 2 kohdassa tarkoitettu erityinen syy.
 
 Ulkomaalaiselle, joka on saanut oleskeluluvan toissijaisen suojelun perusteella, myönnetään muukalaispassi.
 

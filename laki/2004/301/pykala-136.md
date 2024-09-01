@@ -7,4 +7,4 @@ Pakolaisen matkustusasiakirjaan merkitään henkilön sukunimi, etunimet, sukupu
 
 3–4 momentit on kumottu L:lla 26.6.2009/458.
 
-Jos ulkomaalaisen henkilöllisyyttä ei ole pystytty varmistamaan, siitä tehdään merkintä muukalaispassiin tai pakolaisen matkustusasiakirjaan.
+Jos ulkomaalaisen henkilöllisyyttä ei ole pystytty selvittämään siitä tehdään merkintä muukalaispassiin tai pakolaisen matkustusasiakirjaan.
