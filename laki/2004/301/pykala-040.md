@@ -9,7 +9,9 @@ Tämän lain mukaan laillista oleskelua on:
 4) lyhytaikaisella viisumilla tapahtuva enintään 90 päivää kestävä oleskelu minkä hyvänsä 180 päivän jakson aikana;
 5) toisen Schengen-valtion myöntämällä pitkäaikaisella viisumilla tapahtuva enintään 90 päivää kestävä oleskelu minkä tahansa 180 päivän jakson aikana;
 6) Schengen-valtion myöntämällä oleskeluluvalla tapahtuva enintään 90 päivää kestävä oleskelu minkä tahansa 180 päivän jakson aikana;
-7) ihmiskaupan uhrin ja 52 d §:ssä tarkoitetun laittomasti maassa oleskelleen ja työskennelleen kolmannen maan kansalaisen 52 b §:ssä tarkoitettuna harkinta-aikana tapahtuva oleskelu.
+7) ihmiskaupan uhrin ja 52 d §:ssä tarkoitetun laittomasti maassa oleskelleen ja työskennelleen kolmannen maan kansalaisen 52 b §:ssä tarkoitettuna harkinta-aikana tapahtuva oleskelu;
+8) Pohjois-Atlantin sopimuksen sopimuspuolten välillä niiden joukkojen asemasta tehdyssä sopimuksessa (SopS 23 ja 24/2024), Pohjois-Atlantin sopimuksen mukaisesti perustettujen kansainvälisten sotilasesikuntien asemasta tehdyssä pöytäkirjassa (SopS 25 ja 26/2024), Pohjois-Atlantin sopimuksen sopimusvaltioiden ja muiden rauhankumppanuuteen osallistuvien valtioiden välillä niiden joukkojen asemasta tehdyssä sopimuksessa (SopS 65/1997) tai sen toisessa lisäpöytäkirjassa (SopS 73/2005) tarkoitetun joukkojen jäsenen oleskelu;
+9) Puolustusyhteistyöstä Suomen tasavallan hallituksen ja Amerikan yhdysvaltojen hallituksen välillä tehdyssä sopimuksessa tarkoitetun joukkojen jäsenen, siviilihenkilöstön jäsenen, huollettavan ja USA:n sopimustoimittajan oleskelu.
 
 Unionin kansalaisen ja häneen rinnastettavan oleskeluoikeudesta säädetään 10 luvussa.
 

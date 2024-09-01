@@ -4,7 +4,8 @@ Luku: 3 luku Viisumit
 Viisumisäännöstöä sovelletaan lyhytaikaisiin viisumeihin hallintolain sijasta seuraavasti:
 1) viisumihakemuksen jättämiseen;
 2) edustuston toimivallan tutkimiseen;
-3) hakemuksen tutkittavaksi ottamiseen; 4) hakemuksen käsittelyyn;
+3) hakemuksen tutkittavaksi ottamiseen;
+4) hakemuksen käsittelyyn;
 5) hakemuksen käsittelyn keskeyttämiseen;
 6) hakemuksen siirtämiseen edustetun Schengen-valtion viranomaisille;
 7) viisumin myöntämiseen;

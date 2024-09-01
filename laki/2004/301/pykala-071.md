@@ -7,4 +7,3 @@ Oleskeluluvan myöntäminen työntekoa varten edellyttää, että:
 2) työnantaja on varmistanut, jos työssä vaaditaan erityistä pätevyyttä, lupaa tai hyväksyttyä terveydentilaa, että työntekijä täyttää niitä koskevat vaatimukset;
 3) ulkomaalaisen toimeentulo on turvattu ansiotyöstä saatavalla tulolla oleskeluluvan voimassaolon ajan;
 4) työntekijä täyttää 71 a §:n ja työnantaja 71 b §:n mukaisen selvittämisvelvollisuutensa.
-5) työntekijä ja työnantaja täyttävät 36 §:ssä säädetyt yleiset edellytykset oleskeluluvan myöntämiselle.
