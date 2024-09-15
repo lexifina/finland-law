@@ -1,0 +1,2 @@
+Laki kaksikäyttötuotteiden vientivalvonnasta
+Eduskunnan päätöksen mukaisesti säädetään:
