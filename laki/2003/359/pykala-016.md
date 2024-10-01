@@ -1,13 +1,6 @@
-# 16 § Yhtäjaksoisen asumisajan katkeaminen
+# 16 § Asumisaikaan hyväksyttävät ulkomaanpäivät
 Luku: 3 luku Suomen kansalaisuus hakemuksesta
 
-Muut kuin lyhyet poissaolot katkaisevat yhtäjaksoisen asumisajan. Yhtäjaksoinen asumisaika katkeaa lisäksi, jos poissaoloja on niin säännöllisesti ja niin paljon, että hakijan voidaan katsoa oleskelleen tai oleskelevan enimmäkseen Suomen ulkopuolella. Jos poissaolo on johtunut painavasta henkilökohtaisesta syystä, ei yhtäjaksoinen asumisaika kuitenkaan katkea.
+Kansalaistamisen edellytyksenä olevaan asumisaikaan hyväksytään Suomen ulkopuolella oleskelua yhteensä enintään 365 vuorokautta. Hakemuksen ratkaisemista edeltävän vuoden ajalta hyväksytään ulkomailla oleskelua kuitenkin yhteensä enintään 90 vuorokautta. Näiden määrien ylimeneviä ulkomaanpäiviä ei oteta mukaan asumisaikaa laskettaessa.
 
-Lyhyet poissaolot otetaan mukaan yhtäjaksoista asumisaikaa laskettaessa. Tällaisia ovat:
-1) enintään yhden kuukauden poissaolot;
-2) enintään kuusi yli kuukauden, mutta enintään kahden kuukauden poissaoloa; ja
-3) enintään kaksi yli kahden, mutta enintään kuuden kuukauden poissaoloa.
-
-Jos yhtäjaksoisen asumisajan katsotaan katkenneen, Suomessa oleskelu otetaan huomioon 13 §:n 1 momentin 2 kohdan b alakohdan mukaista kerättyä asumisaikaa laskettaessa.
-
-Yli kuusi kuukautta, mutta enintään vuoden kestäneitä tilapäisiä poissaoloja ei oteta mukaan yhtäjaksoista asumisaikaa laskettaessa. Ne eivät kuitenkaan katkaise yhtäjaksoista asumisaikaa. Asumisaikaa laskettaessa yli vuoden kestäviin poissaoloihin sovelletaan kerättyä asumisaikaa.
+Yli viiden vuoden yhtäjaksoinen oleskelu Suomen ulkopuolella katkaisee asumisajan laskemisen. Asumisajan laskeminen alkaa tällöin uudelleen 14 §:n 1 momentin mukaisesti.

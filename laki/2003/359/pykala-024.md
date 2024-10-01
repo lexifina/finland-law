@@ -7,6 +7,6 @@ Lapselle voidaan myöntää Suomen kansalaisuus huoltajan tai edunvalvojan tekem
 
 Edellä 1 momentissa tarkoitetulle lapselle voidaan myöntää Suomen kansalaisuus 13 §:n 1 momentin 2 ja 6 kohdan estämättä, jos hakemusta ratkaistaessa lapsi on alle 15-vuotias ja lapsen varsinainen asunto ja koti on Suomessa.
 
-Jos hakemusta ratkaistaessa lapsi on täyttänyt 15 vuotta, hänelle voidaan myöntää Suomen kansalaisuus 13 §:n 1 momentin 2 kohdan estämättä edellyttäen, että lapsen varsinainen asunto ja koti on ja on ollut Suomessa viimeksi kuluneet neljä vuotta keskeytyksettä tai yhteensä kuusi vuotta seitsemän ikävuoden täyttämisen jälkeen, joista viimeksi kuluneet kaksi vuotta keskeytyksettä.
+Jos hakemusta ratkaistaessa lapsi on täyttänyt 15 vuotta, hänelle voidaan myöntää Suomen kansalaisuus 13 §:n 1 momentin 2 kohdassa säädetyn estämättä, jos lapsen varsinainen asunto ja koti on ja on ollut Suomessa viimeksi kuluneet viisi vuotta.
 
-Jos 3 momentissa tarkoitettu lapsi on entinen Suomen kansalainen tai pohjoismaan kansalainen, edellytyksenä hakemuksen hyväksymiselle on kuitenkin kahden vuoden asumisaika.
+Jos 3 momentissa tarkoitettu lapsi on Pohjoismaan kansalainen, edellytyksenä hakemuksen hyväksymiselle on kuitenkin kahden vuoden asumisaika.
