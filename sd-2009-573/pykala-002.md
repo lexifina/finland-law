@@ -1,6 +1,6 @@
 # 2 § Maanmittauslaitoksen määräämä kaupanvahvistaja
 
-Jos kaupanvahvistajan palveluiden saatavuus sitä edellyttää, muu kuin 1 §:ssä tarkoitettu henkilö voidaan hakemuksesta määrätä toimimaan kaupanvahvistajana. Kaupanvahvistajaksi määrättävällä tulee olla riittävä perehtyneisyys ja muut edellytykset tehtävän hoitamiseen.
+Muu kuin 1 §:ssä tarkoitettu henkilö voidaan hakemuksesta määrätä toimimaan kaupanvahvistajana, jos tällä on riittävä asiantuntemus ja henkilökohtaiset ominaisuudet tehtävän hoitamiseen. Hakijalla on lisäksi oltava tehtävän hoitamisen edellyttämät välineet ja järjestelmät.
 
 Oikeus toimia 1 momentissa tarkoitettuna kaupanvahvistajana päättyy, kun kaupanvahvistaja täyttää 68 vuotta. Määräys toimia kaupanvahvistajana voidaan peruuttaa, jos:
 1) kaupanvahvistaja laiminlyö hänelle tämän lain mukaan kuuluvia tehtäviä;
