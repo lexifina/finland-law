@@ -1,5 +1,3 @@
 # 17 §
 
-Tarkemmat säännökset tämän lain täytäntöönpanosta annetaan asetuksella.
-
-Asetuksella voidaan säätää siitä, mitä tietoja pesänhoitajan ja selvittäjän on ilman eri pyyntöä toimitettava konkurssiasiamiehelle.
+Tarkemmat säännökset konkurssiasiamiehen ja hänen toimistonsa tehtävien järjestämisestä sekä säännökset konkurssiasiain neuvottelukunnasta annetaan valtioneuvoston asetuksella.
