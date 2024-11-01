@@ -1,9 +1,9 @@
 # 51 b § Pääsy perusterveydenhuoltoon kuuluvaan suun terveydenhuoltoon
 Luku: 6 luku Hoitoon pääsy
 
-Poiketen siitä, mitä 51 a §:ssä säädetään, 51 §:ssä tarkoitetussa arviossa, joka koskee perusterveydenhuoltoon kuuluvaa suun terveydenhuoltoa, hammaslääketieteellisesti tarpeelliseksi todettu tutkimus tai tarpeelliseksi todetun hoidon ensimmäinen tutkimus- tai hoitotapahtuma on järjestettävä potilaan terveydentila ja sairauden ennakoitavissa oleva kehitys huomioon ottaen kohtuullisessa ajassa, kuitenkin neljän kuukauden kuluessa siitä, kun 51 §:ssä tarkoitettu arvio on tehty.
+Poiketen siitä, mitä 51 a §:ssä säädetään, 51 §:ssä tarkoitetussa arviossa, joka koskee perusterveydenhuoltoon kuuluvaa suun terveydenhuoltoa, hammaslääketieteellisesti tarpeelliseksi todettu tutkimus tai tarpeelliseksi todetun hoidon ensimmäinen tutkimus- tai hoitotapahtuma on järjestettävä potilaan terveydentila ja sairauden ennakoitavissa oleva kehitys huomioon ottaen kohtuullisessa ajassa, kuitenkin kolmen kuukauden kuluessa siitä, kun 51 §:ssä tarkoitettu arvio on tehty.
 
-Jos potilas on 51 §:ssä tarkoitetun arvion perusteella ohjattu muulle suun terveydenhuollon ammattihenkilölle kuin hammaslääkärille, ja ammattihenkilö toteaa tarpeen hammaslääkärin tutkimukselle tai hoidolle, pääsy hammaslääkärille on järjestettävä neljän viikon kuluessa palvelun tarpeen toteamisesta tai neljän kuukauden kuluessa 51 §:ssä tarkoitetusta arviosta.
+Jos potilas on 51 §:ssä tarkoitetun arvion perusteella ohjattu muulle suun terveydenhuollon ammattihenkilölle kuin hammaslääkärille, ja ammattihenkilö toteaa tarpeen hammaslääkärin tutkimukselle tai hoidolle, pääsy hammaslääkärille on järjestettävä neljän viikon kuluessa palvelun tarpeen toteamisesta tai kolmen kuukauden kuluessa 51 §:ssä tarkoitetusta arviosta.
 
 Jos hammaslääkäri toteaa tarpeen perusterveydenhuollossa toimivan erikoishammaslääkärin tutkimukselle tai hoidolle, pääsy erikoishammaslääkärille on järjestettävä kohtuullisessa ajassa, kuitenkin kolmen kuukauden kuluessa siitä, kun hammaslääkäri on todennut palvelun tarpeen.
 
