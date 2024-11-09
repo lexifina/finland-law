@@ -1,8 +1,6 @@
-# 5 § Rangaistussäännökset
+# 5 § Suomen ja Ruotsin välisen taksiliikenteen luvaton harjoittaminen
 
 Joka
-1) harjoittaa ammattimaista henkilöliikennettä henkilöautolla tai ajoneuvolain (82/2021) 20 §:ssä tarkoitetulla N-luokan ajoneuvolla ilman taksiliikennesopimuksessa edellytettyä taksilupaa tai
+1) harjoittaa ammattimaista henkilöiden kuljettamista tiellä ajoneuvolaissa (82/2021) tarkoitetulla henkilöautolla, pakettiautolla, kuorma-autolla, kolmipyörällä, kevyellä nelipyörällä tai raskaalla nelipyörällä ilman taksiliikennesopimuksen 6 artiklassa edellytettyä taksiliikenteen harjoittamiseen oikeuttavaa lupaa tai
 2) harjoittaa taksiliikennettä vastoin taksiliikennesopimuksen 3 tai 4 artiklan määräyksiä,
 on tuomittava luvattomasta Suomen ja Ruotsin välisen taksiliikenteen harjoittamisesta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
-
-Joka laiminlyö taksiliikennesopimuksen 5 artiklan velvollisuudet rekisteröidä kuljetus taksamittariin, pitää asiakirjat autossa tai esittää asiakirjoja, on tuomittava Suomen ja Ruotsin välisen taksiliikennesopimuksen vastaisesta liikenneluparikkomuksesta sakkoon.
