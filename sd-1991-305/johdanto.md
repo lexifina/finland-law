@@ -1,2 +1,2 @@
-Laki valtiokonttorista
+Laki Valtiokonttorista
 Eduskunnan päätöksen mukaisesti säädetään:

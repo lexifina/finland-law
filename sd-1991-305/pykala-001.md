@@ -1,3 +1,3 @@
 # 1§
 
-Valtiovarainhoitoon ja valtion henkilöstöhallintoon kuuluvia tehtäviä varten on valtiovarainministeriön alaisena valtiokonttori.
+Valtiokonttori on valtiovarainministeriön hallinnonalalla toimiva valtion viranomainen, joka palvelee valtionhallintoa, kansalaisia, kuntia, kuntayhtymiä, hyvinvointialueita, hyvinvointiyhtymiä, yhteisöjä ja yrityksiä.
