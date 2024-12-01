@@ -1,8 +1,8 @@
 # 2 § Tehtävät
 
 Ilmatieteen laitoksen tehtävänä on:
-1) tuottaa sääpalveluita ja fysikaalisia meripalveluita maan yleisen turvallisuuden, liikenteen, elinkeinoelämän ja kansalaisten tarpeisiin;
-2) hankkia ja ylläpitää luotettavaa tietoa ilmakehän ja merien fysikaalisesta tilasta ja kemiallisesta koostumuksesta, ilmastosta sekä niiden vaikutuksista suomalaisen yhteiskunnan eri osa-alueilla ja kansainvälisesti; sekä
+1) tuottaa sää-, ilmasto- ja avaruustilannekuvapalveluita sekä fysikaalisia meripalveluita maan yleisen turvallisuuden, liikenteen, elinkeinoelämän ja kansalaisten tarpeisiin;
+2) hankkia ja ylläpitää luotettavaa tietoa ilmakehän ja merien fysikaalisesta tilasta ja kemiallisesta koostumuksesta, ilmastosta, avaruustilanteesta sekä niiden vaikutuksista suomalaisen yhteiskunnan eri osa-alueilla ja kansainvälisesti; sekä
 3) tehdä ja edistää ilmatieteellistä tutkimusta, fysikaalista merentutkimusta, polaarialueiden ja avaruuden tutkimusta sekä muuta alaan läheisesti liittyvää tutkimusta.
 
 Edellä 1 momentissa tarkoitettuja tehtäviä suorittaessaan Ilmatieteen laitos erityisesti:
@@ -16,3 +16,5 @@ Edellä 1 momentissa tarkoitettuja tehtäviä suorittaessaan Ilmatieteen laitos 
 8) osallistuu tehtäviinsä liittyvään kansainväliseen yhteistyöhön, tuottaa havaintoaineistoa kansainväliseen käyttöön sekä edustaa Suomea alansa kansainvälisissä järjestöissä.
 
 Laitoksen on huolehdittava myös niistä muista toimialansa viranomaistehtävistä, jotka sille erikseen säädetään.
+
+Ilmatieteen laitoksella, Puolustusvoimilla, Maanmittauslaitoksella ja Liikenne- ja viestintävirastolla on salassapitosäännösten ja muiden tietojen luovuttamista koskevien rajoitusten estämättä oikeus luovuttaa toisilleen avaruustilanteeseen liittyvää tietoa, joka on välttämätöntä edellä mainituille viranomaisille niiden avaruustilanteeseen liittyvien laissa säädettyjen tehtävien hoitamista varten. Tiedot voidaan luovuttaa toisen viranomaisen pyynnöstä tai oma-aloitteisesti.
