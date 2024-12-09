@@ -2,6 +2,4 @@
 Osa: VI OSA SAIRAUSVAKUUTUKSEN RAHOITUS
 Luku: 18 luku Sairausvakuutusrahasto ja vakuutusmaksut
 
-Valtion varoista rahoitetaan 67 prosenttia 8 §:n 1 momentin 1–4 kohdan sekä 2 ja 3 momentin mukaisten sairaanhoitovakuutuksen kulujen yhteismäärästä. Lisäksi valtion varoista rahoitetaan 8 §:n 1 momentin 5 kohdassa tarkoitetut sairaanhoidon kulut siltä osin kuin Suomessa annettujen sairaanhoitoetuuksien perusteella ulkomailta saadut kulujen korvaukset eivät niitä kata.
-
-2 momentti oli väliaikaisesti voimassa 27.3.2021–30.6.2023 L:lla 225/2021.
+Valtion varoista rahoitetaan 51,4 prosenttia 8 §:n 1 momentin 1–4 kohdan sekä 2 ja 3 momentin mukaisten sairaanhoitovakuutuksen kulujen yhteismäärästä. Lisäksi valtion varoista rahoitetaan 8 §:n 1 momentin 5 kohdassa tarkoitetut sairaanhoidon kulut siltä osin kuin Suomessa annettujen sairaanhoitoetuuksien perusteella ulkomailta saadut kulujen korvaukset eivät niitä kata.
