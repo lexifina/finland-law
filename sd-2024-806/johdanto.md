@@ -1,0 +1,2 @@
+Laki Euroopan unionin jäsenvaltioiden lainvalvontaviranomaisten välisestä tietojenvaihdosta
+Eduskunnan päätöksen mukaisesti säädetään:
