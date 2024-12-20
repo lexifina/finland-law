@@ -1,0 +1,2 @@
+Laki pienhiukkasten, pilvien ja hivenkaasujen tutkimusinfrastruktuurin oikeushenkilöllisyydestä ja osittaisesta verovapaudesta Suomessa
+Eduskunnan päätöksen mukaisesti säädetään:
