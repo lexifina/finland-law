@@ -4,5 +4,6 @@ Kauppakamarin tehtävänä on vahvistaa ulkomaankaupan asiakirjoja sen mukaan ku
 
 Keskuskauppakamarin tehtävänä on:
 2) määrätä välimiehet ja hakea välimiesmenettelyä varten uskotun miehen määräämisiä osakeyhtiölaissa (624/2006) erikseen säädetyissä lunastustilanteissa;
-3) hoitaa sille kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetussa laissa (1075/2000) säädetyt tehtävät; sekä
-4) hoitaa sille tässä laissa ja kiinteistörahastolaissa (1173/1997) säädetyt tehtävät.
+3) hoitaa sille kiinteistönvälitysliikkeistä ja vuokrahuoneiston välitysliikkeistä annetussa laissa (1075/2000) säädetyt tehtävät;
+4) hoitaa sille tässä laissa ja kiinteistörahastolaissa (1173/1997) säädetyt tehtävät;
+5) edistää, analysoida, seurata ja tukea sukupuolten tasapuolisen edustuksen kehittymistä osakeyhtiölain 6 luvun 9 a §:ssä tarkoitettujen pörssiyhtiöiden hallituksissa.
