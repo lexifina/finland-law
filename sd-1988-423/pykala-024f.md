@@ -1,0 +1,10 @@
+# 24 f § Valtiovarain controller -toiminnon tehtävät ja valtuudet
+Luku: 4 luku Taloudenhoidon ohjaus ja sisäinen valvonta
+
+Valtiovarain controller -toiminnon tehtävänä on:
+1) varmistaa osana hallituksen vuosikertomuksen valmistelua valtioneuvostolle esiteltäväksi, että kertomus antaa 18 §:ssä säädetyllä tavalla oikeat ja riittävät tiedot ja lisäksi varmistaa, että valtion tilinpäätöstiedot ja muut tärkeimmät valtiontaloutta ja tuloksellisuutta koskevat tiedot ovat saatavilla ja hyödynnettävissä valtiontaloutta ja toiminnan ohjausta koskevassa valmistelussa ja päätöksenteossa;
+2) ohjata ja sovittaa yhteen sekä kehittää valtion tilinpäätösraportointia ja muuta valtiontaloutta ja tuloksellisuutta koskevaa raportointia ja arviointitoimintaa sekä sisäisen valvonnan järjestämistä samoin kuin neuvonnallaan ja havaintojen ja niihin perustuvien toimenpide-ehdotusten esittämisellä varmistaa ja edistää valtion talouden ja toiminnan ohjaus- ja raportointijärjestelmien ja -menettelyiden toimivuutta asianmukaisella ja laadukkaalla tavalla;
+3) sovittaa yhteen Suomen valtion vastuulla olevien Euroopan unionin varojen sisäistä ja hallinnollista valvontaa ja valmistella unionin varojen valvontaa ja tarkastusta sekä varojen hoidon virheitä ja varoihin kohdistuneita väärinkäytöksiä koskevat kannanotot ja selvitykset Euroopan unionin toimielimille ja muille elimille, jolleivät ne kuulu jonkin muun viranomaisen tehtäviin;
+4) osallistua muiden valtiovarainministeriön toimialan asioiden valmisteluun ministeriössä siten kuin valtioneuvoston asetuksella tai valtiovarainministeriön työjärjestyksessä säädetään tai valtiovarainministeri määrää ja lisäksi osallistua toimialansa kansainväliseen yhteistyöhön.
+
+Valtiovarain controller -toiminto voi esittää valtioneuvostolle ja ministeriölle sekä valtion virastolle, laitokselle, liikelaitokselle ja rahastolle raportin havainnoistaan ja esittää siinä mahdolliset toimenpide-ehdotuksensa. Toiminto voi lisäksi asian laadun mukaan saattaa havaintonsa ja toimenpide-ehdotuksensa valtiontalouden tarkastusviraston ja muun asiassa toimivaltaisen viranomaisen tietoon mahdollisia toimenpiteitä varten.
