@@ -16,4 +16,4 @@ Jos edunvalvoja tai valtuutettu vaihtuu taikka edunvalvojan tai valtuutetun teht
 
 Rekisteriin saadaan lisäksi tallentaa tieto edunvalvontavaltuutuksen sisällöstä sekä valtuutuksen osittaista vahvistamista ja valvonnan lopettamista koskevia lisätietoja.
 
-Mitä edellä säädetään edunvalvojasta ja päämiehestä, on sovellettava kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain (746/2011) 39 §:ssä sekä kotoutumisen edistämisestä annetun lain (1386/2010) 56 §:ssä tarkoitettuun lapsen edustajaan ja lapseen silloin, kun edustajan määräämistä koskeva tieto on tallennettava holhousasioiden rekisteriin.
+Mitä edellä säädetään edunvalvojasta ja päämiehestä, on sovellettava kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain (746/2011) 39 §:ssä sekä kotoutumisen edistämisestä annetun lain (681/2023) 35 §:ssä tarkoitettuun lapsen edustajaan ja lapseen silloin, kun edustajan määräämistä koskeva tieto on tallennettava holhousasioiden rekisteriin.
