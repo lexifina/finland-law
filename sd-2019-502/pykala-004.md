@@ -6,4 +6,4 @@ Lukiokoulutuksen järjestäjä on velvollinen järjestämään ylioppilastutkinn
 
 Ylioppilastutkinnon ja sen kokeiden järjestämisestä oppilaitoksessa vastaa lukiolain 57 §:n 1 momentissa tarkoitettu toiminnasta vastaava rehtori.
 
-Ylioppilastutkinnon kokeet järjestetään kirjallisesti tai sähköisesti ja niissä voi olla suullisia tehtäviä. Ylioppilastutkintolautakunta määrää tarkemmin kokeiden järjestämisestä ja siihen liittyvistä aikatauluista ja koejärjestelyistä. Ylioppilastutkintolautakunta voi kokeiden järjestämisen olosuhteita koskevasta erittäin painavasta syystä päättää, että oppilaitoksen kokeet järjestetään toisin kuin muissa oppilaitoksissa.
+Ylioppilastutkinnon kokeet järjestetään kirjallisesti tai digitaalisesti. Kokeisiin voi sisältyä suullisia tehtäviä ja valmistavia näyttöjä. Ylioppilastutkintolautakunta määrää tarkemmin kokeiden järjestämisestä ja siihen liittyvistä aikatauluista ja järjestelyistä. Ylioppilastutkintolautakunta voi kokeiden järjestämisen olosuhteita koskevasta erittäin painavasta syystä päättää, että oppilaitoksen kokeet järjestetään toisin kuin muissa oppilaitoksissa.

@@ -1,6 +1,6 @@
 # 21 § Muutoksenhaku rehtorin ja koulutuksen järjestäjän monijäsenisen toimielimen päätökseen
 
-Rehtorin päätökseen, jolla on 8 §:n 1 momentin mukaisesti evätty osallistumisoikeus ylioppilastutkintoon tai sen kokeeseen, saa vaatia oikaisua siten kuin hallintolaissa (434/2003) säädetään. Aluehallintoviraston oikaisumenettelyssä antamaan päätökseen haetaan muutosta valittamalla hallinto-oikeuteen.
+Rehtorin päätökseen, jolla on 8 §:n 1 momentin mukaisesti evätty osallistumisoikeus ylioppilastutkintoon tai sen kokeeseen, saa vaatia oikaisua aluehallintovirastolta. Oikaisuvaatimuksesta säädetään hallintolaissa (434/2003). Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019). Päätös pannaan täytäntöön tehdystä valituksesta huolimatta, jollei valitusviranomainen kiellä täytäntöönpanoa.
 
 Päätökseen, jolla rehtori tai koulutuksen järjestäjän monijäseninen toimielin on määrännyt 15 §:n 1 tai 2 momentissa tarkoitetun seuraamuksen, haetaan muutosta valittamalla hallinto-oikeuteen. Päätös pannaan täytäntöön tehdystä valituksesta huolimatta, jollei valitusviranomainen kiellä täytäntöönpanoa.
 
