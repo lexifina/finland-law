@@ -1,0 +1,2 @@
+Laki luvan saaneista oikeudenkäyntiavustajista
+Eduskunnan päätöksen mukaisesti säädetään:
