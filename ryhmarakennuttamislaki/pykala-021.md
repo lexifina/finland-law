@@ -2,7 +2,7 @@
 Luku: 5 luku Asuntoyhteisömuotoista ryhmärakennutamista koskevat erityissäännökset
 
 Ryhmärakennuttajakonsultin on asunto-osakeyhtiömuotoisessa ryhmärakennuttamisessa hyvissä ajoin ennen ryhmärakennuttamissopimuksen tekemistä annettava kirjallisesti tai muulla pysyvällä tavalla perustettavan asunto-osakeyhtiön osakkaille seuraavat tiedot:
-1) kyse on ryhmärakennuttamishankkeesta, jossa hankkeeseen osallistuvat toimivat asunto-osakeyhtiön perustajina ja perustettava asunto-osakeyhtiö toimii maankäyttö- ja rakennuslaissa tarkoitettuna rakennushankkeeseen ryhtyvänä, sekä selvitys yhtiölle ja sen osakkaille hankkeeseen osallistumisesta aiheutuvista velvoitteista ja vastuista;
+1) kyse on ryhmärakennuttamishankkeesta, jossa hankkeeseen osallistuvat toimivat asunto-osakeyhtiön perustajina ja perustettava asunto-osakeyhtiö toimii rakentamislaissa tarkoitettuna rakentamishankkeeseen ryhtyvänä, sekä selvitys yhtiölle ja sen osakkaille hankkeeseen osallistumisesta aiheutuvista velvoitteista ja vastuista;
 2) hankkeessa ei ole asuntokauppalaissa tarkoitettua perustajaosakasta, jolla olisi yhtiötä ja osakkaita kohtaan uuden asunnon myyjän vastuu ja jonka suorituskyvyttömyyden varalta olisi asetettu suorituskyvyttömyysvakuus, sekä selvitys tämän seikan vaikutuksesta yhtiön ja sen osakkaiden asemaan, jos rakennuksessa ilmenee myöhemmin rakennusvirheitä;
 3) hankkeen käynnistämisen edellytykset;
 4) rakennuttamiseen suunnitellun rakennuspaikan pinta-ala ja sijaintikunta sekä kaupunginosa tai muu rakennuspaikan sijaintia tarkemmin ilmaiseva tieto sekä tiedot rakennusoikeuden laadusta ja määrästä sekä rakennustyypistä;

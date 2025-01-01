@@ -2,7 +2,7 @@
 Luku: 4 luku Muussa kuin asuntoyhteisömuodossa toteutettavia ryhmärakennuttamishankkeita koskevat erityissäännökset
 
 Ryhmärakennuttajakonsultin on muussa kuin asuntoyhteisömuotoisessa ryhmärakennuttamishankkeessa hyvissä ajoin ennen ryhmärakennuttamissopimuksen tekemistä annettava kirjallisesti tai muulla pysyvällä tavalla hankkeeseen osallistuville seuraavat tiedot:
-1) kyse on ryhmärakennuttamishankkeesta, jossa kukin hankkeeseen osallistuva on maankäyttö- ja rakennuslaissa tarkoitettu rakennushankkeeseen ryhtyvä, sekä selvitys hankkeeseen osallistumisesta aiheutuvista velvoitteista ja vastuista;
+1) kyse on ryhmärakennuttamishankkeesta, jossa kukin hankkeeseen osallistuva on rakentamislaissa tarkoitettu rakentamishankkeeseen ryhtyvä, sekä selvitys hankkeeseen osallistumisesta aiheutuvista velvoitteista ja vastuista;
 2) hankkeen käynnistämisen edellytykset;
 3) rakennuttamiseen suunnitellun rakennuspaikan pinta-ala ja sijaintikunta sekä kaupunginosa tai muu rakennuspaikan sijaintia tarkemmin ilmaiseva tieto sekä tiedot rakennusoikeuden laadusta ja määrästä sekä rakennustyypistä;
 4) rakennuspaikan hallintaperuste ja, jos rakennuspaikan hallinta tulee perustumaan vuokrasopimukseen, vuokranantaja, vuokra-aika, vuokran suuruus ja vuokraoikeuden siirtoa koskevat rajoitukset;
