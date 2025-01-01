@@ -5,7 +5,7 @@ Tätä lakia sovelletaan, jollei muualla laissa toisin säädetä, henkilötieto
 2) Suomen kansalaisuuden saamista, säilyttämistä, menettämistä ja kansalaisuudesta vapautumista sekä kansalaisuusaseman määrittämistä koskevien asioiden käsittely ja päätöksenteko;
 3) kansainvälistä suojelua hakevan ja tilapäistä suojelua saavan vastaanotto, ihmiskaupan uhrien auttaminen sekä ilman huoltajaa olevan lapsen edustajatoiminta osana vastaanottotoimintaa sekä näiden ohjaus, suunnittelu ja valvonta;
 4) ulkomaalaisen sijoittaminen säilöönottoyksikköön, ulkomaalaisen kohtelu säilöönottoyksikössä sekä säilöönottoyksikön järjestyksen ja turvallisuuden ylläpitäminen;
-5) kuntaan osoittaminen.
+5) kuntapaikalle ohjaaminen sekä ilman huoltajaa olevan oleskeluluvan saaneen lapsen edustajatoiminta sekä näiden ohjaus, suunnittelu ja valvonta.
 
 Silloin, kun henkilötietoja käsitellään edellä 1 momentin 1 tai 2 kohdassa säädetyissä tarkoituksissa, niitä käsitellään lisäksi myös kansallisen turvallisuuden suojaamiseksi.
 
