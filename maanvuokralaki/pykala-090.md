@@ -1,0 +1,8 @@
+# 90 §
+Luku: 7 luku Erinäisiä säännöksiä
+
+Tämä laki tulee voimaan 1 päivänä syyskuuta 1966 ja sillä kumotaan, jollei 2 ja 3 momentin säännöksistä muuta johdu, maakaaren 16 luvun 10–16 § ja 17 luvun 5 § sekä kauppakaaren 13 luku, sikäli kuin ne sisältävät voimassa olevia säännöksiä maanvuokrasta, 3 päivänä syyskuuta 1886 annetun metsälain 20 §, maanvuokrasta maalla 19 päivänä kesäkuuta 1902 annettu laki, torpan, lampuotitilan ja mäkitupa-alueen vuokrauksesta 12 päivänä maaliskuuta 1909 annettu asetus sekä samana päivänä annettu asetus maaliskuun 12 päivänä 1909 annetun, torpan, lampuotitilan ja mäkitupa-alueen vuokrausta koskevan asetuksen soveltamisesta aikaisemmin syntyneisiin vuokrasuhteisiin, valtion virkatalojen ja niistä muodostettujen pää- eli kantatilojen sekä viljelys- ja asuntotilojen vuokralle antamisesta 30 päivänä maaliskuuta 1922 annettu laki (74/22), sikäli kuin se koskee metsähallituksen hallintoon jätettyjä virkatalojen alueita, se 17 päivänä maaliskuuta 1939 annettu tontinvuokralaki (75/39) ja tontinvuokrasopimuksen rekisteröimisestä samana päivänä annettu laki (76/39), niihin myöhemmin tehtyine lisäyksineen ja muutoksineen.
+
+Tätä lakia ei kuitenkaan 91 §:n säännöksiä lukuunottamatta sovelleta ennen lain voimaantuloa tehtyihin vuokrasopimuksiin. Jos asianosaiset haluavat pitentää tällaisessa sopimuksessa määrättyä vuokra-aikaa, on, jollei vuokrasuhteen pitentämisestä ja sen vaikutuksesta ole erikseen muuta säädetty, siitä sovittava tämän lain säännöksiä noudattamalla ja on vuokrasuhteeseen sen jälkeen sovellettava näitä säännöksiä.
+
+Tontinvuokrasopimuksen rekisteröimisestä annettua lakia on sovellettava ennen tämän lain voimaantuloa tehtyihin tontinvuokrasopimuksiin.
