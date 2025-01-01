@@ -6,7 +6,7 @@ Jos 11 §:n 1 momentin 1 kohdan mukaisen päivärahaetuuden tai kuntoutusrahan m
 
 2–3 momentit on kumottu L:lla 5.12.2024/693.
 
-Jos sairauspäivärahan tai vanhempainpäivärahan määrää vähennetään 12 luvussa säädetyn yhteensovituksen vuoksi tai kuntoutusrahaa Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 36 §:n 1 momentissa tai 37 taikka 39 §:n säädetyn yhteensovituksen vuoksi, tämä vähennys pienentää ensisijaisesti vakuutusmaksuilla rahoitettavaa osuutta.
+Jos sairauspäivärahan tai vanhempainpäivärahan määrää vähennetään 12 luvussa säädetyn yhteensovituksen vuoksi tai kuntoutusrahaa Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 36 §:n 1 momentissa tai 36 a, 37 tai 39 §:ssä säädetyn yhteensovituksen vuoksi, tämä vähennys pienentää ensisijaisesti vakuutusmaksuilla rahoitettavaa osuutta.
 
 Lisäksi valtion varoista rahoitetaan:
 1) kulut, jotka aiheutuvat 13 luvun 2 §:n 2 momentissa tarkoitetun sairaanhoidon ja muun terveydenhuollon korvaamisesta yrittäjälle ja muulle omaa työtään tekevälle; sekä

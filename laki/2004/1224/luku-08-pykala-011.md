@@ -2,7 +2,7 @@
 Osa: III OSA PÄIVÄRAHAETUUDET
 Luku: 8 luku Sairauspäiväraha ja osasairauspäiväraha
 
-Osasairauspäiväraha on tarkoitettu tukemaan 4 §:n mukaisesti työkyvyttömän 16–67-vuotiaan vakuutetun pysymistä työelämässä ja paluuta kokoaikaiseen työhön.
+Osasairauspäiväraha on tarkoitettu tukemaan 4 §:n mukaisesti työkyvyttömän 18–67-vuotiaan vakuutetun pysymistä työelämässä ja paluuta kokoaikaiseen työhön.
 
 Työntekijällä tai yrittäjällä, joka on 4 §:n mukaisesti työkyvytön, on oikeus osasairauspäivärahaan 7 §:ssä tarkoitetun omavastuuajan jälkeen tai osasairauspäivärahaa välittömästi edeltäneen sairauspäivärahan tai kuntoutusrahan jälkeen tässä pykälässä säädettyjen edellytysten täyttyessä. Työskentely omavastuuajalla 3 momentissa tarkoitetulla tavalla ei estä omavastuuajan kulumista.
 
