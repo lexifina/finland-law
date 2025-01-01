@@ -1,0 +1,8 @@
+# 56 § Viranomaiset
+Luku: 9 luku Viranomaiset ja valvonta
+
+Ajoneuvoveron veronkantoviranomaisena toimii Liikenne- ja viestintävirasto. Kiinteän veron ja kulutusveron veronkantoviranomaisena toimii kuitenkin Tulli. Ahvenanmaan maakunnassa veronkantoviranomaisena on Ahvenanmaan valtionvirasto, johon sovelletaan, mitä tässä laissa säädetään Liikenne- ja viestintävirastosta.
+
+Liikenne- ja viestintävirasto, Tulli ja Ahvenanmaan maakunnassa rekisteröityjen ajoneuvojen osalta Ahvenanmaan valtionvirasto toimittavat veron maksuunpanon ja huolehtivat veron perimisestä ja muista verotukseen liittyvistä toimenpiteistä sekä käsittelevät ajoneuvoverotusta koskevat hakemus- ja muut asiat. Liikenne- ja viestintävirasto käsittelee kuitenkin myös Ahvenanmaan valtionviraston kantamia veroja koskevat lykkäys- ja huojennusasiat.
+
+Veronkantoviranomainen voi tehdä sopimuksen veronkantoon liittyvän avustavan puhelinpalvelun siirtämisestä muun kuin viranomaisen hoidettavaksi. Avustavalla puhelinpalvelulla tarkoitetaan tiedon välittämistä verovelvollisille ajoneuvoveroa koskevan lainsäädännön ja ohjeiden sisällöstä, ajoneuvojen verotusta koskevien tietojen antamista liikenneasioiden rekisteristä sekä verovelvollisten ilmoitusten vastaanottamista, tallentamista ja välittämistä edelleen veroviranomaisille. Avustavaa puhelinpalvelua hoitavaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen hoitaessaan tätä tehtävää. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974). Avustavassa puhelinpalvelussa ei hoideta tehtäviä, joihin kuuluu verotusta koskevan päätöksentekovallan käyttöä. Sopimus avustavasta puhelinpalvelusta ei vaikuta veronkantoviranomaiselle kuuluviin tehtäviin tai viranomaisen velvollisuuksiin.
