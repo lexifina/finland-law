@@ -1,5 +1,5 @@
 # 42 § Korvauksen takaisinperintä
-Luku: 7 luku Muutoksenhaku ja takaisinperintä
+Luku: 7 luku Muutoksenhaku, itseoikaisu ja takaisinperintä
 
 Jos korvausta on maksettu aiheettomasti, Valtiokonttorin on korvauksen saajaa kuultuaan velvoitettava tämä maksamaan aiheettomasti maksettu korvaus takaisin.
 

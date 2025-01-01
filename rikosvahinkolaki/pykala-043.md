@@ -1,5 +1,5 @@
 # 43 § Takaisinperintää koskevan päätöksen täytäntöönpano
-Luku: 7 luku Muutoksenhaku ja takaisinperintä
+Luku: 7 luku Muutoksenhaku, itseoikaisu ja takaisinperintä
 
 Takaisinperintää koskeva Valtiokonttorin lainvoimainen päätös pannaan täytäntöön niin kuin lainvoimainen tuomio.
 
