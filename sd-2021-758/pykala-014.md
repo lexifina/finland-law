@@ -7,4 +7,6 @@ Avustus maksetaan 8 ja 11 §:ssä tarkoitettujen kustannusten, myöntämispäät
 
 Avustuksesta voidaan maksaa ennakkoa, jos se on avustuksen käytön kannalta perusteltua sekä sen käytön valvonnan kannalta tarkoituksenmukaista. Ennakko voidaan maksaa avustuspäätöksen perusteella. Julkisyhteisöille ennakkoa voidaan maksaa vain, jos siihen on erityisiä syitä.
 
+Poiketen siitä, mitä 1–3 momentissa säädetään, yritysten kehittämispalvelujen tuottaja laskuttaa sopimukseen perustuvan 8 a §:n 2 momentin mukaisen avustusosuuden sähköisesti siihen tarkoitetussa verkkopalvelussa.
+
 Tarkempia säännöksiä avustuksen maksamisesta ja ennakkoa koskevasta menettelystä voidaan antaa valtioneuvoston asetuksella.

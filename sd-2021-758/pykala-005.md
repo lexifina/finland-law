@@ -1,5 +1,5 @@
 # 5 § Yrityksen kehittämisavustuksen myöntäminen
-Luku: 2 luku Yrityksen kehittämisavustus
+Luku: 2 luku Yrityksen kehittämisavustus ja avustus yritysten kehittämispalveluihin
 
 Yrityksen kehittämisavustus on harkinnanvarainen avustus, jota voidaan myöntää innovatiivisiin, kasvuun tai kansainvälistymiseen liittyviin kehittämistoimenpiteisiin sekä aineellisiin ja aineettomiin investointeihin.
 
