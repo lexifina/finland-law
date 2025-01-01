@@ -10,4 +10,4 @@ Työkyvyttömyyseläkehakemuksessa on ilmoitettava 56 §:n 1 momentissa tarkoite
 
 Työkyvyttömyyseläkehakemukseen on liitettävä lääkärinlausunto, joka sisältää hoito- tai kuntoutussuunnitelman. Kansaneläkelaitos voi myös omalla kustannuksellaan hankkia lääkärinlausunnon, jos hakija on hoidettavana sairaalassa tai laitoksessa taikka jos siihen on muu erityinen syy. Kansaneläkelaitos antaa tarkemmat määräykset siitä, mitä lääkärinlausunnossa tulee käydä ilmi.
 
-Työkyvyttömyyseläkkeensaajan on sen lisäksi, mitä 56 §:n 2–4 momentissa säädetään, ilmoitettava Kansaneläkelaitokselle terveydentilansa tai työkykynsä olennaisesta paranemisesta, saamastaan ammattiopetuksesta, ryhtymisestään työhön ja kuntoutuksen keskeyttämisestä.
+Työkyvyttömyyseläkkeensaajan on sen lisäksi, mitä 56 §:n 2, 4 ja 5 momentissa säädetään, ilmoitettava Kansaneläkelaitokselle terveydentilansa tai työkykynsä olennaisesta paranemisesta, saamastaan ammattiopetuksesta, ryhtymisestään työhön ja kuntoutuksen keskeyttämisestä.

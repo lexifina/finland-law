@@ -7,7 +7,7 @@ Etuuden maksaminen voidaan väliaikaisesti keskeyttää osittain tai kokonaan, j
 Etuuden maksaminen voidaan keskeyttää väliaikaisesti, jos etuudensaaja ei pyynnöstä huolimatta toimita maksuosoitetta.
 
 Eläkkeen maksaminen keskeytetään, jos:
-1) ulkomailla asuva eläkkeensaaja ei ole vastannut hänelle 56 §:n 4 momentin perusteella lähetettyyn olosuhteiden selvityspyyntöön määräajassa;
+1) ulkomailla asuva eläkkeensaaja ei ole vastannut hänelle 56 §:n 5 momentin perusteella lähetettyyn olosuhteiden selvityspyyntöön määräajassa;
 2) eläkkeensaaja ei ole palauttanut hänelle 24 §:n 3 momentin perusteella lähetettyä tarkistushakemusta määräajassa; tai
 3) täydennysmäärän saaja ei ole palauttanut hänelle 36 §:n 1 momentin perusteella lähetettyä tarkistushakemusta määräajassa.
 

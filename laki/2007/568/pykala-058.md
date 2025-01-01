@@ -13,6 +13,6 @@ Leskeneläkehakemuksessa tulee myös selvittää, onko hakijalla yhteistä alle 
 
 Jos leskeneläkettä haetaan 26 §:n 1 momentin 2 kohdan perusteella, hakemuksessa on lisäksi selvitettävä lesken ja edunjättäjän yhteistalouden kesto.
 
-Leskeneläkkeensaajan on sen lisäksi, mitä 56 §:n 2 ja 4 momentissa säädetään, ilmoitettava Kansaneläkelaitokselle eläkkeeseen vaikuttavien tulojen muutoksesta ja tämän lain mukaisen työkyvyttömyys- tai vanhuuseläkkeen taikka näitä vastaavan ulkomailta maksettavan eläkkeen myöntämisestä.
+Leskeneläkkeensaajan on sen lisäksi, mitä 56 §:n 2, 4 ja 5 momentissa säädetään, ilmoitettava Kansaneläkelaitokselle eläkkeeseen vaikuttavien tulojen muutoksesta ja tämän lain mukaisen työkyvyttömyys- tai vanhuuseläkkeen taikka näitä vastaavan ulkomailta maksettavan eläkkeen myöntämisestä.
 
 Ulkomailla asuvan lesken on toimitettava hakemuksen liitteeksi virkatodistus tai muu vastaava selvitys.
