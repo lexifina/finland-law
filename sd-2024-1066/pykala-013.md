@@ -1,0 +1,8 @@
+# 13 § Säännellyn yhteisön vaihtuminen
+Luku: 3 luku Säännellyn yhteisön toiminnan muutos
+
+Jos päästöluvan saaneen säännellyn yhteisön tilalle tulee toinen säännelty yhteisö, on viimeksi mainitun ilmoitettava asiasta Energiavirastolle ennakkoon tai viimeistään viipymättä säännellyn yhteisön vaihduttua. Energiaviraston on ilmoituksen johdosta tehtävä päätös päästöluvan ja päästöjen tarkkailusuunnitelman siirtämisestä uudelle säännellylle yhteisölle. Päätös on tehtävä 30 päivän kuluessa siitä, kun ilmoitus ja tarpeelliset selvitykset on toimitettu Energiavirastolle, tai 30 päivän kuluessa säänneltyjen yhteisöjen sopimasta myöhemmästä vaihtumisen ajankohdasta.
+
+Jos päästölupaan sisältyvästä toiminnasta ainoastaan osa siirtyy 1 momentissa tarkoitetulle toiselle säännellylle yhteisölle, sovelletaan päästöluvan myöntämistä ja muuttamista sekä päästöjen tarkkailusuunnitelman hyväksymistä ja muuttamista koskevia säännöksiä. Energiaviraston on ilmoituksen johdosta tehtävä päätös luvan myöntämisestä ja muuttamisesta sekä päätös päästöjen tarkkailusuunnitelman hyväksymisestä ja muuttamisesta 30 päivän kuluessa siitä, kun ilmoitus ja tarpeelliset selvitykset ja suunnitelmat on sille toimitettu, tai 30 päivän kuluessa säänneltyjen yhteisöjen sopimasta myöhemmästä vaihtumisen ajankohdasta.
+
+Edellä 1 momentissa tarkoitettu tilalle tullut säännelty yhteisö vastaa kaikista säännellylle yhteisölle tässä laissa säädetyistä velvollisuuksista sekä Energiaviraston määräämien lupaehtojen ja päästöjen tarkkailua koskevien vaatimusten täyttämisestä siitä alkaen, kun päästölupa ja tarkkailusuunnitelma on siirretty taikka päästölupa on myönnetty ja päästöjen tarkkailusuunnitelma hyväksytty.
