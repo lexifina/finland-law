@@ -11,5 +11,3 @@ Potilasvakuutuskeskuksella on oikeus saada Verohallinnolta 1 momentin 1 kohdassa
 Edellä 1 momentissa tarkoitettu Potilasvakuutuskeskuksen tiedonsaantioikeus edellyttää, että tiedot ovat välttämättömiä käsiteltävänä olevan korvausasian ratkaisemista varten tai muuten välttämättömiä tässä laissa säädettyjen tehtävien hoitamiseksi.
 
 Potilasvakuutuskeskuksella on velvollisuus maksaa 1 momentin 3 kohdassa tarkoitettujen tietojen toimittamisesta kuluja vastaava kohtuullinen korvaus, ellei kysymys ole tietojen saannista siltä terveyden- ja sairaanhoidon harjoittajalta, jonka antamaa hoitoa vahinkoasia koskee. Potilasvakuutuskeskuksen pyytämistä lausunnoista on lausunnon antajalla kuitenkin oikeus saada kohtuullinen palkkio.
-
-Tässä pykälässä tarkoitettuja tietoja saa hakea teknisen käyttöyhteyden avulla ilman sen suostumusta, jonka etujen suojaamiseksi salassapitovelvollisuus on säädetty. Ennen teknisen käyttöyhteyden avaamista on varmistuttava tietojen asianmukaisesta suojaamisesta.

@@ -4,9 +4,9 @@ Luku: 5 luku Jakojärjestelmä
 Potilasvakuutusta harjoittavien vakuutusyhtiöiden on osallistuttava vuosittain Potilasvakuutuskeskuksen kunakin kalenterivuonna maksamien, 2 momentissa tarkoitettujen kustannusten kattamiseen vakuutusmaksutulon mukaisessa suhteessa siten kuin tässä luvussa säädetään (jakojärjestelmä). Vakuutusmaksutulolla tarkoitetaan tässä pykälässä vakuutusyhtiön tuloslaskelmaan sisältyvää potilasvakuutuksen vakuutusmaksutuloa.
 
 Jakojärjestelmällä katettavat kustannukset (jakojärjestelmäkustannukset) ovat:
-1) Potilasvakuutuskeskuksen 22 §:n 3 momentin mukaisesti maksamista vahinkotapahtumista aiheutuneet kustannukset ilman 2–4 kohdassa tarkoitettuja korvauksia, josta määrästä on vähennetty 19 ja 20 §:n nojalla saadut maksut;
+1) Potilasvakuutuskeskuksen 22 §:n 3 momentin mukaisesti maksamista vahinkotapahtumista ja niiden hoitamisesta aiheutuneet kustannukset ilman tämän momentin 2–4 kohdassa tarkoitettuja korvauksia sekä 19 ja 20 §:n mukaisten maksujen esittämisestä, laskuttamisesta ja perimisestä aiheutuvat kustannukset, joista on vähennetty 19 ja 20 §:n nojalla saadut maksut;
 2) 28 §:ssä tarkoitetut jatkuviin korvauksiin liittyvät indeksitarkistukset;
-3) tämän lain mukaan korvattavat vahingonkorvauslain 5 luvun 2 §:ssä tarkoitetut tarpeellisen sairaanhoidon kustannukset ja muut tarpeelliset kulut, jotka maksetaan, kun vahinkotapahtuman sattumispäivää seuraavan kalenterivuoden alusta on kulunut yli yhdeksän vuotta;
+3) tämän lain mukaan korvattavat vahingonkorvauslain 5 luvun 2 §:ssä tarkoitetut tarpeellisen sairaanhoidon kustannukset, jotka maksetaan, kun vahinkotapahtuman sattumispäivää seuraavan kalenterivuoden alusta on kulunut yli yhdeksän vuotta;
 4) korvaukset suurvahingosta siten kuin 4 momentissa säädetään.
 
 Edellä 2 momentin 4 kohdassa suurvahingolla tarkoitetaan ajallisesti ja paikallisesti rajoittunutta tapahtumaa tai samaa alkuperää olevaa tapahtumasarjaa, jonka seurauksena potilasvakuutuksen perusteella maksettuja korvauksia maksetaan yhdelle tai useammalle vahinkoa kärsineelle tai muulle korvaukseen oikeutetulle yhteensä yli 20 000 000 euroa (suurvahinkoraja).
