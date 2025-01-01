@@ -1,6 +1,6 @@
 # 3 § Hyväksymisen hakeminen
 
-Hyväksymistä on haettava kirjallisesti työ- ja elinkeinoministeriöltä.
+Hyväksymistä on haettava kirjallisesti kehittämis- ja hallintokeskukselta.
 
 Hakemuksesta tulee ilmetä, mitä tehtäviä hakijan on tarkoitus verkostossa hoitaa.
 
