@@ -1,0 +1,2 @@
+Laki Liikennevakuutuskeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
