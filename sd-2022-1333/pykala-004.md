@@ -1,6 +1,6 @@
 # 4 § Korvauksen yleiset edellytykset
 
-Edellä 3 §:n 1 momentissa tarkoitetun korvauksen saajan tulee noudattaa suunnitelma-asetuksen 12 ja 13 artiklassa sekä mainitun asetuksen liitteessä III tarkoitettuja ehdollisuuden vaatimuksia lukuun ottamatta 3 §:n 1 momentin 3 kohdassa tarkoitetun ei-tuotannollisten investointien korvauksen saajaa.
+Edellä 3 §:n 1 momentissa tarkoitetun korvauksen saajan tulee noudattaa suunnitelma-asetuksen 12 ja 13 artiklassa ja mainitun asetuksen liitteessä III tarkoitettuja ehdollisuuden vaatimuksia sekä suunnitelma-asetuksen 14 artiklassa ja mainitun asetuksen liitteessä IV tarkoitettuja sosiaalisen ehdollisuuden vaatimuksia lukuun ottamatta 3 §:n 1 momentin 3 kohdassa tarkoitetun ei-tuotannollisten investointien korvauksen saajaa.
 
 Ympäristökorvauksen, luonnonmukaisen tuotannon korvauksen ja luonnonhaittakorvauksen edellytyksenä on lisäksi, että korvauksen saaja noudattaa valitsemiensa toimenpiteiden mukaisesti Euroopan unionin suorista viljelijätuista annetun lain 5 §:ssä tarkoitettua maataloustoiminnan vaatimusta sekä suunnitelma-asetuksen 70 artiklan 3 kohdan b alakohdassa tarkoitettuja lannoitteiden ja kasvinsuojeluaineiden käyttöä koskevia vähimmäisvaatimuksia.
 
