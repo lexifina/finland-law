@@ -2,9 +2,9 @@
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
 Luku: 3 luku Pääomatulosta tehtävät vähennykset
 
-Metsälahjavähennykseen sovelletaan Euroopan unionin toiminnasta tehdyn sopimuksen 107 ja 108 artiklan soveltamisesta vähämerkityksiseen tukeen annettua komission asetusta (EU) N:o 1407/2013.
+Metsälahjavähennykseen sovelletaan Euroopan unionin toiminnasta tehdyn sopimuksen 107 ja 108 artiklan soveltamisesta vähämerkityksiseen tukeen annettua komission asetusta (EU) 2023/2831.
 
-Tuensaajan saamien kaikkien vähämerkityksisten tukien yhteismäärä verovuoden ja kahden edellisen verovuoden aikana ei saa ylittää 200 000 euroa.
+Tuensaajan saamien kaikkien vähämerkityksisten tukien yhteismäärä kolmen vuoden aikana ei saa ylittää 300 000 euroa.
 
 Tuensaajana pidetään metsämaan omistajaa.
 
