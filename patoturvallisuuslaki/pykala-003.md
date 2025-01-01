@@ -7,8 +7,8 @@ Jätepatoihin sovelletaan tämän lain lisäksi, mitä ympäristönsuojelulaissa
 
 Kaivosturvallisuudesta on lisäksi voimassa, mitä kaivoslaissa (503/1965) ja sen nojalla säädetään.
 
-Patoihin sovelletaan tämän lain lisäksi, mitä maankäyttö- ja rakennuslaissa (132/1999) säädetään rakennusten, rakennelmien ja toimenpiteiden luvanvaraisuudesta.
+Patoihin sovelletaan tämän lain lisäksi, mitä rakentamislaissa (751/2023) säädetään rakennuskohteiden luvanvaraisuudesta.
 
 Pelastustoiminnan järjestelyistä säädetään pelastuslaissa (468/2003).
 
-Tämän lain säännökset on otettava huomioon vesilain, ympäristönsuojelulain sekä maankäyttö- ja rakennuslain mukaista padon rakentamista ja käyttöä koskevaa viranomaispäätöstä tehtäessä.
+Tämän lain säännökset on otettava huomioon vesilain, ympäristönsuojelulain, alueidenkäyttölain (132/1999) ja rakentamislain mukaista padon rakentamista ja käyttöä koskevaa viranomaispäätöstä tehtäessä.
