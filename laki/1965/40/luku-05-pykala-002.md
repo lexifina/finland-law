@@ -6,5 +6,3 @@ Valtiokonttori voi päättää, jos se havaitaan olosuhteisiin katsoen kohtuulli
 Omaisuutta ei voida luovuttaa 1 momentissa säädetyin tavoin, jos sen pysyttämiseen valtion omistuksessa tai sen käyttämiseen muulla tavoin on erityistä syytä. Tämä ei kuitenkaan estä omaisuuden luovuttamista perittävän läheiselle, jos voidaan perustellusti otaksua, että luovutus vastaisi perittävän viimeistä tahtoa.
 
 Mitä 1 ja 2 momenteissa on säädetty, sovelletaan myös omaisuuteen, joka on luovutettu valtiolle Ahvenanmaan itsehallintolain (1144/91) 63 §:n nojalla.
-
-Jos jäämistön varojen ja velkojen erotus (perunkirjoitusarvo) tai 3 momentissa tarkoitetun omaisuuden arvo on asetuksella säädettävää markkamäärää suurempi, 1, 2 ja 3 momentissa tarkoitetun päätöksen tekee valtioneuvosto.
