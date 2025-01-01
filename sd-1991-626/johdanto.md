@@ -1,0 +1,2 @@
+Laki liikennevakuutuslain perusteella korvattavasta kuntoutuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
