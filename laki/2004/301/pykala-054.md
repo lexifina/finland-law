@@ -4,7 +4,7 @@ Väliotsikko: Edellytykset jatkoluvan ja pysyvän oleskeluluvan myöntämiseksi
 
 Uusi määräaikainen oleskelulupa myönnetään, jos edellytykset, joiden perusteella ulkomaalaiselle myönnettiin edellinen määräaikainen oleskelulupa, ovat edelleen olemassa.
 
-Jos ulkomaalainen on saanut oleskeluluvan kansainvälisen suojelun perusteella, uusi määrä-aikainen oleskelulupa myönnetään, jollei esille tulleiden seikkojen perusteella vaikuta ilmeiseltä, etteivät edellytykset, joiden perusteella ulkomaalaiselle myönnettiin edellinen määräaikainen oleskelulupa, ole edelleen voimassa.
+Jos ulkomaalainen on saanut oleskeluluvan kansainvälisen suojelun perusteella, uusi määräaikainen oleskelulupa myönnetään, jollei asiassa ilmene 107 tai 108 §:n mukaisia perusteita pakolaisaseman tai toissijaisen suojeluaseman lakkauttamiselle tai peruuttamiselle.
 
 Ulkomaalaiselle, jolle on myönnetty tilapäinen oleskelulupa 45 §:n 1 momentin perusteella työntekoa tai yritystoiminnan harjoittamista varten, myönnetään kahden vuoden yhtäjaksoisen maassa oleskelun jälkeen jatkuva oleskelulupa, jos luvan myöntämisen edellytykset ovat edelleen olemassa.
 

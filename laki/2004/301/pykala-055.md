@@ -1,7 +1,7 @@
 # 55 § Jatkoluvan pituus
 Luku: 4 luku Oleskelu
 
-Uusi määräaikainen oleskelulupa myönnetään enintään neljäksi vuodeksi.
+Uusi määräaikainen oleskelulupa myönnetään enintään neljäksi vuodeksi. Uusi määräaikainen oleskelulupa pakolaisuuden perusteella myönnetään kolmeksi vuodeksi. Uusi määräaikainen oleskelulupa toissijaisen suojelun perusteella myönnetään kahdeksi vuodeksi.
 
 Edellä 54 §:n 3 ja 5 momentissa tarkoitetuissa tapauksissa, kun oleskeluluvan peruste muuttuu tilapäisestä jatkuvaksi, oleskeluluvan pituuteen sovelletaan ensimmäisen määräaikaisen oleskeluluvan pituutta koskevan 53 §:n säännöksiä.
 

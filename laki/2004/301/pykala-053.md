@@ -13,7 +13,7 @@ Vieraan valtion diplomaatti- tai konsuliedustuston henkilökuntaan kuuluvalle ja
 
 Ihmiskaupan uhrille ja 52 d §:ssä tarkoitetulle laittomasti maassa oleskelleelle ja työskennelleelle kolmannen maan kansalaiselle oleskelulupa myönnetään vähintään kuudeksi kuukaudeksi ja enintään yhdeksi vuodeksi.
 
-Oleskelulupa pakolaisuuden ja toissijaisen suojelun perusteella myönnetään neljäksi vuodeksi.
+Oleskelulupa pakolaisuuden perusteella myönnetään kolmeksi vuodeksi.
 
 Ulkomaalaiselle, joka on todistajansuojeluohjelmasta annetun lain mukaisessa todistajansuojeluohjelmassa, ja ulkomaalaiselle, joka otetaan Suomeen tämän lain 93 §:n nojalla tehdyn valtioneuvoston päätöksen perusteella ja jolle päätetään myöntää jatkuva oleskelulupa 113 §:n 1 momentin perusteella, myönnetään määräaikainen oleskelulupa neljäksi vuodeksi.
 

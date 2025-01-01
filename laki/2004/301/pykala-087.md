@@ -9,6 +9,12 @@ Turvapaikka jätetään antamatta ulkomaalaiselle, joka on tehnyt tai jonka on p
 2) törkeän muun kuin poliittisen rikoksen Suomen ulkopuolella ennen kuin hän tuli Suomeen pakolaisena; taikka
 3) Yhdistyneiden kansakuntien tarkoitusperien ja periaatteiden vastaisen teon.
 
+Mitä edellä 2 momentissa säädetään, sovelletaan myös ulkomaalaisiin, jotka yllyttävät siinä mainittuihin rikoksiin tai tekoihin tai muulla tavoin osallistuvat niiden suorittamiseen.
+
 Turvapaikka jätetään antamatta henkilölle, joka voi saada suojelua tai apua muilta Yhdistyneiden kansakuntien elimiltä tai toimistoilta kuin Yhdistyneiden kansakuntien pakolaisasiain päävaltuutetulta (UNHCR). Kun sellainen suojelu tai apu on lakannut ilman, että sellaisen henkilön asemaa on lopullisesti säännelty Yhdistyneiden kansakuntien yleiskokouksen hyväksymien voimassa olevien päätöslauselmien mukaisesti, sellainen henkilö on oikeutettu pakolaisasemaan. Jos henkilö on vapaaehtoisesti luopunut edellä mainitusta suojelusta poistumalla suoja-alueelta muista kuin suojelun tarpeeseen liittyvistä syistä, hänen oleskeluoikeutensa tutkitaan tämän lain mukaan.
 
 Turvapaikka jätetään antamatta ulkomaalaiselle, jolla on sen valtion, johon hän on asettunut asumaan, toimivaltaisten viranomaisten tunnustamat tämän valtion kansalaisuuteen liittyvät oikeudet ja velvollisuudet.
+
+Turvapaikka jätetään antamatta, jos:
+1) on perusteltua syytä olettaa, että ulkomaalainen on vaaraksi kansalliselle turvallisuudelle; taikka
+2) ulkomaalainen on yhteiskunnalle vaarallinen, koska hänet on lainvoiman saaneella tuomiolla tuomittu erityisen törkeästä rikoksesta.
