@@ -10,7 +10,7 @@ Esitutkintaviranomaiselle voidaan antaa lupa kohdistaa telekuuntelua rikoksesta 
 3) valtiopetoksesta, törkeästä valtiopetoksesta tai valtiopetoksen valmistelusta;
 4) törkeästä lasta seksuaalisesti esittävän kuvan levittämisestä;
 5) lapsenraiskauksesta, törkeästä lapsenraiskauksesta, seksuaalisesta kajoamisesta lapseen, törkeästä seksuaalisesta kajoamisesta lapseen tai lapsen seksuaalisesta hyväksikäytöstä;
-6) taposta, murhasta, surmasta, törkeästä pahoinpitelystä tai rikoslain 21 luvun 6 a §:ssä tarkoitetusta mainitun luvun 1, 2 tai 3 §:n mukaisesta törkeän henkeen tai terveyteen kohdistuvan rikoksen valmistelusta;
+6) taposta, murhasta, surmasta, törkeästä pahoinpitelystä, naisen sukuelinten silpomisesta tai rikoslain 21 luvun 6 a §:ssä tarkoitetusta mainitun luvun 1, 2 tai 3 §:n mukaisesta törkeän henkeen tai terveyteen kohdistuvan rikoksen valmistelusta;
 7) törkeästä laittoman maahantulon järjestämisestä, törkeästä vapaudenriistosta, ihmiskaupasta, törkeästä ihmiskaupasta, panttivangin ottamisesta tai panttivangin ottamisen valmistelusta;
 8) törkeästä ryöstöstä, törkeän ryöstön valmistelusta tai törkeästä kiristyksestä;
 9) törkeästä kätkemisrikoksesta, ammattimaisesta kätkemisrikoksesta tai törkeästä rahanpesusta;

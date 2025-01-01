@@ -8,3 +8,5 @@ Jos syytteen nostamiselle määrätty aika osoittautuu liian lyhyeksi, tuomioist
 Jos tuomioistuin harkitsee soveliaaksi, määräajan pidentämistä koskevan asian käsittelyssä voidaan käyttää 6 §:n 4 momentissa tarkoitettua teknistä tiedonvälitystapaa. Jos tuomioistuin pitää sitä tarpeellisena, vangittu on kuitenkin tuotava tuomioistuimeen.
 
 Vangittua vastaajaa koskevan syyteasian tuomioistuinkäsittelyssä noudatettavista määräajoista säädetään oikeudenkäynnistä rikosasioissa annetussa laissa (689/1997).
+
+Asian käsittelyyn sovelletaan lisäksi, mitä oikeudenkäymiskaaren 2 luvun 15 §:ssä, 16 §:n 1 momentissa ja 17 §:ssä säädetään.
