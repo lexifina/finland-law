@@ -1,0 +1,8 @@
+# 24 § Valtuuston muodostaminen kesken vaalikauden
+Luku: 6 luku Vaalien toimittaminen ja uuden kunnan hallinnon järjestäminen
+
+Uuden kunnan valtuuston muodostamiseksi muutoksen kohteena olevissa kunnissa toimitetaan uudet kuntavaalit. Kunnat voivat yhdistymissopimuksessa sopia vaalien toimittamisesta kuntien yhdistymisen voimaantuloa edeltävänä vuonna vaalilain 144 §:ssä säädetystä ajankohdasta poiketen. Vaaleja ei voida toimittaa ennen kuin valtioneuvosto on päättänyt kuntien yhdistymisestä. Kuntien on ilmoitettava vaalien ajankohdasta oikeusministeriölle viipymättä valtioneuvoston tehtyä päätöksen. Vaaleissa noudatetaan, mitä varsinaisista kuntavaaleista säädetään. Valtuutettujen toimikausi kestää kuntavaalikauden loppuun. Jos vaalit toimitetaan kuntavaalikauden viimeisenä vuotena, valtuutettujen toimikausi kestää seuraavan vaalikauden loppuun.
+
+Yhdistyvät kunnat voivat 1 momentin estämättä sopia yhdistymissopimuksessa, että niiden valtuustot yhdistetään uuden kunnan valtuustoksi kuntavaalikauden loppuun kestäväksi toimikaudeksi.
+
+Yhdistyvät kunnat voivat 1 momentin estämättä myös sopia yhdistymissopimuksessa, että niiden valtuustot yhdistyvät osittain uuden kunnan valtuustoksi kuntavaalikauden loppuun kestäväksi toimikaudeksi. Tällöin yhdistyvien kuntien valtuustot päättävät, montako valtuustopaikkaa kustakin kunnasta tulee uuden kunnan valtuustoon. Uuden kunnan valtuustoon tulee kuitenkin aina vähintään neljäsosa kunkin yhdistyvän kunnan valtuutetuista. Kustakin kunnasta valtuustoon tulevat valtuutetut ja varavaltuutetut määräytyvät heille edellisissä kuntavaaleissa vaalilain 89 §:n mukaisesti annettujen vertauslukujen suuruuden mukaisessa järjestyksessä.

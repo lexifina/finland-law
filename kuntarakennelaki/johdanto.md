@@ -1,0 +1,2 @@
+Kuntarakennelaki
+Eduskunnan päätöksen mukaisesti säädetään:
