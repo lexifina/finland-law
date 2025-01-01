@@ -1,0 +1,4 @@
+# 5 a § Lyhennetty työaika
+Luku: 2 luku Säännöllinen työaika ja työajan sijoittaminen
+
+Jos työntekijä siirtyäkseen osittaiselle varhennetulle vanhuuseläkkeelle haluaa tehdä säännöllistä työaikaa lyhyemmän ajan työtä, työnantajan on ensisijaisesti järjestettävä työt niin, että työntekijä voi tehdä osa-aikatyötä. Vastaavasti työnantajan on järjestettävä työt osa-aikatyön mahdollistavalla tavalla silloin, kun 55 vuotta täyttänyt, työnantajan palveluksessa vähintään kolme vuotta ollut työntekijä haluaa lyhentää säännöllistä työaikaansa. Työajan lyhentäminen toteutetaan työnantajan ja työntekijän sopimalla tavalla ottaen huomioon työntekijän tarpeet sekä työnantajan tuotanto- ja palvelutoiminta.

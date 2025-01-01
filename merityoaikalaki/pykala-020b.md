@@ -1,0 +1,12 @@
+# 20 b § Säännösten pakottavuus ja poikkeaminen työehtosopimuksella
+Luku: 5 luku Täydentäviä säännöksiä
+
+Työnantajalla tai työnantajien yhdistyksellä sekä työntekijöiden valtakunnallisella yhdistyksellä tai tämän jäsenyhdistyksellä on sen lisäksi, mitä tässä laissa säädetään, oikeus sopia toisin siitä, mitä 3–9, 12, 14, 19 ja 19 a §:ssä säädetään. Säännöllinen viikoittainen työaika ei kuitenkaan saa keskimäärin ylittää 40 tuntia enintään 52 viikon ajanjakson aikana.
+
+Edellä 1 momentissa tarkoitettuja työehtosopimuksen määräyksiä työnantaja saa soveltaa niidenkin työntekijöiden työsuhteissa, jotka eivät ole työehtosopimukseen sidottuja mutta joiden työsuhteissa muutoin noudatetaan työehtosopimuksen määräyksiä. Edellä tarkoitettuja määräyksiä saadaan noudattaa työehtosopimuksen lakkaamisen jälkeen uuden työehtosopimuksen voimaantuloon saakka niissä työsuhteissa, joissa määräyksiä saataisiin soveltaa, jos työehtosopimus olisi edelleen voimassa. Jos uutta työehtosopimusta ei tehdä kuuden kuukauden kuluessa edellisen lakkaamisesta, molemmilla sopijapuolilla on oikeus ilmoittaa, että työehtosopimuksen edellä tarkoitettujen määräysten soveltaminen on lopetettava kahden viikon kuluttua ilmoituksesta tai, jos se säännöllisen työajan tasoittumisen vuoksi on tarpeen, tuolloin kuluvan tasoittumisjakson päättyessä.
+
+Mitä tässä pykälässä säädetään työnantajasta ja työnantajien yhdistyksestä, sovelletaan vastaavasti valtion neuvotteluviranomaiseen tai muuhun valtion sopimusviranomaiseen. Edellä 1 momentissa säädetystä poiketen 1 momentissa tarkoitetun sopimuksen voivat tehdä:
+1) kuntien ja hyvinvointialueiden työnantajaedunvalvonnan järjestämisestä annetussa laissa (630/2021) tarkoitettujen jäsenyhteisöjen osalta Kunta- ja hyvinvointialuetyönantajat KT sekä valtakunnallinen työntekijäyhdistys;
+2) Ahvenanmaan maakunta- ja kuntahallinnon osalta Ahvenanmaan maakunnan hallitus ja Ahvenanmaan maakunnan kunnallinen sopimusvaltuuskunta sekä valtakunnallinen työntekijäyhdistys.
+
+Työehtosopimuksen määräys, jolla heikennetään Suomea sitovissa kansainvälisissä sopimuksissa määriteltyjä tai Euroopan unionin säädösten mukaisia työntekijöiden etuja vastaavia etuja, on mitätön. Tällaisen määräyksen sijasta on noudatettava kansainvälisen sopimuksen määräyksiä tai Euroopan unionin säädöksiä tai, jos se ei ole mahdollista, säännöksiä, joilla on saatettu voimaan kansainvälisen sopimuksen määräykset tai täytäntöönpantu Euroopan unionin säädökset.
