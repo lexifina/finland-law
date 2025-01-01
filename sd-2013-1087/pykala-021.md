@@ -1,0 +1,9 @@
+# 21 § Valtion vahingonkorvausvastuu
+
+Luonnonsuojelulain (9/2023) 43 §:ssä tarkoitetulta luonnonsuojelualueelta, 48 §:ssä tarkoitetulta määräaikaisesti rauhoitetulta alueelta, 64 §:ssä tarkoitetulta suojellun luontotyypin rajatulta esiintymisalueelta, 65 §:ssä tarkoitetulta tiukasti suojellun luontotyypin esiintymisalueelta, 77 §:ssä tarkoitetulta erityisesti suojeltavan eliölajin esiintymispaikalta, 81 §:ssä tarkoitetulta uutena tavatun eliölajin suojelemiseksi rajatulta esiintymispaikalta, 85 §:ssä tarkoitetulta erityisesti suojeltavan eliölajin avustetun leviämisen paikalta, 95 §:ssä tarkoitetun rauhoitetun luonnonmuistomerkin paikalta, 104 §:ssä tarkoitetulta hyvitysalueelta, 124 §:ssä tarkoitetulta toimenpidekieltoon asetetulta alueelta, valtiolle luonnonsuojelutarkoitukseen hankitulta alueelta sekä muulta sellaiselta valtion omistamalta alueelta, jota hoidetaan Metsähallituksen tai valtion maata hallinnoivan viranomaisen suojelupäätöksen mukaisesti, todennäköisesti levinneiden metsätuhojen aiheuttamat vahingot korvataan valtion varoista siten kuin jäljempänä säädetään. Syy-yhteyden todennäköisyyttä arvioitaessa on kiinnitettävä huomiota muun ohella vahingon laatuun ja vahingon mahdollisiin muihin syihin.
+
+Korvaus voidaan evätä tai sitä voidaan alentaa, jos vahingonkärsijä on myötävaikuttanut korvaushakemuksessa tarkoitetun vahingon laajenemiseen taikka ilman hyväksyttävää perustetta kieltänyt sellaisten toimenpiteiden suorittamisen, joilla olisi voitu estää vahingon laajeneminen.
+
+Maanomistajan on haettava 1 momentissa tarkoitettua korvausta ympäristöministeriölle osoitetulla hakemuksella, joka on jätettävä vahinkoalueen toimivaltaiselle Suomen metsäkeskuksen alueyksikölle. Suomen metsäkeskuksen alueyksikön on toimitettava hakemusasiakirjat ympäristöministeriölle korvauksen suuruutta ja myöntämisen edellytyksiä koskevalla lausunnolla täydennettynä.
+
+Vahingon korvaamisesta säädetään muutoin vahingonkorvauslaissa.
