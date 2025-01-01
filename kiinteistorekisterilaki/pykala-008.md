@@ -1,0 +1,5 @@
+# 8 §
+
+Jos kiinteistörekisteriin merkitty muu kuin sijaintia tai pinta-alaa koskeva tieto poikkeaa merkinnän perusteena olleessa toimitusasiakirjassa olevasta tiedosta tai merkintä on puutteellinen taikka jos muu kiinteistörekisterissä oleva edellä tarkoitettu tieto on väärä tai rekisteristä puuttuu muuhun kuin toimitusasiakirjoihin perustuva siihen merkittävä tieto, rekisterin pitäjän on korjattava rekisterissä oleva virhe. Kiinteistön sijaintia ja pinta-alaa koskevan tiedon kiinteistörekisterin pitäjä voi tarkentaa tai muuttaa luotettavan selvityksen perusteella.
+
+Tiedon korjaamisesta on tiedotettava asianomaisen kiinteistön omistajalle tai haltijalle, jos tiedolla, jota korjaus koskee, on omistajalle tai haltijalle oleellista merkitystä, eikä tiedon muuttamisesta ole hänelle aikaisemmin tiedotettu. Jos kiinteistön omistavat useat yhdessä tai jos oikaisu koskee kiinteistöjen yhteistä aluetta, riittää tiedon antaminen jollekulle kiinteistön omistajista tai haltijoista tai yhteisen alueen osakkaista.

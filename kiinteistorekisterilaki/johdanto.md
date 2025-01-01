@@ -1,0 +1,2 @@
+Kiinteistörekisterilaki
+Eduskunnan päätöksen mukaisesti säädetään:
