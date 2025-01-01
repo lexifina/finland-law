@@ -1,7 +1,7 @@
 # 1 §
 Väliotsikko: Yleiset säännökset
 
-Konkurssipesien hallinnon valvontaa varten on oikeusministeriön yhteydessä konkurssiasiamies.
+Konkurssipesien hallinnon valvontaa varten on oikeusministeriön hallinnonalalla konkurssiasiamies.
 
 Konkurssiasiamiehen tehtävänä on:
 1) seurata konkurssipesien toimintaa sekä aloittein, neuvoin ja ohjein edistää sekä kehittää hyvää pesänhoitotapaa;
