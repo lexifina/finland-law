@@ -7,4 +7,4 @@ Aluehallintovirasto voi määräämillään ehdoilla myöntää luvan:
 3) tehdä yötyötä työssä, joka on toiminnan luonteen vuoksi välttämätöntä tehdä yöllä ja jota ei voida vaikeuksitta tehdä pelkästään päiväsaikaan;
 4) poiketa 30 §:ssä säädetystä velvollisuudesta laatia työvuoroluettelo, jos sen laatiminen on työn epäsäännöllisen luonteen vuoksi erittäin vaikeaa.
 
-Jos aluehallintovirasto on myöntänyt työnantajalle 1 momentissa tarkoitetun luvan määräaikaisena eivätkä olosuhteet ole myöntämisen jälkeen olennaisesti muuttuneet, työnantaja ja 36 §:n 2 momentissa tarkoitettu työntekijöiden edustaja voivat sopia aluehallintoviraston myöntämän luvan tai vapautuksen jatkamisesta.
+Jos aluehallintovirasto on myöntänyt työnantajalle 1 momentissa tarkoitetun luvan määräaikaisena eivätkä olosuhteet ole myöntämisen jälkeen olennaisesti muuttuneet, työnantaja ja luottamusmies tai, jollei luottamusmiestä ole valittu, luottamusvaltuutettu tai muu henkilöstön valtuuttama edustaja tai, jollei tällaista ole valittu, henkilöstö tai henkilöstöryhmä yhdessä voivat sopia aluehallintoviraston myöntämän luvan tai vapautuksen jatkamisesta.
