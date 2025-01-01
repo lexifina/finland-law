@@ -1,0 +1,2 @@
+Merimiesten vuosilomalaki
+Eduskunnan päätöksen mukaisesti säädetään:

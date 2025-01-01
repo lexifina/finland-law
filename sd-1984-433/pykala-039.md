@@ -1,0 +1,3 @@
+# 39 § Siirtymäsäännöksiä
+
+Ennen tämän lain voimaantuloa tehtyyn työsopimukseen sovelletaan, jollei toisin sovita, tämän lain voimaan tullessa voimassa ollutta lakia. Jos sopimus on tehty toistaiseksi, ei aikaisempaa lakia kuitenkaan sovelleta kauemmin kuin jos työnantaja olisi sen irtisanonut tämän lain voimaantulopäivänä kuitenkin niin, että vuosiloman alkamisaikaa voidaan 24 §:ssä tarkoitettujen työmarkkinaosapuolten sopimuksella siirtää tarvittavana siirtymäkautena. Jos sopimus tämän lain voimassa ollessa lakkaisi tapahtuneen irtisanomisen, sovitun määräajan päättymisen tai muun syyn takia, mutta työ jatkuu niin kuin merimieslain 42 §:ssä sanotaan, on sopimussuhteeseen siitä lähtien sovellettava tätä lakia.
