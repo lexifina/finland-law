@@ -15,5 +15,3 @@ Valitusoikeus ilmastopolitiikan suunnitelmaa koskevasta valtioneuvoston päätö
 Edellä 2 momentin 1–2 ja 4–5 kohdassa tarkoitetun valittajan on valituksessaan esitettävä selvitys siitä, mihin erityiseen tapaan valitusoikeus perustuu. Jos valituksen yhteydessä ei ole esitetty valitusoikeuden perusteena olevaa erityistä tapaa, hallintotuomioistuin voi jättää valituksen tutkimatta varaamatta valittajalle tilaisuutta täydentää valitustaan.
 
 Päätös voidaan panna täytäntöön muutoksenhausta huolimatta, jollei muutoksenhakutuomioistuin toisin määrää.
-
-Muutoksenhausta kunnallisen viranomaisen päätökseen säädetään kuntalaissa.
