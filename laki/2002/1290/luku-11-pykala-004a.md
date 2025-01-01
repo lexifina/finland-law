@@ -2,16 +2,16 @@
 Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 11 luku Toimeenpanoa koskevat säännökset
 
-Elinkeino-, liikenne- ja ympäristökeskusten kehittämis- ja hallintokeskus antaa 1 luvun 4 §:n 3 momentissa tarkoitetun työvoimapoliittisen lausunnon niistä työttömyysetuuden saamisen edellytyksistä, joista säädetään:
-1) 2 luvun 4 §:n 2 momentissa (muu kuin työsuhteessa tehty työ);
-2) 2 luvun 5 §:ssä (työllistyminen yrittäjänä tai sitä vastaavalla tavalla omassa työssä yhdenjaksoisesti yli kahden viikon ajan); ei kuitenkaan 2 luvun 5 a §:n soveltamisesta ja siinä tarkoitetusta työttömyysetuuden saamisen edellytyksistä;
-3) 2 luvun 6 §:ssä (yrityksessä työskentelyn päättyminen);
-4) 2 luvun 7 §:ssä (yrittäjän perheenjäsenen työskentelyn päättyminen);
-5) 2 luvun 8 §:ssä (yritystoiminnan lopettaminen);
-6) 2 luvun 9 §:ssä (oman työn lopettaminen);
-7) 2 luvun 10 ja 11 §:ssä (opiskelu ja päätoimisen opiskelun päättyminen); ei kuitenkaan 2 luvun 10 a §:n 3 momentin 3 kohdan ja 10 b §:n soveltamisesta ja siinä tarkoitetuista työttömyysetuuden saamisen edellytyksistä;
-8) 2 luvun 13 §:n 1–3 momentissa sekä 14 ja 15 §:ssä (koulutusta vailla olevaa nuorta koskevat edellytykset);
-9) 2 a luvussa (työvoimapoliittisesti moitittava menettely); ei kuitenkaan 2 a luvun 10 §:n 2 ja 3 momentissa tarkoitetusta etuuden palautumisesta.
+Elinkeino-, liikenne- ja ympäristökeskusten kehittämis- ja hallintokeskus antaa 1 luvun 4 §:n 3 momentissa tarkoitetun työvoimapoliittisen lausunnon niistä työttömyysetuuden saamisen edellytyksistä, joista säädetään seuraavissa lainkohdissa:
+1) 2 luvun 4 §:n 2 momentissa muusta kuin työsuhteessa tehdystä työstä;
+2) 2 luvun 5 §:ssä työllistymisestä yrittäjänä tai sitä vastaavalla tavalla omassa työssä yhdenjaksoisesti yli kahden viikon ajan lukuun ottamatta mainitun luvun 5 a §:n soveltamista ja siinä tarkoitettuja työttömyysetuuden saamisen edellytyksiä;
+3) 2 luvun 6 §:ssä yrityksessä työskentelyn päättymisestä;
+4) 2 luvun 7 §:ssä yrittäjän perheenjäsenen työskentelyn päättymisestä;
+5) 2 luvun 8 §:ssä yritystoiminnan lopettamisesta;
+6) 2 luvun 9 §:ssä oman työn lopettamisesta;
+7) 2 luvun 10 ja 11 §:ssä opiskelusta ja päätoimisen opiskelun päättymisestä lukuun ottamatta mainitun luvun 10 a §:n 3 momentin 3 kohdan ja 10 b §:n soveltamista ja niissä tarkoitettuja työttömyysetuuden saamisen edellytyksiä;
+8) 2 luvun 13 §:n 1–3 momentissa sekä 14 ja 15 §:ssä koulutusta vailla olevaa nuorta koskevista edellytyksistä;
+9) 2 a luvussa työvoimapoliittisesti moitittavasta menettelystä lukuun ottamatta mainitun luvun 10 §:n 2 ja 3 momenttia etuuden palautumisesta.
 
 Hoitaessaan tässä pykälässä säädettyjä tehtäviä elinkeino-, liikenne- ja ympäristökeskusten kehittämis- ja hallintokeskus voi lisäksi antaa kaikkien työvoimaviranomaisten toimialueilla työvoimapoliittisen lausunnon muistakin kuin 1 momentissa tarkoitetuista työttömyysetuuden saamisen edellytyksistä.
 

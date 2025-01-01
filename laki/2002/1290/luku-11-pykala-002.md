@@ -4,7 +4,7 @@ Luku: 11 luku Toimeenpanoa koskevat säännökset
 
 Työttömyysetuuden hakijan on annettava Kansaneläkelaitokselle ja työttömyyskassalle etuuden myöntämiseksi ja maksamiseksi tarvittavat tiedot. Etuuden saaja tai hakija on lisäksi velvollinen antamaan Kansaneläkelaitokselle ja työttömyyskassalle sen vaatimia selvityksiä, jotka ovat tarpeen erityisesti 1 luvun 7 §:ssä tarkoitetun talouden ja asumisen erillisyyden toteamiseksi. Etuuden hakijan on annettava 3 §:ssä tarkoitetun lausunnon antavalle yrittäjäkassalle lausunnon antamiseksi tarvittavat tiedot.
 
-Työttömyysetuuden hakijan on esitettävä työvoimaviranomaisen ja elinkeino-, liikenne- ja ympäristökeskusten kehittämis- ja hallintokeskuksen lausunnon edellyttämät häntä henkilökohtaisesti koskevat selvitykset työvoimaviranomaiselle tai elinkeino-, liikenne- ja ympäristökeskusten kehittämis- ja hallintokeskukselle sen määräämällä tavalla.
+Työttömyysetuuden hakijan on esitettävä työvoimaviranomaisen ja elinkeino-, liikenne- ja ympäristökeskusten kehittämis- ja hallintokeskuksen lausunnon antamiseksi tarpeelliset häntä henkilökohtaisesti koskevat selvitykset työvoimaviranomaiselle tai elinkeino-, liikenne- ja ympäristökeskusten kehittämis- ja hallintokeskukselle sen määräämällä tavalla.
 
 Jos etuuden saajan olosuhteissa tapahtuu sellainen muutos, joka saattaa vaikuttaa oikeuteen saada etuutta tai pienentää etuuden määrää, hänen tulee viipymättä ilmoittaa muutoksesta työttömyysetuuden maksajalle. Jäljempänä 4 §:ssä tarkoitettuja olosuhteita koskevasta muutoksesta etuuden saajan tulee viipymättä ilmoittaa työvoimaviranomaiselle.
 
