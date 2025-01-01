@@ -1,0 +1,10 @@
+# 24 § Hallintovalitus
+Luku: 6 luku Muutoksenhaku
+
+Palkkaturvapäätökseen, jolla saatava on hylätty muulla kuin 19 ja 20 §:ssä mainituilla perusteilla tai jätetty tutkimatta, työntekijä saa hakea muutosta sosiaaliturva-asioiden muutoksenhakulautakunnalta kirjallisella valituksella. Valitus on toimitettava kehittämis- ja hallintokeskukselle 30 päivän kuluessa päätöksen tiedoksisaannista. Kehittämis- ja hallintokeskuksen on viipymättä lähetettävä valituskirjelmä, lausuntonsa ja kertyneet asiakirjat sosiaaliturva-asioiden muutoksenhakulautakunnalle.
+
+Sosiaaliturva-asioiden muutoksenhakulautakunnan päätökseen saa hakea muutosta valittamalla vakuutusoikeuteen siten kuin oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019) säädetään. Päätös annetaan tiedoksi tavallisena tiedoksiantona.
+
+Ylimääräiseen muutoksenhakuun 1 tai 2 momentissa tarkoitetusta palkkaturvapäätöksestä sovelletaan, mitä oikeudenkäynnistä hallintoasioissa annetun lain 13 luvussa säädetään.
+
+Työnantaja ja muu maksuvelvollinen ei saa hakea palkkaturvapäätökseen muutosta valittamalla.

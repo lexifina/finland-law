@@ -1,0 +1,2 @@
+Merimiesten palkkaturvalaki
+Eduskunnan päätöksen mukaisesti säädetään:
