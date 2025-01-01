@@ -5,7 +5,7 @@ Kiireellisen hoidon edellyttämän arvion yhteydessä terveydenhuollon ammattihe
 
 Jos suostumusta ei voida saada ja potilas on ilmeisen kykenemätön vastaamaan omasta huolenpidostaan, terveydestään tai turvallisuudestaan tai lapsen etu sitä välttämättä vaatii, terveydenhuollon ammattihenkilön on tehtävä ilmoitus sosiaalihuollosta vastaavalle viranomaiselle lastensuojelun tai muun sosiaalihuollon tarpeesta salassapitosäännösten estämättä viipymättä. Myös muu henkilö voi tehdä ilmoituksen salassapitosäännösten estämättä.
 
-Kiireellisessä tilanteessa terveydenhuollon ammattihenkilön on otettava yhteyttä sosiaalipäivystykseen. Edellä 50 §:n 3 momentissa tarkoitetuissa laajoissa ympärivuorokautisissa päivystysyksiköissä ja 4 momentissa tarkoitetuissa perusterveydenhuollon ja erikoissairaanhoidon yhteispäivystyksissä sosiaalipäivystystä on toteutettava terveydenhuollon päivystyksen yhteydessä.
+Kiireellisessä tilanteessa terveydenhuollon ammattihenkilön on otettava yhteyttä sosiaalipäivystykseen. Edellä 50 §:n 3 ja 4 momentissa tarkoitetuissa päivystysyksiköissä sosiaalipäivystystä on toteutettava terveydenhuollon päivystyksen yhteydessä.
 
 Terveydenhuolto toteuttaa psykososiaalista tukea kiireellisissä tilanteissa yhdessä sosiaalipäivystyksen kanssa. Sosiaalipäivystys vastaa kiireellisissä tilanteissa psykososiaalisen tuen ensivaiheen johtamisesta ja yhteen sovittamisesta.
 
