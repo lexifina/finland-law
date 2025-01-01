@@ -1,3 +1,3 @@
-# 7 § Asetuksenantovaltuus
+# 7 § Asetuksenantovaltuudet
 
-Tarkempia säännöksiä tämän lain täytäntöönpanosta annetaan asetuksella.
+Valtioneuvoston asetuksella annetaan tarkempia säännöksiä tiedoksiantotehtävien suorittamisesta. Lisäksi valtioneuvoston asetuksella säädetään tiedoksiantotoiminnan johtamisesta ja valvonnasta.
