@@ -1,0 +1,2 @@
+Laki eräistä oikeudenkäynneistä valtion palveluksessa oleville aiheutuvien kustannusten korvaamisesta valtion varoista
+Eduskunnan päätöksen mukaisesti säädetään:
