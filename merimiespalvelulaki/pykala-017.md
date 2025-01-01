@@ -1,7 +1,7 @@
 # 17 § Edustajiston kokouksen päätökset
 Luku: 3 luku Merimiespalvelutoimiston hallinto
 
-Edustajisto on päätösvaltainen, kun läsnä ovat puheenjohtaja ja vähintään viisi jäsentä.
+Edustajisto on päätösvaltainen, kun läsnä ovat puheenjohtaja ja vähintään neljä jäsentä.
 
 Päätökset edustajiston kokouksessa tehdään yksinkertaisella äänten enemmistöllä. Jos äänet menevät tasan, päätökseksi tulee puheenjohtajan kannattama mielipide.
 

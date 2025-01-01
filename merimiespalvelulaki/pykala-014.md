@@ -1,7 +1,7 @@
 # 14 § Edustajiston puheenjohtaja ja edustajiston täydentäminen
 Luku: 3 luku Merimiespalvelutoimiston hallinto
 
-Työ- ja elinkeinoministeriö määrää edustajiston puheenjohtajan ja varapuheenjohtajan ministeriöitä edustavista jäsenistä.
+Edustajisto valitsee keskuudestaan kahdeksi kalenterivuodeksi kerrallaan puheenjohtajan ja varapuheenjohtajan, joista toisen tulee edustaa työnantajia ja toisen työntekijöitä. Puheenjohtajaksi valitaan vuorotellen työnantajia ja työntekijöitä edustava jäsen.
 
 Edustajiston jäsen ja varajäsen voidaan erityisestä syystä vapauttaa tehtävästään kesken toimikauden.
 

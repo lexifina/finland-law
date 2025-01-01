@@ -1,7 +1,7 @@
 # 20 § Hallituksen puheenjohtaja ja hallituksen täydentäminen
 Luku: 3 luku Merimiespalvelutoimiston hallinto
 
-Merimiespalvelutoimiston hallituksen puheenjohtajana toimii valtiota edustava jäsen ja varapuheenjohtajana hänen varajäsenensä.
+Merimiespalvelutoimiston hallitus valitsee keskuudestaan kahdeksi kalenterivuodeksi kerrallaan puheenjohtajan ja varapuheenjohtajan, joista toisen tulee edustaa työnantajia ja toisen työntekijöitä. Puheenjohtajaksi valitaan vuorotellen työnantajia ja palkansaajia edustava jäsen. Puheenjohtajan tulee edustaa vastakkaista työmarkkinaosapuolta kuin edustajiston puheenjohtajan.
 
 Hallituksen jäsen voidaan erityisestä syystä vapauttaa tehtävästään kesken toimikauden.
 

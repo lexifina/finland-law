@@ -1,7 +1,7 @@
 # 3 § Merimiespalvelutoimisto
 Luku: 1 luku Yleiset säännökset
 
-Työ- ja elinkeinoministeriön yhteydessä toimii merimiespalvelutoimisto. Se toimii yhteistoimintaelimenä kotimaassa ja ulkomailla sekä merellä että satamissa tapahtuvan lakisääteisen ja vapaaehtoisen merimiespalvelutoiminnan tarkoituksenmukaiseksi järjestämiseksi ja yhtenäistämiseksi.
+Merimiespalvelutoimisto toimii yhteistoimintaelimenä kotimaassa ja ulkomailla sekä merellä ja satamissa tapahtuvan lakisääteisen ja vapaaehtoisen merimiespalvelutoiminnan tarkoituksenmukaiseksi järjestämiseksi ja yhtenäistämiseksi.
 
 Merimiespalvelutoimiston tehtävänä on:
 1) kerätä palvelumaksu;
@@ -14,4 +14,4 @@ Merimiespalvelutoimiston tehtävänä on:
 
 Merimiespalvelutoimiston kotipaikka on Helsingin kaupunki.
 
-Merimiespalvelutoimistolla ei ilman työ- ja elinkeinoministeriön suostumusta saa olla osake-enemmistöä osakeyhtiössä eikä vastaavaa määräämisvaltaa muussa yrityksessä lukuun ottamatta asunto-osakeyhtiötä ja kiinteistöyhtiötä.
+Merimiespalvelutoimistoa valvoo työ- ja elinkeinoministeriö. Merimiespalvelutoimistolla ei ilman työ- ja elinkeinoministeriön suostumusta saa olla osake-enemmistöä osakeyhtiössä eikä vastaavaa määräämisvaltaa muussa yrityksessä lukuun ottamatta asunto-osakeyhtiötä ja kiinteistöyhtiötä.
