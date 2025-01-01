@@ -1,8 +1,6 @@
-# 36 § Yleissitovaan työehtosopimukseen perustuva paikallinen sopimus säännöllisestä työajasta
+# 36 § Yleissitovaan työehtosopimukseen perustuva paikallinen sopiminen
 Luku: 8 luku Säännösten pakottavuus
 
-Jos yleissitovassa työehtosopimuksessa on sovittu mahdollisuudesta paikallisesti poiketa 5 §:n, 6 §:n 1 momentin taikka 7 tai 9 §:n säännöksistä tai keskimääräisen säännöllisen työajan tasoittumisjakson pidentämisestä, paikallinen sopimus on tehtävissä työehtosopimuksen kelpuuttavan määräyksen sallimissa rajoissa ja noudattaen työehtosopimuksessa määrättyjä menettelytapamääräyksiä lukuun ottamatta työehtosopimuksen neuvottelujärjestystä koskevia määräyksiä.
+Yleissitovaan työehtosopimukseen perustuvasta paikallisesta sopimisesta säädetään työsopimuslain 2 luvun 7 a §:ssä.
 
-Paikallisen sopimuksen saavat tehdä työehtosopimuksessa määrätyt osapuolet. Jos työehtosopimuksessa on paikallisen sopimuksen osapuoleksi määrätty luottamusmies, mutta tällaista ei ole valittu, sopimuksen saa henkilöstön puolesta tehdä työsopimuslain 13 luvun 3 §:ssä tarkoitettu luottamusvaltuutettu tai muu henkilöstön valtuuttama edustaja tai, jollei tällaista ole valittu, henkilöstö tai henkilöstöryhmä yhdessä.
-
-Jos työntekijät eivät ole valinneet 2 momentissa tarkoitettua luottamusmiestä tai muuta edustajaa, työnantajan on varattava heille tilaisuus valita keskuudestaan edustaja ennen neuvottelujen aloittamista.
+Jos paikallisella sopimuksella poiketaan 5 §:n, 6 §:n 1 momentin taikka 7 tai 9 §:n säännöksistä tai keskimääräisen säännöllisen työajan tasoittumisjakson pidentämisestä, työehtosopimuksessa edellytetyn henkilöstön edustajan tai luottamusvaltuutetun puuttuessa sopimuksen saa henkilöstön puolesta kuitenkin tehdä myös muu henkilöstön valtuuttama edustaja tai, jollei sellaistakaan ole valittu, henkilöstö tai henkilöstöryhmä yhdessä. Työntekijällä on kuitenkin oikeus noudattaa aikaisempaa työaikaansa, jos hän ilmoittaa siitä työnantajalle viimeistään kahta päivää ennen sopimuksen soveltamista. Poiketen siitä, mitä työsopimuslain 2 luvun 7 a §:n 4 momentissa säädetään, toistaiseksi tehty säännöllistä työaikaa koskeva sopimus on irtisanottavissa päättymään työajan tasoittumisjakson päättyessä.
