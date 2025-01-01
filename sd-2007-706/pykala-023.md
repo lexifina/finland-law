@@ -1,4 +1,5 @@
 # 23 § Voimaantulo- ja siirtymäsäännökset
+Väliotsikko: Erinäiset säännökset
 
 Tämä laki tulee voimaan 1 päivänä tammikuuta 2008.
 
