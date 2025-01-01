@@ -8,4 +8,4 @@ Valitusoikeus on:
 3) yleistä etua valvovilla viranomaisilla;
 4) sellaisella rekisteröidyllä paikallisella tai alueellisella yhdistyksellä tai säätiöllä, jonka tarkoituksena on ympäristön- tai luonnonsuojelun taikka vesivarojen käytön edistäminen ja jonka toiminta-aluetta tulvariskien hallintasuunnitelma koskee.
 
-Muutoksenhakuun hulevesitulvariskien hallintasuunnitelman hyväksymistä koskevaan kunnan päätökseen sovelletaan, mitä maankäyttö- ja rakennuslain 188 §:ssä ja 191 §:n 1 ja 2 momentissa säädetään muutoksenhausta ja valitusoikeudesta asemakaavan hyväksymistä koskevaan päätökseen.
+Muutoksenhakuun hulevesitulvariskien hallintasuunnitelman hyväksymistä koskevaan kunnan päätökseen sovelletaan, mitä aluidenkäyttölain 188 §:ssä ja 191 §:n 1 ja 2 momentissa säädetään muutoksenhausta ja valitusoikeudesta asemakaavan hyväksymistä koskevaan päätökseen.
