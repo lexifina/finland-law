@@ -1,0 +1,2 @@
+Laki viranomaisten suunnitelmien ja ohjelmien ympäristövaikutusten arvioinnista
+Eduskunnan päätöksen mukaisesti säädetään:
