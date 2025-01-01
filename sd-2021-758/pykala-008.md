@@ -1,5 +1,5 @@
 # 8 § Yrityksen kehittämisavustuksen hyväksyttävät kustannukset, kustannusmallit ja avustuksen määrä
-Luku: 2 luku Yrityksen kehittämisavustus
+Luku: 2 luku Yrityksen kehittämisavustus ja avustus yritysten kehittämispalveluihin
 
 Avustuksen perusteeksi hyväksytään vain sellaiset hankkeen kustannukset, jotka ovat aiheutuneet hanketta koskevan päätöksen mukaisena toteuttamisaikana.
 

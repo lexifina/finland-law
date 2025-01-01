@@ -1,5 +1,5 @@
 # 7 § Yrityksen kehittämisavustuksen myöntämisen edellytykset ja sovellettavat valtiontukisäännöt
-Luku: 2 luku Yrityksen kehittämisavustus
+Luku: 2 luku Yrityksen kehittämisavustus ja avustus yritysten kehittämispalveluihin
 
 Yrityksen kehittämisavustusta voidaan myöntää, jos:
 1) avustuksen hakijalla arvioidaan olevan edellytykset jatkuvaan kannattavaan toimintaan;

@@ -1,5 +1,5 @@
 # 6 § Yrityksen kehittämisavustuksen saajat
-Luku: 2 luku Yrityksen kehittämisavustus
+Luku: 2 luku Yrityksen kehittämisavustus ja avustus yritysten kehittämispalveluihin
 
 Yrityksen kehittämisavustusta voidaan myöntää pienille ja keskisuurille yrityksille. Avustusta voidaan myöntää myös suurelle yritykselle investointiin, joka toteutetaan alueiden kehittämisestä ja Euroopan unionin alue- ja rakennepolitiikan toimeenpanosta annetun lain (756/2021) mukaisella I tai II tukialueella.
 
