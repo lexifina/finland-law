@@ -1,4 +1,4 @@
-# 1§ Oikeus tietojen saamiseen
+# 1 § Oikeus tietojen saamiseen
 Osa: VI OSA ERINÄISET SÄÄNNÖKSET
 Luku: 13 luku Tietojen saamista ja luovuttamista koskevat säännökset
 
@@ -10,8 +10,7 @@ Kansaneläkelaitoksella, työvoimaviranomaisella, elinkeino-, liikenne- ja ympä
 
 Kansaneläkelaitoksella ja työttömyyskassalla on oikeus saada maksutta tässä tai muissa laeissa säädettyjen tehtäviensä hoitamista varten:
 1) työvoimaviranomaiselta ja elinkeino-, liikenne- ja ympäristökeskusten kehittämis- ja hallintokeskukselta 1 luvun 4 §:n 3 momentissa tarkoitettu työvoimapoliittinen lausunto;
-2) rangaistuslaitokselta tiedot rangaistuksen alkamisesta ja päättymisestä; rangaistuslaitoksen on annettava tiedot välittömästi, kun henkilö otetaan rangaistuslaitokseen;
-3) työvoimaviranomaiselta tiedot työmarkkinatuen saajan oleskeluluvan perusteesta ja ensimmäisestä kotikuntamerkinnästä; työvoimaviranomaisen on annettava tiedot Kansaneläkelaitokselle viivytyksettä, jos kyse on 14 luvun 3 a §:n 4 momentin toisessa virkkeessä tarkoitetusta henkilöstä.
+2) rangaistuslaitokselta tiedot rangaistuksen alkamisesta ja päättymisestä; rangaistuslaitoksen on annettava tiedot välittömästi, kun henkilö otetaan rangaistuslaitokseen.
 
 Kansaneläkelaitoksen on ilmoitettava asianomaiselle työttömyyskassalle tämän tai muun lain mukaisen etuuden ratkaisemista varten, jos ansioon suhteutetun päivärahan saajalle tai tämän puolisolle myönnetään lasten kotihoidon ja yksityisen hoidon tuesta annetun lain mukainen kotihoidon tuki.
 

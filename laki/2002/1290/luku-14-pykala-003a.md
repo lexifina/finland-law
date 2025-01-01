@@ -13,6 +13,6 @@ Edellä 1 momentissa tarkoitetun ajanjakson jälkeen työmarkkinatuen saajan kot
 
 Työttömyysetuuspäiviä laskettaessa otetaan huomioon päivät, joilta tuen saaja on saanut työmarkkinatukea tai sitä edeltävää perus- tai ansiopäivärahaa.
 
-Työmarkkinatuen korotusosa rahoitetaan valtion varoista. Työmarkkinatuki, joka maksetaan kotoutumisen edistämisestä annetun lain 2 §:n 1 momentissa tarkoitetulle henkilölle, rahoitetaan valtion varoista eikä henkilölle maksettua työttömyysetuutta lasketa mukaan työttömyysetuuspäiviin:
-1) kolmen vuoden ajalta ensimmäisestä kotikuntamerkinnästä lukien, jos kyse on mainitun pykälän 3 tai 4 momentissa tarkoitetusta henkilöstä;
+Työmarkkinatuki, joka maksetaan kotoutumisen edistämisestä annetun lain 2 §:n 1 momentissa tarkoitetulle henkilölle, rahoitetaan valtion varoista eikä henkilölle maksettua työttömyysetuutta lasketa mukaan työttömyysetuuspäiviin:
+1) kolmen vuoden ajalta ensimmäisestä kotikuntamerkinnästä lukien, jos kyse on mainitun pykälän 3 tai 4 momentissa tarkoitetuista henkilöstä;
 2) yhden vuoden ajalta ensimmäisestä kotikuntamerkinnästä lukien, jos kyse on muusta kuin 1 kohdassa tarkoitetusta henkilöstä.

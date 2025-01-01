@@ -10,6 +10,4 @@ Edellä 1 momentissa tarkoitetun ajanjakson jälkeen peruspäivärahan saajan ko
 3) 2 kohdassa tarkoitetun jälkeiseltä ajalta 30 prosenttia siihen saakka, kunnes henkilölle on tullut maksetuksi työttömyyspäivärahaa yhteensä 400 päivältä;
 4) 3 kohdassa tarkoitetun jälkeiseltä ajalta 40 prosenttia.
 
-Peruspäivärahaan liittyvä lapsikorotus ja korotusosa rahoitetaan palkansaajan työttömyysvakuutusmaksun tuotoilla ja valtion varoista.
-
 Työttömyyspäivärahan 100 maksupäivän laskeminen alkaa uudelleen alusta sen jälkeen, kun henkilö on tullut työssäoloehdon täyttymisen jälkeen oikeutetuksi uuteen 6 luvun 7 §:ssä tarkoitettuun enimmäisaikaan.
