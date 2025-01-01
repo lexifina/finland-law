@@ -1,6 +1,6 @@
 # 3 § Potilasvakuutuskeskuksen kustannuksista vastaaminen
 
-Potilasvakuutuskeskuksen jäsenet vastaavat Potilasvakuutuskeskuksen toiminnasta aiheutuvista kustannuksista.
+Potilasvakuutuskeskuksen jäsenet vastaavat Potilasvakuutuskeskuksen toiminnasta aiheutuvista kustannuksista lukuun ottamatta potilasvakuutuslain 48 §:n mukaisesti jakojärjestelmällä rahoitettavia kustannuksia.
 
 Kukin Potilasvakuutuskeskuksen jäsen on velvollinen maksamaan Potilasvakuutuskeskukselle osuutensa niistä Potilasvakuutuskeskuksen potilasvakuutuslain perusteella korvaamista vahingoista, joista jäsen on tekemänsä vakuutussopimuksen perusteella vastuussa. Potilasvakuutuskeskuksen jäsenet ovat velvollisia suorittamaan vuosittain keskukselle maksun sen muiden kustannusten kattamiseksi tuloslaskelman mukaisen potilasvakuutuksen maksutulon mukaisessa suhteessa.
 
