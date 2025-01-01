@@ -1,0 +1,2 @@
+Laki eräistä paloturvallisuuslaitteista
+Eduskunnan päätöksen mukaisesti säädetään:
