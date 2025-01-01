@@ -1,6 +1,6 @@
 # 1 § Lapsiasiavaltuutettu
 
-Lasten aseman ja oikeuksien huomioon ottamisen varmistamiseksi lainsäädännössä ja yhteiskunnallisessa päätöksenteossa on oikeusministeriön yhteydessä lapsiasiavaltuutettu.
+Lasten aseman ja oikeuksien huomioon ottamisen varmistamiseksi lainsäädännössä ja yhteiskunnallisessa päätöksenteossa on oikeusministeriön hallinnonalalla lapsiasiavaltuutettu.
 
 Lapsiasiavaltuutettu on toiminnassaan itsenäinen ja riippumaton.
 
