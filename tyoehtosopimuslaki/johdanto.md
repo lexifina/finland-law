@@ -1,0 +1,2 @@
+Työehtosopimuslaki
+Eduskunnan päätöksen mukaisesti säädetään:

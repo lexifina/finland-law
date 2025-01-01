@@ -1,0 +1,7 @@
+# 5 a §
+
+Jos työehtosopimuksessa mahdollistetaan paikallisen sopimuksen tekeminen työnantajan ja luottamusmiehen välillä eikä työehtosopimukseen sisälly tasapuolisia sopimisedellytyksiä turvaavia määräyksiä siitä, kuinka menetellään luottamusmiehen puuttuessa, voidaan paikallinen sopimus työehtosopimuksen estämättä tehdä luottamusvaltuutetun kanssa. Jollei toisin sovita, sopimus sitoo kaikkia työehtosopimuksen piirissä olevia työntekijöitä.
+
+Paikallista sopimusta tehtäessä 1 momentissa tarkoitetussa tilanteessa on noudatettava työehtosopimuksen menettelytapaa koskevia määräyksiä lukuun ottamatta henkilöstön edustajaa koskevia vaatimuksia. Tämän lisäksi työnantajan on annettava luottamusvaltuutetulle sopimuksen tekemiseksi tarpeelliset tiedot sekä varattava luottamusvaltuutetulle riittävä harkinta-aika sopimusta neuvotellessa ja tilaisuus käsitellä sopimuksen merkitystä yhdessä henkilöstön kanssa. Sopimus ei saa työehtosopimuksen oikeusvaikutuksia, jollei toisin ole työehtosopimuksessa sovittu. Sopimus on sen kestosta riippumatta puolin ja toisin irtisanottavissa kolmen kuukauden irtisanomisaikaa noudattaen, jollei työehtosopimuksesta muuta johdu tai paikallisessa sopimuksessa ole sovittu lyhyemmästä irtisanomisajasta.
+
+Mitä edellä tässä pykälässä säädetään, ei koske Kunta- ja hyvinvointialuetyönantajat KT:n jäsenyhteisöjä, evankelis-luterilaista kirkkoa, ortodoksista kirkkoa, Ahvenanmaan maakunta- ja kuntahallintoa, eduskuntaa, Suomen Pankkia tai Kansaneläkelaitosta.

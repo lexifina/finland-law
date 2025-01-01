@@ -1,0 +1,5 @@
+# 8 §
+
+Työehtosopimus velvoittaa siihen osallisia tai muuten sidottuja yhdistyksiä ja työnantajia, niin myös yhdistyksiä, joiden jäsenet tai 4 §:n 1 momentin 2 kohdassa mainitut yhdistykset ovat yhdistyksen suostumuksella tehneet työehtosopimuksen, välttämään kaikkia työtaistelutoimenpiteitä, jotka kohdistuvat työehtosopimukseen kokonaisuudessaan tai johonkin sen yksityiseen määräykseen. Sopimukseen sidotut yhdistykset ovat sitä paitsi velvolliset huolehtimaan siitä, että myöskin niiden alaiset yhdistykset, työnantajat ja työntekijät, joita sopimus koskee, välttävät sellaisia työtaistelutoimenpiteitä eivätkä muutoinkaan riko työehtosopimuksen määräyksiä.
+
+Työehtosopimukseen osallisen yhdistyksen katsotaan laiminlyöneen 1 momentissa tarkoitetun valvontavelvollisuutensa, mikäli selvää ja riidatonta työehtosopimuksen määräystä ei ole sovellettu työehtosopimukseen osallisten yhdistysten yksimielisen kannan mukaisesti eikä väärää soveltamista olosuhteet huomioon ottaen nopeasti korjata, kun se on tullut yhdistyksen tietoon.
