@@ -12,8 +12,7 @@ Kukin viranomainen saa käsitellä tallentamiaan tietoja lakisääteisten tehtä
 7) säilöönottoyksikkö 1 §:n 1 momentin 4 kohdan käsittelytarkoituksessa;
 8) ulkoministeriö 1 §:n 1 momentin 1 kohdan käsittelytarkoituksessa;
 9) edustusto 1 §:n 1 momentin 1 ja 2 kohdan käsittelytarkoituksessa;
-10) elinkeino-, liikenne- ja ympäristökeskus 1 §:n 1 momentin 1 ja 5 kohdan käsittelytarkoituksessa;
-11) työ- ja elinkeinotoimisto 1 §:n 1 momentin 1 kohdan käsittelytarkoituksessa.
+10) elinkeino-, liikenne- ja ympäristökeskus 1 §:n 1 momentin 1 ja 5 kohdassa tarkoitetussa käsittelytarkoituksessa.
 
 Kukin 2 momentin viranomainen toimii ulkomaalaisasioiden asiankäsittelyjärjestelmän rekisterinpitäjänä tallentamiensa tietojen osalta. Poliisin tallentamien tietojen rekisterinpitäjänä toimii Poliisihallitus ja Rajavartiolaitoksen tallentamien tietojen rekisterinpitäjänä Rajavartiolaitoksen esikunta. Kansainvälistä suojelua koskevan hakemuksen rekisteröintitietojen rekisterinpitäjänä toimii kuitenkin Maahanmuuttovirasto.
 
