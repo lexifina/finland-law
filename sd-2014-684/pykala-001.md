@@ -7,7 +7,7 @@ Lupia, joihin 1 momentissa tarkoitettua menettelyä sovelletaan, ovat:
 2) maakaasumarkkinalain (508/2000) 6 luvun 5 §:n mukainen hankelupa maan rajan ylittävän siirtoputken rakentamiseen;
 3) Suomen talousvyöhykkeestä annetun lain (1058/2004) 6 ja 7 §:n mukainen suostumus Suomen talousvyöhykkeen hyödyntämiseen tai käyttöön lukuun ottamatta yksinomaan tutkimusta varten annettavaa suostumusta;
 4) vesilain (587/2011) 3 luvun mukainen lupa rakentamista koskevaan vesitaloushankkeeseen;
-5) maankäyttö- ja rakennuslain (132/1999) 125 §:n mukainen rakennuslupa, 126 §.n mukainen toimenpidelupa ja 171 §:n mukainen poikkeuksen myöntäminen;
+5) rakentamislain (751/2023) 42 §:n mukainen rakentamisluvan ja 57 §:n mukainen poikkeamisluvan myöntäminen;
 6) vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain (390/2005) 23 §:n mukainen lupa vaarallisen kemikaalin laajamittaiseen teolliseen käsittelyyn ja varastointiin ja 37 §:n mukainen lupa vaarallisen kemikaalin siirtoa varten tarkoitetun putkiston rakentamiseen;
 7) kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain (603/1977) 5 §:n mukainen lunastuslupa;
 8) ympäristönsuojelulain (527/2014) 27 §:n mukainen ympäristölupa.
