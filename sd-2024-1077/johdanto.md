@@ -1,0 +1,2 @@
+Laki ammatillisen koulutuksen toiminnanohjauksen kokeilusta
+Eduskunnan päätöksen mukaisesti säädetään:
