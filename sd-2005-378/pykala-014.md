@@ -1,0 +1,3 @@
+# 14 § Uuden näytteen ottaminen
+
+Jos tutkimusta ei voida tehdä 13 §:n mukaan otetusta näytteestä taikka jos tutkimustuloksen varmentaminen tai täydentäminen ennen lausunnon antamista on tarpeen, tutkimuksen tekijän on viipymättä ilmoitettava uuden näytteen tarpeellisuudesta tutkimusmääräyksen antaneelle tuomioistuimelle tai tutkimuksen tilanneelle lastenvalvojalle. Antaessaan uuden tutkimusmääräyksen tuomioistuimen on asetettava määräaika, jonka kuluessa tutkittavan on osoitettava, että uusi näyte on otettu. Tutkimusmääräyksen antamiseen ja uuden näytteen ottamiseen sovelletaan, mitä 11 §:n 2 ja 3 momentissa sekä 12 ja 13 §:ssä säädetään.

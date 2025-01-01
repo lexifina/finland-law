@@ -1,0 +1,7 @@
+# 10 a § Aiemmat tutkimustulokset
+
+Jos 4–7, 7 a tai 8 §:ssä tarkoitettu tutkittava on kadonnut tai kuollut, tuomioistuimen tulee ennen tutkimuksen määräämistä tiedustella tutkimuksen tekijältä, onko tutkittavasta tehty aiemmin tutkimus tai onko sellainen parhaillaan tehtävänä. Tuomioistuimella on oikeus saada tieto salassapitosäännösten estämättä. Oikeus saada tieto tutkimuksen tekemisestä salassapitosäännösten estämättä on myös sillä, joka vanhemmuuslain mukaan voi ajaa kannetta vanhemmuuden vahvistamiseksi tai kumoamiseksi.
+
+Jos tutkimus on tehty 1 päivänä tammikuuta 2013 tai sen jälkeen, lastenvalvoja voi tilata tai tuomioistuin voi määrätä tutkimuksessa käytettäväksi tutkittavasta aiemmassa tutkimuksessa saatuja tietoja. Jos aiempi tutkimus on tehty tutkittavan suostumuksella, tietoja aiemmasta tutkimuksesta voidaan käyttää, jos tutkittava antaa siihen uuden suostumuksen.
+
+Tuomioistuimen tulee määrätä tutkimus tehtäväksi uudelleen, jos 4 §:ssä tarkoitettu tutkittava ei anna suostumustaan aiemmassa tutkimuksessa saatujen tietojen käyttöön tai jos tutkimus on tehty ennen 1 päivää tammikuuta 2013. Jos 4 §:ssä tarkoitettu tutkittava on kadonnut tai kuollut, tuomioistuin voi määrätä tutkimuksessa käytettäväksi aiemmassa tutkimuksessa saatuja tietoja siitä huolimatta, että aiempi tutkimus on tehty tutkittavan suostumuksella tai että tutkimus on tehty ennen 1 päivää tammikuuta 2013.

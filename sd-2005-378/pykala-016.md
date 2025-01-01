@@ -1,0 +1,5 @@
+# 16 § Näytteen ottaminen tulevan tutkimuksen varalta
+
+Tarvittavan koulutuksen saanut laillistettu terveydenhuollon ammattihenkilö saa pyynnöstä ottaa näytteen 5 tai 7 a §:ssä tarkoitetusta vainajasta mahdollista tutkimusta varten ilman vainajan lesken ja perillisten suostumusta, jos pyynnön esittänyt antaa selvityksen siitä, että näytteen ottaminen voi olla tarpeen vanhemmuuden vahvistamista tai kumoamista varten. Oikeus pyynnön esittämiseen on sillä, joka vanhemmuuslain mukaan voi ajaa kannetta vanhemmuuden vahvistamiseksi tai kumoamiseksi.
+
+Edellä 1 momentissa tarkoitettu näyte saadaan hävittää, kun kaksi vuotta on kulunut sen ottamisesta, jollei näytettä hallussaan pitävälle sairaalalle, terveydenhuollon toimintayksikölle, tutkimuslaitokselle tai terveydenhuollon ammattihenkilölle ole selvitetty, että vanhemmuuden vahvistamista tai kumoamista koskeva asia on vireillä tuomioistuimessa. Mainittua näytettä ei saa tutkia ilman vainajan lesken ja perillisten suostumusta tai tuomioistuimen antamaa määräystä.

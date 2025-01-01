@@ -1,0 +1,3 @@
+# 10 b § Aiemmin otetut kudosnäytteet
+
+Jos 4–7, 7 a tai 8 §:ssä tarkoitettu tutkittava on kadonnut tai kuollut, terveydenhuollon tai oikeuslääkinnän toimintayksiköltä voi salassapitosäännösten estämättä pyytää tietoa siitä, onko sen hallussa aiemmin otettua kudosnäytettä, josta tutkimus voidaan tehdä. Pyynnön esittäneen tulee pyynnön yhteydessä antaa selvitys siitä, että näytteen tutkiminen voi olla tarpeen vanhemmuuden vahvistamista tai kumoamista varten. Oikeus pyynnön esittämiseen on tuomioistuimella ja sillä, joka vanhemmuuslain mukaan voi ajaa kannetta vanhemmuuden vahvistamiseksi tai kumoamiseksi.

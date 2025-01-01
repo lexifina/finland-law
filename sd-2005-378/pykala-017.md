@@ -1,0 +1,7 @@
+# 17 § Näytteen hävittämiskielto
+
+Tuomioistuin voi sakon uhalla kieltää sairaalaa, terveydenhuollon toimintayksikköä, tutkimuslaitosta tai terveydenhuollon ammattihenkilöä hävittämästä 5–7, 7 a, 8, 8 a tai 16 §:ssä tarkoitetusta henkilöstä muuten kuin tämän lain nojalla otettua näytettä. Kielto voidaan määrätä hakemuksesta, jos hakija antaa selvityksen siitä, että näytteen säilyttäminen voi olla tarpeen todisteiden saamiseksi sellaisessa vanhemmuuden vahvistamista tai kumoamista koskevassa asiassa, jossa hakija on asianosaisena tai jonka hän aikoo panna vireille. Hakemus on viipymättä annettava tiedoksi sille, jolle kieltoa haetaan. Kielto on tämän jälkeen väliaikaisesti voimassa, kunnes tuomioistuin on ratkaissut hakemusasian. Tuomioistuimen määräämä kielto on voimassa, kunnes vanhemmuuden vahvistamista tai kumoamista koskeva asia on lainvoimaisella tuomiolla ratkaistu.
+
+Kielto on määrättävä olemaan voimassa tietyn ajan, kuitenkin enintään kaksi vuotta. Erityisestä syystä tuomioistuin voi kiellon voimassaoloaikana hakemuksesta pidentää voimassaoloaikaa enintään kahdella vuodella.
+
+Jos vanhemmuuden vahvistamista tai kumoamista koskeva oikeudenkäynti ei ole vireillä, tässä pykälässä tarkoitetun kiellon antamista koskevan asian vireillepanoon ja käsittelyyn sovelletaan oikeudenkäymiskaaren 8 luku a. Hakemus käsitellään siinä tuomioistuimessa, joka olisi toimivaltainen käsittelemään sen vanhemmuuden vahvistamista tai kumoamista koskevan kanteen, josta hakemuksessa on kysymys.

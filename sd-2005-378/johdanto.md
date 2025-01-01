@@ -1,0 +1,2 @@
+Laki oikeusgeneettisestä vanhemmuustutkimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
