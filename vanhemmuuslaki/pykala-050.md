@@ -1,7 +1,7 @@
 # 50 § Määräaika kanteen nostamiselle
 Luku: 7 luku Vanhemmuuden kumoaminen
 
-Jos isyys on todettu avioliiton perusteella, lapsen synnyttäneen äidin, 48 §:n 2 momentissa tarkoitetun henkilön ja sen, jonka isyys on todettu avioliiton perusteella, on pantava kanne vireille kahden vuoden kuluessa lapsen syntymästä. Jos vanhemmuus on vahvistettu tunnustamisen perusteella, lapsen synnyttäneen äidin, 48 §:n 2 momentissa tarkoitetun henkilön ja tunnustajan on pantava vanhemmuuden kumoamista koskeva kanne vireille kahden vuoden kuluessa siitä, kun vanhemmuus on vahvistettu.
+Jos isyys on todettu avioliiton perusteella, lapsen synnyttäneen äidin, 48 §:n 2 momentissa tarkoitetun henkilön ja sen, jonka isyys on todettu avioliiton perusteella, on pantava kanne vireille kahden vuoden kuluessa lapsen syntymästä. Jos vanhemmuus on vahvistettu tunnustamisen tai synnyttäneen äidin äitiyden selvittämisen perusteella, lapsen synnyttäneen äidin, 48 §:n 2 tai 4 momentissa tarkoitetun henkilön ja tunnustajan on pantava vanhemmuuden kumoamista koskeva kanne vireille kahden vuoden kuluessa siitä, kun vanhemmuus on vahvistettu.
 
 Kanne voidaan tutkia, vaikka se olisi pantu vireille määräajan päättymisen jälkeen, jos kantajalla oli laillinen este tai hän näyttää muun painavan syyn, jonka vuoksi kannetta ei ole aikaisemmin nostettu. Kanne on kuitenkin jätettävä tutkimatta, jos sitä ei ole nostettu vuoden kuluessa siitä, kun syy kanteen nostamatta jättämiselle oli poistunut.
 

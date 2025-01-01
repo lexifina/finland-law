@@ -5,4 +5,8 @@ Lapsi, jonka osalta isyyttä ei ole lapsen synnyttäneen äidin avioliiton perus
 
 Henkilöllä, joka katsoo olevansa lapsen äiti 5 §:n 1 momentin nojalla, on oikeus nostaa äitiyden vahvistamista koskeva kanne lasta vastaan, jollei Digi- ja väestötietovirasto ole vahvistanut äitiyttä ja vahvistamatta jättämiseen on muu syy kuin se, ettei 22 §:ssä tarkoitettua hyväksymistä ole saatu.
 
+Lapsi, jonka osalta synnyttäneen äidin äitiyttä ei ole todettu tai vahvistettu, voi vaatia 2 §:ssä tarkoitetun äitiyden vahvistamista nostamalla kanteen äidiksi otaksumaansa henkilöä vastaan. Jos se, jota vastaan kanne olisi nostettava, on kuollut, kanne nostetaan hänen oikeudenomistajiaan vastaan.
+
+Henkilöllä, joka katsoo olevansa lapsen äiti 2 §:n nojalla, on oikeus nostaa äitiyden vahvistamista koskeva kanne lasta vastaan, jollei Digi- ja väestötietovirasto ole vahvistanut äitiyttä.
+
 Jos se, jonka äitiydestä on kysymys, kuolee kanteen ollessa vireillä, hänen oikeudenomistajansa tulevat hänen sijaansa.

@@ -12,4 +12,4 @@ Edellä 19 §:n 2 ja 3 momentissa tarkoitettu tunnustamisen vastaanottaja saa ke
 
 Tietoja säilytetään ennakkotunnustamisrekisterissä, kunnes vanhemmuuden vahvistamista koskeva asia on ratkaistu taikka se on rauennut tai siirretty.
 
-Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa säädetään, Digi- ja väestötietovirastolla, Ahvenanmaan valtionvirastolla ja sosiaalihuollon viranomaisella on oikeus salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä saada lapsen vanhemmuuden selvittämiseen tai vahvistamiseen liittyvien tehtäviensä hoitamiseksi välttämättömät tiedot ennakkotunnustamisrekisteristä.
+Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa säädetään, Digi- ja väestötietovirastolla, Ahvenanmaan valtionvirastolla ja hyvinvointialueella on oikeus salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä saada lapsen vanhemmuuden selvittämiseen tai vahvistamiseen liittyvien tehtäviensä hoitamiseksi välttämättömät tiedot ennakkotunnustamisrekisteristä.

@@ -5,7 +5,7 @@ Vanhemmuuden selvittäminen on keskeytettävä, jos 15 vuotta täyttänyt lapsi 
 
 Lastenvalvoja voi päättää, että vanhemmuuden selvittäminen keskeytetään, jos:
 1) on ilmeistä, ettei vanhemmuuden vahvistamista varten ole saatavissa riittävästi tietoja;
-2) lapsesta ei ole saatu näytettä, josta oikeusgeneettinen isyystutkimus olisi voitu tehdä;
+2) lapsesta ei ole saatu näytettä, josta oikeusgeneettinen vanhemmuustutkimus olisi voitu tehdä;
 3) lapsi on syntynyt hedelmöityshoidoista annetun lain 1 §:ssä tarkoitetun hoidon tuloksena lapsen synnyttäneelle äidille, joka on saanut hoitoa yksin, ja on selvitetty, että siittiöiden luovuttaja ei ole mainitun lain 16 §:n 2 momentissa tarkoitetulla tavalla suostunut siihen, että hänet voidaan vahvistaa hoidon tuloksena syntyneen lapsen isäksi;
 4) kukaan ei ole tunnustanut lasta ja on erityinen syy olettaa, että vanhemmuuden selvittäminen ei olisi lapsen edun mukaista, eikä 15 vuotta täyttänyt lapsi vaadi vanhemmuuden selvittämistä.
 
