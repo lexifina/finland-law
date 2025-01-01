@@ -3,7 +3,7 @@
 Ulkomaalaisasioiden asiankäsittelyjärjestelmään tallennetaan 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa käsiteltävät muut kuin lyhytaikaisten viisumien käsittelyä ja päätöksentekoa koskevat tiedot sekä 1 §:n 1 momentin 2–5 kohdassa ja 2 momentissa tarkoitetussa käsittelykäyttötarkoituksessa käsiteltävät tiedot.
 
 Kukin viranomainen saa käsitellä tallentamiaan tietoja lakisääteisten tehtäviensä hoitamiseksi seuraavasti:
-1) Maahanmuuttovirasto 1 §:n 1 momentin 1–5 kohdassa tarkoitetussa käsittelytarkoituksessa;
+1) Maahanmuuttovirasto 1 §:n 1 momentissa tarkoitetussa käsittelytarkoituksessa;
 2) poliisi 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa;
 3) suojelupoliisi 1 §:n 2 momentissa tarkoitetussa käsittelytarkoituksessa;
 4) Rajavartiolaitos 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa;
@@ -13,8 +13,7 @@ Kukin viranomainen saa käsitellä tallentamiaan tietoja lakisääteisten tehtä
 8) ulkoministeriö 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa;
 9) edustusto 1 §:n 1 momentin 1 ja 2 kohdassa tarkoitetussa käsittelytarkoituksessa;
 10) elinkeino-, liikenne- ja ympäristökeskus 1 §:n 1 momentin 1 ja 5 kohdassa tarkoitetussa käsittelytarkoituksessa;
-11) työ- ja elinkeinotoimisto 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa;
-12) hyvinvointialueen viranomainen ja Helsingin kaupunki 1 §:n 1 momentin 5 kohdassa tarkoitetussa käsittelytarkoituksessa.
+11) hyvinvointialueen viranomainen ja Helsingin kaupunki 1 §:n 1 momentin 5 kohdassa tarkoitetussa käsittelytarkoituksessa.
 
 Kukin 2 momentin viranomainen toimii ulkomaalaisasioiden asiankäsittelyjärjestelmän rekisterinpitäjänä tallentamiensa tietojen osalta. Poliisin tallentamien tietojen rekisterinpitäjänä toimii Poliisihallitus ja Rajavartiolaitoksen tallentamien tietojen rekisterinpitäjänä Rajavartiolaitoksen esikunta. Kansainvälistä suojelua koskevan hakemuksen rekisteröintitietojen rekisterinpitäjänä toimii kuitenkin Maahanmuuttovirasto.
 
