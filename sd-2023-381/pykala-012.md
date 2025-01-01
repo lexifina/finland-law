@@ -6,4 +6,4 @@ Työvoimaviranomaisen, hyvinvointialueen ja Kansaneläkelaitoksen on talletettav
 
 Rekisteröidyllä ei ole yleisen tietosuoja-asetuksen 18 artiklassa säädettyä oikeutta 11 §:ssä tarkoitettujen tietojen käsittelyn rajoittamiseen.
 
-Asiakastietojärjestelmän käyttö edellyttää henkilökohtaista käyttöoikeutta. Kehittämis- ja hallintokeskus voi myöntää käyttöoikeuden työvoimaviranomaisen, hyvinvointialueen tai Kansaneläkelaitoksen palveluksessa olevalle henkilölle, joka hoitaa tässä laissa tarkoitettuja tehtäviä.
+Asiakastietojärjestelmän käyttö edellyttää henkilökohtaista käyttöoikeutta. Kehittämis- ja hallintokeskus voi myöntää käyttöoikeuden kunnan, kuntayhtymän, hyvinvointialueen tai Kansaneläkelaitoksen palveluksessa olevalle henkilölle, joka hoitaa tässä laissa tarkoitettuja tehtäviä.
