@@ -1,0 +1,2 @@
+Laki merituulivoimasta talousvyöhykkeellä
+Eduskunnan päätöksen mukaisesti säädetään:
