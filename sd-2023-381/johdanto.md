@@ -1,0 +1,2 @@
+Laki työllistymisen monialaisesta edistämisestä
+Eduskunnan päätöksen mukaisesti säädetään
