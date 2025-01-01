@@ -1,0 +1,2 @@
+Laki eräiden polttoaineiden elinkaarenaikaisten kasvihuonekaasupäästöjen vähentämisestä annetun lain kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
