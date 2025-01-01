@@ -8,4 +8,4 @@ Tässä laissa ja sen nojalla annetuissa säännöksissä erävalvonnalla tarkoi
 
 Erävalvontaan kuuluu lisäksi Metsähallituksen hallinnassa olevien valtion alueiden ja muun omaisuuden vartiointia.
 
-Edellä 1 momentissa säädetystä poiketen erävalvontaan ei kuulu Euroopan yhteisön yhteisen kalastuspolitiikan täytäntöönpanosta annetun lain (1139/1994) ja sen nojalla annettujen säännösten noudattamisen valvonta.
+Edellä 1 momentissa säädetystä poiketen erävalvontaan ei kuulu kaupallista kalastusta koskevaa Euroopan unionin yhteistä kalastuspolitiikkaa koskevan unionin lainsäädännön eikä sen toimeenpanemiseksi annetun kansallisen lainsäädännön noudattamisen valvonta.
