@@ -1,0 +1,9 @@
+# 12 § Siirtymäsäännökset
+
+Talous- ja velkaneuvojalla vireillä olevat neuvontatehtävät siirtyvät tämän lain voimaan tullessa oikeusapu- ja edunvalvontapiirin osoittaman palveluntuottajan talous- ja velkaneuvojalle. Kumottavassa laissa tarkoitetun palvelun tuottajan oikeudet ja velvollisuudet talous- ja velkaneuvonnassa lakkaavat siirtohetkellä. Tehtävän siirtävä palvelun tuottaja vastaa kuitenkin myös siirron jälkeen kaikista velvoitteista, jotka aiheutuvat sen toiminnasta talous- ja velkaneuvonnan tuottajana.
+
+Palveluntuottajan on pyynnöstä korvauksetta luovutettava talous- ja velkaneuvontatehtävässä vireillä olevissa asioissa kertyneet, asiakasta tai hänen asioitaan koskevat talous- ja velkaneuvonnassa tarpeelliset asiakirjat vastaan ottavalle palveluntuottajalle.
+
+Henkilö, joka toimii talous- ja velkaneuvojana tämän lain voimaan tullessa tai on toiminut talous- ja velkaneuvojana ennen lain voimaantuloa, on kelpoinen toimimaan talous- ja velkaneuvojana sen estämättä, mitä 4 §:ssä säädetään.
+
+Tämän lain nojalla oikeusapu- ja edunvalvontapiiriin siirtyvien tehtävien ja tehtäviä hoitavan henkilöstön siirtymiseen sovelletaan liikkeenluovutusta koskevia säännöksiä. Talous- ja velkaneuvontaa tuottavan kunnan tai muun palveluntuottajan palveluksessa oleva henkilö siirtyy oikeusapu- ja edunvalvontapiirin palvelukseen, jos henkilö toimii lain voimaan tullessa päätoimisesti talous- ja velkaneuvonnan tehtävissä ja hänet on otettu tehtävään ennen 1 päivää lokakuuta 2017. Päätoimiseksi katsotaan henkilö, jonka täydestä työajasta talous- ja velkaneuvonnan tehtävät muodostavat 1 päivänä lokakuuta 2017 vähintään 70 prosenttia. Henkilö siirtyy siihen oikeusapu- ja edunvalvontapiiriin, jonka alueella kumottavassa laissa tarkoitettu kunta tai muu palveluntuottaja toimii. Hän voi suostumuksellaan siirtyä myös toisen oikeusapu- ja edunvalvontapiirin alueelle perustettavaan virkaan.
