@@ -11,3 +11,5 @@ Asiakkaan etua arvioitaessa on kiinnitettävä huomiota siihen, miten eri toimin
 7) asiakassuhteen luottamuksellisuuden ja yhteistoiminnan asiakkaan kanssa.
 
 Sosiaalihuoltoa toteutettaessa on kiinnitettävä erityistä huomiota erityistä tukea tarvitsevien asiakkaiden edun toteutumiseen.
+
+Asiakkaan edun arvioinnissa ei oteta huomioon palvelusta määrättävää maksua. Sosiaalipalveluista perittävistä maksuista säädetään erikseen.
