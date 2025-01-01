@@ -11,6 +11,6 @@ Jos muutosneuvottelut koskevat 16 §:n 1 momentissa tarkoitettua yhden tai useam
 
 Jos jokin 2 momentissa tarkoitettu tieto ei ole vielä annettavissa neuvotteluesityksen antohetkellä, tiedot on annettava viimeistään muutosneuvottelujen alkaessa. Jos puuttuva tieto on olennainen ensimmäisessä kokouksessa neuvoteltavan asian kannalta, asian käsittelyä on työntekijän tai henkilöstön edustajan vaatimuksesta siirrettävä siten, että heillä on mahdollisuus valmistautua asian käsittelyyn.
 
-Edellä 2 momentissa tarkoitettuja asioita koskeva neuvotteluesitys on toimitettava myös työ- ja elinkeinotoimistolle viimeistään muutosneuvottelujen alkaessa.
+Edellä 2 momentissa tarkoitettuja asioita koskeva neuvotteluesitys on toimitettava myös työvoimaviranomaiselle viimeistään muutosneuvottelujen alkaessa.
 
 Jos muutosneuvottelut koskevat 16 §:n 2 momentissa tarkoitettua työntekijän asemaan vaikuttavaa olennaista muutosta, työnantajan on ennen muutosneuvotteluiden aloittamista annettava asian käsittelyn kannalta tarpeelliset tiedot asianomaisille työntekijöille tai henkilöstön edustajille.
