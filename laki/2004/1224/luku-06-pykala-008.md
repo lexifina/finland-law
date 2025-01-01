@@ -4,7 +4,7 @@ Luku: 6 luku Lääkevalmisteen korvattavuus ja tukkuhinta
 
 Myyntiluvan haltijan on haettava lääkevalmisteen erityiskorvattavuuden ja kohtuullisen tukkuhinnan vahvistamista lääkkeiden hintalautakunnalta.
 
-Myyntiluvan haltijan on hakemuksessa esitettävä yksilöity ja perusteltu ehdotus lääkevalmisteen erityiskorvattavuudesta ja valmisteelle vahvistettavasta kohtuullisesta tukkuhinnasta. Hakemukseen on sisällytettävä yksilöity ja perusteltu selvitys lääkevalmisteen:
+Myyntiluvan haltijan on hakemuksessa esitettävä yksilöity ja perusteltu ehdotus lääkevalmisteen erityiskorvattavuudesta ja valmisteelle vahvistettavasta kohtuullisesta tukkuhinnasta. Ellei HTA-asetuksen 10 artiklan 3 kohdasta muuta johdu, hakemukseen on sisällytettävä yksilöity ja perusteltu selvitys lääkevalmisteen:
 1) hoidollisesta arvosta;
 2) erityiskorvattavuudella saavutettavista hyödyistä sekä välttämättömyydestä ja korjaavasta tai korvaavasta vaikutustavasta;
 3) taloudellisuudesta ja erityiskorvattavuudesta aiheutuvista kustannuksista;

@@ -5,7 +5,7 @@ Väliotsikko: Korvattavuuden ja kohtuullisen tukkuhinnan vahvistamismenettely
 
 Myyntiluvan haltijan on haettava lääkevalmisteen peruskorvattavuuden ja kohtuullisen tukkuhinnan vahvistamista lääkkeiden hintalautakunnalta.
 
-Peruskorvattavuus- ja tukkuhintahakemuksessa on esitettävä yksilöity ja perusteltu ehdotus lääkevalmisteen peruskorvattavuudesta ja valmisteelle vahvistettavasta kohtuullisesta tukkuhinnasta. Hakemuksessa on oltava:
+Peruskorvattavuus- ja tukkuhintahakemuksessa on esitettävä yksilöity ja perusteltu ehdotus lääkevalmisteen peruskorvattavuudesta ja valmisteelle vahvistettavasta kohtuullisesta tukkuhinnasta. Ellei HTA-asetuksen 10 artiklan 3 kohdasta muuta johdu, hakemuksessa on oltava:
 1) selvitys lääkkeen käyttötarkoituksesta, hoidollisesta arvosta ja korvattavuudella saavutettavista hyödyistä verrattuna muihin saman sairauden hoidossa käytettäviin lääkevalmisteisiin;
 2) selvitys keskimääräisestä vuorokausiannoksesta ja tällä perusteella muodostuvasta ehdotetun tukkuhinnan ja arvonlisäverollisen vähittäismyyntihinnan mukaisesta lääkehoidon kustannuksesta;
 3) perusteltu arvio lääkkeen myynnistä ehdotetun tukkuhinnan ja arvonlisäverollisen vähittäismyyntihinnan perusteella sekä arvio valmistetta käyttävien potilaiden määrästä;
