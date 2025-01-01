@@ -1,0 +1,8 @@
+# 24 a § Palvelujen laadun seuranta
+Luku: 4 luku Palvelujen laadun varmistaminen
+
+Terveyden ja hyvinvoinnin laitoksen velvollisuudesta seurata iäkkäille henkilöille tuotettujen sosiaali- ja terveyspalvelujen laatua säädetään Terveyden ja hyvinvoinnin laitoksesta annetun lain (668/2008) 2 §:n 1 momentin 2 kohdassa. Laitoksen oikeudesta saada seurantaa varten välttämättömät tiedot sosiaali- ja terveydenhuollon järjestäjiltä ja tuottajilta säädetään mainitun lain 5 §:n 1 momentin 1 kohdassa. Velvollisuudesta luovuttaa tiedot laitokselle sekä tietojen keräämistä koskevasta laitoksen päätöksestä säädetään mainitun lain 5 c §:ssä.
+
+Osana 1 momentissa tarkoitettua seurantaa Terveyden ja hyvinvoinnin laitoksen on toteutettava valtakunnallinen asiakaskysely joka toinen vuosi. Laitos voi pyytää vastauksia kyselyyn niiltä iäkkäiltä henkilöiltä, jotka saavat sosiaalihuoltolain 19 a §:n mukaista kotihoitoa säännöllisesti tai mainitun lain 21 c §:n mukaista ympärivuorokautista palveluasumista pitkäaikaisesti. Iäkkäälle henkilölle edellä mainittuja palveluja antavan toimintayksikön on huolehdittava siitä, että sen asiakas saa hänelle soveltuvalla tavalla tiedot kyselyn tarkoituksesta sekä tietojen julkaisemisesta niin, ettei asiakas ole niistä tunnistettavissa ja asiakkaalla on mahdollisuus antaa vastauksensa kyselyyn. Kyselyyn vastaaminen on vapaaehtoista.
+
+Terveyden ja hyvinvoinnin laitos voi julkaista 1 ja 2 momentin mukaisesti keräämiinsä tietoihin perustuvat seurantaraportit palvelujen järjestäjä- ja toimintayksikkökohtaisina liikesalaisuutta koskevien säännösten estämättä. Seurantaraportit eivät saa sisältää sellaista tietoa, jonka perusteella toimintayksikön asiakas on suoraan tai välillisesti tunnistettavissa.

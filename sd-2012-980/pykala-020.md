@@ -1,0 +1,8 @@
+# 20 § Henkilöstö
+Luku: 4 luku Palvelujen laadun varmistaminen
+
+Toimintayksikössä on oltava henkilöstö, jonka määrä, koulutus ja tehtävärakenne vastaavat toimintayksikön palveluja saavien iäkkäiden henkilöiden määrää ja heidän toimintakykynsä edellyttämää palvelun tarvetta ja joka turvaa heille laadukkaat palvelut. Jos toimintayksikön tiloissa hoidettavana olevan iäkkään henkilön toimintakyky on alentunut siten, että hän tarvitsee huolenpitoa vuorokaudenajasta riippumatta, toimintayksikössä on oltava riittävästi henkilöstöä kaikkina vuorokauden aikoina. Lääkehoidon toteuttamiseen saa osallistua vain henkilö, jolla on tehtävän edellyttämä riittävä lääkehoidon koulutus ja osaaminen.
+
+Toteutuneen henkilöstömitoituksen on oltava vähintään 0,6 työntekijää asiakasta kohti sosiaalihuoltolain 21 c §:ssä tarkoitetun ympärivuorokautisen palveluasumisen toimintayksikössä, jolla on yhteiset toimitilat ja oma työvuorosuunnittelu ja joka toimii yhden esimiehen alaisuudessa. Henkilöstömitoituksen osalta on kuitenkin aina huomioitava, mitä edellä 1 momentissa säädetään iäkkäiden henkilöiden toimintakyvyn edellyttämästä palvelutarpeesta ja laadukkaiden palveluiden turvaamisesta. Toteutunut henkilöstömitoitus tarkoittaa toimintayksikössä paikalla olevien välitöntä asiakastyötä tekevien 3 a §:ssä tarkoitettujen työntekijöiden työpanosta suhteessa toimintayksikössä kolmen viikon seurantajakson aikana olevien asiakkaiden määrään. Välillistä työtä ei oteta huomioon henkilöstömitoituksessa.
+
+Iäkkäiden henkilöiden sosiaalihuoltolain 19 a §:ssä tarkoitettuun kotihoitoon kuuluvat kotikäynnit on suunniteltava mainitun lain 46 b §:n 1 momentin mukaisesti. Kotikäyntejä toteuttavan henkilöstön riittävyys on turvattava mainitun lain 49 b §:n mukaisesti.
