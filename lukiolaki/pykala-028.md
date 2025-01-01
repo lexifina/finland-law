@@ -1,8 +1,6 @@
-# 28 § Oppimisen tuki
+# 28 § Oikeus oppimisen tukeen
 Luku: 5 luku Opiskelijan oikeudet ja velvollisuudet
 
-Opiskelijalla, jolla on kielellisten erityisvaikeuksien tai muiden oppimisvaikeuksien vuoksi vaikeuksia suoriutua opinnoistaan, on oikeus saada erityisopetusta ja muuta oppimisen tukea yksilöllisten tarpeidensa mukaisesti. Tukitoimet toteutetaan opetushenkilöstön yhteistyönä.
+Opiskelijalla on oikeus oppimisen tukeen tässä laissa tarkoitettujen opintojen aikana. Oppimisen tuki on opiskelijan tarvitsemaa tukiopetusta, ohjausta ja tukea, jota hän tarvitsee lukion oppimäärän suorittamiseksi. Tukitoimet toteutetaan opetushenkilöstön yhteistyönä.
 
-Tuen tarvetta tulee arvioida opintojen alussa sekä säännöllisesti opintojen edetessä. Tukitoimet kirjataan opiskelijan pyynnöstä opiskelijan henkilökohtaiseen opintosuunnitelmaan.
-
-Opiskelijan oikeudesta opiskelun edellyttämiin avustajapalveluihin, erityisiin apuvälineisiin ja muihin palveluihin säädetään erikseen.
+Tuen tarvetta tulee arvioida opintojen alussa sekä säännöllisesti opintojen edetessä. Tukitoimet kirjataan opiskelijan pyynnöstä hänen henkilökohtaiseen opintosuunnitelmaansa.
