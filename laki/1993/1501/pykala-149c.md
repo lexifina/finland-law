@@ -1,9 +1,16 @@
 # 149 c §
 Osa: II OSA
-Luku: 14 a luku Verovelvollisuuden alarajaan liittyvä huojennus
+Luku: 14 luku Vähäisen toiminnan harjoittamista Yhteisössä koskeva erityisjärjestelmä
 
-Jos verovelvollinen on antamiensa virheellisten tai puutteellisten tietojen johdosta saanut liian suuren huojennuksen, Verohallinnon on määrättävä liika hyväksi saatu määrä verovelvollisen maksettavaksi kolmen vuoden kuluessa sen tilikauden päättymisestä, jota huojennus koskee.
+Suomeen sijoittautuneen elinkeinonharjoittajan on ilmoitettava etukäteen 149 b §:n 2 momentissa tarkoitettujen tietojen muutoksista.
 
-Jos verovelvollisen tilikausi ei ole kalenterivuosi ja verokausi on kalenterikuukausi, vero on määrättävä kolmen vuoden kuluessa sen tilikauden päättymistä seuraavan vuoden alusta, jota huojennus koskee. Jos verovelvollisen verokausi on poronhoitovuosi, vero on määrättävä kolmen vuoden kuluessa poronhoitovuoden päättymistä seuraavan vuoden alusta.
+Edellä 1 momentissa tarkoitetussa ilmoituksessa on oltava 149 d §:ssä tarkoitettu yksilöllinen tunniste ja seuraavat tiedot:
+1) uudet jäsenvaltiot, joissa verottomuutta aiotaan soveltaa;
+2) jäsenvaltiot, joissa verottomuuden soveltaminen lopetetaan;
+3) 149 b §:n 2 momentin 3 ja 4 kohdassa tarkoitetut tiedot.
 
-Edellä 1 momentin nojalla maksettavaksi määrätylle verolle määrätään veronkorotus siten kuin oma-aloitteisten verojen verotusmenettelystä annetun lain 37 ja 38 §:ssä säädetään.
+Edellä 1 momentissa tarkoitetussa ilmoituksessa saadaan ilmoittaa 2 momentin 3 kohdassa tarkoitetut tiedot vain siltä osin kuin ne eivät sisälly 149 e §:ssä tarkoitettuun neljänneskalenterivuosi-ilmoitukseen.
+
+Edellä 3 §:ssä tarkoitetun verottomuuden soveltamisen katsotaan päättyvän tässä pykälässä säädettyä ilmoitusta vastaavan toiseen jäsenvaltioon sijoittautuneen elinkeinonharjoittajan ilmoituksen vastaanottamista seuraavan neljänneskalenterivuoden alusta. Jos ilmoitus vastaanotetaan neljänneskalenterivuoden viimeisen kuukauden aikana, verottomuuden soveltamisen katsotaan kuitenkin päättyvän ilmoituksen vastaanottamista seuraavan kalenterivuoden neljänneksen toisen kuukauden alusta.
+
+Verohallinto antaa tarkemmat määräykset 2 ja 3 momentissa tarkoitetuista tiedoista.

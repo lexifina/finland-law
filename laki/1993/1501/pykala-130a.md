@@ -16,4 +16,4 @@ Palautusta ei saada:
 1) hyvinvointialueelta tai kunnalta tehdyistä hankinnoista eikä niille annetusta tuesta tai avustuksesta;
 2) työsuhteen perusteella maksettavista korvauksista.
 
-Palautukseen oikeutetun on ilmoitettava Verohallinnolle kalenterivuodelta 1–3 momentin nojalla palautuksena saatavien laskennallisten verojen yhteismäärä viimeistään kalenterivuotta seuraavan toisen kuukauden loppuun mennessä siltä osin kuin tietoja ei ole aikaisemmin ilmoitettu.
+Palautukseen oikeutetun on ilmoitettava Verohallinnolle kalenterivuodelta 1–3 momentin nojalla palautuksena saatavien laskennallisten verojen yhteismäärä viimeistään kalenterivuotta seuraavan toisen kuukauden loppuun mennessä siltä osin kuin tietoja ei ole aikaisemmin ilmoitettu. Ilmoittamisvelvollisuuden laiminlyönnin seuraamuksesta säädetään oma-aloitteisten verojen verotusmenettelystä annetun lain 39 §:ssä.

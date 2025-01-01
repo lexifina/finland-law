@@ -2,4 +2,6 @@
 Osa: I OSA
 Luku: 12 luku Veron palauttaminen muille kuin verovelvollisille
 
-Jos palautushakemus koskee koko kalenterivuotta tai sen loppuosaa, palautusta ei makseta, jos palautettava määrä on alle 50 euroa. Muussa tapauksessa palautusta ei makseta, jos palautettava määrä on alle 400 euroa.
+Mitä oma-aloitteisten verojen verotusmenettelystä annetun lain 59 §:ssä säädetään verovelvollisesta, sovelletaan myös 125 §:ssä tarkoitettuun palautukseen oikeutettuun.
+
+Haettaessa muutosta 125 §:n nojalla tehtyyn päätökseen oikaisuvaatimuksen tekemisen määräaika lasketaan sen kalenterivuoden päättymisestä, johon kuuluvaa ajanjaksoa päätös koskee.

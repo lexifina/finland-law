@@ -16,4 +16,4 @@ Veroa ei suoriteta seuraavista myynneistä:
 
 Veroa suoritetaan matkatavaroissa mukaan otettavien tavaroiden myynnistä vesi- tai ilma-aluksessa matkustaville, jos myynti tapahtuu 63 d §:ssä tarkoitetun henkilökuljetuksen aikana.
 
-Edellä 1 momenttia ei sovelleta sähkön, unionin alueella sijaitsevan maakaasuverkon tai siihen yhdistetyn verkon kautta toimitettavan kaasun eikä lämpö- ja jäähdytysverkon kautta toimitettavan lämpö- ja jäähdytysenergian myyntiin.
+Edellä 1 momenttia ei sovelleta sähkön, Yhteisön alueella sijaitsevan maakaasuverkon tai siihen yhdistetyn verkon kautta toimitettavan kaasun eikä lämpö- ja jäähdytysverkon kautta toimitettavan lämpö- ja jäähdytysenergian myyntiin.

@@ -1,5 +1,9 @@
 # 149 d §
 Osa: II OSA
-Luku: 14 a luku Verovelvollisuuden alarajaan liittyvä huojennus
+Luku: 14 luku Vähäisen toiminnan harjoittamista Yhteisössä koskeva erityisjärjestelmä
 
-Huojennusta oikaistaan, jos verovelvollinen on saanut liian suuren tai liian pienen huojennuksen tilikaudelta suoritettavan tai vähennettävän veron määrää koskevan oikaisuilmoituksen, veroviranomaisen päätöksen tai muutoksenhaun johdosta. Oikaisu voidaan tehdä, vaikka 149 b §:n 4 momentissa tai 149 c §:ssä tarkoitettu määräaika on päättynyt.
+Suomeen sijoittautunut elinkeinonharjoittaja merkitään erilliseen tunnistamisrekisteriin ja hänelle annetaan yksilöllinen tunniste verottomuuden soveltamista varten.
+
+Edellä 1 momentissa tarkoitettu yksilöllinen tunniste on elinkeinonharjoittajalle Suomessa myönnetty arvonlisäverotunniste tai arvonlisäverotunnistetta vastaava tunniste, johon on lisätty pääte "EX".
+
+Verohallinto antaa tarkemmat määräykset 1 momentissa tarkoitetusta tunnisteesta ja tunnisteen tiedoksiantotavasta.

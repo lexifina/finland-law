@@ -31,3 +31,5 @@ Edellä 1 momentin 8 ja 10 kohdassa suoritettavan veron määrällä ja veron pe
 Jos ostaja on myynnistä verovelvollinen, laskuun on merkittävä 1 momentin 8–10 kohdassa tarkoitettujen tietojen sijasta veron peruste kunkin myydyn tavara- ja palvelulajin osalta.
 
 Yksikköhintaa ei tarvitse merkitä 209 b §:n 3 momentin 2 kohdassa tarkoitettuihin laskuihin.
+
+Tässä pykälässä säädettyjen laskumerkintöjen tekemistä koskevien velvollisuuksien laiminlyönnin seuraamuksesta säädetään oma-aloitteisten verojen verotusmenettelystä annetun lain 39 §:ssä.

@@ -1,7 +1,6 @@
 # 19 a §
 Osa: I OSA
 Luku: 3 luku Verollinen myynti
-Väliotsikko: Väliotsikko on kumottu L:lla 7.5.2021/387, joka tuli voimaan 1.7.2021. Aiempi sanamuoto kuuluu: Liikkeen tai sen osan luovutus
 
 Yhteisön sisäisellä tavaroiden etämyynnillä tarkoitetaan myyntiä, jossa myyjä tai joku muu myyjän puolesta kuljettaa tavaran ostajalle jäsenvaltiosta toiseen.
 
@@ -15,6 +14,6 @@ Etämyynnistä on kyse, jos:
 3) tavara ei ole 26 d §:ssä tarkoitettu uusi kuljetusväline;
 4) myyjä ei asenna tai kokoa tavaroita jäsenvaltiossa, jossa kuljetus päättyy;
 5) myyntiin ei sovelleta Suomessa tai toisessa jäsenvaltiossa 79 a §:ssä tarkoitettua menettelyä tai sitä vastaavaa menettelyä;
-6) kyse ei ole sähkön, unionin alueella sijaitsevan maakaasuverkon tai siihen yhdistetyn verkon kautta toimitettavan kaasun eikä lämpö- ja jäähdytysverkon kautta toimitettavan lämpö- ja jäähdytysenergian myynnistä.
+6) kyse ei ole sähkön, Yhteisön alueella sijaitsevan maakaasuverkon tai siihen yhdistetyn verkon kautta toimitettavan kaasun eikä lämpö- ja jäähdytysverkon kautta toimitettavan lämpö- ja jäähdytysenergian myynnistä.
 
 Valmisteveron alaisten tavaroiden myynti on etämyyntiä vain silloin, kun ostajana on yksityishenkilö.

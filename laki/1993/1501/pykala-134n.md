@@ -1,6 +1,6 @@
 # 134 n §
-Osa: II OSA
-Luku: 13 luku Otsikko on kumottu L:lla 27.6.2014/505.
+Osa: I OSA
+Luku: 12 a luku Palvelujen myyntiä, tavaroiden etämyyntiä sekä eräitä sähköistä rajapintaa käyttämällä tehtäviä tavaroiden myyntejä koskevat erityisjärjestelmät
 
 Verovelvollista, joka käyttää 133 d §:ssä tarkoitettua erityisjärjestelmää, ei merkitä 172 §:ssä tarkoitettuun arvonlisäverovelvollisten rekisteriin erityisjärjestelmän piiriin kuuluvista liiketoimista.
 

@@ -2,4 +2,7 @@
 Osa: I OSA
 Luku: 7 luku Veron peruste
 
-Verovelvollinen jälleenmyyjä saa soveltaa 79 a §:ssä tarkoitettua menettelyä myös itse maahantuomiinsa taide-, keräily- ja antiikkiesineisiin taikka sellaisiin ostamiinsa taide-esineisiin, joiden myyntiin tai yhteisöhankintaan on sovellettu 85 a §:n 1 momentin 9 kohdan mukaisesti alennettua verokantaa.
+Jollei asianomaisiin verovelvolliselle jälleenmyyjälle luovutettuihin tai tämän maahantuomiin taide-, keräily- ja antiikkiesineisiin ole sovellettu alennettua verokantaa, verovelvollisella jälleenmyyjällä on oikeus valita voittomarginaalijärjestelmän soveltaminen seuraavien liiketoimien osalta:
+1) niiden taide-, keräily- tai antiikkiesineiden luovutukset, jotka verovelvollinen jälleenmyyjä itse on maahantuonut;
+2) tekijän tai tämän oikeudenomistajien verovelvolliselle jälleenmyyjälle luovuttamien taide-esineiden luovutukset;
+3) muun verovelvollisen kuin verovelvollisen jälleenmyyjän verovelvolliselle jälleenmyyjälle luovuttamien taide-esineiden luovutukset.

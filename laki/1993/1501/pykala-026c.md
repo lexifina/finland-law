@@ -12,7 +12,7 @@ Yhteisöhankinnasta ei kuitenkaan ole kyse siltä osin kuin hankintojen arvo ilm
 
 Yhteisöhankinnasta ei myöskään ole kyse, jos:
 1) tavaran myynnistä ei olisi 38 d tai 58 §:n taikka 70 §:n 1 momentin 6–8 kohdan nojalla suoritettava veroa, jos myynti tapahtuisi Suomessa;
-2) tavaran hankinta oikeuttaisi 127 §:ssä tarkoitettuun palautukseen, jos myynti tapahtuisi Suomessa; tai
+2) tavaran hankinta oikeuttaisi 127 tai 129 c §:ssä tarkoitettuun palautukseen, jos myynti tapahtuisi Suomessa; tai
 3) hankkijana on kansainvälinen järjestö tai sen henkilökunta, joka olisi perustamis- tai isäntämaasopimuksen mukaan oikeutettu hankintaan sisältyvän veron palautukseen, jos myynti tapahtuisi Suomessa.
 
 Pykälän 2 momentti ei koske uusien kuljetusvälineiden eikä valmisteveron alaisten tavaroiden hankintaa.

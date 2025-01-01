@@ -15,4 +15,4 @@ Edellä 1 momentissa tarkoitettuja palveluja ovat:
 7) työvoiman vuokraus;
 8) irtaimen esineen vuokraus, lukuun ottamatta kuljetusvälineen vuokrausta;
 9) velvollisuus kokonaan tai osittain pidättäytyä 1 kohdassa tarkoitetun oikeuden käyttämisestä tai tietyn liiketoiminnan harjoittamisesta;
-10) pääsyn tarjoaminen unionin alueella sijaitsevaan maakaasuverkkoon tai siihen yhdistettyyn verkkoon, sähköverkkoon tai lämpö- ja jäähdytysverkkoon, niiden kautta tapahtuva sähkön, kaasun sekä lämpö- ja jäähdytysenergian siirto ja jakelu sekä muut näihin toimiin välittömästi liittyvät palvelut.
+10) pääsyn tarjoaminen Yhteisön alueella sijaitsevaan maakaasuverkkoon tai siihen yhdistettyyn verkkoon, sähköverkkoon tai lämpö- ja jäähdytysverkkoon, niiden kautta tapahtuva sähkön, kaasun sekä lämpö- ja jäähdytysenergian siirto ja jakelu sekä muut näihin toimiin välittömästi liittyvät palvelut.

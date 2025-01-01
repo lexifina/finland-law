@@ -16,6 +16,6 @@ Mitä 3 momentin 1 kohdassa säädetään, sovelletaan vain, jos ostajan hankinn
 
 Edellä 26 d §:ssä tarkoitettujen uusien kuljetusvälineiden myynti katsotaan yhteisömyynniksi myös silloin, kun kyse on 3 momentissa tarkoitetusta tilanteesta tai kun ostaja on yksityishenkilö.
 
-Tavaran myyntiä ei pidetä yhteisömyyntinä, jos myyntiin on sovellettu 79 a §:ssä tarkoitettua menettelyä taikka jos kyse on sähkön, unionin alueella sijaitsevan maakaasuverkon tai siihen yhdistetyn verkon kautta toimitettavan kaasun taikka lämpö- ja jäähdytysverkon kautta toimitettavan lämpö- ja jäähdytysenergian myynnistä.
+Tavaran myyntiä ei pidetä yhteisömyyntinä, jos myyntiin on sovellettu 79 a §:ssä tarkoitettua menettelyä taikka jos kyse on sähkön, Yhteisön alueella sijaitsevan maakaasuverkon tai siihen yhdistetyn verkon kautta toimitettavan kaasun taikka lämpö- ja jäähdytysverkon kautta toimitettavan lämpö- ja jäähdytysenergian myynnistä.
 
 Yhteisömyyntinä pidetään myös 18 a §:ssä tarkoitettua tavaran siirtoa.

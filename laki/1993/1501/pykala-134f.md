@@ -1,6 +1,6 @@
 # 134 f §
-Osa: II OSA
-Luku: 13 luku Otsikko on kumottu L:lla 27.6.2014/505.
+Osa: I OSA
+Luku: 12 a luku Palvelujen myyntiä, tavaroiden etämyyntiä sekä eräitä sähköistä rajapintaa käyttämällä tehtäviä tavaroiden myyntejä koskevat erityisjärjestelmät
 
 Jollei tässä luvussa toisin säädetä, 12 a luvussa tarkoitettua erityisjärjestelmää käyttävään verovelvolliseen, jonka tunnistamisjäsenvaltio on Suomi, sovelletaan, mitä 13–22 luvussa, oma-aloitteisten verojen verotusmenettelystä annetussa laissa, veronkantolaissa, veronlisäyksestä ja viivekorosta annetussa laissa tai muussa laissa säädetään verovelvollisesta. Sama koskee verovelvollista, jonka tunnistamisjäsenvaltio on toinen jäsenvaltio siltä osin kuin kysymys on Suomeen suoritettavasta verosta.
 

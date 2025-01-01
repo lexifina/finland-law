@@ -1,6 +1,6 @@
 # 134 l §
-Osa: II OSA
-Luku: 13 luku Otsikko on kumottu L:lla 27.6.2014/505.
+Osa: I OSA
+Luku: 12 a luku Palvelujen myyntiä, tavaroiden etämyyntiä sekä eräitä sähköistä rajapintaa käyttämällä tehtäviä tavaroiden myyntejä koskevat erityisjärjestelmät
 
 Veronkantolain 6, 22–24 ja 26 §:ssä säädetystä poiketen 12 a luvussa tarkoitettua erityisjärjestelmää käyttävän verovelvollisen Suomeen tunnistamisjäsenvaltion kautta suoritetun veron palautus käytetään kyseisen erityisjärjestelmän erääntyneiden ja erääntymättömien verojen suoritukseksi eräpäivän mukaisessa järjestyksessä vanhimmasta uusimpaan. Myöhässä ilmoitetun veron eräpäivänä pidetään päivää, jolloin veroilmoitus on annettu.
 

@@ -1,8 +1,8 @@
 # 134 q §
-Osa: II OSA
-Luku: 13 luku Otsikko on kumottu L:lla 27.6.2014/505.
+Osa: I OSA
+Luku: 12 a luku Palvelujen myyntiä, tavaroiden etämyyntiä sekä eräitä sähköistä rajapintaa käyttämällä tehtäviä tavaroiden myyntejä koskevat erityisjärjestelmät
 
-Verovelvollisen, jonka tunnistamisjäsenvaltio on Suomi, on korjattava erityisjärjestelmässä 133 h, 133 o ja 133 w §:n mukaan annettavassa veroilmoituksessa oleva virhe seuraavilta verokausilta annettavassa veroilmoituksessa. Ilmoituksessa on eriteltävä liikaa tai liian vähän ilmoitetun arvonlisäveron määrä jokaisen kulutusjäsenvaltion ja verokauden osalta, jota virhe koskee, sekä ilmoitettava kyseinen kulutusjäsenvaltio ja verokausi. Virhe on korjattava kolmen vuoden kuluessa siitä, kun veroilmoitus oli mainittujen pykälien mukaan annettava.
+Verovelvollisen, jonka tunnistamisjäsenvaltio on Suomi, on korjattava erityisjärjestelmässä 133 h, 133 o ja 133 w §:n mukaan annettavassa veroilmoituksessa oleva virhe myöhemmin annettavassa veroilmoituksessa. Ilmoituksessa on eriteltävä liikaa tai liian vähän ilmoitetun arvonlisäveron määrä jokaisen kulutusjäsenvaltion ja verokauden osalta, jota virhe koskee, sekä ilmoitettava kyseinen kulutusjäsenvaltio ja verokausi. Virhe on korjattava kolmen vuoden kuluessa siitä, kun veroilmoitus oli mainittujen pykälien mukaan annettava.
 
 Liikaa tai liian vähän ilmoitetun veron määrä pienentää tai suurentaa sen verokauden 133 i ja 133 p §:n sekä 133 x §:n 1 momentissa tarkoitettua tilitettävän veron määrää, jolta annettavassa veroilmoituksessa 1 momentissa tarkoitettu korjaus on tehty. Jos jollekin kulutusjäsenvaltiolle tältä verokaudelta suoritettavien verojen yhteismäärä muodostuu korjausten johdosta negatiiviseksi, negatiivinen määrä ei pienennä verokaudelta tilitettävää veroa.
 

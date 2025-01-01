@@ -1,6 +1,6 @@
 # 134 c §
-Osa: II OSA
-Luku: 13 luku Otsikko on kumottu L:lla 27.6.2014/505.
+Osa: I OSA
+Luku: 12 a luku Palvelujen myyntiä, tavaroiden etämyyntiä sekä eräitä sähköistä rajapintaa käyttämällä tehtäviä tavaroiden myyntejä koskevat erityisjärjestelmät
 
 Veroilmoitus on tehtävä euroina. Jos myynti on tapahtunut muuna valuuttana, veroilmoituksessa on käytettävä verokauden viimeisen päivän vaihtokurssia. Muuntamisessa on käytettävä Euroopan keskuspankin kyseiselle päivälle julkaisemia vaihtokursseja tai, jos kursseja ei ole julkaistu kyseisenä päivänä, seuraavan julkaisupäivän vaihtokursseja.
 
