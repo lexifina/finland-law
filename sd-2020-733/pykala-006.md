@@ -1,7 +1,7 @@
 # 6 § Laajamittaisesti korjattavan rakennuksen varustaminen sähköajoneuvojen latauspisteillä tai latauspistevalmiudella
 Luku: 2 luku Sähköajoneuvojen latauspisteet ja latauspistevalmius rakennuksissa
 
-Rakennushankkeeseen ryhtyvän on huolehdittava, että rakennuksen yhteyteen suunnitellaan ja asennetaan sähköajoneuvojen latauspisteet tai latauspistevalmius tämän lain mukaan, jos kyse on laajamittaisesta korjaustyöstä, jonka rakentamiseen on haettava maankäyttö- ja rakennuslain 125 §:n mukainen rakennuslupa.
+Rakentamishankkeeseen ryhtyvän on huolehdittava, että rakennuksen yhteyteen suunnitellaan ja asennetaan sähköajoneuvojen latauspisteet tai latauspistevalmius tämän lain mukaan, jos kyse on laajamittaisesta korjaustyöstä, jonka rakentamiseen on haettava rakentamislain 42 §:n mukainen rakentamislupa.
 
 Sellaisen laajamittaisen korjauksen kohteena olevan asuinrakennuksen yhteyteen, jossa on enemmän kuin neljä pysäköintipaikkaa, on asennettava latauspistevalmius siten, että jokaiseen pysäköintipaikkaan voidaan myöhemmin asentaa latauspiste.
 
