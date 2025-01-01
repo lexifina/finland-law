@@ -1,7 +1,7 @@
 # 1 § Syyteoikeuden vanhentuminen
 Luku: 8 luku Vanhentumisesta
 
-Oikeus syyttää rikoksesta, josta säädetty ankarin rangaistus on elinkautinen vankeus, ei vanhennu.
+Oikeus syyttää rikoksesta, josta säädetty ankarin rangaistus on elinkautinen vankeus, ei vanhennu. Syyteoikeus ei vanhennu myöskään, jos kysymyksessä on täytetty tappo.
 
 Syyteoikeus vanhentuu, jollei syytettä ole nostettu
 1) kahdessakymmenessä vuodessa, jos rikoksesta säädetty ankarin rangaistus on vankeutta määräajaksi yli kahdeksan vuoden,
