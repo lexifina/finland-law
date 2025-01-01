@@ -17,4 +17,4 @@ Työturvallisuutta koskevista vaatimuksista säädetään työturvallisuuslaissa
 
 Kevythissien, liukuportaiden, liukukäytävien ja nosto-ovien markkinoille saattamisesta säädetään eräiden teknisten laitteiden vaatimustenmukaisuudesta annetussa laissa (1016/2004) ja kuluttajaturvallisuuslaissa (920/2011).
 
-Hissin konehuoneeseen ja pyörästötiloihin johtavista kulkuteistä säädetään maankäyttö- ja rakennuslaissa (132/1999) ja sen nojalla annetuissa säännöksissä.
+Hissin konehuoneeseen ja pyörästötiloihin johtavista kulkuteistä säädetään rakentamislaissa (751/2023) ja sen nojalla annetuissa säännöksissä.
