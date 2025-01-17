@@ -19,3 +19,10 @@ Lisäeläkelaitoksen on vahvistettava palkka- ja palkkiopolitiikan yleiset peria
 2) vastattava lisäeläkelaitoksen hallinnoimien lisäeläkejärjestelyjen vakuutettujen ja etuudensaajien pitkän aikavälin etuja;
 3) sisällettävä toimenpiteitä, joilla pyritään välttämään eturistiriidat;
 4) oltava johdonmukainen moitteettoman ja tehokkaan riskienhallinnan kanssa.
+
+Lisäeläkelaitoksen on samalla kun se julkistaa merkitykselliset tiedot palkka- ja palkkiopolitiikastaan, toimitettava ne Finanssivalvonnalle ammatillisia lisäeläkkeitä tarjoavien laitosten toiminnasta ja valvonnasta annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2016/2341 63 a artiklaa noudattaen ESAP-asetuksen 2 artiklan 3 tai 4 alakohdan mukaisessa muodossa. Tietoihin on liitettävä seuraavat tiedot:
+1) lisäeläkelaitoksen nimet, johon tiedot liittyvät;
+2) ESAP-asetuksen 7 artiklan 4 kohdan b alakohdassa tarkoitettu lisäeläkelaitoksen oikeushenkilötunnus;
+3) ESAP-asetuksen 7 artiklan 4 kohdan d alakohdassa tarkoitettu lisäeläkelaitoksen kokoluokka;
+4) ESAP-asetuksen 7 artiklan 4 kohdan c alakohdassa tarkoitettu tietojen tyyppi;
+5) maininta siitä, sisältyykö tietoihin henkilötietoja.

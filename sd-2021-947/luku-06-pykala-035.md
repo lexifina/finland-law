@@ -15,3 +15,5 @@ Jos 2 momentissa tarkoitetun omaisuudenhoitajan, rahastoyhtiön tai vaihtoehtora
 Mitä 2 ja 3 momentissa säädetään lisäeläkelaitoksesta, sovelletaan myös lisäeläkelaitokseen, jonka lukuun sijoituspalvelulaissa tarkoitettu ulkomainen ETA-sijoituspalveluyritys tai ulkomainen ETA-luottolaitos, sijoitusrahastolaissa tarkoitettu ulkomainen ETA-rahastoyhtiö tai vaihtoehtorahastojen hoitajista annetussa laissa tarkoitettu ETA-vaihtoehtorahaston hoitaja toteuttaa sijoitustoimintaa.
 
 Tässä pykälässä tarkoitettujen tietojen on oltava maksutta yleisesti saatavilla lisäeläkelaitoksen internetsivuilla. Jos 2 momentissa tarkoitetut tiedot muuttuvat olennaisesti, muuttuneet tiedot on päivitettävä internetsivuille vähintään vuosittain.
+
+Samalla kun lisäeläkelaitos julkistaa 1–3 momentissa tarkoitetut tiedot, sen on toimitettava ne Finanssivalvonnalle osakkeenomistajien eräiden oikeuksien käyttämisestä julkisesti noteeratuissa yhtiöissä annetun Euroopan parlamentin ja neuvoston direktiivin 2007/36/EY 14 c artiklaa noudattaen ESAP-asetuksen 2 artiklan 3 tai 4 alakohdan mukaisessa muodossa. Tietoihin on liitettävä tämän lain 3 luvun 16 §:n 6 momentissa tarkoitetut tiedot.

@@ -8,3 +8,5 @@ Lisäeläkelaitoksen hallituksen on laadittava laitoksen varojen sijoittamista k
 4) selvitys lisäeläkelaitoksen luottoarviointiprosessista sekä sen riittävyydestä ottaen huomioon lisäeläkelaitoksen toiminnan koko, luonne, laajuus ja monitahoisuus.
 
 Sijoitussuunnitelma on toimitettava Finanssivalvonnalle. Finanssivalvonta antaa tarkempia määräyksiä sijoitussuunnitelmasta.
+
+Lisäeläkelaitoksen on samalla, kun se julkistaa 1 momentissa tarkoitetun sijoituspolitiikan periaatteita koskevan selvityksen, toimitettava se Finanssivalvonnalle ammatillisia lisäeläkkeitä tarjoavien laitosten toiminnasta ja valvonnasta annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2016/2341 63 a artiklaa noudattaen ESAP-asetuksen 2 artiklan 3 tai 4 alakohdan mukaisessa muodossa. Tietoihin on liitettävä tämän lain 3 luvun 16 §:n 6 momentissa tarkoitetut tiedot.
