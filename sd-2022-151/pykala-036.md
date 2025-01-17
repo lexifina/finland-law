@@ -15,4 +15,13 @@ Tässä pykälässä säädetyt tiedot on eriteltävä katepoolikohtaisesti.
 
 Liikkeeseenlaskijan on pidettävä nähtävillä internetsivuillaan 1 momentissa tarkoitetut tiedot vähintään kuluvalta sekä viideltä sitä edeltäneeltä kalenterivuodelta.
 
+Liikkeeseenlaskijan on samalla kun se julkistaa 1 momentissa tarkoitettuja tietoja, toimitettava ne Finanssivalvonnalle katettujen joukkolainojen liikkeeseenlaskusta ja katettujen joukkolainojen julkisesta valvonnasta sekä direktiivien 2009/65/EY ja 2014/59/EU muuttamisesta annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2019/2162 26 a artiklaa noudattaen ESAP-asetuksen 2 artiklan 3 tai 4 alakohdan mukaisessa muodossa. Tietoihin on liitettävä seuraavat tiedot:
+1) liikkeeseenlaskijan nimet, johon tiedot liittyvät;
+2) ESAP-asetuksen 7 artiklan 4 kohdan b alakohdassa tarkoitettu liikkeeseenlaskijan oikeushenkilötunnus;
+3) ESAP-asetuksen 7 artiklan 4 kohdan d alakohdassa tarkoitettu liikkeeseenlaskijan kokoluokka;
+4) ESAP-asetuksen 7 artiklan 4 kohdan c alakohdassa tarkoitettu tietojen tyyppi;
+5) maininta siitä, sisältyykö tietoihin henkilötietoja.
+
+Liikkeeseenlaskijalla on oltava ESAP-asetuksen 7 artiklan 4 kohdan b alakohdassa tarkoitettu oikeushenkilötunnus.
+
 Finanssivalvonta voi antaa tarkempia määräyksiä 1 momentissa tarkoitettujen tietojen erittelemisestä ja esittämistavasta.
