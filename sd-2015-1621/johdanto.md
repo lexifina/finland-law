@@ -1,0 +1,2 @@
+Laki kaivannaisteollisuutta ja puunkorjuuta aarniometsissä harjoittavien yritysten viranomaisille suorittamien maksujen julkistamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
