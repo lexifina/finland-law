@@ -1,6 +1,6 @@
 # 1 § Rakennusten energiatodistustietojärjestelmä
 
-Asumisen rahoitus- ja kehittämiskeskus pitää vastuullisena rekisterinpitäjänä rakennusten energiatodistustietojärjestelmää. Tietojärjestelmää pidetään:
+Valtion tukeman asuntorakentamisen keskus pitää rekisterinpitäjänä rakennusten energiatodistustietojärjestelmää. Tietojärjestelmää pidetään:
 1) rakennuksen energiatodistuksesta annetussa laissa (50/2013) tarkoitettujen energiatodistusten laatimista varten;
 2) energiatodistusten laatimisen valvomiseksi;
 3) todistusten ja niissä olevien tietojen käytön valvomiseksi;
