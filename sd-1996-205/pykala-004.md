@@ -4,4 +4,4 @@ Korkotukilainaksi voidaan hyväksyä vain asuntolaina, jota koskeva sopimus on k
 
 Korkotukilainalla lainoitettavien asuntojen on oltava asuttavuudeltaan tarkoituksenmukaisia ja asuinympäristöltään toimivia sekä uudisrakentamis- tai perusparannuskustannuksiltaan kohtuullisia.
 
-Uudisrakentamisen ja perusparantamisen on perustuttava kilpailumenettelyyn, jollei Asumisen rahoitus- ja kehittämiskeskus erityisestä syystä myönnä siitä poikkeusta.
+Uudisrakentamisen ja perusparantamisen on perustuttava kilpailumenettelyyn, jollei Valtion tukeman asuntorakentamisen keskus erityisestä syystä myönnä siitä poikkeusta.
