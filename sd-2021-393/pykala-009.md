@@ -2,7 +2,7 @@
 Osa: I OSA YLEISET SÄÄNNÖKSET
 Luku: 1 luku Lain soveltamisala ja asumisoikeustoiminnan keskeiset periaatteet
 
-Valtion tukemassa asumisoikeustalossa Asumisen rahoitus- ja kehittämiskeskuksen hyväksymistä rakennus- tai hankintakustannuksista (hankinta-arvo) voidaan kerätä asumisoikeusmaksuina enintään 15 prosenttia.
+Valtion tukemassa asumisoikeustalossa Valtion tukeman asuntorakentamisen keskuksen hyväksymistä rakennus- tai hankintakustannuksista (hankinta-arvo) voidaan kerätä asumisoikeusmaksuina enintään 15 prosenttia.
 
 Vapaarahoitteisessa asumisoikeustalossa voidaan kerätä asumisoikeusmaksuina enintään 30 prosenttia omistajan ilmoittamasta hankinta-arvosta.
 

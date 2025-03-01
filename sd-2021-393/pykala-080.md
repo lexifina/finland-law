@@ -2,7 +2,7 @@
 Osa: III OSA ASUMISOIKEUSYHTEISÖN TOIMINTA
 Luku: 10 luku Asumisoikeustalon luovuttaminen
 
-Valtion tukema asumisoikeustalo tai sen omistavan yhtiön osake saadaan luovuttaa vain kunnalle tai Asumisen rahoitus- ja kehittämiskeskuksen hyväksymälle luovutuksensaajalle, jolle voitaisiin myöntää asumisoikeustalon vuokra-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetussa laissa tarkoitettu korkotukilaina. Osake saadaan lisäksi luovuttaa muulle Asumisen rahoitus- ja kehittämiskeskuksen hyväksymälle luovutuksensaajalle, jonka voidaan katsoa vastaavan osakkeiden luovuttajaa.
+Valtion tukema asumisoikeustalo tai sen omistavan yhtiön osake saadaan luovuttaa vain kunnalle tai Valtion tukeman asuntorakentamisen keskuksen hyväksymälle luovutuksensaajalle, jolle voitaisiin myöntää asumisoikeustalon vuokra-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetussa laissa tarkoitettu korkotukilaina. Osake saadaan lisäksi luovuttaa muulle Valtion tukeman asuntorakentamisen keskuksen hyväksymälle luovutuksensaajalle, jonka voidaan katsoa vastaavan osakkeiden luovuttajaa.
 
 Vapaarahoitteinen asumisoikeustalo tai sen omistavan yhtiön osake saadaan luovuttaa 4 §:ssä tarkoitetulle luovutuksensaajalle. Jos samalla omistajalla on sekä valtion tukemia että vapaarahoitteisia asumisoikeusasuntoja ja yhtiön osake luovutetaan, sovelletaan, mitä 1 momentissa säädetään.
 
