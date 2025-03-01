@@ -1,6 +1,6 @@
 # 5 § Takauslainan hyväksyminen
 
-Asumisen rahoitus- ja kehittämiskeskus päättää asunto-osakeyhtiöille myönnettävän lainan hyväksymisestä takauslainaksi.
+Valtion tukeman asuntorakentamisen keskus päättää asunto-osakeyhtiöille myönnettävän lainan hyväksymisestä takauslainaksi.
 
 Takauslainaksi hyväksyminen edellyttää, että lainansaajalla arvioidaan olevan riittävät edellytykset takauslainan takaisin maksamiseen.
 
