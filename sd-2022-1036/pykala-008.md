@@ -1,8 +1,8 @@
 # 8 § Viranomaisten tehtävät
 
-Asumisen rahoitus- ja kehittämiskeskus toimii valtionapuviranomaisena tässä laissa tarkoitetuissa avustuksissa.
+Valtion tukeman asuntorakentamisen keskus toimii valtionapuviranomaisena tässä laissa tarkoitetuissa avustuksissa.
 
-Asumisen rahoitus- ja kehittämiskeskus tukee kuntia asumisneuvontapalvelujen kehittämisessä ja seuraa asumisneuvontapalvelujen saatavuutta ja järjestämistapoja. Sen lisäksi, mitä valtionavustuslain 14 §:ssä säädetään valtionavustuksen saajan tiedonantovelvollisuudesta, avustuksen saajan on toimitettava Asumisen rahoitus- ja kehittämiskeskukselle riittävät tiedot alueellaan saatavilla olevista asumisneuvontapalveluista.
+Valtion tukeman asuntorakentamisen keskus tukee kuntia asumisneuvontapalvelujen kehittämisessä ja seuraa asumisneuvontapalvelujen saatavuutta ja järjestämistapoja. Sen lisäksi, mitä valtionavustuslain 14 §:ssä säädetään valtionavustuksen saajan tiedonantovelvollisuudesta, avustuksen saajan on toimitettava keskukselle riittävät tiedot alueellaan saatavilla olevista asumisneuvontapalveluista.
 
 Ympäristöministeriö seuraa lain toimeenpanoa ja vastaa lain toimivuuden arvioimisesta.
 
