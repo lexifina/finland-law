@@ -1,5 +1,5 @@
 # 13 § Muutoksenhaku
 
-Hakija saa hakea muutosta Asumisen rahoitus- ja kehittämiskeskuksen päätökseen siten kuin valtionavustuslaissa säädetään.
+Muutoksenhaussa Valtion tukeman asuntorakentamisen keskuksen päätökseen noudatetaan, mitä valtionavustuslaissa säädetään.
 
 Avustuksen myöntämistä koskevaan oikaisuvaatimukseen annettuun päätökseen ei kuitenkaan saa hakea muutosta valittamalla.

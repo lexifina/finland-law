@@ -6,4 +6,4 @@ Avustusta voidaan myöntää kohteen korkotukilainoitettavaksi hyväksytyistä r
 3) 40 prosenttia, kun avustus myönnetään 3 §:n 3 kohdan mukaiseen tarkoitukseen;
 4) 50 prosenttia, kun avustus myönnetään 3 §:n 4 kohdan mukaiseen tarkoitukseen.
 
-Asumisen rahoitus- ja kehittämiskeskuksen on avustusta myöntäessään otettava huomioon myös kohteen laajuus ja kustannukset, vuokran kohtuullisuus sekä erityisryhmään kuuluvien vuokranmaksukyky.
+Valtion tukeman asuntorakentamisen keskuksen on avustusta myöntäessään otettava huomioon myös kohteen laajuus ja kustannukset, vuokran kohtuullisuus sekä erityisryhmään kuuluvien vuokranmaksukyky.
