@@ -1,0 +1,2 @@
+Laki turvatarkastuksista tuomioistuimissa
+Eduskunnan päätöksen mukaisesti säädetään:
