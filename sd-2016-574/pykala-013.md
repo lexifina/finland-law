@@ -1,7 +1,7 @@
 # 13 § Vuokranmääritys
 Luku: 2 luku Käyttö- ja luovutusrajoitukset
 
-Asukkailta saa periä korkotukilainoitettavan kohteen asuinhuoneistoista kohtuullista vuokraa, jonka määrän Asumisen rahoitus- ja kehittämiskeskus vahvistaa lainan korkotukilainaksi hyväksymistä koskevassa päätöksessä (alkuvuokra).
+Asukkailta saa periä korkotukilainoitettavan kohteen asuinhuoneistoista kohtuullista vuokraa, jonka määrän Valtion tukeman asuntorakentamisen keskus vahvistaa lainan korkotukilainaksi hyväksymistä koskevassa päätöksessä (alkuvuokra).
 
 Alkuvuokraan voidaan sisällyttää erät, jotka tarvitaan kohteen vuokra-asuntojen sekä niihin liittyvien tilojen rahoituksen ja hyvän kiinteistönpidon mukaisiin menoihin. Tällaisia ovat menot, jotka aiheutuvat:
 1) talon rakentamista varten otetuista lainoista;
