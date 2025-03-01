@@ -7,4 +7,4 @@ Valtion vastuu koskee sellaisia erääntyneitä, maksamatta jääneitä lyhennys
 
 Takauskorvaukseen voidaan sisällyttää viivästyskorkoa enintään korkolain (633/1982) 4 §:n 1 momentin mukaisesti siihen asti, kun lainanmyöntäjä saa suorituksen saamisistaan.
 
-Jos lainansaaja ottaa 17 §:ssä tarkoitetun käyttö- ja luovutusrajoitusajan kuluessa korkotukilainan tilalle uuden lainan, jonka Asumisen rahoitus- ja kehittämiskeskus hyväksyy korkotukilainaksi, valtion vastuun kesto lasketaan siitä päivästä, jona alkuperäinen laina on hyväksytty korkotukilainaksi.
+Jos lainansaaja ottaa 17 §:ssä tarkoitetun käyttö- ja luovutusrajoitusajan kuluessa korkotukilainan tilalle uuden lainan, jonka Valtion tukeman asuntorakentamisen keskus hyväksyy korkotukilainaksi, valtion vastuun kesto lasketaan siitä päivästä, jona alkuperäinen laina on hyväksytty korkotukilainaksi.

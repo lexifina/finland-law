@@ -1,7 +1,7 @@
 # 5 § Korkotukilainan saaja
 Luku: 1 luku Yleiset säännökset
 
-Laina voidaan hyväksyä korkotukilainaksi, kun sen saajana on osakeyhtiö, jonka Asumisen rahoitus- ja kehittämiskeskus hyväksyy korkotukilainan saajaksi ja:
+Laina voidaan hyväksyä korkotukilainaksi, kun sen saajana on osakeyhtiö, jonka Valtion tukeman asuntorakentamisen keskus hyväksyy korkotukilainan saajaksi ja:
 1) jonka ainoana toimialana on tässä laissa tarkoitettujen vuokra-asuntojen rakennuttaminen, omistaminen ja vuokraaminen;
 2) jonka voidaan perustellusti olettaa harjoittavan pitkäjänteistä asuntojen vuokraamista; sekä
 3) jolla arvioidaan olevan riittävät edellytykset korkotukilainan takaisin maksamiseen.
