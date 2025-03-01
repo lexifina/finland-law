@@ -1,5 +1,6 @@
 # 9 §
 Luku: 2 luku Päätösvaltaisuudesta
+Väliotsikko: Päätösvaltaisuus korkeimmassa oikeudessa
 
 Korkein oikeus on päätösvaltainen viisijäsenisenä, jollei laissa toisin säädetä. Asian siirtämisestä käsiteltäväksi täysistunnossa tai vahvennetussa jaostossa säädetään korkeimmasta oikeudesta annetussa laissa (665/2005).
 

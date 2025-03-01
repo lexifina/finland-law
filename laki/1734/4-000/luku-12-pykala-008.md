@@ -8,6 +8,8 @@ Mitä 1 momentissa säädetään, sovelletaan myös asianosaisen lailliseen edus
 
 Tässä luvussa tarkoitettuna henkilökohtaisena läsnäolona suullisessa käsittelyssä pidetään myös osallistumista suulliseen käsittelyyn käyttäen teknistä tiedonvälitystapaa.
 
-Mitä tässä luvussa säädetään kutsuista sekä pakkokeinoista ja poissaolon seuraamuksista, sovelletaan myös osallistumiseen suulliseen käsittelyyn käyttäen teknistä tiedonvälitystapaa toisessa tuomioistuimessa tai muun viranomaisen luona.
+Mitä tässä luvussa säädetään kutsuista sekä pakkokeinoista ja poissaolon seuraamuksista, sovelletaan myös osallistumiseen suulliseen käsittelyyn käyttäen teknistä tiedonvälitystapaa.
 
-Teknisen tiedonvälitystavan käyttämisestä valmisteluistunnossa säädetään 5 luvun 15 d §:ssä.
+Jos asianosainen ei anna 1 momentissa tarkoitettua suostumusta, tuomioistuin voi kuitenkin poikkeuksellisesti määrätä, että hänen osallistumisensa suulliseen käsittelyyn toteutetaan etäyhteydellä, jos siihen on erityinen syy. Harkinnassa on otettava huomioon asian laatu ja merkitys asianosaiselle, käsittelyn vaihe ja tarve turvata käsittelyn järjestys tai turvallisuus sekä muut olosuhteet.
+
+Tässä pykälässä tarkoitettu osallistuminen voidaan valmisteluistunnossa toteuttaa myös ilman näköyhteyttä, jos tuomioistuin katsoo sen tarkoituksenmukaiseksi. Tällöin ei kuitenkaan sovelleta, mitä 5 momentissa säädetään.

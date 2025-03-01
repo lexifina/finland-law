@@ -8,6 +8,6 @@ Tarvittaessa tuomioistuin huolehtii todistajan ja asiantuntijan kutsumisesta, jo
 
 Kutsussa on ilmoitettava, minä päivänä ja kellonaikana sekä missä istunto pidetään. Kutsussa on myös mainittava tarpeelliset tiedot asianosaisista ja asiasta. Lisäksi kutsussa on ilmoitettava 62 tai 64 §:ssä sekä 65 §:n 3 momentissa tarkoitetut tiedot.
 
-Jos 52 §:ssä tai 56 §:n 2 momentissa tarkoitettu kuulustelu toimitetaan viranomaisen luona, kuulusteluun voidaan soveltaa, mitä todistelutarkoituksessa kuultavan asianosaisen taikka todistajan ja asiantuntijan poissaolon seuraamuksista ja heihin kohdistettavista pakkokeinoista säädetään. Kutsussa on ilmoitettava 3 momentissa säädettyjen tietojen lisäksi, millä tavoin kuulustelu toimitetaan.
+Jos kuulustelu toimitetaan etäyhteydellä, kuulusteluun voidaan soveltaa, mitä todistelutarkoituksessa kuultavan asianosaisen taikka todistajan ja asiantuntijan poissaolon seuraamuksista ja heihin kohdistettavista pakkokeinoista säädetään. Kutsussa on ilmoitettava 3 momentissa säädettyjen tietojen lisäksi, millä tavoin kuulustelu toimitetaan.
 
 Edellä 1 momentissa tarkoitetun henkilön kutsusta katselmukseen noudatetaan, mitä edellä tässä pykälässä ja muualla säädetään kutsusta istuntoon.

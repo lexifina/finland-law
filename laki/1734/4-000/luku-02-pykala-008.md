@@ -1,5 +1,6 @@
 # 8 §
 Luku: 2 luku Päätösvaltaisuudesta
+Väliotsikko: Päätösvaltaisuus hovioikeudessa
 
 Hovioikeus on päätösvaltainen kolmijäsenisenä.
 
