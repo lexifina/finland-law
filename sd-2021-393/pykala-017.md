@@ -2,7 +2,7 @@
 Osa: I OSA YLEISET SÄÄNNÖKSET
 Luku: 2 luku Valtion tukemien asumisoikeusasuntojen asukasvalinta
 
-Asumisoikeusyhteisö valitsee asumisoikeuden haltijaksi 12–14 §:ssä säädetyt edellytykset täyttävistä hakijoista sen, jolla on pienin Asumisen rahoitus- ja kehittämiskeskuksen antama järjestysnumero.
+Asumisoikeusyhteisö valitsee asumisoikeuden haltijaksi 12–14 §:ssä säädetyt edellytykset täyttävistä hakijoista sen, jolla on pienin Valtion tukeman asuntorakentamisen keskuksen antama järjestysnumero.
 
 Järjestysnumeron mukaisesta järjestyksestä ja tarveharkinnasta poiketen etusijalla asukasvalinnassa ovat tässä järjestyksessä:
 1) asumisoikeuden haltija, joka luopuu asumisoikeudesta vapaaehtoisesti 88 §:ssä säädetyn asumisoikeustalon rajoituksista vapauttamisen vuoksi;

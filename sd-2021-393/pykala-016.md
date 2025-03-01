@@ -8,6 +8,6 @@ Hakijan on ilmoittauduttava sille asumisoikeusyhteisölle, jonka omistamasta tai
 
 Asumisoikeusyhteisö on velvollinen yleisesti ja julkisesti ilmoittamaan siitä, milloin se on valmis vastaanottamaan asumisoikeuden haltijaksi haluavien hakemuksia. Hakemuksia voidaan ottaa vastaan ilmoitettuna ilmoittautumisaikana tai jatkuvasti taikka vain tietyn talon osalta taikka yleensä niiden talojen osalta, joita kyseinen asumisoikeusyhteisö omistaa tai tulee omistamaan. Asumisoikeusyhteisö voi myös määrätä, että asumisoikeuden hakijoiden hakemukset ovat voimassa määräajan, joka on edellä tarkoitetussa ilmoituksessa mainittava. Asumisoikeusyhteisö voi myös vaatia, että hakemusten edelleen voimassa oleminen edellyttää, että ne tietyn ajan kuluttua uudistetaan. Myös tämän velvoitteen asettamisesta on mainittava edellä tarkoitetussa ilmoituksessa tai, jos uudistamisvelvoite asetetaan hakijoille heidän hakemuksensa jälkeen, velvoitteesta on yleisesti ja julkisesti ilmoitettava.
 
-Asumisoikeusyhteisön tulee antaa Asumisen rahoitus- ja kehittämiskeskukselle tieto ilmoituksestaan ottaa vastaan asumisoikeuden haltijaksi haluavien hakemuksia.
+Asumisoikeusyhteisön tulee antaa Valtion tukeman asuntorakentamisen keskukselle tieto ilmoituksestaan ottaa vastaan asumisoikeuden haltijaksi haluavien hakemuksia.
 
 Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä asumisoikeuden tarjoamisesta ja hakumenettelystä.

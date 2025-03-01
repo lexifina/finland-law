@@ -8,4 +8,4 @@ Asukaskokouksen kutsuu koolle asukastoimikunta tai, jos sitä ei ole, asumisoike
 
 Kutsu asukaskokoukseen on toimitettava kaksi viikkoa ennen kokousta ja kutsu yhteistyöelimen kokoukseen viikkoa ennen kokousta. Kutsussa on mainittava kokouksessa käsiteltävät asiat sekä kokouksen aika ja paikka, jos kokous järjestetään lähikokouksena, sekä mahdollisuudesta osallistua sähköisesti kokoukseen. Kirjallinen kokouskutsu on toimitettava asumisoikeusasunnon postiosoitteella tai sähköpostilla, jos asumisoikeuden haltija on ilmoittanut sähköpostiosoitteensa.
 
-Jos tässä laissa tarkoitetun kokouksen koolle kutsuminen on laiminlyöty, Asumisen rahoitus- ja kehittämiskeskus voi oikeuttaa jonkun asukkaista kutsumaan kokouksen koolle käsittelemään tässä laissa tarkoitettua asiaa.
+Jos tässä laissa tarkoitetun kokouksen koolle kutsuminen on laiminlyöty, Valtion tukeman asuntorakentamisen keskus voi oikeuttaa jonkun asukkaista kutsumaan kokouksen koolle käsittelemään tässä laissa tarkoitettua asiaa.
