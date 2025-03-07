@@ -1,0 +1,2 @@
+Laki diplomaattisten tai konsuliedustustojen tai kansainvälisissä hallitustenvälisissä järjestöissä toimivien edustustojen työntekijöiden perheenjäsenten ansiotyöstä Ukrainan kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
