@@ -1,0 +1,2 @@
+Laki uusiutuvilla energialähteillä tuotetun sähkön tuotantotuesta
+Eduskunnan päätöksen mukaisesti säädetään:
