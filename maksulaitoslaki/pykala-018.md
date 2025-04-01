@@ -1,0 +1,6 @@
+# 18 § Toiminnan rajoittaminen ja toimiluvan peruuttaminen
+Luku: 3 luku Toimiluvan myöntäminen ja peruuttaminen
+
+Toiminnan rajoittamisesta ja toimiluvan peruuttamisesta säädetään Finanssivalvonnasta annetun lain 26 ja 27 §:ssä. Finanssivalvonta voi lisäksi rajoittaa toimintaa tai peruuttaa maksulaitoksen toimiluvan, jos maksulaitos jättää ilmoittamatta Finanssivalvonnalle toimiluvan ehtojen täyttämisen kannalta olennaisesta kielteisestä kehityksestä tai jos se jatkamalla maksupalvelutoimintaansa muodostaisi uhan maksujärjestelmän vakaudelle tai siihen kohdistuvalle luottamukselle. Finanssivalvonta voi peruuttaa toimiluvan myös, jos maksulaitos ilmoittaa haluavansa luopua toimiluvasta.
+
+Finanssivalvonnan on ilmoitettava toimiluvan peruuttamisesta tai toiminnan rajoittamisesta sekä sen perusteista asianosaisille. Finanssivalvonnan on viipymättä ilmoitettava toimiluvan peruuttamisesta ja sen perusteista Euroopan pankkiviranomaiselle. Ilmoitus Euroopan pankkiviranomaiselle on tehtävä noudattaen maksupalveludirektiivin 15 artiklan nojalla annettuja komission teknisiä täytäntöönpanostandardeja. Finanssivalvonnan on ilmoitettava toimiluvan peruuttaminen rekisteröitäväksi ja merkittävä se 16 §:ssä tarkoitettuun maksulaitosrekisteriin.

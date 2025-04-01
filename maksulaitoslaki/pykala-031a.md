@@ -1,0 +1,4 @@
+# 31 a § Omien varojen vähimmäismäärää koskevien tarkempien säädösten ja määräysten antaminen
+Luku: 5 luku Maksupalvelun tarjoamisen taloudelliset edellytykset
+
+Valtiovarainministeriön asetuksella säädetään maksupalveludirektiivin täytäntöön panemiseksi tarkemmin 29 §:ssä tarkoitettujen omien varojen laskemisessa käytettävistä menetelmistä. Finanssivalvonta antaa maksupalveludirektiivin sekä sähköisen rahan liikkeeseenlaskijalaitosten liiketoiminnan aloittamisesta, harjoittamisesta ja toiminnan vakauden valvonnasta, direktiivien 2005/60/EY ja 2006/48/EY muuttamisesta sekä direktiivin 2000/46/EY kumoamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2009/110/EY täytäntöönpanon edellyttämät muut tarkemmat määräykset 29, 30, 30 a ja 31 §:ssä tarkoitetun omien varojen vähimmäismäärän laskemisesta.

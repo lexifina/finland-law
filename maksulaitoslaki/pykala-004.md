@@ -1,0 +1,6 @@
+# 4 § Valvonta
+Luku: 1 luku Yleiset säännökset
+
+Tämän lain ja sen nojalla annettujen säännösten ja määräysten noudattamista valvoo Finanssivalvonta niin kuin Finanssivalvonnasta annetussa laissa (878/2008) ja tässä laissa säädetään.
+
+Finanssivalvonnan on toimittava yhteistyössä muiden Euroopan talousalueeseen kuuluvien valtioiden toimivaltaisten viranomaisten ja Euroopan valvontaviranomaisten kanssa noudattaen Finanssivalvonnasta annettua lakia ja tätä lakia. Jos Finanssivalvonnan ja muun Euroopan talousalueeseen kuuluvan valtion toimivaltaisen viranomaisen välinen erimielisyys tietojen vaihdossa, sijoittautumisoikeuden ja palveluiden tarjoamisen vapauden soveltamisessa tai näitä vapauksia käyttävien maksulaitosten valvonnassa, maksupalveludirektiivin nojalla annettujen säännösten noudattamatta jättämisen johdosta toteutettavissa toimenpiteissä tai toimenpiteiden perusteluissa ja ilmoittamisessa on Euroopan valvontaviranomaisen (Euroopan pankkiviranomainen) perustamisesta sekä päätöksen N:o 716/2009/EY muuttamisesta ja komission päätöksen 2009/78/EY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1093/2010, jäljempänä Euroopan pankkiviranomaisen perustamisesta annettu asetus, 19 artiklan mukaisessa menettelyssä, Finanssivalvonnan on lykättävä päätöksiään kunnes asia on ratkaistu mainitun artiklan mukaisesti.

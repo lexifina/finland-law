@@ -1,0 +1,8 @@
+# 7 b § Tilitietopalvelun tarjoamisen luvanvaraisuutta koskeva poikkeus
+Luku: 2 luku Oikeus tarjota maksupalvelua
+
+Sen estämättä, mitä 6 §:ssä säädetään, tilitietopalvelua saa tarjota ilman toimilupaa. Sen, joka aikoo tarjota tilitietopalvelua, on tehtävä siitä ilmoitus Finanssivalvonnalle. Tilitietopalvelun tarjoajaan sovelletaan 4, 11, 19 a, 19 b ja 26 b §:ää. Tilitietopalvelun tarjoajaan sovelletaan myös maksupalvelulain 11–15 §:ää, 22 §:n 1 momenttia, 25 a §:ää, 53 §:n 1 momenttia ja 54 §:n 1 momenttia sekä 82 a, 82 b, 85 c ja 85 d §:ää. Lisäksi tilitietopalvelun tarjoajaan sovelletaan tämän lain 11 §:n 1 momentin nojalla annettua valtiovarainministeriön asetusta. Tilitietopalveluita vain Euroopan talousalueen ulkopuolelle tarjoavaan sovelletaan lisäksi 22 §:n 2 momenttia.
+
+Finanssivalvonnan on merkittävä tilitietopalveluiden tarjoaja maksulaitosrekisteriin 16 §:n mukaisesti. Finanssivalvonta voi rajoittaa ilman toimilupaa toimivan henkilön tilitietopalvelun tarjontaa tai peruuttaa päätöksen sallia tilitietopalveluiden tarjonta 18 §:ssä säädetyllä perusteella. Finanssivalvonnan on merkittävä päätöksen peruuttaminen 16 §:ssä tarkoitettuun maksulaitosrekisteriin sekä ilmoitettava viipymättä päätöksen peruuttamisesta ja sen perusteesta Euroopan pankkiviranomaiselle. Ilmoitus Euroopan pankkiviranomaiselle on tehtävä noudattaen maksupalveludirektiivin 15 artiklan nojalla annettuja komission teknisiä täytäntöönpanostandardeja.
+
+Jos tilitietopalvelua tarjotaan rajan yli, siihen sovelletaan myös 42, 42 a ja 43–47 §:ää. Jos tilitietopalveluiden tarjoaja aikoo ulkoistaa maksupalvelujen operatiivisia toimintoja muille yksiköille vastaanottavassa Euroopan talousalueeseen kuuluvassa valtiossa, sen on ilmoitettava asiasta Finanssivalvonnalle.
