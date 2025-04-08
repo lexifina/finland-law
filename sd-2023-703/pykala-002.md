@@ -6,4 +6,4 @@ Tässä laissa annetaan luonnollisten henkilöiden suojelusta henkilötietojen k
 
 Sähköisen lääkemääräyksen ja muiden reseptikeskukseen tallennettavien lääkehoitoa koskevien merkintöjen käsittelystä säädetään tämän lain lisäksi sähköisestä lääkemääräyksestä annetussa laissa (61/2007), jäljempänä lääkemääräyslaki.
 
-Tällä lailla pannaan sosiaali- ja terveydenhuollossa täytäntöön toimenpiteistä yhteisen korkeatasoisen verkko- ja tietojärjestelmien turvallisuuden varmistamiseksi koko unionissa annettu Euroopan parlamentin ja neuvoston direktiivi (EU) 2016/1148.
+Tällä lailla annetaan toimenpiteistä kyberturvallisuuden yhteisen korkean tason varmistamiseksi kaikkialla unionissa, asetuksen (EU) N:o 910/2014 ja direktiivin (EU) 2018/1972 muuttamisesta sekä direktiivin (EU) 2016/1148 kumoamisesta annettua Euroopan parlamentin ja neuvoston direktiiviä (EU) 2022/2555 (NIS 2 -direktiivi) ja kyberturvallisuuslakia (124/2025) täydentävät ja täsmentävät säännökset käsiteltäessä sosiaali- ja terveydenhuollon asiakastietoja ja asiakkaan itsensä tuottamia hyvinvointitietoja sosiaali- ja terveyspalveluita järjestettäessä ja toteutettaessa.
