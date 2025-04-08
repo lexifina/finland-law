@@ -3,7 +3,7 @@
 Luvan myöntänyt viranomainen voi muuttaa maa-asema- tai tutkatoiminnan harjoittamiseen myönnettyä lupaa tai peruuttaa luvan, jos:
 1) lupahakemuksessa tai sen liitteissä on annettu virheellisiä tai puutteellisia tietoja, jotka ovat vaikuttaneet luvan myöntämistä koskevaan harkintaan;
 2) toiminnanharjoittaja tai maa-asema- tai tutkatoiminta ei enää täytä 4 §:ssä säädettyjä luvan myöntämisen edellytyksiä;
-3) toiminnanharjoittaja on olennaisella tavalla laiminlyönyt tai rikkonut tässä laissa säädettyä velvollisuutta tai rajoitusta taikka luvan ehtoja;
+3) toiminnanharjoittaja on olennaisella tavalla laiminlyönyt tai rikkonut tässä laissa tai kyberturvallisuuslaissa (124/2025) säädettyä velvollisuutta tai rajoitusta taikka luvan ehtoja;
 4) luvan muuttaminen tai peruuttaminen on välttämätöntä Suomen kansallisen turvallisuuden, Suomen kansainvälisten velvoitteiden tai Suomen ulko- ja turvallisuuspolitiikan vuoksi; tai
 5) toiminnanharjoittaja siirtää luvan vastoin 7 §:ssä säädettyä tai mainitussa pykälässä tarkoitetun määräysvallan muutos tätä edellyttää.
 
