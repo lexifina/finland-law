@@ -1,5 +1,5 @@
 # 3 §
-Luku: 30 a luku Ennakkopäätösvalituksesta
+Luku: 30 a luku Ennakkopäätösvalitus ja ennakkopäätöskysymys
 
 Muutoksenhakijan, joka tahtoo hakea muutosta ennakkopäätösvalituksella, on ilmoitettava siitä ilmoittaessaan tyytymättömyyttä ratkaisuun ja samalla esitettävä 1 §:n 2 momentissa tarkoitettu vastapuolen suostumus. Jos suostumusta ei ole annettu tai se on laillisesti peruutettu, hyväksytään tyytymättömyyden ilmoitus 25 luvun 5 §:ssä tarkoitetuksi ilmoitukseksi.
 

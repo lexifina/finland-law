@@ -1,5 +1,6 @@
 # 1 §
-Luku: 30 a luku Ennakkopäätösvalituksesta
+Luku: 30 a luku Ennakkopäätösvalitus ja ennakkopäätöskysymys
+Väliotsikko: Ennakkopäätösvalitus
 
 Muutosta käräjäoikeuden ratkaisuun saadaan hakea hovioikeuden asemesta korkeimmalta oikeudelta (ennakkopäätösvalitus), jos korkein oikeus myöntää valitusluvan.
 

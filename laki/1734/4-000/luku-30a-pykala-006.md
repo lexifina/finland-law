@@ -1,5 +1,5 @@
 # 6 §
-Luku: 30 a luku Ennakkopäätösvalituksesta
+Luku: 30 a luku Ennakkopäätösvalitus ja ennakkopäätöskysymys
 
 Tässä luvussa tarkoitetussa muutoksenhaussa on lisäksi soveltuvin osin noudatettava, mitä 25 luvussa säädetään muutoksenhausta käräjäoikeudesta hovioikeuteen ja 30 luvussa säädetään muutoksenhausta hovioikeudesta korkeimpaan oikeuteen hovioikeuden antaessa ratkaisunsa muutoksenhakuasteena.
 

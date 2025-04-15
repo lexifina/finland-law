@@ -1,5 +1,5 @@
 # 4 §
-Luku: 30 a luku Ennakkopäätösvalituksesta
+Luku: 30 a luku Ennakkopäätösvalitus ja ennakkopäätöskysymys
 
 Jos tyytymättömyyden ilmoitusta ei ole hyväksytty, saa siitä kannella korkeimpaan oikeuteen. Kantelukirjelmä on toimitettava käräjäoikeuden kansliaan kolmessakymmenessä päivässä käräjäoikeuden ratkaisun julistamis- tai antamispäivästä. Jos korkein oikeus katsoo tyytymättömyyden ilmoittamisen tapahtuneen laillisesti, tulee sen tarvittaessa asettaa uusi määräaika muutoksenhakua varten.
 

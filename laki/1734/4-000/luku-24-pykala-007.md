@@ -12,3 +12,5 @@ Käräjäoikeuden tuomio laaditaan erilliseksi asiakirjaksi. Siinä on oltava:
 8) asian ratkaisseiden jäsenten nimet ja virka-asema sekä ilmoitus siitä, onko tuomiosta äänestetty. Jos tuomiosta on äänestetty, tuomioon on liitettävä eri mieltä olleiden jäsenten mielipiteet.
 
 Tuomioon sisältyvä selostus saadaan kokonaan tai osittain korvata liittämällä tuomioon jäljennös haastehakemuksesta tai vastauksesta taikka muusta asiakirjasta, jos tuomion selvyys ei siitä vaarannu.
+
+Jos käräjäoikeus on esittänyt 30 a luvun 7 §:ssä tarkoitetun ennakkopäätöskysymyksen, käräjäoikeuden tuomioon on liitettävä korkeimman oikeuden ratkaisu.
