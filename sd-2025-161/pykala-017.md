@@ -1,0 +1,14 @@
+# 17 § Luotonhallinnointitoiminnon ulkoistaminen
+Luku: 3 luku Luotonhallinnointi
+
+Luotonhallinnoija saa ulkoistaa luotonhallinnointitoiminnon ulkopuoliselle luotonhallinnointipalvelujen tuottajalle ainoastaan kirjallisen ulkoistamissopimuksen nojalla. Ulkoistamissopimuksessa on edellytettävä, että luotonhallinnointipalvelujen tuottaja on velvollinen noudattamaan tätä lakia ja muuta luotonhallinnointiin sovellettavaa lainsäädäntöä suorittaessaan sopimuksen mukaisia tehtäviään.
+
+Ulkoistamisen edellytyksenä on lisäksi, että:
+1) luotonhallinnoija ei samanaikaisesti ulkoista kaikkia sen vastuulle kuuluvia luotonhallinnointitoimintoja;
+2) ulkoistaminen ei vaikuta luotonhallinnoijan toimiluvan edellytysten noudattamiseen, sisäisen valvonnan toteuttamiseen tai luotonhallinnoijan toiminnan jatkuvuuteen;
+3) ulkoistaminen ei estä Finanssivalvonnan toteuttamaa luotonhallinnoijan valvontaa;
+4) luotonhallinnoijalla on pääsy kaikkiin ulkoistettuja luotonhallinnointitoimintoja koskeviin tietoihin.
+
+Luotonhallinnoija, joka ulkoistaa luotonhallinnointitoiminnon, on edelleen vastuussa luotonhallinnointiin sovellettavan lainsäädännön noudattamisesta sekä velvoitteistaan luotonostajaan ja velallisiin nähden. Luotonhallinnoijalla on ulkoistamissopimuksen päättymisen jälkeen oltava ulkoistettujen luotonhallinnointitoimintojen suorittamisen edellyttämä asiantuntemus ja resurssit.
+
+Luotonhallinnoijan on ennen luotonhallinnointitoiminnon ulkoistamista ilmoitettava ulkoistamisesta Finanssivalvonnalle ja mahdollisen vastaanottavan valtion toimivaltaiselle viranomaiselle.
