@@ -1,0 +1,6 @@
+# 30 a § Aluevalvonnan tilannekuva
+Luku: 6 luku Aluevalvontaviranomaiset, niiden tehtävät ja toimivalta
+
+Puolustusvoimien tehtävänä on koota aluevalvonnan tilannekuvaa Suomen alueellisen koskemattomuuden valvontaa ja turvaamista ja sitä koskevaa päätöksentekoa sekä muiden viranomaisten tukemista varten tarpeellisista aluevalvonnan yhteydessä hankituista tai muilta aluevalvontaviranomaisilta sekä vieraan valtion viranomaisilta ja kansainvälisiltä toimielimiltä saaduista tiedoista. Puolustusvoimilla on lisäksi oikeus tilannekuvaa varten saada ilmaliikennepalvelun tarjoajalta ja lentoaseman pitäjältä tietoja ilmaliikenteestä sekä muita aluevalvonnan kannalta merkityksellisiä tietoja. Puolustusvoimilla ja Rajavartiolaitoksella on lisäksi oikeus tilannekuvaa varten saada korvauksetta alusliikennepalvelun tarjoajalta tietoja meriliikenteestä sekä muita aluevalvonnan kannalta merkityksellisiä tietoja.
+
+Tilannekuvatietoihin saa sisältyä henkilötietoja, jos ne liittyvät tässä laissa säädettyihin lupiin tai niitä on tarpeen käsitellä valvottaessa lupaehtojen tai tässä laissa säädettyjen liikkumis- ja muiden toimintarajoitusten noudattamista taikka selvitettäessä epäiltyä aluerikkomusta tai alueloukkausta.
