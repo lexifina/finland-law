@@ -1,7 +1,7 @@
 # 29 a § Sosiaalipäivystyksen ja terveydenhuollon yhteistyö
 Luku: 3 luku Sosiaalipalvelut
 
-Sosiaalipäivystystä on järjestettävä terveydenhuoltolain 50 §:n 3 momentissa tarkoitetun laajan ympärivuorokautisen päivystysyksikön yhteydessä ja 4 momentissa tarkoitetun perusterveydenhuollon ja erikoissairaanhoidon yhteispäivystyksen yhteydessä. Sosiaalipäivystyksen järjestämisestä vastaavat ne hyvinvointialueet, joiden alueella tässä momentissa tarkoitetut terveydenhuollon toimintayksiköt sijaitsevat.
+Sosiaalipäivystystä on järjestettävä terveydenhuoltolain 50 §:n 3 ja 4 momentissa tarkoitetun päivystysyksikön yhteydessä. Sosiaalipäivystyksen järjestämisestä vastaavat ne hyvinvointialueet, joiden alueella tässä momentissa tarkoitetut terveydenhuoltoa toteuttavat toimintayksiköt sijaitsevat.
 
 Mielenterveys- tai päihde- ja riippuvuuspalveluja tarvitsevan asiakkaan hoidon ja palvelujen jatkuvuus on turvattava osana terveydenhuollon päivystystä ja sosiaalipäivystystä.
 
