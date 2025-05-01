@@ -1,0 +1,4 @@
+# 27 § Tietojen luovuttaminen Verohallinnolle
+Luku: 5 luku Investointihyvityksen myöntäminen ja investointihyvityksen perusteena olevien investointihankkeiden valvonta
+
+Rahoituskeskuksen on toimitettava Verohallinnolle investointihyvityksen vähentämisen valvontaa varten salassapitosäännösten estämättä yhtiökohtaiset tiedot myöntämästään investointihyvityksestä, sen määrästä, hyväksyttyjen ja toteutuneiden investointihankkeen kustannusten määrästä sekä investointihyvitystä koskevan päätöksen muutoksesta ja muista investointihyvityksen lopulliseen määrään ja vähentämiseen vaikuttavista seikoista.
