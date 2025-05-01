@@ -1,0 +1,2 @@
+Laki eräiden suurten ilmastoneutraaliin talouteen tähtäävien investointien verohyvityksestä
+Eduskunnan päätöksen mukaisesti säädetään:

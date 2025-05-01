@@ -1,0 +1,6 @@
+# 25 § Investointihyvitykseen oikeutetun yhtiön tiedonantovelvollisuus
+Luku: 5 luku Investointihyvityksen myöntäminen ja investointihyvityksen perusteena olevien investointihankkeiden valvonta
+
+Investointihyvitykseen oikeutetun yhtiön tulee antaa Rahoituskeskukselle tässä laissa säädettyjen edellytysten ja investointihyvityksen myöntämistä koskevan päätöksen ehtojen noudattamisen valvomiseksi oikeat ja riittävät tiedot.
+
+Investointihyvitykseen oikeutetun yhtiön tulee ilmoittaa viipymättä Rahoituskeskukselle investointihyvityksen perusteena olevan investointihankkeen toteuttamiseen vaikuttavasta muutoksesta tai muusta hyvityksen määrään vaikuttavasta muutoksesta.
