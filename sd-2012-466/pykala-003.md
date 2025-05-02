@@ -15,4 +15,5 @@ Vaaratiedotteen saa antaa:
 12) Sosiaali- ja terveysalan lupa- ja valvontavirasto;
 13) Lääkealan turvallisuus- ja kehittämiskeskus;
 14) ministeriö;
-15) Ahvenanmaan valtionvirasto.
+15) Ahvenanmaan valtionvirasto;
+16) kunnan terveydensuojeluviranomainen.
