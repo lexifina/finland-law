@@ -1,0 +1,3 @@
+# 5 § Markkinavalvonta
+
+Markkinavalvontaviranomainen valvoo kuluttajatuotteiden turvallisuutta ja vaatimustenmukaisuutta sekä talouden toimijoiden ja verkkomarkkinapaikkojen tarjoajien tässä laissa ja yleisessä tuoteturvallisuusasetuksessa säädettyjen kuluttajatuotteita koskevien velvollisuuksien noudattamista.
