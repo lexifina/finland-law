@@ -1,0 +1,2 @@
+Laki kulutuspalvelujen turvallisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
