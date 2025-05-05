@@ -6,5 +6,5 @@ Tilaaja ei saa vedota toimeksisaajan suorituksen virheeseen, ellei hän ilmoita 
 
 Tilaaja saa 1 momentin estämättä vedota virheeseen, jos:
 1) toimeksisaaja tai 1 momentissa tarkoitettu muu elinkeinonharjoittaja on menetellyt törkeän huolimattomasti tai kunnianvastaisesti ja arvottomasti;
-2) virhe perustuu siihen, että suoritus ei ominaisuuksiltaan täytä vaatimuksia, jotka sille on asetettu tuoteturvallisuuslain nojalla taikka muissa terveyden tai omaisuuden suojelemiseksi annetuissa säännöksissä tai määräyksissä; tai
+2) virhe perustuu siihen, että suoritus ei ominaisuuksiltaan vastaa terveyden tai omaisuuden suojelemiseksi annetuissa säännöksissä tai määräyksissä asetettuja vaatimuksia; tai
 3) virhe perustuu siihen, että suoritus on muuten terveydelle tai omaisuudelle vaarallinen.

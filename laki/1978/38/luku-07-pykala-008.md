@@ -12,5 +12,3 @@ Kuluttajaluoton mainonnassa on ilmoitettava luoton todellinen vuosikorko, jos ma
 Todellinen vuosikorko ja muut 1 momentissa mainitut tiedot on ilmoitettava mainonnassa selkeästi, näkyvästi ja tiiviisti, ja niiden on vastattava luotonantajan tavanomaisesti tarjoamia luottoehtoja.
 
 Jos luoton saamisen edellytyksenä mainostetuin ehdoin on, että kuluttaja tekee vakuutusta tai muuta lisäpalvelua koskevan sopimuksen, eikä tällaisesta lisäpalvelusta aiheutuvia kustannuksia voida ennakolta määrittää, mainonnassa on ilmoitettava tällaisesta edellytyksestä yhdessä luoton todellisen vuosikoron kanssa.
-
-4 momentti oli väliaikaisesti voimassa 1.7.2020–31.12.2020 L:lla 512/2020 ja 1.1.2021–30.9.2021 L:lla 1194/2020.
