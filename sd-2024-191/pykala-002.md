@@ -9,7 +9,7 @@ Rakennusten paloturvallisuuslaitteiden kunnossapidosta ja kunnossapidon valvonna
 
 Käsisammuttimen painesäiliön turvallisuusvaatimuksista ja vaatimustenmukaisuuden osoittamisesta säädetään painelaitelaissa (1144/2016). Käsisammuttimen määräaikaistarkastuksesta painelaitteena säädetään lisäksi vaarallisten aineiden kuljetuksesta annetussa laissa (541/2023).
 
-Kuluttajien käyttöön tarkoitettujen tuotteiden ja kuluttajapalvelujen turvallisuudesta säädetään lisäksi kuluttajaturvallisuuslaissa (920/2011).
+Kuluttajatuotteiden turvallisuudesta säädetään lisäksi yleisestä tuoteturvallisuudesta, Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1025/2012 ja Euroopan parlamentin ja neuvoston direktiivin (EU) 2020/1828 muuttamisesta sekä Euroopan parlamentin ja neuvoston direktiivin 2001/95/EY ja neuvoston direktiivin 87/357/ETY kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2023/988 sekä kuluttajatuotteiden turvallisuudesta annetussa laissa (184/2025). Kulutuspalvelujen turvallisuudesta säädetään lisäksi kulutuspalvelujen turvallisuudesta annetussa laissa (185/2025).
 
 Yhdenmukaistettujen tuotestandardien piiriin kuuluvien rakennustuotteiden ominaisuuksien ilmoittamisesta ja CE-merkinnästä säädetään rakennustuotteiden kaupan pitämistä koskevien ehtojen yhdenmukaistamisesta ja neuvoston direktiivin 89/106/ETY kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) N:o 305/2011.
 
