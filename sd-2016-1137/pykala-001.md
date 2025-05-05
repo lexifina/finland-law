@@ -32,10 +32,11 @@ Tätä lakia sovelletaan seuraavien lakien soveltamisalaan kuuluvien tuotteiden 
 28) eräiden tuotteiden esteettömyysvaatimuksista annettu laki (102/2023);
 29) lelujen turvallisuudesta annettu laki (1154/2011);
 30) vaarallisten aineiden kuljetuksesta annettu laki (541/2023);
-31) eräistä paloturvallisuuslaitteista annettu laki (191/2024).
+31) eräistä paloturvallisuuslaitteista annettu laki (191/2024);
+32) kuluttajatuotteiden turvallisuudesta annettu laki (184/2025).
 
 Lakia sovelletaan lisäksi markkinavalvonnasta ja tuotteiden vaatimustenmukaisuudesta sekä direktiivin 2004/42/EY ja asetusten (EY) N:o 765/2008 ja (EU) N:o 305/2011 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2019/1020, jäljempänä markkinavalvonta-asetus, 25–28 artiklassa tarkoitettuihin 1 momentissa mainittujen lakien soveltamisalaan kuuluvia tuotteita koskeviin valvontaviranomaisten toimenpiteisiin, jollei mainituissa laeissa toisin säädetä.
 
-Tässä laissa säädetään myös markkinavalvonnasta ja tuotteiden vaatimustenmukaisuudesta sekä direktiivin 2004/42/EY ja asetusten (EY) N:o 765/2008 ja (EU) N:o 305/2011 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2019/1020, jäljempänä markkinavalvonta-asetus, 10 artiklan 3 kohdassa tarkoitetusta yhteyspisteestä sekä toisessa jäsenvaltiossa laillisesti kaupan pidettyjen tavaroiden vastavuoroisesta tunnustamisesta ja asetuksen (EY) N:o 764/2008 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2019/515, jäljempänä vastavuoroisen tunnustamisen asetus, 9 artiklassa tarkoitetusta tuoteyhteyspisteestä.
+Tässä laissa säädetään myös markkinavalvonta-asetuksen 10 artiklan 3 kohdassa tarkoitetusta yhteyspisteestä, toisessa jäsenvaltiossa laillisesti kaupan pidettyjen tavaroiden vastavuoroisesta tunnustamisesta ja asetuksen (EY) N:o 764/2008 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2019/515, jäljempänä vastavuoroisen tunnustamisen asetus, 9 artiklassa tarkoitetusta tuoteyhteyspisteestä sekä yleisestä tuoteturvallisuudesta, Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1025/2012 ja Euroopan parlamentin ja neuvoston direktiivin (EU) 2020/1828 muuttamisesta sekä Euroopan parlamentin ja neuvoston direktiivin 2001/95/EY ja neuvoston direktiivin 87/357/ETY kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2023/988, jäljempänä yleinen tuoteturvallisuusasetus, 25 artiklan 2 kohdassa tarkoitetusta keskitetystä kansallisesta yhteyspisteestä.
 
 Tätä lakia sovelletaan lisäksi markkinavalvonta-asetuksen 4 artiklassa säädettyjen velvoitteiden valvontaan, jollei muualla toisin säädetä.
