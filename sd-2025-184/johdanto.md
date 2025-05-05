@@ -1,0 +1,2 @@
+Laki kuluttajatuotteiden turvallisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
