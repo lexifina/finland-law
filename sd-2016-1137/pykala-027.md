@@ -1,6 +1,4 @@
-# 27 § Ilmoittaminen Euroopan komissiolle
+# 27 § Suojalausekeilmoitus
 Luku: 4 luku Erinäiset säännökset
 
-Markkinavalvontaviranomaisen on viipymättä ilmoitettava 16–19 §:n nojalla tekemästään päätöksestä Euroopan komissiolle ja muille Euroopan unionin ja Euroopan talousalueen jäsenvaltioille, jos markkinavalvontaviranomainen katsoo, että tuotteen vaatimustenvastaisuus ei rajoitu vain Suomen alueelle. Kansallisiin toimenpiteisiin sovelletaan muutoin, mitä suojalauseke- ja suojamenettelystä säädetään Euroopan unionin lainsäädännössä, jolla yhdenmukaistetaan tuotteiden kaupan pitämisen ehtoja.
-
-Lisäksi on otettava huomioon, mitä viranomaisen velvollisuudesta ilmoittaa Euroopan komissiolle säädetään markkinavalvonta-asetuksen 20 artiklassa.
+Jos tuotetta koskevassa Euroopan unionin yhdenmukaistamislainsäädännössä säädetään suojalausekemenettelystä tuotteiden kaupan pitämiseen liittyvistä yhteisistä puitteista ja päätöksen 93/465/ETY kumoamisesta tehdyn Euroopan parlamentin ja neuvoston päätöksen N:o 768/2008/EY mukaisten viitesäännösten mukaisesti, markkinavalvontaviranomaisen on viipymättä ilmoitettava 16–19 sekä 19 a ja 19 b §:n nojalla tekemästään päätöksestä Euroopan komissiolle ja muille Euroopan unionin jäsenvaltioille ja Euroopan talousalueeseen kuuluville valtioille, jos markkinavalvontaviranomainen katsoo, että tuotteen vaatimustenvastaisuus ei rajoitu vain Suomen alueelle. Kansallisiin toimenpiteisiin sovelletaan muutoin, mitä suojalauseke- ja suojamenettelystä säädetään Euroopan unionin lainsäädännössä, jolla yhdenmukaistetaan tuotteiden kaupan pitämisen ehtoja.

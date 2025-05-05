@@ -12,3 +12,5 @@ Markkinavalvontaviranomainen voi antaa 1 ja 2 momentissa tarkoitetun määräyks
 Markkinavalvontaviranomaisen on ennen 1–3 momentissa tarkoitetun määräyksen antamista varattava päätöksen saajalle sekä talouden toimijalle tilaisuus tulla kuulluiksi. Kuulemisesta voidaan poiketa väliaikaista määräystä annettaessa, jos kuulemista ei voida toimittaa niin nopeasti kuin asian kiireellisyys välttämättä vaatii.
 
 Mitä tässä pykälässä säädetään markkinavalvontaviranomaisen toimivaltuuksista, ei koske kuntaa.
+
+Verkkomarkkinapaikan tarjoajaa koskevasta määräyksestä säädetään lisäksi kuluttajatuotteiden turvallisuudesta annetussa laissa.
