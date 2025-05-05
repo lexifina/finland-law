@@ -15,6 +15,6 @@ Ilmoitetuille laitoksille asetetuista vaatimuksista, ilmoitettujen laitosten val
 
 Työturvallisuutta koskevista vaatimuksista säädetään työturvallisuuslaissa (738/2002).
 
-Kevythissien, liukuportaiden, liukukäytävien ja nosto-ovien markkinoille saattamisesta säädetään eräiden teknisten laitteiden vaatimustenmukaisuudesta annetussa laissa (1016/2004) ja kuluttajaturvallisuuslaissa (920/2011).
+Kevythissien, liukuportaiden, liukukäytävien ja nosto-ovien markkinoille saattamisesta säädetään eräiden teknisten laitteiden vaatimustenmukaisuudesta annetussa laissa (1016/2004) ja kuluttajatuotteiden turvallisuudesta annetussa laissa (184/2025).
 
 Hissin konehuoneeseen ja pyörästötiloihin johtavista kulkuteistä säädetään rakentamislaissa (751/2023) ja sen nojalla annetuissa säännöksissä.
