@@ -13,3 +13,7 @@ Määräaikainen tai pysyvä oleskelulupa taikka pitkään oleskelleen kolmannen
 Määräaikainen oleskelulupa voidaan peruuttaa, jos niitä edellytyksiä, joiden perusteella oleskelulupa myönnettiin, ei ole ollut tai ei enää ole olemassa.
 
 Määräaikainen tai pysyvä oleskelulupa taikka pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa voidaan peruuttaa, jos Schengen-valtio pyytää Suomea peruuttamaan ulkomaalaiselle Suomen myöntämän oleskeluluvan sillä perusteella, että ulkomaalainen on määrätty maahantulokieltoon toisessa Schengen-valtiossa, ja hänet on määrätty poistettavaksi Schengen-alueelta sen kaltaisilla perusteilla kuin 149 §:n 1 momentin 2 ja 3 kohdassa mainitaan.
+
+Muualla kuin Suomessa oleskelevan ulkomaalaisen määräaikainen tai pysyvä oleskelulupa peruutetaan, jos hänet voitaisiin karkottaa maasta 149 §:n 1 momentin 2–4 kohdassa säädetyn perusteella. Muualla kuin Suomessa oleskelevan pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa peruutetaan, jos hänet voitaisiin karkottaa maasta 149 §:n 4 momentissa säädetyn perusteella.
+
+Määräaikainen tai pysyvä oleskelulupa peruutetaan, jos henkilön pakolaisasema on lakkautettu 107 §:n 1 momentin 6–8 kohdassa säädetyn perusteella tai toissijainen suojeluasema on lakkautettu 107 §:n 3 momentissa säädetyn perusteella. Pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa peruutetaan, jos henkilön pakolaisasema on lakkautettu 107 §:n 1 momentin 6 kohdassa säädetyn perusteella tai toissijainen suojeluasema on lakkautettu 107 §:n 3 momentissa säädetyn perusteella.

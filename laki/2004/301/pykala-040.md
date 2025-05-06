@@ -15,4 +15,8 @@ Tämän lain mukaan laillista oleskelua on:
 
 Unionin kansalaisen ja häneen rinnastettavan oleskeluoikeudesta säädetään 10 luvussa.
 
-Ulkomaalainen saa laillisesti oleskella maassa hakemuksen käsittelyn ajan, kunnes asia on lainvoimaisesti ratkaistu tai on tehty täytäntöönpanokelpoinen päätös ulkomaalaisen maasta poistamiseksi.
+Ulkomaalainen, joka jättäessään oleskelulupahakemuksen oleskelee maassa laillisesti 1 momentissa säädetyn mukaisesti, saa laillisesti oleskella maassa, kunnes kyseiseen hakemukseen on tehty päätös.
+
+Kansainvälistä suojelua hakeva saa laillisesti oleskella maassa, kunnes hakemukseen on tehty päätös, jollei 201 §:n 7–9 momentista muuta johdu.
+
+Ulkomaalaisen oikeudesta oleskella maassa maastapoistamispäätöksen jälkeen säädetään 13 luvussa.

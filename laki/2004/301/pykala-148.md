@@ -15,4 +15,4 @@ Ulkomaalainen voidaan käännyttää, jos:
 10) hänen voidaan aikaisemman toimintansa perusteella tai muutoin perustellusta syystä epäillä ryhtyvän Suomessa kansallista turvallisuutta tai Suomen suhteita vieraaseen valtioon vaarantavaan toimintaan; taikka
 11) on tehty häntä koskeva kolmansien maiden kansalaisia koskevien maastapoistamispäätösten vastavuoroisesta tunnustamisesta annetun neuvoston direktiivin 2001/40/EY 1–3 artiklassa tarkoitettu maastapoistamispäätös.
 
-Käännyttää voidaan myös ilman oleskelulupaa maahan tullut ulkomaalainen, jonka oleskelu Suomessa edellyttäisi viisumia tai oleskelulupaa, mutta joka ei ole sitä hakenut tai jolle ei ole sitä myönnetty.
+Käännyttää voidaan myös ilman oleskelulupaa maahan tullut ulkomaalainen, jonka oleskelu Suomessa edellyttäisi viisumia tai oleskelulupaa, mutta joka ei ole sitä hakenut tai jolle ei ole sitä myönnetty. Lisäksi käännyttää voidaan ulkomaalainen, jonka oleskelu hakemuksen käsittelyaikana ei ole 40 §:ssä säädetyn mukaisesti laillista.

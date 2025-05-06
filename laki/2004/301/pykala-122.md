@@ -6,7 +6,7 @@ Edellytyksenä lapsen säilöön ottamiselle on, että:
 2) lasta on 6 §:n 2 momentin mukaisesti kuultu ennen päätöksen tekemistä: ja
 3) sosiaalihuollosta vastaavan toimielimen määräämälle virkasuhteessa olevalle sosiaalityöntekijälle on varattu tilaisuus tulla kuulluksi.
 
-Huoltajansa kanssa säilöön otettavan lapsen osalta edellytetään lisäksi, että säilöön ottaminen on välttämätöntä lapsen ja hänen huoltajansa välisen perheyhteyden ylläpitämiseksi.
+Huoltajansa kanssa säilöön otettavan lapsen osalta edellytetään lisäksi, että säilöön ottaminen on välttämätöntä lapsen ja hänen huoltajansa välisen perheyhteyden ylläpitämiseksi. Huoltajansa kanssa säilöön otettu lapsi on päästettävä vapaaksi viimeistään kolmen kuukauden kuluttua säilöön ottamisesta. Säilössäpitoa voidaan kuitenkin jatkaa enintään kolmella kuukaudella 127 §:n 3 momentissa tarkoitetussa tilanteessa.
 
 Alle 15-vuotiasta ilman huoltajaa olevaa lasta ei saa ottaa säilöön. 15 vuotta täyttänyttä ilman huoltajaa olevaa kansainvälistä suojelua hakevaa lasta ei saa ottaa säilöön ennen kuin häntä koskeva maastapoistamispäätös on tullut täytäntöönpanokelpoiseksi.
 
