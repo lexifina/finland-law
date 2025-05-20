@@ -31,7 +31,7 @@ Lupa telekuunteluun voidaan antaa myös, kun jotakuta on syytä epäillä liike-
 4) törkeästä väärennyksestä;
 5) törkeästä velallisen epärehellisyydestä, törkeästä velallisen petoksesta;
 6) törkeästä lahjuksen ottamisesta, törkeästä virka-aseman väärinkäyttämisestä tai törkeästä Euroopan unionin varojen väärinkäytöstä;
-7) törkeästä säännöstelyrikoksesta;
+7) törkeästä säännöstelyrikoksesta tai törkeästä pakoterikoksesta;
 8) törkeästä sisäpiirintiedon väärinkäytöstä, törkeästä markkinoiden vääristämisestä; tai
 9) törkeästä tulliselvitysrikoksesta.
 
