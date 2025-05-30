@@ -1,4 +1,4 @@
-# 6 §
+# 6 § Voimaantulo
 
 Tämä laki tulee voimaan 5 päivänä tammikuuta 2000.
 
