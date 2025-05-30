@@ -1,5 +1,3 @@
-# 2 §
+# 2 § Markkinaehtoisuus
 
-Yhtiön toiminnan tulee olla liiketaloudellisesti kannattavaa pitkällä aikavälillä.
-
-Yhtiön elinkeino- ja teollisuuspoliittisen tehtävän täyttämiseksi voidaan yksittäisissä sijoituspäätöksissä hyväksyä tavanomaista suurempi riski tai matalampi tuottotavoite.
+Yhtiö toimii markkinaehtoisesti. Yhtiön toiminnan tulee olla liiketaloudellisesti kannattavaa pitkällä aikavälillä.
