@@ -1,0 +1,3 @@
+# 2 § Toiminnan tavoite
+
+Rahoituskeskuksen ja yhtiön muodostaman kokonaisuuden toiminnan yleisenä tavoitteena on auttaa elinkeinoja uudistumaan ja kehittymään teknologian ja innovaatioiden keinoin, edistää kansainvälistä verkottumista sekä parantamaan työelämän laatua. Lisäksi toiminnan tavoitteena on kasvattaa arvonlisää, vahvistaa elinkeinoelämän kasvua ja kansainvälistä kilpailukykyä, lisätä vientiä ja Suomeen suuntautuvia ulkomaisia investointeja ja pääomasijoituksia sekä Suomeen suuntautuvaa matkailua sekä pitkällä aikavälillä parantaa tuottavuutta sekä luoda työllisyyttä ja hyvinvointia.
