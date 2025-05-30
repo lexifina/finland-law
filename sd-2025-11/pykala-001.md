@@ -1,0 +1,3 @@
+# 1 § Yhtiön tarkoitus
+
+Teollisuustuki Oy on valtiontukiehtoista pääomasijoitus- ja rahoitustoimintaa harjoittava ja valtion valtiontukea sisältävistä teollisuuspoliittisista sijoituksista vastaava yhtiö. Yhtiön tarkoituksena on edistää erityisesti suomalaisten pienten ja keskisuurten yritysten kasvua sekä uudistaa suomalaista teollisuutta ja elinkeinorakennetta. Yhtiön tarkoituksena on lisäksi vauhdittaa uusiin teknologioihin ja vähemmän ympäristöä kuormittavaan ja kestävään elinkeinotoimintaan siirtymiseen liittyviä investointeja Suomessa sekä kehittää pääomasijoitusmarkkinaa ja korjata yritysten rahoituksen tarjonnassa esiintyviä puutteita.
