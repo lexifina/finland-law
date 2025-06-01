@@ -1,0 +1,2 @@
+Laki rahanpesun selvittelykeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
