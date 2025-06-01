@@ -1,0 +1,6 @@
+# 2 § Lain soveltaminen puolustusvoimissa
+Luku: 1 luku Yleiset säännökset
+
+Puolustusministeriön asetuksella säädetään, mitkä sotilasajoneuvot katsastetaan tässä laissa tarkoitetussa katsastustoimipaikassa ja mitkä sotilasajoneuvot puolustusvoimat katsastaa itse, sekä puolustusvoimien suorittaman katsastuksen ja katsastuspaikan muista vaatimuksista.
+
+Puolustusvoimissa katsastuksia suorittavan ajoneuvotarkastajan peruskoulutusvaatimuksiin ja luotettavuuteen sovelletaan tämän lain säännöksiä. Puolustusministeriön asetuksella säädetään puolustusvoimien ajoneuvotarkastajalta edellytettävästä puolustusvoimien antamasta jatkokoulutuksesta sekä puolustusvoimissa myönnettävien tarkastajaoikeuksien luokituksesta ja voimassaolosta.

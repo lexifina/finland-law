@@ -1,0 +1,2 @@
+Laki ajoneuvojen katsastustoiminnasta
+Eduskunnan päätöksen mukaisesti säädetään:
