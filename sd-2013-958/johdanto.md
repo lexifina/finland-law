@@ -1,0 +1,2 @@
+Laki ajoneuvojen yksittäishyväksynnän järjestämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
