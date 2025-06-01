@@ -1,4 +1,4 @@
-# 205 § Tietojen antaminen rikosten ja väärinkäytösten selvittämiseksi
+# 205 § Tietojen antaminen rikosten ja väärinkäytösten selvittämiseksi sekä kansallisen turvallisuuden suojaamiseksi
 Osa: IV OSA ERINÄISET SÄÄNNÖKSET
 Luku: 14 luku Tietojen antaminen, saaminen ja salassapito
 
@@ -10,6 +10,6 @@ Annettavia tietoja ovat:
 3) tiedot työnantajasta, vakuutettavasta työskentelystä ja ansioista; ja
 4) muut näihin rinnastettavat tiedot, jotka ovat välttämättömiä sosiaaliturvaan kohdistuvien rikosten ja väärinkäytösten selvittämiseksi tehtävää henkilötietojen yhdistämistä ja muuta kertaluonteista valvontatointa varten.
 
-Eläkelaitoksella ja Eläketurvakeskuksella on oikeus antaa 2 momentissa mainittuja tietoja salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä esitutkinta- ja syyttäjäviranomaiselle siltä osin kuin ne ovat välttämättömiä rikosten selvittämistä ja syytteeseen panoa varten.
+Eläkelaitoksella ja Eläketurvakeskuksella on oikeus antaa 2 momentissa tarkoitettuja tietoja salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä esitutkinta- ja syyttäjäviranomaiselle siltä osin kuin ne ovat välttämättömiä rikosten selvittämistä ja syytteeseen panoa varten sekä suojelupoliisille siltä osin kuin ne ovat välttämättömiä sen toimialaan kuuluvien rikosten ennalta estämiseksi ja kansallisen turvallisuuden suojaamiseksi sitä vakavasti uhkaavalta toiminnalta.
 
 Tässä pykälässä tarkoitetuissa tilanteissa ei kuitenkaan saa antaa työntekijän terveydentilaa koskevia tietoja tai tietoja, jotka ovat tarkoitetut kuvaamaan työntekijän sosiaalihuollon tarpeen perusteita.
