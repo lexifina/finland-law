@@ -7,7 +7,7 @@ Turvapaikkapuhuttelussa on erityisesti tiedusteltava, miten hakija suhtautuu mah
 
 Turvapaikkapuhuttelu voidaan tallentaa äänenä ja kuvana. Tallentamisesta on ennen sen aloittamista ilmoitettava hakijalle.
 
-Turvapaikkapuhuttelusta laaditaan pöytäkirja. Puhuttelun päätyttyä pöytäkirja tulkitaan hakijalle ja hänelle ilmoitetaan mahdollisuudesta tehdä siihen korjauksia ja lisäyksiä. Hakija vahvistaa pöytäkirjan sisällön allekirjoituksellaan. Hakijalle annetaan pöytäkirjasta jäljennös heti tai mahdollisimman pian puhuttelun jälkeen.
+Turvapaikkapuhuttelusta laaditaan pöytäkirja. Puhuttelun päätyttyä hakija saa pöytäkirjasta jäljennöksen heti tai mahdollisimman pian puhuttelun jälkeen, ja hänelle annetaan kahden viikon määräaika toimittaa pöytäkirjaan lisäyksiä ja korjauksia. Määräaika voi olla pidempi, jos asian laatu sitä vaatii. Pöytäkirja voidaan tulkita hakijalle puhuttelun päätyttyä, jos Maahanmuuttovirasto katsoo sen tarkoituksenmukaiseksi.
 
 Kansainvälistä suojelua hakevan vastaanotosta annetun lain 39 §:ssä tarkoitetun tai muun alaikäisen edustajan on oltava läsnä ilman huoltajaa olevan alaikäisen turvapaikkapuhuttelussa.
 

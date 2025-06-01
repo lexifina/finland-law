@@ -18,3 +18,8 @@ Henkilön toissijainen suojeluasema lakkautetaan myös, jos on perusteltua aihet
 Edellä 1 momentin 5 kohdassa ja 2 momentissa tarkoitetun olosuhteiden muutoksen on oltava merkittävä ja pysyvä. Mitä 1 momentin 5 kohdassa ja 2 momentissa säädetään, ei kuitenkaan sovelleta henkilöön, joka voi aiemmin koetusta vainosta tai vakavasta haitasta johtuvien pakottavien syiden perusteella kieltäytyä turvautumasta kansalaisuusvaltionsa tai entisen pysyvän asuinmaansa suojeluun.
 
 Pakolaisasemaa ja toissijaista suojeluasemaa lakkautettaessa tulee suorittaa yksilöllinen tutkinta.
+
+Matkustamista kansalaisuusvaltioon tai entiseen pysyvään asuinmaahan voidaan oleskelun kesto ja tarkoitus huomioiden pitää:
+1) 1 momentin 1 kohdassa tarkoitettuna vapaaehtoisena kansalaisuusvaltion suojeluun uudelleen turvautumisena;
+2) 1 momentin 4 kohdassa tarkoitettuna vapaaehtoisena asettumisena asumaan maahan, josta henkilö pakeni ja jonka ulkopuolelle hän jäi vainon pelosta; taikka
+3) osoituksena 2 momentissa tarkoitetusta olosuhteiden muutoksesta.

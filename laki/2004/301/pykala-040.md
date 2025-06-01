@@ -17,6 +17,6 @@ Unionin kansalaisen ja häneen rinnastettavan oleskeluoikeudesta säädetään 1
 
 Ulkomaalainen, joka jättäessään oleskelulupahakemuksen oleskelee maassa laillisesti 1 momentissa säädetyn mukaisesti, saa laillisesti oleskella maassa, kunnes kyseiseen hakemukseen on tehty päätös.
 
-Kansainvälistä suojelua hakeva saa laillisesti oleskella maassa, kunnes hakemukseen on tehty päätös, jollei 201 §:n 7–9 momentista muuta johdu.
+Kansainvälistä suojelua hakeva saa laillisesti oleskella maassa, kunnes hakemukseen on tehty päätös, jollei 200 a §:n 5–7 momentista muuta johdu.
 
 Ulkomaalaisen oikeudesta oleskella maassa maastapoistamispäätöksen jälkeen säädetään 13 luvussa.

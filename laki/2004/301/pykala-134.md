@@ -12,4 +12,4 @@ Ulkomaalaiselle, joka on saanut oleskeluluvan tilapäisen suojelun perusteella, 
 
 Ulkomailla olevalle ulkomaalaiselle, jolla on oleskelulupa Suomessa, myönnetään muukalaispassi Suomeen paluuta varten kadonneen tai turmeltuneen muukalaispassin tai pakolaisen matkustusasiakirjan tilalle.
 
-Muukalaispassi voidaan myöntää enintään viideksi vuodeksi. Ulkomailla olevalle ulkomaalaiselle muukalaispassi voidaan kuitenkin myöntää enintään yhden kuukauden ajaksi.
+Muukalaispassi voidaan myöntää enintään viideksi vuodeksi. Ulkomailla olevalle ulkomaalaiselle muukalaispassi voidaan kuitenkin myöntää enintään yhden kuukauden ajaksi. Muukalaispassi voidaan kuitenkin myöntää enintään yhdeksi vuodeksi, jos se myönnetään 136 a §:n mukaisesti rajoittamattomana.
