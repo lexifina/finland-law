@@ -22,7 +22,8 @@ c) 6 artiklan 1 kohdassa tai 8 artiklan 1 kohdassa mainitun asetuksen liitteesee
 d) 7 artiklan 1 tai 2 kohdassa mainitun asetuksen liitteeseen I sisältyvien kaksikäyttötuotteiden kauttakulun kiellosta tai tietystä kauttakulusta,
 e) 10 artiklan 1 kohdassa toisen jäsenvaltion kansalliseen valvontaluetteloon sisältyvistä kaksikäyttötuotteista,
 f) 11 artiklan 1 kohdassa mainitun asetuksen liitteeseen IV sisältyvien kaksikäyttötuotteiden siirrosta unionin sisällä tai
-g) 12 artiklan 7 kohdassa unionin yleisluvan käyttöä koskevasta kiellosta
+g) 12 artiklan 7 kohdassa unionin yleisluvan käyttöä koskevasta kiellosta tai
+10) patruunoiden komponenttien viennin luvanvaraisuudesta annetun lain (248/2025) 2 §:ssä viennin luvanvaraisuudesta
 säädettyä tai mainittujen säädösten nojalla annettua säännöstelymääräystä, on tuomittava säännöstelyrikoksesta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
 
 Säännöstelyrikoksesta tuomitaan myös se, joka rikkoo varojen jäädyttämisestä terrorismin torjumiseksi annetun lain (325/2013) 6 §:ssä säädettyä kieltoa siirtää tai muuntaa varoja taikka 7 §:ssä säädettyä kieltoa luovuttaa varoja.
