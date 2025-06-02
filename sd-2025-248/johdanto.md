@@ -1,0 +1,2 @@
+Laki patruunoiden komponenttien viennin luvanvaraisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
