@@ -1,0 +1,2 @@
+Laki väkivallan ja häirinnän poistamisesta työelämässä tehdystä Kansainvälisen työjärjestön yleissopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
