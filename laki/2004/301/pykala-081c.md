@@ -3,7 +3,9 @@ Luku: 5 luku Työnteko ja elinkeinon harjoittaminen
 
 Oikeus työntekoon alkaa, kun oikeuden sisältävä oleskelulupa on myönnetty ja päättyy oleskeluluvan voimassaolon päättyessä. Uuden oleskeluluvan mukainen oikeus alkaa, kun oleskelulupa on myönnetty.
 
-Jos jatko-oleskelulupahakemus on tehty aikaisemman oleskeluluvan voimassa ollessa, ulkomaalainen saa jatkaa aiemman luvan mukaista työntekoa, kunnes uuden hakemuksen johdosta on myönnetty oleskelulupa tai kielteinen päätös on tullut lainvoimaiseksi.
+Oikeus työntekoon 72 c §:n 2 momentin nojalla valtioneuvoston asetuksessa säädetyllä ammattialalla alkaa, kun työntekijän oleskelulupa on myönnetty. Oikeus työntekoon säilyy työsuhteen loppuun, vaikka asetusta muutetaan tai se kumotaan, edellyttäen että oleskelulupa on voimassa. Työnteko-oikeus päättyy oleskeluluvan voimassaolon päättyessä.
+
+Jos jatko-oleskelulupahakemus on tehty oleskeluluvan voimassa ollessa, ulkomaalainen saa jatkaa luvan sekä 2 momentin mukaista työntekoa, kunnes hakemuksen johdosta on myönnetty uusi oleskelulupa tai kielteinen päätös on tullut lainvoimaiseksi.
 
 Jos ulkomaalaisen oleskelulupa on myönnetty 74 §:n 1 momentin 1–3 tai 11 kohdan nojalla, työnteko-oikeus päättyy luvan voimassaoloajan päättyessä.
 

@@ -9,9 +9,12 @@ Rajoittamaton työnteko-oikeus on ulkomaalaisella, jolle on myönnetty:
 5) oleskelulupa 54 b tai 75 §:n perusteella;
 6) oleskelulupa maasta poistumisen estymisen vuoksi 51 §:n perusteella.
 
-Ulkomaalaisella, jolle on myönnetty työntekijän oleskelulupa, on työnteko-oikeus yhdellä tai useammalla ammattialalla sen mukaan kuin päätöksessä 72 §:n 3 momentin mukaan määrätään.
+Rajoitettu työnteko-oikeus on ulkomaalaisella, jolle on myönnetty:
+1) työntekijän oleskelulupa, jolloin työnteko-oikeus on sekä yhdellä tai useammalla ammattialalla sen mukaan kuin päätöksessä 72 §:n 3 momentin mukaan määrätään että 72 c §:n nojalla määritellyllä työvoimapula-alalla;
+2) 73 §:ssä tarkoitettu erityisasiantuntijan oleskelulupa tai 74 §:ssä tarkoitettu muu oleskelulupa ansiotyötä varten, jolloin työnteko-oikeus on luvan perusteen mukainen;
+3) muulla kuin 1 kohdassa mainitulla perusteella myönnetty oleskelulupa työntekoa varten, jolloin työnteko-oikeus kattaa lisäksi oikeuden tehdä 73 §:ssä ja 74 §:n 1 momentin 4, 5 ja 8–10 kohdassa tarkoitettua työtä.
 
-Ulkomaalaisella, jolle on myönnetty 73 §:ssä tarkoitettu erityisasiantuntijan oleskelulupa tai 74 §:ssä tarkoitettu muu oleskelulupa ansiotyötä varten, on luvan perusteen mukainen työnteko-oikeus. Muulla perusteella myönnetyn oleskeluluvan haltijalla on oikeus tehdä 73 §:ssä ja 74 §:n 1 momentin 4, 5 ja 8–10 kohdassa tarkoitettua työtä.
+Jos 72 c §:n 2 momentissa tarkoitettu asetus muuttuu 58 a §:n 1 momentin 1 tai 3 kohdassa tarkoitetun työttömyysjakson aikana, 2 momentin 1 kohdan työnteko-oikeuteen määritellyllä työvoimapula-alalla sovelletaan sekä voimassa olevaa että työttömyysjakson aikana aiemmin voimassa ollutta asetusta.
 
 Ulkomaalaisella, jolle ulkoministeriö on 69 §:n 3 momentin perusteella myöntänyt oleskeluluvan edustuston rakennus-, korjaus- tai huoltotyön tekemistä varten, on oikeus tehdä se työ, jota varten oleskelulupa on myönnetty.
 

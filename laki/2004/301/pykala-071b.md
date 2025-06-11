@@ -11,4 +11,4 @@ Työnantajan on liitettävä työntekijänsä hakemukseen:
 
 Työnantaja voidaan velvoittaa toimittamaan tietoja 71 §:n 1 kohdassa tarkoitettujen velvoitteiden täyttämisestä, jos niitä ei saada toisen viranomaisen tietovarannosta. Työnantaja voidaan lisäksi velvoittaa toimittamaan muita hakemuksen ratkaisemisen kannalta välttämättömiä lisätietoja, jos on perusteltua aihetta epäillä, että työnantaja ei täytä mainitun pykälän vaatimuksia tai että työnantajan tai työntekijän tarkoituksena on maahantuloa tai maassa oleskelua koskevien säännösten kiertäminen.
 
-Työnantajan on toimitettava tämän pykälän mukaiset tiedot sähköisesti käyttäen Maahanmuuttoviraston sähköistä asiointipalvelua. Jos se ei ole mahdollista, tiedot voidaan toimittaa paperisena.
+Työnantajan on toimitettava tämän pykälän mukaiset tiedot Maahanmuuttovirastolle sähköisesti siihen tarkoitetussa verkkopalvelussa. Erityisestä syystä työnantaja voi antaa tiedot muutoin kuin sähköisesti Maahanmuuttoviraston vahvistamalla lomakkeella.
