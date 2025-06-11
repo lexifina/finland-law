@@ -1,0 +1,16 @@
+# 5 § Määritelmät
+
+Tässä laissa tarkoitetaan:
+1) kolmannen maan kansalaisella muun maan kuin Euroopan unionin jäsenvaltion tai Islannin, Liechtensteinin, Norjan tai Sveitsin kansalaista;
+2) yrityksen sisäisellä siirrolla Euroopan unionin jäsenvaltioiden alueen ulkopuolella sisäisen siirron saaneen työntekijän luvan hakemisajankohtana asuvan kolmannen maan kansalaisen tilapäistä siirtoa työntekoa tai koulutusta varten Euroopan unionin jäsenvaltioiden alueen ulkopuolelle sijoittautuneesta yrityksestä, jonka kanssa kyseisellä kolmannen maan kansalaisella on työsopimus ennen siirtoa ja siirron ajan, kyseiseen yritykseen tai samaan yritysryhmään kuuluvaan yksikköön Euroopan unionin jäsenvaltioon, ja soveltuvissa tapauksissa liikkuvuutta yhteen tai useaan toiseen Euroopan unionin jäsenvaltioon sijoittautuneiden vastaanottavien yksiköiden välillä;
+3) sisäisen siirron saaneella työntekijällä yrityksen sisäisen siirron saanutta kolmannen maan kansalaista, joka asuu Euroopan unionin jäsenvaltioiden alueen ulkopuolella sisäisen siirron saaneen työntekijän luvan hakemisajankohtana;
+4) vastaanottavalla yksiköllä Euroopan unionin jäsenvaltioon sijoittautunutta yksikköä, johon sisäisen siirron saanut työntekijä siirretään, riippumatta yksikön oikeudellisesta muodosta;
+5) johtajalla johtavassa asemassa olevaa henkilöä, joka ensisijaisesti vastaa vastaanottavan yksikön johtamisesta ja on pääasiassa yrityksen hallituksen tai osakkeenomistajien taikka vastaavan tahon yleisessä valvonnassa tai ohjauksessa;
+6) asiantuntijalla henkilöä, joka työskentelee 8 kohdassa tarkoitetussa yritysryhmässä ja jolla on erityistä, vastaanottavan yksikön toimialojen, tekniikoiden tai johtamisen kannalta olennaista osaamista;
+7) työsuhteisella harjoittelijalla yliopistotutkinnon suorittanutta henkilöä, joka siirretään vastaanottavaan yksikköön urakehitystä varten tai liiketoiminnan tekniikoita tai menetelmiä koskevan koulutuksen saamiseksi ja jolle maksetaan palkkaa siirron aikana;
+8) yritysryhmällä kahta tai useampaa yritystä, joiden katsotaan olevan toisiinsa yhteydessä ICT-direktiivissä tarkoitetulla tavalla;
+9) säännellyllä ammatilla ammattipätevyyden tunnustamisesta annetun Euroopan parlamentin ja neuvoston direktiivin 2005/36/EY 3 artiklan 1 kohdan a alakohdassa määriteltyä säänneltyä ammattia;
+10) ensimmäisellä jäsenvaltiolla sitä Euroopan unionin jäsenvaltiota, joka ensimmäisenä myöntää kolmannen maan kansalaiselle sisäisen siirron saaneen työntekijän luvan;
+11) toisella jäsenvaltiolla mitä tahansa Euroopan unionin jäsenvaltiota, jossa sisäisen siirron saanut työntekijä aikoo käyttää tai käyttää tässä laissa tarkoitettua oikeutta liikkuvuuteen ja joka on muu kuin ensimmäinen jäsenvaltio;
+12) ICT-oleskeluluvalla ICT-direktiivin mukaista sisäisen siirron saaneen työntekijän lupaa vastaavaa oleskelulupaa, jossa on lyhenne ”ICT” ja jonka nojalla luvanhaltija voi oleskella ja työskennellä ensimmäisessä jäsenvaltiossa ja tapauksen mukaan toisten jäsenvaltioiden alueella ICT-direktiivissä säädetyin ehdoin;
+13) liikkuvalla ICT -oleskeluluvalla ICT-direktiivissä tarkoitettua pitkäaikaista liikkumista koskevaa lupaa vastaavaa oleskelulupaa, jossa on merkintä ”Mobile ICT” ja jonka nojalla sisäisen siirron saaneen työntekijän luvan haltija voi oleskella ja työskennellä Suomessa ICT-direktiivissä säädetyin ehdoin.
