@@ -1,19 +1,19 @@
-# 114 § Oleskeluluvan myöntäminen kansainvälistä suojelua tai tilapäistä suojelua saaneen perheenjäsenelle
+# 114 § Oleskeluluvan myöntäminen pakolaisen perheenjäsenelle
 Luku: 6 luku Kansainvälinen suojelu
 
-Oleskelulupa myönnetään perhesiteen perusteella pakolaisen tai toissijaisen suojelun perusteella oleskeluluvan saaneen taikka tilapäistä suojelua saaneen ulkomaalaisen perheenjäsenelle, jos:
-1) perheenkokoaja asuu Suomessa tai hänelle on myönnetty oleskelulupa Suomeen muuttoa varten; ja
-2) hakijan ei katsota vaarantavan yleistä järjestystä, turvallisuutta tai kansanterveyttä.
+Oleskelulupa myönnetään perhesiteen perusteella pakolaisen perheenjäsenelle, jos perheenkokoaja asuu Suomessa tai hänelle on myönnetty oleskelulupa Suomeen muuttoa varten.
 
-Jos 1 momentin 2 kohdassa mainittuja seikkoja ilmenee, suoritetaan kokonaisharkinta, jossa otetaan huomioon perheenkokoajan mahdollisuus viettää perhe-elämää hakijan kanssa jossain kolmannessa maassa. Harkinnassa on otettava huomioon perhesiteen merkitys asianosaisille.
+Jos hakijan katsotaan vaarantavan yleistä järjestystä tai turvallisuutta, suoritetaan kokonaisharkinta, jossa otetaan huomioon perheenkokoajan mahdollisuus viettää perhe-elämää hakijan kanssa jossain kolmannessa maassa. Harkinnassa on otettava huomioon perhesiteen merkitys asianosaisille.
 
-Jos perheenkokoaja on saanut oleskeluluvan toissijaisen suojelun perusteella ja luvan myöntämisen peruste on aseellinen selkkaus, taikka jos hän on saanut oleskeluluvan tilapäisen suojelun perusteella, kokonaisharkintaa suoritettaessa otetaan huomioon se, että ehdotonta estettä perheenkokoajan paluulle kotimaahan ei ole.
-
-Tässä pykälässä tarkoitetun oleskeluluvan myöntäminen edellyttää, että ulkomaalaisen toimeentulo on turvattu. Toimeentuloedellytystä ei kuitenkaan sovelleta, jos perheenkokoaja on alaikäinen tai, jos:
+Tässä pykälässä tarkoitetun oleskeluluvan myöntäminen edellyttää, että ulkomaalaisen toimeentulo on turvattu. Toimeentuloedellytystä ei kuitenkaan sovelleta, jos perheenkokoaja on ilman huoltajaa maassa oleva alaikäinen pakolainen, tai jos:
 1) oleskelulupahakemus perhesiteen perusteella on jätetty kolmen kuukauden kuluessa siitä, kun:
-a) perheenkokoaja on saanut tiedoksi päätöksen hänelle annetusta turvapaikasta; tai
-b) perheenkokoaja on saanut tiedoksi päätöksen hyväksymisestään Suomeen pakolaiskiintiössä;
-2) perheenkokoajan perhe on muodostettu:
-a) ennen perheenkokoajan Suomeen tuloa, jos hänelle on annettu turvapaikka; tai
-b) ennen perheenkokoajan hyväksymistä Suomeen pakolaiskiintiössä; ja
+a) perheenkokoaja on saanut tiedoksi päätöksen hänelle annetusta turvapaikasta;
+b) perheenkokoaja on saanut tiedoksi päätöksen hyväksymisestään Suomeen pakolaiskiintiössä; tai
+c) perheenkokoaja on saanut tiedoksi päätöksen perhesiteen perusteella hänelle myönnetystä pakolaisasemasta;
+2) perheenkokoajan perhe on muodostettu ennen:
+a) perheenkokoajan Suomeen tuloa, jos hänelle on annettu turvapaikka;
+b) perheenkokoajan hyväksymistä Suomeen pakolaiskiintiössä; tai
+c) perheenkokoajalle perhesiteen perusteella myönnettävän pakolaisaseman antamista; ja
 3) perheenyhdistäminen ei ole mahdollista sellaisessa kolmannessa maassa, johon perheenkokoajalla tai perheenjäsenellä on erityisiä siteitä.
+
+Jos perhe on muodostettu perheenkokoajan maahantulon jälkeen tai sen jälkeen kun perheenkokoaja on hyväksytty Suomeen pakolaiskiintiössä tai sen jälkeen kun perheenkokoaja on saanut pakolaisaseman perheenjäsenenä, tässä pykälässä tarkoitetun oleskeluluvan myöntäminen perheenjäsenelle edellyttää, että perheenkokoaja on oleskellut Suomessa oleskeluluvalla vähintään kaksi vuotta, kun perheenjäsenen oleskelulupahakemus jätetään. Asumisaikaa koskevasta vaatimuksesta voidaan yksittäisessä tapauksessa poiketa, jos siihen on poikkeuksellisen painava syy tai lapsen etu sitä vaatii.
