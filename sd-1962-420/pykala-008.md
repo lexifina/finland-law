@@ -1,0 +1,6 @@
+# 8 § Työnseisauksen siirtäminen
+Luku: 2 luku Työnseisauksen toimeenpanemisesta ja eräiden työtaistelutoimenpiteiden edellytyksistä
+
+Jos työriidan johdosta aiotun työnseisauksen tai sen laajentamisen katsotaan sen laajuuden tai työalan laadun vuoksi kohdistuvan yhteiskunnan elintärkeisiin toimintoihin tai huomattavasti vahingoittavan yleistä etua, työ- ja elinkeinoministeriö voi sovittelijan tai sovittelulautakunnan esityksestä riittävän ajan varaamiseksi sovittelua varten kieltää aiottuun työnseisaukseen tai sen laajentamiseen ryhtymisen tai sen toimeenpanon enintään 14 vuorokauden ajaksi työtaistelun ilmoitetusta alkamishetkestä lukien. Kun on kysymyksessä virkamiesten palvelussuhteen ehtoja koskeva työriita, ministeriö voi sovittelijan tai sovittelulautakunnan esityksestä erityisistä syistä kieltää työtaistelun lisäksi enintään 7 vuorokauden ajaksi. Kielto on annettava riitapuolille tiedoksi viimeistään kolme vuorokautta ennen aiotun työtaistelun alkamishetkeä tai, viimeksi mainitussa tapauksessa, ennen kieltoajan päättymistä.
+
+Riitapuoli älköön vastapuolen suostumuksetta ryhtykö aikomaansa työnseisaukseen, sen laajentamiseen tai toimeenpanemiseen myöhemmin kuin kolmen vuorokauden kuluessa kieltoajan päättymisestä. Työtaistelun alkamishetki on aina ilmoitettava sovittelijalle ja vastapuolelle viimeistään kolme vuorokautta ennen kieltoajan päättymistä.

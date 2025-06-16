@@ -1,0 +1,2 @@
+Laki työriitojen sovittelusta ja eräiden työtaistelutoimenpiteiden edellytyksistä
+Eduskunnan päätöksen mukaisesti säädetään:
