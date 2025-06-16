@@ -14,6 +14,6 @@ Tämän lain 24 §:n 1 ja 2 momentin ja 25–28 §:n säännöksiä ei sovelleta
 Tätä lakia ei sovelleta työhön, jossa noudatettavasta työajasta säädetään erikseen. Tätä lakia ei sovelleta myöskään työntekijöihin, joille on 34 §:ssä tarkoitetulla valtakunnallisella työehtosopimuksella kokonaisuutena arvioiden turvattu tämän lain lepoaikoja ja enimmäistyöaikaa vastaava suoja, jos kyse on:
 1) opetus- ja tutkimushenkilöstöstä, jolla on työn luonteen vuoksi oikeus päättää olennaisesta osasta työaikaansa;
 2) metsä-, metsänparannus- tai uittotyöstä tai niihin liittyvästä työstä, lukuun ottamatta maastossa tehtävää koneellista metsä- tai metsäparannustyötä ja puutavaran lähikuljetustyötä;
-3) Rajavartiolaitoksen henkilöstöstä tai luotsauslaissa (940/2003) tarkoitetuista tehtävistä.
+3) Rajavartiolaitoksen henkilöstöstä tai luotsauslaissa (561/2023) tarkoitetuista tehtävistä.
 
 Tätä lakia ei sovelleta voittoa tavoittelemattomassa yhteisössä työskentelevän työntekijän työhön siltä osin, kun hän osallistuu tapahtuma-, kilpailu- tai leiritoimintaan, josta on sovittu sellaisella 34 §:ssä tarkoitetulla valtakunnallisella työehtosopimuksella, joka turvaa työntekijälle tämän lain lepoaikoja ja enimmäistyöaikaa vastaavan suojan.
