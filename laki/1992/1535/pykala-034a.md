@@ -2,7 +2,7 @@
 Osa: III OSA TULON VERONALAISUUS JA TULOSTA TEHTÄVÄT VÄHENNYKSET
 Luku: 2 luku Pääomatulon veronalaisuus
 
-Veronalaista pääomatuloa on luonnollisen henkilön ottamaan vapaaehtoiseen yksilölliseen eläkevakuutukseen perustuva eläke ja muu vakuutussuoritus sekä takaisinoston perusteella saatu määrä, samoin kuin 54 d §:ssä tarkoitettu sidotusta pitkäaikaissäästämisestä annetussa laissa (1183/2009) tarkoitettuun sopimukseen (pitkäaikaissäästämissopimus) perustuva suoritus.
+Veronalaista pääomatuloa on luonnollisen henkilön ottamaan 34 c §:n mukaiseen vapaaehtoiseen yksilölliseen eläkevakuutukseen perustuva eläke ja muu vakuutussuoritus sekä takaisinoston perusteella saatu määrä, samoin kuin mainitun pykälän mukaiseen sidotusta pitkäaikaissäästämisestä annetussa laissa (1183/2009) tarkoitettuun sopimukseen (pitkäaikaissäästämissopimus) perustuva suoritus.
 
 Eläke tai suoritus luetaan saajan pääomatuloksi 20 prosentilla korotettuna, jos:
 1) eläkkeen tai suorituksen saajana on muu kuin vakuutettu tai säästäjä taikka heidän puolisonsa; tai
@@ -10,7 +10,7 @@ Eläke tai suoritus luetaan saajan pääomatuloksi 20 prosentilla korotettuna, j
 
 Edellä 2 momentissa tarkoitettua korotusta ei kuitenkaan määrätä siltä osin kuin osoitetaan, että maksuja ei ole vähennetty Suomen verotuksessa.
 
-4–5 momentit on kumottu L:lla 7.6.2019/732.
+Vapaaehtoiseen yksilölliseen eläkevakuutukseen tai pitkäaikaissäästämissopimukseen perustuvasta suorituksesta on kuitenkin veronalaista pääomatuloa vain tuotto siltä osin kuin suoritus on kertynyt sellaisten maksujen perusteella, joita ei ole saanut vähentää verotuksessa. Suorituksen tuotoksi katsotaan se suhteellinen osuus, joka suorituksen maksuhetkellä vastaa vakuutuksessa tai sopimuksessa jäljellä olevan tuoton osuutta jäljellä olevasta siitä eläkkeen tai säästövarojen määrästä, joka on kertynyt sellaisten maksujen perusteella, joita ei ole saanut vähentää verotuksessa.
 
 Pitkäaikaissäästämissopimuksen mukaisesti sijoitetuille varoille kertyneiden osinkotulojen, korkotulojen, luovutusvoittojen ja muiden tulojen yhteismäärä vähennettynä sijoitettuihin varoihin kohdistuvilla kuluilla, luovutustappioilla ja muilla tappioilla katsotaan 1 momentissa tarkoitettuna tulona sen verovuoden tuloksi, jona sopimukseen perustuva suoritus on saatu.
 
