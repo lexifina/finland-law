@@ -1,0 +1,17 @@
+# 4 § Liikenne- ja viestintäviraston erityistehtävät
+Luku: 2 luku Toimivaltaisten viranomaisten tehtävät
+
+Liikenne- ja viestintävirasto toimii turvatoimiasetuksen 2 artiklan 6 kohdassa tarkoitettuna merenkulun turvatoimien yhteysyksikkönä ja satamien turvatoimien yhteysyksikkönä, minkä lisäksi sen tehtävänä on:
+1) suorittaa satamarakenteiden ja satamien turva-arvioinnit, hyväksyä alusten, satamien ja satamarakenteiden turvasuunnitelmat, katsastaa alukset sekä antaa todistuskirjat siten kuin turvatoimiasetuksessa ja tässä laissa säädetään sekä:
+a) hyväksyä turva-arvioinnin perusteella ja satamanpitäjän esityksestä sataman turvatoimialueen rajat ja se, keille sataman henkilöstöön kuuluville tai 7 g §:ssä tarkoitetuille henkilöille tehdään turvallisuusselvityslaissa (726/2014) tarkoitettu turvallisuusselvitys, sekä huolehtia satamien turvasuunnitelmien tarkistamisesta tämän lain mukaisesti;
+b) hyväksyä sataman turvapäällikkö ja muu keskeinen turvahenkilöstö sataman tekemän esityksen ja turvallisuusselvityksen perusteella;
+c) toimia satamaturvadirektiivin 5 artiklassa tarkoitettuna satamaturvaviranomaisena;
+1) suorittaa satamarakenteiden ja satamien turva-arvioinnit, hyväksyä alusten, satamien ja satamarakenteiden turvasuunnitelmat, katsastaa alukset sekä antaa todistuskirjat siten kuin turvatoimiasetuksessa ja tässä laissa säädetään;
+2) ryhtyä turvatoimiasetuksen 9 artiklassa tarkoitettuihin valvontatoimenpiteisiin sen varmistamiseksi, että suomalaisessa satamassa oleva alus on turvatoimiasetuksen säännösten mukainen, ja jos on perusteltua syytä epäillä, ettei alus ole turvatoimiasetuksen säännösten mukainen, tai jos alus ei esitä todistuskirjaa pyydettäessä, ilmoittaa asiasta Rajavartiolaitokselle, poliisille tai Tullille sekä ryhtyä tarvittaviin turvatoimiasetuksen liitteenä olevan SOLAS-yleissopimuksen liitteen XI-2 luvun 9 säännön 1.2 ja 1.3 kohdassa tarkoitettuihin valvontatoimenpiteisiin;
+3) ryhtyä turvatoimiasetuksen liitteenä olevan SOLAS-yleissopimuksen liitteen XI-2 luvun 9 säännön 2.4 kohdassa tarkoitettuihin toimenpiteisiin aluksen vaatimuksenmukaisuuden puutteiden korjaamiseksi, jos on perusteltua syytä epäillä, että suomalaiseen satamaan saapuva alus ei noudata turvatoimiasetuksen säännöksiä, ja jos tilanne ei korjaannu tai muuten on perusteltua syytä uskoa, että alus ei noudata turvatoimiasetuksen säännöksiä, ilmoittaa asiasta Rajavartiolaitokselle, poliisille tai Tullille sekä ryhtyä tarvittaviin turvatoimiasetuksen liitteenä olevan SOLAS-yleissopimuksen liitteen XI-2 luvun 9 säännön 2.5 kohdassa tarkoitettuihin valvontatoimenpiteisiin;
+4) hyväksyä turvatoimiasetuksen 5 artiklan 4 kohdassa tarkoitetut vastaavat turvajärjestelyt ja ryhtyä niiden osalta asetuksen 5 artiklan 4 kohdassa tarkoitettuihin toimiin;
+5) tiedottaa tarkoituksenmukaisessa laajuudessa, tehokkaasti ja ilman aiheetonta viivytystä poliisin sille ilmoittamasta turvatasosta ja sen muutoksista, antaa tarvittaessa asiaa koskevia tarkempia tietoja sekä asettaa riskianalyysiin perustuen ulkomailla Suomen lipun alla purjehtivan aluksen turvataso ja välittää tieto tästä poliisille edelleen vahvistettavaksi;
+6) tehdä turvatoimiin liittyvät hallinnolliset ilmoitukset;
+7) ohjeistaa ja valvoa valvontaviranomaisten järjestämiä harjoituksia satamaturvadirektiivin liitteen III mukaisesti;
+8) valvoa, että tässä laissa tarkoitetut turvatarkastukset suoritetaan turvatoimiasetuksen ja tämän lain mukaisesti; sekä
+9) suorittaa muut tässä laissa Liikenne- ja viestintävirastolle säädetty tehtävät.
