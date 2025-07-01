@@ -1,7 +1,7 @@
 # 73 § Päästöoikeuksien palautusvelvollisuus
 Luku: 13 luku Päästöoikeuksien hallussapito ja palautusvelvollisuus
 
-Toiminnanharjoittajan, laivayhtiön ja ilma-aluksen käyttäjän on palautettava 69 §:ssä tarkoitettuun unionin rekisteriin vuosittain syyskuun loppuun mennessä edellisenä kalenterivuonna kustakin toiminnanharjoittajan laitoksesta aiheutuneita tai laivayhtiön tai ilma-aluksen käyttäjän aiheuttamia, 10 luvun mukaisesti todennettuja päästöjä vastaava määrä päästöoikeuksia.
+Toiminnanharjoittajan, laivayhtiön ja ilma-aluksen käyttäjän on palautettava 69 §:ssä tarkoitettuun unionin rekisteriin vuosittain syyskuun loppuun mennessä edellisenä kalenterivuonna kustakin toiminnanharjoittajan laitoksesta aiheutuneita tai laivayhtiön tai ilma-aluksen käyttäjän aiheuttamia 7 luvun mukaisesti todennettuja päästöjä vastaava määrä päästöoikeuksia.
 
 Edellä 1 momentissa tarkoitettuja päästöoikeuksia palautetaan laivayhtiön alusten osalta seuraavasti:
 1) 40 prosenttia niistä vuodelta 2024 raportoiduista todennetuista päästöistä, joihin sovelletaan 1 momentin mukaista palautusvaatimusta;

@@ -1,7 +1,7 @@
 # 86 § Todentamisraportti
 Luku: 14 luku Todentaminen
 
-Todentajan on laadittava todentamisraportti laitoksen ja ilma-aluksen käyttäjän päästöselvityksen, 39 §:ssä tarkoitetun selvityksen, perustietoselvityksen, uuden osallistujan tietoselvityksen ja vuotuisen tuotantotasoraportin todennuksesta.
+Todentajan on laadittava todentamisraportti laitoksen ja ilma-aluksen käyttäjän päästöselvityksen, 39 §:ssä tarkoitetun selvityksen, perustietoselvityksen, uuden osallistujan tietoselvityksen, vuotuisen tuotantotasoraportin ja ilmastoneutraaliusraportin todennuksesta.
 
 Todentajan on laadittava laivayhtiön todentamisraportti MRV-asetuksen 13 artiklan ja sen nojalla annettuien delegoitujen säädösten mukaisesti päästöselvityksen ja yhtiötason yhdistettyjen päästötietojen todentamisesta.
 

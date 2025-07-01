@@ -10,3 +10,5 @@ Liitteen I kohdan 1 mukaiseen laitokseen, jossa ympäristönsuojelulain (527/201
 Jos laitos kuuluu 1 tai 2 momentin perusteella lain soveltamisalaan, tätä lakia sovelletaan kaikkiin laitoksen tai laitoksen osan yksiköihin, joissa poltetaan polttoaineita.
 
 Jos laitoksen toimintaa on kasvihuonekaasupäästöjen vähentämiseksi muutettu siten, että laitoksen kokonaispolttoaineteho on korkeintaan 20 megawattia ja toiminnanharjoittaja on ilmoittanut Energiavirastolle laitoksen jatkavan tämän lain soveltamisalassa, sovelletaan tätä lakia laitokseen toiminnanharjoittajan ilmoituksen mukaisesti 31 päivään joulukuuta 2025 tai 31 päivään joulukuuta 2030.
+
+Jos laitoksen toimintaa on muutettu siten, että laitoksella käytetään laitoksen tai polttoyksikön käynnistystä tai pysäytystä lukuun ottamatta yksinomaan biomassaa ja toiminnanharjoittaja on ilmoittanut Energiavirastolle laitoksen jatkavan tämän lain soveltamisalaan kuuluvaa toimintaa, tätä lakia sovelletaan laitokseen toiminnanharjoittajan ilmoituksen mukaisesti 31 päivään joulukuuta 2025.
