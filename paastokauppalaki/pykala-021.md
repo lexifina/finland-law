@@ -1,7 +1,7 @@
-# 21 § Päästöjen tarkkailusuunnitelma
+# 21 § Päästöjen tarkkailusuunnitelman hyväksyminen
 Luku: 5 luku Päästöjen tarkkailusuunnitelma
 
-Toiminnanharjoittajan on laadittava lain soveltamisalaan kuuluvalle laitokselle päästöjen tarkkailusuunnitelma ja haettava sille Energiaviraston hyväksyntä.
+Toiminnanharjoittajan on laadittava lain soveltamisalaan kuuluvalle laitokselle päästöjen tarkkailusuunnitelma ja haettava sille Energiaviraston hyväksyntä. Tarkkailusuunnitelma hyväksytään toistaiseksi tai erityisistä syistä määräajaksi.
 
 Laivayhtiön tai ilma-aluksen käyttäjän on laadittava lain soveltamisalaan kuuluvalle meriliikennetoiminnalle tai lentotoiminnalle päästöjen tarkkailusuunnitelma ja haettava sille Liikenne- ja viestintäviraston hyväksyntä.
 

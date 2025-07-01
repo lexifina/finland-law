@@ -5,7 +5,7 @@ Joka tahallaan tai törkeästä huolimattomuudesta
 1) laiminlyö hakea 26 §:ssä tarkoitettua päästölupaa taikka 21 §:ssä tarkoitetun päästöjen tarkkailusuunnitelman tai 22 §:ssä tarkoitetun vakiomuotoisen ja yksinkertaistetun päästöjen tarkkailusuunnitelman hyväksyntää,
 2) laiminlyö 25, 30, 37, 38 tai 40 §:n mukaisen ilmoituksen tekemisen tai ilmoittaa vääriä tietoja,
 3) toimittaa 50 ja 51 §:ssä tarkoitettua maksutta jaettavien päästöoikeuksien myöntämispäätöstä varten vääriä tietoja,
-4) laiminlyö 55 §:ssä tarkoitetun raportin tai ilmoituksen toimittamisen päästöoikeusmäärän alentamista varten,
+4) laiminlyö 55 §:ssä tarkoitetun raportin tai ilmoituksen toimittamisen päästöoikeusmäärän alentamista varten tai toimittaa vääriä tietoja,
 5) laiminlyö 31 tai 39 §:ssä tarkoitetun selvityksen laatimisen tai ilmoittaa niissä vääriä tietoja taikka laiminlyö toimittaa mainittujen pykälien mukaisesti selvityksen ja sitä koskevan 86 §:ssä tarkoitetun todentamisraportin,
 6) laiminlyö esittää 90 §:n 5 momentissa tarkoitetut asiakirjat ja tallenteet taikka
 7) laiminlyö toimittaa 57 §:ssä tarkoitettuja tietoja laitosten yhdistymisestä tai laitoksen jakautumisesta taikka toimittaa vääriä tietoja,
