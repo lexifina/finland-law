@@ -1,0 +1,2 @@
+Laki yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta
+Eduskunnan päätöksen mukaisesti säädetään:

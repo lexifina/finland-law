@@ -1,0 +1,4 @@
+# 29 § Turvallisuusselvitys
+Luku: 6 luku Erinäiset säännökset
+
+Jos turvallisuusselvityslaissa (726/2014) tarkoitettu henkilöturvallisuusselvitys laaditaan tämän lain 13 §:ssä tarkoitettuun kriittiseen toimijaan palvelussuhteeseen tai toimeksiantotehtävää suorittamaan valittavasta henkilöstä taikka palvelussuhdetta tai toimeksiantotehtävää hoitavasta henkilöstä ja se on selvityksen kohteen ulkomailla oleskelun tai muun erityisen syyn vuoksi tarpeen, suojelupoliisi voi tehdä selvitystä varten rikosrekisteritietojen säilyttämisestä ja luovuttamisesta Suomen ja muiden Euroopan unionin jäsenvaltioiden välillä annetun lain (214/2012) 20 c §:ssä tarkoitetun pyynnön. Pyynnön perusteella saatuja rekisteritietoja voidaan käyttää henkilöturvallisuusselvityksen laadinnassa sen lisäksi, mitä turvallisuusselvityslaissa muutoin säädetään.
