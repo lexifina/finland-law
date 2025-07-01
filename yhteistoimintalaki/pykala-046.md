@@ -3,11 +3,12 @@ Luku: 6 luku Erinäiset säännökset
 
 Työnantaja tai tämän edustaja, joka yhteistoiminta-asiamieheltä saadusta kehotuksesta huolimatta, tahallaan tai huolimattomuudesta
 1) laiminlyö järjestää 7 §:n 1 momentissa säädetyn vähimmäismäärän vuoropuhelukokouksia,
-2) laiminlyö käydä vuoropuhelua 8 §:ssä tarkoitetuista asioista,
-3) jättää laatimatta tai laiminlyö ylläpitää 9 §:ssä tarkoitetun työyhteisön kehittämissuunnitelman,
-4) jättää antamatta 10 §:ssä tarkoitettuja tarpeellisia tietoja vuoropuhelua varten,
-5) laiminlyö 11 §:n 1–3 momentissa tarkoitetut tiedonantovelvollisuutensa tai
-6) jättää ottamatta 13 §:n 2 momentissa tarkoitetun aloitteen käsiteltäväksi,
+2) laiminlyö järjestää 7 a §:ssä tarkoitetut työpaikkakohtaiset käytännöt yrityksessä tai yhteisössä säännönmukaisesti käytävälle vuoropuhelulle,
+3) laiminlyö käydä vuoropuhelua 8 §:ssä tarkoitetuista asioista,
+4) jättää laatimatta tai laiminlyö ylläpitää 9 §:ssä tarkoitetun työyhteisön kehittämissuunnitelman,
+5) jättää antamatta 10 §:ssä tarkoitettuja tarpeellisia tietoja vuoropuhelua varten,
+6) laiminlyö 11 §:n 1–3 momentissa tarkoitetut tiedonantovelvollisuutensa tai
+7) jättää ottamatta 13 §:n 2 momentissa tarkoitetun aloitteen käsiteltäväksi,
 on tuomittava, jollei tekoa ole pidettävä vähäisenä, yhteistoimintavelvoitteen rikkomisesta sakkoon.
 
 Yhteistoimintavelvoitteen rikkomisesta tuomitaan myös työnantaja tai tämän edustaja, joka tahallaan tai huolimattomuudesta

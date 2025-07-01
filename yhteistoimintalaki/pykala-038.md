@@ -1,7 +1,7 @@
 # 38 § Sopimisoikeus
 Luku: 6 luku Erinäiset säännökset
 
-Työnantaja tai työnantajien yhdistys sekä työntekijöiden valtakunnallinen yhdistys tai tämän jäsenyhdistys voivat sopimuksin poiketa siitä, mitä 2 ja 3 luvussa säädetään. Sopimuksin ei voida kuitenkaan poiketa siitä, mitä 19 §:n 2 ja 4 momentissa säädetään neuvotteluesitykseen sisältyvistä tiedoista tai ilmoitusvelvollisuudesta työvoimaviranomaiselle siltä osin kuin säännökset koskevat vähintään kymmenen työntekijän irtisanomista.
+Työnantaja tai työnantajien yhdistys sekä työntekijöiden valtakunnallinen yhdistys tai tämän jäsenyhdistys voivat sopimuksin poiketa siitä, mitä 2 ja 3 luvussa säädetään. Sopimuksin ei voida kuitenkaan poiketa siitä, mitä 19 §:n 2 ja 4 momentissa säädetään neuvotteluesitykseen sisältyvistä tiedoista tai ilmoitusvelvollisuudesta työvoimaviranomaiselle siltä osin kuin säännökset koskevat vähintään kymmenen työntekijän irtisanomista taikka mitä 25 a §:ssä säädetään työvoimapalveluiden selvittämiselle varattavasta ajasta.
 
 Tässä pykälässä tarkoitetun sopimuksen saavat tehdä Kansaneläkelaitoksen osalta Kansaneläkelaitoksesta annetun lain (731/2001) 11 §:n 2 momentissa tarkoitetut osapuolet.
 

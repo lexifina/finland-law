@@ -1,7 +1,7 @@
 # 12 § Muusta lainsäädännöstä johtuvat vuoropuhelussa käsiteltävät asiat
 Luku: 2 luku Vuoropuhelu yrityksen tai yhteisön toiminnan ja työyhteisön kehittämiseksi
 
-Muusta lainsäädännöstä johtuvia 8 §:n 6 kohdan mukaisessa vuoropuhelussa käsiteltäviä asioita ovat:
+Muusta lainsäädännöstä johtuvia 7 a §:n ja 8 §:n 6 kohdan mukaisessa vuoropuhelussa käsiteltäviä asioita ovat:
 1) yksityisyyden suojasta työelämässä annetun lain (759/2004) 4 §:n 3 momentissa tarkoitettu henkilötietojen kerääminen työhön otettaessa ja työsuhteen aikana;
 2) yksityisyyden suojasta työelämässä annetun lain 7 ja 8 §:ssä tarkoitetut työtehtävät, joissa työnhakija tai työntekijä on joko velvollinen antamaan tai voi suostumuksensa perusteella antaa huumausainetestiä koskevan todistuksen työnantajalle työterveyshuoltolain 11 §:n 4 momentin mukaisesti, sekä merityösopimuslain (756/2011) 13 luvun 19 a §:ssä tarkoitetut työtehtävät, joissa työnantaja voi ilman perusteltua epäilyä velvoittaa työntekijän puhalluskokeeseen;
 3) yksityisyyden suojasta työelämässä annetun lain 21 §:n 1 momentissa säädetty työntekijöihin kohdistuvan kameravalvonnan, kulunvalvonnan ja muun teknisin menetelmin toteutettavan valvonnan tarkoitus, käyttöönotto ja näissä käytettävät menetelmät sekä sähköpostin ja tietoverkon käyttö sekä työntekijän sähköpostin ja muuta sähköistä viestintää koskevien tietojen käsittely;
