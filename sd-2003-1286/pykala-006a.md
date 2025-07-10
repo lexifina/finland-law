@@ -1,0 +1,11 @@
+# 6 a § Poissaolotuomiota koskeva kieltäytymisperuste
+Luku: 2 luku Luovuttaminen Suomesta toiseen jäsenvaltioon
+
+Luovuttamisesta voidaan kieltäytyä, jos pyyntö koskee sellaisen vapausrangaistuksen täytäntöönpanoa, joka on tuomittu vastaajan ollessa poissa asian käsittelystä.
+
+Luovuttamiseen kuitenkin suostutaan, jos luovutettavaksi pyydetty:
+1) oli asianmukaiseen aikaan saanut haasteen henkilökohtaisesti tiedoksi ja siten saanut tiedon tuomioon johtaneen tuomioistuinkäsittelyn ajankohdasta ja paikasta ja hänelle oli ilmoitettu, että asia voidaan ratkaista, vaikka hän jää pois tuomioistuinkäsittelystä;
+2) oli muilla keinoin tosiasiallisesti saanut virallisen tiedon kyseisen tuomioistuinkäsittelyn ajankohdasta ja paikasta siten, että voidaan kiistattomasti todeta, että hän oli tietoinen tuomioistuinkäsittelystä, ja hänelle oli ilmoitettu, että asia voidaan ratkaista, vaikka hän jää pois tuomioistuinkäsittelystä;
+3) oli oikeudenkäynnistä tietoisena valtuuttanut oikeudenkäyntiavustajan, jonka joko hän tai valtio oli nimennyt puolustamaan häntä oikeudenkäynnissä, ja tämä edustaja oli tosiasiallisesti puolustanut häntä oikeudenkäynnissä;
+4) nimenomaisesti ilmoitti, ettei hän riitauta tuomiota, tai ei pyytänyt uudelleenkäsittelyä tai ei hakenut muutosta määräajassa sen jälkeen, kun tuomio oli annettu hänelle tiedoksi, ja hänelle oli nimenomaisesti ilmoitettu hänen oikeudestaan uudelleen käsittelyyn tai muutoksenhakuun; edellytyksenä on tällöin myös, että hänellä olisi ollut oikeus osallistua uudelleenkäsittelyyn tai muutoksenhakuun, asian ratkaisuperusteet olisi voitu tutkia uudestaan, olisi voitu ottaa vastaan uusia todisteita ja uudelleenkäsittely tai muutoksenhaku olisi voinut johtaa alkuperäisen tuomion kumoamiseen; taikka
+5) ei saanut tuomiota tiedoksi henkilökohtaisesti, mutta se annetaan hänelle henkilökohtaisesti tiedoksi viipymättä luovuttamisen jälkeen ja hänelle nimenomaisesti ilmoitetaan hänen oikeudestaan uudelleenkäsittelyyn tai muutoksenhakuun ja siitä, missä ajassa hänen on pyydettävä uudelleenkäsittelyä tai haettava muutosta; edellytyksenä on tällöin myös, että hänellä on oikeus osallistua uudelleenkäsittelyyn tai muutoksenhakuun, asian ratkaisuperusteet voidaan tutkia uudestaan, uusia todisteita voidaan ottaa vastaan ja uudelleenkäsittely tai muutoksenhaku voi johtaa alkuperäisen tuomion kumoamiseen.

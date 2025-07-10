@@ -1,0 +1,6 @@
+# 49 § Täytäntöönpanon lykkääminen ja väliaikainen luovuttaminen
+Luku: 2 luku Luovuttaminen Suomesta toiseen jäsenvaltioon
+
+Tuomioistuin voi lykätä luovuttamispäätöksen täytäntöönpanoa, jotta luovutettavaa henkilöä voidaan Suomessa syyttää muusta kuin kiinniottamista tai luovuttamista koskevan pyynnön perusteena olevasta teosta tai, jos hänet on jo tuomittu, jotta hän voi suorittaa tuomitun rangaistuksen. Lykkäämisen jälkeen luovuttamispäätöksen täytäntöönpanoon ryhtymisestä päättää 12 §:ssä tarkoitettu toimivaltainen syyttäjä.
+
+Luovuttamisesta päättävä tuomioistuin voi luovuttamispäätöksen täytäntöönpanon lykkäämisen sijasta väliaikaisesti luovuttaa luovutettavan henkilön pyynnön esittäneelle jäsenvaltiolle kyseisen tuomioistuimen ja luovuttamispyynnön esittäneen toisen jäsenvaltion oikeusviranomaisen välillä tehtävässä sopimuksessa määriteltävin ehdoin. Sopimus ehdoista on tehtävä kirjallisesti ja siinä on oltava maininta, että eurooppalaisesta pidätysmääräyksestä ja jäsenvaltioiden välisistä luovuttamismenettelyistä tehdyn neuvoston puitepäätöksen 2002/584/YOS 24 artiklan 2 kohdan mukaisesti sopimuksen ehdot sitovat kaikkia pyynnön esittäneen jäsenvaltion viranomaisia. Sopimuksessa määritellyt ehdot on kirjattava tuomioistuimen väliaikaista luovuttamista koskevaan päätökseen.
