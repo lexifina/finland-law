@@ -2,4 +2,4 @@
 Luku: 2 luku Luovuttaminen Suomesta toiseen Pohjoismaahan
 Väliotsikko: Yleiset edellytykset
 
-Luovuttamiseen suostutaan, jos pyynnön perusteena olevasta teosta pyynnön esittäneen Pohjoismaan lain mukaan voidaan tuomita vapausrangaistus taikka jos luovutettavaksi pyydetty on pyynnön esittäneessä Pohjoismaassa tuomittu vapausrangaistukseen.
+Luovuttamiseen suostutaan, jos pyynnön perusteena olevasta teosta pyynnön esittäneen Pohjoismaan lain mukaan voidaan tuomita vapausrangaistus taikka jos luovutettavaksi pyydetty on tuomittu vapausrangaistukseen, joka on täytäntöönpanokelpoinen pyynnön esittäneessä Pohjoismaassa.

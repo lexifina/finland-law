@@ -6,4 +6,4 @@ Kun luovutettavaksi pyydetty on pyynnön vuoksi otettu säilöön tai muuten tav
 
 Edellä 1 momentissa tarkoitetut ilmoitukset ja tiedustelut on tehtävä luovutettavaksi pyydetyn ymmärtämällä kielellä. Suomen ja ruotsin kielen käyttämisestä säädetään kielilaissa (423/2003).
 
-Suoritetuista toimenpiteistä on laadittava pöytäkirja, johon on tehtävä merkinnät tehdyistä toimenpiteistä ja jossa on ilmoitettava saatu selvitys. Keskusrikospoliisi toimittaa pöytäkirjan ja muut asiakirjat toimivaltaiselle syyttäjälle.
+Suoritetuista toimenpiteistä on laadittava pöytäkirja, johon on tehtävä merkinnät tehdyistä toimenpiteistä ja jossa on ilmoitettava saatu selvitys. Poliisilla on oikeus saamansa selvityksen tueksi tarkistaa luovutettavaksi pyydetyn maassaoleskelun pituutta ja laillisuutta koskevat tiedot ulkomaalaisasioiden asiankäsittelyjärjestelmästä. Keskusrikospoliisi toimittaa pöytäkirjan ja muut asiakirjat toimivaltaiselle syyttäjälle.
