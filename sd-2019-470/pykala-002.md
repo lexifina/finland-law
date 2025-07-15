@@ -10,3 +10,5 @@ Lupaa ei tarvita, jos:
 Lupaa ei tarvita myöskään, jos luovuttajana on saajan entinen avio- tai avopuoliso taikka rekisteröidyn parisuhteen osapuoli, saaja omistaa ennestään osuuden luovutuksen kohteena olevasta kiinteistöstä ja luovutus tapahtuu viimeistään kahden kuukauden kuluttua avio- tai avoliiton taikka rekisteröidyn parisuhteen purkautumisesta.
 
 Tässä laissa avopuolisoilla tarkoitetaan henkilöitä, jotka eivät ole keskenään avioliitossa, mutta jotka elävät jatkuvasti yhteisessä taloudessa avioliitonomaisissa olosuhteissa.
+
+Lupaa ei tarvita myöskään, jos sen vaatiminen olisi vastoin Euroopan yhteisön ja sen jäsenvaltioiden sekä Sveitsin valaliiton välillä henkilöiden vapaasta liikkuvuudesta tehdyn sopimuksen (SopS 37 ja 38/2002) 7 artiklan ja liitteen I artiklan 25 määräyksiä.
