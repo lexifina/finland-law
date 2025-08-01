@@ -1,0 +1,6 @@
+# 101 § Lunastus- tai korvausvelvollisuus
+Luku: 13 luku Maan luovuttaminen ja lunastaminen
+
+Jos maa asemakaavassa tai 43 §:n 2 momentissa tarkoitetun määräyksen nojalla yleiskaavassa on osoitettu käytettäväksi muuhun tarkoitukseen kuin yksityiseen rakennustoimintaan eikä maanomistaja sen vuoksi voi kohtuullista hyötyä tuottavalla tavalla käyttää hyväkseen aluettaan, kunta tai, jos alue on kaavassa tarkoitettu tai osoitettu valtion tarpeisiin, tämä on velvollinen lunastamaan alueen tai suorittamaan haitasta korvauksen. Kohtuullista hyötyä arvioitaessa otetaan huomioon yleiskaavasta tai ranta-asemakaavasta maanomistajalle johtuva hyöty. Lunastus- tai korvausvelvollisuus ei koske 75 §:ssä tarkoitettua yhteiskäyttöaluetta, 91 §:ssä tarkoitettua aluetta, 93 §:ssä tarkoitettua yleisen tien tiealuetta eikä 94 §:ssä tarkoitettua katualuetta. Tässä momentissa tarkoitettu lunastus- tai korvausvelvollisuus voi koskea maa- ja metsätaloutta varten osoitettua aluetta vain, jos kaavassa on asetettu sen käyttöä koskevia erityisiä rajoituksia.
+
+Kun 1 momentin nojalla vaaditaan lunastettavaksi vain osa omistajalle kuuluvasta, yleiskaavaan tai asemakaavaan otetusta yhtenäisestä alueesta, kunnalla tai valtiolla on oikeus lunastaa koko alue.

@@ -1,0 +1,6 @@
+# 107 § Katualueeseen kohdistuvien oikeuksien raukeaminen
+Luku: 14 luku Yleiskaavan ja asemakaavan toteuttamisesta johtuva korvaus
+
+Kun 94 §:ssä tarkoitettu katualue muodostetaan yleiseksi alueeksi, siihen kohdistuva kiinnitys, panttioikeus, yksityistielain 3 §:ssä tarkoitettuja yksityisteitä koskeva oikeus, vuokraoikeus, eläkeoikeus, metsänhakkuuoikeus ja oikeus ottaa maa-aineksia sekä muu näihin verrattava oikeus raukeavat. Vuokraoikeus voidaan katualueen kiinteistöksi muodostamisen yhteydessä määrätä jäämään voimaan, jollei se haittaa alueen käyttämistä katuna. Muu erityinen oikeus tai rasite jää voimaan, jollei sitä poisteta toimituksessa. Mitä tässä momentissa säädetään, koskee myös 94 §:ssä tarkoitetulla asemakaava-alueella kunnan ennestään omistamaa katualueeksi osoitettua aluetta, joka muodostetaan yleiseksi alueeksi. Yleiseksi alueeksi muodostettua katualuetta saadaan käyttää kulkemiseen tieoikeuden lakkaamisesta huolimatta.
+
+Jos se rekisteriyksikkö, johon 1 momentissa tarkoitettu katualue kuului, vastasi saamisesta, ja alueen omistajalle suoritetaan korvausta, saamisen haltijalla on korvaukseen samanlainen oikeus kuin hänellä oli rekisteriyksikköön. Kunnan on korvattava vahinko, joka oikeuden haltijalle aiheutuu kunnalle ennestään kuuluneeseen katualueeseen kohdistuneen oikeuden lakkaamisesta.

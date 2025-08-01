@@ -1,0 +1,10 @@
+# 191 § Valitusoikeus kaavan hyväksymistä koskevasta päätöksestä
+Luku: 25 luku Muutoksenhaku ja viranomaisen oikaisukehotus
+
+Sen lisäksi, mitä kuntalain 137 §:ssä säädetään valitusoikeudesta, viranomaisella on toimialaansa kuuluvissa asioissa oikeus valittaa kaavan hyväksymistä koskevasta päätöksestä. Valitusoikeus on myös maakunnan liitolla ja kunnalla, joiden alueella kaavassa osoitetulla maankäytöllä on vaikutuksia.
+
+Sen lisäksi, mitä muutoksenhausta erikseen säädetään, on rekisteröidyllä paikallisella tai alueellisella yhteisöllä toimialaansa kuuluvissa asioissa toimialueellaan oikeus valittaa kaavan hyväksymistä koskevasta päätöksestä. Maakuntakaavan hyväksymistä koskevasta päätöksestä on valitusoikeus myös valtakunnallisella yhteisöllä, jos kyse on valtakunnallisten alueidenkäyttötavoitteiden vastaisuudesta.
+
+Poiketen siitä, mitä valitusoikeudesta kuntalain 92 §:ssä säädetään, vaikutukseltaan vähäisestä muun asemakaavan kuin ranta-asemakaavan muutoksesta valitusoikeus on niillä, joiden oikeuteen, velvollisuuteen tai etuun päätös välittömästi vaikuttaa. Muutoin tällaisen asemakaavan muutoksen valitusoikeudesta on voimassa, mitä edellä tämän pykälän 1 ja 2 momentissa säädetään. Vaikutukseltaan vähäisenä ei ole pidettävä asemakaavan muutosta, jossa muutetaan rakennuskorttelin tai muun alueen pääasiallista käyttötarkoitusta, supistetaan puistoja tai muita lähivirkistykseen osoitettuja alueita taikka nostetaan rakennusoikeutta tai rakennuksen sallittua korkeutta ympäristöön laajemmin vaikuttavalla tavalla, heikennetään rakennetun ympäristön tai luonnonympäristön arvojen säilymistä taikka muutetaan kaavaa muulla näihin rinnastettavalla tavalla.
+
+Muilla kuin kunnalla ei ole oikeutta hakea muutosta hallinto-oikeuden päätökseen, jolla hallinto-oikeus on kumonnut kunnan viranomaisen tekemän kaavan hyväksymistä koskevan päätöksen. Jos ranta-asemakaavan laatimisesta on huolehtinut maanomistaja, hänellä on kuitenkin oikeus valittaa hallinto-oikeuden päätöksestä. Muilla kuin maakunnan liitolla tai kunnalla ei ole oikeutta hakea muutosta hallinto-oikeuden päätökseen, jolla hallinto-oikeus on kumonnut maakuntakaavan.

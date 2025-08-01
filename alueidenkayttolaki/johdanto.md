@@ -1,0 +1,2 @@
+Alueidenkäyttölaki
+Eduskunnan päätöksen mukaisesti säädetään:
