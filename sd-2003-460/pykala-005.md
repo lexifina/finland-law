@@ -8,3 +8,5 @@ Ohjelmatoiminnan harjoittajan ja vastaavan toimittajan on huolehdittava siitä, 
 Jos aikakautista julkaisua, verkkojulkaisua tai ohjelmaa varten on määrätty useita vastaavia toimittajia, tulee kyseisessä julkaisussa tai ohjelmatoiminnassa ilmoittaa, mistä julkaisun tai ohjelman osasta kukin heistä vastaa.
 
 Jokaisella on oikeus saada tieto vastaavasta toimittajasta.
+
+Mediapalvelujen tarjoajien velvollisuuksista säädetään mediapalvelujen yhteisestä kehyksestä sisämarkkinoilla ja direktiivin 2010/13/EU muuttamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2024/1083 (eurooppalainen medianvapaussäädös).
