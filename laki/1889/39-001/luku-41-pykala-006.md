@@ -1,4 +1,4 @@
-# 6 § Toisen vahingoittamiseen soveltuvan esineen tai aineen hallussapito
+# 6 § Vaarallisen esineen hallussapito
 Luku: 41 luku Aserikoksista
 
-Joka järjestyslain 10 §:n vastaisesti pitää yleisellä paikalla hallussaan toisen vahingoittamiseen soveltuvaa esinettä tai ainetta taikka ampuma-asetta tai räjähtävää esinettä erehdyttävästi muistuttavaa esinettä, on tuomittava toisen vahingoittamiseen soveltuvan esineen tai aineen hallussapidosta sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
+Joka järjestyslain 9 §:n vastaisesti pitää mainitun lain 2 §:n 1 kohdassa tarkoitetulla yleisellä paikalla tai sellaisella yleisellä paikalla olevassa kulkuneuvossa hallussaan vaarallista esinettä, on tuomittava vaarallisen esineen hallussapidosta sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

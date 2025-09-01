@@ -1,4 +1,4 @@
-# 7 a § Ampumaratarikos
+# 9 § Ampumaratarikos
 Luku: 41 luku Aserikoksista
 
 Joka ampumaratalain (763/2015) vastaisesti

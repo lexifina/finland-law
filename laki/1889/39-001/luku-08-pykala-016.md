@@ -1,7 +1,7 @@
 # 16 § Kuoleman vaikutus täytäntöönpanoon
 Luku: 8 luku Vanhentumisesta
 
-Sakkorangaistus ja uhkasakko raukeavat tuomitun kuollessa. Täytäntöönpanon, jonka toteuttamiseksi on tuomitun eläessä toimitettu ulosmittaus, saa kuitenkin saattaa loppuun ulosmitatun omaisuuden osalta.
+Sakko, rikesakko, kurinpitosakko ja oikeudenkäynnin kulun turvaamiseksi tai ulosottokaaren nojalla tuomittu uhkasakko raukeavat tuomitun kuollessa. Jos täytäntöönpanon toteuttamiseksi on tuomitun eläessä toimitettu ulosmittaus tai saatava on ilmoitettu ulosottokaaren 5 luvussa tarkoitetussa myynnissä, täytäntöönpanon saa kuitenkin saattaa loppuun ulosmitatun omaisuuden osalta.
 
 Rikoksentekijän tai muun menettämisseuraamuksesta vastuussa olevan henkilön kuoltua on seuraamus tuomittava kuolinpesän varoista, jollei menetetyksi tuomitseminen olisi kohtuutonta.
 

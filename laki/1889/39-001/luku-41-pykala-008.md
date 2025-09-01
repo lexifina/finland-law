@@ -1,4 +1,4 @@
-# 8 § Rikesakko
+# 8 § Toisen vakavaan vahingoittamiseen soveltuvan esineen luovuttaminen alaikäiselle
 Luku: 41 luku Aserikoksista
 
-Rikesakosta ainoana rangaistuksena vähäisestä 6 §:ssä tarkoitetusta toisen vahingoittamiseen soveltuvan esineen tai aineen hallussapidosta ja vähäisestä 7 §:ssä tarkoitetusta toisen vahingoittamiseen soveltuvan esineen luovuttamisesta alaikäiselle säädetään rikesakkorikkomuksista annetussa laissa.
+Joka järjestyslain 11 §:n vastaisesti myy tai muuten pysyvästi luovuttaa alle 18-vuotiaalle ilma-aseen, jousitoimisen aseen tai harppuunan, on tuomittava toisen vakavaan vahingoittamiseen soveltuvan esineen luovuttamisesta alaikäiselle sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.

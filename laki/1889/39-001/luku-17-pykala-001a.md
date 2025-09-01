@@ -14,3 +14,5 @@ osallistuu 6 luvun 5 §:n 2 momentissa tarkoitetun järjestäytyneen rikollisryh
 Mitä 1 momentin 6 kohdassa säädetään oikeudellisesta neuvonnasta, ei koske rikoksen esitutkintaan tai tuomioistuinkäsittelyyn taikka rangaistuksen täytäntöönpanoon liittyvää oikeudellisen avustajan tai asiamiehen tehtävien hoitamista.
 
 Mitä 1 momentissa säädetään, ei sovelleta, jos teosta säädetään muualla laissa yhtä ankara tai ankarampi rangaistus.
+
+Ampuma-aselain (1/1998) 2 §:ssä tarkoitetun ampuma-aseen tai kaikkien sen kokoamiseen tarvittavien osien lainaamisesta tai luovuttamisesta järjestäytyneelle rikollisryhmälle tai sen yrittämisestä säädetään tämän lain 41 luvun 2 §:ssä.

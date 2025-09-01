@@ -1,4 +1,4 @@
-# 7 § Toisen vahingoittamiseen soveltuvan esineen luovuttaminen alaikäiselle
+# 7 § Toisen vakavaan vahingoittamiseen soveltuvan esineen tai aineen hallussapito
 Luku: 41 luku Aserikoksista
 
-Joka järjestyslain 11 §:n vastaisesti myy tai muuten pysyvästi luovuttaa alle 18-vuotiaalle ilma-aseen, jousitoimisen aseen tai harppuunan, on tuomittava toisen vahingoittamiseen soveltuvan esineen luovuttamisesta alaikäiselle sakkoon tai vankeuteen enintään kuudeksi kuukaudeksi.
+Joka järjestyslain 10 §:n vastaisesti pitää mainitun lain 2 §:n 1 kohdassa tarkoitetulla yleisellä paikalla hallussaan toisen vakavaan vahingoittamiseen soveltuvaa esinettä tai ainetta taikka ampuma-asetta tai räjähtävää esinettä erehdyttävästi muistuttavaa esinettä, on tuomittava toisen vakavaan vahingoittamiseen soveltuvan esineen tai aineen hallussapidosta sakkoon tai vankeuteen enintään yhdeksi vuodeksi.

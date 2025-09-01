@@ -1,8 +1,6 @@
-# 13 § Tuomitun sakkorangaistuksen raukeaminen
+# 13 § Sakon, rikesakon, kurinpitosakon ja yhteisösakon täytäntöönpanon raukeaminen
 Luku: 8 luku Vanhentumisesta
 
-Sakkorangaistus raukeaa viiden vuoden kuluttua lainvoiman saaneen tuomion antamispäivästä, jollei sakotetulle ole sitä ennen määrätty muuntorangaistusta. Jos muuntorangaistus on määrätty, on sakotetulla oikeus mainitun ajan kuluttuakin maksaa sakko niin kuin siitä erikseen säädetään. Edellä sakosta säädetty koskee myös tuomittua uhkasakkoa.
+Sakko raukeaa viiden vuoden kuluttua lainvoiman saaneen ratkaisun antamispäivästä, jollei sakotetulle ole sitä ennen määrätty muuntorangaistusta. Jos muuntorangaistus on määrätty, on sakotetulla oikeus mainitun ajan kuluttuakin maksaa sakko niin kuin siitä erikseen säädetään. Edellä sakosta säädetty koskee oikeudenkäynnin kulun turvaamiseksi tai ulosottokaaren nojalla tuomittua uhkasakkoa.
 
-Tuomittu yhteisösakko raukeaa viiden vuoden kuluttua lainvoiman saaneen tuomion antamispäivästä.
-
-Rikesakko raukeaa viiden vuoden kuluttua rikesakkomääräyksen antamispäivästä.
+Rikesakko, kurinpitosakko ja yhteisösakko raukeavat viiden vuoden kuluttua lainvoiman saaneen ratkaisun antamispäivästä.
