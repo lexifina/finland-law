@@ -5,8 +5,8 @@ Rajavartiolaitos siirtää, jollei sen, poliisin ja Tullin tehtäväjakoa koskev
 
 Viranomainen, jolle rikoksen estäminen ja selvittäminen siirretään, varaa Rajavartiolaitokselle tilaisuuden osallistua estämiseen ja selvittämiseen myös siirron jälkeen, jos asia koskee:
 1) valtionrajarikosta;
-2) laittoman maahantulon järjestämistä ja siihen liittyviä vapauteen kohdistuvia rikoksia;
+2) laittoman maahantulon järjestämistä ja siihen liittyviä vapauteen kohdistuvia rikoksia taikka ihmiskaupparikosta;
 3) Rajavartiolaitoksen tarkastettavan asiakirjan väärennysrikosta; tai
 4) Suomen alueellisen koskemattomuuden loukkaamista.
 
-Rajavartiolaitoksen on siirrettävä rikoksen selvittäminen poliisin suoritettavaksi, jos on syytä epäillä Rajavartiolaitoksessa palvelevan henkilön syyllistyneen sotilasoikeudenkäyntiasiana käsiteltävään rikokseen taikka rikoslain 40 luvussa tarkoitettuun rikokseen ja rikoksen vakavuus tai luottamus tutkinnan puolueettomuuteen sitä edellyttää.
+Rajavartiolaitoksen on siirrettävä rikoksen selvittäminen poliisin suoritettavaksi, jos on syytä epäillä Rajavartiolaitoksessa palvelevan henkilön syyllistyneen sotilasoikeudenkäyntiasiana käsiteltävään rikokseen tai rikoslain 40 luvussa tarkoitettuun rikokseen ja rikoksen vakavuus tai luottamus tutkinnan puolueettomuuteen sitä edellyttää. Rikoksen selvittäminen on kuitenkin aina siirrettävä poliisin suoritettavaksi, jos rikoksesta epäilty on Rajavartiolaitoksen päällikön tai apulaispäällikön, kenraalin tai amiraalin virkaan nimitetty virkamies.

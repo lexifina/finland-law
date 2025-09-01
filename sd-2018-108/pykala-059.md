@@ -1,7 +1,7 @@
 # 59 § Peitellystä tiedonhankinnasta päättäminen rikoksen esitutkinnassa
 Luku: 4 luku Salaiset pakkokeinot
 
-Rajavartiolaitoksen esikunnan oikeudellisen osaston osastopäällikkö tai apulaisosastopäällikkö päättää peitellystä tiedonhankinnasta Rajavartiolaitoksen tutkittavaksi kuuluvan rikoksen selvittämiseksi.
+Rajavartiolaitoksen esikunnan oikeudellisen osaston osastopäällikkö tai apulaisosastopäällikkö taikka tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu rajavartiomies päättää peitellystä tiedonhankinnasta Rajavartiolaitoksen tutkittavaksi kuuluvan rikoksen selvittämiseksi.
 
 Päätös peitellystä tiedonhankinnasta on tehtävä kirjallisesti. Päätöksessä on mainittava:
 1) toimenpide ja sen tavoite riittävästi yksilöitynä;
