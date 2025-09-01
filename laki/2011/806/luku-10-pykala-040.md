@@ -1,7 +1,7 @@
 # 40 § Tietolähteen ohjatusta käytöstä päättäminen
 Luku: 10 luku Salaiset pakkokeinot
 
-Keskusrikospoliisin tai poliisilaitoksen päällikkö taikka tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu virkamies päättää tietolähteen ohjatusta käytöstä. Tietolähteen ohjatusta käytöstä Tullin tutkiman tullirikoksen selvittämiseksi päättää Tullin rikostorjunnan päällikkö tai tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu tullimies.
+Keskusrikospoliisin tai poliisilaitoksen päällikkö taikka tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu virkamies päättää tietolähteen ohjatusta käytöstä. Tietolähteen ohjatusta käytöstä Tullin tutkiman tullirikoksen selvittämiseksi päättää Tullin rikostorjunnan päällikkö tai tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu tullimies. Tietolähteen ohjatusta käytöstä Rajavartiolaitoksen tutkittavaksi kuuluvan rikoksen selvittämiseksi päättää Rajavartiolaitoksen esikunnan oikeudellisen osaston osastopäällikkö tai apulaisosastopäällikkö taikka tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu rajavartiomies.
 
 Tietolähteen ohjattua käyttöä koskeva päätös voidaan antaa enintään kuudeksi kuukaudeksi kerrallaan.
 
