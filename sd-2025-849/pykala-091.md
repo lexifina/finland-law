@@ -1,0 +1,8 @@
+# 91 § Velvollisuus esittää Puolustusvoimien ja Rajavartiolaitoksen turvallisuusneuvonantajan nimeämistä
+Luku: 15 luku Henkilöstön ammattitaito
+
+Edellä 90 §:ssä säädetyn Puolustusvoimien turvallisuusneuvonantajan nimeämisvelvollisen on esitettävä Puolustusvoimien turvallisuusneuvonantajan nimeämisestä Pääesikunnan teknilliselle tarkastusosastolle. Myös tietojen muutoksista on ilmoitettava.
+
+Edellä 90 §:ssä säädetyn Rajavartiolaitoksen turvallisuusneuvonantajan nimeämisvelvollisen on esitettävä Rajavartiolaitoksen turvallisuusneuvonantajan nimeämisestä Rajavartiolaitoksen esikunnalle ja ilmoittaa nimitetystä turvallisuusneuvonantajasta sekä tietojen muutoksista Pääesikunnan teknilliselle tarkastusosastolle.
+
+Pääesikunnan teknillinen tarkastusosasto arvioi ja valvoo Puolustusvoimien ja Rajavartiolaitoksen turvallisuusneuvonantajien määrän riittävyyttä ja toiminnan laatua tämän lain tarkoituksen saavuttamiseksi.

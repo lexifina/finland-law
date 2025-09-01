@@ -1,0 +1,14 @@
+# 41 § Sotilaslentopaikan turvallisuusselvityksen hyväksyminen
+Luku: 6 luku Tilapäinen säilytys
+
+Pääesikunnan teknillinen tarkastusosasto päättää sotilaslentopaikan turvallisuusselvityksen hyväksymisestä.
+
+Sotilaslentopaikanpitäjän on toimitettava turvallisuusselvitys Pääesikunnan teknilliselle tarkastusosastolle hyväksyttäväksi riittävän ajoissa ennen toiminnan aloittamista tai kohtuullisessa ajassa vaarallisten aineiden kuljetusmäärien muutosten tai muiden muutosten yhteydessä, joiden takia sotilaslentopaikan toiminnan laajuus kasvaa tai muuttuu siten, että toiminta edellyttää turvallisuusselvityksen saattamista ajan tasalle uutta toimintaa vastaavaksi.
+
+Ennen turvallisuusselvityksen hyväksymistä Pääesikunnan teknillisen tarkastusosaston on tarvittaessa varattava pelastusviranomaiselle, alueelliselle elinkeino-, liikenne- ja ympäristökeskukselle, aluehallintovirastolle sekä tarvittaessa muille viranomaisille mahdollisuus esittää mielipiteensä turvallisuusselvityksestä ja hyväksymisen jälkeen pidettävä hyväksytty turvallisuusselvitys näiden saatavilla.
+
+Pääesikunnan teknillisen tarkastusosaston on ilmoitettava sotilaslentopaikanpitäjälle turvallisuusselvitystä koskevat johtopäätöksensä kohtuullisessa ajassa. Sotilaslentopaikanpitäjän on ilmoitettava hyväksytystä turvallisuusselvityksestä lastinkäsittelypalveluja sotilaslentopaikassa suorittaville.
+
+Sotilaslentopaikoilla toimivien osapuolten on toimittava yhteistyössä keskenään ja harjoiteltava säännöllisesti turvallisia käytänteitä.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä turvallisuusselvityksen hyväksymisen käytännön toteutuksesta.

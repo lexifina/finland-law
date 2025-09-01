@@ -1,0 +1,2 @@
+Laki vaarallisten aineiden kuljetuksesta Puolustusvoimissa ja Rajavartiolaitoksessa
+Eduskunnan päätöksen mukaisesti säädetään:
