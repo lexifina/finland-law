@@ -1,7 +1,7 @@
 # 38 § Valvotusta läpilaskusta päättäminen
 Luku: 3 luku Salainen tiedonhankinta
 
-Rajavartiolaitoksen esikunnan oikeudellisen osaston osastopäällikkö tai apulaisosastopäällikkö päättää Rajavartiolaitoksen suorittamasta valvotusta läpilaskusta.
+Rajavartiolaitoksen esikunnan oikeudellisen osaston osastopäällikkö tai apulaisosastopäällikkö taikka tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu rajavartiomies päättää Rajavartiolaitoksen suorittamasta valvotusta läpilaskusta.
 
 Päätös voidaan antaa enintään kuukaudeksi kerrallaan.
 

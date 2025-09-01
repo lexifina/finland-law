@@ -9,8 +9,8 @@ Jos tiedonhankinnan kohteen henkilöllisyys ei ole tiedossa 1 tai 2 momentissa t
 
 Kohteelle ilmoittamisesta on samalla annettava kirjallisesti tieto luvan myöntäneelle tuomioistuimelle.
 
-Suunnitelmallisesta tarkkailusta ja peitellystä tiedonhankinnasta ei ole velvollisuutta ilmoittaa tiedonhankinnan kohteelle, jos asiassa ei ole aloitettu esitutkintaa. Jos esitutkinta aloitetaan, noudatetaan pakkokeinolain 10 luvun 60 §:ää.
+Suunnitelmallisesta tarkkailusta, peitellystä tiedonhankinnasta, yksinomaan tietoverkossa tehtävästä peitetoiminnasta, yksinomaan tietoverkossa tehtävästä valeostosta ja tietolähteen ohjatusta käytöstä ei ole velvollisuutta ilmoittaa tiedonhankinnan kohteelle, jos asiassa ei ole aloitettu esitutkintaa. Jos esitutkinta aloitetaan, noudatetaan pakkokeinolain 10 luvun 60 §:ää.
 
 Kun harkitaan ilmoituksen lykkäämistä tai tekemättä jättämistä 2 ja 5 momentissa tarkoitetuissa tapauksissa, arvioinnissa on myös otettava huomioon asianosaisen oikeus asianmukaisesti valvoa oikeuttaan.
 
-Ilmoitusta koskevan asian käsittelyssä tuomioistuimessa noudatetaan 39 §:ää.
+Ilmoitusta koskevan asian käsittelyssä tuomioistuimessa noudatetaan 39 §:ää. Yksinomaan tietoverkossa tehtävästä peitetoiminnasta, yksinomaan tietoverkossa tehtävästä valeostosta ja tietolähteen ohjatusta käytöstä ilmoittamista koskevat asiat käsitellään Helsingin käräjäoikeudessa. Tällöin tuomioistuimelle on toimitettava ainoastaan asian käsittelemiseksi välttämättömät tiedot. Asian käsittelyssä on kiinnitettävä erityistä huomiota salassapitovelvollisuuden toteutumiseen ja siihen, että asiakirjoihin ja tietojärjestelmiin sisältyvien tietojen suoja turvataan tarvittavin menettelytavoin ja tietoturvallisuusjärjestelyin.

@@ -1,7 +1,7 @@
 # 24 § Peitellystä tiedonhankinnasta päättäminen
 Luku: 3 luku Salainen tiedonhankinta
 
-Rajavartiolaitoksen esikunnan oikeudellisen osaston osastopäällikkö tai apulaisosastopäällikkö päättää peitellystä tiedonhankinnasta Rajavartiolaitoksen tutkittavaksi kuuluvan rikoksen estämiseksi.
+Rajavartiolaitoksen esikunnan oikeudellisen osaston osastopäällikkö tai apulaisosastopäällikkö taikka tehtävään määrätty salaiseen tiedonhankintaan erityisesti koulutettu pidättämiseen oikeutettu rajavartiomies päättää peitellystä tiedonhankinnasta Rajavartiolaitoksen tutkittavaksi kuuluvan rikoksen estämiseksi.
 
 Päätös peitellystä tiedonhankinnasta on tehtävä kirjallisesti. Päätöksessä on mainittava:
 1) toimenpide ja sen tavoite riittävästi yksilöitynä;
