@@ -1,0 +1,2 @@
+Laki alusten painolastivesien ja sedimenttien valvonnasta ja käsittelystä tehdyn kansainvälisen yleissopimuksen liitteeseen tehdyistä muutoksista
+Eduskunnan päätöksen mukaisesti säädetään:
