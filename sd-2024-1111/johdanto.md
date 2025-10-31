@@ -1,0 +1,2 @@
+Laki turvallisesta ja ympäristön kannalta asianmukaisesta aluskierrätyksestä tehdystä Hongkongin kansainvälisestä yleissopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
