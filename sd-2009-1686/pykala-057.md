@@ -1,0 +1,10 @@
+# 57 § Katsastusasiakirjat sekä todistus- ja turvallisuuskirjat
+Luku: 6 luku Aluksen katsastus
+
+Liikenne- ja viestintävirasto tai hyväksytty luokituslaitos myöntää katsastusten perusteella katsastusasiakirjat sekä todistus- ja turvallisuuskirjat tai tekee niihin merkinnän suoritetusta määräaikaisesta katsastuksesta taikka väli- tai vuosikatsastuksesta. Jos aluksessa on havaittu olennaisia puutteita, asiakirjat annetaan puutteiden korjaamisen jälkeen.
+
+Liikenne- ja viestintävirasto antaa SOLAS-yleissopimuksen, lastiviivayleissopimuksen, MARPOL-yleissopimuksen, Hongkongin yleissopimuksen, non-SOLAS-direktiivin, kalastusalusdirektiivin ja aluskierrätysasetuksen sekä muiden kansainvälisten velvoitteiden täytäntöön panemiseksi tarkemmat määräykset siitä, mitä katsastusasiakirjoja sekä todistus- ja turvallisuuskirjoja katsastusten perusteella annetaan sekä siitä, kuinka kauan ne ovat voimassa ja miten niiden voimassaoloa voidaan jatkaa.
+
+Liikenne- ja viestintävirasto myöntää merityöyleissopimuksen mukaisen merityösertifikaatin ja sen liitteenä olevan merityöehtojen noudattamista koskevan ilmoituksen. Myöntämisen edellytyksenä on, että Liikenne- ja viestintävirasto on toimivaltaansa kuuluvien seikkojen osalta todennut, ettei myöntämiselle ole estettä ja että työsuojeluviranomainen on suorittamansa tarkastuksen perusteella todennut Liikenne- ja viestintävirastolle antamassaan lausunnossa, ettei myöntämiselle ole estettä työsuojeluviranomaisen toimivaltaan kuuluvien seikkojen osalta. Liikenne- ja viestintävirasto antaa tarkemmat määräykset merityösertifikaatin myöntämiseen liittyvistä menettelyistä.
+
+Liikenne- ja viestintäviraston on peruutettava merityösertifikaatti silloin, kun virasto on toimivaltaansa kuuluvien seikkojen osalta tai työsuojeluviranomainen on suorittamansa tarkastuksen perusteella todennut Liikenne- ja viestintävirastolle antamassaan lausunnossa, että alus ei todistettavasti vastaa merityöyleissopimuksen vaatimuksia eikä asian korjaamiseksi ole ryhdytty tarvittaviin toimenpiteisiin.

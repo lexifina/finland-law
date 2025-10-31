@@ -1,0 +1,4 @@
+# 22 a § Sisävesiliikenteen alus
+Luku: 4 luku Kalastusaluksen, erikoisaluksen, sisävesiliikenteen aluksen ja muun aluksen turvallisuusvaatimukset sekä ro-ro-aluksen keulaporttia koskeva erityisvaatimus
+
+Sisävesialusten purjehduskelpoisuuslupien vastavuoroisesta tunnustamisesta annettu Euroopan parlamentin ja neuvoston direktiivi 2009/100 EY, jäljempänä purjehduskelpoisuusdirektiivi, sekä sisävesien teknisistä vaatimuksista, direktiivin 2009/100/EY muuttamisesta ja direktiivin 2006/87/EY kumoamisesta annettu Euroopan parlamentin ja neuvoston direktiivi (EU) 2016/1629 ovat Suomessa voimassa. Suomen sisävesialueella liikennöiviin aluksiin ei kuitenkaan sovelleta purjehduskelpoisuusdirektiivin tai muiden Euroopan unionin sisävesiliikennedirektiivien teknisiä vaatimuksia, ellei muualla lainsäädännössä toisin säädetä.
