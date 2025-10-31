@@ -1,0 +1,10 @@
+# 7 § Tarkastusten toimittaminen aluksilla
+Luku: 2 luku Viranomainen ja sen tehtävät
+
+Alusturvallisuuden tarkastuksia on tehtävä niin usein ja niin tehokkaasti kuin valvonnan kannalta on tarpeellista ja Suomea velvoittavat kansainväliset yleissopimukset, Euroopan unionin lainsäädäntö tai kansalliset säännökset ja määräykset sitä edellyttävät. Säännöllisesti liikennöivien ro-ro-matkustaja-alusten ja suurnopeusmatkustaja-alusten tarkastukset on tehtävä PSC-direktiivin liitteessä XVII olevien aikarajojen ja muiden vaatimusten mukaisesti ja huomioitava satamavaltiotarkastusten vuosittaisen tarkastusvelvollisuuden täyttymistä laskettaessa. PSC-direktiivin 11 artiklan b alakohdan mukaisia lisätarkastuksia ei huomioida satamavaltiotarkastusten vuosittaisen tarkastusvelvollisuuden täyttymistä laskettaessa.
+
+Jos ulkomaisen aluksen lippuvaltio ei ole ratifioinut STCW-yleissopimusta, tarkastajan on tarkastettava laivaväen pätevyys. Laivaväen pätevyys on lisäksi tarkastettava, jos on selvät perusteet epäillä, että STCW-yleissopimuksen mukaisia vahdinpitovaatimuksia ei ole noudatettu.
+
+Tarkastajan on lisäksi tarkastettava ulkomaisen matkustaja-aluksen ja säiliöaluksen laivaväen viestintäkyky ja kielitaito sen varmistamiseksi, että laivaväki pystyy välittämään keskenään turvallisuutta koskevia tietoja ja vaihtamaan tietoja maissa olevien viranomaisten kanssa. Samoin tarkastajan on tarkastettava, että ulkomaisella matkustaja-aluksella matkustajia hätätilanteessa auttamaan nimetty henkilö pystyy välittämään matkustajille riittävästi tietoa tällaisessa tilanteessa.
+
+Alusturvallisuuden tarkastus tai aluksen pysäyttäminen on toimitettava siten, että valvonnan tarkoitus saadaan toteutetuksi aiheuttamatta tarpeetonta häiriötä aluksen toiminnalle. Suunniteltaessa aluksille tehtäviä tarkastuksia valvontaviranomaisen on otettava aluksen liikennöinti- ja huoltoaikataulu asianmukaisella tavalla huomioon. Alusturvallisuuden tarkastamisesta on ilmoitettava laivanisännälle tai päällikölle. Heidän poissaolonsa ei ole esteenä tarkastuksen toimittamiselle.

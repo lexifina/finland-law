@@ -1,0 +1,2 @@
+Laki alusturvallisuuden valvonnasta
+Eduskunnan päätöksen mukaisesti säädetään:
