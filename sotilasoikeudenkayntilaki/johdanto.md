@@ -1,0 +1,2 @@
+Sotilasoikeudenkäyntilaki
+Eduskunnan päätöksen mukaisesti säädetään:
