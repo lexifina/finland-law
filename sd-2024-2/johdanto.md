@@ -1,0 +1,2 @@
+Laki Euroopan unionin tilapäisestä matkustusasiakirjasta
+Eduskunnan päätöksen mukaisesti säädetään:
