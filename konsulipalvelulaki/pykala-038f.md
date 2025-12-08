@@ -1,0 +1,4 @@
+# 38 f § Ulkoisen palveluntarjoajan velvollisuudet
+Luku: 11 a luku Ulkoministeriölle ja edustustoille kuuluvien konsulipalvelutehtävien antaminen ulkoisen palveluntarjoajan suoritettavaksi
+
+Edellä 38 a §:n 1 momentissa tarkoitetun ulkoisen palveluntarjoajan ja sen palveluksessa olevan henkilön notaaripalveluja antaessaan noudatettavista hyvän hallinnon perusteista säädetään viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999), sähköisestä asioinnista viranomaistoiminnassa annetussa laissa (13/2003), hallintolaissa ja kielilaissa (423/2003). Ulkoisen palveluntarjoajan palveluksessa olevaan henkilöön sovelletaan hänen suorittaessaan 38 a §:n 2 momentissa tarkoitettuja notaaripalveluja rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).

@@ -1,0 +1,2 @@
+Konsulipalvelulaki
+Eduskunnan päätöksen mukaisesti säädetään:
