@@ -8,7 +8,7 @@ Veronalaista tuloa eivät ole:
 3) sähkö-, tele-, vesi-, viemäri- tai kaukolämpöverkkoa ylläpitävän yhteisön verkkoon liittymisestä perimät maksut, jotka palautetaan suorittajalle;
 4) erillisenä verovelvollisena verotettavasta kuolinpesästä saatu osuus kuolinpesän tulosta eikä yhtymän osakkaan hänen veronalaiseksi tulokseen katsotun tulo-osuuden lisäksi saama voitto-osuus yhtymästä eikä myöskään tulo, jonka ulkomaisen kuolinpesän Suomessa asuva osakas on saanut osuutena kuolinpesän tulosta siltä osin kuin kuolinpesä on velvollinen suorittamaan mainitusta tulosta veroa täällä;
 5) Euroopan talousalueella asuvalle elokuvatuottajalle valtion tai Suomen elokuvasäätiön varoista myönnetty tuotantotuki;
-6) asumisoikeusasunnoista annetussa laissa (650/1990) tarkoitettu asumisoikeusmaksu;
+6) asumisoikeusasunnoista annetussa laissa (393/2021) tarkoitettu asumisoikeusmaksu;
 7) luonnonsuojelulain (9/2023) 4 luvussa eikä vesienhoidon ja merenhoidon järjestämisestä annetun lain (1299/2004) 1 a luvussa tarkoitettu tuki, jos tuki myönnetään tuensaajalle tavarana tai palveluna.
 
 Luovutuksena ei pidetä osakeyhtiölain (734/78) 5 luvun 1 §:ssä mainitun vaihtovelkakirjan vaihtamista yhtiön osakkeisiin eikä siinä mainittuun optiolainaan liittyvän osakkeiden merkintäoikeuden käyttämistä.
