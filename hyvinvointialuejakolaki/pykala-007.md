@@ -6,7 +6,7 @@ Hyvinvointialueen tai kunnan tekemässä hyvinvointialueen muuttamista koskevass
 Hyvinvointialueiden yhteiseen esitykseen hyvinvointialueiden yhdistymisestä on liitettävä aluevaltuustojen yhtäpitävät päätökset esityksestä ja siihen liittyvä selvitys:
 1) hyvinvointialueiden muuttamisen toteuttamistavasta ja ajankohdasta;
 2) yhdistymisen perusteella syntyvän uuden hyvinvointialueen hallinnon järjestämisen periaatteista;
-3) uuden hyvinvointialueen ja tarvittaessa uuden maakunnan nimestä;
+3) uuden hyvinvointialueen nimestä;
 4) yhdistyvien hyvinvointialueiden palvelujärjestelmien yhteensovittamisen periaatteista;
 5) uuden hyvinvointialueen taloudenhoidon yleisistä periaatteista;
 6) asukkaiden vaikuttamis- ja osallistumismahdollisuuksien toteuttamisen keinoista uudella hyvinvointialueella.

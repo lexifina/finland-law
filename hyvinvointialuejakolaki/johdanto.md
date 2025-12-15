@@ -1,2 +1,2 @@
-Hyvinvointialue- ja maakuntajakolaki
+Hyvinvointialuejakolaki
 Eduskunnan päätöksen mukaisesti säädetään:

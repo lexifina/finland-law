@@ -1,7 +1,7 @@
-# 19 § Taloudellisen selvityksen toimittaminen
+# 19 § Taloudellisen selvityksen toimittaminen kunnan siirtämisen yhteydessä
 Luku: 4 luku Hyvinvointialueen muutoksen vaikutukset
 
-Jos kunta siirretään toiseen maakuntaan, muutoksen kohteena olevien hyvinvointialueiden on toimitettava hyvinvointialueiden omaisuutta muutosalueella koskeva taloudellinen selvitys, jollei sitä muutoksen vähäisten vaikutusten vuoksi tai muusta syystä ole pidettävä tarpeettomana.
+Jos kunta siirretään toiseen hyvinvointialueeseen, muutoksen kohteena olevien hyvinvointialueiden on toimitettava hyvinvointialueiden omaisuutta muutosalueella koskeva taloudellinen selvitys, jollei sitä muutoksen vähäisten vaikutusten vuoksi tai muusta syystä ole pidettävä tarpeettomana.
 
 Sellainen kiinteään omaisuuteen kohdistuva vuokraoikeus tai muu käyttöoikeus sekä kiinteään omaisuuteen kiinteästi liittyvä irtain omaisuus, joka yksinomaan tai pääasiallisesti palvelee hyvinvointialueen palvelujen järjestämistä kyseisen kunnan alueella asuville, siirtyy sille hyvinvointialueelle, johon alue siirretään.
 
