@@ -1,0 +1,2 @@
+Maakuntajakolaki
+Eduskunnan päätöksen mukaisesti säädetään:
