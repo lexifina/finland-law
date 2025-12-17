@@ -1,4 +1,4 @@
-# 41 § Muutoksenhaku Maahanmuuttoviraston päätökseen
+# 41 § Muutoksenhaku
 Luku: 7 luku Muutoksenhaku
 
-Maahanmuuttoviraston tämän lain nojalla tekemästä päätöksestä saa valittaa hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
+Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
