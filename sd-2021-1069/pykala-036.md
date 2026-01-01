@@ -14,4 +14,4 @@ Seuraamusmaksun suuruutta arvioitaessa on otettava huomioon menettelyn laatu, la
 
 Seuraamusmaksua ei saa määrätä luonnolliselle henkilölle, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa tai jolle on samasta teosta annettu lainvoimainen tuomio. Jos seuraamusmaksu on määrätty luonnolliselle henkilölle, samasta teosta ei saa määrätä toista seuraamusmaksua eikä tuomita tuomioistuimessa rangaistusta.
 
-Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli vuosi. Seuraamusmaksu vanhenee viiden vuoden kuluttua seuraamusmaksua koskevan lainvoimaisen ratkaisun antamispäivästä. Seuraamusmaksu raukeaa, kun maksuvelvollinen luonnollinen henkilö kuolee. Seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa.
+Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli vuosi. Tämän lain nojalla maksettavaksi määrätyn seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa.
