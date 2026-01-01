@@ -1,6 +1,6 @@
 # 5 § Pätevyyskirjan myöntäminen
 
-Panostajan pätevyyskirjan myöntää aluehallintovirasto.
+Panostajan pätevyyskirjan myöntää Lupa- ja valvontavirasto.
 
 Panostajan pätevyyskirja myönnetään hakijalle:
 1) joka on täyttänyt 20 vuotta;

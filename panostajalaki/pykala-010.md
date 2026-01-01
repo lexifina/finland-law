@@ -1,6 +1,6 @@
 # 10 § Poikkeukset koulutus- ja työkokemusvaatimuksista
 
-Edellä 5 §:n 2 momentin 4 kohdassa tarkoitettu pätevyys on myös henkilöllä, jolla on ammattipätevyyden tunnustamisesta annetussa laissa (1384/2015) tarkoitettu päätös toisessa Euroopan unionin jäsenvaltiossa tai Euroopan talousalueeseen kuuluvassa valtiossa myönnettyjen muodollista pätevyyttä osoittavien asiakirjojen tuottamasta kelpoisuudesta räjäytystyöhön. Päätöksen tekee aluehallintovirasto.
+Edellä 5 §:n 2 momentin 4 kohdassa tarkoitettu pätevyys on myös henkilöllä, jolla on ammattipätevyyden tunnustamisesta annetussa laissa (1384/2015) tarkoitettu päätös toisessa Euroopan unionin jäsenvaltiossa tai Euroopan talousalueeseen kuuluvassa valtiossa myönnettyjen muodollista pätevyyttä osoittavien asiakirjojen tuottamasta kelpoisuudesta räjäytystyöhön. Päätöksen tekee Lupa- ja valvontavirasto.
 
 Vaikka hakija ei ole suorittanut panostajan peruskurssia, vanhemman panostajan pätevyyskirja voidaan antaa sellaiselle diplomi-insinöörin, insinöörin, teknikon tai muun vastaavan tutkinnon suorittaneelle, jolla on suorittamansa koulutuksen ja hankkimansa ammattitaidon perusteella pätevyyskirjan saamiseksi riittävät tiedot ja joka on suorittanut pätevyyskirjan saamiseksi edellytetyn vanhemman panostajan kuulustelun. Edellytyksenä on tällöin lisäksi, että hakijalla on vähintään 12 kuukauden käytännön työkokemus räjäytys- ja louhintatyössä.
 
