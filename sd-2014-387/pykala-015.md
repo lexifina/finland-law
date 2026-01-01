@@ -10,6 +10,6 @@ Eläinlääkärillä on oikeus luovuttaa eläinlääkemääräystä edellyttäv�
 
 Eläinlääkärillä on oikeus luovuttaa muu kuin eläinlääkemääräystä edellyttävä lääke eläimen omistajalle tai haltijalle eläimen hoitoa tai jatkohoitoa varten vain suoritettuaan eläimen tai eläinryhmän kliinisen tutkimuksen tai muun asianmukaisen terveydentilan arvioinnin taikka hankittuaan muulla luotettavalla tavalla selvityksen lääkityksen tarpeellisuudesta.
 
-Eläinlääkäri voi kuitenkin luovuttaa lääkkeitä eläinten tai ihmisten terveyttä uhkaavissa vaikeissa eläinten joukkosairastumisissa, vaikka ei olisi tutkinut itse kaikkia eläimiä ennen lääkkeiden luovutusta. Eläinlääkärin on tehtävä luovutuksesta tällöin välittömästi ilmoitus toimialueensa aluehallintovirastolle.
+Eläinlääkäri voi kuitenkin luovuttaa lääkkeitä eläinten tai ihmisten terveyttä uhkaavissa vaikeissa eläinten joukkosairastumisissa, vaikka ei olisi tutkinut itse kaikkia eläimiä ennen lääkkeiden luovutusta. Eläinlääkärin on tehtävä luovutuksesta tällöin välittömästi ilmoitus Ruokavirastolle.
 
 Maa- ja metsätalousministeriön asetuksella annetaan tarkemmat säännökset lääkkeiden luovutuksesta sekä luovutuksen ehdoista, edellytyksistä ja rajoituksista, luovutettavien lääkkeiden määrästä ja valikoimasta sekä poikkeuksista vaatimukseen tutkia kaikki eläimet.

@@ -8,6 +8,4 @@ Ruokavirasto laatii lääkkeiden ja muiden eläinten käsittelyssä käytettävi
 4) toimenpiteet epäiltäessä tai todettaessa säännösten vastaista toimintaa;
 5) valvontasuunnitelman toteutumisen arvioinnissa käytettävät menetelmät.
 
-Ruokavirasto toteuttaa suunnitelmaa valtakunnallisesti ja aluehallintovirastot kukin toimialueellaan. Ruokavirasto voi antaa suunnitelman toteuttamista koskevia yksittäisiä määräyksiä aluehallintovirastoille.
-
 Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä valvontasuunnitelman sisällöstä.

@@ -12,7 +12,7 @@ Tässä laissa tarkoitetaan:
 8) lääkkeen luovutuksella tapahtumaa, jossa eläinlääkäri myy tai antaa lääkkeitä eläimen omistajalle tai haltijalle, toiselle eläinlääkärille tai lääkerehun valmistajalle;
 9) tuotantoeläimillä MRL-asetuksen 2 artiklan b alakohdassa tarkoitettuja eläimiä ja hormonikieltodirektiivin 1 artiklan 2 kohdan a alakohdassa tarkoitettuja eläimiä;
 10) varoajalla eläinlääkeasetuksen 4 artiklan 34 alakohdassa tarkoitettua varoaikaa;
-11) valvontaviranomaisella Ruokavirastoa, aluehallintovirastoa, kunnaneläinlääkäriä ja Lääkealan turvallisuus- ja kehittämiskeskusta;
+11) valvontaviranomaisella Ruokavirastoa, kunnaneläinlääkäriä ja Lääkealan turvallisuus- ja kehittämiskeskusta;
 12) eläinlääkärillä henkilöä, jolla on eläinlääkärinammatin harjoittamisesta annetun lain mukainen oikeus harjoittaa eläinlääkärinammattia;
 13) tunnistusasiakirjalla tunnistusasetuksessa tarkoitettua elinikäistä tunnistusasiakirjaa;
 14) valtakunnallisella eläinten terveydenhuolto-ohjelmalla elintarvikealan toimijoiden tai näitä edustavan yhdistyksen laatimaa ohjelmaa, johon liittyneet eläinten omistajat tai haltijat saavat pitopaikan tuotantoeläimiä varten ohjelman mukaiset terveydenhuoltopalvelut eläinten terveyden, hyvinvoinnin ja taloudellisen tuotantokyvyn sekä elintarvikkeiden turvallisuuden ylläpitämiseksi ja edistämiseksi, eläinten sairauksien ehkäisemiseksi, pitopaikan tautitilanteen seuraamiseksi ja valvomiseksi sekä lääkkeiden hallitun käytön mahdollistamiseksi;
