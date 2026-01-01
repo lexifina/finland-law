@@ -1,0 +1,2 @@
+Laki uusiutuvan energian tuotantolaitosten lupamenettelyistä ja eräistä muista hallinnollisista menettelyistä
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,10 @@
+# 2 § Lain soveltamisala ja suhde muuhun lainsäädäntöön
+Luku: 1 luku Yleiset säännökset
+
+Tässä laissa säädetään sähköisestä asioinnista ja neuvonnasta uusiutuvan energian tuotantolaitosten lupamenettelyissä ja eräissä muissa hallinnollisissa menettelyissä sekä niissä sovellettavista määräajoista.
+
+Tätä lakia sovelletaan uusiutuvan energian tuotantolaitokseen, sen samalla paikalla sijaitseviin energiavarastoihin sekä laitoksen sähkö-, kaasu-, lämmitys- tai jäähdytysverkkoihin liittämiseksi tarvittaviin rakenteisiin.
+
+Tätä lakia sovelletaan tässä laissa erikseen mainittuihin ympäristönsuojelulain (527/2014), vesilain (587/2011), luonnonsuojelulain (9/2023), muinaismuistolain (295/1963), vaarallisten kemikaalien ja räjähteiden käsittelyn turvallisuudesta annetun lain (390/2005), lannoitelain (711/2022), eläimistä saatavista sivutuotteista annetun lain (517/2015), muiden kuin ihmisravinnoksi tarkoitettujen eläimistä saatavien sivutuotteiden ja niistä johdettujen tuotteiden terveyssäännöistä sekä asetuksen (EY) N:o 1774/2002 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1069/2009 (sivutuoteasetus), ilmailulain (864/2014), alueidenkäyttölain (132/1999), rakentamislain (751/2023), kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetun lain (603/1977), eräiden ympäristön käyttöön vaikuttavien hankkeiden lunastusluvasta annetun lain (768/2004), Suomen talousvyöhykkeestä annetun lain (1058/2004), sähkömarkkinalain (588/2013), päästökauppalain (1270/2023), tuulivoiman kompensaatioalueista annetun lain (490/2013), aluevalvontalain (755/2000), ympäristövaikutusten arviointimenettelystä annetun lain (252/2017) ja painelaitelain (1144/2016) mukaisiin lupamenettelyihin ja muihin hallinnollisiin menettelyihin siten kuin jäljempänä tässä laissa tarkemmin säädetään.
+
+Tässä laissa mainituissa lupamenettelyissä ja muissa hallinnollisissa menettelyissä noudatetaan, mitä 2 momentissa mainituissa säädöksissä säädetään, ellei tässä laissa toisin säädetä.
