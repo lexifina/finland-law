@@ -11,4 +11,4 @@ Seuraamusmaksua ei voida määrätä valtion viranomaisille, valtion liikelaitok
 
 Seuraamusmaksua ei saa määrätä, jos on kulunut yli kymmenen vuotta siitä, kun rikkomus tai laiminlyönti on tapahtunut. Jos rikkomus tai laiminlyönti on ollut luonteeltaan jatkuvaa, kymmenen vuoden määräaika lasketaan siitä, kun rikkomus tai laiminlyönti on päättynyt.
 
-Seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002). Seuraamusmaksu vanhenee viiden vuoden kuluttua sen määräämispäivästä.
+Tämän lain nojalla maksettavaksi määrätyn seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002).
