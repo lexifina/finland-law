@@ -1,0 +1,12 @@
+# 44 e § Ilmoitus yksityisen perhepäivähoidon harjoittamisesta
+Luku: 9 luku Yksityisen palveluntuottajan varhaiskasvatus
+
+Perhepäivähoitoa järjestävän tai tuottavan yksityisen palvelujentuottajan on ennen toiminnan aloittamista tai sen olennaista muuttamista tehtävä kirjallinen ilmoitus varhaiskasvatuksesta vastaavalle kunnan monijäseniselle toimielimelle siinä kunnassa, jossa palveluja tuotetaan.
+
+Ilmoituksen on sisällettävä toiminnasta vastaavan henkilön nimi, henkilötunnus, yhteystiedot, koulutus, työkokemus ja tehtävä toimipaikassa sekä 44 a §:n 1 momentin 1–4 kohdassa ja 6–11 kohdassa tarkoitetut tiedot. Ilmoitusten tekemisestä, sisällöstä ja ilmoitukseen liitettävistä asiakirjoista voidaan antaa tarkempia säännöksiä opetus- ja kulttuuriministeriön asetuksella.
+
+Kunnan monijäsenisen toimielimen tulee 1 momentissa tarkoitetun ilmoituksen saatuaan yhteistyössä muiden viranomaisten kanssa välittömästi suorittaa tarkastus varhaiskasvatuksen toimipaikassa sen varmistamiseksi, että toimintaympäristö on soveltuva suunnitellulle varhaiskasvatuksen järjestämiselle ja vastaa laissa säädettyjä vaatimuksia. Kunnan monijäseninen toimielin voi tarvittaessa pyytää lausuntoa pelastus-, rakennusvalvonta- ja terveydensuojeluviranomaisilta.Tarkastuksen yhteydessä palveluntuottajan tulee esittää kunnan monijäseniselle toimielimelle toimipaikkaa koskeva 48 §:ssä tarkoitettu omavalvontasuunnitelma sekä lasten kanssa työskentelevän muuhun kuin työsopimussuhteiseen henkilöstöön kuuluvan henkilön osalta lasten kanssa työskentelevien rikostaustan selvittämisestä annetun lain 4 §:n 2 momentissa säädetty ote rikosrekisteristä (rikostaustaote). Toiminta voidaan aloittaa tai olennaiset muutokset toiminnassa toteuttaa, kun kunnan monijäseninen toimielin on todennut vaatimusten täyttymisen. Pysyväisluonteiseen asumiseen käytettävät tilat voidaan kuitenkin tarkastaa vain, jos se on välttämätöntä turvallisen ja varhaiskasvatukseen soveltuvan toimintaympäristön varmistamiseksi eikä tästä voida riittävällä tavalla varmistua ilmoituksen perusteella. Muilta osin tarkastuksessa noudatetaan, mitä hallintolain 39 §:ssä säädetään.
+
+Kunnan monijäsenisen toimielimen on pidettävä luetteloa yksityisen perhepäivähoidon harjoittajista.
+
+Palveluntuottajan on viipymättä tehtävä kirjallinen ilmoitus toiminnan lopettamisesta 1 momentissa tarkoitetun ilmoituksen vastaanottaneelle kunnan monijäseniselle toimielimelle.

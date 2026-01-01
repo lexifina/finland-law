@@ -1,0 +1,2 @@
+Varhaiskasvatuslaki
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,6 @@
+# 58 § Määräyksen antaminen
+Luku: 10 luku Hallinto ja valvonta
+
+Jos varhaiskasvatuksen järjestämisessä tai toteuttamisessa havaitaan asiakasturvallisuutta vaarantavia puutteita tai muita epäkohtia taikka toiminta on muutoin tämän lain vastaista, valvontaviranomainen voi antaa määräyksen puutteiden korjaamisesta tai epäkohtien poistamisesta. Määräystä annettaessa on asetettava määräaika, jonka kuluessa tarpeelliset toimenpiteet on suoritettava. Jos asiakasturvallisuus sitä edellyttää, toiminta voidaan määrätä välittömästi keskeytettäväksi taikka toimipaikan, sen osan tai laitteen käyttö kieltää välittömästi. Jos palvelujentuottaja ei ole täyttänyt ilmoitusvelvollisuuttaan, palveluntuottaja on jättänyt hakematta rekisteröintiä, on aloittanut toiminnan ennen 44 b §:ssä tarkoitettua tarkastusta, rekisteröintihakemuksesta on tehty hylkäävä päätös tai rekisteröinti on peruutettu ja palveluntuottaja silti harjoittaa yksityistä päiväkotitoimintaa, toimipaikka tulee määrätä välittömästi suljettavaksi.
+
+Valvontaviranomainen voi velvoittaa toiminnan järjestäjän noudattamaan 1 momentissa tarkoitettua määräystä sakon uhalla tai uhalla, että toiminta keskeytetään, taikka että toimipaikan, sen osan tai laitteen käyttö kielletään.
