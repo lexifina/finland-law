@@ -9,4 +9,4 @@ Asiantuntijalla ja avustajalla on oikeus salassapitosäännösten estämättä s
 
 Ulkopuoliseen asiantuntijaan ja avustajaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä heidän suorittaessaan tässä pykälässä tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.
 
-Jos asiantuntijaa tai avustajaa käyttää apunaan muu valvontaviranomainen kuin Ruokavirasto tai aluehallintovirasto, asiantuntijan tai avustajan käyttämisestä aiheutuville kustannuksille on haettava etukäteen aluehallintoviraston hyväksyntä.
+Jos asiantuntijaa tai avustajaa käyttää apunaan muu valvontaviranomainen kuin Ruokavirasto, asiantuntijan tai avustajan käyttämisestä aiheutuville kustannuksille on haettava etukäteen Ruokaviraston hyväksyntä.

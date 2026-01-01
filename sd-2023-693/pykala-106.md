@@ -19,7 +19,7 @@ Eläinkilpailujen järjestämistä koskevaan rekisteriin talletetaan seuraavat t
 2) tieto siitä, onko kyse määräaikaisesta vai toistaiseksi voimassa olevasta ilmoituksesta;
 3) toiminnan aiottu aloittamisajankohta ja toiminnan lopettaminen;
 4) minkälaisia eläinkilpailuja järjestetään ja mille eläinlajeille;
-5) minkä aluehallintoviraston tai aluehallintovirastojen alueella toimintaa harjoitetaan;
+5) millä alueella toimintaa harjoitetaan;
 6) arvio järjestettävien eläinkilpailujen vuosittaisesta lukumäärästä;
 7) selvitys eläinkilpailujen järjestäjän pätevyydestä.
 

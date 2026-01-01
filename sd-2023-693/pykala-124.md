@@ -5,4 +5,4 @@ Sen estämättä, mitä 28 §:n 1 momentissa säädetään luonnonvaraisen selk�
 
 Sen estämättä, mitä 29 §:ssä tai 61 §:n 2 momentissa säädetään luonnonvaraisen eläimen lopettamisesta, saadaan kumotun lain 13 §:n 2 momentin nojalla haltuun otettu luonnonvarainen eläin, jota ei voida vapauttaa luontoon tai sijoittaa eläintarhaan, pitää hallussa eläimen kuolemaan asti.
 
-Eläimen pitäjän on ilmoitettava 1 tai 2 momentissa tarkoitetun eläimen hallussapidosta aluehallintovirastolle kuuden kuukauden kuluessa tämän lain voimaantulosta.
+Eläimen pitäjän on ilmoitettava 1 tai 2 momentissa tarkoitetun eläimen hallussapidosta Ruokavirastolle kuuden kuukauden kuluessa tämän lain voimaantulosta.

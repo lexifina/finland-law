@@ -21,7 +21,7 @@ Ilman epäilyäkin valvontaviranomaisella on oikeus tehdä tarkastus:
 
 Tarkastusta ja näytteenottoa koskevasta virallisesta valvonnasta ja muista virallisista toimista säädetään valvonta-asetuksen 9–15 artiklassa.
 
-Ruokavirasto voi määrätä aluehallintoviraston tekemään tarkastuksen tai tarkastuksia eläinten hyvinvointisäädösten noudattamisen valvomiseksi taikka Suomea sitovan kansainvälisen sopimuksen velvoitteiden täyttämiseksi tai Euroopan unionin lainsäädännön niin edellyttäessä. Aluehallintovirasto voi päättää vastaavista tarkastuksista myös omassa valvonnassaan tai määrätä virkaeläinlääkärin tekemään tarkastuksia.
+Ruokavirasto voi määrätä virkaeläinlääkärin tekemään tarkastuksen tai tarkastuksia eläinten hyvinvointisäädösten noudattamisen valvomiseksi taikka Suomea sitovan kansainvälisen sopimuksen velvoitteiden täyttämiseksi tai Euroopan unionin lainsäädännön niin edellyttäessä. Ruokavirasto voi päättää vastaavista tarkastuksista myös omassa valvonnassaan.
 
 Tarkastuksen tekijällä on oikeus päästä tiloihin, joihin pääsemistä tarkastuksen tekeminen edellyttää, ja ottaa maksutta valvontaa varten tarvittavia näytteitä sekä tallentaa ääntä ja kuvaa. Hänellä on oikeus tarkastaa eläin, eläimen pitopaikka ja muut eläintenpitoon liittyvät tilat, eläintä varten tarkoitettu ravinto, juotava, varusteet ja välineet sekä eläintenpitoon liittyvät tiedot ja asiakirjat sekä muut valvonnan kannalta merkitykselliset seikat.
 
