@@ -1,0 +1,5 @@
+# 4 § Luvanvarainen toiminta
+
+Yleissopimuksen kemikaaliliitteen luettelossa 1 mainittujen kemikaalien ja lähtöaineiden tuottaminen, hankkiminen, säilyttäminen ja käyttäminen, jos 1 luettelon sisältämien kemikaalien yhteismäärä toiminnanharjoittajaa ja laitosta kohden on enemmän kuin 100 grammaa vuodessa, ovat sallittuja Suomessa vain Lääkealan turvallisuus- ja kehittämiskeskuksen luvalla. Luettelossa 1 mainittujen kemikaalien ja lähtöaineiden tuonti ja toimitus Suomen alueelle ovat määrästä riippumatta sallittuja vain Lääkealan turvallisuus- ja kehittämiskeskuksen luvalla. Lupaa ei kuitenkaan vaadita instituutilta eikä Puolustusvoimien tutkimuslaitokselta.
+
+Lupahakemukseen on liitettävä selvitys yleissopimuksen kemikaaliliitteen luettelossa 1 mainittujen aineiden määrästä ja käyttötarkoituksesta sekä yleistiedot laitoksesta, jossa niitä tuotetaan, säilytetään tai käytetään. Lupaa on haettava viimeistään 45 vuorokautta ennen luvanvaraista toimenpidettä. Tarkempia säännöksiä lupahakemuksen sisällöstä ja siihen liitettävästä selvityksestä voidaan antaa valtioneuvoston asetuksella.
