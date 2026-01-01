@@ -17,5 +17,3 @@ Oikeushenkilölle määrättävä seuraamusmaksu on vähintään 1 000 euroa ja 
 Poiketen siitä, mitä 2 momentissa säädetään, seuraamusmaksu asetuksen 3 artiklan 3 kohdassa säädettyjen velvoitteiden systemaattisesta tai jatkuvasta noudattamatta jättämisestä on enintään 4 prosenttia säilytyspalvelun tarjoajan edellisen tilikauden kokonaisliikevaihdosta.
 
 Seuraamusmaksun suuruus perustuu kokonaisarviointiin. Seuraamusmaksun suuruutta arvioitaessa huomioon otettavista seikoista säädetään asetuksen 18 artiklan 2 kohdassa.
-
-Seuraamusmaksu määrätään maksettavaksi valtiolle.
