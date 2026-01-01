@@ -4,4 +4,4 @@ Monialaisessa työllistymissuunnitelmassa sovitaan työttömän palvelutarpeen m
 
 Monialaisessa työllistymissuunnitelmassa on sovittava suunnitelman toteutumisen seurannasta.
 
-Työllistymissuunnitelman tulee sisältää työvoimapalveluiden järjestämisestä annetun lain 5 luvussa tarkoitettu työnhakuvelvollisuus, ellei mainitun lain 48 §:stä muuta johdu. Työnhakuvelvollisuuteen sovelletaan, mitä mainitun lain 147 §:ssä säädetään kiellosta hakea oikaisua ja valittaa.
+Työvoimaviranomaisen on sisällytettävä työllistymissuunnitelmaan työvoimapalveluiden järjestämisestä annetun lain 5 luvussa tarkoitettu työnhakuvelvollisuus, ellei mainitun lain 48 §:stä muuta johdu. Työnhakuvelvollisuuteen sovelletaan, mitä mainitun lain 147 §:ssä säädetään kiellosta hakea oikaisua ja valittaa.

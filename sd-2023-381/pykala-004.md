@@ -4,4 +4,4 @@ Monialaisen tuen asiakkuus alkaa, kun monialainen palvelutarpeen arviointi aloit
 
 Työvoimaviranomainen, hyvinvointialue ja työtön laativat yhdessä monialaisen työllistymissuunnitelman palvelutarpeen arvioinnin perusteella. Kansaneläkelaitos osallistuu suunnitelman laatimiseen, jos työttömän palvelutarve edellyttää Kansaneläkelaitoksen kuntoutuspalveluja.
 
-Monialalainen työllistymissuunnitelma tulee olla laadittu kolmen kuukauden kuluessa siitä, kun palvelutarpeen arviointi on aloitettu. Työttömälle annetaan edellä mainittuna aikana myös ohjausta, jonka tarkoituksena on parantaa hänen valmiuksiaan ja sitoutumistaan työllistymisensä edistämiseen.
+Monialaisen työllistymissuunnitelman tulee olla laadittuna ja hyväksyttynä kolmen kuukauden kuluessa siitä, kun palvelutarpeen arviointi on aloitettu. Työttömälle annetaan edellä mainittuna aikana myös ohjausta, jonka tarkoituksena on parantaa hänen valmiuksiaan ja sitoutumistaan työllistymisensä edistämiseen. Suunnitelman rakenteesta ja hyväksymisestä säädetään tarkemmin valtioneuvoston asetuksella.
