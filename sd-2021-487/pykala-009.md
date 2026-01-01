@@ -1,6 +1,6 @@
 # 9 § Valvonta
 
-Tämän lain säännösten noudattamista valvovat työsuojeluviranomaiset noudattaen, mitä työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetussa laissa (44/2006) säädetään, jollei muualla laissa toisin säädetä.
+Tämän lain säännösten noudattamista valvoo työsuojeluviranomainen noudattaen, mitä työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta annetussa laissa (44/2006) säädetään, jollei muualla laissa toisin säädetä.
 
 Työsuojeluviranomaisella on oikeus saada valvonnassaan välttämättömistä tiedoista ja asiakirjoista käännös suomen, ruotsin tai englannin kielelle, jos se ei voi suorittaa valvontatehtäväänsä alkuperäisellä kielellä olevan tiedon tai asiakirjan perusteella.
 
