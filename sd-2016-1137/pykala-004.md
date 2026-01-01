@@ -16,3 +16,5 @@ Sen lisäksi, mitä 1 momentissa säädetään, Lääkealan turvallisuus- ja keh
 Poiketen siitä, mitä 1 momentissa säädetään, Lupa- ja valvontavirasto ja kunnat alueellaan ovat tässä laissa tarkoitettuja markkinavalvontaviranomaisia tupakkalain osalta.
 
 Poiketen siitä, mitä 1 momentissa säädetään, Ruokavirasto on tässä laissa tarkoitettu markkinavalvontaviranomainen lannoitelaissa tarkoitettujen lannoitevalmisteiden osalta.
+
+Sen lisäksi, mitä 1 momentissa säädetään, tekoälyjärjestelmien markkinavalvontaviranomaisista säädetään eräiden tekoälyjärjestelmien valvonnasta annetussa laissa.
