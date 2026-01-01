@@ -1,0 +1,10 @@
+# 5 § Lääkemääräyksen laatiminen
+Luku: 2 luku Sähköisen lääkemääräyksen laatiminen ja sisältö
+
+Lääkkeen määrääjän on lääkettä määrätessään tarkistettava potilaalle aiemmin määrätyt lääkkeet valtakunnalliselta lääkityslistalta, jollei tarkistaminen tilapäisen teknisen häiriötilanteen takia ole mahdotonta.
+
+Lääkemääräys on laadittava sähköisesti lukuun ottamatta pro auctore -lääkemääräystä ja lääkkeellisiä kaasuja koskevia lääkemääräyksiä, jotka voidaan laatia kirjallisesti sekä potilaskohtaisen erityisluvan edellyttäviä lääkevalmisteita koskevia lääkemääräyksiä, jotka voidaan laatia joko kirjallisesti tai sähköisesti. Jos sähköinen määrääminen ei ole teknisen häiriön vuoksi mahdollista, lääkemääräyksen voi tehdä myös kirjallisesti tai puhelinlääkemääräyksenä. Kirjallisen tai puhelinlääkemääräyksen voi tehdä myös apteekin pyynnöstä, jos apteekki ei pysty toimittamaan sähköistä lääkemääräystä teknisen häiriön takia. Lisäksi lääkemääräyksen voi laatia kirjallisesti tai puhelimitse, jos lääkehoidon tarve on kiireellinen eikä lääkemääräystä voi olosuhteiden poikkeuksellisuuden vuoksi tai muusta erityisestä syystä laatia sähköisesti.
+
+Ulkomailla tapahtuvaa ostoa varten sähköisestä lääkemääräyksestä voidaan antaa allekirjoitettu kirjallinen jäljennös. Jos lääkemääräyksestä annetaan jäljennös ulkomailla tapahtuvaa ostoa varten, lääkkeen toimittaminen sähköisellä lääkemääräyksellä estetään samalla teknisesti. Toimitetusta sähköisestä lääkemääräyksestä saa lisäksi antaa potilaalle lääkkeen määrääjän tai apteekin allekirjoituksella vahvistetun jäljennöksen, jos se on tarpeen potilaan ulkomaan matkan takia.
+
+Kirjallisessa ja puhelinlääkemääräyksessä on perusteltava, miksi sitä ei ole annettu sähköisesti. Sosiaali- ja terveysministeriön asetuksella voidaan antaa tarkempia säännöksiä kirjallisen tai puhelinlääkemääräyksen perusteista ja sisällöstä, niillä määrättävistä lääkkeistä ja ulkomailla tapahtuvaa ostoa tai ulkomaan matkaa varten annettavasta jäljennöksestä. Puhelinlääkemääräystä ei saa uudistaa, ja se voi olla voimassa enintään kolme kuukautta.
