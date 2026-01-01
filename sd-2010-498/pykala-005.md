@@ -1,7 +1,7 @@
 # 5 § Asian vireilletulo
 Luku: 2 luku Suojelusta päättäminen
 
-Rakennuksen suojelua koskeva asia tulee elinkeino-, liikenne- ja ympäristökeskuksessa vireille sille tehdystä esityksestä tai sen omasta aloitteesta.
+Rakennuksen suojelua koskeva asia tulee Lupa- ja valvontavirastossa vireille sille tehdystä esityksestä tai sen omasta aloitteesta.
 
 Esityksen rakennuksen suojelemisesta saa tehdä:
 1) omistaja;
