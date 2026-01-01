@@ -2,10 +2,10 @@
 Luku: 2 luku Terveyden ja hyvinvoinnin edistäminen
 
 Perusopetuksen oppilaiden kouluterveydenhuollon palveluihin sisältyvät:
-1) kouluympäristön terveellisyyden ja turvallisuuden sekä kouluyhteisön hyvinvoinnin edistäminen sekä seuranta kolmen vuoden välein;
-2) vuosiluokittain oppilaan kasvun ja kehityksen sekä terveyden ja hyvinvoinnin seuraaminen ja edistäminen;
+1) kouluympäristön terveellisyyden ja turvallisuuden sekä kouluyhteisön hyvinvoinnin edistäminen sekä seuranta määräajoin;
+2) oppilaan kasvun ja kehityksen sekä terveyden ja hyvinvoinnin seuraaminen ja edistäminen, johon sisältyvät terveystarkastukset määräajoin ja yksilöllisen tarpeen mukaisesti;
 3) oppilaan vanhempien ja huoltajien kasvatustyön tukeminen;
-4) oppilaan suun terveydenhuolto, johon sisältyvät suun terveystarkastukset vähintään kolme kertaa ja yksilöllisen tarpeen mukaisesti;
+4) oppilaan suun terveydenhuolto, johon sisältyvät suun terveystarkastukset määräajoin ja yksilöllisen tarpeen mukaisesti;
 5) oppilaan erityisen tuen tai tutkimusten tarpeen varhainen tunnistaminen ja tukeminen sekä pitkäaikaisesti sairaan lapsen omahoidon tukeminen yhteistyössä muiden oppilashuollon toimijoiden kanssa sekä tarvittaessa jatkotutkimuksiin ja -hoitoon ohjaaminen;
 6) oppilaan terveydentilan toteamista varten tarpeelliset erikoistutkimukset.
 
