@@ -5,4 +5,4 @@ Valtiovarainministeriön valtiovarain controller -toiminto toimii EU-asetuksessa
 
 Valtiovarain controller -toiminto laatii ja ylläpitää EU-asetuksessa tarkoitetun hallinto- ja valvontajärjestelmän kuvauksen, kun on kysymys toiminnon omasta toiminnasta.
 
-Lisäksi valtiovarain controller -toiminto ilmoittaa tekemiensä tarkastusten tuloksista työ- ja elinkeinoministeriölle ja toimivaltaiselle elinkeino-, liikenne- ja ympäristökeskukselle sekä laatii yhteenvedon suorittamistaan tarkastuksista varauksen käytöstä annettavaa jäsenvaltion varauksesta maksettavaa rahoitusosuutta koskevaa hakemusta varten.
+Lisäksi valtiovarain controller -toiminto ilmoittaa tekemiensä tarkastusten tuloksista työ- ja elinkeinoministeriölle ja toimivaltaiselle elinvoimakeskukselle sekä laatii yhteenvedon suorittamistaan tarkastuksista varauksen käytöstä annettavaa jäsenvaltion varauksesta maksettavaa rahoitusosuutta koskevaa hakemusta varten.
