@@ -13,8 +13,8 @@ Ruokavirasto voi määrätä toimijan maksamaan vähintään 300 euron ja enint�
 9) markkinoi, käyttää tai maahantuo makroeliöitä ilman, että siitä on tehty vaadittava ilmoitus tai niiden käytölle on myönnetty lupa; taikka
 10) laiminlyö 22 §:ssä säädetyn velvollisuuden ilmoittaa kiinteistön, kiinteistön osan tai rakennuksen käyttörajoituksista.
 
-Seuraamusmaksun suuruutta arvioitaessa on otettava huomioon menettelyn laatu, vahingollisuus ja toistuvuus. Maksu voidaan jättää määräämättä tai määrätä maksettavaksi vähimmäismäärää pienempänä, jos tekoa voidaan pitää vähäisenä ja maksun määräämättä jättäminen tai määrääminen vähimmäismäärää pienempänä on kohtuullista laiminlyönnin laatu, toistuvuus, suunnitelmallisuus ja muut olosuhteet huomioon ottaen. Seuraamusmaksu määrätään maksettavaksi valtiolle.
+Seuraamusmaksun suuruutta arvioitaessa on otettava huomioon menettelyn laatu, vahingollisuus ja toistuvuus. Maksu voidaan jättää määräämättä tai määrätä maksettavaksi vähimmäismäärää pienempänä, jos tekoa voidaan pitää vähäisenä ja maksun määräämättä jättäminen tai määrääminen vähimmäismäärää pienempänä on kohtuullista laiminlyönnin laatu, toistuvuus, suunnitelmallisuus ja muut olosuhteet huomioon ottaen.
 
 Seuraamusmaksua ei saa määrätä luonnolliselle henkilölle, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa tai jolle on samasta teosta annettu lainvoimainen tuomio. Jos seuraamusmaksu on määrätty luonnolliselle henkilölle, samasta teosta ei saa tuomita tuomioistuimessa rangaistusta.
 
-Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli kuusi kuukautta. Seuraamusmaksu vanhenee viiden vuoden kuluttua seuraamusmaksun määräämispäivästä. Seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002).
+Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli kuusi kuukautta. Tämän lain nojalla maksettavaksi määrätyn seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002).
