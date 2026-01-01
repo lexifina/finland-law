@@ -1,0 +1,2 @@
+Yksityistielaki
+Eduskunnan päätöksen mukaisesti säädetään:

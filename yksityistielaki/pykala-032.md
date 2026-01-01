@@ -1,0 +1,8 @@
+# 32 § Väliaikainen kulkuoikeus
+Luku: 3 luku Tienpito ja tien käyttäminen
+
+Sille, joka hallitsee määrättyä aluetta sitä omistamatta, voidaan antaa määräajaksi tai enintään siksi ajaksi, kun hallinta jatkuu, kulkuoikeus tietä myöten tai muutoin toisen alueen kautta, jos se on hänelle kulkuyhteyden saamiseksi välttämätöntä eikä siitä aiheudu millekään kiinteistölle huomattavaa haittaa tai 4 §:n 3 momentissa tarkoitettua yleisen edun loukkausta. Ellei asiasta ole osapuolten kesken sovittu, kulkuoikeus annetaan yksityistietoimituksessa.
+
+Jos yksityistietoimituksessa on kysymys tieoikeuden myöntämisestä tai sen ratkaisemisesta, onko jollakin tieoikeus tai sitä vastaava muuhun lakiin perustuva käyttöoikeus tiehen, voidaan yksityistietoimituksessa myöntää väliaikainen kulkuoikeus tällaiseen tiehen tai muutoin toisen alueen kautta sille, jonka omistaman kiinteistön hyväksi tai jonka elinkeinon harjoittamista varten tieoikeutta on yksityistietoimituksessa haettu, jos se on kulkuyhteyden saamiseksi välttämätöntä eikä siitä aiheudu millekään kiinteistölle huomattavaa haittaa tai 4 §:n 3 momentissa tarkoitettua yleisen edun loukkausta. Väliaikainen kulkuoikeus lakkaa olemasta voimassa, kun edellä tarkoitettu yksityistietoimitus on saanut lainvoiman, jollei kulkuoikeutta myönnettäessä ole sen voimassaolosta toisin määrätty. Kulkuoikeus voidaan määrätä olemaan voimassa enintään vuoden siitä, kun mainittu yksityistietoimitus on saanut lainvoiman.
+
+Määräalan kulkuyhteytenä saa käyttää emäkiinteistön tieoikeutta 1 momentissa tarkoitettua kulkuoikeutta hakematta siihen saakka, kunnes määräalan lohkominen on merkitty kiinteistörekisteriin.

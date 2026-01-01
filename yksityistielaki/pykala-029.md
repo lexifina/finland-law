@@ -1,0 +1,8 @@
+# 29 § Tien käytön kieltäminen ja rajoittaminen sekä tien sulkeminen
+Luku: 3 luku Tienpito ja tien käyttäminen
+
+Tiekunta tai, jos sellaista ei ole perustettu, tieosakkaat voivat kieltää kaikilla tai joillakin moottori- tai hevosajoneuvoilla tapahtuvan tien käytön muilta kuin tieosakkailta tai rajoittaa tien käyttöä. Tällainen kielto tai rajoitus ei ole esteenä tieosakkaan kiinteistölle kulkemiseen luvallisissa asioissa eikä estä tieosakasta taikka, jos osakkaat muodostavat tiekunnan, toimitsijamiestä tai hoitokuntaa antamasta edellä 28 §:ssä tarkoitettua lupaa tien tilapäiseen käyttämiseen, jos siihen on painavia syitä. Sellaisen tien käytön kieltämisestä tai rajoittamisesta, jonka kunnossapitoa valtio tai kunta avustaa, säädetään 85 §:ssä.
+
+Edellä 1 momentissa tarkoitettu kielto tai rajoitus on annettava tiedoksi asettamalla tien varteen asianmukainen liikennemerkki tai muu liikenteen ohjauslaite.
+
+Kiinteistönomistaja ei saa asettaa kiinteistöllään olevalle yksityistielle sulkulaitetta, jollei tiekunta tai, jos tiekuntaa ei ole perustettu, tieosakkaat anna siihen suostumustaan. Jos sulkulaitteen asettamiseen ei ole annettu suostumusta, yksityistietoimituksessa voidaan kuitenkin myöntää kiinteistönomistajalle oikeus sulkulaitteen asettamiseen, jos se on kiinteistön käytölle liikenteestä aiheutuvan haitan tai liikenneturvallisuuden taikka muun erityisen syyn vuoksi tarpeen. Sulkulaitteen asettajan on huolehdittava siitä, että tieosakkailla on mahdollisuus käyttää tietä sulkulaitteesta huolimatta. Sellaisen tien sulkemisesta, jonka kunnossapitoa valtio tai kunta avustaa, säädetään 85 §:ssä.
