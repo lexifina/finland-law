@@ -1,9 +1,11 @@
 # 5 § Veron peruste
 
-Verovuoden apteekkiveron määrää laskettaessa apteekin, sivuapteekin, apteekin palvelupisteen, apteekin verkkopalvelun sekä lääkekaapin liikevaihdosta vähennetään arvonlisävero.
+Verovuoden apteekkiveron perusteena pidetään verovelvollisen apteekkitoimipisteiden yhteenlaskettua lääkemyynnin voittomarginaalia ilman arvonlisäveroa. Lääkemyynnin voittomarginaali on verovelvollisen apteekkitoimipisteiden arvonlisäverottomasta lääkemyynnistä saadun vastikkeen ja välittömästi myytyjen lääkkeiden hankintamenojen erotus, johon on lisätty lääkelain (395/1987) 58 §:ssä tarkoitettu lääkkeen toimituseräkohtainen toimitusmaksu.
 
-Arvonlisäverottomasta liikevaihdosta vähennetään lisäksi seuraavat arvonlisäverottomat osuudet:
-1) lääkelain (395/1987) 12 §:n 2 momentissa tarkoitetun sopimusvalmistuksen myynnin arvo sekä sosiaali- ja terveydenhuollon laitoksille tapahtuva lääkemyynti;
-2) sellaisten nikotiinikorvaushoitoon tarkoitettujen lääkevalmisteiden myynnin arvo, joita lääkelain mukaan saa myydä myös muualla kuin apteekissa;
-3) muiden tuotteiden kuin lääkkeiden myynti, kuitenkin enintään 20 prosenttia liikevaihdosta, josta on tehty 1 ja 2 kohdan mukaiset vähennykset;
-4) tukkuhinnaltaan yli 1 500 euron hintaisten lääkevalmisteiden myynnin osuus siltä osin kuin kunkin tällaisen lääkevalmisteen arvonlisäveroton vähittäishinta ylittää 1 683,92 euroa.
+Veron perustetta määritettäessä ei huomioida verovelvollisen:
+1) lääkelain 12 §:ssä tarkoitettua apteekissa tai sivuapteekissa tapahtuvaa omaa lääkevalmistusta tai sopimusvalmistusta;
+2) sosiaali- ja terveydenhuollon laitoksille tapahtuvaa lääkemyyntiä;
+3) sellaisten nikotiinikorvaushoitoon tarkoitettujen lääkevalmisteiden myyntiä, joita lääkelain mukaan saa myydä myös muualla kuin apteekissa; eikä
+4) lääkelain 23 d §:ssä tarkoitettuun rajattuun itsehoitolääkevalikoimaan kuuluvien itsehoitolääkkeiden myyntiä.
+
+Edellä 1 momentissa välittömästi myydyn lääkkeen hankintamenolla tarkoitetaan välittömästi myydyn lääkevalmisteen apteekin kirjanpidon mukaista arvonlisäverotonta ostohintaa lisättynä välittömästi myytyä lääkettä koskevalla lääketukkukaupan apteekille toimittaman lääketilauksen toimitusmaksulla ja koneellisen annosjakelupalvelun tuottajan veloittamalla jakelu- ja toimituspalkkiolla.
