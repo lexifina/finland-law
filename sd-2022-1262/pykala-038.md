@@ -1,0 +1,16 @@
+# 38 § Ympäristövahinkovakuutusta koskevat siirtymäsäännökset
+Luku: 7 luku Voimaantulo
+
+Ennen tämän lain voimaantuloa aiheutuneen, ympäristövahinkovakuutuksesta annetun lain soveltamisalaan kuuluvan ympäristövahingon sekä tällaisen vahingon torjuntakustannusten ja vahingoittuneen ympäristön ennalleen saattamisen kustannusten korvaamiseen sovelletaan tämän lain voimaan tullessa voimassa olleita säännöksiä, ellei 4–7 momentista muuta johdu.
+
+Ympäristövahinkovakuutuksesta annetun lain 6 §:ää Ympäristövakuutuskeskuksesta ja sen jäsenten vastuusta, 7 §:n 1, 2 ja 4 momenttia Ympäristövakuutuskeskuksen hallinnosta ja valvonnasta sekä 18 §:n 4 momenttia Finanssivalvonnan päätöksestä korvauksen maksamisesta eräissä tilanteissa sovelletaan tämän lain 35 §:n 2 momentin estämättä siihen asti, kunnes viimeinen vakuutuksenantajalle tai Ympäristövakuutuskeskukselle tehty korvausvaatimus on lainvoimaisesti ratkaistu.
+
+Ympäristövahinkovakuutuksesta annetun lain 9 §:ää vakuuttamisvelvollisuuden laiminlyönnistä sovelletaan tämän lain 35 §:n 2 momentin estämättä 31 päivään joulukuuta 2026.
+
+Tämän lain tullessa voimaan ympäristövahinkovakuutuksesta annetun lain jakojärjestelmää koskevan 21 a §:n soveltaminen päättyy.
+
+Ympäristövahinkovakuutuksesta annetun lain 22 §:ää ympäristövakuutuslautakunnasta sovelletaan tämän lain 35 §:n 2 momentin estämättä 14 päivään kesäkuuta 2026. Tämän lain tultua voimaan ympäristövakuutuslautakunnan toiminta jatkuu sen määräajan loppuun, joksi lautakunta on asetettu. Lautakunnan ratkaisusuositusta ympäristövahinkojen korvaamisesta voi hakea vuoden 2025 loppuun asti. Tämän lain tultua voimaan ympäristövahinkovakuutuksesta annetun lain 23 §:ssä tarkoitettu korvausta koskeva kanne voidaan panna vireille käräjäoikeudessa riippumatta siitä, onko ympäristövakuutuslautakunta antanut korvauspäätöksestä lausunnon. Ympäristövakuutuslautakunnasta annettu asetus (1177/1998) jää voimaan 14 päivään kesäkuuta 2026.
+
+Tämän lain tultua voimaan ympäristövahinkovakuutuksesta annetussa laissa tarkoitettu korvausvaatimus on tehtävä kirjallisesti vakuutuksenantajalle tai Ympäristövakuutuskeskukselle viiden vuoden kuluessa tämän lain voimaantulosta. Korvausvaatimus katsotaan tällöin tehdyksi ympäristövahinkovakuutuksen viimeisen vakuutuskauden aikana. Viimeisen vakuutuskauden ja tämän lain voimaantuloa seuraavan viiden vuoden kuluessa esitetyistä korvausvaatimuksista yhdestä vakuutustapahtumasta maksetaan korvausta enintään 6 miljoonaa euroa ja kahdesta tai useammasta vakuutustapahtumasta maksetaan korvausta yhteensä enintään 10 miljoonaa euroa.
+
+Tämän lain tultua voimaan ympäristövahinkovakuutuksesta annettuun lakiin perustuva korvausvaatimus voidaan 6 momentissa tarkoitetun viiden vuoden määräajan jälkeen tehdä kirjallisesti ympäristövahinkorahastolle. Korvausvaatimus ympäristövahinkorahastolle on kuitenkin tehtävä kymmenen vuoden kuluessa tämän lain voimaantulosta. Yhdestä korvausvaatimuksen perusteena olevasta tapahtumasta maksetaan korvausta enintään 6 miljoonaa euroa sekä kahdesta tai useammasta ympäristövahinkorahastolle tehdyn korvausvaatimuksen perusteena olevasta tapahtumasta maksetaan korvausta yhteensä enintään 10 miljoonaa euroa. Korvausta koskevaan rahaston hallituksen päätökseen saa vaatia oikaisua.
