@@ -1,0 +1,6 @@
+# 1 § Muutoksenhaku
+Luku: 15 luku Muutoksenhaku ja päätöksen täytäntöönpano
+
+Lupa- ja valvontaviraston ja kunnan ympäristönsuojeluviranomaisen tämän lain nojalla antamaan päätökseen ja ojitustoimituksessa annettuun päätökseen haetaan valittamalla muutosta Vaasan hallinto-oikeudelta. Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa. Asian käsittelystä perittävästä maksusta valitetaan samassa järjestyksessä kuin pääasiasta.
+
+Lupa- ja valvontaviraston tai kalataloustehtäviä hoitavan elinvoimakeskuksen 3 luvun 11 §:ssä tarkoitettuun yhteistarkkailua tai tarkkailusuunnitelman hyväksymistä tai muuttamista koskevaan päätökseen sekä kalataloustehtäviä hoitavan elinvoimakeskuksen mainitun luvun 15 §:ssä tarkoitettuun kalatalousvelvoitteen toteuttamissuunnitelman hyväksymistä ja kalatalousmaksun käyttösuunnitelman vahvistamista koskevaan päätökseen ja näistä perittävää maksua koskevaan päätökseen saa vaatia oikaisua Lupa- ja valvontavirastolta. Oikaisuvaatimuksesta säädetään hallintolaissa. Lupa- ja valvontaviraston on annettava oikaisuvaatimukseen annettu päätös tiedoksi ja tiedotettava siitä noudattaen, mitä 11 luvun 22 §:ssä säädetään. Oikaisuvaatimukseen annettuun päätökseen saa hakea muutosta noudattaen, mitä 1 momentissa säädetään.

@@ -1,0 +1,10 @@
+# 11 § Tarkkailuvelvoite
+Luku: 3 luku Luvanvaraiset vesitaloushankkeet
+
+Luvassa on määrättävä luvanhaltija tarvittaessa tarkkailemaan hankkeen toteuttamista ja sen vaikutuksia. Lupa- ja valvontavirasto, tai sen määräyksestä kalataloustehtäviä hoitava elinvoimakeskus, voi määrätä useat luvanhaltijat yhdessä tarkkailemaan toimintojensa vaikutusta (yhteistarkkailu) tai hyväksyä toiminnan tarkkailemiseksi osallistumisen alueella tehtävään seurantaan. Yhteistarkkailu voi koskea myös ympäristönsuojelulakiin ja tähän lakiin perustuvaa tarkkailua. Tarkkailua koskevassa päätöksessä voidaan antaa oikeus tarkkailla toisen alueella ja sijoittaa tarkkailun edellyttämät laitteet ja rakennelmat toisen alueelle. Tarkkailusta aiheutuvien edunmenetysten korvaamisesta säädetään 13 luvussa.
+
+Luvanhaltija voidaan luvassa velvoittaa esittämään tarkkailusuunnitelma 1 momentissa tarkoitetun tarkkailun tarkemmasta järjestämisestä Lupa- ja valvontaviraston tai sen määräämän viranomaisen hyväksyttäväksi niin ajoissa, että tarkkailu voidaan aloittaa toiminnan alkaessa tai muuna toiminnan vaikutusten kannalta tarkoituksenmukaisena ajankohtana.
+
+Yhteistarkkailua tai tarkkailusuunnitelman hyväksymistä koskevan päätöksen tehnyt viranomainen voi muuttaa päätöstä luvan voimassaolosta huolimatta. Asia voi tulla vireille tarkkailusta päättäneen viranomaisen omasta aloitteesta tai luvanhaltijan, Lupa- ja valvontaviraston, vesitaloustehtäviä tai kalataloustehtäviä hoitavan elinvoimakeskuksen, yleistä etua valvovan viranomaisen, kunnan tai haittaa kärsivän asianosaisen vaatimuksesta. Yhteistarkkailua koskevaa päätöstä on muutettava aina, jos yhteistarkkailuun on määrätty osallistumaan uusi luvanhaltija.
+
+Tarkkailuvelvoitetta määrättäessä on otettava huomioon, mitä vesienhoidon ja merenhoidon järjestämisestä annetussa laissa tarkoitetussa vesien tilaa koskevassa seurantaohjelmassa on pidetty tarpeellisena seurannan järjestämiseksi. Hankkeen tarkkailun tietoja voidaan käyttää vesienhoidon ja merenhoidon järjestämisestä annetun lain mukaisessa seurannassa ja vesienhoitosuunnitelman laadinnassa.

@@ -1,0 +1,8 @@
+# 6 § Haitan poistaminen ja ruoppausmassan sijoittaminen
+Luku: 2 luku Yleiset oikeudet, velvollisuudet ja rajoitukset
+
+Lietteestä, matalikosta tai muusta niihin verrattavasta vesistön käyttöä koskevasta haitasta kärsivä saa ilman vesialueen omistajan suostumusta suorittaa haitan poistamiseksi tarpeellisen toimenpiteen vesistön tilan ja käyttömahdollisuuksien parantamiseksi. Oikeuden edellytyksenä on, että toimenpide ei 3 luvun 2 tai 3 §:n nojalla edellytä lupaa eikä työn suorittamisesta aiheudu omistajalle huomattavaa haittaa tai ympäristönsuojelulain 5 §:n 1 momentin 2 kohdassa tarkoitettua ympäristön pilaantumista vesialueella. Sama koskee ruoppausmassan sijoittamista toisen vesialueelle.
+
+Ruoppausmassan sijoittaminen toisen maa-alueelle edellyttää maanomistajan suostumusta. Lupa- ja valvontavirasto voi kuitenkin myöntää oikeuden ruoppausmassan sijoittamiseen, jos sen sijoittamisesta ei aiheudu alueen käytölle sanottavaa haittaa ja sijoittamiseen ei tarvitse hakea ympäristönsuojelulaissa tarkoitettua ympäristölupaa.
+
+Edellä 1 momentissa tarkoitetusta toimenpiteestä ja työn suorittamistavasta on ilmoitettava vesialueen omistajalle vähintään 30 vuorokautta ennen toimenpiteen suorittamista. Yhteisen alueen järjestäytymättömälle osakaskunnalle ilmoitus voidaan toimittaa yhteisaluelain 26 §:n estämättä julkaisemalla tieto ilmoituksesta Lupa- ja valvontaviraston verkkosivuilla noudattaen, mitä hallintolain 62 §:ssä säädetään. Tieto ilmoituksesta on lisäksi julkaistava sen kunnan, jonka alueelle hanke sijoittuu tai sen vaikutukset ulottuvat, verkkosivuilla noudattaen, mitä kuntalain 108 §:ssä säädetään. Ilmoitusvelvollisuudesta Lupa- ja valvontavirastolle säädetään tämän luvun 15 §:ssä.
