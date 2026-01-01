@@ -1,0 +1,3 @@
+# 5 § Perhekodin olosuhteet
+
+Perhekodin pitää olla terveydellisiltä ja muilta olosuhteiltaan siellä annettavalle hoidolle sopiva. Perhekodin sopivuutta harkittaessa on kiinnitettävä erityistä huomiota perhekodin ihmissuhteisiin, perhehoitajan mahdollisuuksiin ottaa huomioon ja vastata perhehoitoon sijoitettavan tarpeisiin hänen etunsa mukaisesti. Lisäksi on selvitettävä, hyväksyvätkö muut perhekodin jäsenet perhehoitoon sijoitettavan ja voiko perhehoitoon sijoitettava henkilö saada perhekodin muihin jäseniin nähden tasavertaisen aseman. Perhekodin tulee myös rakenteeltaan, tiloiltaan ja varustetasoltaan olla siellä annettavalle hoidolle sopiva.
