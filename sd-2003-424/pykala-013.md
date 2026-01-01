@@ -1,4 +1,6 @@
-# 13 § Kielitaidon osoittaminen yleisillä kieli- tutkinnoilla tai opintojen yhteydessä
-Luku: 3 luku Valtionhallinnon suomen ja ruotsin kielen tutkinnot
+# 13 § Kielitaidon osoittaminen yleisillä kielitutkinnoilla tai opintojen yhteydessä
+Luku: 3 luku Kielitaidon osoittaminen
 
-Valtioneuvoston asetuksella säädetään siitä, millä tavoin suomen tai ruotsin kielen taito voidaan valtionhallinnon kielitutkinnon suorittamisen sijasta osoittaa yleisistä kielitutkinnoista annetussa laissa (668/1994) tarkoitetuilla kielitutkinnoilla tai opintojen yhteydessä suoritetuilla kielikokeilla tai opinnoilla.
+Kielitaidon osoittamista varten on yleisistä kielitutkinnoista annetussa laissa (964/2004) tarkoitetut kielitutkinnot.
+
+Valtioneuvoston asetuksella säädetään siitä, millä tavoin suomen tai ruotsin kielen taito voidaan osoittaa kielitutkinnoilla tai niiden sijasta opintojen yhteydessä suoritetuilla kielikokeilla tai opinnoilla.
