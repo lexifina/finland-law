@@ -12,7 +12,7 @@ Vaaratiedotteen saa antaa:
 9) Väylävirasto;
 10) Liikenne- ja viestintävirasto;
 11) Ruokavirasto;
-12) Sosiaali- ja terveysalan lupa- ja valvontavirasto;
+12) Lupa- ja valvontavirasto;
 13) Lääkealan turvallisuus- ja kehittämiskeskus;
 14) ministeriö;
 15) Ahvenanmaan valtionvirasto;
