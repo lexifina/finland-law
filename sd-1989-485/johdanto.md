@@ -1,0 +1,2 @@
+Laki Tammisaaren saariston kansallispuistosta
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,3 @@
+# 1 c §
+
+Tammisaaren saariston kansallispuiston hoitoon ja käyttöön liittyvissä kysymyksissä voidaan Metsähallituksen avuksi asettaa kansallispuiston neuvottelukunta. Neuvottelukuntaan kuuluu enintään kymmenen jäsentä, jotka samoin kuin heidän henkilökohtaiset varajäsenensä Metsähallitus kutsuu neljäksi vuodeksi kerrallaan. Neuvottelukunnassa tulee olla ympäristöministeriön, elinvoimakeskuksen, asianomaisten kuntien, paikallisten luonnonsuojelua, riistanhoitoa, asukkaita ja elinkeinoja edustavien yhteisöjen sekä retkeilyjärjestöjen edustus. Metsähallitus toimii neuvottelukunnan asiantuntijajäsenenä.
