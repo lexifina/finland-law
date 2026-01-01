@@ -1,0 +1,2 @@
+Laki varhaiskasvatuksen asiakasmaksuista
+Eduskunnan päätöksen mukaisesti säädetään:

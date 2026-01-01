@@ -1,0 +1,7 @@
+# 17 § Viranomaisten tiedonsaantioikeus
+
+Valtion ja kunnan viranomainen sekä muu julkisoikeudellinen yhteisö, Kansaneläkelaitos, Eläketurvakeskus, eläkesäätiö ja muu eläkelaitos, vakuutuslaitos, työnantaja sekä työttömyyskassa ovat velvollisia varhaiskasvatuksen tehtäviä hoitavan viranomaisen pyynnöstä antamaan maksutta ja salassapitosäännösten estämättä kaikki hallussaan olevat palvelun käyttäjän ja hänen perheensä taloudellista asemaa koskevat maksun suuruuteen olennaisesti vaikuttavat tiedot ja selvitykset, jotka ovat viranomaiselle tässä laissa säädetyn maksun määräämiseksi tai viranomaiselle annettujen tietojen tarkistamiseksi välttämättömiä.
+
+Edellä 1 momentissa tarkoitettu velvollisuus koskee myös rahalaitosta, jos varhaiskasvatuksen tehtäviä hoitava viranomainen ei saa riittäviä tietoja ja selvityksiä edellä mainituilta tahoilta ja jos on perusteltua syytä epäillä palvelun käyttäjän tai hänen perheensä tai heidän laillisen edustajansa antamien tietojen riittävyyttä tai luotettavuutta. Pyyntö tulee esittää kirjallisena rahalaitokselle, ja pyynnön esittämistä koskevan päätöksen on oikeutettu tekemään varhaiskasvatuslain 50 §:ssä tarkoitetun toimielimen määräämä viranhaltija. Ennen kuin pyyntö tehdään rahalaitokselle, on sille, jonka tietoja pyydetään, annettava siitä tieto.
+
+Edellä 1 momentissa tarkoitettuja tietoja voidaan luovuttaa tietoon oikeutetulle teknisen käyttöyhteyden avulla. Ennen teknisen käyttöyhteyden avaamista tietoja luovuttavan on varmistuttava siitä, että tietojen suojauksesta huolehditaan asianmukaisesti.

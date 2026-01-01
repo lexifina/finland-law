@@ -1,0 +1,3 @@
+# 8 § Sisarusten maksujen määräytyminen
+
+Jos samasta perheestä on useampi kuin yksi lapsi kunnan järjestämässä varhaiskasvatuksessa, voidaan nuorimmasta kokoaikaisessa varhaiskasvatuksessa olevasta lapsesta määrätä 5 §:n mukaan määräytyvä asiakasmaksu. Ikäjärjestyksessä seuraavasta kokoaikaisessa varhaiskasvatuksessa olevasta lapsesta voidaan määrätä maksu, joka on enintään 40 prosenttia nuorimman lapsen maksusta. Kustakin seuraavasta lapsesta määrättävä maksu on enintään 20 prosenttia nuorimman lapsen maksusta. Määrättäessä perheen muiden kuin nuorimman lapsen maksua käytetään määräytymisen perustana nuorimman lapsen laskennallista kokoaikaisen varhaiskasvatuksen maksua.
