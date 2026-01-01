@@ -1,0 +1,10 @@
+# 26 a § Luopumisen kohteena olevan maatilan jakaminen
+Luku: 5 luku Eri luopumistapoja koskevat yhteiset säännökset
+
+Jos luopuja yksin tai yhdessä aviopuolisonsa kanssa omistaa maatilan yhdessä yhden tai useamman muun henkilön kanssa ja maatilaa viljellään yhdessä, maatilasta voidaan 11 §:n 2 momentissa ja 26 §:n 1 momentissa säädetyn estämättä luopua siten, että luopuminen koskee vain osaa maatilasta. Luopumistuen saamisen edellytyksenä on, että yhteisesti omistetulta maatilalta maatilalla harjoitettavasta maataloudesta saatavan tulon voidaan arvioida ylittävän 50 000 euroa vuodessa ja maatilasta voidaan muodostaa useampia toiminnallisesti itsenäisiä maatiloja siten kuin 2 momentissa säädetään. Jos mainituin tavoin muodostetun maatilan luovuttaminen täyttää muutoin 15 §:ssä tarkoitetun sukupolvenvaihdosluovutuksen edellytykset, yhteisesti omistetun ja viljellyn maatilan osan omistaneelle luopujalle ja hänen aviopuolisolleen voidaan myöntää luopumistuki.
+
+Ennen luopumista maatila voidaan jakaa siten, että siitä muodostetaan useampi maatila, jos:
+1) maatila muodostuu useammasta alun perin erillisestä maatilasta, jolla on tarpeelliset asuin- ja tuotantorakennukset; tai
+2) muodostuvien maatilojen yhdysviljely ei ole tarkoituksenmukaista ottaen huomioon tilojen omistussuhteet, niiden välinen etäisyys, tuotantosuunta tai niihin verrattavat seikat ja kullakin muodostuvalla maatilalla on tarpeelliset asuin- ja tuotantorakennukset.
+
+Edellä 1 ja 2 momentin mukaisesti muodostuneen luovutettavan maatilan tulee olla luovutuksensaajan esittämien selvitysten ja elinkeinosuunnitelman perusteella taloudellisesti elinkelpoinen siten, että luovutuksensaaja voi saada luopumista seuraavien viiden vuoden ajan kunakin vuonna tuloa maatilalla harjoitettavasta maataloudesta vähintään 25 000 euroa. Edellä 1 momentissa tarkoitetun maatilan ja luovutuksensaajalle luovutettavan maatilan maatilalla harjoitettavasta maataloudesta saatavan tulon laskemisessa ja arvioinnissa noudatetaan soveltuvin osin, mitä yritystoiminnan tulosta ja elinkeinosuunnitelman laatimisesta 15 §:n nojalla valtioneuvoston asetuksella säädetään.

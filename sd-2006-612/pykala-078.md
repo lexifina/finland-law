@@ -1,0 +1,6 @@
+# 78 § Viittaukset muuhun lainsäädäntöön
+Luku: 13 luku Erinäiset säännökset
+
+Jollei tästä laista muuta johdu, luopumistukeen sovelletaan, mitä työntekijän eläkelain 96–100 §:ssä säädetään palkkakertoimesta ja työeläkeindeksistä, 103 §:ssä eläkkeen hakemisesta toisen henkilön puolesta, 105 §:n 2 ja 4 momentissa väliaikaisen päätöksen antamisesta ja koneellisesta allekirjoittamisesta, 112 §:n 1 momentissa eläkkeen maksamisesta, 113 §:n 2 ja 3 momentissa eläkkeen maksamisen keskeyttämisestä ja eläkkeen lakkauttamisesta eläkkeensaajan todennäköisen kuoleman johdosta, 115 ja 116 §:ssä viivästyskorotuksen suorittamisesta eläkkeen maksamisen viivästymisen johdosta, 119 §:ssä, 120 §:n 2, 4 ja 5 momentissa sekä 121 ja 122 §:ssä eläkkeen maksamisesta Kansaneläkelaitokselle, työttömyyskassalle tai hyvinvointialueelle, 124 §:n 1 momentissa eläkkeen siirtämisen tai panttaamisen kiellosta, 180 §:ssä eläkelaitoksen vastuusta Eläketurvakeskuksen kustannuksista, 216 §:ssä virka-avusta ja 217 §:ssä eläkelaitoksen toimihenkilön ja hallituksen jäsenen esteellisyydestä.
+
+Jollei tästä laista muuta johdu, luopumistukeen sovelletaan myös, mitä maatalousyrittäjän eläkelain 114 ja 116–124 §:ssä, 125 §:n 2 momentissa, 126–132 ja 134 §:ssä säädetään Maatalousyrittäjien eläkelaitoksesta ja 103 §:n 1 momentissa työeläkeasioiden muutoksenhakulautakunnan jäsenten määräämisestä.

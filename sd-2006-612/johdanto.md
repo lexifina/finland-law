@@ -1,0 +1,2 @@
+Laki maatalouden harjoittamisesta luopumisen tukemisesta
+Eduskunnan päätöksen mukaisesti säädetään:

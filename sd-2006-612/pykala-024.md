@@ -1,0 +1,10 @@
+# 24 § Sukupolvenvaihdosluovutus erikseen viljeltäväksi
+Luku: 5 luku Eri luopumistapoja koskevat yhteiset säännökset
+
+Sen estämättä, mitä 23 §:ssä säädetään, 15 §:ssä, 18 §:n 3 momentissa ja 19 §:n 4 momentissa tarkoitettu sukupolvenvaihdosluovutus voi tapahtua myös siten, että luopumisen kohteena olevasta maatilasta luovutetaan erilliset maatilat 15 §:ssä säädetyt ehdot täyttäville luovutuksensaajille erikseen viljeltäviksi:
+1) jos erikseen luovutettavien maatilojen yhdysviljely ei ole tarkoituksenmukaista ottaen huomioon tilojen välinen etäisyys sekä niiden tuotantosuunta tai tuotantosuuntaan verrattavat seikat, kullakin maatilalla on sen luovutuksensaajalle tarpeelliset asuin- ja tuotantorakennukset ja kukin maatila on erikseen luovutettuna luovutuksensaajien esittämien selvitysten perusteella 15 §:ssä tarkoitetulla tavalla taloudellisesti elinkelpoinen; tai
+2) jos erikseen luovutettavilla maatiloilla on tuotantosuunta huomioon ottaen tarpeelliset tuotantorakennukset ja kultakin erikseen luovutettavalta maatilalta maatilalla harjoitettavasta maataloudesta saatavan tulon voidaan arvioida olevan viitenä luovutusta seuraavana kalenterivuotena vähintään kaksi ja puoli kertaa niin suuri kuin elinkelpoiselta maatilalta 15 §:n 1 momentin 4 kohdassa maataloudesta saatavan tulon osalta edellytetään.
+
+Edellä 1 momentin 2 kohdassa tarkoitetun maatilalla harjoitettavasta maataloudesta saatavan tulon laskemiseen ja arviointiin noudatetaan soveltuvin osin, mitä maatilan taloudellisen elinkelpoisuuden arvioinnista 15 §:n nojalla valtioneuvoston asetuksella säädetään. Edellä tarkoitetun maatilalla harjoitettavasta maataloudesta saatavan tulon vähimmäismäärästä ja maatilalla harjoitettavasta maataloudesta saatavasta tulosta tehtävistä vähimmäispoistojen määrästä säädetään tarkemmin valtioneuvoston asetuksella. Erikseen luovutettavan maatilan luovutuksensaajan on esitettävä eläkelaitokselle selvitys 1 momentin 2 kohdassa säädetyn edellytyksen täyttymisestä.
+
+Erikseen luovutettaviin maatiloihin sovelletaan myös, mitä 23 §:n 1 ja 2 momentissa säädetään.
