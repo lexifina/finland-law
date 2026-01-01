@@ -1,0 +1,2 @@
+Laki vuokra-asuntojen rakentamislainojen valtiontakauksesta
+Eduskunnan päätöksen mukaisesti säädetään:
