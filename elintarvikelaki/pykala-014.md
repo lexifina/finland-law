@@ -1,0 +1,6 @@
+# 14 § Jäljitettävyys
+Luku: 2 luku Elintarvike- ja kontaktimateriaalitoimintaa koskevat vaatimukset
+
+Elintarvikkeista, elintarviketuotantoon käytettävistä eläimistä ja elintarvikekontaktimateriaaleista on ilmoitettava vastaanottajalle elintarvikesäännöksissä edellytetyt jäljitettävyystiedot.
+
+Elintarvikealan toimijan velvollisuudesta järjestää kalastus- ja vesiviljelytuotteiden jäljitettävyys säädetään lisäksi yhteisön valvontajärjestelmästä, jonka tarkoituksena on varmistaa yhteisen kalastuspolitiikan sääntöjen noudattaminen, asetusten (EY) N:o 847/96, (EY) N:o 2371/2002, (EY) N:o 811/2004, (EY) N:o 768/2005, (EY) N:o 2115/2005, (EY) N:o 2166/2005, (EY) N:o 388/2006, (EY) N:o 509/2007, (EY) N:o 676/2007, (EY) N:o 1098/2007, (EY) N:o 1300/2008 ja (EY) N:o 1342/2008 muuttamisesta sekä asetusten (ETY) N:o 2847/93, (EY) N:o 1627/94 ja (EY) N:o 1966/2006 kumoamisesta annetun neuvoston asetuksen (EY) N:o 1224/2009 56 ja 58 artiklassa sekä velvollisuudesta antaa kuluttajille tietoja kalastus- ja vesiviljelytuotteista yhteisön valvontajärjestelmästä, jonka tarkoituksena on varmistaa yhteisen kalastuspolitiikan sääntöjen noudattaminen, annetun neuvoston asetuksen (EY) N:o 1224/2009 soveltamista koskevista yksityiskohtaisista säännöistä annetun komission täytäntöönpanoasetuksen (EU) N:o 404/2011 67 ja 68 artiklassa.

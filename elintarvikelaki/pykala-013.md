@@ -1,0 +1,4 @@
+# 13 § Rekisteröity kontaktimateriaalitoiminta
+Luku: 2 luku Elintarvike- ja kontaktimateriaalitoimintaa koskevat vaatimukset
+
+Kontaktimateriaalialan toimijan on tehtävä ilmoitus toimipaikastaan ja siellä harjoitettavasta kontaktimateriaalitoiminnasta toiminnan rekisteröintiä varten toimivaltaisen valvontaviranomaisen tarjoamaan sähköiseen palveluun tai toimitettava tiedot muulla tavoin viimeistään neljä viikkoa ennen toiminnan aloittamista tai olennaista muuttamista. Ilmoitus tehdään toimipaikan sijaintikunnalle. Toiminnan keskeyttämisestä ja lopettamisesta on viivytyksettä tehtävä ilmoitus toimipaikan sijaintikunnalle. Kunta käsittelee ilmoituksen ja tallentaa tiedot kontaktimateriaalitoiminnan rekisteröinnistä ympäristöterveydenhuollon keskitettyyn toiminnanohjaus- ja tiedonhallintajärjestelmään ja ilmoittaa toimijalle tietojen tallentamisesta sähköisesti tai muulla vastaavalla tavalla. Ruokavirasto antaa tarkemmat määräykset tietojen tallentamisesta.
