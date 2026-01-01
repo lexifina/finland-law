@@ -9,4 +9,4 @@ Alue, jolla 7 §:ssä tarkoitetun arvioinnin perusteella todetaan mahdollinen me
 
 Tulvariskin merkittävyyttä arvioitaessa otetaan huomioon myös alueelliset ja paikalliset olosuhteet.
 
-Maa- ja metsätalousministeriö nimeää vesistöalueen ja merenrannikon merkittävät tulvariskialueet elinkeino-, liikenne- ja ympäristökeskuksen ehdotuksesta. Ministeriön päätökseen ei saa hakea erikseen muutosta valittamalla.
+Maa- ja metsätalousministeriö nimeää vesistöalueen ja merenrannikon merkittävät tulvariskialueet elinvoimakeskuksen ehdotuksesta. Ministeriön päätökseen ei saa hakea erikseen muutosta valittamalla.

@@ -2,6 +2,6 @@
 
 Maa- ja metsätalousministeriö hyväksyy vesistöalueiden ja merenrannikon tulvariskien hallintasuunnitelmat.
 
-Maa- ja metsätalousministeriö toimittaa päätöksen hallintasuunnitelmien hyväksymisestä sähköisesti suunnitelmassa tarkoitetun vesistöalueen ja merenrannikon elinkeino-, liikenne- ja ympäristökeskukselle.
+Maa- ja metsätalousministeriö toimittaa päätöksen hallintasuunnitelmien hyväksymisestä sähköisesti suunnitelmassa tarkoitetun vesistöalueen ja merenrannikon elinvoimakeskukselle.
 
-Elinkeino-, liikenne- ja ympäristökeskus antaa maa- ja metsätalousministeriön päätöksen tiedoksi julkisella kuulutuksella. Julkisesta kuulutuksesta säädetään hallintolaissa. Tieto kuulutuksesta on julkaistava elinkeino-, liikenne- ja ympäristökeskuksen toimialueen asianomaisissa kunnissa. Kunnan ilmoituksista säädetään kuntalain 108 §:ssä. Elinkeino-, liikenne- ja ympäristökeskus toimittaa lisäksi päätöksen sähköisesti niille viranomaisille, joita asian käsittelyn aikaisemmissa vaiheissa on kuultu.
+Elinvoimakeskus antaa maa- ja metsätalousministeriön päätöksen tiedoksi julkisella kuulutuksella. Julkisesta kuulutuksesta säädetään hallintolaissa. Tieto kuulutuksesta on julkaistava elinvoimakeskuksen toimialueen asianomaisissa kunnissa. Kunnan ilmoituksista säädetään kuntalain 108 §:ssä. Elinvoimakeskus toimittaa lisäksi päätöksen sähköisesti niille viranomaisille, joita asian käsittelyn aikaisemmissa vaiheissa on kuultu.
