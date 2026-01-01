@@ -1,0 +1,8 @@
+# 13 §
+Väliotsikko: Erinäiset säännökset
+
+Verovelvollisen on salassapitosäännösten estämättä annettava Verohallinnolle tarpeelliset tiedot kulutukseen luovutettujen tupakkatuotteiden määristä ja hintaluokista 2 momentissa tarkoitetun vähittäismyyntihinnan painotetun keskiarvon vahvistamista varten. Lisäksi verovelvollisen on salassapitosäännösten estämättä annettava Verohallinnolle tarpeelliset tiedot Euroopan komissiolle toimitettavia tupakkatuotteiden tilastotietoja varten. Verohallinto antaa tarkemmat määräykset tietojen sisällöstä sekä toimittamistavasta ja -ajankohdasta.
+
+Verohallinto vahvistaa savukkeiden ja savukkeiksi käärittävän hienoksi leikatun tupakan vähittäismyyntihinnan painotetun keskiarvon. Savukkeiden vähittäismyyntihinnan painotettu keskiarvo lasketaan jakamalla kaikkien kulutukseen luovutettujen savukkeiden kokonaisarvo, joka perustuu kaikki verot sisältävään vähittäismyyntihintaan, kulutukseen luovutettujen savukkeiden kokonaismäärällä. Savukkeiksi käärittävän hienoksi leikatun tupakan vähittäismyyntihinnan painotettu keskiarvo lasketaan vastaavalla tavalla. Vähittäismyyntihinnan painotettu keskiarvo on vahvistettava viimeistään kunkin vuoden maaliskuun 1 päivänä edeltävänä kalenterivuonna tehtyjä kulutukseen luovutuksia koskevien tietojen perusteella.
+
+Verohallinnon on annettava verovelvolliselle tiedonantovelvollisuutta koskeva päätös, jos tämä kieltäytyy antamasta sellaisia 1 momentissa tarkoitettuja tietoja, jotka Verohallinto on kehottanut antamaan. Päätöksen tiedoksiantoon sovelletaan, mitä oma-aloitteisten verojen verotusmenettelystä annetun lain 56 §:ssä säädetään. Tiedonantovelvollisuuden laiminlyönnin seuraamuksesta säädetään oma-aloitteisten verojen verotusmenettelystä annetun lain 39 §:ssä.
