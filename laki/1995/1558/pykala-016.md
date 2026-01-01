@@ -1,7 +1,7 @@
 # 16 § Meno- ja vähennystietoja koskeva sivullisen yleinen tiedonantovelvollisuus
 Luku: 3 luku Sivullisen tiedonantovelvollisuus
 
-Työmarkkinajärjestön ja työttömyyskassan on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot verotuksessa vähennyskelpoisista jäsenmaksuista ja työttömyyskassamaksuista.
+Työttömyyskassan on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot verotuksessa vähennyskelpoisista työttömyyskassamaksuista.
 
 Vakuutuslaitoksen, eläkesäätiön ja muun eläkelaitoksen sekä ulkomaisen vakuutus- tai eläkelaitoksen Suomessa olevan edustajan tai välittäjän on toimitettava Verohallinnolle tiedot verovelvollisen maksamista eläkevakuutuksen maksuista. Lisäksi vakuutuslaitoksen ja ulkomaisen vakuutuslaitoksen Suomessa olevan edustajan tai välittäjän on toimitettava Verohallinnolle verotusta varten tarpeelliset tiedot maatalousyrittäjän eläkelain (1280/2006) 1 a §:ssä tarkoitetun apurahansaajan maksamasta pakollisesta ryhmähenkivakuutusmaksusta sekä maatalousyrittäjien tapaturmavakuutuslain (1026/1981) ja maatalousyrittäjän työtapaturma- ja ammattitautilain (873/2015) mukaisesta tapaturmavakuutusmaksusta. Vastaava selvitys on annettava myös verovelvolliselle.
 
