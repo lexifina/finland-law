@@ -1,4 +1,4 @@
-# 27 § Elinkeino-, liikenne- ja ympäristökeskus
+# 27 § Elinvoimakeskus
 Luku: 4 luku Viranomaiset ja niiden tehtävät
 
-Elinkeino-, liikenne- ja ympäristökeskukset valvovat Ruokaviraston ohella rehuja omalla toimialueellaan.
+Elinvoimakeskukset valvovat Ruokaviraston ohella rehuja omalla toimialueellaan.
