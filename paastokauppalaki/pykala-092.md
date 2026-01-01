@@ -1,7 +1,7 @@
 # 92 § Päästöoikeuden ylitysmaksu
 Luku: 16 luku Valvonta ja seuraamukset
 
-Energiaviraston on määrättävä toiminnanharjoittaja maksamaan valtiolle päästöoikeuden ylitysmaksu, jos toiminnanharjoittaja ei palauta syyskuun loppuun mennessä edellisen kalenterivuoden päästöjään vastaavaa määrää päästöoikeuksia.
+Energiaviraston on määrättävä toiminnanharjoittaja maksamaan päästöoikeuden ylitysmaksu, jos toiminnanharjoittaja ei palauta syyskuun loppuun mennessä edellisen kalenterivuoden päästöjään vastaavaa määrää päästöoikeuksia.
 
 Liikenne- ja viestintäviraston on määrättävä ilma-aluksen käyttäjä tai laivayhtiö maksamaan valtiolle päästöoikeuden ylitysmaksu, jos ilma-aluksen käyttäjä tai laivayhtiö ei palauta syyskuun loppuun mennessä edellisen kalenterivuoden päästöjään vastaavaa määrää päästöoikeuksia.
 
