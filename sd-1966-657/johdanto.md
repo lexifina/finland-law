@@ -1,0 +1,2 @@
+Laki maatilatalouden kehittämisrahastosta
+Eduskunnan päätöksen mukaisesti säädetään:
