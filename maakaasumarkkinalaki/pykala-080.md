@@ -1,0 +1,9 @@
+# 80 § Maakaasun jakelun tai maakaasun toimituksen keskeyttäminen loppukäyttäjästä johtuvasta syystä
+Osa: VI OSA MAAKAASUSOPIMUKSET
+Luku: 14 luku Maakaasusopimuksia koskevat säännökset
+
+Maakaasun jakelu tai maakaasun toimitus voidaan keskeyttää, jos loppukäyttäjä huomautuksesta huolimatta laiminlyö jakeluverkonhaltijalle tai vähittäismyyjälle tulevien maksujen suorittamisen tai muuten olennaisesti rikkoo sopimuksen ehtoja. Ennen maakaasun jakelun tai maakaasun toimituksen keskeyttämistä loppukäyttäjälle on lähetettävä kirjallinen huomautus maksun laiminlyönnistä tai muusta sopimusrikkomuksesta sekä aikaisintaan kahden viikon kuluttua huomautuksen lähettämisestä erillinen katkaisuvaroitus. Kuluttajalle lähettävässä katkaisuvaroituksessa on mainittava, miten kuluttajan on meneteltävä, jotta hän voi vedota tässä pykälässä mainittuihin oikeuksiin sekä ohjattava kuluttajaa asian selvittämisessä ja maksuvaihtoehtojen löytämisessä. Maakaasun jakelun ja maakaasun toimituksen saa katkaista aikaisintaan viiden viikon kuluttua siitä, kun maksu on erääntynyt tai muusta sopimusrikkomuksesta on ensimmäisen kerran ilmoitettu loppukäyttäjälle eikä sopimusrikkomusta ole oikaistu ajoissa ennen varoitettua katkaisuajankohtaa.
+
+Jos maksun laiminlyönti on johtunut kuluttajan maksuvaikeuksista, joihin hän on joutunut vakavan sairauden, työttömyyden tai muun erityisen seikan vuoksi pääasiassa ilman omaa syytään, maakaasun jakelun tai maakaasun toimituksen saa keskeyttää aikaisintaan 60 päivän kuluttua maksun eräpäivästä.
+
+Maakaasun jakelua tai maakaasun toimitusta ei voida kuitenkaan maksujen laiminlyönnin vuoksi keskeyttää vakituisena asuntona käytettävästä rakennuksesta tai sen osasta, jonka lämmitys on riippuvainen maakaasusta, lokakuun alun ja huhtikuun lopun välisenä aikana ennen kuin on kulunut 120 päivää laiminlyödyn maksun eräpäivästä. Tämän momentin säännöksistä ei saa sopimuksin poiketa loppukäyttäjän vahingoksi.

@@ -1,0 +1,5 @@
+# 84 § Virhe
+Osa: VI OSA MAAKAASUSOPIMUKSET
+Luku: 14 luku Maakaasusopimuksia koskevat säännökset
+
+Maakaasun jakelussa ja muussa verkkopalvelussa sekä maakaasun toimituksessa on virhe, jos maakaasun laatu tai toimitustapa ei vastaa sitä, mitä voidaan katsoa sovitun, tai kuluttajan laskutus on virheellinen tai viivästynyt. Maakaasun toimituksessa ei kuitenkaan katsota olevan virhettä, vaikka vähittäismyyjän laskutus on virheellinen tai viivästynyt, jos vähittäismyyjä osoittaa, että virheellisyys tai viivästys on johtunut hänen vaikutusmahdollisuuksiensa ulkopuolella olevasta tekijästä, jonka seurauksia hän ei kohtuudella olisi voinut välttää tai estää. Jollei paremmasta maakaasun laadusta ole sovittu, maakaasun jakelussa ja muussa verkkopalvelussa sekä maakaasun toimituksessa on virhe, jos maakaasu ei laadultaan vastaa Suomessa yleisesti noudatettavia eurooppalaisia standardeja taikka jos maakaasun jakelu tai maakaasun toimitus on yhtäjaksoisesti tai toistuvasti keskeytynyt eikä keskeytystä voida pitää keskeytyksen syy ja olosuhteet huomioon ottaen vähäisenä.

@@ -1,0 +1,2 @@
+Maakaasumarkkinalaki
+Eduskunnan päätöksen mukaisesti säädetään:

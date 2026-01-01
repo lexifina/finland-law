@@ -1,0 +1,13 @@
+# 58 c § Loppukäyttäjään yhdistettävissä olevan tiedon luovuttaminen
+Osa: V OSA MAAKAASUMARKKINOIDEN TOIMIJOIDEN VELVOLLISUUDET
+Luku: 12 luku Maakaasumarkkinoiden toimijoiden velvollisuudet maakaasujärjestelmässä
+
+Maakaasualan yrityksellä on oltava loppukäyttäjän nimenomainen suostumus luovuttaa toiselle loppukäyttäjään yhdistettävissä oleva mittaus- tai kulutustieto, joka koskee loppukäyttäjän maakaasunkäyttöä, sekä muu tieto, jota loppukäyttäjä tarvitsee maakaasun toimittajan vaihtamiseen, jos se on saanut mainitun tiedon haltuunsa suorittaessaan tai täyttäessään tässä laissa säädettyjä maakaasukaupan keskitetyn tiedonvaihdon palveluihin, maakaasukaupan markkinaprosesseihin, tasevastuun täyttämiseen tai taseselvitykseen liittyviä tehtäviään tai velvoitteitaan. Tiedon saa kuitenkin luovuttaa ilman loppukäyttäjän suostumusta, jos luovutus:
+1) on tarpeen tiedon luovuttajan tässä tai muussa laissa säädetyn velvollisuuden täyttämiseksi;
+2) on tarpeen tiedon vastaanottajan tässä tai muussa laissa säädetyn tiedonsaantioikeuden täyttämiseksi;
+3) on tarpeen maakaasualan yrityksen ja loppukäyttäjän välisen sopimuksen täyttämiseksi, maakaasualan yrityksen ja loppukäyttäjän väliseen sopimukseen perustuvan asiakassuhteen hoitamisessa tai maakaasualan yrityksen ja loppukäyttäjän väliseen asiakassuhteeseen liittyvän tässä tai muussa laissa säädetyn velvoitteen täyttämiseksi;
+4) koskee tietoa maakaasun siirron, jakelun tai toimituksen keskeyttämisestä ja on tarpeen rakennuksen tai sen osan tai siinä olevan omaisuuden suojelemiseksi keskeytyksestä aiheutuvilta vahingoilta tai tällaisen vahingon selvittämiseksi ja luovutettavan tiedon vastaanottajana on rakennuksen tai sen osan omistaja tai haltija taikka rakennusta koskevan liittymissopimuksen osapuoli;
+5) tapahtuu maakaasukaupan keskitetyn tiedonvaihdon yksiköstä Tilastokeskukselle ja on tarpeen Tilastokeskuksen lakisääteisten tehtävien suorittamiseksi;
+6) tapahtuu maakaasukaupan keskitetyn tiedonvaihdon yksiköstä ja on tarpeen yleistä energiamarkkinoihin tai energian käyttöön liittyvää tieteellistä tutkimusta tai yleistä energiamarkkinoihin tai energian käyttöön liittyvää päätöksentekoa palvelevaa viranomaisselvitystä varten.
+
+Maakaasukaupan keskitetyn tiedonvaihdon yksikkö ei saa luovuttaa 1 momentin 6 kohdassa tarkoitetussa tilanteessa sellaisia tietoja, joiden perusteella loppukäyttäjä ja tämän sopimuspuoli voidaan tunnistaa suoraan. Yksikkö saa tällöin kuitenkin antaa käyttöoikeuden tietoihin, joiden perusteella loppukäyttäjä voidaan tunnistaa välillisesti. Luovutettuja tai käyttöoikeuden kautta saatuja tietoja ei saa luovuttaa edelleen, ellei maakaasukaupan keskitetyn tiedonvaihdon yksikkö anna siihen lupaa.
