@@ -1,0 +1,2 @@
+Laki talouspolitiikan arviointineuvostosta
+Eduskunnan päätöksen mukaisesti säädetään:
