@@ -1,7 +1,7 @@
 # 25 § Muutoksenhaku
 Luku: 6 luku Erinäiset säännökset
 
-Tässä laissa tarkoitettuun päätökseen saa vaatia oikaisua aluehallintovirastolta 14 päivän kuluessa päätöksen tiedoksisaannista, jos päätös koskee:
+Tässä laissa tarkoitettuun päätökseen saa vaatia oikaisua Lupa- ja valvontavirastolta 14 päivän kuluessa päätöksen tiedoksisaannista, jos päätös koskee:
 1) 10 §:ssä tarkoitettua opiskelijaksi ottamista;
 2) 11 §:ssä tarkoitettua lisäajan myöntämistä opintojen loppuun saattamiseksi;
 3) 17 §:ssä tarkoitettua opiskelijan oikeutta väliaikaisesti keskeyttää opintonsa;
