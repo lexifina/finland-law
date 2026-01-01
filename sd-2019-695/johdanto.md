@@ -1,0 +1,2 @@
+Laki korkeakouluopiskelijoiden opiskeluterveydenhuollosta
+Eduskunnan päätöksen mukaisesti säädetään:

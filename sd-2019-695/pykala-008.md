@@ -1,0 +1,8 @@
+# 8 § Opiskeluterveydenhuollon palvelujen tuottaminen
+Luku: 1 luku Yleiset säännökset
+
+Ylioppilaiden terveydenhoitosäätiö tuottaa korkeakouluopiskelijoiden opiskeluterveydenhuollon palvelut valtakunnallisesti.
+
+Ylioppilaiden terveydenhoitosäätiön on korkeakouluopiskelijoiden opiskeluterveydenhuollon palveluja tuottaessaan toimittava yhteistyössä korkeakoulujen, Kansaneläkelaitoksen, opiskelijoiden sekä muiden tarvittavien tahojen kanssa.
+
+Ylioppilaiden terveydenhoitosäätiön on tuotettava opiskeluterveydenhuollon palvelut pääosin omana toimintanaan. Jos tämän lain mukaista tuottamisvelvollisuutta ei voida muuten toteuttaa, Ylioppilaiden terveydenhoitosäätiö voi hankkia omaa toimintaansa täydentäviä opiskeluterveydenhuollon palveluja muulta palveluntuottajalta noudattaen julkisista hankinnoista ja käyttöoikeussopimuksista annettua lakia (1397/2016). Ylioppilaiden terveydenhoitosäätiö vastaa alihankkijan yksittäiselle opiskelijalle antamasta palvelusta ja on kokonaisvastuussa yksittäisen opiskelijan saamista opiskeluterveydenhuollon palveluista.

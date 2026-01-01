@@ -1,0 +1,6 @@
+# 6 § Opiskeluterveydenhuollon järjestäminen
+Luku: 1 luku Yleiset säännökset
+
+Kansaneläkelaitos vastaa korkeakouluopiskelijoiden opiskeluterveydenhuollon järjestämisestä valtakunnallisesti.
+
+Kansaneläkelaitoksen on korkeakouluopiskelijoiden opiskeluterveydenhuoltoa järjestäessään toimittava yhteistyössä korkeakoulujen, Ylioppilaiden terveydenhoitosäätiön, opiskelijoiden edustajien sekä muiden tarvittavien tahojen kanssa.

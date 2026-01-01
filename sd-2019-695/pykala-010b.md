@@ -1,0 +1,16 @@
+# 10 b § Hoitoon pääsy suun terveydenhuollossa
+Luku: 1 luku Yleiset säännökset
+
+Poiketen siitä, mitä 10 a §:ssä säädetään, 10 §:ssä tarkoitetussa arviossa, joka koskee suun terveydenhuoltoa, hammaslääketieteellisesti tarpeelliseksi todettu tutkimus tai tarpeelliseksi todetun hoidon ensimmäinen tutkimus- tai hoitotapahtuma on järjestettävä opiskelijan terveydentila ja sairauden ennakoitavissa oleva kehitys huomioon ottaen kohtuullisessa ajassa, kuitenkin kuuden kuukauden kuluessa siitä, kun 10 §:ssä tarkoitettu arvio on tehty.
+
+Toiminta on lisäksi järjestettävä siten, että jos opiskelija on 10 §:ssä tarkoitetun arvion perusteella ohjattu muulle suun terveydenhuollon ammattihenkilölle kuin hammaslääkärille ja ammattihenkilö toteaa tarpeen hammaslääkärin tutkimukselle tai hoidolle, myös pääsy hammaslääkärille järjestyy 1 momentissa säädetyn ajan kuluessa 10 §:ssä tarkoitetusta arviosta.
+
+Jos suun terveydenhuollon ammattihenkilö toteaa tarpeen opiskeluterveydenhuollossa toimivan erikoishammaslääkärin tutkimukselle tai hoidolle, pääsy erikoishammaslääkärille on järjestettävä kohtuullisessa ajassa, kuitenkin kuuden kuukauden kuluessa siitä, kun kyseinen ammattihenkilö on todennut palvelun tarpeen.
+
+Poiketen siitä, mitä 1–3 momentissa säädetään, 1 momentissa tarkoitettu tutkimus taikka ensimmäinen tutkimus- tai hoitotapahtuma on järjestettävä 10 §:ssä tarkoitetun yhteydenoton ajankohtana alle 23-vuotiaille opiskelijoille potilaan terveydentila ja sairauden ennakoitavissa oleva kehitys huomioon ottaen kohtuullisessa ajassa, kuitenkin kolmen kuukauden kuluessa siitä, kun 10 §:ssä tarkoitettu arvio on tehty. Jos opiskelija on tällaisessa tilanteessa 10 §:ssä tarkoitetun arvion perusteella ohjattu muulle suun terveydenhuollon ammattihenkilölle kuin hammaslääkärille ja ammattihenkilö toteaa tarpeen hammaslääkärin tutkimukselle tai hoidolle, pääsy hammaslääkärille on järjestettävä neljän viikon kuluessa palvelun tarpeen toteamisesta tai kolmen kuukauden kuluessa 10 §:ssä tarkoitetusta arviosta. Jos suun terveydenhuollon ammattihenkilö toteaa alle 23-vuotiaalla opiskelijalla tarpeen opiskeluterveydenhuollossa toimivan erikoishammaslääkärin tutkimukselle tai hoidolle, pääsy erikoishammaslääkärille on järjestettävä kohtuullisessa ajassa, kuitenkin kolmen kuukauden kuluessa siitä, kun kyseinen ammattihenkilö on todennut palvelun tarpeen.
+
+Hoitojakso tulee saattaa valmiiksi kohtuullisessa ajassa ilman tarpeetonta viivytystä hoitokäyntien välillä. Hoitosuunnitelmaan tulee kirjata hammaslääketieteellinen perustelu hoidon jaksottamiselle.
+
+Edellä 1 ja 4 momentissa säädettyä ei sovelleta tilanteessa, jossa opiskelijalle on määritelty yksilöllinen tutkimus- tai hoitoväli. Tutkimus tai hoito tulee järjestää hoitosuunnitelmaan kirjatun tutkimus- tai hoitovälin mukaisesti, jollei 10 §:ssä tarkoitetussa arviossa tule esille seikkoja, joiden perusteella yksilöllisestä tutkimus- tai hoitovälistä tulee tai voidaan poiketa.
+
+Jos opiskeluterveydenhuoltoon kuuluvan suun määräaikaisen terveystarkastuksen suorittaa muu suun terveydenhuollon ammattihenkilö kuin hammaslääkäri ja ammattihenkilö toteaa tarpeen hammaslääkärin tutkimukselle tai hoidolle, pääsy hammaslääkärille on järjestettävä neljän viikon kuluessa palvelun tarpeen toteamisesta. Hoitoon sovelletaan lisäksi 3 ja 5 momenttia sekä erikoishammaslääkärille pääsyn osalta 4 momenttia.
