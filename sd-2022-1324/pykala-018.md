@@ -1,7 +1,7 @@
 # 18 § Tekninen apu
 Luku: 4 luku Erinäiset säännökset
 
-Teknistä apua voidaan käyttää suunnitelma-asetuksen 125 artiklan mukaisiin toimiin maa- ja metsätalousministeriössä, Ruokavirastossa, maaseutuverkostossa sekä elinkeino-, liikenne ja ympäristökeskuksissa.
+Teknistä apua voidaan käyttää suunnitelma-asetuksen 125 artiklan mukaisiin toimiin maa- ja metsätalousministeriössä, Ruokavirastossa, maaseutuverkostossa sekä elinvoimakeskuksissa.
 
 Ruokavirasto valmistelee teknisen avun käyttösuunnitelman, seuraa sen kokonaiskäyttöä ja laatii teknistä apua koskevat selvitykset. Maa- ja metsätalousministeriö vahvistaa käyttösuunnitelman.
 
