@@ -1,0 +1,6 @@
+# 4 a § Rautatieinfrastruktuurin kehittämissuunnitelma
+Luku: 1 luku Yleiset säännökset
+
+Liikenne- ja viestintäministeriö laatii yhteistyössä rautatiealan toimijoiden kanssa rautatieinfrastruktuurin pitkän aikavälin kehittämissuunnitelman. Suunnitelma voi olla osa yleistä kaikkien kulkumuotojen liikenneinfrastruktuuria kattavaa suunnitelmaa. Suunnitelmaan on sisällytettävä rautatieinfrastruktuurin rahoitus- ja investointiohjelma vähintään kahdeksalle vuodelle. Rahoitus- ja investointiohjelmaa on tarkistettava kunkin hallituskauden alussa osana muuta liikennepoliittista strategia- ja suunnittelutyötä.
+
+Jos rautatieinfrastruktuurin kehittämissuunnitelman mukaisesta rautatieinfrastruktuurin rahoitus- ja investointiohjelmasta osoitetaan valtion vuotuiseen talousarvioon kuuluvaa rahoitusta valtion rataverkon lisäksi myös muun rautatiejärjestelmän kehittämiseen, ministeriön on tehtävä kyseisen rautatiejärjestelmän osan hallinnasta vastaavan rataverkon haltijan kanssa sopimus, joka täyttää yhtenäisestä eurooppalaisesta rautatiealueesta annetun Euroopan parlamentin ja neuvoston direktiivin 2012/34/EU liitteen V periaatteet. Ministeriön on varmistettava, että raideliikennelaissa (1302/2018) tarkoitetut ratakapasiteetin hakijat voivat esittää näkemyksensä sopimuksesta ennen sen allekirjoittamista.

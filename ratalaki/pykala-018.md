@@ -1,0 +1,10 @@
+# 18 § Tasoristeysten poistaminen
+Luku: 2 luku Rautatien suunnittelu
+
+Tie- ja rautatieliikenteen turvallisuuden parantamiseksi tai rautatieliikenteen tehostamiseksi voidaan ratasuunnitelmassa osoittaa tasoristeys poistettavaksi tai tasoristeyksiä järjesteltäviksi sekä osoittaa tasoristeykselle käyttörajoituksia tai tasoristeysten turvallisuuteen liittyviä järjestelmiä ja laitteita. Jos ratasuunnitelmassa osoitetaan tasoristeys poistettavaksi, on uuden kulkuyhteyden järjestäminen osoitettava ratasuunnitelmassa. Rataverkon haltija tekee tarvittavan uuden tien ja tasoristeyksen tai hankkii oikeuden ennestään olevaan tiehen.
+
+Rataverkon haltija voi poistaa ratasuunnitelmassa poistettavaksi osoitetun yksityisen tien tasoristeyksen, kun hyväksytty ja suunnitelman mukainen korvaava kulkuyhteys on järjestetty.
+
+Rataverkon haltija poistaa asemakaavan vastaisen tasoristeyksen, kun hyväksytty korvaava kulkuyhteys on rakennettu ja kadunpitopäätös tehty. Jos kyseistä tasoristeystä käytetään yleisesti liikenteeseen, tulee rataverkon haltijan ilmoittaa tasoristeyksen poistamisesta etukäteen kuuluttamalla.
+
+Jos yksityisen tien tasoristeyksen käytöstä aiheutuu välitöntä vaaraa tie- tai rautatieliikenteen turvallisuudelle, Väylävirasto voi päätöksellään määrätä tienpitäjän tekemään tasoristeykseen tai sille johtavalle tienosalle vaaran välttämiseksi tarpeelliset muutokset taikka määrätä tasoristeys suljettavaksi, poistettavaksi tai siirrettäväksi taikka määrätä rajoituksia tasoristeyksen ajoneuvoliikenteelle. Väyläviraston tulee ilmoittaa tässä momentissa tarkoitetusta muutoksesta hyvissä ajoin etukäteen tienpitäjälle. Jos tämä laiminlyö päätöksessä määrätyt velvoitteensa, Väylävirasto voi suorittaa tai teettää tarvittavat toimenpiteet tienpitäjän kustannuksella sekä tieliikennelain (267/1981) 51 §:n 2 momentissa säädetyn estämättä asettaa tielle tasoristeyksen liikennettä rajoittavan liikenteen ohjauslaitteen. Tasoristeyksen muutoksesta, siirtämisestä tai poistamisesta johtuvat tarpeelliset korvaavat kulkuyhteydet järjestetään ja niitä koskevat korvausasiat käsitellään yksityistietoimituksessa, jota Väyläviraston on haettava päätöksen annettuaan.

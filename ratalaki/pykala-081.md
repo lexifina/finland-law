@@ -1,0 +1,4 @@
+# 81 § Lakkautetun ja luovutettavan rautatiealueen rakenteet ja laitteet
+Luku: 6 luku Rautatien ja sen liitännäisalueen lakkauttaminen
+
+Ratasuunnitelmassa on osoitettava, tarvitaanko aluetta tiealueeksi, museorautatieksi tai muuhun tarkoitukseen ja kuuluuko alueeseen erityistä hoitoa vaativia rakenteita tai laitteita. Jos näin on, alue on jätettävä sellaiseksi, ettei sen käyttö mainittuun tarkoitukseen vaikeudu. Jos edellä tarkoitettua käyttöä ei ole, ratasuunnitelmassa on tarvittaessa osoitettava toimenpiteet, jotka ovat tarpeen entisen rautatiealueen palauttamiseksi ennalleen. Väylävirasto poistaa rautatiealueelle radanpitoa varten rakennetut tai sijoitetut rakenteet ja laitteet ja tekee mahdolliset ennallistamistoimenpiteet kahden vuoden kuluessa rautatien lakkauttamista koskevan päätöksen voimaantulosta, jollei luovutuksensaajan kanssa sovita toisin.

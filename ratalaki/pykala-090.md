@@ -1,0 +1,6 @@
+# 90 § Päätösten tiedoksi antaminen ja tiedoksisaanti
+Luku: 7 luku Erinäiset säännökset
+
+Liikenne- ja viestintävirasto toimittaa yleissuunnitelman ja ratasuunnitelman hyväksymistä sekä niiden voimassaoloajan pidentämistä koskevan päätöksen rataverkon haltijalle. Yleissuunnitelman tai ratasuunnitelman hyväksymistä sekä niiden voimassaoloajan pidentämistä koskeva päätös on annettava yleisesti tiedoksi julkisella kuulutuksella. Julkisesta kuulutuksesta säädetään hallintolaissa. Kuulutus sekä päätös ja sen perusteena olevat asiakirjat on pidettävä kuitenkin nähtävillä vähintään muutoksenhaulle säädetyn ajan. Valtion rataverkkoa koskevan päätöksen nähtäväksi asettamisesta ja kuuluttamisesta vastaa Väylävirasto. Yksityisraidetta koskevan päätöksen nähtäväksi asettamisesta ja kuuluttamisesta vastaa Liikenne- ja viestintävirasto. Tieto kuulutuksesta on julkaistava viipymättä niissä kunnissa, joiden alueelle suunnitelma sijoittuu. Kunnan ilmoituksista säädetään kuntalain 108 §:ssä.
+
+Merkitykseltään vähäinen ratasuunnitelman hyväksymispäätös voidaan antaa tiedoksi todisteellisesti. Todisteellisesta tiedoksiannosta säädetään hallintolaissa. Päätösten sähköisestä tiedoksi antamisesta säädetään sähköisestä asioinnista viranomaistoiminnassa annetussa laissa (13/2003).

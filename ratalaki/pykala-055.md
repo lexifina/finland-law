@@ -1,0 +1,4 @@
+# 55 § Tilusjärjestelyjen korvaukset
+Luku: 5 luku Alueiden hankkiminen ja korvaukset
+
+Tilusjärjestelyssä arvioidaan kiinteistöstä toiseen siirtyvä alue erikseen luovuttavan ja vastaanottavan kiinteistön kannalta. Jos nämä arvot eroavat toisistaan, on erotus määrättävä rataverkon haltijan korvattavaksi, jollei 69 §:n 2 momentista muuta johdu.

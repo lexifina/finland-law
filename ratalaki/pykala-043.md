@@ -1,0 +1,10 @@
+# 43 § Ratatoimitus
+Luku: 5 luku Alueiden hankkiminen ja korvaukset
+
+Radanpidon tarpeisiin tarvittavat alueet ja oikeudet lunastetaan sekä tasoristeyksiin liittyvät oikeudet muutetaan ratatoimituksessa. Lunastamisessa ja tasoristeyksiin liittyvien oikeuksien muuttamisessa noudatetaan, mitä kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetussa laissa (603/1977), jäljempänä lunastuslaki, säädetään, jollei tästä laista muuta johdu. Ratatoimituksessa havaitun virheen korjaamisesta, virheen oikaisemisesta ja toimituksen tai päätöksen purkamista koskevasta esityksestä on soveltuvin osin voimassa, mitä kiinteistönmuodostamislaissa (554/1995) säädetään kiinteistötoimituksesta.
+
+Ratatoimitus voidaan suorittaa ilman uskottuja miehiä, jos kukaan ratatoimituksen asianosaisista ei vaadi uskottujen miesten paikalla oloa eikä toimituksessa ole kysymys korvauksista.
+
+Tasoristeysten lakkauttamista koskeva asia voidaan rataverkon haltijan hakemuksesta käsitellä myös yksityistietoimituksessa siten kuin yksityistielaissa säädetään.
+
+Jos rautatien kunnossapito tai parantaminen on muuttanut rautatiealueen ulottuvuutta, eikä muutoksia ole käsitelty kiinteistötoimituksessa, voidaan niiden selvittämiseksi suorittaa ratatoimitus ilman ratasuunnitelmaa. Tällainen toimitus voi koskea vain sellaisia rautatiealueen muutoksia, jotka ovat tapahtuneet ennen vuotta 2007. Toimituksen hakijana voi olla Väylävirasto tai kiinteistönomistaja, jonka aluetta muutos koskee. Jos muutosten johdosta rautatiealue on leventynyt yli sille aikaisemmin määrätyn rajan, määrätään tässä toimituksessa rautatiealueelle uusi raja tarvittaessa Väyläviraston osoituksen mukaan ja syntynyt lisäalue siirtyy Väyläviraston omistukseen toimituksen saatua lainvoiman. Toimituksessa käsitellään korvaukset rautatiealueen leventymisen tai muun muuttumisen johdosta aiheutuneista menetyksistä sekä muut tarpeelliset asiat. Korko korvauksille lasketaan jäljempänä 69 §:ssä säädetyn mukaisesti ratatoimituksen päättymisajankohdasta lukien ja korvauksen arvohetki määräytyy jäljempänä 67 §:n mukaisesti.

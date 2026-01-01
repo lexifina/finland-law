@@ -1,0 +1,8 @@
+# 57 § Lunastuksen laajentaminen
+Luku: 5 luku Alueiden hankkiminen ja korvaukset
+
+Jos rautatiealueen aiheuttaman tilusten pirstoutumisen, tilusalan vähenemisen, tieoikeuksiin liittyvien muutosten, 37 tai 38 §:n mukaisen kiellon johdosta taikka muusta sellaisesta syystä aiheutuu huomattavaa haittaa kiinteistön tai sen osan käyttämiselle eikä haittaa voida poistaa tai olennaisesti vähentää tilusjärjestelyillä, kiinteistön omistajalla on oikeus vaatia, jos tämä ei halua saada korvausta haitastaan, että rataverkon haltija lunastaa kiinteistön tai sen osan. Jos rautatien rakentamisesta muutoin aiheutuu kiinteistön tai sen osan käyttämiselle huomattavaa vahinkoa tai haittaa, on kiinteistön omistajalla oikeus vaatia korvauksen sijasta rataverkon haltijaa lunastamaan kiinteistö tai sen osa. Rataverkon haltijalla on oikeus lunastaa kiinteistö tai sen osa, jos haitan korvaus tai vahingonkorvaus olisi huomattavan suuri kiinteistön tai sen osan arvoon verrattuna.
+
+Ratasuunnitelmassa voidaan osoittaa rataverkon haltijalle oikeus lunastaa kiinteistö tai sen osa, jos kustannukset radasta kiinteistölle tai sen osalle aiheutuvien haitallisten vaikutusten poistamiseksi tai vähentämiseksi taikka uuden kulkuyhteyden järjestämiseksi rautatien katkaiseman kulkuyhteyden sijaan olisivat huomattavan suuret kiinteistön tai sen osan arvoon verrattuna. Ratasuunnitelmasta tulee tällöin käydä ilmi haitallisten vaikutusten poistamisen tai vähentämisen taikka uuden kulkuyhteyden järjestämisen kustannusten suhde kiinteistön tai sen osan arvoon verrattuna.
+
+Kiinteistöistä tai niiden osista, jotka lunastetaan 1 tai 2 momentin nojalla, voidaan muodostaa yksi tai useampi rautatiealueesta erillinen lunastusyksikkö noudattaen, mitä lunastuslain 49 a §:n 1 momentissa säädetään.
