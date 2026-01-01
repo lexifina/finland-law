@@ -1,4 +1,4 @@
-# 29 § Toimivaltainen elinkeino-, liikenne- ja ympäristökeskus
+# 29 § Toimivaltainen elinvoimakeskus
 Luku: 7 luku Erinäiset säännökset
 
-Tässä laissa tarkoitettuja elinkeino-, liikenne- ja ympäristökeskukselle säädettyjä tehtäviä hoitaa se elinkeino-, liikenne- ja ympäristökeskus, jonka toimialueella tuettava toimenpide pääosin toteutetaan tai jonka alueella hakijan toimipaikka sijaitsee, jollei elinkeino-, liikenne- ja ympäristökeskuksista annetun lain (897/2009) 5 §:n nojalla elinkeino-, liikenne- ja ympäristökeskuksen toimivallasta muuta säädetä.
+Tässä laissa tarkoitettuja elinvoimakeskukselle säädettyjä tehtäviä hoitaa se elinvoimakeskus, jonka toimialueella tuettava toimenpide pääosin toteutetaan tai jonka alueella hakijan toimipaikka sijaitsee, jollei elinvoimakeskuksista sekä Työllisyys-, kehittämis- ja hallintokeskuksesta annetun lain (531/2025) 4 §:n nojalla elinvoimakeskusten toimivallasta muuta säädetä.
