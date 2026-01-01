@@ -1,7 +1,7 @@
 # 1 § Virka-asemaan perustuva kaupanvahvistajan tehtävä
 
 Kaupanvahvistajia ovat:
-1) henkikirjoittajat, julkiset notaarit, poliisipäälliköt, apulaispoliisipäälliköt, johtavat kihlakunnanvoudit, kihlakunnanvoudit ja maakunnanvouti sekä elinkeino-, liikenne- ja ympäristökeskuksen maanmittausinsinöörit;
+1) henkikirjoittajat, julkiset notaarit, poliisipäälliköt, apulaispoliisipäälliköt, johtavat kihlakunnanvoudit, kihlakunnanvoudit ja maakunnanvouti sekä elinvoimakeskuksen maanmittausinsinöörit;
 2) Maanmittauslaitoksen virkamiehet ja kunnan viranhaltijat, jotka voivat kiinteistönmuodostamislain (554/1995) 5 §:n mukaan toimia toimitusinsinööreinä;
 3) konsulipalvelulain (498/1999) 33 §:ssä tarkoitetut ulkomaanedustustossa palvelevat virkamiehet ja työntekijät.
 
