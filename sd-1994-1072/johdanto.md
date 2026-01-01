@@ -1,0 +1,2 @@
+Laki asumisoikeusyhdistyksistä
+Eduskunnan päätöksen mukaisesti säädetään:
