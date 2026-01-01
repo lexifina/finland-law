@@ -1,0 +1,3 @@
+# 5 d § Finanssitilitietojen raportointi sovellettaessa Euroopan unionin Andorran, Liechtensteinin, Monacon, San Marinon ja Sveitsin kanssa finanssitilitietojen vaihdosta tekemiä sopimuksia
+
+Mitä 5 b §:ssä säädetään, on noudatettava myös sovellettaessa niitä sopimuksia, jotka Euroopan unioni on tehnyt Andorran kanssa Brysselissä 12 päivänä helmikuuta 2016, Liechtensteinin kanssa Strasbourgissa 28 päivänä lokakuuta 2016, Monacon kanssa Brysselissä 12 päivänä heinäkuuta 2016, San Marinon kanssa Brysselissä 8 päivänä joulukuuta 2015 ja Sveitsin kanssa Brysselissä 27 päivänä toukokuuta 2015 finanssitilitietojen vaihdosta kansainvälisten verosääntöjen noudattamisen parantamiseksi.
