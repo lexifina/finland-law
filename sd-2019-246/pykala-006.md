@@ -1,6 +1,6 @@
 # 6 § Valtionavustuksen myöntämisen edellytykset
 
-Pirkanmaan elinkeino-, liikenne- ja ympäristökeskus voi myöntää avustusta 2 §:ssä säädettyyn tarkoitukseen, jos:
+Lupa- ja valvontavirasto voi myöntää avustusta 2 §:ssä säädettyyn tarkoitukseen, jos:
 1) pilaantumisen aiheuttajaa ei saada selville tai aiheuttajaa ei tavoiteta, taikka pilaantumisen aiheuttaja ei kykene vastaamaan toimen kustannuksista; ja
 2) alueen pilaantuneisuuden selvittäminen tai puhdistaminen on muulle kuin aiheuttajalle ilmeisen kohtuutonta.
 
