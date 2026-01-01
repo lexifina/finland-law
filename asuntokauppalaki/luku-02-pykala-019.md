@@ -1,0 +1,10 @@
+# 19 § Vakuusjärjestelyt perustajaosakkaan suorituskyvyttömyyden varalta
+Luku: 2 luku Ostajan suojaaminen rakentamisvaiheessa
+
+Perustajaosakas on velvollinen huolehtimaan siitä, että ennen asunto-osakkeiden ostettavaksi tarjoamisen alkamista osakeyhtiön ja asunto-osakkeen ostajien hyväksi otetaan hänen suorituskyvyttömyytensä varalta tarkoitukseen soveltuva vakuutus tai annetaan pankkitakaus tai Kilpailu- ja kuluttajaviraston vahvistamat ehdot täyttävä muu takaus tämän pykälän mukaisesti. Vakuutuksen tai takauksen on oltava voimassa, kunnes kymmenen vuotta on kulunut siitä, kun rakennusvalvontaviranomainen hyväksyi kyseisen rakennuksen käyttöönotettavaksi. Jos valtion tai kunnan viranomainen on perustajaosakkaana, se ei kuitenkaan ole velvollinen järjestämään vakuutta suorituskyvyttömyytensä varalta.
+
+Edellä 1 momentissa tarkoitetun vakuuden antaja vastaa osakeyhtiölle ja osakkeenostajille kustannuksista, joista perustajaosakas tämän lain tai sopimuksen perusteella on vastuussa ja jotka ovat tarpeellisia osakeyhtiön asuin-, säilytys- tai huoltorakennuksessa ilmenevän 4 luvun 14 §:n 2–5 kohdassa tarkoitetun rakennusvirheen selvittämiseksi sekä virheen ja siitä rakennukselle aiheutuneiden vahinkojen korjaamiseksi. Lisäksi vakuuden antaja vastaa osakkeenostajan ja hänen perheenjäsentensä tarpeellisista ylimääräisistä asumiskuluista siltä ajalta, jona asuntoa ei voida virheen tai vahingon taikka niiden korjaamisen takia käyttää. Vakuuden antajan vastuun rajoittamisesta säädetään 19 a ja 19 b §:ssä.
+
+Jos virheen tai vahingon korjaamisesta aiheutuisi kohtuuttomia kustannuksia verrattuna virheen tai vahingon merkitykseen osakeyhtiölle ja osakkeenostajille, vakuuden antaja saa korjauskustannusten sijasta suorittaa virheen tai vahingon merkitystä vastaavan korvauksen.
+
+Jos vakuus ei riitä kaikkien osakeyhtiölle ja osakkeenostajille kuuluvien korvausten kattamiseen, vakuuden määrä jaetaan yhtiön ja osakkeenostajien kesken korvaussaatavien mukaisessa suhteessa. Vakuudesta suoritettuja korvauksia ei voida vaatia takaisin.

@@ -1,0 +1,10 @@
+# 17 § Vakuus rakentamista ja asunto-osakkeiden kauppaa koskevien sopimusten täyttämisestä
+Luku: 2 luku Ostajan suojaaminen rakentamisvaiheessa
+
+Perustajaosakas on velvollinen huolehtimaan siitä, että rakentamista koskevan sopimuksen ja asunto-osakkeiden kauppaa koskevien sopimusten täyttämisestä asetetaan osakeyhtiön ja osakkeenostajien hyväksi vakuus tämän pykälän mukaisesti. Vakuuden on oltava pankkitalletus, pankkitakaus tai tarkoitukseen soveltuva vakuutus, ja sen on oltava voimassa myös yhtiön taloussuunnitelman mukaisen taloudellisen aseman turvaamiseksi. Osaomistusyhtiön perustajaosakkaan velvollisuudesta asettaa vakuus säädetään 18 b §:ssä.
+
+Rakentamisvaiheen vakuuden on asunto-osakkeiden ostettavaksi tarjoamisen alkaessa oltava määrältään vähintään viisi prosenttia yhtiön taloussuunnitelmaan merkityistä rakennuskustannuksista. Valtioneuvoston asetuksella annetaan tarkemmat säännökset siitä, mitkä rakennuskustannukset on merkittävä taloussuunnitelmaan. Rakentamisvaiheen vakuuden on kulloinkin vastattava vähintään kymmentä prosenttia myytyjen osakkeiden kauppahintojen yhteismäärästä. Vakuuden on oltava voimassa, kunnes se vapautetaan, kuitenkin vähintään kolme kuukautta sen jälkeen, kun rakennusvalvontaviranomainen on hyväksynyt kyseisen rakennuksen käyttöönotettavaksi.
+
+Rakentamisvaiheen vakuuden lakatessa tilalle on asetettava rakentamisvaiheen jälkeinen vakuus, jonka on vastattava vähintään kahta prosenttia myytyjen osakkeiden kauppahintojen yhteismäärästä. Vakuuden on oltava voimassa, kunnes se vapautetaan, kuitenkin vähintään 15 kuukautta sen jälkeen, kun rakennusvalvontaviranomainen on hyväksynyt kyseisen rakennuksen käyttöönotettavaksi. Velvollisuus tämän momentin mukaisen vakuuden asettamiseen päättyy, kun 15 kuukautta on kulunut siitä, kun rakennusvalvontaviranomainen hyväksyi kyseisen rakennuksen käyttöönotettavaksi.
+
+Jos asunto-osakkeiden kauppahinta on vähemmän kuin 70 prosenttia velattomasta hinnasta, kauppahintana 2 ja 3 momentin mukaista vakuutta laskettaessa pidetään rahamäärää, joka vastaa 70 prosenttia myytyjen osakkeiden velattomasta hinnasta.

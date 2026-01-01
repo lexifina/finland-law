@@ -1,0 +1,4 @@
+# 18 a § Vakuuden vapautuminen ilman suostumuksia
+Luku: 2 luku Ostajan suojaaminen rakentamisvaiheessa
+
+Vakuus vapautuu viimeistään 12 kuukauden kuluttua yhtiön kaikkien rakennusten vuositarkastuksen pitämisestä, jos yhtiölle on valittu 23 §:ssä tarkoitettu hallitus. Vakuus ei kuitenkaan vapaudu, jos yhtiö tai asunto-osakkeen ostaja vastustaa vakuuden vapautumista ja saattaa asian hakemuksella kuluttajavalituslautakunnan tai tuomioistuimen käsiteltäväksi. Vapautumista vastustavan on ilmoitettava vastustuksestaan vakuuden antajalle tai sille talletuspankille, joka on vakuudeksi vastaanottanut pankkitalletuksen, sekä toimitettava vakuuden antajalle tai talletuspankille kuluttajavalituslautakunnan tai käräjäoikeuden antama todistus asian vireille saattamisesta ennen edellä säädetyn määräajan päättymistä uhalla, että vakuus muuten vapautuu.

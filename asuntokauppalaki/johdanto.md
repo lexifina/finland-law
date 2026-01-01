@@ -1,0 +1,2 @@
+Asuntokauppalaki
+Eduskunnan päätöksen mukaisesti säädetään:

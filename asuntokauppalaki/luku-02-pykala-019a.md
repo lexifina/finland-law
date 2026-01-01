@@ -1,0 +1,6 @@
+# 19 a § Suorituskyvyttömyysvakuuden antajan vastuunrajoitukset
+Luku: 2 luku Ostajan suojaaminen rakentamisvaiheessa
+
+Edellä 19 §:ssä tarkoitetun vakuuden antaja ei vastaa kustannuksista, joiden kattamiseen muut osakeyhtiön ja osakkeenostajien hyväksi asetetut vakuudet riittävät. Vakuuden antaja ei myöskään vastaa sellaisten virheiden kustannuksista, jotka olisi pitänyt havaita viimeistään 4 luvun 18 §:ssä tarkoitetussa vuositarkastuksessa tai, jos vuositarkastusta ei määräajassa toimiteta, sen toimittamiselle säädetyn ajan päättyessä. Sopimukseen perustuvasta perustajaosakkaan vastuusta vakuuden antaja ei vastaa siltä osin kuin perustajaosakas on sitoutunut voimassa olevan oikeuden mukaista laajempaan vastuuseen.
+
+Vakuuden antaja saa rajoittaa vastuunsa osakkeenostajan ja hänen perheenjäsenensä asumiskuluista siten, että vakuudesta korvataan tarpeelliset ylimääräiset kulut enintään kuuden kuukauden ajalta. Vastuunsa kokonaismäärän vakuuden antaja saa rajoittaa siten, että se on vakuuden koko voimassaoloajalta 25 prosenttia 17 §:n 2 momentissa tarkoitetuista rakennuskustannuksista. Vakuuden antajan vastuun enimmäismäärää saadaan tarkistaa kalenterivuosittain Tilastokeskuksen rakennuskustannusindeksin (2000=100) talotyyppi-indeksin asuinkerrostalo muutosta vastaavasti.

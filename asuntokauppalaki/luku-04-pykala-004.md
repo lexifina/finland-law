@@ -1,0 +1,9 @@
+# 4 § Asunnon hallinnan ja osakekirjan tai muun asiakirjan luovutus sekä suostumuksen antaminen kirjaamiseen
+Luku: 4 luku Uuden asunnon kauppa
+Väliotsikko: Hallinnan ja asiakirjojen luovutus, kustannusten jako ja vaaranvastuu uuden asunnon kaupassa
+
+Jos asunnon hallinnan luovutuksen ajankohtaa ei ole sovittu, hallinnan luovutuksen tulee tapahtua kohtuullisessa ajassa kaupanteosta. Kohtuullisen ajan pituutta arvioitaessa on otettava huomioon vastaavanlaisen asunnon valmistumisen tavanomaisesti edellyttämä aika sekä muut seikat.
+
+Jollei toisin ole sovittu, myyjä ei ole velvollinen luovuttamaan asunnon hallintaa, ennen kuin kauppahinta maksetaan, tai 29 §:n 3 momentissa tarkoitetun erän osalta, ennen kuin se talletetaan mainitun momentin mukaisesti. Kauppahintaan rinnastetaan sellaiset ostajan velvoitteet, jotka perustuvat myyjän kanssa tehtyyn sopimukseen lisä- tai muutostöiden tekemisestä ja jotka on sovittu maksettaviksi viimeistään samana ajankohtana kuin kauppahinta. Myyjän on kuitenkin luovutettava asunnon hallinta ostajalle, jos lisä- tai muutostöitä ei ole myyjän sopimusrikkomuksen vuoksi suoritettu loppuun silloin, kun kauppahinta pitäisi maksaa.
+
+Ostajan oikeudesta saada osakekirja tai osuuskirja hallintaansa turva-asiakirjojen säilyttäjältä rakentamisvaiheen päätyttyä ja ostajan saannon kirjaamisesta osakehuoneistorekisteriin säädetään 2 luvun 6 §:ssä ja 6 a §:ssä. Muissa tapauksissa myyjän on, jollei toisin ole sovittu, luovutettava osakekirja tai muut asunnon omistus- tai hallintaoikeutta osoittavat asiakirjat ostajalle taikka annettava suostumus ostajan saannon kirjaamiseen osakehuoneistorekisteriin samalla, kun asunnon hallinta luovutetaan. Suostumus, joka tarvitaan ostajan saannon kirjaamiseen osakehuoneistorekisteriin ehdollisena, on annettava, jollei toisin ole sovittu, heti kaupanteon jälkeen.
