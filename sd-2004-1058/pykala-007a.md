@@ -1,0 +1,4 @@
+# 7 a § Euroopan unionin yhteistä etua koskevat energiahankkeet
+Luku: 3 luku Talousvyöhykkeen taloudellinen hyödyntäminen ja siihen tähtäävä tutkimus sekä rakentaminen talousvyöhykkeellä
+
+Jos Euroopan laajuisten energiainfrastruktuurien suuntaviivoista, asetusten (EY) N:o 715/2009, (EU) 2019/942 ja (EU) 2019/943 ja direktiivien 2009/73/EY ja (EU) 2019/944 muuttamisesta ja asetuksen (EU) N:o 347/2013 kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2022/869 tarkoitettu yhteistä etua koskeva energiahanke edellyttää 6 tai 7 §:n mukaista valtioneuvoston suostumusta, suostumuksen käsittelyyn tutkimusta varten annettavaa suostumusta lukuun ottamatta sovelletaan 6 tai 7 §:n lisäksi mainittua Euroopan parlamentin ja neuvoston asetusta sekä Euroopan unionin yhteistä etua koskevien energiahankkeiden lupamenettelystä annettua lakia (684/2014).
