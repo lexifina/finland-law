@@ -1,0 +1,7 @@
+# 18 § Henkilösuojaustehtävä
+
+Turvallisuusjohtaja voi asettaa henkilösuojaukseen erityisen koulutuksen saaneen turvahenkilön suojaamaan erityistä suojelua tarvitsevan kansanedustajan tai eduskunnan vieraan turvallisuutta. Eduskunnan turvallisuusjohtaja ilmoittaa henkilösuojaustehtävästä poliisille.
+
+Turvahenkilöllä on henkilösuojaustehtävää hoitaessaan oikeus poistaa suojattavan läheisyydestä henkilö, jos hänen uhkaustensa tai muun käyttäytymisensä perusteella on perusteltua syytä olettaa tai hänen aikaisemman käyttäytymisensä perusteella on todennäköistä, että hän syyllistyisi suojattavan henkeen, terveyteen, vapauteen tai omaisuuteen kohdistuvaan rikokseen. Henkilö voidaan ottaa kiinni, jos hänen poistamisensa suojattavan läheisyydestä on todennäköisesti riittämätön toimenpide rikoksen estämiseksi. Kiinniotettu on viipymättä luovutettava poliisille.
+
+Henkilösuojaustehtävään määrätyllä on oikeus jo aloitetun tai välittömästi odotettavissa olevan, suojattavana olevan henkilön henkeen, ruumiilliseen koskemattomuuteen, vapauteen, omaisuuteen tai kotirauhaan kohdistuvan hyökkäyksen torjumiseksi käyttää sellaisia voimakeinoja, joita voidaan pitää kokonaisuutena arvioiden puolustettavina, kun otetaan huomioon suojattavan turvallisuus ja vastarinnan vaarallisuus. Voimakeinoja saa käyttää vain siinä määrin ja siihen saakka kuin se on välttämätöntä hyökkäyksen torjumiseksi. Henkilösuojaustehtävään määrätty turvahenkilö ilmoittaa voimakeinojen käytöstä viipymättä poliisille.

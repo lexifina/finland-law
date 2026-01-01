@@ -1,0 +1,9 @@
+# 19 § Voimankäyttö
+
+Turvahenkilöllä on tehtäväänsä hoitaessaan oikeus henkilön tarkastamiseksi, kielletyn valmisteen pois ottamiseksi, henkilön turvatoimialueelle tai tilapäiselle turvatoimialueelle pääsyn estämiseksi, henkilön poistamiseksi alueelta tai suojattavan henkilön läheisyydestä ja henkilön kiinni ottamiseksi, kiinniotetun pakenemisen estämiseksi sekä miehittämättömän ilma-aluksen kulkuun puuttumiseksi tai sen haltuun ottamiseksi tarvittaessa käyttää sellaisia voimakeinoja, joita henkilön käyttäytyminen ja muut olosuhteet huomioon ottaen voidaan pitää puolustettavina. Puolustettavuutta arvioitaessa on otettava huomioon tilanteen uhkaavuus, vastarinnan vaarallisuus sekä muut tilanteen kokonaisarvioon vaikuttavat seikat. Voimakeinojen käytön liioittelusta säädetään rikoslain (39/1889) 4 luvun 6 §:n 3 momentissa ja 7 §:ssä.
+
+Turvahenkilön voimankäyttövälineitä ovat ampuma-aselain (1/1998) 11 §:ssä tarkoitettu kaasusumutin sekä käsiraudat, enintään 70 senttimetriä pitkä patukka, teleskooppipatukka, paineilmatoiminen projektiililaukaisin ja etälamautin. Turvahenkilön tulee kantaa voimankäyttövälineitä mahdollisimman huomaamattomasti. Turvautuessaan voimakeinoihin turvahenkilö saa käyttää vain niitä voimankäyttövälineitä, joiden käyttöön hän on saanut välinekohtaisen koulutuksen.
+
+Henkilösuojaustehtävään määrätyn voimankäyttövälineisiin voi lisäksi kuulua ampuma-aselain 2 §:ssä tarkoitettu ampuma-ase. Ampuma-asetta saa kantaa ainoastaan ampuma-asekoulutuksen saanut turvahenkilö, joka osoittaa vuosittain, että hänellä on riittävä ampuma-aseen käsittely- ja ampumistaito.
+
+Turvahenkilöllä on virkatehtävissään lisäksi oikeus hätävarjeluun siten kuin rikoslain 4 luvun 4 §:ssä säädetään. Turvahenkilö toimii tällöinkin virkavastuulla. Hätävarjelun puolustettavuutta arvioitaessa on otettava huomioon turvahenkilölle koulutuksensa ja kokemuksensa perusteella asetettavat vaatimukset.

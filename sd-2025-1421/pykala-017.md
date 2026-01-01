@@ -1,0 +1,9 @@
+# 17 § Miehittämättömän ilma-aluksen kulkuun puuttuminen
+
+Turvahenkilö saa estää ilmailulain (864/2014) 2 §:n 21 kohdassa tarkoitetun miehittämättömän ilma-aluksen käytön ja puuttua muutoin sen kulkuun sekä ottaa sen haltuun, jos tällainen ilma-alus on oikeudetta sellaisella turvatoimialueen vyöhykkeellä, jolla miehittämättömällä ilma-aluksella harjoitettava toiminta on kielletty tai sitä on rajoitettu ilmailulain 11 tai 11 a §:n nojalla.
+
+Miehittämättömän ilma-aluksen kulkuun puututtaessa tai sitä haltuun otettaessa turvahenkilö saa lyhytaikaisesti käyttää radiolaitetta tai muuta teknistä laitetta, josta ei aiheudu vähäistä suurempaa haittaa muulle radioviestinnälle taikka yleisen viestintäverkon laitteille tai palveluille. Laitetta saa käyttää, jos se on puolustettavaa huomioon ottaen tehtävän tärkeys ja kiireellisyys, miehittämättömän ilma-aluksen toiminnan vaarallisuus, käytettävissä olevat voimavarat sekä muut tilanteen kokonaisarviointiin liittyvät seikat. Laitetta saa käyttää vain siinä määrin ja siihen saakka kuin se on välttämättä tarpeen tehtävän suorittamiseksi. Toimivaltuuksia käyttävällä turvahenkilöllä on oltava tehtävään nähden riittävä osaaminen ja koulutus. Radiolaitteen käyttämisestä ilmoitetaan Liikenne- ja viestintävirastolle.
+
+Turvahenkilöllä on oikeus käsitellä miehittämättömän ilma-aluksen käyttöön liittyvää radioviestintää, välitystietoja ja sijaintitietoja 1 momentissa tarkoitetun miehittämättömän ilma-aluksen kulkuun puuttumiseksi tai ilma-aluksen tai sen kokonaisjärjestelmän osan yksilöimiseksi ja sijainnin määrittämiseksi. Tiedot radioviestinnästä, välitystiedot ja sijaintitiedot on hävitettävä viipymättä tehtävän suorittamisen jälkeen, jollei muualla laissa toisin säädetä.
+
+Haltuun otettu miehittämätön ilma-alus on luovutettava poliisille ilman aiheetonta viivytystä.
