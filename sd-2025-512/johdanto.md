@@ -1,0 +1,2 @@
+Laki Saavutettavuuskirjasto Celian palveluista
+Eduskunnan päätöksen mukaisesti säädetään:
