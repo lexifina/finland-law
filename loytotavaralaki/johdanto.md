@@ -1,0 +1,2 @@
+Löytötavaralaki
+Eduskunnan päätöksen mukaisesti säädetään:
