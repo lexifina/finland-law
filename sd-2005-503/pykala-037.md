@@ -1,0 +1,10 @@
+# 37 § Liittyminen maantiehen
+Luku: 3 luku Maantien kunnossapito, väliaikaiset liikennejärjestelyt sekä liittymät ja maantiehen kohdistuvat muut toimenpiteet
+
+Edellä 24 §:n 1 momentissa tarkoitetun kiellon tai määräyksen estämättä elinvoimakeskus voi antaa luvan yksityisen tien liittämiseen kiellon alaiseen maantiehen taikka kielletyn liittymän käyttämiseen tai liittymän käyttötarkoituksen muuttamiseen, jos kiinteistön tarkoituksenmukainen käyttö sitä vaatii eikä liittymästä ja sen käyttämisestä aiheudu vaaraa liikenneturvallisuudelle. Jos kiinteistölle on tarpeen maatalousliittymä, on lupa sen tekemiseksi tässä momentissa tarkoitettuun tiehen myönnettävä, jos liittymä ja sen sijainti ovat sellaiset, ettei liikenneturvallisuus sen takia vaarannu. Lupaan voidaan liittää tarpeellisia ehtoja.
+
+Lupa yksityisen tien liittämiseksi muuhun kuin 1 momentissa tarkoitettuun maantiehen on myönnettävä, jos liittymä on tarpeen kiinteistön käyttämiseksi ja liittymä sekä sen sijainti ovat sellaiset, ettei liikenneturvallisuus liittymän eikä sen käyttämisen takia vaarannu. Lupaan voidaan liittää tarpeellisia ehtoja. Tässä momentissa tarkoitettuun tiehen saa tehdä elinvoimakeskuksen ohjeiden mukaan maatalousliittymän, jollei siitä aiheudu vaaraa liikenneturvallisuudelle. Tällaisen maatalousliittymän tekemisestä on hyvissä ajoin ennen toimenpiteeseen ryhtymistä ilmoitettava elinvoimakeskukselle.
+
+Jos maastoliikennelaissa (1710/1995) tarkoitetun moottorikelkkailureitin tai muun sitä vastaavan kulkuyhteyden perustamiseksi on maantien ylittämistä varten järjestettävä tiealueelle ylityskohta, elinvoimakeskus myöntää luvan toimenpiteen suorittamiseen, jos ylityskohdasta ei aiheudu vaaraa liikenneturvallisuudelle eikä haittaa tienpidolle. Lupaan voidaan liittää tarpeellisia ehtoja.
+
+Mitä 1–3 momentissa säädetään, ei koske moottori- eikä moottoriliikenneteitä eikä 4 §:n 3 momentissa tarkoitettuja runkoverkkoon kuuluvia maanteitä, joille pääsystä voidaan määrätä vain tiesuunnitelmassa. Erityisistä syistä elinvoimakeskus voi myöntää runkoverkkoon kuuluvaan maantiehen 1 momentin mukaisen liittymäluvan tai 3 momentin mukaisen luvan ylityskohdan järjestämiseksi.

@@ -1,0 +1,8 @@
+# 4 a § Esitys maantien toiminnallisesta luokasta
+Luku: 1 luku Yleiset säännökset
+
+Väylävirasto tekee Liikenne- ja viestintävirastolle esityksen maantien kuulumisesta valta- tai kantateihin, valta- tai kantatien muuttamisesta seutu- tai yhdystieksi ja usean elinvoimakeskuksen aluetta koskevan toiminnallista luokkaa koskevan esityksen. Elinvoimakeskus tekee esityksen maantien kuulumisesta seutu- tai yhdysteihin.
+
+Edellä 1 momentissa tarkoitetun esityksen tekemisestä vastaavan on varattava mahdollisuus osallistua esityksen valmisteluun muulle 11 §:ssä tarkoitetulle tienpidosta vastaavalle viranomaiselle, jota asia koskee, sekä niille kunnille ja maakunnan liitoille, joiden alueelle maantie sijoittuu. Ennen esityksen hyväksymistä esityksen tekemisestä vastaavan on pyydettävä lausunto mainituilta kunnilta ja maakuntien liitoilta sekä varattava mahdollisuus mielipiteiden esittämiseen. Esitys on tässä tarkoituksessa annettava tiedoksi julkisella kuulutuksella. Julkisesta kuulutuksesta säädetään hallintolaissa (434/2003). Kuulutus ja esitys on kuitenkin pidettävä nähtävillä yhtäjaksoisesti 30 päivän ajan. Tieto kuulutuksesta on julkaistava viipymättä niissä kunnissa, joiden alueelle maantie sijoittuu. Kunnan ilmoituksista säädetään kuntalain (410/2015) 108 §:ssä.
+
+Edellä 1 momentissa tarkoitettu esitys voidaan valmistella osana tiesuunnitelmaa. Tällöin noudatetaan, mitä 2 luvussa säädetään tiesuunnitelman laatimisesta. Kun esitys valmistellaan osana tiesuunnitelmaa, esityksen maantien toiminnallisesta luokasta tekee 1 momentissa säädetystä poiketen se taho, joka vastaa tiesuunnitelman laatimisesta 15 f §:n mukaan.

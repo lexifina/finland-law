@@ -1,0 +1,8 @@
+# 67 § Lunastuksen laajentaminen
+Luku: 5 luku Alueiden hankkiminen ja korvaukset
+
+Jos maantien aiheuttaman tilusten pirstoutumisen, tilusalan vähenemisen tai 44 ja 45 §:n mukaisen kiellon johdosta taikka muusta sellaisesta syystä aiheutuu huomattavaa haittaa kiinteistön tai sen osan käyttämiselle eikä haittaa voida poistaa tai olennaisesti vähentää tilusjärjestelyillä, kiinteistön omistajalla on oikeus vaatia, jos tämä ei halua saada korvausta haitastaan, että tienpitäjä lunastaa kiinteistön tai sen osan. Jos maantien rakentamisesta muutoin aiheutuu kiinteistön tai sen osan käyttämiselle huomattavaa vahinkoa tai haittaa, on kiinteistön omistajalla oikeus korvauksen sijasta vaatia tienpitäjää lunastamaan kiinteistö tai sen osa. Tienpitäjällä on oikeus lunastaa kiinteistö tai sen osa, jos tässä momentissa tarkoitettu haitan- tai vahingonkorvaus olisi huomattavan suuri kiinteistön tai sen osan arvoon verrattuna.
+
+Tiesuunnitelmassa voidaan osoittaa tienpitäjälle oikeus lunastaa kiinteistö tai sen osa, jos kustannukset maantiestä kiinteistölle tai sen osalle aiheutuvien haitallisten vaikutusten poistamiseksi tai vähentämiseksi taikka uuden kulkuyhteyden järjestämiseksi maantien katkaiseman kulkuyhteyden sijaan olisivat huomattavan suuret kiinteistön tai sen osan arvoon verrattuna. Tiesuunnitelmasta tulee tällöin käydä ilmi haitallisten vaikutusten poistamisen tai vähentämisen taikka uuden kulkuyhteyden järjestämisen kustannusten suhde kiinteistön tai sen osan arvoon verrattuna.
+
+Kiinteistöistä tai niiden osista, jotka lunastetaan 1 tai 2 momentin nojalla, muodostetaan yksi tai useampi tiealueesta erillinen lunastusyksikkö noudattaen, mitä lunastuslain 49 a §:n 1 momentissa säädetään.

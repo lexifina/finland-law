@@ -1,0 +1,8 @@
+# 15 d § Menettely suunnitelmia valmisteltaessa
+Luku: 1 a luku Liikennejärjestelmäsuunnittelu
+
+Liikenne- ja viestintäministeriön on valmisteltava valtakunnallinen liikennejärjestelmäsuunnitelma yhteistyössä suunnitelman kannalta keskeisten ministeriöiden, viranomaisten ja muiden toimijoiden kanssa. Suunnitelmaluonnoksesta on pyydettävä lausunto niiltä ministeriöiltä, viranomaisilta, maakuntien liitoilta ja muilta toimijoilta, joiden toimialaan tai tehtäviin suunnitelma olennaisesti liittyy.
+
+Liikenne- ja viestintäviraston ja Väyläviraston on osallistuttava valtakunnalliseen liikennejärjestelmäsuunnitteluun siten kuin laissa erikseen säädetään. Liikenne- ja viestintävirasto osallistuu liikennejärjestelmäsuunnitteluun ja toimenpiteiden suunnitteluun liikenteen palveluiden, markkinoiden toimivuuden, tiedon hyödyntämisen ja automaation edistämisen asiantuntijana. Väylävirasto osallistuu liikennejärjestelmäsuunnitteluun ja liikenneverkkojen toimenpiteiden valmisteluun sekä maankäytön yhteistyöhön väylänpidon asiantuntijana ja väyläomaisuuden haltijana.
+
+Suunnitelman valmistelusta vastaavan on varattava muillekin kuin 1 ja 2 momentissa tarkoitetuille tahoille mahdollisuus tutustua mainituissa lainkohdissa tarkoitettuihin suunnitelmaluonnoksiin sekä esittää niistä mielipiteensä. Mahdollisuus varataan tiedottamalla asiasta ja julkaisemalla suunnitelmaluonnos yleisessä tietoverkossa. Mielipiteiden esittämiselle on varattava aikaa vähintään 30 päivää. Hyväksytystä suunnitelmasta perusteluineen sekä siitä, miten lausunnot ja mielipiteet on otettu huomioon, on tiedotettava yleisessä tietoverkossa.

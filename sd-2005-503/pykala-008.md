@@ -1,0 +1,6 @@
+# 8 § Maantiehen kuuluvat palvelualueet
+Luku: 1 luku Yleiset säännökset
+
+Edellä 5 §:n 1 momentin 1 kohdassa tarkoitetulle pysäköintialueelle saadaan sijoittaa laitteita, rakennelmia ja rakennuksia kioskimyymälää varten sekä levähdysalueille myös kahvilaa, ravintolaa, polttoaineenjakelua, moottoriajoneuvojen huoltoa ja muuta tienkäyttäjien palvelua varten. Sen lisäksi, mitä rakentamislaissa (751/2023) säädetään, laitteiden, rakennelmien ja rakennusten sijoittamiseen vaaditaan elinvoimakeskuksen suostumus.
+
+Maantiehen kuuluville palvelualueille tulevien laitteiden, rakennelmien ja rakennusten sijoittamiseksi on elinvoimakeskuksen tehtävä tarvittaessa sopimus alueen käyttämisestä, rakentamisesta, tiedon tuottamisesta, liiketoiminnan harjoittamisesta ja valtiolle mahdollisesti tulevasta korvauksesta. Sopimuksen tekemiseksi on elinvoimakeskuksen pyydettävä tarjouksia luotettavilta, vakavaraisilta ja ammattitaitoisilta yrittäjiltä. Sopimus on tehtävä sen yrittäjän kanssa, joka asetetussa määräajassa on antanut liikenteen ja matkailun vaatimukset sekä alueen käyttötarkoituksen edellyttämä palvelutaso huomioon ottaen kokonaistaloudellisesti edullisimman tarjouksen. Sopimusta ei saa siirtää toiselle ilman elinvoimakeskuksen suostumusta.

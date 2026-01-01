@@ -1,0 +1,10 @@
+# 27 § Suunnitelmien nähtäville asettaminen ja muistutusten tekeminen
+Luku: 2 luku Maantien suunnittelu
+
+Yleissuunnitelmaa ja tiesuunnitelmaa laadittaessa elinvoimakeskuksen on varattava kunnalle, kiinteistön omistajille ja muille asianosaisille sekä niille, joiden asumiseen, työntekoon tai muihin oloihin suunnitelma saattaa vaikuttaa, mahdollisuus osallistua suunnitelman valmisteluun, arvioida suunnitelman vaikutuksia ja lausua kirjallisesti tai suullisesti mielipiteensä asiassa.
+
+Ennen suunnitelman hyväksymistä elinvoimakeskuksen on varattava 1 momentissa tarkoitetuille tahoille tilaisuus muistutuksen tekemiseen suunnitelmasta. Tässä tarkoituksessa on elinvoimakeskuksen asetettava yleissuunnitelma ja tiesuunnitelma nähtäville julkisella kuulutuksella. Julkisesta kuulutuksesta säädetään hallintolaissa. Kuulutus ja suunnitelma on kuitenkin pidettävä nähtävillä yhtäjaksoisesti 30 päivän ajan.
+
+Tieto kuulutuksesta on julkaistava viipymättä niissä kunnissa, joiden alueelle suunnitelma sijoittuu. Kunnan ilmoituksista säädetään kuntalain 108 §:ssä. Elinvoimakeskuksen on lisäksi ilmoitettava suunnitelman nähtäväksi asettamisesta tavallisella tiedoksiannolla niille kiinteistön omistajille ja haltijoille, joiden kiinteistöltä suunnitelman mukaan lunastetaan aluetta, joiden kiinteistön alueelle muodostuu suoja- tai näkemäalue, joiden kiinteistön alueeseen perustetaan muu oikeus tai joiden kiinteistö rajoittuu tiealueeseen. Tavallisesta tiedoksiannosta säädetään hallintolaissa.
+
+Muistutukset suunnitelmasta on toimitettava elinvoimakeskukselle ennen nähtävänäoloajan päättymistä. Elinvoimakeskuksen on esitettävä perusteltu kannanottonsa suunnitelmasta tehdyistä muistutuksista. Elinvoimakeskuksen on ilmoitettava kannanottonsa alueen kunnille sekä niille muistutuksen tehneille, jotka ovat sitä kirjallisesti pyytäneet ja samalla ilmoittaneet osoitteensa. Elinvoimakeskuksen perusteltu kannanotto ilmoitetaan Liikenne- ja viestintäviraston suunnitelmaa koskevassa hyväksymispäätöksessä.
