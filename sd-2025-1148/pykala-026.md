@@ -1,0 +1,8 @@
+# 26 § Korvaus datan saataville asettamisesta poikkeuksellisen tarpeen tapauksissa
+Luku: 5 luku Erinäiset säännökset
+
+Datan haltijan oikeudesta saada kohtuullinen korvaus data-asetuksen 15 artiklan 1 kohdan nojalla saataville asetetusta datasta sekä korvauksen määrän laskemisesta säädetään mainitun asetuksen 20 artiklassa.
+
+Datan haltijan on esitettävä viranomaiselle, jonka pyynnöstä data on asetettu saataville, kirjallisesti vaatimansa korvauksen määrä sekä korvauksen suorittamiseksi tarvittavat tiedot.
+
+Edellä 2 momentissa tarkoitetun viranomaisen on suoritettava korvaus datan haltijalle viimeistään kahden kuukauden kuluttua korvausvaatimuksen vastaanottamisesta. Jos viranomainen pyytää data-asetuksen 20 artiklan 2 kohdan nojalla datan haltijalta lisätietoja korvauksen laskennan perusteista, maksun suorittamisen määräaikaa jatketaan samalla määrällä päiviä kuin mitä datan haltijalta menee pyydettyjen lisätietojen toimittamiseen. Viranomaisen on saatettava mahdollinen data-asetuksen 20 artiklan 5 kohtaan perustuva korvauksen suuruutta koskeva asia Liikenne- ja viestintäviraston käsiteltäväksi ennen kuin korvauksen maksun määräaika on päättynyt. Korvaus on tällöin suoritettava datan haltijalle, kun Liikenne- ja viestintäviraston päätös kohtuullisen korvauksen määrästä on saanut lainvoiman. Liikenne- ja viestintävirasto voi päätöksessään vahvistaa korvauksen määrän vaaditun suuruisena tai alentaa kohtuullisena pidettävän korvauksen määrää. Asiaa ratkaistaessa sovelletaan data-asetuksen 20 artiklan 2 kohdan säännöksiä kohtuullisen korvauksen määrän laskemisesta ja otetaan huomioon datan haltijan korvauksen määrän perusteista esittämä selvitys.
