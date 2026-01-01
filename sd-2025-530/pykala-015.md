@@ -1,0 +1,18 @@
+# 15 § Lautakunnat ja muut toimielimet
+Luku: 5 luku Viraston erinäiset tehtävät
+
+Sosiaali- ja terveysalan osastolla toimivat sosiaali- ja terveydenhuollon ammattihenkilöiden valvontalautakunta ja raskauden keskeyttämis- ja steriloimisasioiden lautakunta.
+
+Sosiaali- ja terveysalan osaston yhteydessä toimivat itsenäiset adoptiolautakunta ja valtakunnallinen lääketieteellinen tutkimuseettinen toimikunta.
+
+Adoptiolautakunnasta säädetään adoptiolaissa (22/2012). Valtakunnallisesta lääketieteellisestä tutkimuseettisestä toimikunnasta säädetään kliinisestä lääketutkimuksesta annetussa laissa (983/2021) ja sen erillisestä lääketieteellisen tutkimuksen eettisen arvioinnin muutoksenhakujaostosta lääketieteellisestä tutkimuksesta annetussa laissa (488/1999).
+
+Sosiaali- ja terveydenhuollon ammattihenkilöiden valvontalautakunnassa käsitellään ja ratkaistaan sosiaalihuollon ammattihenkilöistä annetussa laissa (817/2015) ja terveydenhuollon ammattihenkilöistä annetussa laissa (559/1994) viraston valvottaviksi säädettyjen sosiaali- ja terveydenhuollon ammattihenkilöiden muutoin kuin heidän omista hakemuksistaan tapahtuvaa ammatinharjoittamisoikeuden rajoittamista ja menettämistä, ammatinharjoittamisluvan peruuttamista ja ammattihenkilön ammattinimikkeen käytön kieltämistä koskevat asiat sekä ammatinharjoittamisoikeuden, ammatinharjoittamisluvan ja ammattinimikkeen käyttöoikeuden takaisinsaamista ja kurinpitoa koskevat asiat. Raskauden keskeyttämis- ja steriloimisasioiden lautakunnassa käsitellään ja ratkaistaan raskauden keskeyttämisestä annetussa laissa (239/1970) ja steriloimislaissa (283/1970) viraston hoidettaviksi säädetyt raskauden keskeyttämistä ja steriloimista koskevat hakemusasiat.
+
+Sosiaali- ja terveysministeriö asettaa sosiaali- ja terveydenhuollon ammattihenkilöiden valvontalautakunnan ja raskauden keskeyttämis- ja steriloimisasioiden lautakunnan viraston sosiaali- ja terveysalan osaston esityksestä neljäksi vuodeksi kerrallaan. Lautakunnan jäsenillä tulee olla vähintään yksi henkilökohtainen varajäsen. Lautakunnassa esittelijöinä ja lautakunnan sihteereinä toimivat viraston sosiaali- ja terveysalan osaston määräämät virkamiehet.
+
+Sosiaali- ja terveydenhuollon ammattihenkilöiden valvontalautakunnassa on puheenjohtaja, jonka tulee olla viraston virkamies, ja tarpeellinen määrä muita jäseniä. Yhden jäsenistä tulee edustaa lääketieteellistä, yhden oikeustieteellistä ja yhden sosiaalihuollon asiantuntemusta. Lisäksi lautakunnassa tulee olla edustettuna asiantuntemus kustakin ammattialasta, jonka harjoittajia koskevia asioita lautakunnassa käsitellään. Lautakunta ratkaisee asiat puheenjohtajan ja vähintään neljän jäsenen kokoonpanossa. Asia ratkaistaessa jäsenistä yhden tulee edustaa lääketieteellistä, yhden oikeustieteellistä ja yhden sosiaalihuollon asiantuntemusta sekä yhden sitä ammattialaa, jonka harjoittamista koskeva asia kulloinkin on käsiteltävänä.
+
+Raskauden keskeyttämis- ja steriloimisasioiden lautakunnassa on puheenjohtaja, jonka tulee olla viraston virkamies, ja kolme muuta jäsentä. Yhden jäsenistä tulee edustaa oikeustieteellistä, yhden lääketieteellistä ja yhden sosiaalihuollon asiantuntemusta. Lautakunta on päätösvaltainen täysilukuisena. Lautakunnan on tarvittaessa kuultava psykiatrian, synnytysopin ja perinnöllisyyslääketieteen asiantuntijoita.
+
+Lautakuntien ja toimielinten jäsenillä on oikeus kohtuulliseen palkkioon ja matkakustannusten korvaukseen. Jollei muualla toisin säädetä, valtiovarainministeriö vahvistaa palkkioiden perusteet. Perusteiden vahvistamisesta voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.
