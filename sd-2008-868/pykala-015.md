@@ -8,6 +8,6 @@ Valtiokonttori voi määrätä lainansaajalle seuraamusmaksun, jos lainansaaja:
 
 Seuraamusmaksu on yksi prosentti myönnetyn takauslainan 4 §:n mukaisesta määrästä rakennuskustannusindeksillä tarkistettuna. Seuraamusmaksu peritään kultakin kalenterikuukaudelta, jonka aikana lainansaaja on toiminut 1 momentin mukaisesti tai ei ole oikaissut 1 momentin 1 tai 2 kohdan mukaisia vääriä tai harhaanjohtavia tietoja. Valtiokonttori voi alentaa seuraamusmaksua, jos se muutoin muodostuisi kohtuuttomaksi.
 
-Valtiokonttorin on määrättävä seuraamusmaksu kahden vuoden kuluessa siitä, kun 1 momentin mukainen toiminta on tullut sen tietoon, kuitenkin viimeistään 20 vuotta virheellisen toiminnan päättymisen jälkeen. Seuraamusmaksu maksetaan Valtiokonttorille, joka tulouttaa sen valtion asuntorahastoon.
+Valtiokonttorin on määrättävä seuraamusmaksu kahden vuoden kuluessa siitä, kun 1 momentin mukainen toiminta on tullut sen tietoon, kuitenkin viimeistään 20 vuotta virheellisen toiminnan päättymisen jälkeen. Seuraamusmaksu maksetaan Valtiokonttorille.
 
 Valtiokonttori voi määrätä seuraamusmaksun aiemman omistajan 1 momentin mukaisesta toiminnasta 8 §:n 4 momentissa tarkoitetulle uudelle omistajalle vain, jos uusi omistaja on luovutusajankohtana tiennyt tai sen olisi pitänyt tietää toiminnasta.
