@@ -1,3 +1,3 @@
 # 2 §
 
-Kiinteistöinsinöörin valitsee kunta. Kiinteistöinsinöörin tulee olla virkasuhteinen. Kiinteistöinsinöörin kelpoisuusehtona on Teknillisen korkeakoulun maanmittausosastolla suoritettu tehtävään soveltuva diplomi- insinöörin tutkinto tai sitä vastaava aikaisempi tutkinto.
+Kiinteistöinsinöörin valitsee kunta. Kiinteistöinsinöörin tulee olla virkasuhteinen. Kiinteistöinsinöörin kelpoisuusehtona on tehtävään soveltuva maanmittausalan diplomi-insinööritutkinto tai ammattikorkeakoulussa tai teknillisessä oppilaitoksessa suoritettu, tehtävään soveltuva maanmittausalan insinöörin tai teknikon tutkinto.
