@@ -1,0 +1,2 @@
+Laki sosiaaliturva-asioiden muutoksenhakulautakunnasta
+Eduskunnan päätöksen mukaisesti säädetään:
