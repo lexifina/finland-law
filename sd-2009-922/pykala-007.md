@@ -1,7 +1,3 @@
-# 7 § Pääjohtaja
+# 7 § Pääjohtajan erityiset kelpoisuusvaatimukset
 
-Akatemiaa johtaa pääjohtaja, jonka valtioneuvosto nimittää enintään viideksi vuodeksi kerrallaan. Pääjohtaja ratkaisee Akatemialle kuuluvat asiat, jollei toisin säädetä tai johtosäännössä tai työjärjestyksessä toisin määrätä.
-
-Pääjohtajalta vaaditaan, että hän on tieteellisesti ansioitunut. Hänellä tulee lisäksi olla tiede- ja korkeakouluhallinnon tuntemusta sekä käytännössä osoitettu johtamistaito ja johtamiskokemus. Pääjohtajalta vaaditaan suomen kielen erinomaista suullista ja kirjallista taitoa ja ruotsin kielen tyydyttävää suullista ja kirjallista taitoa.
-
-Pääjohtajan sijaisen määrää hallitus pääjohtajan esityksestä.
+Sen lisäksi, mitä valtion virkamieslain (750/1994) 8 §:ssä säädetään, pääjohtajan tulee olla tieteellisesti ansioitunut ja hänellä tulee olla tiede- ja korkeakouluhallinnon tuntemusta.
