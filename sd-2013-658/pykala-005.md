@@ -1,6 +1,6 @@
 # 5 § Valvonta
 
-Verohallinto ja poliisi valvovat tämän lain noudattamista. Alkoholijuomien anniskeluluvan haltijan anniskelupaikassa lain noudattamista valvoo lisäksi aluehallintovirasto. Ahvenanmaan maakunnassa lain noudattamista valvoo Verohallinto. Tarkastuksessa on noudatettava, mitä hallintolain (434/2003) 39 §:ssä säädetään.
+Verohallinto ja poliisi valvovat tämän lain noudattamista. Alkoholijuomien anniskeluluvan haltijan anniskelupaikassa lain noudattamista valvoo Lupa- ja valvontavirasto. Ahvenanmaan maakunnassa lain noudattamista valvoo Verohallinto. Tarkastuksessa on noudatettava, mitä hallintolain (434/2003) 39 §:ssä säädetään.
 
 Valvontaviranomainen saa salassapitosäännösten estämättä antaa kuitintarjoamisvelvollisuuden valvomista ja laiminlyöntimaksun määräämistä varten toiselle valvontaviranomaiselle tietoja valvontatoiminnastaan ja määräämistään laiminlyöntimaksuista.
 
