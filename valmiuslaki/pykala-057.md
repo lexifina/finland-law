@@ -1,0 +1,7 @@
+# 57 § Sosiaaliavustusten muutokset
+Osa: II OSA TOIMIVALTUUDET POIKKEUSOLOISSA
+Luku: 8 luku Sosiaaliturvaan liittyvät muutokset
+
+Väestön toimeentulon ja valtion maksuvalmiuden turvaamiseksi 3 §:n 1–3 ja 6 kohdassa tarkoitetuissa poikkeusoloissa voidaan äitiysavustuksen, tuen kansainvälisen lapseksiottamisen kustannuksiin, elatustuen, lapsilisän, lasten kotihoidon tuen, lasten yksityisen hoidon tuen, asumistuen, työmarkkinatuen, opintorahan, asumislisän, sotilasavustuksen, sotilasvammakorvauksen, kuntoutusetuuden, maahanmuuttajien erityistuen taikka vastaavan muun etuuden sekä toimeentulotuen maksaminen keskeyttää enintään kolmeksi kuukaudeksi tai sitä voidaan lykätä enintään kolmen kuukauden ajan.
+
+Edellä 1 momentissa mainitussa tarkoituksessa voidaan 3 §:n 1–3 ja 6 kohdassa tarkoitetuissa poikkeusoloissa äitiysavustus, tuki kansainvälisen lapseksiottamisen kustannuksiin, elatustuki, lapsilisä, lasten kotihoidon tuki, lasten yksityisen hoidon tuki, asumistuki, työmarkkinatuki, opintoraha, asumislisä, sotilasavustus, sotilasvammakorvaus, kuntoutusetuus, maahanmuuttajien erityistuki taikka vastaava muu etuus sekä toimeentulotuki enintään kolmen kuukauden ajalta maksaa enintään 50 prosentilla alennettuna. Valtioneuvoston asetuksella säädetään tarkemmin alennuksen suuruudesta ja alennettujen etuuksien maksukaudesta sekä 1 momentissa tarkoitetun maksamisen keskeyttämisen tai lykkäämisen kestosta.
