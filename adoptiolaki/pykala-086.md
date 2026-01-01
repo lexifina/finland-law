@@ -1,7 +1,7 @@
 # 86 § Adoptiolautakunta
 Luku: 10 luku Adoptioasioiden hallinto
 
-Erityisenä asiantuntija-, lupa- ja valvontaviranomaisena adoptioasioissa toimii Sosiaali- ja terveysalan lupa- ja valvontavirastossa oleva adoptiolautakunta.
+Erityisenä asiantuntija-, lupa- ja valvontaviranomaisena adoptioasioissa toimii Lupa- ja valvontavirastossa oleva adoptiolautakunta.
 
 Adoptiolautakunta toimii myös:
 1) Haagin sopimuksen 6 artiklan 1 kappaleessa tarkoitettuna keskusviranomaisena; ja
