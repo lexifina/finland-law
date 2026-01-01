@@ -1,0 +1,2 @@
+Huumausainelaki
+Eduskunnan päätöksen mukaisesti säädetään:
