@@ -1,0 +1,2 @@
+Kaivosmineraaliverolaki
+Eduskunnan päätöksen mukaisesti säädetään:
