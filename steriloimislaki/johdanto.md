@@ -1,0 +1,2 @@
+Steriloimislaki
+Eduskunnan päätöksen mukaisesti säädetään:
