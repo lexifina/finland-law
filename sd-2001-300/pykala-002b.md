@@ -1,0 +1,5 @@
+# 2 b § Vähämerkityksisten tukien ehtojen noudattamista koskevat velvollisuudet
+
+Euroopan unionin jäsenvaltion velvollisuudesta varmistaa vähämerkityksisen tuen seurannasta ja raportoinnista sekä tietojen säilyttämisestä säädetään Euroopan unionin toiminnasta tehdyn sopimuksen 107 ja 108 artiklan soveltamisesta tiettyihin valtion monialaisen tuen muotoihin annetun neuvoston asetuksen (EU) 2015/1588 2 artiklan perusteella annetuissa Euroopan komission vähämerkityksisiä tukia koskevissa asetuksissa. Jollei muualla toisin säädetä, vähämerkityksisen tuen myöntäjä vastaa yksittäistä vähämerkityksistä tukea koskevien edellytysten täyttymisestä sekä tietojen säilyttämisestä ja toimittamisesta unionin tason keskusrekisteriin. Tiedot välitetään unionin tason keskusrekisteriin salassapitosäännösten estämättä. Työllisyys-, kehittämis- ja hallintokeskuksen tehtävistä keskusrekisterin pääkäyttäjähallinnassa säädetään elinvoimakeskuksista sekä Työllisyys-, kehittämis- ja hallintokeskuksesta annetussa laissa (531/2025).
+
+Vähämerkityksistä tukea koskevista 1 momentissa tarkoitetuista velvollisuuksista voidaan antaa tarkempia säännöksiä valtioneuvoston asetuksella.
