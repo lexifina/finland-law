@@ -1,0 +1,8 @@
+# 8 § Ilmoittamisesta vastaavat viranomaiset
+Luku: 3 luku Ilmoittamisesta vastaavat viranomaiset ja ilmoitetut laitokset
+
+Tekoälyasetuksen 28 artiklan 1 kohdassa tarkoitettuja ilmoittamisesta vastaavia viranomaisia ovat:
+1) työ- ja elinkeinoministeriö, jos vaatimustenmukaisuuden arviointilaitos hakee ilmoitetuksi laitokseksi, jonka arvioitavat tekoälyjärjestelmät kuuluvat turvakomponenttina tekoälyasetuksen liitteen I jakson A kohdissa 2, 4, 5, 7 tai 10 mainituissa säädöksissä tarkoitettuun tuotteeseen, tekoälyjärjestelmät ovat itse kyseisiä tuotteita tai tekoälyjärjestelmät ovat tekoälyasetuksen liitteen III kohdassa 1 tarkoitettuja suuririskisiä tekoälyjärjestelmiä;
+2) Liikenne- ja viestintävirasto, jos vaatimustenmukaisuuden arviointilaitos hakee ilmoitetuksi laitokseksi, jonka arvioitavat tekoälyjärjestelmät kuuluvat turvakomponentteina tekoälyasetuksen liitteen I jakson A kohdissa 3 tai 6 mainitussa säädöksessä tarkoitettuihin tuotteisiin tai tekoälyjärjestelmät ovat itse kyseisiä tuotteita;
+3) Lääkealan turvallisuus- ja kehittämiskeskus, jos vaatimustenmukaisuuden arviointilaitos hakee ilmoitetuksi laitokseksi, jonka arvioitavat tekoälyjärjestelmät kuuluvat turvakomponentteina tekoälyasetuksen liitteen I jakson A kohdissa 11 tai 12 mainitussa säädöksessä tarkoitettuihin tuotteisiin tai tekoälyjärjestelmät ovat itse kyseisiä tuotteita;
+4) sosiaali- ja terveysministeriö, jos vaatimustenmukaisuuden arviointilaitos hakee ilmoitetuksi laitokseksi, jonka arvioitavat tekoälyjärjestelmät kuuluvat turvakomponentteina tekoälyasetuksen liitteen I jakson A kohdissa 1, 8 tai 9 mainitussa säädöksessä tarkoitettuihin tuotteisiin tai tekoälyjärjestelmät ovat itse kyseisiä tuotteita.

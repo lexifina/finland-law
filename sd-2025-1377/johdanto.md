@@ -1,0 +1,2 @@
+Laki eräiden tekoälyjärjestelmien valvonnasta
+Eduskunnan päätöksen mukaisesti säädetään:
