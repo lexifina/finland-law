@@ -1,0 +1,2 @@
+Laki raportoivien kryptovarapalvelun tarjoajien tiedonantovelvollisuudesta verotuksen alalla
+Eduskunnan päätöksen mukaisesti säädetään:
