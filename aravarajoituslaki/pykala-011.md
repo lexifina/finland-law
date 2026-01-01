@@ -1,0 +1,5 @@
+# 11 § Enimmäishinnan laskeminen
+
+Valtion tukeman asuntorakentamisen keskus vahvistaa enimmäishinnan. Enimmäishintaa ei kuitenkaan vahvisteta, jos luovuttaja ja luovutuksensaaja kuuluvat samaan aravalain 15 b tai 15 e §:ssä tarkoitettuun konserniin ja luovutus toteutetaan sulautumisena, jakautumisena tai liiketoiminnan siirtona. Enimmäishinta muodostuu perushinnasta ja siihen lisättävästä indeksitarkistuksesta sekä mahdollisesta parannusten arvosta ja vähennyksistä.
+
+Perushinta on asunnon tai talon vahvistettu hankinta-arvo. Perushintaa tarkistetaan rakennuskustannusindeksin muutoksen mukaan Tilastokeskuksen kuukausittain vahvistamien kertoimien perusteella. Hintaan lisätään asunto- tai talokohtaisesti suoritettujen perusparannusten arvo kohtuullisen käyvän arvon mukaan laskettuna. Hinnasta vähennetään kuntoonsaattamiskustannukset luonnollisesta kulumisesta aiheutuvaa arvonalennusta lukuun ottamatta sekä luovutuksensaajan vastattavaksi kokonaan tai osaksi siirtyvä perusparannuslaina tai sen sijaan otettu muu laina sekä sitä paremmalla etuoikeudella hyväksytty laina.
