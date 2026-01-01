@@ -1,0 +1,2 @@
+Laki kliinisestä lääketutkimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,10 @@
+# 28 § Oikeus saada tietoja
+Luku: 7 luku Valvonta, muutoksenhaku ja seuraamukset
+
+Toimeksiantajan, tutkijan, muun tutkimusryhmän jäsenen, toimeksiantajan laillisen edustajan, toimeksiantajan yhteyshenkilön sekä sen oikeushenkilön tai luonnollisen henkilön, jonka tiloissa kliinistä lääketutkimusta suoritetaan, on pyydettäessä annettava Lääkealan turvallisuus- ja kehittämiskeskukselle kliiniseen lääketutkimukseen liittyvät tiedot ja selvitykset, jotka ovat välttämättömät keskukselle lääketutkimusasetuksessa, tässä laissa tai muussa laissa taikka Euroopan unionin säädöksessä säädettyjen tehtävien suorittamiseksi. Keskuksella on oikeus saada edellä tarkoitetuilta tahoilta valvontatehtäviensä toteuttamiseksi välttämättömät tiedot tutkittavien potilasasiakirjoista sekä valvontatehtäviensä toteuttamiseksi välttämättömät lääketutkimusasetuksen 56–58 artiklassa tarkoitetut tiedot. Edellä 27 §:n 6 momentissa tarkoitetussa tilanteessa muun Euroopan unionin jäsenvaltion ja Euroopan talousalueeseen kuuluvan valtion kuin Suomen tarkastajalla ja asiantuntijalla on oikeus saada samat tiedot kuin keskuksella on.
+
+Lupa- ja valvontavirasto, Verohallinto, Kansaneläkelaitos, alueellinen lääketieteellinen tutkimuseettinen toimikunta ja 16 §:ssä tarkoitettu toimikunta ovat velvollisia pyynnöstä antamaan Lääkealan turvallisuus- ja kehittämiskeskukselle lääketutkimusasetuksessa, täytäntöönpanoasetuksessa ja tässä laissa säädettyjen tehtävien suorittamiseksi välttämättömät tiedot. Mainitut viranomaiset saavat toimittaa tutkittavien suojaamisen kannalta välttämättömäksi arvioimansa tiedon keskukselle myös omasta aloitteestaan.
+
+Lääkealan turvallisuus- ja kehittämiskeskuksen oikeuteen luovuttaa lääketutkimusasetuksen, täytäntöönpanoasetuksen tai tämän lain nojalla saamiaan tietoja sovelletaan lääkelain 90 §:ää, ellei lääketutkimusasetuksessa tai sen nojalla toisin säädetä.
+
+Tässä pykälässä tarkoitetut tiedot saadaan ilmoittaa ja asiakirjat voidaan toimittaa Lääkealan turvallisuus- ja kehittämiskeskukselle salassapitosäännösten estämättä. Tiedot ja asiakirjat on annettava keskukselle maksutta.
