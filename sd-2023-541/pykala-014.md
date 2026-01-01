@@ -1,0 +1,12 @@
+# 14 § Kuorman käsittely tiekuljetuksessa
+Luku: 4 luku Kuljetuksen ja kuljetusvälineen turvallisuusvaatimukset
+
+Tiekuljetuksessa tarvittavan pysäköinnin aikana ajoneuvon on oltava valvonnan alainen tai pysäköitynä turvalliseen paikkaan, jos vaarallisesta aineesta voi aiheutua vaaraa pysäköinnin aikana. Jos aineen laadusta tai määrästä voi aiheutua vaaraa, ajoneuvoa ei saa pysäköidä taajamassa tai vilkkaasti liikennöidyllä paikalla edes huoltotoimenpiteitä varten muutoin kuin pakottavassa tilanteessa. Pakottavassa tilanteessa tarvittavasta pidempiaikaisesta pysäköinnistä on ilmoitettava paikalliselle poliisille.
+
+Vaarallisia aineita ei saa kuormata tai purkaa kuormasta tiekuljetuksessa yleisellä paikalla taajamassa ilman paikallisen poliisin lupaa ja yleisellä paikalla taajaman ulkopuolella ilman paikalliselle poliisille tehtyä ilmoitusta, jos kuormaaminen tai kuormasta purkaminen voi aiheuttaa vaaraa ihmisille, ympäristölle tai omaisuudelle. Lähettäjän ja kuljetuksen suorittajan on yhdessä varmistettava, että lupa on myönnetty tai ilmoitus tehty ennen lähetyksen luovuttamista kuljetettavaksi ja ennen kuljetusta. Lupaa tai ilmoitusta ei edellytetä, jos:
+1) kuormaaminen tai kuormasta purkaminen on turvallisuussyistä kiireellistä ja välttämätöntä;
+2) kuormaus- tai purkamispaikalla on kyseisten aineiden varastointiin, säilytykseen, käyttöön tai käsittelyyn muussa laissa edellytetty viranomaisen lupa tai tehty muussa laissa edellytetty ilmoitus viranomaiselle.
+
+Poliisi voi lupahakemuksen tai ilmoituksen perusteella määrätä aineiden turvallisen käsittelyn kannalta tarpeellisia rajoituksia aiotulle kuormaamiselle tai kuormasta purkamiselle ja tarvittaessa määrätä toiminnan edellyttämistä varotoimista. Poliisi voi kieltää kuormaamisen tai kuormasta purkamisen, jos siitä aiotussa paikassa ja aiottuna ajankohtana voidaan katsoa aiheutuvan ilmeistä vaaraa, jota ei määrätyin rajoituksin tai varotoimin voida torjua.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä lupa- ja ilmoitusmenettelystä, lupahakemuksessa ja ilmoituksessa vaadittavista tiedoista sekä lupahakemuksen ja ilmoituksen tekemisessä noudatettavista määräajoista. Liikenne- ja viestintävirasto voi antaa tarkempia ainekohtaisia määräyksiä valvonta- ja pysäköintivaatimusten käytännön toteuttamisesta sekä aineista ja ainemääristä, joiden kuormaaminen ja kuormasta purkaminen edellyttävät lupaa tai ilmoitusta.
