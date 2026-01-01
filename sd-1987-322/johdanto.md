@@ -1,0 +1,2 @@
+Laki terveydenhuollon järjestämisestä puolustusvoimissa
+Eduskunnan päätöksen mukaisesti säädetään:
