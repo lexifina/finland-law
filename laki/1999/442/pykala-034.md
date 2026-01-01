@@ -11,7 +11,7 @@ Jollei laissa toisin säädetä, edunvalvojalla ei ole oikeutta ilman holhousvir
 7) luopua perinnöstä tai luovuttaa päämiehensä perintöosuutta;
 8) tehdä sopimusta kuolinpesän yhteishallinnosta;
 9) tehdä sopimusta omaisuuden osituksesta tai erottelusta taikka perinnönjaosta, joka toimitetaan ilman perintökaaren (40/1965) 23 luvussa tarkoitettua pesänjakajaa;
-10) luovuttaa tai vastiketta antamalla hankkia asumisoikeusasunnoista annetussa laissa (650/1990) tarkoitettua asumisoikeutta taikka osakkeita tai osuuksia, jotka oikeuttavat hallitsemaan huoneistoa tai muuta osaa rakennuksesta tai kiinteistöstä, lukuun ottamatta 13 kohdan g alakohdassa tarkoitettuja osakkeita tai osuuksia;
+10) luovuttaa tai vastiketta antamalla hankkia asumisoikeusasunnoista annetussa laissa (393/2021) tarkoitettua asumisoikeutta taikka osakkeita tai osuuksia, jotka oikeuttavat hallitsemaan huoneistoa tai muuta osaa rakennuksesta tai kiinteistöstä, lukuun ottamatta 13 kohdan g alakohdassa tarkoitettuja osakkeita tai osuuksia;
 11) luovuttaa 10 kohdassa tarkoitetun asumisoikeuden, osakkeiden tai osuuksien nojalla hallittua huoneistoa tai muuta osaa rakennuksesta tai kiinteistöstä määräaikaisella sopimuksella toisen käytettäväksi pitemmäksi ajaksi kuin viideksi vuodeksi tai pitemmäksi ajaksi kuin vuodeksi täysi-ikäisyyden alkamisesta;
 12) myydä tai myytäväksi hakkauttaa metsää, ottaa myytäväksi kiveä, soraa, hiekkaa, savea, turvetta tai multaa päämiehen maalta tai luovuttaa oikeutta sen ottamiseen, jollei se tapahdu holhousviranomaisen hyväksymän omaisuuden hoitosuunnitelman mukaisesti; eikä
 13) antaa rahalainaa tai vastiketta antamalla hankkia sijoituspalvelulain (747/2012) 1 luvun 14 §:ssä tarkoitettuja rahoitusvälineitä taikka osuuksia yhteisöissä lukuun ottamatta:
