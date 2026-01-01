@@ -1,6 +1,6 @@
 # 6 § Valtion eläkerahaston menot ja rahaston karttuminen
 
-Valtion eläkerahastosta siirretään vuosittain valtion talousarvioon määrä, joka on 45 prosenttia julkisten alojen eläkelain piiriin kuuluvaan valtion palvelukseen perustuvista eläkkeistä ja muista valtion eläketurvan rahoituksen piiriin kuuluvista eläkkeistä aiheutuvasta vuotuisesta menosta.
+Valtion eläkerahastosta siirretään vuosittain valtion talousarvioon määrä, joka on 46,2 prosenttia julkisten alojen eläkelain piiriin kuuluvaan valtion palvelukseen perustuvista eläkkeistä ja muista valtion eläketurvan rahoituksen piiriin kuuluvista eläkkeistä aiheutuvasta vuotuisesta menosta.
 
 Valtion eläkerahasto on karttunut täyteen määräänsä sen varainhoitovuoden lopussa, jonka aikana rahastoidut varat ovat saavuttaneet määrän, joka on 25 prosenttia julkisten alojen eläkelain piiriin kuuluvaan valtion palvelukseen perustuvista eläkkeistä ja muista valtion eläketurvan rahoituksen piiriin kuuluvista eläkkeistä aiheutuvasta eläkevastuusta.
 
