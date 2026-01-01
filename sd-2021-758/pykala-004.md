@@ -1,4 +1,4 @@
 # 4 § Viranomaiset
 Luku: 1 luku Yleiset säännökset
 
-Tässä laissa tarkoitettuja avustuksia koskevia asioita käsittelevät elinkeino-, liikenne- ja ympäristökeskukset. Toimivaltaisista elinkeino-, liikenne- ja ympäristökeskuksista säädetään elinkeino-, liikenne- ja ympäristökeskuksista annetussa laissa (897/2009) ja sen nojalla annetussa valtioneuvoston asetuksessa.
+Tässä laissa tarkoitettuja avustuksia koskevia asioita käsittelevät elinvoimakeskukset. Toimivaltaisista elinvoimakeskuksista säädetään elinvoimakeskuksista sekä Työllisyys-, kehittämis- ja hallintokeskuksesta annetussa laissa (531/2025) ja sen nojalla annetussa valtioneuvoston asetuksessa.
