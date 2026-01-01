@@ -1,0 +1,2 @@
+Laki raportoivien finanssilaitosten tiedonantovelvollisuudesta verotuksen alalla
+Eduskunnan päätöksen mukaisesti säädetään:

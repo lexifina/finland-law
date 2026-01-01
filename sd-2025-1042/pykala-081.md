@@ -1,0 +1,8 @@
+# 81 § Tunnusmerkkien löytymisen vaikutus
+Luku: 2 luku Huolellisuusvelvoitteet
+
+Jos suuriarvoisten tilien tutkimismenettelyssä löydetään yksi tai useampi 77 §:n 1 momentin 1–5 kohdassa tarkoitettu tunnusmerkki tai jos olosuhteissa tapahtuu muutos, jonka seurauksena tiliin liittyy yksi tai useampi tunnusmerkki, raportoivan finanssilaitoksen on käsiteltävä tiliä raportoitavana tilinä kunkin sellaisen raportoitavan lainkäyttöalueen osalta, josta on tunnistettu tunnusmerkki. Tiliä ei kuitenkaan tarvitse käsitellä raportoitavana tilinä, jos raportoiva finanssilaitos päättää soveltaa 77 §:n 6 momentin mukaista menettelyä ja jokin momentin poikkeuksista soveltuu tilin osalta.
+
+Jos suuriarvoisten tilien tutkimismenettelyssä ilmenee postinsäilytysohje tai c/o-osoite eikä tilinhaltijalle tunnisteta muuta osoitetta eikä mitään 77 §:n 1 momentin 1–5 kohdassa tarkoitettuja tunnusmerkkejä, raportoivan finanssilaitoksen on hankittava tilinhaltijalta itse annettu todistus tai asiakirjanäyttöä kyseisen tilinhaltijan asuinlainkäyttöalueiden määrittämiseksi. Jos raportoiva finanssilaitos ei pysty hankkimaan itse annettua todistusta tai asiakirjanäyttöä, raportoivan finanssilaitoksen on ilmoitettava tili Verohallinnolle dokumentoimattomana tilinä.
+
+Jos suuriarvoisten tilien tutkimismenettelyssä ei löydetä tiliin liittyen lainkaan 77 §:n 1 momentissa tarkoitettuja tunnusmerkkejä tiliin liittyen eikä tiliä tunnisteta asiakasvastaavalle 80 §:n mukaisesti tehdyn kyselyn perusteella raportoitavan henkilön pitämäksi, raportoivan finanssilaitoksen ei ole suoritettava lisätoimia ennen kuin olosuhteissa tapahtuu muutos, jonka seurauksena tiliin liittyy yksi tai useampi tunnusmerkki.
