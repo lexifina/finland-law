@@ -1,0 +1,14 @@
+# 4 § Määritelmät
+Luku: 1 luku Yleiset säännökset
+
+Tässä laissa tarkoitetaan:
+1) potilasdirektiivillä potilaiden oikeuksien soveltamisesta rajatylittävässä terveydenhuollossa annettua Euroopan parlamentin ja neuvoston direktiiviä 2011/24/EU;
+2) EU-asetuksella 883/2004 sosiaaliturvajärjestelmien yhteensovittamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 883/2004 ja soveltuvin osin sitä edeltävää sosiaaliturvajärjestelmän soveltamisesta yhteisön alueella liikkuviin palkattuihin työntekijöihin, itsenäisiin ammatinharjoittajiin ja heidän perheenjäseniinsä annettua neuvoston asetusta (ETY) N:o 1408/71;
+3) EU-asetuksella 987/2009 sosiaaliturvajärjestelmien yhteensovittamisesta annetun asetuksen (EY) N:o 883/2004 täytäntöönpanomenettelystä annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 987/2009;
+4) sosiaaliturvasopimuksella Suomen tekemiä sairaanhoitosopimuksia sekä sosiaaliturvasopimuksia, joissa on sairaanhoitoa koskevia määräyksiä;
+5) terveydenhuollon palvelulla potilaan terveydentilan määrittämiseksi taikka hänen terveytensä palauttamiseksi tai ylläpitämiseksi tehtäviä toimenpiteitä, joita suorittavat terveydenhuollon ammattihenkilöt tai joita suoritetaan terveydenhuollon toimintayksikössä mukaan lukien lääkkeiden määrääminen;
+6) julkisella terveydenhuollolla terveydenhuoltolain 1 §:n 1 momentin perusteella hyvinvointialueen, Helsingin kaupungin ja HUS-yhtymän järjestämisvastuulle kuuluvaa terveydenhuoltoa;
+7) rajat ylittävällä terveydenhuollolla henkilön saamaa terveydenhuollon palvelua tai terveydenhuollon palveluista aiheutunutta kustannusta, joka on toteutunut muualla kuin valtiossa, joka vastaa hänen sairaanhoitonsa kustannuksista EU-asetuksen 883/2004 tai EU-asetuksen 987/2009, kansainvälisen sopimuksen, sosiaaliturvasopimuksen tai tämän lain perusteella;
+8) toisessa EU-valtiossa vakuutetulla henkilöllä toisen EU-valtion kansalaista, kansalaisuudetonta ja valtiotonta henkilöä sekä pakolaista, joka on EU-asetuksen 883/2004 1 artiklan c alakohdassa tarkoitettu vakuutettu henkilö ja joka mainitun asetuksen II osaston sovellettavaa lainsäädäntöä koskevien säännösten mukaan kuuluu muun valtion kuin Suomen lainsäädännön piiriin, sekä tällaisen henkilön perheenjäseniä ja edunsaajia sekä muun kuin EU-valtion kansalaista, johon sovelletaan asetuksen (EY) N:o 883/2004 ja asetuksen (EY) N:o 987/2009 ulottamisesta koskemaan niitä kolmansien maiden kansalaisia, joita nämä asetukset eivät yksinomaan heidän kansalaisuutensa vuoksi vielä koske annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 1231/2010 perusteella EU-asetusta 883/2004;
+9) kotikunnalla kotikuntalain 2 §:ssä tarkoitettua kuntaa;
+10) sairaanhoidon kustannusvastuulla valtion EU-asetukseen 883/2004 tai kansainväliseen sopimukseen perustuvaa velvollisuutta korvata toiselle valtiolle henkilölle annetusta terveydenhuollon palvelusta aiheutuneita kustannuksia.

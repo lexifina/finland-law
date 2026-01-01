@@ -1,0 +1,6 @@
+# 13 a § EU-asetuksen 883/2004 tai kansainvälisen sopimuksen mukaisen luvan käsittely henkilön asuessa muussa kuin toimivaltaisessa EU-valtiossa
+Luku: 3 luku Kustannusten korvaaminen
+
+Jos kyse on henkilöstä, joka asuu Suomessa mutta jonka sairaanhoidon kustannuksista Suomi ei vastaa, Kansaneläkelaitos pyytää 13 §:n 2 momentissa säädetyn menettelyn mukaisesti lausunnon henkilön hoidosta vastuussa olevalta julkisen terveydenhuollon toimintayksiköltä. Tämän lausunnon perusteella Kansaneläkelaitos laatii EU-asetuksen 987/2009 26 artiklassa tai kansainvälisessä sopimuksessa olevassa vastaavan sisältöisessä määräyksessä mainitun todistuksen.
+
+Jos kyse on henkilöstä, joka asuu ulkomailla, mutta jolle Kansaneläkelaitos on toimivaltainen laitos myöntämään 13 §:n 1 momentissa tarkoitetun luvan, Kansaneläkelaitos antaa päätöksen henkilön asuinvaltion antamien 13 §:n 2 momentissa tarkoitettua lausuntoa vastaavien tietojen perusteella. Jos Kansaneläkelaitos ei ole saanut lupaan liittyviä tarpeellisia tietoja 13 §:n 2 momentissa tarkoitetussa määräajassa, Kansaneläkelaitos antaa päätöksen saatuaan HUS-yhtymältä pyytämänsä henkilön hoitoa koskevan lääketieteellisen arvion, jossa otetaan huomioon henkilön sen hetkinen terveydentila ja sairauden todennäköinen kulku.

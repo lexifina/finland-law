@@ -1,0 +1,12 @@
+# 20 § Valtion korvaus julkiselle terveydenhuollolle
+Luku: 5 luku Kustannusten hallinnointi
+
+Kansaneläkelaitos korvaa valtion varoista hyvinvointialueelle, Helsingin kaupungille ja HUS-yhtymälle julkisen terveydenhuollon palvelusta aiheutuneet kustannukset, jos terveydenhuollon palvelu on annettu EU-asetuksen 883/2004, sosiaaliturvasopimuksen, muun kansainvälisen sopimuksen tai sosiaali- ja terveydenhuollon järjestämisestä annetun lain 56 §:n perusteella henkilölle, jolla ei ole kotikuntaa Suomessa.
+
+Kansaneläkelaitos korvaa valtion varoista myös kustannukset, jos terveydenhuollon palvelu on annettu henkilölle, jolla on kotikunta Suomessa ja jonka terveydenhuollon palvelujen ja muiden sairaus- ja äitiysetuuksien kustannuksista vastaa EU-asetuksen 883/2004 17, 18, 24 tai 25 artiklan tai kansainvälisen sopimuksen vastaavan sisältöisten määräysten perusteella toinen EU-valtio, jolta kustannukset laskutetaan täysimääräisesti mainitun asetuksen 35 artiklan 1 ja 2 kohdan tai kansainvälisen sopimuksen vastaavan sisältöisen määräyksen mukaisesti todellisina kustannuksina.
+
+Lisäksi Kansaneläkelaitos korvaa valtion varoista hyvinvointialueelle, Helsingin kaupungille ja HUS-yhtymälle julkisen terveydenhuollon palvelusta aiheutuneet kustannukset, kun terveydenhuoltolain 50 §:ssä tarkoitettua kiireellistä hoitoa tai sosiaali- ja terveydenhuollon järjestämisestä annetun lain 56 a tai 56 b §:n nojalla terveyspalveluita on annettu henkilölle, jolla ei ole kotikuntaa Suomessa ja jonka hoidosta aiheutuneita kustannuksia ei ole saatu perittyä sosiaali- ja terveydenhuollon asiakasmaksuista annetun lain 13 §:n nojalla. Hoitoa saaneen henkilön ollessa ilmeisesti varaton kustannusten perintäyrityksestä voidaan luopua.
+
+Edellä 1–3 momentissa tarkoitetuista kustannuksista korvataan terveydenhuollon palvelujen antamisesta aiheutuneiden kustannusten määrä, jonka hyvinvointialue, Helsingin kaupunki tai HUS-yhtymä laskuttaisi sosiaali- ja terveydenhuollon järjestämisestä annetun lain 57 §:n perusteella toisen hyvinvointialueen asukkaalle annetun hoidon kustannuksista. Korvauksen hakijan on annettava kustannusten korvaamiseksi tarpeelliset tiedot Kansaneläkelaitokselle.
+
+Jos hyvinvointialueella, Helsingin kaupungilla tai HUS-yhtymällä on oikeus saada 1–3 momentissa tarkoitetuista kustannuksista liikennevakuutuslain (460/2016) 55 §:ssä tai työtapaturma- ja ammattitautilain (459/2015) 40 §:ssä tarkoitettu maksu, valtion korvausta ei makseta.
