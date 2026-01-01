@@ -1,0 +1,2 @@
+Luopumiseläkelaki
+Eduskunnan päätöksen mukaisesti säädetään:
