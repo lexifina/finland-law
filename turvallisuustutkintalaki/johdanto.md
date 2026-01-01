@@ -1,0 +1,2 @@
+Turvallisuustutkintalaki
+Eduskunnan päätöksen mukaisesti säädetään:
