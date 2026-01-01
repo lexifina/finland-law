@@ -1,0 +1,6 @@
+# 18 § Seuraamusmaksun suuruus
+Luku: 4 luku Seuraamukset
+
+Seuraamusmaksun suuruuden määrittämisen tulee perustua kokonaisarviointiin, jossa on otettava huomioon rikkomuksen tai laiminlyönnin laatu ja laajuus, moitittavuuden aste sekä kestoaika. Seuraamusmaksu saa olla enintään 10 prosenttia oikeushenkilön liikevaihdosta viimeiseltä vuodelta, johon rikkomus tai laiminlyönti on ulottunut, ja luonnollisen henkilön osalta enintään 10 prosenttia hänen viimeksi toimitetun tuloverotuksen mukaisista tuloistaan, kuitenkin enintään 100 000 euroa.
+
+Jos seuraamusmaksu määrätään oikeushenkilölle, joka on sähkö- tai maakaasualan yritys, liikevaihdon laskentaperusteena käytetään oikeushenkilön niiden sähkö- ja maakaasualan liiketoimintojen liikevaihtoja, joihin rikkomuksella tai laiminlyönnillä on ollut vaikutusta tai joihin sillä on pyritty vaikuttamaan. Jos rikkomukseen tai laiminlyöntiin syyllistynyt oikeushenkilö toimii osana vertikaalisesti integroitunutta yritystä, käytetään liikevaihdon laskentaperusteena vertikaalisesti integroituneen yrityksen niiden sähkö- ja maakaasualan liiketoimintojen liikevaihtoja, joihin rikkomuksella tai laiminlyönnillä on ollut vaikutusta tai joihin sillä on pyritty vaikuttamaan.

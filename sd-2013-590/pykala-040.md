@@ -1,0 +1,6 @@
+# 40 § Vahvistuspäätöksiä koskevat siirtymäsäännökset
+Luku: 9 luku Voimaantulo
+
+Ennen tämän lain voimaantuloa annetut 10 §:ssä tarkoitetut vahvistuspäätökset jäävät voimaan tämän lain voimaantullessa ja niitä voidaan muuttaa siten kuin tässä laissa säädetään. Jos muutoksen perusteena on 13 §:n 1 momentin 4 kohta ja olosuhteiden muutos on ilmennyt ennen tämän lain voimaantuloa, katsotaan olosuhteiden muutoksen ilmenneen lain voimaantullessa. Jos muutoksen perusteena on 13 §:n 1 momentin 2 kohta, voi Energiamarkkinavirasto päättää, että määräajaksi annetun vahvistuspäätöksen muutos tulee voimaan lain voimaantulon jälkeen alkavan seuraavan kalenterivuoden alusta. Tässä tapauksessa tämän lain säännöksiä sekä sähkömarkkinalain (588/2013) ja maakaasumarkkinalain muuttamisesta annetun lain (589/2013) säännöksiä sovelletaan tämän lain ja mainittujen lakien voimaan tullessa kesken olevaan valvontajaksoon kohdistuvaan tämän lain 14 §:n mukaiseen päätökseen siltä osin kuin päätös koskee vahvistuspäätöksen muutoksen voimaantulon jälkeistä aikaa.
+
+Tällä lailla jatketaan maakaasuverkonhaltijan 1 päivänä tammikuuta 2010 alkaneen, 10 §:n 1 momentin 1 kohdassa tarkoitetun valvontajakson ja 10 §:n 1 momentin 6 kohdassa tarkoitetun määräajaksi annetun päätöksen voimassaoloa kahdella vuodella.

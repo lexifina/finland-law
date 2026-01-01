@@ -1,0 +1,6 @@
+# 30 a § Oikeudenkäyntiasiamiehiä ja oikeudenkäyntiavustajia sekä asianajajia koskeva poikkeus Energiaviraston tiedonsaanti- ja tarkastusoikeudesta
+Luku: 7 luku Menettelytavat
+
+Poiketen siitä, mitä edellä 30 §:ssä säädetään, Energiavirastolla ei ole oikeutta saada asianajajista annetussa laissa (496/1958) tarkoitetulta asianajajalta tai hänen apulaiseltaan asianajajan asiakasta koskevia tietoja, asiakirjoja tai tallenteita eikä tarkastaa niitä eikä muultakaan henkilöltä oikeudenkäyntiasiamies- tai oikeudenkäyntiavustajatehtävien hoitamisen yhteydessä saatuja tietoja, asiakirjoja tai tallenteita eikä tarkastaa niitä. Oikeudenkäyntiasiamies- ja oikeudenkäyntiavustajatehtäviksi luetaan varsinaisten oikeudenkäyntiin liittyvien tehtävien lisäksi oikeudellinen neuvonta, joka koskee asiakkaan oikeudellista asemaa.
+
+Sen estämättä, mitä 1 momentissa säädetään, Energiavirastolla on oikeus saada asianajajalta tai hänen apulaiseltaan asianajajan asiakasta koskevia 30 §:ssä tarkoitettuja tietoja, asiakirjoja ja tallenteita, jotka ovat tarpeen REMIT-asetukseen liittyvän valvontatehtävän hoitamiseksi, ja ottaa niistä jäljennöksiä. Energiavirastolla on lisäksi oikeus saada tässä pykälässä tarkoitetulta henkilöltä tarkastettavakseen asiakirjat ja tallenteet, jotka sisältävät tässä momentissa tarkoitettuja tietoja.

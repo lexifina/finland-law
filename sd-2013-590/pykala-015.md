@@ -1,0 +1,6 @@
+# 15 § Verkkoliiketoiminnan luovutus ja verkonhaltijoiden sulautuminen valvontajakson ollessa kesken
+Luku: 3 luku Energiamarkkinaviraston toimivalta valvonta-asioissa
+
+Jos verkonhaltija luovuttaa verkkoliiketoiminnan toiselle tai sulautuu toiseen toiminnanharjoittajaan 10 §:n 1 momentin 1 kohdassa tarkoitetun valvontajakson ollessa kesken, sovelletaan luovutuksen tai fuusion johdosta toiselle siirtynyttä verkkotoimintaa koskevaa vahvistuspäätöstä luovutuksensaajaan tai vastaanottavaan yhteisöön valvontajakson loppuajan. Luovutuksensaaja tai vastaanottava yhteisö vastaa luovuttavan tai sulautuvan verkonhaltijan asiakkaille 14 §:n mukaisesta siirtopalvelumaksujen palautuksesta myös siltä osin kuin palautus perustuu luovutusta tai sulautumista edeltävään valvontajakson osaan. Luovutuksensaaja tai vastaanottava yhteisö saa vastaavasti edukseen 14 §:ssä tarkoitetun oikeuden siirtopalvelumaksujen korottamiseen myös siltä osin kuin oikeus perustuu luovuttajan tai sulautuvan verkonhaltijan toimintaan luovutusta tai sulautumista edeltävän valvontajakson osan aikana.
+
+Energiamarkkinaviraston on annettava luovuttajan ja luovutuksensaajan pyynnöstä erillinen päätös, jossa vahvistetaan 1 momentissa tarkoitettu määrä luovutusajankohtana.

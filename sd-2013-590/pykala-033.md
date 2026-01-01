@@ -1,0 +1,6 @@
+# 33 § Suuntaviivojen noudattaminen
+Luku: 7 luku Menettelytavat
+
+Jos Euroopan komissio on antanut päätöksen, jossa on todettu, että Energiamarkkinaviraston antama päätös ei ole sähkökauppa-asetuksen, maakaasuverkkoasetuksen taikka sähkömarkkinadirektiivin tai maakaasumarkkinadirektiivin nojalla annetun, suuntaviivoja koskevan komission asetuksen tai päätöksen säännösten mukainen, on Energiamarkkinaviraston otettava asia viipymättä uudelleen tutkittavaksi. Energiamarkkinaviraston on annettava asiassa kahden kuukauden kuluessa päätös, joka on suuntaviivoja koskevan komission asetuksen tai päätöksen säännösten mukainen. Päätöksestä on ilmoitettava Euroopan komissiolle.
+
+Jos Energiamarkkinavirasto katsoo, että toisen ETA-valtion kansallisen sääntelyviranomaisen antama, rajat ylittävän sähkö- tai maakaasukaupan kannalta merkityksellinen päätös ei ole suuntaviivoja koskevan komission asetuksen tai päätöksen mukainen, voi Energiamarkkinavirasto ilmoittaa asiasta komissiolle kahden kuukauden kuluessa siitä, kun toisen ETA-valtion kansallinen sääntelyviranomainen on antanut päätöksensä. Energiamarkkinavirasto voi tämän lisäksi pyytää energia-alan sääntelyviranomaisten yhteistyövirastolta lausunnon siitä, onko toisen ETA-valtion kansallisen sääntelyviranomaisen antama päätös suuntaviivoja koskevan komission asetuksen tai päätöksen mukainen.
