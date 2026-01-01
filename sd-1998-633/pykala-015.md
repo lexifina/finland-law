@@ -1,0 +1,5 @@
+# 15 § Koulutuksen järjestämislupaa ja toimielimiä koskeva siirtymäsäännös
+
+Musiikkioppilaitoksista annetun lain nojalla tämän lain voimaan tullessa toimivat oppilaitokset jatkavat tässä laissa, ammatillisesta koulutuksesta annetussa laissa (630/1998) ja ammatillisesta aikuiskoulutuksesta annetussa laissa (631/1998) tarkoitetun koulutuksen järjestäjinä. Asianomainen ministeriö päättää tarvittaessa mainitun lain nojalla myönnetyn ylläpitämisluvan muuttamisesta 3 §:n 2 momentin, ammatillisesta koulutuksesta annetun lain 9 §:n 2 momentin ja ammatillisesta aikuiskoulutuksesta annetun lain 5 §:n 2 momentin mukaiseksi koulutuksen järjestämisluvaksi tai 11 §:n 3 momentin mukaiseksi valtionosuutta koskevaksi päätökseksi.
+
+Edellä 14 §:n 2 momentissa mainittujen lakien nojalla asetetut toimielimet jatkavat toimikautensa loppuun, jollei koulutuksen järjestäjä toisin päätä. Toimielimen kokoonpanoon ja jäsenten valintaan sovelletaan toimikauden loppuun tämän lain voimaan tullessa voimassa olleita säännöksiä.
