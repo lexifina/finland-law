@@ -1,0 +1,6 @@
+# 1 § Soveltamisala
+Luku: 1 luku Yleiset säännökset
+
+Tässä laissa säädetään liikennejärjestelmää koskevan tiedon vaihtoa palvelevan kansallisen yhteyspisteen ja liikennejärjestelmän perustietopalvelun järjestämisestä.
+
+Tällä lailla pannaan täytäntöön tieliikenteen älykkäiden liikennejärjestelmien käyttöönoton sekä tieliikenteen ja muiden liikennemuotojen rajapintojen puitteista annettu Euroopan parlamentin ja neuvoston direktiivi 2010/40/EU, jäljempänä ITS-direktiivi. Lisäksi lailla täydennetään ja täsmennetään Euroopan parlamentin ja neuvoston direktiivin 2010/40/EU täydentämisestä tosiaikaisia liikennetietoja koskevien EU:n laajuisten palvelujen tarjoamisen osalta annettua komission delegoitua asetusta (EU) 2022/670, jäljempänä RTTI-asetus, Euroopan parlamentin ja neuvoston direktiivin 2010/40/EU täydentämisestä EU:n laajuisten multimodaalisten matkatietopalvelujen tarjoamisen osalta annettua komission delegoitua asetusta (EU) 2017/1926, jäljempänä MMTIS-asetus sekä Euroopan parlamentin ja neuvoston direktiivin 2010/40/EU täydentämisestä datan ja menettelyjen osalta, joiden avulla mahdollisuuksien mukaan tarjotaan liikenneturvallisuuteen liittyviä yleisiä vähimmäisliikennetietoja ilmaiseksi käyttäjille annettua komission delegoitua asetusta (EU) 886/2013, jäljempänä SRTI-asetus.

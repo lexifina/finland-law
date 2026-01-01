@@ -1,0 +1,6 @@
+# 9 § Tie- ja liikennedatan saatavuudesta huolehtiminen
+Luku: 2 luku Datan saatavuus ja käytettävyys
+
+Tieviranomaisen, tienpitäjän ja tieliikenteen ohjaus- ja hallintapalvelun tarjoajan on pyrittävä huolehtimaan hallinnassaan olevan, RTTI-asetuksessa tarkoitetun infrastruktuuria koskevan datan, sääntöjä ja rajoituksia koskevan datan, verkon tilaa koskevan datan ja verkon tosiaikaista käyttöä koskevan datan saatavuudesta koneluettavassa muodossa.
+
+Tieviranomaisen, tienpitäjänä toimivan liikenteellisesti merkittävän kunnan ja tieliikenteen ohjaus- ja hallintapalvelun tarjoajan on huolehdittava siitä, että jos taustalla olevat tiedot ovat olemassa, kunkin datatyypin dataa on saatavilla ITS-direktiivin III liitteessä tarkoitetun maantieteellisen alueen osalta ja siinä säädetyssä aikataulussa. Liikenteellisesti merkittävän kunnan osalta velvollisuus koskee katuja, joilla keskimääräinen päivittäinen liikenne on vuositasolla yli 7 000 ajoneuvoa, lukuun ottamatta ITS-direktiivin liitteessä III tarkoitettuja datatyyppejä yksisuuntaiset kadut ja tavarankuljetusmääräykset. Viranomaisen velvollisuudesta huolehtia tietoaineiston saattamisesta koneluettavaan muotoon säädetään lisäksi julkisen hallinnon tiedonhallinnasta annetun lain (906/2019) 19 §:ssä.
