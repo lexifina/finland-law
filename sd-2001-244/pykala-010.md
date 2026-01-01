@@ -1,0 +1,14 @@
+# 10 § Perustamisilmoitus
+
+Rekisteröintivelvollisen yrityksen tai yhteisön perustamisesta tai elinkeinotoiminnan aloittamisesta tai kotipaikan siirtämisestä Suomeen on ilmoitettava tarkoitusta varten vahvistetulla perustamisilmoituslomakkeella tai sähköisessä asiointipalvelussa. Ilmoitus voidaan toimittaa Patentti- ja rekisterihallitukseen tai Verohallintoon.
+
+Perustamisilmoituksessa on annettava seuraavat tiedot ja asiakirjat:
+1) ilmoituksen perusosassa yritys- ja yhteisötietojärjestelmään merkittävät 4 §:n 1 momentin mukaiset tiedot, tieto siitä, mihin rekistereihin ilmoittaudutaan, sekä asiamiehen tai muun yhdyshenkilön yhteystiedot;
+2) Verohallinnon osassa tiedot arvonlisäverovelvolliseksi, vakuutusmaksuverovelvolliseksi tai säännöllisesti palkkoja maksavaksi työnantajaksi merkitsemistä varten sekä tiedot ennakkoperintärekisteriin merkitsemistä ja ennakon määräämistä varten, ellei tietoja ole toimitettu suoraan Verohallintoon;
+3) Patentti- ja rekisterihallituksen osassa kauppa-, yhdistys-, säätiö- ja uskonnollisten yhdyskuntien rekisteriin rekisteröitäväksi säädetyt sellaiset tiedot, joita ei ole ilmoitettu perusosassa, sekä toimintamuodon perusteella määräytyvät liitteet.
+
+Sen estämättä, mitä 1 momentissa ja 2 momentin 3 kohdassa säädetään, perustamisilmoituksella kaupparekisteriin ilmoitettavat ja kaupparekisteriin merkittävän rekisteröintivelvollisen 4 §:n 1 momentissa tarkoitetut muut kuin vain verotusta varten yritys- ja yhteisötietojärjestelmään talletettavat tiedot on yksityistä elinkeinonharjoittajaa, yhdistystä ja säätiötä lukuun ottamatta annettava sähköisessä asiointipalvelussa. Patentti- ja rekisterihallitus voi kuitenkin erityisestä syystä hyväksyä muiden kuin asunto-osakeyhtiölaissa (1599/2009) tarkoitettuja asunto-osakeyhtiöitä ja keskinäisiä kiinteistöosakeyhtiöitä koskevien tietojen antamisen tarkoitusta varten vahvistetulla ilmoituslomakkeella. Jos rekisteröintivelvollinen ei kehotuksesta huolimatta määräajassa anna rekisteri-ilmoitusta sähköisessä asiointipalvelussa tai esitä erityistä syytä ilmoituslomakkeen käyttämiselle, noudatetaan mitä kaupparekisterilain (564/2023) 17 §:ssä säädetään rekisteri-ilmoituksen sillensä jättämisestä.
+
+Edellä 3 §:n 2 momentin 1–3 kohdassa tarkoitetut luonnolliset henkilöt, joilla ei ennakkoperintälain tai arvonlisäverolain säännösten mukaan ole velvollisuutta ilmoittautua rekisteröitäviksi Verohallinnon työnantaja- tai ennakkoperintärekisteriin eikä arvonlisäverovelvollisten rekisteriin, sekä mainitun momentin 4 kohdassa tarkoitetut luonnolliset henkilöt voivat antaa tietonsa erikseen tätä tarkoitusta varten vahvistetulla lomakkeella tai sähköisessä asiointipalvelussa.
+
+Sen lisäksi mitä edellä säädetään, asunto-osakeyhtiön ja keskinäisen kiinteistöosakeyhtiön perustamisilmoituksessa ilmoitetaan Maanmittauslaitokselle osakehuoneistorekisteriin merkittäviksi yhtiön osakkeenomistajien henkilötiedot.
