@@ -5,7 +5,7 @@ Sosiaali- ja terveysministeriön yhteydessä toimii terveydenhuollon palveluvali
 
 Neuvostolla on pysyvä sihteeristö ja asiantuntijoiden verkosto. Valtioneuvosto asettaa neuvoston sosiaali- ja terveysministeriön esityksestä kolmeksi vuodeksi kerrallaan.
 
-Neuvostossa on puheenjohtaja ja enintään 15 jäsentä, joilla kullakin on henkilökohtainen varajäsen. Neuvosto tulee asettaa siten, että sosiaali- ja terveysministeriö, Terveyden ja hyvinvoinnin laitos, Sosiaali- ja terveysalan lupa- ja valvontavirasto, Kansaneläkelaitos ja Suomen Kuntaliitto ry ovat edustettuina. Neuvostossa tulee lisäksi olla lääketieteen, hammaslääketieteen, hoitotyön, oikeustieteen, terveystaloustieteen sekä suomalaisen terveydenhuolto- ja sosiaaliturvajärjestelmän asiantuntemus.
+Neuvostossa on puheenjohtaja ja enintään 15 jäsentä, joilla kullakin on henkilökohtainen varajäsen. Neuvosto tulee asettaa siten, että sosiaali- ja terveysministeriö, Terveyden ja hyvinvoinnin laitos ja Kansaneläkelaitos ovat edustettuina. Neuvostossa tulee lisäksi olla lääketieteen, hammaslääketieteen, hoitotyön, oikeustieteen, terveystaloustieteen sekä suomalaisen terveydenhuolto- ja sosiaaliturvajärjestelmän asiantuntemus.
 
 Valtio rahoittaa vuosittain valtion talousarviossa vahvistettavalla määrällä kustannukset, jotka aiheutuvat neuvoston toiminnasta.
 

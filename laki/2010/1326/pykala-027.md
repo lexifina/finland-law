@@ -9,4 +9,4 @@ Mielenterveyden hoitoa saavalle potilaalle on turvattava hänen tarvitsemansa te
 
 Mielenterveyden hoito on suunniteltava ja toteutettava siten, että se muodostaa toimivan kokonaisuuden muun sosiaali- ja terveydenhuollon kanssa sekä hyvinvointialueella ja kunnissa tehtävän mielenterveyden edistämisen kanssa.
 
-Aluehallintovirastojen tulee järjestää vuosittain lasten ja nuorten mielenterveyden hoidon ja sosiaalihuollon mielenterveystyön työnjaon kehittämiseksi alueelliset yhteistyökokoukset.
+Lupa- ja valvontaviraston tulee järjestää vuosittain lasten ja nuorten mielenterveyden hoidon ja sosiaalihuollon mielenterveystyön työnjaon kehittämiseksi alueellisia yhteistyökokouksia.
