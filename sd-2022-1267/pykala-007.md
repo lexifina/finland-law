@@ -1,6 +1,6 @@
-# 7 § Myyjän asuinvaltion määrittäminen
+# 7 § Myyjän asuinpaikan määrittäminen
 Luku: 2 luku Huolellisuusvelvoitteet
 
-Myyjän asuinvaltiona on pidettävä valtiota, jossa myyjällä on ensisijainen osoite. Jos valtio, jossa myyjällä on ensisijainen osoite, on eri kuin myyjälle verotunnisteen antanut valtio, myyjän asuinvaltiona on lisäksi pidettävä verotunnisteen antanutta valtiota. Jos myyjä on toimittanut Suomeen raportoivalle alustaoperaattorille 3 §:n 1 momentin 7 kohdassa tarkoitetut tiedot kiinteästä toimipaikasta, myyjän asuinvaltiona on pidettävä myös kyseisen kiinteän toimipaikan sijaintivaltiota.
+Myyjällä katsotaan olevan asuinpaikka lainkäyttöalueella, jolla myyjällä on ensisijainen osoite. Jos lainkäyttöalue, jolla myyjällä on ensisijainen osoite, on eri kuin myyjälle verotunnisteen antanut Euroopan unionin jäsenvaltio, myyjällä katsotaan olevan asuinpaikka lisäksi verotunnisteen antaneessa Euroopan unionin jäsenvaltiossa. Jos myyjä on toimittanut Suomeen raportoivalle alustaoperaattorille 3 §:n 1 momentin 7 kohdassa tarkoitetut tiedot kiinteästä toimipaikasta, myyjällä katsotaan olevan asuinpaikka myös siinä Euroopan unionin jäsenvaltiossa, jossa kyseinen kiinteä toimipaikka sijaitsee.
 
-Sen lisäksi, mitä 1 momentissa säädetään, myyjän asuinvaltiona on pidettävä jokaista Euroopan unionin jäsenvaltiota, jonka Euroopan unionin jäsenvaltion tai Euroopan unionin saataville asettama sähköinen tunnistamispalvelu on vahvistanut myyjän verotukselliseksi kotipaikaksi.
+Sen lisäksi, mitä 1 momentissa säädetään, myyjällä katsotaan olevan asuinpaikka jokaisella tunnistamispalvelun vahvistamalla lainkäyttöalueella.

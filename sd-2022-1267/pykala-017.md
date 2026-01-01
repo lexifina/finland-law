@@ -9,7 +9,7 @@ Raportoivan alustaoperaattorin on 1 momentin mukaisessa tilanteessa ilmoitettava
 3) verkkosivustot ja muut sähköiset osoitteet;
 4) verotunnisteet;
 5) Euroopan unionin jäsenvaltiossa annettu arvonlisäverotunniste;
-6) Euroopan unionin jäsenvaltiot, jotka ovat raportoitavien myyjien 7 §:n mukaisesti määritetyt asuinvaltiot.
+6) Euroopan unionin jäsenvaltiot, joissa raportoitavilla myyjillä katsotaan 7 §:n mukaisesti olevan asuinpaikka.
 
 Suomeen raportoivan alustaoperaattorin on 1 momentissa tarkoitetussa tilanteessa viivytyksettä ilmoitettava Verohallinnolle 2 momentissa tarkoitettujen tietojen muutoksista.
 
