@@ -11,7 +11,7 @@ Työ- ja elinkeinoministeriön tehtävänä on:
 7) toimia yleisasetuksen 71 artiklan 1 kohdassa tarkoitettuna Euroopan unionin alue- ja rakennepolitiikan ohjelman hallintoviranomaisena ja hoitaa mainitun asetuksen 72 artiklassa tarkoitetut tehtävät;
 8) hoitaa yleisasetuksen 76 artiklassa tarkoitettu Euroopan unionin alue- ja rakennepolitiikan ohjelman kirjanpitotoiminto.
 
-Työ- ja elinkeinoministeriö hoitaa 1 momentin 1–5 kohdassa tarkoitettuja tehtäviä yhteistyössä muiden ministeriöiden, maakuntien liittojen, kuntien, elinkeino-, liikenne- ja ympäristökeskusten ja muiden julkisten ja yksityisten toimijoiden kanssa.
+Työ- ja elinkeinoministeriö hoitaa 1 momentin 1–5 kohdassa tarkoitettuja tehtäviä yhteistyössä muiden ministeriöiden, maakuntien liittojen, kuntien, elinvoimakeskusten ja muiden julkisten ja yksityisten toimijoiden kanssa.
 
 Työ- ja elinkeinoministeriön on hallinnollisesti eriytettävä 1 momentin 7 ja 8 kohdissa tarkoitetut tehtävät toisistaan yleisasetuksen 71 artiklan 4 kohdassa tarkoitetulla tavalla.
 
