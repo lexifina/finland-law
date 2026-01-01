@@ -4,7 +4,7 @@ Luku: 2 luku Tietojen ilmoittaminen
 Raportoitavasta järjestelystä on annettava seuraavat tiedot:
 1) palvelun tarjoajien, asianomaisten verovelvollisten ja asianomaisiin verovelvollisiin etuyhteydessä olevien henkilöiden nimi, verotuksellinen kotipaikka ja verotunniste, luonnollisen henkilön syntymäaika ja -paikka sekä muut tunnistamiseen liittyvät tiedot;
 2) yksityiskohtaiset tiedot tunnusmerkeistä, jotka tekevät järjestelystä raportoitavan;
-3) tiivistelmä raportoitavan järjestelyn sisällöstä, mahdollinen nimike, jolla järjestely yleisesti tunnetaan, ja yleinen kuvaus olennaisista liiketoimista tai järjestelyistä;
+3) tiivistelmä raportoitavan järjestelyn sisällöstä, mahdollinen nimike, jolla järjestely yleisesti tunnetaan, yleinen kuvaus olennaisista liiketoimista tai järjestelyistä sekä muut tavoiteltua veroetua kuvaavat tiedot;
 4) päivä, jona raportoitavan järjestelyn ensimmäinen vaihe on toteutettu tai toteutetaan;
 5) yksityiskohtaiset tiedot kansallisista säännöksistä, joihin raportoitava järjestely perustuu;
 6) raportoitavan järjestelyn arvo;

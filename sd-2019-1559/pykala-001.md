@@ -10,5 +10,5 @@ Lakia sovelletaan sellaisiin järjestelyihin, joilla voi olla vaikutusta hallinn
 4) vähintään yksi järjestelyyn osallistuvista henkilöistä harjoittaa toimintaa toisessa valtiossa tai lainkäyttöalueella ilman, että sillä on verotuksellista kotipaikkaa tai kiinteää toimipaikkaa siellä.
 
 Lakia sovelletaan myös järjestelyihin, jotka voivat:
-1) vaikuttaa verotusmenettelystä annetun lain 17 a–17 d §:n mukaisiin tai vastaaviin toisen valtion tai lainkäyttöalueen velvoitteisiin; tai
+1) vaikuttaa verotusmenettelystä annetun lain 17 a tai 17 c §:n mukaisiin tai vastaaviin toisen valtion tai lainkäyttöalueen velvoitteisiin; tai
 2) vaikeuttaa tosiasiallisen edunsaajan tunnistamista.

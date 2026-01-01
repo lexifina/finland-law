@@ -6,4 +6,4 @@ Siltä osin kuin kyse on tiedoista, joita tarkoitetaan asianajajista annetun lai
 2) luvan saaneista oikeudenkäyntiavustajista annetun lain (715/2011) mukainen luvan saanut oikeudenkäyntiavustaja; tai
 3) valtion oikeusapu- ja edunvalvontapiireistä annetun lain (477/2016) mukainen julkinen oikeusavustaja.
 
-Edellä 1 momentissa tarkoitetun palvelun tarjoajan on ilmoitettava ilman aiheetonta viivästystä saman järjestelyn toiselle palvelun tarjoajalle, tai jos toista palvelun tarjoajaa ei ole, asianomaiselle verovelvolliselle tätä koskevasta verotusmenettelystä annetun lain 17 e §:n mukaisesta tiedonantovelvollisuudesta tai mainitun lain 14 f §:n mukaisesta ilmoitusvelvollisuudesta sekä Verohallinnon antama viitenumero.
+Edellä 1 momentissa tarkoitetun palvelun tarjoajan on ilmoitettava ilman aiheetonta viivästystä asiakkaanaan olevalle palvelun tarjoajalle, tai sen puuttuessa asiakkaanaan olevalle asianomaiselle verovelvolliselle tätä koskevasta verotusmenettelystä annetun lain 17 e §:n mukaisesta tiedonantovelvollisuudesta tai mainitun lain 14 f §:n mukaisesta ilmoitusvelvollisuudesta sekä Verohallinnon antama viitenumero.
