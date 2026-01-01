@@ -1,6 +1,6 @@
 # 5 § Rekistereihin liittyvät vastuut
 
-Ruokavirasto, aluehallintovirasto, elinkeino-, liikenne- ja ympäristökeskus sekä kunta ovat ruokahallinnon tietovarannon yhteisrekisterinpitäjiä. Ruokavirasto vastaa rekisterien yleisestä toiminnasta ja käytettävyydestä, tietojen eheydestä, suojaamisesta ja säilyttämisestä sekä rekistereihin liittyvien palvelujen teknisestä toteuttamisesta.
+Ruokavirasto, elinvoimakeskus sekä kunta ovat ruokahallinnon tietovarannon yhteisrekisterinpitäjiä. Ruokavirasto vastaa rekisterien yleisestä toiminnasta ja käytettävyydestä, tietojen eheydestä, suojaamisesta ja säilyttämisestä sekä rekistereihin liittyvien palvelujen teknisestä toteuttamisesta.
 
 Kukin rekisterinpitäjä vastaa käsittelyvastuullaan olevien tietojen yleisen tietosuoja-asetuksen 5 artiklan 1 kohdan d alakohdassa tarkoitetusta täsmällisyydestä, 16 artiklan mukaisesta tietojen oikaisemisesta sekä 32 artiklan 4 kohdan mukaisista toimenpiteistä henkilötietojen käsittelyyn osallistuvan henkilöstön ohjeistamiseksi ja kouluttamiseksi henkilötietojen turvalliseen käsittelyyn. Kukin rekisterinpitäjä toteuttaa yleisen tietosuoja-asetuksen 15 artiklan mukaista rekisteröidyn oikeutta saada pääsy omiin tietoihin hallussaan olevien tietojen osalta. Ruokavirasto vastaa muista yleisessä tietosuoja-asetuksessa rekisterinpitäjälle säädetyistä velvollisuuksista.
 
