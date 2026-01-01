@@ -14,6 +14,6 @@ Palveluyksikössä saa olla enintään seitsemän asiakaspaikkaa. Samassa rakenn
 
 Kiireellisissä tapauksissa voidaan väliaikaisesti poiketa 3 momentissa säädetyistä lasten määristä, jos se on välttämätöntä lapsen hoivan järjestämiseksi.
 
-Sosiaali- ja terveysalan lupa- ja valvontavirasto voi hyväksyä määräaikaisesti perheryhmäkotitoiminnan aloittamisen ennen kuin sosiaali- ja terveydenhuollon valvonnasta annetun lain (741/2023) 21 §:n 2 momentissa tarkoitettu rekisteröintipäätös on tehty, jos palvelua ei saada laajamittaisen maahantulon tai muun siihen verrattavan syyn vuoksi muutoin järjestettyä.
+Lupa- ja valvontavirasto voi hyväksyä määräaikaisesti perheryhmäkotitoiminnan aloittamisen ennen kuin sosiaali- ja terveydenhuollon valvonnasta annetun lain (741/2023) 21 §:n 2 momentissa tarkoitettu rekisteröintipäätös on tehty, jos palvelua ei saada laajamittaisen maahantulon tai muun siihen verrattavan syyn vuoksi muutoin järjestettyä.
 
 Perheryhmäkodin palveluksessa olevaan henkilöön sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tässä pykälässä tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974). Aineiden ja esineiden haltuunotosta ja asiakkaan käytössä olevien tilojen tarkastamisesta perheryhmäkodissa säädetään kotoutumisen edistämisestä annetun lain 33 §:ssä.

@@ -9,4 +9,4 @@ Palveluja annettaessa ja kehitettäessä on huomioitava perheen ja muiden lähei
 
 Sosiaalihuollossa tehtävä mielenterveystyö on suunniteltava ja toteutettava siten, että se muodostaa toimivan kokonaisuuden muun sosiaali- ja terveydenhuollon kanssa sekä hyvinvointialueella ja kunnissa tehtävän mielenterveyden edistämisen kanssa.
 
-Aluehallintoviraston tulee järjestää vuosittain lasten ja nuorten mielenterveystyön ja mielenterveyden hoidon työnjaon kehittämiseksi alueelliset yhteistyökokoukset.
+Lupa- ja valvontaviraston tulee järjestää vuosittain lasten ja nuorten mielenterveystyön ja mielenterveyden hoidon työnjaon kehittämiseksi alueelliset yhteistyökokoukset.
