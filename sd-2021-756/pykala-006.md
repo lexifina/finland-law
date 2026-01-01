@@ -7,4 +7,4 @@ Alueiden kehittämisen valtakunnallinen vastuu on valtiolla. Alueiden kehittämi
 
 Alueiden kehittämiseen liittyvien kunnan tehtävien hoitamisesta alueella vastaa 7 §:ssä tarkoitettu maakunnan liitto aluekehittämisviranomaisena.
 
-Elinkeino-, liikenne- ja ympäristökeskuksista ja niiden tehtävistä alueiden kehittämisessä säädetään elinkeino-, liikenne- ja ympäristökeskuksista annetussa laissa (897/2009).
+Elinvoimakeskuksista ja niiden tehtävistä alueiden kehittämisessä säädetään elinvoimakeskuksista sekä Työllisyys-, kehittämis- ja hallintokeskuksesta annetussa laissa (531/2025).
