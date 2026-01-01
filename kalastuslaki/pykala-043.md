@@ -1,0 +1,8 @@
+# 43 § Kalastusoikeuksien yhteensovittaminen erityisellä kalastusetuusalueella
+Luku: 5 luku Pyynnin järjestäminen
+
+Jollei erityisperusteista kalastusetuutta perustettaessa muuta ole määrätty, yhteiseen vesialueeseen sisältyvällä erityisellä kalastusetuusalueella kalastusoikeus jakautuu yhteisen alueen osakaskiinteistöjen ja erityisperusteisen kalastusetuuden osakaskiinteistöjen kesken siten, että erityisperusteisen kalastusetuuden osakaskiinteistön pyydysyksiköiden enimmäismäärä on samansuuruinen kuin sellaisen yhteisen vesialueen osakaskiinteistön pyydysyksikkömäärä, joka talojen verollepanossa määrätyn veroluvun perusteella vastaa suuruudeltaan kiinteistöä, johon kuuluu erityisperusteinen kalastusetuus. Mitä edellä säädetään, sovelletaan myös osakaskuntaan kuulumattomaan vesialueeseen.
+
+Jollei erityisperusteista kalastusetuutta perustettaessa muuta ole määrätty, valtiolle kuuluvaan vesialueeseen sisältyvällä erityisellä kalastusetuusalueella kalastusoikeus jakautuu siten, että puolet kalastusetuusalueen kestävän kalastuksen enimmäismäärästä kuuluu valtiolle ja puolet erityisperusteisten kalastusetuuksien osakaskiinteistöille lukuun ottamatta Inarijärveä, jossa valtiolle kuuluu kaksi kolmasosaa ja erityisperusteisten kalastusetuuksien osakaskiinteistöille yksi kolmasosa kestävän kalastuksen enimmäismäärästä.
+
+Jos valtiolle kuuluvalla vesialueella olevaan erityiseen kalastusetuusalueeseen kohdistuu useita eri erityisperusteisia kalastusetuuksia, jakautuu erityisperusteisten kalastusetuuksien osakaskiinteistöille kuuluva kalastusoikeus näiden kesken talojen verollepanossa määrättyjen verolukujen mukaisessa suhteessa ja kuhunkin taloon kuuluvien osakaskiinteistöjen kesken sen mukaan kuin kukin osakaskiinteistö on saanut osuutta yhteiseen etuuteen.

@@ -1,0 +1,6 @@
+# 131 § Kalastusalueen tehtäviä, oikeuksia ja velvoitteita koskevat siirtymäsäännökset
+Luku: 15 luku Voimaantulo
+
+Kumotun lain 68 §:ssä tarkoitettua kalastusaluetta koskevat oikeudet, sopimukset, sitoumukset ja velvoitteet siirtyvät sille kalatalousalueelle, jonka alueeseen enin osa lakkaavasta kalastusalueesta kuuluu. Jos kalatalousalueet eivät keskenään pääse asiasta sopimukseen, päättää elinkeino-, liikenne- ja ympäristökeskus siitä, mille kalatalousalueelle kalastusalueiden oikeudet, sopimukset, sitoumukset ja velvoitteet kulloinkin siirtyvät. Kalatalousalue tulee kalastusalueen sijaan asianosaiseksi tämän lain voimaan tullessa hallintoviranomaisessa tai tuomioistuimessa vireillä olevassa asiassa.
+
+Vesialueen omistajalle kumotun lain 89 a §:n ja 91 §:n nojalla maksettaviin korvauksiin tarkoitetut varat, jotka on talletettu aluehallintovirastoon rahan, arvo-osuuksien, arvopaperien tai asiakirjain tallettamisesta velan maksuna tai vapautumiseksi muusta suoritusvelvollisuudesta annetun lain (281/1931) 1 §:n mukaisesti, on niiden palautuessa mainitun lain 7 §:ssä tarkoitetun määräajan päätyttyä maksettava sille kalatalousalueelle, jonka jäsen korvaukseen oikeutettu vesialueen omistaja on. Jos korvaukseen oikeutettua omistajaa ei ole tiedossa, sovelletaan varojen palauttamiseen 1 momentissa säädettyä.

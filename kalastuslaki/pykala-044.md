@@ -1,0 +1,6 @@
+# 44 § Kalastusoikeuksien yhteensovittaminen erityisellä kalastuspaikalla
+Luku: 5 luku Pyynnin järjestäminen
+
+Erityisperusteisen kalastusetuuden mukainen kalastusoikeus erityisellä kalastuspaikalla kuuluu yksinomaan erityisperusteisen kalastusetuuden osakaskiinteistöille, jollei muuta erityisperusteista kalastusetuutta perustettaessa ole määrätty. Vesialueen omistaja saa erityisellä kalastuspaikalla harjoittaa muuta kalastusta, jollei se merkittävästi häiritse erityisperusteisen kalastusetuuden käyttämistä. Kalastusetuuden kuuluessa usealle kiinteistölle kalastusoikeus niiden kesken jakautuu osuuksien mukaisessa suhteessa.
+
+Erityiseen kalastuspaikkaan kohdistuvan kalastusoikeuden osakaskiinteistöille määrätään niiden kokonaispyydysyksikkömäärä vertaamalla kalastuspaikasta saatavaa saalismäärää koko saalismäärään siltä vesialueelta, johon kalastusetuus sisältyy.
