@@ -1,0 +1,2 @@
+Laki varhaiskasvatuksen palvelusetelistä
+Eduskunnan päätöksen mukaisesti säädetään:
