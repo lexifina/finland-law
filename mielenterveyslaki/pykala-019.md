@@ -1,0 +1,6 @@
+# 19 § Rikoksesta syytetyn kehitysvammaisen erityishuolto
+Luku: 3 luku Mielentilatutkimukseen määrätyn mielentilan tutkiminen ja hoito tahdosta riippumatta
+
+Jos Terveyden ja hyvinvoinnin laitos 18 §:n 2 momentissa tarkoitetussa tapauksessa toteaa, että kehitysvammaisten erityishuollosta annetun lain (519/1977) 32 §:n 1 momentissa säädetyt edellytykset tahdosta riippumattomaan erityishuoltoon ovat olemassa, laitos päättää tahdosta riippumattomasta erityishuollosta. Terveyden ja hyvinvoinnin laitoksen päätös vastaa tällöin kehitysvammaisten erityishuollosta annetun lain 33 §:n 3 momentissa tarkoitettua päätöksiä tekevän vaativan moniammatillisen tuen asiantuntijaryhmän päätöstä. Päätöstä ei alisteta hallinto-oikeuden vahvistettavaksi.
+
+Jos Terveyden ja hyvinvoinnin laitos kehitysvammaisten erityishuollosta annetun lain 9 §:ssä tarkoitetun vaativan moniammatillisen tuen asiantuntijaryhmän esityksestä katsoo, että kehitysvammaisten erityishuollosta annetun lain 32 §:n 1 momentissa säädettyjä edellytyksiä tahdosta riippumatta annettavaan erityishuoltoon ei enää ole, erityishuolto on heti lopetettava ja potilas poistettava erityishuoltoa antavasta toimintayksiköstä hänen sitä halutessaan.

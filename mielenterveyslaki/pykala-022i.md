@@ -1,0 +1,6 @@
+# 22 i § Henkilöntarkastus ja -katsastus
+Luku: 4 a luku Potilaan perusoikeuksien rajoittaminen tahdosta riippumattoman hoidon ja tutkimuksen aikana
+
+Jos on perusteltua syytä epäillä, että potilaalla on vaatteissaan tai muutoin yllään 22 g §:ssä tarkoitettuja aineita tai esineitä, hänelle saadaan asian selvittämiseksi toimittaa henkilöntarkastus. Jos on todennäköisiä syitä epäillä, että potilas on päihdyttävän aineen vaikutuksen alainen tai että hänellä on niitä tai 22 g §:ssä tarkoitettuja aineita tai esineitä kehossaan, hänelle saadaan toimittaa henkilönkatsastus, joka käsittää potilaan ruumiin tarkastamisen, puhalluskokeen, veri-, virtsa- tai sylkinäytteen ottamisen. Näytteen antamisesta tai kokeen suorittamisesta ei saa aiheutua tarpeetonta haittaa potilaalle.
+
+Henkilöntarkastuksen tai -katsastuksen toimittamisesta päättää potilaan hoidosta vastaava lääkäri, ja se on tehtävä toimintayksikön henkilökuntaan kuuluvan kahden terveydenhuollon ammattihenkilöistä annetussa laissa (559/1994) tarkoitetun ammattihenkilön läsnä ollessa. Henkilönkatsastuksen saa suorittaa vain terveydenhuollon ammattihenkilö. Lääketieteellistä asiantuntemusta vaativan tutkimuksen saa suorittaa vain lääkäri. Tarkastuksista on tehtävä merkinnät potilasasiakirjoihin.

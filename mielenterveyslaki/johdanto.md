@@ -1,0 +1,2 @@
+Mielenterveyslaki
+Eduskunnan päätöksen mukaisesti säädetään:

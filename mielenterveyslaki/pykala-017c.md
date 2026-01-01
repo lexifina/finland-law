@@ -1,0 +1,10 @@
+# 17 c § Hoidon jatkamisesta päättäminen erityistilanteissa
+Luku: 3 luku Mielentilatutkimukseen määrätyn mielentilan tutkiminen ja hoito tahdosta riippumatta
+
+Terveyden ja hyvinvoinnin laitoksen on käsiteltävä 17 b §:ssä tarkoitetut potilaan hoidon jatkamista ja hoidon lopettamista koskevat asiat kiireellisinä. Terveyden ja hyvinvoinnin laitoksen päättäessä potilaan hoidon jatkamisesta tai lopettamisesta 12 a–12 c §:ää ei sovelleta.
+
+Terveyden ja hyvinvoinnin laitoksen on päätettävä 17 b §:n 3 momentissa tarkoitetun esityksen perusteella potilaan hoidon jatkamisesta, jos edellytykset hoitoon määräämiselle potilaan tahdosta riippumatta ovat edelleen olemassa, tai hoidon lopettamisesta, jos edellytyksiä hoitoon määräämiselle tahdosta riippumatta ei ole. Päätös on tehtävä viimeistään 14 päivän kuluessa 17 b §:n 2 momentissa tarkoitetusta väliaikaispäätöksestä tai siitä, kun potilas on palautettu sairaalaan tutkittavaksi 17 b §:n 2 momentissa tarkoitetun määräyksen nojalla. Jos asian selvittäminen sitä välttämättä vaatii, Terveyden ja hyvinvoinnin laitoksen on mainitun 14 päivän kuluessa tehtävä uusi väliaikaispäätös potilaan hoidon jatkamisesta enintään 14 päiväksi, jonka kuluessa Terveyden ja hyvinvoinnin laitoksen on päätettävä potilaan hoidon jatkamisesta tai hoidon lopettamisesta.
+
+Terveyden ja hyvinvoinnin laitoksen päätös potilaan hoidon jatkamisesta väliaikaispäätöstä lukuun ottamatta on heti alistettava hallinto-oikeuden vahvistettavaksi. Lisäksi Terveyden ja hyvinvoinnin laitoksen on lähetettävä Lupa- ja valvontavirastolle ilmoitus tekemästään potilaan hoidon jatkamista tai hoidon lopettamista koskevasta päätöksestä väliaikaispäätöstä lukuun ottamatta. Ilmoituksessa on mainittava potilaan tunnistetiedot sekä syy 17 §:n 3 momentissa tarkoitetun määräajan ylitykselle.
+
+Terveyden ja hyvinvoinnin laitoksen hoidon jatkamista koskevan muun kuin väliaikaispäätöksen nojalla potilasta saadaan pitää hoidossa hänen tahdostaan riippumatta enintään kuusi kuukautta. Päätettäessä tämän jälkeen potilaan hoidon jatkamisesta ja hoidon lopettamisesta noudatetaan 17 §:n 3–5 momenttia.
