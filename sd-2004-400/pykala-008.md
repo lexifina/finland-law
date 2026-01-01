@@ -3,7 +3,7 @@ Luku: 2 luku Työneuvoston lausunnot
 
 Työneuvoston lausuntoa voi pyytää:
 1) tuomioistuin;
-2) aluehallintovirasto;
+2) Lupa- ja valvontavirasto;
 3) työnantajien tai työntekijöiden keskusjärjestö;
 4) valtion työmarkkinapolitiikkaa käsittelevä ministeriö;
 5) kirkon sopimusvaltuuskunta;
