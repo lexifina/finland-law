@@ -4,7 +4,7 @@ Luku: 3 luku Metsäkeskuksen tehtävät
 Metsäkeskuksen johtokunnan tehtävänä on:
 1) johtaa ja valvoa metsäkeskuksen toimintaa;
 2) päättää metsäkeskuksen yleisistä strategisista neuvottelutavoitteista maa- ja metsätalousministeriön kanssa käytäviä tulosneuvotteluja varten;
-3) päättää metsäkeskuksen julkisen palvelun yksikön, maakunnan liittojen ja elinkeino-, liikenne- ja ympäristökeskusten strategisen yhteistyön valtakunnallisista linjoista;
+3) päättää metsäkeskuksen julkisen palvelun yksikön, maakunnan liittojen, Lupa- ja valvontaviraston ja elinvoimakeskusten strategisen yhteistyön valtakunnallisista linjoista;
 4) päättää toiminta- ja taloussuunnitelmasta sekä vahvistaa vuotuinen talousarvio;
 5) vahvistaa metsäkeskuksen työjärjestys;
 6) tehdä maa- ja metsätalousministeriölle esitys kestävän metsätalouden rahoitusta koskevan lainsäädännön nojalla myönnettävien valtion tukien kohdentamisesta eri toimenpiteille ja kyseisen määrärahan tarpeesta;
