@@ -9,4 +9,4 @@ Lisäksi toimivaltaisella viranomaisella on oikeus saada salassapitosäännöste
 3) ympäristöhallinnon tietojärjestelmästä tarpeelliset tiedot vesiviljelyä ja eläintenpitoa harjoittavista ympäristöluvan saaneista ja rekisteröityneistä toimijoista;
 4) oikeushallinnon tietojärjestelmästä tiedot toimijaan kohdistuvasta eläintenpitokiellosta.
 
-Aluehallintovirastolla ja elinkeino-, liikenne- ja ympäristökeskuksella on lisäksi salassapitosäännösten estämättä oikeus saada maksutta välttämättömät tiedot sakon täytäntöönpanosta annetun lain (672/2002) 46 §:ssä tarkoitetusta sakkorekisteristä tämän lain 36 §:n mukaisen seuraamusmaksun määräämistä varten.
+Ruokavirastolla ja elinvoimakeskuksella on lisäksi salassapitosäännösten estämättä oikeus saada maksutta välttämättömät tiedot sakon täytäntöönpanosta annetun lain (672/2002) 46 §:ssä tarkoitetusta sakkorekisteristä tämän lain 36 §:n mukaisen seuraamusmaksun määräämistä varten.

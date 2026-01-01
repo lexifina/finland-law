@@ -1,7 +1,7 @@
 # 36 § Eläinten tunnistamis- ja rekisteröintivalvonnan seuraamusmaksu
 Luku: 6 luku Pakkokeinot ja seuraamukset
 
-Aluehallintovirasto ja elinkeino-, liikenne- ja ympäristökeskus voivat määrätä vähintään 300 euron ja enintään 5 000 euron eläinten tunnistamis- ja rekisteröintivalvonnan seuraamusmaksun sille, joka:
+Ruokavirasto ja elinvoimakeskus voivat määrätä vähintään 300 euron ja enintään 5 000 euron eläinten tunnistamis- ja rekisteröintivalvonnan seuraamusmaksun sille, joka:
 1) laiminlyö 3–6 ja 19 §:ssä säädetyn ilmoitusvelvollisuuden;
 2) laiminlyö 7 §:ssä säädetyn tietojen kirjaamis- ja säilytysvelvollisuuden;
 3) laiminlyö 8–15 §:ssä säädetyn merkitsemisvelvollisuuden;
