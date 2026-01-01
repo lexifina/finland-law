@@ -9,6 +9,4 @@ Luontoisetu katsotaan sen verovuoden tuloksi, jonka aikana se on saatu vallintaa
 
 Työnantajan työntekijälleen antama joukkoliikenteen henkilökohtainen matkalippu asunnon ja työpaikan välistä matkaa varten on verovapaata tuloa 3 400 euroon asti. Joukkoliikenteen osuus liikkumispalvelupaketista rinnastetaan henkilökohtaiseen joukkoliikenteen matkalippuun.
 
-Työnantajan työntekijälleen antama polkupyöräetu on verovapaata tuloa 1 200 euroon asti. Polkupyöräedun ja 3 momentissa tarkoitetun joukkoliikenteen matkalipun verovapaa enimmäismäärä on kuitenkin yhteensä 3 400 euroa.
-
 Sähköauton latauslaite katsotaan auton lisävarusteeksi autoedun verotusarvoa laskettaessa.
