@@ -1,0 +1,10 @@
+# 1 § Lain soveltamisala ja määräyksenantovaltuus
+Luku: 1 luku Soveltamisala ja tiedonantovelvollisuuden alueellinen ulottuvuus
+
+Tässä laissa säädetään raportoitavia liiketoimia koskevien tietojen ilmoittamisesta sekä raportoivien kryptovarapalvelun tarjoajien huolellisuus-, rekisteröinti- ja muista velvoitteista. Raportoitavia liiketoimia koskevien tietojen antamisesta säädetään verotusmenettelystä annetun lain (1558/1995) 17 g §:ssä.
+
+Lakia sovelletaan raportoitavia liiketoimia koskeviin tietoihin, joilla voi olla vaikutusta hallinnollisesta yhteistyöstä verotuksen alalla ja direktiivin 77/799/ETY kumoamisesta annetun neuvoston direktiivin lainsäädännön alaan kuuluvien säännösten kansallisesta täytäntöönpanosta ja direktiivin soveltamisesta annetun lain (185/2013) 4 §:ssä tarkoitettujen verojen suuruuteen ja määräytymiseen.
+
+Sen lisäksi, mitä 2 momentissa säädetään, lakia sovelletaan raportoitavia liiketoimia koskeviin tietoihin, joita Suomi on velvollinen vaihtamaan automaattisesti muiden hyväksyttyjen lainkäyttöalueiden kanssa veroasioissa annettavasta keskinäisestä virka-avusta tehdyn yleissopimuksen (SopS 20 ja 21/1995), sellaisena kuin se on muutettuna 27 päivänä toukokuuta 2010 tehdyllä pöytäkirjalla (SopS 39 ja 40/2011), 6 artiklan nojalla ja kyseisen artiklan nojalla kryptovarojen raportointikehyksen mukaisesta automaattisesta tietojenvaihdosta tehdyn toimivaltaisten viranomaisten monenkeskisen sopimuksen (SopS 32/2025) mukaisesti.
+
+Verohallinto voi sen varmistamiseksi, että 2 ja 3 momentissa tarkoitettua kansainvälistä sääntelyä sovelletaan yhdenmukaisesti muiden lainkäyttöalueiden kanssa, antaa tarkempia määräyksiä 2 luvun mukaisten määritelmien ja 3 luvun mukaisten huolellisuusvelvoitteiden soveltamisesta, 46, 47 ja 49 §:ssä tarkoitetuista ilmoitettavista tiedoista ja 5 luvussa tarkoitetuista erityisistä velvoitteista. Verohallinto voi lisäksi antaa tarkempia määräyksiä 48 §:ssä tarkoitetuista ilmoitettavista tiedoista ja rajoittaa näiden tietojen ilmoittamista.
