@@ -1,0 +1,2 @@
+Laki valtakunnallisesta osaamistietovarannosta
+Eduskunnan päätöksen mukaisesti säädetään:
