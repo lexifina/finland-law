@@ -1,8 +1,8 @@
 # 13 § Rekisterinpitäjät
 
-Kehittämis- ja hallintokeskus, työvoimaviranomaiset, hyvinvointialueet ja Kansaneläkelaitos ovat 11 §:ssä tarkoitettujen tietojen yhteisrekisterinpitäjiä.
+Työllisyys-, kehittämis- ja hallintokeskus, työvoimaviranomaiset, hyvinvointialueet ja Kansaneläkelaitos ovat 11 §:ssä tarkoitettujen tietojen yhteisrekisterinpitäjiä.
 
-Kehittämis- ja hallintokeskus vastaa asiakastietojärjestelmän ja tietoaineiston yleisen tietosuoja-asetuksen:
+Työllisyys-, kehittämis- ja hallintokeskus vastaa asiakastietojärjestelmän ja tietoaineiston yleisen tietosuoja-asetuksen:
 1) 25 artiklassa tarkoitetusta sisäänrakennetusta ja oletusarvoisesta tietosuojasta;
 2) 32 artiklassa tarkoitetusta käsittelyn turvallisuudesta;
 3) 35 artiklassa tarkoitetusta tietosuojaa koskevasta vaikutustenarvioinnista;
