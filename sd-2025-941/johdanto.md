@@ -1,0 +1,2 @@
+Laki yhteistoiminnasta evankelis-luterilaisessa kirkossa
+Eduskunnan päätöksen mukaisesti säädetään:
