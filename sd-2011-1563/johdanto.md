@@ -1,0 +1,2 @@
+Laki kasvinsuojeluaineista
+Eduskunnan päätöksen mukaisesti säädetään:
