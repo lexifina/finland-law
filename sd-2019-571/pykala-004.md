@@ -1,0 +1,14 @@
+# 4 § Pankki- ja maksutilien tiedonhakujärjestelmästä luovutettavat pankki- ja maksutilitiedot
+Luku: 2 luku Keskitetty automatisoitu tilitietojärjestelmä
+
+Luottolaitoksen on luovutettava pankki- ja maksutilien tiedonhakujärjestelmän avulla välittömästi ja salassapitosäännösten estämättä 2 momentissa tarkoitettuja tietoja asiakkaistaan toimivaltaiselle viranomaiselle.
+
+Tiedonhakujärjestelmän kautta on luovutettava toimivaltaiselle viranomaiselle seuraavat tiedot, jos toimivaltainen viranomainen on ne salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä oikeutettu muun lain nojalla saamaan:
+1) tilinhaltijan ja tilin käyttöoikeudenhaltijan täydellinen nimi, syntymäaika ja suomalainen henkilötunnus tai sen puuttuessa kansalaisuus sekä asiakkuuden ja tilin käyttöoikeuden alkamis- ja päättymispäivä, tai jos tilinhaltija on oikeushenkilö, sen täydellinen nimi, rekisterinumero, rekisteröimispäivä ja rekisteriviranomainen sekä asiakkuuden alkamis- ja päättymispäivä ja kaikki tilin käyttöoikeudenhaltijat ja näiden luonnollista henkilöä koskevat edellä mainitut tiedot tai jos käyttöoikeudenhaltija on yleinen edunvalvoja, edunvalvojan nimen, syntymäajan ja henkilötunnuksen sijasta palveluntuottajan yksilöintitiedot, edunvalvojan nimike sekä, jos palveluntuottajalla on useampi kuin yksi yleinen edunvalvoja, edunvalvojan järjestysnumero;
+2) rahanpesun ja terrorismin rahoittamisen estämisestä annetun lain 1 luvun 5–7 §:ssä tarkoitettujen tosiasiallisten edunsaajien täydellinen nimi, syntymäaika ja suomalainen henkilötunnus tai sen puuttuessa kansalaisuus;
+3) pankki- ja maksutilin IBAN-numero tai muu yksilöintitunnus sekä tilin avaamis- ja sulkemispäivä;
+4) tallelokeron vuokraajan ja tallelokeron käyttöoikeutetun täydellinen nimi, syntymäaika ja suomalainen henkilötunnus tai sen puuttuessa kansalaisuus sekä tallelokeron yksilöintitieto ja vuokra-ajan pituus, tai jos vuokraaja on oikeushenkilö, sen täydellinen nimi, rekisterinumero, rekisteröimispäivä ja rekisteriviranomainen sekä tallelokeron yksilöintitieto ja vuokra-ajan pituus tai jos käyttöoikeutettu on yleinen edunvalvoja, edunvalvojan nimen, syntymäajan ja henkilötunnuksen sijasta palveluntuottajan yksilöintitiedot, edunvalvojan nimike sekä, jos palveluntuottajalla on useampi kuin yksi yleinen edunvalvoja, edunvalvojan järjestysnumero.
+
+Toimivaltaisen viranomaisen on yksilöitävä säännös, jonka nojalla se pyytää tietoa. Luottolaitokset vastaavat luovutettavien tietojen oikeellisuudesta sekä tietojen oikaisemisesta ilman aiheetonta viivytystä.
+
+Asianajajan asiakasvaratilien yhteyteen on merkittävä nimenomainen tieto siitä, että pankki- tai maksutili on asianajajan asiakasvarojen tili, jota koskee asianajajan salassapitovelvollisuus. Tietoja asiakasvaratileistä ei saa luovuttaa tiedonhakujärjestelmän kautta, vaan ainoastaan tiedon siitä, että kyseessä on asianajajan asiakasvaratili sekä minkä asianajajan asiakasvaratili on kyseessä.

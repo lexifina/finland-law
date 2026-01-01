@@ -1,0 +1,8 @@
+# 1 c § Koostava sovellus
+Luku: 1 luku Yleiset säännökset
+
+Tulli ylläpitää koostavaa sovellusta, jonka avulla se siirtää koneellisesti toimivaltaisten viranomaisten tietopyynnöt 2 ja 3 luvussa säädettyihin käsittelytarkoituksiin 1 a §:ssä tarkoitetuille toimijoille sekä luovuttaa välittämällä näistä vastaanotetut tiedot tietopyynnön mukaisesti toimivaltaiselle viranomaiselle. Tulli on koostavalla sovelluksella käsiteltävien henkilötietojen rekisterinpitäjä.
+
+Koostavalla sovelluksella tapahtuva henkilötietojen käsittely on automaattista. Koostavan sovelluksen kautta luovutetut tiedot on poistettava sovelluksesta välittömästi sen jälkeen, kun tiedot on luovutettu eteenpäin. Ellei toimivaltainen viranomainen ole tiedonhakujärjestelmäänsä hyödyntäen hakenut pyytämiään tietoja koostavasta sovelluksesta Tullin asettamassa määräajassa, tiedot poistuvat sovelluksesta automaattisesti.
+
+Poiketen siitä, mitä luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/679, jäljempänä yleinen tietosuoja-asetus, 15 artiklassa säädetään rekisteröidyn oikeudesta pääsystä tietoihin, pääsyä tietoihin ei ole, kun tietoja käsitellään koostavalla sovelluksella. Tiedot on annettava tietosuojavaltuutetulle rekisteröidyn pyynnöstä noudattaen, mitä tietosuojalain (1050/2018) 34 §:ssä säädetään. Välillisen tarkastusoikeuden käyttöä koskeva pyyntö on esitettävä tietosuojavaltuutetulle taikka Tullille noudattaen henkilötietojen käsittelystä Tullissa annetun lain (650/2019) 35 §:n 2 momenttia. Tullille esitetty pyyntö on toimitettava viipymättä tietosuojavaltuutetulle.
