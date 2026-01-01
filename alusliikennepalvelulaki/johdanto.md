@@ -1,0 +1,2 @@
+Alusliikennepalvelulaki
+Eduskunnan päätöksen mukaisesti säädetään:

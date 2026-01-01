@@ -1,0 +1,8 @@
+# 22 a § Aluksen saapumisilmoitus
+Luku: 6 luku Alusta ja sen lastia koskevat ilmoitukset
+
+Suomen satamaan tai ankkuripaikalle saapuvan meriliikenteessä olevan aluksen liikenteenharjoittajan, asiamiehen tai päällikön on tehtävä aluksen saapumisilmoitus Tullille 20 a §:ssä tarkoitettua merenkulun tiedonhallintajärjestelmää käyttämällä. Ilmoitus on tehtävä vähintään 24 tuntia ennen saapumista tai viimeistään silloin, kun alus lähtee satamasta kohti Suomen satamaa, jos matka-aika on vähemmän kuin 24 tuntia. Jos satama tai ankkuripaikka selviää vasta matkan aikana, ilmoitus on tehtävä viimeistään silloin, kun kohde on selvillä. Tämän lisäksi aluksen liikenteenharjoittajan, asiamiehen tai päällikön on tehtävä aluksesta lopullista saapumisaikaa koskeva ilmoitus sen saavuttua perille.
+
+Saapumisilmoituksen tulee sisältää EMSW-asetuksen liitteessä olevan A osan mukaiset tiedot. Tämän lisäksi Tulli voi vaatia saapumisilmoituksessa mainitun asetuksen liitteen B kohdassa 1–6 tarkoitettujen FAL-lomakkeiden sekä meriterveysilmoituksen sisältämiä tietoja. Lisäksi Tulli voi vaatia mainitun asetuksen liitteessä olevan C osan kansallisesta lainsäädännöstä ja kansallisista vaatimuksista johtuvia tietoja, jos ne on hyväksytty mainitun asetuksen 2 luvun mukaisesti osaksi Suomelle hyväksyttyä tietoelementtijoukkoa. Tässä momentissa tarkoitettuja tietoja voidaan vaatia, jos ne ovat tarpeen kansallisen sisäisen järjestyksen ja turvallisuuden varmistamiseksi tai tullilainsäädännön, verolainsäädännön, maahanmuuttolainsäädännön, ympäristölainsäädännön taikka terveyttä koskevan lainsäädännön täytäntöön panemiseksi.
+
+Tulli varmistaa, että aluksen saapumisesta EMSW-asetuksen liitteessä olevan A osan 1–5 ja 7 kohdassa edellytetyt tiedot ovat vaatimusten mukaiset.
