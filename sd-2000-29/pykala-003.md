@@ -1,0 +1,4 @@
+# 3 § Eläinlääkäriksi laillistaminen Suomessa suoritetun tutkinnon perusteella
+Luku: 2 luku Eläinlääkäriksi laillistaminen ja väliaikainen eläinlääkärinammatin harjoittaminen
+
+Elintarviketurvallisuusvirasto myöntää hakemuksesta oikeuden toimia laillistettuna eläinlääkärinä henkilölle, joka on suorittanut eläinlääketieteen kandidaatin tutkintoon, muuhun vähintään kolmivuotiseen alempaan korkeakoulututkintoon tai näitä tasoltaan vastaavaan koulutukseen pohjautuvan eläinlääketieteen lisensiaatin tutkinnon sekä antanut Elintarviketurvallisuusvirastolle kirjallisesti ja suullisesti eläinlääkärinvakuutuksen. Elintarviketurvallisuusvirasto vahvistaa eläinlääkärinvakuutuksen kaavan.

@@ -1,0 +1,2 @@
+Laki eläinlääkärinammatin harjoittamisesta
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,12 @@
+# 41 a § Hälytysmekanismi
+Luku: 8 luku Erinäiset säännökset
+
+Elintarviketurvallisuusviraston on ilmoitettava muille jäsenvaltioille laillistetun eläinlääkärin tai 8 §:ssä tarkoitetun henkilön ammatinharjoittamista koskevasta kiellosta tai rajoituksesta taikka ammatinharjoittamisoikeuden poistamisesta sekä siitä, että tuomioistuin on todennut mainitun henkilön käyttäneen väärennettyjä asiakirjoja osoituksena eläinlääkärin ammattipätevyydestä. Ilmoitus tulee tehdä komission ylläpitämässä sähköisessä tietojenvaihtojärjestelmässä (IMI-järjestelmä) lähetettävällä hälytyksellä kolmen vuorokauden kuluessa kieltoa, rajoitusta tai oikeuden poistamista koskevan päätöksen taikka tuomioistuimen tuomion antamisesta.
+
+Elintarviketurvallisuusviraston on viipymättä ilmoitettava IMI-järjestelmän kautta kiellon, rajoituksen tai oikeuden poiston ilmoitettua kestoa koskevista muutoksista. Lisäksi sen on poistettava lähettämänsä hälytys IMI-järjestelmästä kolmen vuorokauden kuluessa siitä, kun hälytykseen johtanut syy on lakannut.
+
+Edellä 1 momentissa tarkoitetusta hälytyksestä on tehtävä viimeistään sen lähettämispäivänä kirjallinen mainitussa momentissa tarkoitetulle henkilölle osoitettu päätös, joka voi olla erillinen tai sisältyä ammatinharjoittamista koskevan kiellon tai rajoituksen asettamista tai ammatinharjoittamisoikeuden poistamista koskevaan päätökseen. Poiketen siitä, mitä 39 §:ssä säädetään, hälytystä koskevaan päätökseen haetaan muutosta samalla tavalla kuin ammatinharjoittamisen kieltämistä tai rajoittamista taikka ammatinharjoittamisoikeuden poistamista koskevaan päätökseen. IMI-järjestelmässä lähetettyyn hälytykseen on liitettävä tieto mahdollisesta muutoksenhausta.
+
+Jos Elintarviketurvallisuusvirasto vastaanottaa tässä laissa tarkoitettua eläinlääkärinammatin harjoittajaa tai laillistamishakemuksen vireille pannutta henkilöä koskevan hälytyksen, sen tulee pyytää hälytyksen lähettäneen jäsenvaltion toimivaltaiselta viranomaiselta selvitys hälytykseen johtaneista syistä sekä arvioida, antavatko syyt aihetta soveltaa tämän lain hallinnollisia turvaamistoimenpiteitä taikka laillistamishakemuksen hylkäämistä koskevia säännöksiä.
+
+Maa- ja metsätalousministeriön asetuksella voidaan antaa Euroopan unionin lainsäädännön edellyttämiä tarkempia säännöksiä 1–3 momentissa mainittujen ilmoitusten ja tietojen lähettämisessä ja hälytysten poistamisessa noudatettavasta menettelystä.
