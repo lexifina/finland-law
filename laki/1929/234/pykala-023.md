@@ -6,4 +6,4 @@ Lupa perheasioiden sovittelutoimintaan voidaan myöntää hakemuksesta yhteisöl
 
 Lupa myönnetään määräajaksi, enintään viideksi vuodeksi kerrallaan. Lupa voidaan peruuttaa, jos tähän katsotaan olevan aihetta.
 
-Myöntäessään luvan aluehallintovirasto voi samalla antaa tarkempia määräyksiä toimialueesta ja tehtävistä sekä velvollisuudesta antaa aluehallintovirastolle toiminnan valvontaa varten tarpeellisia tietoja.
+Myöntäessään luvan Lupa- ja valvontavirasto voi samalla antaa tarkempia määräyksiä toimialueesta ja tehtävistä sekä velvollisuudesta antaa Lupa- ja valvontavirastolle toiminnan valvontaa varten tarpeellisia tietoja.
