@@ -10,8 +10,8 @@ Ruokavirasto voi antaa toimijalle kirjallisen varoituksen tai määrätä toimij
 6) tiedoston pitämisessä on rikottu 15 §:ää tai sen nojalla annettuja säännöksiä; tai
 7) yksityisen laboratorion toiminnassa on rikottu laboratoriolle 19–21 §:ssä säädettyjä hyväksymisen edellytyksiä.
 
-Seuraamusmaksu määrätään maksettavaksi valtiolle. Maksun suuruutta arvioitaessa on otettava huomioon menettelyn laatu, vahingollisuus ja toistuvuus. Maksu voidaan jättää määräämättä tai määrätä maksettavaksi vähimmäismäärää pienempänä, jos tekoa voidaan pitää vähäisenä ja maksun määräämättä jättäminen tai määrääminen vähimmäismäärää pienempänä on kohtuullista laiminlyönnin laatu, toistuvuus, suunnitelmallisuus ja muut olosuhteet huomioon ottaen.
+Maksun suuruutta arvioitaessa on otettava huomioon menettelyn laatu, vahingollisuus ja toistuvuus. Maksu voidaan jättää määräämättä tai määrätä maksettavaksi vähimmäismäärää pienempänä, jos tekoa voidaan pitää vähäisenä ja maksun määräämättä jättäminen tai määrääminen vähimmäismäärää pienempänä on kohtuullista laiminlyönnin laatu, toistuvuus, suunnitelmallisuus ja muut olosuhteet huomioon ottaen.
 
 Seuraamusmaksua ei saa määrätä luonnolliselle henkilölle, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa tai jolle on samasta teosta annettu lainvoimainen tuomio. Jos seuraamusmaksu on määrätty luonnolliselle henkilölle, samasta teosta ei saa tuomita tuomioistuimessa rangaistusta.
 
-Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli kuusi kuukautta. Seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002). Seuraamusmaksu vanhenee viiden vuoden kuluttua seuraamusmaksun määräämispäivästä.
+Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli kuusi kuukautta. Tämän lain nojalla maksettavaksi määrätyn seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002).
