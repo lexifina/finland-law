@@ -1,0 +1,4 @@
+# 29 a § Säännösten toissijaisuus
+Luku: 4 luku Kansainvälisen yksityisoikeuden alaan kuuluvat säännökset
+
+Mitä 19–21 ja 23–29 §:ssä säädetään, sovelletaan ainoastaan, jollei tuomioistuimen toimivallasta sekä tuomioiden tunnustamisesta ja täytäntöönpanosta avioliittoa ja vanhempainvastuuta koskevissa asioissa ja asetuksen (EY) N:o 1347/2000 kumoamisesta annetusta neuvoston asetuksesta (EY) N:o 2201/2003, jäljempänä vuoden 2003 Bryssel IIa -asetus tai tuomioistuimen toimivallasta, päätösten tunnustamisesta ja täytäntöönpanosta avioliittoa ja vanhempainvastuuta koskevissa asioissa ja kansainvälisestä lapsikaappauksesta annetusta neuvoston asetuksesta (EU) 2019/1111, jäljempänä vuoden 2019 Bryssel IIa -asetus, taikka Suomea sitovasta valtiosopimuksesta muuta johdu. Siitä kumpaa asetusta sovelletaan, säädetään vuoden 2019 Bryssel IIa -asetuksen 100 artiklassa.
