@@ -5,7 +5,7 @@ Edellä 47 §:ssä tarkoitetun tarkastuksen suorittamista varten viranomaisella 
 
 Tarkastustehtävän asianmukaiseksi hoitamiseksi voidaan ulkopuolinen tilintarkastaja valtuuttaa suorittamaan tarkastus. Tilintarkastajan tulee olla tilintarkastuslaissa (1141/2015) tarkoitettu tilintarkastaja. Tilintarkastusyhteisön on nimettävä tilintarkastuksesta vastuullinen tilintarkastaja. Tarkastustehtävää suoritettaessa sovelletaan hallintolakia, kielilakia, saamen kielilakia, viranomaisten toiminnan julkisuudesta annettua lakia ja sähköisestä asioinnista viranomaistoiminnassa annettua lakia. Tilintarkastajaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tarkastustehtävää. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.
 
-Tarkastuksesta on laadittava tarkastuskertomus, joka toimitetaan viipymättä asianomaiselle elinkeino-, liikenne- ja ympäristökeskukselle sekä Ruokavirastolle.
+Tarkastuksesta on laadittava tarkastuskertomus, joka toimitetaan viipymättä asianomaiselle elinvoimakeskukselle sekä Ruokavirastolle.
 
 Tarkastusta suorittavalla on oikeus ottaa asiakirjat ja muu tuen käyttöön liittyvä aineisto haltuunsa, jos tarkastuksen päämäärän saavuttaminen tätä edellyttää. Asiakirjat ja muu aineisto tulee viipymättä palauttaa, kun tarkastuksen suorittaminen ei enää edellytä niiden hallussapitoa.
 
