@@ -1,0 +1,4 @@
+# 30 b §
+Luku: 5 luku Erinäiset säännökset
+
+Jos panttilainauslaitos osallistuu rajat ylittävään sulautumiseen tai jakautumiseen Euroopan talousalueella, rekisteriviranomainen ei saa antaa tällaista sulautumista koskevaa eurooppayhtiölain 4 §:n 3 momentissa taikka osakeyhtiölain 16 luvun 26 §:ssä tai jakautumista koskevaa 17 luvun 25 §:ssä tarkoitettua todistusta, jos Lupa- ja valvontavirasto on ilmoittanut rekisteriviranomaiselle ennen mainitun pykälän 2 momentissa tarkoitetun luvan myöntämistä, että panttilainauslaitos ei ole noudattanut sulautumista, jakautumista tai Suomessa tapahtuvan toiminnan lopettamista koskevia säännöksiä. Luvan saa antaa ennen kuin kuukausi on kulunut osakeyhtiölain 16 luvun 6 §:n 2 momentissa tai 17 luvun 6 §:n 2 momentissa tarkoitetusta määräpäivästä vain, jos Lupa- ja valvontavirasto on ilmoittanut, ettei se vastusta sulautumista tai jakautumista.

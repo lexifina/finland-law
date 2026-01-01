@@ -1,0 +1,2 @@
+Laki panttilainauslaitoksista
+Eduskunnan päätöksen mukaisesti säädetään:
