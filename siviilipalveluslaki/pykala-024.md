@@ -1,0 +1,6 @@
+# 24 § Terveystarkastus
+Luku: 5 luku Palveluskelpoisuus, vapauttaminen ja lykkäys siviilipalveluksen suorittamisesta
+
+Siviilipalveluskeskus tai siviilipalveluspaikka voi palveluksen aikana määrätä siviilipalvelusvelvollisen hänen terveydentilansa toteamiseksi osoittamansa lääkärin tai muun terveydenhuollon ammattihenkilön tarkastukseen tai tutkimukseen, jos se on tarpeen palvelustehtävien hoitamisen edellytysten selvittämiseksi tai palveluskelpoisuuden määrittämiseksi. Siviilipalveluskeskus voi antaa siviilipalvelusvelvolliselle vastaavan määräyksen jo ennen palvelukseen määräämistä tai palveluksen aloittamista.
+
+Siviilipalveluskeskuksen on tarkistettava siviilipalvelusvelvollisen terveydentila ja palveluskelpoisuus kolmen viikon kuluessa palveluksen alkamisesta. Siviilipalveluskeskuksen tai siviilipalveluspaikan on lisäksi tarvittaessa tarkistettava siviilipalvelusvelvollisen terveydentila palveluksen aikana ja sen päättyessä. Täydennyspalveluksen, ylimääräisen palveluksen tai liikekannallepanon aikaisen palveluksen aikana siviilipalveluskeskus tarkistaa siviilipalvelusvelvollisen terveydentilan ainoastaan tarvittaessa.

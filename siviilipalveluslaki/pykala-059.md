@@ -1,0 +1,8 @@
+# 59 § Täydennyspalvelukseen määrääminen
+Luku: 8 luku Täydennyspalvelus
+
+Siviilipalveluskeskus järjestää täydennyspalvelusta koulutuksena ja käytännön harjoitteluna. Siviilipalveluskeskus määrää täydennyspalveluksen ajankohdasta, täydennyspalveluspaikasta ja palveluksen kestosta.
+
+Siviilipalvelusvelvolliselle on toimitettava määräys täydennyspalvelukseen 12 kuukauden kuluessa siviilipalvelushakemuksen hyväksymisestä. Määräys voidaan täytäntöönpanon edellyttäessä toimittaa myöhemmin, kuitenkin viimeistään ennen täydennyspalvelusvelvollisuuden päättymistä.
+
+Siviilipalveluskeskuksen on annettava täydennyspalvelusta koskeva määräys siviilipalvelusvelvolliselle todisteellisesti tiedoksi viimeistään kaksi kuukautta ennen täydennyspalveluksen alkua.

@@ -1,0 +1,6 @@
+# 87 § Siviilipalvelusrekisteri ja sen käyttötarkoitus
+Luku: 12 luku Siviilipalvelusrekisteri ja tietosuoja
+
+Siviilipalvelusrekisteri on siviilipalvelusvelvollisia koskeva automaattisen tietojenkäsittelyn avulla pidettävä valtakunnallinen henkilörekisteri. Siviilipalvelusrekisteriä pidetään palvelukseen hakemista, määräämistä, palveluksen suunnittelua ja järjestämistä, palveluskelpoisuuden määrittämistä, valvontaa sekä siviilipalvelusvelvollisten poikkeusolojen aikaista sijoittamista varten.
+
+Siviilipalvelusrekisteriin voi kuulua myös manuaalisesti pidettäviä siviilipalvelusvelvollisuuden suorittamiseen liittyviä asiakirjoja.

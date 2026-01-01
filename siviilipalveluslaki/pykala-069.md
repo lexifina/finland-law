@@ -1,0 +1,8 @@
+# 69 § Palvelusrikkomuksen tutkinta
+Luku: 10 luku Palvelusrikkomukset ja kurinpito
+
+Siviilipalveluskeskuksen on palvelusrikkomusilmoituksen saatuaan suoritettava tutkinta palvelusrikkomuksen selvittämiseksi. Siviilipalveluskeskuksen on asiaa tutkiessaan hankittava asian ratkaisemiseksi tarvittava aineisto rikkomuksesta, siitä epäillyn siviilipalvelusvelvollisen syyllisyydestä ja muista asiaan vaikuttavista seikoista.
+
+Siviilipalveluskeskuksen on laadittava tutkinnasta pöytäkirja. Tutkinnassa on suullisesti kuultava siviilipalvelusvelvollista. Siviilipalveluskeskuksen on annettava siviilipalvelusvelvolliselle todisteellisesti määräys kuulemistilaisuuteen. Ennen kuulemista siviilipalvelusvelvolliselle on ilmoitettava, mistä asiasta ja missä ominaisuudessa häntä kuullaan. Kuuleminen suoritetaan siviilipalveluskeskuksen määräämänä aikana joko siviilipalveluspaikassa tai siviilipalveluskeskuksessa. Kuulustelukertomus on annettava siviilipalvelusvelvolliselle hänen luettavakseen ja tarkistettavakseen ja siihen on merkittävä siviilipalvelusvelvollisen tekemät huomautukset.
+
+Siviilipalvelusvelvolliselle on ennen kurinpitoasian ratkaisemista varattava tilaisuus tutustua tutkintapöytäkirjaan ja muuhun tutkinnassa kertyneeseen aineistoon sekä antaa niiden johdosta selityksensä.

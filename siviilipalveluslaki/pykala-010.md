@@ -1,0 +1,4 @@
+# 10 § Siviilipalvelusvelvollisten sijoitusvelvollisuus
+Luku: 2 luku Siviilipalvelusviranomaiset
+
+Ilman siviilipalveluspaikkaa jäävien siviilipalvelusvelvollisten määrän ylittäessä siviilipalveluskeskuksen majoitus- ja työhönsijoitusresurssit valtioneuvoston on määrättävä viipymättä työ- ja elinkeinoministeriön esittelystä eri ministeriöiden hallinnonaloille siviilipalvelukseen sijoitettavien siviilipalvelusvelvollisten vähimmäislukumäärä.

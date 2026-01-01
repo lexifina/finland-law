@@ -1,0 +1,2 @@
+Siviilipalveluslaki
+Eduskunnan päätöksen mukaisesti säädetään:

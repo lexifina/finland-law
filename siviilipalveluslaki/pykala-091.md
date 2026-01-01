@@ -1,0 +1,8 @@
+# 91 § Lääkärintarkastuskortin säilyttäminen ja siirtäminen
+Luku: 12 luku Siviilipalvelusrekisteri ja tietosuoja
+
+Siviilipalveluspaikka toimittaa siviilipalvelusvelvollisen lääkärintarkastuskortin siviilipalvelusvelvolliselle osoittamalleen terveydenhuolto-organisaatiolle.
+
+Siviilipalvelusvelvollisen vaihtaessa siviilipalveluspaikkaa siviilipalveluspaikan on siirrettävä lääkärintarkastuskortti välittömästi uuteen siviilipalveluspaikkaan.
+
+Siviilipalvelusvelvollisen kotiuduttua lääkärintarkastuskortti on toimitettava välittömästi siviilipalveluskeskukseen.
