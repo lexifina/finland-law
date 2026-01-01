@@ -1,0 +1,10 @@
+# 8 § HUS-yhtymän hyvinvoinnin ja terveyden edistämistehtävä
+Luku: 2 luku Vastuu sosiaali- ja terveydenhuollon järjestämisestä Uudellamaalla
+
+HUS-yhtymän on edistettävä Uudenmaan maakunnan asukkaiden hyvinvointia ja terveyttä. HUS-yhtymällä on ensisijainen vastuu hyvinvoinnin ja terveyden edistämisestä siltä osin kuin tämä tehtävä kytkeytyy muihin sille laissa säädettyihin tehtäviin ja sen vastuulle 9 §:ssä tarkoitetussa HUS-järjestämissopimuksessa sovittuihin tehtäviin.
+
+HUS-yhtymän on strategisessa suunnittelussaan asetettava hyvinvoinnin ja terveyden edistämiselle tavoitteet ja määriteltävä tavoitteita tukevat toimenpiteet. Sen on arvioitava ennakkoon ja otettava huomioon päätöstensä vaikutukset ihmisten hyvinvointiin ja terveyteen väestöryhmittäin. HUS-yhtymän on nimettävä hyvinvoinnin ja terveyden edistämisen vastuutaho.
+
+HUS-yhtymän on seurattava Uudenmaan maakunnan asukkaiden elinoloja, hyvinvointia ja terveyttä sekä niihin vaikuttavia tekijöitä alueittain ja väestöryhmittäin. Sen on raportoitava asukkaiden hyvinvoinnista ja terveydestä, niihin vaikuttavista tekijöistä sekä toteutetuista toimenpiteistä ylimmälle päättävälle toimielimelleen vuosittain. HUS-yhtymän on osallistuttava sosiaali- ja terveydenhuollon järjestämisestä annetun lain 6 §:n 5 momentissa tarkoitetun Helsingin kaupungin hyvinvointikertomuksen ja -suunnitelman sekä mainitun lain 7 §:n 5 momentissa tarkoitettujen kunkin Uudenmaan hyvinvointialueen hyvinvointikertomuksen ja -suunnitelman laatimiseen.
+
+HUS-yhtymän on toimittava hyvinvoinnin ja terveyden edistämisessä yhteistyössä Uudenmaan maakunnan kuntien ja Uudenmaan hyvinvointialueiden kanssa sekä tuettava niitä asiantuntemuksellaan hyvinvoinnin ja terveyden edistämistyössä. Lisäksi HUS-yhtymän on tehtävä hyvinvoinnin ja terveyden edistämisessä yhteistyötä Uudenmaan maakunnassa hyvinvoinnin ja terveyden edistämistyötä tekevien muiden julkisten toimijoiden, yksityisten yritysten ja yleishyödyllisten yhteisöjen kanssa. HUS-yhtymän on osallistuttava sosiaali- ja terveydenhuollon järjestämisestä annetun lain 6 §:n 5 momentissa ja 7 §:n 5 momentissa tarkoitettuihin neuvotteluihin.
