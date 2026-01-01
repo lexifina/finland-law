@@ -10,4 +10,4 @@ Maa- ja metsätalousministeriö toimii yleisasetuksen 71 artiklassa tarkoitettun
 6) yleisasetuksen 76 artiklassa määritellyn kirjanpitotoiminnon tehtävien hoitamisesta;
 7) yleisasetuksen 36 artiklan 5 kohdan mukaisen teknisen avun rahoituksen hallinnoimisesta muualla Suomessa kuin Ahvenanmaalla.
 
-Ohjelman yhdenmukaisen ja tehokkaan toimeenpanon varmistamiseksi maa- ja metsätalousministeriö ohjaa ja valvoo elinkeino-, liikenne- ja ympäristökeskuksia, elinkeino-, liikenne- ja ympäristökeskusten sekä työ- ja elinkeinotoimistojen kehittämis- ja hallintokeskusta, jäljempänä kehittämis- ja hallintokeskus, sekä 5 §:ssä tarkoitettuja kalatalouden paikallisia toimintaryhmiä niiden hoitaessa tässä laissa tarkoitettuja tehtäviä.
+Ohjelman yhdenmukaisen ja tehokkaan toimeenpanon varmistamiseksi maa- ja metsätalousministeriö ohjaa ja valvoo elinvoimakeskuksia, Työllisyys-, kehittämis- ja hallintokeskusta ja 5 §:ssä tarkoitettuja kalatalouden paikallisia toimintaryhmiä niiden hoitaessa tässä laissa tarkoitettuja tehtäviä.
