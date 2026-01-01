@@ -1,0 +1,5 @@
+# 10 § Voimaantulo
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2026. Sen 3 §:n 2 momentin 3 kohta, 5 §:n 2 momentin säännös, jonka mukaan valtioneuvosto ryhtyy tarpeellisiksi katsomiinsa julkisen talouden vakautta ja kestävyyttä korjaaviin toimenpiteisiin, jos koko julkisen talouden kuluvalle tai tulevalle vuodelle arvioitu nimellinen rahoitusasema suhteessa bruttokansantuotteeseen on heikompi kuin -2,5 prosenttia, ja 6 §:n 2 momentin toisen virkkeen säännös, jonka mukaan finanssipolitiikan valvoja ottaa arvioinnissaan huomioon erityisesti, onko koko julkisen talouden kuluvalle tai tulevalle vuodelle arvioitu nimellinen rahoitusasema suhteessa bruttokansantuotteeseen heikompi kuin -2,5 prosenttia, tulevat kuitenkin voimaan 1 päivänä tammikuuta 2031. Lain 3 §:n 2 momentin 4 kohta tulee voimaan 1 päivänä tammikuuta 2033.
+
+Lain 3 §:n 1 momentissa tarkoitettu ylivaalikautinen tavoite asetetaan ensimmäisen kerran vaalikauden 2027 ensimmäisessä julkisen talouden suunnitelmassa vuosille 2027–2033.
