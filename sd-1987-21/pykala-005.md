@@ -3,4 +3,4 @@ Luku: 2 luku Vieraassa valtiossa määrätyn seuraamuksen täytäntöönpano Suo
 
 Vieraassa valtiossa määrätyn seuraamuksen täytäntöönpanosta Suomessa päättää oikeusministeriö.
 
-Ennen kuin oikeusministeriö päättää vieraassa valtiossa määrätyn hoitoseuraamuksen täytäntöönpanosta Suomessa, sen on hankittava Sosiaali- ja terveysalan lupa- ja valvontaviraston lausunto. Jos Sosiaali- ja terveysalan lupa- ja valvontavirasto katsoo, että hoitoseuraamuksen täytäntöönpano Suomessa ei ole perusteltua hoidon tarkoituksen saavuttamiseksi, sitä ei saa määrätä täytäntöönpantavaksi Suomessa.
+Ennen kuin oikeusministeriö päättää vieraassa valtiossa määrätyn hoitoseuraamuksen täytäntöönpanosta Suomessa, sen on hankittava Lupa- ja valvontaviraston lausunto. Jos Lupa- ja valvontavirasto katsoo, että hoitoseuraamuksen täytäntöönpano Suomessa ei ole perusteltua hoidon tarkoituksen saavuttamiseksi, sitä ei saa määrätä täytäntöönpantavaksi Suomessa.
