@@ -9,8 +9,8 @@ Toimivaltainen valvontaviranomainen voi määrätä rehualan toimijan maksamaan 
 5) laiminlyö 22 §:ssä säädetyn ilmoitusvelvollisuuden; taikka
 6) 24 §:n vastaisesti laiminlyö kokeen keskeyttämisen tai keskeyttämisen ilmoittamisen.
 
-Seuraamusmaksun suuruutta arvioitaessa on otettava huomioon menettelyn laatu, vahingollisuus ja toistuvuus. Maksu voidaan jättää määräämättä tai määrätä maksettavaksi vähimmäismäärää pienempänä, jos tekoa voidaan pitää vähäisenä ja maksun määräämättä jättäminen tai määrääminen vähimmäismäärää pienempänä on kohtuullista laiminlyönnin laatu, toistuvuus, suunnitelmallisuus ja muut olosuhteet huomioon ottaen. Seuraamusmaksu määrätään maksettavaksi valtiolle.
+Seuraamusmaksun suuruutta arvioitaessa on otettava huomioon menettelyn laatu, vahingollisuus ja toistuvuus. Maksu voidaan jättää määräämättä tai määrätä maksettavaksi vähimmäismäärää pienempänä, jos tekoa voidaan pitää vähäisenä ja maksun määräämättä jättäminen tai määrääminen vähimmäismäärää pienempänä on kohtuullista laiminlyönnin laatu, toistuvuus, suunnitelmallisuus ja muut olosuhteet huomioon ottaen.
 
 Seuraamusmaksua ei saa määrätä luonnolliselle henkilölle, jota epäillään samasta teosta esitutkinnassa, syyteharkinnassa tai tuomioistuimessa vireillä olevassa rikosasiassa tai jolle on samasta teosta annettu lainvoimainen tuomio. Jos seuraamusmaksu on määrätty luonnolliselle henkilölle, samasta teosta ei saa tuomita tuomioistuimessa rangaistusta.
 
-Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli vuosi. Seuraamusmaksu vanhenee viiden vuoden kuluttua seuraamusmaksua koskevan lainvoimaisen ratkaisun antamispäivästä. Seuraamusmaksu raukeaa maksuvelvollisen kuollessa. Seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa.
+Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli vuosi. Tämän lain nojalla maksettavaksi määrätyn seuraamusmaksun täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa.
