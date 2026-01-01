@@ -13,6 +13,6 @@ Korvaushakemuksen tulee sisältää tiedot:
 
 Korvaushakemukseen on liitettävä tositteet aiheutuneista materiaali- ja työkustannuksista.
 
-Jos vahingon määrä voidaan todeta vasta seuraavalla kasvukaudella, hakemusta on tältä osin täydennettävä vahingon määrän todentavalla lisäselvityksellä. Lisäselvitys on toimitettava elinkeino-, liikenne- ja ympäristökeskukselle vahinkoa seuraavan vuoden toukokuun loppuun mennessä.
+Jos vahingon määrä voidaan todeta vasta seuraavalla kasvukaudella, hakemusta on tältä osin täydennettävä vahingon määrän todentavalla lisäselvityksellä. Lisäselvitys on toimitettava elinvoimakeskukselle vahinkoa seuraavan vuoden toukokuun loppuun mennessä.
 
-Hakijan tulee korvaushakemuksen käsittelyn yhteydessä pyynnöstä antaa tiedot muistakin seikoista, joita toimivaltainen elinkeino-, liikenne- ja ympäristökeskus tarvitsee hakemuksen ratkaisemiseksi.
+Hakijan tulee korvaushakemuksen käsittelyn yhteydessä pyynnöstä antaa tiedot muistakin seikoista, joita toimivaltainen elinvoimakeskus tarvitsee hakemuksen ratkaisemiseksi.

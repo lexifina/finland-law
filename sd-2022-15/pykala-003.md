@@ -7,4 +7,4 @@ Avustus ja korvaus myönnetään komission tiedonannossa maa- ja metsätalousala
 
 Tietojen antamisesta ja ilmoitusmenettelystä säädetään eräiden valtion tukea koskevien Euroopan unionin säännösten soveltamisesta annetun lain (300/2001) 2 §:ssä ja tukitietojen julkaisu- ja avoimuusvelvoitteesta 2 a §:ssä.
 
-Tarkempia säännöksiä avustuksen, korvauksen tai sääksen pesintään perustuvan tuen myöntämisestä, myöntämisen edellytyksistä, maksamisesta, käytöstä ja elinkeino-, liikenne- ja ympäristökeskuksen sekä avustuksen saajan velvollisuuksista voidaan antaa valtioneuvoston asetuksella noudattaen, mitä 2 momentissa mainituissa suuntaviivoissa määrätään ja 2 momentissa mainitussa asetuksessa säädetään.
+Tarkempia säännöksiä avustuksen, korvauksen tai sääksen pesintään perustuvan tuen myöntämisestä, myöntämisen edellytyksistä, maksamisesta, käytöstä ja elinvoimakeskuksen sekä avustuksen saajan velvollisuuksista voidaan antaa valtioneuvoston asetuksella noudattaen, mitä 2 momentissa mainituissa suuntaviivoissa määrätään ja mainitussa momentissa mainitussa asetuksessa säädetään.
