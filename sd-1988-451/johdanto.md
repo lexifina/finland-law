@@ -1,0 +1,2 @@
+Laki vesistöhankkeiden johdosta suoritettavista tilusjärjestelyistä
+Eduskunnan päätöksen mukaisesti säädetään:

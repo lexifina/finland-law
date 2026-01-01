@@ -1,0 +1,7 @@
+# 20 §
+
+Tilusjärjestelyn toimituskustannukset on asianosaisten suoritettava sen mukaan kuin he siitä sopivat. Jolleivät asianosaiset sovi toimituskustannusten suorittamisesta, toimituskustannukset on määrättävä asianosaisten maksettavaksi kunkin tilusjärjestelystä saaman hyödyn mukaan. Ojituksen johdosta suoritetusta tilusjärjestelystä aiheutuvia toimituskustannuksia siltä osin kuin ne tulevat asianosaisten maksettaviksi pidetään vesilain 5 luvun 19 §:n 1 momentin mukaisina hankkeesta aiheutuvina kustannuksina. Vesilain 17 luvun 11 §:n 2 momentissa tarkoitetusta tilusjärjestelystä aiheutuvien toimituskustannusten jakamiseen asianosaisten kesken siltä osin kuin ne tulevat asianosaisten maksettaviksi sovelletaan samaa jakoperustetta kuin vesilain 6 luvun mukaisen keskivedenkorkeuden nostamishankkeen kustannuksiin. Muutoin toimituskustannuksiin ja niiden maksamiseen on sovellettava, mitä kiinteistönmuodostamislaissa säädetään, jollei tässä laissa toisin säädetä.
+
+Milloin tilusjärjestelytoimituksessa tehdään sellaisia 2 §:n 2 momentissa tarkoitettuja toimenpiteitä, jotka ovat tarpeen kiinteistöjärjestelmän selvyyden vuoksi, maksetaan näistä aiheutuvat toimituskustannukset kokonaan valtion varoista. Jos toimitus jätetään 4 §:n 3 momentin nojalla sikseen, toimituskustannukset maksetaan valtion varoista.
+
+Tilusjärjestelyn toimituskustannuksiin eivät kuulu tilusjärjestelyn yhteydessä suoritettavan lohkomisen toimituskustannukset.
