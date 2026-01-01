@@ -1,0 +1,2 @@
+Laki valtiontalouden tarkastusvirastosta
+Eduskunnan päätöksen mukaisesti säädetään:
