@@ -1,5 +1,5 @@
 # 1 § Soveltamisala ja suhde valtionavustuslakiin
 
-Valtion asuntorahaston varoista voidaan myöntää avustuksia erityisryhmien asunto-olojen parantamiseen siten kuin tässä laissa säädetään.
+Tätä lakia sovelletaan valtion varoista myönnettäviin avustuksiin erityisryhmien asunto-olojen parantamiseksi.
 
 Tässä laissa tarkoitettuihin avustuksiin sovelletaan lisäksi, jollei jäljempänä toisin säädetä, mitä valtionavustuslaissa (688/2001) säädetään.
