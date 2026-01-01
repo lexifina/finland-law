@@ -1,0 +1,2 @@
+Opintovapaalaki
+Eduskunnan päätöksen mukaisesti säädetään:
