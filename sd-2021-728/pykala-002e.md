@@ -1,0 +1,7 @@
+# 2 e § Yhteisten asiakaspalvelutehtävien antaminen yksityiselle palveluntuottajalle
+
+Yhteispalvelulain 6 §:n 1 momentin 1–8 kohdassa tarkoitetut tehtävät voidaan toteuttaa yhteispalveluna tai hankkimalla asiakaspalvelu yksityiseltä palveluntuottajalta. Edellä 2 b §:ssä tarkoitettu osallistumisvelvollinen ja muu yhteiseen asiakaspalvelupisteeseen osallistuva viranomainen voi tehdä yhteispalvelusopimuksen edellä 2 c §:n 2 momentissa tarkoitetun yhteisen asiakaspalvelun tuottamiseksi tai tilata Lupa- ja valvontaviraston tuottamaa yhteistä asiakaspalvelua. Lupa- ja valvontavirasto voi tuottaa yhteistä asiakaspalvelua omana työnään tai ostopalveluna.
+
+Palveluntuottajan on oltava luotettava ja asiantunteva. Palveluntuottajalla on oltava tehtävän asianmukaisen hoitamisen edellyttämät taloudelliset ja toiminnalliset valmiudet. Palveluntuottajan on huolehdittava asianmukaisesti tietosuojasta ja tietoturvasta. Palveluntuottaja voi käyttää alihankkijaa. Palveluntuottajan alihankkijan tulee osaltaan täyttää palveluntuottajalta edellytetyt vaatimukset. Palveluntuottaja vastaa alihankintana teettämästään palvelusta. Alihankkijan tulee olla Lupa- ja valvontaviraston hyväksymä. Lupa- ja valvontavirasto valvoo palveluntuottajan ja alihankkijan toimintaa.
+
+Palveluntuottajan ja sen alihankkijan palveluksessa olevaan henkilöön sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen hoitaessaan tässä laissa tarkoitettua tehtävää. Palveluntuottajan ja sen alihankkijan vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).
