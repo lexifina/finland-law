@@ -1,4 +1,4 @@
-# 10 § Toisen vahingoittamiseen soveltuvien esineiden ja aineiden hallussapito
+# 10 § Toisen vakavaan vahingoittamiseen soveltuvien esineiden ja aineiden hallussapito
 Luku: 3 luku Kielletyt esineet ja aineet
 
 Seuraavien toisen vakavaan vahingoittamiseen tarkoitettujen tai siihen soveltuvien esineiden tai aineiden hallussapito yleisellä paikalla on kielletty:
