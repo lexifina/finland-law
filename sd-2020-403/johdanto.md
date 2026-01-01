@@ -1,0 +1,2 @@
+Laki ravitsemisyritysten uudelleentyöllistämisen tukemisesta ja toiminnan rajoitusten hyvittämisestä
+Eduskunnan päätöksen mukaisesti säädetään:

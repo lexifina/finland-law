@@ -1,0 +1,10 @@
+# 4 § Tuen myöntämisen edellytykset ja määrä
+Luku: 2 luku Uudelleentyöllistämisen tukeminen
+
+Uudelleentyöllistämisen tukea voidaan myöntää ravitsemisyritykselle, joka ei ole ollut 31 päivänä joulukuuta 2019 tiettyjen tukimuotojen toteamisesta sisämarkkinoille soveltuviksi perussopimuksen 107 ja 108 artiklan mukaisesti annetun komission asetuksen (EU) N:o 651/2014 2 artiklan 18 kohdassa tarkoitettu vaikeuksissa oleva yritys.
+
+Uudelleentyöllistämisen tuen määrä on 1 000 euroa kustakin työntekijästä, jolle tuen saaja maksaa rajoitusvelvoitteen päättymistä seuraavan kolmen kuukauden ajalta palkkaa vähintään 2 500 euroa. Tukea voidaan myöntää kuitenkin enintään siitä määrästä työntekijöitä, joka vastaa yrityksen helmikuulta 2020 työsuhteessa oleville työntekijöilleen maksamien palkkojen yhteismäärää jaettuna luvulla 2 500. Lisäksi edellä tässä momentissa tarkoitettua tukea voidaan erillisestä hakemuksesta myöntää enintään sille henkilömäärälle, joka vastaa vuokratyön tai alihankinnan helmikuulle 2020 kohdentunutta arvonlisäverotonta arvoa jaettuna luvulla 4 500 edellyttäen, että tuen saaja suorittaa rajoitusvelvoitteen päättymistä seuraavan kolmen kuukauden ajalta vuokra- tai alihankintakorvausta arvonlisäverottomalta arvoltaan vähintään 4 500 euroa kustakin henkilöstä tai maksaa palkkaa vähintään 2 500 euroa kullekin henkilölle. Edellä tarkoitetussa laskennassa osamäärä pyöristetään lähimpään kokonaislukuun. Tuki voidaan myöntää ja maksaa ennakkoon edellyttäen, että yritys sitoutuu maksamaan palkkaa tuen perusteena oleville työntekijöille tai vuokrakorvausta henkilöistä siten kuin edellä tässä momentissa säädetään.
+
+Tukea ei myönnetä niistä työntekijöistä, joiden palkkauskustannuksiin ravitsemisyritykselle on myönnetty muuta valtiontukea rajoitusvelvoitteen päättymistä seuraavan kolmen kuukauden ajalle tai osalle tästä ajasta.
+
+Ravitsemisyritys voi hakea uudelleentyöllistämisen tukea yhden kerran. Hakemus tuen saamiseksi tulee jättää toimivaltaiselle viranomaiselle viimeistään 31 päivänä lokakuuta 2020. Toimivaltaisen viranomaisen tulee tehdä päätös tuen myöntämisestä 31 päivään joulukuuta 2020 mennessä.
