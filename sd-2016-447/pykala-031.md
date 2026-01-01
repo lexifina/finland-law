@@ -1,0 +1,6 @@
+# 31 § Tiedoksiannon tai perinnän keskeyttäminen
+Luku: 7 luku Taloudellisten hallinnollisten seuraamusten ja sakkojen valtioiden rajat ylittävä täytäntöönpano
+
+Jos tiedoksiannon tai perinnän kohteena oleva lähettävä yritys tai muu asiaan osallinen tiedoksianto- tai perintämenettelyn aikana riitauttaa tiedoksianto- tai perintämenettelyssä olevan taloudellista hallinnollista seuraamusta tai sakkoa koskevan päätöksen tai päätöksen perusteena olevan vaatimuksen tai hakee päätökseen muutosta, on tiedoksianto- tai perintäpyynnön tehneen toimivaltaisen Suomen viranomaisen lähettävän yrityksen tai muun asiaan osallisen pyynnöstä ilmoitettava siitä tiedoksianto- tai perintäpyynnön vastaanottaneelle Euroopan unionin jäsenvaltion toimivaltaiselle viranomaiselle ja peruutettava tiedoksianto- tai perintäpyyntö IMI-järjestelmässä.
+
+Jos toisen Euroopan unionin jäsenvaltion toimivaltainen viranomainen ilmoittaa, että Suomessa tiedoksi annettavaksi tai perittäväksi toimitettu taloudellista hallinnollista seuraamusta tai sakkoa koskeva päätös tai päätöksen perusteena oleva vaatimus on riitautettu tai siihen on haettu muutosta, on tiedoksianto- tai perintäpyynnön toimeenpanosta vastaavan Suomen viranomaisen välittömästi keskeytettävä tiedoksianto- tai perintämenettely.
