@@ -1,0 +1,2 @@
+Laki vuokra-asuntojen korkotukilainalla rahoitettujen asuntojen vapautumisesta käyttörajoituksista annetun lain kumoamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
