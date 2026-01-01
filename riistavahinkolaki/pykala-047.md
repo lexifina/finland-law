@@ -1,7 +1,7 @@
 # 47 § Muutoksenhaku
 Luku: 7 luku Erinäiset säännökset
 
-Kunnan maaseutuelinkeinoviranomaisen päätökseen saa vaatia oikaisua siltä elinkeino-, liikenne- ja ympäristökeskukselta, jonka toimialueella asianomainen kunta sijaitsee.
+Kunnan maaseutuelinkeinoviranomaisen päätökseen saa vaatia oikaisua siltä elinvoimakeskukselta, jonka toimialueella asianomainen kunta sijaitsee.
 
 Suomen metsäkeskuksen, Ruokaviraston ja Valtiokonttorin päätökseen saa vaatia oikaisua päätöksen tehneeltä viranomaiselta.
 
