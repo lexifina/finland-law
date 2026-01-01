@@ -1,7 +1,7 @@
 # 33 § Valvontaviranomaiset
 Luku: 7 a luku Asunto-omaisuuteen liittyvät kuluttajaluotot
 
-Tämän luvun säännösten noudattamista valvovat kuluttaja-asiamies, Kilpailu- ja kuluttajavirasto ja sen alaisina viranomaisina aluehallintovirastot sekä Finanssivalvonta silloin, kun luotonantaja tai luotonvälittäjä on Finanssivalvonnasta annetun lain 4 §:n 2–5 momentissa tarkoitettu taho tai 5 §:ssä tarkoitettu muu finanssimarkkinoilla toimiva.
+Tämän luvun säännösten noudattamista valvovat kuluttaja-asiamies sekä Finanssivalvonta silloin, kun luotonantaja tai luotonvälittäjä on Finanssivalvonnasta annetun lain 4 §:n 2–5 momentissa tarkoitettu taho tai 5 §:ssä tarkoitettu muu finanssimarkkinoilla toimiva. Ahvenanmaan maakunnassa tämän luvun säännösten noudattamista valvoo myös Ahvenanmaan valtionvirasto.
 
 Valvontaviranomaisten on oltava tarkoituksenmukaisessa yhteistyössä keskenään. Viestintävirasto antaa pyynnöstä valvontaviranomaiselle 7 luvun 15 §:n noudattamista tämän luvun 31 §:n nojalla valvottaessa lausunnon siitä, täyttääkö luotonantajan käyttämä sähköinen henkilöllisyyden tunnistamismenetelmä vahvasta sähköisestä tunnistamisesta ja sähköisistä luottamuspalveluista annetun lain 8 §:ssä säädetyt vaatimukset.
 
