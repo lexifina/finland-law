@@ -1,0 +1,2 @@
+Työturvallisuuslaki
+Eduskunnan päätöksen mukaisesti säädetään:

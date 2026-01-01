@@ -1,0 +1,8 @@
+# 43 § Työvälineen käyttöönotto- ja määräaikaistarkastukset
+Luku: 5 luku Työtä ja työolosuhteita koskevat tarkemmat säännökset
+
+Kone, työväline tai muu laite, jonka asennus tai asennus- tai käyttöolosuhteet vaikuttavat turvallisuuteen, on tarkastettava oikean asennuksen ja turvallisen toimintakunnon varmistamiseksi ennen ensimmäistä käyttöönottoa samoin kuin uuteen paikkaan asentamisen tai turvallisuuden kannalta merkittävien muutostöiden jälkeen (käyttöönottotarkastus). Tarkastus on lisäksi suoritettava käyttöönoton jälkeen säännöllisin väliajoin ja tarvittaessa myös poikkeuksellisen tilanteen jälkeen koneen, työvälineen tai muun laitteen toimintakunnon varmistamiseksi (määräaikaistarkastus).
+
+Tarkastuksen suorittajan tulee olla tehtävään pätevä työnantajan palveluksessa oleva tai muu henkilö. Pätevyyden määrittelyssä otetaan huomioon perehtyneisyys kyseisen työvälineen rakenteeseen, käyttöön ja tarkastamiseen. Vaarallisen koneen, työvälineen tai muun laitteen tarkastuksen saa suorittaa vain asiantuntijayhteisö tai riippumaton asiantuntija. Tarkastuksessa tulee erityisesti arvioida työvälineen turvallisuus sen käytön kannalta ja noudattaa tarkastamisesta annettuja säännöksiä. Tarkastuksessa tulee myös asianmukaisella tavalla ottaa huomioon valmistajan ohjeet.
+
+Valtioneuvoston asetuksella voidaan antaa tarkemmat säännökset koneista, työvälineistä tai muista laitteista, joille on tehtävä käyttöönotto- ja määräaikaistarkastus sekä tarkastuksia edellyttävistä käyttöolosuhteista, tarkastuksen suorittajan pätevyydestä, tarkastusten sisällöstä, ajankohdasta ja pöytäkirjaamisesta sekä muista tarkastukseen liittyvistä menettelytavoista.
