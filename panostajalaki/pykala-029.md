@@ -1,3 +1,3 @@
 # 29 § Pätevyyskirjan kaava
 
-Aluehallintovirasto vahvistaa panostajan pätevyyskirjan kaavan.
+Lupa- ja valvontavirasto vahvistaa panostajan pätevyyskirjan kaavan.
