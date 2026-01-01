@@ -1,0 +1,2 @@
+Laki Kansaneläkelaitoksesta
+Eduskunnan päätöksen mukaisesti säädetään:
