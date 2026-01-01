@@ -1,0 +1,10 @@
+# 30 § Datan jakamisen keskeyttäminen, rajoittaminen tai kieltäminen poikkeuksellisissa tilanteissa
+Luku: 5 luku Erinäiset säännökset
+
+Liikenteenohjausyhtiö Fintraffic Oy voi, enintään yhden vuorokauden ajaksi, keskeyttää tietojen luovuttamisen liikennejärjestelmän perustietopalvelusta tai rajoittaa sitä tai keskeyttää liikenteen kokonaistilannekuvan yleisen saatavuuden tai rajoittaa sitä, jos se havaitsee tietoihin kohdistuvia poikkeuksellisia hakuja tai muuta poikkeuksellista tietoliikennettä palveluun tai palvelusta, ja on syytä epäillä tietojen väärinkäyttöä tai kansallisen turvallisuuden tai yleisen järjestyksen ja turvallisuuden vaarantumista. Viranomaisella on kuitenkin oikeus saada ne tiedot, jotka ovat välttämättömiä sille laissa säädetyn tehtävän hoitamiseksi.
+
+Liikenteenohjausyhtiö Fintraffic Oy:n on salassapitosäännösten estämättä välittömästi annettava Liikenne- ja viestintävirastolle tieto keskeytyksestä tai rajoituksesta, siihen johtaneista syistä sekä asian selvittämiseksi tarvittavat tiedot. Liikenne- ja viestintäviraston on otettava toimenpide tarkasteluunsa viipymättä. Liikenne- ja viestintävirasto voi päättää keskeytyksen tai rajoituksen keskeyttämisestä tai, jos keskeytyksen tai rajoituksen tarve kestää kauemmin kuin yhden vuorokauden, sen pidentämisestä.
+
+Liikenne- ja viestintävirasto voi omasta aloitteestaan tai pelastus-, poliisi- tai sotilasviranomaisen taikka Rajavartiolaitoksen esityksestä tehdyllä päätöksellä kieltää datan ja tietojen luovuttamisen kansallisesta yhteyspisteestä ja liikennejärjestelmän perustietopalvelusta tai rajoittaa sitä, jos se on välttämätöntä maanpuolustuksen, aluevalvonnan, rajaturvallisuuden tai yleisen järjestyksen ja turvallisuuden ylläpitämiseksi.
+
+Edellä 2 ja 3 momentissa tarkoitettu keskeytys, rajoitus tai kielto voi olla voimassa vain välttämättömän ajan, kuitenkin enintään 14 vuorokautta kerrallaan. Päätös on välittömästi kumottava, jos sen edellytykset eivät enää täyty. Jos kieltoa tai rajoitusta on tarpeen jatkaa 14 vuorokauden jälkeen, päätöksen siitä tekee valtioneuvosto.
