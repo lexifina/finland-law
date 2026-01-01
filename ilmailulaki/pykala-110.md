@@ -1,0 +1,8 @@
+# 110 § Lentomenetelmät
+Luku: 10 luku Ilmatilan ja ilmaliikenteen hallinta sekä lennonvarmistuspalvelut
+
+Ilmaliikenteen hallintaa koskevan täytäntöönpanoasetuksen mukaisen hyväksyntätodistuksen saanut lentomenetelmäsuunnittelupalvelujen tarjoaja vastaa lentomenetelmistä. Lentopaikan pitäjä vastaa siitä, että lentopaikalla käytetty lentomenetelmä on hyväksyntätodistuksen saaneen lentomenetelmäsuunnittelupalvelujen tarjoajan suunnittelema. Lisäksi lentopaikan pitäjä vastaa lentopaikalla käytettävien lentomenetelmien ylläpidosta ja säännöllisestä uudelleentarkastelusta.
+
+Edellä 1 momentissa tarkoitetun lentomenetelmäsuunnittelupalvelujen tarjoajan on lentomenetelmää suunnitellessaan tai uudelleen tarkastellessaan kuultava asianomaista ilmaliikennepalvelun tarjoajaa ja lentopaikan pitäjää sekä sotilasilmailuviranomaista.
+
+Liikenne- ja viestintävirasto vastaa ilmaliikenteen hallintaa koskevan täytäntöönpanoasetuksen 3 artiklan 8 ja 9 kohdassa tarkoitetuista jäsenvaltion tehtävistä, jotka liittyvät ilmatilan rakenteiden suunnitteluun sekä lentomenetelmien ylläpitoon ja säännölliseen uudelleentarkasteluun. Liikenne- ja viestintävirasto voi antaa tarkempia määräyksiä lentomenetelmäsuunnittelupalvelujen tarjoajia koskevista lentomenetelmien suunnitteluperusteista ottaen huomioon Euroopan unionin lentoturvallisuusviraston ja Kansainvälisen siviili-ilmailujärjestön antaman ohjeistuksen.

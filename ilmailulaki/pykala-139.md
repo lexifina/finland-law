@@ -1,0 +1,10 @@
+# 139 § Kansalliset vakuutusvaatimukset
+Luku: 13 luku Vahingonkorvausvastuu ja vakuutukset
+
+Suomalaisen ilma-aluksen tai suomalaisen lentotoimintaluvan, lentotyöluvan tai lentokoulutusluvan haltijan käytössä olevan ilma-aluksen vastuuvakuutuksen ehdot eivät saa mahdollistaa vakuutuksen keskeytymistä ennen vakuutuskauden loppua tai keskeytyksestä ilmoittamista Liikenne- ja viestintävirastolle.
+
+Suurimmalta hyväksytyltä lentoonlähtömassaltaan enintään 2 700 kilogramman ilma-alukselta, jota käytetään muihin kuin kaupallisiin lentoihin, vaadittavan vastuuvakuutuksen vakuutusmäärän henkilövahinkojen varalta on oltava matkustajaa kohti vähintään puolet ilmailun vakuutusasetuksen 6 artiklan 1 kohdan mukaisesta matkustajia koskevasta yleisestä vähimmäisvakuutusturvasta, mutta kuitenkin vähintään mainitun kohdan mukainen tässä momentissa tarkoitettuja ilma-aluksia koskeva vähimmäismäärä.
+
+Peruslentokoulutuksessa ilma-aluksella on oltava lento-oppilaalle ja lennonopettajalle aiheutuvan henkilövahingon varalta istuinpaikkakohtainen tapaturmavakuutus, jonka vähimmäisvakuutusmäärä on vähintään kymmenen prosenttia 2 momentissa tarkoitetusta matkustajia koskevasta yleisestä vähimmäisvakuutusturvasta. Lennonopettajan vakuutusturva voidaan järjestää myös työtapaturma- ja ammattitautilain (459/2015) mukaisella tapaturmavakuutuksella.
+
+Miehittämättömän ilmailun täytäntöönpanoasetuksen 2 artiklan toisen kohdan 2 alakohdassa tarkoitetulla miehittämättömän ilma-alusjärjestelmän käyttäjällä on oltava riittävä vastuuvakuutus toiminnastaan toiselle aiheutuneesta vahingosta miehittämättömän ilmailun täytäntöönpanoasetuksen 5 artiklassa tarkoitetussa toimintakategoriassa erityinen ja 6 artiklassa tarkoitetussa toimintakategoriassa sertifioitu. Vakuuttamisvelvollisuus koskee toimintaa, jossa käytetään lentoonlähtömassaltaan alle 20 kiloa painavia miehittämättömiä ilma-aluksia. Vakuutuksen riittävyyttä arvioitaessa on otettava huomioon harjoitettavan toiminnan luonne ja laajuus sekä toiminnasta aiheutuvat riskit. Vakuutuksen on oltava voimassa koko sinä aikana, jolloin toimintaa harjoitetaan.

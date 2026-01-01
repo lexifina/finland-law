@@ -1,0 +1,4 @@
+# 181 a § Muutoksenhakuun oikeutetut eräissä tapauksissa
+Luku: 17 luku Muutoksenhaku
+
+Rekisteröidyllä yhdistyksellä tai säätiöllä, jonka tarkoituksena on ympäristön-, terveyden- tai luonnonsuojelun taikka asuinympäristön viihtyisyyden edistäminen, on oikeus toimialaansa kuuluvissa asioissa hakea valittamalla muutosta sellaiseen rakentamisluvan myöntämistä koskevaan päätökseen, jonka vaikutukset ulottuvat yhdistyksen tai säätiön toiminta-alueelle, jos hankkeeseen sovelletaan ympäristövaikutusten arviointimenettelyä. Kunnalla, Lupa- ja valvontavirastolla ja maakunnan liitolla on oikeus hakea valittamalla muutosta sellaiseen rakentamisluvan myöntämistä koskevaan päätökseen, jonka vaikutukset ulottuvat kunnan alueelle tai viranomaisen toimialueelle, jos hankkeeseen sovelletaan ympäristövaikutusten arviointimenettelyä.
