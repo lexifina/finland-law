@@ -1,0 +1,2 @@
+Mittauslaitelaki
+Eduskunnan päätöksen mukaisesti säädetään:
