@@ -1,6 +1,6 @@
 # 17 § Seuraamusmaksun määrääminen
 
-Seuraamusmaksun määrää markkinavalvontaviranomainen. Seuraamusmaksu määrätään maksettavaksi valtiolle.
+Seuraamusmaksun määrää markkinavalvontaviranomainen.
 
 Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli kaksi vuotta.
 
