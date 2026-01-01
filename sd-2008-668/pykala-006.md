@@ -1,0 +1,3 @@
+# 6 § Sopimusten tekeminen
+
+Laitos voi tehdä sopimuksia tutkimushankkeiden ja -ohjelmien toteuttamisesta ja toimintaansa liittyvien tehtävien ja tutkimusten suorittamisesta sekä toimeksiantajana että työn suorittajana. Laitos voi talousarvionsa rajoissa käyttää ulkopuolisia asiantuntijoita. Laitos ei saa antaa kunnille, hyvinvointialueille eikä HUS-yhtymälle maksullisia konsultaatiopalveluja, jotka kohdistuvat sellaisiin hyvinvointialueiden, Helsingin kaupungin tai HUS-yhtymän järjestämisvastuulla oleviin sosiaali- ja terveydenhuollon kehittämistehtäviin, joita laitos suorittaa lain, 2 §:n 2 momentissa tarkoitetun ministeriön määräyksen tai tulossopimuksen perusteella.
