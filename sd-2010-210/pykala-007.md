@@ -2,7 +2,7 @@
 
 Kunnalle voidaan hakemuksesta antaa ennakkotieto siitä, voidaanko kunnan alueella tai yhteistoiminta-aluetta muodostettaessa soveltaa 5 §:ssä säädettyä poikkeusmahdollisuutta. Hakemus on toimitettava Maaseutuvirastolle viimeistään kuusi kuukautta ennen kuin 8 §:ssä tarkoitettu ilmoitus on annettava. Maaseutuviraston on viipymättä toimitettava hakemus ja asiaa koskeva lausuntonsa maa- ja metsätalousministeriölle.
 
-Ennakkotiedon antaa maa- ja metsätalousministeriö kuultuaan asianomaista elinkeino-, liikenne- ja ympäristökeskusta sekä Maaseutuvirastoa.
+Ennakkotiedon antaa maa- ja metsätalousministeriö kuultuaan asianomaista elinvoimakeskusta sekä Ruokavirastoa.
 
 Kunnalle myönteinen ennakkotieto on valtiota sitova, jos:
 1) kunta on esittänyt ennakkotiedon antamista varten oikeat ja riittävät tiedot;
