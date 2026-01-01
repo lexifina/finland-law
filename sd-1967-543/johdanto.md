@@ -1,0 +1,2 @@
+Maatilatalouden tuloverolaki
+Eduskunnan päätöksen mukaisesti säädetään:
