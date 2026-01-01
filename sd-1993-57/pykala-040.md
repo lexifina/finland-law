@@ -1,0 +1,8 @@
+# 40 § Maksuohjelman oikeusvaikutukset
+Luku: 6 luku Vahvistettua maksuohjelmaa koskevat säännökset
+
+Kun maksuohjelma on vahvistettu, velkajärjestelyn piiriin kuuluvien velkojen ja muiden maksuohjelmassa säänneltyjen oikeussuhteiden ehdot määräytyvät ohjelman mukaisesti. Ohjelman keston päättymisestä huolimatta velallisen maksuohjelmassa määrätty maksuvelvollisuus säilyy siltä osin kuin sitä ei ole täytetty. Maksuohjelmassa määrätyille suorituksille ei viivästyksen vuoksi kerry korkoa. Ulosottokaaren 4 luvun 2 §:ssä tarkoitettuun palkkaan tai muuhun toistuvaistuloon kohdistuva, velkajärjestelyn piiriin kuuluvaan velkaan perustuva ulosmittaus raukeaa, kun maksuohjelma on vahvistettu. Kun maksuohjelman vahvistaminen on saanut lainvoiman, myös velallisen muuhun omaisuuteen kohdistuva, velkajärjestelyn piiriin kuuluvaan velkaan perustuva ulosmittaus raukeaa. Sakon muuntorangaistusta ei saa määrätä eikä panna täytäntöön maksuohjelman keston aikana.
+
+Maksuohjelman vahvistaminen ei estä velkajärjestelyn piiriin kuuluvan velan perustetta tai määrää taikka velkaan liittyvän vakuusoikeuden pätevyyttä tai sisältöä koskevan väitteen tutkimista, jos velka tai oikeus on velkajärjestelyn yhteydessä riitautettu ja asia on 57 §:n 2 momentin nojalla osoitettu ratkaistavaksi erillisessä oikeudenkäynnissä.
+
+Sitoumus tai sopimus, jonka mukaan velallisen on tehtävä velkajärjestelyn piiriin kuuluvaan velkaan perustuva tai siihen liittyvä suoritus, on mitätön, jollei suoritusvelvollisuus perustu vahvistettuun maksuohjelmaan tai tämän lain säännöksiin. Maksuohjelman päätyttyä velallinen voi kuitenkin vapaaehtoisesti suorittaa velkajärjestelyn piiriin kuuluvia velkoja.

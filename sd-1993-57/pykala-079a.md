@@ -1,0 +1,4 @@
+# 79 a § Vanhentumisajan ja perimismääräajan suhde vapaaehtoiseen velkajärjestelyyn
+Luku: 11 luku Erinäiset säännökset
+
+Jos velallisen kanssa sovitaan sellaisesta vapaaehtoisesta velkajärjestelystä, joka sisällöltään vastaa tässä laissa säädettyjä periaatteita, velkojalla on 79 §:ssä tarkoitettujen aikojen umpeen kulumisen estämättä oikeus saada maksu velkajärjestelyn ehtojen mukaisesti. Jos kysymys on 79 §:n 2 momentissa tarkoitetusta saatavasta, velkojan on oikeuden menettämisen uhalla perittävä saatavansa viimeistään velkajärjestelyn ehtojen mukaisen maksuajan päättymistä seuraavan kalenterivuoden loppuun mennessä, jollei alkuperäinen määräaika saatavan perimiselle pääty sitä myöhemmin. Muussa tapauksessa vanhentumis- tai kanneajan katsotaan katkenneen, kun velkajärjestelyn ehtojen mukainen maksuaika on päättynyt.

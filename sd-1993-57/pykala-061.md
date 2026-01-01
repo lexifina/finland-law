@@ -1,0 +1,8 @@
+# 61 § Maksuohjelman raukeamista ja muuttamista koskeva hakemus
+Luku: 8 luku Menettely tuomioistuimessa
+
+Maksuohjelman raukeamista tai muuttamista koskeva hakemus on tehtävä tuomioistuimelle kirjallisesti. Hakemus on tehtävä ilman aiheetonta viivytystä sen jälkeen, kun peruste siihen on tullut velallisen tai velkojan tietoon. Hakemusta maksuohjelman muuttamiseksi ei voida tehdä sen jälkeen, kun maksuohjelman kesto on päättynyt. Velallisen hakemus maksuohjelman raukeamisesta on tehtävä maksuohjelman aikana ja velkojan hakemus viimeistään kahden vuoden kuluessa siitä, kun maksuohjelmassa määrätty suoritusvelvollisuus on täytetty. Jos hakemuksen perusteena on rikoslain (39/1889) 39 luvun 2 tai 3 §:ssä tarkoitettu velallisen menettely, velkojan hakemus voidaan kuitenkin tehdä ennen kuin syyteoikeus rikoksesta on vanhentunut.
+
+Jos velallinen hakee maksuohjelman muuttamista, hänen on liitettävä hakemukseen ehdotus uudeksi maksuohjelmaksi. Niille velkojille, joita asia koskee, on varattava tilaisuus tulla kuulluksi ehdotuksen johdosta.
+
+Velkojan hakemuksesta on varattava velalliselle ja niille velkojille, joiden kuulemista tuomioistuin pitää tarpeellisena, tilaisuus tulla kuulluiksi. Jos velkoja on vaatinut maksuohjelman raukeamista, muille velkojille on varattava tilaisuus esittää vaatimuksensa, jos siihen on 42 §:n 5 momentista johtuva syy. Jos tuomioistuin katsoo, että maksuohjelman muuttamiseen on aihetta, se voi asettaa määräpäivän, johon mennessä velallisen on toimitettava tuomioistuimelle ehdotus maksuohjelmaksi. Ehdotuksen käsittelystä on voimassa, mitä siitä edellä säädetään.

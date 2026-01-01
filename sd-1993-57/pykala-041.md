@@ -1,0 +1,6 @@
+# 41 § Maksuohjelman noudattaminen
+Luku: 6 luku Vahvistettua maksuohjelmaa koskevat säännökset
+
+Velallisen on suoritettava maksuohjelman mukaiset maksut kullekin velkojalle ohjelmassa määrättyä maksuaikataulua noudattaen. Tuomioistuin voi, milloin harkitaan tarkoituksenmukaiseksi, määrätä, että velallisen on suoritettava maksut osaksi tai kokonaan ulosottomiehelle velkojille tilitettäväksi. Ulosottomies voi antaa ulosottolaissa tarkoitetun maksukiellon maksuohjelman mukaisten suoritusten pidättämiseksi velallisen palkasta, eläkkeestä, elinkeinotulosta tai muusta toistuvaissuorituksesta noudattaen soveltuvin osin mitä maksukiellosta säädetään ulosottolaissa. Määräys raukeaa, jos ulosottomies katsoo, että edellytyksiä maksuohjelman toteuttamiselle ei ole. Ulosottomiehen on ilmoitettava raukeamisesta velalliselle.
+
+Velallisella, jonka maksukyky on heikentynyt, on 1 momentin estämättä oikeus lykätä kullekin velkojalle tulevan maksun suorittamista maksuohjelman keston aikana yhteismäärältään enintään kolmen kuukauden maksuvelvollisuutta vastaavan, tai jos maksuohjelman kesto tavallisten velkojen osalta on kolmea vuotta pidempi, enintään viiden kuukauden maksuvelvollisuutta vastaavan määrän osalta ilmoittamalla velkojalle lykkäyksestä. Velallisen lykkäämä maksu erääntyy maksuohjelman päättyessä.

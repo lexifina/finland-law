@@ -1,0 +1,2 @@
+Laki yksityishenkilön velkajärjestelystä
+Eduskunnan päätöksen mukaisesti säädetään:

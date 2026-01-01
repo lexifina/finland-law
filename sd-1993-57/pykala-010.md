@@ -1,0 +1,14 @@
+# 10 § Velkajärjestelyn yleiset esteet
+Luku: 3 luku Velkajärjestelyn aloittaminen
+
+Jollei 10 a §:stä muuta johdu, velkajärjestelyä ei voida myöntää, jos:
+1) velalliselle on määrätty rikoksen perusteella maksuvelvollisuus eikä velkajärjestelyn myöntämistä voida pitää perusteltuna velan määrä, rikoksen laatu, vahingon kärsineen asema ja muut seikat huomioon ottaen;
+2) velallinen on epäiltynä esitutkinnassa tai syytteessä rikoksesta taikka hänen syykseen on luettu rikos, ja hänelle voidaan määrätä rikoksen perusteella maksuvelvollisuus, eikä velkajärjestelyn myöntämistä voida pitää perusteltuna velan määrä, rikoksen laatu, vahingon kärsineen asema ja muut seikat huomioon ottaen;
+3) merkittävänä pidettävää velkaa on syntynyt elinkeinotoiminnassa, jossa on menetelty törkeän sopimattomasti velkojia kohtaan tai laiminlyöty olennaisesti muusta kuin maksukyvyttömyydestä johtuvasta syystä lakisääteisiä velvollisuuksia tai joka on ollut pääasiallisesti keinottelunluonteista;
+4) velallinen on olemassa olevien tai odotettavien taloudellisten vaikeuksiensa vuoksi sopimattomasti heikentänyt taloudellista asemaansa tai suosinut jotakuta velkojaa taikka muutoin järjestellyt taloudellista asemaansa velkojien vahingoittamiseksi, tai on todennäköisiä syitä epäillä velallisen menetelleen näin;
+5) velallinen on ulosottomenettelyssä pakoillut, salannut tulojaan tai varojaan taikka antanut niistä vääriä tai harhaanjohtavia tietoja;
+6) velallinen on tahallaan antanut velkojalle taloudellisesta asemastaan vääriä tai harhaanjohtavia tietoja, jotka ovat olennaisesti vaikuttaneet luoton myöntämiseen, ja velallisen menettelyä on luoton määrä ja muut olosuhteet huomioon ottaen pidettävä erityisen moitittavana;
+7) velkojen perusteesta ja syntyolosuhteista, velallisen tavasta hoitaa talouttaan tai muista seikoista voidaan päätellä olevan todennäköistä, että velallinen on velkaantunut harkitusti velkajärjestelyä silmällä pitäen tai velallisen velkaantumiseen johtaneita toimia voidaan kokonaisuutena arvioiden pitää piittaamattomina ja vastuuttomina ottaen huomioon velallisen ikä, asema ja muut olosuhteet sekä se, ovatko luotonantajat toimineet vastuullisesti;
+8) velallinen on velkajärjestelyä varten antanut taloudellisesta asemastaan vääriä tai harhaanjohtavia tietoja, laiminlyönyt 6 §:ssä säädetyn tietojenantovelvollisuutensa tai 7 §:ssä säädetyn myötävaikutusvelvollisuutensa, rikkonut 12 §:ssä säädetyn maksu- ja vakuudenasettamiskiellon tai muutoin menettelyllään tai laiminlyönnillään vaikeuttanut velkajärjestelyä;
+10) velalliselle on velkajärjestelyn hakemista edeltäneiden 13 vuoden aikana vahvistettu maksuohjelma tai tätä aikaisemmin vahvistettu maksuohjelma ei ole päättynyt; tai
+11) yksityishenkilöiden välisen merkittävän vahingonkorvauksen, kauppahinnanpalautuksen tai muun vastaavan velan järjesteleminen olisi kokonaisuutena arvioiden kohtuutonta.
