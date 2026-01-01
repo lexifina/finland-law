@@ -1,0 +1,10 @@
+# 33 § Taloudellinen tuki hengityslaitteen varassa elävälle henkilölle
+Luku: 2 luku Erityispalvelut
+
+Hengityslaitteen varassa elävällä henkilöllä tarkoitetaan henkilöä, jonka elämän ylläpitäminen edellyttää henkitorviavanteen kautta toteutettavaa tai muuta pysyvää taikka pitkäaikaista ympärivuorokautisesti laitteen avulla toteutettavaa hengitystukihoitoa.
+
+Hengityslaitteen varassa elävällä henkilöllä on oikeus saada taloudellista tukea ylläpitokustannuksiinsa silloin, kun hän ei ole terveydenhuollon laitoshoidossa. Taloudellisena tukena myönnetään 1 400 euroa kuukaudessa.
+
+Jos henkilöllä on oikeus saada yleisestä asumistuesta annetussa laissa (938/2014) tai eläkkeensaajan asumistuesta annetussa laissa (571/2007) tarkoitettua asumistukea taikka opintotukilaissa (65/1994) tarkoitettua asumislisää, hänen on haettava ensisijaisesti niitä 2 momentissa tarkoitettuun taloudelliseen tukeen nähden. Tällöin henkilölle myönnettävästä taloudellisesta tuesta vähennetään henkilön saama asumistuki tai -lisä. Jos henkilö kuuluu useamman henkilön ruokakuntaan, joka saa yleistä asumistukea, vähennetään henkilölle myönnettävästä taloudellisesta tuesta osuus, joka lasketaan jakamalla ruokakunnalle maksettava yleinen asumistuki ruokakunnan jäsenten määrällä. Lisäksi henkilölle maksettavasta taloudellisesta tuesta voidaan vähentää 50 euroa kultakin vuorokaudelta, jolloin henkilö on ollut lyhytaikaisessa terveydenhuollon laitoshoidossa, jos henkilölle on maksettu taloudellista tukea myös tältä ajalta.
+
+Edellä 2 ja 3 momentissa säädettyjä euromääriä tarkistetaan sosiaali- ja terveysministeriön asetuksella joka toinen vuosi kansaneläkeindeksistä annetun lain (456/2001) 2 §:ssä tarkoitetun kansaneläkeindeksin muutoksen mukaisesti. Laskennan perusteena käytetään kansaneläkeindeksin sitä pistelukua, jonka mukaan tarkistusvuoden tammikuussa maksettavina olleiden kansaneläkkeiden suuruus on laskettu. Tarkistusvuosi on se vuosi, jota seuraavan vuoden alusta indeksitarkistus toteutetaan. Indeksin mukainen euromäärä pyöristetään lähimpään 0,1 euroon. Indeksillä tarkistettu euromäärä tulee voimaan tarkistusvuotta seuraavan vuoden alusta.

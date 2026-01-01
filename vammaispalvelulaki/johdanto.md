@@ -1,0 +1,2 @@
+Vammaispalvelulaki
+Eduskunnan päätöksen mukaisesti säädetään:
