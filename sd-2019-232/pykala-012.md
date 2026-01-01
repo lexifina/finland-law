@@ -1,5 +1,3 @@
 # 12 § Muutoksenhaku
 
-Elinkeino-, liikenne- ja ympäristökeskuksen tässä laissa tarkoitettuun päätökseen saa hakea muutosta valittamalla Hämeenlinnan hallinto-oikeuteen siten kuin hallintolainkäyttölaissa (586/1996) säädetään.
-
-Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan.
+Elinvoimakeskuksen tässä laissa tarkoitettuun päätökseen haetaan muutosta valittamalla Hämeenlinnan hallinto-oikeuteen. Muilta osin muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
