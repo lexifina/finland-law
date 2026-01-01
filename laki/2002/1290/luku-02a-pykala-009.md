@@ -2,14 +2,13 @@
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 2 a luku Työvoimapoliittisesti moitittava menettely
 
-Työnhakijalla ei ole oikeutta työttömyysetuuteen seitsemän päivän ajalta laiminlyönnin tai muun menettelyn jälkeen, jos hän työttömänä tai palkkatuetussa työssä ollessaan taikka saadessaan työttömyysetuutta 3 luvun 3 §:n 3 momentin perusteella ilman 11–14 §:ssä tarkoitettua taikka näihin pätevyydeltään rinnastettavaa syytä 12 kuukauden aikana toisen kerran:
-1) jättää saapumatta työvoimapalveluiden järjestämisestä annetun lain 31 §:ssä taikka 32 §:n 1 tai 2 momentissa tarkoitettuun alkuhaastatteluun tai työnhakukeskusteluun;
-1 a) ilmoittamalla vääriä tai puutteellisia tietoja taikka muulla vastaavalla tavalla omalla menettelyllään aiheuttaa, ettei hänelle järjestetä työvoimapalveluiden järjestämisestä annetun lain 32 ja 33 §:ssä tarkoitettua työnhakukeskustelua tai täydentävää työnhakukeskustelua
-2) jättää saapumatta kotoutumisen edistämisestä annetun lain 14 §:ssä tarkoitettuun palvelutarpeen arviointiin;
+Työnhakijalla ei ole oikeutta työttömyysetuuteen seitsemän päivän ajalta laiminlyönnin tai muun menettelyn jälkeen, jos hän työttömänä tai palkkatuetussa työssä ollessaan taikka saadessaan työttömyysetuutta 3 luvun 3 §:n 3 momentin perusteella ilman 11–14 §:ssä tarkoitettua taikka näihin pätevyydeltään rinnastettavaa syytä:
+1) jättää saapumatta työvoimapalveluiden järjestämisestä annetun lain 31 §:ssä tarkoitettuun alkuhaastatteluun tai 34 §:ssä tarkoitettuun työnhakukeskusteluun;
+1 a) ilmoittamalla vääriä tai puutteellisia tietoja taikka muulla vastaavalla tavalla omalla menettelyllään aiheuttaa, ettei hänelle järjestetä työvoimapalveluiden järjestämisestä annetun lain 34 ja 35 §:ssä tarkoitettua työnhakukeskustelua tai täydentävää työnhakukeskustelua;
 3) kieltäytyy työllistymissuunnitelman tai sitä korvaavan suunnitelman laatimisesta tai tarkistamisesta taikka muulla kuin 1 tai 2 kohdassa tarkoitetulla menettelyllään aiheuttaa, ettei suunnitelmaa voida laatia tai tarkistaa;
 4) kieltäytyy kotoutumisen edistämisestä annetun lain 14 §:ssä tarkoitetusta palvelutarpeen arvioinnista taikka muulla kuin 2 kohdassa tarkoitetulla menettelyllään aiheuttaa sen, ettei palvelutarpeen arviointia voida tehdä;
 5) laiminlyö hakea työtä työllistymissuunnitelmassa tai sitä korvaavassa suunnitelmassa edellytetyllä tavalla, tai omalla menettelyllään aiheuttaa sen, ettei työnhaku johda työllistymiseen;
-6) jättää hakematta työvoimaviranomaisen tarjoamaa työtä tai omalla menettelyllään aiheuttaa, ettei työnhaku johda työllistymiseen, jos hänelle viimeksi järjestetystä työvoimapalveluiden järjestämisestä annetun lain 31 §:ssä tarkoitetusta alkuhaastattelusta on kulunut vähintään kuusi kuukautta;
+6) jättää hakematta työvoimaviranomaisen hänen haettavakseen osoittamaa työtä tai omalla menettelyllään aiheuttaa, ettei työnhaku johda työllistymiseen;
 7) kieltäytyy seuraavasta palvelusta tai omalla menettelyllään aiheuttaa sen, ettei hänelle voida järjestää seuraavaa palvelua:
 a) työvoimapalveluiden järjestämisestä annetussa laissa tarkoitettu työnhakuvalmennus, uravalmennus, työvoimakoulutus, koulutuskokeilu tai työkokeilu;
 b) ammatillisesta koulutuksesta annetussa laissa tarkoitettu työvoimakoulutus;
@@ -21,4 +20,4 @@ d) kuntouttavasta työtoiminnasta annetussa laissa tarkoitettu kuntouttava työt
 11) kieltäytyy palvelutarpeen arvioimiseksi välttämättömästä työkyvyn tutkimuksesta tai arvioinnista tai omalla menettelyllään aiheuttaa sen, ettei hänelle voida järjestää tällaista palvelua; tai
 12) laiminlyö noudattaa, mitä monialaisessa työllistymissuunnitelmassa on sovittu työnhaun ja työllistymisen yleisten edellytysten parantamisesta, jos hänelle ei ole asetettu työnhakuvelvollisuutta työvoimapalveluiden järjestämisestä annetun lain 48 §:n perusteella.
 
-Edellä 1 momentin 5 ja 6 kohdassa tarkoitettua menettelyä arvioidaan kokonaisuutena kullakin työvoimapalveluiden järjestämisestä annetun lain 5 luvussa säädetyllä työnhakuvelvollisuuden tarkastelujaksolla.
+Valtioneuvoston asetuksella säädetään tarkemmin ajankohdasta, jona työnhakijan katsotaan menetelleen 1 momentin 5 tai 6 kohdassa tarkoitetulla tavalla.
