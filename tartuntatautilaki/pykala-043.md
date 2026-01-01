@@ -1,0 +1,4 @@
+# 43 § Asetuksenantovaltuus
+Luku: 4 luku Tartuntatautien ilmoittaminen, tietojen luovuttaminen ja rekisterit
+
+Valtioneuvoston asetuksella annetaan tarkemmat säännökset 29 §:ssä tarkoitetusta tartuntatauti-ilmoituksen sisällöstä sekä mikrobikantojen ja näytteiden liittämisestä ilmoitukseen, 33 §:n mukaisista otosseurannalla seurattavista taudeista ja oireyhtymistä, 36 §:ssä tarkoitetuista hoitoon liittyvistä infektioista sekä 38 §:ssä tarkoitetusta yhdistämisaikavälistä. Valtioneuvoston asetuksella säädetään poikkeuksista 28 §:ssä tarkoitetusta tartuntatauti-ilmoituksen tekemisestä, mainitussa pykälässä tarkoitetut muiden tartuntatautien ilmoitettavat mikrobilöydökset ja mikrobien lääkeherkkyydet, 30 ja 31 §:ssä tarkoitetut kuntaan virkasuhteessa olevalle eläinlääkärille ilmoitettavat taudit ja 37 §:ssä tarkoitetut lääkkeille erittäin vastustuskykyiset mikrobit.

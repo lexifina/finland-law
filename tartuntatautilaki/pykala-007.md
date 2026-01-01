@@ -1,0 +1,6 @@
+# 7 § Valtakunnallinen torjuntatyö
+Luku: 2 luku Torjuntatyön järjestäminen ja viranomaiset
+
+Tartuntatautien torjunnan yleinen suunnittelu, ohjaus ja valvonta kuuluvat sosiaali- ja terveysministeriölle. Ministeriö vastaa valtakunnallisesta terveydenhuollon häiriötilanteisiin tai niiden uhkaan varautumisesta ja näiden tilanteiden johtamisesta.
+
+Tartuntatautien torjunnan kansallisena asiantuntijalaitoksena toimii Terveyden ja hyvinvoinnin laitos, joka tukee asiantuntemuksellaan sosiaali- ja terveysministeriötä ja Lupa- ja valvontavirastoa, ylläpitää tartuntatautien torjuntaa palvelevia valtakunnallisia epidemiologisia seurantajärjestelmiä sekä ohjaa ja tukee tartuntatautien torjuntatyötä hyvinvointialueilla, HUS-yhtymässä ja sosiaalihuollon ja terveydenhuollon toimintayksiköissä. Laitos tutkii tartuntatauteja, seuraa ja selvittää tartuntatautien ilmaantumista ja esiintymistä, kehittää niiden diagnostiikkaa, seurantaa ja torjuntaa sekä tiedottaa niistä ja antaa väestölle ohjeita tartunnan välttämiseksi ja leviämisen ehkäisemiseksi. Laitos huolehtii osaltaan rokotehuollosta, rokotteiden vaikutusten seuraamisesta sekä rokotteiden ja rokotusten haittavaikutusten selvittämisestä. Laitos toimii Euroopan unionin tartuntatautien epidemiologisesta seurannasta ja tartuntatautien ilmoittamisesta vastaavana kansallisena toimivaltaisena viranomaisena.

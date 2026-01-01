@@ -1,0 +1,2 @@
+Tartuntatautilaki
+Eduskunnan päätöksen mukaisesti säädetään:

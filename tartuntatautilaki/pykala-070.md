@@ -1,0 +1,4 @@
+# 70 § Kiireellinen päätös rajoitetoimenpiteestä
+Luku: 6 luku Tartunnan leviämistä rajoittavia toimenpiteitä
+
+Muu kuin 60–67 tai 69 §:ssä tarkoitettu julkisessa terveydenhuollossa toimiva laillistettu lääkäri voi kiireellisessä tapauksessa päättää henkilön tai tavaran karanteenista taikka henkilön eristämisestä tai päättää välttämättömän sairaanhoidon toteuttamisesta, lääkityksen antamisesta henkilön vastustuksesta huolimatta tai tapaamisen rajoittamisesta enintään kolmeksi päiväksi, jos se on välttämätöntä tartuntataudin leviämisen estämiseksi ja jos hän suorittamansa tutkimuksen perusteella toteaa, että päätöksen tekemisen edellytykset ovat olemassa. Päätös on saatettava niin pian kuin olosuhteet sallivat hyvinvointialueen tai HUS-yhtymän virkasuhteisen tartuntataudeista vastaavan lääkärin vahvistettavaksi.
