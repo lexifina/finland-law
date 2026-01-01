@@ -1,0 +1,5 @@
+# 5 a §
+
+Jossakin muussa Euroopan talousalueen valtiossa asianajajan tointa harjoittamaan oikeutetun on hoitaessaan toimeksiantoa Suomessa käytettävä sitä ammattinimikettä, jota käytetään jäsenvaltiossa, josta hän tulee, ilmaistuna tuon valtion kielellä viittauksin siihen ammatilliseen järjestöön, johon hän kuuluu, tai siihen tuomioistuimeen, jossa hän saa toimia. Asiakkaan edustamiseen tuomioistuimessa tai viranomaisessa liittyvää sekä muuta toimintaa harjoittaessaan asianajajan on noudatettava paitsi Suomessa voimassa olevia ammatillisia menettelytapasääntöjä myös niitä velvollisuuksia, joita hänellä on siinä valtiossa, josta hän tulee.
+
+Asianajajayhdistyksen hallituksen velvollisuudesta valvoa 1 momentissa tarkoitetun asianajajan toimintaa Suomessa on soveltuvin osin voimassa, mitä jäljempänä tässä laissa säädetään asianajajayhdistyksen jäsenestä. Päätöksestä, jossa asianajajan todetaan rikkoneen hyvää asianajajatapaa, asianajajayhdistyksen hallituksen on annettava tieto sen valtion toimivaltaiselle viranomaiselle, josta asianajaja tulee.
