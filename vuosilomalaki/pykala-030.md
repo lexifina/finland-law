@@ -1,0 +1,17 @@
+# 30 § Poikkeaminen työehtosopimuksella
+Luku: 6 luku Erinäiset säännökset
+
+Työnantajalla tai työnantajien yhdistyksellä sekä työntekijöiden valtakunnallisella yhdistyksellä tai tämän jäsenyhdistyksellä on oikeus sopia toisin lomakaudesta, vuosilomapalkan ja lomakorvauksen laskemisesta ja maksamisesta, talviloman sijoittamisesta muuhun keskenään sopimaansa työajan lyhennykseen, säästövapaasta sekä siitä, mitä 8 §:n 2 momentissa säädetään. Sanotulla työehtosopimuksella saadaan lisäksi sopia 12 arkipäivää ylittävän vuosiloman jakamisesta pidettäväksi yhdessä tai useammassa jaksossa sekä 7 §:ssä säädetystä työssäolon veroisesta ajasta siten, että sovittu järjestely turvaa työntekijöille tässä laissa säädettyjä vastaavan pituiset vuosilomat. Siitä, mitä 7 §:n 2 momentin 1 kohdassa säädetään, ei kuitenkaan saa sopimuksin poiketa työntekijän vahingoksi. Lisäksi virkaehtosopimuksella saadaan sopia virkamiehen tai viranhaltijan vuosiloman siirtämisessä ja keskeyttämisessä noudatettavasta ilmoitusajasta ja loman keskeyttämisen perusteista tilanteissa, joissa siirtäminen tai keskeyttäminen on julkisen vallan käyttöön liittyvistä painavista syistä tarpeen taikka välttämätöntä julkisyhteisön laissa säädettyjen terveyteen tai turvallisuuteen liittyvien tehtävien hoitamiseksi.
+
+Edellä 1 momentissa tarkoitettuja työehtosopimuksen määräyksiä työnantaja saa soveltaa niidenkin työntekijöiden työsuhteissa, jotka eivät ole sidottuja työehtosopimukseen mutta joiden työsuhteissa työnantajan on työehtosopimuslain (436/1946) mukaan noudatettava työehtosopimuksen määräyksiä. Jos työsopimuksessa on niin sovittu, työehtosopimuksen edellä tarkoitettuja määräyksiä saadaan soveltaa työehtosopimuksen lakkaamisesta uuden työehtosopimuksen voimaantuloon niissä työsuhteissa, joissa määräyksiä saataisiin soveltaa, jos työehtosopimus olisi edelleen voimassa.
+
+Mitä tässä pykälässä säädetään työnantajasta ja työnantajien yhdistyksestä, sovelletaan myös valtion neuvotteluviranomaiseen ja muuhun sopimusviranomaiseen. Edellä 1 momentissa säädetystä poiketen 1 momentissa tarkoitetun sopimuksen voivat tehdä:
+1) kuntien ja hyvinvointialueiden työnantajaedunvalvonnan järjestämisestä annetussa laissa (630/2021) tarkoitettujen jäsenyhteisöjen osalta Kunta- ja hyvinvointialuetyönantajat KT sekä valtakunnallinen työntekijäyhdistys;
+2) evankelis-luterilaisen kirkon seurakunnan, seurakuntayhtymän yhdessä siihen kuuluvien seurakuntien kanssa, tuomiokapitulin, kirkkohallituksen ja kirkon eläkerahaston osalta kirkon työmarkkinalaitos sekä valtakunnallinen työntekijäyhdistys;
+3) ortodoksisen kirkon ja seurakuntien osalta ortodoksisesta kirkosta annetun lain (985/2006) 30 §:ssä tarkoitettu kirkollishallitus tai sen valtuuttama työnantajien yhdistys sekä valtakunnallinen työntekijäyhdistys;
+4) Ahvenanmaan maakunta- ja kuntahallinnon osalta Ahvenanmaan maakunnan hallitus ja Ahvenanmaan maakunnan kunnallinen sopimusvaltuuskunta sekä valtakunnallinen työntekijäyhdistys;
+5) eduskunnan osalta eduskunnan virkamiehistä annetun lain (1197/2003) 46 §:n 1 momentissa säädetyt osapuolet;
+6) Suomen Pankin osalta Suomen Pankin virkamiehistä annetun lain (1166/1998) 42 §:n 1 momentissa säädetyt osapuolet;
+7) Kansaneläkelaitoksen osalta Kansaneläkelaitoksesta annetun lain (731/2001) 11 §:n 2 momentissa tarkoitetut osapuolet.
+
+Työehtosopimuksen määräyksen, jolla poiketaan lain säännöksestä tässä pykälässä tarkoitetulla tavalla, on oltava yhteensopiva tietyistä työajan järjestämistä koskevista seikoista annetun Euroopan parlamentin ja neuvoston direktiivin 2003/88/EY kanssa.
