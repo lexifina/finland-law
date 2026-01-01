@@ -1,0 +1,6 @@
+# 20 § Valtioneuvoston asetus vesienhoitosuunnitelmasta ja toimenpideohjelmasta
+Luku: 3 luku Vesienhoitosuunnitelma ja toimenpideohjelma
+
+Valtioneuvoston asetuksella säädetään vesienhoitosuunnitelman ja toimenpideohjelman laatimisesta, laatimisen määräajoista sekä vesienhoitosuunnitelman valmisteluun liittyvän yhteistyön järjestämisestä.
+
+Lisäksi valtioneuvoston asetuksella voidaan tarkemmin säätää vesienhoitosuunnitelmassa ja toimenpideohjelmassa esitettävien ympäristötavoitteiden asettamisesta sekä suunnitelmassa ja ohjelmassa esitettävistä tiedoista.

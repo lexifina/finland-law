@@ -1,0 +1,6 @@
+# 16 § Vesienhoitosuunnitelman käsittely
+Luku: 3 luku Vesienhoitosuunnitelma ja toimenpideohjelma
+
+Ehdotus vesienhoitoalueen vesienhoitosuunnitelmaksi käsitellään ja yhteensovitetaan ohjausryhmässä.
+
+Vesienhoidon ja merenhoidon järjestämisviranomainen toimittaa ohjausryhmässä käsitellyn ehdotuksen vesienhoitoalueen vesienhoitosuunnitelmaksi ympäristöministeriölle.
