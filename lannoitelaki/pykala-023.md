@@ -1,4 +1,4 @@
-# 23 § Elinkeino-, liikenne- ja ympäristökeskus
+# 23 § Elinvoimakeskus
 Luku: 5 luku Viranomaiset ja niiden tehtävät
 
-Elinkeino-, liikenne- ja ympäristökeskukset valvovat Ruokaviraston ohella lannoitevalmisteita toimialueellaan.
+Elinvoimakeskukset valvovat Ruokaviraston ohella lannoitevalmisteita toimialueellaan.

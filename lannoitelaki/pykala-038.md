@@ -11,6 +11,6 @@ Kielto on määrättävä määräaikaisena, jos sen perusteena oleva epäkohta 
 
 Kieltoa on muutoksenhausta huolimatta noudatettava, jollei muutoksenhakuviranomainen kiellä valvontaviranomaisen päätöksen täytäntöönpanoa tai määrää sitä keskeytettäväksi.
 
-Jos asia ei siedä viivytystä, Ruokaviraston lisäksi myös elinkeino-, liikenne- ja ympäristökeskus voi määrätä lannoitevalmiste-erää koskevan kiellon väliaikaisesti. Väliaikainen kielto on saatettava viivytyksettä Ruokaviraston ratkaistavaksi. Kielto raukeaa, jos Ruokavirasto ei ole tehnyt 1 momentissa tarkoitettua päätöstä kahden viikon kuluessa kiellon antamisesta.
+Jos asia ei siedä viivytystä, Ruokaviraston lisäksi elinvoimakeskus voi määrätä lannoitevalmiste-erää koskevan kiellon väliaikaisesti. Väliaikainen kielto on saatettava viivytyksettä Ruokaviraston ratkaistavaksi. Kielto raukeaa, jos Ruokavirasto ei ole tehnyt 1 momentissa tarkoitettua päätöstä kahden viikon kuluessa kiellon antamisesta.
 
 Mitä 1 momentissa säädetään, ei koske markkinavalvontaan liittyvää kieltoa, josta säädetään markkinavalvontalain 18 §:ssä.
