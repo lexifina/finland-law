@@ -1,0 +1,2 @@
+Laki pelastustoimen järjestämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
