@@ -1,0 +1,8 @@
+# 36 § Rajoitukset
+Luku: 6 luku Tilojen rajoitukset
+
+Oikeustoimi, jolla ilman elinvoimakeskuksen lupaa luovutetaan tämän lain nojalla muodostettu tila tai alue tai sen osa, on mitätön. Elinvoimakeskuksen on myönnettävä luovutuslupa silloin, kun luovutuksensaajana on Inarin kunnassa asuva täysivaltainen koltta, joka ei ennestään omista tässä laissa tarkoitettua kiinteistöä, tai kun luovutuksensaajana on sellainen henkilö, joka voisi periä luovuttajan. Muulle henkilölle luovutusluvan saa myöntää vain erityisistä syistä.
+
+Edellä 1 momentissa säädetyt rajoitukset ovat voimassa 20 vuotta siitä päivästä lukien, jona tilasta tai lisäalueesta tehty kauppakirja on allekirjoitettu. Rajoitusten estämättä on kolttatilan kiinnittäminen muun oikeuden kuin vuokraoikeuden vakuudeksi ja muu pantiksipano velan maksamisen vakuudeksi sekä ulosmittaus ja pakkohuutokaupalla myyminen sallittu. Elinvoimakeskus voi, milloin siihen on olosuhteet huomioon ottaen erityisiä syitä, vapauttaa tilan tai sen osan tässä pykälässä säädetyistä rajoituksista. Rajoitusten merkitsemisestä kiinteistörekisteriin sekä niitä koskevista ilmoituksista säädetään valtioneuvoston asetuksella.
+
+Elinvoimakeskus voi liittää edellä tässä pykälässä tarkoitettua lupaa ja vapauttamista koskevaan päätökseen ehdon, että tämän lain nojalla syntynyt laina tai myyntihintasaaminen on kokonaan tai osaksi heti maksettava takaisin korkoineen. Jos tilaa varten on myönnetty tämän lain nojalla avustusta eikä sen myöntämisestä ole kulunut 10 vuotta, voidaan päätökseen myös liittää ehto, että sanottu avustus tai osa siitä on heti maksettava valtiolle takaisin.

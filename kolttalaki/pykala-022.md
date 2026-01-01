@@ -1,0 +1,4 @@
+# 22 § Maan lunastaminen pakkohuutokaupasta
+Luku: 4 luku Maan hankkiminen
+
+Pakkohuutokaupasta valtiolle lunastettu tila ja muu koltan koltta-alueella omistama kiinteistö tai sen osa voidaan sen estämättä, mitä pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain 7 §:ssä säädetään, käyttää tämän lain tarkoituksiin sekä tällöin antaa sen aikaisemmin omistaneelle koltalle tai hänen puolisollensa taikka heidän tai jommankumman heistä perintökaaren 2 luvussa tarkoitetulle sukulaiselle tai ottolapselle taikka tällaisen henkilön puolisolle, vaikkei tämä täyttäisi tämän lain 5 §:ssä tarkoitettuja edellytyksiä. Lunastetun tilan käyttämisessä voidaan soveltuvin osin noudattaa, mitä pakkohuutokaupalla myytävien kiinteistöjen lunastamisesta valtiolle annetun lain 7 §:n 4 momentissa säädetään. Lunastettu tila voidaan antaa myös yhteisesti kahdelle tai useammalle tässä pykälässä tarkoitetulle henkilölle.
