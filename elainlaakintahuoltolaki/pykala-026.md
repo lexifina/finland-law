@@ -1,0 +1,8 @@
+# 26 § Tarkastusoikeus
+Luku: 6 luku Eläinlääkäripalvelujen valvonta
+
+Ruokavirastolla on oikeus päästä paikkoihin, joissa tarjotaan eläinlääkäripalveluja, sekä tarkastaa järjestäjän, yliopiston ja yksityisen eläinlääkäripalvelun tuottajan toimitilat, työvälineet, kirjanpito, potilasasiakirjat ja muut eläinlääkäripalvelujen tuottamista koskevat asiakirjat, jos se on tarpeen tässä laissa säädetyn valvonnan toteuttamiseksi.
+
+Tarkastus saadaan tehdä pysyväisluonteiseen asumiseen käytettävissä tiloissa vain, jos se on välttämätön ihmisten tai eläinten terveyteen kohdistuvan vakavan uhkan torjumiseksi taikka jos on aihetta epäillä yksityisen eläinlääkäripalvelun tuottajan syyllistyneen toiminnassaan rikokseen, josta voi seurata vankeusrangaistus, tai rikokseen, josta voi seurata sakkorangaistus ja aiheutua vaaraa ihmisten tai eläinten terveydelle, ja jos tarkastus on välttämätön rikoksen selvittämiseksi.
+
+Viranomaisen apuna tarkastuksessa voidaan käyttää asiantuntijoita. Asiantuntijoiden on oltava tunnetusti taitavia ja kokeneita henkilöitä, jotka edustavat tarkastuksen kannalta merkityksellistä tieteellistä, käytännön eläinlääkinnän tai muuta asiantuntemusta. Asiantuntijaan sovelletaan rikollisoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974). Asiantuntijoilla on oikeus salassapitosäännösten estämättä saada vastaanottotoiminnan tarkastamista varten tarpeelliset tiedot käyttöönsä. Asiantuntijat ovat velvollisia pitämään salassa saamansa salassa pidettäviksi säädetyt tiedot. Asiantuntijalla ei ole oikeutta päästä pysyväisluonteiseen asumiseen käytettäviin tiloihin.

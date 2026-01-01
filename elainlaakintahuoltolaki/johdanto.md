@@ -1,0 +1,2 @@
+Eläinlääkintähuoltolaki
+Eduskunnan päätöksen mukaisesti säädetään:
