@@ -1,0 +1,2 @@
+Laki sosiaaliturvajärjestelmien yhteensovittamista koskevan Euroopan unionin lainsäädännön soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
