@@ -1,0 +1,3 @@
+# 5 a §
+
+Jos henkilö, jolle Islannissa, Norjassa, Ruotsissa tai Tanskassa on tuomittu vapausrangaistus, Suomeen pakenemalla tai muuten Suomessa karttaa rangaistuksen täytäntöönpanoa tai sen jatkamista, pidättämiseen oikeutettu virkamies voi täytäntöönpanon varmistamiseksi ottaa tuomitun säilöön, jos valtio, jossa seuraamus on määrätty, sitä pyytää. Mainitun pyynnön voi asianomaisen valtion viranomainen tehdä suoraan pidättämiseen oikeutetulle virkamiehelle. Säilöön ottamisesta on viipymättä ilmoitettava sen paikkakunnan käräjäoikeudelle, jossa säilössä pitäminen tapahtuu, sekä asianomaiselle syyttäjälle ja oikeusministeriölle.

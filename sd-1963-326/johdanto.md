@@ -1,0 +1,2 @@
+Laki Suomen ja muiden pohjoismaiden välisestä yhteistoiminnasta rikosasioissa annettujen tuomioiden täytäntöönpanossa
+Eduskunnan päätöksen mukaisesti säädetään:
