@@ -1,7 +1,7 @@
 # 50 § Eläintarha, pysyvä ja kiertävä eläinnäyttely sekä sirkus
 Luku: 8 luku Luvan- ja ilmoituksenvarainen eläinten pito
 
-Eläimiä ei saa pitää eläintarhassa, pysyvässä tai kiertävässä eläinnäyttelyssä tai käyttää sirkuksessa ilman aluehallintoviraston lupaa.
+Eläimiä ei saa pitää eläintarhassa, pysyvässä tai kiertävässä eläinnäyttelyssä tai käyttää sirkuksessa ilman Ruokaviraston lupaa.
 
 Eläintarhassa tai pysyvässä eläinnäyttelyssä pidettäviä luonnonvaraisiin eläinlajeihin kuuluvia eläimiä ei saa käyttää esityksissä, joissa eläimet esittävät yleisölle muita kuin eläimen hoitoon liittyviä opetettuja taitoja.
 

@@ -5,6 +5,6 @@ Edellä 71 §:n 3 momentissa tarkoitetun viranomaisen on huolehdittava siitä, e
 
 Broilereiden ja sikojen pito-olosuhteiden tai muiden vastaavien tekijöiden vaikutus eläinten hyvinvointiin arvioidaan lihantarkastuksen löydösten perusteella sekä muun teurastamolla saatavilla olevan tiedon perusteella (eläinten hyvinvointiarvio).
 
-Jos eläinten hyvinvointiarvion mukaan eläinten hyvinvointi on heikentynyt kasvatusaikana, 71 §:n 3 momentissa tarkoitetun viranomaisen on ilmoitettava siitä eläinten omistajalle tai pitäjälle, teurastamotoimijalle sekä sille aluehallintovirastolle, jonka toimialueella eläintenpitoyksikkö sijaitsee. Näiden on ryhdyttävä asianmukaisiin toimenpiteisiin.
+Jos eläinten hyvinvointiarvion mukaan eläinten hyvinvointi on heikentynyt kasvatusaikana, 71 §:n 3 momentissa tarkoitetun viranomaisen on ilmoitettava siitä eläinten omistajalle tai pitäjälle, teurastamotoimijalle sekä Ruokavirastolle. Näiden on ryhdyttävä asianmukaisiin toimenpiteisiin.
 
 Valtioneuvoston asetuksella annetaan tarkemmat säännökset eläinten hyvinvointiarvion tekemisestä sekä 3 momentissa tarkoitetusta ilmoituksesta.

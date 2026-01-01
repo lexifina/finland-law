@@ -5,4 +5,4 @@ Jos on ilmeistä, että eläinten pidosta tai kohtelusta aiheutuu välitöntä v
 
 Toiminnan keskeyttämistä koskeva päätös on voimassa määräajan tai toistaiseksi, kunnes valvontaviranomainen antaa asiassa lopullisen ratkaisunsa. Valvontaviranomaisen on huolehdittava siitä, että lopullista ratkaisua varten tarvittavat selvitykset tehdään viipymättä.
 
-Jos toiminnassa on kyse luvan- tai ilmoituksenvaraisesta toiminnasta ja toiminnan keskeyttää muu valvontaviranomainen kuin aluehallintovirasto, keskeyttämisestä on ilmoitettava viipymättä aluehallintovirastolle.
+Jos toiminnassa on kyse luvan- tai ilmoituksenvaraisesta toiminnasta ja toiminnan keskeyttää muu valvontaviranomainen kuin Ruokavirasto, keskeyttämisestä on ilmoitettava viipymättä Ruokavirastolle.
