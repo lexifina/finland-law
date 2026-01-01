@@ -1,0 +1,2 @@
+Laki lääketieteellisestä tutkimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
