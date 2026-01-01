@@ -2,8 +2,6 @@
 
 Opetushallitus ylläpitää yleisten kielitutkintojen tutkintorekisteriä suoritettuja kielitutkintoja ja tutkintoihin sisältyviä osakokeita koskevien tietojen säilyttämistä sekä yleisen kielitutkinnon toimivuuden seurantaa varten.
 
-Rekisteriin talletetaan yleiseen kielitutkintoon osallistuneen nimi, henkilötunnus, kansalaisuus, sukupuoli, tutkinnon suorittamispaikka, tutkintokieli, saadut taitotasoarviot, tutkintokertojen ajankohta ja tarpeelliset yhteystiedot.
+Rekisteriin talletetaan yleiseen kielitutkintoon osallistuneen nimi, oppijanumero, kansalaisuus, sukupuoli, tutkinnon tai osakokeen suorittamispaikka, tutkintokieli, tutkinnon tai osakokeen taso, saadut taitotasoarviot, tutkintokertojen ajankohta, tarpeelliset yhteystiedot ja tieto 11 §:n 3 momentissa tarkoitettujen maksuttomien suorituskertojen käyttämisestä.
 
-Tutkintorekisterin tiedot säilytetään 30 vuotta.
-
-Tutkintorekisteriin sovelletaan lisäksi viranomaisten toiminnan julkisuudesta annetun lain ja henkilötietolain säännöksiä.
+Tiedot henkilön suorittamien kielitutkintojen tai niiden osakokeiden tutkintokielistä, saaduista taitotasoarvioista, tutkintokertojen ajankohdasta sekä 11 §:n 3 momentissa tarkoitettujen maksuttomien suorituskertojen käyttämisestä säilytetään henkilön eliniän.
