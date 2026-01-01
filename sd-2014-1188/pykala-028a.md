@@ -1,0 +1,6 @@
+# 28 a § Kuljetusasiakirja
+Luku: 4 luku Toimijoiden velvollisuuksista
+
+Jos neuvoston valvonta-asetuksen 68 artiklassa tarkoitettu kalastustuote kuljetetaan saaliin kalastaneen lukuun, kuljetusasiakirja voidaan toimittaa elinvoimakeskukselle neuvoston valvonta-asetuksen 23 tai 24 artiklan mukaisen purkamisilmoituksen tai 21 §:n mukaisen ilmoituksen yhteydessä. Jos kalastustuote kuljetetaan ostajan lukuun, kuljetusasiakirja voidaan toimittaa neuvoston valvonta-asetuksen 62–64 artiklassa tarkoitetun myynti-ilmoituksen yhteydessä. Kuljetusasiakirja voidaan toimittaa myös neuvoston valvonta-asetuksen 66 tai 67 artiklassa tarkoitetun haltuunottoilmoituksen yhteydessä. Kuljettaja vastaa tällöinkin siitä, että kuljetusasiakirja saapuu määräajassa elinvoimakeskukselle.
+
+Poiketen siitä, mitä neuvoston valvonta-asetuksen 68 artiklassa säädetään, kuljetettaessa Suomessa kokonaispituudeltaan enintään 12-metrisestä kalastusaluksesta kuljetusvälineeseen lastattuja saaliita tai tällaisista saaliista peräisin olevia kalastustuotteita enintään 20 kilometrin päähän purkamispaikasta, niiden mukana ei tarvitse olla mainitun artiklan mukaista kuljetusasiakirjaa eikä kuljetusasiakirjaa tarvitse toimittaa elinvoimakeskukselle.

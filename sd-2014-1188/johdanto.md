@@ -1,0 +1,2 @@
+Laki yhteisen kalastuspolitiikan seuraamusjärjestelmästä ja valvonnasta
+Eduskunnan päätöksen mukaisesti säädetään:

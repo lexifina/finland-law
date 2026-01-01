@@ -1,0 +1,8 @@
+# 5 § Elinvoimakeskus
+Luku: 2 luku Yhteisen kalastuspolitiikan noudattamista valvovat viranomaiset ja niiden tehtävät
+
+Elinvoimakeskus ja Rajavartiolaitos vastaavat Euroopan unionin yhteistä kalastuspolitiikkaa koskevien säädösten ja päätösten noudattamisen valvonnasta kalastustoiminnassa. Elinvoimakeskus valvoo yhteiseen kalastuspolitiikkaan liittyvien kalastusta, saalista, kalan kuljetusta ja kalakauppaa koskevien ilmoitusvelvollisuuksien noudattamista ja vastaa ilmoitusten tallentamisesta 5 luvussa tarkoitettuihin rekistereihin.
+
+Elinvoimakeskus valvoo yhteistyössä Tullin kanssa neuvoston LIS-asetuksen ja komission LIS-asetuksen säännösten noudattamista kalatuotteita maahan tuotaessa ja maasta vietäessä. Elinvoimakeskus on neuvoston LIS-asetuksen 15 artiklassa, 16 artiklan 1 kohdassa sekä 17, 18 ja 21 artiklassa tarkoitettu toimivaltainen viranomainen, ja se antaa mainitun asetuksen 15 ja 18 artiklassa edellytetyn kalatuotteiden maahantuontia ja maastavientiä koskevan varmennuksen ja hyväksynnän.
+
+Elinvoimakeskus on neuvoston LIS-asetuksessa ja komission LIS-asetuksessa tarkoitettu toimivaltainen viranomainen, joka myöntää ja peruuttaa komission LIS-asetuksen 9 artiklassa tarkoitetun hyväksytyn talouden toimijan todistuksen (APEO-todistus) ja vastaa hyväksytyn talouden toimijan toiminnan valvonnasta ja siihen liittyvästä yhteistyöstä Euroopan unionin toimielinten ja muiden valtioiden kanssa. Neuvoston LIS-asetuksen 16 artiklassa ja komission LIS-asetuksen II luvussa säädetään hyväksytyn talouden toimijan asemasta, APEO-todistuksesta, todistuksen haku- ja myöntämismenettelystä, hyväksymisen edellytyksistä, hyväksytyn talouden toimijan tehtävistä, toiminnan valvonnasta ja toiminnan keskeyttämisestä.

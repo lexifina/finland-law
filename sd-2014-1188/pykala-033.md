@@ -1,0 +1,6 @@
+# 33 § Aluksen satelliittiseurantajärjestelmä
+Luku: 5 luku Valvonnan tietojärjestelmä
+
+Alusten satelliittiseurantajärjestelmään tallennetaan tiedot kalastusalusrekisteriin merkittyjen satelliittiseurantalaitteella varustettujen kalastusalusten liikkeistä pituus- ja leveysastein ilmaistuna. Muiden maiden satelliittiseurantalaitteilla varustettujen kalastusalusten tunniste- ja liiketiedot tallennetaan satelliittiseurantajärjestelmään niiden liikkuessa yhteisvalvontakampanjoiden aikana Itämerellä ja aina niiden liikkuessa Suomen valvonnassa olevilla merialueilla.
+
+Valvontaviranomaiset käyttävät kalastusalusten tunniste- ja liiketietoja kalastuksenvalvonnassa ja merialueiden valvonnassa sekä valvonnassa havaittuja poikkeavuuksia ja yhteisen kalastuspolitiikan vastaisia tekoja koskevassa tutkinnassa. Luonnonvarakeskus käyttää alusten satelliittiseurantajärjestelmään tallennettuja tietoja kalatalouden tutkimukseen ja kalatalousalan tietojenkeruuasetuksessa tarkoitettujen tiedonkeruuta ja tilastointia koskevien velvoitteiden hoitamiseen.

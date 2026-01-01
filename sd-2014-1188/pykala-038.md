@@ -1,0 +1,8 @@
+# 38 § Yhteisrekisterinpitäjät
+Luku: 5 luku Valvonnan tietojärjestelmä
+
+Elinvoimakeskus, Rajavartiolaitos ja maa- ja metsätalousministeriö ovat 30–35 §:ssä tarkoitettujen rekisterien yhteisrekisterinpitäjiä. Elinvoimakeskus, Tulli ja maa- ja metsätalousministeriö ovat 36 §:ssä tarkoitetun rekisterin yhteisrekisterinpitäjiä.
+
+Maa- ja metsätalousministeriö käyttää rekistereitä yhteisen kalastuspolitiikan toimeenpanoon liittyvien raportointi- ja valvontavelvoitteiden täyttämiseen sekä ohjaa tietojärjestelmän kehittämistä, rekisterien ylläpitoa ja rekisterien pitoa. Elinvoimakeskus ja Rajavartiolaitos käyttävät rekistereitä hoitaessaan lakisääteisiä valvonta- ja raportointitehtäviään. Tulli käyttää 36 §:ssä tarkoitettua saalistodistusrekisteriä tehdessään kalastustuotteiden maahantuloa ja maastavientiä koskevia päätöksiä.
+
+Elinvoimakeskus huolehtii 30–36 §:ssä tarkoitettujen rekistereiden tietoaineiston tietosuoja-asetuksen 25 artiklassa tarkoitetusta tietosuojasta, 32 artiklassa tarkoitetusta käsittelyn turvallisuudesta, 35 artiklassa tarkoitetusta tietosuojaa koskevasta vaikutustenarvioinnista, 36 artiklassa tarkoitetusta ennakkokuulemisesta ja 12 artiklan 1 ja 2 kohdassa tarkoitetuista rekisterinpitäjän velvollisuuksista ja muista sellaisista tietosuoja-asetuksessa säädetyistä rekisterinpitäjän velvollisuuksista, jotka koskevat käytettävän tietojärjestelmän ja tietoaineiston tietoturvallisuutta. Muut 1 momentissa mainitut yhteisrekisterinpitäjät vastaavat muista kuin edellä mainituista tietosuoja-asetuksessa tarkoitetuista rekisterinpitäjän velvollisuuksista 30–36 §:ssä tarkoitettuihin rekistereihin tallentamiensa tietojen osalta. Elinvoimakeskus on tietosuoja-asetuksen 26 artiklassa tarkoitettu rekisteröidyn yhteyspiste.
