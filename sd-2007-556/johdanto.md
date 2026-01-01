@@ -1,0 +1,2 @@
+Laki vapaaehtoisesta maanpuolustuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
