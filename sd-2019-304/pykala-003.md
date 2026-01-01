@@ -10,3 +10,5 @@ Digi- ja väestötietovirasto hoitaa sille erikseen säädettyjä tehtäviä seu
 Digi- ja väestötietovirasto hoitaa kansalaisneuvontaa, digitaalisten palveluiden käyttäjätukea sekä julkisen hallinnon tiedonhallinnan asiantuntijatehtäviä ja palveluita. Näistä tehtävistä säädetään tarkemmin valtioneuvoston asetuksella.
 
 Virastolla voi olla myös muita erikseen säädettyjä tehtäviä.
+
+Digi- ja väestötietovirasto vastaa yhdessä Ahvenanmaan valtionviraston kanssa siitä, että 1 momentin 4 kohdassa tarkoitettujen valtion palveluiden saatavuus järjestetään Ahvenanmaan maakunnassa tuloksellisesti. Digi- ja väestötietovirasto vastaa erityisesti palveluiden tuottamisessa käytettävien tietojärjestelmien sekä sähköisen asioinnin, asianhallinnan ja arkistoinnin palvelujen toimivuudesta ja kehittämisestä.
