@@ -1,7 +1,7 @@
 # 7 § Kilpailutukseen osallistuminen
 Luku: 2 luku Kilpailutus
 
-Oikeus osallistua kilpailutukseen on yrityksellä, yhteisöllä ja niiden ryhmittymällä. Osallistujalla on oltava riittävä osaaminen, kokemus, luotettavuus ja taloudelliset valmiudet merituulivoimahankkeen edistämiseen. Kirjanpitolain (1336/1997) 1 luvun 6 §:ssä tarkoitetusta konsernista kilpailutukseen saa osallistua yksin tai osana ryhmittymää vain yksi yritys.
+Oikeus osallistua kilpailutukseen on yrityksellä, yhteisöllä ja niiden ryhmittymällä. Osallistujalla on oltava riittävä osaaminen, kokemus, luotettavuus ja taloudelliset valmiudet merituulivoimahankkeen edistämiseen.
 
 Oikeutta osallistua kilpailutukseen yksin tai osana ryhmittymää ei ole, jos yhteisöllä, yrityksellä tai sen konserniyrityksellä on yksin tai yhdessä vähintään kolme hyödyntämislupaa sellaisille talousvyöhykkeen merituulivoima-alueille, joilla ei ole otettu tuulivoimapuistoa suunniteltuun käyttöönsä, tai jos yhteisö, yritys tai sen konserniyritys on aiemmin voittanut kilpailutuksen, joka koskee suurimmalta osaltaan kilpailutettavana olevaa talousvyöhykkeen merituulivoima-aluetta, mutta ei ole ottanut alueella tuulivoimapuistoa suunniteltuun käyttöönsä.
 
