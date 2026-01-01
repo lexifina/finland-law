@@ -1,6 +1,6 @@
 # 14 § Tukipäätös
 
-Metsäkeskuksen on metsitystuen myöntämistä tai epäämistä koskevaa tukipäätöstä tehdessään otettava huomioon 13 §:n 2 momentissa tarkoitettu elinkeino-, liikenne- ja ympäristökeskuksen sitova lausunto.
+Metsäkeskuksen on metsitystuen myöntämistä tai epäämistä koskevaa tukipäätöstä tehdessään otettava huomioon 13 §:n 2 momentissa tarkoitetut Lupa- ja valvontaviraston ja elinvoimakeskuksen sitovat lausunnot.
 
 Jos metsityksen toteuttamiseen sovelletaan ympäristövaikutusten arviointimenettelystä annetussa laissa tarkoitettua ympäristövaikutusten arviointimenettelyä, tukipäätöstä ei saa tehdä ennen kuin metsäkeskus on saanut käyttöönsä mainitun lain 19 §:n mukaisen arviointiselostuksen ja siihen liittyvän yhteysviranomaisen perustellun päätelmän. Tukipäätöksestä on käytävä ilmi, miten arviointi on otettu huomioon päätösharkinnassa.
 
