@@ -1,0 +1,3 @@
+# 9 § Suunnitelmat
+
+Maa- ja metsätalousministeriö hyväksyy vieraslajiasetuksen 13 artiklassa tarkoitetun toimintasuunnitelman sekä 19 artiklassa tarkoitettuja hallintatoimenpiteitä koskevan suunnitelman. Suunnitelmia valmisteltaessa on niille viranomaisille ja tahoille, joiden toimintaa tai etua asia erityisesti koskee, sekä ympäristönsuojelulain (527/2014) 186 §:ssä tarkoitetuille valtakunnallisille yhdistyksille ja säätiöille varattava tilaisuus antaa suunnitelmaluonnoksista lausuntonsa. Luonnos on julkaistava yleisessä tietoverkossa ja varattava yleisölle riittävän ajoissa mahdollisuus mielipiteiden esittämiseen. Hyväksytystä suunnitelmasta sekä siitä, miten esitetyt mielipiteet on otettu huomioon, on tiedotettava yleisessä tietoverkossa.
