@@ -1,0 +1,2 @@
+Laki eräiden teknisten laitteiden vaatimustenmukaisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:

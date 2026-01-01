@@ -1,0 +1,27 @@
+# 13 § Rangaistussäännös
+
+Joka tahallaan tai törkeästä huolimattomuudesta rikkoo
+1) 4 §:n 1 momentissa tai 2 momentin nojalla säädettyä valmistajan velvollisuutta huolehtia teknisen laitteen turvallisuudesta ja vaatimustenmukaisuudesta,
+2) 5 §:n 1 momentissa tai 2 momentin nojalla säädettyä valmistajan velvollisuutta osoittaa teknisen laitteen vaatimustenmukaisuus, koota tekniset asiakirjat, laatia asianmukaiset käyttö- ja muut ohjeet sekä varustaa tekninen laite vaaditulla merkinnällä,
+3) 6 §:ssä säädettyä valmistajan velvollisuutta liittää vaarallisen aineen nimi, vaaditut merkinnät ja käyttö- ja turvallisuusohjeet tekniseen laitteeseen,
+4) 7 §:ssä säädettyä henkilön, joka luovuttaa teknisen laitteen omissa nimissään ensimmäistä kertaa markkinoille tai käyttöön Euroopan talousalueella, velvollisuutta huolehtia teknisen laitteen turvallisuudesta ja vaatimustenmukaisuudesta,
+5) 7 §:ssä säädettyä henkilön, joka luovuttaa teknisen laitteen omissa nimissään ensimmäistä kertaa markkinoille tai käyttöön Euroopan talousalueella, velvollisuutta osoittaa teknisen laitteen vaatimustenmukaisuus, koota tekniset asiakirjat, laatia asianmukaiset käyttö- ja muut ohjeet sekä varustaa tekninen laite vaaditulla merkinnällä,
+6) 7 §:ssä säädettyä henkilön, joka luovuttaa teknisen laitteen omissa nimissään ensimmäistä kertaa markkinoille tai käyttöön Euroopan talousalueella, velvollisuutta liittää vaarallisen aineen nimi, vaaditut merkinnät ja käyttö- ja turvallisuusohjeet tekniseen laitteeseen tai
+7) 9 §:ssä säädettyä edelleen luovuttajan velvollisuutta varmistua teknisen laitteen vaatimustenmukaisuudesta ja siitä, että asianmukaiset ohjeet ovat laitteen mukana,
+on tuomittava, jollei teosta muualla laissa säädetä ankarampaa rangaistusta, laiteturvallisuusrikkomuksesta sakkoon.
+
+Laiteturvallisuusrikkomuksesta tuomitaan myös se, joka tahallaan tai törkeästä huolimattomuudesta rikkoo
+1) markkinavalvonta-asetuksen 4 artiklan 3 kohdan a alakohdassa säädettyä valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta varmentaa, että EU-vaatimustenmukaisuusvakuutus ja tekniset asiakirjat on laadittu,
+2) markkinavalvonta-asetuksen 4 artiklan 3 kohdan a alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta pitää vaatimustenmukaisuusvakuutus ja tekniset asiakirjat Lupa- ja valvontaviraston ja sosiaali- ja terveysministeriön saatavilla vaaditun ajan tai varmistaa, että tekniset asiakirjat voidaan antaa pyynnöstä näiden viranomaisten saataville,
+3) markkinavalvonta-asetuksen 4 artiklan 3 kohdan b alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta toimittaa Lupa- ja valvontaviraston tai sosiaali- ja terveysministeriön perustellusta pyynnöstä tälle kaikki tiedot ja asiakirjat, jotka ovat tarpeen tuotteen vaatimustenmukaisuuden osoittamiseksi, kielellä, jota kyseinen viranomainen voi helposti ymmärtää,
+4) markkinavalvonta-asetuksen 4 artiklan 3 kohdan c alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta ilmoittaa riskin aiheuttavasta tuotteesta sosiaali- ja terveysministeriölle,
+5) markkinavalvonta-asetuksen 4 artiklan 3 kohdan d alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta varmistaa, että ryhdytään viipymättä tarvittaviin korjaaviin toimiin, jos tuote ei vastaa sille säädettyjä vaatimuksia, tai jos tämä ei ole mahdollista, vähentää kyseisestä tuotteesta aiheutuvia riskejä.
+
+Laiteturvallisuusrikkomuksesta tuomitaan myös se, joka tahallaan tai törkeästä huolimattomuudesta rikkoo
+1) markkinavalvonta-asetuksen 4 artiklan 3 kohdan a alakohdassa säädettyä valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta varmentaa, että EU-vaatimustenmukaisuusvakuutus ja tekniset asiakirjat on laadittu,
+2) markkinavalvonta-asetuksen 4 artiklan 3 kohdan a alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta pitää vaatimustenmukaisuusvakuutus ja tekniset asiakirjat aluehallintoviraston ja sosiaali- ja terveysministeriön saatavilla vaaditun ajan ja varmistaa, että tekniset asiakirjat voidaan antaa pyynnöstä näiden viranomaisten saataville,
+3) markkinavalvonta-asetuksen 4 artiklan 3 kohdan b alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta toimittaa aluehallintoviraston tai sosiaali- ja terveysministeriön perustellusta pyynnöstä tälle kaikki tiedot ja asiakirjat, jotka ovat tarpeen tuotteen vaatimustenmukaisuuden osoittamiseksi, kielellä, jota kyseinen viranomainen voi helposti ymmärtää,
+4) markkinavalvonta-asetuksen 4 artiklan 3 kohdan c alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta ilmoittaa riskin aiheuttavasta tuotteesta sosiaali- ja terveysministeriölle,
+5) markkinavalvonta-asetuksen 4 artiklan 3 kohdan d alakohdassa säädettyä valmistajan, maahantuojan, valtuutetun edustajan tai jakelupalvelujen tarjoajan velvollisuutta varmistaa, että ryhdytään viipymättä tarvittaviin korjaaviin toimiin, jos tuote ei vastaa sille säädettyjä vaatimuksia, tai jos tämä ei ole mahdollista, vähentää kyseisestä tuotteesta aiheutuvia riskejä.
+
+Rangaistus terveysrikoksesta säädetään rikoslain (39/1889) 44 luvun 1 §:ssä.
