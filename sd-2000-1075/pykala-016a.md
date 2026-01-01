@@ -4,4 +4,4 @@ Välittäjäkoelautakunta pitää kiinteistönvälittäjäkokeen ja vuokrahuonei
 
 Sen estämättä, mitä viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 16 §:n 3 momentissa säädetään, välittäjäkoelautakunta voi sähköisen tietoverkon kautta julkaista kokeen suorittaneesta muut tämän pykälän 1 momentissa tarkoitetut tiedot kuin henkilötunnuksen ja osoitteen. Kokeen suorittaneella on kuitenkin oikeus kieltää häntä koskevien tietojen julkaiseminen.
 
-Aluehallintovirastolla on oikeus saada teknisen käyttöyhteyden avulla 1 momentissa tarkoitetut tiedot.
+Lupa- ja valvontavirastolla on oikeus saada teknisen käyttöyhteyden avulla 1 momentissa tarkoitetut tiedot.

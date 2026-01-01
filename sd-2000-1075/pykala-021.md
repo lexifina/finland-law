@@ -1,6 +1,6 @@
-# 21 § Muutoksenhaku aluehallintoviraston päätökseen
+# 21 § Muutoksenhaku Lupa- ja valvontaviraston päätökseen
 
-Aluehallintoviraston muuhun kuin 18 ja 19 §:ssä tarkoitettuun päätökseen saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa.
+Lupa- ja valvontaviraston muuhun kuin 18 ja 19 §:ssä tarkoitettuun päätökseen saa vaatia oikaisua. Oikaisuvaatimuksesta säädetään hallintolaissa.
 
 Muutoksenhausta hallintotuomioistuimeen säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa. Muutoksenhausta uhkasakon asettamista ja maksettavaksi tuomitsemista koskevaan päätökseen säädetään uhkasakkolaissa (1113/1990).
 
