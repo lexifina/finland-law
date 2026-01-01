@@ -1,6 +1,6 @@
 # 5 § Perintätoiminnan harjoittajien rekisteri
 
-Etelä-Suomen aluehallintovirasto, jäljempänä aluehallintovirasto, pitää rekisteriä perintätoiminnan harjoittajista (perintätoiminnan harjoittajien rekisteri).
+Lupa- ja valvontavirasto pitää rekisteriä perintätoiminnan harjoittajista (perintätoiminnan harjoittajien rekisteri).
 
 Perintätoiminnan harjoittajien rekisteriin merkitään:
 1) yksityisen elinkeinonharjoittajan täydellinen nimi ja henkilötunnus tai sen puuttuessa syntymäaika sekä toiminimi, mahdollinen aputoiminimi, yritys- ja yhteisötunnus tai muu vastaava tunniste ja niiden toimipaikkojen käyntiosoite, joissa perintätoimintaa harjoitetaan;

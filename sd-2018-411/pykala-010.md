@@ -1,6 +1,6 @@
 # 10 § Vakavaraisuus
 
-Vakavaraisuutta arvioitaessa aluehallintoviraston tulee ottaa huomioon ilmoituksen tekijän taloudellinen asema.
+Vakavaraisuutta arvioitaessa Lupa- ja valvontaviraston tulee ottaa huomioon ilmoituksen tekijän taloudellinen asema.
 
 Ilmoituksen tekijää ei pidetä vakavaraisena, jos tämä on ulosottorekisterin tietojen tai muun selvityksen perusteella kykenemätön vastaamaan taloudellisista velvoitteistaan.
 
