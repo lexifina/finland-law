@@ -1,0 +1,4 @@
+# 89 § Aiemmat yksikkötilit, joita ei tarvitse tutkia, tunnistaa eikä raportoida
+Luku: 2 luku Huolellisuusvelvoitteet
+
+Jos raportoiva finanssilaitos ei valitse toisin joko kaikkien aiempien yksikkötilien tai erikseen minkä tahansa tällaisten yksikkötilien selvästi tunnistetun ryhmän osalta, sen ei tarvitse tutkia, tunnistaa eikä raportoida aiempaa yksikkötiliä, jonka kokonaissaldo tai -arvo ei ylittänyt 31 päivänä joulukuuta 2015 250 000:ta Yhdysvaltain dollaria vastaavaa määrää euroissa. Jos tilin kokonaissaldo tai -arvo ylittää kyseisen määrän jonkin myöhemmän kalenterivuoden viimeisenä päivänä, raportoivan finanssilaitoksen on tutkittava ja tunnistettava tili 90–92 §:n mukaisia menettelyjä noudattaen ja tarvittaessa raportoitava tili siitä vuodesta lähtien, jonka viimeisenä päivänä tilin kokonaissaldo tai -arvo ylittää kyseisen määrän.
