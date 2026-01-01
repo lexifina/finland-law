@@ -1,0 +1,2 @@
+Kaupparekisterilaki
+Eduskunnan päätöksen mukaisesti säädetään:

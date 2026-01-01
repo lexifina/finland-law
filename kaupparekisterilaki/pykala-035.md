@@ -1,0 +1,12 @@
+# 35 § Tietojenvaihto yhteenliittämisjärjestelmässä
+Luku: 6 luku Rekistereiden yhteenliittäminen
+
+Kun ulkomaisen yhtiön sivuliike on rekisteröity kaupparekisteriin tai poistettu rekisteristä, rekisteriviranomaisen on yhtiöoikeusdirektiivin 28 a artiklan 7 kohdan ja 28 c artiklan mukaisesti ilmoitettava rekisteröinnistä tai rekisteristä poistamisesta rekistereiden yhteenliittämisjärjestelmän välityksellä jäsenvaltiolle, jossa yhtiö on rekisteröity.
+
+Rekisteriviranomaisen on ilmoitettava rekistereiden yhteenliittämisjärjestelmän välityksellä jäsenvaltiolle, jossa kaupparekisteriin merkityn yhtiön sivuliike on rekisteröity, yhtiöoikeusdirektiivin 34 artiklan 1 kohdan mukaisesti tiedot yhtiön purkamis- ja maksukyvyttömyysmenettelyjen aloittamisesta tai lopettamisesta, sekä yhtiön rekisteristä poistamisesta ja 30 a artiklan mukaisesti tiedot rekisteriin merkitystä muutoksesta, joka koskee yhtiön nimeä, yhtiön sääntömääräistä kotipaikkaa, yhtiön rekisterinumeroa rekisterissä, yhtiön oikeudellista muotoa tai 14 artiklan d ja f alakohdassa tarkoitettuja asiakirjoja ja tietoja.
+
+Kun rekisteriviranomainen saa rekistereiden yhteenliittämisjärjestelmän välityksellä 1 momentissa tarkoitetun tiedon kaupparekisteriin merkityn yhtiön sivuliikkeen rekisteröimisestä tai sivuliikkeen poistamisesta rekisteristä toisessa jäsenvaltiossa tai 2 momentissa tarkoitetun tiedon sivuliikkeen Suomeen rekisteröineen ulkomaisen yhtiön rekisteritietoihin merkityistä muutoksista, rekisteriviranomaisen on vahvistettava ilmoituksen vastaanottaminen, rekisteröitävä asiakirjat ja tiedot viipymättä sekä, jos yhtiö on poistettu rekisteristä sen rekisteröintivaltiossa, poistettava sivuliike kaupparekisteristä.
+
+Poiketen 3 momentissa säädetystä, ulkomaisen yhtiön sivuliikettä ei poisteta kaupparekisteristä, jos ulkomainen yhtiö on poistettu rekisteristä oikeudellisen muodon muutoksen, sulautumisen, jakautumisen tai sen sääntömääräisen kotipaikan rajat ylittävän siirron vuoksi. Lisäksi, ennen kuin 3 momentissa tarkoitettu päätös sivuliikkeen poistamisesta rekisteristä tehdään, rekisteriviranomaisen on varattava sivuliikkeelle 21 vuorokautta aikaa lausua rekisteristä poistamisen edellytyksistä.
+
+Yhtiön tietoihin merkitään 3 momentista tarkoitetusta sivuliikkeestä sen nimi, rekisterinumero, yhtiöoikeusdirektiivin 16 artiklan 1 kohdassa tarkoitettu EUID-tunniste sekä jäsenvaltio, jossa sivuliike on rekisteröity.

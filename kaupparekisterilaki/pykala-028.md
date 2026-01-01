@@ -1,0 +1,4 @@
+# 28 § Ilmoitusvelvollisen määrääminen selvitystilaan tai poistettavaksi rekisteristä tosiasiallisia edunsaajia koskevan ilmoituksen laiminlyönnistä
+Luku: 4 luku Valvonta ja hallinnolliset seuraamukset
+
+Jos ilmoitusvelvollinen, johon sovelletaan osakeyhtiölain (624/2006) 20 luvun 4 §:ää tai osuuskuntalain (421/2013) 23 luvun 4 §:ää, laiminlyö tämän lain 5 §:ssä tarkoitetun tosiasiallisia edunsaajia koskevan ilmoituksen antamisen tai rekisterissä olevien puutteellisten tai virheellisten tosiasiallisia edunsaajia koskevien tietojen korjaamisen, eikä ilmoitusvelvollinen kehotuksesta huolimatta korjaa laiminlyöntiä, rekisteriviranomainen voi noudattaen osakeyhtiölain 20 luvun 5 §:ssä tai osuuskuntalain 23 luvun 5 §:ssä tarkoitettua menettelyä määrätä ilmoitusvelvollisen selvitystilaan tai poistettavaksi rekisteristä.
