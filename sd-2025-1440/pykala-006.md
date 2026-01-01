@@ -1,0 +1,9 @@
+# 6 § Korjausmekanismi
+
+Jäljempänä 7 §:ssä tarkoitettu finanssipolitiikan valvoja laatii ja julkistaa säännöllisesti kokonaisarvion julkista taloutta vaalikaudella ohjaavan rahoitusasematavoitteen saavuttamisesta. Arvioinnissa otetaan huomioon erityisesti, onko valtioneuvosto tehnyt julkisen talouden suunnitelmassa yksilöidyt tai niitä julkistaloudelliselta vaikutukseltaan vastaavat toimenpiteet ja onko koko julkisen talouden kuluvan tai seuraavan vuoden arvioitu nimellinen rahoitusasema suhteessa bruttokansantuotteeseen heikompi kuin -2,5 prosenttia. Jos finanssipolitiikan valvoja katsoo laatimansa kokonaisarvion perusteella, että rahoitusasematavoitetta ei saavuteta eikä tavoitteesta poikkeamiseen ole hyväksyttäviä perusteita, valvoja esittää valtioneuvostolle arvion tarvittavien korjaavien toimenpiteiden mittaluokasta ja aikataulusta.
+
+Jos valtioneuvosto ei ryhdy finanssipolitiikan valvojan 1 momentin nojalla esittämiin toimenpiteisiin, valtioneuvoston tulee julkisesti perustella menettelynsä kahden kuukauden kuluessa finanssipolitiikan valvojan arvion antamisesta.
+
+Jos Euroopan unionin neuvosto on tehnyt Euroopan unionin toiminnasta tehdyn sopimuksen 126 artiklan 6 kohdan mukaisen Suomea koskevan päätöksen liiallisesta alijäämästä, valtioneuvoston tulee ryhtyä artiklan 7 kohdan nojalla Suomelle annettujen suositusten mukaisiin tai niitä julkistaloudellisilta vaikutuksiltaan vastaaviin toimenpiteisiin suositusten mukaisessa määräajassa sekä antaa asiasta eduskunnalle selonteko. Selonteon tulee sisältää selostus tarvittavista lainsäädäntö- ja muista toimenpiteistä.
+
+Jos Euroopan unionin neuvosto on tehnyt Euroopan unionin toiminnasta tehdyn sopimuksen 126 artiklan 9 kohdan mukaisen Suomea koskevan päätöksen tai ryhtynyt artiklan 11 kohdan mukaisiin toimenpiteisiin, valtioneuvoston tulee antaa tiedonanto tarvittavista lisätoimista.
