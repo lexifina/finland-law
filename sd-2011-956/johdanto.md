@@ -1,0 +1,2 @@
+Laki opiskelijoiden oikeusturvalautakunnasta
+Eduskunnan päätöksen mukaisesti säädetään:
