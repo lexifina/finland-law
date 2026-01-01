@@ -1,0 +1,2 @@
+Tekijänoikeuslaki
+Eduskunnan päätöksen mukaisesti säädetään:

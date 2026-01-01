@@ -1,0 +1,8 @@
+# 19 a § Korvausta hallinnoiva organisaatio
+Luku: 2 luku Tekijänoikeuden rajoitukset ja säännökset sopimuslisenssistä
+
+Korvaus 19 §:n 4 momentissa tarkoitetusta lainaamisesta alkuperäiselle tekijälle suoritetaan opetus- ja kulttuuriministeriön hyväksymän, kyseiseen tarkoitukseen käytettyjen teosten tekijöitä edustavan yhteishallinnointiorganisaation välityksellä. Organisaatioita voidaan hyväksyä useita, jos tekijöiden edustavuutta ei voida muuten saavuttaa.
+
+Opetus- ja kulttuuriministeriö hyväksyy 1 momentissa tarkoitetun organisaation hakemuksesta määräajaksi, enintään viideksi vuodeksi kerrallaan. Hyväksyttävän organisaation tulee olla vakavarainen ja sillä tulee olla valmius ja kyky hoitaa asioita hyväksymispäätöksen mukaisesti. Organisaation tulee vuosittain antaa opetus- ja kulttuuriministeriölle selvitys hyväksymispäätöksen nojalla tekemistään toimista. Organisaation tai organisaatioiden yhdessä tulee edustaa merkittävää osaa niistä eri alojen teosten tekijöistä, joiden teoksia käytetään 19 §:n 1 momentin nojalla siltä osin kuin kysymys on teoskappaleen lainaamisesta yleisölle. Hyväksymispäätöksessä voidaan organisaatiolle myös asettaa käytännön toimintaa yleisesti ohjaavia ehtoja.
+
+Opetus- ja kulttuuriministeriön päätöstä on muutoksenhausta huolimatta noudatettava, kunnes asia on lainvoimaisella päätöksellä ratkaistu. Hyväksyminen voidaan peruuttaa, jos organisaatio hyväksymispäätöstä ja sen ehtoja rikkomalla syyllistyy vakaviin tai olennaisiin rikkomuksiin tai laiminlyönteihin ja jolleivät organisaatiolle annetut huomautukset ja varoitukset ole johtaneet toiminnassa esiintyneiden puutteiden korjaamiseen.

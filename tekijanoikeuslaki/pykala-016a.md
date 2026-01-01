@@ -1,0 +1,8 @@
+# 16 a § Teosten kappaleiden valmistaminen yleisölle ja teosten välittäminen yleisölle
+Luku: 2 luku Tekijänoikeuden rajoitukset ja säännökset sopimuslisenssistä
+
+Valtioneuvoston asetuksella säädettävä arkisto ja yleisölle avoin kirjasto saa, jollei tarkoituksena ole välittömän tai välillisen taloudellisen edun tuottaminen:
+1) valmistaa omissa kokoelmissaan olevasta vahingoittumiselle alttiista julkistetusta teoksesta kappaleita valokopioimalla tai vastaavalla menetelmällä ja saattaa ne yleisön saataviin lainaamalla, jos teosta ei ole saatavissa kaupallisen levityksen tai välittämisen kautta;
+2) jos se katsotaan tarkoituksenmukaiseksi, valokopioimalla tai vastaavalla menetelmällä valmistaa kappaleita omissa kokoelmissaan oleviin kokoomateoksiin, sanomalehtiin tai aikakauskirjoihin sisältyvistä yksittäisistä kirjoituksista sekä muiden julkaistujen teosten lyhyistä osista annettaviksi lainaajille heidän yksityistä käyttöään varten niiden nidosten tai vihkojen asemesta, joihin ne sisältyvät.
+
+Valtioneuvoston asetuksella säädettävä arkisto ja yleisölle avoin kirjasto tai museo saa, jollei tarkoituksena ole välittömän tai välillisen taloudellisen edun tuottaminen, välittää omissa kokoelmissaan olevan julkistetun teoksen yleisöön kuuluvalle henkilölle tutkimusta tai yksityistä opiskelua varten laitoksen tiloissa yleisölle välittämiseen varatuilla laitteilla. Edellytyksenä on, että välittäminen voi tapahtua teoksen käyttöä koskevien hankinta-, lisenssi- ja muiden sopimusehtojen estämättä ja että muu kuin tässä momentissa tarkoitetun käytön edellyttämä teoksen kappaleen valmistaminen digitaalisesti on estetty sekä jos teoksen välittäminen edelleen on estetty.

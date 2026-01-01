@@ -1,0 +1,4 @@
+# 56 f § Oikeuksien sähköisten hallinnointitietojen loukkausrikkomus
+Luku: 7 luku Rangaistus ja korvausvelvollisuus
+
+Joka tahallaan tai törkeästä huolimattomuudesta rikkoo 50 d §:n 1 momentissa tarkoitettua oikeuksien sähköisten hallinnointitietojen poistamisen tai muuttamisen kieltoa taikka mainitun pykälän 2 momentissa tarkoitettua kieltoa levittää yleisölle tai tuoda maahan yleisölle levittämistä varten teoksen kappale tai välittää yleisölle teos siten, että oikeuksien sähköiset hallinnointitiedot on poistettu tai että niitä on muutettu, on tuomittava, jollei teko ole rangaistava rikoslain 49 luvun 5 §:ssä tarkoitettuna oikeuksien hallinnointitietojen loukkausrikoksena, oikeuksien sähköisten hallinnointitietojen loukkausrikkomuksesta sakkoon, jos tekijä tietää tai hänellä on perustellusti syytä epäillä, että hänen tekonsa aiheuttaa, mahdollistaa tai salaa tässä laissa säädettyjen oikeuksien loukkauksen taikka helpottaa niiden loukkausta.
