@@ -1,0 +1,4 @@
+# 83 a § Väliaikainen selvittäjä
+Luku: 11 luku Selvittäjän määrääminen ja velkojatoimikunnan asettaminen sekä niiden valvonta
+
+Päättäessään 22 §:ssä tarkoitetuista väliaikaisista kielloista tai myöhemmin tuomioistuin voi velallisen tai velkojan vaatimuksesta määrätä väliaikaisen selvittäjän, jos siihen on tarvetta. Väliaikaisen selvittäjän tehtävistä säädetään 8 §:n 2 momentissa. Väliaikaiseen selvittäjään sovelletaan, mitä 9 §:n 1 momentissa säädetään selvittäjän tietojensaantioikeudesta, 12 §:ssä esteellisyydestä, 14 §:ssä salassapitovelvollisuudesta, 83 §:ssä selvittäjän määräämisestä, 85 §:ssä valvonnasta ja pakkokeinoista, 86 §:ssä selvittäjän vapauttamisesta toimestaan, 87 §:ssä selvittäjän palkkiosta ja kustannusten korvauksesta sekä 94 §:n 1 momentissa selvittäjän korvausvelvollisuudesta.

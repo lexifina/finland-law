@@ -1,0 +1,12 @@
+# 99 § Vanhentumisajan ja perimismääräajan suhde velkajärjestelyyn
+Luku: 15 luku Erinäiset säännökset
+
+Vanhentumis- ja kanneajan katkeamisesta ja sen vaikutuksesta maksuohjelmassa huomioon otettavaan saatavaan on voimassa, mitä velan vanhentumisesta annetun lain (728/2003) 11 ja 17 §:ssä säädetään.
+
+Jos velkojan on oikeuden menettämisen uhalla perittävä saatava laissa erikseen säädetyn ajan kuluessa eikä velkaan sovelleta velan vanhentumisesta annettua lakia, tämän ajan umpeen kuluminen varhaisessa saneerausmenettelyssä määrätyn 14 a §:ssä tarkoitetun kiellon, perusmuotoisen saneerausmenettelyn tai 22 §:ssä tarkoitetun väliaikaisen kiellon alettua taikka saneerausohjelman vahvistamisen jälkeen ei estä maksun saamista saneerausohjelman nojalla.
+
+Jos tähän lakiin perustuva perintä- tai täytäntöönpanokielto lakkaa ilman saneerausohjelman vahvistamista tai ohjelmassa vahvistettu velkajärjestely raukeaa, 2 momentissa tarkoitettua määräaikaa laskettaessa ei oteta huomioon sitä kalenterivuotta, jonka aikana perintä- tai täytäntöönpanokielto alkoi tai varhaisessa saneerausmenettelyssä, jossa perintä- tai täytäntöönpanokieltoa ei ole määrätty, saneerausohjelma vahvistettiin, eikä sen jälkeistä aikaa sen kalenterivuoden loppuun, jona kielto edellä tarkoitetulla tavalla lakkasi tai velkajärjestely raukesi. Jos saneerausmenettely lakkaa ilman saneerausohjelman vahvistamista, perintäkiellon voimassaoloaikaa ei oteta huomioon laskettaessa sitä aikaa, jonka kuluessa velkojan on vaadittava suoritusta 25 §:n 2 momentissa tarkoitetulta takaajalta.
+
+Jos velkojan on laissa säädetyn etuoikeuden säilyttämiseksi haettava ulosmittausta määrätyn ajan kuluessa, etuoikeuden voimaan saattamiseen sovelletaan vastaavasti, mitä 1 momentissa säädetään oikeudesta maksun saantiin.
+
+Jos tähän lakiin perustuva täytäntöönpanokielto lakkaa ilman saneerausohjelman vahvistamista tai ohjelmassa vahvistettu velkajärjestely raukeaa, 4 momentissa tarkoitettua määräaikaa laskettaessa ei oteta huomioon täytäntöönpanokiellon alkamisen ja lakkaamisen tai velkajärjestelyn raukeamisen välistä aikaa. Jos varhaisessa saneerausmenettelyssä ei ole määrätty täytäntöönpanokieltoa, huomioon ei oteta saneerausohjelman vahvistamisen ja velkajärjestelyn raukeamisen välistä aikaa. Jos ulosottoperintä keskeytyy tähän lakiin perustuvan täytäntöönpanokiellon tai saneerausohjelman vuoksi, mainittu aika jätetään vastaavasti ottamatta huomioon etuoikeuden säilymistä arvioitaessa.

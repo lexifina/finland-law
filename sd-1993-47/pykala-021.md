@@ -1,0 +1,10 @@
+# 21 § Ulosmittauksen sekä muiden täytäntöönpanotoimenpiteiden kielto
+Luku: 4 luku Perusmuotoisen saneerausmenettelyn alkamisen oikeusvaikutukset
+
+Menettelyn alettua velallisen omaisuutta ei saa ulosmitata maksukiellon piiriin kuuluvasta saneerausvelasta. Kiellon vastainen ulosmittaus on tehoton. Ulosmittaushakemuksen käsittely keskeytetään. Jos ulosmittaus on jo toimitettu, täytäntöönpano on keskeytettävä ja ulosottomiehen on vaadittaessa luovutettava haltuun ottamansa omaisuus ja mahdollisesti kertyneet rahavarat selvittäjälle. Jos ulosmitatun omaisuuden myynnistä on julkaistu myynti-ilmoitus ennen menettelyn alkamista, tuomioistuin voi määrätä täytäntöönpanon keskeytettäväksi ja myynnin peruutettavaksi, paitsi jos on ilmeistä, että kysymyksessä olevan omaisuuden säilyminen velallisella ei ole 20 §:n 1 kohdassa tarkoitetulla tavalla tarpeellista. Täytäntöönpanoa hakeneella velkojalla on oikeus saada velalliselta korvaus myynnin peruuttamisen vuoksi hyödyttömiksi tulleista täytäntöönpanokuluista.
+
+Menettelyn alettua ei saa panna täytäntöön päätöstä velallisen häätämisestä hallinnassaan olevasta huoneistosta, jota pääasiallisesti käytetään menettelyn kohteena olevassa toiminnassa, jos häädön perusteena on huoneistosta suoritettavan, ennen hakemuksen vireilletuloa erääntyneen vuokran tai muun vastikkeen suorittamatta jättäminen. Sama koskee asunto-osakeyhtiölain (1599/2009) nojalla tehtyä päätöstä mainittuun tarkoitukseen käytettävän huoneiston ottamisesta yhtiön hallintaan. Tuomioistuin voi kuitenkin velkojan vaatimuksesta sallia täytäntöönpanon, jos sen estyminen olisi kohtuutonta ottaen huomioon toimenpiteet, joihin velkoja on jo ryhtynyt huoneiston osalta.
+
+Menettelyn alettua ei saneerausvelan velkojalle saa antaa virka-apua osamaksukaupasta annetussa laissa (91/66) tarkoitettuun tavaran takaisinottoon tai tilitykseen. Vireilläoleva takaisinotto tai tilitys on keskeytettävä.
+
+Jos täytäntöönpanoviranomaiselle on ennen menettelyn alkamista asetettu muutoksenhaun vuoksi vakuus ulosmittauksen tai muun täytäntöönpanon keskeyttämiseksi, vakuus on vaadittaessa palautettava selvittäjälle tai, jos vakuus on sivullisen asettama, tälle.
