@@ -4,7 +4,7 @@ Luku: 1 luku Lain tarkoitus ja soveltamisala
 
 Tässä laissa tarkoitetaan:
 1) perheenjäsenellä vakuutetun aviopuolisoa ja vakuutetun tai hänen puolisonsa alle 18-vuotiasta lasta; puolisoihin rinnastetaan kaksi henkilöä, jotka jatkuvasti elävät avioliitonomaisissa olosuhteissa yhteisessä taloudessa;
-2) muulla terveydenhuollon ammattihenkilöllä sellaista sairaanhoitajaa, terveydenhoitajaa, kätilöä, fysioterapeuttia, laboratoriohoitajaa, erikoishammasteknikkoa, psykologia ja suuhygienistiä, jolle Sosiaali- ja terveysalan lupa- ja valvontavirasto on myöntänyt oikeuden harjoittaa ammattiaan laillistettuna ammattihenkilönä;
+2) muulla terveydenhuollon ammattihenkilöllä sellaista sairaanhoitajaa, terveydenhoitajaa, kätilöä, fysioterapeuttia, laboratoriohoitajaa, erikoishammasteknikkoa, psykologia ja suuhygienistiä, jolle Lupa- ja valvontavirasto on myöntänyt oikeuden harjoittaa ammattiaan laillistettuna ammattihenkilönä;
 3) kohtuullisella tukkuhinnalla lääkkeiden hintalautakunnan lääkevalmisteelle vahvistamaa kohtuullista, korvausperusteeksi hyväksyttävää tukkuhintaa;
 4) omalla työllä omassa tai perheenjäsenen yrityksessä, liikkeessä tai ammatissa taikka maa-, metsä-, koti- tai muussa taloudessa suoritettua työtä ja itsenäistä tieteellistä tai taiteellista työtä sekä päätoimista opiskelua;
 5) arkipäivällä muita päiviä kuin sunnuntai-, pyhä- tai arkipyhäpäiviä;
