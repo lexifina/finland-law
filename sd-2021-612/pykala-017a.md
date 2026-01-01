@@ -1,0 +1,8 @@
+# 17 a § Alihankinnan ketjutus
+Luku: 3 luku Palvelujen hankkiminen yksityiseltä palveluntuottajalta
+
+Yksityiselle palveluntuottajalle 14 §:ssä tarkoitetulla tavalla palveluja tuottava alihankkija saa hankkia sosiaali- ja terveydenhuollon palveluja tai sosiaali- ja terveydenhuollon työvoimaa edelleen toiselta palveluntuottajalta, jos kyse on tilapäisestä tarpeesta sairauden, vanhempainvapaan tai vastaavan muun edellä mainittuihin syihin verrattavan perusteen perusteella ja jos hyvinvointialue ja yksityinen palveluntuottaja ovat 15 §:ssä tarkoitetussa sopimuksessa sopineet alihankinnan ketjutuksen mahdollisuudesta. Alihankkijan on ilmoitettava hyvinvointialueelle ja yksityiselle palveluntuottajalle ne palveluntuottajat, joita sen on tarkoitus käyttää. Lisäksi edellytyksenä on, että alihankkija antaa hyvinvointialueelle ja yksityiselle palveluntuottajalle selvityksen siitä, että tässä pykälässä tarkoitetut palveluntuottajat täyttävät 14 §:ssä säädetyt vaatimukset, ja että hyvinvointialue sekä yksityinen palveluntuottaja antavat hyväksyntänsä kyseisten alihankkijoiden käyttämiseen.
+
+Hankkiessaan palveluja 1 momentin perusteella toiselta palveluntuottajalta yksityisen palveluntuottajan ja alihankkijan on kummankin huolehdittava siitä, että tämä toinen palveluntuottaja täyttää 14 §:ssä säädetyt vaatimukset. Yksityinen palveluntuottaja on kokonaisvastuussa tuottamistaan palveluista. Yksityinen palveluntuottaja vastaa alihankkijan ja alihankkijalle palveluja tuottavan yksityisen palveluntuottajan yksittäiselle asiakkaalle antamasta palvelusta.
+
+Terveydenhuoltolain 40 §:ssä tarkoitettuun ensihoitopalveluun sisältyviä palveluja ei saa hankkia tässä pykälässä tarkoitetulla tavalla.

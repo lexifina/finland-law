@@ -1,0 +1,8 @@
+# 58 § Asiakas- ja potilastietojen rekisterinpito
+Luku: 8 luku Erinäiset säännökset
+
+Hyvinvointialueen sosiaali- ja terveydenhuollon palveluiden järjestämisestä vastaava toimivaltainen viranomainen on luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2016/679 tarkoitettu rekisterinpitäjä sen järjestämisvastuulle kuuluvassa toiminnassa syntyneille sekä sille kuntien ja kuntayhtymien hallinnasta siirtyneille sosiaali- ja terveydenhuollon asiakas- ja potilastiedoille. Näistä asiakas- ja potilastiedoista ja niiden käsittelystä säädetään sosiaali- ja terveydenhuollon asiakastietojen käsittelystä annetussa laissa (703/2023), julkisuuslaissa ja tietosuojalaissa (1050/2018).
+
+Hyvinvointialueen järjestämisvastuulle kuuluvia sosiaali- ja terveydenhuollon palveluja tuottavan yksityisen palveluntuottajan on tallennettava asiakas- ja potilastiedot hyvinvointialueen asiakas- ja potilasrekistereihin sosiaali- ja terveydenhuollon asiakastietojen sähköisestä käsittelystä annetun lain mukaisia valtakunnallisia tietojärjestelmäpalveluja tai muita teknisiä rajapintoja käyttäen. Yksityisen palveluntuottajan on varmistettava asiakas- ja potilastietojen virheettömyys ennen tietojen tallentamista.
+
+Hyvinvointialue saa luovuttaa järjestämisvastuulleen kuuluvia sosiaali- ja terveydenhuollon palveluja tuottavalle yksityiselle palveluntuottajalle salassapitosäännösten estämättä hyvinvointialueen asiakas- ja potilasrekistereissä olevia asiakas- ja potilastietoja, jotka ovat välttämättömiä asiakkaan palvelun tuottamiseksi ja toteuttamiseksi.

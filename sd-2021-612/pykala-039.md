@@ -1,0 +1,16 @@
+# 39 § Kaksikielisten hyvinvointialueiden yhteistyösopimus
+Luku: 5 luku Hyvinvointialueiden välinen yhteistyö
+
+Kaksikielisten hyvinvointialueiden on tehtävä yhteistyösopimus ruotsinkielisten kielellisten oikeuksien toteutumisen turvaamiseksi sosiaali- ja terveydenhuollossa.
+
+Kaksikielisten hyvinvointialueiden yhteistyösopimuksessa on sovittava kaksikielisten hyvinvointialueiden työnjaosta ja yhteistyöstä sellaisten ruotsinkielisten sosiaali- ja terveydenhuollon palvelujen toteuttamisessa, joissa tämä on välttämätöntä kielellisten oikeuksien toteutumisen varmistamiseksi tehtävän vaativuuden, harvinaisuuden tai siitä aiheutuvien suurten kustannusten vuoksi. Lisäksi yhteistyösopimuksessa on sovittava työnjaosta ja yhteistyöstä sellaisten ruotsinkielisten sosiaali- ja terveydenhuollon palvelujen toteuttamisessa, joita on tarkoituksenmukaista toteuttaa vain osassa hyvinvointialueita tehtävän vaativuuden, harvinaisuuden tai siitä aiheutuvien suurten kustannusten vuoksi. Sopimuksessa on sovittava myös asiantuntijatuesta, jota kaksikieliset hyvinvointialueet antavat toisilleen ruotsinkielisten palvelujen toteuttamisessa. Yhteistyösopimuksessa voidaan sopia lisäksi muusta kuin edellä tässä momentissa tarkoitetusta työnjaosta ja yhteistyöstä. Sopimuksella ei voida kuitenkaan poiketa siitä, mitä 11 §:ssä taikka muussa laissa tai lain nojalla säädetään tehtävien keskittämisestä. Kaksikielisten hyvinvointialueiden yhteistyösopimus on yhteen sovitettava 36 §:ssä tarkoitetun sosiaali- ja terveydenhuollon yhteistyöalueen yhteistyösopimuksen kanssa.
+
+Varsinais-Suomen hyvinvointialue vastaa kaksikielisten hyvinvointialueiden yhteistyösopimuksen laatimisen koordinoimisesta.
+
+Ennen kaksikielisten hyvinvointialueiden yhteistyösopimuksen hyväksymistä kaksikielisten hyvinvointialueiden on kuultava sosiaali- ja terveysministeriötä. Kunkin kaksikielisen hyvinvointialueen aluevaltuusto hyväksyy yhteistyösopimuksen. Hyväksytty sopimus on toimitettava sosiaali- ja terveysministeriölle.
+
+Kaksikielisten hyvinvointialueiden yhteistyösopimuksen toteutumista on seurattava ja arvioitava vuosittain. Sopimuksen muuttaminen voi perustua yhden tai useamman kaksikielisen hyvinvointialueen esitykseen tai sosiaali- ja terveysministeriön aloitteeseen. Kansalliskielilautakunnan velvollisuudesta tehdä ehdotuksia sopimuksen muuttamisesta sekä seurata sopimuksen toteutumista säädetään hyvinvointialueesta annetun lain 33 §:ssä.
+
+Jos kaksikieliset hyvinvointialueet eivät pääse sopimukseen yhteistyösopimuksen sisällöstä tai sopimuksen sisältö ei turvaa ruotsinkielisten kielellisten oikeuksien toteutumista sosiaali- ja terveydenhuollossa, valtioneuvosto voi päättää sopimuksen sisällöstä. Valtioneuvoston päätös valmistellaan sosiaali- ja terveysministeriössä. Valmistelun yhteydessä ministeriön on kuultava niitä hyvinvointialueita, joita päätös koskee. Valtioneuvoston päätös kaksikielisten hyvinvointialueiden yhteistyösopimuksesta on voimassa siihen saakka, kunnes hyvinvointialueet ovat tehneet uuden sopimuksen.
+
+Mitä edellä tässä pykälässä kaksikielisestä hyvinvointialueesta säädetään, sovelletaan myös HUS-yhtymään siltä osin kuin se järjestää terveydenhuoltoa. HUS-yhtymässä yhteistyösopimuksen hyväksyy sen ylin päättävä toimielin. Helsingin kaupungissa yhteistyösopimuksen hyväksyy sen valtuusto.
