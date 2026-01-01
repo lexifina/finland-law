@@ -7,7 +7,7 @@ Digi- ja väestötietovirasto hoitaa sille erikseen säädettyjä tehtäviä seu
 3) asiakirjojen ja sähköisen identiteetin todentaminen ja varmentaminen;
 4) väestötietojen ylläpito, elämäntapahtumien vahvistaminen ja muut oikeusturvapalvelut.
 
-Digi- ja väestötietovirasto hoitaa kansalaisneuvontaa, digitaalisten palveluiden käyttäjätukea sekä julkisen hallinnon tiedonhallinnan asiantuntijatehtäviä ja palveluita. Näistä tehtävistä säädetään tarkemmin valtioneuvoston asetuksella.
+Digi- ja väestötietovirasto hoitaa digitaalisten palvelujen käytön tukeen ja neuvontaan liittyviä tehtäviä sekä julkisen hallinnon tiedonhallinnan asiantuntijatehtäviä ja palveluja. Näistä tehtävistä säädetään tarkemmin valtioneuvoston asetuksella.
 
 Virastolla voi olla myös muita erikseen säädettyjä tehtäviä.
 
