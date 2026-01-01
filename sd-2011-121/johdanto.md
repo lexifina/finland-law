@@ -1,0 +1,2 @@
+Laki vapaaehtoisesta osallistumisesta ympäristöasioiden hallinta- ja auditointijärjestelmään
+Eduskunnan päätöksen mukaisesti säädetään:
