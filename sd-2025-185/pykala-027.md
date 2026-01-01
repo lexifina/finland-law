@@ -1,7 +1,7 @@
 # 27 § Seuraamusmaksun määrääminen
 Luku: 5 luku Seuraamukset
 
-Seuraamusmaksun määrää Turvallisuus- ja kemikaalivirasto. Seuraamusmaksu määrätään maksettavaksi valtiolle.
+Seuraamusmaksun määrää Turvallisuus- ja kemikaalivirasto.
 
 Seuraamusmaksua ei saa määrätä, jos teosta on kulunut yli kaksi vuotta.
 
