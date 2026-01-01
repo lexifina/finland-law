@@ -1,0 +1,2 @@
+Laki tieteellisiin tai opetustarkoituksiin käytettävien eläinten suojelusta
+Eduskunnan päätöksen mukaisesti säädetään:
