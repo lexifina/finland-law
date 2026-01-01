@@ -15,7 +15,7 @@ Tässä laissa tarkoitetaan:
 11) valvontaviranomaisella Ruokavirastoa, aluehallintovirastoa, kunnaneläinlääkäriä ja Lääkealan turvallisuus- ja kehittämiskeskusta;
 12) eläinlääkärillä henkilöä, jolla on eläinlääkärinammatin harjoittamisesta annetun lain mukainen oikeus harjoittaa eläinlääkärinammattia;
 13) tunnistusasiakirjalla tunnistusasetuksessa tarkoitettua elinikäistä tunnistusasiakirjaa;
-14) valtakunnallisella eläinten terveydenhuolto-ohjelmalla eläinlääkintähuoltolain (765/2009) 12 §:ssä tarkoitettua valtakunnallista ohjelmaa;
+14) valtakunnallisella eläinten terveydenhuolto-ohjelmalla elintarvikealan toimijoiden tai näitä edustavan yhdistyksen laatimaa ohjelmaa, johon liittyneet eläinten omistajat tai haltijat saavat pitopaikan tuotantoeläimiä varten ohjelman mukaiset terveydenhuoltopalvelut eläinten terveyden, hyvinvoinnin ja taloudellisen tuotantokyvyn sekä elintarvikkeiden turvallisuuden ylläpitämiseksi ja edistämiseksi, eläinten sairauksien ehkäisemiseksi, pitopaikan tautitilanteen seuraamiseksi ja valvomiseksi sekä lääkkeiden hallitun käytön mahdollistamiseksi;
 15) terveydenhuollon seurantajärjestelmällä valtakunnalliseen eläinten terveydenhuolto-ohjelmaan kuuluvaa sähköistä järjestelmää, johon kirjataan eläinten terveydenhuoltoon liittyviä tietoja;
 16) eläinten pitopaikalla sellaista maantieteellistä paikkaa, jossa eläimiä pidetään, kasvatetaan tai hoidetaan pysyvästi tai tilapäisesti;
 17) eläimen haltijalla luonnollista henkilöä, joka on pysyvästi tai tilapäisesti vastuussa eläimistä;

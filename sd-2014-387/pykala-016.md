@@ -1,7 +1,7 @@
 # 16 § Lääkkeiden luovutus valtakunnalliseen eläinten terveydenhuolto-ohjelmaan liittyneille eläinten omistajille tai haltijoille
 Luku: 4 luku Lääkkeiden hankkiminen ja luovutus
 
-Edellä 15 §:ssä säädetyn lisäksi eläinlääkäri saa luovuttaa lääkkeitä varalle valtakunnalliseen eläinten terveydenhuolto-ohjelmaan liittyneelle eläimen omistajalle tai haltijalle eläinten pitopaikan tuotantoeläimellä tai -eläinryhmällä tavanomaisesti ilmenevien sairastapausten hoitoa ja eläinten terveydenhoitoa varten. Eläinlääkärillä ja eläimen omistajalla tai haltijalla on oltava eläinlääkintähuoltolain 12 §:n mukainen sopimus eläinlääkärin käynneistä ja toimenpiteistä eläintenpitopaikassa ja sopimuksen mukaiset eläinlääkärin käynnit eläinten pitopaikkaan on oltava aloitettu.
+Edellä 15 §:ssä säädetyn lisäksi eläinlääkäri saa luovuttaa lääkkeitä varalle valtakunnalliseen eläinten terveydenhuolto-ohjelmaan liittyneelle eläimen omistajalle tai haltijalle eläinten pitopaikan tuotantoeläimellä tai -eläinryhmällä tavanomaisesti ilmenevien sairastapausten hoitoa ja eläinten terveydenhoitoa varten. Eläinlääkärillä ja eläimen omistajalla tai haltijalla on oltava ohjelman puitteissa tehty terveydenhuoltosopimus eläinlääkärin käynneistä ja toimenpiteistä eläintenpitopaikassa, ja sopimuksen mukaiset eläinlääkärin käynnit eläinten pitopaikkaan on oltava aloitettu.
 
 Eläinlääkärin on lisäksi laadittava eläintenpitopaikkakohtainen terveydenhuoltosuunnitelma, jossa kuvataan sairauksien ennaltaehkäisyyn tähtääviä toimia, suunnitellut lääkitykset sekä eläintenpitopaikkakohtaiset lääkkeiden käyttötavoitteet.
 
