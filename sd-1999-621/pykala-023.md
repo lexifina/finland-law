@@ -1,0 +1,8 @@
+# 23 § Vaitiolovelvollisuus ja hyväksikäyttökielto
+Luku: 6 luku Salassapitovelvoitteet
+
+Viranomaisen palveluksessa oleva samoin kuin luottamustehtävää hoitava ei saa paljastaa asiakirjan salassa pidettävää sisältöä tai tietoa, joka asiakirjaan merkittynä olisi salassa pidettävä, eikä muutakaan viranomaisessa toimiessaan tietoonsa saamaa seikkaa, josta lailla on säädetty vaitiolovelvollisuus. Vaitiolovelvollisuuden piiriin kuuluvaa tietoa ei saa paljastaa senkään jälkeen, kun toiminta viranomaisessa tai tehtävän hoitaminen viranomaisen lukuun on päättynyt.
+
+Mitä 1 momentissa säädetään, koskee myös sitä, joka harjoittelijana tai muutoin toimii viranomaisessa taikka viranomaisen toimeksiannosta tai toimeksiantotehtävää hoitavan palveluksessa taikka joka on saanut salassa pidettäviä tietoja lain tai lain perusteella annetun luvan nojalla, jollei laista tai sen perusteella annetusta luvasta muuta johdu. Vaitiolovelvollisuus on myös sillä, jolle viranomainen on ilmoittanut julkisuus- tai salassapito-olettaman sisältävän salassapitosäännöksen osoittamissa rajoissa tietoja, jotka ovat yleisöltä salassa pidettäviä. Asianosainen, hänen edustajansa tai avustajansa ei saa ilmaista sivullisille asianosaisaseman perusteella saatuja salassa pidettäviä tietoja, jotka koskevat muita kuin asianosaista itseään.
+
+Edellä 1 tai 2 momentissa tarkoitettu henkilö ei saa käyttää salassa pidettäviä tietoja omaksi taikka toisen hyödyksi tai toisen vahingoksi. Asianosainen, hänen edustajansa tai avustajansa saa kuitenkin käyttää muita kuin asianosaista itseään koskevia tietoja, kun kysymys on sen oikeuden, edun tai velvollisuuden hoitamista koskevasta asiasta, johon asianosaisen tiedonsaantioikeus on perustunut.

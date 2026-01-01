@@ -1,0 +1,12 @@
+# 31 § Viranomaisen asiakirjan salassapidon lakkaaminen
+Luku: 7 luku Salassapidosta poikkeaminen ja sen lakkaaminen
+
+Viranomaisen asiakirjaa ei saa pitää salassa, kun salassapidolle laissa säädetty tai lain nojalla määrätty aika on kulunut tai kun asiakirjan salassa pidettäväksi määrännyt viranomainen on peruuttanut salassapitoa koskevan määräyksen.
+
+Viranomaisen asiakirjan salassapitoaika on 25 vuotta, jollei toisin ole säädetty tai lain nojalla määrätty. Yksityiselämän suojaamiseksi 24 §:n 1 momentin 24–32 kohdassa salassa pidettäväksi säädetyn asiakirjan tai niitä vastaavan muussa laissa salassa pidettäväksi säädetyn tai muun lain nojalla salassa pidettäväksi määrätyn asiakirjan salassapitoaika on 50 vuotta sen henkilön kuolemasta, jota asiakirja koskee tai, jollei tästä ole tietoa, 100 vuotta.
+
+Asiakirja, joka sisältää kansainvälisistä tietoturvallisuusvelvoitteista annetun lain mukaan turvallisuusluokiteltua tietoa, tai tietoa sellaisesta kiinteistöstä, rakennuksesta, rakennelmasta, järjestelmästä, laitteesta tai menetelmästä, joka on käytössä 2 momentissa tarkoitetun 25 vuoden määräajan jälkeenkin, samoin kuin sellainen maanpuolustusta tai väestönsuojelua tai poikkeusoloihin varautumista varten laadittu suunnitelma ja arvio, jonka tietoja sisältyy voimassa olevaan vastaavaan suunnitelmaan, on kuitenkin pidettävä salassa 1 momentissa tarkoitetun ajan jälkeenkin, jos tiedon antaminen asiakirjasta aiheuttaisi edelleen tämän lain 24 §:n 1 momentin 2, 7 ja 8 tai 10 kohdassa tarkoitetun seurauksen. Tällaiset asiakirjat tulevat julkisiksi, kun kiinteistöä, rakennelmaa tai laitetta ei enää käytetä sellaiseen käyttötarkoitukseen, jonka johdosta asiakirjat ovat olleet salassa pidettäviä, taikka kun tiedot eivät enää sisälly voimassa olevaan suunnitelmaan taikka kun turvallisuusluokitus on kumottu.
+
+Jos on ilmeistä, että asiakirjan tuleminen julkiseksi aiheuttaisi tässä pykälässä tarkoitetun määräajan päätyttyäkin merkittävää haittaa niille eduille, joiden suojaamiseksi salassapitovelvollisuus on säädetty, valtioneuvosto voi pidentää määräaikaa enintään 30 vuodella. Mitä edellä säädetään, ei kuitenkaan sovelleta 3 momentissa tarkoitettuihin asiakirjoihin.
+
+Viranomaisen laatiman asiakirjan salassapitoaika lasketaan asiakirjaan merkitystä päivämäärästä tai, jollei asiakirjassa ole päivämäärää, sen valmistumisesta. Yksityisen viranomaiselle antaman asiakirjan salassapitoaika lasketaan päivästä, jona viranomainen on asiakirjan saanut.

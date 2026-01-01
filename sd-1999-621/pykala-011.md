@@ -1,0 +1,20 @@
+# 11 § Asianosaisen oikeus tiedonsaantiin
+Luku: 3 luku Oikeus saada tieto asiakirjasta
+
+Hakijalla, valittajalla sekä muulla, jonka oikeutta, etua tai velvollisuutta asia koskee (asianosainen), on oikeus saada asiaa käsittelevältä tai käsitelleeltä viranomaiselta tieto muunkin kuin julkisen asiakirjan sisällöstä, joka voi tai on voinut vaikuttaa hänen asiansa käsittelyyn.
+
+Asianosaisella, hänen edustajallaan ja avustajallaan ei ole edellä 1 momentissa tarkoitettua oikeutta:
+1) asiakirjaan, josta tiedon antaminen olisi vastoin erittäin tärkeää yleistä etua taikka lapsen etua tai muuta erittäin tärkeätä yksityistä etua;
+2) esitutkinnassa ja poliisitutkinnassa esitettyyn tai laadittuun asiakirjaan ennen tutkinnan lopettamista, jos tiedon antamisesta aiheutuisi haittaa asian selvittämiselle;
+3) esittelymuistioon, ratkaisuehdotukseen ja niihin verrattavaan muuhun asian valmistelua varten viranomaisen laatimaan asiakirjaan ennen kuin asian käsittely on kysymyksessä olevassa viranomaisessa päättynyt; ylioppilastutkintoa varten annetusta koevastauksesta sekä koevastauksen arvostelleen ylioppilastutkintolautakunnan määräämän arvostelijan henkilöllisyydestä tiedon voi saada kuitenkin vasta, kun ylioppilastutkintolautakunta on suorittanut lopullisen arvostelun;
+4) viranomaisen oikeudenkäynnin osapuolena oikeudenkäyntiin valmistautumista varten laatimaan tai hankkimaan asiakirjaan, jos tiedon antaminen olisi vastoin julkisyhteisön tai 4 §:n 2 momentissa tarkoitetun yhteisön, laitoksen, säätiön tai henkilön etua oikeudenkäynnissä;
+5) tietoihin ulosottoasiassa ennen ulosmittauksen toimittamista ja omaisuuden haltuun saamista, jos tiedon antaminen tuntuvasti vaikeuttaisi täytäntöönpanoa, eikä muihin kuin velallisen taloudellista asemaa koskeviin tietoihin, ellei tietoja tarvita takaisinsaantikanteen tai ulosottokaaren (705/2007) 2 luvun 26 §:ssä tarkoitetun kanteen nostamista varten;
+6) julkisessa hankinnassa toisen ehdokkaan tai tarjoajan liikesalaisuutta koskeviin tietoihin; tieto tarjousten vertailussa käytetystä kokonaishinnasta on kuitenkin aina annettava;
+6 a) anonyymistä todistamisesta päättämisestä koskevaan hakemukseen tai sen valmisteluun liittyviin asiakirjoihin eikä anonyymin todistajan henkilöllisyyden paljastamista koskevaan asiaan liittyviin asiakirjoihin eikä näitä asioita koskeviin oikeudenkäyntiasiakirjoihin sisältyviin sellaisiin salassa pidettäviin tietoihin, joiden perusteella anonyymin todistajan tai sellaiseksi vaaditun henkilöllisyys voi paljastua, ellei oikeudenkäynnistä rikosasioissa annetun lain (689/1997) 5 luvun 11 d §:stä muuta johdu;
+7) muun kuin 6 a kohdassa tarkoitetun todistajan, asianomistajan tai asianosaisen taikka rikosilmoituksen, lastensuojelulain (417/2007) 25 §:ssä tarkoitetun ilmoituksen tai muun niihin verrattavan viranomaisen toimenpiteitä edellyttävän ilmoituksen tekijän salassa pidettäviin osoite-, puhelin- ja muihin vastaaviin yhteystietoihin, jos tiedon antaminen vaarantaisi todistajan, asianomistajan tai asianosaisen tai ilmoituksen tekijän turvallisuutta, etuja tai oikeuksia;
+7 a) asiakirjoihin, jotka sisältävät tietoja esitutkintalain 4 luvun 19 §:ssä tarkoitetusta asianomistajan pyynnöstä saada ilmoitus vangin tai tutkintavangin vapauttamisesta ja vankilasta tai muusta säilytystilasta poistumisesta taikka tietoja mainituista ilmoituksista;
+8) sen asiakirjan salassa pidettyyn osaan, jonka julkisuuden määräytymistä asia koskee.
+
+Jos asiakirja kuuluu oikeudenkäyntiaineistoon, asianosaisen oikeudesta tiedonsaantiin on voimassa, mitä siitä säädetään oikeudenkäynnin julkisuudesta yleisissä tuomioistuimissa annetussa laissa (370/2007) ja oikeudenkäynnin julkisuudesta hallintotuomioistuimissa annetussa laissa (381/2007). Esitutkinnan asianosaisen oikeuteen saada tieto esitutkinnassa esitetystä tai laaditusta asiakirjasta sovelletaan, mitä esitutkintalain (805/2011) 4 luvun 15 §:ssä säädetään.
+
+Mitä tässä pykälässä säädetään asianosaisesta, ei koske sitä, jonka muutoksenhakuoikeus perustuu yksinomaan hyvinvointialueen, kunnan tai muun yhteisön jäsenyyteen.
