@@ -3,7 +3,7 @@ Osa: II OSA VEROVELVOLLISUUS
 Luku: 3 luku Kokonaan tai osittain verovapaat yhteisöt
 
 Tulon perusteella suoritettavasta verosta ovat vapaat:
-1) Suomen Pankki, Yleisradio Oy, Pohjoismaiden Investointipankki, Pohjoismaiden kehitysrahasto, Pohjoismaiden ympäristörahoitusyhtiö, Finnvera Oyj, Teollisen yhteistyön rahasto Oy, Suomen itsenäisyyden juhlarahasto, rahoitusvakausrahasto ja luottolaitostoiminnasta annetussa laissa (610/2014) tarkoitettu vanha talletussuojarahasto;
+1) Suomen Pankki, Yleisradio Oy, Pohjoismaiden Investointipankki, Pohjoismaiden kehitysrahasto, Pohjoismaiden ympäristörahoitusyhtiö, Finnvera Oyj, Suomen Vientiluotto Oy, Teollisen yhteistyön rahasto Oy, Suomen itsenäisyyden juhlarahasto, rahoitusvakausrahasto ja luottolaitostoiminnasta annetussa laissa (610/2014) tarkoitettu vanha talletussuojarahasto;
 2) Kansaneläkelaitos, Keva, sairaus- ja hautausavustuskassa, henkilöstörahasto, erorahasto, valtakunnallinen työttömyyskassa, työttömyyskassojen keskuskassa, työttömyyskassojen tukikassa, työttömyyskassojen tukisäätiö sekä 116 a §:ssä tarkoitettu valmennusrahasto ja urheilijarahasto siinä mainitusta toiminnasta saamistaan tuloista;
 3) kunnan alueellaan tapahtuvaa asuntojen hankintaa, omistamista ja vuokralle antamista varten perustama osakeyhtiö, joka täyttää 2 momentissa mainitut edellytykset.
 
