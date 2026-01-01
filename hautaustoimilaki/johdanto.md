@@ -1,0 +1,2 @@
+Hautaustoimilaki
+Eduskunnan päätöksen mukaisesti säädetään:
