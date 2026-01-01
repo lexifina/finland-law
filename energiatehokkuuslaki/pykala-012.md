@@ -1,0 +1,6 @@
+# 12 § Yrityksen energiakatselmukseen liittyvä toimintasuunnitelma
+Luku: 2 luku Energiakatselmukset
+
+Yrityksen on laadittava toimintasuunnitelma yrityksen energiakatselmuksen suositusten pohjalta. Toimintasuunnitelma on laadittava yrityksen energiakatselmuksen yhteydessä vähintään neljän vuoden välein. Toimintasuunnitelmassa on yksilöitävä toimenpiteet, joilla kukin suositus pannaan täytäntöön, paitsi jos täytäntöönpano ei ole teknisesti tai taloudellisesti toteutettavissa. Yrityksen on sisällytettävä toimintasuunnitelma ja tieto energiakatselmuksen suositusten toteuttamisasteesta kirjanpitolaissa (1336/1997) tarkoitettuun toimintakertomukseen. Jos yritys ei ole velvollinen liittämään tilinpäätökseensä toimintakertomusta, toimintasuunnitelma ja tieto energiakatselmuksen suositusten toteuttamisasteesta on sisällytettävä tilinpäätöksen liitetietoihin. Yrityksen on asetettava maksutta julkisesti saataville toimintasuunnitelma ja tieto energiakatselmuksen suositusten toteuttamisasteesta.
+
+Jos yritys on velvollinen laatimaan kestävyysraportin, siihen voidaan sisällyttää toimintasuunnitelma ja tieto energiakatselmuksen suositusten toteuttamisasteesta. Edellä tässä pykälässä säädetty ei koske liikesalaisuuslain (595/2018) 2 §:n 1 kohdassa tarkoitettuja tietoja.
