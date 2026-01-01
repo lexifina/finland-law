@@ -1,0 +1,3 @@
+# 8 § Vammaistuen maksaminen eläkkeen lepäämisen ajalta
+
+Jos henkilö on saanut välittömästi ennen 4 tai 5 §:ssä tarkoitettua työkyvyttömyyseläkkeen tai työuraeläkkeen lepäämään jättämistä vammaisetuuksista annetun lain (570/2007) mukaista eläkettä saavan hoitotukea, hänelle myönnetään mainitun lain 8 §:n 2 momentin 3 kohdan mukainen ylin vammaistuki ajalta, jolta eläkkeiden maksaminen on keskeytyneenä. Vammaistukea ei kuitenkaan makseta takautuvalta ajalta, jos eläke on jätetty lepäämään eläkelaitoksen aloitteesta taannehtivasti. Vammaistuen maksaa eläkkeen lepäämisen ajalta Kansaneläkelaitos.
