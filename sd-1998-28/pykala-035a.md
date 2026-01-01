@@ -1,0 +1,10 @@
+# 35 a § Toiminnanharjoittajan yleiset velvollisuudet
+Luku: 6 a luku Ympäristöonnettomuudet ja muut poikkeukselliset tilanteet
+
+Toiminnanharjoittajan on ryhdyttävä tarpeellisiin toimenpiteisiin ympäristöonnettomuuksien aiheutumisen ja niiden haitallisten vaikutusten ehkäisemiseksi. Toimintapaikat ja kuljetusvälineet on varustettava ja niitä on käytettävä siten, että toiminta tapahtuu turvallisesti eikä siitä aiheudu haitallisia ympäristövaikutuksia. Toimenpiteet on sovitettava yhteen muiden Etelämantereella toimivien kanssa. Toimintaan osallistuva henkilöstö on koulutettava kaluston asianmukaiseen käyttämiseen ja toimintaan poikkeuksellisissa tilanteissa. Toiminnanharjoittajan on laadittava ympäristöonnettomuuksia ja niiden vaikutusten torjuntaa koskeva torjuntasuunnitelma.
+
+Toiminnanharjoittajan on laadittava varautumissuunnitelma myös muihin poikkeuksellisiin tilanteisiin varautumiseksi. Suunnitelmasta on käytävä ilmi tarpeelliset toimenpiteet niiden henkilöiden terveyden ja turvallisuuden turvaamiseksi, joita lupa koskee. Suunnitelmaan tulee lisäksi sisältyä selvitys etsintä-, pelastus- ja evakuointitoimenpiteistä onnettomuuksien varalta. Toiminnanharjoittaja voi sopia muiden toiminnanharjoittajien kanssa siitä, että toiminnanharjoittaja hyödyntää muiden toiminnanharjoittajien ylläpitämiä tämän momentin mukaisia järjestelyjä.
+
+Toiminnanharjoittajan on ilmoitettava ympäristöonnettomuuksista ja muista poikkeuksellisista tilanteista viipymättä valtioneuvoston asetuksella säädettävälle viranomaiselle.
+
+Toiminnanharjoittajalla tulee olla toiminnan laatu ja laajuus huomioon ottaen riittävä vakuutus tai muu hyväksyttävä taloudellinen vakuus 35 c §:n 1 momentissa tarkoitetun taloudellisen vastuun kattamiseksi 35 e §:ssä asetettuihin rajoihin saakka. Toiminnanharjoittajan tulee lisäksi ylläpitää toiminnan laatu ja laajuus huomioon ottaen riittävää vakuutusta tai muuta järjestelyä, joka kattaa kaikki etsintään, pelastamiseen, lääketieteelliseen hoitoon ja evakuointiin liittyvät kustannukset. Velvollisuus ylläpitää vakuutusta, vakuutta tai muuta järjestelyä ei koske toiminnanharjoittajia, jotka toimivat valtion nimissä.

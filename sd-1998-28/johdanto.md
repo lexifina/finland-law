@@ -1,0 +1,2 @@
+Laki Etelämantereen ympäristönsuojelusta
+Eduskunnan päätöksen mukaisesti säädetään:
