@@ -5,4 +5,4 @@ Uhkasakon asettanut viranomainen voi tuomita uhkasakon maksettavaksi, jos pääv
 
 Uhkasakon lisäeristä voidaan kerralla tuomita maksettavaksi enintään kolme kertaa peruserän suuruinen summa. Tämän ylittävältä osalta lisäerät raukeavat niiltä uhkasakkojaksoilta, jotka ovat alkaneet ennen kuin päätös uhkasakon tuomitsemisesta tehdään.
 
-Tuomitun uhkasakon täytäntöönpanosta ja muuntorangaistuksesta säädetään erikseen.
+Tuomitun uhkasakon täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002).
