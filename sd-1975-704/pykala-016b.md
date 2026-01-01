@@ -1,0 +1,8 @@
+# 16 b §
+Luku: 6 luku Oikeudenkäyntimenettely ja täytäntöönpano
+
+Viivästyskorko määräajoin suoritettavalle elatusavulle lasketaan kalenterivuosittain määrälle, joka saadaan laskemalla yhteen kunkin kuukauden viimeisenä päivänä suorittamatta olevat elatusavun määrät ja jakamalla summa niiden kalenterikuukausien lukumäärällä, joiden viimeisenä päivänä elatusapua on ollut suorittamatta. Viivästyskorko lasketaan näille kalenterikuukausille. Viivästyskorkoa laskettaessa otetaan huomioon vain täydet kalenterikuukaudet. Jos elatusapu suoritetaan sen kalenterikuukauden loppuun mennessä, jonka aikana se on erääntynyt maksettavaksi, kyseiseltä kuukaudelta ei lasketa viivästyskorkoa. Perittäessä elatusapua ulosottoteitse viivästyskoron laskee Kansaneläkelaitos, jolle oikeus elatusavun perimiseen on siirtynyt, ja muussa tapauksessa ulosottomies. Viivästyskoron periminen edellyttää, että asiassa esitetään selvitys, jonka perusteella viivästyskorko voidaan laskea. Elatusapu, joka oli suorittamatta viimeksi vanhentuneen vuoden lopussa, otetaan huomioon viivästyskorkoa laskettaessa, jos sen määrästä voidaan esittää luotettava selvitys. Muutoin määräajoin suoritettavan elatusavun viivästyskorosta samoin kuin kertamaksuna suoritettavan elatusavun viivästyskorosta on voimassa, mitä korkolaissa (633/1982) säädetään.
+
+Jos elatusvelvollisella on suorittamatta sekä erääntynyttä elatusapua että sille kertynyttä viivästyskorkoa, elatusvelvollisen myöhemmin suorittamat tai häneltä ulosottotoimin perityt varat kohdennetaan ensisijaisesti elatusavun suoritukseksi.
+
+Tässä pykälässä tarkoitetun viivästyskoron saa periä ulosottotoimin, jos hakija sitä vaatii, vaikka korkoa ei olisi vahvistettu maksettavaksi.
