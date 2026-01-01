@@ -7,6 +7,6 @@ Valtionapurahastosta saatua tuottoa ei kuitenkaan 1 päivästä tammikuuta 2014 
 1) kaikkien kalastusvakuutuslaitosten henkilökunnalle tai luottamushenkilöille avoin koulutus, joka koskee tässä laissa säädettyjen tehtävien hoitamista;
 2) vakuutustukea koskeva tiedottaminen ja koulutus, joka on avoin kaikille vakuutuksenottajille;
 3) tämän lain 13 §:ssä tarkoitettujen hakemusten tekemisestä aiheutuvat hallinnolliset kustannukset henkilökunnan palkkakustannuksia tai luottamushenkilöiden palkkioita lukuun ottamatta;
-4) elinkeino-, liikenne- ja ympäristökeskuksen avustaminen tuen saajan tai vahinkotapahtumien tarkastuksessa.
+4) elinvoimakeskuksen avustaminen tuen saajan tai vahinkotapahtumien tarkastuksessa.
 
 Jos kalastusvakuutuslaitos lopettaa toimintansa tai sen hyväksyntä peruutetaan, kalastusvakuutuslaitoksen on palautettava ennen toiminnan lopettamista tai viimeistään kuuden kuukauden kuluessa hyväksynnän peruuttamisesta valtionapurahaston arvo valtiolle sekä edellä tarkoitettu tuotto.
