@@ -6,3 +6,5 @@ Julkaistun viestin sisältöön perustuvaan rikokseen liittyvää menettämisvaa
 Julkaisun kaikki levitykseen tarkoitetut kappaleet voidaan niiden omistusoikeudesta riippumatta tuomita menetetyiksi, jos on tehty kyseisen julkaisun sisältöön perustuva rikos ja jos tällainen seuraamus on tarpeen viestin levittämisen ehkäisemiseksi.
 
 Tuomioistuin voi määrätä sisällöltään lainvastaiseksi todetun verkkoviestin poistettavaksi yleisön saatavilta ja hävitettäväksi. Asian käsittelyssä noudatetaan soveltuvin osin, mitä menettämisvaatimuksen käsittelystä säädetään.
+
+Menettämisseuraamuksen ja verkkoviestin hävittämismääräyksen täytäntöönpanosta säädetään sakon täytäntöönpanosta annetussa laissa (672/2002). Menettämisseuraamuksen ja verkkoviestin hävittämismääräyksen raukeamisesta säädetään rikoslain 8 luvussa.
