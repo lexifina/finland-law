@@ -22,7 +22,7 @@ Palkkana ei kuitenkaan pidetä:
 
 Edellä 3 momentin 11 kohdassa tarkoitetussa tilanteessa edellytyksenä on lisäksi, että voittopalkkion maksamisesta ei ole tehty työnantajaa velvoittavaa sopimusta, omistajat tekevät sitovan päätöksen käteisen voittopalkkion maksamisesta yhtiökokouksessa tilikauden päätyttyä ja voittopalkkiot maksetaan tämän jälkeen. Lisäksi edellytyksenä on, että asia käsitellään yhteistoimintalain (1333/2021) mukaisella tai muulla vastaavalla tavalla.
 
-Kunnan eläinlääkärin tulona huomioidaan palkan lisäksi eläinlääkärin eläimen omistajilta tai haltijoilta periminä eläinlääkintähuoltolain (765/2009) 19 §:ssä tarkoitettuina palkkioina mainitun lain 7 §:ssä tarkoitetun kunnan toimielimen vuosittain vahvistama rahamäärä.
+Kunnan eläinlääkärin tulona huomioidaan palkan lisäksi eläinlääkärin eläimen omistajilta tai haltijoilta periminä eläinlääkintähuoltolain (285/2023) 14 §:ssä tarkoitettuina palkkioina mainitun lain 3 §:n 4 momentissa tarkoitetun kunnan toimielimen vuosittain vahvistama rahamäärä.
 
 Jos vakuutettu on saanut omaishoidon tuesta annetun lain (937/2005) mukaista omaishoidon hoitopalkkiota tai perhehoitolain (263/2015) mukaista hoitopalkkiota tarkastelujaksolla ja mainitun palkkion maksu jatkuu päivärahaetuuden kanssa samaan aikaan, ei palkkiota huomioida tältä ajalta vuositulossa päivärahaetuuden määrää laskettaessa.
 

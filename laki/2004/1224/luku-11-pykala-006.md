@@ -5,7 +5,7 @@ Luku: 11 luku Päivärahaetuuksien määrä
 Etuusperusteinen tulo lasketaan tarkastelujakson aikana saatujen seuraavien ansionmenetyskorvausten ja sosiaalietuuksien perusteella:
 1) työttömyysturvalain mukainen työttömyysetuus;
 2) vuorotteluvapaalain (1305/2002) mukainen vuorottelukorvaus;
-3) 1 luvun 4 §:n 6 kohdassa tarkoitettu päivärahaetuus lukuun ottamatta tartuntatautilain mukaista tartuntatautipäivärahaa;
+3) päivärahaetuus lukuun ottamatta tartuntatautilain mukaista tartuntatautipäivärahaa sekä ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun lain 18 §:n 2 momentin mukaista luovutuspäivärahaa;
 4) Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain tai työntekijän eläkelain 3 §:ssä tarkoitettujen työeläkelakien mukainen kuntoutusraha tai kuntoutuskorotus;
 5) työntekijän eläkelain 3 §:ssä tarkoitettujen työeläkelakien mukainen työkyvyttömyyseläke tai kansaneläkelain 12 §:n 1 momentin mukainen työkyvyttömyyseläke;
 6) takuueläkkeestä annetun lain 7 §:n 1 momentin 3–5 kohdan tai 2 momentin 2 kohdan mukainen takuueläke;
