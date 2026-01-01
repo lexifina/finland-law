@@ -18,5 +18,5 @@ Muun kuin julkisesti noteeratun osuuskunnan elinkeinotoimintaa tai maataloutta h
 2) ylijäämää palautetaan kaikille jäsenille näiden ostojen tai myyntien suhteessa;
 3) määräysvalta osuuskunnassa on jäsenillä;
 4) palautettava ylijäämä on syntynyt tilikauden aikana osuuskunnan luovuttaessa jäsenelleen hyödykkeitä tai osuuskunnan luovuttaessa kolmannelle jäseneltään hankkimiaan hyödykkeitä;
-5) osuuskunnan jäsenen osuus osuuspääomasta ja äänivalta osuuskunnassa on tilikauden päättyessä enintään kymmenen prosenttia yhdessä verotusmenettelystä annetun lain (1558/1995) 31 §:n 4 momentissa tarkoitettuun lähipiiriin kuuluvien ja siinä tarkoitettujen etuyhteydessä olevien jäsenten kanssa; ja
+5) osuuskunnan jäsenen osuus osuuspääomasta ja äänivalta osuuskunnassa on tilikauden päättyessä enintään kymmenen prosenttia yhdessä verotusmenettelystä annetun lain 31 §:n 4 momentissa tarkoitettuun lähipiiriin kuuluvien ja siinä tarkoitettujen etuyhteydessä olevien jäsenten kanssa; ja
 6) ylijäämänpalautuksen saava jäsen on ilman valintamahdollisuutta ja vapautusta velvollinen suorittamaan näin saamastaan tulosta veroa vähintään kymmenen prosenttia.

@@ -13,4 +13,8 @@ Tulon hankkimisesta tai säilyttämisestä johtuneita menoja eivät ole:
 8) lahjukset eivätkä lahjusten luonteiset edut;
 9) osakeyhtiön omista osakkeista suorittama määrä, ellei 18 §:n 3 momentissa toisin säädetä;
 10) muuhun omaisuuteen kuuluvan tuloverolain 53 a §:ssä tarkoitetun osakaslainan sekä muun, muussa kuin tulohankkimistarkoituksessa annetun saamisen menetys;
-11) sähköalan ja fossiilisten polttoaineiden alan väliaikaisista voittoveroista annetun lain (363/2023) nojalla suoritettavat verot.
+11) sähköalan ja fossiilisten polttoaineiden alan väliaikaisista voittoveroista annetun lain (363/2023) nojalla suoritettavat verot;
+12) jäsenmaksut sellaisessa yhdistyksessä tai muussa oikeushenkilössä, jolla on sen omien sääntöjen tai yhtiöjärjestyksen mukaan työmarkkinatoimintaan liittyviä tavoitteita tai jonka säännöt tai yhtiöjärjestys ovat niin yleisluonteisia, että ne kattavat myös työmarkkinatoimintaan liittyvien tavoitteiden edistämisen;
+13) jäsenmaksut sellaisessa yhdistyksessä tai muussa oikeushenkilössä, joka on jäsenenä 12 kohdassa tarkoitetussa yhdistyksessä tai muussa oikeushenkilössä;
+14) jäsenmaksut sellaisessa yhdistyksessä tai muussa oikeushenkilössä, joka on verotusmenettelystä annetun lain (1558/1995) 31 §:n 4 momentissa tarkoitetussa etuyhteydessä 12 kohdassa tarkoitettuun yhdistykseen tai muuhun oikeushenkilöön;
+15) 12, 13 tai 14 kohdassa tarkoitetun yhdistyksen tai oikeushenkilön jäseniltään jäsenmaksujen sijaan veloittamat yksilöimättömät palvelumaksut.
