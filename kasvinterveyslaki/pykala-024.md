@@ -8,7 +8,7 @@ Rekisteriin merkitään:
 2) tiedot valvontaviranomaisen suorittamista tarkastuksista ja niiden tuloksista sekä muut valvonnassa tarvittavat välttämättömät tiedot;
 3) tiedot tämän lain, kasvinterveysasetuksen, valvonta-asetuksen ja niiden nojalla annettujen säännösten, määräysten ja kieltojen rikkomisesta ja valvontaviranomaisen määräämistä seuraamuksista.
 
-Elinkeino-, liikenne- ja ympäristökeskuksilla on oikeus käyttää, päivittää ja luovuttaa rekisteritietoja säädettyjen tehtäviensä edellyttämässä laajuudessa. Ne myös vastaavat tehtäviensä osalta rekisteröityjen oikeuksien toteuttamisesta sen mukaan, mitä luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2016/679, jäljempänä tietosuoja-asetus, säädetään.
+Elinvoimakeskuksilla on oikeus käyttää, päivittää ja luovuttaa rekisteritietoja säädettyjen tehtäviensä edellyttämässä laajuudessa. Ne myös vastaavat tehtäviensä osalta rekisteröityjen oikeuksien toteuttamisesta sen mukaan, mitä luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2016/679, jäljempänä tietosuoja-asetus, säädetään.
 
 Jos toimija on ilmoittanut Ruokavirastolle toimintansa lopettamisesta tai toiminta on loppunut, toimijaa koskevat tiedot on poistettava rekisteristä, kun niiden käyttötarvetta ei enää ole ja viimeistään kolmen vuoden kuluttua viimeisestä toimijaa koskevasta merkinnästä.
 
