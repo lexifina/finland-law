@@ -2,7 +2,7 @@
 Luku: 5 luku Työnteko ja elinkeinon harjoittaminen
 
 Rajoittamaton työnteko-oikeus on ulkomaalaisella, jolle on myönnetty:
-1) pysyvä oleskelulupa, 56 a §:n mukainen pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa tai jatkuva oleskelulupa muulla kuin työnteon perusteella;
+1) pysyvä oleskelulupa, 56 d §:ssä tarkoitettu pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupa tai jatkuva oleskelulupa muulla kuin työnteon perusteella;
 2) oleskelulupa perhesiteen perusteella;
 3) tilapäinen oleskelulupa tilapäisen suojelun tai muun humanitaarisen maahanmuuton perusteella;
 4) tilapäinen oleskelulupa 52 a tai 52 d §:n perusteella;

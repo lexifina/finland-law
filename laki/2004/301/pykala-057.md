@@ -9,6 +9,6 @@ Pysyvä oleskelulupa ja pitkään oleskelleen kolmannen maan kansalaisen EU-oles
 
 Rikoksesta tuomitun rangaistuksen ei tarvitse olla lainvoimainen. Harkittaessa oleskeluluvan myöntämisen esteitä on otettava huomioon rikollisen teon laatu ja vakavuus sekä ulkomaalaisen Suomessa oleskelun pituus ja siteet Suomeen.
 
-Jos ulkomaalainen on tuomittu ehdottomaan vankeusrangaistukseen, pysyvä oleskelulupa voidaan myöntää, jos siitä, kun tuomittu rangaistus on kokonaan suoritettu, on hakemuksen ratkaisuhetkellä kulunut yli kolme vuotta. Jos ulkomaalainen on tuomittu ehdolliseen vankeuteen, pysyvä oleskelulupa voidaan myöntää, jos siitä, kun rangaistuksen koeaika on kulunut loppuun, on kulunut yli kaksi vuotta. Muissa tapauksissa pysyvä oleskelulupa voidaan myöntää, kun rikoksen tekopäivästä on hakemuksen ratkaisuhetkellä kulunut yli kaksi vuotta.
+Jos ulkomaalainen on tuomittu ehdolliseen vankeuteen, pysyvä oleskelulupa voidaan myöntää, jos siitä, kun rangaistuksen koeaika on kulunut loppuun, on kulunut yli kaksi vuotta. Muissa tapauksissa pysyvä oleskelulupa voidaan myöntää, kun rikoksen tekopäivästä on hakemuksen ratkaisuhetkellä kulunut yli kaksi vuotta. Jos ulkomaalainen on tuomittu ehdottomaan vankeusrangaistukseen, pysyvä oleskelulupa voidaan myöntää 56 c §:n nojalla neljän vuoden kuluttua siitä, kun ehdoton vankeusrangaistus on kokonaan suoritettu.
 
 Pitkään oleskelleen kolmannen maan kansalaisen EU-oleskelulupaa ei myönnetä pakolaisasemaan tai toissijaiseen suojeluasemaan perustuvan oleskelun perusteella, jos asema on peruutettu 108 §:n 1 momentin nojalla.
