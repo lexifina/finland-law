@@ -6,4 +6,6 @@ Ympäristöministeriön tai sen määräämän viranomaisen on pidettävä kirja
 
 Edellä 7 §:n 3 momentissa tarkoitetussa tilanteessa tapahtuneesta mereen laskemisesta tulee ilmoittaa välittömästi asianomaiselle kansainväliselle järjestölle sekä muutoin menetellä, kuten merenkulun ympäristönsuojelulaissa tai öljyvahinkojen torjuntalaissa säädetään pilaantumistapahtumasta tehtävästä ilmoituksesta.
 
+Suomen ympäristökeskuksen on raportoitava kansallisen lainkäyttövallan ulkopuoliselle alueelle tämän lain nojalla luvan saaneen toiminnan ympäristövaikutuksista BBNJ-sopimuksen nojalla vahvistettujen menettelytapojen mukaisesti.
+
 Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä tässä pykälässä tarkoitetuista menettelyistä.
