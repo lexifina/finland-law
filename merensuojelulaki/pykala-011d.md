@@ -1,0 +1,5 @@
+# 11 d § Ilmoitusvelvollisuus kerättyjen meren geenivarojen säilyttämisestä ja niitä koskevan digitaalisen sekvenssitiedon tallentamisesta
+
+Kansallisen lainkäyttövallan ulkopuolisella alueella tapahtuvaan meren geenivarojen keräämiseen osallistuneen Suomen kansalaisen ja suomalaisen yhteisön on tehtävä geenivarojen säilyttämistä ja niitä koskevan digitaalisen sekvenssitiedon tallentamista koskeva ilmoitus tiedonvälitysjärjestelmään heti, kun kyseinen tieto on saatavilla ja viimeistään vuoden kuluttua meren geenivarojen keräämisestä. Ilmoitusta ei kuitenkaan tarvitse tehdä, jos meren geenivarojen keräämiseen osallistunut muu taho on jo toimittanut kyseisen tiedon tiedonvälitysjärjestelmään.
+
+Ilmoituksen tulee sisältää tiedot säilyttämis- tai tallentamispaikasta ja selvitys maantieteellisestä alueesta, jolta meren geenivarat on kerätty. Ilmoitukseen tulee sisältyä myös selvitys niistä tuloksista, joita meren geenivaroihin ja niitä koskevaan digitaaliseen sekvenssitietoon kohdistuneesta toiminnasta on saatavilla, sekä tiedonhallintasuunnitelmaa koskevat päivitykset. Valtioneuvoston asetuksella annetaan tarkempia säännöksiä ilmoituksen sisällöstä.

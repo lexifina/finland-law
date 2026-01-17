@@ -1,0 +1,5 @@
+# 11 e § Ilmoitusvelvollisuus meren geenivarojen ja niitä koskevan digitaalisen sekvenssitiedon käytöstä
+
+Kansallisen lainkäyttövallan ulkopuoliselta alueelta kerättyjä meren geenivaroja ja mahdollisuuksien mukaan tällaisia geenivaroja koskevaa digitaalista sekvenssitietoa käyttävän Suomen kansalaisen ja suomalaisen yhteisön on tehtävä ilmoitus tiedonvälitysjärjestelmään heti, kun käyttöön liittyvät tiedot ovat saatavilla. Ilmoitusta ei kuitenkaan tarvitse tehdä, jos käyttöön osallistuva muu taho on jo toimittanut kyseisen tiedon tiedonvälitysjärjestelmään.
+
+Ilmoituksen tulee sisältää tieto siitä, mistä käytön tulokset ovat löydettävissä, mitä 11 d §:ssä tarkoitettuja tietoja käytön kohteena olleista meren geenivaroista on ilmoitettu tiedonvälitysjärjestelmään ja missä alkuperäistä näytettä säilytetään. Ilmoitukseen tulee sisältyä myös käytön kohteen saatavuutta koskevat menettelytavat ja tiedonhallintasuunnitelmat sekä tiedot markkinoille saatetun tuotteen myynnistä ja mahdollisesta jatkokehittämisestä. Valtioneuvoston asetuksella annetaan tarkempia säännöksiä ilmoituksen sisällöstä.

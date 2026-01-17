@@ -1,3 +1,5 @@
-# 11 a § Merenhoitosuunnitelman huomioon ottaminen
+# 11 a § Yleinen luvanvaraisuus
 
-Sen lisäksi mitä 9—11 §:ssä säädetään, Suomen ympäristökeskuksen on lupaharkinnassaan otettava soveltuvin osin huomioon, mitä vesienhoidon ja merenhoidon järjestämisestä annetun lain (1299/2004) mukaisessa merenhoitosuunnitelmassa esitetään toiminnan vaikutusalueen meren tilaan ja käyttöön liittyvistä seikoista.
+Sen lisäksi, mitä 9–11 §:ssä säädetään, Suomen talousvyöhykkeen ulkopuolella aavalla merellä ei suomalaiselta alukselta, avomeriyksiköltä tai ilma-alukselta saa ilman Suomen ympäristökeskuksen lupaa ryhtyä toimeen, josta voi aiheutua meren pilaantumisen vaaraa. Suomen kansalainen tai suomalainen yhteisö ei muutoinkaan saa Suomen talousvyöhykkeen ulkopuolella aavalla merellä ryhtyä ilman Suomen ympäristökeskuksen lupaa toimeen, josta voi aiheutua meren pilaantumisen vaaraa.
+
+Luvassa voidaan antaa tarpeellisia määräyksiä meren pilaantumisen vaaran ehkäisemiseksi.
