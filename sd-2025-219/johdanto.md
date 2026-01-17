@@ -1,0 +1,2 @@
+Laki merten biologisen monimuotoisuuden suojelusta ja kestävästä käytöstä kansallisen lainkäyttövallan ulkopuolisilla alueilla tehdystä Yhdistyneiden Kansakuntien merioikeusyleissopimuksen alaisesta sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
