@@ -1,0 +1,2 @@
+Laki virallisten työntekijöiden huollettavien ansiotyöstä Suomen tasavallan hallituksen ja Amerikan yhdysvaltojen hallituksen välillä tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
