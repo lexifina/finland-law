@@ -1,0 +1,13 @@
+# 37 § Korkotuen lakkauttaminen
+Luku: 6 luku Erinäiset säännökset
+
+Valtiokonttori voi lakkauttaa korkotuen maksamisen ja velvoittaa lainansaajan kokonaan tai osittain suorittamaan takaisin sen korkotuen, jonka valtio on lainasta jo maksanut, jos:
+1) lainansaaja on käyttänyt lainavaroja muuhun kuin tämän lain mukaiseen tarkoitukseen;
+2) lainansaaja on käyttänyt asuntoa vastoin asumisoikeusasunnoista annetun lain säännöksiä;
+3) lainansaaja on lainan korkotukilainaksi hyväksymistä hakiessaan antanut olennaisesti virheellisiä tietoja tai salannut lainan hyväksymiseen olennaisesti vaikuttavia seikkoja;
+4) korkotukivuokra-asunnon tai sen hallintaan oikeuttavien osakkeiden omistusoikeus luovutetaan vastiketta vastaan muulle kuin 5 §:ssä tai, jos kyseessä on opiskelija-asunto, 5 §:n 1 momentissa tarkoitetulle omistajalle taikka 18 b §:ssä tarkoitetulle omaksilunastajalle; tai
+5) vuokratalo tai -asunto tai asumisoikeustalo puretaan ilman lupaa ennen käyttörajoitusajan päättymistä.
+
+Valtion tukeman asuntorakentamisen keskus voi lakkauttaa korkotuen maksamisen ja velvoittaa lainansaajan kokonaan tai osittain suorittamaan takaisin sen korkotuen, jonka valtio on lainasta jo maksanut, jos lainansaaja on käyttänyt vuokra-asuntoa vastoin 11 tai 19 a §:ssä säädettyä taikka toiminut vastoin 13 tai 13 a §:ssä, 13 b §:n 1 momentissa tai 13 c §:ssä säädettyä eikä laiminlyönti ole vähäinen. Jos 5 §:n 1 momentin 2 kohdassa tarkoitetun lainansaajayhteisön nimeäminen peruutetaan 27 §:n, aravalain 15 d §:n, vuokra-asuntolainojen korkotuesta annetun lain 2 d §:n tai asumisoikeustalolainojen korkotuesta annetun lain 4 d §:n nojalla, Valtion tukeman asuntorakentamisen keskus voi päättää, että yhteisöllä tai sen kanssa samaan konserniin kuuluvalla edellä 25 §:ssä tarkoitetulla yhteisöllä olevien vuokra-asuntolainojen tai asumisoikeustalolainojen korkotuen suorittaminen lakkautetaan kokonaan tai osittain kuuden kuukauden kuluttua nimeämisen peruuttamisesta, jollei syy nimeämisen peruuttamiseen poistu tänä aikana. Jos lainansaajayhteisön nimeämisen peruuttaminen johtuu muusta syystä kuin yhteisön hakemuksesta, Valtion tukeman asuntorakentamisen keskus voi lisäksi velvoittaa lainansaajan kokonaan tai osittain suorittamaan takaisin sen korkotuen, jonka valtio on lainasta jo maksanut.
+
+Lainansaajan on suoritettava 1 tai 2 momentin perusteella takaisin maksettavalle korkotuelle korkotuen kulloisenkin erän maksupäivästä takaisinmaksupäivään korkoa korkolain 3 §:n 2 momentissa tarkoitetun korkokannan mukaan lisättynä kolmella prosenttiyksiköllä. Jos palautusta tai korkoa ei makseta määräajassa, erääntyneelle määrälle on suoritettava vuotuista viivästyskorkoa korkolain 4 §:n 1 momentissa tarkoitetun korkokannan mukaan.

@@ -1,0 +1,2 @@
+Laki vuokra-asuntolainojen ja asumisoikeustalolainojen korkotuesta
+Eduskunnan päätöksen mukaisesti säädetään:

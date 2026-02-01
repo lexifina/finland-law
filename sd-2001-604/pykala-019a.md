@@ -1,0 +1,10 @@
+# 19 a § Opiskelija-asuntojen korkotukilainoja koskevat erityissäännökset
+Luku: 2 luku Vuokra-asuntolainojen korkotuki
+
+Poiketen siitä, mitä 10 §:n 1 momentissa säädetään vuokra-asuntojen korkotukilainan enimmäissuuruudesta, korkotukilainan suuruus on enintään 100 prosenttia sellaisen kohteen hyväksytyistä rakentamis-, hankinta- tai perusparannuskustannuksista, jossa asunnot on tarkoitettu opiskelijoiden vuokra-asunnoiksi (opiskelija-asunnot). Opiskelijana pidetään henkilöä, joka osallistuu sellaiseen koulutukseen, johon voi saada opintotukilain (65/1994) nojalla opintotukea.
+
+Sen lisäksi, mitä tässä laissa säädetään korkotukilainaksi hyväksymisen edellytyksistä, opiskelija-asuntojen korkotukilainaksi hyväksyminen edellyttää, että asunnot soveltuvat opiskelijoiden käyttöön ja että opiskelijoilla on pitkäaikaista asunnontarvetta paikkakunnalla. Korkotukilainan saajana voi olla vain 5 §:n 1 momentissa tarkoitettu taho.
+
+Asuntoja on käytettävä opiskelijoiden vuokra-asuntoina 20 vuotta siitä, kun laina on hyväksytty korkotukilainaksi. Valtion tukeman asuntorakentamisen keskus voi kuitenkin hakemuksesta myöntää asettamillaan ehdoilla luvan poiketa vaatimuksesta, jos poikkeaminen ehkäisee asuntojen vajaakäyttöä tai siihen on muu erityinen syy. Jos kyse on vähäisestä asuntomäärästä ja enintään kaksi vuotta kestävästä muutoksesta, lupaa ei vaadita, mutta lainansaajan on tällöin ilmoitettava muutoksesta Valtion tukeman asuntorakentamisen keskukselle.
+
+Mitä 1–3 momentissa säädetään, ei sovelleta kohteisiin, joihin myönnetään avustuksista erityisryhmien asunto-olojen parantamiseksi annetun lain mukaista avustusta. Edellä 13 a §:ssä tarkoitettu vuokrien tasaus on kuitenkin sallittua sellaisten opiskelija-asuntojen, joiden rakentamis-, hankinta- tai perusparannuskustannuksiin on myönnetty mainitun lain mukaista avustusta tai aiempaa opiskelija-asuntojen rakentamis-, hankinta- tai perusparannuskustannusten oman pääoman kattamiseksi tarkoitettua avustusta, ja muiden saman omistajan omistamien opiskelija-asuntojen kesken.
