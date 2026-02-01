@@ -7,7 +7,8 @@ Rajoittamaton työnteko-oikeus on ulkomaalaisella, jolle on myönnetty:
 3) tilapäinen oleskelulupa tilapäisen suojelun tai muun humanitaarisen maahanmuuton perusteella;
 4) tilapäinen oleskelulupa 52 a tai 52 d §:n perusteella;
 5) oleskelulupa 54 b tai 75 §:n perusteella;
-6) oleskelulupa maasta poistumisen estymisen vuoksi 51 §:n perusteella.
+6) oleskelulupa maasta poistumisen estymisen vuoksi 51 §:n perusteella;
+7) oleskelulupa ja jonka työnteko-oikeudesta on sovittu Suomen ja toisen valtion välisessä perhe- ja puolisosopimuksessa.
 
 Rajoitettu työnteko-oikeus on ulkomaalaisella, jolle on myönnetty:
 1) työntekijän oleskelulupa, jolloin työnteko-oikeus on sekä yhdellä tai useammalla ammattialalla sen mukaan kuin päätöksessä 72 §:n 3 momentin mukaan määrätään että 72 c §:n nojalla määritellyllä työvoimapula-alalla;

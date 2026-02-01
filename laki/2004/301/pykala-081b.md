@@ -17,3 +17,5 @@ Ulkomaalaisella, joka on hakenut kansainvälistä suojelua tai tehnyt 102 §:ss�
 2) hakemuksen jättämisen jälkeen oleskellut maassa kuusi kuukautta.
 
 Ulkomaalaisella, joka on rekisteröity tilapäisen suojelun hakijaksi, on oikeus tehdä ansiotyötä ja harjoittaa yksityistä elinkeinotoimintaa ilman oleskelulupaa.
+
+Ulkomaalaisella, joka oleskelee maassa laillisesti ja jonka työnteko-oikeudesta on sovittu Suomen ja toisen valtion välisessä perhe- ja puolisosopimuksessa, on oikeus tehdä ansiotyötä ja harjoittaa elinkeinoa ilman oleskelulupaa.
