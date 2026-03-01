@@ -28,7 +28,8 @@ Edellä 7 §:ssä tarkoitettuja vähennyskelpoisia menoja ovat muun ohessa:
 19) yleisradioverosta annetun lain (484/2012) nojalla suoritettava yhteisön yleisradiovero sekä mediamaksua koskevan maakuntalain (landskapslag om medieavgift, Ålands författningssamling 2019:103) nojalla suoritettava yhteisön mediamaksu;
 20) apteekkiverolain (770/2016) nojalla suoritettava apteekkiveron sekä Landskapslagen (1947:6) om apoteksavgift i landskapet Åland nojalla suoritettava apteekkimaksu;
 21) muun kuin laskuperustekorkoisen säästöhenkivakuutuksen ja kapitalisaatiosopimuksen tuottamat tuloverolain 35 §:n 3 momentissa säädetyllä tavalla lasketut tappiot;
-22) tuloverolain 35 b §:ssä tarkoitetun säästöhenkivakuutuksen, kapitalisaatiosopimuksen ja eläkevakuutuksen tuottamat tuloverolain 35 b §:n 5 momentissa säädetyllä tavalla lasketut tappiot.
+22) tuloverolain 35 b §:ssä tarkoitetun säästöhenkivakuutuksen, kapitalisaatiosopimuksen ja eläkevakuutuksen tuottamat tuloverolain 35 b §:n 5 momentissa säädetyllä tavalla lasketut tappiot;
+23) rahapelilain (10/2026) 19 §:n nojalla suoritettava korvaus rahapelien toimeenpanemiseen oikeuttavasta toimiluvasta.
 
 Henkivakuutuksesta suoritetut vakuutusmaksut ovat vähennyskelpoisia vain silloin, kun:
 1) vakuutuksen edunsaajana on vakuutettu työntekijä tai hänen tuloverolain 34 §:n 3 momentin 2 kohdassa tarkoitettu omaisensa, tai
