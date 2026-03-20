@@ -1,0 +1,2 @@
+Laki tietoliikennetiedustelusta siviilitiedustelussa
+Eduskunnan päätöksen mukaisesti säädetään:
