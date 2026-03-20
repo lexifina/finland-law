@@ -1,0 +1,8 @@
+# 87 § Kiireellisessä tilanteessa päätetyn tiedustelumenetelmän käytön lopettaminen ja sillä saadun tiedon hävittäminen
+Luku: 7 luku Tiedustelukiellot, tiedustelutietojen hävittäminen ja tiedustelumenetelmän käytöstä ilmoittaminen
+
+Jos pääesikunnan tiedustelupäällikkö taikka tehtävään määrätty tiedustelumenetelmien käyttöön erityisesti perehtynyt sotilaslakimies tai muu virkamies on 27, 29, 31, 33, 38, 40 tai 55 §:ssä, 59 §:n 4 momentissa, 69 tai 71 §:ssä tarkoitetussa kiireellisessä tilanteessa päättänyt teknisen kuuntelun, teknisen katselun, henkilön teknisen seurannan, teknisen laitetarkkailun, televalvonnan, tukiasematietojen hankkimisen, paikkatiedustelun, lähetyksen jäljentämisen, valtiollisen toimijan tietoliikenteeseen kohdistuvan tiedustelun tai muun kuin valtiollisen toimijan tietoliikenteeseen kohdistuvan tiedustelun aloittamisesta, mutta tuomioistuin katsoo, että edellytyksiä toimenpiteelle ei ole ollut, tiedustelumenetelmän käyttö on lopetettava sekä sillä saatu aineisto ja sillä saatuja tietoja koskevat muistiinpanot on heti hävitettävä.
+
+Jos sotilastiedusteluviranomaisen virkamies on 59 §:n 2 momentin tarkoitetussa kiireellisessä tilanteessa päättänyt jäljentämisestä, mutta tehtävään määrätty tiedustelumenetelmien käyttöön erityisesti perehtynyt sotilaslakimies tai muu virkamies katsoo, että edellytyksiä toimenpiteelle ei ole ollut, tiedustelumenetelmän käyttö on lopetettava sekä sillä saatu aineisto ja sillä saatuja tietoja koskevat muistiinpanot on heti hävitettävä.
+
+Tässä pykälässä tarkoitettuja muita kuin 82 §:n 1 momentissa tarkoitettuja tietoja saadaan kuitenkin käyttää 79 §:n 1 momentissa tarkoitetusta rikoksesta ilmoittamiseksi tai 80 §:n 1 momentissa tarkoitetun rikoksen estämiseksi.

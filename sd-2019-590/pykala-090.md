@@ -1,0 +1,4 @@
+# 90 § Puolustusvoimien virkamiehen osallistuminen sotilastiedusteluun
+Luku: 8 luku Puolustusvoimien virkamiehen ja asevelvollisen osallistuminen sotilastiedusteluun sekä kansainvälinen toiminta
+
+Tiedustelumenetelmien käyttöön riittävän koulutuksen saanut Puolustusvoimien virkamies voi käyttää sotilastiedusteluviranomaisen ohjauksessa ja valvonnassa 4 luvussa tarkoitettuja tiedustelumenetelmiä tiedon hankkimiseksi tiedustelutehtävään. Nämä virkamiehet ovat tiedustelutehtävää suorittavan sotilastiedusteluviranomaisen alaisia.

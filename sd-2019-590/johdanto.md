@@ -1,0 +1,2 @@
+Laki sotilastiedustelusta
+Eduskunnan päätöksen mukaisesti säädetään:
