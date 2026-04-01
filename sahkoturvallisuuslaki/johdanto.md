@@ -1,0 +1,2 @@
+Sähköturvallisuuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
