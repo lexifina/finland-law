@@ -1,0 +1,5 @@
+# 7 §
+
+Huoltovarmuuskeskus voi myöntää turvavarastoijalle avustusta poikkeuksellisen suurten varastoimiskustannusten kattamiseen. Avustuksen suorittaa vuosittain turvavarastoijalle Huoltovarmuuskeskus turvavarastointisopimuksessa määrättävällä tavalla.
+
+Turvavarastoinnin varastointiavustuksesta aiheutuneet menot maksetaan valtion talousarvion ulkopuolisen huoltovarmuusrahaston varoista.

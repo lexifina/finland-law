@@ -1,0 +1,2 @@
+Turvavarastolaki
+Eduskunnan päätöksen mukaisesti säädetään:
