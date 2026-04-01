@@ -1,0 +1,9 @@
+# 9 d §
+
+Verohallinto vahvistaa tammi–kesäkuulta ja heinä–joulukuulta moottoribensiinistä ja sitä korvaavista tuotteista, dieselöljystä ja sitä korvaavista tuotteista, nestekaasusta ja sitä korvaavista tuotteista sekä kevyestä polttoöljystä ja sitä korvaavista tuotteista palautettavan valmisteveron määrän, jota sovelletaan mainittuna aikana kulutukseen luovutettujen polttoaineiden veron palautukseen. Palautuksen määräksi vahvistetaan mainittuna aikana verolliseen kulutukseen luovutetusta polttoaineesta ja sitä korvaavista tuotteista suoritettujen verojen keskiarvo litraa tai kilogrammaa kohti kahden desimaalin tarkkuudella. Kuitenkin polttoaineesta, joka ei ole koostumukseltaan moottoribensiinin, dieselöljyn ja eräiden muiden nestemäisten polttoaineiden laatuvaatimuksista ympäristönsuojelulain (527/2014) nojalla säädetyn mukaista, tai jos kysymyksessä on kevyt polttoöljy, joka sisältää biopolttoöljyä enemmän kuin seitsemän tilavuusprosenttia, hakijan on esitettävä palautuksen saamiseksi luotettava selvitys polttoaineesta suoritetusta verosta ja huoltovarmuusmaksusta.
+
+Jos palautettavan veron määrää ei voida vahvistaa tai selvittää 1 momentin mukaisesti, veronpalautuksen määrä on:
+1) moottoribensiinistä, etanolista, moottoribensiinin ja etanolin seoksesta tai niitä korvaavasta tuotteesta liitteen verotaulukon tuoteryhmän 22 mukainen vero ja huoltovarmuusmaksu;
+2) dieselöljystä, biodieselöljystä, dieselöljyn ja biodieselöljyn seoksesta tai niitä korvaavasta tuotteesta liitteen verotaulukon tuoteryhmän 49 mukainen vero ja huoltovarmuusmaksu;
+3) kevyestä polttoöljystä, biopolttoöljystä, kevyen polttoöljyn ja biopolttoöljyn seoksesta tai niitä korvaavasta tuotteesta liitteen verotaulukon tuoteryhmän 64 mukainen vero ja huoltovarmuusmaksu;
+4) nestekaasusta, bionestekaasusta, nestekaasun ja bionestekaasun seoksesta tai niitä korvaavasta tuotteesta liitteen verotaulukon tuoteryhmän 113 mukainen vero ja huoltovarmuusmaksu.

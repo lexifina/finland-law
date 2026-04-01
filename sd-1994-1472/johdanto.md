@@ -1,0 +1,2 @@
+Laki nestemäisten polttoaineiden valmisteverosta
+Eduskunnan päätöksen mukaisesti säädetään:
