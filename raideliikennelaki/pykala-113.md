@@ -1,0 +1,8 @@
+# 113 § Oikeus rataverkolle pääsyyn ja oikeus sen käyttämiseen
+Luku: 17 luku Rataverkon käyttö ja ratakapasiteetti
+
+Tämän luvun mukaisesti myönnettyä ratakapasiteettia rataverkolla saa harjoittamaansa rautatieliikennettä varten käyttää rautatieyritys, jolla on Liikenne- ja viestintäviraston liikenteen palveluista annetun lain 53 §:n 1 momentin 1 kohdassa tarkoitettu toimilupa tai ETA-valtiossa rautatieliikenteen harjoittamista varten myönnetty toimilupa ja joka muutoinkin täyttää mainitussa pykälässä rautatieliikenteen harjoittamiselle säädetyt edellytykset. Myös muut rautatieliikenteen harjoittajat saavat käyttää tämän luvun mukaisesti myönnettyä ratakapasiteettia liikennöintiin, jos mainitussa pykälässä säädetyt liikennöinnin edellytykset täyttyvät.
+
+Rautatieyrityksille on myönnettävä yhtäläisin, syrjimättömin ja läpinäkyvin edellytyksin rataverkon käyttöoikeus rautateiden henkilöliikenteen harjoittamista varten, sanotun kuitenkaan rajoittamatta rautateiden ja maanteiden julkisista henkilöliikennepalveluista sekä neuvoston asetusten (ETY) N:o 1191/69 ja (ETY) N:o 1107/70 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1370/2007, jäljempänä palvelusopimusasetus, soveltamista. Rautatieyrityksellä, joka täyttää 1 momentissa tarkoitetut edellytykset, on oikeus tarjota rataverkolla henkilöliikennepalveluja sekä oikeus ottaa ja jättää matkustajia rataverkon kaikilla asemilla. Oikeuteen kuuluu myös oikeus käyttää rataverkon yhteydessä olevia palvelupaikkoja ja niillä tarjottavia palveluita.
+
+Suomen ja Venäjän väliseen suoraan kansainväliseen rautatieliikenteeseen sovelletaan sitä koskevaa sopimusta.

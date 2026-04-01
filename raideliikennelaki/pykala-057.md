@@ -1,0 +1,8 @@
+# 57 § Rakentamisaikainen käyttölupa
+Luku: 10 luku Kiinteän rakenteellisen osajärjestelmän käyttöönotto
+
+Jos kiinteää rakenteellista osajärjestelmää aiotaan käyttää rautatiejärjestelmässä ennen 52 §:ssä säädetyn käyttöönottoluvan myöntämistä, sille on haettava rakentamisaikaista käyttölupaa Liikenne- ja viestintävirastolta. Virasto voi myöntää luvan, kun kysymys on vaiheittain valmistuvasta uudistamis- tai parantamishankkeesta ja osajärjestelmän käyttö on tarpeen riittävien liikenneyhteyksien turvaamiseksi, eikä rautatiejärjestelmän turvallisuutta vaaranneta. Rakentamisaikaisen käyttöluvan edellytysten arvioimiseksi hakijan on toimitettava virastolle kuvaus liikennetarpeesta, suunnitelluista töistä sekä toimenpiteistä, joilla varmistetaan turvallisuus rautatiejärjestelmässä.
+
+Rakentamisaikainen käyttölupa voidaan myöntää kerrallaan enintään kolmeksi vuodeksi. Liikenne- ja viestintävirasto voi sisällyttää lupaan ehtoja tai rajoituksia, joilla varmistetaan turvallisuus rautatiejärjestelmässä. Jos turvallisuuteen tai muihin luvan edellytyksiin vaikuttavissa seikoissa tapahtuu luvan voimassaolon aikana muutoksia, asiasta on ilmoitettava Liikenne- ja viestintävirastolle sen arvioimiseksi, ovatko luvan myöntämisen edellytykset muuttuneet ja onko lupaa haettava uudelleen. Virasto voi tällöin vaatia uuden luvan hakemista asettamassaan kohtuullisessa määräajassa, joka ei saa olla kahta viikkoa lyhyempi.
+
+Mitä 56 §:ssä säädetään kiinteän rakenteellisen osajärjestelmän käyttöönottoluvan peruuttamisesta, koskee myös rakentamisaikaista käyttölupaa. Rakentamisaikaista käyttölupaa ei voida myöntää kalustoyksikölle tai liikkuvalle osajärjestelmälle.

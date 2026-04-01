@@ -1,0 +1,6 @@
+# 122 § Ratakapasiteetin jakaminen
+Luku: 17 luku Rataverkon käyttö ja ratakapasiteetti
+
+Rataverkon haltijan on päätettävä aikatauluehdotuksen ja 121 §:n 4 momentin mukaisen kuulemisen perusteella ratakapasiteetin jakamisesta tasapuolisin ja syrjimättömin perustein yhtä aikataulukautta varten. Rataverkon haltijan on tällöin otettava erityisesti huomioon henkilö- ja tavaraliikenteen sekä radan kunnossapidon tarpeet samoin kuin rataverkon tehokas käyttö. Tehdessään ratakapasiteetin jakamista koskevaa päätöstä 118 tai 120 §:n nojalla rataverkon haltijan on otettava huomioon erikoistuneelle ja ylikuormittuneelle rautatiereitille tai sen osalle asetetut etusijajärjestykset, jollei tämän luvun säännöksistä muuta johdu. Päätös säännöllisen liikenteen ratakapasiteetin muuttamisesta tai uudelleenjakamisesta aikataulukauden aikana on tehtävä 121 §:n 1 momentin mukaisin perustein noudattaen, mitä 117 §:n 4 momentin nojalla annetussa valtioneuvoston asetuksessa säädetään.
+
+Rataverkon haltijan on ilmoitettava kaikille ratakapasiteetin hakijoille, miten se on jakanut ratakapasiteetin hakijoiden kesken. Jos rataverkon haltija on jättänyt osan ratakapasiteetista varakapasiteetiksi myöhemmin jaettavaksi, myös tästä on ilmoitettava kaikille hakijoille.

@@ -1,0 +1,14 @@
+# 20 § Hakemuksen käsittely
+Luku: 3 luku Turvallisuustodistus
+
+Jos turvallisuustodistusta on haettu Liikenne- ja viestintävirastolta, virasto tutkii vaatimusten täyttymisen. Liikenne- ja viestintäviraston on arvioitava, vastaako hakijan toiminta turvallisuusjohtamisjärjestelmää, yhteentoimivuuden teknisiä eritelmiä, yhteisiä turvallisuusmenetelmiä, yhteisiä turvallisuustavoitteita ja kansallisia oikeussääntöjä koskevia vaatimuksia sekä muussa asiaa koskevassa lainsäädännössä säädettyjä vaatimuksia. Jos todistusta on haettu EU-virastolta, Liikenne- ja viestintävirasto tutkii kansallisia oikeussääntöjä koskevien vaatimusten täyttymisen.
+
+Liikenne- ja viestintävirastolla ja EU-virastolla on hakemusta käsitellessään oikeus tehdä tarkastuksia ja auditointeja 16 §:ssä säädetyllä tavalla. Jos turvallisuustodistusta Suomen rataverkolle on haettu EU-virastolta, EU-viraston on sovittava tarkastuksista ja auditoinneista Liikenne- ja viestintäviraston kanssa.
+
+Liikenne- ja viestintäviraston on ilmoitettava hakijalle kuukauden kuluessa hakemuksen vastaanottamisesta hakemusasiakirjojen riittävyydestä tai pyydettävä hakijaa täydentämään hakemustaan kohtuullisen määräajan kuluessa.
+
+Ennen turvallisuustodistuksen myöntämistä viraston on tarkastettava, että muilla rautatieliikenteen harjoittajilla kuin rautatieyrityksillä on 182 §:ssä tarkoitettu vastuuvakuutus tai muu sitä vastaava järjestely. Lisäksi viraston on tarkastettava, että hakijan kalustoyksiköllä voidaan liikennöidä käyttötoimintaa ja liikenteen hallintaa koskevan yhteentoimivuuden teknisen eritelmän edellyttämällä tavalla turvallisesti.
+
+Jos turvallisuustodistusta on haettu EU-virastolta ja Liikenne- ja viestintävirasto katsoo hakemuksen kansallisia oikeussääntöjä koskevan osan arvioituaan, ettei hakijalle tule myöntää turvallisuustodistusta, ja EU-virasto on arviosta eri mieltä, virastojen on tarvittaessa yhteistyössä hakijan kanssa saatava aikaan virastojen hyväksyttävissä oleva arvio. Jos virastot eivät kuukauden kuluessa siitä, kun EU-virasto on ilmoittanut erimielisyytensä Liikenne- ja viestintäviraston kielteiseen arvioon, saa aikaan virastoille hyväksyttävissä olevaa arviota, EU-viraston on ratkaistava asia, ellei Liikenne- ja viestintävirasto ole vienyt asiaa EU-virastoasetuksen 55 artiklan mukaiseen sovintomenettelyyn EU-viraston yhteydessä toimivaan valituslautakuntaan.
+
+Jos Liikenne- ja viestintävirasto on katsonut, että hakijalle tulee myöntää turvallisuustodistus, mutta EU-virasto on arviosta eri mieltä, virastojen on tarvittaessa yhteistyössä hakijan kanssa saatava aikaan virastojen hyväksyttävissä oleva arvio. Jos virastojen hyväksyttävissä olevaa arviota ei saada aikaan kuukauden kuluessa siitä, kun EU-virasto on ilmoittanut erimielisyytensä Liikenne- ja viestintäviraston myönteiseen arvioon, EU-virasto ratkaisee asian.

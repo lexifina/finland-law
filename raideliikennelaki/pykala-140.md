@@ -1,0 +1,18 @@
+# 140 § Ratamaksun perusmaksun alennukset ja korotukset
+Luku: 19 luku Rataverkon käytön hinnoittelu
+
+Rataverkon haltija voi kannustaa rautatieliikenteen harjoittajia rautatieliikenteen melun vähentämiseen myöntämällä alennuksia vähän melua aiheuttavalle junakalustolle ja melua rajoittavan jarruteknologian jälkiasennusta varten. Rataverkon haltija voi myös kannustaa eurooppalaisen junien automaattisen kulunvalvonnan standardin mukaisen järjestelmän käyttöön ottamista ratamaksusta myönnettävällä alennuksella. Rataverkon haltija voi myös tehdä ratamaksun perusmaksuun korotuksia tässä momentissa tarkoitettujen tavoitteiden saavuttamiseksi.
+
+Rataverkon haltija voi ottaa käyttöön määräaikaisia ratamaksun alennuksia uuden rautatieliikenteen kehittämisen kannustamiseksi tai alennuksia, joilla kannustetaan käyttämään vähäliikenteisiä ratoja. Samanlaisiin palvelutyyppeihin on sovellettava yhdenmukaisia alennusjärjestelmiä. Alennukset on myönnettävä tasapuolisesti ja syrjimättömästi kaikille rautatieliikenteen harjoittajille ja ne saavat koskea vain niitä maksuja, jotka peritään kyseiseltä rataverkon osalta.
+
+Jos rataverkon osa on kokonaisuudessaan tai tiettyinä aikoina ylikuormitettu, rataverkon haltija saa periä kyseisellä rataverkon osalla korotettua ratamaksua. Korotetulla ratamaksulla rataverkon haltijan on katettava ylikuormituksen poistamisesta aiheutuvat kustannukset.
+
+Edellä 1–3 momentissa tarkoitetut perusmaksun alennukset tai korotukset ovat korkeintaan 80 prosenttia perusmaksun tasosta. Jos 1 ja 3 momentissa tarkoitettujen tavoitteiden saavuttaminen kuitenkin edellyttää tätä suurempaa ratamaksun korotusta, rataverkon haltijan on perusteltava esittämänsä ratamaksun korotus kirjallisesti. Perustelusta on käytävä ilmi, miksi rataverkon haltija käyttää ratamaksun perusmaksun korotuksia alennusten sijasta 1 momentissa tarkoitettujen tavoitteiden saavuttamiseksi. Perusteluista on myös käytävä ilmi ne toimenpiteet, joihin rataverkon haltija ryhtyy 3 momentissa tarkoitetun ylikuormituksen poistamiseksi, ja ajanjakso, jolta korotettua maksua peritään.
+
+Rataverkon haltija saa periä korotettua ratamaksun perusmaksua myös rataverkon uudistamisesta tai parantamisesta aiheutuneiden investointikustannusten kattamiseksi. Rataverkon haltija voi periä korotettua ratamaksun perusmaksua investointihankkeen pitkän aikavälin kustannusten kattamiseksi, jos seuraavat edellytykset täyttyvät:
+1) korotuksen on oltava välttämätön investointihankkeen toteuttamiseksi;
+2) investointihankkeen on lisättävä tehokkuutta tai kustannusvaikuttavuutta.
+
+Edellä 5 momentissa tarkoitettu investointikustannusten kattamiseksi perittävä korotettu ratamaksun perusmaksu saa olla korkeintaan viisinkertainen voimassa olevaan ratamaksun perusmaksuun nähden. Rataverkon haltijan on perusteltava investointikustannusten kattamiseksi perittävä ratamaksun perusmaksun korotus kirjallisesti. Jos investointikustannusten kattaminen välttämättä edellyttää yli viisinkertaista korotusta voimassa olevaan ratamaksun perusmaksuun nähden, kirjallisista perusteluista on käytävä ilmi erityisesti se, millä perusteilla korkeampi ratamaksun korotus on välttämätön investointihankkeen toteuttamiseksi ja mitä vaikutuksia korotuksella on kyseistä rataverkon osaa käyttäviin rautatieliikenteen harjoittajiin ja näiden asiakkaisiin.
+
+Rataverkon haltijan on ennen tässä pykälässä tarkoitettujen alennusten ja korotusten käyttöön ottamista kuultava niitä rautatieliikenteen harjoittajia, jotka liikennöivät alennuksen tai korotuksen piiriin kuuluvalla rataverkolla ja kyseisellä rataverkolla liikennöimään pyrkiviä ratakapasiteetin hakijoita sekä sääntelyelintä ja liikenne- ja viestintäministeriötä.

@@ -1,0 +1,8 @@
+# 130 § Suorituskannustinjärjestelmä
+Luku: 17 luku Rataverkon käyttö ja ratakapasiteetti
+
+Rataverkon tehokkaan käytön ja rautatieliikenteen täsmällisyyden edistämiseksi sekä rautatieliikenteestä ja radanpidosta aiheutuvien rataverkon käytettävyyshäiriöiden vähentämiseksi rataverkon haltijoita ja rautatieyrityksiä kannustetaan rajoittamaan niiden toiminnasta aiheutuvia häiriöitä ja parantamaan rataverkon käytön tehokkuutta tässä pykälässä tarkoitetulla suorituskannustinjärjestelmällä. Järjestelmän on oltava tasapuolinen, syrjimätön ja suhteellisuusperiaatteen mukainen. Rataverkon haltijoiden ja rautatieyritysten on noudatettava suorituskannustinjärjestelmässä rautatiemarkkinadirektiivin liitteessä VI olevan 2 kohdan perusperiaatteita.
+
+Rautatieyrityksen on maksettava rataverkon haltijalle suorituskannustinjärjestelmässä määritelty korvaus, jos rautatieyrityksen harjoittama liikenne poikkeaa rautatieyrityksestä johtuvasta syystä oleellisesti sille myönnetystä ratakapasiteetista. Rataverkon haltijan on maksettava rautatieyritykselle suorituskannustinjärjestelmässä määritelty korvaus, jos rataverkon käytettävyys poikkeaa rataverkon haltijasta johtuvien liikenteen häiriöiden vuoksi oleellisesti rautatieyritykselle myönnetystä ratakapasiteetista ja siitä aiheutuu haittaa rautatiejärjestelmän toimivuudelle.
+
+Jos rataverkon haltija ja rautatieyritys ovat eri mieltä suorituskannustinjärjestelmään liittyvässä asiassa, niiden on pyydettävä sääntelyelimen ratkaisua asiaan. Sääntelyelimen on tehtävä päätös kymmenen työpäivän kuluessa siitä, kun rataverkon haltija tai rautatieyritys on toimittanut kaikki asiaa koskevat asiakirjat sääntelyelimelle.

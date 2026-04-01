@@ -1,0 +1,10 @@
+# 101 § Riippumattomasta turvallisuusarvioinnista vastaava laitos
+Luku: 15 luku Arviointilaitokset
+
+Riippumattomasta turvallisuusarvioinnista vastaavan laitoksen on järjestettävä rautatiejärjestelmän ja sen osajärjestelmien riippumaton turvallisuusarviointi siten kuin siitä säädetään kulloinkin voimassa olevassa riskien arviointia koskevassa turvallisuusmenetelmästä annetussa Euroopan unionin säädöksessä. Riippumatonta turvallisuusarviointia käytetään myös teknisiä standardeja sovellettaessa, jos standardissa edellytetään riippumattoman arvioinnin käyttämistä osana järjestelmän turvallisuustason arviointia.
+
+Riippumattomasta turvallisuusarvioinnista vastaavan laitoksen on osoitettava täyttävänsä arviointilaitoksilta edellytettävät vaatimukset FINAS-akkreditointipalvelun myöntämällä akkreditointitodistuksella.
+
+Riippumattomasta turvallisuusarvioinnista vastaavana laitoksena saa Suomessa toimia myös kyseiseen tehtävään muussa ETA-valtiossa akkreditoitu tai tunnustettu laitos.
+
+Tarkemmat säännökset riippumattomasta turvallisuusarvioinnista vastaavalle laitokselle asetettavista vaatimuksista ja sen tehtävistä sekä laitoksen tarkastusmenettelystä ja tarkastuslausunnoista voidaan antaa valtioneuvoston asetuksella.

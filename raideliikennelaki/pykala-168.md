@@ -1,0 +1,12 @@
+# 168 § Rautatieliikenteen viestintä ja tallenteet
+Luku: 22 luku Onnettomuustutkinta ja varautuminen
+
+Rataverkon haltijan tarjoamia rautatieliikenteen viestintäpalveluita saa käyttää ainoastaan liikenneturvallisuuteen liittyvässä viestinnässä. Väyläviraston on huolehdittava siitä, että rautatieliikenteen viestiliikenne, turvalaitteiden tuottamat tiedot sekä muut vaaratilanteiden ja onnettomuuksien tutkinnassa tarpeelliset tiedot tallennetaan ja säilytetään tavalla, joka turvaa ne oikeudettomalta puuttumiselta. Tiedot tulee hävittää sen jälkeen, kun tietoja ei enää tarvita tietojen käyttötarkoituksen toteuttamiseksi.
+
+Jollei muusta lainsäädännöstä muuta johdu, Liikenne- ja viestintävirasto ja Väylävirasto saavat käyttää tässä pykälässä tarkoitettuja rautatieliikenteen tallenteita ja niitä koskevia tunnistamistietoja:
+1) Liikenne- ja viestintävirasto rautatieonnettomuuksien ja vaaratilanteiden tutkintaan sekä viranomaisvalvontaan liittyvien tehtäviensä suorittamiseksi; ja
+2) Väylävirasto viraston turvallisuusjohtamisjärjestelmään liittyvän valvontansa suorittamiseksi, liikenneturvallisuuden valvontaan ja kehittämiseen sekä toiminnassaan tapahtuneiden vaaratilanteiden ja onnettomuuksien tutkintaan vastaavien tapahtuminen ennaltaehkäisemiseksi.
+
+Jollei muusta lainsäädännöstä muuta johdu, rautatieliikenteen harjoittajalla, yksityisraiteen haltijalla ja liikenteenohjauspalveluja tarjoavalla yhtiöllä on oikeus saada rautatieliikenteen puheviestinnän tallenteita ja niitä koskevia tunnistamistietoja toiminnanharjoittajan toiminnassa tapahtuneiden vaaratilanteiden ja onnettomuuksien tutkintaa varten vastaavien tapahtumien ennaltaehkäisemiseksi sekä rautatieliikenteen turvallisuuteen liittyvän puheviestinnän kehittämiseksi. Tässä momentissa tarkoitettu tiedonsaantioikeus koskee vain sellaisia rautatieliikenteen puheviestinnän tallenteita, joissa toiminnanharjoittaja itse tai sen henkilöstö on osapuolena.
+
+Jos Onnettomuustutkintakeskus päättää käynnistää tapahtumaa koskevan turvallisuustutkinnan, 2 ja 3 momentissa tarkoitettuja tallenteita ja niitä koskevia tunnistamistietoja voidaan kuitenkin 2 momentissa säädetyn mukaisesti käyttää ja 3 momentin perusteella luovuttaa vasta sen jälkeen, kun Onnettomuustutkintakeskus on saanut tutkintaa varten tarvittavat tallenteet ja tunnistamistiedot, eikä niiden luovuttamisesta ja käytöstä ole Onnettomuustutkintakeskuksen arvion mukaan haittaa tutkinnalle.

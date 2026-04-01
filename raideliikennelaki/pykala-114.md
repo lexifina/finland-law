@@ -1,0 +1,18 @@
+# 114 § Rataverkon käyttöoikeuden rajoittaminen
+Luku: 17 luku Rataverkon käyttö ja ratakapasiteetti
+
+Toimivaltainen viranomainen voi rajoittaa oikeutta käyttää valtion rataverkkoa 113 §:n 2 momentissa tarkoitettuun henkilöliikenteeseen sekä rautatieyrityksen oikeutta ottaa ja jättää matkustajia lähtöpaikan ja määränpään välisellä rataosuudella. Oikeutta voidaan rajoittaa, jos valtion rataverkon käyttämisestä sekä oikeudesta ottaa ja jättää matkustajia taikka rinnakkaisesta reitistä on tehty yksi tai useampi julkisia palveluhankintoja koskeva sopimus ja jos kyseisen oikeuden käyttö vaarantaisi asianomaisten julkisia palveluhankintoja koskevien sopimusten taloudellisen tasapainon.
+
+Jos ratakapasiteetin hakija suunnittelee hakevansa ratakapasiteettia sellaisella rataverkon osalla, jolla toimivaltainen viranomainen on tehnyt julkisia palveluhankintoja koskevan sopimuksen palvelusopimusasetuksen nojalla, ratakapasiteetin hakijan on ilmoitettava tästä toimivaltaiselle viranomaiselle, valtion rataverkon haltijalle ja sääntelyelimelle vähintään 18 kuukautta ennen suunniteltua liikenteen aloittamista. Jotta sääntelyelin voi arvioida mahdolliset taloudelliset vaikutukset voimassa oleviin julkisia palveluhankintoja koskeviin sopimuksiin, sääntelyelimen on varmistettava, että julkisista palveluhankinnoista sopimuksia tehneet tai niitä suunnittelevat toimivaltaiset viranomaiset sekä sopimuksista vastaavat rautatieyritykset saavat tästä tiedon viipymättä ja viimeistään 10 päivän kuluttua.
+
+Toimivaltainen viranomainen saa rajoittaa 1 momentissa tarkoitetulla tavalla oikeutta käyttää valtion rataverkkoa sekä oikeutta ottaa ja jättää matkustajia rataverkon asemilla ainoastaan, jos sääntelyelin katsoo, että oikeuden käyttäminen vaarantaa julkisia palveluhankintoja koskevan sopimuksen taloudellisen tasapainon. Sääntelyelin ottaa julkisia palveluhankintoja koskevan sopimuksen taloudellisen tasapainon arvioinnin käsiteltäväkseen, jos sitä pyytää:
+1) julkisia palveluhankintoja koskevan sopimuksen tehnyt toimivaltainen viranomainen tai jokin muu toimivaltainen viranomainen;
+2) julkisia palveluhankintoja koskevan sopimuksen tehnyt rautatieyritys;
+3) käyttöoikeutta hakeva rautatieyritys;
+4) valtion rataverkon haltija.
+
+Edellä 3 momentissa tarkoitettu pyyntö on jätettävä sääntelyelimelle kuukauden kuluessa 2 momentissa tarkoitetun ilmoituksen tekemisestä. Edellä 3 momentin 1–4 kohdassa mainittujen toimijoiden on toimitettava sääntelyelimelle päätöksen tekemistä varten kaikki tarvittavat tiedot.
+
+Sääntelyelimen on kuultava osapuolia yhden kuukauden kuluessa 3 momentissa tarkoitetun pyynnön vastaanottamisesta. Sääntelyelimen on tehtävä saamiensa tietojen perusteella puolueeton taloudellinen analyysi ja annettava sen perusteella päätöksensä kuuden viikon kuluessa siitä, kun se on saanut kaikki tarvittavat tiedot. Sääntelyelimen on perusteltava päätöksensä ja vahvistettava edellytykset, joiden mukaisesti asianosainen tai muu toimivaltainen viranomainen, julkisia palveluhankintoja koskevan sopimuksen tehnyt rautatieyritys, käyttöoikeutta hakeva rautatieyritys tai valtion rataverkon haltija voivat pyytää päätöksen uudelleen tarkastelua kuukauden kuluessa sitä koskevan ilmoituksen saamisesta.
+
+Jos sääntelyelin katsoo tekemänsä taloudellisen analyysin perusteella, että toimivaltaisen viranomaisen ja rautatieyrityksen välillä julkisista palveluhankinnoista tehdyn sopimuksen taloudellinen tasapaino vaarantuu, sääntelyelimen on esitettävä 2 momentissa tarkoitettuun suunniteltuun liikenteeseen mahdollisia muutoksia, joilla varmistetaan, että 113 §:ssä tarkoitetut edellytykset käyttöoikeuden myöntämiselle täyttyvät.

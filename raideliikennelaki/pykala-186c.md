@@ -1,0 +1,12 @@
+# 186 c § Testi- ja pilottihankkeita koskevat vaatimukset
+Luku: 24 luku Erinäiset säännökset
+
+Rataverkon haltijan, rautatieliikenteen harjoittajan, kaupunkiraideliikenteen rataverkon haltijan ja kaupunkiraideliikenteen harjoittajan on ilmoitettava Liikenne- ja viestintävirastolle, jos niiden tarkoituksena on käynnistää rataverkolla tai sen osalla ilman kuljettajaa tapahtuvan autonomisen junaliikenteen tai rataverkon ja kaupunkiraideliikenteen rataverkon yhdistävää liikennettä koskeva testi- tai pilottihanke. Rataverkon haltijan tai rautatieliikenteen harjoittajan on myös ilmoitettava Liikenne- ja viestintävirastolle, jos rataverkolla käytetään liikkuvaa laboratoriota tai muuta kalustoa radan testaukseen liittyvään työhön ja sen edellyttämään liikkumiseen. Ilmoitus on tehtävä viimeistään kolme kuukautta ennen hankkeen aloittamista.
+
+Liikenne- ja viestintävirastolle on 1 momentin mukaisen ilmoituksen yhteydessä toimitettava testi- tai pilottihanketta tai radan testausta koskeva suunnitelma. Suunnitelman on sisällettävä tiedot hankkeesta ja sen vastuutahoista, hankkeen toteutusaikataulusta sekä toimenpiteistä, joilla varmistetaan, että hanke ei vaaranna rautatiejärjestelmän turvallisuutta. Jos ilmoituksen tekijä on muu kuin rataverkon haltija, ilmoitukseen on sisällytettävä myös lausunto siltä rataverkon haltijalta, jonka rataverkolla testi- tai pilottihanke on tarkoitus käynnistää.
+
+Jos ilmoitus on puutteellinen, Liikenne- ja viestintäviraston on viipymättä varattava ilmoittajalle tilaisuus täydentää ilmoitustaan kohtuullisessa määräajassa, joka ei saa olla kahta viikkoa lyhyempi.
+
+Jos hanketta on tarvetta jatkaa alkuperäisessä suunnitelmassa esitettyä pidempään, hakijan on tehtävä uusi ilmoitus Liikenne- ja viestintävirastolle tai jatkettava toimintaa normaalina rautatieliikenteen harjoittamisena, jolloin liikennöinnin on täytettävä kaikki tämän lain mukaiset liikennöinniltä edellytetyt vaatimukset. Uuden ilmoituksen yhteydessä on myös täydennettävä ilmoitukseen liitettävää suunnitelmaa ainakin siltä osin kuin se koskee hankkeen aikataulua.
+
+Kun Liikenne- ja viestintävirastolle on ilmoitettu 1 momentissa tarkoitetusta testi- tai pilottihankkeesta tai liikkuvan laboratorion tai muun liikkuvan kaluston käyttämisestä radan testaukseen liittyvään työhön ja sen edellyttämään liikennöintiin, tällainen liikkuminen suljetulla rataverkolla voidaan järjestää 18 §:n 2 momentissa tarkoitetulla tavalla.
