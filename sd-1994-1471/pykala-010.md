@@ -1,0 +1,3 @@
+# 10 §
+
+Toisessa Euroopan unionin jäsenvaltiossa toimitettavaa verotusta varten voi alkoholin ja alkoholijuomien valmisteverojen rakenteiden yhdenmukaistamisesta annetun neuvoston direktiivin 92/83/ETY 4, 9 a, 13 a ja 18 a artiklassa ja 22 artiklan 1–3 kohdassa tarkoitettu pienvalmistaja itse antaa todistuksen vuosituotantonsa määrästä ja siitä, että sen toiminta on mainituissa artikloissa ja artiklan kohdissa säädettyjen vaatimusten mukaista. Todistus annetaan täyttämällä valmisteverotuslain 58 tai 78 §:ssä tarkoitetun hallinnollisen asiakirjan asianomaiset kohdat. Jos tuotteiden lähettäjä on muu kuin valmistaja, lähettäjä täyttää asiakirjan asianomaiset kohdat valmistajan antaman vastaavat tiedot sisältävän asiakirjan perusteella.
