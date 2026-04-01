@@ -1,0 +1,2 @@
+Laki huoltovarmuuden turvaamisesta ja Huoltovarmuuskeskuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
