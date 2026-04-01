@@ -1,0 +1,8 @@
+# 8 § Valvontatehtävän siirtäminen toiselle valvontaviranomaiselle
+Luku: 1 luku Yleiset säännökset
+
+Poiketen siitä, mitä 7 §:ssä säädetään, Finanssivalvonta voi tehdä yhden tai useamman muun Euroopan talousalueeseen kuuluvan valtion valvontaviranomaisen kanssa sopimuksen siitä, että koordinoivana valvontaviranomaisena toimii toinen Euroopan talousalueeseen kuuluvan valtion valvontaviranomainen taikka että tällainen muu valvontaviranomainen ottaa osittain hoitaakseen, mitä tässä laissa on säädetty Finanssivalvonnan tehtäväksi. Sopimus, jonka mukaan ulkomaan valvontaviranomainen toimii koordinoivana valvontaviranomaisena, voidaan tehdä, jos ryhmittymän johdossa oleva yritys ei ole suomalainen säännelty yritys ja voidaan varmistua siitä, että ulkomaan viranomaisella on riittävä toimivalta valvoa koko konsolidointiryhmää tätä lakia vastaavalla tavalla.
+
+Finanssivalvonta voi 6 §:n 2 momentissa säädetyin edellytyksin tehdä yhden tai useamman Euroopan talousalueeseen kuuluvan valtion valvontaviranomaisen kanssa sopimuksen siitä, että Finanssivalvonta toimii koordinoivana valvontaviranomaisena 6 §:n 2 momentissa tarkoitetussa ryhmittymässä.
+
+Edellä 1 ja 2 momentissa tarkoitettu sopimus voidaan tehdä, jos siihen on ryhmittymän valvonnan tehokkaan järjestämisen edellyttämä painava syy. Sopimuksesta on laadittava kirjallinen valvontapöytäkirja, joka on kaikkien keskeisten valvontaviranomaisten allekirjoitettava ja annettava tiedoksi ryhmittymän johdossa olevalle yritykselle. Ryhmittymän johdossa olevalle yritykselle on varattava mahdollisuus tulla kuulluksi sopimuksesta ennen valvontapöytäkirjan allekirjoittamista.

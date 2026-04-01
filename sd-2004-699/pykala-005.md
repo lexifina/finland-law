@@ -1,0 +1,15 @@
+# 5 § Kynnysarvojen soveltamista koskevat poikkeukset
+Luku: 1 luku Yleiset säännökset
+
+Jos rahoitus- ja vakuutusalan yritysten yhteenlaskettu osuus ryhmittymässä laskee alle 4 §:n 1 momentissa säädetyn kynnysarvon, ryhmittymään sovelletaan mainitusta momentista poiketen 35 prosentin kynnysarvoa kolmen seuraavan vuoden ajan. Jos rahoitusalan yritysten tai vakuutusalan yritysten osuus ryhmittymässä laskee alle 4 §:n 2 momentin 1 tai 3 kohdassa säädetyn kynnysarvon, ryhmittymään sovelletaan mainitusta momentista poiketen seuraavan kolmen vuoden ajan 8 prosentin kynnysarvoa. Jos rahoitus- tai vakuutusalan yritysten taseiden loppusummien yhteenlaskettu määrä ryhmittymässä laskee alle 4 §:n 2 momentin 2 kohdassa säädetyn kynnysarvon, ryhmittymään sovelletaan mainitusta momentista poiketen seuraavan kolmen vuoden ajan 5 miljardin euron kynnysarvoa. Finanssivalvonta voi ryhmittymän muiden keskeisten valvontaviranomaisen annettua siihen suostumuksensa päättää, että ryhmittymään lakataan soveltamasta tämän momentin säännöksiä ennen edellä tarkoitetun kolmen vuoden määräajan päättymistä.
+
+Finanssivalvonta voi päättää, että:
+1) tätä lakia ei sovelleta ryhmittymään tai että sitä sovelletaan vain osittain, jos pienemmän toimialan osuus ryhmittymässä ylittää 4 §:n 2 momentin 2 kohdassa tarkoitetun kynnysarvon, mutta alittaa mainitun momentin 1 ja 3 kohdassa tarkoitetun kynnysarvon;
+2) tätä lakia ei sovelleta ryhmittymään tai että sitä sovelletaan vain osittain, jos pienemmän toimialan osuus ryhmittymässä ylittää 4 §:n 2 momentin 1 ja 3 kohdassa tarkoitetun kynnysarvon, mutta alittaa mainitun momentin 2 kohdassa tarkoitetun kynnysarvon;
+3) tätä lakia ei sovelleta ryhmittymään, jos 4 §:n 2 momentissa säädetyistä edellytyksistä täyttyy ainoastaan mainitun momentin 3 tai 4 kohdassa mainittu edellytys tai jos 4 §:n 1 tai 2 momentissa säädettyjen edellytysten täyttyminen johtuu ainoastaan taseen ulkopuolisten sitoumusten huomioon ottamisesta 4 §:n 4 momentin mukaisesti;
+4) tätä lakia ei sovelleta ryhmittymään, ennen kuin se on täyttänyt 4 §:n 1 ja 2 momentin mukaiset kynnysarvot yhtäjaksoisesti vähintään kolmen vuoden ajan;
+5) osakkuusyritys, jonka merkitys ryhmittymässä on valvonnan tavoitteiden kannalta vähäinen, voidaan jättää huomiotta laskettaessa 4 §:ssä ja tässä pykälässä tarkoitettuja kynnysarvoja.
+
+Edellä 1 momentissa ja 2 momentin 1, 2 ja 4 kohdassa tarkoitettu päätös voidaan tehdä vain muiden keskeisten valvontaviranomaisten suostumuksella ja vain jos lain soveltamisella olisi ainoastaan vähäinen merkitys lain tavoitteiden kannalta tai jos lain soveltaminen ei ole lain tavoitteiden kannalta tarkoituksenmukaista tai se on harhaanjohtavaa. Edellä 2 momentin 3 kohdassa tarkoitettu päätös voidaan tehdä, jos lain soveltamiselle ei ole ryhmittymän merkittävästä asemasta markkinoilla, ryhmittymän taseen ulkopuolisten sitoumusten suuresta määrästä tai muusta näihin rinnastettavasta seikasta johtuvaa erityistä syytä.
+
+Finanssivalvonnan on ryhmittymästä laaditun riskiarvion perusteella vuosittain arvioitava, onko tämän pykälän nojalla myönnetyn poikkeuksen jatkamiselle riittävät perusteet.
