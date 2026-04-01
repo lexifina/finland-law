@@ -1,0 +1,2 @@
+Laki tuontipolttoaineiden velvoitevarastoinnista
+Eduskunnan päätöksen mukaisesti säädetään:
