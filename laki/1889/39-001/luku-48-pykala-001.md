@@ -21,7 +21,7 @@ n) elohopeasta ja asetuksen (EY) N:o 1102/2008 kumoamisesta annettua Euroopan pa
 3) laiminlyö jätelain mukaisen jätehuollon järjestämisvelvollisuutensa,
 4) tuo maahan, vie maasta tai siirtää Suomen alueen kautta jätettä vastoin
 a) jätelakia, sen nojalla annettua säännöstä tai yksittäistapausta koskevaa määräystä,
-b) jätteiden siirrosta annettua Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1013/2006 taikka
+b) jätteiden siirroista sekä asetusten (EU) N:o 1257/2013 ja (EU) 2020/1056 muuttamisesta ja asetuksen (EY) N:o 1013/2006 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2024/1157 tai asetuksen nojalla annettua säännöstä taikka
 c) elohopeasta ja asetuksen (EY) N:o 1102/2008 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2017/852,
 5) tuo maahan tai vie maasta ainetta, valmistetta tai tuotetta vastoin
 a) ympäristönsuojelulain nojalla annettua asetusta,
