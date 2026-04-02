@@ -1,0 +1,2 @@
+Laki työsuojelun yhteistoimintahenkilöiden rekisteröinnistä
+Eduskunnan päätöksen mukaisesti säädetään:
