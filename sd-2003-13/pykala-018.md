@@ -1,8 +1,13 @@
 # 18 § Todisteellinen sähköinen tiedoksianto
 Luku: 4 luku Päätösasiakirjan sähköinen allekirjoittami- nen ja sähköinen tiedoksianto
 
-Asiakirja, joka lain mukaan toimitetaan postitse saantitodistusta vastaan tai muuten todisteellisesti, voidaan asianosaisen suostumuksella antaa tiedoksi myös sähköisenä viestinä, ei kuitenkaan telekopiona tai vastaavalla tavalla. Viranomaisen on tällöin ilmoitettava, että asiakirja on asianosaisen tai tämän edustajan noudettavissa viranomaisen osoittamalta palvelimelta, tietokannasta tai muusta tiedostosta.
+Viranomainen voi antaa asiakirjan, joka lain mukaan toimitetaan postitse saantitodistusta vastaan tai muuten todisteellisesti, tiedoksi sähköisenä viestinä.
 
-Asianosaisen tai tämän edustajan on tunnistauduttava asiakirjaa noutaessaan. Tunnistautumisessa on tällöin käytettävä tunnistautumistekniikkaa, joka on tietoturvallinen ja todisteellinen.
+Viranomainen lähettää asiakirjan:
+1) viestinvälityspalveluun;
+2) asiointipalveluun; tai
+3) muuhun kuin 1 tai 2 kohdassa tarkoitettuun sähköiseen osoitteeseen, jonka tiedoksiannon vastaanottaja on ilmoittanut yhteystiedokseen.
 
-Asiakirja katsotaan annetun tiedoksi, kun asiakirja on noudettu viranomaisen 1 momentin mukaisesti osoittamalta yhteydeltä. Jos asiakirjaa ei ole noudettu seitsemän päivän kuluessa viranomaisen ilmoituksesta, tiedoksiannossa noudatetaan, mitä siitä muualla laissa säädetään.
+Tiedoksiannon vastaanottaja on tunnistettava käyttäen tietoturvallista ja todisteellista tekniikkaa.
+
+Asiakirja katsotaan annetun tiedoksi, kun asiakirja on vahvistettu vastaanotetuksi. Jos asiakirjaa ei ole vahvistettu vastaanotetuksi seitsemän päivän kuluessa sähköisen viestin lähettämisestä, tiedoksiannossa noudatetaan, mitä siitä muualla laissa säädetään.

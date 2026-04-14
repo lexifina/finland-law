@@ -1,6 +1,8 @@
 # 19 § Tavallinen sähköinen tiedoksianto
 Luku: 4 luku Päätösasiakirjan sähköinen allekirjoittami- nen ja sähköinen tiedoksianto
 
-Muu kuin 18 §:ssä tarkoitettu asiakirja voidaan antaa tiedoksi asianomaiselle sähköisenä viestinä hänen suostumuksellaan. Jos kuitenkin asianomaisen yksityisyyden suojaaminen, muu erityinen suojan tai suojelun tarve taikka oikeuksien turvaaminen sitä edellyttää, asiakirjan tiedoksiantoon on sovellettava, mitä 18 §:ssä tai tiedoksiannosta muutoin säädetään.
+Viranomainen voi antaa asiakirjan, joka lain mukaan toimitetaan muutoin kuin todisteellisesti, tiedoksi sähköisenä viestinä 18 §:n 2 momentin mukaiseen tiedoksianto-osoitteeseen.
+
+Asiakirja voidaan kuitenkin antaa tiedoksi 18 §:n mukaisesti, jos se on tarpeen asianosaisen oikeuksien turvaamiseksi.
 
 Asiakirja katsotaan annetun tiedoksi kolmantena päivänä viestin lähettämisestä, jollei muuta näytetä.
