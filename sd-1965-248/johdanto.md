@@ -1,0 +1,2 @@
+Laki eräiden asiakirjain lähettämisestä tuomioistuimille
+Eduskunnan päätöksen mukaisesti säädetään:
