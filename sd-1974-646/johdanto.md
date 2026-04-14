@@ -1,0 +1,2 @@
+Laki oikeudenkäynnistä työtuomioistuimessa
+Eduskunnan päätöksen mukaisesti säädetään:
