@@ -8,4 +8,4 @@ Valituksessa on ilmoitettava:
 2) mitä muutoksia hovioikeuden ratkaisuun vaaditaan tehtäväksi; sekä
 3) perusteet, joilla muutosta vaaditaan.
 
-Muutoksenhakukirjelmässä on lisäksi mainittava hakijan nimi, ammatti ja asuinpaikka sekä hänen tai hänen asiamiehensä postiosoite, jolla asiaa koskevat ilmoitukset saadaan hänelle toimittaa. Jos postiosoite muuttuu, uusi osoite on ilmoitettava kirjallisesti korkeimman oikeuden kirjaamoon. Muutoksenhakukirjelmä on hakijan tai, jollei hän itse ole sitä laatinut, sen laatijan allekirjoitettava. Kirjelmän laatijan on samalla ilmoitettava ammattinsa ja asuinpaikkansa.
+Muutoksenhakukirjelmässä on lisäksi mainittava hakijan nimi, ammatti ja asuinpaikka. Siinä on ilmoitettava sähköinen tai mahdollinen muu osoite, johon hakijalle tarkoitetut kutsut, kehotukset ja ilmoitukset voidaan lähettää (prosessiosoite). Jos osoite muuttuu, uusi osoite on ilmoitettava kirjallisesti korkeimman oikeuden kirjaamoon. Muutoksenhakukirjelmä on hakijan tai, jollei hän itse ole sitä laatinut, sen laatijan allekirjoitettava. Kirjelmän laatijan on samalla ilmoitettava ammattinsa ja asuinpaikkansa.
