@@ -5,4 +5,4 @@ Kun esitutkintaviranomaiselle ilmoitetaan rikos tai tapahtuma, jota ilmoittaja e
 
 Rikosilmoituksen kirjaamisvelvollisuus koskee myös muuten kuin 1 momentissa tarkoitetulla tavalla esitutkintaviranomaisen tietoon tullutta epäiltyä rikosta, jos 9 §:n 1 momentissa tarkoitetut toimenpiteistä luopumisen edellytykset eivät täyty.
 
-Asianomistajalle on annettava hänen tekemästään rikosilmoituksesta kirjallinen vahvistus, joka sisältää ilmoituksen tekemistä ja ilmoitettua rikosta tai tapahtumaa koskevat perustiedot.
+Asianomistajalle on annettava hänen tekemästään rikosilmoituksesta kirjallinen vahvistus, joka sisältää ilmoituksen tekemistä ja ilmoitettua rikosta tai tapahtumaa koskevat perustiedot. Vahvistus saadaan antaa lähettämällä se asianomistajan ilmoittamaan osoitteeseen.
