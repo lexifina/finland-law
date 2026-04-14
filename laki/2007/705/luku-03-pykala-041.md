@@ -8,6 +8,6 @@ Todisteellisesti tiedoksi annettava asiakirja:
 4) annetaan vastaanottajalle henkilökohtaisesti tiedoksi haastetiedoksiantona; taikka
 5) annetaan sähköisesti tiedoksi sähköisestä asioinnista viranomaistoiminnassa annetun lain 18 §:n mukaisesti.
 
-Postille on ilmoitettava, milloin tiedoksi antamisen saantitodistusta vastaan on viimeistään tapahduttava. Tiedoksianto vastaanottotodistusta vastaan voidaan vastaanottajan suostumuksella toimittaa myös sähköisenä viestinä. Tiedoksisaannin katsotaan tapahtuneen silloin, kun vastaanottotodistus on palautettu.
+Postille on ilmoitettava, milloin tiedoksi antamisen saantitodistusta vastaan on viimeistään tapahduttava. Tiedoksianto vastaanottotodistusta vastaan voidaan toimittaa myös sähköisenä viestinä. Tiedoksisaannin katsotaan tapahtuneen silloin, kun vastaanottotodistus on palautettu.
 
 Toimituksesta, jossa asianosainen tai sivullinen on ollut läsnä, hänen katsotaan tuolloin saaneen todisteellisesti tiedon.

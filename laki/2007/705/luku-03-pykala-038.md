@@ -5,7 +5,5 @@ Hakija, vastaaja, vakuuden antaja sekä väitteen tai vaatimuksen esittänyt siv
 
 Ulosottomies saa postiosoitteen sijasta käyttää tiedoksianto-osoitteena 1 momentissa mainitulla henkilöllä olevaa:
 1) tietojärjestelmähakijaa koskevassa luvassa tarkoitettua teknistä rajapintaa;
-2) sellaista henkilön ja viranomaisen väliseen yhteydenpitoon tarkoitettua valtakunnallisen sähköisen asiointijärjestelmän tiedonsiirron osoitetta, joka edellyttää sähköisen asiointijärjestelmän käyttöönottoa; tai
+2) hallinnon yhteisistä sähköisen asioinnin tukipalveluista annetun lain (571/2016) 3 §:n 1 momentin 7 kohdassa tarkoitetussa viestinvälityspalvelussa olevaa tiliä; tai
 3) muuta kuin 1 tai 2 kohdassa tarkoitettua sähköisen tiedonsiirron osoitetta, jonka henkilö on ilmoittanut tiedoksianto-osoitteekseen.
-
-Edellä 1 momentissa tarkoitettu henkilö voi ulosottomiehelle tekemällään ilmoituksella kieltää asiakirjojen lähettämisen 2 momentin 2 kohdassa tarkoitettuun tiedoksianto-osoitteeseen.
