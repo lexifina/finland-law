@@ -11,6 +11,6 @@ Tämän luvun 1, 2, 2 a, 3 ja 4 §:n säännöksiä ei sovelleta:
 
 Tämän luvun 1 ja 2 §:n säännöksiä ei sovelleta markkinoiden väärinkäyttöasetuksen 9 artiklan mukaiseen lailliseen toimintatapaan.
 
-Tämän luvun 2 a §:n säännöstä ei sovelleta, jos teko tapahtuu osana työn, ammatin tai tehtävien tavanomaista suorittamista taikka jos teko on markkinoiden väärinkäyttöasetuksen 11 artiklan 1–8 kohdan mukaista markkinoiden tunnustelua.
+Tämän luvun 2 a §:n säännöstä ei sovelleta, jos teko tapahtuu osana työn, ammatin tai tehtävien tavanomaista suorittamista taikka jos teko on markkinoiden väärinkäyttöasetuksen 11 artiklan 1, 1 a, 2–4 tai 6–8 kohdan mukaista markkinoiden tunnustelua.
 
 Tämän luvun 3 ja 4 §:n säännöksiä ei sovelleta markkinoiden väärinkäyttöasetuksen 13 artiklan mukaiseen hyväksyttyyn markkinakäytäntöön.
