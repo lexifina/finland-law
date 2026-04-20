@@ -1,0 +1,2 @@
+Laki kaupankäynnistä rahoitusvälineillä
+Eduskunnan päätöksen mukaisesti säädetään:

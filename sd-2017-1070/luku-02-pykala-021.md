@@ -1,0 +1,5 @@
+# 21 § Pörssin osallistuminen sulautumiseen tai jakautumiseen Euroopan talousalueella
+Osa: II OSA RAHOITUSVÄLINEIDEN KAUPPAPAIKAT
+Luku: 2 luku Säännellyn markkinan ylläpitäminen
+
+Jos pörssi osallistuu rajat ylittävään sulautumiseen tai jakautumiseen Euroopan talousalueella, rekisteriviranomainen ei saa antaa tällaista sulautumista koskevaa eurooppayhtiölain 4 §:ssä taikka osakeyhtiölain 16 luvun 26 §:ssä tai osakeyhtiölain jakautumista koskevaa 17 luvun 25 §:ssä tarkoitettua todistusta, jos Finanssivalvonta on ilmoittanut rekisteriviranomaiselle ennen luvan myöntämistä, että pörssi ei ole noudattanut sulautumista, jakautumista tai Suomessa tapahtuvan toiminnan lopettamista koskevia säännöksiä. Luvan saa antaa ennen kuin kuukausi on kulunut osakeyhtiölain 16 luvun 6 §:n 2 momentissa tai 17 luvun 6 §:n 2 momentissa tarkoitetusta määräpäivästä vain, jos Finanssivalvonta on ilmoittanut, ettei se vastusta sulautumista, jakautumista tai eurooppayhtiön perustamiseen liittyvää kotipaikan siirtoa. Osakeyhtiölain 16 luvun 4 §:n 1 momentissa tai 17 luvun 4 momentin 1 momentissa tarkoitetulta tilintarkastajalta edellytetään tämän luvun 19 §:n mukaista pätevyyttä.
