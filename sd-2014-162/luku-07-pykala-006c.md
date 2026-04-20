@@ -1,0 +1,5 @@
+# 6 c § Vaihtoehtorahaston hoitaminen kolmannen osapuolen aloitteesta
+Osa: III OSA TOIMINTA
+Luku: 7 luku Toiminnan järjestäminen
+
+Jos vaihtoehtorahastojen hoitaja hoitaa tai aikoo hoitaa kolmannen osapuolen aloitteesta vaihtoehtorahastoa tilanteissa, joissa vaihtoehtorahasto käyttää kolmantena osapuolena olevan aloitteentekijän nimeä, tai joissa vaihtoehtorahastojen hoitaja nimeää kolmantena osapuolena olevan aloitteentekijän ulkoistettua tehtävää hoitavaksi tahoksi, vaihtoehtorahastojen hoitajan on toimitettava yksityiskohtainen selvitys eturistiriitojen hallinnasta Finanssivalvonnalle. Selvityksen on erityisesti sisällettävä kohtuullisiksi katsotut toimenpiteet, jotka vaihtoehtorahastojen hoitaja on toteuttanut ehkäistäkseen eturistiriitojen syntymisen sen ja kolmannen osapuolen välisessä suhteessa. Jos eturistiriidat eivät ole estettävissä, vaihtoehtorahastojen hoitajan on selvitettävä, miten se tunnistaa, hallitsee ja valvoo näitä eturistiriitoja ja ilmoittaa niistä, jotta voidaan estää eturistiriitoja vaikuttamasta haitallisesti vaihtoehtorahaston ja sen sijoittajien etuihin.

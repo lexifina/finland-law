@@ -1,0 +1,7 @@
+# 8 § Erikoissijoitusrahaston merkinnän maksu apporttina
+Osa: VI OSA ERITYISET RAHASTOTYYPIT
+Luku: 16 a luku Erikoissijoitusrahastot
+
+Pääasiallisesti kiinteistöihin ja kiinteistöarvopapereihin varojaan sijoittavan erikoissijoitusrahaston rahasto-osuuden merkintähinta voidaan myös maksaa antamalla kiinteistöjä tai kiinteistöarvopapereita, joiden yhteenlaskettu markkina-arvo vastaa niitä vastaan annettavan rahasto-osuuden arvoa, jos erikoissijoitusrahaston sääntöihin on otettu määräys siitä, että rahasto-osuus voidaan merkitä oikeuksin tai velvollisuuksin panna erikoissijoitusrahastoon osuutta vastaan muuta omaisuutta kuin rahaa (apporttiomaisuus). Muun kuin edellä tarkoitetun pääasiallisesti kiinteistöihin ja kiinteistöarvopapereihin sijoittavan erikoissijoitusrahaston rahasto-osuuden merkintähinta voidaan maksaa antamalla sijoitusrahastolain 13 luvussa tarkoitettuja rahoitusvälineitä apporttina. Tällaisen erikoissijoitusrahaston osalta edellytyksenä on lisäksi, että sen säännöissä on määräys, jonka mukaan kunkin rahasto-osuudenomistajan on merkittävä rahasto-osuuksia vähintään miljoonan euron määrästä.
+
+Apporttiomaisuuden arvosta ja vaikutuksesta rahasto-osuudenomistajien yhdenvertaisuuteen on ennen rahasto-osuuden merkintää hankittava 18 a luvun 20 §:ssä tarkoitetun riippumattoman ja ulkopuolisen kiinteistönarvioitsijan arvio, tai jollei apporttiomaisuuteen kuulu kiinteistöjä tai kiinteistöarvopapereita, lausunto KHT-tilintarkastajalta taikka tilintarkastusyhteisöltä, jolloin lausunnosta vastuullisen tilintarkastajan on oltava KHT-tilintarkastaja.

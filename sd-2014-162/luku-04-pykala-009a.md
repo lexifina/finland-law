@@ -1,0 +1,9 @@
+# 9 a § Kotipaikan siirto toiseen ETA-valtioon
+Osa: II OSA OIKEUS TOIMIA VAIHTOEHTORAHASTOJEN HOITAJANA
+Luku: 4 luku Toimilupa
+
+Jos vaihtoehtorahastojen hoitaja aikoo siirtää kotipaikkansa toiseen ETA-valtioon eurooppayhtiöasetuksen 8 artiklan tai osakeyhtiölain 17 a luvun 1 §:n mukaisesti, vaihtoehtorahastojen hoitajan on lähetettävä Finanssivalvonnalle jäljennös eurooppayhtiöasetuksen 8 artiklan 2 kohdassa tarkoitetusta siirtosuunnitelmasta ja 3 kohdassa tarkoitetusta selonteosta tai osakeyhtiölain 17 a luvun 4 §:ssä tarkoitetusta siirtosuunnitelmasta ja 6 §:ssä tarkoitetusta hallituksen selvityksestä viipymättä sen jälkeen, kun vaihtoehtorahastojen hoitaja on ilmoittanut suunnitelman rekisteröitäväksi. Osakeyhtiölain 17 a luvun 9 §:n 1 momentissa tarkoitetulta tilintarkastajalta edellytetään tämän lain 6 luvun 6 §:n 2 momentin mukaista pätevyyttä tai muulta riippumattomalta asiantuntijalta sitä vastaavaa kohdevaltiossa hyväksyttyä pätevyyttä.
+
+Jos vaihtoehtorahastojen hoitaja aikoo jatkaa vaihtoehtorahastojen hoitamista Suomessa kotipaikan siirron jälkeen, siihen sovelletaan, mitä ETA-vaihtoehtorahastojen hoitajan oikeudesta harjoittaa tällaista toimintaa Suomessa säädetään.
+
+Rekisteriviranomainen ei saa antaa eurooppayhtiölain (742/2004) 9 §:n 5 momentissa tai osakeyhtiölain 17 a luvun 21 §:n 4 momentissa tarkoitettua todistusta, jos Finanssivalvonta on ilmoittanut rekisteriviranomaiselle ennen eurooppayhtiölain 9 §:n 2 momentissa tai osakeyhtiölain 17 a luvun 21 §:n 2 momentissa tarkoitetun luvan myöntämistä, että vaihtoehtorahastojen hoitaja ei ole noudattanut kotipaikan siirtoa, Suomessa tapahtuvan toiminnan jatkamista tai toiminnan lopettamista koskevia säännöksiä. Luvan saa antaa ennen kuin kuukausi on kulunut osakeyhtiölain 16 luvun 6 §:n 2 momentissa ja 17 a luvun 11 §:n 2 momentissa tarkoitetusta määräpäivästä vain, jos Finanssivalvonta on ilmoittanut, ettei se vastusta kotipaikan siirtoa.

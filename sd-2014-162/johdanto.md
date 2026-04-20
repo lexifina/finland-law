@@ -1,0 +1,2 @@
+Laki vaihtoehtorahastojen hoitajista
+Eduskunnan päätöksen mukaisesti säädetään:

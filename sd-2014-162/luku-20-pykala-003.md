@@ -1,0 +1,13 @@
+# 3 § Kolmannesta maasta markkinointi
+Osa: VII OSA RAJAT YLITTÄVÄ TOIMINTA
+Luku: 20 luku Kolmannet maat
+
+Kolmanteen maahan sijoittautunut vaihtoehtorahastojen hoitaja voi Suomessa markkinoida hoitamansa ETA-valtioon sijoittautuneen vaihtoehtorahaston tai kolmanteen maahan sijoittautuneen vaihtoehtorahaston osuuksia ammattimaisille asiakkaille tehtyään siitä kirjallisen ilmoituksen Finanssivalvonnalle. Ilmoituksessa on oltava selvitys siitä, että:
+1) kolmanteen maahan sijoittautunut vaihtoehtorahastojen hoitaja noudattaa kunkin markkinoimansa vaihtoehtorahaston osalta, mitä 7 luvun 3 §:ssä, 11 luvun 1 ja 2 §:ssä, 12 luvun 2–8 §:ssä, 17 luvun 3 §:ssä sekä kunkin 1 luvun 8 §:n 1 momentissa tarkoitetun vaihtoehtorahaston osalta lisäksi, mitä 18 luvussa säädetään;
+2) Finanssivalvonnan, vaihtoehtorahaston kotijäsenvaltion valvontaviranomaisten ja vaihtoehtorahastojen hoitajan sekä vaihtoehtorahaston sijoittautumismaana olevan kolmannen maan valvontaviranomaisten välillä on otettu käyttöön kansainvälisten standardien mukaiset asianmukaiset yhteistyöjärjestelyt järjestelmäriskin valvomiseksi, jotta voidaan varmistaa tehokas tietojenvaihto, jonka avulla Finanssivalvonta voi hoitaa tässä laissa säädetyt tehtävänsä;
+3) vaihtoehtorahastojen hoitajan tai vaihtoehtorahaston sijoittautumismaana olevaa kolmatta maata ei ole yksilöity rahanpesuasetuksen 31 artiklan mukaiseksi suuririskiseksi kolmanneksi maaksi;
+4) vaihtoehtorahastojen hoitajan tai vaihtoehtorahaston sijoittautumismaana olevan kolmannen maan ja Suomen välillä on sopimus, joka vastaa täysin Taloudellisen yhteistyön ja kehityksen järjestön tuloa ja varallisuutta koskevan malliverosopimuksen 26 artiklassa vahvistettuja vaatimuksia ja jolla varmistetaan tehokas tietojenvaihto veroasioissa, ja että kyseistä kolmatta maata ei mainita veroasioissa yhteistyöhaluttomia lainkäyttöalueita koskevaa tarkistettua EU:n luetteloa koskevien neuvoston päätelmien liitteessä I.
+
+Kolmanteen maahan sijoittautunut vaihtoehtorahastojen hoitaja voi aloittaa hoitamansa ETA-valtioon sijoittautuneen vaihtoehtorahaston tai kolmanteen maahan sijoittautuneen vaihtoehtorahaston osuuksien markkinoinnin ammattimaisille asiakkaille saatuaan Finanssivalvonnalta sitä koskevan ilmoituksen.
+
+Sijoituspalveluyritys tai sellainen vaihtoehtorahastojen hoitaja, joka ei hoida tässä pykälässä tarkoitettua vaihtoehtorahastoa, voi markkinoida kyseisen vaihtoehtorahaston osuuksia ETA-valtiossa oleville ammattimaisille asiakkaille sen jälkeen, kun kyseisen vaihtoehtorahaston kolmanteen maahan sijoittautunut vaihtoehtorahastojen hoitaja on saanut Finanssivalvonnalta 2 momentin mukaisen ilmoituksen ja noudattaen, mitä tässä pykälässä säädetään.
