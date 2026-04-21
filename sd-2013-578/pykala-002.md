@@ -1,6 +1,6 @@
 # 2 § Tehtävät
 
-Patentti- ja rekisterihallitus käsittelee patenttia, integroidun piirin piirimallia, hyödyllisyysmallioikeutta, mallioikeutta, tavaramerkkiä, yrityskiinnitystä, kaupparekisteriä, yhdistysrekisteriä, säätiörekisteriä ja säätiölaissa (487/2015) tarkoitettua säätiöiden valvontaa, tekijänoikeuden yhteishallinnointia koskevassa laissa (1494/2016) tarkoitettua valvontaa, tilinpäätösasiakirjojen julkistamista, toiminimeä ja tilintarkastuslaissa (1141/2015) tarkoitettua tilintarkastusvalvontaa koskevat asiat sekä tarjoaa näihin tehtäviin liittyviä tietopalveluja.
+Patentti- ja rekisterihallitus käsittelee patenttia, integroidun piirin piirimallia, hyödyllisyysmallioikeutta, mallioikeutta, tavaramerkkiä, käsityö- ja teollisuustuotteen maantieteellistä merkintää, yrityskiinnitystä, kaupparekisteriä, yhdistysrekisteriä, säätiörekisteriä ja säätiölaissa (487/2015) tarkoitettua säätiöiden valvontaa, tekijänoikeuden yhteishallinnoinnista annetussa laissa (1494/2016) tarkoitettua valvontaa, tilinpäätösasiakirjojen julkistamista, toiminimeä ja tilintarkastuslaissa (1141/2015) tarkoitettua tilintarkastusvalvontaa koskevat asiat sekä tarjoaa näihin tehtäviin liittyviä tietopalveluja.
 
 Patentti- ja rekisterihallitus vastaa yritysten digitaalisen taloushallinnon verkoston ja yhteiskehittämisen koordinaatiosta.
 
