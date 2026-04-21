@@ -34,7 +34,8 @@ Tätä lakia sovelletaan seuraavien lakien soveltamisalaan kuuluvien tuotteiden 
 30) vaarallisten aineiden kuljetuksesta annettu laki (541/2023);
 31) eräistä paloturvallisuuslaitteista annettu laki (191/2024);
 32) kuluttajatuotteiden turvallisuudesta annettu laki (184/2025);
-33) eräiden tekoälyjärjestelmien valvonnasta annettu laki (1377/2025).
+33) eräiden tekoälyjärjestelmien valvonnasta annettu laki (1377/2025);
+34) käsityö- ja teollisuustuotteiden maantieteellisten merkintöjen suojasta annettu laki (274/2026).
 
 Lakia sovelletaan lisäksi markkinavalvonnasta ja tuotteiden vaatimustenmukaisuudesta sekä direktiivin 2004/42/EY ja asetusten (EY) N:o 765/2008 ja (EU) N:o 305/2011 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2019/1020, jäljempänä markkinavalvonta-asetus, 25–28 artiklassa tarkoitettuihin 1 momentissa mainittujen lakien soveltamisalaan kuuluvia tuotteita koskeviin valvontaviranomaisten toimenpiteisiin, jollei mainituissa laeissa toisin säädetä.
 
