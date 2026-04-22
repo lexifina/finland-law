@@ -1,0 +1,13 @@
+# 1 § Soveltamisala
+Luku: 1 luku Yleiset säännökset
+
+Tässä laissa säädetään seuraavien eläintautien vastustamista koskevien Euroopan unionin säädösten ja niiden nojalla annettujen säädösten täytäntöönpanosta siltä osin kuin niiden täytäntöönpanosta ei säädetä muun lain nojalla:
+1) tarttuvista eläintaudeista sekä tiettyjen eläinterveyttä koskevien säädösten muuttamisesta ja kumoamisesta annettu Euroopan parlamentin ja neuvoston asetus (EU) 2016/429 (" eläinterveyssäännöstö "), jäljempänä eläinterveyssäännöstö;
+2) virallisesta valvonnasta ja muista virallisista toimista, jotka suoritetaan elintarvike- ja rehulainsäädännön ja eläinten terveyttä ja hyvinvointia, kasvien terveyttä ja kasvinsuojeluaineita koskevien sääntöjen soveltamisen varmistamiseksi, sekä Euroopan parlamentin ja neuvoston asetusten (EY) N:o 999/2001, (EY) N:o 396/2005, (EY) N:o 1069/2009, (EY) N:o 1107/2009, (EU) N:o 1151/2012, (EU) N:o 652/2014, (EU) 2016/429 ja (EU) 2016/2031, neuvoston asetusten (EY) N:o 1/2005 ja (EY) N:o 1099/2009 ja neuvoston direktiivien 98/58/EY, 1999/74/EY, 2007/43/EY, 2008/119/EY ja 2008/120/EY muuttamisesta ja Euroopan parlamentin ja neuvoston asetusten (EY) N:o 854/2004 ja (EY) N:o 882/2004, neuvoston direktiivien 89/608/ETY, 89/662/ETY, 90/425/ETY, 91/496/ETY, 96/23/EY, 96/93/EY ja 97/78/EY ja neuvoston päätöksen 92/438/ETY kumoamisesta annettu Euroopan parlamentin ja neuvoston asetus (EU) 2017/625 (virallista valvontaa koskeva asetus), jäljempänä valvonta-asetus;
+3) tiettyjen tarttuvien spongiformisten enkefalopatioiden ehkäisyä, valvontaa ja hävittämistä koskevista säännöistä annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 999/2001, jäljempänä TSE-asetus;
+4) salmonellan ja muiden tiettyjen elintarvikkeiden kautta tarttuvien tiettyjen zoonoosien aiheuttajien valvonnasta annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 2160/2003, jäljempänä zoonoosiasetus;
+5) tiettyjen zoonoosien ja niiden aiheuttajien seurannasta, neuvoston päätöksen 90/424/ETY muuttamisesta ja neuvoston direktiivin 92/117/ETY kumoamisesta annettu Euroopan parlamentin ja neuvoston direktiivi 2003/99/EY, jäljempänä zoonoosidirektiivi;
+6 kohta on kumottu L:lla 1743.2026/266.
+7) muiden kuin ihmisravinnoksi tarkoitettujen eläimistä saatavien sivutuotteiden ja niistä johdettujen tuotteiden terveyssäännöistä sekä asetuksen (EY) N:o 1774/2002 kumoamisesta annettu Euroopan parlamentin ja neuvoston asetus (EY) N:o 1069/2009, jäljempänä sivutuoteasetus.
+
+Tässä laissa säädetään lisäksi 1 momentissa mainittujen asetusten sallimista kansallisista toimenpiteistä, lisätoimenpiteistä ja tiukemmista toimenpiteistä eläintautien vastustamiseksi.

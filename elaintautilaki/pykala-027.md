@@ -1,0 +1,4 @@
+# 27 § Rajoitusvyöhyke b- tai c-luokan taudin vastustamiseksi
+Luku: 5 luku Toimenpiteet epäiltäessä tai todettaessa a–c-luokan tautia
+
+Ruokavirasto saa päätöksellään perustaa rajoitusvyöhykkeen b- tai c-luokan taudin esiintymispaikan ympärille sekä määrätä vyöhykkeellä noudatettavaksi eläintaudin leviämisen estämiseksi välttämättömiä eläinterveyssäännöstön 65 artiklassa ja 32 artiklan nojalla annetuissa säännöksissä tarkoitettuja kieltoja, ehtoja, rajoituksia ja toimenpiteitä. Rajoitusvyöhykettä perustettaessa sekä vyöhykkeen rajoja määritettäessä on otettava huomioon eläinterveyssäännöstön 64 artiklassa ja 32 artiklan nojalla annetuissa säännöksissä säädetyt seikat. Ruokavirasto päättää rajoitusvyöhykkeen lakkauttamisesta noudattaen, mitä a-luokan taudin vuoksi perustetun vyöhykkeen lakkauttamisesta säädetään eläinterveyssäännöstön 68 artiklassa.

@@ -1,0 +1,14 @@
+# 63 § Muiden kuin viranomaisnäytteiden tutkiminen eläintautien varalta
+Luku: 11 luku Laboratoriot sekä taudinaiheuttajien käsittely
+
+A–c-luokan taudin tai muun torjuttavan tai valvottavan eläintaudin varalta otettuja muita kuin 62 §:n 3 momentissa tarkoitettuja näytteitä saadaan tutkia vain virallisessa laboratoriossa, toisen jäsenvaltion virallisessa laboratoriossa tai Ruokaviraston nimeämässä omavalvontalaboratoriossa.
+
+Ruokavirasto nimeää omavalvontalaboratoriot hakemuksesta. Omavalvontalaboratorion nimeämisen edellytyksenä on, että laboratorion pätevyys on osoitettu vaatimustenmukaisuuden arviointipalvelujen pätevyyden toteamisesta annetun lain (920/2005) mukaisesti akkreditoinnin tai akkreditointiin rinnastettavan pätevyyden arvioinnin perusteella. Laboratoriolla, joka hyväksytään tutkimaan näytteitä a–c-luokan tautien varalta, on oltava kirjallinen kuvaus menettelyistä ja toimenpiteistä, joilla estetään taudinaiheuttajien siirtyminen laboratorion ulkopuolelle. Laboratorion, jossa tutkitaan näytteitä, joita toimija on 11 §:ssä säädetyn pakollisen zoonoosivalvonnan edellyttämällä tavalla ottanut tai otattanut, tulee täyttää zoonoosiasetuksen 12 artiklan 2 kohdassa säädetyt vaatimukset. Omavalvontalaboratorion pätevyys on arvioitava vähintään kolmen vuoden välein.
+
+Ruokavirasto voi hakemuksesta nimetä toisessa jäsenvaltiossa sijaitsevan laboratorion tutkimaan 1 momentissa tarkoitettuja näytteitä edellyttäen, että laboratorion pätevyys on kyseisessä jäsenvaltiossa osoitettu akkreditoinnin tai akkreditointiin rinnastettavan pätevyyden arvioinnin perusteella.
+
+Muun kuin 1 momentissa tarkoitetun d- tai e-luokkaan tai muuksi ilmoitettavaksi eläintaudiksi luokitellun eläintaudin varalta otettuja muita kuin 62 §:n 3 momentissa tarkoitettuja näytteitä saadaan Suomessa tutkia vain virallisessa eläinterveyslaboratoriossa tai laboratoriossa, joka on tehnyt toiminnastaan ennakolta ilmoituksen Ruokavirastolle. Ilmoitusvelvollisen laboratorion on käytettävä tieteellisesti päteviä analyysimenetelmiä sekä oltava teknisesti pätevä ja tuotettava luotettavia tuloksia. Laboratorion henkilökunnalla on oltava tehtävän edellyttämä koulutus ja pätevyys. Laboratorion toiminnasta tehtävästä ilmoituksesta tulee käydä ilmi toimijan ja laboratorion yhteystiedot sekä tieto siitä, mitä tässä momentissa tarkoitettuja eläintauteja laboratoriossa tutkitaan sekä analyysimenetelmien pätevyyden arvioimiseksi välttämättömät menetelmiä koskevat tiedot.
+
+Mitä 1 ja 4 momentissa säädetään, ei koske elintarvike- tai rehulainsäädännössä tarkoitettuja näytteitä eikä näytteitä, joita tutkitaan tieteellisen tutkimuksen tekemiseksi.
+
+Maa- ja metsätalousministeriön asetuksella voidaan antaa tarkempia säännöksiä Euroopan unionin säädöksissä edellytetyistä laboratorion nimeämisen edellytyksistä sekä 4 momentissa tarkoitetun ilmoituksen sisällöstä ja ilmoituksen tekemisessä noudatettavasta menettelystä.

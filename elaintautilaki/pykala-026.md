@@ -1,0 +1,10 @@
+# 26 § Vyöhykkeet a-luokan taudin vastustamiseksi
+Luku: 5 luku Toimenpiteet epäiltäessä tai todettaessa a–c-luokan tautia
+
+Ruokavirasto päättää seuraavien vyöhykkeiden perustamista, lakkauttamista sekä niillä noudatettavien välttämättömien kieltojen, ehtojen, rajoitusten ja toimenpiteiden määräämisestä:
+1) eläinterveyssäännöstön 4 artiklan 41 kohdassa tarkoitettu rajoitusvyöhyke sekä väliaikainen rajoitusvyöhyke;
+2) eläinterveyssäännöstön III osan II osaston 1 luvun 5 jakson mukaisena toimenpiteenä toteutettava, Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/429 täydentämisestä tiettyjen luetteloitujen tautien ehkäisemistä ja torjuntaa koskevien sääntöjen osalta annetun komission delegoidun asetuksen (EU) 2020/687 63 ja 103 artiklassa tarkoitettu tartuntavyöhyke.
+
+Poiketen siitä, mitä 1 momentin 1 kohdassa säädetään, maa- ja metsätalousministeriö päättää 1 momentin 2 kohdassa mainitun asetuksen 21 artiklan 1 kohdan c alakohdassa ja 85 artiklan 1 kohdan c alakohdassa tarkoitetun muun rajoitusvyöhykkeen perustamisesta ja lakkauttamisesta sekä vyöhykkeellä noudatettavien välttämättömien kieltojen, ehtojen, rajoitusten ja toimenpiteiden määräämisestä siinä tapauksessa, että muussa Euroopan unionin säädöksessä ei ole kyseistä vyöhykettä koskevia tarkempia säännöksiä.
+
+Maa- ja metsätalousministeriö saa lisäksi hätärokotusten toteuttamiseksi päätöksellään perustaa eläinterveyssäännöstön 69 artiklassa tarkoitetun rokotusvyöhykkeen. Se saa määrätä vyöhykkeellä rokotusten toteuttamisesta, siitä, mitä eläimiä ja pitopaikkoja rokotukset koskevat, käytettävistä rokotteista, rokotustavasta ja rokotusten tiheydestä, suoja-alueesta, jolla rokottaminen on kiellettyä sekä välttämättömien eläinterveyssäännöstön 47 artiklan nojalla säädettyjen kieltojen, ehtojen, rajoitusten ja toimenpiteiden noudattamisesta. Lisäksi se saa määrätä vyöhykkeellä eläintaudin leviämisen estämiseksi välttämättömiä eläinterveyssäännöstön 65 artiklassa tarkoitettuja kieltoja, ehtoja, rajoituksia ja toimenpiteitä. Maa- ja metsätalousministeriön on lakkautettava rokotusvyöhyke, kun sen perustamiselle säädettyjä edellytyksiä ei enää ole.

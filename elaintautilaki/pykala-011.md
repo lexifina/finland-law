@@ -1,0 +1,6 @@
+# 11 § Pakollinen zoonoosivalvonta
+Luku: 3 luku Eläinten terveyttä koskevat vastuut
+
+Toimijan tulee valvoa muuksi torjuttavaksi tai valvottavaksi eläintaudiksi nimetyn ihmisiin tarttuvan eläintaudin (zoonoosi) esiintymistä, jos pitopaikkaan liittyy erityistä kyseisen eläintaudin esiintymisen tai leviämisen vaaraa ja jos eläintaudin esiintymisen säännöllinen valvonta on välttämätöntä vastustamista koskevien Euroopan unionin säädösten täytäntöön panemiseksi taikka eläintaudin leviämisvaaran hallitsemiseksi (pakollinen zoonoosivalvonta). Pakollisessa zoonoosivalvonnassa tulee seurata eläinten terveydentilaa, ottaa tai otattaa eläimistä tarvittavat näytteet eläintaudin varalta, lähettää näytteet laboratorioon tutkittaviksi sekä pitää kirjaa näytteiden ottamisesta ja lähettämisestä. Tarvittaessa toimijan tulee lähettää eläinterveysviranomaiselle näytteiden tutkimustuloksia koskevat tiedot ja tehdä ilmoitus eläintaudin esiintymisestä pitopaikassa, pitopaikan eläinmäärästä sekä uusien eläinten ottamisesta pitopaikkaan.
+
+Maa- ja metsätalousministeriön asetuksella säädetään, mitä pitopaikkoja ja minkä eläintautien valvontaa pakollinen zoonoosivalvonta koskee, sekä annetaan tarkemmat säännökset valvontaan sisältyvistä velvoitteista ja näytteiden tutkimisesta laboratoriossa.

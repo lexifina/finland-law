@@ -1,0 +1,10 @@
+# 12 § Vapaaehtoinen terveysvalvonta ja pitopaikkojen terveysluokitus
+Luku: 3 luku Eläinten terveyttä koskevat vastuut
+
+Toimijalla on oikeus saada pitopaikalleen terveysluokka pitopaikasta aiheutuvaa eläintaudin leviämisvaaraa kuvaavan luokittelun mukaisesti, jos hän sitoutuu valvomaan kyseessä olevaa eläintautia pitopaikassa ja täyttää eläintaudin valvontaa koskevat edellytykset (vapaaehtoinen terveysvalvonta).
+
+Vapaaehtoiseen terveysvalvontaan sitoutuneen toimijan tulee teettää eläimille säännöllisiä terveystarkastuksia, ottaa tai otattaa eläimistä tarvittavat näytteet eläintaudin varalta, lähettää näytteet laboratorioon tutkittaviksi, pitää kirjaa näytteiden ottamisesta ja lähettämisestä sekä tarvittaessa tehdä viranomaiselle ilmoitus eläintaudin esiintymisestä pitopaikassa. Vapaaehtoiseen terveysvalvontaan voi myös sisältyä kieltoja, ehtoja ja rajoituksia, jotka koskevat luetteloituihin tai taudille alttiisiin lajeihin kuuluvien eläinten taikka niiden sukusolujen tai alkioiden hankintaa pitopaikasta, jota terveysvalvonta ei koske, tai alempaan terveysluokkaan kuuluvasta pitopaikasta tai luonnosta, sekä eläinten merkitsemiseen ja eläimiä, sukusoluja ja alkioita koskevaan kirjanpitoon liittyviä velvoitteita.
+
+Pitopaikat, joita vapaaehtoinen terveysvalvonta koskee, jaetaan terveysluokkiin sen mukaan, kuinka suurella todennäköisyydellä niissä ei esiinny eläintautia, jota valvotaan. Luokittelussa otetaan huomioon pitopaikassa pidettävillä ja niiden kanssa kosketuksessa olleilla eläimillä epäillyt ja todetut eläintaudit, 2 momentissa tarkoitettujen tutkimusten tulokset sekä se, kuinka kauan pitopaikassa on toteutettu vapaaehtoista terveysvalvontaa.
+
+Maa- ja metsätalousministeriön asetuksella säädetään, minkälaisia pitopaikkoja ja minkä eläintautien valvontaa vapaaehtoinen terveysvalvonta koskee. Maa- ja metsätalousministeriön asetuksella myös annetaan tarkemmat säännökset vapaaehtoiseen terveysvalvontaan sisältyvistä velvoitteista, kielloista, ehdoista ja rajoituksista sekä siitä, kuinka pitopaikat jaetaan 3 momentissa tarkoitettuihin terveysluokkiin.

@@ -1,0 +1,10 @@
+# 72 § Työvelvolliset laajan eläintautiepidemian sattuessa
+Luku: 12 luku Viranomaiset
+
+Jos a-luokan tauti tai uusi tauti on levinnyt maassa laajalle alueelle eivätkä valvontaviranomaisten voimavarat riitä sen vastustamiseen siten kuin tässä laissa säädetään, Suomessa vakituisesti asuvat laillistetut eläinlääkärit sekä eläinlääketieteen opiskelijat, joilla on oikeus harjoittaa väliaikaisesti eläinlääkärinammattia, ovat Ruokaviraston päätöksen nojalla velvollisia hoitamaan sellaisia 71 §:n 1 momentissa tarkoitettuja, eläintautitilanteen vuoksi välttämättömiä eläinlääkärin tehtäviä, joita he kohtuudella pystyvät tekemään ottaen huomioon heidän koulutuksensa, työkokemuksensa, terveydentilansa ja perhesuhteensa. Työvelvollisuus voi kestää enintään kaksi viikkoa kerrallaan, kuitenkin yhteensä enintään kaksi kuukautta. Valtion varoista maksetaan tehtävää suorittavalle henkilölle Ruokaviraston määräämä kohtuullinen palkkio ja korvaus aiheutuneista kustannuksista. Työvelvollisen varsinainen palvelussuhde ei katkea työmääräyksen johdosta.
+
+Ruokavirasto voi antaa työmääräyksen, jos valvonta-asetuksen 30 tai 31 artiklassa säädetyt edellytykset täyttyvät. Toimivaltaisen viranomaisen velvollisuuksista säädetään valvonta-asetuksen 33 artiklassa. Ruokaviraston tulee huolehtia siitä, että työvelvollinen on selvillä tehtävän hoitamiseen liittyvistä velvollisuuksista ja vastuista.
+
+Työvelvolliseksi määrättyyn henkilöön sovelletaan, mitä 71 §:n 2 momentissa säädetään valtuutetusta tarkastajasta. Tehtävissä sovelletaan lisäksi työaikalakia (872/2019), vuosilomalakia (162/2005), työturvallisuuslakia (738/2002), työterveyshuoltolakia (1383/2001), työtapaturma- ja ammattitautilakia (459/2015) ja julkisten alojen eläkelakia (81/2016) sekä soveltuvin osin työsopimuslain (55/2001) säännöksiä työntekijän ja työnantajan oikeuksista ja velvollisuuksista. Työvelvollisella ei ole oikeutta päästä tehtäviensä suorittamiseksi pysyväisluonteiseen asumiseen käytettäviin tiloihin.
+
+Työvelvollisen tulee tehtäviä hoitaessaan vaadittaessa esittää työmääräys.

@@ -1,0 +1,4 @@
+# 30 § Eläinten lopettaminen a-luokan taudin vuoksi perustetulla vyöhykkeellä
+Luku: 5 luku Toimenpiteet epäiltäessä tai todettaessa a–c-luokan tautia
+
+Ruokavirasto saa päätöksellään määrätä a-luokan taudin vuoksi perustetulla väliaikaisella rajoitusvyöhykkeellä, rajoitusvyöhykkeellä tai muulla rajoitusvyöhykkeellä sijaitsevissa pitopaikoissa pidettäviä, luetteloituun lajiin kuuluvia eläimiä lopetettaviksi tai teurastettaviksi, jos eläintauti uhkaa levitä muualle maahan tässä luvussa tarkoitetuista toimenpiteistä huolimatta, vyöhykkeellä on paljon luetteloituun lajiin kuuluvia eläimiä, joita ei voida suojata tartunnalta, ja eläinten lopettaminen tai teurastaminen on välttämätöntä eläintaudin leviämisen estämiseksi. Ruokavirasto saa myös määrätä, että eläimet on ennen lopettamista tai teurastamista rokotettava, jos eläimiä ei voida lopettaa riittävän nopeasti eläintaudin leviämisen estämiseksi.

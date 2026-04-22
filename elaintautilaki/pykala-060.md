@@ -1,0 +1,10 @@
+# 60 § Väliaikainen kuljetuskielto
+Luku: 10 luku Kiireelliset toimenpiteet ja uudet taudit
+
+Jos Suomessa on todettu esiintyvän a- tai b-luokan tautia tai uutta tautia, jonka levinneisyyttä ei tunneta tai joka uhkaa levitä edelleen 5 luvussa tarkoitetuista toimenpiteistä huolimatta, taikka kyseessä on tällaista eläintautia koskeva epäilytapaus, Ruokavirasto saa eläinterveyssäännöstön VII osassa tarkoitettuna kiireellisenä toimenpiteenä eläintaudin leviämisen estämiseksi ja tautitilanteen selvittämiseksi välttämättömistä syistä päätöksellään kieltää eläinten kuljetuksen koko maassa tai sen osassa taikka rajoittaa sitä. Päätös voi olla voimassa enintään 14 vuorokauden ajan luetteloituun lajiin kuuluvien eläinten kuljetusten osalta ja enintään kolmen vuorokauden ajan muihin lajeihin kuuluvien eläinten kuljetusten osalta. Päätös on kumottava välittömästi sen jälkeen, kun kiellon tai rajoituksen asettamiselle säädettyjä edellytyksiä ei enää ole.
+
+Jos luetteloituun lajiin kuuluvien eläinten kuljetusta koskevaa kieltoa tai rajoitusta on eläintaudin laajan levinneisyyden tai merkittävän leviämisuhan takia välttämätöntä pitää voimassa pidempään kuin 1 momentin mukaan on mahdollista, maa- ja metsätalousministeriö voi päätöksellään jatkaa kiellon tai rajoituksen voimassaoloa. Ruokaviraston on mainittujen edellytysten täyttyessä tehtävä maa- ja metsätalousministeriölle aloite kiellon tai rajoituksen voimassaolon jatkamisesta. Maa- ja metsätalousministeriön päätös on kumottava välittömästi sen jälkeen, kun kiellon tai rajoituksen asettamiselle säädettyjä edellytyksiä ei enää ole.
+
+Edellä 1 ja 2 momentissa tarkoitettu päätös sekä sen kumoamista koskeva päätös julkaistaan Suomen säädöskokoelmassa. Ruokaviraston on asianmukaisesti ja riittävällä tavalla tiedotettava päätöksestä.
+
+Ruokavirasto voi yksittäistapauksessa myöntää hakemuksesta luvan poiketa tässä pykälässä tarkoitetusta kiellosta tai rajoituksesta edellyttäen, että luvan myöntäminen ei aiheuta eläintaudin leviämisen vaaraa.
