@@ -1,0 +1,23 @@
+# 87 § Eläkkeeseen oikeuttavat palkattomat ajat
+Luku: 4 luku Eläkkeen määräytyminen
+
+Palkattomat ajat oikeuttavat eläkkeeseen, jos työntekijällä on ennen eläketapahtumavuoden alkua työeläkelakien mukaisia vakuutettuja työansioita vähintään 12 566,70 euroa.
+
+Eläkkeeseen oikeuttaa työntekijän 17 vuoden iän täyttämistä seuraavan kalenterikuukauden alusta eläketapahtumaa edeltävän vuoden loppuun saakka palkattomalta ajalta saaman etuuden perusteena oleva tulo 3 momentissa tarkoitetulla tavalla. Vanhuuseläkettä laskettaessa työntekijän saaman etuuden perusteena oleva tulo otetaan kuitenkin huomioon vanhuuseläketapahtumakuukauden loppuun.
+
+Palkattoman ajan etuuksien perusteena olevat tulot katsotaan sen kalenterivuoden ansioiksi, johon etuusaika kohdentuu. Etuuksien perusteena olevat tulot oikeuttavat eläkkeeseen seuraavasti:
+1) 121 prosenttia raskaus-, erityisraskaus- tai vanhempainrahan perusteena olevasta sairausvakuutuslain mukaisesta vuositulosta siltä ajalta, jolta etuus on maksettu työntekijälle ja 21 prosenttia siltä ajalta, jolta etuus on maksettu työnantajalle;
+2) 55 prosenttia vuorotteluvapaalain mukaisen vuorottelukorvauksen perusteena olevasta ansiosta;
+3) 75 prosenttia työttömyysturvalain mukaisen ansioon suhteutetun päivärahan perusteena olevasta ansiosta siltä osin kuin päivärahaa on saatu alimman vanhuuseläkeiän täyttämiskuukauden loppuun mennessä;
+4) 65 prosenttia aikuiskoulutusetuuksista annetun lain mukaisen aikuiskoulutustuen perusteena olevasta ansiosta;
+5) 55 prosenttia Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain mukaisen kuntoutusrahan perusteena olevasta vuositulosta siltä ajalta, jolta etuus on maksettu työntekijälle, ei kuitenkaan, jos kuntoutusraha on maksettu eläkkeen lisänä;
+6) 62 prosenttia sairauspäivärahan, osasairauspäivärahan ja erityishoitorahan perusteena olevasta sairausvakuutuslaissa tarkoitetusta vuositulosta siltä ajalta, jolta etuus on maksettu työntekijälle, kuitenkin siten, että osasairauspäivärahan perusteena oleva tulo on puolet sairauspäivärahan perusteena olevasta vuositulosta, taikka 62 prosenttia ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä annetun lain mukaisen luovutuspäivärahan perusteena olevasta palkasta siltä ajalta, jolta luovutuspäiväraha on maksettu työntekijälle;
+7) 65 prosenttia tapaturma-, liikenne- tai sotilastapaturmavakuutusta koskevien säännösten mukaisen ansionmenetyskorvauksen perusteena olevasta työansiosta siltä ajalta, jolta päiväraha on maksettu työntekijälle, ei kuitenkaan siltä osin kuin eläkettä karttuu samasta syystä 6 kohdan mukaisesti;
+8) 65 prosenttia tartuntatautilain mukaisen tartuntatautipäivärahan perusteena olevasta palkasta siltä ajalta, jolta tartuntatautipäiväraha on maksettu työntekijälle;
+9) 65 prosenttia työeläkelakien mukaisen kuntoutusrahan tai tapaturmavakuutuksen tai liikennevakuutuksen kuntoutusta koskevien säännösten perusteella myönnetyn ansionmenetyskorvauksen perusteena olevasta työansiosta siltä ajalta, jolta etuus on maksettu työntekijälle, ei kuitenkaan, jos kuntoutusraha on maksettu eläkkeen lisänä.
+
+Etuuksien perusteena oleva 3 momentin 1, 5 ja 6 kohdassa tarkoitettu vuositulo otetaan huomioon vain, jos vuosituloon sisältyy vähintään työntekijän eläkelain 4 §:n 3 momentin 1 kohdassa säädetyn euromäärän verran palkkatuloa tai yrittäjätuloa. Etuuden perusteena olevana tulona pidetään tämän pykälän 3 momentin 1 kohdassa tarkoitetuissa tilanteissa kuitenkin aina vähintään 523,62 euroa kuukaudessa. Jos mainitussa kohdassa tarkoitettu etuus on työhön paluun vuoksi maksettu vähimmäispäivärahan suuruisena, etuuden perusteena olevana tulona pidetään kuitenkin työntekijälle maksetun vähimmäispäivärahan määrää.
+
+Etuuden perusteena olevan tulon perusteella ei kartu eläkettä siltä ajalta, jolta työntekijä on saanut työeläkelakien mukaista eläkettä. Osittaisen varhennetun vanhuuseläkkeen ja perhe-eläkkeen ajalta eläkettä karttuu kuitenkin myös etuuden perusteena olevan tulon perusteella.
+
+Jos eläkkeensaajalla on oikeus eläkkeeseen kahden tai useamman työeläkelain mukaan, 1–4 momentissa mainituista ansioista karttuneen eläkkeen osan käsittelee ja ratkaisee 117 §:ssä tarkoitettu viimeinen eläkelaitos tai jos viimeistä eläkelaitosta koskevia säännöksiä ei sovelleta, työntekijän eläkelain 106 §:ssä tarkoitettu eläkelaitos tai jos työntekijällä ei ole yksityisten työeläkelakien mukaisia työansioita, se eläkelaitos, jossa eläketurva on järjestetty viimeisen ansiotyön perusteella. Vastuu näiden etuuksien perusteella karttuneesta eläkkeestä jaetaan eläkelaitosten kesken siten kuin työntekijän eläkelain 178 §:ssä säädetään.

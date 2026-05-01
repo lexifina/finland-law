@@ -1,0 +1,4 @@
+# 138 a § Kansaneläkelaitoksen takautuvasti myöntämän kuntoutusrahan periminen
+Luku: 8 luku Eläkkeen maksaminen, viivästyskorotus ja takaisinperintä
+
+Jos työntekijälle myönnetään takautuvasti Kansaneläkelaitoksen kuntoutusetuuksista ja kuntoutusrahaetuuksista annetun lain 6 §:n mukaisen ammatillisen kuntoutuksen perusteella kuntoutusrahaa samalle ajalle, jolta työntekijä on saanut tämän lain mukaista kuntoutusrahaa tai työkyvyttömyyseläkettä ja siihen liittyvää kuntoutuskorotusta, eläkelaitoksella on oikeus periä Kansaneläkelaitokselta sen takautuvasti maksama kuntoutusraha siltä osin kuin se vastaa määrältään samalta ajalta maksettua kuntoutusrahaa tai työkyvyttömyyseläkettä ja siihen liittyvää kuntoutuskorotusta. Perimiseen ei kuitenkaan ole oikeutta, jos työeläkelaitoksen maksama kuntoutusetuus vähennetään Kansaneläkelaitoksen maksamasta kuntoutusrahasta.

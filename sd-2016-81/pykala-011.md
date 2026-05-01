@@ -1,0 +1,4 @@
+# 11 § Vanhuuseläke varhennettuna samasta ajankohdasta muusta pohjoismaasta myönnetyn vanhuuseläkkeen kanssa
+Luku: 3 luku Eläke- ja kuntoutusetuudet
+
+Sen estämättä, mitä 10 §:n 2 momentissa säädetään, työntekijälle voidaan hakemuksesta myöntää valtion palvelussuhteista karttunut vanhuuseläke aikaisintaan 60 vuoden iän täyttämistä seuraavan kalenterikuukauden alusta, kuitenkin aikaisintaan eläkkeen hakemista seuraavan kuukauden alusta, jos työntekijällä on oikeus vanhuuseläkkeeseen ennen alimman vanhuuseläkeikänsä täyttämistä Suomen, Islannin, Norjan, Ruotsin ja Tanskan välillä valtioiden eläkejärjestelmien mukaisen eläkeoikeuden sopeuttamisesta tehdyn sopimuksen (SopS 96/2002) perusteella. Tällöin eläkettä vähennetään 0,6 prosenttia jokaiselta kuukaudelta, jolta eläkettä maksetaan ennen alimman vanhuuseläkeiän täyttämiskuukautta seuraavan kalenterikuukauden alkua.

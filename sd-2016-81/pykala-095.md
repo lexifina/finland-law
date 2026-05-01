@@ -1,0 +1,8 @@
+# 95 § Eläketurvan sopeuttaminen yleiseen eliniän muutokseen
+Luku: 4 luku Eläkkeen määräytyminen
+
+Vuonna 1965 ja sen jälkeen syntyneen työntekijän alin vanhuuseläkeikä, osittaisen varhennetun vanhuuseläkkeen alaikäraja sekä työuraeläkkeen alaikäraja sopeutetaan eliniän odotteen muutokseen. Ikärajat vahvistetaan sille vuodelle, jonka aikana työntekijä täyttää 62 vuotta.
+
+Vanhuuseläke, osittainen varhennettu vanhuuseläke, työuraeläke ja työkyvyttömyyseläke sopeutetaan eliniän odotteen muutokseen työntekijän eläkelain 83 §:ssä tarkoitetulla elinaikakertoimella. Eläkkeen alkaessa eläke muunnetaan sille vuodelle vahvistetulla elinaikakertoimella, jonka aikana työntekijä täyttää 62 vuotta. Jos muu eläke kuin työkyvyttömyyseläke alkaa ennen tuota vuotta, se muunnetaan eläkkeen alkamisvuodelle vahvistetulla elinaikakertoimella. Jos työntekijän työkyvyttömyys alkaa ennen sitä vuotta, jonka aikana työntekijä täyttää 62 vuotta, työkyvyttömyyseläke muunnetaan työkyvyttömyyden alkamisvuodelle vahvistetulla elinaikakertoimella. Työkyvyttömyyseläkkeen tai työuraeläkkeen muuttuessa vanhuuseläkkeeksi eläkettä ei muunneta uudelleen elinaikakertoimella. Kun osittainen varhennettu vanhuuseläke muuttuu vanhuuseläkkeeksi, elinaikakertoimella muuntamaton osa vanhuuseläkkeestä muunnetaan sille vuodelle vahvistetulla elinaikakertoimella, jonka aikana työntekijä täyttää 62 vuotta.
+
+Edellä 1 momentissa tarkoitetut ikärajat määrätään noudattaen työntekijän eläkelain 83 §:ää. Sosiaali- ja terveysministeriö vahvistaa asetuksella 1 momentissa tarkoitetut ikärajat vuosittain viimeistään kuukautta ennen sen kalenterivuoden alkua, jona työntekijä täyttää 62 vuotta.
