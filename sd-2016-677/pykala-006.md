@@ -4,7 +4,7 @@ Luku: 2 luku Päätösvaltaisuus
 Vakuutusoikeuden 2 §:ssä tarkoitettuun kokoonpanoon kuuluu lisäksi kaksi työelämän ja työmarkkinoiden tai yritystoiminnan olosuhteita tuntevaa jäsentä sen mukaan kuin asian laatu edellyttää, kun on kysymys:
 1) yksityisoikeudellisessa työsuhteessa olevien työeläkeasioista;
 2) tapaturmavakuutus-asioista;
-3) työttömyyspäivärahasta, työmarkkinatuesta, työvoimapoliittisesta koulutustuesta, koulutuspäivärahasta, aikuiskoulutustuesta, ylläpitokorvauksesta, vuorottelukorvauksesta, palkkaturvasta taikka siitä, että henkilön pääsy työttömyyskassan jäseneksi on evätty tai hänet on erotettu kassan jäsenyydestä;
+3) ansiopäivärahasta, yleistuesta, työvoimapoliittisesta koulutustuesta, koulutuspäivärahasta, aikuiskoulutustuesta, ylläpitokorvauksesta, vuorottelukorvauksesta, palkkaturvasta taikka siitä, että henkilön pääsy työttömyyskassan jäseneksi on evätty tai hänet on erotettu kassan jäsenyydestä;
 4) hyvinvointialueen tai kunnan palveluksessa olevien ansioeläkeasioista;
 5) valtion palveluksessa tai siihen rinnastettavassa palveluksessa olevien ansioeläkeasioista;
 6) yrittäjien ansioeläkeasioista;
