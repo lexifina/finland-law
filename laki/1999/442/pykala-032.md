@@ -8,7 +8,7 @@ Edunvalvoja ei saa edustaa päämiestään, jos vastapuolena on edunvalvoja itse
 Muu edunvalvoja kuin alaikäisen lapsensa huoltajana oleva vanhempi ei saa edustaa päämiestään myöskään, jos vastapuolena on:
 1) edunvalvojan lapsen puoliso taikka edunvalvojan puolison lapsi tai tämän puoliso;
 2) edunvalvojan tai hänen puolisonsa lapsenlapsi, sisarus, vanhempi tai isovanhempi taikka tällaisen henkilön puoliso; tai
-3) edunvalvojan sisaruksen lapsi tai vanhemman sisarus.
+3) edunvalvojan sisaruksen lapsi.
 
 Puolisoilla tarkoitetaan 2 ja 3 momentissa aviopuolisoita ja yhteisessä taloudessa avioliitonomaisissa olosuhteissa tai muussa parisuhteessa eläviä. Sukulaisiin rinnastetaan vastaavat puolisukulaiset.
 
