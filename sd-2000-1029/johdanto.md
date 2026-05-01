@@ -1,0 +1,2 @@
+Laki jalometallituotteista
+Eduskunnan päätöksen mukaisesti säädetään:
