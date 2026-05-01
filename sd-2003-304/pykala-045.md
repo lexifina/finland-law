@@ -1,0 +1,12 @@
+# 45 § Menetettyjen ansioiden korvaaminen
+Luku: 8 luku Virkasuhteen päättyminen
+
+Kun virkasuhteen päättämistä koskeva asia on 44 §:n 1 momentissa tarkoitetuissa tapauksissa lainvoimaisesti ratkaistu ja työnantaja on saanut tämän pykälän 2 momentissa tarkoitetun selvityksen, viranhaltijalle maksetaan viipymättä virkasuhteen lainvastaisen päättämisen johdosta saamatta jäänyt säännöllisen työajan ansio vähennettynä samalta ajalta muissa palvelussuhteissa, ammatinharjoittajana tai yrittäjänä ansaitulla vastaavalla ansiolla, jota viranhaltija ei olisi saanut virkaa hoitaessaan. Samoin otetaan vähennyksenä huomioon viranhaltijalle maksettu työttömyysturvalaissa (1290/2002) tarkoitettu ansiopäiväraha, yleistukilaissa (48/2026) tarkoitettu yleistuki ja vastaavalta ajalta hänelle maksettu sairausvakuutuslain (1224/2004) mukainen päivärahaetuus.
+
+Viranhaltija on velvollinen esittämään työnantajalle viipymättä luotettavan selvityksen saamistaan 1 momentissa tarkoitetuista muista ansiotuloista, ansiopäivärahasta, yleistuesta ja sairausvakuutuskorvauksista.
+
+Työnantaja on velvollinen viipymättä maksamaan Työllisyysrahastolle 75 prosenttia ja asianomaiselle työttömyyskassalle 25 prosenttia viranhaltijalle maksetusta ansiopäivärahasta ja Kansaneläkelaitokselle viranhaltijalle maksetun yleistuen.
+
+Viranhaltijan eläke-etuja määrättäessä katsotaan palkkatuloksi 1 momentissa tarkoitettu ansio, jossa on vähennyksenä huomioitu mainitussa momentissa tarkoitetussa muussa palvelussuhteessa, ammatinharjoittajana tai yrittäjänä ansaittu, eläkkeeseen oikeuttava tulo. Vähennyksenä ei oteta huomioon 1 momentissa tarkoitettuja päivärahoja tai yleistukea. Sen estämättä, mitä muualla säädetään, viranhaltijan katsotaan eläkeoikeutta määrättäessä olleen jatkuvassa virkasuhteessa myös 1 momentissa tarkoitettuna aikana, vaikka hänelle ei tältä ajalta jäisi maksuun lainkaan ansiota.
+
+Mitä tässä pykälässä säädetään yleistuesta, koskee myös työttömyysturvalain perusteella maksettua peruspäivärahaa ja työmarkkinatukea.

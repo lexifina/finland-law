@@ -1,0 +1,4 @@
+# 22 a § Velvollisuus pyynnöstä antaa tietoa turvaavammasta virkasuhteesta
+Luku: 5 luku Virkasuhteessa tapahtuvat muutokset
+
+Työnantajan on osa-aikaisen tai määräaikaisen viranhaltijan pyynnöstä annettava perusteltu vastaus mahdollisuudesta pidentää viranhoitomääräyksen mukaista säännöllistä työaikaa tai virkasuhteen kestoaikaa. Vastaus on annettava kirjallisesti kuukauden kuluessa pyynnöstä. Jos työnantajan henkilöstömäärä on säännöllisesti enintään 250, vastaus voidaan kuitenkin antaa kolmen kuukauden kuluessa pyynnöstä ja pyynnön toistuessa vastaus voidaan antaa suullisesti, jos vastauksen perustelut eivät ole muuttuneet edellisen vastauksen jälkeen. Velvollisuutta antaa kirjallista vastausta ei ole, jos viranhaltija on työskennellyt työnantajan palveluksessa alle kuuden kuukauden ajan tai viranhaltijan edellisestä pyynnöstä on kulunut alle 12 kuukautta.
