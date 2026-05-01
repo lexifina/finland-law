@@ -1,0 +1,2 @@
+Laki eräiden yleishyödyllisten yhteisöjen veronhuojennuksista
+Eduskunnan päätöksen mukaisesti säädetään:
