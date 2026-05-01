@@ -1,0 +1,9 @@
+# 41 § Tietojohtaminen
+Luku: 4 luku Henkilötietojen toissijaisen käytön perusteet ja edellytykset
+Väliotsikko: Tietojen käsittely lain nojalla ilman tietolupaa
+
+Sosiaali- tai terveydenhuollon palvelunantajalla on oikeus salassapitovelvoitteiden estämättä sekä tietosuoja-asetuksen 9 artiklan 2 kohdan h alakohdan nojalla käsitellä ja yhdistellä tunnisteellisesti asiakastietoja, jotka ovat syntyneet sen omassa toiminnassa tai ovat sen omiin rekistereihin tallennettuja, jos se on välttämätöntä palvelunantajan vastuulla toteutettavan palvelutoiminnan tuottamista, seurantaa, arviointia, suunnittelua, kehittämistä, johtamista ja valvontaa varten.
+
+Jos palvelunantajalle on tarpeen vastuullaan toteutettavan palvelutoiminnan taikka palveluketjujen arviointia, suunnittelua tai kehittämistä varten verrata omaa toimintaansa muiden palvelunantajien toimintaan, Tietolupaviranomainen voi tuottaa tarvittavan vertailuaineiston aggregoituna tilastotietona 45 §:n mukaisesti 3 §:n 9 kohdassa tarkoitetun tietopyynnön perusteella.
+
+Sen lisäksi, mitä 1 ja 2 momentissa säädetään, sosiaali- ja terveydenhuollon sekä pelastustoimen järjestämisestä Uudellamaalla annetussa laissa (615/2021) tarkoitetuilla Uudenmaan hyvinvointialueilla ja Helsingin kaupungilla on oikeus salassapitovelvoitteiden estämättä sekä tietosuoja-asetuksen 9 artiklan 2 kohdan h alakohdan nojalla käsitellä ja yhdistellä tunnisteellisesti potilastietoja, jotka ovat syntyneet kunkin omassa toiminnassa tai ovat sen omiin rekistereihin tallennettuja sekä potilastietoja, joita HUS-yhtymä tuottaa rahoitusvastuun perusteella hyvinvointialueen lukuun. Käsittelyn tulee olla välttämätöntä hyvinvointialueen tai Helsingin kaupungin vastuulla toteutettavan palvelutoiminnan tuottamista, seurantaa, arviointia, suunnittelua, kehittämistä, johtamista tai valvontaa varten.
