@@ -1,5 +1,5 @@
 # 4 § Liikkuvuusavustuksen rajoitukset
-Osa: III OSA TYÖMARKKINATUKI
+Osa: III OSA ALUEELLISEN LIIKKUVUUDEN TUKEMINEN JA MUUTOSTURVARAHA
 Luku: 8 luku Alueellisen liikkuvuuden tukeminen
 
 Liikkuvuusavustusta maksetaan samanaikaisesti vain yhden työsuhteen ja siihen liittyvän koulutuksen perusteella.

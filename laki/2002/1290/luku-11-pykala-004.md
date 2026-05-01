@@ -1,4 +1,4 @@
-# 4 § Työvoimaviranomaisen työvoimapoliittinen lausunto
+# 4 § Työvoimapoliittinen lausunto
 Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 11 luku Toimeenpanoa koskevat säännökset
 
@@ -8,7 +8,7 @@ Työvoimaviranomainen antaa 1 luvun 4 §:n 3 momentissa tarkoitetun työvoimapol
 4) työvoimapalveluiden järjestämisestä annetun lain 74 §:n 2 momentissa tarkoitetusta opintojen todisteellisesta keskeytymisestä sekä 76–78 §:ssä säädetyistä työttömyysetuudella tuettuun työnhakijan omaehtoiseen opiskeluun liittyvistä edellytyksistä;
 5) kotoutumisen edistämisestä annetun lain 32 §:ssä tarkoitetusta opiskelun tukiajasta, maahanmuuttajan velvollisuuksista sekä opintojen seurannasta ja keskeytymisestä.
 
-Työvoimapoliittinen lausunto annetaan Kansaneläkelaitoksen tai työttömyyskassan pyynnöstä. Lausuntoa on Kansaneläkelaitoksen tai työttömyyskassan pyynnöstä täydennettävä viipymättä. Jos työnhakija on ilmoittanut työvoimaviranomaiselle tai Työllisyys-, kehittämis- ja hallintokeskukselle hakevansa työmarkkinatukea tai työttömyyspäivärahaa, työvoimapoliittinen lausunto voidaan antaa ja sitä voidaan täydentää ilman erillistä pyyntöä.
+Työvoimapoliittinen lausunto annetaan Kansaneläkelaitoksen ja työttömyyskassan pyynnöstä. Lausuntoa on Kansaneläkelaitoksen ja työttömyyskassan pyynnöstä täydennettävä viipymättä. Jos työnhakija on ilmoittanut työvoimaviranomaiselle tai Työllisyys-, kehittämis- ja hallintokeskukselle hakevansa etuutta työttömyyden perusteella, työvoimapoliittinen lausunto voidaan antaa ja sitä voidaan täydentää ilman erillistä pyyntöä.
 
 Työvoimapoliittinen lausunto annetaan työnhakijalle tiedoksi 3 §:ssä tarkoitetun päätöksen yhteydessä. Työnhakijalla on oikeus pyynnöstä saada tieto lausunnosta työvoimaviranomaiselta ja Työllisyys-, kehittämis- ja hallintokeskukselta.
 

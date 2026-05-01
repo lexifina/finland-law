@@ -1,5 +1,5 @@
 # 4 § Muutosturvarahan toimeenpano
-Osa: III OSA TYÖMARKKINATUKI
+Osa: III OSA ALUEELLISEN LIIKKUVUUDEN TUKEMINEN JA MUUTOSTURVARAHA
 Luku: 9 luku Muutosturvaraha
 
 Työttömyyskassassa vakuutettuna oleva työnhakija hakee muutosturvarahaa kirjallisesti siltä työttömyyskassalta, jonka jäsen hän on irtisanomispäivänä, ja muu työnhakija Kansaneläkelaitokselta.

@@ -1,9 +1,9 @@
-# 1 § Työttömyysetuuden hakeminen
+# 1 § Ansiopäivärahan hakeminen
 Osa: V OSA TOIMEENPANO JA MUUTOKSENHAKU
 Luku: 11 luku Toimeenpanoa koskevat säännökset
 
-Peruspäivärahaa ja työmarkkinatukea haetaan kirjallisesti Kansaneläkelaitokselta. Ansiopäivärahaa haetaan kirjallisesti siltä työttömyyskassalta, jonka jäsen työnhakija on. Peruspäivärahan tai työmarkkinatuen piiriin kuuluva työnhakija hakee liikkuvuusavustusta Kansaneläkelaitokselta ja muu työnhakija siltä työttömyyskassalta, jonka jäsen hän on.
+Ansiopäivärahaa haetaan kirjallisesti siltä työttömyyskassalta, jonka jäsen työnhakija on. Yleistukilaissa tarkoitettuun yleistukeen oikeutettu työnhakija hakee liikkuvuusavustusta Kansaneläkelaitokselta ja muu työnhakija siltä työttömyyskassalta, jonka jäsen hän on.
 
-Työttömyysetuutta ei ilman erityisen painavaa syytä myönnetä takautuvasti pitemmältä kuin kolmen kuukauden ajalta ennen hakemuksen vireille tuloa.
+Ansiopäivärahaa ei ilman erityisen painavaa syytä myönnetä takautuvasti pitemmältä kuin kolmen kuukauden ajalta ennen hakemuksen vireille tuloa.
 
-Hakemus tulee vireille, kun se on saapunut Kansaneläkelaitokselle tai työttömyyskassalle. Jos ansiopäivärahaa koskeva hakemus on hylätty, katsotaan peruspäivärahaa tai työmarkkinatukea koskevan hakemuksen tulleen vireille silloin, kun ansiopäivärahahakemus on saapunut työttömyyskassaan edellyttäen, että peruspäivärahaa tai työmarkkinatukea on haettu kolmen kuukauden kuluessa siitä, kun hakija sai tiedon työttömyyskassan hylkäävästä päätöksestä.
+Hakemus tulee vireille, kun se on saapunut työttömyyskassalle.

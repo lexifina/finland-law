@@ -13,5 +13,3 @@ c) muulla tavalla kieltäytynyt 1 momentissa tarkoitetusta opiskelupaikasta;
 3) keskeyttämisestä lukien, jos hän on ilman pätevää syytä keskeyttänyt 13 a §:ssä tarkoitetun koulutuksen taikka vastaavat opinnot ulkomailla.
 
 Koulutusta vailla oleva nuori, joka on menetellyt 2 momentin 1 kohdan a tai b alakohdassa tarkoitetulla tavalla ja on työllistymistä edistävässä palvelussa syyslukukauden alkaessa, menettää oikeutensa työttömyysetuuteen 2 momentista poiketen työllistymistä edistävän palvelun päättymisestä lukien.
-
-Alle 18-vuotiaalla nuorella, joka ei ole suorittanut peruskoulun tai lukion jälkeistä tutkintoon johtavaa, ammatillisia valmiuksia antavaa koulutusta, ei ole oikeutta työttömyyden perusteella maksettavaan työmarkkinatukeen.

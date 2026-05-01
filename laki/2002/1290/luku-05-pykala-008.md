@@ -3,5 +3,3 @@ Osa: II OSA TYÖTTÖMYYSPÄIVÄRAHA
 Luku: 5 luku Työttömyyspäivärahan saamisen edellytykset
 
 Jos yrittäjäkassan jäsen kassasta erottuaan kuukauden kuluessa liittyy toiseen yrittäjäkassaan, jäsenen hyväksi luetaan hänen työssäoloaikansa ja vakuutettunaoloaikansa edellisessä yrittäjäkassassa.
-
-Peruspäivärahassa yrittäjän työssäoloehtoon luetaan lähinnä 28 edellisen kuukauden aikana tehty palkansaajan työssäoloehtoon luettava työ.

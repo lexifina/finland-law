@@ -8,9 +8,9 @@ Työttömyysetuuden hakijan on esitettävä työvoimaviranomaisen ja Työllisyys
 
 Jos etuuden saajan olosuhteissa tapahtuu sellainen muutos, joka saattaa vaikuttaa oikeuteen saada etuutta tai pienentää etuuden määrää, hänen tulee viipymättä ilmoittaa muutoksesta työttömyysetuuden maksajalle. Jäljempänä 4 §:ssä tarkoitettuja olosuhteita koskevasta muutoksesta etuuden saajan tulee viipymättä ilmoittaa työvoimaviranomaiselle.
 
-Edellä 3 momentissa tarkoitettuja olosuhteiden muutoksia, joita koskevat tiedot työttömyysetuuden saajan on välittömästi ilmoitettava etuuden maksajalle, ovat:
+Edellä 3 momentissa tarkoitettuja olosuhteiden muutoksia, joita koskevat tiedot ansiopäivärahan saajan on välittömästi ilmoitettava etuuden maksajalle, ovat:
 1) aikaisemmat jäsenyydet työttömyyskassassa;
-2) peruspäivärahan saaminen;
+2) yleistukilaissa tarkoitetun yleistuen saaminen;
 3) työnhakijana olo ja työnhaun päättyminen;
 4) työttömyyden jatkuminen;
 5) työsuhteen, virkasuhteen, oman työn ja yritystoiminnan alkaminen tai päättyminen;
@@ -28,9 +28,3 @@ Edellä 3 momentissa tarkoitettuja olosuhteiden muutoksia, joita koskevat tiedot
 17) muu vastaava muutos olosuhteissa;
 18) päivät, joina työttömyysetuuden saaja on osallistunut muuhun työllistymistä edistävään palveluun kuin työvoimakoulutukseen, työttömyysetuudella tuettuun työnhakijan omaehtoiseen opiskeluun tai kotoutumisen edistämisestä annetun lain 22–24 §:ssä tarkoitettuun omaehtoiseen opiskeluun ;
 19) asevelvollisuuden, siviilipalveluksen tai vankeusrangaistuksen suorittamisen aloittaminen, joutuminen sairaala- tai muuhun tähän verrattavaan laitoshoitoon sekä muut näihin rinnastettavat seikat.
-
-Työmarkkinatuen saajan on lisäksi ilmoitettava työttömyysetuuden maksajalle seuraavat itseään ja perhettään koskevat tiedot ja niissä tapahtuneet muutokset:
-1) omat pääomatulot;
-3) vanhemman tai vanhempien 7 luvun 6 §:ssä tarkoitetut tulot, jos henkilö on 7 luvun 9 §:ssä tarkoitettu henkilö;
-6) muutokset perhesuhteissa ja asumisoloissa; sekä
-7) muu vastaava muutos olosuhteissa.

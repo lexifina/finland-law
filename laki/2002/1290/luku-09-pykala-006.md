@@ -1,5 +1,5 @@
 # 6 § Asetuksenantovaltuus
-Osa: III OSA TYÖMARKKINATUKI
+Osa: III OSA ALUEELLISEN LIIKKUVUUDEN TUKEMINEN JA MUUTOSTURVARAHA
 Luku: 9 luku Muutosturvaraha
 
 Valtioneuvoston asetuksella voidaan säätää tarkemmin:

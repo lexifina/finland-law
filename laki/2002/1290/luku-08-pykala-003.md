@@ -1,5 +1,5 @@
 # 3 § Liikkuvuusavustuksen kesto
-Osa: III OSA TYÖMARKKINATUKI
+Osa: III OSA ALUEELLISEN LIIKKUVUUDEN TUKEMINEN JA MUUTOSTURVARAHA
 Luku: 8 luku Alueellisen liikkuvuuden tukeminen
 
 Sen estämättä, mitä 3 luvun 2 §:ssä säädetään, liikkuvuusavustusta maksetaan enintään viideltä päivältä kalenteriviikossa:
