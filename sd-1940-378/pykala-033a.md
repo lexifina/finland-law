@@ -1,0 +1,6 @@
+# 33 a §
+Luku: 4 luku Verotus, ennakkoratkaisu ja muutoksenhaku
+
+Jos perinnönjakosopimukselle, luovutustoimelle tai muulle perintö- tai lahjaverotukseen vaikuttavalle oikeustoimelle on annettu sellainen oikeudellinen sisältö tai muoto, joka ei vastaa asian varsinaista luonnetta tai tarkoitusta, tai jos on ryhdytty muuhun toimenpiteeseen ilmeisesti siinä tarkoituksessa, että perintö- tai lahjaverosta vapauduttaisiin, on perintö- tai lahjaverotuksessa meneteltävä asian varsinaisen luonteen tai tarkoituksenmukaisesti.
+
+Jos on ilmeistä, että perintö- tai lahjaverotusta toimitettaessa olisi meneteltävä 1 momentissa tarkoitetulla tavalla, on perintö- tai lahjaverotusta toimitettaessa huolellisesti tutkittava kaikki ne seikat, jotka voivat vaikuttaa asian arvostelemiseen, sekä annettava verovelvolliselle tilaisuus esittää selvitys havaituista seikoista. Ellei verovelvollinen tällöin esitä selvitystä siitä, että perintö- tai lahjaverotukseen vaikuttavalle oikeustoimelle annettu oikeudellinen sisältö tai muoto vastaa asian varsinaista luonnetta tai tarkoitusta taikka ettei muuhun toimenpiteeseen ole ryhdytty ilmeisesti siinä tarkoituksessa, että suoritettavasta verosta vapauduttaisiin, perintö- tai lahjaverotusta toimitettaessa on meneteltävä 1 momentissa tarkoitetulla tavalla.
