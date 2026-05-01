@@ -1,0 +1,9 @@
+# 22 b § Työllisyysrahaston oikeus tietojen oma-aloitteiseen luovuttamiseen
+Luku: 7 luku Maksu- ja perintämenettely
+
+Työllisyysrahastolla on oikeus sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa säädetään, salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä antaa omasta aloitteestaan palkkasumma- ja työttömyysvakuutusmaksutietoja työttömyysvakuutusmaksuvelvollista työnantajaa koskevine tunnistetietoineen:
+1) lakisääteisen tapaturmavakuutuksen toimeenpanosta huolehtivalle vakuutuslaitokselle ja Tapaturmavakuutuslaitosten liitolle niiden laissa säädettyjen tapaturmavakuutusta koskevien tehtävien hoitamiseksi, jos on syytä epäillä, että laissa vakuuttamis- tai maksuvelvolliseksi säädetty työnantaja tai muu maksuvelvollinen ei ole täyttänyt lakiin perustuvaa vakuuttamisvelvollisuuttaan tai lakiin perustuvaa maksuvelvollisuuttaan taikka velvollisuuttaan antaa tapaturmavakuusmaksun määräämiseksi ja perimiseksi tarvittavia tietoja;
+2) Eläketurvakeskukselle ja lakisääteistä vakuutusta toimeenpanevalle eläkelaitokselle sille laissa säädettyjen tehtävien hoitamiseksi, jos on syytä epäillä, että laissa vakuuttamisvelvolliseksi säädetty työnantaja tai muu vakuuttamisvelvollinen ei ole täyttänyt lakiin perustuvaa vakuuttamis- tai maksuvelvollisuuttaan;
+3) Verohallinnolle, jos tiedot ovat välttämättömiä sille ennakkoperintälaissa säädetyn valvontavelvollisuuden täyttämiseksi silloin, jos on syytä epäillä, että työnantaja ei ole täyttänyt ennakonpidätysvelvollisuuttaan.
+
+Tämän pykälän nojalla saatuja salassa pidettäviä tietoja voidaan antaa edelleen, jos ne ovat tarpeellisia rikosten selvittämistä ja syytteeseenpanoa varten sekä suojelupoliisille sen toimialaan kuuluvien rikosten ennalta estämiseksi ja kansallisen turvallisuuden suojaamiseksi sitä vakavasti uhkaavalta toiminnalta. Tiedot tulee hävittää heti, kun niitä ei tarvita.

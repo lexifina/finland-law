@@ -1,0 +1,2 @@
+Laki työttömyysetuuksien rahoituksesta
+Eduskunnan päätöksen mukaisesti säädetään:
