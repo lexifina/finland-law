@@ -1,0 +1,21 @@
+# 7 § Sijaisapu työkyvyttömyyden perusteella
+Luku: 2 luku Oikeus lomituspalveluihin
+
+Sijaisapuun oikeutetulla maatalousyrittäjällä on oikeus saada sijaisapua sairaudesta tai tapaturmasta aiheutuneen työkyvyttömyyden perusteella kalenterivuoden aikana enintään 20 päivän ajaksi. Työkyvyttömyys on osoitettava lääkärin, sairaanhoitajan tai terveydenhoitajan todistuksella siltä osin kuin sijaisapupäivien määrä kalenterivuodessa ylittää seitsemän päivää.
+
+Lisäksi sijaisapuun oikeutetulla maatalousyrittäjällä on oikeus saada sijaisapua sairaudesta tai tapaturmasta aiheutuneen työkyvyttömyyden perusteella siksi ajaksi:
+1) jolta hänelle myönnetään sairausvakuutuslain mukaisen omavastuuajan korvaamisesta maatalousyrittäjille annetussa laissa (118/1991) tarkoitettua päivärahaa;
+2) jolta hänelle myönnetään sairausvakuutuslaissa (1224/2004) tarkoitettua sairauspäivärahaa, ei kuitenkaan osasairauspäivärahaa;
+3) jolta hänelle myönnetään vähintään 60 prosentin työkyvyn alentuman perusteella työtapaturma- ja ammattitautilain tai maatalousyrittäjän työtapaturma- ja ammattitautilain mukaista päivärahaa, määräaikaista tapaturmaeläkettä tai tapaturmavakuutuslain (608/1948) tai maatalousyrittäjien tapaturmavakuutuslain (1026/1981) mukaista vastaavaa etuutta tai näitä vastaavaa liikennevakuutuslain mukaista korvausta, kuitenkin enintään kolme vuotta vahinkopäivästä tai liikennevahingosta;
+4) jolta hänelle myönnetään sairausvakuutuslain 8 luvun 6 §:n 1 momentin 1–3 kohdassa tarkoitettua estävää etuutta, ei kuitenkaan, jos etuutta myönnetään ammatilliseen uudelleenkouluttautumiseen, 3 kohdassa tarkoitetun estävän etuuden osalta kuitenkin enintään kolme vuotta vahinkopäivästä tai liikennevahingosta;
+5) jona hänen työntekijän eläkelain 3 §:ssä mainitun lain mukainen työkyvyttömyyseläkettä koskeva hakemuksensa on vireillä, jos hakemus on tehty 2–4 kohdassa tarkoitettuna aikana.
+
+Edellä 2 momentin 5 kohdassa tarkoitetussa tapauksessa maatalousyrittäjän oikeus sijaisapuun päättyy, kun hän on saanut tiedon työkyvyttömyyseläkettä koskevasta päätöksestä.
+
+Sen estämättä, mitä 3 momentissa säädetään, maatalousyrittäjällä on oikeus sijaisapuun, jos työkyvyttömyyseläkettä koskevan hakemuksen vireilläolo päättyy kuntoutustuen myöntämiseen. Sijaisapuoikeus voi kuitenkin alkaa vasta sen jälkeen, kun aiemmasta kuntoutustukiperusteella myönnetystä sijaisavusta on kulunut kaksi vuotta. Edellytyksenä on lisäksi, että maatalousyrittäjän arvioidaan todennäköisesti kykenevän myöhemmin jatkamaan työskentelyään niissä tehtävissä, joita varten sijaisapua on viimeksi annettu. Maatalousyrittäjien eläkelaitos antaa 10 §:ssä tarkoitetulle paikallisyksikölle sijaisavun antamista koskevan päätöksen tekoa varten lausunnon siitä, onko todennäköistä, että maatalousyrittäjä kykenee myöhemmin jatkamaan työskentelyään edellä tarkoitetuin tavoin. Lausunto sitoo paikallisyksikköä sen päättäessä maatalousyrittäjän oikeudesta sijaisapuun. Oikeus sijaisapuun kuntoutustuen perusteella voi jatkua niin kauan kuin kuntoutustukea myönnetään, kuitenkin enintään kolme vuotta eläketapahtumasta. Kuntoutustuen jatkuessa maatalousyrittäjällä ei ole oikeutta saada sijaisapua 1 tai 2 momentin perusteella.
+
+Maatalousyrittäjällä on 4 momentin mukainen oikeus sijaisapuun myös, jos maatalousyrittäjä on hakenut muutosta 3 momentissa tarkoitettuun päätökseen, jolla hänelle ei ole myönnetty työkyvyttömyyseläkettä tai kuntoutustukea, edellyttäen, että muutoksenhaun johdosta kuntoutustuki myönnetään. Sijaisapuoikeus on aikaisintaan siitä lähtien, kun maatalousyrittäjä saa tiedon kuntoutustuen myöntämistä koskevasta päätöksestä.
+
+Maatalousyrittäjällä on oikeus sijaisapuun 2 momentissa tarkoitetuissa tapauksissa sen estämättä, että maatalousyrittäjä saa 3 §:n 1 momentin 3 kohdassa tarkoitettua tapaturmaeläkettä tai liikennevakuutuslain mukaista korvausta. Edellä 4 ja 5 momentissa tarkoitetussa tapauksessa oikeus sijaisapuun on myös maatalousyrittäjällä, joka ei täytä 3 §:n 1 momentin 1 tai 3 kohdassa säädettyjä edellytyksiä.
+
+Maatalousyrittäjien eläkelaitos voi salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä toimittaa työkyvyttömyyseläkettä koskevan päätöksen tiedoksi 10 §:ssä tarkoitetulle paikallisyksikölle silloin, kun ilmenee, että maatalousyrittäjä on työkyvyttömyytensä perusteella saanut sijaisapua.

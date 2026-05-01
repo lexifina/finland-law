@@ -1,0 +1,4 @@
+# 27 § Sijaisavusta perittävät maksut
+Luku: 6 luku Palveluista perittävät maksut ja korvaukset
+
+Sijaisavusta peritään palvelun saajalta tuntimaksu, joka ei saa ylittää palvelun tuottamisesta aiheutuneita kustannuksia. Tuntimaksu on 3 euroa lomitustunnilta lisättynä määrällä, joka saadaan jakamalla sijaisavun saajan maatalousyrittäjän eläkelain 14 §:n mukainen työtulo euroina 5 400:lla , jollei jäljempänä tässä laissa toisin säädetä. Maksu määrätään sen työtulon mukaan, joka sijaisavun saajalla oli voimassa sijaisavun alkamisvuoden ensimmäisenä päivänä. Jollei tällaista työtuloa ole, maksu määrätään sijaisavun saajan viimeksi voimassa olleen indeksillä korotetun työtulon mukaan. Jos sijaisavun saajalla ei ole ollut maatalousyrittäjän eläkelain 10 §:n mukaista vakuutusta, maksun perusteena on mainitussa laissa säädettyjä perusteita noudattaen arvioitu alkavan yrittäjän vuotuinen työtulo.

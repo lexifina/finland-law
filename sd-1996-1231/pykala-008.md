@@ -1,0 +1,10 @@
+# 8 § Vuosiloma- ja sijaisapupäivän kesto
+Luku: 2 luku Oikeus lomituspalveluihin
+
+Maatalousyrityksen kokonaistyöaika määräytyy sen mukaan, kuinka pitkä aika maatalousyrittäjiltä ja muilta yrityksessä työskenteleviltä keskimäärin päivittäin kuluu maatalousyrityksen päivittäin välttämättömien kotieläinten hoitotöiden tekemiseen. Hoitotöihin ei lueta niitä töitä, jotka vastaavat 8 c §:ssä tarkoitettuja valvontakäyntejä tai varallaoloa. Kokonaistyöaikaa arvioitaessa otetaan huomioon maatalousyrityksen kotieläinten määrä ja laatu sekä tuotantomenetelmät ja âolosuhteet.
+
+Maatalousyrittäjän tehtäväosuus määräytyy sen mukaan, kuinka kauan maatalousyrittäjältä keskimäärin päivittäin kuluu 1 momentissa tarkoitettujen hoitotöiden tekemiseen. Tehtäväosuus määräytyy prosentteina 1 momentissa tarkoitetusta kokonaistyöajasta. Paikallisyksikön on määrättävä tehtäväosuus maatalousyrittäjän ilmoituksen mukaisesti, jolleivät ilmoituksessa esitetyt tiedot ole ilmeisessä ristiriidassa tosiasiallisten olosuhteiden kanssa. Sen jälkeen, kun tehtäväosuus on määrätty, sitä voidaan maatalousyrittäjän uuden ilmoituksen perusteella muuttaa kalenterivuoden aikana vain erittäin painavasta syystä.
+
+Lomituspäivän kesto vuosiloma- ja sijaisapulomituksessa määräytyy lomitustunteina siten, että se on lomitettavan maatalousyrittäjän tehtäväosuutta vastaava tuntimäärä maatalousyrityksen kokonaistyöajasta. Lomituspäivän kestoa voidaan tarkistaa, jos se on perusteltua maatalous-yrityksen kotieläinten määrässä tai laadussa taikka tuotantomenetelmissä ja -olosuhteissa tapahtuneiden muutosten johdosta. Lomituspäivän kestoa voidaan pidentää paikallisyksikön järjestämän vuosiloma- tai sijaisapulomituksen aikana, jos pidentäminen on perusteltua eläinsuojelullisesta tai lomittajan työstä suoriutumiseen liittyvästä syystä.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä maatalousyrityksen kokonaistyöajan määräytymisestä sekä maatalousyrittäjän tehtäväosuuden ja lomituspäivän keston määräytymisestä ja tarkistamisesta.

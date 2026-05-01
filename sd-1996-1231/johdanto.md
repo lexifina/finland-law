@@ -1,0 +1,2 @@
+Maatalousyrittäjien lomituspalvelulaki
+Eduskunnan päätöksen mukaisesti säädetään:

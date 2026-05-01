@@ -1,0 +1,6 @@
+# 4 § Oikeus vuosilomaan
+Luku: 1 luku Yleiset säännökset
+
+Vuosilomaan on oikeutettu päätoiminen maatalousyrittäjä. Päätoimisena maatalousyrittäjänä pidetään maatalousyrittäjää, jonka työpanos lomitusajankohtana ja sitä edeltäneiden kuuden kuukauden aikana on kohdistunut maatalouden harjoittamiseen vähintään samassa määrin kuin maatalousyrityksen ulkopuolella tapahtuvaan työskentelyyn. Maatalousyrittäjää ei kuitenkaan pidetä päätoimisena, jos hänelle maksetaan lomitusajankohtana työttömyysturvalaissa (1290/2002) tarkoitettua ansiopäivärahaa tai yleistukilaissa (48/2026) tarkoitettua yleistukea taikka jos hänellä ei ole lomitusajankohtana oikeutta mainittuun etuuteen työttömyysturvalain 1 luvun 5 §:n 1 momentin 8 kohdassa tarkoitetun korvauksettoman määräajan vuoksi. Päätoimisuuden määrittelystä säädetään tarkemmin valtioneuvoston asetuksella.
+
+Sen estämättä, mitä 1 momentissa säädetään, maatalousyrittäjällä ei ole oikeutta vuosilomaan sen kalenterivuoden aikana, jonka kuluessa hänen velvollisuutensa ottaa 3 §:n 1 momentin 1 kohdassa tarkoitettu vakuutus alkaa, lukuun ottamatta sitä vuosilomaoikeutta, jota saman maatalousyrityksen maatalousyrittäjät eivät ole käyttäneet kyseisen kalenterivuoden aikana.

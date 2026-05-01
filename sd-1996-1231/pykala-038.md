@@ -1,0 +1,10 @@
+# 38 § Ennakkojen maksaminen ja tarkistaminen
+Luku: 8 luku Lomituskustannusten korvaaminen toimeksiantosopimuksen tehneelle kunnalle
+
+Eläkelaitos maksaa toimeksiantosopimuksen tehneelle kunnalle 35 §:n mukaisiin kustannuksiin ennakkoa. Eläkelaitos arvioi ennakon suuruuden ottaen huomioon asianomaisen paikallisyksikön toimialueella edellistä varainhoitovuotta edeltäneen varainhoitovuoden aikana lomitettujen päivien määrän ja keskimääräisen kustannuksen sekä näissä eläkelaitoksen arvion mukaan tapahtuvan muutoksen. Ennakko maksetaan varainhoitovuoden alusta kuukausittain yhtä suurina erinä kunakin kuukautena, viimeistään sen 11 päivänä.
+
+Ennakot tarkistetaan vuosittain heinäkuun 1 päivästä. Tarkistamista varten kunnan on vuosittain viimeistään kesäkuun 15 päivänä annettava eläkelaitokselle tiedot niistä kirjanpidon mukaisista kustannuksista, jotka ovat aiheutuneet varainhoitovuoden huhtikuun loppuun mennessä järjestetyistä lomituspalveluista. Samalla kunnan on esitettävä arvionsa koko varainhoitovuoden aikana järjestettävistä lomituspalveluista aiheutuvien kustannusten määrästä.
+
+Jos kunnalle huhtikuun loppuun mennessä maksettujen ennakkojen määrä ei olennaisesti poikkea 2 momentissa tarkoitettujen kirjanpidon mukaisten kustannusten määrästä, ennakot maksetaan 1 momentissa tarkoitetun suuruisina varainhoitovuoden loppuun. Muussa tapauksessa ennakkoja tarkistetaan siten, että niiden määrä kuukautta kohti vastaa 2 momentissa tarkoitettujen kirjanpidon mukaisten kustannusten kuukausittaista määrää.
+
+Jos on ilmeistä, että lomituspalveluista aiheutuvat kustannukset koko varainhoitovuodelta ovat erityisestä syystä olennaisesti suuremmat tai pienemmät kuin 1 momentin mukaan maksettu ennakko tai 3 momentin mukaisesti tarkistettu ennakko, kunnalle maksettavaa ennakkoa voidaan tarkistaa vastaamaan eläkelaitoksen arvioimia todellisia kustannuksia. Kunnalle voidaan myös tarvittaessa suorittaa erillinen ennakkomaksu, jos kunta osoittaa suorittaneensa yksittäisen lomituspalveluista aiheutuneen ja kunnan ennakkoon verrattuna merkittävän kustannuksen.
