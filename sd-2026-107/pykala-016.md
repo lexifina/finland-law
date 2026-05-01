@@ -10,7 +10,7 @@ Tilintarkastajien on tarkastettava rahaston hallinto, kirjanpito ja tilinpäät�
 2) siitä, antaako tilinpäätös oikeat ja riittävät tiedot rahaston toiminnan tuloksesta ja tuloksellisuudesta sekä sen taloudellisesta asemasta;
 3) siitä, onko rahaston hallintoa ja toimintaa hoidettu sitä koskevien säännösten ja määräysten mukaisesti;
 4) tilinpäätöksen vahvistamisesta;
-5) rahaston tuloksen käsittelystä rahaston hallituksen ehdottamalla tavalla.
+5) rahaston tuloksen käsittelystä.
 
 Kun tilintarkastus on tehty, tilintarkastajien on tehtävä siitä tilinpäätökseen merkintä, jossa viitataan tilintarkastuskertomukseen sekä lausutaan siitä, onko tilinpäätös laadittu hyvän kirjanpitotavan mukaisesti.
 
