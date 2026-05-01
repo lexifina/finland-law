@@ -1,0 +1,8 @@
+# 32 § Verotuksen toimittaminen hyväksymisen peruuttamisen ja yhtiön purkautumisen jälkeen
+Luku: 6 luku Verotuksen toimittaminen ja ilmoittamisvelvollisuus
+
+Edellä 24 §:ssä tarkoitettu verotus toimitetaan poiketen siitä, mitä muualla tuloverotusta koskevassa lainsäädännössä säädetään, kaikilta tonnistoverokauteen kuuluvilta verovuosilta tonnistoverokauden päättymisen jälkeen. Verotus päättyy Verohallinnon määräämänä aikana, kuitenkin viimeistään tonnistoverokauden päättymistä seuraavan kalenterivuoden lokakuun loppuun mennessä.
+
+Edellä 24 §:ssä tarkoitetusta verosta vähennetään verovelvollisen vastaavalta ajalta suorittaman tonnistoveron määrä. Näin saatu vero määrätään 10 prosentilla korotettuna tai, jos hyväksyminen on peruutettu yhtiön 28 §:n vastaisen menettelyn taikka mainitussa pykälässä tarkoitetun ilmoittamisvelvollisuuden olennaisen laiminlyönnin perusteella, 30 prosentilla korotettuna. Jos verovelvollinen osoittaa, että tonnistoverovelvolliseksi hyväksymisen peruuttaminen tai yhtiön purkaminen on tapahtunut siitä riippumattomista tai pakottavista syistä, Verohallinto voi alentaa korotusta tai jättää sen kokonaan määräämättä. Korotusta voidaan alentaa tai se voidaan jättää määräämättä myös silloin, kun tonnistoverovelvolliseksi hyväksyminen peruutetaan sen johdosta, että yhtiö on lopettanut tonnistoverotettavan toiminnan harjoittamisen eikä toimintaa ole jatkettu toisessa yhtiössä.
+
+Maksettavalle verolle on suoritettava huojennettua viivästyskorkoa noudattaen veronlisäyksestä ja viivekorosta annettua lakia. Huojennettu viivästyskorko lasketaan kultakin verovuodelta, jolta veroa määrätään, verovuoden päättymistä seuraavan toisen kuukauden ensimmäisestä päivästä veron ensimmäiseen eräpäivään.
