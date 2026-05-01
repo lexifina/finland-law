@@ -9,9 +9,9 @@ Tulevan ajan ansiota määrättäessä otetaan huomioon:
 1) raskaus-, erityisraskaus- ja vanhempainrahan perusteena oleva tulo 74 §:n 3 ja 4 momentissa mainitun suuruisena; ja
 2) muut kuin 1 kohdassa mainittujen 74 §:ssä tarkoitettujen palkattomalta ajalta saatujen etuuksien perusteena olevat tulot 100 prosentin suuruisina.
 
-Tulevan ajan ansiota määrättäessä otetaan tulona huomioon 1 047,22 euroa jokaiselta täydeltä kuukaudelta, jolta työntekijälle on tarkasteluaikana maksettu työttömyysturvalain mukaista peruspäivärahaa tai työmarkkinatukea.
+Tulevan ajan ansiota määrättäessä otetaan tulona huomioon 1 047,22 euroa jokaiselta täydeltä kuukaudelta, jolta työntekijälle on tarkasteluaikana maksettu yleistukilain mukaista yleistukea.
 
-Sairausvakuutuslain mukainen päiväraha otetaan huomioon 4 momentissa tarkoitetulla tavalla, jos sen perusteena olevaan vuosituloon sisältyy työttömyysturvalain mukaista peruspäivärahaa, mutta ei tämän lain 4 §:n 3 momentin 1 kohdassa säädetyn euromäärän verran palkka- tai yrittäjätuloa.
+Sairausvakuutuslain mukainen päiväraha otetaan huomioon 4 momentissa tarkoitetulla tavalla, jos sen perusteena olevaan vuosituloon sisältyy yleistukilain mukaista yleistukea, mutta ei tämän lain 4 §:n 3 momentin 1 kohdassa säädetyn euromäärän verran palkka- tai yrittäjätuloa.
 
 Tulevan ajan ansiota määrättäessä otetaan tulona huomioon 1 047,22 euroa jokaiselta täydeltä kuukaudelta, jolta työntekijälle on tarkasteluaikana karttunut valtion varoista suoritettavasta eläkkeen korvaamisesta alle kolmivuotiaan lapsen hoidon tai opiskelun ajalta annetun lain mukaista etuutta.
 
