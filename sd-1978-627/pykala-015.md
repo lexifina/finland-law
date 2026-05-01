@@ -1,0 +1,8 @@
+# 15 §
+Luku: 3 luku Verotusmenettelystä annetun lain mukaisessa järjestyksessä toimitettava verotus
+
+Pääomatulosta suoritetaan tuloveroa 30 prosentin mukaan. Siltä osin kuin verovelvollisen verotettavan pääomatulon määrä ylittää 30 000 euroa, pääomatulosta suoritetaan veroa 34 prosentin mukaan.
+
+Valtionverotuksen verotettavasta ansiotulosta suoritetaan veroa progressiivisen tuloveroasteikon mukaan. Koko verovuodelta rajoitetusti verovelvollinen suorittaa lisäksi kunnallisverotuksen verotettavasta tulosta veroa kuntien keskimääräisen tuloveroprosentin mukaan. Kuntien keskimääräinen tuloveroprosentti on kuntien viimeksi vahvistettujen tuloveroprosenttien viimeksi toimitetun verotuksen kunkin kunnan kunnallisverotuksen verotettavalla tulolla painotettu keskiarvo prosenttiyksikön kymmenyksen tarkkuudella ilmoitettuna. Kuntien keskimääräistä tuloveroprosenttia laskettaessa huomioon ei kuitenkaan oteta Ahvenanmaan maakuntaan kuuluvien kuntien veroprosentteja. Vero tilitetään kokonaisuudessaan valtiolle. Tuloveroprosentti julkaistaan säädöskokoelmassa kuntien ja seurakuntien tuloveroprosenteista vuosittain annettavassa Verohallinnon luettelossa. Osan verovuotta Suomessa asunut verovelvollinen suorittaa kunnallisverotuksessa verotettavasta tulosta veroa koko verovuodelta tuloverolain 130 §:n mukaisesti, ja vero tilitetään verovelvollisen kotikunnalle.
+
+Rajoitetusti verovelvollisen yhteisön on suoritettava Suomesta saadusta muusta kuin 3 §:ssä tarkoitetusta tulosta yhteisön tuloveroa 20 prosenttia. Jos rajoitetusti verovelvollinen yhteisö on harjoittanut liikettä tai ammattia Suomessa olevasta kiinteästä toimipaikasta, on myös 3 §:ssä tarkoitetusta tulosta suoritettava yhteisön tuloveroa 20 prosenttia.
