@@ -1,0 +1,2 @@
+Varainsiirtoverolaki
+Eduskunnan päätöksen mukaisesti säädetään:
