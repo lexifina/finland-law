@@ -10,4 +10,4 @@ Yleistuen saamisen rajoituksiin sovelletaan, mitä säädetään työttömyystur
 6) 7 §:ssä yritysomaisuuden myyntivoiton vaikutuksesta;
 7) 8 §:ssä työriidan vaikutuksesta työttömyysetuuden suorittamiseen.
 
-Poiketen siitä, mitä 1 momentin 6 kohdassa säädetään, yritysomaisuuden myyntivoitto jaksotetaan vähintään yleistuen määrän perusteella.
+Poiketen siitä, mitä 1 momentin 6 kohdassa säädetään, yritysomaisuuden myyntivoitto jaksotetaan vähintään yleistuen määrän perusteella. Valtioneuvoston asetuksella annetaan tarkemmat säännökset yritysomaisuuden myyntivoiton jaksottamisesta yleistuessa.

@@ -11,3 +11,5 @@ Yleistuen maksamiseen työllistymistä edistävien palveluiden ajalta sovelletaa
 3) 4 §:ssä työttömyysturvalain poikkeavasta soveltamisesta työllistymistä edistävien palvelujen alkamisen jälkeen;
 4) 5 §:ssä työvoimakoulutusta koskevista erityissäännöksistä;
 5) 6 §:ssä kuntouttavan työtoiminnan ajalta maksettavasta kulukorvauksesta.
+
+Työvoimapalveluiden järjestämisestä annetussa laissa tarkoitetun työvoimakoulutuksen ja työttömyysetuudella tuetun työnhakijan omaehtoisen opiskelun sekä työttömyysturvalain 2 luvun 10 §:n 2 momentissa tarkoitetulla tavalla päätoimisena pidettävän kotoutumisen edistämisestä annetun lain (681/2023) 28–31 §:ssä tarkoitetun omaehtoisen luku- ja kirjoitustaidon opiskelun aikana ei sovelleta tämän lain 12 §:ää.
