@@ -3,6 +3,7 @@ Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 1 luku Yleiset säännökset
 
 Tässä laissa tarkoitetaan:
+1–2 kohdat on kumottu L:lla 16.1.2026/49.
 3) työsuhteella työtä, jota tehdään työsopimuslain (55/2001) 1 luvun 1 §:ssä tai merityösopimuslain (756/2011) 1 luvun 1 §:ssä tarkoitetun työsopimuksen taikka ammatillisesta koulutuksesta annetussa laissa (531/2017) tarkoitetun oppisopimuksen perusteella ja jota ei tehdä 6 §:ssä tarkoitettuna yrittäjänä;
 4) kokoaikatyöllä työsuhteessa tehtyä työtä, jossa työaika on enemmän kuin 80 prosenttia alalla sovellettavasta kokoaikaisen työntekijän enimmäistyöajasta;
 5) osa-aikatyöllä työsuhteessa tehtyä työtä, jossa työaika on enintään 80 prosenttia alalla sovellettavasta kokoaikaisen työntekijän enimmäistyöajasta;
