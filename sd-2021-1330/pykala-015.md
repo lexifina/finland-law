@@ -1,0 +1,10 @@
+# 15 § Viranomaisen tarkastusoikeus ja tunnistautumaton näytteenotto
+Luku: 2 luku Valvontaviranomaiset ja valvonta
+
+Tässä laissa tarkoitetuilla valvontaviranomaisilla ja valtuutetuilla tarkastajilla on oikeus tämän lain ja luomuasetuksen sekä niiden nojalla annettujen säännösten täytäntöön panemista ja noudattamisen virallista valvontaa tehtäviä tarkastuksia varten päästä viljellyille ja muille alueille, tuotanto-, varasto- ja muihin rakennuksiin ja kuljetusvälineisiin sekä tarkastaa toimijan kirjanpitoa, suorittaa muita tarkastuksia ja ottaa korvauksetta näytteitä tutkimuksia varten. Toimijalle on annettava todistus näytteenotosta. Valvontaviranomaisilla ja valtuutetuilla tarkastajilla on oikeus, sen estämättä, mitä tietojen salassapidosta säädetään, saada tässä laissa tarkoitettua tarkastusta ja valvontaa varten välttämättömät tiedot ja asiakirjat toimijalta.
+
+Valvontakohteeseen, joka sijaitsee pysyväisluonteiseen asumiseen käytetyissä tiloissa, tarkastus voidaan tehdä luomuasetuksen 38 artiklassa ja valvonta-asetuksen 9, 10 ja 14 artiklassa viralliselle valvonnalle asetettujen vaatimusten toteuttamiseksi, jos tarkastuksen tekeminen on välttämätöntä tarkastuksen kohteena olevien seikkojen selvittämiseksi. Tällaisen tarkastuksen saa tehdä ainoastaan asianomainen valvontaviranomainen.
+
+Valvontaviranomainen saa tunnistautumatta tilata näytteitä etäviestintävälineiden välityksellä myytäviksi tarjottavista luonnonmukaisista tuotteista. Näytteitä voidaan käyttää virallisessa valvonnassa. Saatuaan näytteen valvontaviranomaisen on ilmoitettava toimijalle, että näyte on tilattu virallista valvontaa varten. Toimijalla on oikeus omalla kustannuksellaan saada toinen asiantuntijalausunto näytteestä.
+
+Mitä 1 ja 2 momentissa säädetään Suomen valvontaviranomaisten tarkastusoikeudesta, koskee myös Euroopan unionin lainsäädännössä tai Suomea sitovassa kansainvälisessä sopimuksessa tarkoitettuja tarkastajia, jos mainitussa lainsäädännössä tai sopimuksessa oleva Suomea sitova velvoite tätä edellyttää. Valvontaviranomaisen on näissä tarkastuksissa toimittava yhteistyössä kyseisten tarkastajien kanssa.
