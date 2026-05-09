@@ -1,0 +1,2 @@
+Laki julkiseen keskusteluun osallistuvien henkilöiden suojelemisesta rajat ylittäviltä häirintäkanteilta
+Eduskunnan päätöksen mukaisesti säädetään:
