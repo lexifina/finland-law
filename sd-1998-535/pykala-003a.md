@@ -1,0 +1,9 @@
+# 3 a § Kuljettajantutkintotehtävän hoitaminen palvelutehtävänä
+
+Liikenne- ja viestintävirasto voi hoitaa kuljettajantutkintotoiminnan hankkimalla tarvittavia palveluja Suomessa toimivilta julkisilta tai yksityisiltä palvelujen tuottajilta. Palvelun tuottajan on täytettävä kuljettajantutkinnon vastaanottajan vaatimukset. Tässä pykälässä tarkoitettuja tehtäviä ei voida hoitaa alihankkijaa käyttäen. Tässä pykälässä tarkoitetut tehtävät on suoritettava Suomessa.
+
+Palvelujen hankintaan sovelletaan julkisista hankinnoista ja käyttöoikeussopimuksista annettua lakia (1397/2016) alihankintaa koskevia säännöksiä lukuun ottamatta.
+
+Liikenne- ja viestintäviraston on sovittava palvelun tuottajan kanssa palvelutehtävän laajuudesta ja sen hoitamiseen liittyvistä vaatimuksista niin, että rekisterinpitäjän vastuut henkilötietojen käsittelyn lainmukaisuudesta toteutuvat myös palvelun tuottajan toiminnassa ja että hyvän hallinnon vaatimukset muutenkin toteutuvat. Liikenne- ja viestintäviraston on valvottava palvelun tuottajan toimintaa.
+
+Tässä pykälässä tarkoitettuja julkisia hallintotehtäviä hoidettaessa noudatettavista hyvän hallinnon periaatteista säädetään viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999), luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2016/679 (yleinen tietosuoja-asetus), sähköisestä asioinnista viranomaistoiminnassa annetussa laissa (13/2003), hallintolaissa (434/2003), kielilaissa (423/2003) ja saamen kielilaissa (1086/2003). Palvelun tuottajaan ja tämän palveluksessa olevaan sovelletaan näitä tehtäviä hoidettaessa rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa (412/1974).

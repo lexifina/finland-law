@@ -1,0 +1,3 @@
+# 12 § Henkilörekisteritiedot
+
+Liikenne- ja viestintävirastolla on oikeus salassapitosäännösten estämättä saada tarpeellisia tietoja rikosrekisteristä kuljettajantutkinnon vastaanottajalle sekä kuljettajantutkintoja ja ajolupakokeita vastaanottavalle henkilölle asetettujen luotettavuusvaatimusten toteamiseksi.

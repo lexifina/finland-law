@@ -1,0 +1,2 @@
+Laki kuljettajantutkintotoiminnan järjestämisestä
+Eduskunnan päätöksen mukaisesti säädetään:
