@@ -1,4 +1,4 @@
-# 6 § Tietojen antaminen valvontaviranomaisille
+# 6 § Tietojen antaminen valvontaviranomaiselle
 Luku: 1 luku Yleiset säännökset
 
-Sosiaalihuollon ammattihenkilö on velvollinen salassapitosäännösten estämättä antamaan Sosiaali- ja terveysalan lupa- ja valvontaviraston tai aluehallintoviraston pyytämät, niille tässä laissa säädettyjen tehtävien hoitamiseksi välttämättömät tiedot ja selvitykset.
+Sosiaalihuollon ammattihenkilö on velvollinen salassapitosäännösten estämättä antamaan Lupa- ja valvontaviraston pyytämät, sille tässä laissa säädettyjen tehtävien hoitamiseksi välttämättömät tiedot ja selvitykset.
