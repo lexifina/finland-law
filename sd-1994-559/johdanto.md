@@ -1,0 +1,2 @@
+Laki terveydenhuollon ammattihenkilöistä
+Eduskunnan päätöksen mukaisesti säädetään:

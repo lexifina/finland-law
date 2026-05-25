@@ -1,0 +1,7 @@
+# 6 § Oikeus harjoittaa lääkärin tai hammaslääkärin ammattia automaattisen tunnustamisen periaatteen nojalla
+Luku: 2 luku Oikeus toimia terveydenhuollon ammattihenkilönä
+Väliotsikko: Muussa Euroopan unioniin tai Euroopan talousalueeseen kuuluvassa valtiossa koulutuksen saanut
+
+Lupa- ja valvontavirasto myöntää hakemuksesta oikeuden harjoittaa Suomessa lääkärin tai hammaslääkärin ammattia laillistettuna ammattihenkilönä Euroopan unioniin kuuluvan valtion (EU-valtio) tai Euroopan talousalueeseen kuuluvan valtion (ETA-valtion) kansalaiselle, jolle on jossakin muussa EU- tai ETA-valtiossa kuin Suomessa suoritetun koulutuksen perusteella kyseisessä valtiossa myönnetty unionin tunnustamissäännöksissä tarkoitettu muodollista pätevyyttä osoittava asiakirja, joka kyseisessä valtiossa vaaditaan oikeuden saamiseksi lääkärin tai hammaslääkärin ammatin harjoittamiseen.
+
+Lupa- ja valvontavirasto myöntää hakemuksesta oikeuden harjoittaa Suomessa erikoislääkärin tai erikoishammaslääkärin ammattia laillistettuna ammattihenkilönä unionin tunnustamissäännöksissä mainituilla, Suomessa käytössä olevilla erikoisaloilla EU- tai ETA-valtion kansalaiselle, jolle on jossakin muussa EU- tai ETA-valtiossa kuin Suomessa saadun koulutuksen perusteella kyseisessä valtiossa myönnetty unionin tunnustamissäännöksissä tarkoitettu muodollista pätevyyttä osoittava asiakirja, joka kyseisessä valtiossa vaaditaan oikeuden saamiseksi erikoislääkärin tai erikoishammaslääkärin ammatin harjoittamiseen.

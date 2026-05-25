@@ -1,0 +1,8 @@
+# 27 § Ammattitoiminnassa tehty rikos
+Luku: 5 luku Terveydenhuollon ammattihenkilöiden ohjaus ja valvonta
+
+Jos terveydenhuollon ammattihenkilö on tuomittu vankeusrangaistukseen rikoksesta, jonka hän on tehnyt ammattitoiminnassaan, ja tuomioistuimen päätös on saanut lainvoiman ja jos rikokseen liittyvistä asianhaaroista on havaittavissa, ettei hän ole sen luottamuksen arvoinen, jota hänen tulee nauttia, Lupa- ja valvontavirasto voi laillistetulta ammattihenkilöltä poistaa määräajaksi tai, jos asianhaarat ovat erittäin raskauttavat, lopullisesti ammatinharjoittamisoikeuden tai luvan saaneelta ammattihenkilöltä peruuttaa ammatinharjoittamisluvan määräajaksi tai, jos asianhaarat ovat erittäin raskauttavat, lopullisesti taikka kieltää nimikesuojattua ammattihenkilöä määräajaksi tai jos asianhaarat ovat erittäin raskauttavat, lopullisesti käyttämästä nimikesuojatun ammattihenkilön ammattinimikettä.
+
+Jos valtion, kunnan, kuntayhtymän taikka hyvinvointialueen virassa oleva terveydenhuollon ammattihenkilö on rikoksen johdosta tuomittu erotettavaksi virantoimituksesta tai viralta pantavaksi, noudatetaan vastaavasti, mitä 1 momentissa säädetään.
+
+Jo ennen kuin tuomioistuimen päätös, jolla terveydenhuollon ammattihenkilö on tuomittu vankeusrangaistukseen taikka viralta pantavaksi tai virantoimituksesta erotettavaksi, on saanut lainvoiman, Lupa- ja valvontavirasto voi kieltää laillistettua ammattihenkilöä harjoittamasta ammattia tai peruuttaa luvan saanen ammattihenkilön ammatinharjoittamisluvan taikka kieltää nimikesuojattua ammattihenkilöä käyttämästä nimikesuojatun ammattihenkilön ammattinimikettä.

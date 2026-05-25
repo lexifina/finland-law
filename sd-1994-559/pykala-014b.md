@@ -1,0 +1,4 @@
+# 14 b § Hakemuksen käsittely eräissä tapauksissa
+Luku: 2 luku Oikeus toimia terveydenhuollon ammattihenkilönä
+
+Lupa- ja valvontaviraston on ilmoitettava 6, 7 ja 8 §:ssä, 10 §:n 1 momentissa ja 11 §:n 4 momentissa tarkoitetulle sekä 12 §:n nojalla ammattipätevyyden tunnustamista hakevalle hakijalle tämän toimittamien asiakirjojen vastaanottamisesta sekä mahdollisesti puuttuvista asiakirjoista kuukauden kuluessa asiakirjojen vastaanottamisesta. Edellä tarkoitettuun hakemukseen on annettava päätös viimeistään kolmen kuukauden kuluttua kaikkien vaadittavien asiakirjojen vastaanottamisesta. Jos hakemuksen käsittelyyn sovelletaan unionin tunnustamissäännösten mukaista yleistä tunnustamisjärjestelmää, päätös hakemukseen on kuitenkin annettava viimeistään neljän kuukauden kuluttua kaikkien vaadittavien asiakirjojen vastaanottamisesta.

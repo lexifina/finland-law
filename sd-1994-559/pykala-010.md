@@ -1,0 +1,6 @@
+# 10 § EU- tai ETA-valtiossa koulutuksen saanut kolmannen maan kansalainen
+Luku: 2 luku Oikeus toimia terveydenhuollon ammattihenkilönä
+
+Mitä 6–9 §:ssä säädetään, sovelletaan myös ammattipätevyyden tunnustamiseen ja palvelujen tarjoamiseen, joka perustuu muiden kuin EU- tai ETA-valtioiden kansalaisten asemaa koskevaan unionin lainsäädäntöön, kun tällaisen valtion kansalainen on suorittanut koulutuksensa pääosin EU- tai ETA-valtiossa.
+
+Lupa- ja valvontavirasto voi erityisestä syystä ja määrääminsä ehdoin myöntää muulle kuin 1 momentissa tarkoitetulle muun kuin EU- tai ETA-valtion kansalaiselle, joka on suorittanut koulutuksensa EU- tai ETA-valtiossa, ammatinharjoittamisluvan 4 §:ssä tai 5 §:n 1 momentissa tarkoitettuihin tehtäviin tai oikeuden toimia laillistettuna ammattihenkilönä Suomessa edellyttäen, että hakijalla on tehtävän edellyttämä tämän lain mukainen pätevyys ja riittävä kielitaito. Lupa- ja valvontavirasto voi vastaavasti hakemuksesta myöntää muulle kuin 1 momentissa tarkoitetulle muun kuin EU- tai ETA-valtion kansalaiselle, joka on suorittanut nimikesuojatun ammattihenkilön ammattiin johtavan, Lupa- ja valvontaviraston hyväksymän koulutuksen EU- tai ETA-valtiossa, oikeuden käyttää nimikesuojatun ammattihenkilön ammattinimikettä Suomessa edellyttäen, että hakijalla on tehtävän edellyttämä riittävä kielitaito.
