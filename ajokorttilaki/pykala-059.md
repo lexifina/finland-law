@@ -1,0 +1,17 @@
+# 59 § Muussa EU- tai ETA-valtiossa annettu ajokortti ja muu mopon ajolupa tai kuljetusoikeus
+Luku: 6 luku Muut ajokortit ja ulkomailla annetut ajokortit
+
+Muussa EU- tai ETA-valtiossa kuin Suomessa annettu ajokortti oikeuttaa kuljettamaan sellaista moottorikäyttöistä ajoneuvoa tai ajoneuvoyhdistelmää, jonka luokkaa vastaava yhdenmukaistettu luokkatunnus sisältyy ajokorttiin ja jonka 5 §:n mukaisen ikävaatimuksen ajokortin haltija täyttää. Ajo-oikeuden laajuudesta on voimassa, mitä 7 §:ssä säädetään, jollei ajokorttien vastavuoroisesta tunnustamisesta muuta johdu, ja kuljettajan ajoterveydentilan valvonnasta, mitä 20 ja 21 §:ssä säädetään. Mitä tässä momentissa säädetään, koskee myös Islannissa, Norjassa, Ruotsissa ja Tanskassa annettua väliaikaista ajokorttia. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä ajokorttidirektiivin 13 artiklan soveltamiseen liittyvästä Euroopan komission saavutettuja oikeuksia koskevasta vastaavuuspäätöksestä seuraavasta vastavuoroisesta tunnustamisesta.
+
+Ajo-oikeutta ei ole eikä ajokorttia hyväksytä, jos:
+1) ajokortin haltija on ajokiellossa Suomessa tai jossakin muussa EU- tai ETA-valtiossa tai jos ajokorttia on muuten rajoitettu tai se on poistettu tai määräajaksi peruutettu jossakin muussa EU- tai ETA-valtiossa;
+2) ajokortti on vaihdettu suomalaiseen ajokorttiin tai jonkin muun EU- tai ETA-valtion ajokorttiin;
+3) EU- tai ETA-valtiossa annetun ajokortin haltija asuu vakinaisesti Suomessa ja ajokortti on siihen tehdyn merkinnän mukaan vaihdettu uutta kuljettajantutkintoa suorittamatta sellaisessa valtiossa annetun ajokortin perusteella, joka ei ole Suomessa voimassa.
+
+Edellä 1 momentissa tarkoitetun muun ajokortin kuin väliaikaisen ajokortin vaihtamiseen ja uudistamiseen sovelletaan ajokorttilupaa sekä ajokortin luovuttamista ja uudistamista koskevia säännöksiä.
+
+Jos 1 momentissa tarkoitettu ajokortti väliaikaista ajokorttia lukuun ottamatta on kadonnut, anastettu tai tuhoutunut, annetaan hakemuksesta Suomessa vakinaisesti asuvalle tai täällä vähintään kuusi kuukautta opiskelleelle haltijalle ajokorttiluvan hakemista koskevia säännöksiä noudattaen vastaava uusi ajokortti. Hakemuksessa on ilmoitettava syy ajokortin hakemiselle. Liikenne- ja viestintäviraston on ilmoitettava ajokortin myöntäneelle viranomaiselle ajokortin korvaamisesta suomalaisella ajokortilla. Jos ajokortti löytyy myöhemmin, se on luovutettava Liikenne- ja viestintävirastolle kortin myöntäneelle viranomaiselle palauttamista varten.
+
+Mitä tässä pykälässä säädetään ajokortista, sovelletaan myös muussa EU- tai ETA-valtiossa annetun mopon ajoluvan kelpoisuuteen lukuun ottamatta mopon ajokorttia. Kuljettajan on täytettävä tässä laissa säädetyt mopon kuljettamista koskevat ikävaatimukset. Kevyen nelipyörän kuljettamiseksi vaaditaan AM-luokan tai muu vastaava kevyen nelipyörän kuljettamiseen oikeuttava ajokortti. AM-luokan ajokorttia vaihdettaessa ajokortti annetaan ilman 6 §:n 3 momentin 1 kohdassa ja 7 §:n 3 momentin 1 kohdassa tarkoitettuja merkintöjä. Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä tässä momentissa tarkoitetun mopon ajoluvan vaatimuksista.
+
+EU- ja ETA-valtioissa annettujen ajokorttien vastavuoroiseen tunnustamiseen liittyvä ajo-oikeuksia, ajokortteja sekä niihin liittyviä tietoja ja toimenpiteitä koskeva tietojenvaihto toteutetaan liikenneasioiden rekisteristä Euroopan unionin ajokorttiverkostoa käyttäen.

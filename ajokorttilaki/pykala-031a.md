@@ -1,0 +1,8 @@
+# 31 a § Ajokorttia ja muuta lupaa koskeva palvelutehtävä
+Luku: 3 luku Ajokorttilupa ja ajokortin myöntäminen
+
+Liikenne- ja viestintävirasto voi hoitaa 31 §:n 3 momentissa tarkoitetun tehtävän hankkimalla siihen liittyvän palvelun yksityiseltä tai julkiselta palvelun tuottajalta. Liikenne- ja viestintävirasto voi yhdistää siihen ajokortin saajilta palautuvien ajokorttien vastaanottamiseen liittyvän tehtävän. Tässä momentissa säädettyä voidaan soveltaa myös muuhun tässä laissa säädettyyn lupaan. Valtioneuvoston asetuksella säädetään tarkemmin palvelua tuotettaessa noudatettavasta menettelystä.
+
+Liikenne- ja viestintävirasto valvoo palvelun tuottajan toimintaa. Viraston on 8 b §:ää noudattaen sovittava palvelun tuottajan kanssa palvelutehtävän laajuudesta ja siihen liittyvistä muista vaatimuksista niin, että hyvän hallinnon vaatimukset toteutuvat. Palvelun tuottajan on oltava luotettava ja hänellä on oltava tehtävän hoitamisen edellyttämät muut tekniset, taloudelliset ja toiminnalliset valmiudet ja valmiudet huolehtia tehtävän edellyttämästä tietoturvallisuudesta.
+
+Tässä pykälässä tarkoitettuja tehtäviä hoidettaessa käsiteltävät henkilötiedot ovat salassa pidettäviä. Henkilötietojen käsittelyyn sovelletaan luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2016/679 (yleinen tietosuoja-asetus). Palvelun tuottajaan ja tämän palveluksessa olevaan sovelletaan näitä tehtäviä hoidettaessa rikosoikeudellista virkavastuuta koskevia säännöksiä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.
