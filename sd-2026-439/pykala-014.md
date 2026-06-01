@@ -1,0 +1,6 @@
+# 14 § Ilmoittavan viranomaisen ja ilmoitetun laitoksen oikeus luovuttaa salassa pidettäviä tietoja
+Luku: 3 luku Ilmoitetut laitokset
+
+Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa ja muualla laissa säädetään, ilmoittava viranomainen voi omasta aloitteestaan tai pyynnöstä salassapitosäännösten ja muiden tietojen luovuttamista koskevien rajoitusten estämättä luovuttaa tai ilmaista vaatimustenmukaisuuden arviointilaitoksen ilmoittamisen perusteita ja muuta sen pätevyyttä koskevan saamansa tai laatimansa asiakirjan tai tiedon Euroopan komissiolle ja toiselle Euroopan unionin jäsenvaltiolle, jos se on tarpeen kyberkestävyysasetuksessa säädetyn ilmoittavan viranomaisen velvoitteen toteuttamiseksi.
+
+Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa ja muualla laissa säädetään, ilmoitettu laitos voi omasta aloitteestaan tai pyynnöstä salassapitosäännösten ja muiden tietojen luovuttamista koskevien rajoitusten estämättä luovuttaa tai ilmaista vaatimustenmukaisuuden arviointia ja tarkastuksen tuloksia koskevan saamansa tai laatimansa asiakirjan tai tiedon Euroopan komissiolle, Euroopan unionin jäsenvaltiolle ja toiselle ilmoitetulle laitokselle, jos se on tarpeen kyberkestävyysasetuksessa säädetyn ilmoitetun laitoksen velvoitteen toteuttamiseksi.

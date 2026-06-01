@@ -1,0 +1,8 @@
+# 23 § Kyberturvallisuussertifiointia varten ilmoitetun vaatimustenmukaisuuden arviointilaitoksen velvollisuudet
+Luku: 5 luku Kyberturvallisuussertifiointi
+
+Kyberturvallisuussertifiointia varten ilmoitetun vaatimustenmukaisuuden arviointilaitoksen on suoritettava vaatimustenmukaisuuden arvioinnit kyberturvallisuusasetuksen ja sen nojalla annettujen säädösten mukaisten vaatimustenmukaisuuden arviointimenettelyjen edellyttämällä tavalla. Lisäksi vaatimustenmukaisuuden arviointilaitoksen on suoritettava muut kyberturvallisuusasetuksessa ja sen nojalla annetuissa säädöksissä säädetyt tehtävät.
+
+Kyberturvallisuussertifiointia varten ilmoitetun vaatimustenmukaisuuden arviointilaitoksen on ilmoitettava kyberturvallisuussertifioinnin viranomaiselle kaikista muutoksista, joilla on vaikutusta ilmoittamisen tai valtuuttamisen edellytysten täyttymiseen.
+
+Kyberturvallisuussertifiointia varten ilmoitetun vaatimustenmukaisuuden arviointilaitoksen sekä sen käyttämän tytäryhtiön ja alihankkijan palveluksessa olevaan henkilöön sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen hoitaessaan kyberturvallisuusasetuksessa ja tässä laissa tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.

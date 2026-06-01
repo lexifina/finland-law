@@ -1,0 +1,4 @@
+# 12 § Ilmoittamista koskeva hakemus
+Luku: 3 luku Ilmoitetut laitokset
+
+Suomeen sijoittautuneen vaatimustenmukaisuuden arviointilaitoksen on haettava ilmoittamista ilmoittavalta viranomaiselta. Hakemukseen on liitettävä Turvallisuus- ja kemikaaliviraston akkreditointiyksikön (FINAS-akkreditointipalvelu) antama akkreditointitodistus siitä, että vaatimustenmukaisuuden arviointilaitos täyttää kyberkestävyysasetuksessa säädetyt vaatimukset, sekä muut kyberkestävyysasetuksen 42 artiklassa tarkoitetut tiedot. Jos vaatimustenmukaisuuden arviointilaitos ei kuitenkaan voi liittää hakemukseen akkreditointitodistusta, sen on toimitettava ilmoittavalle viranomaiselle kaikki tarpeellinen tieto, jonka avulla voidaan varmentaa, todeta ja säännöllisesti valvoa, että se täyttää kyberkestävyysasetuksessa säädetyt vaatimukset.

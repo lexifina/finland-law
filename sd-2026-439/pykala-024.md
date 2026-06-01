@@ -1,0 +1,15 @@
+# 24 § Kyberturvallisuussertifikaatin myöntämiseen liittyvä tehtävien siirtäminen
+Luku: 5 luku Kyberturvallisuussertifiointi
+
+Kyberturvallisuussertifioinnin viranomainen voi siirtää tietyn eurooppalaisen kyberturvallisuuden sertifiointijärjestelmän osalta kyberturvallisuusasetuksen 52 artiklan 7 kohdassa tarkoitetun korkean varmuustason eurooppalaisen kyberturvallisuussertifikaatin myöntämiseen liittyvän tehtävän kyberturvallisuussertifiointia varten ilmoitetulle vaatimuksenmukaisuuden arviointilaitokselle:
+1) kyberturvallisuusasetuksen 56 artiklan 6 kohdan a alakohdassa tarkoitetussa tapauksessa siten, että kyberturvallisuussertifioinnin viranomainen hyväksyy ennalta kunkin kyberturvallisuussertifikaatin myöntämisen; tai
+2) kyberturvallisuusasetuksen 56 artiklan 6 kohdan b alakohdassa tarkoitetussa tapauksessa yleisesti siten, että arviointilaitos myöntää kyberturvallisuussertifikaatin ilman kyberturvallisuussertifioinnin viranomaisen erillistä hyväksyntää.
+
+Kyberturvallisuussertifiointia varten ilmoitetun vaatimustenmukaisuuden arviointilaitoksen kanssa tehtävässä sopimuksessa on sovittava ainakin:
+1) vaatimustenmukaisuuden arviointilaitoksen tehtävistä;
+2) tarpeellisista vaatimustenmukaisuuden arviointilaitoksen pätevyyteen ja sen toiminnan turvallisuuteen kohdistuvista erityisistä vaatimuksista;
+3) sopimuskaudesta, toiminnan aloittamisesta ja sopimuksen päättymisestä kesken sopimuskauden;
+4) vaatimustenmukaisuuden arviointilaitoksen toimintaan liittyvien asiakirjojen säilyttämisestä ja arkistoinnista;
+5) vaatimustenmukaisuuden arviointilaitoksen toiminnan puutteista ja laiminlyönneistä aiheutuvista seuraamuksista.
+
+Kyberturvallisuussertifioinnin viranomainen voi irtisanoa tai purkaa sopimuksen, jos kyberturvallisuussertifiointia varten ilmoitettu vaatimustenmukaisuuden arviointilaitos ei enää täytä vaatimuksia tai jos se olennaisesti laiminlyö sopimuksessa sovittujen tehtävien suorittamisen tai muutoin rikkoo sopimusta tai toimii olennaisesti tai toistuvasti lainvastaisesti.

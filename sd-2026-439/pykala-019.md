@@ -1,0 +1,6 @@
+# 19 § Markkinavalvontaviranomaisen oikeus tehdä tarkastuksia ja ottaa ohjelmistoja tutkittavaksi
+Luku: 4 luku Markkinavalvonta
+
+Sen lisäksi, mitä markkinavalvontalain 9 §:n 1 momentissa säädetään, tarkastus voidaan ulottaa myös pysyväisluonteiseen asumiseen käytettäviin tiloihin, joita talouden toimija käyttää elinkeino- tai ammattitoimintaansa liittyviin tarkoituksiin. Tarkastus pysyväisluonteiseen asumiseen käytettävään tilaan saadaan tehdä vain, jos se on välttämätöntä tarkastuksen kohteena olevien seikkojen selvittämiseksi ja on perusteltu ja yksilöity syy epäillä kyberkestävyysasetusta tai sen nojalla annettua säädöstä rikotun tai rikottavan tavalla, josta voi olla seuraamuksena tässä laissa tarkoitettu seuraamusmaksu. Lisäksi edellytyksenä on, että epäillyssä rikkomuksessa on kyse digitaalisen elementin sisältävän tuotteen tai siihen liittyvän prosessin vaatimustenvastaisuudesta tai kyberkestävyysasetuksen 57 artiklassa tarkoitetusta tilanteesta, jossa tuote muutoin aiheuttaa merkittävän kyberturvallisuusriskin.
+
+Markkinavalvontaviranomaisen oikeudesta ottaa tuotteita tutkittavaksi säädetään markkinavalvontalaissa. Ohjelmiston tutkittavaksi ottamisesta ei suoriteta talouden toimijalle korvausta.

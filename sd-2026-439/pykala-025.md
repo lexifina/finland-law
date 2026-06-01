@@ -1,0 +1,10 @@
+# 25 § Kyberturvallisuussertifioinnin viranomaisen tiedonsaanti- ja tarkastusoikeus
+Luku: 5 luku Kyberturvallisuussertifiointi
+
+Kyberturvallisuussertifioinnin viranomaisella on salassapitosäännösten ja muiden tietojen luovuttamista koskevien rajoitusten estämättä oikeus saada sen tässä laissa tai kyberturvallisuusasetuksessa säädettyjen tehtävien hoitamiseksi ja kyberturvallisuusasetuksen, sen nojalla annettujen säädösten ja tämän lain noudattamisen valvomiseksi välttämättömät tiedot vaatimustenmukaisuuden arviointilaitokselta, eurooppalaisen kyberturvallisuussertifikaatin haltijalta ja kyberturvallisuusasetuksen 53 artiklan 2 kohdassa tarkoitetulta EU-vaatimustenmukaisuusilmoituksen antajalta. Tiedot on luovutettava ilman aiheetonta viivytystä, viranomaisen pyytämässä muodossa ja maksutta.
+
+Kyberturvallisuussertifioinnin viranomaisella on oikeus tehdä vaatimustenmukaisuuden arviointilaitosta, eurooppalaisen kyberturvallisuussertifikaatin haltijaa tai EU-vaatimustenmukaisuusilmoitusten antajaa koskevia tarkastuksia kyberturvallisuusasetuksen, sen nojalla annettujen säädösten ja tämän lain noudattamisen valvomiseksi. Tarkastuksissa noudatetaan, mitä hallintolain (434/2003) 39 §:ssä säädetään.
+
+Kyberturvallisuussertifioinnin viranomaisella on oikeus teettää tarkastus riippumattomalla asiantuntijalla. Tarkastuksen suorittajalla ja siihen osallistuvalla on oltava sellainen koulutus ja kokemus kuin tarkastuksen suorittamiseksi on tarpeen. Riippumattomaan asiantuntijaan sovelletaan rikosoikeudellista virkavastuuta koskevia säännöksiä hänen suorittaessaan tässä pykälässä tarkoitettuja tehtäviä. Vahingonkorvausvastuusta säädetään vahingonkorvauslaissa.
+
+Tarkastusta suorittavalla kyberturvallisuussertifioinnin viranomaisella ja riippumattomalla asiantuntijalla on oikeus päästä kaikkiin tiloihin, joissa harjoitetaan kyberturvallisuusasetuksessa tarkoitettua toimintaa, sekä kaikkiin tiloihin ja tietojärjestelmiin, joissa säilytetään tai käsitellään valvonnan kannalta merkityksellisiä tietoja. Pysyväisluonteiseen asumiseen käytettäviin tiloihin tarkastuksia ei kuitenkaan saa ulottaa.

@@ -1,0 +1,4 @@
+# 28 § Kyberturvallisuussertifikaatin peruuttaminen
+Luku: 5 luku Kyberturvallisuussertifiointi
+
+Kyberturvallisuussertifioinnin viranomainen voi peruuttaa myöntämänsä tai kyberturvallisuussertifiointia varten ilmoitetun vaatimustenmukaisuuden arviointilaitoksen kyberturvallisuusasetuksen 56 artiklan 6 kohdan mukaisesti myöntämän eurooppalaisen kyberturvallisuussertifikaatin, jos kyberturvallisuussertifikaatti ei täytä kyberturvallisuusasetuksessa säädettyjä tai kyseisen eurooppalaisen kyberturvallisuuden sertifiointijärjestelmän vaatimuksia tai jos kyberturvallisuussertifikaatin haltija ei anna kyberturvallisuussertifioinnin viranomaiselle sen pyytämiä 25 §:n 1 momentissa tarkoitettuja tietoja eikä puutetta tai laiminlyöntiä korjata kohtuullisessa määräajassa.
