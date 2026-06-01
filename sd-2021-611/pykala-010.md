@@ -1,0 +1,7 @@
+# 10 § Tuottamista koskevan vastuun toteuttaminen ja sen valvonta
+Osa: I OSA YLEISET SÄÄNNÖKSET
+Luku: 2 luku Hyvinvointialueen tehtävät ja järjestämisvastuu
+
+Hyvinvointialueen tulee varmistaa, että sen järjestämisvastuulle kuuluvia palveluja tuottavalla muulla palveluntuottajalla on riittävät ammatilliset, toiminnalliset ja taloudelliset edellytykset huolehtia palveluiden tuottamisesta. Hyvinvointialueen tulee ottaa hallintosääntöönsä ja yksityisten palveluntuottajien kanssa tehtäviin sopimuksiin hyvinvointialueen järjestämisvastuun toteuttamiseksi tarvittavat määräykset.
+
+Hyvinvointialueen tulee ohjata ja valvoa sen järjestämisvastuulle kuuluvaa palvelutuotantoa. Hyvinvointialueella on oikeus saada yksityiseltä palveluntuottajalta ja tämän alihankkijalta maksutta ja salassapitosäännösten estämättä palveluiden asianmukaisen tuotannon edellytysten varmistamista ja valvonnan toteuttamista varten välttämättömät tiedot ja selvitykset. Hyvinvointialueen viranomaisella on lisäksi palveluiden asianmukaisen tuotannon edellytysten varmistamista ja valvonnan toteuttamista varten oikeus tarkastaa yksityisen palveluntuottajan ja tämän alihankkijan tiloja ja laitteita sekä päästä tässä yhteydessä yksityisen palveluntuottajan ja tämän alihankkijan hallinnassa oleviin tiloihin. Tarkastusoikeutta ei ole kuitenkaan pysyväisluonteiseen asumiseen käytettyihin tiloihin, ellei tarkastaminen ole välttämätöntä asiakkaan aseman ja oikeuksien sekä asianmukaisten palvelujen turvaamiseksi. Tarkastukseen sovelletaan muutoin, mitä hallintolain (434/2003) 39 §:ssä säädetään.

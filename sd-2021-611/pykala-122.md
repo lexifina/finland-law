@@ -1,0 +1,11 @@
+# 122 § Hyvinvointialueen arviointimenettely
+Osa: IV OSA LUOTTAMUSHENKILÖT JA HENKILÖSTÖ
+Luku: 13 luku Talous
+
+Valtiovarainministeriö käynnistää päätöksellään 123 §:ssä tarkoitettujen edellytysten täyttyessä tai sosiaali- ja terveydenhuollon järjestämisestä annetun lain 27 §:ssä tarkoitetun sosiaali- ja terveysministeriön aloitteen perusteella arviointimenettelyn, jossa valtio ja hyvinvointialue arvioivat hyvinvointialueen taloudellisia sekä sosiaali- ja terveyspalvelujen ja pelastustoimen palvelujen järjestämiseen liittyviä edellytyksiä selvitä tehtävistään (hyvinvointialueen arviointimenettely).
+
+Arviointimenettelyä varten asetetaan arviointiryhmä, jonka jäsenet nimeävät valtiovarainministeriö, sosiaali- ja terveysministeriö, sisäministeriö ja hyvinvointialue. Valtiovarainministeriö nimeää hyvinvointialuetta kuultuaan ryhmän puheenjohtajaksi hyvinvointialueesta ja ministeriöistä riippumattoman henkilön.
+
+Arviointiryhmä tekee ehdotuksen hyvinvointialueen talouden tervehdyttämiseksi sekä sosiaali- ja terveyspalvelujen ja pelastustoimen palvelujen järjestämisen edellytysten turvaamiseksi tarvittavista toimista. Lisäksi arviointiryhmän on käsiteltävä hyvinvointialuejakolain 6 §:ssä tarkoitettu ehdotus hyvinvointialueen muuttamisen vireillepanosta. Aluevaltuuston on käsiteltävä arviointiryhmän toimenpide-ehdotukset ja saatettava niitä koskeva päätös valtiovarainministeriön tietoon mahdollisia jatkotoimenpiteitä varten. Talousarvio ja -suunnitelma on laadittava siten, että ne toteuttavat aluevaltuuston päätöksiä toimenpiteistä. Toimenpiteistä raportoidaan neljännesvuosittain osavuosikatsausten ja tilinpäätöksen yhteydessä sekä 13 a §:ssä tarkoitetussa neuvottelussa. Toimintakertomuksessa on esitettävä selvitys toimenpiteiden toteutumisesta ja riittävyydestä tilikaudella. Hyvinvointialueen on saatettava selvitys valtiovarainministeriön tietoon tilikautta seuraavan vuoden kesäkuun loppuun mennessä.
+
+Valtiovarainministeriö päättää arviointiryhmän toimenpide-ehdotusten ja aluevaltuuston päätösten perusteella hyvinvointialuejakolain 8 §:ssä tarkoitetun aluejakoselvittäjän asettamisesta selvittämään hyvinvointialueen muuttamista. Ratkaisu aluejakoselvityksen tarpeellisuudesta voidaan tehdä myös uutta arviointimenettelyä käynnistämättä, jos toimenpiteet eivät ole toteutuneet ja 123 §:n 1 momentissa säädetyt edellytykset täyttyvät.

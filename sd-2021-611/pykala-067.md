@@ -1,0 +1,9 @@
+# 67 § Hyvinvointiyhtymän jakautuminen
+Osa: III OSA TOIMIELIMET JA JOHTAMINEN
+Luku: 8 luku Hyvinvointialueiden yhteistoiminta
+
+Hyvinvointiyhtymä voi jakautua kokonaan tai osittain kahteen tai useampaan toimintaa jatkavaan uuteen hyvinvointiyhtymään tai vastaanottavaan hyvinvointiyhtymään, joka on perustettu ennen jakaantumisen voimaantuloa. Hyvinvointiyhtymän jakautuessa henkilöstö, luvat, varat, oikeudet, velat ja sitoumukset siirtyvät jakautumisen voimaantullessa ilman purkumenettelyä niihin hyvinvointiyhtymiin, jotka jatkavat hyvinvointiyhtymän toimintaa. Omaisuuden sekä velkojen ja velvoitteiden jakaminen hyvinvointiyhtymien kesken ei saa vaarantaa velkojien ja muiden oikeudenhaltijoiden asemaa. Hyvinvointiyhtymän jakautuessa kokonaan hyvinvointiyhtymä lakkaa ilman purkumenettelyä.
+
+Hyvinvointiyhtymän jakautumiseen osallistuvien hyvinvointiyhtymien jäsenenä olevien hyvinvointialueiden valtuustot päättävät hyvinvointiyhtymän jakautumisesta hyväksymällä jakautumissopimuksen. Jakautumiseen osallistuvilla hyvinvointiyhtymillä tarkoitetaan jakautuvaa hyvinvointiyhtymää sekä toimintaa jatkavaa uutta ja vastaanottavaa hyvinvointiyhtymää. Jakautumissopimuksessa on sovittava ainakin jakautumisen voimaantulosta, jakautumisessa noudatettavasta menettelystä ja toimintaa jatkavien hyvinvointiyhtymien perussopimuksista. Lisäksi on sovittava kokonaan jakautuvan hyvinvointiyhtymän viimeisen tilinpäätöksen valmistelusta sekä tiedonhallinnan ja asiakirjahallinnon järjestämisestä. Jakautumissopimukseen sisältyvä määräys omaisuuden siirtymisestä vastaa omaisuuden saantokirjaa.
+
+Toimintaa jatkavan uuden hyvinvointiyhtymän ensimmäinen talousarvio ja -suunnitelma hyväksytään jakautuvassa hyvinvointiyhtymässä. Jakautuvan hyvinvointiyhtymän viimeinen tilinpäätös hyväksytään ja vastuuvapaudesta päätetään jakautumiseen osallistuvissa hyvinvointiyhtymissä.

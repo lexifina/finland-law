@@ -1,0 +1,11 @@
+# 21 § Valtakunnallinen toimitila- ja kiinteistöhallinnon osaamiskeskus
+Osa: I OSA YLEISET SÄÄNNÖKSET
+Luku: 3 luku Hyvinvointialueen suhde valtioon ja kuntiin
+
+Toimitila- ja kiinteistöhallinnon osaamiskeskus on hyvinvointialueiden yhteisesti omistama osakeyhtiö, jossa valtio voi olla osakkaana. Osaamiskeskuksen tehtävänä on ylläpitää hyvinvointialueiden yhteistä tilatietojärjestelmää ja siihen liittyviä palveluja sekä antaa vuosittain hyvinvointialueille ja valtioneuvostolle selvitys hyvinvointialueiden tekemistä toimitiloja koskevista investointipäätöksistä ja niiden vaikutuksista hyvinvointialueiden talouteen. Lisäksi hyvinvointialueet voivat antaa osaamiskeskukselle muita toimitila- tai kiinteistöhallintoa koskevia tehtäviä. Hyvinvointialue ei saa myydä, pantata eikä muutoin luovuttaa osaamiskeskuksen osakkeita muille tahoille kuin toiselle hyvinvointialueelle tai valtiolle.
+
+Osaamiskeskuksen asiakkaita ovat osakkaat ja ne hyvinvointialueiden määräysvallassa olevat, osaamiskeskuksen toimialan tehtäviä hoitavat yhteisöt, jotka eivät toimi 131 §:ssä tarkoitetulla tavalla kilpailutilanteessa markkinoilla. Hyvinvointialueen ja sen tytäryhteisön on käytettävä 1 momentissa tarkoitettua tilatietojärjestelmää ja siihen liittyviä palveluja sekä jos hyvinvointialueet niin sopivat, muita osaamiskeskuksen tuottamia palveluja.
+
+Osaamiskeskuksella on oikeus saada pyynnöstä hyvinvointialueelta ja hyvinvointialueen tytäryhteisöltä sekä kunnilta tehtäviensä hoitamista varten tarpeelliset tiedot ja asiakirjat, jollei salassapitoa ja henkilötietojen käsittelyä koskevista säännöksistä muuta johdu. Hyvinvointialueilla on oikeus saada osaamiskeskukselta tarpeellisiksi katsomansa tiedot ja asiakirjat keskuksen ohjausta ja valvontaa, hyvinvointialueen investointien suunnittelua sekä hyvinvointialueen toiminta- ja taloussuunnittelun ja tilinpäätöksen laatimista varten. Ministeriöillä on oikeus saada osaamiskeskukselta tarpeellisiksi katsomansa tiedot hyvinvointialueiden ohjausta, rahoitusta ja valvontaa varten.
+
+Valtioneuvoston asetuksella voidaan säätää tarkemmin osaamiskeskuksen tehtävistä ja käyttövelvoitteen piiriin kuuluvista palveluista. Ennen valtioneuvoston asetuksen antamista on kuultava hyvinvointialueita ja tarvittavassa laajuudessa hyvinvointialueen tytäryhteisöjä.
