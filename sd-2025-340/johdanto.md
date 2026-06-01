@@ -1,0 +1,2 @@
+Laki asuntolainan valtiontakauksesta
+Eduskunnan päätöksen mukaisesti säädetään:
