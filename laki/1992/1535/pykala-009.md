@@ -8,7 +8,7 @@ Velvollinen suorittamaan veroa tulon perusteella on:
 
 Rajoitetusti verovelvollinen ei ole verovelvollinen täältä saamastaan korkotulosta, joka on maksettu ulkomaankaupassa syntyneelle tilisaamiselle, pankkiin tai muuhun rahalaitokseen talletetuille varoille, obligaatiolle, debentuurille, muulle joukkovelkakirjalainalle taikka sellaiselle ulkomailta Suomeen otetulle lainalle, jota ei ole katsottava lainansaajan omaan pääomaan rinnastettavaksi pääomansijoitukseksi.
 
-Jos henkilöllä, joka ei asu Suomessa, tai ulkomaisella yhteisöllä tai yhteenliittymällä on Suomessa elinkeinon harjoittamista varten kiinteä toimipaikka, on tällainen henkilö, yhteisö tai yhteenliittymä 1 momentin 2 kohdan ja 2 momentin estämättä velvollinen suorittamaan veroa tulon perusteella kaikesta tähän kiinteään toimipaikkaan kuuluvaksi luettavasta tulosta.
+Jos henkilöllä, joka ei asu Suomessa, tai ulkomaisella yhteisöllä tai yhteenliittymällä on Suomessa elinkeinon harjoittamista varten kiinteä toimipaikka, on tällainen henkilö, yhteisö tai yhteenliittymä 1 momentin 2 kohdassa ja 2 momentissa säädetyn estämättä velvollinen suorittamaan veroa tulon perusteella kaikesta tähän kiinteään toimipaikkaan 9 b §:n mukaisesti kuuluvaksi luettavasta tulosta.
 
 Verovelvollista, joka ainoastaan osan verovuotta on asunut Suomessa, verotetaan tältä ajalta 1 momentin 1 kohdan ja muulta osalta vuotta 2 kohdan mukaan.
 

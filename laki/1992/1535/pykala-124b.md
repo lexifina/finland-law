@@ -9,7 +9,7 @@ Poiketen siitä, mitä 124 §:n 3 momentissa säädetään:
 4) vuonna 2023 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 4,78;
 5) vuonna 2024 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 4,74;
 6) vuonna 2025 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 4,73;
-7) vuonna 2026 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 4,58;
-8) vuonna 2027 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 4,61;
-9) vuonna 2028 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 4,65;
-10) vuonna 2029 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 4,66.
+7) vuonna 2026 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 4,57;
+8) vuonna 2027 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 4,60;
+9) vuonna 2028 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 4,63;
+10) vuonna 2029 edellä 21 §:n 1 momentissa tarkoitetun osittain verovapaan yhteisön ja tiekunnan sekä yleishyödyllisen yhteisön kiinteistöstä saadun tulon tuloveroprosentti on 4,64.
