@@ -7,7 +7,7 @@ Poliisi saa käyttää peiteltyä tiedonhankintaa, jos on syytä olettaa, että 
 1) rikoksesta, josta säädetty ankarin rangaistus on vähintään neljä vuotta vankeutta;
 2) seksikaupan kohteena olevan henkilön hyväksikäytöstä tai parituksesta;
 3) huumausainerikoksesta;
-4) terroristisessa tarkoituksessa tehtävän rikoksen valmistelusta taikka kouluttautumisesta terrorismirikoksen tekemistä varten tai matkustamisesta terrorismirikoksen tekemistä varten, jos teon vakavuus edellyttäisi vankeusrangaistusta;
+4) rikoslain 34 a luvun 2 §:n 1 momentin 1 kohdassa tarkoitetusta terroristisessa tarkoituksessa tehdystä rikoksesta, terroristisesta matkustamisesta, terroristisen matkustamisen edistämisestä tai, jos teon vakavuus edellyttäisi vankeusrangaistusta, terroristisesta julkisesta kehottamisesta;
 5) törkeästä tulliselvitysrikoksesta;
 6) suunnitelmalliseen, järjestäytyneeseen, ammattimaiseen, jatkuvaan tai toistuvaan rikolliseen toimintaan liittyvästä varkaudesta tai kätkemisrikoksesta;
 7) panttivangin ottamisen valmistelusta; taikka
