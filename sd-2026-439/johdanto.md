@@ -1,0 +1,2 @@
+Laki eräiden tuotteiden kyberkestävyydestä sekä kyberturvallisuussertifioinnista
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,6 @@
+# 20 § Avoimen lähdekoodin ohjelmistovastaavan valvonta
+Luku: 4 luku Markkinavalvonta
+
+Markkinavalvontaviranomainen voi ohjeistaa avoimen lähdekoodin ohjelmistovastaavaa kyberkestävyysasetuksessa säädetyistä velvollisuuksista sekä ehdottaa käytännöllisiä parannuksia ohjelmistovastaavan ylläpitämän avoimen lähdekoodin ohjelmistoprojektin sisältöön tai toimintatapoihin.
+
+Markkinavalvontaviranomainen voi velvoittaa avoimen lähdekoodin ohjelmistovastaavan korjaamaan kohtuullisessa määräajassa havaitsemansa puutteet kyberkestävyysasetuksessa säädettyjen velvollisuuksien noudattamisessa. Markkinavalvontaviranomainen voi julkaista tietoja havaitsemistaan puutteista tai tiedottaa asiasta, mikäli havaittuja puutteita ei korjata kohtuullisessa määräajassa.

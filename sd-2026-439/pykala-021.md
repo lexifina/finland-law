@@ -1,0 +1,6 @@
+# 21 § Kansallinen kyberturvallisuussertifioinnin viranomainen
+Luku: 5 luku Kyberturvallisuussertifiointi
+
+Kyberturvallisuusasetuksen 58 artiklassa tarkoitettuna kansallisena kyberturvallisuussertifioinnin myöntävänä viranomaisena (kyberturvallisuussertifioinnin viranomainen) toimii Liikenne- ja viestintävirasto.
+
+Liikenne- ja viestintäviraston eurooppalaisten kyberturvallisuussertifikaattien myöntämiseen liittyvät tehtävät on eriytettävä kyberturvallisuusasetuksen 58 artiklan mukaisesta valvontatoiminnasta ja varmistettava, että nämä toiminnot suoritetaan toisistaan riippumattomasti.

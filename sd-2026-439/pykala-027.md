@@ -1,0 +1,6 @@
+# 27 § Valvontapäätös
+Luku: 5 luku Kyberturvallisuussertifiointi
+
+Kyberturvallisuussertifioinnin viranomainen voi velvoittaa vaatimustenmukaisuuden arviointilaitoksen, eurooppalaisen kyberturvallisuussertifikaatin haltijan tai EU-vaatimustenmukaisuusilmoitusten antajan määräajassa korjaamaan puutteet sen tässä laissa tai kyberturvallisuusasetuksessa tai sen nojalla säädettyjen velvollisuuksien noudattamisessa.
+
+Kyberturvallisuussertifioinnin viranomainen voi asettaa tämän pykälän nojalla antamansa päätöksen tehosteeksi uhkasakon tai uhan, että velvollisuuksien vastainen toiminta keskeytetään tai tekemättä jätetty toimenpide teetetään vaatimustenmukaisuuden arviointilaitoksen, eurooppalaisen kyberturvallisuussertifikaatin haltijan tai EU-vaatimustenmukaisuusilmoituksen antajan kustannuksella.
