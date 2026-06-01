@@ -1,8 +1,6 @@
-# 3 § Terroristiryhmän johtaminen
-Luku: 34 a luku Terrorismirikoksista
+# 3 § Terroristisessa tarkoituksessa tehty radiologista asetta koskeva rikos
+Luku: 34 a luku Terroristisista rikoksista
 
-Joka johtaa terroristiryhmää, jonka toiminnassa on tehty 1 §:n 1 momentin 2–8 kohdassa tai 2 momentissa tai 1 a §:ssä tarkoitettu rikos tai sellaisen rikoksen rangaistava yritys taikka 2 §:ssä tarkoitettu rikos, on tuomittava terroristiryhmän johtamisesta vankeuteen vähintään kahdeksi ja enintään kahdeksitoista vuodeksi.
+Joka terroristisessa tarkoituksessa siten, että teko on omiaan aiheuttamaan vakavaa vahinkoa jollekin maalle tai kansainväliselle järjestölle, valmistaa, hankkii, kuljettaa, toimittaa tai kehittää ydinterrorismin torjumisesta tehdyn kansainvälisen yleissopimuksen (SopS 6/2009) 1 artiklan 4 kappaleen b kohdassa tarkoitetun laitteen, pitää sellaista laitetta hallussaan tai harjoittaa tutkimustoimintaa sellaisen laitteen valmistamista varten, on tuomittava terroristisessa tarkoituksessa tehdystä radiologista asetta koskevasta rikoksesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kahdeksaksi vuodeksi.
 
-Joka johtaa terroristiryhmää, jonka toiminnassa on tehty vain 1 §:n 1 momentin 1 kohdassa tarkoitettu rikos, on tuomittava terroristiryhmän johtamisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kuudeksi vuodeksi.
-
-Joka tuomitaan terroristiryhmän johtamisesta, on tuomittava myös tekemästään tai hänen johdollaan terroristiryhmän toiminnassa tehdystä 1 §:ssä tarkoitetusta rikoksesta tai sellaisen rikoksen rangaistavasta yrityksestä taikka 2 §:ssä tarkoitetusta rikoksesta.
+Yritys on rangaistava.

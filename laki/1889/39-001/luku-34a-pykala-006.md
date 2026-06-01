@@ -1,12 +1,15 @@
-# 6 § Määritelmät
-Luku: 34 a luku Terrorismirikoksista
+# 6 § Terroristiryhmän toimintaan osallistuminen
+Luku: 34 a luku Terroristisista rikoksista
 
-Rikoksentekijällä on terroristinen tarkoitus, jos hänen tarkoituksenaan on:
-1) aiheuttaa vakavaa pelkoa väestön keskuudessa;
-2) pakottaa oikeudettomasti jonkin valtion hallitus tai muu viranomainen taikka kansainvälinen järjestö tekemään, sietämään tai tekemättä jättämään jotakin;
-3) oikeudettomasti kumota jonkin valtion valtiosääntö tai muuttaa sitä tai horjuttaa vakavasti valtion oikeusjärjestystä taikka aiheuttaa erityisen suurta vahinkoa valtiontaloudelle tai valtion yhteiskunnallisille perusrakenteille; tai
-4) aiheuttaa erityisen suurta vahinkoa kansainvälisen järjestön taloudelle tai sellaisen järjestön muille perusrakenteille.
+Joka terrorismirikoksen tai terrorismirikoksen valmistelun tekemistä varten
+1) varustaa tai yrittää varustaa terroristiryhmää räjähteillä, aseilla, ampumatarvikkeilla tai niiden valmistamiseen tarkoitetuilla aineilla tai tarvikkeilla taikka muilla vaarallisilla esineillä tai aineilla,
+2) hankkii tai yrittää hankkia taikka luovuttaa terroristiryhmälle toimitiloja tai muita sen tarvitsemia tiloja taikka kulkuvälineitä tai muita ryhmän toiminnan kannalta tärkeitä välineitä,
+3) hankkii tai yrittää hankkia tiedon, jonka tuleminen terroristiryhmän tietoon on omiaan aiheuttamaan vakavaa vahinkoa maalle tai kansainväliselle järjestölle, taikka välittää, luovuttaa tai ilmaisee terroristiryhmälle sellaisen tiedon,
+4) huolehtii terroristiryhmän tietoteknologisista tehtävistä,
+5) osallistuu terroristiryhmän aseelliseen toimintaan,
+6) organisoi terroristiryhmän,
+7) suorittaa terroristiryhmän toimintaa ylläpitäviä tukitoimia tai
+8) hoitaa muuta terrorismirikoksen tai terrorismirikoksen valmistelun tekemisen kannalta olennaista terroristiryhmän tehtävää,
+on tuomittava terroristiryhmän toimintaan osallistumisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään kahdeksaksi vuodeksi.
 
-Terroristiryhmällä tarkoitetaan vähintään kolmen henkilön muodostamaa tietyn ajan koossa pysyvää rakenteeltaan jäsentynyttä yhteenliittymää, joka toimii yhteistuumin tehdäkseen 1 tai 1 a §:ssä tarkoitettuja rikoksia.
-
-Kansainvälisellä järjestöllä tarkoitetaan hallitustenvälistä tai merkityksensä ja kansainvälisesti tunnustetun asemansa perusteella siihen rinnastettavaa järjestöä.
+Terroristiryhmän toimintaan osallistumista ei ole rikoksen esitutkintaan tai tuomioistuinkäsittelyyn taikka rangaistuksen täytäntöönpanoon liittyvä oikeudellisen avustajan tai asiamiehen tehtävien hoitaminen.

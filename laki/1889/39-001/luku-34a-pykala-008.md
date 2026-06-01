@@ -1,6 +1,4 @@
-# 8 § Oikeushenkilön rangaistusvastuu
-Luku: 34 a luku Terrorismirikoksista
+# 8 § Terroristinen kouluttautuminen
+Luku: 34 a luku Terroristisista rikoksista
 
-Tässä luvussa mainittuihin rikoksiin sovelletaan, mitä oikeushenkilön rangaistusvastuusta säädetään.
-
-Mitä oikeushenkilön rangaistusvastuusta säädetään, sovelletaan myös 1 tai 1 a §:ssä tai 2 §:n 3 kohdassa tarkoitetun rikoksen tekemiseksi tehtyyn ryöstöön, törkeään ryöstöön, kiristykseen ja törkeään kiristykseen sekä 1 §:n 1 momentin 2–8 kohdassa tai 2 momentissa, 1 a §:ssä tai 2 §:n 3 kohdassa taikka 4, 5 tai 5 c §:ssä tarkoitetun rikoksen tekemiseksi tehtyyn väärennykseen ja törkeään väärennykseen.
+Joka terrorismirikoksen tai terrorismirikoksen valmistelun tekemistä varten kouluttautuu räjähteiden, ampuma-aseiden tai muiden aseiden taikka myrkyllisten tai haitallisten aineiden valmistuksessa tai käytössä taikka muiden näihin merkitykseltään rinnastuvien erityisten menetelmien tai tekniikoiden käytössä, on tuomittava terroristisesta kouluttautumisesta vankeuteen vähintään neljäksi kuukaudeksi ja enintään neljäksi vuodeksi.

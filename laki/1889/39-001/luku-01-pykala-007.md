@@ -8,5 +8,5 @@ Suomen lakia sovelletaan tekopaikan laista riippumatta myös sellaiseen Suomen u
 Suomen lakia sovelletaan tekopaikan laista riippumatta myös Suomen ulkopuolella tehtyyn:
 1) ihmiskauppaan ja törkeään ihmiskauppaan;
 2) 34 a luvussa rangaistavaksi säädettyyn rikokseen;
-3) 34 a luvun 1 tai 1 a §:ssä taikka 2 §:n 3 kohdassa tarkoitetun rikoksen tekemiseksi tehtyyn ryöstöön, törkeään ryöstöön, kiristykseen ja törkeään kiristykseen; sekä
-4) 34 a luvun 1 §:n 1 momentin 2–8 kohdassa tai 2 momentissa, 1 a §:ssä, 2 §:n 3 kohdassa taikka 4, 5 tai 5 c §:ssä tarkoitetun rikoksen tekemiseksi tehtyyn väärennykseen ja törkeään väärennykseen.
+3) 34 a luvun 2 tai 3 §:ssä tarkoitetun rikoksen tekemiseksi tehtyyn ryöstöön, törkeään ryöstöön, kiristykseen ja törkeään kiristykseen;
+4) 34 a luvun 2 §:n 1 momentin 2–9 kohdassa taikka 2 tai 3 momentissa taikka 3, 6, 10 tai 12 §:ssä tarkoitetun rikoksen tekemiseksi tehtyyn väärennykseen ja törkeään väärennykseen.
