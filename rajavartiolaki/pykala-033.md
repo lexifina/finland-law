@@ -1,0 +1,6 @@
+# 33 § Rajavartiomiehen toimivaltuudet poliisitehtävissä
+Luku: 5 luku Toimivaltuussäännökset
+
+Rajavartiomiehellä on 21 §:ssä tarkoitetuissa yleisen järjestyksen ja turvallisuuden ylläpitämiseksi tarpeellisissa poliisitehtävissä, 22 §:ssä tarkoitettujen terroristisessa tarkoituksessa tehtävien rikosten torjumiseksi ja erityistilanteiden hoitamiseksi, Prüm- ja Atlas -yhteistyössä sekä merenkulun turvatoimilaissa tarkoitetussa Rajavartiolaitokselle kuuluvassa tehtävässä poliisilain 2 ja 3 luvussa tarkoitetut toimivaltuudet sekä oikeus 5 luvun 17 §:n 5 momentissa tarkoitettuun tekniseen kuunteluun ja 19 §:n 5 momentissa tarkoitettuun tekniseen katseluun, jollei päällystöön kuuluva poliisimies tai poliisin kenttäjohtaja niitä rajoita.
+
+Mitä poliisilain 2 luvun 4 §:n 2 momentissa, 6 §:n 3 momentissa ja 8 §:n 2 momentissa säädetään päällystöön kuuluvasta poliisimiehestä, sovelletaan Rajavartiolaitoksessa vähintään kapteenin tai kapteeniluutnantin arvoiseen rajavartiomieheen. Poliisilain 5 luvun 17 §:n 5 momentissa tarkoitetun teknisen kuuntelun ja 19 §:n 5 momentissa tarkoitetun teknisen katselun toimivaltuuden käyttämisestä 1 momentissa tarkoitetussa tilanteessa päättää Rajavartiolaitoksessa pidättämiseen oikeutettu virkamies.

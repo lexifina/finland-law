@@ -1,0 +1,6 @@
+# 79 a § Puolustusvoimien tuki Rajavartiolaitokselle kansainvälistä apua annettaessa
+Luku: 11 luku Erinäiset säännökset
+
+Puolustusvoimat voi antaa Rajavartiolaitokselle sen tehtävän suorittamiseksi virka-apua vastaavaa tukea toisen valtion alueella 15 b ja 15 d §:ssä tarkoitetuissa tilanteissa. Tukeen eivät kuulu sotilaalliset voimakeinot eivätkä rajavartiomiehen toimivaltuudet. Sivullisen oikeudesta välttämättömien voimakeinojen käyttämiseen rajavartiomiehen ohjauksessa säädetään 35 §:n 2 momentissa ja oikeudesta hätävarjeluun rikoslain 4 luvun 4 §:ssä. Hätävarjelun liioittelusta säädetään rikoslain 4 luvun 4 §:n 2 momentissa ja 7 §:ssä sekä voimakeinojen käytön liioittelusta 4 luvun 6 §:n 3 momentissa ja 7 §:ssä.
+
+Tuen pyytämisestä Puolustusvoimilta säädetään 79 §:n 3 momentissa. Jos kyse on 15 d §:n mukaiseen rajaturvallisuusapuun liittyvästä tuesta taikka taloudellisesti erityisen merkittävästä tuesta, tuen pyytämisestä Puolustusvoimilta päättää kuitenkin sisäministeriö. Tuen antamisesta päätetään noudattaen puolustusvoimista annetun lain 12 §:n 3 momentissa säädettyä menettelyä. Päätöksenteosta kansainvälisen avun antamisessa ja pyytämisessä säädetään lisäksi kansainvälistä apua, yhteistoimintaa tai muuta kansainvälistä toimintaa koskevasta päätöksenteosta annetussa laissa.

@@ -1,0 +1,6 @@
+# 29 d § Teknisen ja radioteknisen valvonnan laitteistot
+Luku: 5 luku Toimivaltuussäännökset
+
+Rajavartiolaitos saa asettaa teknistä laitteistoa teknistä valvontaa ja radioteknistä valvontaa varten rajavyöhykkeellä sekä rajanylityspaikalla ja sen välittömässä läheisyydessä ilman maa- tai vesialueen omistajan tai haltijan lupaa. Muualle teknistä laitteistoa voidaan asettaa ilman maa- tai vesialueen omistajan tai haltijan lupaa tilapäisesti enintään kuudeksi kuukaudeksi kerrallaan. Teknisen laitteiston asettamisesta aiheutuvasta vahingosta ja haitasta suoritetaan maa- tai vesialueen omistajalle tai haltijalle käyvän hinnan mukainen korvaus. Jos teknistä laitteistoa asetetaan 50 §:n 3 momentissa tarkoitetun pysyvän esteen rakentamisen yhteydessä, korvauksesta päättämiseen sovelletaan, mitä kiinteän omaisuuden ja erityisten oikeuksien lunastuksesta annetussa laissa (603/1977) säädetään lunastustoimituksesta ja lunastuksen päättymisestä, korvauksen määräämisestä ja suorittamisesta, jälkikorvauksen määräämisestä, kustannuksista, muutoksenhausta sekä korosta.
+
+Liikenne- ja viestintävirasto tarkastaa, ettei radioteknisessä valvonnassa käytettävä tekninen järjestelmä ominaisuuksiensa vuoksi aiheuta haitallista häiriötä yleisen viestintäverkon laitteille tai palveluille.

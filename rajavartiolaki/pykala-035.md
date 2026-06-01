@@ -1,0 +1,10 @@
+# 35 § Rajavartiomiehen voimakeinot
+Luku: 5 luku Toimivaltuussäännökset
+
+Rajavartiomiehellä on virkatehtävää suorittaessaan oikeus, jollei muualla laissa toisin säädetä, vastarinnan murtamiseksi, henkilön paikalta poistamiseksi, kiinniottamisen toimittamiseksi, vapautensa menettäneen pakenemisen estämiseksi, esteen poistamiseksi taikka välittömästi uhkaavan rikoksen tai muun vaarallisen teon tai tapahtuman estämiseksi käyttää sellaisia tarpeellisia voimakeinoja, joita voidaan pitää puolustettavina. Rajavartiomiehen voimakeinojen puolustettavuutta arvioitaessa on otettava huomioon virkatehtävän tärkeys ja kiireellisyys, vastarinnan vaarallisuus, käytettävissä olevat voimavarat sekä muut tilanteen kokonaisarvosteluun vaikuttavat seikat. Jos voimakeinojen käyttäminen on välttämätöntä, on niitä käytettävä vain siinä määrin ja siihen saakka, kun laissa säädetyn virkatehtävän suorittamiseksi välttämättä on tarpeen (lievimmän keinon periaate).
+
+Sillä, joka rajavartiomiehen pyynnöstä tai tämän suostumuksella tilapäisesti avustaa rajavartiomiestä tilanteessa, jossa on välttämätöntä turvautua sivullisen voimakeinoapuun erittäin tärkeän ja kiireellisen rajavartiolaitoksen tehtävän suorittamisessa, on oikeus rajavartiomiehen ohjauksessa sellaisten välttämättömien voimakeinojen käyttämiseen, joihin rajavartiomies toimivaltansa rajoissa hänet valtuuttaa.
+
+Voimakeinojen käytön liioittelusta säädetään rikoslain (39/1889) 4 luvun 6 §:n 3 momentissa ja 7 §:ssä. Oikeudesta voimakeinojen käyttämiseen aluevalvontatehtävässä säädetään aluevalvontalaissa (755/2000). Siitä, miten puolustusvoimista annetun lain (551/2007) 23 §:ssä tarkoitettua sotilaan ja sotilasesimiehen voimakeinojen käyttöoikeutta sovelletaan rajavartiolaitoksessa, säädetään rajavartiolaitoksen hallintolain 31 §:ssä.
+
+Rajavartiomiehellä on virantoimituksessa lisäksi oikeus hätävarjeluun siten kuin rikoslain 4 luvun 4 §:ssä säädetään. Tällaisessa hätävarjelussa rajavartiomies toimii virkavastuulla. Arvioitaessa hätävarjelun puolustettavuutta on otettava huomioon rajavartiomiehelle koulutuksensa ja kokemuksensa perusteella asetettavat vaatimukset.

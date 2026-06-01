@@ -1,0 +1,8 @@
+# 39 a § Omaisuuden tilapäinen luovutusvelvollisuus ja palveluiden tilapäinen suoritusvelvollisuus
+Luku: 5 luku Toimivaltuussäännökset
+
+Vähintään kapteenin tai kapteeniluutnantin arvoisella rajavartiomiehellä on oikeus, jos rajajärjestyksen ja rajaturvallisuuden ylläpitämiseen, alueellisen koskemattomuuden valvontaan ja turvaamiseen tai puolustusvalmiuden ylläpitämiseen ja kehittämiseen liittyvän Rajavartiolaitoksen kiireellisen yksittäisen tehtävän suorittaminen sitä välttämättä edellyttää eikä tilanteen hallitseminen muutoin ole mahdollista:
+1) määrätä yksityishenkilö, yksityinen elinkeinonharjoittaja tai yksityinen yhteisö antamaan lyhytaikaisesti, enintään seitsemäksi vuorokaudeksi kerrallaan, Rajavartiolaitoksen käyttöön tehtävän suorittamisessa tarvittavia kulkuneuvoja, työkoneita ja muuta kalustoa, elintarvikkeita, viesti- ja tietoliikenneyhteyksiä ja -välineitä sekä muita välineitä ja tarvikkeita sekä poltto-, voitelu- ja muita aineita;
+2) määrätä tarvittavia palveluja tarjoava yksityinen elinkeinonharjoittaja tai yksityinen yhteisö suorittamaan käyvän hinnan mukaista korvausta vastaan lyhytaikaisesti, enintään seitsemän vuorokautta kerrallaan, Rajavartiolaitokselle tehtävän suorittamiseksi tarvittavia majoitus-, kuljetus-, korjaamo-, huolto- ja rakentamispalveluja, tieto- ja viestintäteknisiä palveluja tai muita vastaavia palveluja.
+
+Rajavartiolaitos suorittaa käyttöönotetusta omaisuudesta täyden korvauksen sekä korvaa käyttöön otetulle omaisuudelle aiheutuneen vahingon. Edellä 1 momentin 1 kohdassa tarkoitettua omaisuutta, jota omaisuuden omistaja tai haltija itse tarvitsee samanaikaisesti onnettomuuden tai muun vakavan tilanteen torjumiseksi, ei saa määrätä luovutettavaksi, ellei se ole välttämätöntä ihmishengen pelastamiseksi.

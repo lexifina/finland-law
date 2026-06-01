@@ -1,0 +1,6 @@
+# 71 § Rajavartiolaitoksen kohteita ja harjoituksia koskevat liikkumisrajoitukset
+Luku: 9 luku Rajavartiolaitoksen toimintojen ja kohteiden turvallisuutta koskevat erityiset säännökset
+
+Sisäministeriön asetuksella voidaan säätää Rajavartiolaitoksen hallitsemaa tilaa tai aluetta koskeva liikkumisrajoitus tai -kielto, jos se on välttämätöntä henkilöiden vaaroilta suojaamiseksi tai Rajavartiolaitoksen erittäin tärkeän toiminnan suojaamiseksi. Sotilaallisen harjoitusalueen tai rajaturvallisuuteen liittyvän harjoitusalueen osaa taikka Rajavartiolaitoksen 39 §:n 3 momentin nojalla käyttöönsä ottamaa kiinteistöä koskevan tilapäisen liikkumisrajoituksen tai -kiellon voi harjoituksen tai kiinteistön käyttöönoton ajaksi määrätä vähintään kapteenin tai kapteeniluutnantin arvoinen rajavartiomies.
+
+Liikkumisrajoitusta tai -kieltoa rikkova henkilö voidaan poistaa rajoituksessa tai kiellossa tarkoitetusta tilasta tai siinä tarkoitetulta alueelta. Jos paikalta poistaminen on ilmeisesti riittämätön toimenpide eikä rajoituksen tai kiellon rikkomista voida muutoin estää, henkilö voidaan ottaa kiinni. Kiinni otettu voidaan pitää säilössä niin kauan kuin on todennäköistä, että hän syyllistyy rajoituksen tai kiellon rikkomiseen, kuitenkin enintään 24 tuntia kiinniottamisesta.

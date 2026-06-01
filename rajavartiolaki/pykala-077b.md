@@ -1,0 +1,4 @@
+# 77 b § Vaativa virka-apu kansainvälistä erityissuojelua nauttivan henkilön vierailun suojaamiseksi
+Luku: 11 luku Erinäiset säännökset
+
+Sen lisäksi mitä 77 a §:ssä säädetään, vaativaa virka-apua voidaan antaa valtiovierailulla tai muulla virallisella vierailulla Suomessa olevien valtionpäämiesten, ministereiden ja hallitustenvälisten kansainvälisten järjestöjen ja Euroopan unionin korkea-arvoisten edustajien suojaamiseksi ja heidän vierailujensa turvaamiseksi. Edellytyksenä on, että henkilöön arvioidaan hänen vierailullaan kohdistuvan hänen asemansa, edustamansa valtion tai järjestön kansainvälisen aseman tai muun vastaavan syyn perusteella 77 a §:n 2 momentissa tarkoitetun henkeä tai terveyttä vakavasti vaarantavan rikoksen perusteltu uhka, jonka estämiseksi tai keskeyttämiseksi virka-apu on välttämätöntä.
