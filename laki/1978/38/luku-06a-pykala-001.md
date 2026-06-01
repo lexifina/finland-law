@@ -2,13 +2,13 @@
 Luku: 6 a luku Rahoituspalvelujen ja rahoitusvälineiden etämyynti
 
 Tässä luvussa säädetään etämyynnistä silloin, kun elinkeinonharjoittaja tarjoaa kuluttajalle:
-1) talletus- tai asiakastilejä;
-2) maksujenvälityspalveluja;
+1) talletustilejä;
+2) maksupalveluja;
 3) luottoja tai niiden välitystä;
 4) vakuutuksia tai niiden välitystä;
-5) rahasto-osuuksia tai muita arvopapereita, joihin sovelletaan arvopaperimarkkinalakia,
-6) arvopaperinvälitystä tai muita sijoituspalveluja,
-7) sijoitusneuvontaa; tai
-8) muita rahoituspalveluja tai rahoitusvälineitä.
+5) sijoituspalveluja;
+6) kryptovarapalveluja;
+7) joukkorahoituspalveluja; tai
+8) muita kuin 1–7 kohdassa tarkoitettuja rahoituspalveluja taikka rahoitusvälineitä.
 
 Mitä jäljempänä tässä luvussa säädetään rahoituspalveluista, koskee myös rahoitusvälineitä.

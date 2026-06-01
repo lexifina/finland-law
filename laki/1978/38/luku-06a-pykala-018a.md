@@ -1,0 +1,4 @@
+# 18 a § Verkkorajapintoja koskeva kielletty menettely
+Luku: 6 a luku Rahoituspalvelujen ja rahoitusvälineiden etämyynti
+
+Elinkeinonharjoittaja ei saa suunnitella, järjestää eikä operoida digitaalisten palvelujen sisämarkkinoista ja direktiivin 2000/31/EY muuttamisesta (digipalvelusäädös) annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2022/2065 3 artiklan m alakohdassa tarkoitettuja verkkorajapintojaan tavalla, jolla harhautetaan tai manipuloidaan kuluttajia, joille elinkeinonharjoittaja tarjoaa rahoituspalveluja, taikka muutoin olennaisesti vääristetään tai haitataan kyseisten kuluttajien kykyä tehdä vapaita ja tietoon perustuvia päätöksiä. Kiellettyä on erityisesti se, että elinkeinonharjoittaja toistuvasti pyytää kuluttajaa tekemään valinnan, jonka tämä on jo tehnyt, tai että elinkeinonharjoittaja tekee sopimuksen päättämisestä kuluttajalle vaikeampaa kuin sopimuksen tekemisestä.

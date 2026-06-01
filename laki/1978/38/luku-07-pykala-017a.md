@@ -9,6 +9,6 @@ Sen estämättä, mitä 2 momentissa säädetään, muiden luottokustannusten en
 
 Jos luotonantaja tai luotonvälittäjä rikkoo, mitä tässä pykälässä säädetään, kuluttajalla ei ole velvollisuutta maksaa luoton korkoa eikä muita luottokustannuksia lainkaan.
 
-Mitä 2–4 momentissa säädetään, ei koske luottokustannuksina pidettäviä vakuutusmaksuja, jos vakuutuksen tarkoituksena on luoton vakuuden arvon turvaaminen.
+Mitä 2–4 momentissa säädetään, ei koske luottokustannuksina pidettäviä vakuutusmaksuja, jos vakuutuksen tarkoituksena on luoton vakuuden arvon turvaaminen, eikä kuluttajan mahdollisen sopimusrikkomuksen johdosta maksettaviksi tulevia maksuja.
 
 Jos kuluttaja maksaa luoton ennenaikaisesti takaisin, sovelletaan 2 ja 3 momentin estämättä, mitä 27 ja 28 §:ssä säädetään. Jos luotto eräännytetään, sovelletaan 2 ja 3 momentin estämättä, mitä 35 §:ssä säädetään.

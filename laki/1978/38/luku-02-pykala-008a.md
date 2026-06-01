@@ -21,5 +21,5 @@ Mitä tässä pykälässä säädetään, ei sovelleta:
 7) 10 luvun soveltamisalaan kuuluvaan sopimukseen;
 8) matkapalveluyhdistelmistä annetussa laissa (901/2017) tarkoitettuun matkapakettiin;
 9) matkustajaliikenteen palveluja koskevaan sopimukseen;
-10) sopimukseen, joka koskee arpajaislain (1047/2001) soveltamisalaan kuuluvaa palvelua;
+10) sopimukseen, joka koskee arpajaislain (1047/2001) tai rahapelilain (10/2026) soveltamisalaan kuuluvaa palvelua;
 11) jakeluautomaatin avulla tai automatisoidussa liiketilassa tehtävään sopimukseen.

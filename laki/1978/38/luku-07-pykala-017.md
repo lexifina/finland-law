@@ -12,4 +12,4 @@ Kuluttajaluottosopimuksessa on mainittava:
 5) tiedot luottosopimuksen irtisanomisesta ja muusta päättämisestä;
 6) tiedot oikeussuojakeinoista ja valvontaviranomaisesta.
 
-Sopimuksessa mainittavista tiedoista säädetään tarkemmin valtioneuvoston asetuksella. Kuluttajalta ei saa luottosuhteen perusteella periä korkoa tai maksuja, josta ei ole sovittu 1 momentissa tarkoitetussa sopimuksessa.
+Sopimuksessa mainittavien tietojen on oltava selvästi luettavissa, ja niissä on otettava huomioon sen välineen tekniset rajoitukset, jolla ne esitetään. Tiedot on esitettävä kullekin kanavalle asianmukaisella ja sopivalla tavalla. Sopimuksessa mainittavista tiedoista säädetään tarkemmin valtioneuvoston asetuksella. Kuluttajalta ei saa luottosuhteen perusteella periä korkoa tai maksuja, joista ei ole sovittu 1 momentissa tarkoitetussa sopimuksessa.

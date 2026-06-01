@@ -11,7 +11,7 @@ Ennen koti- tai etämyyntisopimuksen tekemistä kuluttajalle on annettava seuraa
 7) tarvittaessa kulutushyödykkeen kokonaishintaan sisältymättömät toimitus- ja muut kulut tai, jos näitä kuluja ei voida kohtuudella laskea etukäteen, tieto siitä, että tällaisia lisäkuluja voi aiheutua;
 8) etäviestimen käyttämisestä sopimuksen tekemisessä syntyvät kulut, jos siitä veloitetaan perushintaa enemmän;
 9) maksua, toimitusta ja muuta sopimuksen täyttämistä koskevat ehdot sekä tarvittaessa asiakasvalituksia koskevat käytännöt;
-10) tarvittaessa peruuttamisoikeuden käyttämistä koskevat ehdot, määräajat ja menettelyt;
+10) tarvittaessa peruuttamisoikeuden käyttämistä koskevat ehdot, määräajat ja menettelyt, mukaan lukien tiedot 14 a §:ssä tarkoitetusta peruuttamistoiminnosta ja sen sijainnista;
 11) tarvittaessa tieto siitä, että jos kuluttaja peruuttaa sopimuksen, hänen on vastattava tavaroiden palauttamiskustannuksista, sekä etämyynnissä myös tieto palauttamiskustannusten määrästä, jos tavarat eivät ole luonteensa vuoksi palautettavissa tavanomaisella tavalla postitse;
 12) tieto siitä, että jos kuluttaja käyttää peruuttamisoikeuttaan tehtyään 15 §:n 1 momentissa tarkoitetun palvelun suorittamista koskevan pyynnön, hänen on maksettava elinkeinonharjoittajalle 19 §:n 1 momentissa tarkoitetut kustannukset;
 13) tarvittaessa tieto peruuttamisoikeuden puuttumisesta tai olosuhteista, joissa peruuttamisoikeuden voi menettää;

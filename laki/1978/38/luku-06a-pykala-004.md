@@ -1,8 +1,6 @@
 # 4 § Määritelmät
 Luku: 6 a luku Rahoituspalvelujen ja rahoitusvälineiden etämyynti
 
-Etämyynnillä tarkoitetaan tässä luvussa rahoituspalvelun tarjoamista kuluttajalle elinkeinonharjoittajan järjestämän sellaisen etätarjontamenetelmän avulla, jossa sopimuksen tekemiseen ja sitä edeltävään markkinointiin käytetään yksinomaan yhtä tai useampaa etäviestintä.
-
-Etätarjontamenetelmällä tarkoitetaan markkinointi- tai myyntitapaa, joka on järjestetty niin, että sen pääasiallisena tavoitteena voidaan katsoa olevan sopimusten tekeminen etäviestimen avulla.
+Etäsopimuksella tarkoitetaan sopimusta, joka tehdään elinkeinonharjoittajan ja kuluttajan välillä etämyyntiä varten luodussa myynti- tai palveluntarjontajärjestelmässä ilman, että elinkeinonharjoittaja ja kuluttaja ovat samanaikaisesti fyysisesti läsnä, ja käyttäen vain etäviestimiä siihen asti, että sopimus on tehty.
 
 Etäviestimellä tarkoitetaan puhelinta, postia, televisiota, tietoverkkoa tai muuta välinettä, jota voidaan käyttää sopimuksen tekemiseen ilman, että osapuolet ovat yhtä aikaa läsnä.

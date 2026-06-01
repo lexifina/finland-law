@@ -3,7 +3,7 @@ Luku: 5 a luku Digitaalista sisältöä ja digitaalisia palveluja koskevat sopim
 
 Tämän luvun säännöksiä ei sovelleta sopimukseen:
 1) joka koskee sähköisen viestinnän palveluista annetussa laissa (917/2014) tarkoitettuja viestintäpalveluja, lukuun ottamatta mainitussa laissa tarkoitettuja numeroista riippumattomia henkilöiden välisiä viestintäpalveluja;
-2) joka koskee arpajaislain soveltamisalaan kuuluvaa palvelua;
+2) joka koskee arpajaislain tai rahapelilain soveltamisalaan kuuluvaa palvelua;
 3) joka koskee rahoituspalvelua tai -välinettä;
 4) joka koskee vapaaseen lisenssiin tai avoimen lähdekoodin lisenssiin perustuvaa ohjelmistoa, kun kuluttaja ei maksa kauppahintaa ja elinkeinonharjoittaja käyttää kuluttajan luovuttamia henkilötietoja yksinomaan kyseisen ohjelmiston turvallisuuden, yhteensopivuuden tai yhteentoimivuuden parantamiseen;
 5) jonka perusteella digitaalista sisältöä välitetään yleisölle muuten kuin signaalinsiirron välityksellä osana esitystä tai tapahtumaa;

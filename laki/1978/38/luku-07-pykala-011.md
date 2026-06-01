@@ -1,6 +1,8 @@
-# 11 § Eräitä ennakkotiedonantovelvollisuutta koskevia muita säännöksiä
+# 11 § Eräitä ennakkotiedonantovelvollisuuksia koskevia muita säännöksiä
 Luku: 7 luku Kuluttajaluotot
 
-Jos sopimus tehdään kuluttajan pyynnöstä puhelimitse tai muuta sellaista etäviestintä käyttäen, että "Vakiomuotoiset eurooppalaiset kuluttajaluottotiedot" -lomaketta ei voida antaa pysyvällä tavalla ennen sopimuksen tekemistä, se on annettava kuluttajalle pysyvällä tavalla viipymättä sopimuksen tekemisen jälkeen. Alle 100 euron hyödykesidonnaisissa kertaluotoissa ennakkotiedot on annettava kuluttajalle viipymättä sopimuksen tekemisen jälkeen lomakkeella tai muulla pysyvällä tavalla, jos sopimus tehdään kuluttajan pyynnöstä puhelimitse tai muuta sellaista etäviestintä käyttäen, että ennakkotietoja ei voida antaa pysyvällä tavalla ennen sopimuksen tekemistä.
+Luotonantajan ja luotonvälittäjän on 10 §:ssä tarkoitetussa tilanteessa annettava "Vakiomuotoiset eurooppalaiset kuluttajaluottotiedot" -lomake kuluttajalle pysyvällä tavalla viipymättä sopimuksen tekemisen jälkeen.
 
-Kuluttajalle on lisäksi pyynnöstä ja maksutta annettava luottosopimusluonnos. Sopimusehtojen toimittamisesta etämyynnissä säädetään 6 a luvussa.
+Kuluttajalle on lisäksi pyynnöstä ja maksutta annettava luottosopimusluonnos paperilla tai muulla pysyvällä tavalla.
+
+Antaessaan kuluttajalle 9 ja 10 §:ssä tarkoitettuja tietoja luotonantajan ja luotonvälittäjän on samalla ilmoitettava, tarjoaako luotonantaja tai luotonvälittäjä neuvontapalveluja.

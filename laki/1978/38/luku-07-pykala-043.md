@@ -1,8 +1,8 @@
-# 43 § Ennakkotietojen toimittaminen pysyvällä tavalla
+# 43 § Eräitä erityisiä luottotyyppejä koskevia tiedonantovelvollisuuksia koskevia muita säännöksiä
 Luku: 7 luku Kuluttajaluotot
 
-Edellä 41 §:ssä tarkoitetut ennakkotiedot on annettava kuluttajalle hyvissä ajoin ennen sopimuksen tekemistä erityisiä luottotyyppejä koskevalla Eurooppalaiset kuluttajaluottotiedot -lomakkeella tai muulla pysyvällä tavalla, luotonantajan tai luotonvälittäjän valinnan mukaan. Lomakkeesta säädetään tarkemmin valtioneuvoston asetuksella.
+Luotonantajan on 42 §:ssä tarkoitetussa tilanteessa annettava maksujärjestelysopimuksia koskeva "Eurooppalaiset kuluttajaluottotiedot" -lomake kuluttajalle pysyvällä tavalla viipymättä sopimuksen tekemisen jälkeen.
 
-Jos sopimus tehdään kuluttajan pyynnöstä puhelimitse tai muuta sellaista etäviestintä käyttäen, että ennakkotietoja ei voida toimittaa pysyvällä tavalla ennen sopimuksen tekemistä, luotonantajan on toimitettava pysyvällä tavalla 45 §:n mukaiset tiedot viipymättä sopimuksen tekemisen jälkeen.
+Kuluttajalle on lisäksi pyynnöstä ja maksutta annettava maksujärjestelysopimusluonnos.
 
-Kuluttajalle on lisäksi pyynnöstä ja maksutta annettava luottosopimusluonnos.
+Antaessaan kuluttajalle 41 ja 42 §:ssä tarkoitettuja tietoja luotonantajan ja luotonvälittäjän on samalla ilmoitettava, tarjoaako luotonantaja tai luotonvälittäjä neuvontapalveluja.
