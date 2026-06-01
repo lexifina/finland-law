@@ -1,0 +1,2 @@
+Laki nimettyjen toimipaikkojen nimeämistä ja laillisten edustajien nimittämistä koskevista yhdenmukaistetuista säännöistä sähköisten todisteiden keräämiseksi rikosoikeudellisissa menettelyissä
+Eduskunnan päätöksen mukaisesti säädetään:
