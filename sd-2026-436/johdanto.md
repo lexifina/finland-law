@@ -1,0 +1,2 @@
+Laki eurooppalaisista esittämismääräyksistä ja eurooppalaisista säilyttämismääräyksistä sähköisten todisteiden hankkimiseksi rikosoikeudellisissa menettelyissä
+Eduskunnan päätöksen mukaisesti säädetään:
