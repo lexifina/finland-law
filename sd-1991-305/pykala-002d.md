@@ -1,7 +1,7 @@
 # 2 d §
 
 Edellä 2 §:n 1 momentin 1 ja 3 kohdassa säädettyjen tehtävien hoitamista varten Valtiokonttorilla on salassapitosäännösten ja muiden tietojen käyttöä koskevien rajoitusten estämättä oikeus pyynnöstä saada maksutta tunnistetietoineen välttämättömät asiakirjat ja tiedot:
-1) oman asunnon hankintaan myönnettävien lainojen korkotuesta annetun lain (639/1982) 12 §:ssä säädetyn valvontatehtävän suorittamiseksi Digi- ja väestötietovirastolta, Maanmittauslaitokselta, Suomen ympäristökeskukselta sekä Verohallinnolta;
+1) asuntosäästöjärjestelmästä annetun lain (339/2025) asunnon käyttöä koskevan 16 §:n noudattamisen valvomiseksi Digi- ja väestötietovirastolta, Maanmittauslaitokselta, Suomen ympäristökeskukselta sekä Verohallinnolta;
 2) aravalain (1189/1993) 36 §:ssä säädetyn valvontatehtävän suorittamiseksi Asumisen rahoitus- ja kehittämiskeskukselta, omistusarava- tai vuokra-aravalainoitetun asunnon sijaintikunnalta ja Verohallinnolta sekä Asumisen rahoitus- ja kehittämiskeskuksesta annetun lain (71/2007) 1 §:n 2 momentin 2 kohdassa säädetyn tehtävän hoitamiseksi Asumisen rahoitus- ja kehittämiskeskukselta;
 3) eräiden maa- ja metsätalousministeriön hallinnonalan lainojen ja saamisten siirtämisestä Valtiokonttorin hoidettavaksi annetussa laissa (78/2007) säädettyjen tehtävien hoitamiseksi Verohallinnolta;
 4) uusjakojen tukemisesta annetun lain (1423/2014) 13 §:ssä tuensaajan osuuden ja koron perinnästä säädetyn tehtävän hoitamiseksi Verohallinnolta;
