@@ -2,10 +2,10 @@
 Luku: 3 luku Sairaanhoito
 
 Hyvinvointialueen on järjestettävä alueensa asukkaiden sairaanhoitopalvelut. Sairaanhoitopalveluihin sisältyvät:
-1) sairauksien tutkimus, lääketieteellinen tai hammaslääketieteellinen taudinmääritys, hoito, hoitosuunnitelman mukaiset pitkäaikaisen sairauden hoitoon tarvittavat hoitotarvikkeet sekä tarpeellinen lääkinnällinen kuntoutus;
+1) sairauksien tutkimus, lääketieteellinen tai hammaslääketieteellinen taudinmääritys, hoito, hoidon seuranta, hoitosuunnitelman mukaiset pitkäaikaisen sairauden hoitoon tarvittavat hoitotarvikkeet sekä tarpeellinen lääkinnällinen kuntoutus;
 2) sairauksien ehkäiseminen, parantaminen ja kärsimysten lievittäminen;
 3) ohjaus, jolla tuetaan potilaan hoitoon sitoutumista ja omahoitoa;
-4) erityistä tukea, tutkimusta ja hoitoa tarvitsevan potilaan terveysongelmien varhainen tunnistaminen, hoito ja jatkohoitoon ohjaaminen.
+4) erityistä tukea, tutkimusta ja hoitoa tarvitsevan potilaan terveysongelmien varhainen tunnistaminen, hoito ja hoidon seuranta sekä jatkohoitoon ohjaaminen.
 
 Sairaanhoito on toteutettava potilaan lääketieteellisen tai hammaslääketieteellisen tarpeen ja käytettävissä olevien yhtenäisten hoidon perusteiden mukaisesti. Hoito on toteutettava tarkoituksenmukaisella tavalla ja yhteistyöllä. Hoito toteutetaan avohoidossa silloin, kun se on potilasturvallisuus huomioon ottaen mahdollista.
 
