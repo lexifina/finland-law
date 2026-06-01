@@ -1,6 +1,6 @@
 # 13 a § Digitaalista palvelua ja teknisen rajapinnan avaamista koskevat päätökset yksityiselle
 
-Metsäkeskuksen on tehtävä päätös luovutuksensaajan hyväksymisestä metsäkeskuksen digitaalisen palvelun käyttäjäksi (rekisteröintipäätös), jos tietoja annetaan katseluyhteyden avulla tai muuten sähköisesti toistuvasti metsätalouteen liittyvää kaupallista tai muuta hyväksyttävää yksityistä käyttötarkoitusta varten. Rekisteröintipäätös on tehtävä myös luovutettaessa julkisia henkilötietoja mainittuun tarkoitukseen teknisen rajapinnan avulla.
+Metsäkeskuksen on tehtävä päätös luovutuksensaajan hyväksymisestä metsäkeskuksen digitaalisen palvelun käyttäjäksi (rekisteröintipäätös), jos julkisia henkilötietoja tai salassa pidettäviä tietoja annetaan katseluyhteyden avulla tai muuten sähköisesti toistuvasti metsätalouteen liittyvää kaupallista tai muuta hyväksyttävää yksityistä käyttötarkoitusta varten. Rekisteröintipäätös on tehtävä myös luovutettaessa tietoja teknisen rajapinnan avulla.
 
 Pääsy maanomistajan tietoihin edellyttää 1 momentissa säädetyn lisäksi metsäkeskuksen päätöstä henkilötietojen käsittelyn perusteen hyväksymisestä kunkin maanomistajan osalta. Päätöstä ei ole tarpeen tehdä, jos henkilötietojen käsittelyn perusteena on maanomistajan sähköisesti metsäkeskukselle antama suostumus.
 
