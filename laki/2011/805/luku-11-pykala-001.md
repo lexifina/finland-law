@@ -7,10 +7,10 @@ Edellä 1 momentissa tarkoitetusta päätöksestä on ilmettävä:
 1) päätöksen tehnyt viranomainen ja päätöksen tekemisen ajankohta;
 2) asianosaiset;
 3) asia;
-4) päätöksen perustelut ja sovelletut säännökset;
+4) päätöksen perustelut asian laadun ja laajuuden edellyttämällä tavalla sekä sovelletut säännökset;
 5) päätöksen sisältö; ja
 6) lisätietoja antavan esitutkintavirkamiehen yhteystiedot.
 
-Päätös annetaan esitutkinnassa läsnä olevalle asianosaiselle tai lähetetään postitse hänen ilmoittamaansa taikka muuten esitutkintaviranomaisen tiedossa olevaan osoitteeseen. Päätös saadaan jättää antamatta tai lähettämättä, jos siitä aiheutuisi haittaa kysymyksessä olevan rikoksen tai toisen siihen liittyvän rikoksen selvittämiselle. Ilmoitus on annettava tai lähetettävä ilman aiheetonta viivytystä sen jälkeen, kun selvittämisestä aiheutuvaa haittaa ei voi enää aiheutua.
+Päätös annetaan esitutkinnassa läsnä olevalle asianosaiselle tai lähetetään postitse hänen ilmoittamaansa taikka muuten esitutkintaviranomaisen tiedossa olevaan osoitteeseen. Päätös saadaan jättää antamatta tai lähettämättä, jos siitä aiheutuisi haittaa kysymyksessä olevan rikoksen tai toisen siihen liittyvän rikoksen selvittämiselle. Päätös on annettava tai lähetettävä ilman aiheetonta viivytystä sen jälkeen, kun edellä tarkoitettua haittaa ei voi enää aiheutua. Jos rikoksella on hyvin suuri määrä asianomistajia, päätös voidaan antaa heille tiedoksi yleistiedoksiannolla noudattaen hallintolain (434/2003) 62 §:ää.
 
 Esitutkintaviranomaisen päätöksistä on muuten voimassa, mitä niistä erikseen laissa säädetään.

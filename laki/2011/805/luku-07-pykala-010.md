@@ -8,3 +8,5 @@ Rikoksesta epäillylle on ennen kuulustelua yksilöitävä teko, josta häntä e
 Ennen kuulustelua asianomistajalle, tämän lailliselle edustajalle ja asiamiehelle sekä todistajalle on ilmoitettava totuusvelvollisuudesta ja perättömästä lausumasta säädetystä rangaistusuhasta. Asianomistajalle on ennen kuulustelua ilmoitettava, milloin hänelle oikeudenkäynnistä rikosasioissa annetun lain 2 luvun mukaan voidaan määrätä oikeudenkäyntiavustaja tai tukihenkilö.
 
 Todistajalta on tiedusteltava sellaisia seikkoja, jotka lain mukaan oikeuttavat tai velvoittavat hänet kieltäytymään todistamasta. Aiheen ilmetessä todistajalle on ilmoitettava, mitä 8 ja 9 §:ssä säädetään.
+
+Tässä pykälässä tarkoitetut ilmoitukset voidaan tehdä lähettämällä ne kuulusteltavalle etukäteen. Kuulusteltavalta on tällöin tiedusteltava, onko hän ymmärtänyt ilmoitusten sisällön.
