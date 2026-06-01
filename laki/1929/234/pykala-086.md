@@ -8,4 +8,4 @@ Eloonjäänyt puoliso on oikeutettu sanottuna aikana yksin vallitsemaan omaisuut
 
 Milloin avioliitto on tuomiolla purettu, olkoon, kunnes ositus on toimitettu, puolisolla avioliiton purkautuessa ollut omaisuus edelleen hänen vallittavanaan, niinkuin avioliitto vielä jatkuisi. Mitä osituksessa tehtävästä tilistä on 2 momentissa sanottu, sovellettakoon vastaavasti.
 
-Edellä 2 ja 3 momentissa tarkoitettua suostumusta tai lupaa ei kuitenkaan tarvita, jos lainvoimaisen avioeroa tai avioliiton kumoamista koskevan päätöksen antamisesta tai avioliiton purkautumisesta puolison kuoleman johdosta on kulunut yli 10 vuotta.
+Edellä 2 momentissa tarkoitettua suostumusta tai lupaa taikka 38 tai 39 §:ssä tarkoitettua suostumusta ei kuitenkaan tarvita, jos lainvoimaisen avioeroa tai avioliiton kumoamista koskevan päätöksen antamisesta tai avioliiton purkautumisesta puolison kuoleman johdosta on kulunut yli 10 vuotta.
