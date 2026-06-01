@@ -1,7 +1,7 @@
 # 10 § Rekisterien tietojen luovuttaminen
 Luku: 3 luku Tietojen käyttö
 
-Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään, jokaisella on oikeus salassapitosäännösten estämättä saada tieto tämän lain 4–7 §:ssä tarkoitettuihin rekistereihin tallennetuista tiedoista. Kotikuntaa koskevan tiedon voi kuitenkin saada vain, jos tieto on julkinen.
+Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa (621/1999) säädetään, jokaisella on oikeus salassapitosäännösten estämättä saada tieto tämän lain 4, 4 a ja 5–7 §:ssä tarkoitettuihin rekistereihin tallennetuista tiedoista. Kotikuntaa koskevan tiedon voi kuitenkin saada vain, jos tieto on julkinen.
 
 Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa säädetään ja jollei tämän lain 12 §:n 1 momentista muuta johdu, jokaisella on oikeus saada 8 §:ssä tarkoitetusta holhousasioiden rekisteristä tieto siitä, onko tietylle henkilölle määrätty edunvalvoja, kuka on henkilön edunvalvoja, mikä on edunvalvojan tehtävä sekä onko ja millä tavoin henkilön toimintakelpoisuutta rajoitettu.
 
