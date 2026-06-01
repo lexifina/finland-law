@@ -1,0 +1,10 @@
+# 20 § Korjaavat toimenpiteet
+Luku: 5 luku Valvonta ja seuraamukset
+
+Joka käsittelee metsää 5, 5 a, 5 b, 10 a tai 10 b §:n tai 12 §:n 1 tai 2 momentin säännösten tai niiden nojalla annettujen säännösten tai määräysten taikka 13 §:n nojalla annettujen määräysten vastaisesti taikka laiminlyö uuden puuston aikaansaamista koskevan velvoitteen, on velvollinen poistamaan lainvastaisen toimenpiteen vaikutukset tai palauttamaan vallinneen olotilan siinä määrin kuin se on kohtuullisin kustannuksin mahdollista. Jos 8 §:ssä säädettyä uudistamisvelvollisuutta ei ole täytetty, asianomaisen on toteutettava korjaavana toimenpiteenä tarvittavat uudet perustamistoimenpiteet tai muu jälkihoito.
+
+Jos 1 momentissa tarkoitetuista korjaavista toimenpiteistä ei päästä sopimukseen metsäkeskuksen ja asianomaisen välillä tai jos asianomainen ei noudata niiden tekemistä koskevaa sopimusta, Maaseutuvirasto voi metsäkeskuksen esityksestä velvoittaa asianomaisen tekemään tarvittavat toimenpiteet. Maaseutuvirasto voi asettaa päätöksensä tehosteeksi uhkasakon tai uhan, että toimenpiteet tehdään asianomaisen kustannuksella. Maaseutuvirasto voi myös päättää, että metsäkeskus tekee tai teettää tarvittavat toimenpiteet asianomaisen kustannuksella. Uhkasakkoon ja teettämisuhkaan sovelletaan uhkasakkolakia.
+
+Jos joku muu kuin asianomainen omistaa kiinteistön tai on erityisen oikeuden nojalla oikeutettu päättämään asiasta, korjaavia toimenpiteitä koskevaan sopimukseen on saatava hänen suostumuksensa. Jos maanomistaja tai erityisen oikeuden haltija ei anna suostumustaan sille, että Maaseutuvirasto velvoittaa asianomaisen lakia rikkoneen tekemään tarvittavat toimenpiteet, Maaseutuvirasto voi metsäkeskuksen esityksestä päättää, että se tai metsäkeskus tekee tai teettää ne asianomaisen kustannuksella. Toimenpiteistä aiheutuvat kustannukset maksetaan etukäteen valtion varoista ja Maaseutuvirasto voi periä ne takaisin asianomaiselta ulosottotoimin siten kuin verojen ja maksujen täytäntöönpanosta annetussa laissa (706/2007) säädetään.
+
+Jos virhe on vähäinen, toimenpiteisiin voidaan olla ryhtymättä.
