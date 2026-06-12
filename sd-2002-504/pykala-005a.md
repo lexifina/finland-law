@@ -1,0 +1,3 @@
+# 5 a § Rikosrekisteriote aamu- ja iltapäivätoiminnassa
+
+Jos kunta tai kuntayhtymä hankkii perusopetuslaissa tarkoitetun aamu- ja iltapäivätoiminnan palveluja julkiselta tai yksityiseltä palvelujen tuottajalta, kunnan tai kuntayhtymän tulee pyytää 2 §:n 1 momentissa tarkoitettuja tehtäviä hoitavalta henkilöltä viipymättä nähtäväksi rikosrekisterilain 6 §:n 2 momentissa tarkoitettu rikosrekisteriote, jollei henkilö hoida näitä tehtäviä virka- tai työsuhteessa palvelujen tuottajaan. Ote rikosrekisteristä on pyydettävä nähtäväksi myös ennen kuin muu kuin sopimuksessa määritelty henkilö otetaan 2 §:ssä tarkoitettuihin tehtäviin. Palvelun tuottajan on ilmoitettava asiasta asianomaiselle kunnalle tai kuntayhtymälle.

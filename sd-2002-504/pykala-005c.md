@@ -1,0 +1,5 @@
+# 5 c § Ilman huoltajaa olevan lapsen edustajan rikosrekisteriote
+
+Jos kyse on kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetussa laissa tai kotoutumisen edistämisestä annetussa laissa tarkoitetusta ilman huoltajaa olevan lapsen edustajasta, tulee edustajan antaa käräjäoikeudelle nähtäväksi rikosrekisterilain 6 §:n 2 momentissa tarkoitettu ote rikosrekisteristä kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain 40 §:n 2 momentissa säädetyn mukaisesti.
+
+Maahanmuuttovirastolla on kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain 39 a §:ssä tarkoitetun valvontatehtävän perusteella sekä elinvoimakeskuksella on kotoutumisen edistämisestä annetun lain 36 §:ssä tarkoitetun valvontatehtävän perusteella oikeus pyytää edustajalta nähtäväksi rikosrekisterilain 6 §:n 2 momentissa tarkoitettu ote rikosrekisteristä.

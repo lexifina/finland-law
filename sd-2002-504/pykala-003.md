@@ -1,0 +1,7 @@
+# 3 § Työnantajan velvollisuus pyytää rikosrekisteriote nähtäväksi
+
+Työnantajan tulee pyytää henkilöltä nähtäväksi rikosrekisterilain (770/1993) 6 §:n 2 momentissa tarkoitettu ote rikosrekisteristä, kun henkilö ensi kerran otetaan tai nimitetään sellaiseen työ- tai virkasuhteeseen, johon kuuluu 2 §:ssä tarkoitettuja tehtäviä taikka annettaessa henkilölle näitä tehtäviä ensi kerran. Työnantajalla tarkoitetaan tässä laissa myös siviilipalveluslain 7 §:ssä tarkoitettua siviilipalveluskeskusta sekä työvoimaviranomaista, joka tekee työkokeilua koskevan sopimuksen.
+
+Jollei kunnan tai kuntayhtymän virkaa täytettäessä ole käytettävissä rikosrekisteriotetta, valinta on suoritettava ehdollisena ja valinnan vahvistaminen on ratkaistava vasta sitten, kun ote on esitetty. Virkaan ehdollisesti valitun on esitettävä nähtäväksi rikosrekisteriote viimeistään 30 päivän tai viran täyttävän viranomaisen erityisestä syystä myöntämän pidemmän määräajan kuluessa valitsemispäätöksen tiedoksisaannista lukien uhalla, että valinta muutoin raukeaa. Valinnan vahvistamisesta tai sen raukeamisesta päättää ehdollisen valinnan suorittanut viranomainen tai vahvistamisesta asianomainen alempi täytäntöönpaneva viranomainen.
+
+Valtion virkamieslain (750/1994) mukaiseen virkaan tai virkasuhteeseen nimittämisen edellytyksenä on edellä 2 §:ssä tarkoitetuissa tapauksissa, että henkilö on pyynnöstä toimittanut viranomaiselle nähtäväksi otteen rikosrekisteristä.
