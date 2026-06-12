@@ -1,0 +1,5 @@
+# 14 c § Eurodac-tietojärjestelmän rekisterinpitäjä ja kansallinen yhteyspiste
+
+Eurodac-järjestelmän perustamisesta biometristen tietojen vertailua varten Euroopan parlamentin ja neuvoston asetusten (EU) 2024/1351 ja (EU) 2024/1350 ja neuvoston direktiivin 2001/55/EY tehokkaaksi soveltamiseksi ja laittomasti oleskelevien kolmansien maiden kansalaisten ja kansalaisuudettomien henkilöiden tunnistamiseksi sekä jäsenvaltioiden lainvalvontaviranomaisten ja Europolin esittämistä, Eurodac-tietoihin lainvalvontatarkoituksia varten tehtäviä vertailuja koskevista pyynnöistä ja Euroopan parlamentin ja neuvoston asetusten (EU) 2018/1240 ja (EU) 2019/818 muuttamisesta ja Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 603/2013 kumoamisesta annetussa Euroopan parlamentin ja neuvoston asetuksessa (EU) 2024/1358 tarkoitetun Eurodac-tietojärjestelmän rekisterinpitäjä on Maahanmuuttovirasto.
+
+Edellä 1 momentissa mainitussa asetuksessa tarkoitettua kansallista yhteyspistettä hallinnoi Maahanmuuttovirasto.

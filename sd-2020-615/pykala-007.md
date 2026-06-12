@@ -1,6 +1,6 @@
 # 7 § Käsiteltävät henkilötiedot
 
-Rekisterinpitäjä saa käsitellä 1 §:ssä säädetyissä tarkoituksissa henkilön yksilöintitietoja, perhesuhdetietoja, edustajuustietoja, osaamista kuvaavia tietoja ja yhteystietoja sekä tietoja matkustusasiakirjoista ja ulkomaalaislain (301/2004) 96 §:n mukaisesta hakemusasian vireilläoloa osoittavasta kortista.
+Rekisterinpitäjä saa käsitellä 1 §:ssä säädetyissä tarkoituksissa henkilön yksilöintitietoja, perhesuhdetietoja, edustajuustietoja, osaamista kuvaavia tietoja ja yhteystietoja sekä tietoja matkustusasiakirjoista ja kansainvälistä suojelua hakevan hakemusasian vireilläoloa osoittavasta kortista.
 
 Rekisterinpitäjä saa lisäksi käsitellä:
 1) hakemuksesta, esityksestä, pyynnöstä tai ilmoituksesta taikka näiden vuoksi tehdystä tiedustelusta tai kuulemisesta ilmeneviä tietoja;

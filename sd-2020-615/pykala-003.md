@@ -8,12 +8,12 @@ Kukin viranomainen saa käsitellä tallentamiaan tietoja lakisääteisten tehtä
 3) suojelupoliisi 1 §:n 2 momentissa tarkoitetussa käsittelytarkoituksessa;
 4) Rajavartiolaitos 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa;
 5) vastaanottokeskus 1 §:n 1 momentin 3 kohdassa tarkoitetussa käsittelytarkoituksessa;
-6) järjestelykeskus 1 §:n 1 momentin 1 ja 3 kohdassa tarkoitetussa käsittelytarkoituksessa;
+6) Tulli 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa;
 7) säilöönottoyksikkö 1 §:n 1 momentin 4 kohdassa tarkoitetussa käsittelytarkoituksessa;
 8) ulkoministeriö 1 §:n 1 momentin 1 kohdassa tarkoitetussa käsittelytarkoituksessa;
 9) edustusto 1 §:n 1 momentin 1 ja 2 kohdassa tarkoitetussa käsittelytarkoituksessa;
 10) elinvoimakeskus 1 §:n 1 momentin 1 ja 5 kohdassa tarkoitetussa käsittelytarkoituksessa;
-11) hyvinvointialueen viranomainen ja Helsingin kaupunki 1 §:n 1 momentin 5 kohdassa tarkoitetussa käsittelytarkoituksessa.
+11) hyvinvointialueen viranomainen, Helsingin kaupunki ja Ahvenanmaan maakuntaan kuuluvan kunnan viranomainen 1 §:n 1 momentin 5 kohdassa tarkoitetussa käsittelytarkoituksessa.
 
 Kukin 2 momentin viranomainen toimii ulkomaalaisasioiden asiankäsittelyjärjestelmän rekisterinpitäjänä tallentamiensa tietojen osalta. Poliisin tallentamien tietojen rekisterinpitäjänä toimii Poliisihallitus ja Rajavartiolaitoksen tallentamien tietojen rekisterinpitäjänä Rajavartiolaitoksen esikunta. Kansainvälistä suojelua koskevan hakemuksen rekisteröintitietojen rekisterinpitäjänä toimii kuitenkin Maahanmuuttovirasto.
 
