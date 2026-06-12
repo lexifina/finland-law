@@ -1,0 +1,2 @@
+Laki yksityisistä turvallisuuspalveluista
+Eduskunnan päätöksen mukaisesti säädetään:

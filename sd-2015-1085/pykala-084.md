@@ -1,0 +1,6 @@
+# 84 § Valvontaviranomaiset
+Luku: 7 luku Yksityisten turvallisuuspalveluiden valvonta
+
+Yksityisten turvallisuuspalveluiden, voimankäyttökouluttajien, asekouluttajien, järjestyksenvalvojakoulutuksen järjestäjien ja järjestyksenvalvojakouluttajien yleisestä ohjauksesta ja valvonnasta vastaa Poliisihallitus.
+
+Poliisilaitokset vastaavat yksityisten turvallisuuspalveluiden sekä vartijoiden, voimankäyttökouluttajien, asekouluttajien, järjestyksenvalvojien, järjestyksenvalvojakoulutuksen järjestäjien, järjestyksenvalvojakouluttajien ja turvasuojaajien ja vastaavien hoitajien toiminnan valvonnasta toimialueellaan.
