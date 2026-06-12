@@ -1,0 +1,6 @@
+# 208 § Tiedottaminen yhdenvertaisuusvaltuutetulle
+Luku: 14 luku Erinäiset säännökset
+
+Yhdenvertaisuusvaltuutetun tietoon on saatettava määritelmäasetuksen ja tämän lain mukaiset päätökset, jotka koskevat oleskeluluvan myöntämistä kansainvälisen suojelun tai tilapäisen suojelun perusteella taikka ulkomaalaisen käännyttämistä, maasta karkottamista tai pääsyn epäämistä sekä siirtopäätökset. Yhdenvertaisuusvaltuutetun tietoon on viipymättä saatettava myös ulkomaalaisen säilöönottoa, lapsen asumisvelvollisuutta ja kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain 50 §:ssä tarkoitetut rajamenettelyn liikkumisrajoitusta koskevat päätökset sekä seulonta-asetuksen 17 artiklan 3 kohdan kolmannessa alakohdassa tarkoitettu seulontalomake. Yhdenvertaisuusvaltuutetun pyynnöstä hänen tietoonsa on saatettava muutkin tämän lain mukaiset päätökset, 152 b §:ssä tarkoitetun maasta poistamisen täytäntöönpanon valvonnan edellyttämät tarpeelliset tiedot sekä 16 j §:n 1 momentissa tarkoitetun seurantatehtävän edellyttämät tarpeelliset tiedot.
+
+Yhdenvertaisuusvaltuutetun oikeudesta saada tietoja säädetään yhdenvertaisuusvaltuutetusta annetun lain (1326/2014) 4 §:ssä.
