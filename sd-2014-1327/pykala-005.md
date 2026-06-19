@@ -4,4 +4,4 @@ Lautakunnalla on päätoiminen pääsihteeri. Lautakunnalla voi lisäksi olla p�
 
 Pääsihteeriltä ja esittelijältä vaaditaan muu oikeustieteen ylempi korkeakoulututkinto kuin kansainvälisen ja vertailevan oikeustieteen maisterin tutkinto sekä hyvä perehtyneisyys lautakunnan toimialaan.
 
-Oikeusministeriö nimittää lautakunnan pääsihteerin ja muun henkilöstön.
+Valtioneuvosto nimittää lautakunnan pääsihteerin. Lautakunnan muun henkilöstön nimittää lautakunta. Nimittämisestä määrätään tarkemmin työjärjestyksessä.
