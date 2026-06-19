@@ -1,0 +1,10 @@
+# 76 § Jakojärjestelmämaksun suuruus
+Luku: 6 luku Jakojärjestelmä
+
+Liikennevakuutuskeskus ilmoittaa vakuutusyhtiöille 75 §:ssä tarkoitettujen jakojärjestelmäkustannusten maksamisvuotta (jakojärjestelmävuosi) edeltävän toukokuun 31 päivään mennessä suhdeluvun, joka määrittelee jakojärjestelmän rahoitusta varten tarvittavien rahoitusosuuksien (jakojärjestelmämaksut) määrän suhteessa jakojärjestelmävuoden jakojärjestelmämaksutuloon. Suhdeluvun on perustuttava arvioon jakojärjestelmävuoden jakojärjestelmäkustannusten ja jakojärjestelmämaksutulon määristä. Lisäksi suhdeluvussa on otettava huomioon jakojärjestelmämaksujen ja jakojärjestelmäkustannusten erotuksena syntynyt yli- tai alijäämä (jakojärjestelmäsaldo) jakojärjestelmävuotta edeltäviltä vuosilta. Tarkemmat säännökset jakojärjestelmäsaldon huomioon ottamisesta suhdelukua määrättäessä annetaan sosiaali- ja terveysministeriön asetuksella.
+
+Vakuutusyhtiökohtainen jakojärjestelmämaksu saadaan kertomalla 1 momentin mukainen suhdeluku vakuutusyhtiön jakojärjestelmävuoden jakojärjestelmämaksutulolla. Vakuutusyhtiökohtainen jakojärjestelmäsaldo vastaa samaa suhteellista osuutta jakojärjestelmävuodelta ja sitä edeltäviltä vuosilta kertyneestä jakojärjestelmäsaldosta kuin mitä vakuutusyhtiön jakojärjestelmämaksutulo vastaa jakojärjestelmävuoden kaikkien yhtiöiden jakojärjestelmämaksutulosta. Vakuutusyhtiökohtainen jakojärjestelmäsaldo on vakuutusyhtiön velkaa jakojärjestelmälle, jos saldo on ylijäämäinen, ja vakuutusyhtiön saamista jakojärjestelmältä, jos saldo on alijäämäinen.
+
+Liikennevakuutuskeskus tekee jakojärjestelmävuoden toukokuun 31 päivään mennessä ennakkoarvion jakojärjestelmäkustannusten määrästä sekä vakuutusyhtiökohtaisten jakojärjestelmämaksujen ja jakojärjestelmäsaldojen määristä. Tarkemmat säännökset ennakkoarvion perusteista annetaan sosiaali- ja terveysministeriön asetuksella.
+
+Liikennevakuutuskeskus vahvistaa lopullisesti jakojärjestelmävuotta seuraavan toukokuun 31 päivään mennessä jakojärjestelmävuoden jakojärjestelmäkustannusten määrän sekä vakuutusyhtiökohtaiset jakojärjestelmämaksut ja jakojärjestelmäsaldot.

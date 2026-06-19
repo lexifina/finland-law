@@ -1,0 +1,2 @@
+Liikennevakuutuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
