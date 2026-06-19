@@ -1,0 +1,4 @@
+# 70 § Ilmoitus oikeudettomasta, toteuttamatta jääneestä taikka virheellisesti tai myöhässä toteutetusta maksutapahtumasta
+Luku: 7 luku Vastuu ja maksupalautus
+
+Maksupalvelun käyttäjällä ei ole oikeutta saada palveluntarjoajalta maksutapahtuman rahamäärän palautusta tai muuta hyvitystä siten kuin tässä luvussa säädetään, jollei hän ilmoita palveluntarjoajalle oikeudettomasta, toteuttamatta jääneestä taikka virheellisesti tai myöhässä toteutetusta maksutapahtumasta ilman aiheetonta viivytystä sen havaittuaan ja 13 kuukauden kuluessa maksutapahtuman rahamäärän veloittamisesta maksutililtään tai hyvittämisestä maksutililleen. Viimeksi mainittua määräaikaa ei sovelleta, jos palveluntarjoaja ei ole antanut maksupalvelun käyttäjälle maksutapahtumaa koskevia tietoja siten kuin 2 luvussa säädetään.

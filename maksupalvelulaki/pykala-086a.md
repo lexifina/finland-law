@@ -1,0 +1,6 @@
+# 86 a § Asiakasvalitusten käsittely
+Luku: 10 luku Erinäiset säännökset ja voimaantulo
+
+Palveluntarjoajilla on oltava tehokkaat menettelytavat maksupalvelun käyttäjien tämän lain mukaisia oikeuksia ja velvollisuuksia koskevien valitusten käsittelemiseksi. Jolleivät osapuolet sovi muun kielen käyttämisestä, menettelyssä on käytettävä suomea tai ruotsia taikka, jos maksupalvelua tarjotaan muualla kuin Suomessa, kyseisen valtion virallista kieltä.
+
+Palveluntarjoajan on vastattava valitukseen paperilla, jolleivät osapuolet ole sopineet, että vastaus annetaan muulla pysyvällä tavalla. Vastauksessa on otettava kantaa kaikkiin valituksessa esitettyihin seikkoihin, ja se on toimitettava maksupalvelun käyttäjälle 15 työpäivän kuluessa valituksen vastaanottamisesta. Jos vastausta ei palveluntarjoajasta riippumattomista ja poikkeuksellisista syistä voida antaa määräajassa, palveluntarjoajan on annettava maksupalvelun käyttäjälle väliaikainen vastaus, jossa ilmoitetaan vastauksen viivästymisen syy sekä määräaika, johon mennessä maksupalvelun käyttäjä saa lopullisen vastauksen. Lopullinen vastaus on joka tapauksessa toimitettava maksupalvelun käyttäjälle 35 työpäivän kuluessa valituksen vastaanottamisesta.

@@ -1,0 +1,4 @@
+# 86 b § Velvollisuus antaa tietoja tuomioistuimen ulkopuolisista riidanratkaisuelimistä
+Luku: 10 luku Erinäiset säännökset ja voimaantulo
+
+Sen lisäksi, mitä kuluttajansuojalain 2 luvun 8 b §:ssä säädetään, palveluntarjoajan on esitettävä liiketiloissaan tieto vähintään yhdestä sellaisesta riidanratkaisuelimestä, joka on ilmoitettu kuluttajariitojen vaihtoehtoisesta riidanratkaisusta sekä asetuksen (EY) N:o 2006/2004 ja direktiivin 2009/22/EY muuttamisesta (vaihtoehtoista kuluttajariitojen ratkaisua koskeva direktiivi) annetun Euroopan parlamentin ja neuvoston direktiivin 2013/11/EU 20 artiklan 2 kohdan mukaisesti Euroopan komissiolle ja joka on toimivaltainen käsittelemään tämän lain mukaisiin oikeuksiin ja velvollisuuksiin liittyviä riita-asioita elinkeinonharjoittajan ja kuluttajan välillä.
