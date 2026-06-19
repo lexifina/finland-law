@@ -1,0 +1,2 @@
+Vakuutussopimuslaki
+Eduskunnan päätöksen mukaisesti säädetään:

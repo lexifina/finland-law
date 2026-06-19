@@ -1,0 +1,4 @@
+# 53 § Ilmoitukset panttioikeuden haltijalle ja edunsaajamääräystä koskevan sitoumuksen saajalle
+Luku: 6 luku Edunsaajamääräys henkilövakuutuksessa sekä henkivakuutukseen perustuvan oikeuden luovutus ja panttaus
+
+Mitä 17, 20, 21 ja 39 §:ssä säädetään vakuutuksenantajan velvollisuudesta ilmoittaa vakuutuksenottajalle vakuutuksen lakkaamisesta tai vakuutuksenantajan vastuun alenemisesta, koskee myös sitä, jolle henkivakuutukseen perustuva oikeus on pantattu tai jolle on annettu sitoumus edunsaajamääräyksen voimassa pitämisestä edellyttäen, että panttauksesta tai edunsaajamääräyksestä on ilmoitettu vakuutuksenantajalle. Jos vakuutuksenantaja laiminlyö ilmoituksen toimittamisen, se ei voi panttioikeuden haltijaa tai edunsaajaa kohtaan vedota siihen, että vakuutus on lakannut tai että vastuu on alentunut.

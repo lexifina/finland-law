@@ -1,0 +1,8 @@
+# 20 § Henkilövakuutuksen jatkuminen muutetuin ehdoin
+Luku: 3 luku Vakuutuksen voimassaolo ja sopimuksen muuttaminen
+
+Jos vakuutuksenottaja tai vakuutettu on tahallisesti tai huolimattomuudesta, jota ei voida pitää vähäisenä, laiminlyönyt 22 §:ssä säädetyn tiedonantovelvollisuutensa ja vakuutuksenantaja olisi oikeat ja täydelliset tiedot saadessaan myöntänyt vakuutuksen ainoastaan korkeampaa maksua vastaan tai muutoin toisilla ehdoilla kuin oli sovittu, vakuutus jatkuu tällaisin maksuin ja ehdoin. Sama koskee, jos vakuutuksenottaja tai vakuutettu on täyttäessään tiedonantovelvollisuuttaan menetellyt vilpillisesti ja vakuutussopimus tästä huolimatta sitoo vakuutuksenantajaa 24 §:n 3 momentin nojalla.
+
+Vakuutus jatkuu vastaavasti muutetuin ehdoin, jos vakuutettuun liittyvässä, vakuutuksenantajan vastuun arvioimisen kannalta merkityksellisessä seikassa on tapahtunut 27 §:ssä tarkoitettu muutos ja vakuutuksenantaja olisi myöntänyt vakuutuksen ainoastaan korkeampaa maksua vastaan tai muutoin toisilla ehdoilla siinä tapauksessa, että vakuutettuun liittyvä seikka olisi ollut muutosta vastaava jo vakuutusta myönnettäessä.
+
+Saatuaan tiedon tiedonantovelvollisuuden laiminlyönnistä tai vakuutettuun liittyvän seikan muutoksesta vakuutuksenantajan on lähetettävä vakuutuksenottajalle ilman aiheetonta viivytystä ilmoitus siitä, miten ja mistä ajankohdasta lukien vakuutusmaksu tai muut sopimusehdot muuttuvat. Ilmoituksessa on mainittava, että vakuutuksenottajalla on oikeus irtisanoa vakuutus. Jos vakuutuksenantaja ei lähetä ilmoitusta tässä momentissa säädetyllä tavalla, se menettää oikeutensa muuttaa maksua tai ehtoja.

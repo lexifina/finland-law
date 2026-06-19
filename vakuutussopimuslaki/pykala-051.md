@@ -1,0 +1,8 @@
+# 51 § Henkivakuutukseen perustuvan oikeuden luovutus ja panttaus
+Luku: 6 luku Edunsaajamääräys henkilövakuutuksessa sekä henkivakuutukseen perustuvan oikeuden luovutus ja panttaus
+
+Vakuutuksenottajalla on oikeus luovuttaa ja pantata henkivakuutukseen perustuva oikeus. Eläkevakuutukseen perustuvan oikeuden luovuttamista ja panttaamista voidaan kuitenkin rajoittaa vakuutusehdoissa. Ryhmähenkivakuutukseen perustuvaa oikeutta ei saa pantata. Luovutus tai panttaus ei ole vakuutuksenottajan velkojia sitova, ellei siitä ole kirjallisesti ilmoitettu vakuutuksenantajalle. Jos vakuutuksessa on peruuttamaton edunsaajamääräys, vakuutuksenottaja ei saa luovuttaa tai pantata vakuutusta ilman sen suostumusta, jolle edunsaajamääräystä koskeva sitoumus on annettu.
+
+Jos henkivakuutukseen perustuva oikeus on pantattu tai jos vakuutuksessa on peruuttamaton edunsaajamääräys, panttioikeuden haltijan tai edunsaajamääräystä koskevan sitoumuksen saajan suostumus on saatava vakuutuksen takaisinostoon, lainaan, jonka vakuutuksenantaja myöntää vakuutuksenottajalle vakuutuksen arvoa vastaan (vakuutuskirjalaina), sekä muuhun panttioikeuden haltijan tai edunsaajan oikeutta supistavaan toimenpiteeseen.
+
+Jos henkivakuutukseen perustuva oikeus on luovutettu tai pantattu useille henkilöille, eivätkä näiden oikeudet ole keskenään sovitettavissa, on aikaisempi luovutus ja panttaus voimassa ennen myöhempää. Jos kuitenkin myöhemmästä luovutuksesta tai panttauksesta on ilmoitettu vakuutuksenantajalle ennen kuin tämä sai tiedon aikaisemmasta luovutuksesta tai panttauksesta ja se, jonka oikeudesta on kysymys, on ollut vilpittömässä mielessä, on myöhempi luovutus ja panttaus voimassa ennen aikaisempaa. Mitä tässä säädetään, sovelletaan vastaavasti peruuttamattomaan edunsaajamääräykseen.
