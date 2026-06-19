@@ -1,6 +1,6 @@
 # 1 § Tasa-arvovaltuutettu
 
-Naisten ja miesten välisestä tasa-arvosta annetussa laissa (609/1986), jäljempänä tasa-arvolaki, säädettyjä tehtäviä varten on oikeusministeriön hallinnonalalla tasa-arvovaltuutettu. Tasa-arvovaltuutetun nimittää valtioneuvosto enintään viideksi vuodeksi kerrallaan.
+Naisten ja miesten välisestä tasa-arvosta annetussa laissa (609/1986), jäljempänä tasa-arvolaki, säädettyjä tehtäviä varten on oikeusministeriön hallinnonalalla tasa-arvovaltuutettu. Tasa-arvovaltuutetun nimittää valtioneuvosto enintään viideksi vuodeksi kerrallaan. Tasa-arvovaltuutetuksi nimitetty vapautuu hoitamasta muuta virkaa siksi ajaksi, jonka hän toimii valtuutettuna.
 
 Tasa-arvovaltuutettu on toiminnassaan itsenäinen ja riippumaton.
 
