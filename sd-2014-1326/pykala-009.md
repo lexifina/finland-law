@@ -4,4 +4,6 @@ Yhdenvertaisuusvaltuutetulla on toimisto, jossa on tarpeellinen määrä valtuut
 
 Yhdenvertaisuusvaltuutettu nimittää toimiston virkamiehet ja ottaa palvelukseen toimiston muun henkilöstön.
 
-Yhdenvertaisuusvaltuutettu hyväksyy toimistolle työjärjestyksen.
+Yhdenvertaisuusvaltuutettu hyväksyy toimistolle työjärjestyksen ja työohjelman.
+
+Yhdenvertaisuusvaltuutetun on järjestettävä toimiston sisäinen toiminta niin, että valtuutettu voi käyttää eri toimivaltuuksiaan toisistaan riippumatta.
