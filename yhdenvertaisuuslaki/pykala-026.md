@@ -5,4 +5,6 @@ Hyvitystä sekä syrjivien ehtojen mitättömäksi julistamista voi käräjäoik
 
 Hyvitystä ja syrjivien ehtojen mitättömäksi julistamista on vaadittava kahden vuoden kuluessa syrjivästä tai vastatoimien kiellon vastaisesta menettelystä. Työhönottotilanteissa vaatimus on kuitenkin esitettävä vuoden kuluessa siitä, kun syrjäytetty työnhakija on saanut tiedon valintapäätöksestä.
 
-Asian vireilletulo yhdenvertaisuus- ja tasa-arvolautakunnassa katkaisee 2 momentissa säädetyn määräajan kulumisen lautakuntamenettelyn ajaksi.
+Asian vireilletulo yhdenvertaisuus- ja tasa-arvolautakunnassa keskeyttää 2 momentissa säädetyn määräajan kulumisen. Määräaika alkaa kulua uudelleen, kun asia on ratkaistu lainvoimaisesti.
+
+Lisäksi 2 momentissa säädetyn määräajan kuluminen keskeytyy yhdenvertaisuusvaltuutetun johdolla käytävän sovintomenettelyn ajaksi. Yhdenvertaisuusvaltuutetun tulee antaa sovintomenettelyn aloittamisesta ja päättymisestä ilmoitus osapuolille.
