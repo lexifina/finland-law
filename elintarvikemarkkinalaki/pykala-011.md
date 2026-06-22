@@ -1,0 +1,5 @@
+# 11 § Julkinen varoitus
+
+Jos ostaja tahallaan tai huolimattomuudesta rikkoo 2 a–2 g, 3 tai 4 b §:ssä, 4 c §:n 3 momentissa taikka markkinajärjestelyasetuksen 148 tai 168 artiklassa säädettyjä vaatimuksia eikä rikkomus ole vähäinen, elintarvikemarkkinavaltuutettu voi antaa tälle julkisen varoituksen. Julkinen varoitus voidaan antaa, jos rikkomus ei anna aihetta ankarampiin toimenpiteisiin. Julkinen varoitus voidaan antaa myös sellaiselle elinkeinonharjoittajalle tai elinkeinonharjoittajien yhteenliittymälle, jolle elinkeinotoiminta, jossa rikkomus on tapahtunut, on siirtynyt yrityskaupan tai muun yritysjärjestelyn seurauksena.
+
+Elintarvikemarkkinavaltuutetun on julkaistava julkista varoitusta koskevat tiedot viipymättä sen jälkeen, kun päätöksestä on ilmoitettu sen kohteena olevalle elinkeinonharjoittajalle ja päätös on lainvoimainen. Julkaisemisesta on käytävä ilmi rikkomisen luonne ja tyyppi sekä rikkomisesta vastuussa oleva elinkeinonharjoittaja. Tiedot on pidettävä elintarvikemarkkinavaltuutetun internetsivuilla vuoden ajan.

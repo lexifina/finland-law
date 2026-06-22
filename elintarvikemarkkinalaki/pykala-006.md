@@ -1,0 +1,7 @@
+# 6 § Elintarvikemarkkinavaltuutetun nimittäminen ja toimisto
+
+Elintarvikemarkkinavaltuutetun nimittää valtioneuvosto enintään viideksi vuodeksi kerrallaan. Elintarvikemarkkinavaltuutetun kelpoisuusvaatimuksena on ylempi korkeakoulututkinto, perehtyneisyys viran tehtäväalaan ja käytännössä osoitettu johtamistaito.
+
+Elintarvikemarkkinavaltuutetulla on toimisto, jossa on tarpeellinen määrä esittelijöinä toimivia virkamiehiä ja muuta henkilökuntaa. Valtuutettu hyväksyy toimistolle työjärjestyksen. Ruokavirasto huolehtii toimiston hallintopalveluista. Elintarvikemarkkinavaltuutettu nimittää toimiston virkamiehet ja ottaa palvelukseen toimiston muun henkilöstön siltä osin kuin kyse ei ole Ruokaviraston hallintopalveluista vastaavista henkilöistä.
+
+Elintarvikemarkkinavaltuutetun toimiston esittelijöiden kelpoisuusvaatimuksista ja tehtävistä sekä asioiden käsittelytavasta toimistossa, hallintopalvelujen toteuttamistavasta Ruokavirastossa ja muista elintarvikemarkkinavaltuutetun tehtävien järjestämiseen liittyvistä seikoista annetaan tarkempia säännöksiä valtioneuvoston asetuksella.

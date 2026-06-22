@@ -1,0 +1,2 @@
+Elintarvikemarkkinalaki
+Eduskunnan päätöksen mukaisesti säädetään:

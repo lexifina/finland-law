@@ -1,0 +1,5 @@
+# 8 b § Eräiden tietojen suojaaminen
+
+Sen lisäksi, mitä muualla laissa salassapidosta säädetään, elintarvikemarkkinavaltuutetun on asian käsiteltäväksi saattaneen toimijan pyynnöstä pidettävä tämän ja tämän edustamien 8 §:ssä tarkoitettujen toimijoiden henkilöllisyys ja muut asian käsittelyyn liittyvät, asian käsiteltäväksi saattaneen toimijan yksilöimät tiedot salassa, jos niiden paljastamisen voidaan olosuhteiden perusteella arvioida vahingoittavan näiden etuja.
+
+Jos tietojen salassapito vaarantaisi asianosaisten oikeuden tulla kuulluksi tai oikeuden oikeudenmukaiseen oikeudenkäyntiin, elintarvikemarkkinavaltuutettu ei kuitenkaan voi pitää tietoja salassa. Tällöin elintarvikemarkkinavaltuutetun on annettava ilmoituksen tekijälle mahdollisuus peruuttaa ilmoituksensa. Jos ilmoituksen tekijä ilmoittaa peruvansa ilmoituksen, asian käsittely raukeaa. Jos asian käsittelyä on kuitenkin elintarvikemarkkinavaltuutetun arvion mukaan mahdollista jatkaa siten, että 1 momentissa tarkoitettuja tietoja ei julkisteta, käsittelyä voidaan jatkaa.

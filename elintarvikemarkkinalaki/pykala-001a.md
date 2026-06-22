@@ -1,0 +1,3 @@
+# 1 a § Muutoin sovellettavasta laista riippumatta sovellettavat säännökset
+
+Tämän lain 2 a–2 d §:ää, 2 e §:n 1 momenttia, 2 f §:n 1 momenttia ja 2 g §:ää sovelletaan riippumatta siitä, minkä valtion lakia toimitussopimukseen muutoin sovelletaan, kuitenkin niin, että lainkohtia ei sovelleta, jos tavarantoimittajan vuotuinen liikevaihto on yli 350 000 000 euroa ja ostaja on tätä suurempi ja niin, että 2 b §:ää sovelletaan vain siltä osin kuin kyse on pilaantuvista tuotteista, ja niin, että 2 f §:n 1 momenttia sovelletaan vain siltä osin kuin myymättä jääneiden maataloustuotteiden tai elintarvikkeiden palauttamisesta ei ole sovittu aikaisemmin selkeästi ja yksiselitteisesti toimitussopimuksessa tai tavarantoimittajan ja ostajan välillä myöhemmin tehdyssä sopimuksessa.
