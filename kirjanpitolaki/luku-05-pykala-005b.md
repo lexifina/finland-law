@@ -1,0 +1,4 @@
+# 5 b § Rahoitusleasingsopimuksella hankitun omaisuuden merkitseminen
+Luku: 5 luku Arvostus- ja jaksotussäännökset
+
+Jos kirjanpitovelvollinen on tehnyt vuokrasopimuksen, jonka kohteena olevaan hyödykkeeseen perustuvat riskit ja edut siirtyvät olennaisilta osin vuokralleottajalle sopimuskauden alkaessa, vuokralleantaja saa merkitä hyödykkeen tilinpäätökseensä siten kuin se olisi myyty ja vuokralleottaja siten kuin se olisi ostettu. Jos kirjanpitovelvollinen ottaa tämän merkintätavan käyttöönsä, sitä tulee soveltaa kaikkiin tässä momentissa tarkoitettuihin sopimuksiin. Merkitsemisessä ja esittämisessä tilinpäätöksessä noudatetaan IAS-asetuksella hyväksyttyjä tilinpäätösstandardeja. Valtioneuvoston asetuksella voidaan säätää poikkeuksia standardien soveltamisesta tai soveltamiseen perustuvista lisävaatimuksista tilinpäätöksessä tai toimintakertomuksessa esittäville tiedoille.
