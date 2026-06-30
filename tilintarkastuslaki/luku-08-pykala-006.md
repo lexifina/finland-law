@@ -1,0 +1,4 @@
+# 6 § Tietojen saaminen muilta viranomaisilta
+Luku: 8 luku Valvontavaltuudet
+
+Tilintarkastusvalvonnalla on oikeus salassapitosäännösten ja muiden tiedonsaantia koskevien rajoitusten estämättä pyynnöstä saada viranomaiselta ja muulta julkista tehtävää hoitavalta tässä laissa säädettyä valvontaa varten välttämättömät tiedot. Tietoja saa hakea teknisen käyttöyhteyden avulla ilman sen suostumusta, jonka etujen suojaamiseksi salassapitovelvollisuudesta on säädetty. Mitä edellä säädetään, ei kuitenkaan koske tietosuoja-asetuksen 9 artiklan 1 kohdassa tarkoitettuja erityisiin henkilötietoryhmiin kuuluvia henkilötietoja ja rikollista tekoa, rangaistusta tai muuta rikoksen seuraamusta eikä henkilön sosiaalihuollon tarvetta tai hänen saamiaan sosiaalihuollon palveluja, tukitoimia ja muita sosiaalihuollon etuuksia koskevia henkilötietoja.
