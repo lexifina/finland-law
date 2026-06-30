@@ -1,0 +1,16 @@
+# 13 § Lunastusmenettely
+Osa: V OSA YHTIÖRAKENTEEN MUUTTAMINEN JA YHTIÖN PURKAMINEN
+Luku: 16 luku Sulautuminen
+Väliotsikko: Osakkeiden sekä optio-oikeuksien ja muiden osakkeisiin oikeuttavien erityisten oikeuksien lunastaminen
+
+Sulautuvan yhtiön osakkeenomistaja voi sulautumisesta päättävässä yhtiökokouksessa vaatia osakkeidensa lunastamista ja hänelle on varattava siihen tilaisuus, ennen kuin sulautumisesta päätetään. Sulautuvan yhtiön tulee ilmoittaa sähköinen osoite lunastusvaatimuksen sähköistä vastaanottamista varten. Vain ne osakkeet voidaan lunastaa, jotka on ilmoitettu merkittäviksi osakasluetteloon yhtiökokoukseen tai viimeiseen ilmoittautumispäivään mennessä taikka jos osakkeet kuuluvat arvo-osuusjärjestelmään, lunastusta vaativan osakkeenomistajan arvo-osuustilille 5 luvun 6 a §:ssä tarkoitettuun määräpäivään mennessä. Lunastusta vaativan on äänestettävä sulautumispäätöstä vastaan.
+
+Optio-oikeuksien ja muiden osakkeisiin oikeuttavien erityisten oikeuksien haltija voi vaatia oikeuksiensa lunastamista sulautumisesta päättävässä yhtiökokouksessa tai esittämällä todisteellisesti sitä koskevan vaatimuksensa sulautuvalle yhtiölle ennen yhtiökokousta. Sulautuvan yhtiön tulee ilmoittaa sähköinen osoite lunastusvaatimuksen sähköistä vastaanottamista varten. Ennen kuin sulautumisesta päätetään, yhtiökokoukselle on ilmoitettava, kuinka monesta oikeudesta on esitetty lunastusvaatimus.
+
+Jos osakkeiden taikka optio-oikeuksien tai muiden osakkeisiin oikeuttavien erityisten oikeuksien lunastusoikeudesta tai lunastamisen ehdoista ei sovita vastaanottavan yhtiön kanssa, asia on annettava välimiesten ratkaistavaksi noudattaen, mitä 18 luvun 3–5 ja 8–10 §:ssä säädetään lunastusriitojen käsittelystä. Osakkeenomistajan tai oikeuden haltijan on pantava asia vireille viimeistään kuukauden kuluttua yhtiökokouksesta. Välimiehet voivat päättää, että useiden osakkeenomistajien tai optio-oikeuksien tai muiden erityisten oikeuksien haltijoiden vireille panemat lunastusasiat on käsiteltävä samassa menettelyssä, jos ne johtuvat olennaisesti samasta perusteesta. Vireillepanon jälkeen osakkeenomistajalla ja oikeuden haltijalla on oikeus vain lunastushintaan. Jos lunastusmenettelyssä myöhemmin vahvistetaan, ettei heillä ole oikeutta lunastukseen, heillä on oikeus sulautumisvastikkeeseen sulautumissuunnitelman mukaisesti. Jos sulautuminen raukeaa, myös lunastusmenettely raukeaa.
+
+Lunastushinta on osakkeen taikka optio-oikeuden tai muun osakkeisiin oikeuttavan erityisen oikeuden sulautumispäätöstä edeltävän ajankohdan käypä hinta. Lunastushintaa määritettäessä ei oteta huomioon sulautumisen mahdollista sulautuvan yhtiön osakkeen taikka optio-oikeuden tai muun osakkeisiin oikeuttavan erityisen oikeuden arvoa alentavaa vaikutusta. Lunastushinnalle on maksettava vuotuista korkoa sulautumispäätöksen ja lunastushinnan maksamisen väliseltä ajalta korkolain 12 §:ssä tarkoitetun kulloinkin voimassa olevan viitekoron mukaisesti.
+
+Lunastushinta on maksettava kuukauden kuluttua tuomion lainvoimaiseksi tulemisesta, ei kuitenkaan ennen sulautumisen täytäntöönpanon rekisteröimistä. Lunastushinta voidaan tallettaa siten kuin 18 luvun 11 §:n 2 ja 3 momentissa säädetään.
+
+Lunastushinnan maksamisesta vastaa vastaanottava yhtiö. Sulautuvan yhtiön on viipymättä ilmoitettava tälle lunastusvaatimuksista.

@@ -1,0 +1,11 @@
+# 22 § Ennakollinen valvonta ja rekisteriviranomaisen velvollisuus olla antamatta lupaa kotipaikan siirtoon toiseen valtioon
+Osa: V OSA YHTIÖRAKENTEEN MUUTTAMINEN JA YHTIÖN PURKAMINEN
+Luku: 17 a luku Kotipaikan siirto
+
+Rekisteriviranomaisen on järjestettävä 21 §:n 1 momentissa, 24 ja 26 §:ssä tarkoitettujen tietojen tutkinta siten, että ennakollinen valvonta suoritetaan 23 §:ssä tarkoitetussa määräajassa.
+
+Ennen luvan antamista rekisteriviranomaisen tulee saamiensa tietojen perusteella tutkia, että suomalainen siirtyvä yhtiö on suorittanut kaikki kotipaikan siirron edellytyksenä olevat toimenpiteet ja täyttänyt laissa säädetyt muodollisuudet, kuten rahamääräisten tai muiden kuin rahamääräisten velvoitteiden suorittaminen tai varmistaminen julkishallinnolle tai toimialakohtaisten erityisvaatimusten noudattaminen (lainmukaisuuden tutkinta). Jos siirtyvä yhtiö ei suorita kaikkia lainmukaisuuden tutkinnassa vaadittavia toimenpiteitä tai täytä kaikkia muodollisuuksia, rekisteriviranomainen ei anna 21 §:n 4 momentissa tarkoitettua todistusta.
+
+Jos 2 momentissa tarkoitetun lainmukaisuuden tutkinnan aikana ilmenee perusteltu syy epäillä kotipaikan siirron tarkoitusta, ennen luvan antamista rekisteriviranomaisen tai tämän pyynnöstä muun toimialallaan toimivaltaisen viranomaisen on tutkittava myös, ettei kotipaikan siirtoa toteuteta väärinkäyttö- tai petostarkoituksessa, jonka seurauksena tai tarkoituksena on Euroopan unionin oikeuden tai kansallisen lainsäädännön välttäminen tai kiertäminen, taikka muuten rikollisessa tarkoituksessa (väärinkäyttö- tai petostarkoituksen tutkinta). Tapauskohtaisesti on otettava huomioon kaikki lainmukaisuuden tai väärinkäyttö- tai petostarkoituksen tutkinnan aikana ilmenneet, suorasti ja epäsuorasti asiaan vaikuttavat merkitykselliset tekijät, joita on arvioitava kokonaisuutena. Jos rekisteriviranomainen pitää vähintään melko todennäköisenä, että kotipaikan siirto toteutetaan väärinkäyttö- tai petostarkoituksessa, rekisteriviranomainen ei anna 21 §:n 4 momentissa tarkoitettua todistusta.
+
+Rekisteriviranomaisella on oikeus ilmoittaa 3 momentissa tarkoitetun väärinkäyttö- tai petostarkoituksen tutkinnassa havaitsemansa rikosasia esitutkintaviranomaiselle tutkintaa varten.

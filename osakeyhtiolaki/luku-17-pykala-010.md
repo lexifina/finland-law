@@ -1,0 +1,11 @@
+# 10 § Yhtiökokouskutsu sekä ilmoitus optio-oikeuksien ja muiden osakkeisiin oikeuttavien erityisten oikeuksien haltijoille
+Osa: V OSA YHTIÖRAKENTEEN MUUTTAMINEN JA YHTIÖN PURKAMINEN
+Luku: 17 luku Jakautuminen
+
+Kutsua jakautumisesta päättävään yhtiökokoukseen ei saa toimittaa ennen jakautumissuunnitelman rekisteröimistä. Kutsu on toimitettava aikaisintaan kahta kuukautta ja, jollei yhtiöjärjestyksessä ole määrätty pidempää aikaa, viimeistään kuukautta ennen yhtiökokousta, 5 luvun 7 §:ssä tarkoitettua viimeistä ilmoittautumispäivää taikka 5 luvun 6 a §:n mukaista arvo-osuusjärjestelmään liittyneitä yhtiöitä koskevaa määräpäivää. Julkisessa osakeyhtiössä kutsu voidaan kuitenkin toimittaa aikaisintaan kolme kuukautta ennen edellä tarkoitettua päivää.
+
+Jakautuvassa yhtiössä kutsu on sen lisäksi, mitä yhtiöjärjestyksessä kokouskutsusta määrätään, lähetettävä kirjallisena jokaiselle osakkeenomistajalle, jonka osoite on yhtiön tiedossa. Kutsussa jakautuvan yhtiön yhtiökokoukseen on mainittava osakkeenomistajien 13 §:ssä tarkoitetusta oikeudesta vaatia lunastusta. Jakautuvan yhtiön on 1 momentissa tarkoitetussa ajassa ilmoitettava 13 §:ssä tarkoitetusta lunastusoikeudesta niille optio-oikeuksien tai muiden osakkeisiin oikeuttavien erityisten oikeuksien haltijoille, joilla on oikeus vaatia lunastamista ja joiden osoite on yhtiön tiedossa. Jos kaikkien lunastukseen oikeutettujen osoite ei ole yhtiön tiedossa, lunastusoikeudesta on samassa ajassa ilmoitettava myös virallisessa lehdessä.
+
+Jos yhtiökokousta ei vastaanottavassa yhtiössä kutsuta koolle, jakautumisesta on ilmoitettava osakkeenomistajille samalla tavalla kuin kutsu yhtiökokoukseen toimitetaan. Osakkeenomistaja voi kuukauden kuluessa ilmoituksesta kirjallisesti vaatia, että jakautumisesta on päätettävä yhtiökokouksessa.
+
+Vastaanottavassa yhtiössä kokouskutsu voidaan toimittaa 5 luvun 19 §:n 1 momentissa tarkoitetussa ajassa, jos jakautumisesta päätetään yhtiökokouksessa osakkeenomistajan vaatimuksesta ja jos yhtiön tämän pykälän 3 momentissa tarkoitetun ilmoituksen ja yhtiökokouksen, 5 luvun 7 §:ssä tarkoitetun viimeisen ilmoittautumispäivän taikka 5 luvun 6 a §:n mukaisen arvo-osuusjärjestelmään liittyneitä yhtiöitä koskevan määräpäivän välinen aika on vähintään kuukausi tai yhtiöjärjestyksessä määrätty pidempi kutsuaika.

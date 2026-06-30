@@ -1,0 +1,13 @@
+# 24 a § Osakkeenomistajan oikeus vaatia ylimääräistä rahavastiketta
+Osa: V OSA YHTIÖRAKENTEEN MUUTTAMINEN JA YHTIÖN PURKAMINEN
+Luku: 16 luku Sulautuminen
+
+Suomalaisen sulautuvan yhtiön osakkeenomistajalla on rajat ylittävästä sulautumisesta päättävässä yhtiökokouksessa oikeus vaatia ylimääräistä rahavastiketta, jos osakkeenomistajan näkemyksen mukaan sulautumissuunnitelmassa ehdotettu osakkeiden vaihtosuhde on epäasianmukainen ja osakkeenomistaja ei ole vaatinut osakkeidensa lunastusta. Osakkeenomistajalle on varattava tilaisuus vaatimuksen esittämiseen, ennen kuin rajat ylittävästä sulautumisesta päätetään yhtiökokouksessa tai ennen kuin hallituksen kokous pidetään. Jos rajat ylittävästä sulautumisesta päätetään yhtiökokouksessa, vaatimuksen tekemiseksi edellytetään lisäksi, että:
+1) osakkeenomistajan osakkeet on ilmoitettu merkittäviksi osakasluetteloon yhtiökokoukseen tai viimeiseen ilmoittautumispäivään mennessä taikka, jos osake tai osakkeet kuuluvat arvo-osuusjärjestelmään, tämän arvo-osuustilille 5 luvun 6 a §:ssä tarkoitettuun määräpäivään mennessä;
+2) osakkeenomistajan on äänestettävä sulautumispäätöstä vastaan, jollei tämän osakkeiden oikeutta osallistua äänestykseen ole rajoitettu 3 luvun 3 §:n 2 momentissa tarkoitetulla tavalla.
+
+Sulautuvan yhtiön ylimääräistä rahavastiketta koskeva erimielisyys on annettava välimiesten ratkaistavaksi noudattaen, mitä 13 §:n 4 momentissa säädetään lunastushinnan ja koron määrittämisestä sekä 18 luvun 3, 4, 9 ja 10 §:ssä lunastusriitojen käsittelystä sekä välimiesmenettelystä annetun lain (967/1992) 46–48 §:ää välimiehille maksettavista korvauksista. Muilta osin menettelystä aiheutuvien kulujen korvaamiseen sovelletaan, mitä oikeudenkäymiskaaren 21 luvussa säädetään oikeudenkäyntikuluista. Osakkeenomistajan on pantava asia vireille viimeistään kuukauden kuluttua sulautumisesta päättävästä yhtiökokouksesta tai hallituksen kokouksesta. Välimiehet voivat päättää, että useiden osakkeenomistajien vireille panemat ylimääräisen rahavastikkeen maksamista koskevat vaatimukset on käsiteltävä samassa menettelyssä, jos ne johtuvat olennaisesti samasta perusteesta.
+
+Välitystuomio sitoo myös vastaanottavaa yhtiötä ja kolmikantasulautumisessa sulautumisvastikkeen antavaa yhtiötä. Ylimääräisen rahavastikkeen maksamisesta vastaa vastaanottava yhtiö tai kolmikantasulautumisessa sulautumisvastikkeen antava yhtiö. Sulautuvan yhtiön on viipymättä ilmoitettava vastaanottavalle yhtiölle tai kolmikantasulautumisessa sulautumisvastikkeen antavalle yhtiölle ylimääräistä rahavastiketta koskevista vaatimuksista.
+
+Edellä 2 momentissa tarkoitetun välimiesmenettelyn vireilläolo ei estä rajat ylittävän sulautumisen rekisteröintiä.

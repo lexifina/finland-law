@@ -1,0 +1,11 @@
+# 25 a § Ennakollinen valvonta ja rekisteriviranomaisen velvollisuus olla antamatta lupaa jakautua toiseen valtioon
+Osa: V OSA YHTIÖRAKENTEEN MUUTTAMINEN JA YHTIÖN PURKAMINEN
+Luku: 17 luku Jakautuminen
+
+Rekisteriviranomaisen on järjestettävä 25 §:n 1 momentissa, 25 c ja 25 e §:ssä tarkoitettujen tietojen tutkinta siten, että ennakollinen valvonta suoritetaan 25 b §:ssä tarkoitetussa määräajassa.
+
+Ennen luvan antamista rekisteriviranomaisen tulee saamiensa tietojen perusteella tutkia, että suomalainen jakautuva yhtiö on suorittanut kaikki jakautumisen edellytyksenä olevat toimenpiteet ja täyttänyt laissa säädetyt muodollisuudet, kuten rahamääräisten tai muiden kuin rahamääräisten velvoitteiden suorittaminen tai varmistaminen julkishallinnolle tai toimialakohtaisten erityisvaatimusten noudattaminen (lainmukaisuuden tutkinta). Jos jakautuva yhtiö ei suorita kaikkia lainmukaisuuden tutkinnassa vaadittavia toimenpiteitä tai täytä kaikkia muodollisuuksia, rekisteriviranomainen ei anna 25 §:n 4 momentissa tarkoitettua todistusta.
+
+Jos 2 momentissa tarkoitetun lainmukaisuuden tutkinnan aikana ilmenee perusteltu syy epäillä rajat ylittävän jakautumisen tarkoitusta, ennen luvan antamista rekisteriviranomaisen tai tämän pyynnöstä muun toimialallaan toimivaltaisen viranomaisen on tutkittava myös, ettei rajat ylittävää jakautumista toteuteta väärinkäyttö- tai petostarkoituksessa, jonka seurauksena tai tarkoituksena on Euroopan unionin oikeuden tai kansallisen lainsäädännön välttäminen tai kiertäminen, taikka muuten rikollisessa tarkoituksessa (väärinkäyttö- tai petostarkoituksen tutkinta). Tapauskohtaisesti on otettava huomioon kaikki lainmukaisuuden tai väärinkäyttö- tai petostarkoituksen tutkinnan aikana ilmenneet, suorasti ja epäsuorasti asiaan vaikuttavat merkitykselliset tekijät, joita on arvioitava kokonaisuutena. Jos rekisteriviranomainen pitää vähintään melko todennäköisenä, että rajat ylittävä jakautuminen toteutetaan väärinkäyttö- tai petostarkoituksessa, rekisteriviranomainen ei anna 25 §:n 4 momentissa tarkoitettua todistusta.
+
+Rekisteriviranomaisella on oikeus ilmoittaa 3 momentissa tarkoitetun väärinkäyttö- tai petostarkoituksen tutkinnassa havaitsemansa rikosasia esitutkintaviranomaiselle tutkintaa varten.

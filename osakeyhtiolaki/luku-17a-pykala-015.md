@@ -1,0 +1,7 @@
+# 15 § Yhtiökokouskutsu sekä ilmoitus optio-oikeuksien ja muiden osakkeisiin oikeuttavien erityisten oikeuksien haltijoille
+Osa: V OSA YHTIÖRAKENTEEN MUUTTAMINEN JA YHTIÖN PURKAMINEN
+Luku: 17 a luku Kotipaikan siirto
+
+Kutsua kotipaikan siirrosta päättävään yhtiökokoukseen ei saa toimittaa ennen siirtosuunnitelman rekisteröimistä. Kutsu on toimitettava aikaisintaan kahta kuukautta ja, jollei yhtiöjärjestyksessä ole määrätty pidempää aikaa, viimeistään kuukautta ennen yhtiökokousta, 5 luvun 7 §:ssä tarkoitettua viimeistä ilmoittautumispäivää taikka 5 luvun 6 a §:n mukaista arvo-osuusjärjestelmään liittyneitä yhtiöitä koskevaa määräpäivää. Julkisessa osakeyhtiössä kutsu voidaan kuitenkin toimittaa aikaisintaan kolme kuukautta ennen edellä tarkoitettua päivää.
+
+Siirtyvässä yhtiössä kutsu on sen lisäksi, mitä yhtiöjärjestyksessä yhtiökokouskutsusta määrätään, lähetettävä kirjallisena jokaiselle osakkeenomistajalle, jonka osoite on yhtiön tiedossa. Kutsussa siirtyvän yhtiön yhtiökokoukseen on mainittava osakkeenomistajien 18 §:ssä tarkoitetusta oikeudesta vaatia lunastamista. Siirtyvän yhtiön on 1 momentissa tarkoitetussa ajassa ilmoitettava 18 §:ssä tarkoitetusta lunastusoikeudesta niille optio-oikeuksien tai muiden osakkeisiin oikeuttavien erityisten oikeuksien haltijoille, joilla on oikeus vaatia lunastamista ja joiden osoite on yhtiön tiedossa. Jos kaikkien lunastukseen oikeutettujen oikeuksien haltijoiden osoite ei ole yhtiön tiedossa, lunastusoikeudesta on samassa ajassa ilmoitettava myös virallisessa lehdessä.
