@@ -1,0 +1,5 @@
+# 1 § Arvopaperin yleisölle tarjoamisen lykkääminen
+Osa: VI OSA SEURAAMUKSET, MUUTOKSENHAKU JA ERINÄISET SÄÄNNÖKSET
+Luku: 17 luku Valvontavaltuudet
+
+Finanssivalvonta voi määrätä, että arvopaperin yleisölle tarjoamista lykätään enintään kymmenellä perättäisellä pankkipäivällä kerrallaan. Lykkäys voidaan määrätä, jos Finanssivalvonnalla on perusteltu syy epäillä, että arvopaperin tarjoaja tai se, joka toimeksiannon nojalla huolehtii tarjouksesta, toimii tämän lain tai sen nojalla annettujen säännösten tai määräysten taikka esiteasetuksen tai sen nojalla annettujen Euroopan komission asetusten tai päätösten vastaisesti. Sama koskee liikkeeseenlaskijan EU:n vihreitä joukkolainoja koskevassa asetuksessa tarkoitettujen eurooppalaisten vihreiden joukkolainojen yleisölle tarjoamista, jos liikkeeseenlaskija on toiminut EU:n vihreitä joukkolainoja koskevan asetuksen II osaston 2 luvun tai 18 tai 19 artiklan mukaisen velvoitteen vastaisesti. Ennen määräyksen antamista Finanssivalvonnan on varattava määräyksen kohteelle tilaisuus tulla kuulluksi, jollei asian kiireellisyydestä tai muusta erityisestä syystä muuta johdu.

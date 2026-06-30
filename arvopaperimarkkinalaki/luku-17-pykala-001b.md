@@ -1,0 +1,5 @@
+# 1 b § Arvopapereita koskevan markkinoinnin kieltäminen
+Osa: VI OSA SEURAAMUKSET, MUUTOKSENHAKU JA ERINÄISET SÄÄNNÖKSET
+Luku: 17 luku Valvontavaltuudet
+
+Finanssivalvonta voi kieltää, lykätä tai lopettaa arvopaperin liikkeeseenlaskijan, tarjoajan, kaupankäynnin kohteeksi säännellyllä markkinalla ottamista hakevan henkilön tai asianomaisen rahoituksen välittäjän arvopapereita koskevan markkinoinnin enintään kymmenen peräkkäisen pankkipäivän ajaksi kerrallaan, jos Finanssivalvonnalla on perusteltu syy epäillä, että kyseisiä arvopapereita koskevan esiteasetuksen mukaisen esitteen sisältämistä tiedoista vastuussa olevat henkilöt ovat toimineet esiteasetuksen tai sen nojalla annettujen Euroopan komission asetusten tai päätösten vastaisesti. Sama koskee liikkeeseenlaskijan tai rahoituksen välittäjän EU:n vihreitä joukkolainoja koskevassa asetuksessa tarkoitettujen eurooppalaisten vihreiden joukkolainojen markkinointia, jos liikkeeseenlaskija tai rahoituksen välittäjä on toiminut EU:n vihreitä joukkolainoja koskevan asetuksen II osaston 2 luvun tai 18 tai 19 artiklan mukaisen velvoitteen vastaisesti.

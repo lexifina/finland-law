@@ -1,0 +1,7 @@
+# 1 a § Äänioikeuden käytön kieltäminen
+Osa: VI OSA SEURAAMUKSET, MUUTOKSENHAKU JA ERINÄISET SÄÄNNÖKSET
+Luku: 17 luku Valvontavaltuudet
+
+Finanssivalvonta voi painavasta syystä kieltää sitä, joka rikkoo 9 luvun 5, 6, 6 a, 6 b ja 9 §:ssä tarkoitettuja velvollisuuksia huomattavan omistus- ja ääniosuuden ilmoittamisesta, käyttämästä äänioikeutta ja olemasta edustettuna kohdeyhtiön yhtiökokouksessa niillä osakkeilla, joita rikkomus koskee. Kielto on voimassa kunnes sanottu ilmoitusvelvollisuus on täytetty, jollei Finanssivalvonta erityisen painavasta syystä pidennä kieltoa määräajaksi, kuitenkin enintään kolmeksi kuukaudeksi. Määräämästään kiellosta ja sen lakkaamisesta Finanssivalvonnan on sen lisäksi, mitä muualla laissa säädetään, ilmoitettava viipymättä kohdeyhtiölle.
+
+Finanssivalvonta voi painavasta syystä kieltää sitä, joka rikkoo 11 luvun 19, 22, 23 ja 25 §:ssä tarkoitettuja pakolliseen ostotarjoukseen liittyviä velvollisuuksia, käyttämästä äänioikeutta kohdeyhtiön osakkeilla ja olemasta edustettuna kohdeyhtiön yhtiökokouksessa. Finanssivalvonta voi painavasta syystä ulottaa kiellon koskemaan myös osakkeenomistajia, joiden osakkeet luetaan 11 luvun 20 §:n nojalla edellä tarkoitetun henkilön ääniosuuteen. Kielto on voimassa kunnes sanottu velvollisuus on täytetty, jollei Finanssivalvonta erityisen painavasta syystä pidennä kieltoa määräajaksi, kuitenkin enintään kolmeksi kuukaudeksi. Määräämästään kiellosta ja sen lakkaamisesta Finanssivalvonnan on sen lisäksi, mitä muualla laissa säädetään, ilmoitettava viipymättä kohdeyhtiölle.

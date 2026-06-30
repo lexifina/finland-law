@@ -1,0 +1,9 @@
+# 1 d § EU:n vihreitä joukkolainoja koskevaan asetukseen liittyvät julkaisua koskevat toimivaltuudet
+Osa: VI OSA SEURAAMUKSET, MUUTOKSENHAKU JA ERINÄISET SÄÄNNÖKSET
+Luku: 17 luku Valvontavaltuudet
+
+Finanssivalvonta voi vaatia EU:n vihreitä joukkolainoja koskevassa asetuksessa tarkoitettua eurooppalaisen vihreän joukkolainan liikkeeseenlaskijaa julkaisemaan mainitun asetuksen 10 artiklassa tarkoitetun tietokoosteen tai sisällyttämään tietokoosteeseen mainitun asetuksen liitteessä I tarkoitetut tiedot, julkaisemaan mainitun asetuksen 10–12 artiklassa tarkoitettuja arvioita ja arviointeja, mainitun asetuksen 11 artiklassa tarkoitettuja vuotuisia kohdentamisraportteja tai sisällyttämään vuotuisiin kohdentamisraportteihin mainitun asetuksen liitteessä II tarkoitetut tiedot, julkaisemaan mainitun asetuksen 12 artiklassa tarkoitetun vaikutusraportin tai sisällyttämään vaikutusraporttiin mainitun asetuksen liitteessä III tarkoitetut tiedot sekä ilmoittamaan julkaisemisesta Finanssivalvonnalle mainitun asetuksen 15 artiklan 4 kohdan mukaisesti.
+
+Finanssivalvonta voi vaatia liikkeeseenlaskijaa, joka käyttää EU:n vihreitä joukkolainoja koskevan asetuksen 21 artiklassa tarkoitettuja yhteisiä mallipohjia, sisällyttämään mallipohjissa tarkoitetut seikat liikkeeseenlaskun jälkeen määräajoin julkistettaviin tietoihin.
+
+Finanssivalvonta voi julkistaa sen tosiseikan, että eurooppalaisen vihreän joukkolainan liikkeeseenlaskija ei noudata EU:n vihreitä joukkolainoja koskevaa asetusta, ja vaatia kyseistä liikkeeseenlaskijaa julkaisemaan kyseisen tiedon verkkosivustollaan. Finanssivalvonta voi julkistaa kolmen kuukauden kuluttua edellä tarkoitetun toimivaltuuden käytön jälkeen sen, että kyseinen eurooppalaisen vihreän joukkolainan liikkeeseenlaskija ei enää noudata mainitun asetuksen 3 artiklaa nimityksen eurooppalainen vihreä joukkolaina tai EuGB-joukkolaina käytön osalta, ja vaatia liikkeeseenlaskijaa julkistamaan tämän tiedon verkkosivustollaan.

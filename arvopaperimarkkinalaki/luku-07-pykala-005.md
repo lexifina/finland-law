@@ -1,0 +1,6 @@
+# 5 § Tilinpäätöksen ja toimintakertomuksen julkistaminen
+Osa: III OSA TIEDONANTOVELVOLLISUUS
+Luku: 7 luku Säännöllinen tiedonantovelvollisuus
+Väliotsikko: Tilinpäätös ja toimintakertomus
+
+Liikkeeseenlaskijan on julkistettava tilinpäätöksensä ja toimintakertomuksensa ilman aiheetonta viivytystä viimeistään kolme viikkoa ennen sitä yhtiökokousta, jossa tilinpäätös on esitettävä vahvistettavaksi, kuitenkin viimeistään neljän kuukauden kuluessa tilikauden päättymisestä. Tilinpäätös ja toimintakertomus on julkistettava Euroopan parlamentin ja neuvoston direktiivin 2004/109/EY täydentämisestä yhtenäisen sähköisen raportointimuodon määrittämistä koskevilla teknisillä sääntelystandardeilla annetun komission delegoidun asetuksen (EU) 2019/815, jäljempänä komission tekninen sääntelystandardi, mukaisesti. Velvollisuus julkistaa tilinpäätös ja toimintakertomus ei kuitenkaan koske liikkeeseenlaskijaa, joka on laskenut liikkeeseen kaupankäynnin kohteeksi säännellyllä markkinalla vain muita arvopapereita kuin osakkeita, osakkeeseen oikeuttavia arvopapereita tai näihin rinnastettavia arvopapereita, jos näiden arvopaperien yksikkökohtainen nimellisarvo on vähintään 100 000 euroa tai tätä liikkeeseenlaskupäivänä vastaava määrä muussa valuutassa.

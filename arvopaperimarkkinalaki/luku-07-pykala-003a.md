@@ -1,0 +1,9 @@
+# 3 a § Kolmannesta maasta olevan liikkeeseenlaskijan säännöllisen tiedonantovelvollisuuden kotivaltio
+Osa: III OSA TIEDONANTOVELVOLLISUUS
+Luku: 7 luku Säännöllinen tiedonantovelvollisuus
+
+Liikkeeseenlaskijan, jonka yhtiöoikeudellinen kotipaikka on kolmannessa maassa ja jonka liikkeeseen laskemia osakkeita, osakkeeseen oikeuttavia arvopapereita tai näihin rinnastettavia arvopapereita on kaupankäynnin kohteena säännellyllä markkinalla, on valittava säännöllisen tiedonantovelvollisuuden kotivaltiokseen jokin niistä ETA-valtioista, jossa näitä arvopapereita on kaupankäynnin kohteena säännellyllä markkinalla. Säännöllisen tiedonantovelvollisuuden kotivaltiota koskeva valinta on voimassa niin kauan kuin liikkeeseenlaskijan arvopapereita on kaupankäynnin kohteena säännellyllä markkinalla kyseisessä ETA-valtiossa.
+
+Liikkeeseenlaskijan, jonka yhtiöoikeudellinen kotipaikka on kolmannessa maassa ja jonka liikkeeseen laskemia muita kuin 1 momentissa tarkoitettuja arvopapereita on kaupankäynnin kohteena säännellyllä markkinalla, on valittava säännöllisen tiedonantovelvollisuuden kotivaltiokseen jokin niistä ETA-valtioista, jossa liikkeeseenlaskijan arvopapereita on kaupankäynnin kohteena säännellyllä markkinalla. Säännöllisen tiedonantovelvollisuuden kotivaltiota koskeva valinta on voimassa vähintään kolme vuotta kerrallaan, kuitenkin enintään niin kauan kuin liikkeeseenlaskijan arvopapereita on kaupankäynnin kohteena säännellyllä markkinalla kyseisessä ETA-valtiossa eikä liikkeeseenlaskijan 1 momentissa tarkoitettuja arvopapereita ole otettu kaupankäynnin kohteeksi säännellyllä markkinalla.
+
+Liikkeeseenlaskijan on julkistettava tieto siitä, minkä ETA-valtion se on valinnut säännöllisen tiedonantovelvollisuuden kotivaltioksi. Tieto valinnasta on lisäksi toimitettava toimivaltaiselle viranomaiselle niissä ETA-valtioissa, jossa liikkeeseenlaskijan arvopapereita on kaupankäynnin kohteena säännellyllä markkinalla.
