@@ -1,0 +1,2 @@
+Laki diplomaattisten edustustojen, konsuliedustustojen tai kansainvälisissä hallitustenvälisissä järjestöissä toimivien edustustojen työntekijöiden perheenjäsenten ansiotyöstä Uruguayn itäisen tasavallan kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
