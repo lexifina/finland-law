@@ -3,7 +3,7 @@ Luku: 4 luku Toimivaltaiset viranomaiset
 
 Ruokavirasto voi kirjallisella toimeksiannolla siirtää viralliseen valvontaan liittyviä tarkastuksia luonnollisen henkilön suoritettavaksi, jos valvonta-asetuksen 30 artiklassa säädetyt edellytykset täyttyvät. Toimeksiannon saaneella ei ole oikeutta päästä tehtäviensä suorittamiseksi pysyväisluonteiseen asumiseen käytettäviin tiloihin.
 
-Ruokavirasto voi eläinterveyssäännöstön 108 artiklan 5 kohdan c alakohdan mukaisesti valtuuttaa toimielimen tai luonnollisen henkilön tunnistamaan eläimen ja myöntämään sille tunnistusasiakirjan.
+Ruokavirasto voi eläinterveyssäännöstön 108 artiklan 5 kohdan c alakohdan mukaisesti valtuuttaa toisen elimen tai luonnollisen henkilön antamaan eläintä koskevia tunnistusasiakirjoja ja laatimaan asiakirjamalleja eläinterveyssäännöstön 110 artiklan 1 kohdan mukaisesti. Ruokavirasto voi lisäksi sopimuksen perusteella valtuuttaa eläinjalostustoiminnasta annetun lain 3 §:n mukaisesti hyväksytyn kantakirjaa pitävän yhteisön hevos-eläimiä koskevan tämän lain 30 §:ssä tarkoitetun rekisterin osalta rekisterinpitäjäksi, jolloin rekisteriin ei sovelleta ruokahallinnon tietovarannosta annettua lakia (560/2021). Valtuutuksen antaminen edellyttää, että valvonta-asetuksen 31 artiklassa säädetyt edellytykset täyttyvät.
 
 Ruokavirasto voi peruuttaa 1 momentissa tarkoitetun toimeksiannon ja 2 momentissa tarkoitetun valtuutuksen, jos toimeksiannon tai valtuutuksen saanut laiminlyö toimeksiannossa tai valtuutuksessa asetettujen ehtojen noudattamisen tai muutoin olennaisella tavalla rikkoo tehtäviin liittyviä velvoitteitaan. Edellytyksenä toimeksiannon ja valtuutuksen peruuttamiselle on, että puutteita ei ole korjattu viranomaisen kehotuksesta huolimatta asetetussa määräajassa.
 
