@@ -2,7 +2,7 @@
 Osa: I OSA YHTEISET SÄÄNNÖKSET
 Luku: 2 luku Etuuden saamisen yleiset työvoimapoliittiset edellytykset
 
-Työnhakijan oikeutta työttömyysetuuteen ei ratkaista 10 ja 10 a §:n perusteella, eivätkä opinnot vaikuta hänen oikeuteensa saada työttömyysetuutta, jos:
+Työnhakijan oikeutta työttömyysetuuteen ei ratkaista 10 §:n eikä 10 a §:n 1 ja 2 tai 3 momentin 1–4 kohdan perusteella, eivätkä opinnot vaikuta hänen oikeuteensa saada työttömyysetuutta, jos:
 1) työnhakija on täyttänyt 25 vuotta ennen opintojen alkamista;
 2) opintojen muodostaman kokonaisuuden kesto tai opintojen jäljellä oleva kesto on yhdenjaksoisesti tai jaksotettuna enintään kuusi kuukautta; ja
 3) opinnot antavat ammatillisia valmiuksia tai tukevat yritystoimintaa.

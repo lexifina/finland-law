@@ -14,4 +14,5 @@ c) työttömyysetuudella tuetuista työnhakijan omaehtoisista opinnoista;
 d) kotoutumisen edistämisestä annetun lain 28–31 §:ssä tarkoitetuista omaehtoisista opinnoista;
 2) siltä osin, kun työnhakija osallistuu työnantajan työsopimuslain 7 luvun 13 §:n tai merityösopimuslain 8 luvun 11 §:n nojalla järjestämään tai hankkimaan koulutukseen; jos työnantaja kustantaa työntekijän itsensä hankkiman koulutuksen kokonaan tai osittain, koulutusta ei pidetä tätä pykälää sovellettaessa työnantajan järjestämänä tai hankkimana;
 3) siltä osin, kun työnhakija osallistuu työvoimapalveluiden järjestämisestä annetun lain 8 luvussa tarkoitettuun muutosturvakoulutukseen;
-4) siltä osin, kun opinnot ovat osa työllistymistä edistävää palvelua.
+4) siltä osin, kun opinnot ovat osa työllistymistä edistävää palvelua;
+5) jos työnhakija on täyttänyt 25 vuotta ja kyse on avoimista korkeakouluopinnoista yliopistossa, ammattikorkeakoulussa, kansalaisopistossa tai kesäyliopistossa.
