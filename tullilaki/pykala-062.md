@@ -1,5 +1,5 @@
 # 62 § Määräaika tullivelan tiedoksi antamiselle
-Luku: 9 luku Tulliverotuksen toimittaminen
+Luku: 9 luku Tulliverotuksen toimittaminen ja Tullin asiakirjojen tiedoksianto
 
 Määräajasta tullivelan tiedoksi antamiselle säädetään koodeksin 103 artiklassa. Jos tullivelka on syntynyt sellaisen teon seurauksena, joka sen suorittamishetkellä olisi voinut johtaa rikosoikeudenkäyntiin, määräaika tullivelan tiedoksi antamiselle on viisi vuotta tullivelan syntymispäivästä.
 

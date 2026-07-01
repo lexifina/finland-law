@@ -1,5 +1,5 @@
 # 58 § Tullin määrän määrittäminen
-Luku: 9 luku Tulliverotuksen toimittaminen
+Luku: 9 luku Tulliverotuksen toimittaminen ja Tullin asiakirjojen tiedoksianto
 
 Tulli määrittää tullin määrän saamansa ilmoituksen taikka muutoin saamiensa tai hankkimiensa tietojen perusteella.
 
