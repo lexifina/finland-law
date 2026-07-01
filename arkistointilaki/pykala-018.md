@@ -1,0 +1,6 @@
+# 18 § Tietojen antaminen kansalliseen arkistotietovarantoon siirretyistä viranomaisen asiakirjoista
+Luku: 4 luku Kansallista arkistotietovarantoa koskevat säännökset
+
+Kansallisarkistolla on oikeus julkisuuslain 16 §:n 1 momentin estämättä antaa tieto kansalliseen arkistotietovarantoon siirretystä viranomaisen asiakirjasta sähköisesti. Kansallisarkisto voi periä arkistotietovarantoon sisältyvän sähköisen julkisen asiakirjan sähköisestä antamisesta maksuja mainitun lain 34 §:n 1 momentissa säädetystä poiketen.
+
+Kansalliseen arkistotietovarantoon siirretyn viranomaisen asiakirjan saamista koskeva pyyntö on käsiteltävä viivytyksettä, ja tieto julkisesta asiakirjasta on annettava mahdollisimman pian, kuitenkin kuukauden kuluessa siitä, kun Kansallisarkisto on saanut asiakirjan saamista koskevan pyynnön. Jos pyydettyjä asiakirjoja on paljon tai niihin sisältyy salassa pidettäviä osia tai jos muu niihin rinnastettava syy aiheuttaa sen, että asian käsittely ja ratkaisu vaativat erityistoimenpiteitä tai muutoin tavanomaista suuremman työmäärän, asia on ratkaistava ja tieto julkisesta asiakirjasta annettava kahden kuukauden kuluessa siitä, kun Kansallisarkisto on saanut asiakirjan saamista koskevan pyynnön.
