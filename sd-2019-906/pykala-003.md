@@ -1,0 +1,24 @@
+# 3 § Lain soveltamisala ja sen rajaukset
+Luku: 1 luku Yleiset säännökset
+
+Tätä lakia sovelletaan tiedonhallintaan ja tietojärjestelmien käyttöön, kun viranomaiset käsittelevät tietoaineistoja, jollei muualla laissa toisin säädetä. Tämän lain 6 a lukua sovelletaan automaattisen ratkaisumenettelyn käyttöönottoon ja käyttöön. Mitä tässä laissa säädetään viranomaisesta, sovelletaan myös yliopistolaissa (558/2009) tarkoitettuihin yliopistoihin ja ammattikorkeakoululaissa (932/2014) tarkoitettuihin ammattikorkeakouluihin.
+
+Asiankäsittelyssä ja palvelujen tuottamisessa noudatettavista menettelyistä, salassapidosta ja tiedonsaantioikeudesta viranomaisten asiakirjoihin sekä asiakirjojen arkistoinnista säädetään erikseen. Tiedonhallinnasta ja tietojärjestelmien käytöstä Suomen evankelis-luterilaisessa kirkossa säädetään kirkkolaissa (652/2023).
+
+Tämän lain 4 a lukua ei sovelleta seuraaviin viranomaisiin ja viranomaisen toimintaan:
+1) tasavallan presidentin kanslia, eduskunnan virastot, Puolustusvoimat, poliisin hallinnosta annetussa laissa (110/1992) tarkoitetut poliisiyksiköt, Rajavartiolaitos, Syyttäjälaitos ja Tullin rikostorjunta;
+2) tuomioistuimet ja valitusasioita käsittelemään perustetut lautakunnat;
+3) Puolustuskiinteistöt;
+4) kunnalliset viranomaiset lukuun ottamatta Helsingin kaupunkia, johon sovelletaan 4 a lukua sen hoitaessa hyvinvointialueiden järjestämisvastuulle lailla säädettyjä tehtäviä;
+5) Suomen Pankki;
+6) yliopistolaissa tarkoitetut yliopistot, ammattikorkeakoululaissa tarkoitetut ammattikorkeakoulut, Pelastusopisto sekä muut valtion opetus- ja koulutusalan laitokset;
+7) julkisen hallinnon turvallisuusverkkotoiminnasta annetussa laissa (10/2015) tarkoitettu turvallisuusverkon palvelutuotanto ja turvallisuusverkon palvelujen käyttö;
+8) viranomaiset, jotka on perustettu yhdessä Euroopan talousalueeseen kuulumattoman maan kanssa kansainvälisen sopimuksen mukaisesti ja näissä maissa sijaitsevat diplomaattiset edustustot ja konsuliedustustot sekä näiden verkko- ja tietojärjestelmät, siltä osin kuin tällaiset järjestelmät sijaitsevat edustuston tiloissa tai niitä ylläpidetään näissä maissa olevia käyttäjiä varten.
+
+Tämän lain 19, 20, 26 ja 27 §:ää ei sovelleta tuomioistuimien eikä valitusasioita käsittelemään perustettujen lautakuntien lainkäyttöön. Tämän lain 3 lukua ei sovelleta eduskunnan oikeusasiamiehen eikä valtioneuvoston oikeuskanslerin toimintaan, tuomioistuimien eikä valitusasioita käsittelemään perustettujen lautakuntien toimintaan, tasavallan presidentin kansliaan, eduskunnan virastoihin, Kansaneläkelaitokseen, Suomen Pankkiin, muihin itsenäisiin julkisoikeudellisiin laitoksiin, yliopistolaissa tarkoitettuihin yliopistoihin eikä ammattikorkeakoululaissa tarkoitettuihin ammattikorkeakouluihin. Tämän lain 3 lukua sovelletaan hyvinvointialueisiin, hyvinvointiyhtymiin, kuntiin ja kuntayhtymiin niiden hoitaessa laissa säädettyjä tehtäviä. Tämän lain 18 g §:n 3 momenttia ja 18 h–18 l §:ää ei sovelleta eduskunnan oikeusasiamiehen eikä valtioneuvoston oikeuskanslerin toimintaan.
+
+Mitä 4 luvussa, 22–24 ja 25–27 §:ssä sekä 6 a luvussa säädetään tiedonhallintayksiköstä ja viranomaisesta, sovelletaan yksityisiin henkilöihin ja yhteisöihin sekä muihin kuin viranomaisena toimiviin julkisoikeudellisiin yhteisöihin siltä osin kuin ne hoitavat julkista hallintotehtävää. Yksityisiin henkilöihin ja yhteisöihin sekä muihin kuin viranomaisena toimiviin julkisoikeudellisiin yhteisöihin sovelletaan lisäksi, mitä 4 ja 28 §:ssä säädetään tiedonhallintayksiköstä, niiden käyttäessä julkista valtaa viranomaisten toiminnan julkisuudesta annetun lain 4 §:n 2 momentissa tarkoitetulla tavalla tai kun mainittu laki on säädetty erikseen sovellettavaksi niiden toiminnassa. Edelleen yksityisiin yhteisöihin ja muihin kuin viranomaisena toimiviin julkisoikeudellisiin yhteisöihin sovelletaan, mitä 19 §:n 2 momentissa sekä 24 a ja 24 b §:ssä säädetään viranomaisesta niiden käyttäessä julkista valtaa viranomaisten toiminnan julkisuudesta annetun lain 4 §:n 2 momentissa tarkoitetulla tavalla.
+
+Tätä lakia ei sovelleta Ahvenanmaan maakunnassa toimiviin valtion viranomaisiin. Tämän lain 13 a §:ää ja 6 a lukua sovelletaan kuitenkin Ahvenanmaalla toimiviin valtion viranomaisiin niiden hoitaessa sellaisia valtakunnan lainsäädäntövaltaan kuuluvia viranomaistehtäviä, joissa tehdään hallintolain 53 e §:ssä tarkoitettuja asian automaattisia ratkaisuja. Myös 4 a lukua sovelletaan Ahvenanmaan maakunnassa toimiviin valtion viranomaisiin, jollei 3 momentista muuta johdu.
+
+Poiketen siitä, mitä 3 momentissa säädetään, 4 a lukua sovelletaan viranomaisten toiminnan julkisuudesta annetun lain 4 §:n 1 momentin 1 kohdassa tarkoitettuun viranomaiseen, jos se on yhteiskunnan kriittisen infrastruktuurin suojaamisesta ja häiriönsietokyvyn parantamisesta annetun lain (310/2025) nojalla määritetty kriittinen toimija julkishallinnon toimialalla.
