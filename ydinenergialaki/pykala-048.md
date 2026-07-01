@@ -1,0 +1,6 @@
+# 48 § Valtion saatavan kattaminen ja kateosuus
+Luku: 7 luku Varautuminen ydinjätehuollon kustannuksiin
+
+Kun valtion saatava on määrätty, on se ensisijaisesti katettava erottamalla jätehuoltovelvollisen rahasto-osuudesta valtion ydinjätehuoltorahastoon kateosuudeksi se suhteellinen osuus rahasto-osuudesta, joka vastaa luovutettuja ydinjätteitä vastaavan vastuumäärän suhteellista osuutta 47 §:n 1 momentissa tarkoitettujen vastuumäärien yhteenlasketusta määrästä. Jätehuoltovelvollisen on suoritettava jäljelle jäävä valtion saatava rahastolle kateosuuteen lisättäväksi kolmen kuukauden kuluttua valtion saatavan perustamisesta.
+
+Siltä osin kuin jätehuoltovelvollinen ei ole määräajassa suorittanut rahastolle 1 momentissa tarkoitettua jäljelle jäävää saatavaa, on jätehuoltovelvollisen 44 §:n nojalla valtiolle luovuttamista vakuuksista muutettava vastaava määrä rahaksi ja varat lisättävä kateosuuteen. Jos sellaisen vakuuden antanut 45 §:n 1 momentin 1 tai 2 kohdassa tarkoitettu vakuutusyhtiö tai pankki sitä vaatii, on rahaston sille lainattava vakuudesta saadut varat määräajaksi 52 §:n 4 momentissa tarkoitetulla korolla sen rahastolle antamaa velkakirjaa vastaan ja muutoin rahaston määräämillä ehdoilla, jos työ- ja elinkeinoministeriö katsoo sellaisen sitoumuksen turvaavan varojen käyttöön saamisen.

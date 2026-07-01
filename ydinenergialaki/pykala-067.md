@@ -1,0 +1,4 @@
+# 67 § Toiminnan keskeyttäminen tai rajoittaminen
+Luku: 10 luku Valvonta ja pakkokeinot
+
+Säteilyturvakeskus voi luvanhaltijaa kuultuaan keskeyttää toiminnan tai rajoittaa sitä, jos 64 tai 65 §:ssä tarkoitetusta puutteellisuudesta tai epäkohdasta aiheutuu tai jos muutoin on perusteltua syytä epäillä toiminnasta aiheutuvan välitöntä vaaraa. Toiminta voidaan keskeyttää tai sitä rajoittaa siihen saakka, kunnes määräyksen antamiseen johtanut syy on lakannut olemasta. Sama oikeus Säteilyturvakeskuksella on, jos tämän lain mukaista valvontaa ei ole mahdollista muutoin toteuttaa tai jos luvanhaltija jättää noudattamatta Säteilyturvakeskuksen antamia, tässä laissa säädettyyn tai tämän lain nojalla annettuihin säännöksiin perustuvia määräyksiä tai jos luvanhaltija ei ole täyttänyt ydinvastuulain mukaisia velvollisuuksiaan.

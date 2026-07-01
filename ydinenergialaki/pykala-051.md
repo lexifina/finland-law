@@ -1,0 +1,4 @@
+# 51 § Valtion ydinjätehuoltorahaston voitto ja tappio
+Luku: 7 luku Varautuminen ydinjätehuollon kustannuksiin
+
+Valtion ydinjätehuoltorahaston kalenterivuoden voitolla hyvitetään tai tappiolla veloitetaan kalenterivuoden joulukuun viimeisen päivän rahasto-osuuksia ja kateosuuksia siinä suhteessa kuin vastaavat rahasto-osuudet ja kateosuudet ovat kalenterivuoden aikana olleet rahaston varoina. Kalenterivuoden voitolla hyvitetään kuitenkin rahasto-osuuksia vain siltä osin kuin voitto ylittää suojaosuuteen tarvittavan määrän. Rahasto voi rahasto-osuuksien hyvittämisen sijasta vähentää saman jätehuoltovelvollisen 42 §:n 1 momentin mukaan maksettavaksi tulevasta ydinjätehuoltomaksusta. Suhdelukuja laskettaessa vähennetään kunkin ajankohdan rahasto-osuudesta tai kateosuudesta kyseisen jätehuoltovelvollisen rahastolta saamista lainoista edellisiltä vuosilta kertynyt mutta tuona ajankohtana vielä maksamatta oleva korko.
