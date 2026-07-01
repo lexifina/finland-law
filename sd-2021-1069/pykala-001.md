@@ -3,7 +3,7 @@ Luku: 1 luku Yleiset säännökset
 
 Tässä laissa annetaan tarttuvista eläintaudeista sekä tiettyjen eläinterveyttä koskevien säädösten muuttamisesta ja kumoamisesta ("eläinterveyssäännöstö") annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2016/429, jäljempänä eläinterveyssäännöstö, täydentävät säännökset eläinten tunnistamisesta ja rekisteröinnistä.
 
-Tätä lakia sovelletaan myös lemmikkieläinten tunnistamiseen ja rekisteröintiin.
+Tätä lakia sovelletaan myös eläinterveyssäännöstön 4 artiklan 11 alakohdassa tarkoitettujen lemmikkieläinten ja muiden samaan lajiin kuuluvien eläinten, jäljempänä lemmikkieläimet, tunnistamiseen ja rekisteröintiin.
 
 Tätä lakia sovelletaan luonnonvaraisten eläinten tunnistamiseen ja rekisteröintiin, jos eläimet ovat ihmisten pitämiä.
 
