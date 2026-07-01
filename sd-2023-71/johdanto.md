@@ -1,0 +1,2 @@
+Laki metsätalouden määräaikaisesta kannustejärjestelmästä
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,6 @@
+# 47 § Ympäristötuen palauttaminen ja sopimuksen irtisanominen metsätuhotilanteissa
+Luku: 7 luku Tuen palauttaminen ja takaisinperintä sekä sopimuksen purkaminen ja irtisanominen
+
+Jos ympäristötukikohteella tapahtunut metsätuho edellyttää metsätuhojen torjunnasta annetun lain (1087/2013) mukaan vahingoittuneen puuston korjaamista alueelta, yksityisen maanomistajan tulee hakea puuston korjaamiseen metsäkeskuksen lupa. Metsäkeskuksen on myönnettävä lupa ja tarvittaessa liitettävä lupapäätökseen luontoarvojen säilyttämisen ja metsätuhojen ehkäisyn kannalta tarpeelliset ehdot. Yksityisen maanomistajan tulee palauttaa korjattavaa puustoa vastaava laskennallinen osuus ympäristötuesta takaisin metsäkeskukselle.
+
+Metsäkeskuksen tulee irtisanoa sopimus, jos ympäristötukikohde on niin tuhoutunut, ettei sopimuksen voimassaolon jatkaminen ole enää perusteltua. Yksityisen maanomistajan tulee tällöin palauttaa sopimuskaudesta jäljellä olevia kalenterikuukausia vastaavan osan maksetusta tuesta metsäkeskukselle. Yksityinen maanomistaja ei ole velvollinen maksamaan valtionavustuslain 24 §:ssä säädettyä korkoa palautettavalle määrälle. Jos yksityinen maanomistaja vastustaa ympäristötukisopimuksen irtisanomista, tulee metsäkeskuksen tehdä esitys Ruokavirastolle sopimuksen irtisanomiseksi.
