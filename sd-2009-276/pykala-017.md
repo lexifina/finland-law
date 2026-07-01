@@ -5,3 +5,5 @@ Edellä 9 ja 10 §:ssä säädettyjä korvauksia koskevat rahamäärät tarkiste
 Edellä 1 ja 11 §:ssä sekä 15 §:n 1 momentissa säädetyt rahamäärät tarkistetaan kalenterivuosittain työntekijän eläkelain (395/2006) 96 §:ssä tarkoitetulla palkkakertoimella ja pyöristetään lähimmäksi täydeksi kymmeneksi euroksi.
 
 Edellä 6 §:ssä säädetyn mukainen tapaturmaeläke ja 10 §:ssä säädetyn mukainen perhe-eläke tarkistetaan kalenterivuosittain työntekijän eläkelain 98 §:ssä tarkoitetulla työeläkeindeksillä, enintään kuitenkin 4 prosentilla kalenterivuodessa.
+
+Edellä 14 §:n 4 momentissa säädetyt rahamäärät tarkistetaan kalenterivuosittain työntekijän eläkelain 98 §:ssä tarkoitetulla työeläkeindeksillä ja pyöristetään lähimpään kymmeneen euroon.
