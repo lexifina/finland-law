@@ -1,0 +1,12 @@
+# 86 § Alkoholipitoisten aineiden poisottaminen, haltuunotto ja hävittäminen
+Luku: 13 luku Erinäiset säännökset
+
+Poliisimiehellä on oikeus ottaa alkoholipitoiset aineet pois henkilöltä, jolla ei ole oikeutta pitää niitä hallussaan, sekä henkilöltä, joka on otettu kiinni päihtymyksen vuoksi poliisilain 2 luvun 2 §:n 1 momentissa mainitussa tarkoituksessa tai rikoksilta ja häiriöiltä suojaamiseksi mainitun lain 2 luvun 10 §:n 2 momentissa mainitussa tarkoituksessa. Poliisimiehellä on myös oikeus ottaa alkoholijuoma pois henkilöltä, jolla tämän lain mukaan muutoin on oikeus pitää sitä hallussaan, jos asianomainen nauttii sitä 85 §:n 1 momentissa säädetyn vastaisesti tai yleisellä paikalla 85 §:n 2 momentissa säädetyn vastaisesti.
+
+Alkoholijuomia ei saa palauttaa henkilölle, jolla ei ole oikeutta pitää niitä hallussaan. Poliisimies voi todisteellisesti hävittää avatussa astiassa olevat sekä avaamattomassa astiassa olevat aineet, joiden arvo on vähäinen. Haltuunoton ja hävittämisen kirjaamiseen sovelletaan, mitä poliisilain 2 luvun 14 §:n 3 momentissa säädetään. Muut alkoholipitoiset aineet tulee palauttaa henkilölle säilöönoton tai muun henkilökohtaiseen vapauteen kohdistuvan toimenpiteen päättyessä, ellei tästä tai muusta laista muuta johdu. Muutoin noudatetaan, mitä omaisuuden haltuun ottamisesta ja haltuun otetun omaisuuden käsittelystä säädetään poliisilain 2 luvun 15 §:ssä.
+
+Jos alkoholijuomaa on nautittu vastoin 35, 36 tai 85 §:n 1 momentissa säädettyä kieltoa, on liikkeen tai muun paikan omistajalla ja henkilökuntaan kuuluvalla sekä tilaisuuden järjestäjällä oikeus ottaa kieltoa rikkoneelta pois alkoholijuoma astioineen ja hävittää se todisteellisesti. Järjestyksenvalvojan oikeudesta ottaa kieltoa rikkoneelta alkoholijuoma pois säädetään yksityisistä turvallisuuspalveluista annetun lain 47 §:ssä.
+
+Jos vankilaan tai muuhun suljettuun laitokseen taikka päihdehuollon yksikköön otettavalla tai siellä hoidettavana olevalla tavataan alkoholijuomaa tai muuta alkoholipitoista ainetta, saa laitoksen henkilökuntaan kuuluva ottaa sen häneltä pois ja todisteellisesti hävittää.
+
+Pidättämiseen oikeutettu virkamies saa todisteellisesti hävittää tai hävityttää sellaisen alkoholijuoman tai muun alkoholipitoisen aineen astioineen tai päällyksineen, raaka-aineen, välineen ja tarvikkeen, joka voidaan takavarikoida, jos on syytä olettaa, että se julistetaan menetetyksi, ja jolla ei ole sanottavaa myynti- tai käyttöarvoa.
