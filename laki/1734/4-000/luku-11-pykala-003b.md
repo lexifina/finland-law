@@ -1,7 +1,7 @@
 # 3 b §
 Luku: 11 luku Tiedoksiannosta oikeudenkäynnissä
 
-Kun tuomioistuin huolehtii tiedoksiannosta, se voidaan toimittaa myös siten, että tiedoksi annettavan asiakirjan sisältö kerrotaan vastaanottajalle puhelimitse (puhelintiedoksianto). Puhelimitse ei kuitenkaan voida antaa tiedoksi haastetta muussa kuin 5 luvun 3 §:ssä taikka oikeudenkäynnistä rikosasioissa annetun lain 5 a luvussa tai 8 luvun 11 §:ssä tarkoitetussa asiassa.
+Kun tuomioistuin huolehtii tiedoksiannosta, se voidaan toimittaa myös siten, että tiedoksi annettavan asiakirjan sisältö kerrotaan vastaanottajalle puhelimitse (puhelintiedoksianto). Puhelimitse ei kuitenkaan voida antaa tiedoksi haastetta muussa kuin 5 luvun 3 §:ssä tai 6 a luvussa taikka oikeudenkäynnistä rikosasioissa annetun lain 5 a luvussa tai 8 luvun 11 §:ssä tarkoitetussa asiassa.
 
 Puhelintiedoksianto voidaan toimittaa, jos se soveltuu tiedoksiantoon asiakirjan laajuuteen ja laatuun nähden ja jos vastaanottaja epäilyksettä saa puhelimitse tiedon asiakirjasta ja ymmärtää tiedoksiannon merkityksen.
 

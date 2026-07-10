@@ -14,6 +14,6 @@ Hovioikeuden tuomiossa ja lopullisessa päätöksessä on oltava:
 
 Selostus käräjäoikeuden ratkaisusta saadaan kokonaan tai osittain korvata liittämällä tuomioon tai lopulliseen päätökseen jäljennös käräjäoikeuden ratkaisusta kokonaan tai tarpeellisilta osiltaan, jollei hovioikeuden ratkaisun selvyys siitä vaarannu. Käräjäoikeuden perusteluja, jotka hovioikeus hyväksyy, ei tarvitse toistaa.
 
-Tuomiosta ja lopullisesta päätöksestä laaditaan taltio, jonka allekirjoittavat ne, jotka ovat osallistuneet asian ratkaisemiseen. Asian esittelijä varmentaa taltion. Asianosaiselle annettavan toimituskirjan allekirjoittaa asian esittelijä tai presidentin määräämä muu virkamies.
+Tuomion ja lopullisen päätöksen allekirjoittavat ne, jotka ovat osallistuneet asian ratkaisemiseen. Asianosaiselle annettava toimituskirja on allekirjoitettu tuomio tai lopullinen päätös taikka asian esittelijän tai presidentin määräämän muun virkamiehen allekirjoittama jäljennös tuomiosta tai lopullisesta päätöksestä.
 
 Jos hovioikeus on esittänyt 30 a luvun 7 §:ssä tarkoitetun ennakkopäätöskysymyksen, hovioikeuden tuomioon ja lopulliseen päätökseen on liitettävä korkeimman oikeuden ratkaisu.

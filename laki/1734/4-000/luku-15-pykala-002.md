@@ -9,8 +9,9 @@ Sen estämättä, mitä 1 momentissa säädetään, oikeudenkäyntiasiamiehenä 
 
 Myös muu kuin 1 momentissa mainittu, rehellinen ja muutoin kyseiseen tehtävään sopiva ja kykenevä täysi-ikäinen henkilö, joka ei ole konkurssissa ja jonka toimintakelpoisuutta ei ole rajoitettu, voi toimia oikeudenkäyntiasiamiehenä tai -avustajana:
 1) 5 luvun 3 §:ssä tarkoitetussa asiassa;
-2) hakemusasiassa, joka ei ole riitainen;
-3) maaoikeusasiassa.
+2) 6 a luvussa tarkoitetussa asiassa;
+3) hakemusasiassa, joka ei ole riitainen;
+4) maaoikeusasiassa.
 
 Mitä 4 momentin 2 kohdassa säädetään, ei kuitenkaan sovelleta yrityksen saneerauksesta annetun lain (47/1993) mukaisessa saneerausmenettelyä koskevassa asiassa, joka on vireillä samanaikaisesti kuin samaa velallista koskeva konkurssihakemus.
 
