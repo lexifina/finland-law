@@ -1,0 +1,8 @@
+# 1 § Soveltamisala
+Luku: 1 luku Yleiset säännökset
+
+Tässä laissa säädetään sisämarkkinoiden hätätilavaiheessa sellaisten unionin yhdenmukaistamislainsäädännön soveltamisalaan kuuluvien tuotteiden nopeasta ja turvallisesta saattamisesta markkinoille ja niiden käyttöönotosta, jotka on komission sisämarkkinoiden hätätilaa koskevassa täytäntöönpanosäädöksessä nimetty kriisin kannalta olennaisiksi tavaroiksi.
+
+Tässä laissa annetaan sisämarkkinoiden hätätilaa ja sisämarkkinoiden häiriönsietokykyä koskevan toimenpidekehyksen perustamisesta ja neuvoston asetuksen (EY) N:o 2679/98 muuttamisesta (sisämarkkinoiden hätätilaa ja häiriönsietokykyä koskeva säädös) annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2024/2747 sekä asetusten (EU) N:o 305/2011, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/988 ja (EU) 2023/1230 muuttamisesta siltä osin kuin on kyse hätätilamenettelyistä vaatimustenmukaisuuden arviointia, vaatimustenmukaisuusolettamaa, yhteisten eritelmien hyväksymistä ja markkinavalvontaa varten sisämarkkinoiden hätätilan vuoksi annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2024/2748 täydentävät säännökset.
+
+Tällä lailla pannaan täytäntöön direktiivien 2000/14/EY, 2006/42/EY, 2010/35/EU, 2014/29/EU, 2014/30/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU ja 2014/68/EU muuttamisesta siltä osin kuin on kyse hätätilamenettelyistä vaatimustenmukaisuuden arviointia, vaatimustenmukaisuusolettamaa, yhteisten eritelmien hyväksymistä ja markkinavalvontaa varten sisämarkkinoiden hätätilan vuoksi annettu Euroopan parlamentin ja neuvoston direktiivi (EU) 2024/2749.
