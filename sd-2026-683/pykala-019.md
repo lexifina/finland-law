@@ -1,0 +1,9 @@
+# 19 § Tiedonvaihto ja tietojen luovuttaminen
+Luku: 5 luku Tietojenvaihto, markkinavalvonnan priorisointi ja viranomaisten avunanto
+
+Tämän lain 5 §:ssä tarkoitetuilla viranomaisilla on salassapitosäännösten estämättä oikeus saada tässä laissa säädetyn poikkeuslupaan liittyvän tehtävän hoitamiseksi välttämättömiä tietoja toiselta viranomaiselta ja julkista tehtävää hoitavalta ilmoitetulta laitokselta ja käyttää toisen viranomaisen ja julkista tehtävää hoitavan ilmoitetun laitoksen hankkimia näytteitä tarpeellisiin tutkimuksiin. Henkilöä koskevia tietoja on oikeus saada vain, jos ne ovat välttämättömiä asian ratkaisemiseksi ja liittyvät tavaran tai tavaran käytön aiheuttamaan vaaraan.
+
+Toimivaltainen viranomainen voi salassapitosäännösten estämättä luovuttaa poikkeuslupa-asiassa saamiaan tavaraan tai sen käyttöön liittyviä välttämättömiä tietoja yksityisen ja yhteisön taloudellisesta asemasta, tavaran käytön olosuhteista, liikesalaisuudesta sekä yksityisen henkilökohtaisista oloista:
+1) syyttäjälle syyteharkintaa varten ja poliisille ja muille esitutkintaviranomaisille rikoksen ehkäisemiseksi tai selvittämiseksi;
+2) toiselle 5 §:ssä tarkoitetulle viranomaiselle 5 §:n 2 momentin tarkoittamassa tilanteessa, pelastusviranomaiselle ja työsuojelu-, ympäristönsuojelu-, kuluttajansuoja-, tulli- ja poliisiviranomaiselle ja sellaiselle markkinavalvontaviranomaiselle, joka valvoo tuotelainsäädännön noudattamista, jos tiedon luovuttaminen on välttämätöntä viranomaisen tehtävien suorittamisen kannalta ja se suorittaa laissa sille säädettyä turvallisuuteen, ympäristöturvallisuuteen tai tuoteturvallisuuteen liittyvää tehtävää;
+3) toimivaltaiselle Euroopan unionin jäsenvaltion viranomaiselle ja Euroopan unionin toimielimelle Euroopan unionin lainsäädäntöön tai Suomea sitovaan kansainväliseen sopimukseen perustuvan velvoitteen toteuttamiseksi.
