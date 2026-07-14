@@ -8,6 +8,6 @@ Pohjois-Atlantin sopimukseen kuuluvan toisen valtion puolustusvoimille palauteta
 
 Palautuksen edellytyksenä on, että tavaran tai palvelun verollinen ostohinta on vähintään 170 euroa.
 
-Vero palautetaan neljänneskalenterivuodelta Verohallinnolle tehdyn hakemuksen perusteella. Hakemus on tehtävä vuoden kuluessa laskun maksupäivästä. Verohallinto tarkistaa palautuksen edellytykset ja palauttaa veron.
+Vero palautetaan neljänneskalenterivuodelta Verohallinnolle tehdyn hakemuksen perusteella. Hakemus on tehtävä vuoden kuluessa laskun maksupäivästä. Verohallinto vahvistaa, onko hakijalla perustamis- tai isäntämaasopimuksen taikka joukkojen asemaa koskevan sopimuksen, hakijan aseman sekä tavaran tai palvelun käyttötarkoituksen perusteella oikeus palautukseen. Puolustusvoimat antaa Verohallinnon pyynnöstä vahvistukseen tarvittavia tietoja. Verohallinto tarkistaa muut palautuksen edellytykset ja palauttaa veron.
 
 Verohallinto määrää tarkemmin hakemukseen sisällytettävistä tiedoista ja hakemukseen liitettävistä asiakirjoista.
