@@ -5,6 +5,4 @@ Muukalaispassiin merkitään henkilön sukunimi, etunimet, sukupuoli, henkilötu
 
 Pakolaisen matkustusasiakirjaan merkitään henkilön sukunimi, etunimet, sukupuoli, henkilötunnus, syntymäpaikka, passin myöntämispäivä ja viimeinen voimassaolopäivä, passin myöntänyt viranomainen ja passin numero. Passissa on lisäksi passinhaltijan valokuva ja nimikirjoitus.
 
-3–4 momentit on kumottu L:lla 26.6.2009/458.
-
 Jos ulkomaalaisen henkilöllisyyttä ei ole pystytty selvittämään siitä tehdään merkintä muukalaispassiin tai pakolaisen matkustusasiakirjaan.

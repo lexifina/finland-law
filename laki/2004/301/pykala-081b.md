@@ -21,3 +21,5 @@ Poiketen 2 momentissa säädetystä, ulkomaalaisella, jonka kansainvälistä suo
 Ulkomaalaisella, joka on rekisteröity tilapäisen suojelun hakijaksi, on oikeus tehdä ansiotyötä ja harjoittaa yksityistä elinkeinotoimintaa ilman oleskelulupaa.
 
 Ulkomaalaisella, joka oleskelee maassa laillisesti ja jonka työnteko-oikeudesta on sovittu Suomen ja toisen valtion välisessä perhe- ja puolisosopimuksessa, on oikeus tehdä ansiotyötä ja harjoittaa elinkeinoa ilman oleskelulupaa.
+
+Edellä 40 §:n 1 momentin 10 kohdassa tarkoitetun jäsenen huollettavalla ja sopimustoimittajan työntekijällä on oikeus tehdä ansiotyötä ja harjoittaa elinkeinoa ilman oleskelulupaa.

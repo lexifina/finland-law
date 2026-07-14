@@ -18,3 +18,5 @@ Jos työnteko-oikeus perustuu kansainvälisen suojelun hakemiseen ja hakijalla o
 Työnteko-oikeuden päättymisestä tilanteessa, jossa siirtopäätöksen saaneen vastaanottopalvelut on peruutettu, säädetään kansainvälistä suojelua hakevan vastaanotosta sekä ihmiskaupan uhrin tunnistamisesta ja auttamisesta annetun lain 48 §:ssä.
 
 Jos työnteko-oikeus tai oikeus harjoittaa yksityistä elinkeinotoimintaa perustuu tilapäisen suojelun hakemiseen, oikeus päättyy, kun ulkomaalaisen tilapäistä suojelua koskeva hakemus on hylätty tai se on rauennut.
+
+Jos työnteko-oikeus perustuu 81 b §:n 6 momenttiin, kestää oikeus niin kauan kuin ulkomaalainen oleskelee maassa laillisesti.
