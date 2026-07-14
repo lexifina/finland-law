@@ -1,0 +1,6 @@
+# 32 § Oikeus käyttää Puolustusvoimien määräaikaiskatsastuksessa hylättyä sotilasajoneuvoa
+Luku: 5 luku Sotilasajoneuvojen katsastus
+
+Edellä 28 §:ssä säädetystä poiketen, jos 27 §:ssä tarkoitettuna katsastusaikana Puolustusvoimien katsastukseen esitetty sotilasajoneuvo hylätään Puolustusvoimien määräaikaiskatsastuksessa ajokieltoa määräämättä, sotilasajoneuvoa saa käyttää liikenteessä enintään kahden kuukauden ajan Puolustusvoimien määräaikaiskatsastuksessa hylkäämisestä. Jos sotilasajoneuvoa ei edellä tarkoitettuna aikana hyväksytä Puolustusvoimien jälkitarkastuksessa tai Puolustusvoimien määräaikaiskatsastuksessa, sotilasajoneuvoa saa käyttää liikenteessä vain ajoneuvotarkastajan antamalla kirjallisella luvalla sen kuljettamiseksi korjattuna Puolustusvoimien katsastukseen.
+
+Ajoneuvotarkastaja voi antaa Puolustusvoimien määräaikaiskatsastuksessa ajokieltoon määrätylle sotilasajoneuvolle tai 27 §:ssä tarkoitetun katsastusajan jälkeen katsastuksessa hylätylle sotilasajoneuvolle kirjallisen luvan, joka oikeuttaa sotilasajoneuvon kuljettamiseen lähimpään paikkaan, jossa korjaus voidaan tarkoituksenmukaisesti suorittaa, ja korjauksen jälkeen uudelleen katsastettavaksi. Kirjallisessa luvassa on mainittava, minne ja miten sotilasajoneuvon saa kuljettaa sekä kuinka kauan lupa on voimassa.

@@ -1,0 +1,4 @@
+# 13 § Puolustusvoimien tyyppihyväksyntäviranomainen
+Luku: 3 luku Sotilasajoneuvon tyyppihyväksyntä
+
+Pääesikunnan teknillinen tarkastusosasto on Suomessa sotilasajoneuvorekisteriin rekisteröitävän sotilasajoneuvon tyyppihyväksyntäviranomainen.
