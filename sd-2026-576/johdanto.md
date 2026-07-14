@@ -1,0 +1,2 @@
+Laki Pariisin pöytäkirjan täydentämisestä Suomen tasavallan hallituksen sekä Naton operaatiojohtoportaan johtoesikunnan ja Naton transformaatiojohtoportaan johtoesikunnan välillä tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
