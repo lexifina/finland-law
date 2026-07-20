@@ -1,0 +1,2 @@
+Laki maataloudessa käytettyjen eräiden energiatuotteiden valmisteveron palautuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
