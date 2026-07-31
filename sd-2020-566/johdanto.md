@@ -1,0 +1,2 @@
+Laki kuluttajansuojaviranomaisten eräistä toimivaltuuksista
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,10 @@
+# 14 § Seuraamusmaksu eräiden matkustajan oikeuksia koskevien säännösten rikkomisesta
+Luku: 3 luku Hallinnolliset seuraamukset
+
+Seuraamusmaksu voidaan määrätä elinkeinonharjoittajalle, joka kuluttajien vahingoksi tahallaan tai huolimattomuudesta rikkoo tai laiminlyö:
+1) matkapalveluyhdistelmistä annetun lain (901/2017) 10 §:n ja sen 3 momentin nojalla annettuja säännöksiä matkapakettisopimuksessa tai sopimusvahvistuksessa mainittavista tiedoista ja niiden vahvistamisesta, 16 §:ää maksusuoritusten palauttamisesta matkustajalle tai 27 §:n säännöksiä ylimääräisistä majoituskustannuksista;
+2) lentomatkustajien oikeuksia koskevan asetuksen 4 artiklan 3 kohdan mukaisia velvoitteitaan evättäessä matkustajalta pääsy lennolle vastoin hänen tahtoaan, lennon peruutustilanteessa sille 5 artiklan 1 kohdan a ja b alakohdan tai 2 kohdan mukaan kuuluvia velvoitteita, lennon viivästyessä aikataulun mukaisesta lähtöajastaan sille 6 artiklan mukaan kuuluvia velvoitteita tai 14 artiklan mukaista velvollisuutta ilmoittaa matkustajille heidän oikeuksistaan;
+3) rautatievastuuasetuksen, siten kuin sitä sovelletaan kansallisesti, 20 artiklan mukaisia avunantovelvollisuuksiaan viivästys- tai peruutustilanteessa;
+4) merimatkustajien oikeuksia koskevan asetuksen 17 artiklan mukaisen avustamisvelvollisuuden lähdön peruuntuessa tai viivästyessä, 18 artiklan mukaisia uutta matkareittiä ja lipun hinnan palautusta koskevia velvollisuuksiaan lähdön peruuntuessa tai viivästyessä tai velvollisuuden suorittaa saapumisen viivästyessä korvausta 19 artiklan mukaisesti matkustajalle, jonka matkalippu ei ole näyttö- tai kausilippu;
+5) lentoliikenteen harjoittamisen yhteisistä säännöistä yhteisössä annetun Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 1008/2008 23 artiklan 1 kohtaa hinnan ilmoittamisesta;
+6) linja-autoliikenteen matkustajien oikeuksia koskevan asetuksen 19 artiklan 2 kohdan mukaisen velvollisuuden suorittaa korvausta matkustajalle jätettyään tarjoamatta mainitun artiklan 1 kohdassa tarkoitetun valinnan mahdollisuuden.
