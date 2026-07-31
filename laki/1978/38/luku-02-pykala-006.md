@@ -6,6 +6,7 @@ Markkinoinnissa tai asiakassuhteessa ei saa antaa totuudenvastaisia tai harhaanj
 Totuudenvastaiset tai harhaanjohtavat tiedot voivat koskea erityisesti:
 1) kulutushyödykkeen olemassaoloa, saatavuutta, lajia, laatua, määrää ja muita keskeisiä ominaisuuksia;
 2) kulutushyödykkeen alkuperää, valmistustapaa ja -aikaa, käyttöä ja käytön vaikutuksia sekä hyödykkeelle tehtyjen testien tuloksia;
+2 a) tavaran kestävyyttä, korjattavuutta ja kierrätettävyyttä sekä muita kulutushyödykkeen ympäristöön, yhteiskuntaan ja kiertotalouteen liittyviä ominaisuuksia;
 3) kulutushyödykkeen hintaa tai sen määräytymisen perusteita, erityistä hintaetua ja maksuehtoja;
 4) kulutushyödykkeen toimitusaikaa ja muita toimitusehtoja;
 5) myyntimenettelyn luonnetta, asiakaspalvelua sopimuksen teon jälkeen ja asiakasvalitusten käsittelyä;
