@@ -1,0 +1,3 @@
+# 1 § Lain tarkoitus
+
+Tällä lailla pannaan täytäntöön tutkimusta, opiskelua, harjoittelua, vapaaehtoistyötä, oppilasvaihto-ohjelmaa tai koulutushanketta ja au pairina työskentelyä varten tapahtuvan kolmansien maiden kansalaisten maahantulon ja oleskelun edellytyksistä annettu Euroopan parlamentin ja neuvoston direktiivi (EU) 2016/801, jäljempänä tutkija- ja opiskelijadirektiivi. Tässä laissa säädetään lisäksi sellaisen kolmannen maan kansalaisen, joka ei kuulu direktiivin soveltamisalaan tai jolle ei voida myöntää direktiivissä säädettyä oleskelulupaa, oikeudesta saada kansallinen oleskelulupa.

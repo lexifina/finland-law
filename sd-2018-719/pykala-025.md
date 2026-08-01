@@ -1,0 +1,5 @@
+# 25 § Maahantulo liikkumista koskevan ilmoituksen jälkeen
+
+Jos ilmoitus liikkumisesta on tehty 20 §:n 2 momentin 1 kohdassa säädetyn mukaisesti eikä Maahanmuuttovirasto ole ilmoittanut ensimmäiselle jäsenvaltiolle vastustavansa liikkumista 22 §:ssä säädetyn mukaisesti, tutkijan luvan ja tutkijan perheenjäsenen luvan tai opiskelijan luvan ensimmäisessä jäsenvaltiossa saanut kolmannen maan kansalainen saa saapua Suomeen milloin tahansa luvan voimassaoloaikana.
+
+Jos ilmoitus liikkumisesta on tehty 20 §:n 2 momentin 2 kohdassa säädetyn mukaisesti, tutkijan luvan ja tutkijan perheenjäsenen luvan ensimmäisessä jäsenvaltiossa saanut kolmannen maan kansalainen saa saapua Suomeen ilmoittamisen jälkeen välittömästi tai milloin tahansa sen jälkeen luvan voimassaoloaikana. Jollei Maahanmuuttovirasto ole ilmoittanut ensimmäiselle jäsenvaltiolle vastustavansa opiskelijan liikkumista 22 §:n mukaisesti, opiskelijan luvan ensimmäisessä jäsenvaltiossa saanut kolmannen maan kansalainen saa saapua Suomeen milloin tahansa luvan voimassaoloaikana.

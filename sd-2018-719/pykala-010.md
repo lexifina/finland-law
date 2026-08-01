@@ -1,0 +1,9 @@
+# 10 § Oleskeluluvan myöntäminen työnhakua ja yritystoimintaa varten
+
+Kolmannen maan kansalaiselle, jolle on myönnetty oleskelulupa 6, 7 tai 7 a §:n perusteella, myönnetään tutkimustoiminnan loppuunsaattamisen tai tutkinnon suorittamisen jälkeen oleskelulupa työnhakua tai yritystoimintaa varten. Kolmannen maan kansalaiselle, jolle on myönnetty oleskelulupa 6 a §:n perusteella, myönnetään tutkinnon suorittamisen jälkeen oleskelulupa työnhakua tai yritystoimintaa varten. Oleskelulupaa on haettava viiden vuoden kuluessa 6, 6 a, 7 tai 7 a §:n perusteella myönnetyn oleskeluluvan voimassaoloajan päättymisestä.
+
+Oleskeluluvan myöntämisen edellytyksenä on, että 1 momentissa tarkoitetun henkilön toimeentulo on turvattu ulkomaalaislain 39 §:n mukaisesti.
+
+Oleskelulupa myönnetään tilapäisenä enintään kahdeksi vuodeksi. Oleskelulupa myönnetään kuitenkin jatkuvana, jos edellinen oleskelulupa on ollut jatkuva. Jos ensimmäinen tällä perusteella myönnetty oleskelulupa myönnetään alle kahdeksi vuodeksi, jatko-oleskelulupaa voi samalla perusteella hakea enintään kaksi kertaa kolmen vuoden sisällä siitä, kun ensimmäinen tällä perusteella haettu lupa on myönnetty. Jatko-oleskelulupaa ei kuitenkaan myönnetä alle kuudeksi kuukaudeksi. Jos kolmannen maan kansalainen suorittaa uuden tutkinnon tai saattaa loppuun uuden tutkimuksen, hänen oikeutensa tämän pykälän nojalla haettavaan oleskelulupaan päättyy aiemman tutkinnon tai tutkimuksen perusteella.
+
+Jos korkeakoulututkintotodistusta, todistusta tai muuta muodollista pätevyyttä osoittavaa asiakirjaa tai tutkimusorganisaation vahvistusta tutkimustoiminnan loppuun saattamisesta ei ole saatavilla ennen 6, 6 a, 7 tai 7 a §:n perusteella myönnetyn oleskeluluvan voimassaolon päättymistä ja kaikki muut oleskeluluvan myöntämisen edellytykset täyttyvät, kolmannen maan kansalainen saa oleskella maassa kohtuullisen ajan tällaisen asiakirjan tai vahvistuksen toimittamista varten.
