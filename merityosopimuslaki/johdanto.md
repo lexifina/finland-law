@@ -1,0 +1,2 @@
+Merityösopimuslaki
+Eduskunnan päätöksen mukaisesti säädetään:
