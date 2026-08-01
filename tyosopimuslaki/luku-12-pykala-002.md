@@ -1,0 +1,8 @@
+# 2 § Korvaus työsopimuksen perusteettomasta päättämisestä
+Luku: 12 luku Vahingonkorvausvelvollisuus
+
+Työnantaja, joka on tässä laissa säädettyjen perusteiden vastaisesti päättänyt työsopimuksen, on määrättävä maksamaan korvausta työsopimuksen perusteettomasta päättämisestä. Jos työntekijä on purkanut työsopimuksen 8 luvun 1 §:ssä säädetyllä perusteella, joka on johtunut työnantajan tahallisesta tai huolimattomasta menettelystä, työnantaja on määrättävä maksamaan korvausta työsopimuksen perusteettomasta päättämisestä. Yksinomaisena korvauksena on suoritettava vähintään kolmen ja enintään 24 kuukauden palkka. Työehtosopimuksen perusteella valitulle luottamusmiehelle ja jäljempänä 13 luvun 3 §:ssä tarkoitetulle luottamusvaltuutetulle suoritettavan korvauksen enimmäismäärä on kuitenkin 30 kuukauden palkka.
+
+Korvauksen suuruutta määrättäessä otetaan työsopimuksen päättämisen syystä riippuen huomioon työtä vaille jäämisen arvioitu kesto ja ansion menetys, määräaikaisen työsopimuksen jäljellä ollut kestoaika, työsuhteen kesto, työntekijän ikä ja hänen mahdollisuutensa saada ammattiaan tai koulutustaan vastaavaa työtä, työnantajan menettely työsopimusta päätettäessä, työntekijän itsensä antama aihe työsopimuksen päättämiseen, työntekijän ja työnantajan olot yleensä sekä muut näihin rinnastettavat seikat. Korvausta määrättäessä on otettava huomioon mahdollinen samasta teosta yhdenvertaisuuslain nojalla tuomittu hyvitys.
+
+Jos työnantaja on irtisanonut työsopimuksen vastoin 7 luvun 3 tai 7 §:ssä säädettyjä perusteita tai purkanut sen 1 luvun 4 §:n tai yksinomaan 8 luvun 1 §:ssä säädettyjen perusteiden vastaisesti, korvausta määrättäessä ei sovelleta 1 momentin säännöstä korvauksen vähimmäismäärästä.
