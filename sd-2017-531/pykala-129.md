@@ -1,0 +1,6 @@
+# 129 § Tutkintojen perusteita koskevat siirtymäsäännökset
+Luku: 14 luku Voimaantulo- ja siirtymäsäännökset
+
+Tämän lain voimaantulon jälkeen koulutuksen järjestäjä voi ottaa opiskelijan suorittamaan tutkintoa kumottujen lakien nojalla määrättyjen tutkinnon perusteiden mukaisesti kunnes 128 §:n 4 momentissa tarkoitetut vastaavan uuden tutkinnon perusteet ovat voimassa, ei kuitenkaan näyttötutkintona suoritettavaa ammatillista perustutkintoa. Opiskelija, joka on otettu suorittamaan ammatillista perustutkintoa, siirtyy suorittamaan tutkintoa tämän lain nojalla määrättyjen tutkinnon perusteiden mukaisesti 1 päivänä elokuuta 2018.
+
+Ennen lain voimaantuloa tutkinnon suorittamisen aloittaneella opiskelijalla sekä 1 momentissa tarkoitetulla ammatti- tai erikoisammattitutkinnon suorittamisen aloittaneella opiskelijalla on oikeus suorittaa tutkinto kumottujen lakien nojalla määrättyjen perusteiden mukaisesti 31 päivään joulukuuta 2021 saakka. Opiskelija voi kuitenkin siirtyä suorittamaan tutkintoaan tämän lain nojalla määrättävien tutkinnon perusteiden mukaisesti. Edellä tässä momentissa mainitun ajankohdan jälkeen opiskelija siirtyy suorittamaan tutkintoa tämän lain nojalla määrättävien tutkinnon perusteiden mukaisesti.

@@ -1,0 +1,4 @@
+# 137 § Erityistä tukea sekä ammattitaitovaatimuksista ja osaamistavoitteista poikkeamista koskevat siirtymäsäännökset
+Luku: 14 luku Voimaantulo- ja siirtymäsäännökset
+
+Jos opiskelija suorittaa tutkintoa kumottujen lakien nojalla määrättyjen tutkinnon perusteiden mukaisesti tai on aloittanut valmentavan koulutuksen ennen tämän lain voimaantuloa, ammatillisesta peruskoulutuksesta annetun lain 20 §:n 1 momentin nojalla tehty päätös erityisopetuksen järjestämisestä ja laadittu henkilökohtainen opetuksen järjestämistä koskeva suunnitelma, mainitun lain 19 a §:n 2 momentin nojalla tehty päätös mukauttamisesta sekä mainitun lain 21 §:n nojalla tehty päätös erityisistä opiskelujärjestelyistä jäävät voimaan tämän lain voimaan tullessa. Tämän lain 5 lukua sovelletaan kuitenkin päivitettäessä edellä tarkoitettua henkilökohtaista opetuksen järjestämistä koskevaa suunnitelmaa.

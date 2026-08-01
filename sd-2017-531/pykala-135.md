@@ -1,0 +1,4 @@
+# 135 § Henkilökohtaistamista koskevat siirtymäsäännökset
+Luku: 14 luku Voimaantulo- ja siirtymäsäännökset
+
+Henkilökohtaista osaamisen kehittämissuunnitelmaa ei laadita, jos opiskelija suorittaa tutkintoa kumottujen lakien nojalla määrättyjen tutkinnon perusteiden mukaisesti tai jos opiskelija on aloittanut valmentavan koulutuksen ennen tämän lain voimaan tuloa. Mainitun opiskelijan osalta ammatillisesta peruskoulutuksesta annetun lain 29 a §:n nojalla laadittu opiskelijan henkilökohtainen opiskelusuunnitelma, mainitun lain 17 §:n nojalla laadittu opiskelijan henkilökohtainen opiskeluohjelma sekä ammatillisesta aikuiskoulutuksesta annetun lain 8 a §:n nojalla laadittu henkilökohtaistamista koskeva asiakirja jäävät voimaan tämän lain voimaan tullessa. Tämän lain 5 lukua sovelletaan kuitenkin päivitettäessä edellä mainittuja kumottujen lakien nojalla laadittuja suunnitelmia.
