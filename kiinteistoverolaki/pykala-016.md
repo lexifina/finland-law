@@ -1,0 +1,12 @@
+# 16 § Verovelvollisen ilmoittamisvelvollisuus
+Luku: 4 luku Ilmoittamis- ja tiedonantovelvollisuus
+
+Verohallinto lähettää verovelvolliselle, jolle määrätään kiinteistöveroa, selvityksen kiinteistöverotuksen perusteena käytetyistä kiinteistötiedoista. Verovelvollisen on tarkistettava selvitykseen merkityt maapohjan pinta-alaa, rakennusoikeutta, kaavatilannetta, rantaoikeutta, käyttötarkoitusta sekä omistus- ja hallintaoikeutta koskevat tiedot samoin kuin rakennuksen jälleenhankinta-arvon laskennan perusteena käytetyt tiedot ja käyttötarkoitus. Verovelvollisen on ilmoitettava Verohallinnolle tiedoissa ilmenevät virheet. Lisäksi on ilmoitettava selvitykseltä puuttuvat kiinteistöt ja rakennukset samoin kuin perusparannukset ja huomattavat korjaustoimenpiteet, tiedot Suomen talousvyöhykkeellä olevista rakennuksista ja rakennelmista sekä tiedot niiden sijainnista ja voimalaitoksen kytkemisestä liittymispisteen kautta kantaverkkoon, tiedot varojen arvostamisesta verotuksessa annetun lain 31 §:n 1 momentissa tarkoitetusta kiven-, soran-, saven- ja turpeenottopaikasta tai muusta vastaavasta etuudesta sekä tieto rakennuksen purkamisesta tai käytöstä poistamisesta. Selvitys kiinteistötiedoista voidaan tarvittaessa lähettää myös silloin, kun verovelvolliselle ei tule määrättäväksi kiinteistöveroa. Verohallinnon on varattava verovelvolliselle kohtuullinen aika selvityksen täydentämiseen ja korjaamiseen.
+
+Tiedot katsotaan annetuksi, kun ne ovat saapuneet Verohallinnolle. Sähköisesti annettujen tietojen saapumisajankohdasta säädetään sähköisestä asioinnista viranomaistoiminnassa annetun lain (13/2003) 10 §:ssä ja paperilla annettujen tietojen saapumisajankohdasta hallintolain (434/2003) 18 §:ssä. Verohallinto antaa tarkemmat määräykset annettavista tiedoista, tietojen antamistavasta ja -ajasta sekä muusta menettelystä tietojen antamiseksi.
+
+Verovelvollisen, joka ei ole saanut 1 momentissa tarkoitettua selvitystä ja joka on kalenterivuoden alkaessa omistanut veronalaisen kiinteistön, on kiinteistöverotusta varten kehotuksetta ilmoitettava Verohallinnolle 1 momentissa tarkoitetut maapohjaa ja rakennusta koskevat tiedot.
+
+Jos verovelvollinen ei korjaa kiinteistöverotuksen perusteena olevia tietoja, hänen katsotaan antaneen tiedot kiinteistöverotusta varten hänelle lähetetyn selvityksen mukaisena.
+
+Verovelvollisen velvollisuuteen antaa tietoja kiinteistöverotuksen toimittamista varten sovelletaan tämän lain lisäksi, mitä verovelvollisen ilmoittamisvelvollisuudesta verotusmenettelystä annetun lain (1558/1995) 2 luvussa säädetään.

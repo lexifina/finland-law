@@ -1,0 +1,2 @@
+Kiinteistöverolaki
+Eduskunnan päätöksen mukaisesti säädetään:

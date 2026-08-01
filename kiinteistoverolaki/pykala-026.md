@@ -1,0 +1,8 @@
+# 26 § Muutoksenhaku
+Luku: 5 luku Verotus ja muutoksenhaku
+
+Verovelvollinen tai muu verosta vastuussa oleva, ennakkoratkaisun hakija sekä Veronsaajien oikeudenvalvontayksikkö, kiinteistön sijaintikunta tai Suomen talousvyöhykkeellä olevaa rakennusta tai rakennelmaa lähinnä oleva kunta saavat hakea muutosta verotukseen tai ennakkoratkaisuun noudattaen, mitä verotusmenettelystä annetussa laissa säädetään. Suomen talousvyöhykkeellä olevaa rakennusta tai rakennelmaa lähinnä olevaa kuntaa määritettäessä lähimpänä kuntana pidetään sitä kuntaa, jonka Suomen aluevesien ulkorajaan rajoittuvan kuntarajan etäisyys rakennuksesta tai rakennelmasta on lyhin. Jos lyhin etäisyys on sama kahteen tai useampaan kuntaan, pidetään kaikkia näitä kuntia lähimpinä kuntina.
+
+Muutoksenhakua koskevia määräaikoja laskettaessa verovuodella tarkoitetaan 23 §:ssä säädettyä verovuotta. Jollei tästä laista muuta johdu, oikaisuvaatimuksen käsittelyyn sovelletaan verotusmenettelystä annettua lakia.
+
+Oikaisuvaatimukseen annettuun päätökseen ja ennakkoratkaisuun haetaan muutosta valittamalla siihen hallinto-oikeuteen, jonka tuomiopiirissä verovelvollisen kotikunta on. Jos henkilöillä, joihin sovelletaan puolisoita koskevia tuloverolain (1535/1992) säännöksiä, on kotikunta eri hallinto-oikeuksien tuomiopiirissä, oikaisulautakunnan päätökseen haetaan muutosta siltä hallinto-oikeudelta, jonka tuomiopiiriin kuuluu henkilöistä vanhemman kotikunta. Jos henkilöt ovat samanikäisiä, toimivaltainen hallinto-oikeus määräytyy sen mukaan, kumman henkilötunnuksen yksilönumero on pienempi. Jollei mainittuja perusteita voida käyttää, valitus tehdään Helsingin hallinto-oikeudelle.
