@@ -1,0 +1,2 @@
+Luonnonsuojelulaki
+Eduskunnan päätöksen mukaisesti säädetään seuraavasti:

@@ -1,0 +1,12 @@
+# 39 § Luvan myöntäminen sekä suunnitelman hyväksyminen ja vahvistaminen
+Luku: 5 luku Euroopan unionin Natura 2000 -verkosto
+
+Viranomainen ei saa myöntää lupaa hankkeen toteuttamiseen eikä hyväksyä tai vahvistaa suunnitelmaa, jos 35 §:n 1 ja 2 momentissa tarkoitettu arviointi- ja lausuntomenettely osoittaa hankkeen tai suunnitelman merkittävästi heikentävän niitä luonnonarvoja, joiden suojelemiseksi alue on sisällytetty tai on tarkoitus sisällyttää Natura 2000 -verkostoon.
+
+Sen estämättä mitä 1 momentissa säädetään, saadaan lupa muutoin lainsäädännössä säädetyt edellytykset täyttävälle hankkeelle kuitenkin myöntää tai suunnitelma hyväksyä tai vahvistaa, jos hankkeelle tai suunnitelmalle ei ole vaihtoehtoista ratkaisua ja valtioneuvosto yleisistunnossa päättää, että hanke tai suunnitelma on toteutettava erittäin tärkeän yleisen edun kannalta pakottavasta syystä.
+
+Jos alueella on luontodirektiivin liitteessä I mainittu ensisijaisesti suojeltava luontotyyppi tai liitteessä II tarkoitettu ensisijaisesti suojeltava eliölaji, on luvan myöntämisen tai suunnitelman hyväksymisen tai vahvistamisen edellytyksenä, että ihmisten terveyteen, yleiseen turvallisuuteen tai ympäristölle muualla koituviin ensisijaisen tärkeisiin suotuisiin vaikutuksiin liittyvä syy taikka muu erittäin tärkeän yleisen edun kannalta pakottava syy vaatii luvan myöntämistä taikka suunnitelman hyväksymistä tai vahvistamista. Viimeksi mainitussa tapauksessa asiasta on hankittava komission lausunto.
+
+Uusiutuvan energian tuotantolaitosten lupamenettelyistä ja eräistä muista hallinnollisista menettelyistä annetun lain 3 §:n 5 kohdassa tarkoitetun uusiutuvan energian tuotantolaitoksen, asiaankuuluvan verkon ja energiavaraston suunnittelun, rakentamisen ja käytön sekä uusiutuvan energian tuotantolaitoksen ja energiavaraston verkkoon liittämisen katsotaan olevan hankkeita, jotka ovat erittäin tärkeän yleisen edun mukaisia, ja palvelevan kansanterveyttä ja turvallisuutta.
+
+Valtioneuvoston on 2 tai 3 momentin nojalla tekemässään hankkeen tai suunnitelman toteuttamista koskevassa päätöksessä määrättävä Natura 2000 -verkoston yhtenäisyydelle tai luonnonarvoille aiheutuvien heikennysten korvaamiseksi tarvittavista toimenpiteistä. Toimenpiteiden kustannuksista vastaa hankkeen tai suunnitelman toteuttaja. Valtioneuvosto voi kohtuullistaa kustannusvastuuta ottaen huomioon hankkeen tai suunnitelman perusteena oleva yleisen edun kannalta pakottava syy.

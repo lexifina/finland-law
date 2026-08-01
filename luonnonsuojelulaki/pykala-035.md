@@ -1,0 +1,12 @@
+# 35 § Hankkeiden ja suunnitelmien arviointi
+Luku: 5 luku Euroopan unionin Natura 2000 -verkosto
+
+Jos hanke tai suunnitelma joko yksinään tai tarkasteltuna yhdessä muiden hankkeiden ja suunnitelmien kanssa todennäköisesti merkittävästi heikentää valtioneuvoston Natura 2000 -verkostoon ehdottaman tai verkostoon sisällytetyn alueen niitä luonnonarvoja, joiden suojelemiseksi alue on sisällytetty tai on tarkoitus sisällyttää Natura 2000 -verkostoon, hankkeen toteuttajan tai suunnitelman laatijan on asianmukaisella tavalla arvioitava nämä vaikutukset sen kannalta, miten ne vaikuttavat alueen suojelutavoitteisiin. Sama koskee sellaista hanketta tai suunnitelmaa alueen ulkopuolella, jolla todennäköisesti on alueelle ulottuvia merkittäviä haitallisia vaikutuksia.
+
+Luvan myöntävän tai suunnitelman hyväksyvän viranomaisen on valvottava, että 1 momentissa tarkoitettu arviointi tehdään. Viranomaisen on pyydettävä arvioinnista lausunto siltä, jonka hallinnassa Natura 2000 -verkostoon kuuluva alue on. Lisäksi lausunto on pyydettävä Lupa- ja valvontavirastolta, jos se ei itse ole luvan myöntävä tai suunnitelman hyväksyvä viranomainen.
+
+Edellä 2 momentissa tarkoitettu lausunto on annettava viivytyksettä ja viimeistään kolmen kuukauden kuluttua siitä, kun lausuntopyyntö on saapunut Lupa- ja valvontavirastoon.
+
+Jos hankkeeseen sovelletaan ympäristövaikutusten arviointimenettelystä annetun lain (252/2017) 3 luvussa tarkoitettua arviointimenettelyä, tämän pykälän 1 momentissa tarkoitettu arviointi tehdään arviointimenettelyn yhteydessä. Arviointi voidaan kuitenkin tehdä erillään ympäristövaikutusten arviointimenettelystä, jos siihen on erityinen syy. Jos kyse on uusiutuvan energian tuotantolaitosten lupamenettelyistä ja eräistä muista hallinnollisista menettelyistä annetun lain (1145/2020) 3 §:n 5 kohdassa tarkoitetusta uusiutuvan energian tuotantolaitoksesta, arviointi tehdään aina arviointimenettelyn yhteydessä. Ympäristövaikutusten arviointimenettelystä annetussa laissa tarkoitetun yhteysviranomaisen on sisällytettävä tämän pykälän 2 momentissa tarkoitetut Lupa- ja valvontaviraston ja Natura 2000 -verkostoon kuuluvan alueen haltijan lausunnot mainitun lain 23 §:ssä tarkoitettuun perusteltuun päätelmään.
+
+Uusiutuvan energian tuotantolaitosten lupamenettelyistä ja eräistä muista hallinnollisista menettelyistä annetun lain 3 a luvussa tarkoitetuilla uusiutuvan energian nopean kehittämisen alueilla sovelletaan tämän pykälän 1–3 momentissa säädetystä poiketen mainitun lain 3 a luvussa säädettyä.
