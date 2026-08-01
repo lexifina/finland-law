@@ -2,8 +2,6 @@
 Osa: VI OSA VERO
 Luku: 4 luku Erityiset säännökset
 
-1–2 momentit on kumottu L:lla 22.12.2005/1143.
-
 Tämän lain mukaan määrättäviä tuloveroja alennetaan, jos Suomessa asuva henkilö:
 1) saa vieraasta valtiosta ansiotuloa, jota kaksinkertaisen verotuksen välttämiseksi tehdyn sopimuksen mukaan verotetaan vain vieraassa valtiossa;
 2) saa myös muuta veronalaista ansiotuloa; sekä
