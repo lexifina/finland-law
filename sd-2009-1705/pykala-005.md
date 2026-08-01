@@ -1,0 +1,12 @@
+# 5 § Rahoituksen laskentaperuste
+Luku: 2 luku Käyttökustannusten rahoitus
+
+Rahoitus käyttökustannuksiin määräytyy laskennallisten perusteiden mukaisesti. Rahoitus määräytyy:
+1) lukiossa ja lukiokoulutuksen järjestäjän järjestämässä tutkintokoulutukseen valmentavassa koulutuksessa opiskelijamäärien sekä opiskelijaa kohden määrättyjen yksikköhintojen perusteella;
+1 a) kohta on kumottu L:lla 11.8.2017/558.
+2) lukion erityisessä koulutustehtävässä sillä perusteella, mikä on koulutuksen järjestäjän suoritteiden suhteellinen osuus kaikkien koulutuksen järjestäjien suoritteista ja erityisen koulutustehtävän lisärahoituksesta;
+3) perusopetuksen järjestäjän järjestämässä tutkintokoulutukseen valmentavassa koulutuksessa, perusopetuslain 26 a §:ssä tarkoitetun varhennetun oppivelvollisuuden piirissä olevien viisivuotiaiden oppilaiden esiopetuksessa, ulkomailla järjestettävässä opetuksessa, oppivelvollisuuslain 2 §:n 3 momentissa tarkoitettuun varhennettuun oppivelvollisuuteen perustuvassa kuusivuotiaiden oppilaiden esiopetuksessa, perusopetuslain 20 i §:n 1 tai 2 momentin mukaisessa opetuksessa, koulukotiopetuksessa, sisäoppilaitosmuotoisesti järjestetyssä perusopetuksessa, perusopetuslain 7 §:n mukaiseen järjestämislupaan sisältyvän kaksivuotisen esiopetuksen ensimmäisen vuoden esiopetuksessa, joustavassa perusopetuksessa ja yksityisen opetuksen järjestäjän toiminnan aloittamisessa oppilasmäärän ja oppilasta kohden määrätyn yksikköhinnan perusteella, perusopetuslain 46 §:ssä tarkoitetussa perusopetuksessa kurssimäärän ja kurssia kohden määrätyn yksikköhinnan perusteella, perusopetukseen valmistavassa opetuksessa läsnäolokuukausien määrän ja läsnäolokuukautta kohden määrätyn yksikköhinnan perusteella ja perusopetuksessa järjestettävässä valmistavan opetuksen lisäopetuksessa oppilasmäärän ja oppilasta kohden määrätyn yksikköhinnan perusteella;
+4) perusopetuslaissa tarkoitetussa aamu- ja iltapäivätoiminnassa ohjaustuntien määrän ja ohjaustuntia kohden määrätyn yksikköhinnan perusteella;
+5) opetustuntikohtaisesti rahoitettavassa taiteen perusopetuksessa opetustuntimäärän ja opetustuntia kohden määrätyn yksikköhinnan perusteella;
+6) liikuntatoiminnassa ja nuorisotyössä kunnan asukasmäärän ja asukasta kohden määrätyn yksikköhinnan perusteella;
+7) museon perusrahoituksessa, alueellisten vastuumuseotehtävien lisärahoituksessa ja esittävän taiteen toimintayksikössä laitokselle vahvistetun laskennallisen henkilötyövuosien määrän ja laskennallista henkilötyövuotta kohden määrätyn yksikköhinnan perusteella.

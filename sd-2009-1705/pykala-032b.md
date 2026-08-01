@@ -1,0 +1,8 @@
+# 32 b § Opiskelijavuosi
+Luku: 3 a luku Ammatillisen koulutuksen rahoituksen määräytymisperusteet
+
+Opiskelijavuodella tarkoitetaan 365:tä päivää, joiden aikana opiskelija otetaan huomioon rahoituksen perusteena. Opiskelija otetaan huomioon rahoituksen perusteena opiskeluoikeuden alkamispäivästä lukien siihen päivään asti, kun opiskelijan opiskeluoikeus päättyy. Opiskelijaa ei kuitenkaan oteta huomioon rahoituksen perusteena, jos opiskelijan opiskeluoikeus on väliaikaisesti keskeytetty. Opiskeluoikeuden määräytymisessä sovelletaan ammatillisesta koulutuksesta annetun lain ja tutkintokoulutukseen valmentavasta koulutuksesta annetun lain säännöksiä opiskeluoikeuden alkamisesta, päättymisestä, väliaikaisesta keskeyttämisestä, peruuttamisesta ja pidättämisestä sekä opiskelijan määräaikaisesta erottamisesta sekä oppivelvollisuuslain säännöksiä oppivelvollisuuden suorittamisen keskeyttämisestä. Poiketen siitä, mitä edellä tässä momentissa säädetään, oppivelvollinen opiskelija otetaan huomioon rahoituksen perusteena, jos hän suorittaa oppivelvollisuuttaan oppivelvollisuuslain 8 §:ssä tarkoitetun suunnitelman perusteella.
+
+Jos opiskelijan ammatillisesta koulutuksesta annetun lain 44 §:ssä tarkoitetussa henkilökohtaisessa osaamisen kehittämissuunnitelmassa tai mainitun lain 8 §:ssä tarkoitetussa koulutuksessa muutoin on sovittu, että opiskelija ei opiskele kaikkina säännönmukaisina opiskelupäivinä, opiskelija otetaan huomioon rahoituksen perusteena vain henkilökohtaisessa osaamisen kehittämissuunnitelmassa sovittuja opiskelupäiviä vastaavalta osuudelta.
+
+Opetus- ja kulttuuriministeriön asetuksella annetaan tarkempia säännöksiä opiskelijan huomioimisesta rahoituksen perusteena.

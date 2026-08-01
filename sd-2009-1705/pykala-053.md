@@ -1,0 +1,12 @@
+# 53 § Perustamishankkeeseen suoritetun valtionavustuksen palautus
+Luku: 7 luku Erinäiset säännökset
+
+Jos valtionavustuksella hankittu omaisuus luovutetaan toiselle tai jos toiminta lopetetaan taikka omaisuuden käyttötarkoitusta muutetaan pysyvästi eikä omaisuutta käytetä muuhun valtionosuuteen oikeuttavaan toimintaan, on valtionavustus palautettava valtiolle vähennettynä omaisuuden iästä ja tavanomaisesta kulumisesta johtuvalla kohtuullisella arvon alenemalla, joka on kaksi prosenttia vuodessa kunkin avustuksen myöntämisestä palautusvelvollisuuden päättymiseen asti. Arvon alenema on kuitenkin viisi prosenttia vuodessa, jos avustus on myönnetty kirjastoauton tai -veneen hankintaan.
+
+Jos omaisuus luovutetaan toiselle, joka käyttää omaisuutta valtionosuuteen oikeuttavaan toimintaan, luovutuksesta johtuva palautus voidaan jättää määräämättä, jos luovuttaja omaisuuden luovutuksen yhteydessä sitoutuu vastaamaan palautusehdoista myös luovutuksen jälkeen tai jos luovutuksen saaja sitoutuu vastaaviin omaisuuden luovuttajaa koskeviin palautusehtoihin. Palautusta ei määrätä kuitenkaan suoritettavaksi, jos 1 momentissa tarkoitetun toimenpiteen tapahtuessa hankkeeseen myönnetyn viimeisen valtionavustuksen myöntämisestä on kulunut yli 15 vuotta.
+
+Jos omaisuus, johon on saatu valtionavustusta, tuhoutuu tai vahingoittuu ja siitä saadaan vakuutus- tai muuta korvausta, voidaan valtionavustus 1 momentin mukaisesti laskettuna määrätä palautettavaksi valtiolle tai vähentää uuden perustamishankkeen valtionavustuksesta. Palautusta ei määrätä kuitenkaan suoritettavaksi eikä vähennystä tehdä, jos vahingon tapahtuessa valtionavustuksen myöntämisestä on kulunut yli 15 vuotta.
+
+Palautusvelvollisuudesta ja korvauksen vähentämisestä päättää 57 §:ssä tarkoitettu valtionapuviranomainen. Valtionavustuksen saajan on ilmoitettava valtionapuviranomaiselle kuuden kuukauden kuluessa 1–3 momentissa tarkoitetusta olosuhteiden muuttumisesta. Jos käy ilmi, ettei ilmoitusta ole tehty määräajassa, on 1 momentin mukaisesti laskettu valtionavustuksen määrä palautettava valtiolle korkolain (633/1982) 12 §:n mukaisine korkoineen, jollei valtionapuviranomainen erityisestä syystä toisin päätä.
+
+Poiketen siitä, mitä valtion korvauksetta luovuttamien ammatillisten oppilaitosten kiinteistöjen ja irtaimiston luovutussopimuksissa on sovittu palautusehdoista ja mitä edellä tässä pykälässä säädetään perustamishankkeeseen myönnetyn valtionavustuksen palauttamisajasta, palautusta ei määrätä suoritettavaksi, jos kiinteistön tai irtaimiston luovutuksesta on kulunut yli 30 vuotta.
