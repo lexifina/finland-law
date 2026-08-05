@@ -1,0 +1,23 @@
+# 4 § Määritelmät
+Luku: 1 luku Yleiset säännökset
+
+Tässä laissa tarkoitetaan:
+1) jätteellä jätelain (646/2011) 5 §:ssä tarkoitettua jätettä lukuun ottamatta ainetta, jota on tarkoituksellisesti muunnettu, jotta se luettaisiin jätteeksi;
+2) tähteellä ainetta, joka syntyy sellaisessa tuotantoprosessissa tai on sellaisen tuotantoprosessin lopputuote, jonka ensisijaisena tarkoituksena ei ole tämän aineen valmistaminen, ja jonka tuottamiseksi tuotantoprosessia ei ole tarkoituksellisesti muutettu;
+3) maataloudesta, vesiviljelystä, kalastuksesta ja metsätaloudesta suoraan peräisin olevilla tähteillä tähteitä, joita syntyy suoraan maataloudessa, vesiviljelyssä, kalastuksessa ja metsätaloudessa; niihin eivät sisälly niihin liittyviltä teollisuudenaloilta tai jalostusteollisuudesta peräisin olevat tähteet;
+4) biomassalla maataloudesta tai metsätaloudesta, niihin liittyviltä tuotannonaloilta taikka kalastuksesta tai vesiviljelystä peräisin olevien biologista alkuperää olevien tuotteiden, jätteiden ja tähteiden sekä teollisuus- ja yhdyskuntajätteiden biohajoavaa osaa;
+5) biopolttoaineella biomassasta tuotettua nestemäistä liikenteessä käytettävää polttoainetta;
+6) bionesteellä biomassasta muuhun energiakäyttöön kuin liikennettä varten tuotettua nestemäistä polttoainetta;
+7) biomassapolttoaineella biomassasta tuotettuja kaasumaisia ja kiinteitä polttoaineita;
+8) biokaasulla biomassasta tuotettuja kaasumaisia polttoaineita;
+9) raaka-aineella biomassaa, joka käytetään biopolttoaineen, bionesteen tai biomassapolttoaineen tuottamisessa tai valmistuksessa;
+10) maatalousbiomassalla maatalouden tuottamaa biomassaa;
+11) metsäbiomassalla metsätalouden tuottamaa biomassaa;
+12) kulutukseen luovuttamisella valmisteverotuslain (182/2010) 8 §:ssä tarkoitettua kulutukseen luovuttamista;
+13) toiminnanharjoittajalla oikeushenkilöä tai luonnollista henkilöä, joka tuottaa, valmistaa, hankkii, tuo maahan, luovuttaa kulutukseen tai käyttää raaka-ainetta, uusiutuvaa tai vähähiilistä polttoainetta tai niitä sisältäviä polttoaineita tai joka tosiasiallisesti määrää mainitusta toiminnasta ja johon lakia sovelletaan 2, 2 a tai 2 b §:n nojalla;
+14) kestävyyskriteereillä 5 a §:n 2 momentissa, 6, 6 a, 7–10 ja 10 a §:ssä säädettyjä biopolttoaineita, bionesteitä ja biomassapolttoaineita koskevia vaatimuksia, 6 ja 6 b §:ssä säädettyjä muuta kuin biologista alkuperää olevia uusiutuvia polttoaineita koskevia vaatimuksia sekä 6 §:ssä säädettyä vähähiilisiä polttoaineita koskevaa vaatimusta;
+15) hankinta-alueella maantieteellisesti määriteltyä aluetta, josta on saatavilla luotettavaa ja riippumatonta tietoa ja jolla olosuhteet ovat riittävän yhdenmukaiset, jotta metsäbiomassan kestävyyteen ja lainmukaisuuteen liittyvä riski voidaan arvioida;
+16) muuta kuin biologista alkuperää olevilla uusiutuvilla polttoaineilla nestemäisiä ja kaasumaisia polttoaineita, joiden energiasisältö on peräisin muista uusiutuvista energialähteistä kuin biomassasta;
+17) kierrätetyillä hiilipitoisilla polttoaineilla nestemäisiä ja kaasumaisia polttoaineita, jotka tuotetaan uusiutumatonta alkuperää olevista nestemäisistä tai kiinteistä jätevirroista, jotka eivät sovellu materiaalien hyödyntämiseen, tai uusiutumatonta alkuperää olevista, jätteiden käsittelystä peräisin olevasta kaasusta ja pakokaasusta, joita syntyy teollisuuslaitosten tuotantoprosessin väistämättömänä ja tahattomana seurauksena;
+18) vähähiilisellä vedyllä vetyä, jonka energiasisältö on peräisin uusiutumattomista lähteistä ja jonka elinkaaren aikaiset kasvihuonekaasupäästöt ovat vähintään 70 prosenttia pienemmät kuin Euroopan parlamentin ja neuvoston direktiivin (EU) 2018/2001 täydentämisestä vahvistamalla kierrätetyillä hiilipitoisilla polttoaineilla saavutettavia kasvihuonekaasupäästöjen vähennyksiä koskeva vähimmäiskynnys ja täsmentämällä menetelmä muuta kuin biologista alkuperää olevilla uusiutuvilla nestemäisillä ja kaasumaisilla liikenteen polttoaineilla ja kierrätetyillä hiilipitoisilla polttoaineilla saavutettavien kasvihuonekaasupäästöjen vähennysten määrittämiseksi annetussa komission delegoidussa asetuksessa (EU) 2023/1185, jäljempänä komission delegoitu vähimmäiskynnysasetus, vahvistetun muuta kuin biologista alkuperää olevien uusiutuvien polttoaineiden fossiilisen vertailukohdan kokonaispäästöt;
+19) vähähiilisillä polttoaineilla kierrätettyjä hiilipitoisia polttoaineita, vähähiilistä vetyä ja synteettisiä kaasumaisia ja nestemäisiä polttoaineita, joiden energiasisältö on peräisin vähähiilisestä vedystä, joiden elinkaaren aikaiset kasvihuonekaasupäästöt ovat vähintään 70 prosenttia pienemmät kuin komission delegoidussa vähimmäiskynnysasetuksessa vahvistetun muuta kuin biologista alkuperää olevien uusiutuvien polttoaineiden fossiilisen vertailukohdan kokonaispäästöt.
