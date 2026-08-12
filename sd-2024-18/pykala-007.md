@@ -1,0 +1,4 @@
+# 7 § Kutsuminen kuultavaksi
+Luku: 2 luku Viranomaisten tutkintamenettely ja valvontatoimenpiteet
+
+Toimivaltaisella viranomaisella on oikeus kutsua välityspalvelun tarjoajan edustaja tai henkilöstön jäsen kuultavaksi digipalveluasetuksen ja tähän lakiin perustuvien velvoitteiden epäiltyyn rikkomiseen liittyvistä tiedoista. Toimivaltaisella viranomaisella on sama oikeus myös digipalveluasetuksen 51 artiklan 1 kohdan a alakohdassa tarkoitetun muun henkilön edustajan tai henkilöstön jäsentä kohtaan. Viranomainen voi tallentaa saamansa vastaukset kuultavan suostumuksella millä tahansa teknisellä välineellä. Liikenne- ja viestintävirastolla on tässä pykälässä säädetyt oikeudet, kun virasto pyytää tietoja toisen jäsenvaltion koordinaattoriviranomaisen pyynnöstä digipalveluasetuksen 57 artiklan perusteella tai kun virasto osallistuu mainitun asetuksen 60 artiklan mukaisiin koordinaattoriviranomaisten yhteisiin tutkimuksiin.
