@@ -2,8 +2,8 @@
 Luku: 2 luku Käsittelyn oikeusperuste eräissä tapauksissa
 
 Tietosuoja-asetuksen 9 artiklan 1 kohtaa ei sovelleta:
-1) vakuutuslaitoksen käsitellessä vakuutustoiminnassa saatuja tietoja vakuutetun ja korvauksenhakijan terveydentilasta, sairaudesta tai vammaisuudesta taikka sellaista häneen kohdistetuista hoitotoimenpiteistä tai niihin verrattavista toimista, jotka ovat tarpeen vakuutuslaitoksen vastuun selvittämiseksi;
-2) tietojen käsittelyyn, josta säädetään laissa tai joka johtuu välittömästi rekisterinpitäjälle laissa säädetystä tehtävästä;
+1) vakuutuslaitoksen käsitellessä vakuutustoiminnassa saatuja tietoja vakuutetun, korvauksenhakijan, vakuutuksenhakijan sekä sen henkilön, jolle vakuutussuojaa haetaan, terveydentilasta, sairaudesta tai vammaisuudesta taikka sellaista häneen kohdistetuista hoitotoimenpiteistä tai niihin verrattavista toimista, jotka ovat välttämättömiä vakuutuslaitoksen vastuun arvioimiseksi tai selvittämiseksi;
+2) tietojen käsittelyyn, josta säädetään laissa tai joka on välttämätöntä rekisterinpitäjälle laissa säädetyn yleistä etua koskevan tehtävän suorittamiseksi;
 3) ammattiliittoon kuulumista koskevaan tiedon käsittelyyn, joka on tarpeen rekisterinpitäjän erityisten oikeuksien ja velvoitteiden noudattamiseksi työoikeuden alalla;
 4) kun terveydenhuollon palveluntarjoaja järjestäessään tai tuottaessaan palveluja käsittelee tässä toiminnassa saamiaan tietoja henkilön terveydentilasta tai vammaisuudesta taikka hänen saamastaan terveydenhuollon ja kuntoutuksen palvelusta taikka muita rekisteröidyn hoidon kannalta välttämättömiä tietoja;
 5) kun sosiaalihuollon palveluntarjoaja järjestäessään tai tuottaessaan palveluja tai myöntäessään etuuksia käsittelee tässä toiminnassa saamiaan tai tuottamiaan tietoja henkilön terveydentilasta tai vammaisuudesta taikka hänen saamastaan terveydenhuollon ja kuntoutuksen palvelusta taikka muita rekisteröidyn palvelun tai etuuden myöntämisen kannalta välttämättömiä tietoja;
@@ -23,3 +23,5 @@ Käsiteltäessä henkilötietoja 1 momentissa tarkoitetussa tilanteessa rekister
 9) erityiset menettelysäännöt, joilla varmistetaan tietosuoja-asetuksen ja tämän lain noudattaminen siirrettäessä henkilötietoja tai käsiteltäessä henkilötietoja muuhun tarkoitukseen;
 10) tietosuoja-asetuksen 35 artiklan mukainen tietosuojaa koskevan vaikutustenarvioinnin laatiminen;
 11) muut tekniset, menettelylliset ja organisatoriset toimenpiteet.
+
+Vakuutuslaitoksen on kerättävä 1 momentin 1 kohdassa tarkoitetut tiedot ensi sijassa kohdassa tarkoitetulta henkilöltä itseltään sekä arvioitava tapauskohtaisesti tietojen keräämisen välttämättömyyttä muualta, jollei muualla toisin säädetä. Tiedot on poistettava välittömästi sen jälkeen, kun tietoja ei tarvita vakuutuslaitoksen vastuun arvioimiseksi tai selvittämiseksi, jollei muualla toisin säädetä. Tietoja ei saa käsitellä muuhun kuin mainitussa kohdassa säädettyyn tarkoitukseen, jollei muualla toisin säädetä. Mainitussa kohdassa tarkoitetulle henkilölle on ilmoitettava tietojen käytöstä, jos vakuutushakemuksen epääminen, vakuutuskorvauksen epääminen taikka muu kielteinen päätös johtuu mainitussa kohdassa tarkoitettujen tietojen käsittelystä.

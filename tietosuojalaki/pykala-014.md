@@ -7,6 +7,4 @@ Tietosuojavaltuutettu ei valvo valtioneuvoston oikeuskanslerin eikä eduskunnan 
 
 Tietosuojavaltuutettu edustaa Suomea Euroopan tietosuojaneuvostossa.
 
-Tietosuojavaltuutettu akkreditoi tietosuoja-asetuksen 43 artiklassa tarkoitetun sertifiointielimen.
-
 Tietosuojavaltuutettu laatii vuosittain tietosuoja-asetuksen 59 artiklassa tarkoitetun toimintakertomuksen, joka toimitetaan eduskunnalle ja valtioneuvostolle. Toimintakertomus on pidettävä yleisesti saatavilla.
