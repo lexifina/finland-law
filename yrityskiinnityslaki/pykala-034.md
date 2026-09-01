@@ -1,0 +1,4 @@
+# 34 § Kiinnityksenhaltijan oikeuden turvaaminen
+Luku: 5 luku Erinäisiä säännöksiä
+
+Elinkeinonharjoittaja, jonka omaisuuteen on vahvistettu yrityskiinnitys, on velvollinen viipymättä ilmoittamaan kiinnityksenhaltijalle yrityksen tai sen kiinnitetyn osan toiminnan lopettamisesta, yrityksen tai sen osan tai yrityksen 9 §:n 3 momentissa tarkoitetun omaisuuden luovuttamisesta, yrityksen sulautumisesta, osakeyhtiön tai osuuskunnan jakautumisesta, elinkeinonharjoittajaa koskevista 11 §:ssä tarkoitetuista muutoksista, kiinnitettyä omaisuutta kohdanneesta 15 §:n 1 momentin 2 kohdassa tarkoitetusta tapahtumasta sekä muista kiinnityksenhaltijan oikeuteen olennaisesti vaikuttavista tapahtumista yrityksessä. Hänen on annettava kiinnityksenhaltijalle tämän pyynnöstä myös muut kiinnitettyä omaisuutta koskevat vakuuden arvon toteamiseksi tarpeelliset tiedot.

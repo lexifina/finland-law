@@ -1,0 +1,6 @@
+# 11 § Elinkeinonharjoittajaa koskevat muutokset
+Luku: 2 luku Yrityskiinnityksen oikeusvaikutukset
+
+Elinkeinonharjoittajan yhteisömuodon muuttaminen taikka osakeyhtiölain (624/2006) 19 luvun 4 §:n 3 momentissa tai osuuskuntalain (421/2013) 22 luvun 1 §:n 3 momentissa tarkoitettu toiminnan jatkaminen yksityisenä elinkeinonharjoittajana ei vaikuta yrityskiinnityksen voimassaoloon eikä kiinnityksen tuottamaan etuoikeuteen, jos muutos merkitään kaupparekisteriin yritys- ja yhteisötietolain (244/2001) 11 §:ssä säädetyn muutosilmoituksen perusteella ja jos osakeyhtiön tai osuuskunnan toimintaa jatkavan elinkeinonharjoittajan omaisuuteen ei ole vahvistettu yrityskiinnitystä. Sama koskee yksityisen elinkeinonharjoittajan elinkeinotoiminnan ja kaiken siihen kuuluvan omaisuuden luovuttamista toiselle elinkeinonharjoittajalle, avoimelle yhtiölle tai kommandiittiyhtiölle, jos luovutuksensaajan omaisuuteen ei ole vahvistettu yrityskiinnitystä ja luovutuksensaaja ilmoittaa rekisteriviranomaiselle jatkavansa luovuttajan elinkeinotoimintaa. Ilmoitus tästä on tehtävä kolmen kuukauden kuluessa luovutuksesta.
+
+Yrityskiinnityksen voimassaolosta ja kiinnityksen tuottamasta etuoikeudesta yhteisön tai säätiön sulautuessa taikka osakeyhtiön tai osuuskunnan jakautuessa on voimassa, mitä asianomaista yhteisöä tai säätiötä koskevassa laissa säädetään.

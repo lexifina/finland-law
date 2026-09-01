@@ -1,0 +1,2 @@
+Yrityskiinnityslaki
+Eduskunnan päätöksen mukaisesti säädetään:
