@@ -2,6 +2,6 @@
 
 Konkurssi- ja yrityssaneerausrekisteriin merkityt tiedot ovat saatavissa yleisen tietoverkon kautta lukuun ottamatta luonnollisen henkilön henkilötunnusta.
 
-Rekisteristä saa luovuttaa tietoja viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 16 §:n 3 momentin estämättä teknisen käyttöyhteyden välityksellä tai muuna massaluovutuksena hyväksyttävää tarkoitusta varten.
+Rekisteristä saa luovuttaa tietoja viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 16 §:n 3 momentissa säädetyn estämättä teknisen rajapinnan tai katseluyhteyden avulla taikka muuna massaluovutuksena hyväksyttävää tarkoitusta varten.
 
 Oikeusrekisterikeskuksen on toimitettava rekisteristä tarpeelliset tiedot kaupparekisteriviranomaiselle ja muullekin viranomaiselle, joka tarvitsee tietoa ylläpitämäänsä rekisteriin merkitsemistä varten. Tiedot voidaan luovuttaa sähköisessä muodossa.
