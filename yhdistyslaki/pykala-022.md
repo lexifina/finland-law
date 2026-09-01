@@ -1,0 +1,4 @@
+# 22 § Muun päätöksenteon järjestäminen
+Luku: 5 luku Päätöksenteko
+
+Jos säännöissä mainittu asia on yhdistyksessä päätettävä määrättynä aikana 17 §:n 6 momentissa tai 19 §:ssä tarkoitetulla tavalla eikä näin ole menetelty, on yhdistyksen jäsenellä oikeus kirjallisesti vaatia hallitukselta tällaisen päätöksenteon järjestämistä. Jollei hallitus vaatimuksesta huolimatta ole järjestänyt päätöksentekoa tai jollei vaatimusta ole voitu esittää hallitukselle, Lupa- ja valvontaviraston tulee päätöksenteon järjestämistä vaatineen jäsenen hakemuksesta oikeuttaa hakija järjestämään äänestystilaisuus, postiäänestys tai äänestys teknisen apuvälineen avulla yhdistyksen kustannuksella taikka velvoittaa hallitus siihen sakon uhalla. Jos yhdistyksen kotipaikka on Ahvenanmaan maakunnassa, hakijan oikeuttaa tai hallituksen velvoittaa kuitenkin Ahvenanmaan valtionvirasto.
