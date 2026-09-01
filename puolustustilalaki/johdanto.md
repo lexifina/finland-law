@@ -1,0 +1,2 @@
+Puolustustilalaki
+Eduskunnan päätöksen mukaisesti säädetään:
