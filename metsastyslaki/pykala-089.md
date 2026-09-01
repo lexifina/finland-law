@@ -1,0 +1,4 @@
+# 89 § Valvontaviranomaisen tarkastusoikeus
+Luku: 11 luku Erinäiset säännökset
+
+Jos on syytä epäillä, että henkilö on syyllistynyt rikoslain 28 luvun 10 §:ssä tai 48 a luvun 1, 1 a, 4 tai 4 a §:ssä tarkoitettuun rikokseen, edellä 88 §:ssä tarkoitetulla viranomaisella on oikeus tarkastaa, että henkilön mukana olevissa tavaroissa oleva saalis ja pyyntivälineet ovat säännösten ja määräysten mukaisia. Edellä 88 §:ssä tarkoitetulla viranomaisella on myös oikeus tarkastaa kuljetus- ja varastotiloja, joissa saalista säilytetään. Tarkastusta ei saa kuitenkaan ulottaa pysyväisluonteiseen asumiseen käytettäviin tiloihin, ellei se ole välttämätöntä tarkastuksen kohteena olevien seikkojen selvittämiseksi ja on perusteltua syytä epäillä jonkun syyllistyneen rikoslain 48 a luvun 1, 1 a, 4 tai 4 a §:ssä tarkoitettuun rikokseen.
