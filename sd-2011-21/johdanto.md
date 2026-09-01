@@ -1,0 +1,2 @@
+Laki eläintenpitokieltorekisteristä
+Eduskunnan päätöksen mukaisesti säädetään:
