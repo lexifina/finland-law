@@ -6,4 +6,4 @@ Lakia sovelletaan myös kuluttajien yhteisten etujen suojaamiseksi nostettavista
 
 Ryhmäkanteella tarkoitetaan kannetta, jota kantaja ajaa kanteessa määritellyn ryhmän puolesta siten, että asiassa annettava tuomio tulee myös ryhmän jäseniä sitovaksi.
 
-Ryhmäkanteen käsittelystä on tämän lain lisäksi soveltuvin osin voimassa, mitä riita-asian käsittelystä muutoin säädetään.
+Ryhmäkanteen käsittelystä on tämän lain lisäksi soveltuvin osin voimassa, mitä riita-asian käsittelystä muutoin säädetään. Ryhmäkanteen käsittelyssä ei kuitenkaan sovelleta oikeudenkäymiskaaren 6 a luvun säännöksiä.
