@@ -1,0 +1,13 @@
+# 65 b § Markkinapohjainen loppukäyttäjän kuormanohjaus jakeluverkossa
+Osa: III OSA SÄHKÖNTUOTANTO, KULUTUSJOUSTO, SÄHKÖNTOIMITUS JA AGGREGOINTI
+Luku: 7 luku Sähköntuotanto ja kulutusjousto
+
+Loppukäyttäjä voi jakeluverkonhaltijan mahdollistettua markkinapohjaisen kuormanohjauksen järjestämisen ja jakeluverkon sähkönkäyttöpaikan teknisten edellytysten täyttyessä valtuuttaa vähittäismyyjän tai muun sähkömarkkinoiden osapuolen antamaan käskyt kuormansa ohjaukseen sähkökaupan keskitetyn tiedonvaihdon yksikön ylläpitämän kuormanohjausrajapinnan kautta. Valtuutus tehdään, muutetaan ja peruutetaan loppukäyttäjän ilmoituksella sähkökaupan keskitettyyn tiedonvaihdon yksikköön. Kuormanohjauspalvelusta sopiminen loppukäyttäjän ja markkinapohjaisen kuormanohjauspalvelun tarjoajan välillä ei edellytä jakeluverkonhaltijan, loppukäyttäjän vähittäismyyjän tai muun sähkömarkkinoiden osapuolen suostumusta.
+
+Jakeluverkonhaltijan on mahdollistettava viimeistään 1 päivänä kesäkuuta 2027 loppukäyttäjän 1 momentin mukaisesti valtuuttamalle sähkömarkkinoiden osapuolelle markkinaperusteisen kuormanohjauksen järjestämiseksi pääsy loppukäyttäjän etämittauslaitteiston kuormanohjausreleen ohjaukseen. Jakeluverkonhaltijan on mahdollistettava loppukäyttäjän kuormien ja laitteiden liittäminen kuormanohjausreleeseen.
+
+Jakeluverkonhaltijalla on oikeus 1 momentin mukaisen valtuutuksen estämättä tarvittaessa käyttää kuormanohjausrelettä sähköverkkoon kohdistuvissa normaaliolojen häiriötilanteissa, sähköpulatilanteissa, valmiuslaissa tarkoitetuissa poikkeusoloissa tai jos on ilmeistä, että markkinapohjainen loppukäyttäjän kuormanohjaus vaarantaa sähköverkon käyttövarmuuden.
+
+Jos loppukäyttäjä ei tee 1 momentissa tarkoitettua valtuutusta, jakeluverkonhaltijan on jatkettava loppukäyttäjällä jo käytössä olleen loppukäyttäjän verkkopalvelutuotteen mukaisen tai tämän kanssa sovitun kuormanohjauksen toteutusta. Loppukäyttäjän verkonhaltijan on aktivoitava kuormanohjaukseen loppukäyttäjän verkkopalvelutuotteen mukainen kuormanohjaus tai muu loppukäyttäjän kanssa sovittu kuormanohjauksen toteutus 1 momentissa tarkoitetun valtuutuksen päättyessä, jollei loppukäyttäjä tee uutta valtuutusta.
+
+Valtioneuvoston asetuksella voidaan antaa tarkempia säännöksiä kuormanohjaustoiminnallisuuden toteuttamisesta ja sen edellyttämästä tiedonvaihdosta.

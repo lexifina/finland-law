@@ -1,0 +1,9 @@
+# 67 § Toimitusvelvollisuus
+Osa: III OSA SÄHKÖNTUOTANTO, KULUTUSJOUSTO, SÄHKÖNTOIMITUS JA AGGREGOINTI
+Luku: 9 luku Sähkön vähittäismyynti
+
+Vähittäismyyjän, jolla on huomattava markkinavoima jakeluverkonhaltijan vastuualueella, on toimitettava vastuualueella sähköä kohtuulliseen hintaan kuluttajille sekä muille loppukäyttäjille, joiden käyttöpaikka on varustettu enintään 3 x 63 ampeerin pääsulakkeilla tai joiden sähkönkäyttöpaikkaan ostetaan sähköä enintään 100 000 kilowattituntia vuodessa (toimitusvelvollisuus). Jos jakeluverkonhaltijan vastuualueella ei ole vähittäismyyjää, jolla on huomattava markkinavoima, on toimitusvelvollisuus sillä vähittäismyyjällä, jonka toimitetun sähkön määrällä mitattu markkinaosuus toimitusvelvollisuuden piirissä olevien loppukäyttäjien hankkimasta sähköstä on kyseisellä vastuualueella suurin.
+
+Vähittäismyyjän, jolla on toimitusvelvollisuus, on tarjottava toimitusvelvollisuuden piirissä oleville kuluttajille ja muille loppukäyttäjille näiden tarpeisiin sopivia erilaisia sähkönmyyntisopimuksia. Tarjottavat sähkönmyyntisopimukset eivät saa olla yksinomaan dynaamisen hinnan sähköntoimitussopimuksia ja muuhun muuttuvaan suureeseen perustuvia sähkönmyyntisopimuksia. Vähittäismyyjällä on oltava julkiset vähittäismyyntiehdot ja -hinnat tai, jos kysymyksessä on dynaamisen hinnan sähköntoimitussopimus tai muu muuttuvaan suureeseen perustuva sähkönmyyntisopimus, hinnanmääräytymisperusteet toimitusvelvollisuuden piirissä oleville loppukäyttäjille. Niissä ei saa olla kohtuuttomia, syrjiviä tai sähkökaupan kilpailua rajoittavia ehtoja. Vähittäismyyntihinnat tai hinnanmääräytymisperusteet on esitettävä helposti ja selkeästi verrattavalla tavalla.
+
+Energiavirasto voi määrätä tässä pykälässä tarkoitetun vähittäismyyjän toimittamaan sähköä 2 momentissa tarkoitetuilla ehdoilla toimitusvelvollisuuden piirissä oleville loppukäyttäjille.

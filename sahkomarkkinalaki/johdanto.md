@@ -1,0 +1,2 @@
+Sähkömarkkinalaki
+Eduskunnan päätöksen mukaisesti säädetään:

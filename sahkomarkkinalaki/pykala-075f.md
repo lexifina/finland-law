@@ -1,0 +1,13 @@
+# 75 f § Loppukäyttäjään yhdistettävissä olevan tiedon luovuttaminen
+Osa: IV OSA SÄHKÖMARKKINOIDEN TOIMIJOIDEN VELVOLLISUUDET
+Luku: 11 a luku Sähkökaupan markkinaprosesseihin liittyvän tiedon hallinta
+
+Sähköalan yrityksellä on oltava loppukäyttäjän nimenomainen suostumus luovuttaa toiselle loppukäyttäjään yhdistettävissä oleva mittaus- tai kulutustieto, joka koskee loppukäyttäjän sähkönkäyttöä tai -tuotantoa, sekä muu tieto, jota loppukäyttäjä tarvitsee sähköntoimittajan vaihtamiseen, jos se on saanut mainitun tiedon haltuunsa suorittaessaan tai täyttäessään tässä laissa säädettyjä sähkökaupan keskitetyn tiedonvaihdon palveluihin, sähkökaupan markkinaprosesseihin, tasevastuun täyttämiseen tai taseselvitykseen liittyviä tehtäviään tai velvoitteitaan. Tiedon saa kuitenkin luovuttaa ilman loppukäyttäjän suostumusta, jos luovutus:
+1) on tarpeen tiedon luovuttajan tässä tai muussa laissa säädetyn velvollisuuden täyttämiseksi;
+2) on tarpeen tiedon vastaanottajan tässä tai muussa laissa säädetyn tiedonsaantioikeuden täyttämiseksi;
+3) on tarpeen sähköalan yrityksen ja loppukäyttäjän välisen sopimuksen täyttämiseksi, sähköalan yrityksen ja loppukäyttäjän väliseen sopimukseen perustuvan asiakassuhteen hoitamisessa tai sähköalan yrityksen ja loppukäyttäjän väliseen asiakassuhteeseen liittyvän tässä tai muussa laissa säädetyn velvoitteen täyttämiseksi;
+4) on tarpeen rakennuksen tai sen osan tai siinä olevan omaisuuden suojelemiseksi sähkönsiirron, -jakelun tai -toimituksen keskeytyksestä aiheutuvilta vahingoilta tai tällaisen vahingon selvittämiseksi ja luovutettavan tiedon vastaanottajana on rakennuksen tai sen osan omistaja tai haltija taikka rakennusta koskevan liittymissopimuksen osapuoli;
+5) tapahtuu sähkökaupan keskitetyn tiedonvaihdon yksiköstä Tilastokeskukselle ja on tarpeen Tilastokeskuksen lakisääteisten tehtävien suorittamiseksi;
+6) tapahtuu sähkökaupan keskitetyn tiedonvaihdon yksiköstä ja on tarpeen yleistä energiamarkkinoihin tai energian käyttöön liittyvää tieteellistä tutkimusta tai yleistä energiamarkkinoihin tai energian käyttöön liittyvää päätöksentekoa palvelevaa viranomaisselvitystä varten.
+
+Sähkökaupan keskitetyn tiedonvaihdon yksikkö ei saa luovuttaa 1 momentin 6 kohdassa tarkoitetussa tilanteessa sellaisia tietoja, joiden perusteella loppukäyttäjä ja tämän sopimuspuoli voidaan tunnistaa suoraan. Yksikkö saa tällöin kuitenkin antaa käyttöoikeuden tietoihin, joiden perusteella loppukäyttäjä voidaan tunnistaa välillisesti. Luovutettuja tai käyttöoikeuden kautta saatuja tietoja ei saa luovuttaa edelleen, ellei sähkökaupan keskitetyn tiedonvaihdon yksikkö anna siihen lupaa.
