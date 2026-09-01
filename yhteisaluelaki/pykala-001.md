@@ -1,6 +1,6 @@
 # 1 §
 Väliotsikko: Yleisiä säännöksiä
 
-Kiinteistöjen yhteisen alueen ja yhteisen erityisen etuuden hallinnosta ja käytöstä on voimassa, mitä tässä laissa säädetään.
+Tässä laissa säädetään kiinteistöjen yhteisen alueen ja yhteisen erityisen etuuden hallinnosta ja käytöstä.
 
-Tämä laki ei koske yhteismetsälain (37/1991) mukaista yhteismetsää. Tämä laki ei koske muunkaan yhteisen alueen tai yhteisen erityisen etuuden hallintoa ja käyttöä siltä osin kuin siitä säädetään erikseen.
+Tätä lakia ei sovelleta yhteismetsälaissa (109/2003) tarkoitettuun yhteismetsään, eikä muun yhteisen alueen tai yhteisen erityisen etuuden hallintoon tai käyttöön siltä osin kuin niistä säädetään erikseen.
