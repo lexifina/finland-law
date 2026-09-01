@@ -11,4 +11,5 @@ Esitutkintaviranomaisen on ilmoitettava asianomistajalle ilman aiheetonta viivyt
 7) oikeudesta saada tieto päätöksestä, joka koskee esitutkinnan toimittamatta jättämistä, lopettamista tai päättämistä saattamatta asiaa syyttäjän harkittavaksi taikka syyttämättä jättämistä;
 8) asian selvittämiseksi tuomioistuimeen kutsutun asianomistajan oikeudesta korvaukseen valtion varoista maksettavista todistelukustannuksista annetussa laissa (666/1972) säädetyillä edellytyksillä;
 9) oikeudesta saada tieto asian käsittelystä, tuomioistuinkäsittelyn ajasta ja paikasta sekä rikosasiassa annetusta tuomiosta;
-10) mahdollisuudesta sovitteluun rikosasioiden ja eräiden riita-asioiden sovittelusta annetussa laissa säädetyillä edellytyksillä.
+10) mahdollisuudesta sovitteluun rikosasioiden ja eräiden riita-asioiden sovittelusta annetussa laissa säädetyillä edellytyksillä;
+11) mahdollisuudesta, että asiassa voidaan järjestää oikeudenkäynnistä rikosasioissa annetun lain 1 luvun 10 a §:ssä tarkoitettu tuomioesitystä koskeva neuvottelu.
