@@ -1,0 +1,5 @@
+# 10 g § Tuloista tehtävät vähennykset jatkuvassa ja säännöllisessä kotona annettavassa palvelussa
+
+Ennen kuin 10 e §:ssä tarkoitettu maksu määrätään, 10 f §:n 1 momentissa tarkoitetun henkilön kuukausituloista on vähennettävä 10 c §:n 1 momentissa säädetyt menot. Kun asiakas, jolla on asuinkäytössään 10 c §:n 3 momentissa tarkoitettu asunto, siirtyy sosiaalihuoltolain 21 a §:ssä tarkoitettuun tuettuun asumiseen tai 21 b §:ssä tarkoitettuun yhteisölliseen asumiseen, jossa hän saa jatkuvaa ja säännöllistä kotona annettavaa palvelua, on 10 e §:ssä tarkoitettua maksua määrättäessä asiakkaan tuloista vähennettävä lisäksi 10 c §:n 3 momentissa tarkoitetut todelliset asumismenot.
+
+Poiketen siitä, mitä 1 momentissa säädetään, elatusapua ei vähennetä määrättäessä 10 e §:ssä tarkoitettua maksua tuetussa asumisessa tai yhteisöllisessä asumisessa olevalle asiakkaalle, jos elatusavun saajana on asiakkaan aviopuoliso, jonka kanssa asiakas on elänyt yhteistaloudessa välittömästi ennen tuetun asumisen tai yhteisöllisen asumisen alkamista.

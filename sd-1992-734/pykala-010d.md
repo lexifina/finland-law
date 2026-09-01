@@ -1,0 +1,7 @@
+# 10 d § Tuloista tehtävät erityiset vähennykset pitkäaikaisessa ympärivuorokautisessa palveluasumisessa ja pitkäaikaisessa perhehoidossa
+
+Sen lisäksi, mitä 10 c §:ssä säädetään, hyvinvointialueen on pitkäaikaisesta ympärivuorokautisesta palveluasumisesta perittävän maksun suuruudesta päättäessään vähennettävä maksun perusteena olevista tuloista kohtuulliset asumismenot, joita pitkäaikaisesta ympärivuorokautisesta palveluasumisesta aiheutuu. Asumismenoista vähennetään valtion varoista maksettava asumistuki.
+
+Sen lisäksi, mitä 1 momentissa säädetään, tuloista vähennetään terveydenhuollon ammattihenkilöistä annetussa laissa (559/1994) tarkoitetun terveydenhuollon ammattihenkilön määräämien lääkkeiden, kliinisten ravintovalmisteiden ja perusvoiteiden kustannukset, joihin asiakas on oikeutettu saamaan korvausta sairausvakuutuslain nojalla. Lääkekustannukset vähennetään asiakkaan tai hänen edustajansa antaman selvityksen perusteella maksun määräämisen perusteena olevista tuloista asiakkaalle aiheutuvien lääkekustannusten mukaan, kuitenkin enintään sairausvakuutuslain 5 luvun 8 §:ssä tarkoitetun vuosiomavastuun suuruisena. Muiden kuin sairausvakuutuslain mukaan korvattavien lääkkeiden, kliinisten ravintovalmisteiden ja perusvoiteiden kustannukset vähennetään asiakkaan tai hänen edustajansa hakemuksesta siltä osin kuin lääkemääräyksen tehnyt terveydenhuollon ammattihenkilö on arvioinut ne asiakkaan terveydelle tarpeellisiksi.
+
+Mitä 2 momentissa säädetään, koskee myös pitkäaikaisesta perhehoidosta perittävää maksua.
