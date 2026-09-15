@@ -1,0 +1,3 @@
+# 13 § Asiakirjan julkiseksi tulon ajankohtaa koskeva poikkeus
+
+Poiketen siitä, mitä viranomaisten toiminnan julkisuudesta annetun lain (621/1999) 6 ja 7 §:ssä säädetään, valtioneuvoston jäsenen tekemä 3 §:ssä tarkoitettu ilmoitus sekä karenssilautakunnan tällaisen ilmoituksen johdosta tekemät 14 §:ssä tarkoitetut selvityspyynnöt ja niiden perusteella saadut tiedot tulevat julkisiksi vasta päivästä, jolloin karenssilautakunta on antanut ilmoituksen johdosta päätöksensä tai ilmoituksen antajalle on myönnetty ero valtioneuvoston jäsenen tehtävästä, riippuen siitä, kumpi näistä päivämääristä on ensimmäinen.

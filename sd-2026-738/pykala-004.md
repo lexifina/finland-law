@@ -1,0 +1,3 @@
+# 4 § Ilmoituksen sisältö
+
+Ilmoituksen tulee sisältää asian käsittelemiseksi tarpeelliset yhteystiedot sekä tieto 3 §:n 1 momentissa tarkoitetusta tahosta, jolle uusi tehtävä suoritetaan, taikka uuden tehtävän tarkoittaman elinkeinon- tai ammatinharjoittamisen aloittamisesta. Ilmoituksen tulee lisäksi sisältää selvitys uuteen tehtävään siirtymisen ajankohdasta sekä uuden tehtävän pääasiallisesta sisällöstä ja suhteesta niiden toimialojen asioihin, joista ilmoituksen antaja on valtioneuvoston jäsenenä vastannut tai joiden käsittelyyn hän on valtioneuvoston jäsenenä muutoin ilmoituksen käsittelyn kannalta olennaisella tavalla osallistunut.
