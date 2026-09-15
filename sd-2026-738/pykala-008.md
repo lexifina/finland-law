@@ -1,0 +1,5 @@
+# 8 § Korvaus karenssin ajalta
+
+Sillä, jolle karenssi on määrätty, on oikeus valtion varoista maksettavaan korvaukseen karenssin ajalta. Karenssin ajalta maksettava korvaus vastaa suuruudeltaan 60 prosenttia valtioneuvoston jäsenelle maksettavasta palkkiosta. Karenssin aikana kansanedustajana toimivalle ei kuitenkaan makseta korvausta siltä ajalta, jolta hänelle maksetaan edustajanpalkkiota. Henkilön korvauksen perusteena olevana aikana työstään, tehtävästään, palveluksestaan tai yritystoiminnastaan saama korvaus vähennetään karenssin ajalta maksettavan korvauksen määrästä, jollei kyse ole kokouspalkkiosta, hallintoelimen jäsenyydestä saadusta palkkiosta tai muusta niihin verravasta vähäisenä pidettävästä palkkiosta.
+
+Karenssilautakunta myöntää 1 momentissa tarkoitetun korvauksen saatuaan korvauksen maksamiseksi tarpeelliset tiedot. Pyyntö tietojen antamiseksi on esitettävä samanaikaisesti karenssin sisältävän päätöksen kanssa. Karenssilautakunnan määräämän korvauksen täytäntöönpanosta vastaa valtioneuvoston kanslia.
