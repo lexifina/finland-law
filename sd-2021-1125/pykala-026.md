@@ -5,4 +5,4 @@ Sisäasioiden rahastoja koskevat tiedot käsitellään sisäasioiden rahastojen 
 
 Hallintoviranomainen käsittelee tietojärjestelmässä Euroopan unionin lainsäädännössä edellytetyt ohjelmaa, sen hallinnointia, seurantaa ja valvontaa koskevat tiedot sekä ohjelmaa koskevan toimeenpanosuunnitelman. Lisäksi hallintoviranomainen käsittelee tietojärjestelmässä avustuksen hakijaa ja saajaa, avustettavaa hanketta tai toimintaa, avustuspäätöstä, avustuksen maksamista, suoritettuja tarkastuksia ja takaisinperintää koskevat tässä laissa tarkoitettujen tehtävien hoitamiseksi tarpeelliset tiedot.
 
-Tietojärjestelmän jokaisen käyttäjän on tunnistauduttava vahvasta sähköisestä tunnistamisesta ja sähköisistä luottamuspalveluista annetun lain 2 §:n 1 momentin 1 kohdassa tarkoitetun vahvan sähköisen tunnistamisen avulla.
+Tietojärjestelmän jokaisen käyttäjän on tunnistauduttava vahvasta sähköisestä tunnistamisesta annetun lain 2 §:n 1 kohdassa tarkoitetun vahvan sähköisen tunnistamisen avulla.

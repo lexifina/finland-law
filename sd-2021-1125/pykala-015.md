@@ -7,6 +7,6 @@ Hakemukseen on sisällytettävä avustettavan hankkeen tai toiminnan kustannusar
 
 Jos avustusta on tarkoitus siirtää 12 §:ssä tarkoitetun tavoin, tästä on ilmoitettava hakemuksessa. Hakemuksessa on yksilöitävä ne tahot, joille avustusta on tarkoitus siirtää sekä siirrettäväksi ehdotettu osuus.
 
-Hakemuksen allekirjoitukseen sovelletaan, mitä vahvasta sähköisestä tunnistamisesta ja sähköisistä luottamuspalveluista annetussa laissa (617/2009) säädetään henkilön yksilöimisestä ja tunnistamisesta. Jos hakemus on tehty hallintoviranomaisen hyväksymälle lomakkeelle, hakemus on allekirjoitettava.
+Hakemuksen allekirjoitukseen sovelletaan, mitä vahvasta sähköisestä tunnistamisesta annetussa laissa (617/2009) säädetään henkilön yksilöimisestä ja tunnistamisesta. Jos hakemus on tehty hallintoviranomaisen hyväksymälle lomakkeelle, hakemus on allekirjoitettava.
 
 Tarkempia säännöksiä avustuksen hakemisesta, hakuajasta, hakemukseen liitettävistä asiakirjoista ja asiakirjoissa esitettävistä seikoista voidaan antaa valtioneuvoston asetuksella.
