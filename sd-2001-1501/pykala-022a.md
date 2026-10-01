@@ -1,0 +1,8 @@
+# 22 a §
+Luku: 6 luku Selvitystila ja konkurssi
+
+Luottolaitoksen velkojille toimitettavassa saatavien valvontaa koskevassa ilmoituksessa on mainittava sen lisäksi, mitä muuten säädetään:
+1) mitä 23 §:ssä säädetään tallettajan valvontavelvollisuudesta ja mitä 24 §:n 2 momentissa säädetään tallettajan ilmoittautumisesta pankille; sekä
+2) onko velkojan ilmoitettava etuoikeutettu saatava tai saatava, jonka vakuutena on esineoikeus.
+
+Luottolaitoksen velkojille toimitettava ilmoitus, joka koskee saatavien valvontaa tai huomautusten esittämistä, on tehtävä ainakin suomeksi ja ruotsiksi. Ilmoituksessa on oltava kaikkien ETA-valtioiden virallisilla kielillä otsikko "Kehotus saatavan ilmoittamiseen; noudatettavat määräajat" tai vastaavasti "Kehotus huomautusten esittämiseen; noudatettavat määräajat".

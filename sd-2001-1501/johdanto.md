@@ -1,0 +1,2 @@
+Laki liikepankeista ja muista osakeyhtiömuotoisista luottolaitoksista
+Eduskunnan päätöksen mukaisesti säädetään:

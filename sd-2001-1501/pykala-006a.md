@@ -1,0 +1,4 @@
+# 6 a §
+Luku: 2 luku Sulautuminen ja kotipaikan siirto toiseen ETA-valtioon
+
+Jos luottolaitoksen kotipaikka siirretään toiseen valtioon tai sulautumisessa vastaanottava luottolaitos rekisteröidään toiseen valtioon ja toimenpiteen jälkeen talletus jää kokonaan tai osittain talletussuojan ulkopuolelle, tallettajalla on oikeus irtisanoa talletus myös siten, että luottolaitoksen on viipymättä maksettava irtisanottu talletus tai annettava sen maksamisesta turvaava vakuus. Irtisanominen on tehtävä kirjallisesti ja viimeistään luottolaitoksen velkojille annettavassa osakeyhtiölain 16 luvun 6 §:ssä tarkoitetussa kuulutuksessa mainittavana määräpäivänä. Edellä 6 §:ssä tarkoitetussa ilmoituksessa on mainittava tallettajan oikeudesta irtisanoa talletuksensa tämän pykälän mukaisesti. Luottolaitoksen on ilmoitettava irtisanomisesta Rahoitustarkastukselle viipymättä tässä pykälässä tarkoitetulle irtisanomiselle varatun ajan päätyttyä.

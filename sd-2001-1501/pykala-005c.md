@@ -1,0 +1,8 @@
+# 5 c §
+Luku: 2 luku Sulautuminen ja kotipaikan siirto toiseen ETA-valtioon
+
+Jos luottolaitos aikoo siirtää kotipaikkansa toiseen ETA-valtioon siten kuin osakeyhtiölain 17 a luvun 1 §:ssä säädetään, luottolaitoksen on lähetettävä Finanssivalvonnalle jäljennös osakeyhtiölain 17 a luvun 4 §:ssä tarkoitetusta siirtosuunnitelmasta, 6 §:ssä tarkoitetusta hallituksen selvityksestä ja 9 §:n 1 momentissa tarkoitetusta lausunnosta viipymättä sen jälkeen, kun luottolaitos on ilmoittanut suunnitelman rekisteröitäväksi. Osakeyhtiölain 17 a luvun 9 §:n 1 momentissa tarkoitetulta tilintarkastajalta edellytetään luottolaitostoiminnasta annetun lain 12 luvun 14 §:n mukaista pätevyyttä tai muulta riippumattomalta asiantuntijalta sitä vastaavaa kohdevaltiossa hyväksyttyä pätevyyttä. Finanssivalvonta voi ilmoituksen saatuaan vaatia myös muita tarpeelliseksi katsomiaan tietoja.
+
+Rekisteriviranomainen ei saa antaa osakeyhtiölain 17 a luvun 21 §:n 4 momentissa tarkoitettua todistusta, jos Finanssivalvonta on ilmoittanut rekisteriviranomaiselle ennen osakeyhtiölain 17 a luvun 21 §:n 2 momentissa tarkoitetun luvan myöntämistä, että luottolaitos ei ole noudattanut kotipaikan siirtoa, Suomessa tapahtuvan toiminnan jatkamista tai toiminnan lopettamista koskevia säännöksiä. Luvan saa antaa ennen kuin kuukausi on kulunut osakeyhtiölain 17 a luvun 11 §:n 2 momentissa tarkoitetusta määräpäivästä vain, jos Finanssivalvonta on ilmoittanut, ettei se vastusta kotipaikan siirtoa.
+
+Jos luottolaitos aikoo jatkaa luottolaitostoimintaa Suomessa kotipaikan siirron jälkeen, siihen sovelletaan, mitä ulkomaisen luottolaitoksen toiminnasta Suomessa säädetään.
