@@ -1,0 +1,2 @@
+Laki henkilötietojen käsittelystä Puolustusvoimissa
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,8 @@
+# 35 § Oikeus saada terveyttä koskevia tietoja
+Luku: 4 luku Henkilötietojen luovuttaminen ja tiedonsaantioikeudet
+
+Sen lisäksi, mitä muualla laissa säädetään, rekisterinpitäjällä sekä asevelvollisen tai naisten vapaaehtoiseen asepalvelukseen hakeutuneen, palveluksessa olevan tai palveluksen suorittaneen terveydentilaa ennakkoterveystarkastuksessa, kutsunnassa, valintatilaisuudessa tai palveluksen aikana tarkastavalla terveydenhuollon ammattihenkilöllä on oikeus saada palveluskelpoisuuden määrittämistä, palvelusturvallisuuden ylläpitämistä sekä potilaan tutkimuksen ja hoidon järjestämistä varten salassapitosäännösten estämättä välttämättömiä tietoja seuraavasti:
+1) potilaan asemasta ja oikeuksista annetun lain (785/1992) 2 §:n 4 kohdassa tarkoitetulta terveydenhuollon toimintayksiköltä sekä terveydenhuollon ammattihenkilöltä tietoja asevelvollisen ja naisten vapaaehtoiseen asepalvelukseen hakeutuneen terveydentilasta;
+3) hyvinvointialueilta, Helsingin kaupungilta tai HUS-yhtymältä tietoja sosiaalihuoltolaissa (1301/2014) tai terveydenhuoltolaissa (1326/2010) tarkoitettujen mielenterveyspalvelujen antamisesta asevelvolliselle ja naisten vapaaehtoiseen asepalvelukseen hakeutuneelle.
+
+Terveydenhuollon palvelunantajan oikeudesta saada tiedot tietojärjestelmän avulla säädetään sosiaali- ja terveydenhuollon asiakastietojen käsittelystä annetun lain (703/2023) 57 §:ssä. Rekisterinpitäjälle tiedot voidaan terveydenhuollosta välittää mainitun lain 76 §:ssä tarkoitetun sosiaali- ja terveydenhuollon valtakunnallisiin tietojärjestelmäpalveluihin kuuluvan kysely- ja välityspalvelun avulla. Tiedot on oikeus saada maksutta.
