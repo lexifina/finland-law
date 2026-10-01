@@ -1,0 +1,4 @@
+# 45 § Hyväksyttyjä varmenteita tarjoavan hyväksytyn luottamuspalvelun tarjoajan seuraamusmaksu
+Luku: 6 luku Seuraamusmaksut
+
+Liikenne- ja viestintävirasto voi määrätä seuraamusmaksun hyväksyttyjä varmenteita tarjoavalle hyväksytylle luottamuspalveluntarjoajalle, joka tahallaan tai huolimattomuudesta rikkoo tai laiminlyö eIDAS-asetuksen 24 artiklan 1 kohdassa säädetyn velvollisuuden varmistaa luonnollisen henkilön tai oikeushenkilön henkilöllisyys ja mahdolliset muut attribuutit, jolle hyväksytty varmenne myönnetään, 2 kohdan k alakohdassa säädetyn velvollisuuden perustaa varmennetietokanta ja pitää se ajan tasalla, 3 kohdassa säädetyn velvollisuuden kirjata varmenteen sulkeminen varmennetietokantaan ja julkaista varmenteen sulkemistila tai 4 kohdassa säädetyn velvollisuuden antaa tietoa hyväksyttyjen varmenteiden voimassaolo- tai sulkemistilasta.

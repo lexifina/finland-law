@@ -1,0 +1,8 @@
+# 31 § Julkisuutta koskevan lainsäädännön soveltaminen ja tietojen luovuttaminen vaatimustenmukaisuuden arvioinnissa
+Luku: 4 luku Vaatimustenmukaisuuden arviointi
+
+Myös silloin, kun kysymys ei ole julkisen vallan käytöstä, 24 §:ssä tarkoitettuun tietoturvallisuuden arviointilaitokseen, vaatimustenmukaisuuden arviointilaitokseen ja sen käyttämään alihankkijaan sekä sertifioijaan sovelletaan eIDAS-asetuksen ja sen nojalla annettujen säännösten sekä tämän lain ja tämän lain nojalla annettujen määräysten toimeenpanoon liittyvissä tehtävissä viranomaisten toiminnan julkisuudesta annettua lakia (621/1999). Muiden hallinnon yleislakien soveltamisesta säädetään erikseen.
+
+Henkilön, joka toimii 1 momentissa tarkoitetun toimijan palveluksessa tai päättävässä elimessä ja käsittelee arviointitoimintaan liittyviä salassa pidettäviä tietoja, vaitiolovelvollisuuteen ja tiedon hyväksikäyttökieltoon sovelletaan, mitä viranomaisten toiminnan julkisuudesta annetun lain 23 §:ssä säädetään viranomaisen palveluksessa olevan vaitiolovelvollisuudesta ja hyväksikäyttökiellosta.
+
+Sen lisäksi, mitä viranomaisten toiminnan julkisuudesta annetussa laissa ja muualla laissa säädetään, 1 momentissa tarkoitetulla toimijalla on salassapitosäännösten ja muiden tietojen luovuttamista koskevien rajoitusten estämättä oikeus oma-aloitteisesti luovuttaa mainitussa momentissa tarkoitettujen tehtäviensä hoitamisen yhteydessä saamansa tai laatimansa asiakirja sekä ilmaista salassa pidettävä tieto Liikenne- ja viestintävirastolle eIDAS-asetuksessa tai sen nojalla annetuissa säännöksissä taikka tässä laissa säädettyjen tehtävien hoitamiseksi. Liikenne- ja viestintäviraston tiedonsaantioikeudesta säädetään 35 §:ssä.
