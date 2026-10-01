@@ -1,0 +1,2 @@
+Laki rajavartiolaitoksen hallinnosta
+Eduskunnan päätöksen mukaisesti säädetään:

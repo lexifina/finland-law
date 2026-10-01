@@ -1,0 +1,4 @@
+# 17 c § Ilmaisuvelvollisuus oikeudenkäynnissä
+Luku: 2 luku Rajavartiolaitoksen hallinto ja henkilöstö sekä sen virkamiestä koskevat erityiset oikeudet ja velvollisuudet
+
+Tuomioistuin voi määrätä ilmaistavaksi 17 §:n 1 momentissa tai 17 b §:n 1 momentissa tarkoitetun tiedon, jos ilmoittamatta jättäminen voisi loukata asianosaisen oikeutta puolustautua asianmukaisesti tai muuten asianmukaisesti valvoa oikeuttaan oikeudenkäynnissä. Edellytyksenä määräämiselle on lisäksi, että syyttäjä ajaa syytettä rikoksesta, josta säädetty ankarin rangaistus on vähintään kuusi vuotta vankeutta, taikka sellaisen rikoksen yrityksestä tai osallisuudesta siihen. Luottamuksellisesti tietoja antaneen henkilön taikka yksinomaan tietoverkossa peitehenkilönä tai yksinomaan tietoverkossa valeostajana toimineen henkilöllisyyttä ei tällöinkään saa määrätä ilmaistavaksi, jos siitä ilmeisesti aiheutuisi vakavaa vaaraa hänen tai hänen läheistensä turvallisuudelle.

@@ -1,0 +1,8 @@
+# 10 § Rajavartiolaitoksen virkojen yleiset kelpoisuusvaatimukset
+Luku: 2 luku Rajavartiolaitoksen hallinto ja henkilöstö sekä sen virkamiestä koskevat erityiset oikeudet ja velvollisuudet
+
+Rajavartiolaitoksen virkaan nimitettävältä vaaditaan, että hän on Suomen kansalainen ja täyttää valtion virkamieslain (750/1994) 6 ja 8 §:ssä säädetyt valtion viran yleiset kelpoisuusvaatimukset. Lisäksi hänen tulee olla elämäntavoiltaan nuhteeton ja luotettava.
+
+Rajavartiolaitoksen sotilasvirkaan nimitettävältä vaaditaan, että hän on suorittanut Suomen puolustusvoimissa tai Rajavartiolaitoksessa joko asevelvollisuuden aseellisessa palveluksessa tai naisten vapaaehtoisen asepalveluksen ja että hän on terveydeltään ja ruumiilliselta kunnoltaan virkaan sopiva. Lisäksi Rajavartiolaitoksen sotilasvirkaan nimitettävältä vaaditaan, ettei hänellä ole sellaista toisen valtion kansalaisuutta tai muuta turvallisuusselvityslain (726/2014) 3 §:n 1 momentin 9 a kohdassa tarkoitettua ulkomaansidonnaisuutta, joka voi vaarantaa valtion turvallisuutta, yleistä turvallisuutta, maanpuolustusta tai Suomen kansainvälisiä suhteita taikka palvelusturvallisuutta Rajavartiolaitoksessa.
+
+Mitä 2 momentissa säädetään asevelvollisuuden suorittamisesta, ei koske henkilöä, joka Ahvenanmaan itsehallintolain (1144/1991) 12 §:n 1 momentin nojalla saa asevelvollisuuden suorittamisen sijasta palvella vastaavalla tavalla luotsi- ja majakkalaitoksessa tai muussa siviilihallinnossa. Vaatimus naisten vapaaehtoisen asepalveluksen suorittamisesta ei 2 momentissa säädetystä poiketen koske henkilöä, jolla on Ahvenanmaan itsehallintolain 6 §:ssä tarkoitettu kotiseutuoikeus.
