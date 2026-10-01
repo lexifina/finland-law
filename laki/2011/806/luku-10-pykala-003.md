@@ -17,7 +17,7 @@ Esitutkintaviranomaiselle voidaan antaa lupa kohdistaa telekuuntelua rikoksesta 
 10) tuhotyöstä, liikennetuhotyöstä, törkeästä tuhotyöstä, törkeästä terveyden vaarantamisesta, ydinräjähderikoksesta, kaappauksesta tai kansainvälisessä sopimuksessa tarkoitetun rikoksen rahoittamisesta;
 11) terroristisessa tarkoituksessa tehdystä rikoksesta, terroristisessa tarkoituksessa tehdystä radiologista asetta koskevasta rikoksesta, terrorismirikoksen valmistelusta, terroristiryhmän johtamisesta, terroristiryhmän toimintaan osallistumisesta, terroristisesta koulutuksen antamisesta, terroristisesta kouluttautumisesta, terroristisesta värväyksestä, terroristisesta rikoksen rahoittamisesta, terrorismin rahoittamisesta, terroristisesta matkustamisesta, terroristisen matkustamisen edistämisestä tai, jos teon vakavuus edellyttäisi vankeusrangaistusta, terroristisesta julkisesta kehottamisesta;
 12) törkeästä vahingonteosta tai törkeästä datavahingonteosta;
-13) törkeästä petoksesta tai törkeästä kiskonnasta;
+13) törkeästä petoksesta, törkeästä kiskonnasta tai törkeästä kiskonnasta työelämässä;
 14) törkeästä rahanväärennyksestä;
 15) törkeästä tietoliikenteen häirinnästä tai törkeästä tietojärjestelmän häirinnästä;
 16) ampuma-aseen käsittelystä vakavan rikoksen tekemistä varten;
