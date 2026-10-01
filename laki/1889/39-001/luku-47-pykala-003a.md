@@ -1,4 +1,4 @@
-# 3 a § Kiskonnantapainen työsyrjintä
+# 3 a § Kiskonta työelämässä
 Luku: 47 luku Työrikoksista
 
-Jos työsyrjinnässä asetetaan työnhakija tai työntekijä huomattavan epäedulliseen asemaan käyttämällä hyväksi työnhakijan tai työntekijän taloudellista tai muuta ahdinkoa, riippuvaista asemaa, ymmärtämättömyyttä, ajattelemattomuutta tai tietämättömyyttä, tekijä on, jollei teosta muualla laissa säädetä ankarampaa rangaistusta, tuomittava kiskonnantapaisesta työsyrjinnästä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.
+Työnantaja tai tämän edustaja, joka käyttämällä hyväksi työntekijän taloudellista tai muuta ahdinkoa, riippuvaista asemaa, ymmärtämättömyyttä, ajattelemattomuutta tai tietämättömyyttä palvelussuhteen yhteydessä hankkii tai edustaa itselleen tai toiselle taloudellista etua, joka on selvästi epäsuhteessa vastikkeeseen, on tuomittava kiskonnasta työelämässä sakkoon tai vankeuteen enintään kahdeksi vuodeksi.

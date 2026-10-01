@@ -1,4 +1,4 @@
 # 9 § Oikeushenkilön rangaistusvastuu
 Luku: 47 luku Työrikoksista
 
-Työturvallisuusrikokseen ja kiskonnantapaiseen työsyrjintään sovelletaan, mitä oikeushenkilön rangaistusvastuusta säädetään.
+Työturvallisuusrikokseen, kiskontaan työelämässä ja törkeään kiskontaan työelämässä sovelletaan, mitä oikeushenkilön rangaistusvastuusta säädetään.

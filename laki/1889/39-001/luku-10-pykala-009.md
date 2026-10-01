@@ -10,3 +10,5 @@ Menettämisseuraamus määrätään syyttäjän vaatimuksesta. Oikeudenkäynnist
 Kantajan on vedottava niihin seikkoihin, joihin hänen vaatimuksensa perustuu, sekä näytettävä ne toteen. Kantajalla ei kuitenkaan ole todistustaakkaa 3 §:ssä tarkoitetun omaisuuden alkuperästä. Tällainen omaisuus voidaan tuomita menetetyksi, jollei vastaaja saata todennäköiseksi, että omaisuus on peräisin muusta kuin rikollisesta toiminnasta.
 
 Tuomioistuimen on menettämisseuraamuksen määrätessään tarvittaessa annettava tarkemmat määräykset sen täytäntöönpanosta, jos menettämisseuraamus koskee pakkokeinolain 7 luvun 1 §:ssä tarkoitettua dataa tai jos se on erityisestä syystä muuten tarpeen.
+
+Jos menettämisseuraamus määrätään sakon ja rikesakon määräämisestä annetun lain mukaisessa menettelyssä, noudatetaan 1–5 momentissa säädetystä poiketen mainitun lain säännöksiä.

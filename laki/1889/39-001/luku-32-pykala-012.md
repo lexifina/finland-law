@@ -1,7 +1,7 @@
 # 12 § Menettämisseuraamus
 Luku: 32 luku Kätkemis- ja rahanpesurikoksista
 
-Omaisuus, joka on ollut 6, 7 tai 9 §:ssä tarkoitetun rikoksen kohteena, on tuomittava valtiolle menetetyksi. Menettämisseuraamukseen sovelletaan, mitä 10 luvun 11 §:n 3 momentissa säädetään.
+Omaisuus, joka on ollut 6, 7 tai 9 §:ssä tarkoitetun rikoksen kohteena, on tuomittava valtiolle menetetyksi. Menettämisseuraamukseen sovelletaan, mitä 10 luvussa ja sakon täytäntöönpanosta annetussa laissa säädetään menettämisseuraamuksesta.
 
 Muun omaisuuden menettämisen osalta noudatetaan, mitä 10 luvussa säädetään.
 
