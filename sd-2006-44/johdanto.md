@@ -1,0 +1,2 @@
+Laki työsuojelun valvonnasta ja työpaikan työsuojeluyhteistoiminnasta
+Eduskunnan päätöksen mukaisesti säädetään:
