@@ -1,0 +1,22 @@
+# 3 § Lain soveltamisala
+Luku: 1 luku Yleiset säännökset
+
+Tätä lakia sovelletaan:
+1) viranomaisen digitaalisiin palveluihin;
+2) julkisoikeudellisen laitoksen digitaalisiin palveluihin;
+3) yrityksen, säätiön, yhdistyksen ja muun yhteisön digitaalisiin palveluihin, joiden kehittämisen tai käytön rahoittamiseen osallistuu tässä laissa tarkoitettu viranomainen vähintään puolella kehittämiskustannuksista tai vuotuisista ylläpitokustannuksista;
+4) vahvasta sähköisestä tunnistamisesta annetun lain (617/2009) 12 §:ssä tarkoitettuun rekisteriin merkittyjen tunnistuspalvelun tarjoajien tunnistuspalveluihin sekä hallinnon yhteisistä sähköisen asioinnin tukipalveluista annetun lain (571/2016) 3 §:n 1 momentin 8 kohdassa tarkoitetun verkkomaksamisen kokoamis- ja hallinnointipalvelun kautta käytettäviin digitaalisten palvelujen osiin, joilla voidaan hoitaa maksutoimeksiantoja;
+5) vesi- ja energiahuollon, liikenteen ja postipalvelujen alalla toimivien yksiköiden hankinnoista ja käyttöoikeussopimuksista annetun lain (1398/2016) 5 §:n 4 momentissa tarkoitettujen julkisten yritysten sekä 5 §:n 5 momentissa tarkoitettujen viranomaisen myöntämien erityis- tai yksinoikeuksien nojalla toimivien yksiköiden digitaalisiin palveluihin siltä osin kuin niiden tarkoituksena on tarjota vesi- ja energiahuollon, liikenteen ja postipalvelujen alan palvelua yleisölle;
+6) luottolaitostoiminnasta annetun lain (610/2014) 1 luvun 7 §:ssä tarkoitettujen luottolaitosten, maksulaitoslain (297/2010) 5 §:n 2 kohdassa tarkoitettujen maksulaitosten, sijoituspalvelulain (747/2012) 1 luvun 13 §:n 1 momentin 1 kohdassa tarkoitettujen sijoituspalveluyritysten, vakuutusyhtiölain (521/2008) 1 luvun 1 §:n 1 momentissa tarkoitettujen vakuutusyhtiöiden ja vakuutusyhdistyslain (1250/1987) 1 luvun 1 §:n 1 momentissa tarkoitettujen vakuutusyhdistysten digitaalisiin palveluihin siltä osin kuin niiden tarkoituksena on tarjota palvelua yleisölle;
+7) eräisiin digitaalisiin palveluihin siten kuin 3 a luvussa säädetään.
+
+Tämän lain 2 luvun säännöksiä sovelletaan yleisölle tarjottaviin viranomaisen digitaalisiin palveluihin ja muihin sähköisiin tiedonsiirtomenetelmiin, jollei muualla laissa toisin säädetä. Viranomaisissa noudatettaviin menettelyihin sovelletaan muutoin, mitä asian vireillepanosta, päätöksen tiedoksiannosta, viranomaisten toiminnan julkisuudesta, henkilötietojen käsittelystä, asiakirjojen arkistoinnista, asian käsittelyssä käytettävästä kielestä ja asian käsittelystä säädetään. Lain soveltamisesta evankelis-luterilaisen kirkon digitaalisiin palveluihin säädetään erikseen.
+
+Tätä lakia ei sovelleta:
+1) työpaikoilla käytettäviin rajalliselle määrälle henkilöitä tarkoitettuihin intranet- ja ekstranet-verkkosivustoihin ja mobiilisovelluksiin; kuitenkin 23 päivänä syyskuuta 2019 tai sen jälkeen kokonaan uudistettuihin viranomaisten ja julkisoikeudellisten laitosten työpaikoilla käytettäviin intranet- ja ekstranet-verkkosivustoihin ja mobiilisovelluksiin sovelletaan tämän lain 3 ja 4 lukua;
+2) varhaiskasvatuslain (540/2018) mukaisessa varhaiskasvatuksessa sekä perusopetuslain (628/1998) , lukiolain (714/2018), ammatillisesta koulutuksesta annetun lain (531/2017), tutkintokoulutukseen valmentavasta koulutuksesta annetun lain (1215/2020), vapaasta sivistystyöstä annetun lain (632/1998), yliopistolain ja ammattikorkeakoululain mukaisessa opetuksessa, kun verkkosivusto tai mobiilisovellus tuotetaan varhaiskasvatuksen tai opetuksen yhteydessä ja sen käyttö tapahtuu rajatussa ryhmässä määräaikaisesti;
+3) julkisen yleisradiotoiminnan harjoittajien digitaalisiin palveluihin siltä osin kuin palveluissa on kyse muista kuin audiovisuaalisiin sisältöpalveluihin pääsyn tarjoavista palveluista;
+4) palveluntarjoajan verkkosivustolla tai mobiilisovelluksessa esitettävään suoraan aikasidonnaiseen mediaan, jota ei tallenneta säilytettäväksi ja uudelleen julkaistavaksi verkossa;
+5) verkkokarttoihin ja karttapalveluihin; jos kuitenkin palveluntarjoajan digitaalisessa palvelussa oleva kartta on tarkoitettu navigointikäyttöön, sen olennainen käyttäjää opastava tietosisältö on kuitenkin tarjottava vaihtoehtoisella tavalla saavutettavuusvaatimukset täyttävässä digitaalisessa muodossa;
+6) sellaisiin palveluntarjoajan digitaalisessa palvelussa oleviin sisältöihin, jotka eivät ole palveluntarjoajan itsensä tuottamia, rahoittamia tai valvomia;
+7) kulttuuriperintökokoelmien teosten ilmentymiin, joita ei voida muuttaa saavutettavuusvaatimukset täyttävään muotoon.
