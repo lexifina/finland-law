@@ -1,0 +1,8 @@
+# 21 § Rekisteröintiä koskeva päätös
+Luku: 3 luku Palveluntuottajien ja palveluyksikköjen rekisteröinti
+
+Palveluntuottajan on 16 §:n 2 ja 3 momenteissa tarkoitetuilla tiedoilla osoitettava, että sen palveluyksikköjen toiminta täyttää 2 luvussa säädetyt toimintaedellytykset. Valvontaviranomainen rekisteröi palveluyksikön palveluntuottajien rekisteriin palveluntuottajan ilmoittamien ja 18 §:n mukaisesti hankkimiensa tietojen sekä 20 §:n 1 momentin mukaisesti suorittamansa tarkastuksen perusteella. Mikäli palveluyksikön toiminnan laatu tai laajuus sitä asiakas- ja potilasturvallisuuden varmistamiseksi edellyttää, valvontaviranomainen voi ennen palveluyksikön rekisteröimistä 16 §:n 3 momentissa ja 20 §:n 2 momentissa säädetyllä tavalla selvittää tarkemmin toimintaedellytysten täyttymisen.
+
+Valvontaviranomaisen on palveluntuottajan hakemuksesta tehtävä päätös palveluntuottajan rekisteröimisestä, palveluyksikön rekisteröimisestä ja rekisteröinnin muutoksesta taikka niiden hylkäämisestä. Rekisteriin merkitään palveluntuottaja ja palveluyksikkö, jotka täyttävät laissa säädetyt edellytykset. Valvontaviranomainen voi tarvittaessa rekisteriin merkitsemistä koskevassa päätöksessä asettaa tässä tai muussa sosiaali- ja terveydenhuollon laissa säädettyjä velvoitteita täsmentäviä asiakas- ja potilasturvallisuuden varmistamiseksi välttämättömiä ehtoja koskien palvelutuotantoon käytettäviä tiloja, välineitä, henkilöstöä, omavalvontaa, valvontaviranomaiselle toimitettavia tietoja, rekisteröinnin määräaikaisuutta taikka palvelun sisältöä ja menettelytapoja.
+
+Yhteisen palveluyksikön rekisteröimistä koskevassa päätöksessä on erikseen todettava valtuutettu palveluntuottaja.

@@ -1,0 +1,10 @@
+# 27 § Palveluntuottajan omavalvonta
+Luku: 4 luku Omavalvonta
+
+Palveluntuottajan on valvottava oman toimintansa ja alihankkijan toiminnan laatua ja asianmukaisuutta sekä asiakas- ja potilasturvallisuutta. Palveluntuottajan on laadittava palveluyksiköittäin päivittäisen toiminnan laadun, asianmukaisuuden ja turvallisuuden varmistamiseksi sekä asiakas- ja potilastyöhön osallistuvan henkilöstön riittävyyden seurantaa varten omavalvontasuunnitelma, joka kattaa kaikki palveluyksikössä palveluntuottajan ja sen lukuun tuotetut palvelut. Omavalvontasuunnitelmaan on sisällytettävä kuvaus vaaratapahtumien ilmoitus- ja oppimismenettelystä.
+
+Palveluntuottajan on otettava huomioon palveluyksikön omavalvontasuunnitelmaa tehtäessä ja muutettaessa palveluyksikön palveluja saavilta asiakkailta ja potilailta, heidän omaisiltaan ja läheisiltään sekä palveluyksikön henkilöstöltä säännöllisesti kerättävä palaute. Palveluyksikön omavalvontasuunnitelmaa tehtäessä ja muutettaessa on otettava huomioon myös valvontaviranomaisen antama ohjaus ja päätökset.
+
+Palveluntuottajan on tehtävä omavalvontasuunnitelma sähköisesti ja julkaistava se julkisessa tietoverkossa tai muulla sen julkisuutta edistävällä tavalla sekä pidettävä omavalvontasuunnitelma julkisesti nähtävänä palveluyksikössä. Palveluyksikön omavalvontasuunnitelmassa kuvatun toiminnan toteutumista on seurattava ja seurannassa havaitut puutteellisuudet on korjattava. Seurannasta on tehtävä selvitys ja sen perusteella tehtävät muutokset on julkaistava neljän kuukauden välein julkisessa tietoverkossa tai muulla niiden julkisuutta edistävällä tavalla sekä pidettävä julkisesti nähtävänä palveluyksikössä. Salassapidettäviä tietoja ei saa julkaista.
+
+Palveluntuottaja ja vastuuhenkilö vastaavat siitä, että omavalvontasuunnitelmaa toteutetaan päivittäisessä toiminnassa palveluja tuotettaessa. Palveluyksikön omavalvontaan sisältyvää palvelujen laadun ja asiakas- ja potilasturvallisuuden varmistamista ja palvelujen kehittämistä toteuttaa palveluntuottajan henkilökunta.

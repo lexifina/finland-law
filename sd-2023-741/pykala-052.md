@@ -1,0 +1,6 @@
+# 52 § Voimaantulo ja siirtymäsäännökset
+Luku: 8 luku Voimaantulo
+
+Tämä laki tulee voimaan 1 päivänä tammikuuta 2024. Valtion mielisairaaloiden, Puolustusvoimien, Rajavartiolaitoksen, Vankiterveydenhuollon yksikön, valtion liikelaitoksen, hyvinvointialueen, Helsingin kaupungin, HUS-yhtymän, Valtion lastensuojelulaitoksen, itsenäisen julkisoikeudellisen laitoksen taikka evankelisluterilaisen tai ortodoksisen kirkon tai edellä mainittujen kirkkojen seurakunnan tai seurakuntayhtymän osalta lain 3 luku tulee kuitenkin voimaan 1 päivänä tammikuuta 2028.
+
+Tässä laissa säädetyn estämättä yksityinen palveluntuottaja saa jatkaa kotoutumisen edistämisestä annetun lain (1386/2010) 28 §:ssä tarkoitetun perheryhmäkodin tai muun asuinyksikön toimintaa sosiaalihuoltolain 22 a §:ssä tarkoitettuna perheryhmäkodin toimintana 1 päivästä tammikuuta 2025 alkaen noudattaen tämän lain säännöksiä, kunnes 21 §:n 2 momentissa tarkoitettu rekisteröintipäätös on tehty. Edellä tarkoitetun palveluntuottajan on tehtävä 16 §:n 1 ja 2 momentissa tarkoitetut hakemukset ja annettava mainituissa momenteissa tarkoitetut tiedot valvontaviranomaiselle palveluntuottajaksi rekisteröintiä ja palveluyksikön rekisteröintiä varten viipymättä sen jälkeen, kun palveluntuottaja alkaa tuottaa sosiaalihuoltolain 22 a §:ssä tarkoitettua perheryhmäkodin toimintaa.

@@ -1,0 +1,17 @@
+# 7 § Palveluntuottajan luotettavuuden toteaminen
+Luku: 2 luku Palveluntuottajaa ja toimintaa koskevat edellytykset
+
+Palveluntuottaja ei täytä edellä 6 §:n 1 momentin 1 kohdassa tarkoitettuja edellytyksiä tässä laissa tarkoitettujen palvelujen tuottamiselle, jos palveluntuottajan tai 6 §:n 1 momentin 4 kohdassa mainittujen henkilöiden aikaisempi toiminta osoittaa kokonaisuutena arvioiden palveluntuottajan tai henkilön ilmeisen sopimattomaksi harjoittamaan tämän lain mukaista elinkeinotoimintaa. Palveluntuottajan tai henkilön aikaisemman toiminnan arvioinnissa otetaan erityisesti huomioon seuraavat seikat:
+1) palveluntuottajan tai 6 §:n 1 momentin 4 kohdassa mainitun henkilön aikaisemmassa toiminnassa on todettu vakavia puutteita asiakas- ja potilasturvallisuudessa viimeksi kuluneiden kolmen vuoden aikana eivätkä valvontaviranomaisen aikaisemmat huomautukset ja määräykset ole johtaneet toiminnassa esiintyneiden puutteiden korjaamiseen ja epäkohtien poistamiseen;
+2) palveluntuottaja tai 6 §:n 1 momentin 4 kohdassa mainitut henkilöt ovat käyttäneet määräämisvaltaa yhteisössä, joka on viimeksi kuluneiden kolmen vuoden aikana asetettu konkurssiin tai jonka konkurssi mainittuna aikana on rauennut varojen puutteessa;
+3) palveluntuottajaa tai 6 §:n 1 momentin 4 kohdassa mainittua henkilöä ei voida pitää luotettavana, jos palveluntuottajalla tai henkilöllä on ollut arviointia edeltäneen kolmen vuoden aikana toistuvasti tai huomattavassa määrin veroihin, lakisääteisiin eläke-, tapaturma- tai työttömyysvakuutusmaksuihin taikka Tullin perimiin maksuihin liittyvien rekisteröimis-, ilmoitus- tai maksuvelvollisuuksien hoitamisen laiminlyöntejä.
+
+Edellä 1 momentin 1–3 kohdassa tarkoitettujen edellytysten osalta palveluntuottajalle ja henkilölle on varattava tilaisuus osoittaa, että edellytykset tässä laissa tarkoitettujen palvelujen tuottamiselle täyttyvät.
+
+Mitä 6 §:ssä ja edellä 1 momentissa säädetään palveluntuottajasta, koskee myös sitä, joka omistuksen, sopimuksen tai muun järjestelyn perusteella käyttää määräämisvaltaa palveluntuottajan puolesta. Edellytykset arvioidaan tosiasiallisten olosuhteiden mukaisesti, jos olosuhteista muutoin käy selvästi ilmi, että palveluntuottajan toimintaa johtaa tai sen hallintoa hoitaa muu henkilö tai yhteisö kuin hakemuksessa merkitty, ja menettelyyn liittyvät järjestelyt on esitetty tosiasiallisten olosuhteiden vastaisesti toiminnan edellytyksistä annettujen säännösten kiertämiseksi.
+
+Jos palveluntuottaja on oikeushenkilö, vaatimus luotettavuudesta koskee toimitusjohtajaa ja hänen sijaistaan, hallituksen jäsentä ja varajäsentä, hallintoneuvoston ja siihen rinnastettavan toimielimen jäsentä ja varajäsentä, vastuunalaista yhtiömiestä sekä muuta ylimpään johtoon kuuluvaa. Vaatimus luotettavuudesta koskee myös henkilöä, jolla on suoraan tai välillisesti vähintään 25 prosenttia osakeyhtiön osakkeista tai osakkeiden tuottamasta äänivallasta tai vastaava omistus- tai määräämisvalta, jos kyseessä on muu yhteisö kuin osakeyhtiö.
+
+Luotettavuuden arvioimiseksi voidaan 1 momentin 3 kohdassa tarkoitetut seikat selvittää sellaisista yritys- ja yhteisötietolain (244/2001) 3 §:ssä tarkoitetuista rekisteröidyistä yrityksistä ja yhteisöistä, jotka välittömästi tai välillisesti kytkeytyvät palveluntuottajaan tai tämän pykälän 3 momentissa tarkoitettuihin henkilöihin.
+
+Tätä pykälää ei sovelleta valtion, hyvinvointialueen, Helsingin kaupungin, HUS-yhtymän tai muun julkisyhteisön toimiessa palveluntuottajana.
