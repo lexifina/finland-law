@@ -1,0 +1,2 @@
+Laki oikeudenkäynnistä rikosasioissa
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,8 @@
+# 10 §
+Luku: 3 luku Yksityisoikeudellisesta vaatimuksesta
+
+Jos asianomistaja tai joku muu, jolla on siihen oikeus, on esitutkinnassa tai muutoin syyttäjälle ilmoittanut haluavansa itse esittää haastehakemuksessa tarkoitetusta rikoksesta johtuvan yksityisoikeudellisen vaatimuksensa tai jos syyttäjä on ilmoittanut, että hän ei asianomistajan pyynnöstä huolimatta aja asianomistajan vaatimusta, asianomistajalle ja muulle pykälässä tarkoitetulle henkilölle on varattava tilaisuus määräajassa toimittaa tuomioistuimeen vaatimuksensa ja sen perusteet kirjallisena uhalla, että vaatimus voidaan muuten jättää tutkimatta rikosasian yhteydessä.
+
+Tuomioistuin voi myös puhelinta tai muuta soveltuvaa tiedonvälitystapaa käyttäen kehottaa asianomistajaa ja muuta, jolla on oikeus esittää asiassa yksityisoikeudellinen vaatimus, ilmoittamaan vaatimuksensa ja sen perusteet määräajassa tuomioistuimelle. Jos kehotuksen kohteena olevia henkilöitä on hyvin suuri määrä, voidaan se antaa heille tiedoksi yleistiedoksiannolla noudattaen hallintolain 62 §:ää. Tällöin ei sovelleta, mitä tämän pykälän 1 momentissa säädetään vaatimuksen tutkimatta jättämisestä. Vaatimus ja sen perusteet saadaan tuomioistuimen pyynnöstä toimittaa tuomioistuimelle puhelinta tai muuta soveltuvaa tiedonvälitystapaa käyttäen. Jos suullisesti toimitettu vaatimus tai sen perusteet ovat epäselviä, tuomioistuin voi vaatia niiden vahvistamista kirjallisena.
+
+Jollei oikeudenkäymiskaaren 5 luvun 5 ja 6 §:stä muuta johdu, 1 ja 2 momentissa tarkoitettu vaatimus voidaan tutkia rikosasian yhteydessä vaatimuksen tekijän poissaolosta huolimatta.
