@@ -1,0 +1,13 @@
+# 107 § Leskeneläkkeen tulosovitus
+Osa: III OSA ETUUDET
+Luku: 13 luku Vahingoittuneen kuoleman johdosta maksettavat korvaukset
+
+Leskeneläkkeeseen oikeutetun työtulo tai eläketulo otetaan leskeneläkettä määrättäessä huomioon tulosovituksella. Tulosovituksessa 104 §:n mukaista leskeneläkettä vähennetään, jos leskeneläkkeeseen oikeutetun työtulo tai eläketulo vahingoittuneen kuollessa ylitti tulosovitusperusteen. Vähennyksen suuruus on 30 prosenttia työtulon tai eläketulon ja tulosovitusperusteen erotuksesta.
+
+Tulosovitusperuste on 2,15 kertaa 79 §:ssä tarkoitettu vuosityöansion vähimmäismäärä vahingoittuneen kuollessa.
+
+Tulosovitusta varten vahvistetaan leskeneläkkeeseen oikeutetulla vahingoittuneen kuollessa ollut työtulo tai eläketulo. Työtulon määräytymisestä on voimassa, mitä 71–78 §:ssä säädetään vahingoittuneen vuosityöansiosta. Eläketuloina otetaan huomioon jatkuvana maksettavat työntekijän eläkelain 3 §:ssä mainittujen lakien mukaiset eläkkeet ja niitä vastaavat perhe-eläkkeet, maatalousyrittäjien luopumistuesta annetun lain (1293/1994) mukainen luopumistuen perusmäärä, maatalouden harjoittamisesta luopumisen tukemisesta annetun lain (612/2006) mukainen luopumistuen perusmäärä, luopumiseläkelain (16/1974) mukainen vähennetty luopumiseläke samoin kuin tämän lain, maatalousyrittäjien tapaturmavakuutuslain, sotilastapaturmalain (1211/1990) ja sotilasvammalain (404/1948) sekä muun lain, jonka korvaus määräytyy tämän lain säännösten mukaan, perusteella toistaiseksi myönnetty tapaturmaeläke, elinkorko, perhe-eläke ja huoltoeläke sekä niitä vastaava liikennevakuutuslain mukainen korvaus ja urheilijan tapaturma- ja eläketurvasta annetun lain 6 ja 14 §:n mukainen toistaiseksi myönnetty eläke. Sellaista perhe-eläkettä tai sitä vastaavaa korvausta, johon leskeneläkkeeseen oikeutetulla on oikeus nyt korvattavan kuoleman johdosta, ei kuitenkaan oteta tulosovituksessa huomioon. Jos leskeneläkkeeseen oikeutetun työkyvyttömyytensä perusteella saama eläke tai sitä vastaava muu korvaus ei ollut täysimääräinen, otetaan se tulosovituksessa huomioon täyden etuuden määräisenä. Leskeneläkkeeseen oikeutetun saama osa-aikaeläke huomioidaan tulosovituksessa niin ikään täyden vanhuuseläkkeen määräisenä.
+
+Jos leskeneläkkeeseen oikeutettu saa 3 momentissa tarkoitettua perhe-eläkettä, huoltoeläkettä, elinkorkoa, luopumistuen perusmäärää tai luopumiseläkelain mukaista vähennettyä luopumiseläkettä, tulosovituksessa otetaan lisäksi huomioon poiketen siitä, mitä 1 momentissa säädetään, myös hänen työtulonsa tai työkyvyttömyytensä perusteella saama eläketulo taikka osa-aikaeläke.
+
+Edellä 3 ja 4 momentissa mainittuja etuuksia vastaava vieraasta valtiosta maksettava etuus otetaan samoin perustein huomioon eläketulona.

@@ -1,0 +1,9 @@
+# 83 § Haittaraha
+Osa: III OSA ETUUDET
+Luku: 11 luku Pysyvän haitan korvaaminen
+
+Haittarahaa maksetaan vahingoittuneelle vahinkotapahtuman aiheuttamasta vammasta ja sairaudesta johtuvasta pysyvästä yleisestä haitasta. Haittarahalla ei korvata vahinkotapahtuman aiheuttamaa työkyvyn heikentymistä, hoidon tai avun tarpeesta johtuvia kustannuksia eikä muuta vahinkoa, josta säädetään erikseen korvaus tässä laissa.
+
+Yleisellä haitalla tarkoitetaan vahinkotapahtumasta aiheutuvaa toimintakyvyn heikentymistä (toiminnanvajaus). Toimintakykyä verrataan samanikäisen terveen henkilön toimintakykyyn. Tällöin otetaan huomioon rajoitukset, joita vammasta tai sairaudesta huomioon ottaen sen laatu ja vaikeusaste yleensä aiheutuu jokapäiväisessä elämässä. Toimintakykyä arvioitaessa ei oteta huomioon ammattia, elin- ja asuinoloja eikä vahingoittuneen muita yksilöllisiä olosuhteita. Toimintakykyä arvioitaessa otetaan huomioon tekonivelen, proteesin tai muun apuvälineen avulla saavutettu toimintakyvyn parantuminen. Haitta katsotaan pysyväksi, kun vamman tai sairauden tila ei lääketieteellisen todennäköisyyden mukaan enää parane, kuitenkin aikaisintaan vuoden kuluttua vahinkopäivästä.
+
+Yleisen haitan suuruuden arvioimiseksi erilaisten vammojen ja sairauksien aiheuttamat haitat suhteutetaan toisiinsa jakamalla vammat ja sairaudet niiden lääketieteellisen laadun ja vaikeusasteen perusteella 20 haittaluokkaan. Haittaluokat määritetään yhtä tai useampaa vammaa tai sairautta mahdollisimman läheisesti kuvaavin nimikkein, raajan, aistin tai muun toiminnallisen kokonaisuuden toiminnanvajausta kuvaavin yleisimmin nimikkein tai kuvaamalla vammasta tai sairaudesta aiheutuvaa yleistä toiminnanvajausta. Jollei haittaluokan perusteissa erikseen toisin säädetä, haittaluokkaan sisältyy kysymyksessä olevaan vammaan ja sairauteen yleisen lääketieteellisen kokemuksen mukaan tavanomaisesti liittyvä kipu.

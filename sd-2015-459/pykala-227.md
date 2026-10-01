@@ -1,0 +1,9 @@
+# 227 § Kokoonpano
+Osa: VII OSA TOIMEENPANOJÄRJESTELMÄ
+Luku: 29 luku Tapaturma-asiain korvauslautakunta
+
+Tapaturma-asiain korvauslautakunnassa on puheenjohtaja, kolme lakimiesjäsentä, neljä työmarkkinajäsentä, vähintään viisi lääkäriasiantuntijaa ja tarpeellinen määrä varahenkilöitä, jotka sosiaali- ja terveysministeriö määrää enintään kolmeksi vuodeksi kerrallaan. Jäsenten on oltava perehtyneitä tapaturmavakuutus- ja ammattitautilainsäädäntöön. Puheenjohtajan ja lakimiesjäsenten on oltava oikeustieteen ylemmän korkeakoulututkinnon suorittaneita. Lääkäriasiantuntijoiden on oltava Suomessa laillistettuja, vakuutuslääketieteeseen perehtyneitä lääkäreitä.
+
+Tapaturma-asiain korvauslautakunnan puheenjohtajaksi määrätään sosiaali- ja terveysministeriön edustaja. Lakimiesjäsenet ja vähintään kaksi lääkäriasiantuntijaa sekä heidän varahenkilönsä määrätään Tapaturmavakuutuskeskuksen ehdotuksesta. Työmarkkinajäsenistä kaksi määrätään työnantajien ja kaksi työntekijöiden ja toimihenkilöiden keskeisimpien keskusjärjestöjen ehdotuksesta. Työmarkkinajäsenten varahenkilöistä puolet määrätään työnantajien ja puolet työntekijöiden ja toimihenkilöiden keskeisimpien keskusjärjestöjen ehdotuksesta. Lääkäriasiantuntijoista yksi määrätään työnantajien ja yksi työntekijöiden ja toimihenkilöiden keskeisimpien keskusjärjestöjen ehdotuksesta. Lautakunta, joka voi toimia myös jakaantuneena jaostoihin, valitsee lakimiesjäsenistään tarvittavat varapuheenjohtajat.
+
+Jos tapaturma-asiain korvauslautakunnan puheenjohtaja, jäsen, lääkäriasiantuntija tai varahenkilö tulee pysyvästi estyneeksi tehtäväänsä, sosiaali- ja terveysministeriö määrää hänen tilalleen jäljellä olevaksi toimikaudeksi uuden puheenjohtajan, jäsenen, lääkäriasiantuntijan tai varahenkilön ottaen huomioon, mitä 1 ja 2 momentissa säädetään.

@@ -1,0 +1,13 @@
+# 213 § Tapaturmavakuutuskeskuksen toimintakustannusten kattaminen
+Osa: VII OSA TOIMEENPANOJÄRJESTELMÄ
+Luku: 28 luku Tapaturmavakuutuskeskus
+
+Jäsenvakuutusyhtiöt, Valtiokonttori ja maatalousyrittäjien tapaturmavakuutuslaitos ovat velvollisia suorittamaan vuosittain Tapaturmavakuutuskeskukselle maksun Tapaturmavakuutuskeskuksen toimintakustannusten kattamiseksi. Toimintakustannuksilla tarkoitetaan tässä pykälässä muita kuin 231 §:n mukaisesti jakojärjestelmällä rahoitettavia Tapaturmavakuutuskeskuksen toimintakustannuksia.
+
+Jäsenvakuutusyhtiön, Valtiokonttorin ja maatalousyrittäjien tapaturmavakuutuslaitoksen on suoritettava vuosittain Tapaturmavakuutuskeskukselle perusmaksuosuutena 12 000 euroa. Sen jälkeen lasketaan ensin Valtiokonttorin ja maatalousyrittäjien tapaturmavakuutuslaitoksen kustannusosuudet sen mukaan, kuinka suuri osuus Tapaturmavakuutuskeskuksen toimintakustannuksista arvioidaan kohdistuvan niille. Kattamatta jäävän osuuden Tapaturmavakuutuskeskuksen toimintakustannuksista kattavat jäsenvakuutusyhtiöt vakuutusmaksutulon mukaisessa suhteessa. Vakuutusmaksutulolla tarkoitetaan tuloslaskelman mukaista tämän lain mukaisen vakuutuksen maksutuloa. Liittymisvuoden perusmaksuosuus on normaali perusmaksu nelinkertaisena.
+
+Tapaturmavakuutuskeskus määrää maksettavaksi kustannusosuudet. Sillä on oikeus periä kustannusosuuksista ennakkoa.
+
+Jäsenvakuutusyhtiöiden, Valtionkonttorin ja maatalousyrittäjien tapaturmavakuutuslaitoksen kustannusosuuksien laskemisesta ja perinnästä annetaan tarkemmat määräykset sosiaali- ja terveysministeriön Tapaturmavakuutuskeskuksen esityksestä vahvistamissa kustannustenjakoperusteissa.
+
+Kustannusosuus saadaan periä ilman tuomiota ja päätöstä siinä järjestyksessä kuin verojen ja maksujen täytäntöönpanosta annetussa laissa säädetään. Jollei maksua suoriteta viimeistään eräpäivänä, maksamattomalle pääomalle peritään vuotuista viivästyskorkoa korkolain 4 a §:n 1 momentissa tarkoitetun korkokannan mukaan.

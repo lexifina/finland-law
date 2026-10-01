@@ -1,0 +1,11 @@
+# 41 § Julkisen terveydenhuollon toimintayksikön ilmoitusvelvollisuus
+Osa: III OSA ETUUDET
+Luku: 8 luku Sairaanhoidon korvaukset
+
+Julkisen terveydenhuollon toimintayksikön on täyskustannusmaksun saamiseksi annettava salassapitosäännösten ja muiden tiedon saantia koskevien rajoitusten estämättä vakuutuslaitokselle tämän lain mukaisen korvausvastuun selvittämistä ja täyskustannusmaksun maksamista varten sosiaali- ja terveydenhuollon asiakastietojen käsittelystä annetun lain (703/2023) 5 luvussa tarkoitetut potilastiedot, siltä osin kuin ne ovat välttämättömiä asian ratkaisemiseksi. Tiedot on annettava viipymättä vahingoittuneen hakeuduttua vahinkotapahtuman vuoksi hoitoon. Vakuutuslaitokselle on samalla ilmoitettava työnantaja, jonka työssä vahinkotapahtuman on ilmoitettu sattuneen. Tiedot voidaan sisällyttää myös 2 momentissa tarkoitettuun ilmoitukseen.
+
+Jos hoitoon hakeutumisen tai myöhemmän hoitokäynnin yhteydessä päätetään toimenpiteestä, josta laaditaan potilaan asemasta ja oikeuksista annetun lain 4 a §:n mukainen suunnitelma tai josta muulla tavoin tehdään päätös, terveydenhuollon toimintayksikön on lähetettävä se vakuutuslaitokselle neljän arkipäivän kuluessa päivästä, jona potilasasiakirjamerkinnät on potilaan asemasta ja oikeuksista annetun lain nojalla annettujen säännösten mukaan tehtävä. Jos suunnitelmaa ei ole tehty, vakuutuslaitokselle on lähetettävä päätettyä hoitoa kuvaava lääkärinlausunto tai potilaskertomus. Jos sosiaali- ja terveydenhuollon järjestämisestä vastaava viranomainen aikoo järjestää hoidon ostopalveluna tai palveluseteliä käyttäen, tästä on samalla ilmoitettava vakuutuslaitokselle. Jos ilmoitusta ei ole mahdollista tehdä edellä sanotussa ajassa suuronnettomuuden, sairausepidemian tai muun niihin rinnastettavan ylivoimaisen esteen vuoksi, ilmoitus on tehtävä heti, kun mainittu este on lakannut.
+
+Edellä 2 momentissa säädetty ilmoitusvelvollisuus ei koske:
+1) kiireellistä sairaanhoitoa, jolla tarkoitetaan välittömän hoidon tarpeen arviointia ja hoitoa, jota ei voida siirtää ilman vamman tai sairauden olennaista pahentumista;
+2) vastaanottokäyntiä julkisen terveydenhuollon toimintayksikössä ja sen yhteydessä tehtävää röntgentutkimusta, ultraäänitutkimusta ja muuta niihin rinnastettavaa vähäistä tutkimus- ja hoitotoimenpidettä.
