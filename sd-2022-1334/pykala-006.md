@@ -1,0 +1,8 @@
+# 6 § Ruokavirasto
+Luku: 2 luku Viranomaisten tehtävät ja toimivalta
+
+Ruokavirasto vastaa tukijärjestelmien ja Manner-Suomen osalta Suomen yhteisen maatalouspolitiikan strategiasuunnitelmaan vuosille 2023–2027 toimeenpanon suunnittelusta, toteutuksesta, kehittämisestä ja seurannasta sekä varojen käytön asianmukaisesta hallinnosta ja valvonnasta. Ruokavirasto ohjaa ja valvoo tukijärjestelmien toimeenpanoa sekä muita viranomaisia näiden hoitaessa horisontaaliasetuksen 9 artiklan 1 kohdan toisen alakohdan nojalla maksajaviraston vastuulle kuuluvia tehtäviä. Ruokavirasto vastaa lisäksi tukeen liittyvien menojen tarkastamisesta ja hyväksymisestä, maksujen suorittamisesta sekä muista tukijärjestelmiin liittyvistä hallinnollisista tehtävistä sekä komissiolle vuosittain toimitettavista laadunarviointiraporteista sekä tuloksellisuuskertomuksista.
+
+Ruokavirasto tekee päätöksen kansallisten tukien lain 6 §:n 2 kohdassa tarkoitetusta kuljetusavustuksesta ja tuesta kotieläintalouden palveluille sekä eräistä maaseudun kehittämisen korvauksista annetun lain 5 §:ssä tarkoitetusta ympäristökorvauksesta, kun korvauksen perusteena on viimeksi mainitun pykälän 3 momentissa tarkoitettu alkuperäiskasvien varmuuskokoelmien ylläpitoa koskeva ympäristösopimus tai alkuperäisrotujen perimän säilytystä koskeva ympäristösopimus. Asian käsittelyyn Ruokavirastossa sovelletaan tätä lakia. Ruokavirasto suorittaa lisäksi ehdollisuuden valvontaa siten kuin jäljempänä säädetään.
+
+Ruokavirasto tekee päätöksen horisontaaliasetuksen 56 artiklan 3 kohdassa ja 86 artiklassa tarkoitettujen määrien palauttamatta jättämisestä.

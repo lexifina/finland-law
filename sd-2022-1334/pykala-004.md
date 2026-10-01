@@ -1,0 +1,13 @@
+# 4 § Määritelmät
+Luku: 1 luku Yleiset säännökset
+
+Tässä laissa tarkoitetaan:
+1) horisontaaliasetuksella yhteisen maatalouspolitiikan rahoituksesta, hallinnoinnista ja seurannasta sekä asetuksen (EU) N:o 1306/2013 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2021/2116;
+2) suunnitelma-asetuksella jäsenvaltioiden yhteisen maatalouspolitiikan nojalla laadittavien, Euroopan maatalouden tukirahastosta (maataloustukirahasto) ja Euroopan maaseudun kehittämisen maatalousrahastosta (maaseuturahasto) rahoitettavien strategiasuunnitelmien (YMP:n strategiasuunnitelmat) tukea koskevista säännöistä sekä asetusten (EU) N:o 1305/2013 ja (EU) N:o 1307/2013 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2021/2115;
+3) hakemusjärjestelmäasetuksella Euroopan parlamentin ja neuvoston asetuksen (EU) 2021/2116 soveltamissäännöistä yhteisen maatalouspolitiikan yhdennetyn hallinto- ja valvontajärjestelmän osalta annettua komission täytäntöönpanoasetusta (EU) 2022/1173;
+4) laadunarviointiasetuksella Euroopan parlamentin ja neuvoston asetuksen (EU) 2021/2116 täydentämisestä yhteisen maatalouspolitiikan yhdennetyn hallinto- ja valvontajärjestelmän sekä ehdollisuuden hallinnollisten seuraamusten soveltamisen ja laskennan osalta annettua komission delegoitua asetusta (EU) 2022 /1172;
+5) varainhoitoasetuksella Euroopan parlamentin ja neuvoston asetuksen (EU) 2021/2116 soveltamissäännöistä maksajavirastojen ja muiden elinten, varainhoidon, tilien tarkastamisen ja hyväksymisen, tarkastusten, vakuuksien ja avoimuuden osalta annettua komission täytäntöönpanoasetusta (EU) 2022/128;
+6) yleisellä varainhoitoasetuksella unionin yleiseen talousarvioon sovellettavista varainhoitosäännöistä, asetusten (EU) N:o 1296/2013, (EU) N:o 1301/2013, (EU) N:o 1303/2013, (EU) N:o 1304/2013, (EU) N:o 1309/2013, (EU) N:o 1316/2013, (EU) N:o 223/2014, (EU) N:o 283/2014 ja päätöksen N:o 541/2014/EU muuttamisesta sekä asetuksen (EU, Euratom) N:o 966/2012 kumoamisesta annettua Euroopan parlamentin ja neuvoston asetusta (EU, Euratom) 2018/1046;
+7) yleisellä tietosuoja-asetuksella luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annettua Euroopan parlamentin ja neuvoston asetusta (EU) 2016/679;
+8) ehdollisuudella suunnitelma-asetuksen 12 ja 13 artiklassa sekä mainitun asetuksen liitteessä III tarkoitettuja ehdollisuuden vaatimuksia;
+9) sosiaalisella ehdollisuudella suunnitelma-asetuksen 14 artiklassa sekä mainitun asetuksen liitteessä IV tarkoitettuja sosiaalisen ehdollisuuden vaatimuksia.
