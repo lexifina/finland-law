@@ -1,0 +1,5 @@
+# 9 § Selvitystietojärjestelmä
+
+Selvitystietojärjestelmä on selvitysyksikön käyttöön tarkoitettu pysyvä automaattisen tietojenkäsittelyn avulla ylläpidettävä henkilörekisteri. Selvitystietojärjestelmä voi sisältää sellaisia tietoja, joita on tarpeen käsitellä 1 §:ssä säädettyjen tehtävien suorittamisessa. Rekisterinpitäjä on Verohallinto.
+
+Selvitystietojärjestelmän osarekistereitä ovat velvoitteidenhoitoselvitysrekisteri ja ilmiöselvitysrekisteri. Velvoitteidenhoitoselvitysrekisteriin saa tallentaa velvoitteidenhoitoselvityksen laatimiseksi saatuja tietoja sekä näiden tietojen perusteella laadittuja velvoitteidenhoitoselvityksiä. Ilmiöselvitysrekisteriin saa tallentaa ilmiöselvitysten laatimiseksi saatuja tietoja sekä näiden tietojen perusteella laadittuja ilmiöselvityksiä.

@@ -1,0 +1,5 @@
+# 7 § Selvitysyksikön oikeus saada tietoja velvoitteidenhoitoselvitystä varten
+
+Selvitysyksiköllä on oikeus saada salassapitovelvollisuuden estämättä viranomaiselta ne velvoitteidenhoitoselvityksen laatimiseksi välttämättömät tiedot, jotka velvoitteidenhoitoselvitystä pyytävä viranomainen on oikeutettu saamaan selvityspyynnössä kuvattua käyttötarkoitusta varten.
+
+Selvitysyksiköllä on kuitenkin oikeus saada tiedot esitutkintaviranomaiselta ainoastaan esitutkintaviranomaisen suostumuksella ja rikostorjuntaa varten saadut tiedustelutiedot vain rekisterinpitäjän suostumuksella.
