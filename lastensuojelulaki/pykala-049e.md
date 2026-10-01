@@ -1,0 +1,8 @@
+# 49 e § Kuntouttavan suljetun laitospalvelun toimeenpano
+Luku: 10 luku Sijaishuolto
+
+Edellä 49 d §:n 2 momentissa tarkoitettujen asiantuntijoiden on tavattava lasta henkilökohtaisesti ja osallistuttava lapsen sijaishuollon suunnitteluun ja toteuttamiseen lapsen tarpeita vastaavalla tavalla. Asiantuntijoiden on seurattava ja arvioitava lapsen kuntoutumisen edistymistä säännöllisesti yhteistyössä lastensuojelulaitoksen hoito- ja kasvatushenkilökunnan kanssa. Asiantuntijoiden on arvioitava sijoitukselle annettujen tavoitteiden, moniammatillisen tuen, kuntoutuksen ja sivistyksellisten oikeuksien toteutuminen ja samalla arvioitava myös lapseen kohdistettujen 71 §:ssä tarkoitettujen erityisten rajoitusten tarpeellisuutta. Mikäli 49 a §:n mukaiset perusteet 71 §:ssä tarkoitettujen erityisten rajoitusten jatkamiselle ovat edelleen olemassa, arviossa on otettava kantaa rajoituksen toteuttamisen sisältöön ja laajuuteen. Lapsen kuntoutumisen edistymisen arvioimiseksi ja lapsen tarpeisiin vastaamiseksi on tarvittaessa hankittava myös muun asiantuntijan arvio.
+
+Asiantuntijoiden on koottava 1 momentissa tarkoitettu arvio vähintään neljän kuukauden välein lapsen asioista vastaavalle sosiaalityöntekijälle asiakassuunnitelman tarkistamisen tueksi. Arvio on kirjattava 33 §:n ja sosiaali- ja terveydenhuollon asiakastietojen käsittelystä annetun lain mukaisesti.
+
+Kuntouttavan suljetun laitospalvelun aikana lapsen asioista vastaavan sosiaalityöntekijän on suunniteltava lapsen sijaishuollon toteuttaminen sijoituksen päätyttyä kuntouttavassa suljetussa laitospalvelussa. Lisäksi suunnittelussa tulee ottaa huomioon palvelujen jatkuvuus lapsen sijaishuoltopaikkaa muutettaessa tai kun lapsi siirtyy sijoituksen päätyttyä jälkihuoltoon.

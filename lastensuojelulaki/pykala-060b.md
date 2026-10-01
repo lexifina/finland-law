@@ -1,0 +1,10 @@
+# 60 b § Päätös erityisen huolenpidon jaksosta
+Luku: 10 luku Sijaishuolto
+
+Erityisen huolenpidon jaksosta on tehtävä päätös, jonka tulee olla määräaikainen. Päätös voidaan tehdä enintään 90 vuorokaudeksi kerrallaan. Määräaika lasketaan erityisen huolenpidon jakson tosiasiallisesta aloittamisesta. Päätös erityisen huolenpidon jaksosta raukeaa, jollei täytäntöönpanoa ole voitu aloittaa 90 vuorokauden kuluessa päätöksen tekemisestä. Päätökseen erityisen huolenpidon jaksosta on kirjattava jakson perusteet, tavoitteet, hoito- ja kuntoutusmuodot ja muut tukitoimet tavoitteiden saavuttamiseksi.
+
+Erityisen huolenpidon jaksoa voidaan jatkaa erittäin painavilla syillä enintään 90 vuorokautta, jos jatkaminen on sen lisäksi, mitä 60 a §:ssä säädetään erityisen huolenpidon jakson toteuttamisen edellytyksistä, lapsen hengen, terveyden tai turvallisuuden ja lapsen tarpeenmukaisten palvelujen järjestämisen kannalta välttämätöntä.
+
+Päätöksen on perustuttava erityisen huolenpidon jakson järjestämistä varten tehtyyn lapsen tilanteen moniammatilliseen arvioon, joka perustuu ainakin kasvatukselliseen, sosiaalityön ja lääketieteelliseen asiantuntemukseen. Päätöksen erityisen huolenpidon jaksosta ja sen jatkamisesta tekee 13 §:n 2 ja 3 momentin mukaan määräytyvä viranhaltija lapsen asioista vastaavan sosiaalityöntekijän valmisteltua asian. Erityisen huolenpidon jakso on lopetettava välittömästi, jos se osoittautuu tehottomaksi sille asetettujen tavoitteiden saavuttamiseksi tai kun sen tarvetta ei enää ole. Lopettamisesta päättää 13 b §:ssä tarkoitettu lapsen asioista vastaava sosiaalityöntekijä tai muu hyvinvointialueen toimivaltainen sosiaalihuollon viranhaltija.
+
+Jos erityisen huolenpidon jakso järjestetään muualla kuin lapsen omassa sijaishuoltopaikassa, hyvinvointialue voi lapsen tilanteen kokonaisarviointi huomioon ottaen irtisanoa edellä tarkoitetun sijaishuoltopaikan. Irtisanomisesta päättää 13 §:n 2 ja 3 momentin mukaan määräytyvä viranhaltija lapsen asioista vastaavan sosiaalityöntekijän valmisteltua asian.

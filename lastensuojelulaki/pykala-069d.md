@@ -1,0 +1,10 @@
+# 69 d § Perhekodista luvatta poissaolevan lapsen etsintä ja palauttaminen
+Luku: 11 luku Lapsen erityistä suojelua turvaavat rajoitukset sijaishuollon aikana
+
+Jos lastensuojelulain 49 §:n mukaisesti perhehoidossa sijoitettuna oleva lapsi on poistunut luvattomasti perhekodista tai ei palaa sinne ennalta sovitusti luvallisen poistumisen jälkeen taikka lapsi on luvallisen perhekodista poistumisen jälkeen matkalla paikkaan tai paikassa, josta ei ole ennalta sovittu, perhehoitajan on viipymättä ilmoitettava lapsen luvattomasta poissaolosta lapsen sijaishuollosta vastuussa olevalle viranomaiselle, jonka on lapsen huostaanottoa ja sijaishuoltoa sekä kiireellistä sijoitusta ja kiireellisen sijoituksen jatkamista koskevan päätöksen ja 83 §:ssä tarkoitetun väliaikaisen määräyksen täytäntöönpanon turvaamiseksi viipymättä ryhdyttävä tarvittaviin toimenpiteisiin lapsen etsimiseksi ja palauttamiseksi. Lapsen palauttaminen pitää sisällään lapsen kiinniottamisen ja kiinniotetun lapsen kuljettamisen. Lapsen etsinnän ja palauttamisen saa toteuttaa vain toimivaltainen sosiaalihuollon viranhaltija. Lapsen palauttamiseen sovelletaan muutoin, mitä 69 a §:n 4 momentissa säädetään.
+
+Edellä 1 momentissa tarkoitetun lapsen palauttamisen ratkaisee 13 b §:ssä tarkoitettu lapsen asioista vastaava sosiaalityöntekijä tai hänen ollessa estynyt muu toimivaltainen sosiaalihuollon viranhaltija.
+
+Mitä 69 a §:n 2 momentissa säädetään lapsen käyttämän liittymän tai päätelaitteen sijaintitietojen pyytämisestä ja oikeudesta saada tiedot, sovelletaan myös, kun on kysymys 1 momentissa tarkoitetusta lapsesta. Mitä 69 b §:ssä ja 69 c §:n 2 ja 3 momentissa säädetään toimivaltaisen sosiaalihuollon viranhaltijan toimivallasta, sovelletaan myös, kun kysymys on 1 momentissa tarkoitetusta lapsesta. Mitä 69 b §:ssä ja 69 c §:n 2 ja 3 momentissa säädetään toimivaltuuksista, ei koske perhehoitajaa.
+
+Rajoitustoimenpiteiden käytön, seurannan ja valvonnan turvaamiseksi toimivaltaisen sosiaalihuollon viranhaltijan on asianmukaisesti kirjattava käyttämänsä rajoitustoimenpiteet.

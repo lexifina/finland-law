@@ -1,0 +1,8 @@
+# 49 c § Kuntouttavaa suljettua laitospalvelua koskeva päätöksenteko
+Luku: 10 luku Sijaishuolto
+
+Lapsi voidaan sijoittaa kuntouttavaan suljettuun laitospalveluun 38 §:n 2 momentissa ja 43 §:ssä tarkoitetuilla päätöksillä. Kun lapsi on jo kiireellisesti sijoitettuna kuntouttavaan suljettuun laitospalveluun, lapsen asioista vastaavan sosiaalityöntekijän on valmistellessaan 43 §:n 1 tai 3 momentissa tarkoitettua päätöstä tai 44 §:ssä tarkoitettua hakemusta pyydettävä 49 d §:n 2 momentissa tarkoitettujen asiantuntijoiden laatima 49 e §:n 1 momentissa tarkoitettu arvio lapsen tilanteesta. Arvio on pyydettävä riippumatta siitä, avustaako 14 §:n 2 momentissa tarkoitettu lastensuojelun asiantuntijaryhmä lapsen asioista vastaavaa sosiaalityöntekijää päätöksen valmistelussa tai antaa lausuntoja päätöksenteon tueksi.
+
+Kuntouttavaa suljettua laitospalvelua koskevaan päätökseen on kirjattava sijoituksen perusteet ja tavoitteet. Lisäksi päätökseen on kirjattava hoito- ja kuntoutusmuodot ja muut tukitoimet tavoitteiden saavuttamiseksi. Viimeksi mainittu ei koske kiireellisen sijoituksen päätöksiä, eikä 83 §:n 1 momentissa tarkoitettua väliaikaista määräystä.
+
+Lapsen sijoitus kuntouttavaan suljettuun laitospalveluun on voimassa siten kuin 38 §:ssä säädetään kiireellisen sijoituksen ja 38 a §:ssä sen jatkamisen kestosta sekä 47 §:ssä huostaanoton kestosta. Lapsen sijoituksen edellytyksenä olevat 71 §:ssä säädetyt rajoituspäätökset tulee tehdä yhdessä 1 momentissa tarkoitettujen päätöksen kanssa. Rajoituspäätökset tehdään enintään vuodeksi kerrallaan. Lapsen sijoitus kuntouttavaan suljettuun laitospalveluun ja 71 §:ssä säädetty erityinen rajoitus tulee lopettaa, kun 49 a §:n mukaista perustetta sijoitukselle ei enää ole.

@@ -1,0 +1,10 @@
+# 67 § Omaisuuden, lähetysten ja tilojen tarkastaminen ja lähetysten luovuttamatta jättäminen
+Luku: 11 luku Lapsen erityistä suojelua turvaavat rajoitukset sijaishuollon aikana
+
+Jos on perusteltua syytä epäillä, että lapsella on hallussaan 4 b §:ssä tarkoitettuja aineita tai esineitä taikka lapsen olinpaikka on sijaishuollon tarkoituksen toteuttamiseksi kiireellisesti selvitettävä, saadaan hänen käytössään olevat tilat tai hallussaan oleva omaisuus tarkastaa.
+
+Jos on perusteltua syytä epäillä, että lapselle osoitettu kirje tai siihen rinnastettava muu luottamuksellinen viesti taikka muu lähetys sisältää 4 b §:ssä tarkoitettuja aineita tai esineitä, saadaan lähetyksen sisältö tarkastaa kirjettä tai muuta luottamuksellista viestiä lukematta.
+
+Edellä 1 ja 2 momentissa tarkoitetusta tarkastamisesta päättää ja tarkastamisen tekee laitoksen johtaja tai hänen määräämänsä laitoksen hoito- ja kasvatushenkilökuntaan kuuluva henkilö. Tarkastaminen on tehtävä lapsen ja laitoksen hoito- ja kasvatushenkilökuntaan kuuluvan toisen henkilön läsnä ollessa. Lapsen käytössä olevat tilat tai hallussa oleva omaisuus voidaan kuitenkin erityisestä syystä tarkastaa myös lapsen tai toisen henkilön läsnä olematta. Lapselle tulee selvittää tarkastuksen syy.
+
+Lisäksi 13 b §:ssä tarkoitetulla lapsen asioista vastaavalla sosiaalityöntekijällä on oikeus erityisestä syystä tehdä päätös siitä, että 2 momentissa tarkoitettu viesti on jätettävä kokonaan tai osaksi toimittamatta tai muu lähetys kokonaan tai osaksi luovuttamatta lapselle, jos viestin tai lähetyksen sisällön voidaan olosuhteet kokonaisuutena huomioon ottaen perustellusti arvioida vakavasti vaarantavan lapsen tai toisen henkilön henkeä, terveyttä, turvallisuutta tai kehitystä. Lähetys on viipymättä toimitettava lapsen asioista vastaavalle sosiaalityöntekijälle päätöksentekoa varten. Päätöksen tekemistä varten sosiaalityöntekijä saa lukea kirjeen tai muun luottamuksellisen viestin, jos yksittäistapauksessa on perusteltua syytä epäillä viestin sisällön voivan vaarantaa lapsen tai toisen henkilön henkeä, terveyttä, turvallisuutta tai kehitystä.

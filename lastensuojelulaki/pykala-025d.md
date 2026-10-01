@@ -1,0 +1,6 @@
+# 25 d § Lastensuojeluviranomaisen ilmoitusvelvollisuus
+Luku: 5 luku Lastensuojeluasiakkuuden alkaminen
+
+Jos lapsi muuttaa pois hyvinvointialueelta 26 §:ssä tarkoitetun lastensuojelutarpeen selvittämisen aikana tai ollessaan lastensuojelun asiakkaana, hyvinvointialueen on salassapitosäännösten estämättä viipymättä ilmoitettava muutosta lapsen sille uudelle hyvinvointialueelle, jonka alueella lapsen uusi kotikunta on tai 16 §:n 1 momentissa tarkoitetulle hyvinvointialueelle, jonka alueella lapsen uusi asuinkunta on. Uudelle hyvinvointialueelle on tarvittaessa toimitettava viipymättä myös ne asiaan liittyvät asiakirjat, jotka ovat välttämättömiä lastensuojelutarpeen arvioimiseksi tai lasten-suojelutoimenpiteiden järjestämiseksi. Lapsen uuden hyvinvointialueen on jatkettava selvityksen tekemistä tai muita lastensuojelutoimenpiteitä ottaen huomioon, mitä 16 §:ssä säädetään.
+
+Kun kiireellistä sijoitusta tai sijaishuoltopaikan muuttamista koskeva päätös tehdään lapsen huostaanottoa tai sijaishuoltoa koskevan asian ollessa vireillä hallinto-oikeudessa tai korkeimmassa hallinto-oikeudessa, on päätöksentekijän ilmoitettava tekemästään päätöksestä välittömästi hallinto-oikeudelle tai korkeimmalle hallinto-oikeudelle.

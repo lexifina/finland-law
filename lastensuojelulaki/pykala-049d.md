@@ -1,0 +1,6 @@
+# 49 d § Kuntouttavan suljetun laitospalvelun henkilöstö
+Luku: 10 luku Sijaishuolto
+
+Sen lisäksi, mitä 60 §:ssä säädetään henkilöstöstä, hoito- ja kasvatustehtävissä olevien henkilöiden kelpoisuusvaatimuksena on tehtävään soveltuva korkeakoulututkinto tai ammattikorkeakoulututkintoja edeltänyt opintoasteinen ammatillinen tutkinto. Muun henkilökunnan kelpoisuusvaatimuksista on voimassa, mitä niistä muualla laissa ja lain nojalla säädetään. Kuntouttavassa suljetussa palvelussa tulee työskennellä riittävä määrä terveydenhuollon ammattihenkilöitä. Lastensuojelulaitoksen henkilökunnalla tulee olla riittävä perehtyneisyys ja ammattitaito turvallisuuden varmistamiseen.
+
+Kuntouttavan suljetun laitospalvelun tuottajalla on oltava käytettävissään erityisosaaminen päihde- ja riippuvuushoidon ja muun lääketieteen, psykologian, sosiaalityön, kasvatuksen ja opetuksen alalta lapsen suunnitelmallisen kuntoutumisen toteuttamiseksi. Edellä mainittujen muiden kuin opetuksen asiantuntijoiden tulee olla palvelussuhteessa hyvinvointialueeseen, Helsingin kaupunkiin, HUS yhtymään tai valtion lastensuojelulaitokseen. Opetuksen asiantuntijan tulee olla virkasuhteessa Valtion lastensuojelulaitokseen tai opetuksen järjestämisestä vastuussa olevaan kuntaan.

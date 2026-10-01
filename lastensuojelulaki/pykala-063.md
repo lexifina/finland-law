@@ -1,0 +1,8 @@
+# 63 § Yhteydenpidon rajoittamista koskeva päätös
+Luku: 11 luku Lapsen erityistä suojelua turvaavat rajoitukset sijaishuollon aikana
+
+Edellä 62 §:n 1–4 momentissa tarkoitetusta yhteydenpidon rajoittamisesta on tehtävä päätös, jonka tulee olla määräaikainen, enintään yhdeksi vuodeksi kerrallaan. Päätöksessä on mainittava rajoituksen syy, henkilöt, joihin rajoitus kohdistuu, millaista yhteydenpitoa rajoitus koskee ja missä laajuudessa rajoitus toteutetaan. Päätettäessä lapsen yhteydenpidon rajoittamisesta 62 §:n 3 momentin mukaisesti henkilöihin, joiden henkilöllisyyttä ei kyetä yksilöimään, päätöksessä on mainittava ne 62 §:n 1 momentissa tarkoitetut henkilöt, joita yhteydenpidon rajoitus ei koske.
+
+Yhteydenpidon rajoittamisesta tekee päätöksen 13 §:n 2 ja 3 momentin mukaan määräytyvä viranhaltija lapsen asioista vastaavan sosiaalityöntekijän valmisteltua asian tai lapsen kiireelliseen sijoitukseen liittyvissä tapauksissa ja tarvittaessa muissa kiireellisissä tilanteissa 13 §:n 1 momentissa tarkoitettu sosiaalityöntekijä.
+
+Lyhytaikaisesta, enintään 30 vuorokautta kestävästä, 62 §:n 1–4 momentissa tarkoitetusta rajoittamisesta voi kuitenkin päättää myös lastensuojelulaitoksen johtaja tai hänen sijaisensa. Laitoksen johtajan tai hänen sijaisensa on toimitettava päätös välittömästi tiedoksi lapsen asioista vastaavalle sosiaalityöntekijälle. Jos rajoittamista on tarpeen jatkaa tai se on alun perin tarpeen määrätä 30 vuorokautta pidemmäksi, päättää asiasta 13 §:n 2 ja 3 momentin mukaan määräytyvä viranhaltija lapsen asioista vastaavan sosiaalityöntekijän valmisteltua asian. Yhteydenpidon rajoitus on lopetettava heti, kun se ei enää ole 62 §:n 1 momentissa tarkoitetulla tavalla tarpeellinen.

@@ -1,0 +1,12 @@
+# 30 § Asiakassuunnitelma
+Luku: 6 luku Menettelysäännöksiä
+
+Lastensuojelun asiakkaana olevalle lapselle on tehtävä asiakassuunnitelma.
+
+Asiakassuunnitelma on laadittava ja tarkistettava, jollei siihen ole ilmeistä estettä, yhteistyössä lapsen ja huoltajan sekä tarvittaessa lapsen muun laillisen edustajan, vanhemman, muun lapsen hoidosta ja kasvatuksesta vastaavan tai lapselle läheisen henkilön ja lapsen huoltoon keskeisesti osallistuvan tahon kanssa. Asiakassuunnitelmaan on kirjattava ne olosuhteet ja asiat, joihin pyritään vaikuttamaan, lapsen ja hänen perheensä tuen tarve, palvelut ja muut tukitoimet, joilla tuen tarpeeseen pyritään vastaamaan, sekä arvioitu aika, jonka kuluessa tavoitteet pyritään toteuttamaan. Asiakassuunnitelmaan on kirjattava myös asianomaisten eriävät näkemykset tuen tarpeesta ja palvelujen sekä muiden tukitoimien järjestämisestä. Asiakassuunnitelma on tarkistettava tarvittaessa, kuitenkin vähintään kerran vuodessa. Toisin kuin edellä säädetään, asiakassuunnitelma tulee tarkistaa vähintään neljän kuukauden välein, jos lapsi on sijoitettuna 49 a §:ssä tarkoitettuun kuntouttavaan suljettuun laitospalveluun.
+
+Huostaan otettua lasta koskevaan asiakassuunnitelmaan kirjataan lisäksi sijaishuollon tarkoitus ja tavoitteet, erityisen tuen ja avun järjestäminen lapselle, hänen vanhemmilleen, huoltajilleen tai muille lapsen hoidosta ja kasvatuksesta vastaaville henkilöille sekä se, miten lapsen terveydenhuolto, varhaiskasvatus, perusopetus ja muu lapsen opetus järjestetään. Lisäksi suunnitelmaan kirjataan, miten toteutetaan lapsen yhteydenpito ja yhteistoiminta hänen vanhempiensa ja muiden hänelle läheisten henkilöiden kanssa ja miten samalla otetaan hänen etunsa mukaisella tavalla huomioon tavoite perheen jälleenyhdistämisestä.
+
+Huostaan otetun lapsen vanhemmille on laadittava vanhemmuuden tukemiseksi erillinen asiakassuunnitelma, jollei sen laatimista ole pidettävä tarpeettomana. Suunnitelmassa on arvioitava muun palveluntarpeen arvioinnin lisäksi myös, millä tavoin vanhemmille järjestettävän erityisen tuen avulla voidaan edistää perheen jälleen yhdistämistä. Suunnitelma laaditaan tarvittaessa yhteistyössä muun sosiaali- ja terveydenhuollon kanssa.
+
+Jälkihuollossa olevaa lasta tai nuorta koskevaan asiakassuunnitelmaan kirjataan jälkihuollon tarkoitus ja tavoitteet sekä erityisen tuen ja avun järjestäminen lapselle tai nuorelle ja hänen vanhemmilleen, huoltajilleen tai muille hänen hoidostaan ja kasvatuksestaan vastaaville.

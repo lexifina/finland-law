@@ -1,0 +1,2 @@
+Lastensuojelulaki
+Eduskunnan päätöksen mukaisesti säädetään:
