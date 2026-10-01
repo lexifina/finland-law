@@ -1,0 +1,2 @@
+Laki suullisen todistelun tallentamista ja vastaanottamista yleisissä tuomioistuimissa koskevan uudistuksen voimaanpanosta
+Eduskunnan päätöksen mukaisesti säädetään:
