@@ -4,4 +4,4 @@ Hyvinvointialueesta annetun lain 31 §:ssä ja kuntalain 24 §:ssä tarkoitetuss
 
 Aloitteen tekijöiden allekirjoitukset (kannatusilmoitukset) kerätään paperilla tai sähköisesti tietoverkossa. Paperilla kerättävässä kannatusilmoituksessa tulee olla omakätinen allekirjoitus ja siihen tulee liittää aloitteen tekijän nimi ja syntymäaika sekä hyvinvointialueen kansanäänestysaloitteessa myös kotikunta.
 
-Kerättäessä kannatusilmoituksia sähköisesti tietoverkossa on käytettävä vahvasta sähköisestä tunnistamisesta ja sähköisistä luottamuspalveluista annetussa laissa (617/2009) tarkoitettua vahvaa sähköistä tunnistamista.
+Kerättäessä kannatusilmoituksia sähköisesti tietoverkossa on käytettävä vahvasta sähköisestä tunnistamisesta annetussa laissa (617/2009) tarkoitettua vahvaa sähköistä tunnistamista.
