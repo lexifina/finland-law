@@ -1,0 +1,12 @@
+# 12 § Tietojen käsittely palvelutuotannossa
+Luku: 3 luku Henkilö- ja muiden tietojen käsittely palvelutuotannossa
+
+Digi- ja väestötietovirastolla on oikeus käsitellä 9 §:ssä tarkoitettuja henkilö- ja muita tietoja sen vastuulle kuuluvien tukipalvelujen tuottamiseksi ja kehittämiseksi.
+
+Palvelutuottajalla on rekisterinpitäjänä oikeus käsitellä sen vastuulle kuuluvan tukipalvelun käytöstä tallennettuja tietoja tukipalvelussa tapahtuneen tietojenkäsittelyn oikeellisuuden osoittamiseksi taikka muutoin sen vastuulle kuuluvan tukipalvelun tuottamiseksi ja kehittämiseksi sekä toimivuudesta ja tietoturvallisuudesta huolehtimiseksi. Tiedot on poistettava rekisteristä välittömästi sen jälkeen, kun käsittelylle ei ole enää tässä momentissa tarkoitettua perustetta. Perustetta ja käsittelyn tarvetta on arvioitava vähintään viiden vuoden välein, jollei laista muuta johdu.
+
+Digi- ja väestötietovirastolla on oikeus luonnollisen henkilön tunnistuspalvelua tarjotessaan luovuttaa henkilön käyttämää asiointipalvelua ylläpitävälle käyttäjäorganisaatiolle henkilön nimeä, henkilötunnusta ja sähköistä asiointitunnusta koskeva tieto, jos käyttäjäorganisaatiolla on lain perusteella oikeus käsitellä mainittuja tietoja. Digi- ja väestötietovirastolla on väestötietojärjestelmästä ja Digi- ja väestötietoviraston varmennepalveluista annetun lain 69 a §:n 1 momentin mukaista ulkomaan kansalaisen tunnistuspalvelua tarjotessaan oikeus luovuttaa henkilön käyttämää asiointipalvelua tarjoavalle käyttäjäorganisaatiolle henkilön tunnistamiseksi tarpeelliset tiedot, jos käyttäjäorganisaatiolla on lain perusteella oikeus käsitellä mainittuja tietoja.
+
+Digi- ja väestötietovirastolla on asiointivaltuuspalvelua tarjotessaan oikeus 9 §:ssä tarkoitetuista julkisen hallinnon rekistereistä haettujen henkilön toimintakelpoisuutta ja toimivaltaa koskevien tietojen sekä 10 §:n 1 momentin nojalla ylläpitämänsä valtuutuksia ja tahdonilmaisuja koskevan rekisterin perusteella koostaa ja luovuttaa käyttäjäorganisaatiolle välttämättömät tiedot toimintakelpoisuuden rajoituksen tai toimivaltuuden taikka muun tahdonilmaisun olemassaolon toteamiseksi.
+
+Palvelutuottajalla on oikeus viestinvälityspalvelua tarjotessaan luovuttaa käyttäjäorganisaatiolle 11 §:n 1 momentissa tarkoitetusta rekisteristä tiedoksiantamisen suorittamiseksi välttämättömät tiedot sekä viestinvälityspalvelun avulla tapahtuneen tiedoksiantamisen todentamiseksi tarpeelliset tiedot.

@@ -1,0 +1,12 @@
+# 10 § Valtuutusten ja muiden tahdonilmaisujen rekisteri ja rekisteröinnin edellytykset
+Luku: 3 luku Henkilö- ja muiden tietojen käsittely palvelutuotannossa
+
+Digi- ja väestötietovirasto pitää asiointivaltuuspalvelun tarjoamiseksi rekisteriä luonnollisten henkilöiden antamista sekä yhteisöjen ja yhteenliittymien puolesta annetuista, Digi- ja väestötietoviraston ennalta määrittelemistä asiointia koskevista valtuutuksista ja muista yksipuolisista tahdonilmaisuista. Digi- ja väestötietovirasto voi tarjotessaan asiointivaltuuspalvelua välittää myös muiden viranomaisten tallentamia ja rekisterinpitäjänä ylläpitämiä valtuutusta ja muita tahdonilmaisuja koskevia tietoja, jos näitä tietoja tallentava viranomainen on antanut sille luvan tietojen välittämiseen eikä toiminta vaaranna asiointivaltuuspalvelussa välitettävien tietojen luotettavuutta.
+
+Edellä 1 momentissa tarkoitetun tahdonilmaisun rekisteröinnin edellytyksenä on, että tahdonilmaisun antaja tunnistetaan luotettavasti luonnollisen henkilön tunnistuspalvelua käyttäen tai muulla sellaisella tunnistusmenetelmällä, joka on tietoturvallinen ja todisteellinen. Lisäksi edellytyksenä on, että henkilön toimintakelpoisuus ja tarvittaessa toimivalta pystytään tarkastamaan 1 momentissa tai 9 §:ssä tarkoitetuista rekistereistä tai vastaavista ulkomaisista rekistereistä tai niissä oleviin tietoihin perustuvista, oikeaksi todistetuista asiakirjoista taikka muista toimivaltaa taikka toimintakelpoisuutta luotettavasti osoittavista asiakirjoista. Henkilön toimintakelpoisuutta ei tarvitse tarkastaa, jos tietoa ei ole saatavilla 9 §:ssä tarkoitetuista rekistereistä.
+
+Tahdonilmaisun rekisteröinti voi perustua myös kirjalliseen valtakirjaan tai muuhun tahdonilmaisuun, jos asiakirjan alkuperäisyyttä tai eheyttä ei ole syytä epäillä.
+
+Digi- ja väestötietovirasto hyväksyy 2 momentissa tarkoitetut muut tunnistusmenetelmät kuin luonnollisen henkilön tunnistuspalvelun. Ennen sähköisten tunnistusmenetelmien hyväksymistä Digi- ja väestötietoviraston on kuultava valtiovarainministeriötä ja Liikenne- ja viestintävirastoa. Digi- ja väestötietoviraston on huolehdittava siitä, että hyväksyttyjen menetelmien käyttöä koskevat tiedot ovat maksutta saatavissa yleisen tietoverkon kautta.
+
+Digi- ja väestötietoviraston on huolehdittava tallennetun tahdonilmaisun sisällön eheydestä ja että tahdonilmaisun hyväksymistä ja sitä edeltävää henkilön tunnistamista koskeva tieto pystytään yhdistämään tahdonilmaisun sisältöön.

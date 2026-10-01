@@ -1,0 +1,8 @@
+# 28 § Henkilöstöä koskeva siirtymäsäännös
+Luku: 7 luku Voimaantulo
+
+Valtion tieto- ja viestintätekniikkakeskus Valtorin tuottamaan tukipalveluun liittyvien tehtävien siirtyessä valtiovarainministeriön 27 §:n 6 momentissa tarkoitetun päätöksen tai 3 §:n 2 momentissa tarkoitetun asetuksen mukaisesti Väestörekisterikeskukseen, kyseisiä tehtäviä hoitava työsopimussuhteinen henkilöstö siirtyy Väestörekisterikeskukseen virkasuhteeseen. Määräaikaisessa työsuhteessa näissä tehtävissä oleva henkilöstö siirtyy palvelussuhteensa keston ajaksi Väestörekisterikeskukseen määräaikaiseen virkasuhteeseen. Työsopimussuhteessa oleva henkilö voidaan siirtää ilman hänen suostumustaan, jos hänet siirretään hänen työssäkäyntialueellaan tai työssäkäyntialueelleen. Työssäkäyntialueella tarkoitetaan työttömyysturvalain (1290/2002) 1 luvun 9 §:n mukaista aluetta.
+
+Työntekijä saa työsuhteessa muutoin sovellettavaa irtisanomisaikaa noudattamatta tai sen kestoajasta riippumatta irtisanoa työsopimuksen päättymään siirtopäivästä, jos hän on saanut tiedon siirrosta Valtion tieto- ja viestintätekniikkakeskus Valtorilta tai Väestörekisterikeskukselta viimeistään kuukautta ennen siirtopäivää. Jos työntekijälle on annettu tieto siirrosta myöhemmin, hän saa irtisanoa työsopimuksensa päättymään siirtopäivästä tai tämän jälkeen, viimeistään kuitenkin kuukauden kuluessa saatuaan tiedon siirrosta. Siirtyvien henkilöiden palvelussuhteen katsotaan palvelussuhde-etuuksien määräytymisen kannalta jatkuneen valtiolla yhdenjaksoisena.
+
+Edellä 27 §:n 3–5 momentissa tarkoitettuja siirrettäviä tehtäviä virkasuhteessa hoitavan henkilöstön asemasta säädetään valtion virkamieslain (750/1994) 2 luvussa.

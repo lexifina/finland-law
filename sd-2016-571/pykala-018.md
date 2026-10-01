@@ -1,0 +1,10 @@
+# 18 § Häiriöt ja häiriöilmoitukset
+Luku: 4 luku Tukipalveluja ja niiden käyttöä koskevat vaatimukset
+
+Jos palvelutuottajan tukipalvelun tuottamiseen käytetty tietojärjestelmä tai käyttäjäorganisaation tukipalveluun liitetty tietojärjestelmä aiheuttaa haittaa tukipalveluun käytetyn tai siihen liitetyn tietojärjestelmän toiminnalle tai tietoturvallisuudelle, haittaa aiheuttavasta tietojärjestelmästä vastaavan tahon on välittömästi ryhdyttävä toimenpiteisiin tilanteen korjaamiseksi. Tarvittaessa palvelutuottaja tai käyttäjäorganisaatio voi kytkeä tietojärjestelmänsä irti toisen ylläpitämästä järjestelmästä.
+
+Palvelutuottajan on viipymättä ilmoitettava sen tukipalveluja käyttäville käyttäjäorganisaatioille sekä tukipalvelujen käyttäjille, jos sen tukipalveluun kohdistuu tai sitä uhkaa merkittävä tietoturvaloukkaus taikka muu tapahtuma, joka estää tukipalvelun toimivuuden tai häiritsee sitä olennaisesti taikka vaarantaa tietoturvallisuuden toteutumisen. Ilmoituksessa on kerrottava häiriön tai sen uhkan arvioitu kesto sekä mahdollisuuksien mukaan käyttäjäorganisaation ja tukipalvelun käyttäjän käytettävissä olevista suojaustoimenpiteistä. Lisäksi palvelutuottajan on ilmoitettava käyttäjäorganisaatioille ja tukipalvelun käyttäjille häiriön tai uhkan päättymisestä.
+
+Käyttäjäorganisaation on viipymättä ilmoitettava palvelutuottajalle, jos kyseisen palvelutuottajan tukipalveluun liitettyyn käyttäjäorganisaation tietojärjestelmään kohdistuu tai sitä uhkaa merkittävä tietoturvaloukkaus taikka muu tapahtuma, joka voi vaarantaa tukipalvelun tietoturvallisuuden tai toimivuuden tai häiritä sitä olennaisesti. Ilmoituksessa on kerrottava häiriön tai uhkan sisältö, arvioitu kesto ja mahdollisuuksien mukaan suojaustoimenpiteet. Lisäksi käyttäjäorganisaation on ilmoitettava palvelutuottajalle häiriön tai uhkan päättymisestä.
+
+Palvelutuottajan on raportoitava tukipalvelujensa toimivuudesta ja tietoturvallisuudesta säännöllisesti sekä ilmoitettava niihin liittyvistä merkittävistä poikkeamista viivytyksettä valtiovarainministeriölle tai sen osoittamalle viranomaiselle.

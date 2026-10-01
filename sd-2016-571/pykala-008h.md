@@ -1,0 +1,6 @@
+# 8 h § Palveluntarjoajaa koskevat vaatimukset
+Luku: 2 b luku Palveluntarjoajan katseluohjelma
+
+Palveluntarjoajan on oltava luotettava ja tällä on oltava oikeus harjoittaa elinkeinoa Suomessa sen mukaan kuin elinkeinotoimintalaissa (565/2023) säädetään. Lisäksi palveluntarjoajalla on oltava tehtävän hoitamisen edellyttämät riittävät tekniset, taloudelliset, ammatilliset ja toiminnalliset valmiudet ja riittävä henkilöstö.
+
+Palveluntarjoajaa ei voida pitää luotettavana, jos tämä on liiketoimintakiellossa tai määrätty liiketoimintakieltoon viiden viimeisen vuoden aikana, tuomittu viimeisen viiden vuoden aikana vankeusrangaistukseen tai viimeisen kolmen vuoden aikana sakkorangaistukseen vakavasta työsuhdetta, elinkeinon harjoittamista, kirjanpitoa tai velkasuhdetta koskevien säännösten tai määräysten rikkomisesta, viimeisen viiden vuoden aikana tuomittu vankeusrangaistukseen muusta vakavasta rikoksesta, jonka voidaan arvioida vaikuttavan luotettavuuteen tai katsoa osoittavan ilmeistä sopimattomuutta hoitamaan 8 f §:n 1 momentissa tarkoitettua tehtävää. Palveluntarjoajan luotettavuuden arviointi koskee sen määräävässä asemassa olevia henkilöitä sekä 8 f §:n 1 momentissa tarkoitettua tehtävää hoitavia henkilöitä.
