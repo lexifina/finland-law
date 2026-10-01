@@ -1,0 +1,2 @@
+Laki hätäkeskustoiminnasta
+Eduskunnan päätöksen mukaisesti säädetään:
