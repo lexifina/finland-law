@@ -1,0 +1,6 @@
+# 57 § Vahingonkorvaus toistaiseksi voimassa olevan vuokrasopimuksen irtisanomisen johdosta
+Luku: 7 luku Vuokrasopimuksen irtisanominen
+
+Vuokrasuhteen päättyessä vuokranantajan suorittaman sellaisen irtisanomisen perusteella, jota ei voida pitää vuokrasuhteissa noudatettavan hyvän tavan mukaisena, vuokralaisella on oikeus saada vuokranantajalta korvaus muuttokustannuksista ja uuden huoneiston hankkimisesta aiheutuneista kuluista sekä suorittamistaan huoneiston vuokra-arvoa nostaneista korjaus- ja muutostöistä niiden vuokrasuhteen päättymisajankohdan mukaisesta arvosta, jos vuokralaisella on ollut tämän lain mukaan oikeus suorittaa nämä työt eikä niitä ole jo korvattu. Niin ikään vuokralaisella on oikeus saada enintään kolmen kuukauden vuokraa vastaava määrä hyvityksenä huoneiston vaihtamisen aiheuttamasta haitasta.
+
+Jos on sovittu, että vuokralainen vastaa huoneiston kunnosta tai kunnossapidosta, vuokralaisella on vuokranantajan irtisanottua sopimuksen oikeus saada korvaus vuokranantajalta suorittamistaan huoneiston vuokra-arvoa nostaneista korjaustöistä. Korvaus määrätään ottaen huomioon korjausten arvo vuokrasuhteen päättymisajankohtana sekä vuokralaisen mahdollisesti jo saama erilliskorvaus tai vuokran hyvitys.

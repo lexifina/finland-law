@@ -1,0 +1,4 @@
+# 13 c § Tiedoksianto ulkomaille
+Luku: 1 luku Yleiset säännökset
+
+Jos ilmoituksen tai varoituksen tiedoksi antaminen muualla kuin Euroopan talousalueeseen kuuluvassa valtiossa oleskelevalle vuokralaiselle ja vuokranantajalle, jonka osoite on tiedossa, ei ole mahdollista siten kuin 13 tai 13 a §:ssä taikka haasteen tiedoksi antamisesta säädetään, ilmoitus ja varoitus voidaan antaa tiedoksi julkaisemalla se virallisessa lehdessä ja toimittamalla siitä viipymättä tiedonanto sellaiseen sähköiseen viestintäkanavaan tai yhteystietoon, jota tiedoksiannon kohteen tiedetään käyttävän. Jos tiedoksiannon kohde on vuokralainen, tiedonanto tulee aina toimittaa viipymättä myös huoneistoon, jota vuokrasuhde koskee. Ilmoituksen tai varoituksen katsotaan tällöin tulleen vastaanottajan tietoon lehden ilmestymispäivänä.

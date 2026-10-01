@@ -1,0 +1,8 @@
+# 21 § Korjaus- ja muutostyöt sekä hoitotoimenpiteet
+Luku: 2 luku Asuinhuoneiston käyttö, kunto ja kunnossapito
+
+Vuokranantaja ja vuokralainen voivat sopia huoneistossa suoritettavista korjaus- tai muutostöistä taikka hoitotoimenpiteistä. Vuokralaisella ei ole oikeutta suorittaa ilman vuokranantajan lupaa huoneistossa muuta korjaus- tai muutostyötä kuin 20 §:n 2 momentissa tarkoitetun puutteellisuuden korjaamiseksi. Vuokralaisella on kuitenkin aina oikeus ryhtyä toimenpiteisiin huoneistoa koskevan välittömän vahingon estämiseksi tai rajoittamiseksi.
+
+Vuokranantajalla on oikeus suorittaa välittömästi hoitotoimenpide tai korjaus- tai muutostyö, jota ei voi vahinkoa aiheuttamatta siirtää. Myös hoitotoimenpide tai korjaus- tai muutostyö, joka ei aiheuta olennaista haittaa tai häiriötä vuokraoikeuden käyttämisessä, saadaan suorittaa edellyttäen, että vuokranantaja ilmoittaa siitä vuokralaiselle vähintään 14 päivää ennen työn aloittamista. Tässä momentissa tarkoitetuissa tapauksissa vuokralaisella ei ole oikeutta purkaa vuokrasopimusta.
+
+Jos vuokranantaja haluaa suorittaa huoneistossa muun kuin edellä tarkoitetun korjaus- tai muutostyön, vuokranantajan on ilmoitettava siitä vuokralaiselle vähintään kuusi kuukautta ennen työn aloittamista. Jos vuokralainen ilmoituksen tekemisen jälkeen vaihtuu, myös uudelle vuokralaiselle on ilmoitettava työstä, mutta tämän osalta ei lasketa uutta määräaikaa. Vuokralaisella on oikeus 14 päivän kuluessa ilmoituksen saamisesta purkaa sopimus päättymään silloin, kun korjaus- tai muutostyöhön aikaisintaan saadaan ryhtyä. Irtisanomisen jälkeen ei työtä saa suorittaa ilman vuokralaisen suostumusta.

@@ -1,0 +1,6 @@
+# 32 § Arava- ja korkotukivuokra-asunnon vuokran korottaminen
+Luku: 3 luku Vuokran suuruus
+
+Sinä aikana, kun asuinhuoneistoon sovelletaan aravarajoituslain, vuokra-asuntolainojen ja asumisoikeustalolainojen korkotuesta annetun lain tai vuokratalojen rakentamislainojen lyhytaikaisesta korkotuesta annetun lain (574/2016) säännöksiä vuokran määrityksestä, vuokranantajan on halutessaan korottaa vuokraa ilmoitettava korotuksesta, sen perusteesta ja uudesta vuokrasta vuokralaiselle kirjallisesti. Korotettu vuokra tulee voimaan aikaisintaan kahden kuukauden kuluttua ilmoituksen tekemistä lähinnä seuraavan vuokranmaksukauden alusta, eikä sitä saa periä takautuvasti.
+
+Mitä 1 momentissa säädetään, ei sovelleta veteen, sähköön tai muuhun vuokrasuhteeseen liittyvään käyttökorvaukseen, jos niiden korvaamisesta vuokranantajalle ja korvauksen määräytymisestä on sovittu. Jos korvaus määräytyy kulutuksen tai käytön perusteella, vuokranantajan on korvauksen perimisen yhteydessä ilmoitettava vuokralaiselle tiedot kulutuksesta tai käytöstä sekä mahdollisuuksien mukaan muista korvauksen perusteista. Vuokranantajan on ilmoitettava vuokralaiselle korvauksen määräytymisen perusteen muuttumisesta viipymättä.
