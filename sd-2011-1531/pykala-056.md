@@ -1,0 +1,7 @@
+# 56 § Tarjouskilpailuun osallistuminen ryhmittymänä ja muiden tahojen voimavarojen käyttö
+Osa: II OSA EU-kynnysarvon ylittäviä tavarahankintoja, liitteen A mukaisia ensisijaisia palveluhankintoja ja rakennusurakoita koskevat säännökset
+Luku: 8 luku Ehdokkaiden ja tarjoajien valinta sekä tarjouksen valinta
+
+Toimittajat saavat tehdä tarjouksia tai ilmoittautua ehdokkaaksi ryhmittymänä. Hankintayksikkö ei saa edellyttää ehdokkaiden tai tarjoajien ryhmittymältä tiettyä oikeudellista muotoa tarjouksen tai osallistumispyynnön tekemistä varten. Ryhmittymältä voidaan kuitenkin edellyttää tiettyä oikeudellista muotoa sopimusaikana, jos se on tarpeen hankintasopimuksen asianmukaiseksi toteuttamiseksi.
+
+Ehdokas tai tarjoaja voi käyttää hankinnan toteuttamiseen muiden tahojen voimavaroja riippumatta niiden välisten suhteiden oikeudellisesta luonteesta. Ryhmittymä voi käyttää hankinnan toteuttamiseen ryhmittymään kuuluvien tai muiden tahojen voimavaroja. Ehdokkaan tai tarjoajan taikka niiden ryhmittymän on osoitettava hankintayksikölle taloudellista ja rahoituksellista tilannetta, teknistä suorituskykyä ja ammatillista pätevyyttä koskevien sekä muiden vaatimusten täyttyminen. Näyttönä voidaan käyttää esimerkiksi yritysten välisiä sopimuksia tai muita sitoumuksia, joilla osoitetaan, että vaaditut edellytykset täyttävät voimavarat ovat ehdokkaiden tai tarjoajien taikka ryhmittymän käytettävissä.

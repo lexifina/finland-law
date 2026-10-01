@@ -1,0 +1,9 @@
+# 60 § Alihankinnat sidossuhteessa olevilta yrityksiltä
+Osa: II OSA EU-kynnysarvon ylittäviä tavarahankintoja, liitteen A mukaisia ensisijaisia palveluhankintoja ja rakennusurakoita koskevat säännökset
+Luku: 9 luku Alihankintasopimukset
+
+Hankintayksikkö voi vaatia tarjoajaa ilmoittamaan tarjouksessaan, minkä osan hankintasopimuksesta se aikoo antaa alihankintana siihen 2 momentissa tarkoitetulla tavalla sidossuhteessa oleville yrityksille, sekä ilmoittamaan nämä yritykset. Hankintayksikkö voi myös vaatia 56 §:n mukaisena ryhmittymänä tarjouksen jättäviä tarjoajia ilmoittamaan tarjouksessaan, minkä osan hankintasopimuksesta ne aikovat antaa alihankintana niihin 2 momentissa tarkoitetulla tavalla sidossuhteessa oleville yrityksille, sekä ilmoittamaan nämä yritykset. Jos yritysten väliset suhteet muuttuvat hankintamenettelyn aikana, on tarjoajan päivitettävä tarjoukseensa sisällyttämiään tietoja.
+
+Sidossuhteessa olevalla yrityksellä tarkoitetaan yritystä, johon tarjoaja voi suoraan tai välillisesti käyttää määräysvaltaa tai joka voi käyttää määräysvaltaa tarjoajaan taikka joka yhdessä tarjoajan kanssa on toisen yrityksen määräysvallassa omistuksen, rahoitusosuuden tai yritystä koskevien sääntöjen perusteella. Yrityksellä katsotaan olevan määräysvalta toisessa yrityksessä, kun se suoraan tai välillisesti omistaa enemmistön kyseisen yrityksen merkitystä pääomasta, hallitsee enemmistöä yrityksen osakkeisiin perustuvasta äänioikeudesta tai voi nimittää puolet yrityksen hallinto-, johto- tai valvontaelimen jäsenistä.
+
+Jäljempänä 62–66 §:n alihankintasopimuksia koskevia määräyksiä ei sovelleta alihankintasopimukseen, jonka tarjoaja on tehnyt siihen sidossuhteessa olevan yrityksen tai, kun tarjous on tehty 56 §:n mukaisena ryhmittymänä, samaan ryhmittymään kuuluvan yrityksen tai samaan ryhmittyvään kuuluvaan yritykseen sidossuhteessa olevan yrityksen kanssa.
