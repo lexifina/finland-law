@@ -1,0 +1,9 @@
+# 16 § Hankinnat toiselta hankintayksiköltä
+Osa: I OSA YLEISET SÄÄNNÖKSET
+Luku: 2 luku Soveltamisala ja sen rajaukset
+
+Tätä lakia ei sovelleta hankintayksiköiden väliseen hankintaan, jolla hankintayksiköt toteuttavat yhteistyössä ja yhteisten tavoitteiden saavuttamiseksi niiden vastuulla olevat yleisen edun mukaiset julkiset palvelut. Lisäksi edellytyksenä on, että enintään viisi prosenttia ja enintään 500 000 euron osuus yhteistyön piiriin kuuluvista palveluista tuotetaan muita kuin sopimuksen osapuolia varten. Prosenttiosuuden määrittämiseen sovelletaan, mitä 15 §:n 2 momentissa säädetään.
+
+Edellä 1 momentissa tarkoitettu prosenttiosuus on 10 ja 500 000 euron rajoitusta ei sovelleta, kun yhteistyön piiriin kuuluvissa palveluissa ei ole markkinaehtoista toimintaa. Markkinaehtoista toimintaa ei katsota olevan silloin, jos yhteistyöhön osallistuneet hankintayksiköt ovat julkaisseet yhteistyön piiriin kuuluvien palvelujen suunnitellusta tuottamisesta muille kuin sopimuksen osapuolia varten 58 §:n 3 momentissa tarkoitetun avoimuusilmoituksen, eivätkä hankintayksiköt saa ilmoituksessa määritellyssä määräajassa vastauksia yhteistyön piiriin kuuluvia palveluja koskevasta markkinaehtoisesta toiminnasta. Vastausten tekemistä koskevan määräajan on oltava vähintään 14 vuorokautta avoimuusilmoituksen julkaisemisesta. Tässä momentissa tarkoitettua prosenttiosuutta sovelletaan edellytysten täyttyessä avoimuusilmoituksen kohteena olevan yhteistyöhön piiriin kuuluviin palveluihin kolme vuotta avoimuusilmoituksessa asetetun vastausmääräajan päättymisestä.
+
+Edellä 1 momentissa tarkoitettua palvelujen tuottamista koskevaa prosentuaalista rajoitusta ei sovelleta silloin, kun muita kuin sopimuksen osapuolia varten toteutettujen yhteistyön piiriin kuuluvien palvelujen arvo on sopimuksen tekemistä edeltävien kolmen vuoden ajalta keskimäärin alle 100 000 euroa vuodessa.

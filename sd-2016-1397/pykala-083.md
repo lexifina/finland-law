@@ -1,0 +1,5 @@
+# 83 § Ehdokkaiden ja tarjoajien soveltuvuutta koskevat vaatimukset
+Osa: II OSA EU-KYNNYSARVON YLITTÄVIÄ TAVARA- JA PALVELUHANKINTOJA, RAKENNUSURAKOITA JA SUUNNITTELUKILPAILUJA KOSKEVAT SÄÄNNÖKSET
+Luku: 10 luku Ehdokkaiden ja tarjoajien valinta sekä tarjouksen valinta
+
+Hankintayksikkö voi asettaa ehdokkaiden tai tarjoajien rekisteröitymistä, taloudellista ja rahoituksellista tilannetta sekä teknistä ja ammatillista pätevyyttä koskevia 84–86 §:ssä tarkoitettuja vaatimuksia. Vaatimuksista on ilmoitettava hankintailmoituksessa. Vaatimusten tulee liittyä hankinnan kohteeseen ja ne on suhteutettava hankinnan luonteeseen, käyttötarkoitukseen ja laajuuteen. Vaatimuksilla tulee voida asianmukaisesti varmistaa, että ehdokkaalla tai tarjoajalla on oikeus harjoittaa ammattitoimintaa ja että sillä on riittävät taloudelliset ja rahoitusta koskevat voimavarat sekä tekniset ja ammatilliset valmiudet toteuttaa kyseessä oleva hankintasopimus. Ehdokkaat tai tarjoajat, jotka eivät täytä hankintayksikön asettamia vähimmäisvaatimuksia, on suljettava tarjouskilpailusta.

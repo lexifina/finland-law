@@ -1,0 +1,2 @@
+Laki julkisista hankinnoista ja käyttöoikeussopimuksista
+Eduskunnan päätöksen mukaisesti säädetään:
