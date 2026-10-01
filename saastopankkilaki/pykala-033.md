@@ -1,0 +1,4 @@
+# 33 §
+Luku: 2 luku Oma pääoma
+
+Jos se, jolla rahastoannin perusteella on oikeus saada uusi kantarahastotodistus, ei ole viiden vuoden kuluessa korottamispäätöksen rekisteröimisestä vaatinut kantarahastotodistusta, säästöpankki voi kehottaa häntä ottamaan kantarahastotodistuksen vastaan uhalla, että hän muuten menettää sen. Kehotus on lähetettävä kantarahastotodistukseen oikeutetulle, jos hänen nimensä ja osoitteensa on pankin tiedossa, sekä julkaistava pankin kotipaikalla leviävässä sanomalehdessä. Jollei kantarahastotodistukseen oikeutettu ilmoittaudu vuoden kuluessa kehotuksesta, voidaan uusi kantarahastotodistus myydä hänen lukuunsa julkisella huutokaupalla tai pörssin välityksellä. Myynnin tapahduttua kantarahastotodistukseen oikeutetulla on ainoastaan oikeus siitä kertyneisiin varoihin sen jälkeen, kun niistä on vähennetty kehotuksesta ja myymisestä aiheutuneet kulut. Varat, joita ei ole nostettu neljän vuoden kuluessa myynnistä, siirtyvät pankille.

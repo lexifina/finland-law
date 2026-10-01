@@ -1,0 +1,8 @@
+# 44 a §
+Luku: 3 luku Hallinto
+
+Kutsu isäntien kokoukseen on toimitettava aikaisintaan neljä viikkoa ja, jollei säännöissä ole määrätty pitempää aikaa, viimeistään viikkoa ennen kokousta. Kokouskutsussa on mainittava 44 §:n 2–4 momentissa tarkoitetusta osallistumismahdollisuudesta, sen käyttämisen edellytyksistä, osallistumisen teknisestä toteutuksesta, siihen liittyvästä 44 §:n 4 momentissa tarkoitetusta isännän puhevallan käyttämisen mahdollisista rajoituksista sekä siinä noudatettavasta menettelystä.
+
+Jos päätöksen tekeminen isäntien kokouksessa käsiteltävässä asiassa siirretään jatkokokoukseen, on siihen toimitettava eri kutsu, jos kokous pidetään myöhemmin kuin neljän viikon kuluttua. Jos sääntöjen mukaan päätöksen pätevyyden edellytyksenä on, että päätös tehdään kahdessa isäntien kokouksessa, ei kutsua jälkimmäiseen kokoukseen saa toimittaa ennen kuin edellinen kokous on pidetty. Kutsussa on mainittava edellisessä kokouksessa tehty päätös.
+
+Jos 44 §:n 2–4 momentissa tarkoitetun tietoliikenneyhteyden tai isäntien kokouksen järjestämiseen käytetyn muun teknisen apuvälineen toimintahäiriö voi vaikuttaa kokouksen päätösten pätevyyteen ja on syytä olettaa häiriön korjaamisen viivästyttävän kokousta olennaisesti, isäntien kokouksen puheenjohtaja voi päättää kokouksen keskeyttämisestä ja jatkamisesta jatkokokouksessa neljän viikon kuluessa kokouskutsun mukaisesta kokouksen aloitushetkestä. Edellytyksenä on, että keskeytys ja mahdollinen jatkamisen ajankohta ja osallistumiseen mahdollisesti tarvittava uusi tekninen toteutus saatetaan hyvissä ajoin ennen kokouksen jatkamista niiden isäntien tietoon, joilla oli oikeus osallistua kokoukseen keskeytyshetkellä.

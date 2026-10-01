@@ -1,0 +1,8 @@
+# 79 f §
+Luku: 4 luku Sulautuminen
+
+Jos suomalainen säästöpankki on vastaanottava säästöpankki rajat ylittävässä sulautumisessa, sulautumiseen osallistuvien säästöpankkien on ilmoitettava sulautuminen rekisteröitäväksi 75 §:ssä säädetyllä tavalla kuuden kuukauden kuluessa siitä, kun sulautumiseen osallistuvat suomalaiset säästöpankit ovat tehneet sulautumista koskevan päätöksen ja muille sulautumiseen osallistuville säästöpankeille on annettu sen valtion, jonka lainsäädäntöä sovelletaan sulautumiseen osallistuvaan ulkomaiseen säästöpankkiin, rekisteriviranomaisen tai muun toimivaltaisen viranomaisen todistus sulautumisen edellytyksenä olevien toimien suorittamisesta ja muodollisuuksien täyttämisestä.
+
+Sulautumisen rekisteröinnin edellytyksiin tässä pykälässä tarkoitetussa sulautumisessa sovelletaan 76 §:ää. Tämän lisäksi edellytyksenä on, että sulautumiseen osallistuvat ulkomaiset säästöpankit hyväksyvät 74 §:ssä tarkoitetun lunastusoikeuden ja henkilöstön edustamista koskevat säännöt on määritelty henkilöstöedustuksesta eurooppayhtiössä ja eurooppaosuuskunnassa sekä työnantajavelvoitteista ja henkilöstöedustuksesta rajat ylittävissä yritysjärjestelyissä annetun lain (758/2004) 5 a luvun mukaisesti ja se, että kaikki sulautumiseen osallistuvat säästöpankit ovat hyväksyneet sulautumissuunnitelman samoin ehdoin ja rekisteriviranomaiselle toimitetaan 1 momentissa tarkoitetut todistukset.
+
+Rekisteriviranomaisen on viipymättä viran puolesta ilmoitettava sulautumisen rekisteröinnistä sille ulkomaiselle rekisteriviranomaiselle, jonka pitämään rekisteriin sulautuva ulkomainen säästöpankki on rekisteröity.

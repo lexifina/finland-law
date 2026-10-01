@@ -1,0 +1,10 @@
+# 87 h §
+Luku: 5 luku Jakautuminen
+
+Rekisteriviranomaisen on rekisteröitävä jakautuminen, jos velkoja ei ole vastustanut jakautumista taikka jos velkoja on tuomioistuimen tuomion mukaan saanut maksun tai turvaavan vakuuden saatavastaan. Jakautumista ei kuitenkaan saa rekisteröidä, jos Rahoitustarkastus on 86 §:n 2 momentissa tarkoitetulla tavalla vastustanut sulautumista.
+
+Jos velkoja on vastustanut jakautumista, rekisteriviranomaisen on ilmoitettava tästä säästöpankille viipymättä määräpäivän jälkeen. Velkojan vastustaessa jakautuminen raukeaa kuukauden kuluttua määräpäivästä. Rekisteriviranomaisen on kuitenkin lykättävä asian käsittelyä, jos säästöpankki osoittaa kuukauden kuluessa määräpäivästä panneensa vireille kanteen sen vahvistamiseksi, että velkoja on saanut maksun tai turvaavan vakuuden saatavastaan, taikka jos säästöpankki ja velkoja yhdessä pyytävät asian käsittelyn lykkäämistä. Tuomioistuimen on käsiteltävä edellä tarkoitettu asia viivytyksettä. Jakautuminen on kuitenkin rekisteröitävä velallisen vastustuksesta huolimatta, jos Rahoitustarkastus katsoo lausunnossaan, että jakautumisen täytäntöönpano viivytyksettä on tarpeen luottolaitosten vakaan toiminnan turvaamiseksi eikä heikennä velkojan taloudellista asemaa.
+
+Jakautuminen voidaan toteuttaa, vaikka jakautuva säästöpankki on asetettu selvitystilaan, jollei säästöpankin omaisuutta ole 113 §:ssä tarkoitetulla tavalla ryhdytty jakamaan.
+
+Jos jakautuvan säästöpankin omaisuuteen kohdistuu yrityskiinnityslaissa tarkoitettu yrityskiinnitys, jakautumista ei saa rekisteröidä, jollei samalla rekisteröidä hakemuksen perusteella säästöpankin ja kiinnityksenhaltijoiden sopimusta kiinnitysten etuoikeuden järjestämisestä. Jos lisäksi vastaanottavalla toimivalla säästöpankilla on yrityskiinnityslaissa tarkoitettu yrityskiinnitys ja sille siirtyy jakautuvan säästöpankin yrityskiinnitys, jakautumista ei saa rekisteröidä, jollei samalla rekisteröidä hakemuksen perusteella jakautuvan ja vastaanottavan säästöpankin sekä kiinnityksenhaltijoiden sopimusta kiinnitysten etuoikeuden järjestämisestä.

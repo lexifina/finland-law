@@ -1,0 +1,8 @@
+# 48 §
+Luku: 3 luku Hallinto
+
+Hallintoneuvoston on valvottava hallituksen ja toimitusjohtajan hoitamaa säästöpankin hallintoa ja annettava isäntien kokoukselle lausuntonsa tilinpäätöksestä ja tilintarkastuskertomuksesta sekä kantarahaston muodostamista, korottamista tai alentamista ja säästöpankin omien kantarahasto-osuuksien hankkimista, lunastamista tai luovuttamista koskevasta hallituksen ehdotuksesta. Hallituksen ja toimitusjohtajan on annettava hallintoneuvostolle ja sen jäsenelle ne tiedot, joita nämä pitävät tarpeellisina tehtävänsä hoitamiseksi. Hallintoneuvoston jäsenen on pyydettävä tiedot hallintoneuvoston kokouksessa. Säännöissä voidaan määrätä, että hallintoneuvosto päättää asioista, jotka koskevat toiminnan huomattavaa supistamista tai laajentamista taikka säästöpankin organisaation olennaista muuttamista. Hallintoneuvosto voi antaa hallitukselle ohjeita asioissa, jotka ovat laajakantoisia tai periaatteellisesti tärkeitä.
+
+Hallintoneuvoston on valittava hallitus ja määrättävä hallituksen jäsenten palkkio, jollei säännöissä toisin määrätä. Säännöissä voidaan myös määrätä, että hallintoneuvosto ottaa toimitusjohtajan ja muut ylimpään johtoon kuuluvat henkilöt sekä päättää heidän palkkaeduistaan. Hallintoneuvoston oikeudesta vaatia isäntien kokouksen koollekutsumista sekä kutsua koolle isäntien kokous säädetään 44 b §:ssä. Hallintoneuvostolle ei saa antaa muita kuin tässä laissa tarkoitettuja tehtäviä.
+
+Isäntä, hallituksen jäsen ja toimitusjohtaja eivät saa kuulua hallintoneuvostoon. Muutoin on hallintoneuvostosta, sen jäsenistä ja varajäsenistä soveltuvin osin noudatettava, mitä 49 §:n 2–4 momentissa, 52 §:n 2 ja 3 momentissa ja 53 §:ssä säädetään hallituksesta, sen jäsenistä ja varajäsenistä.

@@ -1,0 +1,4 @@
+# 68 §
+Luku: 4 luku Sulautuminen
+
+Säästöpankin on viimeistään kuukausi ennen määräpäivää lähetettävä kuulutuksesta kirjallinen ilmoitus 67 §:n 1 momentissa tarkoitetuille tunnetuille velkojilleen, joiden saatava on syntynyt ennen sulautumissuunnitelman rekisteröintiä. Jos sulautuvan säästöpankin kantarahasto-osuudenomistaja taikka optiotodistuksen tai muun kantarahasto-osuuksiin oikeuttavan erityisen oikeuden haltija on 74 §:n mukaisesti vaatinut lunastamista, velkojille on ilmoitettava lunastettaviksi vaadittujen kantarahasto-osuuksien ja oikeuksien määrät. Ilmoitus voidaan lähettää vasta sulautumisesta päättävän isäntien kokouksen jälkeen. Jos kaikki säästöpankin kantarahasto-osuudenomistajat ja mainittujen oikeuksien haltijat ovat ilmoittaneet luopuvansa lunastusoikeudesta tai heillä ei muuten ole lunastusoikeutta, ilmoitus voidaan kuitenkin lähettää aikaisemmin.

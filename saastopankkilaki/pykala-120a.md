@@ -1,0 +1,9 @@
+# 120 a §
+Luku: 8 luku Selvitystila ja konkurssi
+Väliotsikko: Selvitystilaa ja konkurssia koskevat yhteiset säännökset
+
+Säästöpankin asettamisesta selvitystilaan ovat toimivaltaisia päättämään isäntien kokous, Finanssivalvonta ja Rahoitusvakausvirasto noudattaen tätä lakia. Suomalaisen tuomioistuimen toimivallasta asettaa säästöpankki konkurssiin säädetään erikseen. Edellä säädetty menettely käsittää myös muissa ETA-valtioissa sijaitsevat säästöpankin sivukonttorit.
+
+Säästöpankin purkamiseen ei sovelleta, mitä kaupparekisterilain (564/2023) 29 §:ssä säädetään.
+
+Rahoitusvakausviraston on määrättävä säästöpankki selvitystilaan tai haettava tuomioistuimessa sen asettamista konkurssiin, jos luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta annetun lain (1194/2014) 4 luvun 1 §:n 1 momentin 1 ja 2 kohdan mukaiset edellytykset säästöpankin asettamiselle kriisihallintoon täyttyisivät, mutta Rahoitusvakausvirasto tekee päätöksen olla asettamatta säästöpankkia kriisihallintoon, koska sitä ei pidetä mainitun momentin 3 kohdan mukaisesti tarpeellisena tärkeän yleisen edun turvaamiseksi. Rahoitusvakausviraston on määrättävä säästöpankki selvitystilaan tai haettava sen asettamista konkurssiin myös, jos yhdenmukaisten sääntöjen ja yhdenmukaisen menettelyn vahvistamisesta luottolaitosten ja tiettyjen sijoituspalveluyritysten kriisinratkaisua varten yhteisen kriisinratkaisumekanismin ja yhteisen kriisinratkaisurahaston puitteissa sekä asetuksen (EU) N:o 1093/2010 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 806/2014 42 artiklassa tarkoitettu kriisinratkaisuneuvosto ei mainitun asetuksen 18 artiklan 8 kohdan mukaisesti aseta säästöpankkia kriisihallintoon. Rahoitusvakausviraston on kuultava Finanssivalvontaa ennen selvitystilaan määräämistä tai konkurssihakemuksen tekemistä. Selvitystila alkaa, kun Rahoitusvakausviraston päätös on tehty.
