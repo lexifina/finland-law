@@ -1,0 +1,2 @@
+Laki liiketoimintakiellosta
+Eduskunnan päätöksen mukaisesti säädetään:
