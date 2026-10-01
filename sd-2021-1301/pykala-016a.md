@@ -1,0 +1,4 @@
+# 16 a § Lausunto yrityksen tai muun yhteisön soveltuvuudesta
+Luku: 4 luku Oikeus tietojen saamiseen
+
+Rikosseuraamuslaitos voi pyytää keskusrikospoliisilta salassapitosäännösten estämättä lausunnon vangin tai yhdyskuntaseuraamusta suorittavan työnantajaksi tai toimintavelvollisuuspaikaksi ehdotetun yrityksen tai muun yhteisön mahdollisista yhteyksistä vakavaan ja järjestäytyneeseen rikollisuuteen sen selvittämiseksi, onko yritys tai muu yhteisö soveltuva vangin tai yhdyskuntaseuraamusta suorittavan työnantajaksi tai toimintavelvollisuuspaikaksi. Keskusrikospoliisin antama lausunto voi salassapitosäännösten estämättä sisältää asian selvittämisen kannalta välttämättömät tiedot työnantajaksi tai toimintavelvollisuuspaikaksi ehdotetun yrityksen tai muun yhteisön mahdollisista yhteyksistä vakavaan ja järjestäytyneeseen rikollisuuteen.

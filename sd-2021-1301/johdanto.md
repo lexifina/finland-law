@@ -1,0 +1,2 @@
+Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa
+Eduskunnan päätöksen mukaisesti säädetään:
