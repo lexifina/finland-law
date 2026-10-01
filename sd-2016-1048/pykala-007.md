@@ -1,0 +1,4 @@
+# 7 § Suomen kalastuskiintiöiden vaihto muiden Euroopan unionin jäsenvaltioiden kanssa
+Luku: 2 luku Kalavarojen käytön ohjaus
+
+Maa- ja metsätalousministeriö voi vaihtaa omasta, siirrettävien käyttöoikeuksien haltijoiden tai kaupallisten kalastajien edustajien aloitteesta Suomen käytettävissä olevia ja Suomelle tulevaisuudessa myönnettäviä kalastuskiintiöitä tai niiden osia muiden Euroopan unionin jäsenvaltioiden kanssa, jos vaihdolla turvataan Suomessa kalastuskiintiöiden riittävyys tai mahdollisuudet 20 §:n mukaisten toimijakohtaisten kalastuskiintiöiden hyödyntämiseen tai sillä tasataan alueellista kalastuspainetta tai tuetaan kalastusmahdollisuuksien tasapuolista jakaantumista kaupallisten kalastajien kesken. Maa- ja metsätalousministeriö päättää luovutuksessa noudatettavasta vaihtosuhteesta kuultuaan kaupallisten kalastajien edustajia.

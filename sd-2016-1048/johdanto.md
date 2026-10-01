@@ -1,0 +1,2 @@
+Laki Euroopan unionin yhteisen kalastuspolitiikan kansallisesta täytäntöönpanosta
+Eduskunnan päätöksen mukaisesti säädetään:

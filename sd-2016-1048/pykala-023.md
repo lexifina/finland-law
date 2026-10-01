@@ -1,0 +1,6 @@
+# 23 § Toimijakohtaisesta kalastuskiintiöstä luopuminen
+Luku: 3 luku Suomen kalastuskiintiöiden jakaminen kaupallisille kalastajille
+
+Siirrettävän tai ei-siirrettävän käyttöoikeuden haltija voi 20 §:ssä tarkoitetussa hakemuksessa ilmoittaa luopuvansa käyttöoikeutensa perusteella jaettavasta seuraavan kalenterivuoden toimijakohtaisesta kalastuskiintiöstään kokonaan tai osittain. Siirrettävän tai ei-siirrettävän käyttöoikeuden haltijan hakematta jäänyt toimijakohtainen kalastuskiintiö rinnastetaan luovutettuun toimijakohtaiseen kalastuskiintiöön. Toimijakohtaisesta kalastuskiintiöstä kokonaan tai osittain luopuneelle käyttöoikeuden haltijalle ei jaeta 19 §:n 1 momentissa tarkoitettua edelliseltä vuodelta siirtyvää kiintiönosaa.
+
+Se osuus, josta haltija 1 momentin mukaisesti luopuu, jaetaan muiden kyseisen Suomen kalastuskiintiön siirrettävien käyttöoikeuksien haltijoiden kesken siirrettävien käyttöoikeuksien mukaisessa suhteessa ottaen huomioon 20 §:ssä tarkoitetuissa hakemuksissa esitetyt tiedot haltijoiden halukkuudesta ottaa vastaan lisää toimijakohtaisia kalastuskiintiöitä. Jos kaikkea luovutettavaa toimijakohtaista kalastuskiintiötä ei oteta vastaan muiden haltijoiden hakemusten perusteella, kyseiset kiintiömäärät jäävät maa- ja metsätalousministeriön hallinnoitaviksi.
