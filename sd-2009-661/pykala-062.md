@@ -1,0 +1,6 @@
+# 62 § Varmennetussa sähköisessä asioinnissa käytettävien varmenteiden tiedot
+Luku: 6 luku Digi- ja väestötietoviraston varmennettu sähköinen asiointi
+
+Kansalaisvarmenteeseen ja muuhun Digi- ja väestötietoviraston luonnolliselle henkilölle myöntämään varmenteeseen sisältyvistä tiedoista säädetään vahvasta sähköisestä tunnistamisesta annetussa laissa sekä sähköisestä tunnistamisesta ja luottamuspalveluista annetussa EU:n asetuksessa. Kansalaisvarmenteessa on varmenteen haltijan yksilöivänä tunnistetietona sähköinen asiointitunnus. Muussa Digi- ja väestötietoviraston luonnolliselle henkilölle myöntämässä varmenteessa on varmenteen haltijan yksilöivänä tunnistetietona sähköinen asiointitunnus tai muu sellainen henkilön yksilöivä tunniste, joka ei sisällä henkilöön liittyviä tietoja. Kansalaisvarmenteeseen ja muuhun Digi- ja väestötietoviraston luonnolliselle henkilölle myöntämään varmenteeseen voi sisältyä myös muita varmenteen käytössä tarvittavia välttämättömiä teknisiä tietoja. Digi- ja väestötietovirasto päättää näistä tiedoista.
+
+Sähköinen asiointitunnus voi sisältyä myös vahvasta sähköisestä tunnistamisesta annetussa laissa tarkoitettuun muuhun luonnollisen henkilön varmenteeseen varmenteen haltijan yksilöivänä tunnistetietona.

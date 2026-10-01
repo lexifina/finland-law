@@ -1,0 +1,4 @@
+# 48 § Kirkollisen viranomaisen luovutustoimivalta
+Luku: 4 luku Väestötietojärjestelmän tietojen julkisuus ja niiden luovuttaminen
+
+Evankelis-luterilaisen kirkon ja ortodoksisen kirkkokunnan viranomaisten on pyydettäessä annettava todistuksia, otteita tai näitä vastaavia muita yksittäisiä kirjallisia selvityksiä hallussaan olevista, ennen uskontokuntien jäsenrekistereistä annetun lain (614/1998) voimaantuloa pidetyistä kirkollisista väestörekistereistä ja niihin kuuluvista asiakirjoista. Jos edellä mainittujen kirkollisten viranomaisten jäsenrekisteriä pidetään säännöllisesti ajan tasalla väestötietotietojärjestelmän tiedoilla, on näillä viranomaisilla oikeus luovuttaa kirjallisesti jäsenistään yksittäisiä tietoja henkilön oikeuksien ja velvollisuuksien toteuttamiseksi. Tietojen luovuttamisessa on noudatettava soveltuvin osin 4 luvun säännöksiä.
