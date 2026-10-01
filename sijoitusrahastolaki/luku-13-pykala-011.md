@@ -1,0 +1,7 @@
+# 11 § Julkisyhteisön liikkeeseen laskemat arvopaperit ja rahamarkkinavälineet
+Osa: V OSA SIJOITUSRAHASTON VAROJEN SIJOITTAMINEN, SYÖTTÖRAHASTORAKENNE, TIEDONANTOVEVOLLISUUS JA MARKKINOINTI
+Luku: 13 luku Sijoitusrahaston sijoittaminen
+
+Sen estämättä, mitä 7 §:n 1, 3 ja 4 momentissa ja 9 §:n 2 momentin 2 ja 3 kohdassa säädetään, rahastoyhtiö saa sijoittaa enintään 35 sadasosaa sijoitusrahaston varoista saman liikkeeseenlaskijan tai takaajan arvopapereihin tai rahamarkkinavälineisiin, jos liikkeeseenlaskija tai takaaja on Suomen valtio, suomalainen kunta tai kuntayhtymä, ETA-valtio, tällaisen valtion osavaltio tai muu paikallinen julkisyhteisö, Taloudellisen yhteistyön ja kehityksen järjestön OECD:n jäsenvaltio taikka sellainen kansainvälinen julkisyhteisö, jossa on jäsenenä vähintään yksi ETA-valtio.
+
+Rahastoyhtiö saa riskinhajauttamisen periaatetta soveltaen sijoittaa enemmän kuin 35 sadasosaa sijoitusrahaston varoista 1 momentissa tarkoitettuihin arvopapereihin tai rahamarkkinavälineisiin. Edellytyksenä on, että tästä on otettu maininta sijoitusrahaston sääntöihin, sääntöjen mukaan arvopaperit tai rahamarkkinavälineet ovat peräisin vähintään kuudesta eri liikkeeseenlaskusta eikä samaan liikkeeseenlaskuun ole tarkoitus sijoittaa määrää, joka ylittää kolme kymmenesosaa sijoitusrahaston varoista ja jos rahasto-osuudenomistajille voidaan taata vastaava suoja kuin sellaisessa sijoitusrahastossa, joka noudattaa 7 §:n 1, 3 ja 4 momentissa ja 9 §:n 2 momentin 2 ja 3 kohdassa säädettyjä rajoituksia.

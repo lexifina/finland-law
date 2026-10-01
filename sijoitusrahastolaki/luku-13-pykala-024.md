@@ -1,0 +1,5 @@
+# 24 § Asetuksenantovaltuus
+Osa: V OSA SIJOITUSRAHASTON VAROJEN SIJOITTAMINEN, SYÖTTÖRAHASTORAKENNE, TIEDONANTOVEVOLLISUUS JA MARKKINOINTI
+Luku: 13 luku Sijoitusrahaston sijoittaminen
+
+Valtiovarainministeriön asetuksella annetaan arvopapereihin kohdistuvaa yhteistä sijoitustoimintaa harjoittavia yrityksiä (yhteissijoitusyritykset) koskevien lakien, asetusten ja hallinnollisten määräysten yhteensovittamisesta annetun neuvoston direktiivin 85/611/ETY täytäntöönpanosta tiettyjen määritelmien selventämiseksi annetun komission direktiivin 2007/16/EY täytäntöönpanemiseksi tarvittavat tarkemmat säännökset vaatimuksista, jotka koskevat 1 luvun 2 §:n 1 momentin 23 kohdassa tarkoitettua rahamarkkinavälinettä, tämän luvun 2 §:n 1 momentissa ja 4 §:n 2 momentissa tarkoitettuja arvopapereita, 4 §:n 1 momentissa tarkoitettuja rahamarkkinavälineitä, 8 §:n 1 momentissa tarkoitettua osake- tai joukkovelkakirjaindeksiä, 15 §:n 1 momentissa tarkoitettuja johdannaissopimuksia ja kohde-etuutena käytettyjä rahoitusindeksejä, 16 §:n 2 momentissa tarkoitettuja arvopapereita ja rahamarkkinavälineitä ja 18 §:ssä tarkoitettuja tehokkaan omaisuudenhoidon menetelmiä.

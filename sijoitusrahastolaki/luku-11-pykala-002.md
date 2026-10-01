@@ -1,0 +1,5 @@
+# 2 § Rahasto-osuudenomistajan lukuun toimiva rahasto-osuuden hoitaja
+Osa: IV OSA SIJOITUSRAHASTON HOITOON LIITTYVÄT ERITYISET SÄÄNNÖKSET
+Luku: 11 luku Rahasto-osuuden hoitajan hallinnoimat rahasto-osuudet
+
+Rahasto-osuuden hoitajana saa toimia sellainen rahastoyhtiö, luottolaitostoiminnasta annetussa laissa tarkoitettu luottolaitos tai sijoituspalvelulaissa tarkoitettu sijoituspalveluyritys, jolla on oikeus tarjota sijoituspalvelulain 2 luvun 3 §:n 1 momentin 7 kohdassa tarkoitettua rahoitusvälineiden säilyttämistä, sekä toisessa ETA-valtiossa vastaavaan toimintaan toimiluvan saanut yhteisö. Rahasto-osuuden hoitajana voi toimia myös arvo-osuusjärjestelmästä ja selvitystoiminnasta annetun lain 1 luvun 3 §:n 5 kohdassa tarkoitettu arvopaperikeskus sekä sellainen 6 kohdassa tarkoitettu ulkomainen arvopaperikeskus, joka on saanut arvopaperitoimituksen parantamisesta Euroopan unionissa sekä arvopaperikeskuksista ja direktiivien 98/26/EY ja 2014/65/EU sekä asetuksen (EU) N:o 236/2012 muuttamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) N:o 909/2014 mukaisen toimiluvan hoitaa arvopaperikeskuksen tehtäviä ETA-valtiossa tai kolmannessa maassa.

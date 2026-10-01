@@ -1,0 +1,7 @@
+# 4 § Toimilupahakemus
+Osa: II OSA OIKEUS TOIMIA RAHASTOYHTIÖNÄ
+Luku: 2 luku Rahastoyhtiön toimilupa
+
+Finanssivalvonta myöntää hakemuksesta rahastoyhtiön toimiluvan. Hakemukseen on liitettävä riittävät selvitykset hakijasta ja rahastoyhtiön omistuksesta, johdosta ja tilintarkastajista, ulkoistamisjärjestelyistä, sisäisestä valvonnasta ja riskien hallinnasta sekä taloudellisista toimintaedellytyksistä ja toimintasuunnitelmasta. Toimilupahakemukseen liitettävistä selvityksistä ja siinä annettavista yhteystiedoista säädetään valtiovarainministeriön asetuksella.
+
+Jos toimilupaa hakeva yhteisö on toisessa ETA-valtiossa toimiluvan saaneen rahastoyhtiön, sijoituspalveluyrityksen, luottolaitoksen tai vakuutusyhtiön tytäryritys tai tällaisen rahastoyhtiön, sijoituspalveluyrityksen, luottolaitoksen tai vakuutusyhtiön emoyrityksen tytäryritys, hakemuksesta on pyydettävä kyseisen valtion asianomaisen valvontaviranomaisen lausunto. Samoin menetellään, jos toimilupaa hakevan yhteisön määräämisvalta on samoilla luonnollisilla henkilöillä tai oikeushenkilöillä kuin edellä tarkoitetussa ulkomaisessa rahastoyhtiössä, sijoituspalveluyrityksessä, luottolaitoksessa tai vakuutusyhtiössä. Lausuntopyynnössä lausunnonantajaa on pyydettävä erityisesti arvioimaan osakkeenomistajien sopivuutta sekä saman ryhmän toisen yrityksen johtamiseen osallistuvien johtajien mainetta ja kokemusta sekä ilmoittamaan edellä mainittuja seikkoja koskevat tiedot, joilla on merkitystä toimiluvan myöntämisen tai rahastoyhtiön valvonnan kannalta.

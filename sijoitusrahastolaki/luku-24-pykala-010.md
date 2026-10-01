@@ -1,0 +1,9 @@
+# 10 § ETA-rahastoyhtiön toiminnan rajoittaminen ja kieltäminen
+Osa: VIII OSA RAJAT YLITTÄVÄ TOIMINTA
+Luku: 24 luku Ulkomaisen ETA-rahastoyhtiön sivuliikkeen perustaminen ja palvelujen tarjoaminen Suomeen
+
+Jos ulkomainen ETA-rahastoyhtiö, jolla on Suomessa sivuliike tai joka tarjoaa palveluja Suomeen sivuliikettä perustamatta, ei noudata tätä lakia, Finanssivalvonta voi ryhtyä Finanssivalvonnasta annetun lain 61 §:ssä säädettyihin toimenpiteisiin. Jos ulkomainen ETA-rahastoyhtiö hoitaa Suomessa sijoitusrahastoa, Finanssivalvonta voi vaatia mainitun pykälän 3 ja 6 momentissa tarkoitetussa tilanteessa rahastoyhtiötä lopettamaan sijoitusrahaston hoitamisen. Finanssivalvonta voi vaatia sijoitusrahaston hoitamisen lopettamista asianomaista rahastoyhtiötä kuultuaan myös, jos sijoitusrahastoa hoitamisessa on olennaisesti rikottu Suomessa yleisen edun turvaamiseksi voimassa olevaa lainsäädäntöä. Finanssivalvonnan on ilmoitettava edellä tarkoitetut toimenpiteet tiedoksi Euroopan arvopaperimarkkinaviranomaiselle ja Euroopan komissiolle.
+
+Jos Finanssivalvonta katsoo Finanssivalvonnasta annetun lain 61 §:n 3 momentissa tarkoitetut ulkomaisen ETA-rahastoyhtiön kotivaltion toimivaltaisen viranomaisen toimenpiteet riittämättömiksi, se voi 1 momentissa tarkoitettujen toimenpiteiden toteuttamisen sijasta ilmoittaa asiasta Euroopan arvopaperimarkkinaviranomaiselle.
+
+Finanssivalvonta voi ennen 1 tai 2 momentissa tarkoitettujen toimenpiteiden toteuttamista kieltää tämän lain vastaisen toiminnan, jos kielto on asian kiireellisyyden vuoksi välttämätön sijoittajien tai niiden henkilöiden etujen suojaamiseksi, joille palvelua on tarjottu. Finanssivalvonnan on ilmoitettava tällaisista toimenpiteistä mahdollisimman nopeasti Euroopan komissiolle, Euroopan arvopaperimarkkinaviranomaiselle ja ulkomaisen ETA-rahastoyhtiön kotivaltion toimivaltaiselle viranomaiselle.

@@ -1,0 +1,2 @@
+Sijoitusrahastolaki
+Eduskunnan päätöksen mukaisesti säädetään:

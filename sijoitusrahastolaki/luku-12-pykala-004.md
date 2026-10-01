@@ -1,0 +1,9 @@
+# 4 § Yhteistilillä olevien rahasto-osuuksien lunastaminen omistajien lukuun
+Osa: IV OSA SIJOITUSRAHASTON HOITOON LIITTYVÄT ERITYISET SÄÄNNÖKSET
+Luku: 12 luku Arvo-osuusjärjestelmään kuuluvat rahasto-osuudet
+
+Rahastoyhtiö voi viiden vuoden kuluttua ilmoittautumispäivästä päättää lunastaa 2 §:n 1 momentissa tarkoitetulla yhteisellä arvo-osuustilillä olevat rahasto-osuudet niiden omistajien lukuun. Rahastoyhtiön päätös on annettava tiedoksi päätöksessä tarkoitetuille rahasto-osuudenomistajille ja 1 §:n 3 momentissa tarkoitetuille henkilöille ja kehotettava näitä merkitsemään rahasto-osuutensa arvo-osuusjärjestelmään uhalla, että rahasto-osuus muutoin lunastetaan. Kehotus on lähetettävä rahasto-osuudenomistajille ja 1 §:n 3 momentissa tarkoitetulle henkilölle, jos näiden nimi ja osoite ovat rahastoyhtiön tiedossa, sekä julkaistava Virallisessa lehdessä. Kehotuksesta on lisäksi ilmoitettava siten kuin ilmoitukset rahasto-osuudenomistajille on sijoitusrahaston sääntöjen mukaan toimitettava.
+
+Jollei yhteisellä arvo-osuustilillä olevan rahasto-osuudenomistaja tai 1 §:n 3 momentissa tarkoitettu henkilö ole vuoden kuluessa 1 momentissa tarkoitetusta kehotuksesta vaatinut oikeutensa kirjaamista, hän on menettänyt oikeutensa rahasto-osuuteen. Rahastoyhtiön on viipymättä tämän jälkeen lunastettava rahasto-osuus sijoitusrahaston varoista.
+
+Rahastoyhtiön on rahan, arvo-osuuksien, arvopaperien tai asiakirjain tallettamisesta velan maksuna tai vapautumiseksi muusta suoritusvelvollisuudesta annetun lain (281/1931) mukaisesti viipymättä talletettava varat, joista on vähennetty ilmoittamisesta ja lunastamisesta aiheutuneet kulut, Lupa- ja valvontavirastoon pidättämättä itselleen oikeutta saada talletettua takaisin. Rahasto-osuudenomistaja tai 1 §:n 3 momentissa tarkoitettu henkilö voi osuustodistusta vastaan nostaa rahasto-osuutta vastaavan osuuden varoista.

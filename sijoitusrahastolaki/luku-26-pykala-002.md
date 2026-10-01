@@ -1,0 +1,7 @@
+# 2 § Salassa pidettävien tietojen luovuttaminen
+Osa: IX OSA ERINÄISET SÄÄNNÖKSET
+Luku: 26 luku Salassapito- ja vahingonkorvausvelvollisuus sekä asiakkaan tunteminen
+
+Rahastoyhtiö voi luovuttaa salassapitovelvollisuuden estämättä 1 §:n 1 momentissa tarkoitettuja tietoja samaan konserniin, konsolidointiryhmään ja rahoitus- ja vakuutus-ryh-mit-ymien valvonnasta annetussa laissa (699/2004) tarkoitettuun rahoitus- ja vakuutus-ryhmit-tymään kuuluvalle yhteisölle asiakaspalvelua ja muuta asiakassuhteen hoitamista, markkinointia sekä konsernin, konsolidointiryhmän tai vakuutusryhmittymän riskienhallintaa varten. Mitä edellä tässä momentissa säädetään, ei koske luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus) annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2016/679, jäljempänä tietosuoja-asetus, 9 artiklan 1 kohdassa ja 10 artiklassa tarkoitettujen tietojen luovuttamista.
+
+Sen lisäksi, mitä 1 momentissa säädetään, rahastoyhtiö voi luovuttaa asiakasrekisterissään olevia markkinointia sekä asiakaspalvelua ja muita asiakassuhteen hoitamista varten tarpeellisia tietoja sellaiselle yritykselle, joka kuuluu rahastoyhtiön kanssa samaan taloudelliseen yhteenliittymään, jos tietojen vastaanottajaa koskee tässä laissa säädetty tai sitä vastaava salassapitovelvollisuus. Mitä edellä tässä momentissa säädetään, ei koske tietosuoja-asetuksen 9 artiklan 1 kohdassa ja 10 artiklassa tarkoitettujen tietojen luovuttamista.
