@@ -1,0 +1,7 @@
+# 54 § Dynaamiseen hankintajärjestelmään hakeminen ja hyväksyminen
+Osa: II OSA MENETTELYSÄÄNNÖT
+Luku: 4 luku Hankintamenettelyt
+
+Kaikki kiinnostuneet toimittajat voivat pyytää koko menettelyn keston ajan osallistua perustettuun hankintajärjestelmään. Hankintayksikön on hyväksyttävä dynaamiseen hankintajärjestelmään kaikki ehdokkaat, jotka täyttävät soveltuvuudelle asetetut vaatimukset. Jos hankintayksikkö on jakanut järjestelmän tavaroiden, palvelujen tai rakennusurakoiden luokkiin 52 §:n 1 momentin mukaisesti, sen on täsmennettävä kuhunkin luokkaan sovellettavat ehdokkaiden soveltuvuusvaatimukset. Järjestelmään hyväksyttävien ehdokkaiden määrää ei saa rajoittaa.
+
+Hankintayksikön on tehtävä päätös ehdokkaan hyväksymisestä järjestelmään 10 työpäivän kuluessa dynaamista hankintajärjestelmää koskevan osallistumishakemuksen vastaanottamisesta tai, jos hakemus saapuu järjestelmän suljettuna ollessa, järjestelmän uudelleen avaamisesta. Hankintayksikkö voi pidentää määräaikaa yksittäistapauksissa 15 työpäivään, jos hyväksymisarvioinnissa on tarkasteltava täydentäviä asiakirjoja tai muutoin tarkistettava soveltuvuusvaatimusten täyttyminen, taikka muusta perustellusta syystä. Hankintayksikkö voi pidentää arviointiaikaa myös, jos hankintajärjestelmän sisällä ei julkaista tarjouspyyntöä ennen järjestelmään hyväksymistä koskevien ratkaisujen tekemistä. Hankintayksikön on tällöin ilmoitettava hankinta-asiakirjoissa pidennetyn arviointiajan kesto. Hankintayksikön on ilmoitettava mahdollisimman pian ehdokkaalle, onko se hyväksytty dynaamiseen hankintajärjestelmään.

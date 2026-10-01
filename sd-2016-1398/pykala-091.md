@@ -1,0 +1,13 @@
+# 91 § Kokonaistaloudellisesti edullisimman tarjouksen valinta
+Osa: II OSA MENETTELYSÄÄNNÖT
+Luku: 9 luku Ehdokkaiden ja tarjoajien sekä tarjouksen valinta
+
+Tarjouksista on valittava kokonaistaloudellisesti edullisin tarjous. Kokonaistaloudellisesti edullisin on tarjous, joka on hankintayksikön kannalta hinnaltaan halvin, kustannuksiltaan edullisin tai hinta-laatusuhteeltaan paras. Jos hankintayksikkö käyttää muissa kuin tavarahankinnoissa kokonaistaloudellisen edullisuuden perusteena ainoastaan halvinta hintaa, sen on esitettävä tätä koskevat perustelut hankinta-asiakirjoissa, hankintapäätöksessä taikka hankintamenettelyä koskevassa erillisessä kertomuksessa.
+
+Hankintayksikkö voi asettaa hinta-laatusuhteen vertailuperusteita, jotka liittyvät laadullisiin, yhteiskunnallisiin, ympäristö- tai sosiaalisiin näkökohtiin tai innovatiivisiin ominaisuuksiin. Laatuun liittyviä perusteita voivat olla tekniset ansiot, esteettiset ja toiminnalliset ominaisuudet, esteettömyys, kaikkien käyttäjien vaatimukset täyttävä suunnittelu, käyttökustannukset, kustannustehokkuus, myynnin jälkeinen palvelu ja tekninen tuki, huolto ja toimituspäivä tai toimitus- tai toteutusaika sekä muut toimitusehdot. Hankintayksikkö voi ottaa huomioon myös hankintasopimuksen toteutukseen osoitetun henkilöstön pätevyyden ja kokemuksen sekä henkilöstön organisoinnin, jos osoitetun henkilöstön laadulla voi olla merkittävä vaikutus hankintasopimuksen toteuttamisessa.
+
+Hankintayksikkö voi esittää hinta-laatusuhteen kustannustekijät myös kiinteän hinnan tai kustannusten muodossa, jolloin tarjoajat kilpailevat ainoastaan laatuun liittyvillä perusteilla.
+
+Hankintayksikön on ilmoitettava käyttämänsä kokonaistaloudellisen edullisuuden peruste tai hinta-laatusuhteen mukaiset vertailuperusteet hankintailmoituksessa, tarjouspyynnössä tai neuvottelukutsussa. Hankintayksikön on yksilöitävä vertailuperusteiden suhteellinen painotus hankintailmoituksessa, neuvottelukutsussa tai tarjouspyynnössä. Painotus voidaan ilmaista myös ilmoittamalla kohtuullinen vaihteluväli. Jos vertailuperusteiden suhteellista painotusta ei perustellusta syystä voida määritellä, vertailuperusteet on ilmoitettava alenevassa tärkeysjärjestyksessä.
+
+Vertailuperusteiden on liityttävä hankinnan kohteeseen 92 §:n mukaisesti, ne eivät saa antaa hankintayksikölle rajoittamatonta valinnanvapautta, ja niiden on oltava syrjimättömiä ja varmistettava todellisen kilpailun mahdollisuus. Hankintayksikön on asetettava vertailuperusteet siten, että tarjoaja pystyy todentamaan niihin perustuvat tiedot tarjousten vertailua varten. Epäselvissä tapauksissa hankintayksikön on tosiasiallisesti tarkistettava tarjoajien antamien tietojen ja näytön paikkansapitävyys.

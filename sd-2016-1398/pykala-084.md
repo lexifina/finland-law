@@ -1,0 +1,22 @@
+# 84 § Pakolliset poissulkemisperusteet
+Osa: II OSA MENETTELYSÄÄNNÖT
+Luku: 9 luku Ehdokkaiden ja tarjoajien sekä tarjouksen valinta
+
+Hankintayksikön on päätöksellään suljettava ehdokas tai tarjoaja tarjouskilpailun ulkopuolelle, jos hankintayksikön tiedossa on, että ehdokas, tarjoaja tai alihankkija taikka sen hallinto-, johto- tai valvontaelimen jäsen tai edustus-, päätös- tai valvontavaltaa käyttävä henkilö on rikosrekisteristä ilmenevällä lainvoimaisella tuomiolla tuomittu jostakin seuraavasta rikoksesta rangaistukseen:
+1) rikoslain (39/1889) 16 luvun 13 §:ssä tarkoitettu lahjuksen antaminen, 16 luvun 14 §:ssä tarkoitettu törkeä lahjuksen antaminen, 16 luvun 14 a §:ssä tarkoitettu lahjuksen antaminen kansanedustajalle tai 16 luvun 14 b §:ssä tarkoitettu törkeä lahjuksen antaminen kansanedustajalle;
+2) rikoslain 17 luvun 1 a §:ssä tarkoitettu osallistuminen järjestäytyneen rikollisryhmän toimintaan;
+3) rikoslain 25 luvun 3 §:ssä tarkoitettu ihmiskauppa tai 25 luvun 3 a §:ssä tarkoitettu törkeä ihmiskauppa;
+4) rikoslain 29 luvun 1 §:ssä tarkoitettu veropetos, 29 luvun 2 §:ssä tarkoitettu törkeä veropetos, 29 luvun 4 a §:ssä tarkoitettu työeläkevakuutusmaksupetos, 29 luvun 4 b §:ssä tarkoitettu törkeä työeläkevakuutusmaksupetos, 29 luvun 5 §:ssä tarkoitettu avustuspetos, 29 luvun 6 §:ssä tarkoitettu törkeä avustuspetos, 29 luvun 7 §:ssä tarkoitettu avustuksen väärinkäyttö tai 29 luvun 7 a §:ssä tarkoitettu törkeä avustuksen väärinkäyttö;
+5) rikoslain 30 luvun 7 §:ssä tarkoitettu lahjominen elinkeinotoiminnassa, 30 luvun 7 a §:ssä tarkoitettu törkeä lahjominen elinkeinotoiminnassa, 30 luvun 8 §:ssä tarkoitettu lahjuksen ottaminen elinkeinotoiminnassa tai 30 luvun 8 a §:ssä tarkoitettu törkeä lahjuksen ottaminen elinkeinotoiminnassa;
+6) rikoslain 32 luvun 6 §:ssä tarkoitettu rahanpesu, 32 luvun 7 §:ssä tarkoitettu törkeä rahanpesu, 32 luvun 8 §:ssä tarkoitettu salahanke törkeän rahanpesun tekemiseksi tai 32 luvun 9 §:ssä tarkoitettu tuottamuksellinen rahanpesu;
+7) rikoslain 34 luvun 12 §:ssä tarkoitettu kansainvälisessä sopimuksessa tarkoitetun rikoksen rahoittaminen taikka rikoslain 34 a luvun 2 §:ssä tarkoitettu terroristisessa tarkoituksessa tehty rikos, 34 a luvun 4 §:ssä tarkoitettu terrorismirikoksen valmistelu, 34 a luvun 5 §:ssä tarkoitettu terroristiryhmän johtaminen, 34 a luvun 6 §:ssä tarkoitettu terroristiryhmän toimintaan osallistuminen, 34 a luvun 7 §:ssä tarkoitettu terroristinen koulutuksen antaminen, 34 a luvun 9 §:ssä tarkoitettu terroristinen värväys tai 34 a luvun 10 §:ssä tarkoitettu terroristinen rikoksen rahoittaminen.
+
+Hankintayksikön on päätöksellään suljettava ehdokas tai tarjoaja tarjouskilpailun ulkopuolelle, jos hankintayksikön tiedossa on, että ehdokkaan tai tarjoajan hallinto-, johto- tai valvontaelimen jäsen tai edustus-, päätös- tai valvontavaltaa käyttävä henkilö on rikosrekisteristä ilmenevällä lainvoimaisella tuomiolla tuomittu rikoslain 30 luvun 9 a §:ssä tarkoitetusta törkeästä kirjanpitorikoksesta tai 47 luvun 1 §:ssä tarkoitetusta työturvallisuusrikoksesta, 2 §:ssä tarkoitetusta työaikasuojelurikoksesta, 3 §:ssä tarkoitetusta työsyrjinnästä, 3 a §:ssä tarkoitetusta kiskonnasta työelämässä, 3 b §:ssä tarkoitetusta törkeästä kiskonnasta työelämässä, 5 §:ssä tarkoitetusta työntekijöiden järjestäytymisvapauden loukkaamisesta tai 6 a §:ssä tarkoitetusta luvattoman ulkomaisen työvoiman käytöstä taikka 48 luvun 2 §:ssä tarkoitetusta törkeästä ympäristön turmelemisesta tai 5 a §:ssä tarkoitetusta törkeästä luonnonsuojelurikoksesta.
+
+Hankintayksikön on suljettava tarjouskilpailusta ehdokas tai tarjoaja myös muussa valtiossa 1 tai 2 momentissa mainittua rikosta vastaavasta rikoksesta annetun lainvoimaisen tuomion perusteella.
+
+Hankintayksikön on suljettava tarjouskilpailusta myös ehdokas tai tarjoaja, joka on lainvoimaisella päätöksellä tai tuomiolla todettu laiminlyöneen velvollisuutensa maksaa Suomen tai sijoittautumismaansa veroja tai sosiaaliturvamaksuja. Edellä säädettyä ei kuitenkaan sovelleta, jos ehdokas tai tarjoaja on maksanut verot tai sosiaaliturvamaksut taikka sopinut sitovasta järjestelystä niiden maksamista varten.
+
+Ehdokasta tai tarjoajaa ei saa sulkea tarjouskilpailusta, jos:
+1) 1 tai 3 momentissa tarkoitettua rikosta tai 4 momentissa tarkoitettua laiminlyöntiä koskevan lainvoimaisen tuomion antamisesta on kulunut yli viisi vuotta; tai
+2) 2 momentissa tarkoitettua rikosta koskevan lainvoimaisen tuomion antamisesta on kulunut yli kolme vuotta.
