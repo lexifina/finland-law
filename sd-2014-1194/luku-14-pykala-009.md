@@ -1,0 +1,15 @@
+# 9 § Toisen ETA-valtion ryhmäkriisinratkaisuviranomaisen vastaus virastolle ja viraston toimenpiteet
+Osa: V OSA RYHMÄKRIISINRATKAISU JA SUHTEET KOLMANSIIN MAIHIN
+Luku: 14 luku Ryhmäkriisinratkaisu
+
+Jos toisen ETA-valtion ryhmäkriisinratkaisuviranomainen saatuaan virastolta 8 §:n 2 momentissa tarkoitetun ilmoituksen ja kuultuaan muita kriisinratkaisukollegion jäseniä ilmoittaa virastolle, etteivät kriisinratkaisun edellytykset todennäköisesti täyty ryhmään kuuluvassa sellaisessa yrityksessä, jolla on kotipaikka muussa ETA-valtiossa kuin Suomessa, virasto voi ryhtyä ilmoituksensa mukaisiin toimenpiteisiin.
+
+Jos toisen ETA-valtion ryhmäkriisinratkaisuviranomainen saatuaan virastolta 8 §:n 2 momentissa tarkoitetun ilmoituksen ja kuultuaan muita kriisinratkaisukollegion jäseniä ilmoittaa virastolle, että kriisinratkaisun edellytykset todennäköisesti täyttyvät ryhmään kuuluvassa sellaisessa yrityksessä, jolla on kotipaikka muussa ETA-valtiossa kuin Suomessa, viraston on odotettava toisen ETA-valtion ryhmäkriisinratkaisuviranomaisen ehdotusta ryhmäkriisinratkaisukehykseksi.
+
+Jos toisen ETA-valtion ryhmäkriisinratkaisuviranomainen ei ehdota ryhmäkriisinratkaisukehystä 24 tunnin kuluessa siitä, kun se on saanut virastolta 8 §:n 2 momentissa tarkoitetun ilmoituksen, eikä viraston ja toisen ETA-valtion ryhmäkriisinratkaisuviranomaisen yhdessä sopimassa pitemmässä määräajassa, virasto voi soveltaa ilmoituksessa tarkoitettuja kriisinratkaisutoimenpiteitä tai ryhtyä muihin ilmoituksensa mukaisiin toimenpiteisiin.
+
+Jos toisen ETA-valtion ryhmäkriisinratkaisuviranomainen ehdottaa ryhmäkriisinratkaisukehystä 24 tunnin kuluessa siitä, kun se on saanut virastolta 8 §:n 2 momentissa tarkoitetun ilmoituksen, tai viraston ja toisen ETA-valtion ryhmäkriisinratkaisuviranomaisen yhdessä sopimassa pidemmässä määräajassa, viraston on arvioitava, voiko se hyväksyä ryhmäkriisinratkaisukehyksen sekä siinä ehdotetut toimenpiteet ja menettelyt.
+
+Jos virasto katsoo, ettei se voi hyväksyä ryhmäkriisinratkaisukehystä, poikkeaa siitä tai katsoo, että laitokseen, sen emoyritykseen tai sen kanssa samaan ryhmään kuuluvaan yritykseen on rahoitusvakauden vuoksi sovellettava muita kuin ryhmäkriisinratkaisukehyksessä tarkoitettuja kriisinratkaisutoimenpiteitä tai muuta kuin siinä tarkoitettua maksukyvyttömyysmenettelyä, viraston on ilmoitettava päätöksestään ja sen perusteluista kriisinratkaisukollegion muille jäsenille sekä samalla ilmoitettava niistä toimenpiteistä, joihin se aikoo ryhtyä. Asiaa harkitessaan viraston on otettava huomioon päätöksensä mahdolliset vaikutukset muiden asianomaisten ETA-valtioiden rahoitusvakauteen sekä aikomiensa toimenpiteiden mahdolliset vaikutukset ryhmään kuuluviin muihin yrityksiin.
+
+Jos virasto katsoo, että se voi hyväksyä ryhmäkriisinratkaisukehyksen, se voi tehdä yhteispäätöksen muiden ETA-valtioiden kriisinratkaisuviranomaisten kanssa ryhmäkriisinratkaisukehyksen hyväksymisestä, vaikka yksi tai useampi ETA-valtioiden kriisinratkaisuviranomaisista ei sitä hyväksy.

@@ -1,0 +1,5 @@
+# 1 a § Holdingyhtiöiden konkurssi ja selvitystila
+Osa: VI OSA TOIMINNAN RAJOITTAMINEN, SALASSAPITO JA MUUTOKSENHAKU SEKÄ SEURAAMUKSET
+Luku: 19 luku Erinäiset säännökset
+
+Viraston on määrättävä 1 luvun 1 §:n 2 momentissa tarkoitettu yhtiö selvitystilaan tai haettava tuomioistuimessa sen asettamista konkurssiin, jos 4 luvun 1 §:n 1 momentin 1 ja 2 kohdan mukaiset edellytykset yhtiön asettamiselle kriisihallintoon täyttyisivät, mutta virasto tekee päätöksen olla asettamatta yhtiötä kriisihallintoon, koska sitä ei pidetä mainitun momentin 3 kohdan mukaisesti tarpeellisena tärkeän yleisen edun turvaamiseksi. Viraston on määrättävä yhtiö selvitystilaan tai haettava sen asettamista konkurssiin myös, jos EU:n kriisinratkaisuasetuksen 42 artiklassa tarkoitettu kriisinratkaisuneuvosto ei mainitun asetuksen 18 artiklan 8 kohdan mukaisesti aseta yhtiötä kriisihallintoon. Viraston on kuultava Finanssivalvontaa ennen selvitystilaan määräämistä tai konkurssihakemuksen tekemistä. Selvitystila alkaa, kun viraston päätös on tehty.

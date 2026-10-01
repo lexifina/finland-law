@@ -1,0 +1,11 @@
+# 1 § Väliaikaisen laitoksen perustaminen ja osakkeiden tai osuuksien taikka varojen ja velkojen luovutus
+Osa: III OSA KRIISINRATKAISU
+Luku: 10 luku Väliaikainen laitos
+
+Virasto voi perustaa osakeyhtiön jatkamaan kriisihallintoon asetetun laitoksen keskeisiä liiketoimintoja (väliaikainen laitos) sekä päättää laitoksen osakkeiden tai osuuksien taikka varojen tai velkojen luovuttamisesta yhdessä tai useammassa erässä väliaikaiselle laitokselle siten kuin tässä luvussa säädetään. Väliaikaiseen laitokseen sovelletaan luottolaitostoiminnasta annettua lakia ja liikepankeista ja muista osakeyhtiömuotoisista laitoksista annettua lakia taikka sijoituspalvelulakia, jollei jäljempänä toisin säädetä. Väliaikaisen laitoksen yhtiöjärjestyksestä on käytävä ilmi, että osakeyhtiö on tässä laissa tarkoitettu väliaikainen laitos.
+
+Viraston on merkittävä väliaikaisen laitoksen osakkeista vähintään määrä, joka vastaa yli puolta kaikkien osakkeiden tuottamasta äänimäärästä. Osakepääoma on maksettava rahana tai apporttina siirtämällä väliaikaiseen laitokseen riittävä määrä kriisinratkaisun kohteena olevan laitoksen varoja sen jälkeen, kun sen omien varojen ja velkojen arvoa on alennettu 6 ja 8 luvussa tarkoitetulla tavalla. Viraston on määriteltävä tässä momentissa tarkoitetun apporttiomaisuuden määrä noudattaen, mitä 5 luvussa säädetään varojen arvostamisesta. Väliaikaisen laitoksen velkoja saadaan muuntaa väliaikaisen laitoksen osakkeiksi 8 luvussa tarkoitetulla tavalla enintään määrään, joka riittää turvaamaan viraston määräysvallan säilymisen.
+
+Virasto voi päättää tämän luvun mukaisesti väliaikaiselle laitokselle luovutettujen varojen tai velkojen siirtämisestä takaisin laitokselle taikka, jos kysymys on osakkeen- tai osuudenomistajalta lunastetuista osakkeista tai osuuksista, takaisin osakkeen- tai osuudenomistajalle, jos tällainen siirto on nimenomaisesti sallittu siinä viraston päätöksessä, jonka nojalla varat tai velat on siirretty, tai jos mainitut varat tai velat on siirretty väliaikaiselle laitokselle päätöksen vastaisesti.
+
+Väliaikaisen laitoksen perustamiseen ja varojen ja velkojen luovutukseen sovelletaan 13 luvun säännöksiä omaisuuden osittaista siirtoa koskevista suojatoimista.

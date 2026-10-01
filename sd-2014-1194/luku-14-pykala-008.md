@@ -1,0 +1,9 @@
+# 8 § Viraston velvollisuus ilmoittaa kriisinratkaisun edellytysten täyttymisestä
+Osa: V OSA RYHMÄKRIISINRATKAISU JA SUHTEET KOLMANSIIN MAIHIN
+Luku: 14 luku Ryhmäkriisinratkaisu
+
+Jos virasto katsoo, että sellaiseen ryhmään kuuluva suomalainen laitos, jota varten on perustettu tai perustettava 2 §:ssä tarkoitettu kriisinratkaisukollegio, taikka sen emoyritys tai sen kanssa samaan ryhmään kuuluva yritys, täyttää 4 luvussa säädetyt kriisihallintoon asettamisen edellytykset, viraston on ilmoitettava kriisinratkaisukollegion muille jäsenille ja Finanssivalvonnalle:
+1) päätöksestä, jonka mukaan laitos, sen emoyritys tai sen kanssa samaan konsolidointiryhmään kuuluva rahoituslaitos täyttää kriisihallintoon asettamisen edellytykset;
+2) kriisinratkaisutoimenpiteistä, joita virasto aikoo soveltaa laitokseen, sen emoyritykseen tai sen kanssa samaan konsolidointiryhmään kuuluvaan rahoituslaitokseen, taikka selvitystilasta tai konkurssista, jos virasto katsoo sen soveltuvan paremmin laitoksen, sen emoyrityksen tai sen kanssa samaan konsolidointiryhmään kuuluvan rahoituslaitoksen kriisinratkaisuun.
+
+Jos virasto katsoo, että sellaiseen ryhmään kuuluva suomalainen laitos, jota varten on toisessa ETA-valtiossa perustettu tai perustettava toisen ETA-valtion lainsäädännön mukainen kriisinratkaisukollegio, taikka sen Suomessa rekisteröity emoyritys tai sen kanssa samaan konsolidointiryhmään kuuluva Suomessa rekisteröity rahoituslaitos täyttää 4 luvun mukaiset kriisihallintoon asettamisen edellytykset, tai jos virasto on saanut Finanssivalvonnalta vastaavan ilmoituksen, viraston on ilmoitettava toisen ETA-valtion ryhmäkriisinratkaisusta vastaavalle viranomaiselle, ryhmän valvonnasta vastaavalle toisen ETA-valtion valvontaviranomaiselle, kriisinratkaisukollegion muille jäsenille ja Finanssivalvonnalle 1 momentissa tarkoitetut tiedot.

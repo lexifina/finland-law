@@ -1,0 +1,2 @@
+Laki luottolaitosten ja sijoituspalveluyritysten kriisinratkaisusta
+Eduskunnan päätöksen mukaisesti säädetään:
