@@ -1,0 +1,5 @@
+# 4 § Valtion lastensuojelulaitoksen ja sen yhteydessä toimivan koulun tehtävät
+
+Laitoksen tehtävänä on tuottaa lastensuojelulain (417/2007) mukaista laitoshuoltoa sekä järjestää perusopetusta ja tutkintokoulutukseen valmentavaa koulutusta sen mukaan kuin niistä säädetään perusopetuslaissa (628/1998) ja tutkintokoulutukseen valmentavasta koulutuksesta annetussa laissa (1215/2020) sellaisille sijaishuoltoon sijoitetuille lapsille, joita ei voida tarkoituksenmukaisesti kasvattaa ja hoitaa muussa sijaishuollossa ja jotka eivät sairautensa vuoksi tarvitse muualla annettavaa hoitoa. Tarvittaessa voidaan järjestää myös muuta opetusta sen mukaan kuin mitä järjestettävästä opetuksesta muutoin säädetään. Lastensuojelun toimintayksiköissä voidaan antaa myös sosiaalihuoltolaissa (1301/2014) tai terveydenhuoltolaissa (1326/2010) tarkoitettuja mielenterveyspalveluja.
+
+Sen lisäksi, mitä 1 momentissa säädetään, vähintään yhden lastensuojelun toimintayksikön tulee tuottaa lastensuojelulain 49 a §:ssä tarkoitettua kuntouttavaa suljettua laitospalvelua.
