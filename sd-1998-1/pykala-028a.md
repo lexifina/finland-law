@@ -1,0 +1,6 @@
+# 28 a § Aseenkäsittelylupakortti
+Luku: 3 luku Asealan elinkeinon harjoittaminen
+
+Poliisilaitos antaa aseenkäsittelyluvan haltijalle aseenkäsittelylupakortin. Aseenkäsittelylupakortti on pidettävä aseenkäsittelylupaa edellyttävissä tehtävissä mukana ja se on esitettävä pyydettäessä. Ennen aseenkäsittelylupakortin luovuttamista poliisilaitos antaa aseenkäsittelyluvan haltijalle määräaikaisen todistuksen aseenkäsittelyluvan antamisesta. Todistus osoittaa aseenkäsittelyluvan voimassaolon ennen asekäsittelylupakortin luovuttamista aseenkäsittelyluvan haltijalle.
+
+Aseenkäsittelylupakortti on heti luovutettava poliisille, jos aseenkäsittelylupa on peruutettu tai aseenkäsittelyluvan haltijalle luovutetaan uusi aseenkäsittelylupakortti.

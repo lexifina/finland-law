@@ -1,0 +1,4 @@
+# 44 § Hankittavaa ampuma-asetta ja aseen osaa koskevat yleiset edellytykset
+Luku: 5 luku Hankkiminen, yksityinen valmistaminen ja muuntaminen sekä hallussapito
+
+Aselupa voidaan antaa vain sellaista ampuma-asetta tai aseen osaa varten, joka ei lippaan patruunamäärän, kaliiperin tai muiden ominaisuuksien perusteella ole hakijan ilmoittamaan käyttötarkoitukseen nähden tarpeettoman tulivoimainen ja tehokas sekä joka soveltuu hyvin hakijan ilmoittamaan käyttötarkoitukseen. Jos hakijan ilmoittama käyttötarkoitus on metsästyslainsäädännön mukaan sallittu eläinten ampuminen, ampuma-aseen soveltuvuutta arvioitaessa noudatetaan lisäksi metsästyslakia (615/1993). Metsästyslainsäädännön mukaan sallittua eläinten ampumista varten aselupaa ei voida antaa tämän lain 6 §:n 2 momentin 4–7 kohdassa tarkoitettua ampuma-asetta varten lukuun ottamatta kertatulitoimista pienoispistoolia ja pienoisrevolveria.
