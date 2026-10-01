@@ -1,0 +1,3 @@
+# 11 § Takaisinperintä
+
+Valtiontalouden tarkastusvirasto voi määrätä 9 §:ssä tarkoitetun avustuksen maksamisen lopetettavaksi sekä jo maksetun avustuksen tai sen osan takaisin perittäväksi siten kuin takaisinperinnästä valtionavustuslaissa säädetään. Maksaminen voidaan kuitenkin määrätä lopetettavaksi tai jo maksettu avustus kokonaan tai osittain takaisin perittäväksi myös puolueelta, joka olennaisesti laiminlyö tämän lain mukaan sille kuuluvan velvollisuuden. Jos velvollisuuden laiminlyöjä on avustuspäätöksessä tarkoitettu muu yhdistys, avustuksen maksamisen lopettaminen tai takaisinperintä saa koskea vain sille osoitettua avustuksen osaa.
