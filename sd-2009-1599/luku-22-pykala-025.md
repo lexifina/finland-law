@@ -1,0 +1,19 @@
+# 25 § Konkurssi
+Osa: VI OSA YHTIÖRAKENTEEN MUUTTAMINEN JA PURKAMINEN
+Luku: 22 luku Yhtiön purkaminen
+
+Yhtiön omaisuus voidaan luovuttaa konkurssiin yhtiökokouksen tai, jos yhtiö on selvitystilassa, selvitysmiesten päätöksen perusteella. Hallitus saa kuitenkin tehdä päätöksen yhtiön omaisuuden luovuttamisesta konkurssiin, jos yhtiökokouksen päätöstä ei voida odottaa aiheuttamatta yhtiön toiminnalle olennaista haittaa. Hallituksen on viipymättä ilmoitettava päätöksestä osakkeenomistajille kirjallisesti osoitteeseen, joka on ilmoitettu yhtiölle, tai samalla tavalla kuin kutsu yhtiökokoukseen toimitetaan.
+
+Konkurssin aikana yhtiötä edustavat konkurssivelallisena hallitus ja isännöitsijä taikka ennen konkurssin alkamista valitut selvitysmiehet. Konkurssin aikana voidaan valita uusia hallituksen jäseniä tai uusia selvitysmiehiä.
+
+Osakkeenomistajan oikeus osakehuoneiston hallintaan ja velvollisuus yhtiövastikkeen maksamiseen lakkaavat kuukauden kuluttua siitä, kun pesänhoitaja on antanut tälle tiedoksi tuomioistuimen päätöksen yhtiön asettamisesta konkurssiin. Pesänhoitaja voi antaa päätöksen tiedoksi osakkeenomistajalle samalla tavalla kuin kutsu yhtiökokoukseen toimitetaan. Päätöksen katsotaan tällöin tulleen osakkeenomistajan tietoon seitsemäntenä päivänä päätöksen toimittamisesta. Lisäksi pesänhoitajan on viipymättä toimitettava tieto päätöksestä osakehuoneistoon. Yhtiöllä ja osakkeenomistajalla on konkurssiin asettamista koskevan päätöksen antamisen ja osakkeenomistajan hallintaoikeuden lakkaamisen välisenä aikana vastuu vain sellaisesta kiinteistön ja rakennuksen välittömästä ylläpidosta, jonka laiminlyönti rajoittaa olennaisesti osakehuoneistojen käyttöä.
+
+Osakkeenomistajan ja tämän vuokralaisen välinen vuokrasopimus päättyy ilman irtisanomista samana ajankohtana kuin osakkeenomistajan oikeus osakehuoneiston hallintaan lakkaa. Sama koskee osakehuoneistossa asuvan muun käyttöoikeuden saaneen oikeuden lakkaamista. Osakkeenomistajan on viivytyksettä ilmoitettava vuokralaiselle tai muulle käyttöoikeuden saaneelle mainitusta ajankohdasta. Jos osakkeenomistaja laiminlyö ilmoituksen, vuokralaisella tai muulla käyttöoikeuden saaneella on oikeus saada osakkeenomistajalta kohtuullinen korvaus muuttokustannuksista, jollei osakkeenomistaja voi näyttää, että tämä muutoin tiesi osakkeenomistajan hallintaoikeuden lakkaamisesta.
+
+Haaste osakkeenomistajan häätämisestä tämän hallintaoikeuden lakattua voidaan antaa tiedoksi muualla kuin Euroopan talousalueeseen kuuluvassa valtiossa oleskelevalle osakkeenomistajalle, jonka osoite on tiedossa, noudattaen, mitä oikeudenkäymiskaaren 11 luvun 9 §:ssä säädetään, jos tiedoksianto ei ole muuten mahdollinen. Tällöin mainitun luvun 10 §:ssä tarkoitettu ilmoitus on viipymättä toimitettava osakehuoneistoon, jota asia koskee. Jos osakkeenomistajan sähköpostiosoite on tiedossa, tieto tässä momentissa tarkoitetulla tavalla tiedoksi annetusta haasteesta on lisäksi lähetettävä tähän sähköpostiosoitteeseen.
+
+Jos konkurssin päättyessä ei ole jäljellä omaisuutta tai konkurssissa on määrätty jäljellä olevan omaisuuden käytöstä, yhtiö katsotaan purkautuneeksi, kun lopputilitys konkurssissa on hyväksytty.
+
+Jos konkurssin päättyessä jäljellä on muuta kuin konkurssissa käytettäväksi määrättyä omaisuutta eikä yhtiö ollut selvitystilassa, kun sen omaisuus luovutettiin konkurssiin, hallituksen on viipymättä kutsuttava yhtiökokous koolle päättämään, jatketaanko yhtiön toimintaa vai onko yhtiö asetettava selvitystilaan. Jos yhtiökokous päättää, että yhtiön toimintaa jatketaan, hallituksen on viipymättä tehtävä tästä ilmoitus rekisteröimistä varten. Jos yhtiö oli konkurssiin asetettaessa selvitystilassa, noudatetaan, mitä 18 §:ssä säädetään.
+
+Jos yhtiön konkurssi on päättynyt ja yhtiölle ilmaantuu varoja, noudatetaan konkurssilain (120/2004) 19 luvun säännöksiä jälkiselvityksestä. Jos yhtiölle konkurssin jälkeen jää varoja, noudatetaan mitä edellä 7 momentissa säädetään.

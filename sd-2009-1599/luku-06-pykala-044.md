@@ -1,0 +1,9 @@
+# 44 § Uskottu mies
+Osa: III OSA HALLINTO, TILINPÄÄTÖS JA VAROJEN JAKAMINEN
+Luku: 6 luku Yhtiökokous
+
+Yhtiön on saatuaan tiedon 42 §:n 4 momentissa tai 43 §:n 6 momentissa tarkoitetun asian vireilletulosta haettava käräjäoikeudelta uskotun miehen määräämistä valvomaan käräjäoikeudessa mainitussa oikeudenkäynnissä lunastuksen kohteena olevien osakkeiden omistajien etua, jolleivät kaikki asianosaiset ole ilmoittaneet pitävänsä uskotun miehen määräämistä tarpeettomana tai jollei uskotun miehen määräämistä ole pidettävä perusteettomana ottaen huomioon vähemmistöosakkeenomistajien oikeusturva ja oikeudenmukaisen oikeudenkäynnin toteutuminen. Asiassa toimivaltainen on yhtiön kotipaikan käräjäoikeus. Asia voidaan ratkaista lunastuksen kohteena olevien osakkeiden omistajia kuulematta. Uskotun miehen määräys ja päätös uskotun miehen hakematta jättämisestä merkitään kaupparekisteriin. Päätökseen uskotun miehen hakematta jättämisestä ei saa erikseen hakea muutosta valittamalla.
+
+Uskotulla miehellä on oikeus ja velvollisuus esittää käräjäoikeudessa vähemmistöosakkeenomistajien puolesta näiden asiaa tukevia seikkoja ja näyttöä. Uskotulla miehellä ei ole kelpoisuutta lunastuksen kohteena olevien osakkeidenomistajien puolesta esittää tai hyväksyä lunastusta koskevia vaatimuksia tai ryhtyä toimiin, jotka ovat ristiriidassa kyseisten osakkeenomistajan omien toimien kanssa.
+
+Uskotun miehen palkkiosta ja kulujen korvauksesta käräjäoikeus määrää noudattaen, mitä 42 §:n 8 momentissa ja 43 §:n 7 momentissa säädetään oikeudenkäyntimenettelyn kustannuksista. Oikeuskäsittelyn päätyttyä uskotun miehen on viipymättä ilmoitettava rekisteröitäväksi toimenpiteitään koskeva selonteko, joka katsotaan rekisteröimisellä annetuksi lunastuksen kohteena olevien osakkeiden omistajille. Uskotusta miehestä on muuten soveltuvin osin voimassa, mitä holhoustoimesta annetussa laissa (442/1999) säädetään edunvalvojasta.

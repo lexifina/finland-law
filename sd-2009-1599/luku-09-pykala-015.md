@@ -1,0 +1,7 @@
+# 15 § Tarkastuslausunto
+Osa: III OSA HALLINTO, TILINPÄÄTÖS JA VAROJEN JAKAMINEN
+Luku: 9 luku Tilintarkastus, toiminnantarkastus ja erityinen tarkastus
+
+Erityisestä tarkastuksesta on annettava lausunto yhtiökokoukselle. Lausunnossa on esitettävä pääasialliset havainnot sekä lausuttava myös siitä, ovatko yhtiön hallitus ja isännöitsijä täyttäneet viivytyksettä velvollisuutensa avustaa erityistä tarkastajaa 14 a §:ssä säädetyllä tavalla.
+
+Hallituksen on ilmoitettava lausunnon valmistumisesta osakkeenomistajille kirjallisesti tai samalla tavalla kuin kutsu yhtiökokoukseen toimitetaan. Ilmoitus on toimitettava kuukauden kuluessa siitä, kun yhtiö on vastaanottanut lausunnon. Lausunto on pidettävä ilmoituksen toimittamisesta lähtien osakkeenomistajien nähtävänä ilmoitetussa paikassa, viivytyksettä lähetettävä osakkeenomistajalle, joka sitä pyytää, sekä asetettava nähtäväksi yhtiökokouksessa. Jollei lausuntoa ole käsitelty yhtiökokouksessa, jonka kokouskutsu on lähetetty lausunnon yhtiölle toimittamisen jälkeen, on hallituksen jäsenellä, isännöitsijällä, tilintarkastajalla, toiminnantarkastajalla tai osakkeenomistajalla oikeus hakea Lupa- ja valvontavirastolta 6 luvun 18 §:n 2 momentissa tarkoitettua oikeutusta kutsua ylimääräinen yhtiökokous koolle käsittelemään erityistä tarkastusta koskevaa lausuntoa. Jos yhtiön kotipaikka on Ahvenanmaan maakunnassa, kutsuoikeutusta haetaan kuitenkin Ahvenanmaan valtionvirastolta.

@@ -1,0 +1,10 @@
+# 4 § Määrääminen selvitystilaan tai poistettavaksi rekisteristä
+Osa: VI OSA YHTIÖRAKENTEEN MUUTTAMINEN JA PURKAMINEN
+Luku: 22 luku Yhtiön purkaminen
+
+Rekisteriviranomaisen tulee määrätä yhtiö selvitystilaan tai poistettavaksi rekisteristä, jos:
+1) yhtiöllä ei ole rekisteriin merkittyä toimikelpoista hallitusta;
+2) yhtiöllä ei ole rekisteriin merkittyä elinkeinotoimintalain (565/2023) 6 §:ssä tarkoitettua edustajaa; tai
+3) yhtiö on asetettu konkurssiin, joka on rauennut varojen puutteeseen.
+
+Määräys on annettava, jollei ennen asian ratkaisemista näytetä, ettei siihen enää ole perustetta.
