@@ -1,0 +1,6 @@
+# 45 § Vahingonkorvaus määräaikaisen sopimuksen päättyessä sekä toistaiseksi voimassa olevan sopimuksen irtisanomisen johdosta
+Luku: 7 luku Vuokrasopimuksen irtisanominen
+
+Määräaikaisen sopimuksen päättyessä vuokralaisella on oikeus saada korvaus suorittamistaan huoneiston arvoa nostaneista korjaus- ja muutostöistä niiden vuokrasuhteen päättymisajankohdan mukaisesta arvosta, jos vuokralaisella on ollut tämän lain mukaan oikeus suorittaa nämä työt eikä niitä ole jo korvattu.
+
+Toistaiseksi voimassa olevan vuokrasuhteen päättyessä vuokranantajan suorittaman sellaisen irtisanomisen perusteella, jota ei voida pitää vuokrasuhteissa noudatettavan hyvän tavan mukaisena, vuokralaisella on oikeus saada vuokranantajalta korvaus 1 momentissa tarkoitetuista korjaus- ja muutostöistä sekä muuttokustannuksista ja uuden huoneiston hankkimisesta aiheutuneista kuluista. Lisäksi vuokralaisella, joka vuokrasopimuksen perusteella on harjoittanut huoneistossa kauppaa, käsityötä, teollista liikettä tai muuta ansiotoimintaa vähintään kaksi vuotta, on oikeus saada kohtuullinen korvaus muuton aiheuttamasta asiakaspiirin vähentymisestä tai menettämisestä sekä siitä huoneiston vuokra-arvon lisäyksestä, joka vuokralaisen toiminnan johdosta on syntynyt, jos huoneiston seuraava haltija ryhtyy harjoittamaan huoneistossa olennaisesti samanlaista ansiotoimintaa.

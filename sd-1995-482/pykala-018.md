@@ -1,0 +1,8 @@
+# 18 § Liikehuoneiston kunto ja sen puutteellisuus
+Luku: 2 luku Liikehuoneiston käyttö, kunto ja kunnossapito
+
+Huoneiston on vuokrasuhteen alkaessa ja sen aikana oltava sellaisessa kunnossa kuin vuokralainen huoneiston iän, alueen vastaavaan tarkoitukseen käytettyjen huoneistojen kunnon ja muut paikalliset olosuhteet huomioon ottaen kohtuudella voi vaatia.
+
+Jos huoneisto ei vuokrasuhteen alkaessa tai kestäessä ole vaadittavassa tai sovitussa kunnossa ja vuokranantaja on vastuussa siitä, vuokralaisella on oikeus purkaa vuokrasopimus, jos puutteellisuudella on olennainen merkitys eikä vuokranantaja ilmoituksen saatuaan viivytyksettä huolehdi puutteellisuuden poistamisesta taikka puutteellisuutta ei voida korjata. Jos vuokranantaja laiminlyö vuokranantajalle kuuluvan korjauksen, vuokralainen saa vuokrasopimuksen purkamisen sijasta korjata puutteellisuuden vuokranantajan kustannuksella paitsi, jos puutteellisuus johtuu rakennuksen keskeneräisyydestä tai viranomainen on kieltänyt huoneiston käyttämisen. Vuokralaisen on huolehdittava siitä, että puutteellisuuden korjaamisesta vuokranantajalle aiheutuvat kustannukset pysyvät kohtuullisina.
+
+Jos huoneisto on sopimusehdon mukaan vuokrattu siinä kunnossa, jossa se oli sopimusta tehtäessä ja vuokranantaja on vastuussa huoneiston kunnosta, voi vuokralainen silti käyttää edellä tässä pykälässä mainittua oikeuttaan, jos vuokralainen sopimuksen tehdessään ei tiennyt huoneistossa olevasta puutteellisuudesta eikä olisi tavallista huolellisuutta käyttäen voinut sitä havaita tai odottaa sitä huoneiston iän, alueen vastaavaan tarkoitukseen käytettyjen huoneistojen kunnon ja muut paikalliset olosuhteet huomioon ottaen.
