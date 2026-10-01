@@ -1,0 +1,8 @@
+# 43 § Toimenpiteen toteutusaika
+Luku: 13 luku Tuen ehdot
+
+Muu tuettava toimenpide kuin tutkimus- tai selvityshanke on kokonaisuudessaan toteutettava kahden vuoden kuluessa tuen myöntämisestä. Nuorelle porotalouden tai luontaiselinkeinon harjoittajalle elinkeinon aloittamiseen myönnetyn tuen tuettavana toimenpiteenä pidetään tällöin tilan ja porojen hankintaa. Tuettavan toimenpiteen toteuttamiselle voidaan kuitenkin asettaa lyhyempi määräaika, jos se on toimenpiteen toteutustavan tai toiminnan luonteen kannalta perusteltua. Jos tukea on myönnetty rakentamisinvestoinnin yhteydessä irtaimiston hankintaan eikä hankintaa voida toteuttaa ennen rakentamisinvestoinnin valmistumista, lasketaan määräaika rakentamisinvestoinnin valmistumisesta.
+
+Elinvoimakeskus voi pidentää 1 momentissa tarkoitettua määräaikaa hakemuksesta, joka on tehty ennen määräajan päättymistä. Edellytyksenä on, että tuettavan toimenpiteen toteuttaminen on aloitettu 1 momentissa tarkoitetussa määräajassa ja että määräajan pidentämiseen on hyväksyttävä syy. Määräaikaa voidaan pidentää kahdesti enintään vuodeksi kerrallaan. Jos toimenpiteen toteuttamisen pidentämistä koskeva hakemus toimitetaan kohtuullisessa ajassa 1 momentissa tarkoitetun määräajan päättymisen jälkeen, elinvoimakeskus voi käsitellä näin toimitetun hakemuksen, jos määräajan noudattamatta jättäminen johtuu hakijan vakavasta terveydentilaa koskevasta muutoksesta tai muusta hakijasta riippumattomasta yllättävästä, ennalta arvaamattomasta tapahtumasta taikka muusta ylivoimaisesta esteestä.
+
+Tarkempia säännöksiä tuettavan toimenpiteen toteuttamiselle asetettavasta määräajasta voidaan antaa valtioneuvoston asetuksella.

@@ -1,0 +1,2 @@
+Laki porotalouden ja luontaiselinkeinojen rakennetuista
+Eduskunnan päätöksen mukaisesti säädetään:

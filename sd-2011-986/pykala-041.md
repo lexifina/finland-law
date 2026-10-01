@@ -1,0 +1,4 @@
+# 41 § Valtiontakausten enimmäismäärä
+Luku: 12 luku Valtiontakauksen myöntäminen
+
+Valtiontakaus voidaan myöntää maatilatalouden kehittämisrahaston käyttösuunnitelmassa vuosittain vahvistetun lainojen pääoman enimmäismäärän rajoissa. Valtiontakauksen kohteena olevien lainojen pääomaa saa samanaikaisesti olla maksamatta enintään 240 miljoonaa euroa mukaan lukien lainat, jotka on myönnetty maatalouden rakennetuista annetun lain ja sitä vastaavan aikaisemman lainsäädännön nojalla. Edellä mainittua määrää laskettaessa otetaan huomioon myös ennen tämän lain voimaantuloa voimassa olleiden säännösten nojalla porotalouden ja muiden luontaiselinkeinojen rakenteen parantamiseksi myönnettyjen lainojen pääoma, johon kohdistuvan takaajan vastuun toteutumisesta aiheutuvat menot katetaan maatilatalouden kehittämisrahaston varoista.
