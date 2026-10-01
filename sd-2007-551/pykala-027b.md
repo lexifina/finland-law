@@ -1,0 +1,4 @@
+# 27 b § Puolustusvoimien logistiikkalaitos
+Luku: 3 luku Puolustusvoimien organisaatio ja hallinto
+
+Puolustusvoimien logistiikkalaitos on puolustusvoimien materiaalihallinnosta, hankintatoimesta, terveydenhuollon järjestämisestä, ympäristöasioista ja tilahallinnasta vastaava pääesikunnan alainen sotilaslaitos, johon kuuluu Puolustusvoimien logistiikkalaitoksen esikunta, sotilaslaitoksia ja muita hallintoyksiköitä. Puolustusvoimien logistiikkalaitoksessa käsiteltävän asian ratkaisee esittelystä laitoksen johtaja, jollei asiaa ole säädetty tai määrätty muun viranomaisen tai virkamiehen ratkaistavaksi. Laitoksen kannalta merkittävät asiat ratkaisee kuitenkin laitoksen johtaja. Tarkempia määräyksiä asian käsittelystä ja ratkaisemisesta Puolustusvoimien logistiikkalaitoksessa annetaan työjärjestyksessä, jonka laitoksen johtaja vahvistaa.

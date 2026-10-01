@@ -1,0 +1,10 @@
+# 27 § Puolustushaarat
+Luku: 3 luku Puolustusvoimien organisaatio ja hallinto
+
+Maavoimiin kuuluu maavoimien esikunta, aluetoimistoja, sotilaslaitoksia ja joukko-osastoja. Maavoimia johtaa maavoimien komentaja. Maavoimien esikunnassa käsiteltävän asian ratkaisee esittelystä maavoimien komentaja, jollei asia ole säädetty tai määrätty muun virkamiehen ratkaistavaksi. Maavoimien kannalta merkittävät asiat ratkaisee kuitenkin maavoimien komentaja. Tarkempia määräyksiä asian käsittelystä ja ratkaisemisesta maavoimien esikunnassa annetaan työjärjestyksessä, jonka maavoimien komentaja vahvistaa.
+
+Merivoimiin kuuluu merivoimien esikunta, sotilaslaitoksia ja joukko-osastoja. Merivoimia johtaa merivoimien komentaja. Merivoimien esikunnassa käsiteltävän asian ratkaisee esittelystä merivoimien komentaja, jollei asia ole säädetty tai määrätty muun virkamiehen ratkaistavaksi. Merivoimien kannalta merkittävät asiat ratkaisee kuitenkin merivoimien komentaja. Tarkempia määräyksiä asian käsittelystä ja ratkaisemisesta merivoimien esikunnassa annetaan työjärjestyksessä, jonka merivoimien komentaja vahvistaa. Merivoimien esikunta ohjaa ja valvoo sotilasmerenkulkua sekä sitä edistäviä ja turvaavia toimenpiteitä.
+
+Ilmavoimiin kuuluu ilmavoimien esikunta, sotilaslaitoksia ja joukko-osastoja. Ilmavoimia johtaa ilmavoimien komentaja. Ilmavoimien esikunnassa käsiteltävän asian ratkaisee esittelystä ilmavoimien komentaja, jollei asia ole säädetty tai määrätty muun virkamiehen ratkaistavaksi. Ilmavoimien kannalta merkittävät asiat ratkaisee kuitenkin ilmavoimien komentaja. Tarkempia määräyksiä asian käsittelystä ja ratkaisemisesta ilmavoimien esikunnassa annetaan työjärjestyksessä, jonka ilmavoimien komentaja vahvistaa. Ilmavoimien esikunnan yhteydessä toimii sotilasilmailuviranomaisena ilmailulaissa (1194/2009) tarkoitettu sotilasilmailun viranomaisyksikkö.
+
+Maavoimien esikunta, merivoimien esikunta ja ilmavoimien esikunta ovat toimialaansa koskevissa hallinnollisissa asioissa pääesikunnan alaisia.

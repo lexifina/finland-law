@@ -1,0 +1,6 @@
+# 12 b § Kansainvälisen avun antamiseen, yhteistoimintaan ja muuhun kansainväliseen toimintaan osallistuva henkilöstö
+Luku: 2 luku Toimivalta
+
+Edellä 12 §:ssä tarkoitettuihin tehtäviin käytetään ensisijaisesti sellaista Puolustusvoimien henkilöstöä, joka on sitoutunut Puolustusvoimien kansainväliseen toimintaan. Tehtävien ajan henkilöstö on virka- tai työsuhteessa Puolustusvoimiin. Mitä 41 §:n 2 momentissa säädetään tiedon antamisen määräajasta, ei sovelleta 12 §:ssä tarkoitettuihin tehtäviin. Tehtäviin osallistuvaan henkilöstöön sovelletaan tapaturman ja palvelussairauden korvaamisesta kriisinhallintatehtävässä annettua lakia (1522/2016).
+
+Asevelvollisten käyttämisestä kansainvälisen avun antamiseen, yhteistoimintaan ja muuhun kansainväliseen toimintaan säädetään asevelvollisuuslaissa. Jos reserviläinen otetaan tehtävän ajaksi Puolustusvoimien palvelussuhteeseen, työ- tai virkasuhdetta, joka tehtävään otettavalla on, ei saa tehtävän takia päättää. Reserviläisellä on oikeus palata aikaisempaan työ- tai virkasuhteeseen, kun palvelussuhde Puolustusvoimiin päättyy. Virkavapauden tai työstä vapautuksen myöntämisestä reserviläiselle 12 §:ssä tarkoitettuihin tehtäviin päättää harkintansa mukaan työnantaja.

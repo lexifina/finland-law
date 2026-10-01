@@ -1,0 +1,10 @@
+# 21 § Turvatarkastus
+Luku: 2 luku Toimivalta
+
+Vartio- tai päivystystehtävää suorittavalla virkamiehellä on oikeus metallinilmaisinta tai muuta teknistä laitetta taikka koulutettua eläintä apuna käyttäen tarkastaa puolustusvoimien toimitiloihin, kulkuneuvoihin tai alueelle saapuva taikka siellä oleva sekä tarvittaessa hänen kulkuneuvonsa ja hänen mukanaan olevat tavarat sen selvittämiseksi, ettei hänellä ole mukanaan esinettä tai ainetta, jolla voidaan aiheuttaa vaaraa turvallisuudelle ja järjestykselle, jota voidaan käyttää omaisuuden vahingoittamiseen tai jonka hallussapito on lain tai sen nojalla annetun säännöksen tai määräyksen nojalla kielletty. Turvatarkastus voidaan tehdä myös puolustusvoimien toimitiloista, kulkuneuvoista tai alueelta poistuville henkilöille sekä tarvittaessa heidän kulkuneuvoihinsa ja heidän mukanaan oleviin tavaroihinsa, jos tarkastuksella on tärkeä merkitys turvallisuuden ja järjestyksen ylläpitämiselle ja on perusteltu syy epäillä, että on rikottu puolustusvoimien antamia turvallisuutta koskevia määräyksiä.
+
+Vartio- tai päivystystehtävää suorittavalla virkamiehellä on myös oikeus metallinilmaisinta tai muuta teknistä laitetta taikka koulutettua eläintä apuna käyttäen tarkastaa puolustusvoimien toimitiloja, alueita ja kulkuneuvoja sen selvittämiseksi, ettei niissä ole esinettä tai ainetta, jolla voidaan aiheuttaa vaaraa järjestykselle tai turvallisuudelle, jota voidaan käyttää omaisuuden vahingoittamiseen taikka jonka hallussapito on lain tai sen nojalla annetun säännöksen tai määräyksen nojalla kielletty.
+
+Turvatarkastuksen suorittamisesta päättää varuskunnan päällikkö tai joukko-osaston komentaja. Turvatarkastus on järjestettävä niin, ettei siitä aiheudu tarpeetonta haittaa tarkastettavalle henkilölle tai vahinkoa omaisuudelle.
+
+Edellä 1 ja 2 momenteissa tarkoitetuissa tapauksissa löydetty omaisuus saadaan ottaa haltuun. Haltuunotosta on laadittava pöytäkirja. Haltuun otettu omaisuus on palautettava asianomaiselle henkilölle hänen poistuessaan puolustusvoimien toimitiloista, jollei siihen ole lain mukaan estettä.
