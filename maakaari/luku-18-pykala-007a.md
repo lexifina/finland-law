@@ -1,0 +1,9 @@
+# 7 a § Kirjallisen panttikirjan muuttaminen sähköiseen muotoon
+Osa: IV OSA KIINTEISTÖPANTTIOIKEUS
+Luku: 18 luku Kiinnityksen muuttaminen
+
+Kirjallinen panttikirja, joka aikaisemmin voimassa olleiden säännösten mukaisesti on annettu todistukseksi kiinnityksestä, saadaan muuttaa sähköiseen muotoon panttikirjan haltijan hakemuksesta. Hakemukseen on liitettävä panttikirja alkuperäisenä, jollei 2 momentista johdu muuta.
+
+Luottolaitostoiminnasta annetun lain (610/2014) 1 luvun 7 §:ssä tarkoitetun luottolaitoksen tai valtion erityisrahoitusyhtiöstä annetussa laissa (443/1998) tarkoitetun erityisrahoitusyhtiön ei tarvitse liittää 1 momentissa tarkoitettuun hakemukseensa alkuperäistä kirjallista panttikirjaa, jos panttikirja muuten yksilöidään riittävällä tavalla ja hakija ilmoittaa kirjaamisviranomaiselle mitätöivänsä hallussaan olevan panttikirjan. Ilmoituksesta on tehtävä merkintä lainhuuto- ja kiinnitysrekisteriin. Jos hakija ei ole hakemuksessa yksilöidyn panttikirjan oikea haltija tai panttikirjaa ei mitätöidä, hakija on velvollinen korvaamaan tästä aiheutuneen vahingon. Valtio on velvollinen korvaamaan tämän momentin mukaisessa menettelyssä syntyneen päätöksen virheellisyydestä aiheutuneen vahingon noudattaen soveltuvin osin, mitä 13 luvun 6–8 §:ssä säädetään.
+
+Jos haetaan sellaisen kiinnityksen muuttamista, josta on annettu kirjallinen panttikirja, kirjaamisviranomainen muuttaa panttikirjan sähköiseen muotoon samalla, kun kiinnitystä koskeva muutos vahvistetaan. Hakemukseen on liitettävä muutettavasta kiinnityksestä annettu kirjallinen panttikirja alkuperäisenä, ja panttikirjan haltija kirjataan sähköisen panttikirjan saajaksi. Vastaavasti menetellään, kun lainhuuto- ja kiinnitysrekisteriin tehdään merkintä kiinnityksen muuttamisesta muun lain nojalla, jos alkuperäinen kirjallinen panttikirja on toimitettu kirjaamisviranomaiselle.
