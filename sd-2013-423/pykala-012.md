@@ -1,7 +1,7 @@
 # 12 §
 Luku: 4 luku Jakautuminen ja sidotun pääoman alentaminen
 
-Jakautuvan luottolaitoksen jakautumissuunnitelmaan, jakautumisen täytäntöönpanon rekisteröintiin sekä täytäntöönpanoa koskevaan lupaan ja todistukseen sovelletaan 5—10 §:ää. Edellä 6 §:n 3 momenttia ei kuitenkaan sovelleta osuuskuntalain 21 luvun 2 §:n 1 momentin 1 kohdassa tarkoitettuun kokonaisjakautumiseen, jos jakautuminen tapahtuu perustettaviin osuuskuntiin, jotka ovat yksinomaan luottolaitoksia.
+Jakautuvan luottolaitoksen jakautumissuunnitelmaan, jakautumisen täytäntöönpanon rekisteröintiin sekä täytäntöönpanoa koskevaan lupaan ja todistukseen sovelletaan, mitä niistä 5–10 §:ssä säädetään sulautumisen osalta.
 
 Jakautumisessa perustettavaan luottolaitokseen sovelletaan 11 §:ää.
 
