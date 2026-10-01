@@ -1,0 +1,2 @@
+Laki sotilaskurinpidosta ja rikostorjunnasta Puolustusvoimissa
+Eduskunnan päätöksen mukaisesti säädetään:

@@ -1,0 +1,7 @@
+# 145 § Peitetoiminnan laajentaminen
+Osa: III OSA PÄÄESIKUNNAN TEHTÄVÄT JA TOIMIVALTUUDET RIKOSTORJUNNASSA
+Luku: 13 luku Salaiset tiedonhankintakeinot Pääesikunnan rikostorjunnassa
+
+Jos peitetoiminnan aikana ilmenee, että voidaan perustellusti olettaa peitetoiminnan kohteena olevan henkilön syyllistyvän sen käyttämisen perusteena olevan rikoksen lisäksi siihen välittömästi liittyvään muuhun 140 §:n 2 momentissa tarkoitettuun rikokseen, jonka estämiseksi on välittömästi tehtävä peitetoimintaa, peitetoimintaa suorittava Pääesikunnan 93 §:ssä tarkoitettuja rikostorjuntatehtäviä hoitava virkamies saa laajentaa peitetoiminnan koskemaan myös tämän rikoksen estämistä. Peitetoiminnan laajentaminen on kuitenkin saatettava ilman aiheetonta viivytystä ja viimeistään kolmen vuorokauden kuluttua tiedonhankinnan aloittamisesta peitetoiminnasta päättäneen virkamiehen ratkaistavaksi.
+
+Jos peitetoiminnan aikana ilmenee, että voidaan perustellusti olettaa muun kuin peitetoiminnan kohteena olevan henkilön syyllistyvän 140 §:n 2 momentissa tarkoitettuun rikokseen, jonka estämiseksi häneen on välittömästi kohdennettava peitetoimintaa, peitetoimintaa suorittava virkamies saa laajentaa peitetoiminnan koskemaan myös mainittua henkilöä. Peitetoiminnan laajentaminen on kuitenkin saatettava ilman aiheetonta viivytystä ja viimeistään kolmen vuorokauden kuluttua tiedonhankinnan aloittamisesta peitetoiminnasta päättäneen virkamiehen ratkaistavaksi.

@@ -1,0 +1,7 @@
+# 165 § Viestinnän välittäjänavustamisvelvollisuus ja pääsy eräisiin tiloihin
+Osa: III OSA PÄÄESIKUNNAN TEHTÄVÄT JA TOIMIVALTUUDET RIKOSTORJUNNASSA
+Luku: 13 luku Salaiset tiedonhankintakeinot Pääesikunnan rikostorjunnassa
+
+Viestinnän välittäjän on ilman aiheetonta viivytystä tehtävä televerkkoon telekuuntelun ja televalvonnan edellyttämät kytkennät sekä annettava Pääesikunnan 93 §:ssä tarkoitettuja rikostorjuntatehtäviä hoitavan viranomaisen käyttöön telekuuntelun toimeenpanoa varten tarpeelliset tiedot, välineet ja henkilöstö. Sama koskee myös niitä tilanteita, joissa telekuuntelu tai televalvonta toteutetaan Pääesikunnan 93 §:ssä tarkoitettuja rikostorjuntatehtäviä hoitavan viranomaisen toimesta teknisellä laitteella. Viestinnän välittäjän on lisäksi annettava Pääesikunnan 88 tai 93 §:ssä tarkoitettuun rikostorjuntatehtävään määrätyn ja tehtäviin erityisesti perehtyneen sotilaslakimiehen tai muun virkamiehen käyttöön hallussaan olevat teknisen seurannan toimeenpanoa varten tarpeelliset tiedot.
+
+Pääesikunnan 93 §:ssä tarkoitettuja rikostorjuntatehtäviä hoitavalla viranomaisella sekä toimenpiteen suorittajalla ja avustavalla henkilöstöllä on oikeus telekuuntelua varten tarpeellisen yhteyden kytkemiseksi päästä myös muihin kuin viestinnän välittäjän hallinnassa oleviin tiloihin, ei kuitenkaan vakituiseen asumiseen käytettyihin tiloihin. Toimenpiteestä päättää Pääesikunnan 93 §:ssä tarkoitettuun rikostorjuntatehtävään määrätty ja tehtäviin erityisesti perehtynyt sotilaslakimies tai muu virkamies. Kotietsinnästä säädetään erikseen.

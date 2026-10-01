@@ -1,0 +1,7 @@
+# 139 § Laitteen, menetelmän tai ohjelmiston asentaminen ja poisottaminen
+Osa: III OSA PÄÄESIKUNNAN TEHTÄVÄT JA TOIMIVALTUUDET RIKOSTORJUNNASSA
+Luku: 13 luku Salaiset tiedonhankintakeinot Pääesikunnan rikostorjunnassa
+
+Pääesikunnan 88 tai 93 §:ssä tarkoitettuja rikostorjuntatehtäviä hoitavalla virkamiehellä on oikeus sijoittaa tekniseen tarkkailuun käytettävä laite, menetelmä tai ohjelmisto toimenpiteen kohteena olevaan esineeseen, aineeseen, omaisuuteen, tilaan tai muuhun paikkaan taikka tietojärjestelmään, jos tarkkailun toteuttaminen sitä edellyttää. Virkamiehellä on tällöin oikeus laitteen, menetelmän tai ohjelmiston asentamiseksi, käyttöön ottamiseksi ja poistamiseksi salaa mennä edellä mainittuihin kohteisiin tai tietojärjestelmään sekä kiertää, purkaa tai muulla vastaavalla tavalla tilapäisesti ohittaa kohteen tai tietojärjestelmän suojaus tai haitata sitä. Kotietsinnästä säädetään erikseen.
+
+Tekniseen tarkkailuun käytettävän laitteen, menetelmän tai ohjelmiston saa asentaa vakituiseen asumiseen käytettävään tilaan vain, jos tuomioistuin on antanut siihen luvan Pääesikunnan 88 tai 93 §:ssä tarkoitettuun rikostorjuntatehtävään määrätyn salaisten tiedonhankintakeinojen käyttöön erityisesti perehtyneen sotilaslakimiehen tai muun virkamiehen vaatimuksesta taikka jos asentaminen on välttämätöntä 130 §:n 5 momentissa, 132 §:n 5 momentissa tai 134 §:n 4 momentissa tarkoitetuissa tapauksissa.
