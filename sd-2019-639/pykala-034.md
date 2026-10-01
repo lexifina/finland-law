@@ -1,0 +1,4 @@
+# 34 § Henkilötietojen luovuttaminen yleisen tietoverkon välityksellä
+Luku: 4 luku Henkilötietojen luovuttaminen
+
+Rajavartiolaitos saa salassapitosäännösten estämättä luovuttaa yleisen tietoverkon välityksellä yleisön tietoon saattamiseksi ja yleisövihjeiden saamiseksi henkilötietoja, joista on asian kiireellisyyden, vaaratilanteen, rikosten ennalta estämisen, omaisuuden omistajalleen palauttamisen, rajaturvallisuuden ylläpitämisen tai tutkinnallisten syiden vuoksi tarpeen erityisesti tiedottaa. Henkilötiedot saadaan luovuttaa vain, jos se on olennaisen tärkeää Rajavartiolaitokselle säädetyn tehtävän suorittamiseksi, eikä tietojen luovuttaminen ole vastoin rekisteröidyn oikeutettua etua. Toiselta viranomaiselta saatuja henkilötietoja saa luovuttaa vain tiedot luovuttaneen viranomaisen suostumuksella.

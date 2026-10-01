@@ -1,0 +1,8 @@
+# 35 § Henkilötietojen luovuttaminen Euroopan unionin jäsenvaltion ja Euroopan talousalueen jäsenvaltion lainvalvontaviranomaiselle
+Luku: 4 luku Henkilötietojen luovuttaminen
+
+Rajavartiolaitos saa luovuttaa salassapitosäännösten estämättä 7–15 ja 15 a §:ssä tarkoitettuja henkilötietoja toisen Euroopan unionin jäsenvaltion ja Euroopan talousalueeseen kuuluvan valtion toimivaltaiselle viranomaiselle, joka käsittelee henkilötietoja luonnollisten henkilöiden suojelusta toimivaltaisten viranomaisten suorittamassa henkilötietojen käsittelyssä rikosten ennalta estämistä, tutkimista, paljastamista tai rikoksiin liittyviä syytetoimia tai rikosoikeudellisten seuraamusten täytäntöönpanoa varten sekä näiden tietojen vapaasta liikkuvuudesta ja neuvoston puitepäätöksen 2008/977/YOS kumoamisesta annetun Euroopan parlamentin ja neuvoston direktiivin (EU) 2016/680 1 artiklan 1 kohdassa säädettyyn tarkoitukseen, samoin edellytyksin kuin se saa itse käsitellä mainittuja henkilötietoja.
+
+Rajavartiolaitos saa lisäksi luovuttaa salassapitosäännösten estämättä 7–15 ja 15 a §:ssä tarkoitettuja henkilötietoja Eurojustille ja muulle Euroopan unionin toiminnasta tehdyn sopimuksen nojalla perustetulle toimielimelle, jonka tehtäviin kuuluu oikeus- ja yhteiskuntajärjestyksen turvaaminen, yleisen järjestyksen ja turvallisuuden ylläpitäminen tai rikosten ennalta estäminen, selvittäminen ja syyteharkintaan saattaminen, mainittujen tehtävien suorittamiseksi.
+
+Sen lisäksi, mitä tässä laissa ja rikosasioiden tietosuojalaissa säädetään, henkilötietojen luovuttamisesta Euroopan unionin jäsenvaltion lainvalvontaviranomaiselle säädetään Euroopan unionin jäsenvaltioiden lainvalvontaviranomaisten välisestä tietojenvaihdosta annetussa laissa (806/2024).

@@ -1,0 +1,2 @@
+Laki henkilötietojen käsittelystä Rajavartiolaitoksessa
+Eduskunnan päätöksen mukaisesti säädetään:

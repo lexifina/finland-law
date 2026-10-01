@@ -1,0 +1,4 @@
+# 22 a § Tietojen saanti kansallista tilannekuvaa varten
+Luku: 3 luku Oikeus tietojen saamiseen
+
+Rajavartiolaitoksella on sen lisäksi, mitä muualla laissa säädetään, oikeus saada eurooppalaisesta raja- ja merivartiostosta sekä asetusten (EU) N:o 1052/2013 ja (EU) 2016/1624 kumoamisesta annetun Euroopan parlamentin ja neuvoston asetuksen (EU) 2019/1896, jäljempänä raja- ja merivartiostoasetus, 25 artiklassa tarkoitetun kansallisen tilannekuvan tuottamiseksi ja ylläpitämiseksi poliisilta, Tullilta, Maahanmuuttovirastolta, hätäkeskustietojärjestelmästä, ilmailuviranomaisilta ja liikenteen ohjauspalvelun tarjoajalta mainitun asetuksen 24 artiklan 3 kohdassa tarkoitetussa täytäntöönpanosäädöksessä säädettyjä välttämättömiä tietoja, ei kuitenkaan henkilötietoja lukuun ottamatta alusten ja ilma-alusten tunnistenumeroita.
