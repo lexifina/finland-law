@@ -1,0 +1,10 @@
+# 38 § Elinkeinonharjoittajan puolustautumisoikeus
+Luku: 5 luku Menettelyä koskevat säännökset
+
+Kilpailu- ja kuluttajavirasto ilmoittaa tutkinnan kohteena olevalle elinkeinonharjoittajalle, mikä on sen asema tutkinnassa ja mistä teosta sitä epäillään. Elinkeinonharjoittajalla on oikeus saada tiedot niin pian, kuin se on mahdollista ilman, että siitä voi aiheutua haittaa kilpailunrajoituksen selvittämiselle.
+
+Tutkinnan kohteena olevalla elinkeinonharjoittajalla on pyynnöstä suullisesti tai muulla sopivalla tavalla oikeus saada tieto tutkintaa koskevista asiakirjoista ja asian käsittelyvaiheesta siltä osin kuin siitä ei voi aiheutua haittaa asian selvittämiselle, jollei viranomaisten toiminnan julkisuudesta annetusta laissa (621/1999) tai Euroopan unionin säädöksissä toisin säädetä.
+
+Kilpailu- ja kuluttajavirasto voi käyttää 33–36 §:n perusteella saatuja tietoja ainoastaan siihen tarkoitukseen, jota varten ne on koottu, ellei Kilpailu- ja kuluttajavirasto ole aloittanut uutta tutkintaa. Elinkeinonharjoittajalla ei ole velvollisuutta toimittaa Kilpailu- ja kuluttajavirastolle asiakirjoja, jotka sisältävät ulkopuolisen oikeudellisen neuvonantajan ja asiakkaan välistä luottamuksellisena pidettävää kirjeenvaihtoa. Elinkeinonharjoittajan vastatessa Kilpailu- ja kuluttajaviraston esittämiin kysymyksiin sitä ei voida velvoittaa myöntämään, että se on toiminut 5 tai 7 §:n taikka Euroopan unionin toiminnasta tehdyn sopimuksen 101 tai 102 artiklan vastaisesti.
+
+Elinkeinonharjoittajalla on oikeus tulla kuulluksi, ennen kuin Kilpailu- ja kuluttajavirasto tekee seuraamusmaksuesityksen tai 5 tai 7 §:n taikka Euroopan unionin toiminnasta tehdyn sopimuksen 101 tai 102 artiklan vastaisen menettelyn toteavan päätöksen. Kilpailu- ja kuluttajavirasto ilmoittaa elinkeinonharjoittajalle kirjallisesti tutkinnassa esiin tulleisiin seikkoihin liittyen sitä vastaan esittämänsä väitteet ja niiden perustelut. Kilpailu- ja kuluttajavirasto asettaa kohtuullisen määräajan, jonka kuluessa elinkeinonharjoittaja voi esittää Kilpailu- ja kuluttajavirastolle näkökantansa suullisesti tai kirjallisesti.

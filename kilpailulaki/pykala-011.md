@@ -1,0 +1,4 @@
+# 11 § Ryhmäpoikkeusedun peruuttaminen
+Luku: 3 luku Kiellettyjä kilpailunrajoituksia koskevat toimenpiteet, seuraamukset ja vahingonkorvaus
+
+Kilpailu- ja kuluttajavirasto voi EY:n perustamissopimuksen 81 ja 82 artiklassa vahvistettujen kilpailusääntöjen täytäntöönpanosta annetun neuvoston asetuksen (EY) N:o 1/2003 29 artiklan 2 kohdan mukaisesti peruuttaa sopimukselta, elinkeinonharjoittajien yhteenliittymän päätökseltä tai yhdenmukaistetulta menettelytavalta komission ryhmäpoikkeusasetuksen mukaisen edun Suomen alueella, jos sopimuksella, elinkeinonharjoittajien yhteenliittymän päätöksellä tai yhdenmukaistetulla menettelytavalla on Euroopan unionin toiminnasta tehdyn sopimuksen 101 artiklan 3 kohdan kanssa ristiriidassa olevia vaikutuksia Suomen alueella tai sellaisella osalla Suomen aluetta, joka täyttää kaikki erillisten maantieteellisten markkinoiden tunnuspiirteet.
