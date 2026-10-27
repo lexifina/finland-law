@@ -11,3 +11,5 @@ Jos ulkomaalainen on tehnyt työnantajansa kanssa työsopimuslain (55/2001) 3 lu
 Edellä 1 momentissa tarkoitetuissa tilanteissa ulkomaalaisen toimeentulon on oltava turvattu 39 §:ssä säädetyllä tavalla.
 
 Jos 1 momentin 3 kohdassa tarkoitettu työttömyys kestää yli kolme kuukautta, Maahanmuuttovirasto voi pyytää ulkomaalaista esittämään selvitystä siitä, että hänen toimeentulonsa on turvattu.
+
+Jos ulkomaalaisen työolojen perusteella on aihetta epäillä erityistä hyväksikäyttöä, 1 momentissa tarkoitettu aika on siinä säädettyä aikaa kolme kuukautta pidempi.
