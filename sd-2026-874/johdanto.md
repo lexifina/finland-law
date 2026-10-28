@@ -1,0 +1,2 @@
+Laki automaattisesta tietojen hausta ja tietojenvaihdosta eurooppalaisessa poliisiyhteistyössä
+Eduskunnan päätöksen mukaisesti säädetään:
