@@ -1,0 +1,2 @@
+Laki Pohjoismaiden välillä tehdyn avioliittoa, lapseksiottamista ja holhousta koskevia kansainvälis-yksityisoikeudellisia määräyksiä sisältävän sopimuksen muuttamista koskevan sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
