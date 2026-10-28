@@ -1,0 +1,2 @@
+Laki vapunpäivän järjestämisestä työntekijäin vapaapäiväksi eräissä tapauksissa
+Eduskunnan päätöksen mukaisesti säädetään:
