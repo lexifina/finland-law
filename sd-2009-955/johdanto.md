@@ -1,0 +1,2 @@
+Laki Euroopan unionin ja Australian välillä lentoliikenteenharjoittajien Euroopan unionista peräisin olevien PNR- eli matkustajarekisteritietojen käsittelemisestä ja siirtämisestä Australian tullilaitokselle tehdyn sopimuksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja sopimuksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
