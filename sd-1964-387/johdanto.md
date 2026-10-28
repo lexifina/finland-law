@@ -1,0 +1,2 @@
+Laki kansainvälisluontoiseen irtainten esineiden kauppaan sovellettavasta laista
+Eduskunnan päätöksen mukaisesti säädetään:
