@@ -1,0 +1,2 @@
+Laki Euroopan unionin turvallisuusalan tutkimuslaitokselle ja satelliittikeskukselle sekä niiden elimille ja niiden henkilöstölle myönnettävistä erioikeuksista ja vapauksista tehdyn neuvostossa kokoontuneiden Euroopan yhteisöjen jäsenvaltioiden hallitusten edustajien päätöksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja näiden virastojen oikeustoimikelpoisuudesta
+Eduskunnan päätöksen mukaisesti säädetään:
