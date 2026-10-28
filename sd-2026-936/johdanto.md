@@ -1,0 +1,2 @@
+Laki tutkimustarkoituksessa siirrettävän käytetyn ydinpolttoaineen ja sen tutkimustoiminnan seurauksena syntyvän radioaktiivisen jätteen loppusijoittamisesta Ruotsin kuningaskunnan alueella Ruotsin kanssa tehdystä sopimuksesta
+Eduskunnan päätöksen mukaisesti säädetään:
