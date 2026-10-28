@@ -1,0 +1,2 @@
+Laki luonnonvaraisten tuotteiden keräämisen rajoittamisesta eräissä tapauksissa
+Eduskunnan päätöksen mukaisesti säädetään:
