@@ -1,0 +1,2 @@
+Laki terrorismin vastustamista koskevaan eurooppalaiseen yleissopimukseen tehdyn pöytäkirjan lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
