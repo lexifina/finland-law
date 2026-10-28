@@ -1,0 +1,2 @@
+Laki Kansainvälisen työjärjestön hyväksymän työnvälityksen järjestelyä koskevan yleissopimuksen numero 88 eräiden määräysten hyväksymisestä
+Eduskunnan päätöksen mukaisesti säädetään:
