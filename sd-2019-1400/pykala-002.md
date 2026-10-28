@@ -1,0 +1,3 @@
+# 2 §
+
+Vuoden 2010 HNS-yleissopimuksen 1 artiklan 4 kohdan mukaisella vastaanottajalla tarkoitetaan henkilöä, joka tosiasiallisesti ottaa vastaan suomalaisessa satamassa tai terminaalissa purettavan mainitun artiklan 10 kohdassa tarkoitetun lastin. Jos lastin vastaanottamisen aikaan sen tosiasiallisesti vastaanottava henkilö toimii kuitenkin jonkin sopimusvaltion toimivaltaan kuuluvan henkilön edustajana, toimeksiantaja katsotaan lastin vastaanottajaksi, jos edustaja ilmoittaa toimeksiantajan vuoden 2010 HNS-yleissopimuksen 13 artiklassa tarkoitetulle kansainväliselle vaarallisia ja haitallisia aineita koskevalle rahastolle (HNS-rahasto).
