@@ -1,0 +1,2 @@
+Laki edellytyksistä osallistua tietyissä Ahvenanmaan maakuntaan rakennettavissa tuulivoimaloissa tuotetun sähkön tuotantotuen kustannuksiin
+Eduskunnan päätöksen mukaisesti säädetään:
