@@ -1,0 +1,2 @@
+Laki Euroopan puolustusvirastolle ja sen henkilöstöön kuuluville myönnetyistä erioikeuksista ja vapauksista neuvostossa kokoontuneiden Euroopan unionin jäsenvaltioiden hallitusten edustajien tekemän päätöksen lainsäädännön alaan kuuluvien määräysten voimaansaattamisesta ja Euroopan puolustusvirastoa koskevan neuvoston päätöksen soveltamisesta
+Eduskunnan päätöksen mukaisesti säädetään:
