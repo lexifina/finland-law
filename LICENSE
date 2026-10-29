@@ -1,0 +1,18 @@
+Source of the text: Finlex, the legal database of Finland, owned by the Ministry of Justice
+(Oikeusministeriö), open data interface https://opendata.finlex.fi (Akoma Ntoso XML).
+
+Finlex states (https://www.finlex.fi/en/data-protection): "Finlex open data is available under a Creative
+Commons Attribution 4.0 (CC BY 4.0) licence." It adds: "The data may not be used for purposes that breach or
+compromise the protection of personal data." and "The data may not be combined in a manner that violates a
+person's privacy." Licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution for the legal texts in this repository: "Contains data from Finlex (Oikeusministeriö / Ministry of
+Justice, Finland), https://www.finlex.fi, licensed under CC BY 4.0." The texts of the replayed intermediate
+versions are derived from that data by the method in REPRODUCE.md; they are not published by Finlex.
+
+Finlex says the consolidated texts are for information; only the Statute Book (Suomen säädöskokoelma) is
+authoritative.
+
+The history (commits and commit messages), the tables and the tools are dedicated to the public domain under
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+Reuse terms for the whole repository have not been separately reviewed: it stays private.
