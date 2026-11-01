@@ -1,6 +1,6 @@
 # 5 § Vaaratiedotteen välittäminen väestölle
 
-Vaaratiedote välitetään väestölle radiossa ja Hätäkeskuslaitoksen tarjoamaan telepäätelaitesovellukseen.
+Vaaratiedote välitetään väestölle solulähetysjärjestelmän, Hätäkeskuslaitoksen tarjoaman telepäätelaitesovelluksen ja radion kautta.
 
 Vaaratiedote voidaan lisäksi välittää väestölle televisiossa, jos vaaratiedotteen antava viranomainen niin päättää.
 
