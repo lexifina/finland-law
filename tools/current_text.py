@@ -76,7 +76,7 @@ def prepare(a: dict, today: str, retrieved: str) -> dict:
     inf = cons.find('.//' + N + 'proprietary/' + B.FIN + 'inForce/' + B.FIN + 'dateEntryIntoForce')
     own = inf.get('date') if inf is not None else None
     if own and own > today:
-        return {'ok': False, 'act': ident, 'reason': 'not in force yet'}
+        return {'ok': False, 'act': ident, 'reason': 'not yet in force (the act itself)'}
     try:
         act = R.parse_act(cons, notes_ok=True)
     except Exception as e:  # noqa: BLE001  (ReplayError and malformed markup alike)
@@ -119,7 +119,7 @@ def prepare(a: dict, today: str, retrieved: str) -> dict:
         day = own
     return {'ok': True, 'act': ident, 'cfg': a, 'title': title, 'files': files, 'in_force': day, 'basis': basis,
             'text_as_of': retrieved if basis == 'source gives no date' else None,
-            'last': last, 'amendments': len(ams), 'undated': len(ams) - len(dated), 'own_in_force': own,
+            'last': last, 'ams': ams, 'amendments': len(ams), 'undated': len(ams) - len(dated), 'own_in_force': own,
             'consolidated_on': B.frbr(cons, 'dateConsolidated'), 'issued': B.frbr(cons, 'dateIssued'),
             'url': url, 'words': len(src)}
 
@@ -139,8 +139,12 @@ def message(p: dict, folder: str) -> str:
                   + (f' ({p["last"]["note"]})' if p['last'].get('note') else '')
                   + f'; {p["amendments"]} amending acts listed in all'
                   + (f', {p["undated"]} of them with no in-force day.' if p['undated'] else '.'), '']
+    own = enacted_as_is(p)
+    if own:
+        lines[4:5] = ['The act as enacted: Finlex lists no amending act for it, so its current consolidation ('
+                      f'retrieved {p["retrieved"]}) is its original text, in force from its own in-force day.']
     lines += ['Evidence: current consolidation text from Finlex open data; every word of it is in the files, in order',
-              'Kind: baseline',
+              *(['Kind: law', 'Law-kind: act', f'Law: {ident}'] if own else ['Kind: baseline']),
               f'Enacted: {p["issued"]}' if p.get('issued') else None,
               f'In-force: {p["in_force"]}',
               f'Text-as-of: {p["text_as_of"]}' if p.get('text_as_of') else None,
@@ -148,6 +152,18 @@ def message(p: dict, folder: str) -> str:
               f'Source: {B.SITE}/fi/lainsaadanto/{cfg["year"]}/{cfg["no"]}',
               f'Text-source: {p["url"]}']
     return '\n'.join(x for x in lines if x is not None) + '\n'
+
+
+def enacted_as_is(p: dict) -> bool:
+    """Never amended, with its own in-force day: the commit is the act itself taking effect (Kind: law)."""
+    return not p['ams'] and bool(p.get('own_in_force')) and p['in_force'] == p['own_in_force']
+
+
+def author(p: dict) -> tuple[str, str]:
+    if enacted_as_is(p):
+        y, no = p['cfg']['year'], p['cfg']['no']
+        return f'{no}/{y}', f'sd-{y}-{no}@finlex.invalid'
+    return 'Finlex (Oikeusministeriö)', 'finlex@finlex.invalid'
 
 
 def left_out_rows(path: Path) -> list[dict]:

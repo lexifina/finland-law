@@ -20,4 +20,4 @@ Not here: acts whose consolidation carries no text in the open data (most acts f
 as in force, and consolidations that already print an amendment not yet in force (they join once that day has passed).
 LEFT-OUT.csv lists every act in force that the record does not hold, with the reason.
 
-Appended so far: 40 acts, the last batch on 2026-11-05.
+Appended so far: 340 acts, the last batch on 2026-11-05.
