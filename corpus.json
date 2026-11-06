@@ -1,6 +1,6 @@
 {
  "corpus": "fi/national/acts",
- "name": "Finnish law: 2298 acts in force (Finlex): 1757 replayed and verified, 541 current text",
+ "name": "Finnish law: 2299 acts in force (Finlex): 1757 replayed and verified, 542 current text",
  "label": "Finland",
  "language": "fi",
  "acts": [
@@ -2301,11 +2301,12 @@
   "170/2025",
   "253/2025",
   "85/2026",
-  "874/2026"
+  "874/2026",
+  "936/2026"
  ],
  "history_from": "1954-01-01",
  "record_to": "2026-10-29",
- "record_note": "1757 of the 6239 acts in force that Finlex consolidates: each from its original text, with its amending acts replayed and the end state verified against the official consolidation (796 never-amended acts whose consolidation carries no text are their original alone); 4482 acts the replay cannot verify, or with no text in the open data, are left out (LEFT-OUT.csv). Data retrieved 2026-10-29. Current text only: 541 acts the replay cannot verify hold just their current consolidation, dated by the day their newest wording took effect (CURRENT-TEXT.md).",
+ "record_note": "1757 of the 6239 acts in force that Finlex consolidates: each from its original text, with its amending acts replayed and the end state verified against the official consolidation (796 never-amended acts whose consolidation carries no text are their original alone); 4482 acts the replay cannot verify, or with no text in the open data, are left out (LEFT-OUT.csv). Data retrieved 2026-10-29. Current text only: 542 acts the replay cannot verify hold just their current consolidation, dated by the day their newest wording took effect (CURRENT-TEXT.md).",
  "in_force_trailer": "In-force",
  "built": "2026-10-29",
  "dates": {
@@ -2333,7 +2334,7 @@
   "file": "([a-z0-9-]+)/(?:luku-[0-9a-z]+-)?pykala-0*([0-9]+[a-z]*)\\.md",
   "cites": "([^0-9]|^){n} ?§"
  },
- "checked_on": "2026-11-05",
+ "checked_on": "2026-11-06",
  "history": "replayed",
- "verification": "Verified against official text: each act's first commit is its original statute text; for the 961 acts with a consolidation text, the last commit equals Finlex's current consolidation (every section, after the declared normalisation). The 796 never-amended acts whose consolidation carries no text are checked against the original only. Intermediate states are replays of the amending acts and are not independently verified. The 541 current-text acts are checked against their consolidation only (every word, in order: CURRENT-TEXT.md; tools/current_text.py words)."
+ "verification": "Verified against official text: each act's first commit is its original statute text; for the 961 acts with a consolidation text, the last commit equals Finlex's current consolidation (every section, after the declared normalisation). The 796 never-amended acts whose consolidation carries no text are checked against the original only. Intermediate states are replays of the amending acts and are not independently verified. The 542 current-text acts are checked against their consolidation only (every word, in order: CURRENT-TEXT.md; tools/current_text.py words)."
 }
