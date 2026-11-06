@@ -1,5 +1,7 @@
 # Finnish law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Finland's national law, which global-law reads at `finland/national/acts/`.
+
 1757 Finnish acts in force (lait), as a git repository: the Constitution (Suomen perustuslaki, 731/1999) and every
 other act Finlex consolidates whose history the replay can reproduce. Each amending act is one commit, credited to that
 act and dated the day it took effect, at noon in Helsinki. Text is Finnish.
