@@ -1,0 +1,2 @@
+Laki liikennemerkkejä ja -opasteita koskevaa yleissopimusta täydentävään eurooppalaiseen sopimukseen liitettävään tiemerkintöjä käsittelevään pöytäkirjaan tehdyistä muutoksista
+Eduskunnan päätöksen mukaisesti säädetään:
