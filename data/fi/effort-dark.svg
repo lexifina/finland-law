@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">Suomen oikeus git-historiana</text>
+<rect x="578.2" y="24.5" width="155" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="655.9" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">kirjattu 29.10.2026 asti</text>
+<rect x="741.6" y="24.5" width="114" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="798.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">tila: ajan tasalla</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">2 299</text>
+<text x="40.0" y="106" font-size="12" fill="#9198a1">säädöstä</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#3d444d"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#f0f6fc">4 436</text>
+<text x="206.4" y="106" font-size="12" fill="#9198a1">muutosta, commiteina</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#3d444d"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#f0f6fc">44 984</text>
+<text x="372.8" y="106" font-size="12" fill="#9198a1">säännöstiedostoa</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#3d444d"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#f0f6fc">3 900</text>
+<text x="539.2" y="106" font-size="12" fill="#9198a1">tekijää: lait, julkaisijat</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#3d444d"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1932–2026</text>
+<text x="705.6" y="106" font-size="12" fill="#9198a1">vuoden historia</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#f0f6fc">Muutokset voimaantulovuoden mukaan</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#3d444d" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#9198a1">0</text>
+<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#9198a1">200</text>
+<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#9198a1">400</text>
+<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#9198a1">600</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#9198a1">800</text>
+<rect x="81.10" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1932: voimaan tulleet muutokset: 1</title></rect>
+<text x="148.4" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1940</text>
+<text x="228.3" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1950</text>
+<rect x="256.87" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1954: voimaan tulleet muutokset: 1</title></rect>
+<text x="308.2" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1960</text>
+<rect x="368.72" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1968: voimaan tulleet muutokset: 2</title></rect>
+<rect x="376.71" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1969: voimaan tulleet muutokset: 1</title></rect>
+<text x="388.1" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1970</text>
+<rect x="392.69" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1971: voimaan tulleet muutokset: 1</title></rect>
+<rect x="408.67" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1973: voimaan tulleet muutokset: 1</title></rect>
+<rect x="416.66" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1974: voimaan tulleet muutokset: 2</title></rect>
+<rect x="424.65" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1975: voimaan tulleet muutokset: 1</title></rect>
+<rect x="432.64" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1976: voimaan tulleet muutokset: 1</title></rect>
+<rect x="448.62" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1978: voimaan tulleet muutokset: 1</title></rect>
+<rect x="456.61" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1979: voimaan tulleet muutokset: 1</title></rect>
+<rect x="464.59" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1980: voimaan tulleet muutokset: 2</title></rect>
+<text x="468.0" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1980</text>
+<rect x="472.58" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1981: voimaan tulleet muutokset: 2</title></rect>
+<rect x="488.56" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1983: voimaan tulleet muutokset: 2</title></rect>
+<rect x="504.54" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1985: voimaan tulleet muutokset: 1</title></rect>
+<rect x="512.53" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1986: voimaan tulleet muutokset: 2</title></rect>
+<rect x="520.52" y="326.4" width="6.79" height="4.1" rx="1.5" fill="#2ea043"><title>1987: voimaan tulleet muutokset: 22</title></rect>
+<rect x="528.51" y="325.6" width="6.79" height="4.9" rx="1.5" fill="#2ea043"><title>1988: voimaan tulleet muutokset: 26</title></rect>
+<rect x="536.50" y="323.2" width="6.79" height="7.3" rx="1.5" fill="#2ea043"><title>1989: voimaan tulleet muutokset: 39</title></rect>
+<rect x="544.49" y="325.6" width="6.79" height="4.9" rx="1.5" fill="#2ea043"><title>1990: voimaan tulleet muutokset: 26</title></rect>
+<text x="547.9" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1990</text>
+<rect x="552.48" y="320.9" width="6.79" height="9.6" rx="1.5" fill="#2ea043"><title>1991: voimaan tulleet muutokset: 51</title></rect>
+<rect x="560.47" y="323.0" width="6.79" height="7.5" rx="1.5" fill="#2ea043"><title>1992: voimaan tulleet muutokset: 40</title></rect>
+<rect x="568.46" y="319.2" width="6.79" height="11.2" rx="1.5" fill="#2ea043"><title>1993: voimaan tulleet muutokset: 60</title></rect>
+<rect x="576.45" y="318.3" width="6.79" height="12.2" rx="1.5" fill="#2ea043"><title>1994: voimaan tulleet muutokset: 65</title></rect>
+<rect x="584.44" y="320.4" width="6.79" height="10.1" rx="1.5" fill="#2ea043"><title>1995: voimaan tulleet muutokset: 54</title></rect>
+<rect x="592.43" y="320.6" width="6.79" height="9.9" rx="1.5" fill="#2ea043"><title>1996: voimaan tulleet muutokset: 53</title></rect>
+<rect x="600.42" y="323.2" width="6.79" height="7.3" rx="1.5" fill="#2ea043"><title>1997: voimaan tulleet muutokset: 39</title></rect>
+<rect x="608.41" y="323.9" width="6.79" height="6.6" rx="1.5" fill="#2ea043"><title>1998: voimaan tulleet muutokset: 35</title></rect>
+<rect x="616.39" y="320.2" width="6.79" height="10.3" rx="1.5" fill="#2ea043"><title>1999: voimaan tulleet muutokset: 55</title></rect>
+<rect x="624.38" y="320.9" width="6.79" height="9.6" rx="1.5" fill="#2ea043"><title>2000: voimaan tulleet muutokset: 51</title></rect>
+<text x="627.8" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2000</text>
+<rect x="632.37" y="324.5" width="6.79" height="6.0" rx="1.5" fill="#2ea043"><title>2001: voimaan tulleet muutokset: 32</title></rect>
+<rect x="640.36" y="318.3" width="6.79" height="12.2" rx="1.5" fill="#2ea043"><title>2002: voimaan tulleet muutokset: 65</title></rect>
+<rect x="648.35" y="322.8" width="6.79" height="7.7" rx="1.5" fill="#2ea043"><title>2003: voimaan tulleet muutokset: 41</title></rect>
+<rect x="656.34" y="314.0" width="6.79" height="16.5" rx="1.5" fill="#2ea043"><title>2004: voimaan tulleet muutokset: 88</title></rect>
+<rect x="664.33" y="317.8" width="6.79" height="12.8" rx="1.5" fill="#2ea043"><title>2005: voimaan tulleet muutokset: 68</title></rect>
+<rect x="672.32" y="318.9" width="6.79" height="11.6" rx="1.5" fill="#2ea043"><title>2006: voimaan tulleet muutokset: 62</title></rect>
+<rect x="680.31" y="313.2" width="6.79" height="17.2" rx="1.5" fill="#2ea043"><title>2007: voimaan tulleet muutokset: 92</title></rect>
+<rect x="688.30" y="312.7" width="6.79" height="17.8" rx="1.5" fill="#2ea043"><title>2008: voimaan tulleet muutokset: 95</title></rect>
+<rect x="696.29" y="317.8" width="6.79" height="12.8" rx="1.5" fill="#2ea043"><title>2009: voimaan tulleet muutokset: 68</title></rect>
+<rect x="704.28" y="299.4" width="6.79" height="31.1" rx="1.5" fill="#2ea043"><title>2010: voimaan tulleet muutokset: 166</title></rect>
+<text x="707.7" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2010</text>
+<rect x="712.27" y="307.6" width="6.79" height="22.9" rx="1.5" fill="#2ea043"><title>2011: voimaan tulleet muutokset: 122</title></rect>
+<rect x="720.26" y="316.4" width="6.79" height="14.1" rx="1.5" fill="#2ea043"><title>2012: voimaan tulleet muutokset: 75</title></rect>
+<rect x="728.25" y="314.9" width="6.79" height="15.6" rx="1.5" fill="#2ea043"><title>2013: voimaan tulleet muutokset: 83</title></rect>
+<rect x="736.24" y="306.3" width="6.79" height="24.2" rx="1.5" fill="#2ea043"><title>2014: voimaan tulleet muutokset: 129</title></rect>
+<rect x="744.23" y="302.4" width="6.79" height="28.1" rx="1.5" fill="#2ea043"><title>2015: voimaan tulleet muutokset: 150</title></rect>
+<rect x="752.22" y="291.7" width="6.79" height="38.8" rx="1.5" fill="#2ea043"><title>2016: voimaan tulleet muutokset: 207</title></rect>
+<rect x="760.21" y="295.8" width="6.79" height="34.7" rx="1.5" fill="#2ea043"><title>2017: voimaan tulleet muutokset: 185</title></rect>
+<rect x="768.19" y="307.8" width="6.79" height="22.7" rx="1.5" fill="#2ea043"><title>2018: voimaan tulleet muutokset: 121</title></rect>
+<rect x="776.18" y="293.6" width="6.79" height="36.9" rx="1.5" fill="#2ea043"><title>2019: voimaan tulleet muutokset: 197</title></rect>
+<rect x="784.17" y="289.8" width="6.79" height="40.7" rx="1.5" fill="#2ea043"><title>2020: voimaan tulleet muutokset: 217</title></rect>
+<text x="787.6" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2020</text>
+<rect x="792.16" y="302.6" width="6.79" height="27.9" rx="1.5" fill="#2ea043"><title>2021: voimaan tulleet muutokset: 149</title></rect>
+<rect x="800.15" y="300.9" width="6.79" height="29.6" rx="1.5" fill="#2ea043"><title>2022: voimaan tulleet muutokset: 158</title></rect>
+<rect x="808.14" y="285.7" width="6.79" height="44.8" rx="1.5" fill="#2ea043"><title>2023: voimaan tulleet muutokset: 239</title></rect>
+<rect x="816.13" y="305.9" width="6.79" height="24.6" rx="1.5" fill="#2ea043"><title>2024: voimaan tulleet muutokset: 131</title></rect>
+<rect x="824.12" y="287.0" width="6.79" height="43.5" rx="1.5" fill="#2ea043"><title>2025: voimaan tulleet muutokset: 232</title></rect>
+<rect x="832.11" y="213.1" width="6.79" height="117.4" rx="1.5" fill="#2ea043"><title>2026: voimaan tulleet muutokset: 626</title></rect>
+<text x="835.5" y="207.1" font-size="11" font-weight="600" text-anchor="middle" fill="#f0f6fc">626 vuonna 2026</text>
+<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1">Voimaantulopäivän mukaan päivätyt muutokset: 4 436. Historian tyyppi: replayed.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#f0f6fc">Kattavuus virallisiin lähteisiin verrattuna, 12.11.2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#f0f6fc">Perustuslaki</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#9198a1">repositoriossa</text>
+<g><title>Perustuslaki: 100 %</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
+<text x="40.5" y="482.5" font-size="13" fill="#f0f6fc">Keskeiset lait</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#9198a1">osuus keskeisistä laeista</text>
+<g><title>Keskeiset lait: 57 %</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="479.5" width="52.2" height="8" rx="4" fill="#d29922"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">57 %</text>
+<text x="40.5" y="518.5" font-size="13" fill="#f0f6fc">Valtakunnallinen lainsäädäntö</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#9198a1">osuus virallisesta kokonaismäärästä</text>
+<g><title>Valtakunnallinen lainsäädäntö: 37 %</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="515.5" width="33.9" height="8" rx="4" fill="#d29922"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">37 %</text>
+<text x="456.0" y="446.5" font-size="13" fill="#f0f6fc">Alueellinen lainsäädäntö</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#9198a1">ei lainsäädäntövaltaisia alueita</text>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#9198a1">ei sovellu</text>
+<text x="456.0" y="482.5" font-size="13" fill="#f0f6fc">Oikeuskäytäntö</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#9198a1">mukana olevat ylimmät tuomioistuimet</text>
+<g><title>Oikeuskäytäntö: 99 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="692.0" y="479.5" width="90.6" height="8" rx="4" fill="#2ea043"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">99 %</text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#f0f6fc">Sisällön oikeellisuus</text>
+<text x="40.5" y="612.5" font-size="13" fill="#f0f6fc">Muutokset voimaantulopäivineen</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#9198a1">osuus muutoksista</text>
+<g><title>Muutokset voimaantulopäivineen: 100 %</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
+<text x="40.5" y="648.5" font-size="13" fill="#f0f6fc">Muutokset virallisine lähteineen</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#9198a1">Source-rivi tai linkki commitissa</text>
+<g><title>Muutokset virallisine lähteineen: 100 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
+<text x="40.5" y="684.5" font-size="13" fill="#f0f6fc">Verrattu viralliseen lähteeseen</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#9198a1">repositorion ilmoittama päivä</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">6.11.2026</text>
+<text x="456.0" y="612.5" font-size="13" fill="#f0f6fc">Maan aineistot (global-law)</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#9198a1">kansalliset säädökset: 1, oikeuskäytäntö: 7</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">8</text>
+<text x="24" y="736" font-size="11.5" fill="#9198a1">lexifina/finland-law versiossa 2623b33, koottu 2026-11-13. Ei dokumentaatiocommiteja. Laajuus: from 2000-03-01</text>
+</svg>
