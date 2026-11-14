@@ -1,114 +1,86 @@
-# Finnish law, change by change
+# Finland: law history in git
 
-[Suomi](README.md) · **English**
+**English** · **[Tai lue suomeksi](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Finnish law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Finland as a git history: one file per section (pykälä), one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every line; `git log` lists every change to a section; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Finland's national law, which global-law reads at `finland/national/acts/`.
 
-1757 Finnish acts in force (lait), as a git repository: the Constitution (Suomen perustuslaki, 731/1999) and every
-other act Finlex consolidates whose history the replay can reproduce. Each amending act is one commit, credited to that
-act and dated the day it took effect, at noon in Helsinki. Text is Finnish.
+**What is in it now:** the Constitution and 2,290 other acts in force (lait), of the 6,239 that Finlex consolidates, with 4,436 versions: 1,749 rebuilt from the original statute by applying each amending act in turn, with the end state checked against Finlex's current consolidation, and 542 held as that consolidation only ([`CURRENT-TEXT.md`](CURRENT-TEXT.md)). [`acts.csv`](acts.csv) lists every act here with its folder, [`amendments.csv`](amendments.csv) every amending act with its dates, and [`LEFT-OUT.csv`](LEFT-OUT.csv) the 3,941 acts in force left out, with the reason for each.
 
-**This record is partial.** It holds the 1,757 acts that replay exactly, of 6,239 in force; later rebuilds will
-add more and re-date the history, so commit hashes and tags may change.
+Each act is in `laki/<year>/<number>/`, one file per section (`pykala-NNN.md`, or `luku-NN-pykala-NNN.md` where sections are numbered per chapter): `laki/2019/872/` is the Työaikalaki, the Working Hours Act, 872/2019, and the Constitution, Suomen perustuslaki 731/1999, is [`laki/1999/731/`](laki/1999/731/). Until 10 November 2026 each folder was named by the act's id (`tyoaikalaki`, `perustuslaki`, `sd-<year>-<number>`), as the earlier history and `tools/finlex.py` still name it; [`data/paths.json`](data/paths.json) maps each id to its folder.
 
-**The intermediate versions are replayed. Only each act's end state is checked against an official consolidation.**
-Finlex serves only the CURRENT consolidation of a statute. The intermediate versions in this repository are therefore REPLAYED: the original statute is taken from the Statute Book and each amending act is applied, in in-force order, as the act's own enacting clause states (whole sections, headings, cross headings, subsections, introductory words, points and chapters; replacement, insertion and repeal; temporary amendments end the day after their last day in force). Only the end state of each act is checked against the official consolidation; the earlier versions are not independently confirmed. The method is the same as the US Code repository: replay, then check the result against the official text.
+The text is in Finnish, as Finlex publishes it. The Swedish text, equally official, and translations are not part of this record.
 
-| | |
-| --- | --- |
-| Acts in force that Finlex consolidates | 6239 |
-| Acts here | 1757 (535 amended, end state verified against the consolidation; 1222 never amended, of them 796 whose consolidation carries no text, so the original is not compared with one) |
-| Acts left out | 4482 ([`LEFT-OUT.csv`](LEFT-OUT.csv)) |
-| Amendment commits on `main` | 2145 (of them 4 ends of temporary amendments) |
-| Commits on the never-merged `future` branch | 34 |
-| First in-force day | 1954-01-01 |
-
-## The questions, as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did 10 § of the Constitution say on 1 January 2015? | `python tools/finlex.py 2015-01-01 perustuslaki 10` |
-| The whole Constitution as it stood in 2010 | `python tools/finlex.py 2010-01-01 perustuslaki` |
-| Which act wrote each line of 10 §? | `git blame perustuslaki/pykala-010.md` |
-| Every change to 10 §, with the act and the day | `git log --follow perustuslaki/pykala-010.md` |
-| Everything one act changed | `git show --stat perustuslaki/2011-1112` |
-| Which folder holds an act | [`acts.csv`](acts.csv) (act number, folder, title) |
-| The amending acts with all their dates | [`amendments.csv`](amendments.csv) |
-| Everything that took effect on 1 January 2020 | `git log --grep="^In-force: 2020-01-01" --format="%an %s"` |
-| Every act's history, one tag per act and amendment | `git tag --list "perustuslaki/*"` |
+| Every change to 34 § of the Working Hours Act | `git log -p --word-diff --follow -- laki/2019/872/pykala-034.md` |
+| Which act wrote each line of 34 §? | `git blame laki/2019/872/pykala-034.md` |
+| Every version of the Working Hours Act, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- laki/2019/872 tyoaikalaki` |
+| 34 § as in force on 1 January 2022 | `python tools/finlex.py 2022-01-01 tyoaikalaki 34` |
 
-## The dates, and which one we use
+**Outside git**, we also host this record publicly, for free:
 
-A Finnish act has a date it was enacted (`Enacted:`, the signature day), a day it was published in the Statute Book
-(`Published:`) and a day it takes effect (`In-force:`). **Commits are dated the day the change took effect**, at noon in
-Helsinki (EET, or EEST in summer time from 1981). Each amending act here has a single commencement day, read from
-Finlex's `amendedBy` list; acts that take effect in stages are left out. A temporary amendment carries `Expires:`; the
-day after it, a second commit by the same act restores the earlier text. Changes that take effect after the build day
-are on the `future` branch, never merged. Days before 1970 are clamped to 1970-01-01 in git (seconds apart, in order);
-`In-force:` carries the real day.
+- **[Ask Claude about Finnish law](https://global-law.lexifina.com/v1/try_claude?country=finland)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=finland)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=vuosiloma&jurisdictions=finland)**: a search of Finnish law for "vuosiloma", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-## What "author" means
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Finnish or in English.
 
-The author of a commit is the act that made the change (`817/2018`, address `sd-2018-817@finlex.invalid`), so `git blame`
-names the act. The committer is always `Lexifina`.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add finland/national/acts
+python3 tools/law.py show 2026-01-01 finland/national/acts/laki/2019/872/pykala-034.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+
+## Dates
+
+Each commit is dated at noon, Europe/Helsinki, on the day the version took effect, and carries it in its `In-force:` trailer:
+
+- for a rebuilt act, the in-force day Finlex gives for the original and for each amending act (its `amendedBy` list); where Finlex gives none, from the act's own commencement sentence when it names one fixed day, Finlex's editorial note, or, for an act brought into force by decree, that decree. A temporary amendment carries `Expires:`, and the day after it a second commit by the same act restores the earlier text;
+- for a current-text act, the day its newest wording took effect: the in-force day Finlex gives for the latest amending act it lists, or the act's own. The 38 for which Finlex gives no day are dated the day the text was retrieved, 2026-10-28; `In-force-basis:` says which rule gave the day;
+- git cannot store dates before 1970, so the 5 earlier commits (from 1932) are dated 1970-01-01, with the real day in `In-force:`.
+
+Each change is credited to the act that made it (`944/2024`, address `sd-2024-944@finlex.invalid`). A current-text act's one commit is credited to `Finlex (Oikeusministeriö)`, or to the act itself where Finlex lists no amending act for it. Changes due after the build day are on the `future` branch, never merged.
 
 ## How it is checked
 
-`tools/build.py scan` replays every act and stops each one unless its replayed end state equals the official
-consolidation for every section, after this normalisation: (1) a trailing amendment label such as " (4.11.2011/1112)" on a heading is dropped (Finlex adds it to the consolidation); (2) U+2015 and U+2014 (dashes) are read as U+2013; (3) the original's line-break hyphen in "valtio-neuvoston" (731/1999 131 §) is read as "valtioneuvoston", as the consolidation prints it; (4) the chapter line is not compared for sections the original prints outside any chapter (e.g. 130 § and 131 § of 731/1999, which the consolidation files under chapter 13); (5) Finlex's editorial notes in the consolidation (noteAuthorial) are not part of the text and are not compared, nor are the correction notes in some originals (authorialNote, "Merkitty kohta oikaistu ...", which give the wording before a published correction; the corrected wording is the text); (6) Finlex's repeal markers in the consolidation ("3 momentti on kumottu L:lla 29.8.2008/562.", "4 § on kumottu L:lla ...") are editorial notes, not text: the replay removes the provision itself (a repealed subsection keeps its place, so later subsections keep their numbers); (7) a heading's final full stop, which older originals print ("Lain soveltamisala.") and the consolidation drops, is not compared, and a chapter number printed bare in an older original ("1") is read as the consolidation prints it ("1 luku"); (8) spacing before the section sign ("3§" in older originals, "3 §" in the consolidation) and after it ("57 §: n", "57 §:n") is not compared; (9) a hyphen between two numbers ("3-5 §") is read as the en dash the consolidation prints ("3–5 §"); (10) Finlex's amendment labels inside a line ("oloista: (10.8.2018/678)") are dropped, as on headings; (11) a hyphen inside a word, with or without a space after it, is not compared: line-break hyphenation left in one source ("rautatieyrityk-sellä", "toimeksi- antosopimus", "ar-vioidusta"); (12) how a section's lines are divided into subsections is not compared (some texts print two momentti as one subsection with two paragraphs, or one momentti as two); the lines themselves and their order are. Only acts that pass are committed.
-`tools/check_repo.py` then reads every act's versions back from git and compares the last with the consolidation and the
-first with the original statute; `tools/check_words.py` compares the letters and digits of every act's last version
-with the consolidation's raw XML text, read by a separate minimal extractor; `tools/test_repo.py` checks that the
-commands above work. See [`REPRODUCE.md`](REPRODUCE.md).
-- check_repo.py: 1757 acts, 19996 files at the tip of future: final versions equal the consolidations (796 never-amended acts have no consolidation text to compare), first versions equal the original statutes, commit days follow amendedBy; 3928 commits, 0 merges, 0 backwards dates, 0 CRs; 0 problems
-- check_words.py: 1757 acts, 2167 amending commits, 2678226 source words checked (796 never-amended acts whose consolidation has no text: first version only; 1 commits by new laws repealing part of an act: removals only); 10 problems
-- test_repo.py: 7/7 passed
-
-## Files
-
-`<folder>/pykala-NNN.md` is one section (pykälä); the `#` line is its number and heading, then `Osa:` its part, `Luku:`
-its chapter and `Väliotsikko:` the cross heading printed before it, when it has them; each subsection (momentti) is a
-paragraph block, each line one paragraph or point. Acts that number sections per chapter use
-`luku-NN-pykala-NNN.md`. `johdanto.md` is the title and enacting words. A repealed section is removed. A folder is the
-act's one-word name (`vaalilaki`) or `sd-<year>-<number>`; the Constitution keeps `perustuslaki`.
+- `tools/build.py scan` commits an act only if its rebuilt end state equals Finlex's current consolidation in every section, after the normalisation [`REPRODUCE.md`](REPRODUCE.md) declares; acts that fail are left out.
+- `tools/check_repo.py` reads every act back from git: its last version must equal the consolidation and its first the original statute. `tools/check_words.py` compares the letters and digits of every last version with the consolidation's XML, through a separate extractor.
+- For a current-text act, every word of the consolidation must be in its files, in order, and nothing else, read back from git (`tools/current_text.py`).
+- `tools/test_repo.py` checks that blame, the dated tool and commands like those above work. The results are in [`REPRODUCE.md`](REPRODUCE.md).
 
 ## What it does not show
 
-- Versions Finlex does not publish: only the current consolidation exists; the rest is replayed.
-- Acts left out (4482), by reason:
+- **Official earlier versions.** Finlex publishes only each act's current consolidation: the earlier versions of the rebuilt acts are replayed from the amending acts and not checked against an official text, and the 542 current-text acts have no earlier versions here.
+- **3,941 acts in force**: 3,231 have no text in Finlex's open data, 389 are amending acts listed as in force, and the rest could not be rebuilt and verified (see [`LEFT-OUT.csv`](LEFT-OUT.csv)).
+- **Decrees (asetukset), acts no longer in force, case law and bills.**
+- **Fixed commit hashes.** A rebuild that adds acts may re-date the history, so hashes and tags may change.
 
-| Reason | Acts |
-| --- | --- |
-| no text in the open data (neither the original nor the consolidation) | 3231 |
-| an amending act listed as in force (its changes belong to the act it amends) | 389 |
-| an enacting clause or body the replay grammar does not cover | 339 |
-| no in-force day for the original (in force by decree on a day the data does not give) | 116 |
-| end state differs from the consolidation by a misprint (at most 3 characters): a source discrepancy | 80 |
-| an amending act has no in-force day (older amendments, often with no text in the open data) | 79 |
-| end state differs from the consolidation in structure (sections or lines on one side only) | 70 |
-| the consolidation has no text, so an amended act cannot be verified | 64 |
-| the original statute has no text in the open data | 49 |
-| end state differs from the consolidation in wording (same structure) | 34 |
-| temporary amendments the replay does not resolve | 30 |
-| an amending act is not in the open data | 1 |
+## Sources
 
-- Vaalilaki (714/1998) is left out: 247/2002: 9 §: body has 2 subsections, clause names momentti [1, 3, 4].
-- Amendments Finlex does not list in `amendedBy`: the end-state check would fail if one were missing.
-- Decrees (asetukset) and acts no longer in force.
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Finlex](https://www.finlex.fi) open data (Oikeusministeriö), Akoma Ntoso | Official database: original statutes of the Suomen säädöskokoelma and current consolidations | no, the current consolidation only | Only the Statute Book (Suomen säädöskokoelma) is authoritative; Finlex's consolidations are for information |
+
+Finlex's API behaviour was learned from [LawVM](https://github.com/eliask/lawvm) and [legalize-dev](https://github.com/legalize-dev); no code was copied.
 
 ## Licence
 
-Finlex open data, CC BY 4.0: see [`LICENSE`](LICENSE) for the exact words and attribution. Tools, history and tables: CC0.
+See [`LICENSE`](LICENSE). Finlex open data is licensed under CC BY 4.0, with Finlex's conditions on personal data; the rebuilt earlier versions are derived from it and are not published by Finlex. The history, commit messages, tables and tools are CC0 1.0.
 
-## Source
-
-Finlex open data interface (Oikeusministeriö), https://opendata.finlex.fi, Akoma Ntoso. API quirks were learned from
-LawVM (https://github.com/eliask/lawvm, MIT) and legalize-dev (https://github.com/legalize-dev); no code was copied.
+No model wrote legal text or ran at build time; the code was written with Claude, an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 

@@ -1,119 +1,88 @@
-# Suomen lainsäädäntö muutos muutokselta
+# Suomi: lainsäädännön historia gitissä
 
-**Suomi** · [English](README.en.md)
+**Suomi** · **[Or read it in English](README.en.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/fi/effort-dark.svg">
 <img alt="Suomen säädökset tässä repositoriossa: sisältö, muutokset voimaantulovuoden mukaan, kattavuus virallisiin lähteisiin verrattuna ja sisällön oikeellisuus" src="data/fi/effort-light.svg" width="880">
 </picture>
 
+Suomen lainsäädäntö git-historiana: yksi tiedosto pykälää kohden, yksi commit kutakin versiota kohden sen voimaantulopäivänä, ja kunkin commitin tekijänä (author) muutoksen tehnyt säädös. `git blame` nimeää jokaisen rivin taustalla olevan säädöksen; `git log` luettelee pykälän jokaisen muutoksen; valitsemalla päivän saa tekstin, joka oli voimassa sinä päivänä.
+
 Osa [lexifina/global-law](https://github.com/lexifina/global-law)-kokonaisuutta, joka on yksi git-historia jokaisen maan oikeudelle: tämä on Suomen kansallinen lainsäädäntö, jonka global-law lukee polusta `finland/national/acts/`.
 
-1 757 voimassa olevaa Suomen lakia git-repositoriona: perustuslaki (Suomen perustuslaki, 731/1999) ja jokainen muu
-Finlexin ajantasaistama laki, jonka historian toisto pystyy muodostamaan. Jokainen muutossäädös on yksi commit, joka
-merkitään kyseisen säädöksen nimiin ja päivätään sen voimaantulopäivälle kello 12 Helsingin aikaa. Teksti on suomenkielinen.
+**Mitä siinä on nyt:** perustuslaki ja 2 290 muuta voimassa olevaa lakia niistä 6 239 laista, jotka Finlex ajantasaistaa, yhteensä 4 436 versiota: 1 749 lakia on muodostettu alkuperäisestä säädöksestä soveltamalla kukin muutossäädös vuorollaan, ja lopputila on tarkistettu Finlexin nykyistä ajantasaista versiota vasten; 542 lakia on täällä vain tuona ajantasaisena versiona ([`CURRENT-TEXT.md`](CURRENT-TEXT.md)). [`acts.csv`](acts.csv) luettelee jokaisen täällä olevan lain kansioineen, [`amendments.csv`](amendments.csv) jokaisen muutossäädöksen päivämäärineen ja [`LEFT-OUT.csv`](LEFT-OUT.csv) ne 3 941 voimassa olevaa lakia, jotka on jätetty pois, kunkin syyn kera.
 
-**Tämä aineisto on osittainen.** Siinä on ne 1 757 lakia, joiden toisto täsmää, 6 239 voimassa olevasta laista;
-myöhemmät uudelleenkoostamiset lisäävät lakeja ja päivittävät historian päivämäärät, joten commit-tunnisteet (hashit)
-ja tagit voivat muuttua.
+Kukin laki on kansiossa `laki/<vuosi>/<numero>/`, yksi tiedosto pykälää kohden (`pykala-NNN.md` tai `luku-NN-pykala-NNN.md`, jos pykälät numeroidaan luvuittain): `laki/2019/872/` on työaikalaki (872/2019), ja perustuslaki, Suomen perustuslaki 731/1999, on [`laki/1999/731/`](laki/1999/731/). Ennen 10.11.2026 kukin kansio oli nimetty lain tunnisteen mukaan (`tyoaikalaki`, `perustuslaki`, `sd-<vuosi>-<numero>`), ja sitä aiempi historia ja `tools/finlex.py` käyttävät yhä tätä nimeä; [`data/paths.json`](data/paths.json) yhdistää kunkin tunnisteen sen kansioon.
 
-**Välivaiheen versiot on muodostettu toistamalla. Vain kunkin lain lopputila tarkistetaan virallista ajantasaista versiota vasten.**
-Finlex tarjoaa säädöksestä vain NYKYISEN ajantasaisen version. Tämän repositorion välivaiheen versiot on siksi TOISTETTU: alkuperäinen säädös otetaan Suomen säädöskokoelmasta, ja kukin muutossäädös sovelletaan voimaantulojärjestyksessä niin kuin säädöksen oma johtolause määrää (kokonaiset pykälät, otsikot, väliotsikot, momentit, johdantokappaleet, kohdat ja luvut; muuttaminen, lisääminen ja kumoaminen; määräaikaiset muutokset päättyvät viimeistä voimassaolopäivää seuraavana päivänä). Vain kunkin lain lopputila tarkistetaan virallista ajantasaista versiota vasten; aiempia versioita ei ole vahvistettu erikseen. Menetelmä on sama kuin US Code -repositoriossa: toisto ja sen jälkeen tuloksen vertaaminen viralliseen tekstiin.
-
-| | |
-| --- | --- |
-| Voimassa olevat lait, jotka Finlex ajantasaistaa | 6 239 |
-| Lakeja täällä | 1 757 (535 muutettua, lopputila tarkistettu ajantasaista versiota vasten; 1 222 koskaan muuttamatonta, joista 796:n ajantasaisessa versiossa ei ole tekstiä, joten alkuperäistä ei verrata siihen) |
-| Pois jätetyt lait | 4 482 ([`LEFT-OUT.csv`](LEFT-OUT.csv)) |
-| Muutoscommitit `main`-haarassa | 2 145 (joista 4 on määräaikaisten muutosten päättymisiä) |
-| Commitit `future`-haarassa, jota ei koskaan yhdistetä | 34 |
-| Ensimmäinen voimaantulopäivä | 1954-01-01 |
+Teksti on suomenkielinen, kuten Finlex sen julkaisee. Yhtä lailla virallinen ruotsinkielinen teksti ja käännökset eivät ole osa tätä aineistoa.
 
 ## Kysymykset git-komentoina
 
 | Kysymys | Komento |
 | --- | --- |
-| Mitä perustuslain 10 § sanoi 1.1.2015? | `python tools/finlex.py 2015-01-01 perustuslaki 10` |
-| Koko perustuslaki sellaisena kuin se oli vuonna 2010 | `python tools/finlex.py 2010-01-01 perustuslaki` |
-| Mikä säädös kirjoitti 10 §:n kunkin rivin? | `git blame perustuslaki/pykala-010.md` |
-| Jokainen 10 §:n muutos säädöksineen ja päivineen | `git log --follow perustuslaki/pykala-010.md` |
-| Kaikki, mitä yksi säädös muutti | `git show --stat perustuslaki/2011-1112` |
-| Missä kansiossa laki on | [`acts.csv`](acts.csv) (säädösnumero, kansio, nimike) |
-| Muutossäädökset kaikkine päivämäärineen | [`amendments.csv`](amendments.csv) |
-| Kaikki, mikä tuli voimaan 1.1.2020 | `git log --grep="^In-force: 2020-01-01" --format="%an %s"` |
-| Jokaisen lain historia, yksi tagi kutakin lakia ja muutosta kohden | `git tag --list "perustuslaki/*"` |
+| Työaikalain 34 §:n jokainen muutos | `git log -p --word-diff --follow -- laki/2019/872/pykala-034.md` |
+| Mikä säädös kirjoitti 34 §:n kunkin rivin? | `git blame laki/2019/872/pykala-034.md` |
+| Työaikalain jokainen versio ja kunkin voimaantulopäivä | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- laki/2019/872 tyoaikalaki` |
+| 34 § sellaisena kuin se oli voimassa 1.1.2022 | `python tools/finlex.py 2022-01-01 tyoaikalaki 34` |
 
-## Päivämäärät ja mitä niistä käytetään
+**Gitin ulkopuolella** julkaisemme tämän aineiston myös avoimesti ja maksutta:
 
-Suomen lailla on antamispäivä (`Enacted:`, allekirjoituspäivä), päivä, jona se julkaistiin Suomen säädöskokoelmassa
-(`Published:`), ja voimaantulopäivä (`In-force:`). **Commitit päivätään sille päivälle, jona muutos tuli voimaan**,
-kello 12 Helsingin aikaa (EET, kesäaikana vuodesta 1981 EEST). Jokaisella tämän repositorion muutossäädöksellä on yksi
-voimaantulopäivä, joka luetaan Finlexin `amendedBy`-luettelosta; vaiheittain voimaan tulevat säädökset on jätetty pois.
-Määräaikaisessa muutoksessa on `Expires:`; sitä seuraavana päivänä saman säädöksen toinen commit palauttaa aiemman
-tekstin. Muutokset, jotka tulevat voimaan koostamispäivän jälkeen, ovat `future`-haarassa, jota ei koskaan yhdistetä.
-Vuotta 1970 edeltävät päivät asetetaan gitissä päivälle 1970-01-01 (sekuntien välein, järjestyksessä); `In-force:`
-sisältää todellisen päivän.
+- **[Kysy Claudelta Suomen lainsäädännöstä](https://global-law.lexifina.com/v1/try_claude?country=finland)**: avaa Clauden, ja ensimmäinen kysymys on valmiina.
+- **[Kysy ChatGPT:ltä](https://global-law.lexifina.com/v1/try_chatgpt?country=finland)**: sama kysymys ChatGPT:ssä.
+- **[Kutsu API:a selaimessa](https://global-law.lexifina.com/v1/search_law?query=vuosiloma&jurisdictions=finland)**: haku Suomen lainsäädännöstä sanalla ”vuosiloma”, vastaus JSON-muodossa. Dokumentaatio on [täällä](https://lexifina.com/api/global-law).
 
-## Mitä ”tekijä” (author) tarkoittaa
+Molemmat avustajat lukevat aineistoa maksuttoman Global law -liittimen kautta (MCP, `https://global-law.lexifina.com/mcp`); ensimmäisellä kerralla keskustelu antaa linkin, jolla liitin lisätään. Kysy suomeksi tai englanniksi.
 
-Commitin tekijä (author) on muutoksen tehnyt säädös (`817/2018`, osoite `sd-2018-817@finlex.invalid`), joten `git blame`
-nimeää säädöksen. Commitin tallentaja (committer) on aina `Lexifina`.
+**Aja se helposti itse.** Tarvitset vain gitin ja Pythonin, ja työkalut toimivat omalla koneellasi:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add finland/national/acts
+python3 tools/law.py show 2026-01-01 finland/national/acts/laki/2019/872/pykala-034.md
+```
+
+Kun klooni avataan Claude Codessa, Cursorissa, VS Codessa tai Codexissa, se käynnistää myös paikallisen MCP-palvelimen, jossa on samat työkalut ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+
+## Päivämäärät
+
+Jokainen commit päivätään kello 12 Helsingin aikaa (Europe/Helsinki) sille päivälle, jona versio tuli voimaan, ja päivä on myös sen `In-force:`-trailerissa:
+
+- muodostetussa laissa voimaantulopäivä, jonka Finlex antaa alkuperäiselle säädökselle ja kullekin muutossäädökselle (sen `amendedBy`-luettelo); jos Finlex ei anna päivää, se otetaan säädöksen omasta voimaantulosäännöksestä, kun se nimeää yhden kiinteän päivän, Finlexin toimituksellisesta huomautuksesta tai asetuksella voimaan saatetun lain osalta tuosta asetuksesta. Määräaikaisessa muutoksessa on `Expires:`, ja sitä seuraavana päivänä saman säädöksen toinen commit palauttaa aiemman tekstin;
+- vain ajantasaisena versiona olevassa laissa päivä, jona sen uusin sanamuoto tuli voimaan: voimaantulopäivä, jonka Finlex antaa viimeisimmälle luettelemalleen muutossäädökselle, tai lain oma voimaantulopäivä. Ne 38 lakia, joille Finlex ei anna päivää, on päivätty tekstin hakupäivälle 2026-10-28; `In-force-basis:` kertoo, mikä sääntö päivän antoi;
+- git ei pysty tallentamaan vuotta 1970 edeltäviä päiviä, joten 5 aiempaa commitia (vuodesta 1932 alkaen) on päivätty 1970-01-01, ja todellinen päivä on `In-force:`-trailerissa.
+
+Kukin muutos merkitään sen tehneen säädöksen nimiin (`944/2024`, osoite `sd-2024-944@finlex.invalid`). Vain ajantasaisena versiona olevan lain ainoa commit merkitään tekijälle `Finlex (Oikeusministeriö)` tai itse laille, jos Finlex ei luettele sille muutossäädöksiä. Koostamispäivän jälkeen voimaan tulevat muutokset ovat `future`-haarassa, jota ei koskaan yhdistetä.
 
 ## Miten se tarkistetaan
 
-`tools/build.py scan` toistaa jokaisen lain ja pysäyttää sen, ellei toistettu lopputila vastaa virallista ajantasaista versiota jokaisen pykälän osalta seuraavan normalisoinnin jälkeen: (1) otsikon lopussa oleva muutosmerkintä, kuten ” (4.11.2011/1112)”, poistetaan (Finlex lisää sen ajantasaiseen versioon); (2) U+2015 ja U+2014 (viivat) luetaan merkiksi U+2013; (3) alkuperäisen tekstin rivinvaihtotavuviiva sanassa ”valtio-neuvoston” (731/1999 131 §) luetaan muodossa ”valtioneuvoston”, kuten ajantasainen versio sen painaa; (4) lukuriviä ei verrata pykälissä, jotka alkuperäinen teksti painaa minkään luvun ulkopuolelle (esim. 731/1999:n 130 § ja 131 §, jotka ajantasainen versio sijoittaa 13 lukuun); (5) Finlexin toimitukselliset huomautukset ajantasaisessa versiossa (noteAuthorial) eivät ole osa tekstiä eikä niitä verrata, eikä myöskään joidenkin alkuperäisten tekstien oikaisuhuomautuksia (authorialNote, ”Merkitty kohta oikaistu ...”, jotka antavat sanamuodon ennen julkaistua oikaisua; oikaistu sanamuoto on teksti); (6) Finlexin kumoamismerkinnät ajantasaisessa versiossa (”3 momentti on kumottu L:lla 29.8.2008/562.”, ”4 § on kumottu L:lla ...”) ovat toimituksellisia huomautuksia eivätkä tekstiä: toisto poistaa itse säännöksen (kumottu momentti säilyttää paikkansa, joten myöhemmät momentit säilyttävät numeronsa); (7) otsikon loppupistettä, jonka vanhemmat alkuperäiset tekstit painavat (”Lain soveltamisala.”) ja ajantasainen versio jättää pois, ei verrata, ja vanhemmassa alkuperäisessä tekstissä pelkkänä painettu luvun numero (”1”) luetaan niin kuin ajantasainen versio sen painaa (”1 luku”); (8) välilyöntejä pykälämerkin edessä (”3§” vanhemmissa alkuperäisissä teksteissä, ”3 §” ajantasaisessa versiossa) ja sen jälkeen (”57 §: n”, ”57 §:n”) ei verrata; (9) kahden luvun välinen yhdysmerkki (”3-5 §”) luetaan ajatusviivaksi, jonka ajantasainen versio painaa (”3–5 §”); (10) Finlexin rivin sisäiset muutosmerkinnät (”oloista: (10.8.2018/678)”) poistetaan, kuten otsikoissa; (11) sanan sisäistä tavuviivaa, jonka perässä on tai ei ole välilyöntiä, ei verrata: toiseen lähteeseen jäänyt rivinvaihtotavutus (”rautatieyrityk-sellä”, ”toimeksi- antosopimus”, ”ar-vioidusta”); (12) sitä, miten pykälän rivit jakautuvat momentteihin, ei verrata (jotkin tekstit painavat kaksi momenttia yhtenä momenttina, jossa on kaksi kappaletta, tai yhden momentin kahtena); itse rivit ja niiden järjestys verrataan. Vain tarkistuksen läpäisseet lait tallennetaan commiteiksi.
-`tools/check_repo.py` lukee sen jälkeen jokaisen lain versiot takaisin gitistä ja vertaa viimeistä ajantasaiseen
-versioon ja ensimmäistä alkuperäiseen säädökseen; `tools/check_words.py` vertaa jokaisen lain viimeisen version
-kirjaimia ja numeroita ajantasaisen version raakaan XML-tekstiin, jonka lukee erillinen minimaalinen poimija;
-`tools/test_repo.py` tarkistaa, että yllä olevat komennot toimivat. Katso [`REPRODUCE.md`](REPRODUCE.md).
-- check_repo.py: 1 757 lakia, 19 996 tiedostoa future-haaran kärjessä: lopulliset versiot vastaavat ajantasaisia versioita (796 koskaan muuttamattomalla lailla ei ole vertailtavaa ajantasaista tekstiä), ensimmäiset versiot vastaavat alkuperäisiä säädöksiä, commitien päivät noudattavat amendedBy-luetteloa; 3 928 commitia, 0 yhdistämistä (merge), 0 taaksepäin menevää päivämäärää, 0 CR-merkkiä; 0 ongelmaa
-- check_words.py: 1 757 lakia, 2 167 muutoscommitia, 2 678 226 lähdesanaa tarkistettu (796 koskaan muuttamatonta lakia, joiden ajantasaisessa versiossa ei ole tekstiä: vain ensimmäinen versio; 1 commit uusista laeista, jotka kumoavat osan laista: vain poistot); 10 ongelmaa
-- test_repo.py: 7/7 hyväksytty
-
-## Tiedostot
-
-`<folder>/pykala-NNN.md` on yksi pykälä; `#`-rivi on sen numero ja otsikko, sitten `Osa:` sen osa, `Luku:` sen luku ja
-`Väliotsikko:` sen edellä painettu väliotsikko, jos niitä on; kukin momentti on kappalelohko, jokainen rivi yksi
-kappale tai kohta. Lait, joissa pykälät numeroidaan luvuittain, käyttävät nimeä `luku-NN-pykala-NNN.md`. `johdanto.md`
-on nimike ja johtolause. Kumottu pykälä poistetaan. Kansio on lain yksisanainen nimi (`vaalilaki`) tai
-`sd-<year>-<number>`; perustuslaki säilyttää nimen `perustuslaki`.
+- `tools/build.py scan` tallentaa lain vain, jos sen muodostettu lopputila vastaa Finlexin nykyistä ajantasaista versiota jokaisen pykälän osalta [`REPRODUCE.md`](REPRODUCE.md):n ilmoittaman normalisoinnin jälkeen; tarkistuksessa hylätyt lait jätetään pois.
+- `tools/check_repo.py` lukee jokaisen lain takaisin gitistä: viimeisen version on vastattava ajantasaista versiota ja ensimmäisen alkuperäistä säädöstä. `tools/check_words.py` vertaa jokaisen viimeisen version kirjaimia ja numeroita ajantasaisen version XML:ään erillisen poimijan avulla.
+- Vain ajantasaisena versiona olevan lain tiedostoissa on oltava jokainen ajantasaisen version sana samassa järjestyksessä eikä mitään muuta; tämä luetaan takaisin gitistä (`tools/current_text.py`).
+- `tools/test_repo.py` tarkistaa, että blame, päivämäärätyökalu ja yllä olevien kaltaiset komennot toimivat. Tulokset ovat [`REPRODUCE.md`](REPRODUCE.md):ssä.
 
 ## Mitä se ei näytä
 
-- Versiot, joita Finlex ei julkaise: vain nykyinen ajantasainen versio on olemassa; loput on toistettu.
-- Pois jätetyt lait (4 482) syittäin:
+- **Virallisia aiempia versioita.** Finlex julkaisee kustakin laista vain nykyisen ajantasaisen version: muodostettujen lakien aiemmat versiot on toistettu muutossäädöksistä eikä niitä ole tarkistettu virallista tekstiä vasten, eikä 542:lla vain ajantasaisena versiona olevalla lailla ole täällä aiempia versioita.
+- **3 941 voimassa olevaa lakia**: 3 231:llä ei ole tekstiä Finlexin avoimessa datassa, 389 on voimassa olevaksi merkittyjä muutossäädöksiä, eikä loppuja voitu muodostaa ja tarkistaa (katso [`LEFT-OUT.csv`](LEFT-OUT.csv)).
+- **Asetuksia, lakeja, jotka eivät enää ole voimassa, oikeuskäytäntöä eikä lakiesityksiä.**
+- **Pysyviä commit-tunnisteita.** Uudelleenkoostaminen, joka lisää lakeja, voi päivätä historian uudelleen, joten hashit ja tagit voivat muuttua.
 
-| Syy | Lakeja |
-| --- | --- |
-| avoimessa datassa ei ole tekstiä (ei alkuperäistä eikä ajantasaista versiota) | 3 231 |
-| voimassa olevaksi merkitty muutossäädös (sen muutokset kuuluvat sen muuttamaan lakiin) | 389 |
-| johtolause tai säädösteksti, jota toiston kielioppi ei kata | 339 |
-| alkuperäiselle ei ole voimaantulopäivää (tullut voimaan asetuksella säädettävänä päivänä, jota data ei kerro) | 116 |
-| lopputila poikkeaa ajantasaisesta versiosta painovirheen verran (enintään 3 merkkiä): lähteiden välinen ristiriita | 80 |
-| muutossäädökselle ei ole voimaantulopäivää (vanhemmat muutokset, usein ilman tekstiä avoimessa datassa) | 79 |
-| lopputila poikkeaa ajantasaisesta versiosta rakenteeltaan (pykäliä tai rivejä vain toisella puolella) | 70 |
-| ajantasaisessa versiossa ei ole tekstiä, joten muutettua lakia ei voida tarkistaa | 64 |
-| alkuperäisellä säädöksellä ei ole tekstiä avoimessa datassa | 49 |
-| lopputila poikkeaa ajantasaisesta versiosta sanamuodoltaan (sama rakenne) | 34 |
-| määräaikaiset muutokset, joita toisto ei ratkaise | 30 |
-| muutossäädös puuttuu avoimesta datasta | 1 |
+## Lähteet
 
-- Vaalilaki (714/1998) on jätetty pois: 247/2002: 9 §: säädöstekstissä on 2 momenttia, johtolause nimeää momentit [1, 3, 4].
-- Muutokset, joita Finlex ei luettele `amendedBy`-luettelossa: lopputilan tarkistus epäonnistuisi, jos jokin puuttuisi.
-- Asetukset ja lait, jotka eivät enää ole voimassa.
+| Lähde | Laji | Aiemmat versiot | Huomautukset |
+| --- | --- | --- | --- |
+| [Finlex](https://www.finlex.fi), avoin data (oikeusministeriö), Akoma Ntoso | Virallinen tietokanta: Suomen säädöskokoelman alkuperäiset säädökset ja nykyiset ajantasaiset versiot | ei, vain nykyinen ajantasainen versio | Vain Suomen säädöskokoelma on virallinen; Finlexin ajantasaiset versiot ovat tiedoksi |
+
+Finlexin rajapinnan toiminta opittiin [LawVM](https://github.com/eliask/lawvm)- ja [legalize-dev](https://github.com/legalize-dev)-projekteista; koodia ei kopioitu.
 
 ## Lisenssi
 
-Finlexin avoin data, CC BY 4.0: tarkka sanamuoto ja lähdemaininta, katso [`LICENSE`](LICENSE). Työkalut, historia ja
-taulukot: CC0.
+Katso [`LICENSE`](LICENSE). Finlexin avoin data on lisensoitu CC BY 4.0 -lisenssillä Finlexin henkilötietojen suojaa koskevin ehdoin; muodostetut aiemmat versiot on johdettu siitä, eikä Finlex julkaise niitä. Historia, commit-viestit, taulukot ja työkalut ovat CC0 1.0 -lisenssin alaisia.
+
+Mikään malli ei kirjoittanut lakitekstiä eikä ollut käytössä koostamisen aikana; koodi kirjoitettiin tekoälymalli Clauden avulla (katso [`REPRODUCE.md`](REPRODUCE.md)).
 
 Tämä on käännös englanninkielisestä versiosta ([README.en.md](README.en.md)); jos ne eroavat, englanninkielinen versio on ratkaiseva.
-
-## Lähde
-
-Finlexin avoimen datan rajapinta (oikeusministeriö), https://opendata.finlex.fi, Akoma Ntoso. Rajapinnan
-erityispiirteet opittiin LawVM:stä (https://github.com/eliask/lawvm, MIT) ja legalize-dev-projektista
-(https://github.com/legalize-dev); koodia ei kopioitu.
 
 ## Lisää
 
