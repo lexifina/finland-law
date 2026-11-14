@@ -1,139 +1,139 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">Suomen oikeus git-historiana</text>
-<rect x="578.2" y="24.5" width="155" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="655.9" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">kirjattu 29.10.2026 asti</text>
-<rect x="741.6" y="24.5" width="114" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="798.8" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">tila: ajan tasalla</text>
-<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">2 299</text>
-<text x="40.0" y="106" font-size="12" fill="#9198a1">säädöstä</text>
-<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#3d444d"/>
-<text x="206.4" y="87" font-size="20" font-weight="600" fill="#f0f6fc">4 436</text>
-<text x="206.4" y="106" font-size="12" fill="#9198a1">muutosta, commiteina</text>
-<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#3d444d"/>
-<text x="372.8" y="87" font-size="20" font-weight="600" fill="#f0f6fc">44 984</text>
-<text x="372.8" y="106" font-size="12" fill="#9198a1">säännöstiedostoa</text>
-<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#3d444d"/>
-<text x="539.2" y="87" font-size="20" font-weight="600" fill="#f0f6fc">3 900</text>
-<text x="539.2" y="106" font-size="12" fill="#9198a1">tekijää: lait, julkaisijat</text>
-<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#3d444d"/>
-<text x="705.6" y="87" font-size="20" font-weight="600" fill="#f0f6fc">1932–2026</text>
-<text x="705.6" y="106" font-size="12" fill="#9198a1">vuoden historia</text>
-<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#f0f6fc">Muutokset voimaantulovuoden mukaan</text>
-<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#3d444d" stroke-width="1"/>
-<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#9198a1">0</text>
-<line x1="80.5" y1="293.0" x2="839.5" y2="293.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="297.0" font-size="11" text-anchor="end" fill="#9198a1">200</text>
-<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#9198a1">400</text>
-<line x1="80.5" y1="218.0" x2="839.5" y2="218.0" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="222.0" font-size="11" text-anchor="end" fill="#9198a1">600</text>
-<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#3d444d" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#9198a1">800</text>
-<rect x="81.10" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1932: voimaan tulleet muutokset: 1</title></rect>
-<text x="148.4" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1940</text>
-<text x="228.3" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1950</text>
-<rect x="256.87" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1954: voimaan tulleet muutokset: 1</title></rect>
-<text x="308.2" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1960</text>
-<rect x="368.72" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1968: voimaan tulleet muutokset: 2</title></rect>
-<rect x="376.71" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1969: voimaan tulleet muutokset: 1</title></rect>
-<text x="388.1" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1970</text>
-<rect x="392.69" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1971: voimaan tulleet muutokset: 1</title></rect>
-<rect x="408.67" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1973: voimaan tulleet muutokset: 1</title></rect>
-<rect x="416.66" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1974: voimaan tulleet muutokset: 2</title></rect>
-<rect x="424.65" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1975: voimaan tulleet muutokset: 1</title></rect>
-<rect x="432.64" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1976: voimaan tulleet muutokset: 1</title></rect>
-<rect x="448.62" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1978: voimaan tulleet muutokset: 1</title></rect>
-<rect x="456.61" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1979: voimaan tulleet muutokset: 1</title></rect>
-<rect x="464.59" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1980: voimaan tulleet muutokset: 2</title></rect>
-<text x="468.0" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1980</text>
-<rect x="472.58" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1981: voimaan tulleet muutokset: 2</title></rect>
-<rect x="488.56" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1983: voimaan tulleet muutokset: 2</title></rect>
-<rect x="504.54" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1985: voimaan tulleet muutokset: 1</title></rect>
-<rect x="512.53" y="329.0" width="6.79" height="1.5" rx="1.5" fill="#2ea043"><title>1986: voimaan tulleet muutokset: 2</title></rect>
-<rect x="520.52" y="326.4" width="6.79" height="4.1" rx="1.5" fill="#2ea043"><title>1987: voimaan tulleet muutokset: 22</title></rect>
-<rect x="528.51" y="325.6" width="6.79" height="4.9" rx="1.5" fill="#2ea043"><title>1988: voimaan tulleet muutokset: 26</title></rect>
-<rect x="536.50" y="323.2" width="6.79" height="7.3" rx="1.5" fill="#2ea043"><title>1989: voimaan tulleet muutokset: 39</title></rect>
-<rect x="544.49" y="325.6" width="6.79" height="4.9" rx="1.5" fill="#2ea043"><title>1990: voimaan tulleet muutokset: 26</title></rect>
-<text x="547.9" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">1990</text>
-<rect x="552.48" y="320.9" width="6.79" height="9.6" rx="1.5" fill="#2ea043"><title>1991: voimaan tulleet muutokset: 51</title></rect>
-<rect x="560.47" y="323.0" width="6.79" height="7.5" rx="1.5" fill="#2ea043"><title>1992: voimaan tulleet muutokset: 40</title></rect>
-<rect x="568.46" y="319.2" width="6.79" height="11.2" rx="1.5" fill="#2ea043"><title>1993: voimaan tulleet muutokset: 60</title></rect>
-<rect x="576.45" y="318.3" width="6.79" height="12.2" rx="1.5" fill="#2ea043"><title>1994: voimaan tulleet muutokset: 65</title></rect>
-<rect x="584.44" y="320.4" width="6.79" height="10.1" rx="1.5" fill="#2ea043"><title>1995: voimaan tulleet muutokset: 54</title></rect>
-<rect x="592.43" y="320.6" width="6.79" height="9.9" rx="1.5" fill="#2ea043"><title>1996: voimaan tulleet muutokset: 53</title></rect>
-<rect x="600.42" y="323.2" width="6.79" height="7.3" rx="1.5" fill="#2ea043"><title>1997: voimaan tulleet muutokset: 39</title></rect>
-<rect x="608.41" y="323.9" width="6.79" height="6.6" rx="1.5" fill="#2ea043"><title>1998: voimaan tulleet muutokset: 35</title></rect>
-<rect x="616.39" y="320.2" width="6.79" height="10.3" rx="1.5" fill="#2ea043"><title>1999: voimaan tulleet muutokset: 55</title></rect>
-<rect x="624.38" y="320.9" width="6.79" height="9.6" rx="1.5" fill="#2ea043"><title>2000: voimaan tulleet muutokset: 51</title></rect>
-<text x="627.8" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2000</text>
-<rect x="632.37" y="324.5" width="6.79" height="6.0" rx="1.5" fill="#2ea043"><title>2001: voimaan tulleet muutokset: 32</title></rect>
-<rect x="640.36" y="318.3" width="6.79" height="12.2" rx="1.5" fill="#2ea043"><title>2002: voimaan tulleet muutokset: 65</title></rect>
-<rect x="648.35" y="322.8" width="6.79" height="7.7" rx="1.5" fill="#2ea043"><title>2003: voimaan tulleet muutokset: 41</title></rect>
-<rect x="656.34" y="314.0" width="6.79" height="16.5" rx="1.5" fill="#2ea043"><title>2004: voimaan tulleet muutokset: 88</title></rect>
-<rect x="664.33" y="317.8" width="6.79" height="12.8" rx="1.5" fill="#2ea043"><title>2005: voimaan tulleet muutokset: 68</title></rect>
-<rect x="672.32" y="318.9" width="6.79" height="11.6" rx="1.5" fill="#2ea043"><title>2006: voimaan tulleet muutokset: 62</title></rect>
-<rect x="680.31" y="313.2" width="6.79" height="17.2" rx="1.5" fill="#2ea043"><title>2007: voimaan tulleet muutokset: 92</title></rect>
-<rect x="688.30" y="312.7" width="6.79" height="17.8" rx="1.5" fill="#2ea043"><title>2008: voimaan tulleet muutokset: 95</title></rect>
-<rect x="696.29" y="317.8" width="6.79" height="12.8" rx="1.5" fill="#2ea043"><title>2009: voimaan tulleet muutokset: 68</title></rect>
-<rect x="704.28" y="299.4" width="6.79" height="31.1" rx="1.5" fill="#2ea043"><title>2010: voimaan tulleet muutokset: 166</title></rect>
-<text x="707.7" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2010</text>
-<rect x="712.27" y="307.6" width="6.79" height="22.9" rx="1.5" fill="#2ea043"><title>2011: voimaan tulleet muutokset: 122</title></rect>
-<rect x="720.26" y="316.4" width="6.79" height="14.1" rx="1.5" fill="#2ea043"><title>2012: voimaan tulleet muutokset: 75</title></rect>
-<rect x="728.25" y="314.9" width="6.79" height="15.6" rx="1.5" fill="#2ea043"><title>2013: voimaan tulleet muutokset: 83</title></rect>
-<rect x="736.24" y="306.3" width="6.79" height="24.2" rx="1.5" fill="#2ea043"><title>2014: voimaan tulleet muutokset: 129</title></rect>
-<rect x="744.23" y="302.4" width="6.79" height="28.1" rx="1.5" fill="#2ea043"><title>2015: voimaan tulleet muutokset: 150</title></rect>
-<rect x="752.22" y="291.7" width="6.79" height="38.8" rx="1.5" fill="#2ea043"><title>2016: voimaan tulleet muutokset: 207</title></rect>
-<rect x="760.21" y="295.8" width="6.79" height="34.7" rx="1.5" fill="#2ea043"><title>2017: voimaan tulleet muutokset: 185</title></rect>
-<rect x="768.19" y="307.8" width="6.79" height="22.7" rx="1.5" fill="#2ea043"><title>2018: voimaan tulleet muutokset: 121</title></rect>
-<rect x="776.18" y="293.6" width="6.79" height="36.9" rx="1.5" fill="#2ea043"><title>2019: voimaan tulleet muutokset: 197</title></rect>
-<rect x="784.17" y="289.8" width="6.79" height="40.7" rx="1.5" fill="#2ea043"><title>2020: voimaan tulleet muutokset: 217</title></rect>
-<text x="787.6" y="346.5" font-size="11" text-anchor="middle" fill="#9198a1">2020</text>
-<rect x="792.16" y="302.6" width="6.79" height="27.9" rx="1.5" fill="#2ea043"><title>2021: voimaan tulleet muutokset: 149</title></rect>
-<rect x="800.15" y="300.9" width="6.79" height="29.6" rx="1.5" fill="#2ea043"><title>2022: voimaan tulleet muutokset: 158</title></rect>
-<rect x="808.14" y="285.7" width="6.79" height="44.8" rx="1.5" fill="#2ea043"><title>2023: voimaan tulleet muutokset: 239</title></rect>
-<rect x="816.13" y="305.9" width="6.79" height="24.6" rx="1.5" fill="#2ea043"><title>2024: voimaan tulleet muutokset: 131</title></rect>
-<rect x="824.12" y="287.0" width="6.79" height="43.5" rx="1.5" fill="#2ea043"><title>2025: voimaan tulleet muutokset: 232</title></rect>
-<rect x="832.11" y="213.1" width="6.79" height="117.4" rx="1.5" fill="#2ea043"><title>2026: voimaan tulleet muutokset: 626</title></rect>
-<text x="835.5" y="207.1" font-size="11" font-weight="600" text-anchor="middle" fill="#f0f6fc">626 vuonna 2026</text>
-<text x="40.5" y="368.5" font-size="11.5" fill="#9198a1">Voimaantulopäivän mukaan päivätyt muutokset: 4 436.</text>
-<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#f0f6fc">Kattavuus virallisiin lähteisiin verrattuna, 12.11.2026</text>
-<text x="40.5" y="446.5" font-size="13" fill="#f0f6fc">Perustuslaki</text>
-<text x="40.5" y="462.5" font-size="11.5" fill="#9198a1">repositoriossa</text>
-<g><title>Perustuslaki: 100 %</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="40.5" y="482.5" font-size="13" fill="#f0f6fc">Keskeiset lait</text>
-<text x="40.5" y="498.5" font-size="11.5" fill="#9198a1">osuus keskeisistä laeista</text>
-<g><title>Keskeiset lait: 57 %</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="479.5" width="52.2" height="8" rx="4" fill="#d29922"/></g>
-<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">57 %</text>
-<text x="40.5" y="518.5" font-size="13" fill="#f0f6fc">Valtakunnallinen lainsäädäntö</text>
-<text x="40.5" y="534.5" font-size="11.5" fill="#9198a1">osuus virallisesta kokonaismäärästä</text>
-<g><title>Valtakunnallinen lainsäädäntö: 37 %</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="515.5" width="33.9" height="8" rx="4" fill="#d29922"/></g>
-<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">37 %</text>
-<text x="456.0" y="446.5" font-size="13" fill="#f0f6fc">Alueellinen lainsäädäntö</text>
-<text x="456.0" y="462.5" font-size="11.5" fill="#9198a1">ei lainsäädäntövaltaisia alueita</text>
-<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#9198a1">ei sovellu</text>
-<text x="456.0" y="482.5" font-size="13" fill="#f0f6fc">Oikeuskäytäntö</text>
-<text x="456.0" y="498.5" font-size="11.5" fill="#9198a1">mukana olevat ylimmät tuomioistuimet</text>
-<g><title>Oikeuskäytäntö: 99 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="692.0" y="479.5" width="90.6" height="8" rx="4" fill="#2ea043"/></g>
-<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">99 %</text>
-<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#0d1117" stroke="#3d444d"/>
-<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#f0f6fc">Sisällön oikeellisuus</text>
-<text x="40.5" y="612.5" font-size="13" fill="#f0f6fc">Muutokset voimaantulopäivineen</text>
-<text x="40.5" y="628.5" font-size="11.5" fill="#9198a1">osuus muutoksista</text>
-<g><title>Muutokset voimaantulopäivineen: 100 %</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="40.5" y="648.5" font-size="13" fill="#f0f6fc">Muutokset virallisine lähteineen</text>
-<text x="40.5" y="664.5" font-size="11.5" fill="#9198a1">Source-rivi tai linkki commitissa</text>
-<g><title>Muutokset virallisine lähteineen: 100 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#262c36"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#2ea043"/></g>
-<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">100 %</text>
-<text x="456.0" y="612.5" font-size="13" fill="#f0f6fc">Maan aineistot (global-law)</text>
-<text x="456.0" y="628.5" font-size="11.5" fill="#9198a1">kansalliset säädökset: 1, oikeuskäytäntö: 7</text>
-<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">8</text>
-<text x="456.0" y="648.5" font-size="13" fill="#f0f6fc">Verrattu viralliseen lähteeseen</text>
-<text x="456.0" y="664.5" font-size="11.5" fill="#9198a1">repositorion ilmoittama päivä</text>
-<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#f0f6fc">6.11.2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="803" viewBox="0 0 880 803" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<style>@font-face{font-family:'Manrope';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:'JetBrains Mono';font-weight:100 900;src:url(data:font/woff2;base64,d09GMgABAAAAABKYABQAAAAAIpgAABIrAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIByCaj9IVkFSKgZgP1NUQVSBYicmAIEUL2oRCAqQRI1NMJgAATYCJAOBAAtCAAQgBY5WByAMBxuBHyMRNpu0UiKiYvOl6K8SzCkWl1M9jFEYC7FddAuHRpyjDhdLz2xZ+K0+n/PvtHLTqQ87GaniIEZIMgv9Y93T17lJHjxyDwR9awljJar753HT3qdMyIfOrO2oGapJgFBRKtAgXhNqE+t2OhU/88qJ+8/rNN8nwRdSzAfMewHndsywSZbdrns32mDKAflCLLOEKlx2ohK//8tgC8/r5hfqX+VUp7u33z7w03/zqF4LYgUaNEQgiM+nU1f9oFK0ivJ2gXtVihrGrKNkX/Asm4OsosJSy1vHvEzQqcNGW6dTUSnKJZgQpq1vr///p/KzaACDxYIVuZSxb7vpZXLOtxYka4G1BLWJBZVCDNniwJz6jzkrXpZLLKVjlonIYtrF0l83GwEFxvcyDOEQgSwyPWWO+iSBho0oqYaxeIAEwMy1zVDBWRi/bnFPO8STIFtLF7f2fOwBN3uVNFmqU+9nenzKL/wsUMRowKNtiAhSXIcKwMAW/8Gh+1/ALPNWge80WBpY79T6wPCZGcTjOP4bBSqkoKCAh4HfWIP13QjQeRmOeLM+OIwtfYgTMtzbYYG1pdYHYdC5AIe4aTmkxJcPwd2h3SBIxbhQlbcYcMzLRSNyT4qAlda4CKozZomDeGWhRMC9vc3RWgLYGTYLYGxLC1qATOQhgyw1eggcIHDMA/A4UVTN/Rv/ByrrDBOOWgt724r09GSwJnj6ZnB2rmzsQRD/p1EOjXPqXhnoKBPSZznXcCt9JhLLwAyXMKzPeH439Q/0OrWDghbAYZPXedChJ2m9Qb9Bh82q9aTsYTCo/KE37SKIrRbh+MynLJt2mSpAKe+efpzHeX3621d8c9MPPwJUmNS1E+mbSSABGBevDrGVwuVQV33G864FItIRoSUoqkmrDt367I2cBBgrJWgv6/0/J/8mfyVfesdeV7vC5S5zsYvs+8iDGLNcOJ6DqM4YcmmRIVLQeY7PREiA1c/IgOe7snIB7Xpz8mRVeYV4cHsLSoVpVEWlebIqNRYkKEPe/ZtBgOaAHQa3GGAAQLP7ivmYa2LZqsw1Y5b1c0rGIAQBQcWr4ZkEMW7qxPj8iYIg4uNZQn7qVD5vVoK4+FPiudx4In7mqlk+jAZGMMb5OrF8MIEYWYZcMQRGIGLaksHaFSMIEctfhUOvBZ8ZaQ4NHHYOASosGcL7ymw8OOhGA8Nv7wJoGOE4Agk4GATk2KaHu+QWxoBH9YWsgWPzuFMtBXbMfDoox9iMP4Y0ryfhbS9hxyto4Laq9r6ZAPsnE9uvE8Tym7DkmrLma9ehQSIMozjMUcVH1u4xiH24bte5GTsuzHZjj1RFXLmVxUnmcC6/jQbuFM90C5bcxAiPqkZOzMWAkfONEUWF3Ii1kYxUVwuAMYHlYgQ3gZx8JIBqlAKuOyhAfNSAI4ARdnS8Fu96qShZ/mIC4c7xq0PCR+jx4xmbOXI3dk05IcNKyepGcipu4QOBBOAp2uV03jjlr8cnP6T1A6NzXaDOVsuv2g+6px4dfHzuoeUSl1vg/KAXJCcztBOoNL1WqC5gaOupKk24zQbcghtLIPMehzJI6CqJ5QApi1/yJkB6q+VEX/of2Rl2lZSGnTXH1fKnNVIqi2bHMt1VTn9bsHqeq2nc9waPTcWQlWZZ2dF8aa7oU2jLowJyhc+8mVR4Z23U1qSXDNYqiz/SalT8GmHHWnsqMul0irSZjJSNShwFNY4HS487uIPXHNAvsadn2sTfXXNMMqfUCs84wJPBNk1Ko0oZW1Uw6oqxjfrvVRrSQvogdwztl1qEWk8b1kbXNF5qA6XwuahyPUWR68mhW6+jqwZ/E8wco3GkjCtmPVRejlKXlvrlcCGuEJQVMEXeCl9Gub9wN1v3f3aG/LOMlMWHC7FLUFFcUBKoDUEOz9/VGfSxPpPZqtaQVlMTJtjdCT9cSffM7dqbICET1vZ1uUsx5PIsIYUyQJG00m+dFmswaPw0SSkDbrrEUFBiJI0Foanq0X8/CyXMglndF09AwDqeNj61IXJw3vwn9jvA43n/25VyX56RtunIAruZRZQmEJFb6IBM7qVM1Nyi0gvXSh0g5NEhhdJ77TZarUaTxa5TNF/EYipmL57Jcixj79/Ekd6ugMKs8oYVsH1v0SrhyVDWnawfz7MHIZtX1+XmlbJF/6vNpi8Zu4kvlrn1HsvdsMSRzfk54Zq4SGl2Qag9bA92dUIej2nUaZsYdVLTh5czIi8Xy3KpxGyDUy2OMsyxs17HlJOl1XOjt8jVDeEa9/HJreztZ1z/DvjmS4qUTj3FeEvSAqKLYku25AuV6ktJlsiyLJBfnmb30XV9jZFyI2NS5ubbDvpF5Rn2OrNGWunONZvVUIfGbHc5so5PXZZnzVExZrihQda7jqu32bWNDTqbxg2N9iX53hKFzeVlvJCe+VJGxkuZ6S/AKy9elJFFjF7fF0ktrFnI1Cs0florZquVsSbDazMnzEw6kxI//IsnzoTy5IqrFRD/01tFTI9wzcV2M9VqWptqslI0ZaH0AvSH5casheq+LyGkUCkAp59IrkxMciQnO5ISKwGX0wIukKJhGWjJlP//2Vlf4/bef+8FLbsBV40yNS5B0bepAB8xHVhbx4tfTX7XeXb+d26Ukqr44r5z9vbDH2bNeKhhzveBmY5yJ8/zo5pq1iuaWmxzbIO94hKnc0+419yO/8Wf8i+EOGQHRaBC6SRyJbwabhB3OWQUmAIxIdDy47QcyyMK8UUKKkL/0JKqwy3Rn7pxkniy6UdguKpr8kxRqnERAUYrlJFB1UV1oxpjUZVgMEiEJm5aUhdGIcLKRvGWhH4gRgQThMLNdKfz32oxaLfXGdHi+MPM2nl70T6T8p4ky1P//39jTbqyFGCXHfeHvKcWr7yvgA5iuusanaF5jqVYLxDTvc01t1UJjeJQ53nGGsG2RdwNschVtUgM0WdT2YA9bjVcNt8nsIPGr0w0UYlkJ5Lqep3sIXSukY9qgbR60ABmrC/yQjRX4VywqnM7OI4+5lwEOgoXh31GhVwhMNjMfj8FlvcxqJI6xCjC+tSUm3wFD5aewBLQXZzVGb32N7gG9miiOakXZZ8Tcd2PcsjEMKNlip8czSi2lqKZ6gfsEEfk9PlQp24Y12SnduLvz53Pz18l0WPDaZzy82x7LYxtG6dbSOcqh2ItCHbJNt/Iu6htrthBR9wO73lfvDu1a/lgo57ESG/VdL7XDsh7KOdXiGWqgFdfpMdkPQGcmfE08FyINWvIGMuEOFDqiIZrbkMcZxhnwOctRfRSt2ybYlfE+hDloFkswvNj/toCpPVYyCCZVDsS7L6JZmB0Jo28UbY/WRqZH41KyCciKV9dqEkj54fNcIRUu5Brws/BPwNnDqVCyBKKqG4uQMJ4PGBuYSg5I7cScUrnGgQXzpj4lvs5aVuAs2N7S7lBQOeHhq1bEq5EKbWOChxOdtMo3xTzuwHwzCRe/p6d6nRSp2tIWoC1JfeGD/eOJu/cOKaHNkSGKa+nldl9T9mO7Ciqd/DzNXJIkjih055UHwSBjQQhx1w1TF1GdxuzCeHh401QuGeBuzEXotlJFT/zylSuKzB5qw0OAAvtei49zOrozFpuIjLzDI31TDhoXJZZDSND+0LSEPmGAKDWvc1uXnbonXULdoWZZqypzd5Sw3nEcJc2lXa7fTz45pFR1+cMj1nje/mr7NOIyprVkymac1LNW0V1oioqIpUB4yqDWeGoYYa6ShUFdYUZazsYDNKMHiacZGZa5u6qQsEZQFDzJM6mxRTfO9iihbgaTzLMR3mV2ddRiNYS6jM25GmE2VSC/EmGGK6GbOp//uxLFl4thnymHeZhE0AUbkzvjAXu2PaRdSYs3W0egCUQCr84qB67woU/vvThwlWJG7jhiCnVwiPua5TEcXa5gMqmljUo+TGgeaotZ4YQ3eusx287gWJPkOk+Wy6n8VpIPs1UjBvz2LE1H3Ngmiu2qd8zzW/O10eMg1T/yOQK43zCgrbtii16FeMRHg02kGDULRufFZBcoQxh2DSMkZCSmpkLZjCzZoKxEDnxmea3XuXgydFMeo7KdqwVop42xLKI45enfKGwJE2Fyjsn+xcBpVad+B/G0XaZdnYWYoG0v9L1//+rSvP5zpgMVakIRiFuBhE4dOQGa/jG7oB/6KpBBsobtF7P7kdRNPqb5Sn2vJcZPvH9/MEz+QW/NiaKsewVSI68k8P+F/8DY8h933ScdMwz9Bxmek8QDhDJaWW0J+2cPTl6szgjUmmHKkp6bbSprx81ddh8wz3jTqk3V4PLsNHsNBpJVNEreWaa9fqJSyRhbOf/M2SUZujzZ1VSoKpKzBh2DM+lxw5oVUGzEOrcGti2vk6340QImQAehOQwXAvWRZ6xbjYlnq0Gh3RD5NkLLpsOvUGxpKZpsmmMoOcCxqjC1oqhmGK3+nE1SHfQfcsNFqKAt9jVD1opHVhqlGRqntGyrBoFzlavVrrgyR60SM8f76M1ZAXLYUruNfaJCq2e9PWnr7sODHVXfffu40frH3ew6F4E0qtE5E5UR2t0VB0Ol6ObcpepNdAWqpVRxzUiwWTcEDlUCiewyLMrZSk4rzgggtWWx3VFVA1HORMSvHnjk9m2a6maiO4hIeYgGorlKfPcRzC9Otw4kNCut22VgJYQW2rVF1QNdt4TL/sT6Zo1Ax40SOe2nTQDzTy7QkVJUSgnewH6KR9PCwnlmDGJwrlzLZuNc3Cwn6W8q6rhTpbmyn45tJrncngebUVwi13fiykJ/XWIm9RakWlbKJrhhgkIwliD1dRRPE1TGRCm33DBzmzkdDrsEQeGw5ghjLjuia33CQ6cIJhYQWCZnaiJTd1QRKGC2TZddott6F8FMeLBlA+4J+ldsFtqqveqqXTSTFMuFt0C5AeFeTG44y4c8b4FV0kdnuFJul1HPn4pfaweBuuhwdGKJWNnfkx8bya4RtYwlZg6MJITa3WFPjcU1XK7ci0rJoKyktftj+hghETHjeX1UPUiracydhh5JKKH1UAzL6B8el2NYOVP/2tacSFPM3nITVdGDZn0dUGUeXPm7+R0NzvNb9KHpkNU/2gENfo9AKDs9eMoBAgCfKx6K/8Nh53bMAMY2FRUKHkfTQLr41f87LkqBJNAguRRmA5jhU93q6ahMuR2lDM0UhTmK6wsglvYJ60c4q7eY9MWDAbLlhgj5F11f6m5/suXFt38cg9e/aTUqn/HqUVL2YyUuYyqJOFkJYR/JIaKEkb9mWDPujDLjmOHiY8QH3ZGuXzYfsbOKJ8tgzs8zpQuv5mg9OQ1I0YHmZlTSBfTf/86ZkL82wEWUNO+Qfjr+78kJzPqN2dW3K8gwHr4/+9uuegfZ/g9Q9xXAO++cu0VAF82zDjrm+GG9srxgBQGzQQ/TNM261KOz14FxNiOzAXbg2pYgyTLs2mxALVVASgAY1VQLCuUV+CtxOO72fhVcTNKFxeAmR0PfA4HRdcWoWYUHYnTx3a7Iz22cYrPAg9Di4r63KRGibeoox+fU087pdBAXZXRFG3USNMs2Xqaoap+pVnG3Giap4tVNCzQoprYUlqihztYV4c09/Y+goKLqcj4HDWq+4nUkfMtuHeFAQ0UfCeaIuP70TRVvZVm6OBraZY+/hGao5O/TfN089/TAl1CCi3SIVTTEr3CUlqmEB58swpEeJahOnSaK6ZJg0Y9hMiQzLqEVB8gWnyRqB60mKAm7boJKdWhHVtIhZgpollU2J4pvVE06hAjIov3V49O3XSIEdOgiaA+y0JEhO1GG7FINWbLzs9WxQ5RW+7VKihGtihDihT9vTQ970i+bRPXi1RJreEymsw9oex/yKFpVwQJ6SGIiKg2O24hZE59stReFhGjjgqzV6HcpFW9zuxaSJleMUU6JrfLC4t1ULlHMKIHD4XQpCyqXcv1eF+i0T8JRTRLroTstBs5ZjoFRkDPIFQ5Evbod4yiJkFXE4ZF7TkqcqD0ahdBLCBmtn6rUqiEkHKd1ALzsISB8kpTRlKtN7O/UjafBPQ5o6ctDGk1bPsz20yRYFAqN9Uj0pUGR41hWCzo6AkIutkgunKeoYGYcowSq7oAR9j1JKZO0evedFY9im3m5Na+xJTbQGnYqelRG1qHVhELG2kuvc8XbE6u1tXcskV6xfXY2KYYlub9FkNVFWIUXolmZuaI5zjG6yUhAxCX9yvZ/dkAAAA=) format('woff2')}</style>
+<defs><linearGradient id="yg-dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3fbf7f"/><stop offset="1" stop-color="#3fbf7f" stop-opacity="0.35"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="879" height="802" rx="8" fill="#0c120f" stroke="#26332c"/>
+<rect x="696.4" y="27" width="155.6" height="24" rx="12" fill="#141c18"/>
+<text x="774.2" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#93a69b">kirjattu 29.10.2026 asti</text>
+<text x="28" y="44" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#e9f2ec">Suomen oikeus git-historiana</text>
+<rect x="28" y="70" width="824" height="72" rx="8" fill="#141c18"/>
+<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">2 299</text>
+<text x="44.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">säädöstä</text>
+<line x1="151.7" y1="86" x2="151.7" y2="126" stroke="#26332c"/>
+<text x="167.7" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">4 436</text>
+<text x="167.7" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">muutosta, commiteina</text>
+<line x1="322.2" y1="86" x2="322.2" y2="126" stroke="#26332c"/>
+<text x="338.2" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">44 984</text>
+<text x="338.2" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">säännöstiedostoa</text>
+<line x1="475.4" y1="86" x2="475.4" y2="126" stroke="#26332c"/>
+<text x="491.4" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">3 900</text>
+<text x="491.4" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">tekijää: lait, julkaisijat</text>
+<line x1="677.1" y1="86" x2="677.1" y2="126" stroke="#26332c"/>
+<text x="693.1" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#e9f2ec">1932–2026</text>
+<text x="693.1" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#93a69b">vuoden historia</text>
+<rect x="28" y="160" width="824" height="236" rx="8" fill="#141c18"/>
+<text x="46" y="188" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Muutokset voimaantulovuoden mukaan</text>
+<line x1="90" y1="346.0" x2="834" y2="346.0" stroke="#1f2a24"/>
+<text x="82" y="350.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">0</text>
+<line x1="90" y1="311.5" x2="834" y2="311.5" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="315.5" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">200</text>
+<line x1="90" y1="277.0" x2="834" y2="277.0" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="281.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">400</text>
+<line x1="90" y1="242.5" x2="834" y2="242.5" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="246.5" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">600</text>
+<line x1="90" y1="208.0" x2="834" y2="208.0" stroke="#1f2a24" stroke-dasharray="3 3"/>
+<text x="82" y="212.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">800</text>
+<rect x="90.40" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1932: voimaan tulleet muutokset: 1</title></rect>
+<text x="156.6" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1940</text>
+<text x="234.9" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1950</text>
+<rect x="262.69" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1954: voimaan tulleet muutokset: 1</title></rect>
+<text x="313.2" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1960</text>
+<rect x="372.34" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1968: voimaan tulleet muutokset: 2</title></rect>
+<rect x="380.17" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1969: voimaan tulleet muutokset: 1</title></rect>
+<text x="391.5" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1970</text>
+<rect x="395.83" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1971: voimaan tulleet muutokset: 1</title></rect>
+<rect x="411.49" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1973: voimaan tulleet muutokset: 1</title></rect>
+<rect x="419.33" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1974: voimaan tulleet muutokset: 2</title></rect>
+<rect x="427.16" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1975: voimaan tulleet muutokset: 1</title></rect>
+<rect x="434.99" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1976: voimaan tulleet muutokset: 1</title></rect>
+<rect x="450.65" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1978: voimaan tulleet muutokset: 1</title></rect>
+<rect x="458.48" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1979: voimaan tulleet muutokset: 1</title></rect>
+<rect x="466.32" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1980: voimaan tulleet muutokset: 2</title></rect>
+<text x="469.8" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1980</text>
+<rect x="474.15" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1981: voimaan tulleet muutokset: 2</title></rect>
+<rect x="489.81" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1983: voimaan tulleet muutokset: 2</title></rect>
+<rect x="505.47" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1985: voimaan tulleet muutokset: 1</title></rect>
+<rect x="513.31" y="344.5" width="7.03" height="1.5" rx="1.5" fill="url(#yg-dark)"><title>1986: voimaan tulleet muutokset: 2</title></rect>
+<rect x="521.14" y="342.2" width="7.03" height="3.8" rx="1.5" fill="url(#yg-dark)"><title>1987: voimaan tulleet muutokset: 22</title></rect>
+<rect x="528.97" y="341.5" width="7.03" height="4.5" rx="1.5" fill="url(#yg-dark)"><title>1988: voimaan tulleet muutokset: 26</title></rect>
+<rect x="536.80" y="339.3" width="7.03" height="6.7" rx="1.5" fill="url(#yg-dark)"><title>1989: voimaan tulleet muutokset: 39</title></rect>
+<rect x="544.63" y="341.5" width="7.03" height="4.5" rx="1.5" fill="url(#yg-dark)"><title>1990: voimaan tulleet muutokset: 26</title></rect>
+<text x="548.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">1990</text>
+<rect x="552.46" y="337.2" width="7.03" height="8.8" rx="1.5" fill="url(#yg-dark)"><title>1991: voimaan tulleet muutokset: 51</title></rect>
+<rect x="560.29" y="339.1" width="7.03" height="6.9" rx="1.5" fill="url(#yg-dark)"><title>1992: voimaan tulleet muutokset: 40</title></rect>
+<rect x="568.13" y="335.6" width="7.03" height="10.3" rx="1.5" fill="url(#yg-dark)"><title>1993: voimaan tulleet muutokset: 60</title></rect>
+<rect x="575.96" y="334.8" width="7.03" height="11.2" rx="1.5" fill="url(#yg-dark)"><title>1994: voimaan tulleet muutokset: 65</title></rect>
+<rect x="583.79" y="336.7" width="7.03" height="9.3" rx="1.5" fill="url(#yg-dark)"><title>1995: voimaan tulleet muutokset: 54</title></rect>
+<rect x="591.62" y="336.9" width="7.03" height="9.1" rx="1.5" fill="url(#yg-dark)"><title>1996: voimaan tulleet muutokset: 53</title></rect>
+<rect x="599.45" y="339.3" width="7.03" height="6.7" rx="1.5" fill="url(#yg-dark)"><title>1997: voimaan tulleet muutokset: 39</title></rect>
+<rect x="607.28" y="340.0" width="7.03" height="6.0" rx="1.5" fill="url(#yg-dark)"><title>1998: voimaan tulleet muutokset: 35</title></rect>
+<rect x="615.12" y="336.5" width="7.03" height="9.5" rx="1.5" fill="url(#yg-dark)"><title>1999: voimaan tulleet muutokset: 55</title></rect>
+<rect x="622.95" y="337.2" width="7.03" height="8.8" rx="1.5" fill="url(#yg-dark)"><title>2000: voimaan tulleet muutokset: 51</title></rect>
+<text x="626.5" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2000</text>
+<rect x="630.78" y="340.5" width="7.03" height="5.5" rx="1.5" fill="url(#yg-dark)"><title>2001: voimaan tulleet muutokset: 32</title></rect>
+<rect x="638.61" y="334.8" width="7.03" height="11.2" rx="1.5" fill="url(#yg-dark)"><title>2002: voimaan tulleet muutokset: 65</title></rect>
+<rect x="646.44" y="338.9" width="7.03" height="7.1" rx="1.5" fill="url(#yg-dark)"><title>2003: voimaan tulleet muutokset: 41</title></rect>
+<rect x="654.27" y="330.8" width="7.03" height="15.2" rx="1.5" fill="url(#yg-dark)"><title>2004: voimaan tulleet muutokset: 88</title></rect>
+<rect x="662.11" y="334.3" width="7.03" height="11.7" rx="1.5" fill="url(#yg-dark)"><title>2005: voimaan tulleet muutokset: 68</title></rect>
+<rect x="669.94" y="335.3" width="7.03" height="10.7" rx="1.5" fill="url(#yg-dark)"><title>2006: voimaan tulleet muutokset: 62</title></rect>
+<rect x="677.77" y="330.1" width="7.03" height="15.9" rx="1.5" fill="url(#yg-dark)"><title>2007: voimaan tulleet muutokset: 92</title></rect>
+<rect x="685.60" y="329.6" width="7.03" height="16.4" rx="1.5" fill="url(#yg-dark)"><title>2008: voimaan tulleet muutokset: 95</title></rect>
+<rect x="693.43" y="334.3" width="7.03" height="11.7" rx="1.5" fill="url(#yg-dark)"><title>2009: voimaan tulleet muutokset: 68</title></rect>
+<rect x="701.26" y="317.4" width="7.03" height="28.6" rx="1.5" fill="url(#yg-dark)"><title>2010: voimaan tulleet muutokset: 166</title></rect>
+<text x="704.8" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2010</text>
+<rect x="709.09" y="325.0" width="7.03" height="21.0" rx="1.5" fill="url(#yg-dark)"><title>2011: voimaan tulleet muutokset: 122</title></rect>
+<rect x="716.93" y="333.1" width="7.03" height="12.9" rx="1.5" fill="url(#yg-dark)"><title>2012: voimaan tulleet muutokset: 75</title></rect>
+<rect x="724.76" y="331.7" width="7.03" height="14.3" rx="1.5" fill="url(#yg-dark)"><title>2013: voimaan tulleet muutokset: 83</title></rect>
+<rect x="732.59" y="323.7" width="7.03" height="22.3" rx="1.5" fill="url(#yg-dark)"><title>2014: voimaan tulleet muutokset: 129</title></rect>
+<rect x="740.42" y="320.1" width="7.03" height="25.9" rx="1.5" fill="url(#yg-dark)"><title>2015: voimaan tulleet muutokset: 150</title></rect>
+<rect x="748.25" y="310.3" width="7.03" height="35.7" rx="1.5" fill="url(#yg-dark)"><title>2016: voimaan tulleet muutokset: 207</title></rect>
+<rect x="756.08" y="314.1" width="7.03" height="31.9" rx="1.5" fill="url(#yg-dark)"><title>2017: voimaan tulleet muutokset: 185</title></rect>
+<rect x="763.92" y="325.1" width="7.03" height="20.9" rx="1.5" fill="url(#yg-dark)"><title>2018: voimaan tulleet muutokset: 121</title></rect>
+<rect x="771.75" y="312.0" width="7.03" height="34.0" rx="1.5" fill="url(#yg-dark)"><title>2019: voimaan tulleet muutokset: 197</title></rect>
+<rect x="779.58" y="308.6" width="7.03" height="37.4" rx="1.5" fill="url(#yg-dark)"><title>2020: voimaan tulleet muutokset: 217</title></rect>
+<text x="783.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#93a69b">2020</text>
+<rect x="787.41" y="320.3" width="7.03" height="25.7" rx="1.5" fill="url(#yg-dark)"><title>2021: voimaan tulleet muutokset: 149</title></rect>
+<rect x="795.24" y="318.7" width="7.03" height="27.3" rx="1.5" fill="url(#yg-dark)"><title>2022: voimaan tulleet muutokset: 158</title></rect>
+<rect x="803.07" y="304.8" width="7.03" height="41.2" rx="1.5" fill="url(#yg-dark)"><title>2023: voimaan tulleet muutokset: 239</title></rect>
+<rect x="810.91" y="323.4" width="7.03" height="22.6" rx="1.5" fill="url(#yg-dark)"><title>2024: voimaan tulleet muutokset: 131</title></rect>
+<rect x="818.74" y="306.0" width="7.03" height="40.0" rx="1.5" fill="url(#yg-dark)"><title>2025: voimaan tulleet muutokset: 232</title></rect>
+<rect x="826.57" y="238.0" width="7.03" height="108.0" rx="1.5" fill="url(#yg-dark)"><title>2026: voimaan tulleet muutokset: 626</title></rect>
+<text x="830.1" y="230.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#e9f2ec">626 vuonna 2026</text>
+<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">Voimaantulopäivän mukaan päivätyt muutokset: 4 436.</text>
+<rect x="28" y="412" width="824" height="197" rx="8" fill="#141c18"/>
+<text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Kattavuus virallisiin lähteisiin verrattuna, 12.11.2026</text>
+<text x="46.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Perustuslaki</text>
+<text x="46.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">repositoriossa</text>
+<g><title>Perustuslaki: 100 %</title><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<text x="460.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Alueellinen lainsäädäntö</text>
+<text x="460.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">ei lainsäädäntövaltaisia alueita</text>
+<text x="834.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">ei sovellu</text>
+<text x="46.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Keskeiset lait</text>
+<text x="46.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">osuus keskeisistä laeista</text>
+<g><title>Keskeiset lait: 57 %</title><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="509.0" width="35.3" height="4" rx="2" fill="#e3a33b"/></g>
+<text x="420.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">57 %</text>
+<text x="460.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Oikeuskäytäntö</text>
+<text x="460.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">mukana olevat ylimmät tuomioistuimet</text>
+<g><title>Oikeuskäytäntö: 99 %</title><rect x="708.0" y="509.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="708.0" y="509.0" width="61.4" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="834.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">99 %</text>
+<text x="46.0" y="560" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Valtakunnallinen lainsäädäntö</text>
+<text x="46.0" y="581" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">osuus virallisesta kokonaismäärästä</text>
+<g><title>Valtakunnallinen lainsäädäntö: 37 %</title><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="554.0" width="22.9" height="4" rx="2" fill="#e3a33b"/></g>
+<text x="420.0" y="560" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">37 %</text>
+<rect x="28" y="625" width="824" height="152" rx="8" fill="#141c18"/>
+<text x="46" y="653" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e9f2ec">Sisällön oikeellisuus</text>
+<text x="46.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Muutokset voimaantulopäivineen</text>
+<text x="46.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">osuus muutoksista</text>
+<g><title>Muutokset voimaantulopäivineen: 100 %</title><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<text x="460.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Maan aineistot (global-law)</text>
+<text x="460.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">kansalliset säädökset: 1, oikeuskäytäntö: 7</text>
+<text x="834.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">8</text>
+<text x="46.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Muutokset virallisine lähteineen</text>
+<text x="46.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">Source-rivi tai linkki commitissa</text>
+<g><title>Muutokset virallisine lähteineen: 100 %</title><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#1f2b25"/><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#3fbf7f"/></g>
+<text x="420.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">100 %</text>
+<text x="460.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#e9f2ec">Verrattu viralliseen lähteeseen</text>
+<text x="460.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#93a69b">repositorion ilmoittama päivä</text>
+<text x="834.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#e9f2ec">6.11.2026</text>
 </svg>
