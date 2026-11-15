@@ -30,7 +30,8 @@ Teksti on suomenkielinen, kuten Finlex sen julkaisee. Yhtä lailla virallinen ru
 
 - **[Kysy Claudelta Suomen lainsäädännöstä](https://global-law.lexifina.com/v1/try_claude?country=finland)**: avaa Clauden, ja ensimmäinen kysymys on valmiina.
 - **[Kysy ChatGPT:ltä](https://global-law.lexifina.com/v1/try_chatgpt?country=finland)**: sama kysymys ChatGPT:ssä.
-- **[Kutsu API:a selaimessa](https://global-law.lexifina.com/v1/search_law?query=vuosiloma&jurisdictions=finland)**: haku Suomen lainsäädännöstä sanalla ”vuosiloma”, vastaus JSON-muodossa. Dokumentaatio on [täällä](https://lexifina.com/api/global-law).
+- **[Hae Suomen lainsäädännöstä sivustollamme](https://lexifina.com/law?country=finland&q=vuosiloma)**: haku sanalla ”vuosiloma”, jokaisen säännöksen teksti ja sen versiot, ilman tiliä.
+- **[REST-rajapinta kehittäjille](https://global-law.lexifina.com/v1/search_law?query=vuosiloma&jurisdiction=finland)**: sama haku JSON-muodossa, ilman avainta. Dokumentaatio on [täällä](https://lexifina.com/api/global-law).
 
 Molemmat avustajat lukevat aineistoa maksuttoman Global law -liittimen kautta (MCP, `https://global-law.lexifina.com/mcp`); ensimmäisellä kerralla keskustelu antaa linkin, jolla liitin lisätään. Kysy suomeksi tai englanniksi.
 
