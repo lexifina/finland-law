@@ -61,6 +61,7 @@ Kukin muutos merkitään sen tehneen säädöksen nimiin (`944/2024`, osoite `sd
 - `tools/check_repo.py` lukee jokaisen lain takaisin gitistä: viimeisen version on vastattava ajantasaista versiota ja ensimmäisen alkuperäistä säädöstä. `tools/check_words.py` vertaa jokaisen viimeisen version kirjaimia ja numeroita ajantasaisen version XML:ään erillisen poimijan avulla.
 - Vain ajantasaisena versiona olevan lain tiedostoissa on oltava jokainen ajantasaisen version sana samassa järjestyksessä eikä mitään muuta; tämä luetaan takaisin gitistä (`tools/current_text.py`).
 - `tools/test_repo.py` tarkistaa, että blame, päivämäärätyökalu ja yllä olevien kaltaiset komennot toimivat. Tulokset ovat [`REPRODUCE.md`](REPRODUCE.md):ssä.
+- [vulnerabilities/](vulnerabilities/): mahdollisia muotoiluvirheitä tässä oikeudessa, global-lawn tunnistimien löytämiä ja käsin tarkistettuja. Ei vielä ajettu.
 
 ## Mitä se ei näytä
 
@@ -84,6 +85,10 @@ Katso [`LICENSE`](LICENSE). Finlexin avoin data on lisensoitu CC BY 4.0 -lisenss
 Mikään malli ei kirjoittanut lakitekstiä eikä ollut käytössä koostamisen aikana; koodi kirjoitettiin tekoälymalli Clauden avulla (katso [`REPRODUCE.md`](REPRODUCE.md)).
 
 Tämä on käännös englanninkielisestä versiosta ([README.en.md](README.en.md)); jos ne eroavat, englanninkielinen versio on ratkaiseva.
+
+## Visualisoinnit
+
+- [visualisations/](visualisations/): tästä repositoriosta piirretyt kaaviot. Ei vielä piirretty.
 
 ## Lisää
 

@@ -61,6 +61,7 @@ Each change is credited to the act that made it (`944/2024`, address `sd-2024-94
 - `tools/check_repo.py` reads every act back from git: its last version must equal the consolidation and its first the original statute. `tools/check_words.py` compares the letters and digits of every last version with the consolidation's XML, through a separate extractor.
 - For a current-text act, every word of the consolidation must be in its files, in order, and nothing else, read back from git (`tools/current_text.py`).
 - `tools/test_repo.py` checks that blame, the dated tool and commands like those above work. The results are in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -82,6 +83,10 @@ Finlex's API behaviour was learned from [LawVM](https://github.com/eliask/lawvm)
 See [`LICENSE`](LICENSE). Finlex open data is licensed under CC BY 4.0, with Finlex's conditions on personal data; the rebuilt earlier versions are derived from it and are not published by Finlex. The history, commit messages, tables and tools are CC0 1.0.
 
 No model wrote legal text or ran at build time; the code was written with Claude, an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 
