@@ -1,0 +1,3 @@
+# 4 § Oikeus tarjota neuvontapalveluja
+
+Elinkeinonharjoittaja saa tarjota kuluttajansuojalain 7 luvun soveltamisalaan kuuluvia kuluttajaluottoja koskevia neuvontapalveluja vain, jos se on rekisteröity tämän lain mukaisesti luotonvälittäjäksi, jos se on tämän lain 3 §:n 2 momentissa tarkoitettu taho tai jos se tarjoaa mainittuja palveluja satunnaisesti muun toimilupaa, rekisteröintiä tai ennakollista hyväksyntää edellyttävän ammattitoiminnan yhteydessä. Luotonantajan ja vertaislainanvälittäjän oikeudesta tarjota tällaisia kuluttajaluottoja koskevia neuvontapalveluja säädetään eräiden luotonantajien ja luotonvälittäjien rekisteröinnistä annetussa laissa (186/2023).

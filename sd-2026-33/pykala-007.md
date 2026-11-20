@@ -1,0 +1,7 @@
+# 7 § Luotettavuus
+
+Ilmoituksen tekijää ei pidetä 6 §:n 1 momentin 3 kohdassa edellytetyllä tavalla luotettavana, jos hänet on lainvoiman saaneella tuomiolla viiden arviota edeltäneen vuoden aikana tuomittu vankeusrangaistukseen tai kolmen arviota edeltäneen vuoden aikana sakkorangaistukseen rikoksesta, jonka voidaan katsoa osoittavan hänen olevan ilmeisen sopimaton välittämään kuluttajansuojalain 7 luvun soveltamisalaan kuuluvia kuluttajaluottoja tai toimimaan tällaista toimintaa harjoittavan yhteisön toimitusjohtajana tai hänen sijaisenaan, hallituksen jäsenenä tai varajäsenenä, hallitukseen rinnastettavan toimielimen jäsenenä tai varajäsenenä, vastuunalaisena yhtiömiehenä taikka muussa ylimmässä johdossa, taikka jos hän on muutoin aikaisemmalla toiminnallaan osoittanut olevansa ilmeisen sopimaton toimimaan mainitunlaisessa tehtävässä.
+
+Jos ilmoituksen tekijä on oikeushenkilö, vaatimus luotettavuudesta koskee toimitusjohtajaa ja hänen sijaistaan, hallituksen jäsentä ja varajäsentä, hallitukseen rinnastettavan toimielimen jäsentä ja varajäsentä, vastuunalaista yhtiömiestä sekä muuta ylimpään johtoon kuuluvaa.
+
+Finanssivalvonnalla on oikeus saada sakon täytäntöönpanosta annetun lain (672/2002) 46 §:ssä tarkoitetusta sakkorekisteristä tiedot, jotka ovat tarpeen 1 momentissa tarkoitetun henkilön luotettavuuden selvittämiseksi. Finanssivalvonnan oikeudesta saada tietoja rikosrekisteristä säädetään rikosrekisterilaissa (770/1993).
