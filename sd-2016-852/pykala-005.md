@@ -10,3 +10,5 @@ Sen, joka aikoo välittää asunto-omaisuuteen liittyviä kuluttajaluottoja, on 
 5) selvitys siitä, että ilmoituksen tekijällä on 8 §:ssä tarkoitettu vastuuvakuutus tai muu vakuus.
 
 Ilmoituksen tekijän on Finanssivalvonnan pyynnöstä toimitettava muutkin tiedot, jotka ovat tarpeen rekisteröinnin edellytysten täyttymisen arvioimiseksi.
+
+Finanssivalvonta voi antaa tarkempia määräyksiä tässä pykälässä säädetyn ilmoitusvelvollisuuden täyttämisestä.
