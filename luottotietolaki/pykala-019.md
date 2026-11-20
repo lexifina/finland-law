@@ -21,4 +21,4 @@ Luonnollisella henkilöllä on oikeus saada tieto siitä, kenelle häntä koskev
 
 Sen, joka hankkii luottotietorekisteristä henkilöluottotietoja käytettäviksi luottoa myönnettäessä tai 2 momentin 4–6 kohdassa säädettyyn tarkoitukseen, on huolehdittava siitä, että luonnollinen henkilö voi saada ennakolta tiedon henkilöluottotietojensa käytöstä ja siitä, mistä luottotietorekisteristä tiedot hankitaan.
 
-Luottotietorekisteristä henkilöluottotietoja hankkineen, joka hylkää luottohakemuksen 12 §:n 1 momentissa tai 13 §:ssä tarkoitettujen tietojen perusteella, on välittömästi päätöksen jälkeen ilmoitettava luonnolliselle henkilölle tällaisesta luottotiedon käytöstä ja siitä, mistä luottotietorekisteristä tiedot ovat peräisin.
+Luottotietorekisteristä henkilöluottotietoja hankkineen, joka hylkää luottohakemuksen 12 §:n 1 momentissa tai 13 §:ssä tarkoitettujen tietojen perusteella, on välittömästi päätöksen jälkeen ilmoitettava luonnolliselle henkilölle tällaisesta luottotiedon käytöstä, huomioon otetuista tietoryhmistä ja siitä, mistä luottotietorekisteristä tiedot ovat peräisin.

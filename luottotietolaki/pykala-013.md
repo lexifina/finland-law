@@ -18,4 +18,4 @@ Luottotietotoiminnan harjoittajan on, jos se yleisesti saatavilla olevien tai lu
 
 Edellä 1 momentissa tarkoitettuja tietoja talletettaessa tai muutoin käsiteltäessä luottotietotoiminnan harjoittajan on huolehdittava siitä, että tieto käsittelystä kirjautuu tietojärjestelmään.
 
-Luonnolliselle henkilölle, jota koskeva 1 momentissa tarkoitettu tieto on ensimmäistä kertaa merkitty luottotietorekisteriin, on annettava tieto saatavan suorittamisen vaikutuksesta tiedon säilytysaikaan.
+Luonnolliselle henkilölle, jota koskeva 1 momentissa tarkoitettu tieto on ensimmäistä kertaa merkitty luottotietorekisteriin, on annettava tieto saatavan suorittamisen vaikutuksesta tiedon säilytysaikaan. Jos kyse on 1 momentin 5 kohdassa tarkoitetusta tiedosta, on lisäksi jokaisesta merkinnästä annettava tieto 30 päivän kuluessa tiedon merkitsemisestä luottotietorekisteriin.
